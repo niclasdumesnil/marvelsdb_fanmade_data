@@ -44,6 +44,12 @@
             ],
             "offset": "-35px -33px"
         },
+        "deck_options": [
+			{
+				"limit": 5,
+				"ressource" : "resource_energy"
+  			}
+		],
         "traits": "New. X-Men."
     },
     {
