@@ -1,7 +1,7 @@
 [
   {
-    "pack_code": "snowbird_by_hax",
-    "set_code": "snowbird_by_hax",
+    "pack_code": "alpha_flight_by_hax",
+    "set_code": "alpha_flight_by_hax",
     "type_code": "obligation",
     "faction_code": "encounter",
     "position": 15,
@@ -15,8 +15,8 @@
     "octgn_id": "68071830-cf71-4497-a47d-19c19f016015"
   },
   {
-    "pack_code": "snowbird_by_hax",
-    "set_code": "snowbird_by_hax_nemesis",
+    "pack_code": "alpha_flight_by_hax",
+    "set_code": "alpha_flight_by_hax_nemesis",
     "type_code": "minion",
     "faction_code": "encounter",
     "position": 16,
@@ -35,8 +35,8 @@
     "octgn_id": "68071830-cf71-4497-a47d-19c19f016016"
   },
   {
-    "pack_code": "snowbird_by_hax",
-    "set_code": "snowbird_by_hax_nemesis",
+    "pack_code": "alpha_flight_by_hax",
+    "set_code": "alpha_flight_by_hax_nemesis",
     "type_code": "side_scheme",
     "faction_code": "encounter",
     "position": 17,
@@ -51,8 +51,8 @@
     "octgn_id": "68071830-cf71-4497-a47d-19c19f016017"
   },
   {
-    "pack_code": "snowbird_by_hax",
-    "set_code": "snowbird_by_hax_nemesis",
+    "pack_code": "alpha_flight_by_hax",
+    "set_code": "alpha_flight_by_hax_nemesis",
     "type_code": "minion",
     "faction_code": "encounter",
     "position": 18,
@@ -72,8 +72,8 @@
     "octgn_id": "68071830-cf71-4497-a47d-19c19f016018"
   },
   {
-    "pack_code": "snowbird_by_hax",
-    "set_code": "snowbird_by_hax_nemesis",
+    "pack_code": "alpha_flight_by_hax",
+    "set_code": "alpha_flight_by_hax_nemesis",
     "type_code": "environment",
     "faction_code": "encounter",
     "position": 19,
@@ -88,8 +88,8 @@
     "octgn_id": "68071830-cf71-4497-a47d-19c19f016019"
   },
   {
-    "pack_code": "snowbird_by_hax",
-    "set_code": "snowbird_by_hax_nemesis",
+    "pack_code": "alpha_flight_by_hax",
+    "set_code": "alpha_flight_by_hax_nemesis",
     "type_code": "environment",
     "faction_code": "encounter",
     "position": 20,

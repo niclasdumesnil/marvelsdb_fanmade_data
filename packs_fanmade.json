@@ -438,14 +438,14 @@
 	},
 	{
 		"cgdb_id": 2016,
-		"code": "snowbird_by_hax",
+		"code": "alpha_flight_by_hax",
 		"creator": "Hax",
 		"date_release": "2025-08-12",
-		"name": "Snowbird",
+		"name": "Alpha Flight",
 		"octgn_id": "68071830-cf71-4497-a47d-19c19f5fb6fc",
 		"pack_type_code": "hero_fanmade",
 		"position": 2016,
-		"size": 22,
+		"size": 28,
 		"status": "released",
 		"theme": "Marvel",
 		"visibility": "false"
@@ -466,17 +466,16 @@
 	},
 	{
 		"cgdb_id": 5003,
-		"creator": "ekAugust",
 		"code": "king_in_black_by_ekaugust",
+		"creator": "ekAugust",
 		"date_release": "2025-08-16",
 		"name": "King In Black",
-		"theme": 0,
-		"status": "released",
+		"octgn_id": "f8fe0d39-7068-4fbd-9901-6ba095105f07",
 		"pack_type_code": "fm_story",
-		"visibility": "false",
-		"octgn_id": 0,
 		"position": 5003,
-		"size": 1
+		"size": 1,
+		"status": "released",
+		"theme": 0,
+		"visibility": "false"
 	}
-
 ]
