@@ -466,16 +466,17 @@
 	},
 	{
 		"cgdb_id": 5003,
-		"code": "king_in_black_by_ekaugust",
 		"creator": "ekAugust",
-		"date_release": "2025-08-16",
+		"code": "king_in_black_by_ekaugust",
+		"date_release": "2025-08-18",
 		"name": "King In Black",
-		"octgn_id": "f8fe0d39-7068-4fbd-9901-6ba095105f07",
-		"pack_type_code": "fm_story",
-		"position": 5003,
-		"size": 1,
+		"theme": "Marvel",
 		"status": "released",
-		"theme": 0,
-		"visibility": "false"
+		"pack_type_code": "fm_story",
+		"visibility": "false",
+		"octgn_id": "f8fe0d39-7068-4fbd-9901-6ba095105f07",
+		"position": 5003,
+		"size": 24
 	}
+
 ]
