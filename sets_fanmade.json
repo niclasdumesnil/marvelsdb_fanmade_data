@@ -400,7 +400,18 @@
         "code": "cult_of_carnage_by_ekaugust",
         "name": "Cult of Carnage by ekAugust",
         "card_set_type_code": "modular"
+    },
+    {
+        "code": "skrull_menace_by_kajislav",
+        "name": "Skrull Menace by Kajislav",
+        "card_set_type_code": "hero"
+    },
+    {
+        "code": "skrull_empire_by_kajislav",
+        "name": "Skrull Empire by Kajislav",
+        "card_set_type_code": "villain"
     }
+
 ]
    
 

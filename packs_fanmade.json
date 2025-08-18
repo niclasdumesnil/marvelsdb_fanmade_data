@@ -477,6 +477,20 @@
 		"octgn_id": "f8fe0d39-7068-4fbd-9901-6ba095105f07",
 		"position": 5003,
 		"size": 24
+	},
+		{
+		"cgdb_id": 5007,
+		"creator": "Kajislav",
+		"code": "skrull_menace_by_kajislav",
+		"date_release": "2025-08-18",
+		"name": "Skrull Menace",
+		"theme": "Marvel",
+		"status": "released",
+		"pack_type_code": "fm_story",
+		"visibility": "false",
+		"octgn_id": 0,
+		"position": 5007,
+		"size": 1
 	}
 
 ]
