@@ -44,13 +44,7 @@
             ],
             "offset": "-35px -33px"
         },
-        "traits": "X-Men.",
-        "deck_options": [
-			{
-				"limit": 5,
-				"ressource" : "resource_energy"
-  			}
-		]
+        "traits": "New. X-Men."
     },
     {
         "is_unique": true,
@@ -78,14 +72,14 @@
     },
     {
         "name": "Gauntlets",
-        "text": "<b>Forced Interrupt</b>: When you would take damage from \u201c<i>Uncontrolled Surge</i>\u201c, cancel that damage.\n<b>Action</b>: Exhaust Gauntlets \u2192 shuffle 1 identity-specific card from your discard pile into your deck.",
+        "text": "<b>Interrupt</b>: When you would take damage from \u201c<i>Uncontrolled Surge</i>\u201c, exhaust Gauntlets \u2192 cancel that damage.\n<b>Action</b>: Exhaust Gauntlets \u2192 shuffle 1 identity-specific card from your discard pile into your deck.",
         "type_code": "upgrade",
         "faction_code": "hero",
         "set_code": "surge_by_xb",
         "pack_code": "surge_by_xb",
         "code": "250103",
         "octgn_id": "1c7b60ea-0ca6-574b-9cd5-254b7a000003",
-        "cost": 2,
+        "cost": 1,
         "position": 3,
         "quantity": 1,
         "traits": "Item. Tech.",
@@ -95,7 +89,7 @@
     },
     {
         "name": "Double Strike",
-        "text": "<b>Hero Action</b>: Discard 1 card from your hand \u2192 deal 1 damage to an enemy.\n<b>Hero Response</b>: After you discard a card with a printed [energy] resource, deal 1 damage to an enemy.",
+        "text": "<b>Hero Response</b>: After you play an [[attack ]]event, discard 1 card from your hand \u2192 deal 2 damage to an enemy. Deal 2 additional damage to that enemy for each printed [energy] resource on the card discarded this way.",
         "type_code": "upgrade",
         "faction_code": "hero",
         "set_code": "surge_by_xb",
@@ -208,7 +202,7 @@
         "position": 10,
         "quantity": 2,
         "traits": "Superpower.",
-        "resource_energy": 1,
+        "resource_energy": 2,
         "set_position": 13,
         "deck_limit": 2
     },
