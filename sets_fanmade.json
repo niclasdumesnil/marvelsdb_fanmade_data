@@ -410,6 +410,16 @@
         "code": "skrull_empire_by_kajislav",
         "name": "Skrull Empire by Kajislav",
         "card_set_type_code": "villain"
+    },
+    {
+        "code": "iron_man_by_raytten_nemesis",
+        "name": "Iron Man by Raytten Nemesis",
+        "card_set_type_code": "nemesis"
+    },
+    {
+        "code": "iron_man_by_raytten",
+        "name": "Iron Man by Raytten",
+        "card_set_type_code": "hero"
     }
 
 ]

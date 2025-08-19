@@ -488,9 +488,22 @@
 		"status": "released",
 		"pack_type_code": "fm_story",
 		"visibility": "false",
-		"octgn_id": 0,
+		
 		"position": 5007,
 		"size": 1
+	},
+	{
+		"cgdb_id": 2020,
+		"code": "iron_man_by_raytten",
+		"date_release": "2025-08-18",
+		"name": "Iron Man",
+		"octgn_id": "da44c66c-7d4c-5891-aa96-f94905c42c0f",
+		"pack_type_code": "hero_fanmade",
+		"position": 2020,
+		"size": 17,
+		"theme": "Marvel",
+		"status": "beta",
+		"creator": "Raytten"
 	}
 
 ]
