@@ -44,12 +44,6 @@
             ],
             "offset": "-35px -33px"
         },
-        "deck_options": [
-			{
-				"limit": 5,
-				"ressource" : "resource_energy"
-  			}
-		],
         "traits": "New. X-Men."
     },
     {
@@ -63,9 +57,9 @@
         "code": "250102",
         "octgn_id": "1c7b60ea-0ca6-574b-9cd5-254b7a000002",
         "attack": 1,
-        "health": 3,
+        "health": 2,
         "thwart": 2,
-        "cost": 3,
+        "cost": 2,
         "position": 2,
         "quantity": 1,
         "traits": "X-Men.",
@@ -173,7 +167,7 @@
         "cost": 3,
         "position": 8,
         "quantity": 3,
-        "traits": "Attack.",
+        "traits": "Attack. Superpower.",
         "resource_energy": 1,
         "set_position": 8,
         "deck_limit": 3
