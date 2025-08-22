@@ -47,7 +47,7 @@
         "recover": 3,
        "set_code": "stanlee_by_ekaugust",
         "text": "Stan Lee has the text boxes of each alter-ego used by the Marvelous ability.\n<i>Marvelous</i> — During deck-building, your deck must include the heros cards from the chosen hero set.",
-        "traits": "Civilian",
+        "traits": "Civilian.",
         "type_code": "alter_ego"
     },
     {
@@ -61,7 +61,7 @@
         "cost": -1,
         "position": 2,
         "quantity": 15,
-        "traits": "Drawing",
+        "traits": "Drawing.",
         "set_position": 2,
         "deck_limit": 15
     }

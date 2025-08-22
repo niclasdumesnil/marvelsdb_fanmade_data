@@ -15,6 +15,8 @@
     "is_unique": true,
     "health": 12,
     "health_per_hero": true,
+    "text": "[star] <b>Forced Response:</b> After Vermin activates against you, discard the top card of the encounter deck. If a <b><i>RAT</i></b> minion was discarded this way, put it into play engaged with you.",
+    "flavor": "\"You come to hurt Vermin?! You come to make us afraid?\"",
     "scheme": 0,
     "scheme_star": true,
     "attack": 1,
@@ -37,6 +39,8 @@
     "is_unique": true,
     "health": 14,
     "health_per_hero": true,
+    "text": "[star] <b>Forced Response:</b> After Vermin activates against you, discard the top two cards of the encounter deck. Put the first <b><i>RAT</i></b> minion that was discarded this way, into play engaged with you.",
+    "flavor": "\"I'll make you afraid!\"",
     "scheme": 1,
     "scheme_star": true,
     "attack": 1,
@@ -59,6 +63,8 @@
     "is_unique": true,
     "health": 20,
     "health_per_hero": true,
+    "text": "[star] <b>Forced Response:</b> After Vermin activates against you, discard the top two cards of the encounter deck. Put each <b><i>RAT</i></b> minion that was discarded this way, into play engaged with you. Resolve the \"<b>Special</b>\" effect on Even More Rats.",
+    "flavor": "\"This is how you're going to die.\"",
     "scheme": 1,
     "scheme_star": true,
     "attack": 2,
@@ -95,6 +101,8 @@
     "name": "Rats and More Rats",
     "quantity": 1,
     "deck_limit": 1,
+    "text": "[star] <b>Forced Reponse:</b> After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"<b>Special</b>\" effect on Even More Rats.",
+    "flavor": "Vermin has come out of the sewers. Following him is a mischief of rats threatening to invade the city.",
     "base_threat": 1,
     "base_threat_fixed": false,
     "escalation_threat": 1,
@@ -118,6 +126,8 @@
     "name": "Rats, Rats and More Rats",
     "quantity": 1,
     "deck_limit": 1,
+    "text": "<b>When Revealed:</b> Search the encounter deck and discard pile for Bringer of Plague and reveal it. Advance to stage 2B.",
+    "flavor": "In addition to rats coming out of the sewers, rats have started pouring out every building in the city.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001005"
   },
   {
@@ -133,6 +143,8 @@
     "name": "Rats, Rats and More Rats",
     "quantity": 1,
     "deck_limit": 1,
+    "text": "[star] <b>Forced Reponse:</b> After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"Special\" effect on Even More Rats.\n<b>If this scheme is completed, rats have invaded the city and the players lose the game.</b>",
+    "flavor": "If you don't stop Vermin now, who knows what the rats will do to the city.",
     "base_threat": 1,
     "base_threat_fixed": false,
     "escalation_threat": 1,
@@ -153,6 +165,7 @@
     "name": "Even More Rats",
     "quantity": 1,
     "deck_limit": 1,
+    "text": "Threat on <b><i>RAT</i></b> minions cannot be thwarted.\n<b>Special:</b> If the total number of threat on <b><i>RAT</i></b> minions and on the main scheme is equal to or more than the target threat value of the main scheme, the current stage of the main scheme is completed.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001006"
   },
   {
@@ -169,6 +182,7 @@
     "deck_limit": 4,
     "health": -1,
     "boost_star": true,
+    "text": "Surge.\nX is equal to the number of <b><i>RAT</i></b> minions engaged with you (to a maximum of 3).\n[star] <b>Boost:</b> Put Regular Rats into play engaged with you.",
     "scheme": 0,
     "attack": 1,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001007"
@@ -187,6 +201,7 @@
     "deck_limit": 4,
     "health": -1,
     "boost_star": true,
+    "text": "Surge. Quickstrike.\nX is equal to the number of <b><i>RAT</i></b> minions engaged with you (to a maximum of 3).\n[star] <b>Boost:</b> Put Feral Rats into play engaged with you.",
     "scheme": 0,
     "attack": 1,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001008"
@@ -206,6 +221,8 @@
     "health": 4,
     "boost": 1,
     "boost_star": true,
+    "text": "Guard.\nWhile Vermin Clone is engaged with you, characters you control cannot attack Regular Rats and Feral Rats.\n[star] <b>Boost:</b> Give the attacking enemy an additional boost card for this activation.",
+    "flavor": "\"SKEEEEE!!\"",
     "scheme": 1,
     "attack": 2,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001009"
@@ -223,6 +240,8 @@
     "quantity": 2,
     "deck_limit": 2,
     "boost": 1,
+    "text": "Attach to your identity.\nEach <b>Rat</b> minion engaged with you gains guard.\n<b>Interrupt:</b> After you defeat a <b><i>RAT</i></b> minion engaged with you, discard 2 cards from your hand → discard this card.",
+    "flavor": "\"FEED... FOR VERMIN.\" - Vermin",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001010"
   },
   {
@@ -237,6 +256,8 @@
     "quantity": 1,
     "deck_limit": 1,
     "boost": 2,
+    "text": "<b>When Revealed:</b> Search the encounter deck and discard pile for a copy of Vermin Clone and put it into play engaged with the first player.\n[crisis]",
+    "flavor": "Vermin was cloned back in the day. Today, his clones follow him along with all the other rats.",
     "base_threat": 2,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001011"
   },
@@ -252,6 +273,8 @@
     "quantity": 1,
     "deck_limit": 1,
     "boost": 2,
+    "text": "<b>When Revealed:</b> Place threat here equal to the amount of threat on <b><i>RAT</i></b> minions in play.\n[hazard]",
+    "flavor": "The mischief of rats that follow Vermin are vicious and bring disease with them wherever he goes.",
     "base_threat": 3,
     "base_threat_fixed": true,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001012"
@@ -268,6 +291,8 @@
     "quantity": 2,
     "deck_limit": 2,
     "boost": 1,
+    "text": "<b>When Revealed:</b> Discard X cards from the encounter deck, where X is equal to double the villain's stage number. For each <b><i>RAT</i></b> minion discarded this way, choose to either place 2 threat on the main scheme or put that minion into play engaged with you.",
+    "flavor": "\"chk... chk...\" - Random rat",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001013"
   },
   {
@@ -282,6 +307,7 @@
     "quantity": 2,
     "deck_limit": 2,
     "boost": 1,
+    "text": "<b>When Revealed (Alter-Ego):</b> Vermin schemes. If there are no <b><i>RAT</i></b> minions engaged with you, this card gains surge.\n<b>When Revealed (Hero):</b> Vermin attacks you. If there are no <b><i>RAT</i></b> minions engaged with you, this card gains surge.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001014"
   },
   {
@@ -296,6 +322,7 @@
     "quantity": 4,
     "deck_limit": 4,
     "boost": 1,
+    "text": "<b>When Revealed:</b> For each <b><i>RAT</i></b> minion engaged with you, choose to either place 1 threat on that minion, or take 1 indirect damage. Resolve the \"Special\" effect on Even More Rats. If there is one or no Rat minions engaged with you, this card gains surge.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001015"
   },
   {
@@ -309,6 +336,7 @@
     "name": "Feral Instincts",
     "quantity": 1,
     "boost": 1,
+    "text": "Attach to the villain.\n[star] <b>Forced Interrupt:</b> When the villain would scheme against you, it attacks you instead. This attack gains overkill. Do not give the villain a boost card for this activation. Then, discard Feral Instincts.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001016"
   },
   {
@@ -322,6 +350,7 @@
     "name": "Primal Strength",
     "quantity": 1,
     "boost": 2,
+    "text": "Attach to the villain.\nX is equal to the villain's stage number.\n[star] <b>Interrupt:</b> When the villain attacks you, choose to either spend [physical]  [physical] resources or exhaust your identity → discard Primal Strength.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001017"
   },
   {
@@ -336,6 +365,8 @@
     "quantity": 1,
     "boost": 1,
     "boost_star": true,
+    "text": "<b>When Revealed:</b> The villain attacks you. If you are in alter-ego form, do not give the villain a boost card for this activation.\n[star] <b>Boost:</b> This card gets +1 Boost icon ( [boost] ) if this activation is an attack.",
+    "flavor": "\"GRRAARRGGHH!!!\"",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001018"
   },
   {
@@ -349,6 +380,7 @@
     "name": "Cornered Animal",
     "quantity": 2,
     "boost": 1,
+    "text": "<b>When Revealed:</b> You take 1 damage. If the villain has taken 6[per_hero] or more damage, choose to either spend a [energy] resource or take 2 indirect damage. If the villain has taken 12[per_hero] or more damage, choose to either discard a random card from your hand or place 2 threat on the main scheme.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001019"
   },
   {
@@ -366,6 +398,8 @@
     "is_unique": true,
     "health": 15,
     "health_per_hero": true,
+    "text": "[star] <b>Forced Interrupt:</b> When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
+    "flavor": "\"I don't have to hurt you. I want to.\"",
     "scheme": 1,
     "attack": 2,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001020"
@@ -385,6 +419,8 @@
     "is_unique": true,
     "health": 16,
     "health_per_hero": true,
+    "text": "Scorpion cannot be stunned.\n[star] <b>Forced Interrupt:</b> When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
+    "flavor": "\"Now the Scorpion has to hurt you.\"",
     "scheme": 2,
     "attack": 2,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001021"
@@ -404,6 +440,7 @@
     "is_unique": true,
     "health": 18,
     "health_per_hero": true,
+    "text": "Scorpion cannot be stunned.\n<b>When Revealed:</b> Search the encounter deck and discard pile for Tail Laser and reveal it.\n[star] <b>Forced Interrupt:</b> When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
     "scheme": 2,
     "attack": 3,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001022"
@@ -437,6 +474,8 @@
     "stage": 1,
     "name": "Thirst for Revenge",
     "quantity": 1,
+    "text": "<b>When Completed:</b> Place 1 wound counter on the J. Jonah Jameson support.",
+    "flavor": "Scorpion wants revenge on J. Jonah Jameson for turning him into the beast that he is today.",
     "base_threat": 1,
     "escalation_threat": 1,
     "threat": 6,
@@ -456,6 +495,8 @@
     "stage": 2,
     "name": "Vengeful Poursuit",
     "quantity": 1,
+    "text": "<b>When Revealed:</b> Advance to stage 2B.",
+    "flavor": "Scorpion has tracked down JJJ, and won't stop chasing him until he is eliminated.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001024"
   },
   {
@@ -470,6 +511,8 @@
     "stage": 2,
     "name": "Vengeful Poursuit",
     "quantity": 1,
+    "text": "<b>Forced Interrupt:</b> When this scheme would be completed, place 1 wound counter on the J. Jonah Jameson support instead. Then, remove all threat from this scheme and any upgrades and attachments attached to it.",
+    "flavor": "Protect JJJ with all your might, no matter how much you dislike him!",
     "base_threat": 0,
     "base_threat_fixed": true,
     "escalation_threat": 1,
@@ -486,9 +529,10 @@
     "set_position": 6,
     "code": "500125",
     "name": "J. Jonah Jameson",
-    "traits": "Persona",
+    "traits": "Persona.",
     "quantity": 1,
     "is_unique": true,
+    "text": "Permanent.\n<b>Interrupt:</b> When a friendly character would take any amount of damage, place 1 wound counter here → prevent all of that damage.\n<b>Forced Interrupt:</b> When there are 3 + 1[per_hero] or more wound counters here, <b>the players lose the game.</b>",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001025"
   },
   {
@@ -502,6 +546,7 @@
     "name": "Scorpion's Tail",
     "traits": "Tech. Weapon.",
     "quantity": 1,
+    "text": "<b>[star] Forced Response:</b> After Scorpion attacks and damages a character, that character is stunned. If that character is already stunned, deal 1 damage to that character.\n<b>Interrupt:</b> When Scorpion would take any amount of damage, it may be placed here instead. Then, if there is 10[per_hero] or more damage here, set Scorpion's Tail aside, out of play. Then, Scorpion takes 8[per_hero] damage.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001026"
   },
   {
@@ -515,6 +560,8 @@
     "name": "Tail Armor",
     "traits": "Armor. Tail. Tech.",
     "quantity": 1,
+    "boost": 2,
+    "text": "Move 5 damage from Scorpion's Tail to Scorpion. Attach to Scorpion's Tail. If you cannot, this card gains surge.\n<b>Forced Interrupt:</b> When damage would be placed on Scorpion's Tail, place it here instead. If there is 8 or more damage here, discard Tail Armor.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001027"
   },
   {
@@ -528,7 +575,9 @@
     "name": "Honed Stinger",
     "traits": "Tail. Tech.",
     "quantity": 1,
-    "boost": 2,
+    "boost": 1,
+    "boost_star": true,
+    "text": "Move 5 damage from Scorpion's Tail to Scorpion. Attach to Scorpion's Tail. If you cannot, this card gains surge.\n<b>Forced Interrupt:</b> When Scorpion attacks, he gets +1 ATK for that attack, and the attack gains piercing.\n[star] <b>Boost:</b> Shuffle this card into the encounter deck.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001028"
   },
   {
@@ -544,6 +593,7 @@
     "quantity": 1,
     "boost": 1,
     "boost_star": true,
+    "text": "Move 5 damage from Scorpion's Tail to Scorpion. Attach to Scorpion's Tail. If you cannot, this card gains surge.\n<b>Forced Interrupt:</b> When Scorpion attacks, the attack gains ranged and overkill.\n[star] <b>Boost:</b> Shuffle this card into the encounter deck.",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001029"
   },
   {
@@ -557,8 +607,8 @@
     "name": "Coiled Up",
     "traits": "Condition.",
     "quantity": 2,
-    "boost": 1,
-    "boost_star": true,
+    "text": "Move 5 damage from Scorpion's Tail to Scorpion. If Scorpion's Tail is attached to Scorpion, attach Coiled Up to your identity. If you cannot, this card gains surge.\n<b>Forced Interrupt:</b> When Scorpion's Tail is set aside, discard Coiled up.",
+    "flavor": "\"Strictly amateur hour!\" - Scorpion",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001030"
   },
   {
@@ -572,6 +622,8 @@
     "name": "Human Fly",
     "traits": "Aerial. Mutate.",
     "quantity": 2,
+    "boost_star": true,
+    "text": "<b>Forced Interrupt:</b> When Human Fly would take any amount of damage from an attack, prevent all of that damage. (Limit once per round.)\n[star] <b>Boost:</b> After this activation ends, deal yourself this card as a facedown encounter card.",
     "scheme": 0,
     "attack": 2,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001031"
@@ -588,7 +640,13 @@
     "traits": "Criminal. Mutate.",
     "quantity": 1,
     "is_unique": true,
+    "boost": 1,
     "boost_star": true,
+    "text": "[star] <b>Forced Interrupt:</b> When Grizzly attacks, the attack gains piercing.\n[star] <b>Boost:</b> This attack gains piercing.",
+    "flavor": "\"What're you lookin' at!?\"",
+    "scheme": 1,
+    "attack": 3,
+    "attack_star": true,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001032"
   },
   {
@@ -605,6 +663,10 @@
     "is_unique": true,
     "boost": 1,
     "boost_star": true,
+    "text": "Toughness.\n[star] <b>Boost:</b> This attack gains overkill.",
+    "flavor": "\"Outta the way!\"",
+    "scheme": 1,
+    "attack": 3,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001033"
   },
   {
@@ -618,7 +680,6 @@
     "name": "Luring Out Prey",
     "quantity": 1,
     "boost": 1,
-    "boost_star": true,
     "text": "hinder 1[per_hero].",
     "base_threat": 2,
     "base_threat_fixed": true,
@@ -635,6 +696,8 @@
     "name": "A Mess of Thing",
     "quantity": 1,
     "boost": 3,
+    "text": "<b>When Revealed:</b> Place 2 additional threat here for each stunned friendly character.\n[hazard]",
+    "flavor": "Scorpion is causing as much mayhem as possible.",
     "base_threat": 2,
     "base_threat_fixed": true,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001035"
@@ -650,6 +713,8 @@
     "name": "Tail Enhancements",
     "quantity": 2,
     "boost_star": true,
+    "text": "<b>When Revealed:</b> Discard cards from the encounter deck until a <b><i>TAIL</i></b> attachment is discarded. Reveal that card.\n[star] <b>Boost:</b> This card gets +1 boost icon ( [boost] ) for each <b><i>TAIL</i></b> attachment attached to Scorpion.",
+    "flavor": "\"You think you're so much smarter than me, don't cha?\" - Scorpion",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001036"
   },
   {
@@ -663,6 +728,8 @@
     "name": "Stinger Stab",
     "quantity": 2,
     "boost": 1,
+    "text": "<b>When Revealed (Alter-Ego):</b> Scorpion schemes. If you are stunned, Scorpion gets +2 SCH for this activation.\n<b>When Revealed (Hero):</b> Scorpion attacks you. After this activation, if you are stunned, you are confused.",
+    "flavor": "\"AHAHAH!\" - Scorpion",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001037"
   },
   {
@@ -676,6 +743,8 @@
     "name": "Restraining Pincers",
     "quantity": 2,
     "boost_star": true,
+    "text": "<b>When Revealed:</b> Choose to either spend [physical] p or stun your identity. If you cannot, this card gains surge.\n[star] <b>Boost:</b> If this activation deals damage to you, exhaust your hero.",
+    "flavor": "\"You scared?\" - Scorpion",
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001038"
   },
   {
@@ -1107,7 +1176,7 @@
     "name": "Wake Your Inner Lizard",
     "quantity": 1,
     "boost": 3,
-    "text": "Hinder 1[per_hero] (<i>When Revealed: Place an additionnal 1[per_hero] threat here</i>).",
+    "text": "Hinder 1 per player (<i>When Revealed: Place an additionnal 1 per Player threat here</i>).",
     "base_threat": 3,
     "base_threat_fixed": true,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001058"
@@ -1320,7 +1389,6 @@
     "traits": "Criminal.",
     "quantity": 1,
     "health": 4,
-    "boost": 0,
     "boost_star": true,
     "scheme": 1,
     "attack": 1,
@@ -1393,7 +1461,6 @@
     "code": "500174",
     "name": "Forcefully Elevated",
     "quantity": 2,
-    "boost": 0,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001074"
   },
   {
@@ -1767,7 +1834,7 @@
     "name": "Toxic Gas",
     "quantity": 1,
     "boost": 2,
-    "text": "Hinder 1[per_hero] (<i>When Revealed: Place an additionnal 1[per_hero] threat here</i>).",
+    "text": "Hinder 1 per player (<i>When Revealed: Place an additionnal 1 per Player threat here</i>).",
     "base_threat": 3,
     "base_threat_fixed": true,
     "octgn_id": "a1825670-a77e-4e37-89e8-9e629b001096"

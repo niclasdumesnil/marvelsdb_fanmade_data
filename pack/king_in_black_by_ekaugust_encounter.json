@@ -219,7 +219,7 @@
     "code": "500343",
     "type_code": "minion",
     "name": "Doppelganger",
-    "traits": "Criminal. Cultist. Elite",
+    "traits": "Criminal. Cultist. Elite.",
     "quantity": 1,
     "deck_limit": 1,
     "is_unique": true,

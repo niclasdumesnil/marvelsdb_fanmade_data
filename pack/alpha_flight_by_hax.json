@@ -478,7 +478,7 @@
     "text": "Play only if your identity as the <b><i>ALPHA FLIGHT</i></b> trait.\n[star] <b>Interrupt</b>: When Captain Marvel attacks, choose up to X enemies, where X is equal to the number of <b><i>AERIAL</i></b> characters you control → deal 2 damage to each chosen enemy.",
     "thwart": 2,
     "thwart_cost": 2,
-    "attack": "null",
+    "attack": null,
     "attack_cost": 2,
     "attack_star": true,
     "resource_energy": 1,

@@ -408,7 +408,8 @@
     "name": "Skrull Empire I",
     "quantity": 1,
     "deck_limit": 1,
-    "health_per_hero": false,
+    "health": 14,
+    "health_per_hero": true,
     "text": "<i>Incite Rebellion</i> - <b>Hero Action:</b> Choose to either exhaust your hero or spend 2 resources of any type → choose 1 <b><i>PLANET </i></b>environment in play. Treat its printed text box as if it were blank until the end of the round. (Limit once per round per player.)"
   },
   {
@@ -422,7 +423,8 @@
     "name": "Skrull Empire II",
     "quantity": 1,
     "deck_limit": 1,
-    "health_per_hero": false,
+    "health": 18,
+    "health_per_hero": true,
     "text": "<b>When Revealed:</b> Shuffle each set-aside Overthrow into the encounter deck.\n<i>Incite Rebellion</i> - <b>Hero Action:</b> Choose to either exhaust your hero or spend 2 resources of any type → choose 1 <b><i>PLANET </i></b>environment in play. Treat its printed text box as if it were blank until the end of the round. (Limit once per round per player.)"
   },
   {
@@ -436,7 +438,8 @@
     "name": "Skrull Empire III",
     "quantity": 1,
     "deck_limit": 1,
-    "health_per_hero": false,
+    "health": 22,
+    "health_per_hero": true,
     "text": "<b>When Revealed:</b> Shuffle each set-aside Overthrow into the encounter deck.\n<i>Incite Rebellion</i> - <b>Hero Action:</b> Choose to either exhaust your hero or spend 2 resources of any type → choose 1 <b><i>PLANET </i></b>environment in play. Treat its printed text box as if it were blank until the end of the round. (Limit once per round per player.)"
   },
   {
