@@ -47,8 +47,9 @@ def custom_card_check(args, card, pack_code, factions_data, types_data):
         raise jsonschema.ValidationError("Faction code '%s' of the pack '%s' doesn't match any valid faction code." % (card["faction_code"], card["code"]))
     if card.get("type_code") and  card["type_code"] not in [f["code"] for f in types_data]:
         raise jsonschema.ValidationError("Faction code '%s' of the pack '%s' doesn't match any valid type code." % (card["type_code"], card["code"]))
-    if card.get("traits") and not re.search("[\.!\d]$", card["traits"]):
-        raise jsonschema.ValidationError("The traits list \"%s\" on card %s does not end with a period (.), exclamation point (!), or number (0-9)." % (card["traits"], card["code"]))
+    # Ajout du ? dans la validation des traits
+    if card.get("traits") and not re.search(r"[\.!\?\d]$", card["traits"]):
+        raise jsonschema.ValidationError("The traits list \"%s\" on card %s does not end with a period (.), exclamation point (!), question mark (?), or number (0-9)." % (card["traits"], card["code"]))
 
 def format_json(json_data):
     formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
@@ -97,8 +98,27 @@ def load_json_file(args, path):
 
 def load_packs(args):
     verbose_print(args, "Loading pack index file...\n", 1)
+    packs_data = []
+
     packs_path = os.path.join(args.base_path, "packs.json")
-    packs_data = load_json_file(args, packs_path)
+    packs_fanmade_path = os.path.join(args.base_path, "packs_fanmade.json")
+
+    # Si --fm_only, ne charger que pack_fanmade.json
+    if getattr(args, "fm_only", False):
+        if os.path.isfile(packs_fanmade_path):
+            verbose_print(args, "Loading pack_fanmade index file (fm_only)...\n", 1)
+            packs_data = load_json_file(args, packs_fanmade_path)
+        else:
+            verbose_print(args, "Aucun fichier pack_fanmade.json trouvé.\n", 0)
+            packs_data = []
+    else:
+        packs_data = load_json_file(args, packs_path)
+        # Ajout du fichier pack_fanmade.json s'il existe
+        if os.path.isfile(packs_fanmade_path):
+            verbose_print(args, "Loading pack_fanmade index file...\n", 1)
+            packs_fanmade_data = load_json_file(args, packs_fanmade_path)
+            if packs_fanmade_data:
+                packs_data.extend(packs_fanmade_data)
 
     if not validate_packs(args, packs_data):
         return None
@@ -118,6 +138,17 @@ def load_factions(args):
     factions_path = os.path.join(args.base_path, "factions.json")
     factions_data = load_json_file(args, factions_path)
 
+    # Ajout des factions fanmade si elles existent
+    factions_fanmade_path = os.path.join(args.base_path, "factions_fanmade.json")
+    if os.path.isfile(factions_fanmade_path):
+        verbose_print(args, "Loading fanmade faction index file...\n", 1)
+        factions_fanmade_data = load_json_file(args, factions_fanmade_path)
+        if factions_fanmade_data:
+            factions_data.extend(factions_fanmade_data)
+
+    # Ajout de la trace pour afficher la liste des factions chargées
+    print("[TRACE] Factions chargées :", [f.get("code") for f in factions_data])
+
     if not validate_factions(args, factions_data):
         return None
 
@@ -127,6 +158,14 @@ def load_types(args):
     verbose_print(args, "Loading type index file...\n", 1)
     types_path = os.path.join(args.base_path, "types.json")
     types_data = load_json_file(args, types_path)
+
+    # Ajout des types fanmade s'ils existent
+    types_fanmade_path = os.path.join(args.base_path, "packtypes_fanmade.json")
+    if os.path.isfile(types_fanmade_path):
+        verbose_print(args, "Loading fanmade type index file...\n", 1)
+        types_fanmade_data = load_json_file(args, types_fanmade_path)
+        if types_fanmade_data:
+            types_data.extend(types_fanmade_data)
 
     if not validate_types(args, types_data):
         return None
@@ -150,6 +189,7 @@ def parse_commandline():
     argparser.add_argument("-b", "--base_path", default=os.getcwd(), help="root directory of JSON repo (default: current directory)")
     argparser.add_argument("-p", "--pack_path", default=None, help=("pack directory of JSON repo (default: BASE_PATH/%s/)" % PACK_DIR))
     argparser.add_argument("-c", "--schema_path", default=None, help=("schema directory of JSON repo (default: BASE_PATH/%s/" % SCHEMA_DIR))
+    argparser.add_argument("--fm_only", default=False, action="store_true", help="ne traiter que les packs fanmade (pack_fanmade.json)")
     args = argparser.parse_args()
 
     # Set all the necessary paths and check if they exist
@@ -189,6 +229,7 @@ def validate_cards(args, packs_data, factions_data, types_data):
         return
 
     for p in packs_data:
+        print(f"[TRACE] Validation du pack : code={p.get('code')} name={p.get('name')}")
         verbose_print(args, "Validating cards from %s...\n" % p["name"], 1)
 
         if (p['player']):

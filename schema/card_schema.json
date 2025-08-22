@@ -36,7 +36,7 @@
 		"base_threat": {
 			"oneOf": [
 				{
-					"minimum": 0,
+					"minimum": -1,
 					"type": "integer"
 				},
 				{
@@ -55,12 +55,19 @@
 			"type": "boolean"
 		},
 		"code": {
-			"pattern": "^[0-9]{5}[abcdef]?$",
+			"pattern": "^[0-9]{5,6}[a-z]?$",
 			"type": "string"
 		},
 		"cost": {
-			"minimum": -1,
-			"type": "integer"
+			"oneOf": [
+				{
+					"minimum": -1,
+					"type": "integer"
+				},
+				{
+					"type": "null"
+				}
+			]
 		},
 		"cost_per_hero": {
 			"type": "boolean"
@@ -74,14 +81,6 @@
 				"properties": {
 					"limit": {
 						"minimum": 1,
-						"type": "integer"
-					},
-					"aspect_limit": {
-						"minimum": 1,
-						"type": "integer"
-					},
-					"cost": {
-						"minimum": 0,
 						"type": "integer"
 					},
 					"name_limit": {
@@ -131,8 +130,15 @@
 			"type": "array"
 		},
 		"defense": {
-			"minimum": 0,
-			"type": "integer"
+			"oneOf": [
+				{
+					"minimum": -1,
+					"type": "integer"
+				},
+				{
+					"type": "null"
+				}
+			]
 		},
 		"defense_star": {
 			"type": "boolean"
@@ -171,8 +177,15 @@
 			"type": "integer"
 		},
 		"health": {
-			"minimum": 0,
-			"type": "integer"
+			"oneOf": [
+				{
+					"minimum": -1,
+					"type": "integer"
+				},
+				{
+					"type": "null"
+				}
+			]
 		},
 		"health_per_hero": {
 			"type": "boolean"
@@ -199,7 +212,7 @@
 			"type": "string"
 		},
 		"pack_code": {
-			"maxLength": 10,
+			"maxLength": 255,
 			"minLength": 2,
 			"type": "string"
 		},
