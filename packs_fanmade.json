@@ -194,7 +194,7 @@
 		"code": "spider-man_by_rainy",
 		"creator": "Rainy",
 		"date_release": "2025-04-06",
-		"name": "Spider-Man",
+		"name": "Spider-Man 2099",
 		"octgn_id": "188a98aa-e714-56cf-92f0-8ccdf523996d",
 		"pack_type_code": "hero_fanmade",
 		"position": 2003,
@@ -326,7 +326,8 @@
 		"size": 16,
 		"status": "beta",
 		"theme": "Marvel",
-		"visibility": "true"
+		"visibility": "true",
+		"language": "fr"
 	},
 	{
 		"cgdb_id": 2014,
@@ -503,6 +504,7 @@
 		"position": 2020,
 		"size": 17,
 		"status": "beta",
-		"theme": "Marvel"
+		"theme": "Marvel",
+		"language": "fr"
 	}
 ]
