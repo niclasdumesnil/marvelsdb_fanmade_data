@@ -198,10 +198,10 @@
 	},
 	{
 		"code": "01027",
+		"flavor": "\"Wie Bruce dachte ich, ich könnte meine Kräfte kontrollieren. Meine Wut.\" -- Jennifer Walters",
 		"name": "Fokussierte Wut",
 		"text": "<b>Held — Aktion</b>: Erschöpfe Fokussierte Wut und nimm 1 Schaden → ziehe eine Karte.",
-		"traits": "Fertigkeit.",
-		"flavor": "\"Wie Bruce dachte ich, ich könnte meine Kräfte kontrollieren. Meine Wut.\" -- Jennifer Walters"
+		"traits": "Fertigkeit."
 	},
 	{
 		"code": "01028",

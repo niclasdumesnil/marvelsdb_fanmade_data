@@ -15,8 +15,8 @@
 	},
 	{
 		"code": "47002",
-		"name": "Wolverine",
 		"flavor": "\"Mets-la un peu en sourdine, gamine. On n'est pas venu ici pour s'amuser !\"",
+		"name": "Wolverine",
 		"subname": "Logan",
 		"text": "[star] Les attaques de Wolverine gagnent Perçant.\n<b>Réponse</b> : après être passé sous forme d'alter ego, soignez 3 dégâts de Wolverine.",
 		"traits": "X-Men."
@@ -176,11 +176,11 @@
 	{
 		"code": "47028",
 		"name": "Méli-Mélo de Mutants",
-		"text" : "Alliance.\n<b>Action de héros</b> : choisissez un allié [[X-FORCE]] et un allié [[X-MEN]] et renvoyez-les dans les mains de leur propriétaire → ces joueurs jouent ces alliés en ignorant leurs coûts en ressource."
+		"text": "Alliance.\n<b>Action de héros</b> : choisissez un allié [[X-FORCE]] et un allié [[X-MEN]] et renvoyez-les dans les mains de leur propriétaire → ces joueurs jouent ces alliés en ignorant leurs coûts en ressource."
 	},
 	{
 		"code": "47029",
 		"name": "Protéger et Servir",
-		"text" : "Alliance.\n<b>Interruption de héros</b> : quand n'importe quelle quantité de menaces est censée être placée sur la manigance principale, inclinez un personnage [[X-FORCE]] et un personnage [[X-MEN]] → prévenez toutes ces menaces et donnez à chacun de ces personnages une carte d'état Tenace."
+		"text": "Alliance.\n<b>Interruption de héros</b> : quand n'importe quelle quantité de menaces est censée être placée sur la manigance principale, inclinez un personnage [[X-FORCE]] et un personnage [[X-MEN]] → prévenez toutes ces menaces et donnez à chacun de ces personnages une carte d'état Tenace."
 	}
 ]

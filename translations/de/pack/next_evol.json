@@ -14,9 +14,9 @@
 	},
 	{
 		"code": "40002",
+		"flavor": "\"Bodyslide für zwei.\" — Cable",
 		"name": "Bodyslide",
-		"text": "<b>Aktion</b> : Wechsle deine Gestalt. Jeder andere Spieler darf in die Gestalt wechseln, in der du dich jetzt befindest.",
-		"flavor": "\"Bodyslide für zwei.\" — Cable"
+		"text": "<b>Aktion</b> : Wechsle deine Gestalt. Jeder andere Spieler darf in die Gestalt wechseln, in der du dich jetzt befindest."
 	},
 	{
 		"code": "40003",
@@ -200,10 +200,10 @@
 	},
 	{
 		"code": "40037b",
+		"flavor": "\"Was sagt man dazu? Schon wieder gewonnen.\"",
 		"name": "Neena Thurman",
 		"text": "<b>Action</b> : Wähle eine Karte auf deiner Hand. Tausche die Karte mit der obersten Karte deines Ablagestapels. (Nur ein Mal pro Runde.)",
-		"traits": "Mutant.",
-		"flavor": "\"Was sagt man dazu? Schon wieder gewonnen.\""
+		"traits": "Mutant."
 	},
 	{
 		"code": "40038",

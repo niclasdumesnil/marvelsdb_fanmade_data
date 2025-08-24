@@ -12,9 +12,9 @@
 	},
 	{
 		"code": "21028",
+		"flavor": "<b>Radioactive Man nutzt seine Kraft, um einen Atomreaktor zu überlasten!</b>",
 		"name": "Kernschmelze",
-		"text": "<b>Sobald besiegt</b>: Füge jedem befreundeten Charakter im Spiel 1 Schaden zu.",
-		"flavor": "<b>Radioactive Man nutzt seine Kraft, um einen Atomreaktor zu überlasten!</b>"
+		"text": "<b>Sobald besiegt</b>: Füge jedem befreundeten Charakter im Spiel 1 Schaden zu."
 	},
 	{
 		"code": "21029",
@@ -23,9 +23,9 @@
 	},
 	{
 		"code": "21030",
+		"flavor": "\"Du kannst diesen Kampf nicht gewinnen.\" -- Radioactive Man",
 		"name": "Radioactive Explosion",
-		"text": "<b>Sobald aufgedeckt (Alter-Ego)</b>: Platziere 2 Bedrohung auf dem Hauptplan.\n<b>Sobald aufgedeckt (Held)</b>: Nimm 2 Schaden.",
-		"flavor": "\"Du kannst diesen Kampf nicht gewinnen.\" -- Radioactive Man"
+		"text": "<b>Sobald aufgedeckt (Alter-Ego)</b>: Platziere 2 Bedrohung auf dem Hauptplan.\n<b>Sobald aufgedeckt (Held)</b>: Nimm 2 Schaden."
 	},
 	{
 		"code": "21066",

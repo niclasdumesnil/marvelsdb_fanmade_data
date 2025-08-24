@@ -14,7 +14,7 @@
 	{
 		"code": "70702",
 		"name": "Endo-Sym Armor",
-		"text": "Permanent. \n<b>Hero Action</b> (<i>attack</i>): Spend X [physical] resource (minimum 1) → deal 2 + X damage to an enemy (limit once per phase).\n<b>Hero Interrupt</b> (<i>defense</i>): When you would take any amount of damage, spend X [energy] resource (minimum 1) → prevent 1 + X of that damage (limit once per phase).",
+		"text": "Permanent.\n<b>Hero Action</b> (<i>attack</i>): Spend X [physical] resource (minimum 1) → deal 2 + X damage to an enemy (limit once per phase).\n<b>Hero Interrupt</b> (<i>defense</i>): When you would take any amount of damage, spend X [energy] resource (minimum 1) → prevent 1 + X of that damage (limit once per phase).",
 		"traits": "Armor. Psionic. Tech."
 	},
 	{

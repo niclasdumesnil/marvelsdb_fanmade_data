@@ -2,20 +2,20 @@
 	{
 		"code": "38001a",
 		"name": "Rogue",
-		"text": "<i>Skin Contact</i> − <b>Action</b>: Attach Touched to another character. You gain each of the attached character's [[TRAITS]] until the end of the round. (Limit once per round.)\n<b>Forced Response</b>: After the player phase begins, find Touched and set it aside.",
+		"text": "<i>Skin Contact</i> - <b>Action</b>: Attach Touched to another character. You gain each of the attached character's [[TRAITS]] until the end of the round. (Limit once per round.)\n<b>Forced Response</b>: After the player phase begins, find Touched and set it aside.",
 		"traits": "X-Men."
 	},
 	{
 		"code": "38001b",
 		"flavor": "\"You couldn't live mah life.\"",
 		"name": "Anna Marie",
-		"text": "<b>Setup</b>: Set your Touched upgrade aside.\n<i>Withdrawn</i> − <b>Forced Response</b>: After you change to this form, set Touched aside.",
+		"text": "<b>Setup</b>: Set your Touched upgrade aside.\n<i>Withdrawn</i> - <b>Forced Response</b>: After you change to this form, set Touched aside.",
 		"traits": "Mutant."
 	},
 	{
 		"code": "38002",
 		"name": "Touched",
-		"text": "If Touched is attached to a:\nMinion − Rogue's attacks gain overkill.\nVillain − Rogue gains retaliate 1.\nAlly − Rogue gains the [[AERIAL]] trait.\nHero − Rogue gains stalwart.",
+		"text": "If Touched is attached to a:\nMinion - Rogue's attacks gain overkill.\nVillain - Rogue gains retaliate 1.\nAlly - Rogue gains the [[AERIAL]] trait.\nHero - Rogue gains stalwart.",
 		"traits": "Condition."
 	},
 	{

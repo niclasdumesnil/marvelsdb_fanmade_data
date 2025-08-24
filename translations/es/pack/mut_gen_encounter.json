@@ -2,7 +2,7 @@
 	{
 		"code": "32025",
 		"name": "Morriña",
-		"text": "<b><i>Dale esta carta al jugador que lleva a Piotr Rasputin.</i></b>\nPuedes adoptar la identidad de tu Alter ego. Elige una opción:\n\u2022 Agota a Piotr Rasputin \u2192 retira de la partida Morriña.\n\u2022 Descarta esta carta y todas las cartas de Estado \"Duro\" que tenga tu Superhéroe. Si no has descartado ninguna carta de Estado \"Duro\" de este modo, esta carta gana Oleada."
+		"text": "<b><i>Dale esta carta al jugador que lleva a Piotr Rasputin.</i></b>\nPuedes adoptar la identidad de tu Alter ego. Elige una opción:\n• Agota a Piotr Rasputin → retira de la partida Morriña.\n• Descarta esta carta y todas las cartas de Estado \"Duro\" que tenga tu Superhéroe. Si no has descartado ninguna carta de Estado \"Duro\" de este modo, esta carta gana Oleada."
 	},
 	{
 		"code": "32026",
@@ -31,7 +31,7 @@
 	{
 		"code": "32055",
 		"name": "En fase permanente",
-		"text": "<b><i>Dale esta carta al jugador que lleva a Kitty Pryde.</i></b>\nDale la vuelta a tu Mejora de identidad de masa para cambiarla a En fase.\nNo puedes atacar, defender ni cambiar de identidad de masa.\n<b>Acción de Alter ego:</b> agota a Kitty Pryde \u2192 retira de la partida En fase permanente."
+		"text": "<b><i>Dale esta carta al jugador que lleva a Kitty Pryde.</i></b>\nDale la vuelta a tu Mejora de identidad de masa para cambiarla a En fase.\nNo puedes atacar, defender ni cambiar de identidad de masa.\n<b>Acción de Alter ego:</b> agota a Kitty Pryde → retira de la partida En fase permanente."
 	},
 	{
 		"code": "32056",
@@ -52,15 +52,15 @@
 	},
 	{
 		"code": "32059",
-		"name": "Contención telepática",
 		"flavor": "\"Pórtate bien y no te muevas...ni hables.Así está mejor.\"-Reina Blanca",
-		"text": "Vincula esta carta a tu Superhéroe.\nMientras la Contención telepática esté vinculada a tu Superhéroe, quedas aturdido.\n<b>Acción:</b> gasta recursos [mental][mental] \u2192 descarta esta carta.",
+		"name": "Contención telepática",
+		"text": "Vincula esta carta a tu Superhéroe.\nMientras la Contención telepática esté vinculada a tu Superhéroe, quedas aturdido.\n<b>Acción:</b> gasta recursos [mental][mental] → descarta esta carta.",
 		"traits": "Alteración."
 	},
 	{
 		"code": "32060",
-		"name": "Dientes de Sable",
 		"flavor": "\"¡Te voy a arrancar las tripas!\"",
+		"name": "Dientes de Sable",
 		"text": "[star] <b>Respuesta obligada:</b> después de que Dientes de Sable se active contra ti, descarta la primera carta del mazo de Encuentros. Cura a Dientes de Sable tanto Daño como el número de iconos de Aumento ([boost]) que se hayan descartado de este modo.",
 		"traits": "Hermandad de mutantes"
 	},
@@ -88,14 +88,14 @@
 	},
 	{
 		"code": "32064a",
-		"name": "El Senador herido",
 		"flavor": "\"¡Dientes de Sable ha herido al senador Kelly y continúa hostigándolo!\"",
+		"name": "El Senador herido",
 		"text": "<b>Cuando se muestre esta carta:</b> reparte a cada jugador 1 carta de Encuentro boca abajo."
 	},
 	{
 		"code": "32064b",
-		"name": "El Senador herido",
 		"flavor": "Poned a salvo a Robert Kelly antes de que Dientes de Sable termine el trabajo.",
+		"name": "El Senador herido",
 		"text": "<b>Cuando se complete esta carta:</b> derrota a Robert Kelly.\n<b>Si Robert Kelly abandona el juego, los jugadores pierden la partida.</b>"
 	},
 	{
@@ -107,7 +107,7 @@
 	{
 		"code": "32065b",
 		"name": "Proteger al Senador",
-		"text": "Robert Kelly no puede curarse mediante efectos de cartas de Jugador y tampoco se le pueden vincular Mejoras.\n<b>Respuesta de Héroe:</b> después de que tu Héroe defienda contra un ataque de Dientes de Sable, gasta 2 recursos de cualquier tipo \u2192 prepara a tu Héroe. El jugador que controla a Robert Kelly es el único que puede aplicar esta capacidad.",
+		"text": "Robert Kelly no puede curarse mediante efectos de cartas de Jugador y tampoco se le pueden vincular Mejoras.\n<b>Respuesta de Héroe:</b> después de que tu Héroe defienda contra un ataque de Dientes de Sable, gasta 2 recursos de cualquier tipo → prepara a tu Héroe. El jugador que controla a Robert Kelly es el único que puede aplicar esta capacidad.",
 		"traits": "Misión."
 	},
 	{
@@ -119,13 +119,13 @@
 	{
 		"code": "32067",
 		"name": "Garras de Adamántium",
-		"text": "Vincula esta carta a Dientes de Sable.\nLos ataques de Dientes de Sable ganan Penetrante.\n<b>Acción de Héroe:</b> gasta recursos [energy][mental][physical] \u2192 descarta esta carta.\n<hr />\n[star] <b>Aumento</b>: Vincula esta carta a Dientes de Sable.",
+		"text": "Vincula esta carta a Dientes de Sable.\nLos ataques de Dientes de Sable ganan Penetrante.\n<b>Acción de Héroe:</b> gasta recursos [energy][mental][physical] → descarta esta carta.\n<hr />\n[star] <b>Aumento</b>: Vincula esta carta a Dientes de Sable.",
 		"traits": "Arma."
 	},
 	{
 		"code": "32068",
 		"name": "Ferocidad Animal",
-		"text": "Vincula esta carta a Dientes de Sable.\nDientes de Sable gana Firmeza.\n<b>Acción de Héroe:</b> gasta recursos [energy][mental][physical] \u2192 descarta esta carta.\n<hr />\n[star] <b>Aumento</b>: Vincula esta carta a Dientes de Sable.",
+		"text": "Vincula esta carta a Dientes de Sable.\nDientes de Sable gana Firmeza.\n<b>Acción de Héroe:</b> gasta recursos [energy][mental][physical] → descarta esta carta.\n<hr />\n[star] <b>Aumento</b>: Vincula esta carta a Dientes de Sable.",
 		"traits": "Alteración."
 	},
 	{
@@ -145,8 +145,8 @@
 	},
 	{
 		"code": "32072",
-		"name": "Rabia salvaje",
 		"flavor": "\"La caza de Kelly ha inducido un frenesí rabioso en Dientes de Sable. ¡Tenéis qué desviar su atención del senador!\"",
+		"name": "Rabia salvaje",
 		"text": "<b>Cuando se derrote esta carta:</b> Dientes de Sable ataca al jugador que haya derrotado este Plan (incluso aunque tenga adoptada la identidad de su Alter ego)."
 	},
 	{
@@ -157,15 +157,15 @@
 	},
 	{
 		"code": "32074",
+		"flavor": "\"¡Nada mueve a la Mole!\"",
 		"name": "Mole",
 		"text": "Guardia.\n[star] <b>Respuesta obligada:</b> después de que la Mole ataque e inflija Daño a un personaje, aturde a ese personaje.",
-		"flavor": "\"¡Nada mueve a la Mole!\"",
 		"traits": "Hermandad de mutantes."
 	},
 	{
 		"code": "32075",
-		"name": "Piros",
 		"flavor": "\"Piros juega con fuego, chicos...¡pero nunca se quema!\"",
+		"name": "Piros",
 		"text": "[star] <b>Respuesta obligada:</b> después de que Piros te ataque, descarta las 2 primeras cartas de tu mazo. Sufres 1 de Daño indirecto por cada icono de recurso impreso que se haya descartado de este modo.",
 		"traits": "Hermandad de mutantes."
 	},
@@ -188,21 +188,21 @@
 	},
 	{
 		"code": "32079",
-		"name": "La Hermandad",
 		"flavor": "\"Magneto fundó la Hermandad de Mutantes para llevar a cabo su plan de supremacía mutante.\"",
+		"name": "La Hermandad",
 		"text": "Complicación 2[per_hero].\nTodos los Esbirros [[HERMANDAD DE MUTANTES]] ganan Ataque veloz."
 	},
 	{
 		"code": "32080",
-		"name": "Mística",
 		"flavor": "\"¡Conmigo no se juega!\"",
+		"name": "Mística",
 		"text": "Dureza.\nLos jugadores no pueden atacar al Villano.\n[star] El valor de PLA de Mística es igual al PLA del Villano, y su ATQ es igual al ATQ del Villano.",
 		"traits": "Hermandad de mutantes. Élite."
 	},
 	{
 		"code": "32081",
-		"name": "Malicia metamórfica",
 		"flavor": "El poder de Mística para adoptar cualquier apariencia la convierte en una enemiga impredecible.",
+		"name": "Malicia metamórfica",
 		"text": "<b>Cuando se derrote esta carta:</b> el jugador que haya derrotado este Plan coge todas las cartas [[Cambiaformas]] que haya en la pila de descartes del mazo de Encuentros, las añade a su mazo y lo baraja."
 	},
 	{
@@ -219,8 +219,8 @@
 	},
 	{
 		"code": "32084",
-		"name": "Centinela",
 		"flavor": "\"MUTANTE DETECTADO, INICIANDO SECUENCIA DE CAPTURA.\"",
+		"name": "Centinela",
 		"text": "Dureza.\n<b>Cuando se muestre esta carta:</b> el jugador inicial busca en el mazo y la pila de descartes de Encuentros una copia del Plan secundario Protocolos de captura y lo muestra.(Baraja el mazo.)",
 		"traits": "Centinela."
 	},
@@ -256,14 +256,14 @@
 		"code": "32088b",
 		"name": "Júbilo",
 		"subname": "Jubilation Lee",
-		"text": "Victoria -1.\nEl jugador inicial controla a Júbilo. No se cuenta de cara a tu límite de Aliados.\n<b>Acción</b>: Agota a Júbilo y gasta un recurso [energy] \u2192 inflige 2 de Daño a un enemigo.",
+		"text": "Victoria -1.\nEl jugador inicial controla a Júbilo. No se cuenta de cara a tu límite de Aliados.\n<b>Acción</b>: Agota a Júbilo y gasta un recurso [energy] → inflige 2 de Daño a un enemigo.",
 		"traits": "Patrulla-X."
 	},
 	{
 		"code": "32089",
+		"flavor": "\"Tío...qué vida tan rara te espera.\"",
 		"name": "Rictor",
 		"subname": "Julio Richter",
-		"flavor": "\"Tío...qué vida tan rara te espera.\"",
 		"text": "<b>Respuesta:</b> después de que Rictor ataque, inflige 1 de Daño al Villano y a cada Esbirro que esté enfrentado a ti.",
 		"traits": "Cautivo. Patrulla-X."
 	},
@@ -276,17 +276,17 @@
 	},
 	{
 		"code": "32091",
+		"flavor": "\"Buen intento, pero cuando despego, soy casi invulnerable.\"",
 		"name": "Bala de Cañón",
 		"subname": "Sam Guthrie",
-		"flavor": "\"Buen intento, pero cuando despego, soy casi invulnerable.\"",
 		"text": "[star] Bala de Cañon sufre -1 de Daño derivado después de que ataque y derrote a un Esbirro.",
 		"traits": "Cautivo. Patrulla-X."
 	},
 	{
 		"code": "32092",
+		"flavor": "\"No sé por qué haces esto. ¡Pero como lastimes a mis amigos, vas a saber lo que es el dolor!\"",
 		"name": "Loba Venenosa",
 		"subname": "Rahne Sinclair",
-		"flavor": "\"No sé por qué haces esto. ¡Pero como lastimes a mis amigos, vas a saber lo que es el dolor!\"",
 		"text": "[star] Los ataques de Loba Venenosa ganan Penetrante.",
 		"traits": "Cautivo. Patrulla-X."
 	},
@@ -299,19 +299,19 @@
 	{
 		"code": "32094",
 		"name": "Guantelete lanzarrayos",
-		"text": "Vincula esta carta al Villano.\n[star] Los ataques del Villano ganan A distancia y Penetrante.\n<b>Acción de Héroe:</b> gasta recursos [physical][physical][physical] \u2192 descarta esta carta.\n<hr />\n[star] <b>Aumento</b>: agota tu carta de Superhéroe.",
+		"text": "Vincula esta carta al Villano.\n[star] Los ataques del Villano ganan A distancia y Penetrante.\n<b>Acción de Héroe:</b> gasta recursos [physical][physical][physical] → descarta esta carta.\n<hr />\n[star] <b>Aumento</b>: agota tu carta de Superhéroe.",
 		"traits": "Centinela. Tecnología."
 	},
 	{
 		"code": "32095",
 		"name": "IA de aprendizaje",
-		"text": "Vincula esta carta al Villano.\n[star] El Villano gana Represalia 1.\n<b>Acción de Héroe:</b> gasta recursos [mental][mental][mental] \u2192 descarta esta carta.\n<hr />\n[star] <b>Aumento</b>: vincula esta carta al Villano.",
+		"text": "Vincula esta carta al Villano.\n[star] El Villano gana Represalia 1.\n<b>Acción de Héroe:</b> gasta recursos [mental][mental][mental] → descarta esta carta.\n<hr />\n[star] <b>Aumento</b>: vincula esta carta al Villano.",
 		"traits": "Centinela. Tecnología."
 	},
 	{
 		"code": "32096",
 		"name": "Blindaje adaptativo",
-		"text": "Vincula esta carta al Villano.\n[star] El Villano recibe +8 de Vida.\n<b>Acción de Héroe:</b> gasta recursos [energy][energy][energy] \u2192 descarta esta carta.\n<hr />\n[star] <b>Aumento</b>: vincula esta carta al Villano.",
+		"text": "Vincula esta carta al Villano.\n[star] El Villano recibe +8 de Vida.\n<b>Acción de Héroe:</b> gasta recursos [energy][energy][energy] → descarta esta carta.\n<hr />\n[star] <b>Aumento</b>: vincula esta carta al Villano.",
 		"traits": "Centinela. Tecnología."
 	},
 	{
@@ -322,13 +322,13 @@
 	{
 		"code": "32098",
 		"name": "Mutante Detectado",
-		"text": "<b>Cuando se muestre esta carta:</b> elige una opción:\n\u2022 Coge la primera carta de tu mazo y colócala boca abajo debajo de Operación Tolerancia Cero.\n\u2022 El Villano y todos los Esbirros que estén enfrentados a ti te atacan (incluso aunque tengas adoptada la identidad de Alter ego)."
+		"text": "<b>Cuando se muestre esta carta:</b> elige una opción:\n• Coge la primera carta de tu mazo y colócala boca abajo debajo de Operación Tolerancia Cero.\n• El Villano y todos los Esbirros que estén enfrentados a ti te atacan (incluso aunque tengas adoptada la identidad de Alter ego)."
 	},
 	{
 		"code": "32099",
-		"name": "Avisar a los demás",
 		"flavor": "\"¡Si no encontramos primero a nuestros amigos, los capturarán a todos!\"-Hombre de Hielo",
-		"text": "<b>Respuesta obligada:</b> después de que termine tu turno, coloca esta carta boca abajo debajo de Operación Tolerancia Cero.\n<b>Respuesta obligada:</b> agota tu Superhéroe \u2192 descarta esta carta."
+		"name": "Avisar a los demás",
+		"text": "<b>Respuesta obligada:</b> después de que termine tu turno, coloca esta carta boca abajo debajo de Operación Tolerancia Cero.\n<b>Respuesta obligada:</b> agota tu Superhéroe → descarta esta carta."
 	},
 	{
 		"code": "32100",
@@ -373,12 +373,12 @@
 	{
 		"code": "32107",
 		"name": "Objetivo designado",
-		"text": "Vincula esta carta a tu Superhéroe si no tienes ya vinculada una copia de Objetivo designado.De no ser así, esta carta gana Oleada.\nMientras estés enfrentado a un Esbirro ([CENTINELA]), no podrás cambiar a tu identidad de Héroe a Alter ego.\n<b>Acción:</b> agota tu carta de Superhéroe \u2192 descarta esta carta."
+		"text": "Vincula esta carta a tu Superhéroe si no tienes ya vinculada una copia de Objetivo designado.De no ser así, esta carta gana Oleada.\nMientras estés enfrentado a un Esbirro ([CENTINELA]), no podrás cambiar a tu identidad de Héroe a Alter ego.\n<b>Acción:</b> agota tu carta de Superhéroe → descarta esta carta."
 	},
 	{
 		"code": "32108",
-		"name": "Robots implacables",
 		"flavor": "Los centinelas se construyeron con el único propósito de cazar mutantes. No se cansan. No se detendrán hasta haber capturado a su objetivo.",
+		"name": "Robots implacables",
 		"text": "Ningún jugador que esté enfrentado a un Esbirro [[CENTINELA]] puede intervenir este Plan."
 	},
 	{
@@ -422,8 +422,8 @@
 	},
 	{
 		"code": "32114",
-		"name": "Centinela Mark VIII",
 		"flavor": "\"¡Han mejorado su blindaje!\"-Cíclope",
+		"name": "Centinela Mark VIII",
 		"text": "<b>Respuesta obligada:</b> después de que este Esbirro se enfrente a ti, vincúlale el primer Accesorio [[CENTINELA]] que hata en la parte superior de la pila de descartes.",
 		"traits": "Centinela."
 	},
@@ -456,22 +456,22 @@
 	},
 	{
 		"code": "32120",
-		"name": "Cargar virus informático",
 		"flavor": "Si lográis introducir un virus informático en el ordenador central del Molde Maestro, lo debilitaréis desde dentro.",
+		"name": "Cargar virus informático",
 		"text": "Complicación 2[per_hero]. Victoria 1.\n<b>Cuando se derrote esta carta:</b> inflige 2 de Daño a cada enemigo [[CENTINELA]]."
 	},
 	{
 		"back_link": "32121b",
 		"code": "32121a",
-		"name": "Avalancha A",
 		"flavor": "\"¡Salid a pelear o derribaré el edificio entero!\"",
+		"name": "Avalancha A",
 		"text": "Dureza. Victoria 2.\n<b>Respuesta obligada:</b> después de que Avalacha te ataque, agota un Aliado que controles.",
 		"traits": "Hermandad de mutantes."
 	},
 	{
 		"code": "32121b",
-		"name": "Avalancha B",
 		"flavor": "\"¡Salid a pelear o derribaré el edificio entero!\"",
+		"name": "Avalancha B",
 		"text": "Dureza. Victoria 2.\n<b>Respuesta obligada:</b> después de que Avalacha te ataque, agota un Aliado que controles.",
 		"traits": "Hermandad de mutantes."
 	},
@@ -479,16 +479,16 @@
 		"back_link": "32122b",
 		"code": "32122a",
 		"errata": "Deberia ser \"y cause Daño\" en vez de \"e inflija Daño\".",
-		"name": "Mole A",
 		"flavor": "\"¡Primero os voy a aplastar!¡Y luego os vaciaré la nevera!\"",
+		"name": "Mole A",
 		"text": "Dureza. Victoria 2.\n<b>Respuesta obligada:</b> después de que Mole te ataque e inflija Daño, aturde a ese personaje.",
 		"traits": "Hermandad de mutantes."
 	},
 	{
 		"code": "32122b",
 		"errata": "Deberia ser \"y cause Daño\" en vez de \"e inflija Daño\".",
-		"name": "Mole B",
 		"flavor": "\"¡Primero os voy a aplastar!¡Y luego os vaciaré la nevera!\"",
+		"name": "Mole B",
 		"text": "Dureza. Victoria 2.\n<b>Respuesta obligada:</b> después de que Mole te ataque e inflija Daño, aturde a ese personaje.",
 		"traits": "Hermandad de mutantes."
 	},
@@ -508,16 +508,16 @@
 		"back_link": "32124b",
 		"code": "32124a",
 		"errata": "Deberia ser \"y cause Daño\" en vez de \"e inflija Daño\".",
-		"name": "Sapo A",
 		"flavor": "\"¡En la Patrulla-X todos os creéis mejores que yo!¡Pues os vais a enterar!\"",
+		"name": "Sapo A",
 		"text": "Dureza. Victoria 2.\n<b>Respuesta obligada:</b> después de que Sapo te ataque e inflija Daño a un personaje que controles, descarta 1 carta de tu mano al azar.",
 		"traits": "Hermandad de mutantes."
 	},
 	{
 		"code": "32124b",
 		"errata": "Deberia ser \"y cause Daño\" en vez de \"e inflija Daño\".",
-		"name": "Sapo B",
 		"flavor": "\"¡En la Patrulla-X todos os creéis mejores que yo!¡Pues os vais a enterar!\"",
+		"name": "Sapo B",
 		"text": "Dureza. Victoria 2.\n<b>Respuesta obligada:</b> después de que Sapo te ataque e inflija Daño a un personaje que controles, descarta 1 carta de tu mano al azar.",
 		"traits": "Hermandad de mutantes."
 	},
@@ -584,7 +584,7 @@
 	{
 		"code": "32131",
 		"name": "Vapuleados por la Hermandad",
-		"text": "<b>Cuando se muestre esta carta</b>: por cada uno de los siguientes enemigos que esté en juego:\n\u2022 Avalancha: agota tu carta de Superhéroe. \n\u2022 Mole: quedas aturdido. \n\u2022 Piros: sufres 2 de Daño indirecto. \n\u2022 Sapo: descarta 1 carta de tu mano al azar."
+		"text": "<b>Cuando se muestre esta carta</b>: por cada uno de los siguientes enemigos que esté en juego:\n• Avalancha: agota tu carta de Superhéroe.\n• Mole: quedas aturdido.\n• Piros: sufres 2 de Daño indirecto.\n• Sapo: descarta 1 carta de tu mano al azar."
 	},
 	{
 		"code": "32132",
@@ -618,8 +618,8 @@
 	},
 	{
 		"code": "32138",
-		"name": "Magneto",
 		"flavor": "\"¡Oponerse al Amo del Magnetismo es una invitación para ser destruido!\"",
+		"name": "Magneto",
 		"text": "Tesón. Dureza.\n[star] <b>Respuesta obligada:</b> después de que Magneto te ataque, coloca 1 contador de Magnetismo sobre el Plan principal.",
 		"traits": "Hermandad de mutantes."
 	},
@@ -703,14 +703,14 @@
 		"code": "32147",
 		"flavor": "Magneto diseñó su casco para protegerse de los poderes telepáticos de Xavier.",
 		"name": "Casco de Magneto",
-		"text": "Vincula esta carta a Magneto.\nMagneto no puede quedar confundido.\n<b>Respuesta de Héroe:</b> después de que tu Héroe realice un ataque básico contra Magneto, gasta recursos [energy][mental][physical] \u2192 descarta esta carta.",
+		"text": "Vincula esta carta a Magneto.\nMagneto no puede quedar confundido.\n<b>Respuesta de Héroe:</b> después de que tu Héroe realice un ataque básico contra Magneto, gasta recursos [energy][mental][physical] → descarta esta carta.",
 		"traits": "Armadura. Magnético."
 	},
 	{
 		"code": "32148",
 		"flavor": "La armadura de Magneto es lo bastante resistente como para sobrevivir al impacto directo del rayo de un centinela.",
 		"name": "Armadura de Magneto",
-		"text": "Vincula esta carta a Magneto.\nMagneto no puede quedar aturdido.\n<b>Respuesta de Héroe:</b> después de que tu Héroe realice un ataque básico contra Magneto, gasta recursos [energy][mental][physical] \u2192 descarta esta carta.",
+		"text": "Vincula esta carta a Magneto.\nMagneto no puede quedar aturdido.\n<b>Respuesta de Héroe:</b> después de que tu Héroe realice un ataque básico contra Magneto, gasta recursos [energy][mental][physical] → descarta esta carta.",
 		"traits": "Armadura. Magnético."
 	},
 	{
@@ -723,7 +723,7 @@
 		"code": "32150",
 		"flavor": "\"Vaya, esto no es bueno\"—Arcángel",
 		"name": "Envoltura Metálica",
-		"text": "Vincula esta carta a tu Superhéroe.\nEl Superhéroe vinculado no puede intervenir, atacar, defender ni recuperarse.\n<b>Acción:</b> agota a tu Superhéroe y gasta un recurso [physical] \u2192 descarta esta carta.",
+		"text": "Vincula esta carta a tu Superhéroe.\nEl Superhéroe vinculado no puede intervenir, atacar, defender ni recuperarse.\n<b>Acción:</b> agota a tu Superhéroe y gasta un recurso [physical] → descarta esta carta.",
 		"traits": "Magnético."
 	},
 	{

@@ -33,13 +33,13 @@
 	{
 		"code": "60506",
 		"name": "From Nothing",
-		"text": "<b>Hero Action</b>: Remove X threat from a scheme, where X is equal to your THW.\n<i>“You’re nothing.”</i>",
+		"text": "<b>Hero Action</b>: Remove X threat from a scheme, where X is equal to your THW.\n<i>“You're nothing.”</i>",
 		"traits": "Spell."
 	},
 	{
 		"code": "60508",
 		"name": "Death Ray",
-		"text": "<b>Hero Action</b>: Deal 7 damage to an enemy. If you discard 1 card from the top of the encounter deck, deal those damage among enemies in play.\n“Don’t threaten my sister!”\n<i>\n</i>",
+		"text": "<b>Hero Action</b>: Deal 7 damage to an enemy. If you discard 1 card from the top of the encounter deck, deal those damage among enemies in play.\n“Don't threaten my sister!”\n<i>\n</i>",
 		"traits": "Spell."
 	},
 	{
@@ -74,7 +74,7 @@
 	},
 	{
 		"code": "60517",
-		"name": "Weapon Hex’s Claws",
+		"name": "Weapon Hex's Claws",
 		"text": "Restricted.\nWeapon Hex gets +2 ATK and her basic attacks gain piercing.",
 		"traits": "Weapon."
 	}

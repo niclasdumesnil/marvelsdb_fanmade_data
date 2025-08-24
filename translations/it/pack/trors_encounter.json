@@ -2,7 +2,7 @@
 	{
 		"code": "04026",
 		"name": "Trascorsi Criminali",
-		"text": "<b><i>Fai ricevere al giocatore Clint Barton.</i></b>\nPuoi assumere la sembianza di alter ego. Scegli 1 effetto tra:\n\u2022 Esaurisci Clint Barton → rimuovi dal gioco Trascorsi Criminali.\n\u2022 Scarta Arco di Occhio di Falco dal gioco. Scarta questa incombenza.\n"
+		"text": "<b><i>Fai ricevere al giocatore Clint Barton.</i></b>\nPuoi assumere la sembianza di alter ego. Scegli 1 effetto tra:\n• Esaurisci Clint Barton → rimuovi dal gioco Trascorsi Criminali.\n• Scarta Arco di Occhio di Falco dal gioco. Scarta questa incombenza.\n"
 	},
 	{
 		"code": "04027",
@@ -30,7 +30,7 @@
 	{
 		"code": "04053",
 		"name": "Fedeltà Vacillante",
-		"text": "<b><i>Fai ricevere al giocatore Jessica Drew.</i></b>\nPuoi assumere la sembianza di alter ego.\nScegli 1 effetto tra:\n\u2022 Esaurisci Jessica Drew → rimuovi dal gioco Fedeltà Vacillante.\n\u2022 Colloca 3 minacce sulla trama principale. Scarta questa incombenza."
+		"text": "<b><i>Fai ricevere al giocatore Jessica Drew.</i></b>\nPuoi assumere la sembianza di alter ego.\nScegli 1 effetto tra:\n• Esaurisci Jessica Drew → rimuovi dal gioco Fedeltà Vacillante.\n• Colloca 3 minacce sulla trama principale. Scarta questa incombenza."
 	},
 	{
 		"code": "04054",
@@ -197,7 +197,7 @@
 	{
 		"code": "04078",
 		"name": "Uomo Assorbente",
-		"text": "Uomo Assorbente ottiene i tratti di ogni ambiente in gioco.\n[star] <b>Risposta Obbligata:</b> dopo che Uomo Assorbente si è attivato contro di te, se possiede il tratto:\n\u2022 [[Ghiaccio]] o [[Pietra]], colloca 1 minaccia sulla trama principale.\n\u2022 [[Metallo]] o [[Legno]], subisci 1 danno indiretto.",
+		"text": "Uomo Assorbente ottiene i tratti di ogni ambiente in gioco.\n[star] <b>Risposta Obbligata:</b> dopo che Uomo Assorbente si è attivato contro di te, se possiede il tratto:\n• [[Ghiaccio]] o [[Pietra]], colloca 1 minaccia sulla trama principale.\n• [[Metallo]] o [[Legno]], subisci 1 danno indiretto.",
 		"traits": "Bruto."
 	},
 	{

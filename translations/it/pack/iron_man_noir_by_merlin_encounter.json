@@ -12,7 +12,7 @@
 	{
 		"code": "70519a",
 		"name": "Explore Atlantis",
-		"text": "[[expedition.\n]]<b>Setup</b>: Set this card aside.\n<b>Forced Response</b>: After you place a clue counter here, if there are at least 3 clue counters here, flip this card and put Neptune Trident into play under any player's control. \n<i>According to Platon, Atlantis was built on an island beyond the pillars of Herakles.</i>"
+		"text": "[[expedition.\n]]<b>Setup</b>: Set this card aside.\n<b>Forced Response</b>: After you place a clue counter here, if there are at least 3 clue counters here, flip this card and put Neptune Trident into play under any player's control.\n<i>According to Platon, Atlantis was built on an island beyond the pillars of Herakles.</i>"
 	},
 	{
 		"code": "70520a",
@@ -26,13 +26,13 @@
 	},
 	{
 		"code": "70522",
-		"name": "Nazis’ Pressure",
-		"text": "[[expedition.\n]]You may flip to hero form.\n<b>Response</b>: After you place a clue counter here, if there are at least 3 clue counters here, remove Nazis’ Pressure from the game.\n[hazard]"
+		"name": "Nazis' Pressure",
+		"text": "[[expedition.\n]]You may flip to hero form.\n<b>Response</b>: After you place a clue counter here, if there are at least 3 clue counters here, remove Nazis' Pressure from the game.\n[hazard]"
 	},
 	{
 		"code": "70523",
 		"name": "Doctor Zemo",
-		"text": "[star]<b> Forced interrupt</b>: When Doctor Zemo attacks you, that attack deals indirect damage.\n<i>(Iron Man Noir’s nemesis minion.)</i>",
+		"text": "[star]<b> Forced interrupt</b>: When Doctor Zemo attacks you, that attack deals indirect damage.\n<i>(Iron Man Noir's nemesis minion.)</i>",
 		"traits": "Elite. Hydra."
 	},
 	{
@@ -43,7 +43,7 @@
 	{
 		"code": "70525",
 		"name": "Backfire",
-		"text": "<b>When Revealed</b>: Choose to either deal 1 damage to your hero for each [[artefact ]]upgrade under your control (to a maximum of 3), or discard an upgrade you control.\n<i>“No, it’s not possible!” </i>—<i>Tony</i>"
+		"text": "<b>When Revealed</b>: Choose to either deal 1 damage to your hero for each [[artefact ]]upgrade under your control (to a maximum of 3), or discard an upgrade you control.\n<i>“No, it's not possible!” </i>—<i>Tony</i>"
 	},
 	{
 		"code": "70527",

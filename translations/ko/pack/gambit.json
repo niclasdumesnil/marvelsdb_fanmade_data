@@ -2,13 +2,13 @@
 	{
 		"code": "37001a",
 		"name": "Gambit",
-		"text": "<i>Charge de Card</i> − <b>Action</b>: Place 1 charge counter here. (Limit once per round).\n<i>Throw de Card</i> − <b>Interrupt</b>: When you play an [[ATTACK]] event, remove up to 3 charge counters from here → that event deal +1 damage for each counter removed.",
+		"text": "<i>Charge de Card</i> - <b>Action</b>: Place 1 charge counter here. (Limit once per round).\n<i>Throw de Card</i> - <b>Interrupt</b>: When you play an [[ATTACK]] event, remove up to 3 charge counters from here → that event deal +1 damage for each counter removed.",
 		"traits": "Thief. X-Men."
 	},
 	{
 		"code": "37001b",
 		"name": "Remy LeBeau",
-		"text": "<i>Thief Extraordinaire</i> − <b>Action</b> <i>(thwart)</i>: Exhaust Remy LeBeau and look at the top 2 cards of the encounter deck. Discard 1 of those cards → remove threat from a scheme equal to the number of boost icons ([boost]) on that card.",
+		"text": "<i>Thief Extraordinaire</i> - <b>Action</b> <i>(thwart)</i>: Exhaust Remy LeBeau and look at the top 2 cards of the encounter deck. Discard 1 of those cards → remove threat from a scheme equal to the number of boost icons ([boost]) on that card.",
 		"traits": "Mutant. Thief."
 	},
 	{
@@ -27,7 +27,7 @@
 	},
 	{
 		"code": "37004",
-		"flavor": "\"You want to fight wit' Gambit, eh?\" −Gambit",
+		"flavor": "\"You want to fight wit' Gambit, eh?\" -Gambit",
 		"name": "Gambit's Staff",
 		"text": "<b>Hero Interrupt</b>: When an enemy attacks, exhaust Gambit's Staff → deal 1 damage to that enemy.",
 		"traits": "Item. Weapon."
@@ -47,7 +47,7 @@
 	},
 	{
 		"code": "37007",
-		"flavor": "\"Cover your eyes, mes amis. Dis hand gon' be fire!\" −Gambit",
+		"flavor": "\"Cover your eyes, mes amis. Dis hand gon' be fire!\" -Gambit",
 		"name": "Royal Flush",
 		"text": "<b>Hero Action</b> <i>(attack)</i>: Place 1 charge counter on Gambit. Deal 0 damage to an enemy. Deal 0 damage to an enemy. Deal 0 damage to an enemy.",
 		"traits": "Attack. Superpower."
@@ -60,7 +60,7 @@
 	},
 	{
 		"code": "37009",
-		"flavor": "\"How can I be de thief when you de one stole my heart, chére?\" −Gambit",
+		"flavor": "\"How can I be de thief when you de one stole my heart, chére?\" -Gambit",
 		"name": "Creole Charmer",
 		"text": "<b>Alter-Ego Action</b> <i>(thwart)</i>: Remove 3 threat from a scheme. If this removes the last threat from that scheme, confuse the villain.",
 		"traits": "Thwart."

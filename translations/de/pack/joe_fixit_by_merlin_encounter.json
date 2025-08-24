@@ -2,17 +2,17 @@
 	{
 		"code": "70617",
 		"name": "Bruce is Back",
-		"text": "You must flip to alter-ego form. \nExhaust your identity. Discard this obligation.\n<i>“What the hell?”\n</i>[hazard]"
+		"text": "You must flip to alter-ego form.\nExhaust your identity. Discard this obligation.\n<i>“What the hell?”\n</i>[hazard]"
 	},
 	{
 		"code": "70618",
 		"name": "Hostile Takeover",
-		"text": "<i>“So he sould be cooperative to our... overtures. If not, we will have to persuade him.”\n</i>Each [[criminal ]]enemy gets +1 SCH and +1 ATK.\n<i>(Joe Fixit’s nemesis side scheme.)</i>\n[hazard]"
+		"text": "<i>“So he sould be cooperative to our... overtures. If not, we will have to persuade him.”\n</i>Each [[criminal ]]enemy gets +1 SCH and +1 ATK.\n<i>(Joe Fixit's nemesis side scheme.)</i>\n[hazard]"
 	},
 	{
 		"code": "70619",
 		"name": "Kingpin",
-		"text": "Toughness.\nKingpin cannot take damage while you are engaged with another minion.\n<i>(Joe Fixit’s nemesis minion.)\n</i>",
+		"text": "Toughness.\nKingpin cannot take damage while you are engaged with another minion.\n<i>(Joe Fixit's nemesis minion.)\n</i>",
 		"traits": "Criminal. Elite."
 	},
 	{

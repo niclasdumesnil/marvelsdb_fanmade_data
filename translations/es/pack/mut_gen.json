@@ -13,25 +13,25 @@
 	},
 	{
 		"code": "32002",
+		"flavor": "\"¡Peter, grandísimo bobo! ¡Lo que está hecho de metal es tu cuerpo, no tu cerebro!\"",
 		"name": "Gatasombra",
 		"subname": "Kitty Pryde",
 		"text": "Gatasombra ignora las palabras clave Guardia y Patrulla, así como los iconos de Crisis ([crisis]) que haya en juego.",
-		"traits": "Patrulla-X.",
-		"flavor": "\"¡Peter, grandísimo bobo! ¡Lo que está hecho de metal es tu cuerpo, no tu cerebro!\""
+		"traits": "Patrulla-X."
 	},
 	{
 		"code": "32003",
+		"flavor": "\"Bajo esa piel de acero late el corazón de un artista que prefiere pintar a pelear\"",
 		"name": "Estudio de Piotr",
 		"text": "<b>Acción de Alter ego</b>: agota el Estudio de Piotr → descarta cartas de tu mazo hasta que descartes una carta de Coloso. Añade esa carta a tu mano.",
-		"traits": "Lugar.",
-		"flavor": "\"Bajo esa piel de acero late el corazón de un artista que prefiere pintar a pelear\""
+		"traits": "Lugar."
 	},
 	{
 		"code": "32004",
+		"flavor": "\"La voluntad de Petey es tan fuerte como su piel blindada. No se rinde nunca.\" —Lobezno",
 		"name": "Voluntad Férrea",
 		"text": "Coloso recibe +1 INT.\n<b>Respuesta</b>: después de que se descarte una carta de Estado \"Duro\" de Coloso, roba 1 carta.",
-		"traits": "Superpoder.",
-		"flavor": "\"La voluntad de Petey es tan fuerte como su piel blindada. No se rinde nunca.\" —Lobezno"
+		"traits": "Superpoder."
 	},
 	{
 		"code": "32005",
@@ -47,17 +47,17 @@
 	},
 	{
 		"code": "32007",
+		"flavor": "\"¡¡Aaarrrrrrhhhhhh!!\" —Coloso",
 		"name": "Hecho de rabia",
 		"text": "<b>Interrupción de Héroe</b>: cuando realices un ataque básico, descarta una carta de Estado \"Duro\" de tu Héroe → recibes +6 ATQ para ese ataque. Ese ataque gana Brutalidad.",
-		"traits": "Superpoder.",
-		"flavor": "\"¡¡Aaarrrrrrhhhhhh!!\" —Coloso"
+		"traits": "Superpoder."
 	},
 	{
 		"code": "32008",
+		"flavor": "\"Entonces, camaradas.. ¡terminemos esta batalla de una vez por todas!\" —Coloso",
 		"name": "Puño de acero",
 		"text": "<b>Acción de Héroe</b> <i>(ataque)</i>: inflige 5 de Daño a un enemigo. Puedes descartar una carta de Estado \"Duro\" de tu Héroe → aturde y confunde a ese enemigo.",
-		"traits": "Ataque. Superpoder.",
-		"flavor": "\"Entonces, camaradas.. ¡terminemos esta batalla de una vez por todas!\" —Coloso"
+		"traits": "Ataque. Superpoder."
 	},
 	{
 		"code": "32009",
@@ -67,10 +67,10 @@
 	},
 	{
 		"code": "32010",
+		"flavor": "\"Has jugado conmigo, cuando deberías haberme matado. Y me has dado tiempo para convertirme de Piotr Rasputin..¡en Coloso!\" —Coloso",
 		"name": "Acorazarse",
 		"text": "<b>Interrupción de Alter ego</b>: cuando el Villano se active, cambia a tu identidad de Héroe.",
-		"traits": "Superpoder.",
-		"flavor": "\"Has jugado conmigo, cuando deberías haberme matado. Y me has dado tiempo para convertirme de Piotr Rasputin..¡en Coloso!\" —Coloso"
+		"traits": "Superpoder."
 	},
 	{
 		"code": "32011",
@@ -94,10 +94,10 @@
 	},
 	{
 		"code": "32014",
+		"flavor": "\"¿Te apetece un poco de jarabe de palo?\" —Gatasombra",
 		"name": "Puñetazo potente",
 		"text": "<b>Interrupción de Héroe</b> <i>(ataque/defensa)</i>: cuando un enemigo inicie un ataque, inflige 4 de Daño a ese enemigo.",
-		"traits": "Ataque. Defensa.",
-		"flavor": "\"¿Te apetece un poco de jarabe de palo?\" —Gatasombra"
+		"traits": "Ataque. Defensa."
 	},
 	{
 		"code": "32016",
@@ -126,10 +126,10 @@
 	},
 	{
 		"code": "32020",
+		"flavor": "\"¡Forja se ha superado a sí mismo con esta maravilla!\" -Bestia",
 		"name": "Jet-X",
 		"text": "<b>Recurso</b>: agota el Jet-X → genera un recurso [wild] para un jugador cuyo Superhéroe tenga el rasgo [[PATRULLA-X]].",
-		"traits": "Vehículo. Patrulla-X.",
-		"flavor": "\"¡Forja se ha superado a sí mismo con esta maravilla!\" -Bestia"
+		"traits": "Vehículo. Patrulla-X."
 	},
 	{
 		"code": "32021",
@@ -139,10 +139,10 @@
 	},
 	{
 		"code": "32030a",
+		"flavor": "\"¡No puedes detener lo que no puedes tocar!\"",
 		"name": "Gatasombra",
 		"text": "<i>Intangibilidad selectiva</i> - Mientras tengas adoptada la identidad de masa En fase, Gatasombra ignora las palabras clave Guardia y Patrulla, así como los iconos de Crisis ([crisis]) que haya en juego.",
-		"traits": "Patrulla-X.",
-		"flavor": "\"¡No puedes detener lo que no puedes tocar!\""
+		"traits": "Patrulla-X."
 	},
 	{
 		"code": "32030b",
@@ -174,17 +174,17 @@
 	},
 	{
 		"code": "32034",
+		"flavor": "\"¿Tienes idea de cuánto he de concentrarme para cambiar de fase sólo el pie?\" -Gatasombra",
 		"name": "Control preciso",
 		"text": "<b>Respuesta de Héroe</b>: después de que ignores la palabra clave Guardia o Patrulla de un Esbirro, agota Control preciso → inflige 2 de Daño a ese Esbirro.",
-		"traits": "Superpoder.",
-		"flavor": "\"¿Tienes idea de cuánto he de concentrarme para cambiar de fase sólo el pie?\" -Gatasombra"
+		"traits": "Superpoder."
 	},
 	{
 		"code": "32035",
+		"flavor": "\"El poder de Gatasombra para cambiar de fase ejerce un efecto disruptivo en los aparatos electrónicos.\"",
 		"name": "Interferencia intangible",
 		"text": "<b>Respuesta de Héroe</b>: después de que ignores el icono de Crisis ([crisis]) de un Plan, agota Interferencia intangible → quita 2 de Amenaza de ese Plan.",
-		"traits": "Superpoder.",
-		"flavor": "\"El poder de Gatasombra para cambiar de fase ejerce un efecto disruptivo en los aparatos electrónicos.\""
+		"traits": "Superpoder."
 	},
 	{
 		"code": "32036",
@@ -194,10 +194,10 @@
 	},
 	{
 		"code": "32037",
+		"flavor": "\"Vais a ver algo más para lo que probablemente no estéis preparados.\" -Gatasombra",
 		"name": "Sorpresa de Gatasombra",
 		"text": "<b>Acción de Héroe</b> <i>(ataque)</i>: inflige 3 de Daño a un enemigo. Prepara tu Héroe.",
-		"traits": "Ataque. Superpoder.",
-		"flavor": "\"Vais a ver algo más para lo que probablemente no estéis preparados.\" -Gatasombra"
+		"traits": "Ataque. Superpoder."
 	},
 	{
 		"code": "32038",
@@ -207,10 +207,10 @@
 	},
 	{
 		"code": "32039",
+		"flavor": "\"Soy intocable. ¡Porque no hay nada que tocar!\" -Gatasombra",
 		"name": "Caminar por el aire",
 		"text": "<b>Acción de Héroe</b> <i>(intervención)</i>: quita 2 de Amenaza de un Plan (4 de Amenaza si tu identidad de masa es En fase).",
-		"traits": "Superpoder. Intervención.",
-		"flavor": "\"Soy intocable. ¡Porque no hay nada que tocar!\" -Gatasombra"
+		"traits": "Superpoder. Intervención."
 	},
 	{
 		"code": "32040",
@@ -220,11 +220,11 @@
 	},
 	{
 		"code": "32041",
+		"flavor": "\"¿Te sientes afortunado,nene?\"",
 		"name": "Lobezno",
 		"subname": "Logan",
 		"text": "[star] Los ataques de Lobezno ganan Penetrante.\n<b>Respuesta</b>: después de que empiece tu turno, cura 1 de Daño a Lobezno.",
-		"traits": "Patrulla-X.",
-		"flavor": "\"¿Te sientes afortunado,nene?\""
+		"traits": "Patrulla-X."
 	},
 	{
 		"code": "32042",
@@ -258,11 +258,11 @@
 	},
 	{
 		"code": "32048",
-		"name": "Coloso",
-		"text": "Reduce en 1 el coste para jugar a Coloso si tu Superhéroe tiene el rasgo [[MUTANTE]] o [[PATRULLA-X]].\nDureza.",
-		"traits": "Patrulla-X.",
 		"flavor": "\"¡Ponte detrás de mí, tovarisch!\"",
-		"subname": "Piotr Rasputin"
+		"name": "Coloso",
+		"subname": "Piotr Rasputin",
+		"text": "Reduce en 1 el coste para jugar a Coloso si tu Superhéroe tiene el rasgo [[MUTANTE]] o [[PATRULLA-X]].\nDureza.",
+		"traits": "Patrulla-X."
 	},
 	{
 		"code": "32049",

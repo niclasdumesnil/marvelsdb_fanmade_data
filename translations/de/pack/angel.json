@@ -23,7 +23,7 @@
 		"code": "42002",
 		"name": "Psylocke",
 		"subname": "Betsy Braddock",
-		"text": "[star] <b>Held - Reaktion</b> : Nachdem Psylocke angegriffen hat und falls du:\n\u2022 bist, heile 1 Schaden von Psylocke.\n\u2022 Archangel bist, mache deinen Helden spielbereit.",
+		"text": "[star] <b>Held - Reaktion</b> : Nachdem Psylocke angegriffen hat und falls du:\n• bist, heile 1 Schaden von Psylocke.\n• Archangel bist, mache deinen Helden spielbereit.",
 		"traits": "Psionisch. X-Force."
 	},
 	{
@@ -79,7 +79,7 @@
 	{
 		"code": "42011",
 		"name": "Elixir",
-	    "subname": "Josh Foley",
+		"subname": "Josh Foley",
 		"text": "Spiele diese Karte nur, falls deine Identität das Merkmal [[X-FORCE]] oder [[X-MEN]] hat.\n[star] <b>Reaktion</b> : Nachdem Elixir angegriffen oder Widerstand geleistet hat, heile 1 Schaden von einem anderen befreundeten Charakter.",
 		"traits": "X-Force."
 	},
@@ -88,7 +88,7 @@
 		"flavor": "\"EEEEEEEEEEEEEEEEEEEEEEEE!\"",
 		"name": "Siryn",
 		"subname": "Theresa Cassidy",
-        "text": "[star] <b>Reaktion</b> : Nachdem Siryn angegriffen hat, betäube einen Schergen.",
+		"text": "[star] <b>Reaktion</b> : Nachdem Siryn angegriffen hat, betäube einen Schergen.",
 		"traits": "Fliegend. X-Force."
 	},
 	{
@@ -106,15 +106,15 @@
 	},
 	{
 		"code": "42015",
-		"name": "Allzeit wachsam",
 		"flavor": "\"Ich beobachte alles mit Adleraugen.\" — Archangel",
+		"name": "Allzeit wachsam",
 		"text": "Spiele diese Karte nur, falls deine Identität das Merkmal [[FLIEGEND]] hat.\n<b>Held Aktion</b> : Mache deinen Helden spielbereit und entferne 2 Bedrohung vom Hauptplan.",
 		"traits": "Fertigkeit. Fliegend."
 	},
 	{
 		"code": "42016",
-		"name": "Verspotten",
 		"flavor": "\"Hey! Fiffi! Wer hat dich denn von der Leine gelassen?\" — Jubilee",
+		"name": "Verspotten",
 		"text": "<b>Held Aktion</b> : Der Schurke greift dich an. Andere Charaktere können gegen diesen Angriff nicht verteidigen. Ziehe 3 Karten.",
 		"traits": "Taktik."
 	},
@@ -140,7 +140,7 @@
 		"code": "42020",
 		"flavor": "\"Geh mir lieber aus dem Weg, wenn ich losschieße!\"",
 		"name": "Cannonball",
-	    "subname": "Sam Guthrie",
+		"subname": "Sam Guthrie",
 		"text": "<b>Unterbrechung</b> : Sobald Cannonball eine beliebige Menge an Folgeschaden nehmen würde, senke die Menge um X. X ist die Anzahl der [[FLIEGEND]]-Karten auf deiner Hand.",
 		"traits": "Fliegend. X-Force."
 	},
@@ -175,8 +175,8 @@
 	},
 	{
 		"code": "42031",
-		"name": "Flugformation",
 		"flavor": "\"Bobby, in Formation!\" — Archangel",
+		"name": "Flugformation",
 		"text": "Allianz. (Die Spieler können die Kosten dieser Karte als Gruppe bezahlen.)\n<b>Held Aktion</b> : Mache bis zu 3 [[FLIEGEND]]-Charaktere spielbereit.",
 		"traits": "Fliegend. Taktik."
 	},

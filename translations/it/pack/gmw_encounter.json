@@ -2,7 +2,7 @@
 	{
 		"code": "16025",
 		"name": "Avvizzimento",
-		"text": "<b><i>Fai ricevere al giocatore Groot.</i></b>\nPuoi assumere la sembianza di alter ego. Scegli 1 effetto tra:\n\u2022 Esaurisci il tuo alter ego → rimuovi dal gioco Avvizzimento.\n\u2022 Rimuovi 3 gettoni crescita da Groot. Se nessun gettone crescita è stato rimosso in questo modo, questa carta ottiene Impulso. Scarta questa incombenza."
+		"text": "<b><i>Fai ricevere al giocatore Groot.</i></b>\nPuoi assumere la sembianza di alter ego. Scegli 1 effetto tra:\n• Esaurisci il tuo alter ego → rimuovi dal gioco Avvizzimento.\n• Rimuovi 3 gettoni crescita da Groot. Se nessun gettone crescita è stato rimosso in questo modo, questa carta ottiene Impulso. Scarta questa incombenza."
 	},
 	{
 		"code": "16026",
@@ -24,7 +24,7 @@
 	{
 		"code": "16053",
 		"name": "Crisi su Mezzomondo",
-		"text": "<b><i>Fai ricevere al giocatore Rocket Raccoon.</i></b>\nPuoi assumere la sembianza di alter ego. Scegli 1 effetto tra:\n\u2022 Esaurisci il tuo alter ego → rimuovi dal gioco Crisi su Mezzomondo.\n\u2022 Scarta la miglioria dal costo più alto che controlli. Se nessuna miglioria è stata scartata in questo modo, questa carta ottiene Impulso. Scarta questa incombenza."
+		"text": "<b><i>Fai ricevere al giocatore Rocket Raccoon.</i></b>\nPuoi assumere la sembianza di alter ego. Scegli 1 effetto tra:\n• Esaurisci il tuo alter ego → rimuovi dal gioco Crisi su Mezzomondo.\n• Scarta la miglioria dal costo più alto che controlli. Se nessuna miglioria è stata scartata in questo modo, questa carta ottiene Impulso. Scarta questa incombenza."
 	},
 	{
 		"code": "16054",
@@ -195,8 +195,8 @@
 	{
 		"code": "16080a",
 		"name": "Collezionista",
-		"traits": "Antico dell'Universo.",
-		"text": "[star] Collezionista riceve +X TRA e +X ATT, dove X è pari al numero di stadio attuale della trama principale.\n<b>Interruzione Obbligata:</b> Quando Collezionista sta per essere sconfitto, rimuovi invece 3[per_hero] minacce dalla trama principale e gira questa carta."
+		"text": "[star] Collezionista riceve +X TRA e +X ATT, dove X è pari al numero di stadio attuale della trama principale.\n<b>Interruzione Obbligata:</b> Quando Collezionista sta per essere sconfitto, rimuovi invece 3[per_hero] minacce dalla trama principale e gira questa carta.",
+		"traits": "Antico dell'Universo."
 	},
 	{
 		"code": "16080b",
@@ -208,8 +208,8 @@
 	{
 		"code": "16081a",
 		"name": "Collezionista",
-		"traits": "Antico dell'Universo.",
-		"text": "[star] Collezionista riceve +X TRA e +X ATT, dove X è pari al numero di stadio attuale della trama principale.\n<b>Interruzione Obbligata:</b> Quando Collezionista sta per essere sconfitto, rimuovi invece 3[per_hero] minacce dalla trama principale e gira questa carta."
+		"text": "[star] Collezionista riceve +X TRA e +X ATT, dove X è pari al numero di stadio attuale della trama principale.\n<b>Interruzione Obbligata:</b> Quando Collezionista sta per essere sconfitto, rimuovi invece 3[per_hero] minacce dalla trama principale e gira questa carta.",
+		"traits": "Antico dell'Universo."
 	},
 	{
 		"code": "16081b",

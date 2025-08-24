@@ -2,7 +2,7 @@
 	{
 		"code": "04026",
 		"name": "Passé Criminel",
-		"text": "<b><i>Donnez cette carte au joueur de Clint Barton.</i></b>\nVous pouvez passer sous forme l'alter ego. Choisissez :\n\u2022 inclinez Clint Barton → retirez Passé Criminel de la partie.\n\u2022 Défaussez du jeu l'Arc de Hawkeye. Défaussez du jeu l'Arc de Hawkeye. Défaussez cette obligation.\n"
+		"text": "<b><i>Donnez cette carte au joueur de Clint Barton.</i></b>\nVous pouvez passer sous forme l'alter ego. Choisissez :\n• inclinez Clint Barton → retirez Passé Criminel de la partie.\n• Défaussez du jeu l'Arc de Hawkeye. Défaussez du jeu l'Arc de Hawkeye. Défaussez cette obligation.\n"
 	},
 	{
 		"code": "04027",
@@ -30,7 +30,7 @@
 	{
 		"code": "04053",
 		"name": "Loyauté Douteuse",
-		"text": "<b><i>Donnez cette carte au joueur de Jessica Drew.</i></b>\n\u2022 Inclinez Jessica Drew → retirez Loyauté Douteuse de la partie.\n\u2022 Placez 3 menaces sur la manigance principale. Défaussez cette obligation.\n"
+		"text": "<b><i>Donnez cette carte au joueur de Jessica Drew.</i></b>\n• Inclinez Jessica Drew → retirez Loyauté Douteuse de la partie.\n• Placez 3 menaces sur la manigance principale. Défaussez cette obligation.\n"
 	},
 	{
 		"code": "04054",
@@ -197,7 +197,7 @@
 	{
 		"code": "04078",
 		"name": "L'Homme Absorbant",
-		"text": "L'Homme Absorbant gagne le trait de chaque environnement en jeu.\n[star] <b>Réponse forcée</b> : après que l'Homme Absorbant s'est activé contre vous, s'il a :\n\u2022 Le trait [[Glace]] ou [[Pierre]], placez 1 menance sur la manigance principale.\n\u2022 [[Métal]] ou [[Bois]], subissez 1 dégât indirect.",
+		"text": "L'Homme Absorbant gagne le trait de chaque environnement en jeu.\n[star] <b>Réponse forcée</b> : après que l'Homme Absorbant s'est activé contre vous, s'il a :\n• Le trait [[Glace]] ou [[Pierre]], placez 1 menance sur la manigance principale.\n• [[Métal]] ou [[Bois]], subissez 1 dégât indirect.",
 		"traits": "Brute."
 	},
 	{

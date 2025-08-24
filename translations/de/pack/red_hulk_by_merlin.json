@@ -33,7 +33,7 @@
 	{
 		"code": "70805",
 		"name": "Smash",
-		"text": "<b>Hero Response</b>: After this card is discarded from the top of your deck, add it to your hand. Deal 3 damage to an enemy. \n<b>Hero Action</b> (<i>attack</i>): Deal 7 damage to an enemy.",
+		"text": "<b>Hero Response</b>: After this card is discarded from the top of your deck, add it to your hand. Deal 3 damage to an enemy.\n<b>Hero Action</b> (<i>attack</i>): Deal 7 damage to an enemy.",
 		"traits": "Attack. Gamma. Superpower."
 	},
 	{
@@ -51,7 +51,7 @@
 	{
 		"code": "70812",
 		"name": "Get Prepared",
-		"text": "<b>Response</b>: After this card is discarded from the top of your deck, add it to your hand. \n<b>Action</b>: Pay the printed cost of a support or an upgrade in your discard pile → put that card into play under your control.",
+		"text": "<b>Response</b>: After this card is discarded from the top of your deck, add it to your hand.\n<b>Action</b>: Pay the printed cost of a support or an upgrade in your discard pile → put that card into play under your control.",
 		"traits": "Tactic."
 	},
 	{

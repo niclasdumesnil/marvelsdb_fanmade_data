@@ -103,8 +103,8 @@
 	},
 	{
 		"code": "43015",
-		"name": "Shatterstar", 
-      	"flavor": "Shatterstar ist ein geschickter Schwertkämpfer und kann sogar Öffnungen in den Raum schneiden und sich so zu weit entfernten Zielen teleportieren.",
+		"flavor": "Shatterstar ist ein geschickter Schwertkämpfer und kann sogar Öffnungen in den Raum schneiden und sich so zu weit entfernten Zielen teleportieren.",
+		"name": "Shatterstar",
 		"subname": "Gaveedra Seven",
 		"text": "[star] <b>Unterbrechung</b> : Sobald Shatterstar einen Schergen angreift, verwickle den Schergen in einen Kampf. Falls du mit ihm bereits im Kampf bist, bekommt Shatterstar für diesen Angriff +1 ANG.",
 		"traits": "X-Force."
@@ -140,25 +140,25 @@
 		"code": "43034",
 		"name": "Kampfspezialist",
 		"text": "Verknüpft (Spezialisiertes Training).\n Dein Held bekommt +1 ANG.\n<b>Held - Reaktion</b> : Nachdem dein Held die Basisaktion Angriff durchgeführt hat, erschöpfe diese Karte → ziehe 1 Karte.",
-       		"traits": "Spezialisierung."
+		"traits": "Spezialisierung."
 	},
 	{
 		"code": "43035",
 		"name": "Verteidigungsspezialist",
 		"text": "Verknüpft (Spezialisiertes Training).\n Dein Held bekommt +1 VER.\n<b>Held - Reaktion</b> : Nachdem dein Held die Basisaktion Verteidigung durchgeführt hat, erschöpfe diese Karte → ziehe 1 Karte.",
-        	"traits": "Spezialisierung."
+		"traits": "Spezialisierung."
 	},
 	{
 		"code": "43036",
 		"name": "Frontlinienspezialist",
 		"text": "Verknüpft (Spezialisiertes Training).\n Dein Held bekommt +4 Lebenspunkte.\n<b>Reaktion</b> : Nachdem deine Identität durch den Angriff eines Gegners Schaden genommen hat, erschöpfe diese Karte → ziehe 1 Karte.",
-        	"traits": "Spezialisierung."
+		"traits": "Spezialisierung."
 	},
 	{
 		"code": "43037",
 		"name": "Überwachungsspezialist",
 		"text": "Verknüpft (Spezialisiertes Training).\n Dein Held bekommt +1 WID.\n<b>Held - Reaktion</b> : Nachdem dein Held die Basisaktion Widerstand durchgeführt hat, erschöpfe diese Karte → ziehe 1 Karte.",
-        	"traits": "Spezialisierung."
+		"traits": "Spezialisierung."
 	},
 	{
 		"code": "43038",
@@ -167,8 +167,8 @@
 	},
 	{
 		"code": "43039",
-		"name": "Die Truppen mobilisieren",
 		"flavor": "\"Vorwärts, Team! Der Sieg ist nah!\" — Cyclops",
+		"name": "Die Truppen mobilisieren",
 		"text": "Sieg 0.\n<b>Sobald besiegt</b> : Heile 2 Schaden von jedem Verbündeten."
 	},
 	{

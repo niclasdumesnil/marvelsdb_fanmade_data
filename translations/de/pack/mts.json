@@ -71,11 +71,11 @@
 	},
 	{
 		"code": "21011",
+		"flavor": "\"Avengers, sammeln!\"",
 		"name": "Captain America",
 		"subname": "Steve Rogers",
 		"text": "Zähigkeit.\nSenke die Kosten, um Captain America zu spielen, für jeden [[Avenger]]-Charakter unter deiner Kontrolle um 1",
-		"traits": "Avenger.",
-		"flavor": "\"Avengers, sammeln!\""
+		"traits": "Avenger."
 	},
 	{
 		"code": "21012",
@@ -93,17 +93,17 @@
 	},
 	{
 		"code": "21014",
+		"flavor": "\"Für diese Quest wirst du meine Hilfe brauchen.\"",
 		"name": "Kaluu",
 		"text": "<b>Reaktion</b>: Nachdem Kaluu ins Spiel gekommen ist, durchsuche die obersten 5 Karten deines Decks nach einem Ereignis → nimm das Ereignis auf deine Hand. Mische dein Deck.",
-		"traits": "Avenger. Mystiker.",
-		"flavor": "\"Für diese Quest wirst du meine Hilfe brauchen.\""
+		"traits": "Avenger. Mystiker."
 	},
 	{
 		"code": "21015",
+		"flavor": "\"Jetzt alle zusammen!\" -- Captain Marvel",
 		"name": "Mighty Avengers",
 		"text": "Spiele diese Karte unter die Kontrolle eines beliebigen Spielers. Max. 1 [[Team]]-Karte pro Spieler.\nFalls jeder deiner Charaktere das Merkmal [[Avenger]] hat, bekommt jeder Verbündete unter deiner Kontrolle +1 WID und +1 ANG.",
-		"traits": "Team.",
-		"flavor": "\"Jetzt alle zusammen!\" -- Captain Marvel"
+		"traits": "Team."
 	},
 	{
 		"code": "21016",
@@ -119,18 +119,18 @@
 	},
 	{
 		"code": "21019",
+		"flavor": "\"Wie oft muss ich dich noch unter die Erde bringen?\"",
 		"name": "Blade",
 		"subname": "Eric Brooks",
 		"text": "[star] <b>Erzwungene Reaktion</b>: Nachdem Blade Widerstand geleistet oder angegriffen hat, wähle: Gib entweder eine [physical]-Ressource von deiner Hand aus oder lege Blade ab.",
-		"traits": "Avenger. Vampir.",
-		"flavor": "\"Wie oft muss ich dich noch unter die Erde bringen?\""
+		"traits": "Avenger. Vampir."
 	},
 	{
 		"code": "21022",
+		"flavor": "\"Okay, wer ist der Nächste?\" -- Ms. Marvel",
 		"name": "Bereit zum Austeilen",
 		"text": "Spiele diese Karte unter die Kontrolle eines beliebigen Spielers. Max. 1 pro Spieler.\n<b>Held Reaktion</b>: Nachdem du die Gestalt gewechselt hast, lege diese Karte ab → mache deinen Helden spielbereit.",
-		"traits": "Zustand.",
-		"flavor": "\"Okay, wer ist der Nächste?\" -- Ms. Marvel"
+		"traits": "Zustand."
 	},
 	{
 		"code": "21031a",
@@ -158,31 +158,31 @@
 	},
 	{
 		"code": "21034",
+		"flavor": "\"Ich mag ja lieber eine Laserkanone, aber Warlock schlägt sich mit seinem Stock auch ganz gut.\" - Rocket Raccoon",
 		"name": "Karma-Stab",
 		"text": "<b>Ressource</b>: Erschöpfe Karma-Stab → erzeuge eine [wild]-Ressource",
-		"traits": "Artefakt. Gegenstand.",
-		"flavor": "\"Ich mag ja lieber eine Laserkanone, aber Warlock schlägt sich mit seinem Stock auch ganz gut.\" - Rocket Raccoon"
+		"traits": "Artefakt. Gegenstand."
 	},
 	{
 		"code": "21035",
+		"flavor": "\"Eines muss man Adam lassen: Der Mann weiß, wie man einen Umhang trägt.\" - Star-Lord",
 		"name": "Warlocks Umhang",
 		"text": "<b>Held Reaktion</b>: Nachdem du deine \"Kampfmagier\"-Fähigkeit abgehandelt hast, erschöpfe Warlocks Umhang → mache Adam Warlock spielbereit.",
-		"traits": "Gegenstand.",
-		"flavor": "\"Eines muss man Adam lassen: Der Mann weiß, wie man einen Umhang trägt.\" - Star-Lord"
+		"traits": "Gegenstand."
 	},
 	{
 		"code": "21036",
+		"flavor": "\"Ich trotze deiner Macht und stelle mich ihr mit all meiner Kraft entgegen!\" - Adam Warlock",
 		"name": "Kosmischer Schutzzauber",
 		"text": "<b>Erzwungene Unterbrechung</b>: Sobald du eine Verratskarte aufdeckst, hebe ihre \"<b>Sobald aufgedeckt</b>\"-Effekte auf und lege sie ab. Lege dann Kosmischer Schutzzauber ab.",
-		"traits": "Zauber.",
-		"flavor": "\"Ich trotze deiner Macht und stelle mich ihr mit all meiner Kraft entgegen!\" - Adam Warlock"
+		"traits": "Zauber."
 	},
 	{
 		"code": "21037",
+		"flavor": "\"Die Erinnerungen an die Allmacht verblassen mit der Erfahrung.\" - Adam Warlock",
 		"name": "Mystische Sinne",
 		"text": "<b>Held Reaktion</b>: Nachdem du deine \"Kampfmagier\"-Fähigkeit abgehandelt hast, ziehe 1 Karte.",
-		"traits": "Zustand. Superkraft.",
-		"flavor": "\"Die Erinnerungen an die Allmacht verblassen mit der Erfahrung.\" - Adam Warlock"
+		"traits": "Zustand. Superkraft."
 	},
 	{
 		"code": "21038",
@@ -198,18 +198,18 @@
 	},
 	{
 		"code": "21040",
+		"flavor": "\"Sie glauben, ich wäre tot. Und solange sie das glauben, werden sie absolut nicht auf das vorbereitet sein, was ich entfesseln werde.\" - Adam Warlock",
 		"name": "Quantenmagie",
 		"text": "<b>Action</b>: Wähle eine Karte in deinem Ablagestapel → nimm die Karte auf deine Hand.",
-		"traits": "Zauber.",
-		"flavor": "\"Sie glauben, ich wäre tot. Und solange sie das glauben, werden sie absolut nicht auf das vorbereitet sein, was ich entfesseln werde.\" - Adam Warlock"
+		"traits": "Zauber."
 	},
 	{
 		"code": "21041",
+		"flavor": "\"Komm mit mir, wenn du großartig sein willst.\"",
 		"name": "Marvel Boy",
 		"subname": "Noh-Var",
 		"text": "<b>Unterbrechung</b>: Sobald Marvel Boy angreift, gib eine [physical]-Ressource aus → der Angriff erhält Durchdringend und Fernkampf.",
-		"traits": "Guardian. Kree.",
-		"flavor": "\"Komm mit mir, wenn du großartig sein willst.\""
+		"traits": "Guardian. Kree."
 	},
 	{
 		"code": "21042",
@@ -230,11 +230,11 @@
 	},
 	{
 		"code": "21047",
+		"flavor": "\"Ich bin der Beschützer des Universums. Das gehört alles zu meinem Job.\"",
 		"name": "Quasar",
 		"subname": "Wendell Vaughn",
 		"text": "<b>Reaktion</b>: Nachdem Quasar ins Spiel gekommen ist, entferne 1 Bedrohung von jedem Plan im Spiel.",
-		"traits": "Fliegend. Guardian.",
-		"flavor": "\"Ich bin der Beschützer des Universums. Das gehört alles zu meinem Job.\""
+		"traits": "Fliegend. Guardian."
 	},
 	{
 		"code": "21048",
@@ -255,11 +255,11 @@
 	},
 	{
 		"code": "21053",
+		"flavor": "\"Ein großer Mann trug einst diesen Schild und starb, während er andere verteidigte. Falls nötig, bin ich bereit, das Gleiche zu tun.\"",
 		"name": "Major Victory",
 		"subname": "Vance Astro",
 		"text": "<b>Unterbrechung</b>: Sobald Major Victory besiegt wird, wähle einen befreundeten [[Guardian]]-Character → mache jenen Charakter spielbereit.",
-		"traits": "Guardian.",
-		"flavor": "\"Ein großer Mann trug einst diesen Schild und starb, während er andere verteidigte. Falls nötig, bin ich bereit, das Gleiche zu tun.\""
+		"traits": "Guardian."
 	},
 	{
 		"code": "21054",
@@ -303,11 +303,11 @@
 	},
 	{
 		"code": "21065",
+		"flavor": "\"lch habe Bedenken, was diese Realität angeht.\"",
 		"name": "Martinex",
 		"subname": "T'Naga",
 		"text": "Senke die Kosten, um Martinex zu spielen, um 1, falls deine Identität das Merkmal [[Guardian]] hat.",
-		"traits": "Guardian.",
-		"flavor": "\"lch habe Bedenken, was diese Realität angeht.\""
+		"traits": "Guardian."
 	},
 	{
 		"code": "21180a",
@@ -426,7 +426,7 @@
 		"code": "21193",
 		"flavor": "\"The mighty Volstagg will right these wrongs!\"",
 		"name": "Volstagg",
-		"text": "Retaliate 1. <i>(After this character is attacked, deal 1 damage to the attacking character.)</i> \nToughness. <i>(This character enters play with a tough status card.)</i>",
+		"text": "Retaliate 1. <i>(After this character is attacked, deal 1 damage to the attacking character.)</i>\nToughness. <i>(This character enters play with a tough status card.)</i>",
 		"traits": "Asgard. Captive."
 	}
 ]

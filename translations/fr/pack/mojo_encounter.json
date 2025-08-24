@@ -56,10 +56,10 @@
 	},
 	{
 		"code": "39006",
+		"flavor": "\"Reste Tranquille, que je puisse t'écraser !\" — MaGog",
 		"name": "Pulsion Agressive",
 		"text": "Attachez cette carte à MaGog.\n<b>Réponse forcée</b> : après que les points de vie de MaGog ont été réinitialisés, placez 1[per_hero] jeton Audimat sur Les Challengeurs et défaussez cet attachement.\n<hr />\n[star] <b>Boost</b>: révélez cette carte.",
-		"traits": "Condition.",
-		"flavor": "\"Reste Tranquille, que je puisse t'écraser !\" — MaGog"
+		"traits": "Condition."
 	},
 	{
 		"code": "39007",

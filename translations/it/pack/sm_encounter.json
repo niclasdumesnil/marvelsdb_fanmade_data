@@ -60,25 +60,25 @@
 	},
 	{
 		"code": 27061,
+		"flavor": "\"L'uomo Sabbia è più potente di tuti voi, vermi!\"",
 		"name": "Uomo Sabbia",
 		"text": "Scarica di Sabbia - [star]<b>Interruzione Obbligata: </b> Quando Uomo Sabbia ti attacca, quell'attacco infligge danni indiretti. Se la tua identità subisce un qualsiasi ammontare di danni da quell'attacco, risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine.",
-		"traits": "Criminale.",
-		"flavor": "\"L'uomo Sabbia è più potente di tuti voi, vermi!\""
+		"traits": "Criminale."
 	},
 	{
 		"code": 27062,
 		"name": "Uomo Sabbia",
-		"text": "<b>Quando Rivelata: </b> Risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine. \n Scarica di Sabbia - [star] <b>Interruzione Obbligata: </b> Quando Uomo Sabbia ti attacca, quell'attacco infligge danni indiretti. Se la tua identità subisce un qualsiasi ammontare di danni da quell'attacco, risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine.",
+		"text": "<b>Quando Rivelata: </b> Risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine.\n Scarica di Sabbia - [star] <b>Interruzione Obbligata: </b> Quando Uomo Sabbia ti attacca, quell'attacco infligge danni indiretti. Se la tua identità subisce un qualsiasi ammontare di danni da quell'attacco, risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine.",
 		"traits": "Criminale."
 	},
 	{
 		"code": 27063,
 		"name": "Uomo Sabbia",
-		"text": "<b>Quando Rivelata: </b> Colloca 1 gettone sabbia su Strade Cittadine. Risolvi la sua capacità \"Marea di Sabbia\". \n Ondata di Sabbia - [star] <b>Interruzione Obbligata: </b> Quando Uomo Sabbia ti attacca, quell'attacco ottiene Sopraffazione. Sela tua identità subisce un qualsiasi ammontare di danni da quell'attacco, risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine.",
+		"text": "<b>Quando Rivelata: </b> Colloca 1 gettone sabbia su Strade Cittadine. Risolvi la sua capacità \"Marea di Sabbia\".\n Ondata di Sabbia - [star] <b>Interruzione Obbligata: </b> Quando Uomo Sabbia ti attacca, quell'attacco ottiene Sopraffazione. Sela tua identità subisce un qualsiasi ammontare di danni da quell'attacco, risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine.",
 		"traits": "Criminale."
 	},
 	{
-		"back_text": "<b>Contenuto: </b> Uomo Sabbia (I) e Uomo Sabbia (II). (Uomo Sabbia (II) e Uomo Sabbia (III) invece per la modalità esperto.) Set di incontri Uomo Sabbia, Città nel Caos e Standard. 1 set di incontri modulare (Piedi per Terra). \n <b>Preparazione: </b>Cerca nel mazzo degli incontri l'ambiente Strade Cittadine e mettilo in gioco. Colloca 4 gettoni sabbia su di esso.",
+		"back_text": "<b>Contenuto: </b> Uomo Sabbia (I) e Uomo Sabbia (II). (Uomo Sabbia (II) e Uomo Sabbia (III) invece per la modalità esperto.) Set di incontri Uomo Sabbia, Città nel Caos e Standard. 1 set di incontri modulare (Piedi per Terra).\n <b>Preparazione: </b>Cerca nel mazzo degli incontri l'ambiente Strade Cittadine e mettilo in gioco. Colloca 4 gettoni sabbia su di esso.",
 		"code": 27064,
 		"flavor": "L'Uomo Sabbia sta inondando le strade della città con le sue sabbie impetuose mettendo in pericolo i passanti innocenti!",
 		"name": "Passanti Sventurati",
@@ -87,20 +87,20 @@
 	{
 		"code": 27065,
 		"name": "Strade Cittadine",
-		"text": "Marea di Sabbia - <b>Speciale: </b>Colloca 1 gettone sabbia su questa carta. Scarta un ammontare di carte dalla cima del mazzo degli incontri pari al numero di gettoni sabbia su questa carta. \n <b>Azione Eroe: </b> Esaurisci 1 personaggio che controlli -> rimuovi da questa carta un ammontare di gettoni sabbia pari all'ATT di quel personaggio. (Limite di una volta per round per giocatore.)",
+		"text": "Marea di Sabbia - <b>Speciale: </b>Colloca 1 gettone sabbia su questa carta. Scarta un ammontare di carte dalla cima del mazzo degli incontri pari al numero di gettoni sabbia su questa carta.\n <b>Azione Eroe: </b> Esaurisci 1 personaggio che controlli -> rimuovi da questa carta un ammontare di gettoni sabbia pari all'ATT di quel personaggio. (Limite di una volta per round per giocatore.)",
 		"traits": "Luogo."
 	},
 	{
 		"code": 27066,
 		"name": "Forma di Sabbia",
-		"text": "Assegna a Uomo Sabbia. \n <b>Interruzione Obbligata: </b> Quando stai per infliggere un qualsiasi ammontare di danni a Uomo Sabbia, scarta invece Forma di Sabbia -> risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine.\n<hr />\n[star] <b>Potenziamento</b>: Rivela questa carta.",
+		"text": "Assegna a Uomo Sabbia.\n <b>Interruzione Obbligata: </b> Quando stai per infliggere un qualsiasi ammontare di danni a Uomo Sabbia, scarta invece Forma di Sabbia -> risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine.\n<hr />\n[star] <b>Potenziamento</b>: Rivela questa carta.",
 		"traits": "Condizione."
 	},
 	{
 		"code": 27067,
 		"flavor": "\"Se volete mettere le mani su di me, prima dovrete passare sopra di... ME!\" - Uomo Sabbia",
 		"name": "Clone di Sabbia",
-		"text": "X è pari al numero di gettoni sabbia su Strade Cittadine. \n <b>Quando Sconfitta: </b> Risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine."
+		"text": "X è pari al numero di gettoni sabbia su Strade Cittadine.\n <b>Quando Sconfitta: </b> Risolvi la capacità \"Marea di Sabbia\" di Strade Cittadine."
 	},
 	{
 		"code": 27068,
@@ -132,25 +132,25 @@
 	{
 		"code": 27073,
 		"name": "Venom",
-		"text": "Robustezza. (Questo personaggio entra in gioco con 1 carta status Robusto.) \nVendetta - <b> Risposta Obbligata: </b> Dopo che hai attaccato e danneggiato Venom con una carta che controlli, colloca 1 carta potenziamento a faccia in giù sulla tua identità.",
+		"text": "Robustezza. (Questo personaggio entra in gioco con 1 carta status Robusto.)\nVendetta - <b> Risposta Obbligata: </b> Dopo che hai attaccato e danneggiato Venom con una carta che controlli, colloca 1 carta potenziamento a faccia in giù sulla tua identità.",
 		"traits": "Simbionte."
 	},
 	{
 		"code": 27074,
 		"name": "Venom",
-		"text": "Robustezza. Tempra. \n <b>Quando Rivelata: </b> Cerca nel mazzo degli incontri e nella pila degli scarti degli incontri la trama secondaria Zanne e Artigli e mettila in gioco. (Mescola.) \nVendetta - <b>Risposta Obbligata: </b> Dopo che hai attaccato e danneggiato Venom con una carta che controlli, colloca 1 carta potenziamento a faccia in giù sulla tua identità.",
+		"text": "Robustezza. Tempra.\n <b>Quando Rivelata: </b> Cerca nel mazzo degli incontri e nella pila degli scarti degli incontri la trama secondaria Zanne e Artigli e mettila in gioco. (Mescola.)\nVendetta - <b>Risposta Obbligata: </b> Dopo che hai attaccato e danneggiato Venom con una carta che controlli, colloca 1 carta potenziamento a faccia in giù sulla tua identità.",
 		"traits": "Simbionte."
 	},
 	{
 		"code": 27075,
 		"name": "Venom",
-		"text": "Ritorsione 1. Tempra. Robustezza. \n <b>Quando Rivelata: </b> Colloca 2 carte potenziamento a faccia in giù su ogni identità. \nCastigamento - <b>Risposta Obbligata: </b> Dopo che hai attaccato e danneggiato Venom con una carta che controlli, colloca 1 carta potenziamento a faccia in giù sulla tua identità (colloca invece 2 carte potenziamento a faccia in giù se questo è il primo attacco in questo turno).",
+		"text": "Ritorsione 1. Tempra. Robustezza.\n <b>Quando Rivelata: </b> Colloca 2 carte potenziamento a faccia in giù su ogni identità.\nCastigamento - <b>Risposta Obbligata: </b> Dopo che hai attaccato e danneggiato Venom con una carta che controlli, colloca 1 carta potenziamento a faccia in giù sulla tua identità (colloca invece 2 carte potenziamento a faccia in giù se questo è il primo attacco in questo turno).",
 		"traits": "Simbionte."
 	},
 	{
 		"code": 27078,
 		"name": "\"Siamo Già Arrabbiati!\"",
-		"text": "Assegna a Venom. \nUtilizzo (2 gettoni ira). \n [star] Gli attacchi di Venom ottengono Sopraffazione. \n <b>Risposta Obbligata: </b>Dopo che Venom ha subito un qualsiasi ammontare di danni da un attacco, rimuovi 1 gettone ira da questa carta.\n<hr />\n[star] <b>Potenziamento</b>: Rivela questa carta.",
+		"text": "Assegna a Venom.\nUtilizzo (2 gettoni ira).\n [star] Gli attacchi di Venom ottengono Sopraffazione.\n <b>Risposta Obbligata: </b>Dopo che Venom ha subito un qualsiasi ammontare di danni da un attacco, rimuovi 1 gettone ira da questa carta.\n<hr />\n[star] <b>Potenziamento</b>: Rivela questa carta.",
 		"traits": "Condizione."
 	},
 	{
@@ -180,86 +180,86 @@
 	},
 	{
 		"code": 27084,
+		"flavor": "\"Benvenuti nel vostro incubo!\"",
 		"name": "Mysterio",
 		"text": "Semi della Paura - [star] <b>Risposta Obbligata: </b> Dopo che hai risolto una carta potenziamento durante l'attivazione di Mysterio, se quella carta possiede il tratto [[ILLUSIONE]], collocala nella tua pila degli scarti.",
-		"traits": "Criminale.",
-		"flavor": "\"Benvenuti nel vostro incubo!\""
+		"traits": "Criminale."
 	},
 	{
 		"code": 27085,
 		"name": "Mysterio",
-		"text": "<b>Quando Rivelata:</b> In ordine di gioco, mescola 1 carta dalla cima del mazzo degli incontri nel mazzo di ogni giocatore. \nPaura Strisciante - [star] <b>Risposta Obbligata: </> Dopo che hai risolto una carta potenziamento durante l'attivazione di Mysterio, se quella carta possiede il tratto [[ILLUSIONE]], collocala in fondo al tuo mazzo.",
+		"text": "<b>Quando Rivelata:</b> In ordine di gioco, mescola 1 carta dalla cima del mazzo degli incontri nel mazzo di ogni giocatore.\nPaura Strisciante - [star] <b>Risposta Obbligata: </> Dopo che hai risolto una carta potenziamento durante l'attivazione di Mysterio, se quella carta possiede il tratto [[ILLUSIONE]], collocala in fondo al tuo mazzo.",
 		"traits": "Criminale."
 	},
 	{
 		"code": 27086,
 		"name": "Mysterio",
-		"text": "<b>Quando Rivelata: </b> Scarta 5 carte dalla cima del mazzo di ogni giocatore. \nVincolato dalla Paura - [star] <b> Risposta Obbligata: </b> Dopo che hai risolto una carta potenziamento durante l'attivazione di Mysterio, se quella carta possiede il tratto [[ILLUSIONE]], collocala in cima al tuo mazzo.",
+		"text": "<b>Quando Rivelata: </b> Scarta 5 carte dalla cima del mazzo di ogni giocatore.\nVincolato dalla Paura - [star] <b> Risposta Obbligata: </b> Dopo che hai risolto una carta potenziamento durante l'attivazione di Mysterio, se quella carta possiede il tratto [[ILLUSIONE]], collocala in cima al tuo mazzo.",
 		"traits": "Criminale."
 	},
 	{
 		"code": 27089,
+		"flavor": "\"E' tempo di schiacciarti come l'insetto che sei!\" - Mysterio",
 		"name": "Allucinazione Mastodontica",
-		"text": "Assegna a Mysterio. \n<b>Azione Eroe: </b> Spendi 1 risorsa di qualsiasi tipo e mescola 2 carte dalla cima del mazzo degli incontri nel tuo mazzo → scarta questa carta.",
-		"traits": "Illusione.",
-		"flavor": "\"E' tempo di schiacciarti come l'insetto che sei!\" - Mysterio"
+		"text": "Assegna a Mysterio.\n<b>Azione Eroe: </b> Spendi 1 risorsa di qualsiasi tipo e mescola 2 carte dalla cima del mazzo degli incontri nel tuo mazzo → scarta questa carta.",
+		"traits": "Illusione."
 	},
 	{
 		"code": 27090,
 		"name": "Miraggio Magistrale",
-		"text": "Assegna a Mysterio. \n<b> Interruzione Obbligata </b> Quando stai per infliggere un qualsiasi ammontare di danni a Mysterio, scarta invece 4 carte dalla cima del tuo mazzo. Scarta questa carta.\n<hr />\n[star] <b>Potenziamento</b>: Fai ricevere 1 carta potenziamento aggiuntiva a Mysterio per questa attivazione.",
+		"text": "Assegna a Mysterio.\n<b> Interruzione Obbligata </b> Quando stai per infliggere un qualsiasi ammontare di danni a Mysterio, scarta invece 4 carte dalla cima del tuo mazzo. Scarta questa carta.\n<hr />\n[star] <b>Potenziamento</b>: Fai ricevere 1 carta potenziamento aggiuntiva a Mysterio per questa attivazione.",
 		"traits": "Illusione."
 	},
 	{
 		"code": 27091,
 		"name": "Spettro Mutevole",
-		"text": "Guardia. (Mentre questo gregario è impegnato con te, non puoi attaccare il criminale.) \n <b> Quando Sconfitta: </b> Se questo gregario è stato sconfitto con danni in eccesso, il giocatore che lo ha sconfitto mescola 1 carta dalla cima del mazzo degli incontri nel suo mazzo.",
+		"text": "Guardia. (Mentre questo gregario è impegnato con te, non puoi attaccare il criminale.)\n <b> Quando Sconfitta: </b> Se questo gregario è stato sconfitto con danni in eccesso, il giocatore che lo ha sconfitto mescola 1 carta dalla cima del mazzo degli incontri nel suo mazzo.",
 		"traits": "Illusione."
 	},
 	{
 		"code": 27092,
 		"name": "Déjà Vu",
-		"text": "Isolamento. (Mentre risolvi questa carta, gli altri giocatori non possono aiutarti.) \n <b> Quando Rivelata: </b> Scegli se subire 1 danno oppure collocare 1 minaccia sulla trama principale. Mescola Déjà Vu nel mazzo di un qualsiasi giocatore.\n<hr />\n[star] <b>Potenziamento</b>: Rivela questa carta."
+		"text": "Isolamento. (Mentre risolvi questa carta, gli altri giocatori non possono aiutarti.)\n <b> Quando Rivelata: </b> Scegli se subire 1 danno oppure collocare 1 minaccia sulla trama principale. Mescola Déjà Vu nel mazzo di un qualsiasi giocatore.\n<hr />\n[star] <b>Potenziamento</b>: Rivela questa carta."
 	},
 	{
 		"code": 27093,
 		"name": "Dispensatore di Paura",
-		"text": "Impulso. \n <b> Quando Rivelata: </b> Scarta la tua mano. Pesca fino al tuo limite di mano.\n<hr />\n[star] <b>Potenziamento</b>: Scegli se spendere [mental][mental] oppure distribuire questa carta come carta incontro a faccia in giù a te stesso."
+		"text": "Impulso.\n <b> Quando Rivelata: </b> Scarta la tua mano. Pesca fino al tuo limite di mano.\n<hr />\n[star] <b>Potenziamento</b>: Scegli se spendere [mental][mental] oppure distribuire questa carta come carta incontro a faccia in giù a te stesso."
 	},
 	{
 		"code": 27094,
 		"name": "Dottor Octopus",
-		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Dottor Octopus ti ha attaccato e danneggiato, colloca 1 minaccia su ogni trama. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione. \n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
+		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Dottor Octopus ti ha attaccato e danneggiato, colloca 1 minaccia su ogni trama. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione.\n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
 		"traits": "Ordine di Attivazione 1"
 	},
 	{
 		"code": 27095,
 		"name": "Electro",
-		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Electro ti ha attaccato e danneggiato, scarta 7 carte dalla cima del tuo mazzo. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione. \n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
+		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Electro ti ha attaccato e danneggiato, scarta 7 carte dalla cima del tuo mazzo. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione.\n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
 		"traits": "Ordine di Attivazione 2"
 	},
 	{
 		"code": 27096,
 		"name": "Hobgoblin",
-		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Hobgoblin ti ha attaccato e danneggiato, subisci 2 danni indiretti. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione. \n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
+		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Hobgoblin ti ha attaccato e danneggiato, subisci 2 danni indiretti. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione.\n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
 		"traits": "Ordine di Attivazione 3"
 	},
 	{
 		"code": 27097,
 		"name": "Kraven il Cacciatore",
-		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Kraven il Cacciatore ti ha attaccato e danneggiato, scegli e scarta 1 miglioria o supporto che controlli. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione. \n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
+		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Kraven il Cacciatore ti ha attaccato e danneggiato, scegli e scarta 1 miglioria o supporto che controlli. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione.\n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
 		"traits": "Ordine di Attivazione 4"
 	},
 	{
 		"code": 27098,
 		"name": "Scorpione",
-		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Scorpione ti ha attaccato e danneggiato, stordisci 1 personaggio che controlli. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione. \n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
+		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Scorpione ti ha attaccato e danneggiato, stordisci 1 personaggio che controlli. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione.\n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
 		"traits": "Ordine di Attivazione 5"
 	},
 	{
 		"code": 27099,
 		"name": "Avvoltoio",
-		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Avvoltoio ti ha attaccato e danneggiato, scegli e scarta 1 carta dalla tua mano. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione. \n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
+		"text": "[star] <b>Risposta Obbligata: </b> Dopo che Avvoltoio ti ha attaccato e danneggiato, scegli e scarta 1 carta dalla tua mano. Sposta il gettone attivo sul prossimo criminale in ordine di attivazione.\n <b> Quando Sconfitta: </b> Rimuovi 4 minacce da una trama secondaria (rimuovi invece 7 minacce se non ci sono altri criminali in gioco. Metti da parte questo criminale.",
 		"traits": "Ordine di Attivazione 6"
 	},
 	{
@@ -283,38 +283,38 @@
 	{
 		"code": 27106,
 		"name": "Sacrificio per la Squadra",
-		"text": "Assegna al criminale con più ATT. Se non puoi farlo, risolvi la capacità \"Imboscata!\" della trama principale, poi assegna questa carta al criminale attivo. \n Non puoi attaccare i criminali a cui non è assegnata una copia di Sacrificio per la Squadra."
+		"text": "Assegna al criminale con più ATT. Se non puoi farlo, risolvi la capacità \"Imboscata!\" della trama principale, poi assegna questa carta al criminale attivo.\n Non puoi attaccare i criminali a cui non è assegnata una copia di Sacrificio per la Squadra."
 	},
 	{
 		"code": 27107,
 		"name": "Muraglia di Forza Bruta ",
-		"text": "Vittoria 1. (Quando questa carta è sconfitta, collocala nella galleria delle vittorie.) \n Non è possibile rimuovere minacce dalle altre trame secondarie.\n<hr />\n[star] <b>Potenziamento</b>: Fai ricevere 1 carta potenziamento aggiuntiva al criminale per questa attivazione."
+		"text": "Vittoria 1. (Quando questa carta è sconfitta, collocala nella galleria delle vittorie.)\n Non è possibile rimuovere minacce dalle altre trame secondarie.\n<hr />\n[star] <b>Potenziamento</b>: Fai ricevere 1 carta potenziamento aggiuntiva al criminale per questa attivazione."
 	},
 	{
 		"code": 27108,
 		"name": "Minaccia Volante",
-		"text": "In modalità esperto, questa carta ottiene Incitazione 1 e non può essere annullata. \n <b>Quando Rivelata: </b> Metti in gioco Hobgoblin e Avvoltoio messi da parte. Se Hobgoblin è già in gioco, subisci 2 danni indiretti. Se Avvoltoio è già in gioco, scarta 1 carta casuale dalla tua mano."
+		"text": "In modalità esperto, questa carta ottiene Incitazione 1 e non può essere annullata.\n <b>Quando Rivelata: </b> Metti in gioco Hobgoblin e Avvoltoio messi da parte. Se Hobgoblin è già in gioco, subisci 2 danni indiretti. Se Avvoltoio è già in gioco, scarta 1 carta casuale dalla tua mano."
 	},
 	{
 		"code": 27109,
 		"name": "Alta Moda",
-		"text": "In modalità esperto, questa carta ottiene Incitazione 1 e non può essere annullata. \n <b>Quando Rivelata: </b> Metti in gioco Electro e Kraven il Cacciatore messi da parte. Se Electro è già in gioco, scarta la carta dal costo più alto che controlli. Se Kraven il Cacciatore è già in gioco, scarta la carta dal costo più basso che controlli."
+		"text": "In modalità esperto, questa carta ottiene Incitazione 1 e non può essere annullata.\n <b>Quando Rivelata: </b> Metti in gioco Electro e Kraven il Cacciatore messi da parte. Se Electro è già in gioco, scarta la carta dal costo più alto che controlli. Se Kraven il Cacciatore è già in gioco, scarta la carta dal costo più basso che controlli."
 	},
 	{
 		"code": 27110,
 		"name": "Potenziamenti Robotici",
-		"text": "In modalità esperto, questa carta ottiene Incitazione 1 e non può essere annullata. \n <b>Quando Rivelata: </b> Metti in gioco Dottor Octopus e Scorpione messi da parte. Se Dottor Octopus è già in gioco, confondi 1 personaggio che controlli. Se Scorpione è già in gioco, stordisci 1 personaggio che controlli."
+		"text": "In modalità esperto, questa carta ottiene Incitazione 1 e non può essere annullata.\n <b>Quando Rivelata: </b> Metti in gioco Dottor Octopus e Scorpione messi da parte. Se Dottor Octopus è già in gioco, confondi 1 personaggio che controlli. Se Scorpione è già in gioco, stordisci 1 personaggio che controlli."
 	},
 	{
 		"code": 27111,
 		"name": "Associazione a Distruggere",
-		"text": "<b>Quando Rivelata (Alter Ego): </b> Il criminale con il valore di ordine di attivazione più basso trama con +X TRA, dove X è pari alla TRA totale di tutti gli altri criminali in gioco. \n <b> Quando Rivelata (Eroe): </b> Il criminale con il valore di attivazione più alto attacca con +X ATT, dove X è pari all'ATT totale di tutti gli altri criminali in gioco."
+		"text": "<b>Quando Rivelata (Alter Ego): </b> Il criminale con il valore di ordine di attivazione più basso trama con +X TRA, dove X è pari alla TRA totale di tutti gli altri criminali in gioco.\n <b> Quando Rivelata (Eroe): </b> Il criminale con il valore di attivazione più alto attacca con +X ATT, dove X è pari all'ATT totale di tutti gli altri criminali in gioco."
 	},
 	{
 		"code": 27112,
+		"flavor": "\"...\" - Spider-Man",
 		"name": "Sorpresa!",
-		"text": "In modalità esperto, questa carta ottiene Impulso e non può essere annullata. \n <b> Quando Rivelata: </b>Risolvi la capacità \"Imboscata!\" della trama principale. Se non sono stati messi in gioco criminali in questo modo, colloca 3 minacce su Luce alla Fine del Tunnel.",
-		"flavor": "\"...\" - Spider-Man"
+		"text": "In modalità esperto, questa carta ottiene Impulso e non può essere annullata.\n <b> Quando Rivelata: </b>Risolvi la capacità \"Imboscata!\" della trama principale. Se non sono stati messi in gioco criminali in questo modo, colloca 3 minacce su Luce alla Fine del Tunnel."
 	},
 	{
 		"code": 27113,
@@ -336,9 +336,9 @@
 	},
 	{
 		"code": 27120,
+		"flavor": "\"Il Goblin era patetico, debole. NOI siamo più potenti di quanto avesse mai sognato.\"",
 		"name": "Siamo Tutt'Uno",
-		"text": "Assegna a Venom Goblin. \n <b>Azione Eroe: </b> Spendi [energy][mental][physical] stampate → scarta questa carta.",
-		"flavor": "\"Il Goblin era patetico, debole. NOI siamo più potenti di quanto avesse mai sognato.\""
+		"text": "Assegna a Venom Goblin.\n <b>Azione Eroe: </b> Spendi [energy][mental][physical] stampate → scarta questa carta."
 	},
 	{
 		"code": 27121,
@@ -386,9 +386,9 @@
 	},
 	{
 		"code": 27129,
+		"flavor": "\"Io una mano te la do, ma solo se mi fai spaccare e arraffare qualcosa.\" - Rhino",
 		"name": "Riscuotere un Favore",
-		"text": "<b> Quando Rivelata: </b> Rhino trama con +2 TRA. Se Rhino non è in gioco, cerca nel mazzo degli incontri e nella pila degli scarti degli incontri il gregario Rhino e mettilo in gioco impegnato con te. (Mescola.)",
-		"flavor": "\"Io una mano te la do, ma solo se mi fai spaccare e arraffare qualcosa.\" - Rhino"
+		"text": "<b> Quando Rivelata: </b> Rhino trama con +2 TRA. Se Rhino non è in gioco, cerca nel mazzo degli incontri e nella pila degli scarti degli incontri il gregario Rhino e mettilo in gioco impegnato con te. (Mescola.)"
 	},
 	{
 		"code": 27130,
@@ -403,9 +403,9 @@
 	},
 	{
 		"code": 27132,
+		"flavor": "\"Devi fare ciò che devi fare, lo capisco. E non ti impedirò di farlo, ma non puoi costringermi a non preoccuparmi per la mia bambina.\" - Ronnie Williams",
 		"name": "Amici e Famiglia",
-		"text": "Mentre sei nella sembianza di eroe, aumenta di 1 il costo in risorse di ogni evento che giochi.\n <b> Azione Alter Ego: </b> Scarta 1 carta specifica di identità dalla tua mano → scarta questa incombenza.",
-		"flavor": "\"Devi fare ciò che devi fare, lo capisco. E non ti impedirò di farlo, ma non puoi costringermi a non preoccuparmi per la mia bambina.\" - Ronnie Williams"
+		"text": "Mentre sei nella sembianza di eroe, aumenta di 1 il costo in risorse di ogni evento che giochi.\n <b> Azione Alter Ego: </b> Scarta 1 carta specifica di identità dalla tua mano → scarta questa incombenza."
 	},
 	{
 		"code": 27133,
@@ -414,9 +414,9 @@
 	},
 	{
 		"code": 27134,
+		"flavor": "\"Io lo so, e lo sapete anche voi! Questi spider-tizi non sono che una banda di delinquenti! Dopotutto, chiunque abbia bisogno di coprirsi la faccia non può nascondere nulla di buono.\" - J. Jonah Jameson",
 		"name": "\"Pericolo o Minaccia?\"",
-		"text": "<b> Quando Rivelata: </b> Puoi cambiare sembianza. Se sei nella sembianza di eroe, colloca 2 minacce sulla trama principale. Se sei nella sembianza di alter ego, non puoi cambiare sembianza durante il tuo prossimo turno.",
-		"flavor": "\"Io lo so, e lo sapete anche voi! Questi spider-tizi non sono che una banda di delinquenti! Dopotutto, chiunque abbia bisogno di coprirsi la faccia non può nascondere nulla di buono.\" - J. Jonah Jameson"
+		"text": "<b> Quando Rivelata: </b> Puoi cambiare sembianza. Se sei nella sembianza di eroe, colloca 2 minacce sulla trama principale. Se sei nella sembianza di alter ego, non puoi cambiare sembianza durante il tuo prossimo turno."
 	},
 	{
 		"code": 27135,
@@ -431,30 +431,30 @@
 	},
 	{
 		"code": 27137,
+		"flavor": "La potenza di concussione generata da queste bombe è forte abbastanza da spezzare l'acciaio.",
 		"name": "Bombe a Concussione",
 		"text": "Assegna al criminale.\n Utilizzo (2 gettoni bomba.)\n [star] <b>Risposta Obbligata: </b> Dopo che il criminale ti ha attaccato, rimuovi 1 gettone bomba da questa carta → esaurisci 1 miglioria e 1 supporto che controlli.",
-		"traits": "Arma. Tecnologia.",
-		"flavor": "La potenza di concussione generata da queste bombe è forte abbastanza da spezzare l'acciaio."
+		"traits": "Arma. Tecnologia."
 	},
 	{
 		"code": 27138,
+		"flavor": "Sono zeppe di carburante infiammabile, che brucia a temperature altissime.",
 		"name": "Bombe Incendiarie",
 		"text": "Assegna al criminale.\n Utilizzo (2 gettoni bomba.)\n [star] <b>Risposta Obbligata: </b> Dopo che il criminale ti ha attaccato, rimuovi 1 gettone bomba da questa carta → subisci 2 danni indiretti.",
-		"traits": "Arma. Tecnologia.",
-		"flavor": "Sono zeppe di carburante infiammabile, che brucia a temperature altissime."
+		"traits": "Arma. Tecnologia."
 	},
 	{
 		"code": 27139,
+		"flavor": "Il fumo denso e soffocante che esce da queste bombe può mettere fuori combattimento anche il più tenace degli avversari.",
 		"name": "Bombe Fumogene",
-		"text": "Assegna al criminale.\r\n Utilizzo (2 gettoni bomba.)\n [star] <b>Risposta Obbligata: </b> Dopo che il criminale ti ha attaccato, rimuovi 1 gettone bomba da questa carta → scarta l'evento adl costo più basso dalla tua mano.",
-		"traits": "Arma. Tecnologia.",
-		"flavor": "Il fumo denso e soffocante che esce da queste bombe può mettere fuori combattimento anche il più tenace degli avversari."
+		"text": "Assegna al criminale.\n Utilizzo (2 gettoni bomba.)\n [star] <b>Risposta Obbligata: </b> Dopo che il criminale ti ha attaccato, rimuovi 1 gettone bomba da questa carta → scarta l'evento adl costo più basso dalla tua mano.",
+		"traits": "Arma. Tecnologia."
 	},
 	{
 		"code": 27140,
+		"flavor": "Norman Osborn ha avuto il suo bel daffare a sviluppare e accumulare dispositivi tecnologici. In questo modo, ha garantito a sè stesso e ai suoi complici un deposito fornito di ogni genere di gadget e arma.",
 		"name": "Scorte Senza Fine",
-		"text": "Ogni aggiunta [[TECNOLOGIA]] ottiene Impulso.",
-		"flavor": "Norman Osborn ha avuto il suo bel daffare a sviluppare e accumulare dispositivi tecnologici. In questo modo, ha garantito a sè stesso e ai suoi complici un deposito fornito di ogni genere di gadget e arma."
+		"text": "Ogni aggiunta [[TECNOLOGIA]] ottiene Impulso."
 	},
 	{
 		"code": 27141,
@@ -483,9 +483,9 @@
 	},
 	{
 		"code": 27146,
+		"flavor": "Le tenebre danzano con movimenti sinistri.",
 		"name": "Da Ogni Direzione",
-		"text": "In modalità esperto, questa carta ottiene Impulso.\n <b> Quando Rivelata: </b> Colloca 1 minaccia sulla trama principale per ogni nemico in gioco.",
-		"flavor": "Le tenebre danzano con movimenti sinistri."
+		"text": "In modalità esperto, questa carta ottiene Impulso.\n <b> Quando Rivelata: </b> Colloca 1 minaccia sulla trama principale per ogni nemico in gioco."
 	},
 	{
 		"code": 27147,
@@ -508,7 +508,7 @@
 	{
 		"code": 27150,
 		"name": "Scaglie di Neocarbonio",
-		"text": "Impulso.\n Assegna al criminale.\n Riduci di 1 l'ammontare di danni che il criminale con questa aggiunta subisce da ogni attacco.\r\n <b> Azione Eroe: </b> Irrobustisci il criminale e fagli ricevere 1 carta potenziamento a faccia in giù → scarta questa carta.",
+		"text": "Impulso.\n Assegna al criminale.\n Riduci di 1 l'ammontare di danni che il criminale con questa aggiunta subisce da ogni attacco.\n <b> Azione Eroe: </b> Irrobustisci il criminale e fagli ricevere 1 carta potenziamento a faccia in giù → scarta questa carta.",
 		"traits": "Armatura. Tecnologia."
 	},
 	{
@@ -520,7 +520,7 @@
 	{
 		"code": 27152,
 		"name": "Display di Tracciamento",
-		"text": "Impulso.\n Assegna al criminale. \n [star] I personaggi non possono difendere dagli attacchi del criminale con questa aggiunta.\n <b> Azione Eroe: </b> Esaurisci 1 personaggio che controlli e scarta 1 carta casuale dalla tua mano → scarta questa carta.",
+		"text": "Impulso.\n Assegna al criminale.\n [star] I personaggi non possono difendere dagli attacchi del criminale con questa aggiunta.\n <b> Azione Eroe: </b> Esaurisci 1 personaggio che controlli e scarta 1 carta casuale dalla tua mano → scarta questa carta.",
 		"traits": "Oggetto. Tecnologia."
 	},
 	{
@@ -542,9 +542,9 @@
 	},
 	{
 		"code": 27156,
+		"flavor": "Maestro nelle tattiche intimidatorie, Mysterio sa sfruttare ogni singola informazione che può carpire sulle fobie della propria vittima.",
 		"name": "Debolezza Interiore",
-		"text": "<b>Quando Rivelata</b>: Colloca 1 minaccia aggiuntiva su questa carta per ogni carta nella tua mano.",
-		"flavor": "Maestro nelle tattiche intimidatorie, Mysterio sa sfruttare ogni singola informazione che può carpire sulle fobie della propria vittima."
+		"text": "<b>Quando Rivelata</b>: Colloca 1 minaccia aggiuntiva su questa carta per ogni carta nella tua mano."
 	},
 	{
 		"code": 27157,
@@ -553,45 +553,45 @@
 	},
 	{
 		"code": 27158,
+		"flavor": "\"Ora, osserva mentre intrappolo un ragno nella mia ragnatela... Una ragnatela tessuta con le mie nuove braccia!\"",
 		"name": "Dottor Octopus",
 		"text": "Criminoso. Incitazione 2.\n [star] <b> Risposta Obbligata: </b> Dopo che Dottor Octopus si è attivato contro di te, colloca 1 minaccia su ogni trama.",
-		"traits": "Elite. Genio.",
-		"flavor": "\"Ora, osserva mentre intrappolo un ragno nella mia ragnatela... Una ragnatela tessuta con le mie nuove braccia!\""
+		"traits": "Elite. Genio."
 	},
 	{
 		"code": 27159,
+		"flavor": "\"Con i miei grandi poteri, nulla può fermarmi!\"",
 		"name": "Electro",
 		"text": "Criminoso. Ritorsione 1.\n <b>Risposta Obbligata: </b> Dopo che Electro ti ha impegnato o si è attivato contro di te, scarta carte dalla cima del tuo mazzo finchè non scarti una [energy] o [wild].",
-		"traits": "Criminale. Elite.",
-		"flavor": "\"Con i miei grandi poteri, nulla può fermarmi!\""
+		"traits": "Criminale. Elite."
 	},
 	{
 		"code": 27160,
+		"flavor": "\"Non puoi immaginare quanto mi godrò questo momento.\"",
 		"name": "Hobgoblin",
 		"text": "Criminoso. Pattuglia.\n [star] <b>Risposta Obbligata: </b> Dopo che Hobgoblin ti ha attaccato, subisci 2 danni indiretti.",
-		"traits": "Aereo. Elite.",
-		"flavor": "\"Non puoi immaginare quanto mi godrò questo momento.\""
+		"traits": "Aereo. Elite."
 	},
 	{
 		"code": 27161,
+		"flavor": "\"Le mie capacità sono affilate quanto i miei coltelli.\"",
 		"name": "Kraven il Cacciatore",
 		"text": "Criminoso. Tempra.\n [star] <b>Risposta Obbligata: </b> Dopo che Kraven il Cacciatore ha attaccato e danneggiato un personaggio che controlli, scarta 1 miglioria o supporto che controlli.",
-		"traits": "Elite.",
-		"flavor": "\"Le mie capacità sono affilate quanto i miei coltelli.\""
+		"traits": "Elite."
 	},
 	{
 		"code": 27162,
+		"flavor": "\"L'ultima battaglia di Spider-Man? Non me la perderei per niente al mondo.\"",
 		"name": "Scorpione",
 		"text": "Criminoso. Robustezza.\n [star] <b>Risposta Obbligata: </b> Dopo che Scorpione ha attaccato e danneggiato un personaggio, stordisci quel personaggio. Se quel personaggio è già stordito, infliggigli 2 danni.",
-		"traits": "Bruto. Elite.",
-		"flavor": "\"L'ultima battaglia di Spider-Man? Non me la perderei per niente al mondo.\""
+		"traits": "Bruto. Elite."
 	},
 	{
 		"code": 27163,
+		"flavor": "\"Nessuno odia l'arrampicamuri più di me!\"",
 		"name": "Avvoltoio",
 		"text": "Colpo Rapido. Criminoso.\n [star] <b>Risposta Obbligata: </b> Dopo che Avvoltoio si è attivato contro di te, scarta 1 carta casuale dalla tua mano.",
-		"traits": "Aereo. Elite.",
-		"flavor": "\"Nessuno odia l'arrampicamuri più di me!\""
+		"traits": "Aereo. Elite."
 	},
 	{
 		"code": 27164,
@@ -600,10 +600,10 @@
 	},
 	{
 		"code": 27165,
+		"flavor": "\"Mmh, cervelli...\"",
 		"name": "Tendenze Violente ",
 		"text": "Assegna al criminale.\n <b> Risposta Obbligata: </b> Dopo che il criminale con questa aggiunta ha subito un qualsiasi ammontare di danni da un attacco, fagli ricevere 1 carta potenziamento a faccia in giù. Se quell'attacco ha inflitto 3 o più danni al criminale con questa aggiunta, scarta questa carta.",
-		"traits": "Condizione.",
-		"flavor": "\"Mmh, cervelli...\""
+		"traits": "Condizione."
 	},
 	{
 		"code": 27166,
@@ -619,9 +619,9 @@
 	},
 	{
 		"code": 27168,
+		"flavor": "\"Ma voi perdenti non imparate mai!?\" - Venom",
 		"name": "Assalto Oscillante",
-		"text": "<b> Quando Rivelata (Alter Ego): </b> Assumi la sembianza di eroe. Il criminale ti attacca.\n <b> Quando Rivelata (Eroe): </b> Il criminale ti attacca. Fai ricevere 1 carta potenziamento aggiuntiva al criminale per quell'attivazione.",
-		"flavor": "\"Ma voi perdenti non imparate mai!?\" - Venom"
+		"text": "<b> Quando Rivelata (Alter Ego): </b> Assumi la sembianza di eroe. Il criminale ti attacca.\n <b> Quando Rivelata (Eroe): </b> Il criminale ti attacca. Fai ricevere 1 carta potenziamento aggiuntiva al criminale per quell'attivazione."
 	},
 	{
 		"code": 27169,
@@ -664,31 +664,31 @@
 	{
 		"code": "27076a",
 		"name": "\"Lasciateci in Pace!\"",
-		"text": "<b>Contenuto: </b> Venom (I) e Venom (II). (Venom (II) e Venom (III) invece per la modalità esperto.) Set di incontri Venom, Forza Simbiotica e Standard. 1 set di incontri modulare (Piedi per Terra.) \n <b> Preparazione: </b> Metti in gioco l'ambiente Campanile, con il lato [[SILENZIO]] a faccia in su."
+		"text": "<b>Contenuto: </b> Venom (I) e Venom (II). (Venom (II) e Venom (III) invece per la modalità esperto.) Set di incontri Venom, Forza Simbiotica e Standard. 1 set di incontri modulare (Piedi per Terra.)\n <b> Preparazione: </b> Metti in gioco l'ambiente Campanile, con il lato [[SILENZIO]] a faccia in su."
 	},
 	{
 		"code": "27076b",
+		"flavor": "Non appena si accorge della vostra presenza, Venom viene colto da un'improvvisa ferocia. Si avventa su di voi senza alcun controllo, seminando distruzione in tutta la città.",
 		"name": "\"Lasciateci in Pace!\"",
-		"text": "<b>Interruzione Obbligata: </b> Quando Venom si attiva contro di te, sposta ogni carta potenziamento a faccia in giù dalla tua identità a Venom. \n <b>Se questo stadio è completato, i giocatori perdono la partita.</b>",
-		"flavor": "Non appena si accorge della vostra presenza, Venom viene colto da un'improvvisa ferocia. Si avventa su di voi senza alcun controllo, seminando distruzione in tutta la città."
+		"text": "<b>Interruzione Obbligata: </b> Quando Venom si attiva contro di te, sposta ogni carta potenziamento a faccia in giù dalla tua identità a Venom.\n <b>Se questo stadio è completato, i giocatori perdono la partita.</b>"
 	},
 	{
 		"code": "27077a",
+		"flavor": "Il simbionte Venom è molto sensibile ai rumori forti...",
 		"name": "Campanile",
-		"text": "Se ci sono 3[per_player] o più gettoni rintocco su questa carta, girala. \n <b>Interruzione: </b> Quando un attacco sta per infliggere un qualsiasi ammontare di danni a Venom, puoi collocare invece un pari ammontare di gettoni rintocco su questa carta.",
-		"traits": "Luogo. Silenzio.",
-		"flavor": "Il simbionte Venom è molto sensibile ai rumori forti..."
+		"text": "Se ci sono 3[per_player] o più gettoni rintocco su questa carta, girala.\n <b>Interruzione: </b> Quando un attacco sta per infliggere un qualsiasi ammontare di danni a Venom, puoi collocare invece un pari ammontare di gettoni rintocco su questa carta.",
+		"traits": "Luogo. Silenzio."
 	},
 	{
 		"code": "27077b",
 		"name": "Campanile ",
-		"text": "Aumenta di 1 tutti i danni subiti da Venom. \nSe non ci sono gettoni rintocco su questa carta, girala. \n <b>Interruzione Obbligata: </b> Quando un attacco di Venom sta per infliggere un qualsiasi ammontare di danni a un'identità, rimuovi un pari ammontare di gettoni rintocco da questa carta. Per ogni gettone rintocco rimosso in questo modo, previeni 1 di quei danni.",
+		"text": "Aumenta di 1 tutti i danni subiti da Venom.\nSe non ci sono gettoni rintocco su questa carta, girala.\n <b>Interruzione Obbligata: </b> Quando un attacco di Venom sta per infliggere un qualsiasi ammontare di danni a un'identità, rimuovi un pari ammontare di gettoni rintocco da questa carta. Per ogni gettone rintocco rimosso in questo modo, previeni 1 di quei danni.",
 		"traits": "Frastuono. Luogo."
 	},
 	{
 		"code": "27087a",
 		"name": "Labirinto di Specchi",
-		"text": "<b> Contenuto: </b> Mysterio (I) e Mysterio (II). (Mysterio (II) e Mysterio (III) invece per la modalità esperto.) Set di incontri Mysterio, Incubo Personale e Standard. 1 set di incontri modulare (Sussurri di Paranoia.) \n <b> Preparazione:</b> Metti in gioco 1 gregario Spettro Mutevole impegnato con ogni giocatore. (Mescola.)"
+		"text": "<b> Contenuto: </b> Mysterio (I) e Mysterio (II). (Mysterio (II) e Mysterio (III) invece per la modalità esperto.) Set di incontri Mysterio, Incubo Personale e Standard. 1 set di incontri modulare (Sussurri di Paranoia.)\n <b> Preparazione:</b> Metti in gioco 1 gregario Spettro Mutevole impegnato con ogni giocatore. (Mescola.)"
 	},
 	{
 		"code": "27087b",
@@ -702,41 +702,41 @@
 	},
 	{
 		"code": "27088b",
+		"flavor": "La capacità di Mysterio di manipolare le menti comincia a gravare sui vostri pensieri, offuscando il confine che separa la realtà dalla fantasia.",
 		"name": "Ai Confini della Realtà",
-		"text": "<b> Interruzione Obbligata: </b> Quando stai per pescare o scartare una carta incontro dal tuo mazzo, distribuiscila come carta incontro a faccia in giù a te stesso → pesca 1 carta. \n <b>Se questo stadio è completato, i giocatori perdono la partita. </b>",
-		"flavor": "La capacità di Mysterio di manipolare le menti comincia a gravare sui vostri pensieri, offuscando il confine che separa la realtà dalla fantasia."
+		"text": "<b> Interruzione Obbligata: </b> Quando stai per pescare o scartare una carta incontro dal tuo mazzo, distribuiscila come carta incontro a faccia in giù a te stesso → pesca 1 carta.\n <b>Se questo stadio è completato, i giocatori perdono la partita. </b>"
 	},
 	{
 		"code": "27100a",
 		"name": "Sinistra Sincronizzazione",
-		"text": "<b> Contenuto: </b> Dottor Octopus, Electro, Hobgoblin, Kraven il Cacciatore, Scorpione, e Avvoltoio. Set di incontri Sinistri Sei, Tattiche di Guerriglia e Standard. \n <b>Preparazione: </b> Scegli X criminali casuali, dove X è pari al numero dei giocatori +1. Metti in gioco quei criminali, colloca il gettone attivo sul criminale con il valore di ordine di attivazione più basso e metti da parte gli altri. Metti in gioco la trama secondaria Luce alla Fine del Tunnel, con il lato [[TRAPPOLA!]] a faccia in su."
+		"text": "<b> Contenuto: </b> Dottor Octopus, Electro, Hobgoblin, Kraven il Cacciatore, Scorpione, e Avvoltoio. Set di incontri Sinistri Sei, Tattiche di Guerriglia e Standard.\n <b>Preparazione: </b> Scegli X criminali casuali, dove X è pari al numero dei giocatori +1. Metti in gioco quei criminali, colloca il gettone attivo sul criminale con il valore di ordine di attivazione più basso e metti da parte gli altri. Metti in gioco la trama secondaria Luce alla Fine del Tunnel, con il lato [[TRAPPOLA!]] a faccia in su."
 	},
 	{
 		"code": "27100b",
 		"name": "Sinistra Sincronizzazione",
-		"text": "Imboscata - <b>Speciale: </b> Scegli 1 criminale messo da parte casuale, mettilo in gioco e colloca il gettone attivo su di esso. (In modalità esperto, colloca 2 minacce su Luce alla Fine del Tunnel.) \n <b>Interruzione Obbligata: </b> Quando un criminale sta per attivarsi, se non ci sono criminali in gioco, risolvi la capacità \"Imboscata!\" di questa carta. Continua quell'attivazione."
+		"text": "Imboscata - <b>Speciale: </b> Scegli 1 criminale messo da parte casuale, mettilo in gioco e colloca il gettone attivo su di esso. (In modalità esperto, colloca 2 minacce su Luce alla Fine del Tunnel.)\n <b>Interruzione Obbligata: </b> Quando un criminale sta per attivarsi, se non ci sono criminali in gioco, risolvi la capacità \"Imboscata!\" di questa carta. Continua quell'attivazione."
 	},
 	{
 		"code": "27101a",
+		"flavor": "I sei criminali sono più sicuri che mai di poterla spuntare e sono determinati a porre fine alla vostra esistenza una volta per tutte.",
 		"name": "Sinistro Pestaggio",
-		"text": "<b>Quando Rivelata: </b> Scegli 1 criminale messo da parte casuale, mettilo in gioco e colloca il gettone attivo su di esso (anche se il gettone è attualmente su un altro criminale). Se nessun criminale è stato messo in gioco in questo modo o se si sta giocando in modalità esperto, distribuisci 1 carta incontro a faccia in giù al primo giocatore.",
-		"flavor": "I sei criminali sono più sicuri che mai di poterla spuntare e sono determinati a porre fine alla vostra esistenza una volta per tutte."
+		"text": "<b>Quando Rivelata: </b> Scegli 1 criminale messo da parte casuale, mettilo in gioco e colloca il gettone attivo su di esso (anche se il gettone è attualmente su un altro criminale). Se nessun criminale è stato messo in gioco in questo modo o se si sta giocando in modalità esperto, distribuisci 1 carta incontro a faccia in giù al primo giocatore."
 	},
 	{
 		"code": "27101b",
 		"name": "Sinistro Pestaggio",
-		"text": "Imboscata! - <b>Speciale: </b> Scegli 1 criminale messo da parte casuale, mettilo in gioco e colloca il gettone attivo su di esso. (In modalità esperto, colloca 2 minacce su Luce alla Fine del Tunnel.). \n <b>Interruzione Obbligata </b> Quando un criminale sta per attivarsi, se non ci sono criminali in gioco, risolvi la capacità \"Imboscata!\" di questa carta. Continua quell'attivazione. \n <b>Se questo stadio è completato, i giocatori perdono la partita. </b>"
+		"text": "Imboscata! - <b>Speciale: </b> Scegli 1 criminale messo da parte casuale, mettilo in gioco e colloca il gettone attivo su di esso. (In modalità esperto, colloca 2 minacce su Luce alla Fine del Tunnel.).\n <b>Interruzione Obbligata </b> Quando un criminale sta per attivarsi, se non ci sono criminali in gioco, risolvi la capacità \"Imboscata!\" di questa carta. Continua quell'attivazione.\n <b>Se questo stadio è completato, i giocatori perdono la partita. </b>"
 	},
 	{
 		"code": "27102a",
 		"name": "Luce alla fine del Tunnel",
-		"text": "Ostacolo 10[per_player]. Permanente.\n I giocatori non possono vincere a meno che non fuggano. \n <b>Interruzione Obbligata: </b> Quando l'ultima minaccia è rimossa da questa trama, risolvi la capacità \"Imboscata!\" della trama principale. Gira questa carta. (I giocatori possono fuggire dall'altro lato.)",
+		"text": "Ostacolo 10[per_player]. Permanente.\n I giocatori non possono vincere a meno che non fuggano.\n <b>Interruzione Obbligata: </b> Quando l'ultima minaccia è rimossa da questa trama, risolvi la capacità \"Imboscata!\" della trama principale. Gira questa carta. (I giocatori possono fuggire dall'altro lato.)",
 		"traits": "Trappola!"
 	},
 	{
 		"code": "27102b",
 		"name": "Luce alla fine del Tunnel",
-		"text": "Ostacolo 10[per_player]. Permanente.  \n I giocatori non possono vincere a meno che non fuggano. \n <b>Interruzione Obbligata: </b> Quando l'ultima minaccia è rimossa da questa trama, i giocatori fuggono e vincono la partita.",
+		"text": "Ostacolo 10[per_player]. Permanente.\n I giocatori non possono vincere a meno che non fuggano.\n <b>Interruzione Obbligata: </b> Quando l'ultima minaccia è rimossa da questa trama, i giocatori fuggono e vincono la partita.",
 		"traits": "Inseguimento!"
 	},
 	{
@@ -751,9 +751,9 @@
 	},
 	{
 		"code": "27117a",
+		"flavor": "Snodo del mercato mondiale, molti cittadini di Lower Manhattan non pensano che ad aumentare i loro profitti e non si accorgono dei tentativi di Venom Goblin di usurpare la città.",
 		"name": "Lower Manhattan",
-		"text": "<b>Speciale: </b> Colloca 1 minaccia su ogni trama. Se ci sono ambienti [[SIMBIONTE]] in gioco, colloca 1 minaccia aggiuntiva su questa trama.",
-		"flavor": "Snodo del mercato mondiale, molti cittadini di Lower Manhattan non pensano che ad aumentare i loro profitti e non si accorgono dei tentativi di Venom Goblin di usurpare la città."
+		"text": "<b>Speciale: </b> Colloca 1 minaccia su ogni trama. Se ci sono ambienti [[SIMBIONTE]] in gioco, colloca 1 minaccia aggiuntiva su questa trama."
 	},
 	{
 		"code": "27117b",
@@ -763,9 +763,9 @@
 	},
 	{
 		"code": "27118a",
+		"flavor": "Gli edifici emblematici e le strade frenetiche di Midtown Manhattan occultano gli spostamenti aerei di Venom Goblin.",
 		"name": "Midtown Manhattan",
-		"text": "<b>Speciale: </b> Subisci 2 danni indiretti. Se ci sono ambienti [[SIMBIONTE]] in gioco, subisci 1 danno indiretto aggiuntivo.",
-		"flavor": "Gli edifici emblematici e le strade frenetiche di Midtown Manhattan occultano gli spostamenti aerei di Venom Goblin."
+		"text": "<b>Speciale: </b> Subisci 2 danni indiretti. Se ci sono ambienti [[SIMBIONTE]] in gioco, subisci 1 danno indiretto aggiuntivo."
 	},
 	{
 		"code": "27118b",
@@ -775,9 +775,9 @@
 	},
 	{
 		"code": "27119a",
+		"flavor": "Gli abitanti di Upper Manhattan si godono una giornata di sole passeggiando tra Central Park e Harlem, ignari del piano di Venom Goblin di infestare la loro comunità.",
 		"name": "Upper Manhattan",
-		"text": "<b>Speciale: </b> Scarta 1 carta dalla tua mano. Se ci sono ambienti [[SIMBIONTE]] in gioco, scarta 4 carte dalla cima del tuo mazzo.",
-		"flavor": "Gli abitanti di Upper Manhattan si godono una giornata di sole passeggiando tra Central Park e Harlem, ignari del piano di Venom Goblin di infestare la loro comunità."
+		"text": "<b>Speciale: </b> Scarta 1 carta dalla tua mano. Se ci sono ambienti [[SIMBIONTE]] in gioco, scarta 4 carte dalla cima del tuo mazzo."
 	},
 	{
 		"code": "27119b",

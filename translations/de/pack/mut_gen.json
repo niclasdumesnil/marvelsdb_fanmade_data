@@ -13,25 +13,25 @@
 	},
 	{
 		"code": "32002",
+		"flavor": "\"Komm schon, Peter, du Dummkopf! Dein Körper ist aus Metall, nicht dein Gehirn!\"",
 		"name": "Shadowcat",
 		"subname": "Kitty Pryde",
 		"text": "Shadowcat ignoriert die Schlüsselwörter Wache und Patrouille und alle Krisensymbole ([crisis]) im Spiel.",
-		"traits": "X-Men.",
-		"flavor": "\"Komm schon, Peter, du Dummkopf! Dein Körper ist aus Metall, nicht dein Gehirn!\""
+		"traits": "X-Men."
 	},
 	{
 		"code": "32003",
+		"flavor": "\"Unter seiner Haut aus Stahl verbirgt sich das Herz eines Künstlers, der lieber malt als kämpft.\"",
 		"name": "Piotr's Studio",
 		"text": "<b>Alter-Ego Aktion</b>: Erschöpfe Piotrs Studio → lege Karten von deinem Deck ab, bis du eine Colossus-Karte ablegst, und nimm sie auf deine Hand.",
-		"traits": "Ort.",
-		"flavor": "\"Unter seiner Haut aus Stahl verbirgt sich das Herz eines Künstlers, der lieber malt als kämpft.\""
+		"traits": "Ort."
 	},
 	{
 		"code": "32004",
+		"flavor": "\"Peteys Wille ist genau so stark wie seine gepanzerte Haut. Er gibt niemals nach.\" - Wolverine",
 		"name": "Eiserner Wille",
 		"text": "Colossus bekommt +1 WID.\n<b>Held - Reaktion</b>: Nachdem eine Zäh-Statuskarte von Colossus abgelegt worden ist, ziehe 1 Karte.",
-		"traits": "Superkraft.",
-		"flavor": "\"Peteys Wille ist genau so stark wie seine gepanzerte Haut. Er gibt niemals nach.\" - Wolverine"
+		"traits": "Superkraft."
 	},
 	{
 		"code": "32005",
@@ -47,17 +47,17 @@
 	},
 	{
 		"code": "32007",
+		"flavor": "\"Aaarrrrrhhhhhh!!\" - Colossus",
 		"name": "Aus Zorn geformt",
 		"text": "<b>Held - Unterbrechung</b>: Sobald du einen Basisangriff durchführst, lege eine Zäh-Statuskarte von deinem Helden ab → du bekommst für den Angriff +6 ANG. Der Angriff erhält Overkill.",
-		"traits": "Superkraft.",
-		"flavor": "\"Aaarrrrrhhhhhh!!\" - Colossus"
+		"traits": "Superkraft."
 	},
 	{
 		"code": "32008",
+		"flavor": "\"Kameraden, lasst uns diesen Kampf ein für alle Mal beenden!\" - Colossus",
 		"name": "Stahlfaust",
 		"text": "<b>Held - Aktion)</b> <i>(Angriff)</i>: Füge einem Gegner 5 Schaden zu. Du darfst eine Zäh-Statuskarte von deinem Helden ablegen →betäube und verwirre jenen Gegner.",
-		"traits": "Angriff. Superkraft.",
-		"flavor": "\"Kameraden, lasst uns diesen Kampf ein für alle Mal beenden!\" - Colossus"
+		"traits": "Angriff. Superkraft."
 	},
 	{
 		"code": "32009",
@@ -67,10 +67,10 @@
 	},
 	{
 		"code": "32010",
+		"flavor": "\"Statt mich zu erledigen, hast du nur mit mir gespielt. Das hat mir Zeit verschafft, mich zu verwandeln - von Piotr Rasputin... in Colossus!\" - Colossus",
 		"name": "Panzern",
 		"text": "<b>Alter Ego - Unterbrechung</b>: Sobald der Schurke aktiviert wird, wechsle in deine Heldengestalt.",
-		"traits": "Superkraft.",
-		"flavor": "\"Statt mich zu erledigen, hast du nur mit mir gespielt. Das hat mir Zeit verschafft, mich zu verwandeln - von Piotr Rasputin... in Colossus!\" - Colossus"
+		"traits": "Superkraft."
 	},
 	{
 		"code": "32011",
@@ -81,25 +81,25 @@
 	},
 	{
 		"code": "32012",
+		"flavor": "\"Ich liebe meinen Vater. Aber wo er versucht, andere zu beherrschen, da kämpfe ich darum, sie zu beschützen.\"",
 		"name": "Polaris",
 		"subname": "Lorna Dane",
 		"text": "<b>Reaktion</b>: Nachdem Polaris ins Spiel gekommen ist, gib einem [[X-Men]]-Charakter eine Zäh-Statuskarte.",
-		"traits": "X-Men.",
-		"flavor": "\"Ich liebe meinen Vater. Aber wo er versucht, andere zu beherrschen, da kämpfe ich darum, sie zu beschützen.\""
+		"traits": "X-Men."
 	},
 	{
 		"code": "32013",
+		"flavor": "\"Die X-Men haben geschworen, eine Welt zu beschützen, die sie hasst und fürchtet. Dafür trainieren sie unablässig.\"",
 		"name": "Defensivtraining",
 		"text": "Hänge diese Karte an einen [[X-Men]]-Verbündeten an. Max. 1 [[Training]]-Upgrade pro Verbündeten.\nDer Verbündete mit diesem Upgrade bekommt +3 Lebenspunkte.",
-		"traits": "Training.",
-		"flavor": "\"Die X-Men haben geschworen, eine Welt zu beschützen, die sie hasst und fürchtet. Dafür trainieren sie unablässig.\""
+		"traits": "Training."
 	},
 	{
 		"code": "32014",
+		"flavor": "\"Wie wäre es mit einem Schlag in die Magengrube?!\" - Shadowcat",
 		"name": "Mächtiger Schlag",
 		"text": "<b>Held - Unterbrechung</b> <i>(Angriff/Verteidigung)</i>: Sobald ein Gegner einen Angriff einleitet, füge ihm 4 Schaden zu.",
-		"traits": "Angriff. Verteidigung.",
-		"flavor": "\"Wie wäre es mit einem Schlag in die Magengrube?!\" - Shadowcat"
+		"traits": "Angriff. Verteidigung."
 	},
 	{
 		"code": "32016",
@@ -127,10 +127,10 @@
 	},
 	{
 		"code": "32020",
+		"flavor": "\"Forge hat sich mit dieser Schönheit wirklich selbst übertroffen!\" - Beast",
 		"name": "X-Jet",
 		"text": "<b>Ressource</b>: Erschöpfe X-Jet → erzeuge eine [wild]-Ressource für einen Spieler, dessen Identität das Merkmal [[X-Men]] hat.",
-		"traits": "Fahrzeug. X-Men.",
-		"flavor": "\"Forge hat sich mit dieser Schönheit wirklich selbst übertroffen!\" - Beast"
+		"traits": "Fahrzeug. X-Men."
 	},
 	{
 		"code": "32021",
@@ -140,10 +140,10 @@
 	},
 	{
 		"code": "32030a",
+		"flavor": "\"Du kannst nicht aufhalten, was du nicht zu fassen kriegst!\"",
 		"name": "Shadowcat",
 		"text": "<i>Selektive Immaterialität</i> - Solange du in der Phasenform-Massegestalt bist, ignoriert Shadowcat die Schlüsselwörter Wache und Patrouille sowie alle Krisensymbole ([crisis]) im Spiel.",
-		"traits": "X-Men.",
-		"flavor": "\"Du kannst nicht aufhalten, was du nicht zu fassen kriegst!\""
+		"traits": "X-Men."
 	},
 	{
 		"code": "32030b",
@@ -175,17 +175,17 @@
 	},
 	{
 		"code": "32034",
+		"flavor": "\"Hast du 'ne Ahnung, wie viel Konzentration es erfordert, nur meinen Fuß immateriell zu machen?\" - Shadowcat",
 		"name": "Präzise Kontrolle",
 		"text": "<b>Held - Reaktion</b>: Nachdem du das Schlüsselwort Wache oder Patrouille auf einem Schergen ignoriert hast, erschöpfe Präzise Kontrolle → füge jenem Schergen 2 Schaden zu.",
-		"traits": "Superkraft.",
-		"flavor": "\"Hast du 'ne Ahnung, wie viel Konzentration es erfordert, nur meinen Fuß immateriell zu machen?\" - Shadowcat"
+		"traits": "Superkraft."
 	},
 	{
 		"code": "32035",
+		"flavor": "\"Shadowcats Phasenform hat eine störende Wirkung auf jegliche Elektronik.\"",
 		"name": "Immaterielle Interferenz",
 		"text": "<b>Held - Reaktion</b>: Nachdem du das Krisensymbol ([crisis]) auf einem Plan ignoriert hast, erschöpfe Immaterielle Interferenz → entferne 2 Bedrohung von dem Plan.",
-		"traits": "Superkraft.",
-		"flavor": "\"Shadowcats Phasenform hat eine störende Wirkung auf jegliche Elektronik.\""
+		"traits": "Superkraft."
 	},
 	{
 		"code": "32036",
@@ -195,10 +195,10 @@
 	},
 	{
 		"code": "32037",
+		"flavor": "\"Gleich kommt noch was, mit dem du nicht gerechnet hast.\" - Shadowcat",
 		"name": "Shadowcat-Überraschung",
 		"text": "<b>Held - Aktion</b> <i>(Angriff)</i>: Füge einem Gegner 3 Schaden zu. Mache deinen Helden spielbereit.",
-		"traits": "Angriff. Superkraft.",
-		"flavor": "\"Gleich kommt noch was, mit dem du nicht gerechnet hast.\" - Shadowcat"
+		"traits": "Angriff. Superkraft."
 	},
 	{
 		"code": "32038",
@@ -208,10 +208,10 @@
 	},
 	{
 		"code": "32039",
+		"flavor": "\"Um den Rapper zu zitieren: ‚You can't touch this!'\" - Shadowcat",
 		"name": "Luftlauf",
 		"text": "<b>Held - Aktion</b> <i>(Widerstand)</i>: Entferne 2 Bedrohung von einem Plan (4 Bedrohung stattdessen, falls du in deiner Phasenform-Massegestalt bist).",
-		"traits": "Superkraft. Widerstand.",
-		"flavor": "\"Um den Rapper zu zitieren: ‚You can't touch this!'\" - Shadowcat"
+		"traits": "Superkraft. Widerstand."
 	},
 	{
 		"code": "32040",
@@ -221,11 +221,11 @@
 	},
 	{
 		"code": "32041",
+		"flavor": "\"Willst du dein Glück herausfordern, Kumpel?\"",
 		"name": "Wolverine",
 		"subname": "Logan",
 		"text": "[star] Wolverines Angriffe erhalten Durchdringend.\n<b>Reaktion</b>: Nachdem dein Zug begonnen hat, heile 1 Schaden von Wolverine.",
-		"traits": "X-Men.",
-		"flavor": "\"Willst du dein Glück herausfordern, Kumpel?\""
+		"traits": "X-Men."
 	},
 	{
 		"code": "32042",
@@ -259,10 +259,10 @@
 	},
 	{
 		"code": "32048",
+		"flavor": "\"Bleib hinter mir, Towarischtsch!\"",
 		"name": "Colossus",
 		"text": "Senke die Kosten, um Colossus zu spielen, um 1, falls deine Identität das Merkmal [[Mutant]] oder [[X-Men]] hat.\nZähigkeit.",
-		"traits": "X-Men.",
-		"flavor": "\"Bleib hinter mir, Towarischtsch!\""
+		"traits": "X-Men."
 	},
 	{
 		"code": "32049",

@@ -7,13 +7,13 @@
 	{
 		"code": "60519",
 		"name": "Hellhound",
-		"text": "Quickstrike.\n<b>When Revealed</b>: Exhaust your identity.\n<i>(Weapon Hex’s nemesis minion.)</i>",
+		"text": "Quickstrike.\n<b>When Revealed</b>: Exhaust your identity.\n<i>(Weapon Hex's nemesis minion.)</i>",
 		"traits": "Demon. Elite."
 	},
 	{
 		"code": "60520",
 		"name": "Save My Sister and Others",
-		"text": "<i>“If you are fast with your magic, mine is better.”</i>—<i>Hellhound\n</i>Hinder 2[per_hero].\n<b>When Revealed</b>: Each player searches their deck, discard pile and hand for a hero-specific ally and places it facedown beneath this scheme. \n<b>When Defeated</b>: Return each ally beneath it to its owner's hand."
+		"text": "<i>“If you are fast with your magic, mine is better.”</i>—<i>Hellhound\n</i>Hinder 2[per_hero].\n<b>When Revealed</b>: Each player searches their deck, discard pile and hand for a hero-specific ally and places it facedown beneath this scheme.\n<b>When Defeated</b>: Return each ally beneath it to its owner's hand."
 	},
 	{
 		"code": "60521",

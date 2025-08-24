@@ -58,8 +58,8 @@
 	},
 	{
 		"code": "41008",
-		"name": "Trainingsroutine",
 		"flavor": "\"Übung macht den Meister.\" — Psylocke",
+		"name": "Trainingsroutine",
 		"text": "<b>Aktion</b> : Erschöpfe Trainingsroutine → durchsuche dein Deck nach einer [[FERTIGKEIT]]-Karte und nimm sie auf deine Hand. <i>(Mische.)</i> Falls du in Heldengestalt bist, lege 1 Karte von deiner Hand ab.",
 		"traits": "Training."
 	},
@@ -105,8 +105,8 @@
 	},
 	{
 		"code": "41016",
-		"name": "Eine Falle stellen",
 		"flavor": "\"Du kommst von unten, ich von oben.\"\n\"Ich komm immer von unten.\"\n\"Na schön, dann nimm halt oben.\"\n\"Ich mag unten aber lieber.\" — Wolverine und Deadpool",
+		"name": "Eine Falle stellen",
 		"text": "Sieg 0.\n<b>Sobald besiegt</b> : Der Spieler, der diesen Plan besiegt hat, fügt dem Schurken 5[per_hero] Schaden zu."
 	},
 	{

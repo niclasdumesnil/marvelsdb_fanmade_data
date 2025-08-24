@@ -21,7 +21,7 @@
 	{
 		"code": "20303",
 		"name": "Precognition",
-		"text": "<b>Hero Action </b><i>(thwart)</i>: Remove 2 threat from a scheme. Search the top 3 cards of your deck for a card and add it to your hand. If it is a Mantis card, remove 1 threat from a scheme. \n<i>“A welcome and a warning in a single breath.” —Mantis</i>",
+		"text": "<b>Hero Action </b><i>(thwart)</i>: Remove 2 threat from a scheme. Search the top 3 cards of your deck for a card and add it to your hand. If it is a Mantis card, remove 1 threat from a scheme.\n<i>“A welcome and a warning in a single breath.” —Mantis</i>",
 		"traits": "Psionic. Thwart."
 	},
 	{
@@ -63,7 +63,7 @@
 	{
 		"code": "20316",
 		"name": "The Celestial Madonna",
-		"text": "<b>Hero Resource</b>: Exhaust The Celestial Madonna → Use Mantis’ <i>“Empathetic Advantage”</i> ability. This use does not count against that ability‘s limit.\n<i>“She’s trained since birth by priests from another world to represent all of humanity.” —Thor</i>",
+		"text": "<b>Hero Resource</b>: Exhaust The Celestial Madonna → Use Mantis' <i>“Empathetic Advantage”</i> ability. This use does not count against that ability's limit.\n<i>“She's trained since birth by priests from another world to represent all of humanity.” —Thor</i>",
 		"traits": "Title."
 	}
 ]

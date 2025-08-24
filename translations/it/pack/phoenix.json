@@ -87,14 +87,14 @@
 	},
 	{
 		"code": 34016,
-		"name": "Addestramento alla \nMissione",
+		"name": "Addestramento alla\nMissione",
 		"text": "Assegna a un alleato [[X-MEN]]. Massimo 1 miglioria [[ADDESTRAMENTO]] per alleato.\nL'alleato con questa miglioria riceve +1 INT e +2 punti ferita.",
 		"traits": "Addestramento."
 	},
 	{
 		"code": 34017,
 		"name": "Manipolazione Psichica",
-		"text": "Gioca solo se la tua identità possiede il tratto [[PSIONICO]].\r\n<b>Interruzione</b> <i>(intervento)</i>: Quando il criminale trama, quell'attivazione rimuove minacce invece di collocarle.",
+		"text": "Gioca solo se la tua identità possiede il tratto [[PSIONICO]].\n<b>Interruzione</b> <i>(intervento)</i>: Quando il criminale trama, quell'attivazione rimuove minacce invece di collocarle.",
 		"traits": "Psionico. Intervento."
 	},
 	{

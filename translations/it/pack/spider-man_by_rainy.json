@@ -15,25 +15,25 @@
 		"code": "31302",
 		"name": "Ghost Rider",
 		"subname": "Zero Cochrane",
-		"text": "<b>Response</b>: After Ghost Rider is discarded by your <i>Acceleration</i> ability, deal 1 damage to an enemy.\n<b>Interrupt</b>: When Ghost Rider is defeated, place him on the bottom of his owner's deck. \n<i>“You can knock my circuits out for a while, but you can't delete me.”</i>",
+		"text": "<b>Response</b>: After Ghost Rider is discarded by your <i>Acceleration</i> ability, deal 1 damage to an enemy.\n<b>Interrupt</b>: When Ghost Rider is defeated, place him on the bottom of his owner's deck.\n<i>“You can knock my circuits out for a while, but you can't delete me.”</i>",
 		"traits": "Android. Infernal."
 	},
 	{
 		"code": "31303",
 		"name": "Accelerated Decoy",
-		"text": "<b>Hero Action</b>: Choose to either confuse an enemy or give your hero a tough status card. If you played this card using your <i>Acceleration</i> ability, do both instead. \n<i>“Tough luck, pal. I'm way too fast for you!”</i>",
+		"text": "<b>Hero Action</b>: Choose to either confuse an enemy or give your hero a tough status card. If you played this card using your <i>Acceleration</i> ability, do both instead.\n<i>“Tough luck, pal. I'm way too fast for you!”</i>",
 		"traits": "Superpower."
 	},
 	{
 		"code": "31305",
 		"name": "Rapid Strikes",
-		"text": "<b>Hero Action</b>: Make the following attack X times to a maximum of 3 (make it one additional time if you played this card using your <i>Acceleration</i> ability):\n• Deal 2 damage to an enemy. This attack ignores the guard keyword. \n<i>“Take him down. Fast and hard.”</i>",
+		"text": "<b>Hero Action</b>: Make the following attack X times to a maximum of 3 (make it one additional time if you played this card using your <i>Acceleration</i> ability):\n• Deal 2 damage to an enemy. This attack ignores the guard keyword.\n<i>“Take him down. Fast and hard.”</i>",
 		"traits": "Attack. Superpower."
 	},
 	{
 		"code": "31307",
 		"name": "Shock and Awe",
-		"text": "<b>Hero Action </b><i>(attack)</i>: Stun an enemy and deal 2 damage to it (4 damage instead if that enemy was not stunned this way). If you played this card using your <i>Acceleration</i> ability, stun each minion in play. \n<i>“Surprise, mothershockers! Your number's up!”</i>",
+		"text": "<b>Hero Action </b><i>(attack)</i>: Stun an enemy and deal 2 damage to it (4 damage instead if that enemy was not stunned this way). If you played this card using your <i>Acceleration</i> ability, stun each minion in play.\n<i>“Surprise, mothershockers! Your number's up!”</i>",
 		"traits": "Attack. Tactic."
 	},
 	{
@@ -51,7 +51,7 @@
 	{
 		"code": "31312",
 		"name": "Accelerated Vision",
-		"text": "You may resolve your <i>Acceleration</i> ability one additional time per phase (but still once per trigger).\nWhen resolving your <i>Acceleration</i> ability, you may continue discarding until you discard a different event and may play that instead.\n<i>“I've got to focus. Slow everything else down.” \n—Spider-Man 2099</i>",
+		"text": "You may resolve your <i>Acceleration</i> ability one additional time per phase (but still once per trigger).\nWhen resolving your <i>Acceleration</i> ability, you may continue discarding until you discard a different event and may play that instead.\n<i>“I've got to focus. Slow everything else down.”\n—Spider-Man 2099</i>",
 		"traits": "Condition. Superpower."
 	},
 	{

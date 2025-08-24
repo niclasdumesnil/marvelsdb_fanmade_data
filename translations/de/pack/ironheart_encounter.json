@@ -42,12 +42,12 @@
 	{
 		"code": "29038",
 		"name": "Falsch verdrahtet",
-		"text": "Hänge diese Karte an deine Identität an.\nBehandle die aufgedruckten Ressourcen auf jeder Karte auf deiner Hand, als ob sie [energy] wären.\n<b>Held - Aktion</b>: Wähle: Lege entweder eine Karte unter deiner Kontrolle mit einer aufgedruckten [energy]-Ressource ab oder nimm 2 indirekten Schaden \u2192 lege diese Karte ab."
+		"text": "Hänge diese Karte an deine Identität an.\nBehandle die aufgedruckten Ressourcen auf jeder Karte auf deiner Hand, als ob sie [energy] wären.\n<b>Held - Aktion</b>: Wähle: Lege entweder eine Karte unter deiner Kontrolle mit einer aufgedruckten [energy]-Ressource ab oder nimm 2 indirekten Schaden → lege diese Karte ab."
 	},
 	{
 		"code": "29039",
 		"name": "Aufgeladene Atmosphäre",
-		"text": "<b>Erzwungene Unterbrechung</b>: Sobald die Schurkenphase beginnt, füge jedem Spieler mit einer [energy]-Ressource auf seiner Hand und/oder auf einer Karte unter seiner Kontrolle 2 indirekten Schaden zu.\n<b>Held - Aktion</b>: Wähle: Lege entweder eine Karte unter deiner Kontrolle mit einer aufgedruckten [energy]-Ressource ab oder nimm 2 indirekten Schaden \u2192 lege diese Karte ab.",
+		"text": "<b>Erzwungene Unterbrechung</b>: Sobald die Schurkenphase beginnt, füge jedem Spieler mit einer [energy]-Ressource auf seiner Hand und/oder auf einer Karte unter seiner Kontrolle 2 indirekten Schaden zu.\n<b>Held - Aktion</b>: Wähle: Lege entweder eine Karte unter deiner Kontrolle mit einer aufgedruckten [energy]-Ressource ab oder nimm 2 indirekten Schaden → lege diese Karte ab.",
 		"traits": "Zustand."
 	},
 	{

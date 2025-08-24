@@ -7,7 +7,7 @@
 	},
 	{
 		"code": "70901b",
-		"name": "T’Challa",
+		"name": "T'Challa",
 		"text": "You cannot include allies in your deck.\n<b>Action</b>: shuffle 1 identity-specific card from your discard pile into your deck (limit once per round.)",
 		"traits": "Wakanda. Warp."
 	},
@@ -50,7 +50,7 @@
 	{
 		"code": "70912",
 		"name": "The Golden City",
-		"text": "<b>Alter-Ego Action</b>: Exhaust The Golden City → choose: \n• Search for a [[preparation ]]card in your deck and add it to your hand.\n• Shuffle a [[preparation ]]card from your discard pile into your deck.",
+		"text": "<b>Alter-Ego Action</b>: Exhaust The Golden City → choose:\n• Search for a [[preparation ]]card in your deck and add it to your hand.\n• Shuffle a [[preparation ]]card from your discard pile into your deck.",
 		"traits": "Location. Wakanda."
 	},
 	{

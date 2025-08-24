@@ -14,28 +14,28 @@
 	{
 		"code": "60402",
 		"name": "Leader of the Space Knight",
-		"text": "Permanent. Setup.\n<b>Setup</b>: Find Starshine, Pulsar and Terminator and attach them facedown to this card. \nAllies attached to this card may be played as if they were in your hand.",
+		"text": "Permanent. Setup.\n<b>Setup</b>: Find Starshine, Pulsar and Terminator and attach them facedown to this card.\nAllies attached to this card may be played as if they were in your hand.",
 		"traits": "Title."
 	},
 	{
 		"code": "60403",
 		"name": "Starshine",
 		"subname": "Landra",
-		"text": "<b>Hero Action</b>: Exhaust Starshine → choose a basic power. ROM gets +1 to that power until the end of the round (limit once per round). \n<i>“The memory of my humanity is so strong that I forgot what I have become.”</i>",
+		"text": "<b>Hero Action</b>: Exhaust Starshine → choose a basic power. ROM gets +1 to that power until the end of the round (limit once per round).\n<i>“The memory of my humanity is so strong that I forgot what I have become.”</i>",
 		"traits": "Aerial. Android. Space Knight."
 	},
 	{
 		"code": "60404",
 		"name": "Terminator",
 		"subname": "Balin",
-		"text": "<b>Response</b>: After Terminator enters play, deal 2 damage to an enemy. \n<i>“I enjoy their scream when I banish the Wraiths to the void.”</i>",
+		"text": "<b>Response</b>: After Terminator enters play, deal 2 damage to an enemy.\n<i>“I enjoy their scream when I banish the Wraiths to the void.”</i>",
 		"traits": "Aerial. Android. Space Knight."
 	},
 	{
 		"code": "60405",
 		"name": "Pulsar",
 		"subname": "Plor",
-		"text": "<b>Response</b>: After Pulsar enters play, remove 2 threat from a scheme. \n<i>“Rom decided to stand against this horror, alone.” (Rom Annual #2)</i>",
+		"text": "<b>Response</b>: After Pulsar enters play, remove 2 threat from a scheme.\n<i>“Rom decided to stand against this horror, alone.” (Rom Annual #2)</i>",
 		"traits": "Aerial. Android. Space Knight."
 	},
 	{

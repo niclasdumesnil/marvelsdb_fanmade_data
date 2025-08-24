@@ -20,10 +20,10 @@
 		"traits": "Aérien. X-Force."
 	},
 	{
-		"code": "42002",        	
+		"code": "42002",
 		"name": "Psylocke",
 		"subname": "Betsy Braddock",
-		"text": "[star] <b>Réponse de héros</b> : après que Psylocke a attaqué, si vous êtes :\n\u2022 Angel, soignez 1 dégât de Psylocke.\n\u2022 Archangel, redressez votre héros.",
+		"text": "[star] <b>Réponse de héros</b> : après que Psylocke a attaqué, si vous êtes :\n• Angel, soignez 1 dégât de Psylocke.\n• Archangel, redressez votre héros.",
 		"traits": "Psionique. X-Force."
 	},
 	{
@@ -77,15 +77,15 @@
 		"traits": "Super-pouvoir. Tech."
 	},
 	{
-		"code": "42011",        
+		"code": "42011",
 		"name": "Elixir",
-	    "subname": "Josh Foley",
+		"subname": "Josh Foley",
 		"text": "Jouez cette carte uniquement si votre identité a le trait [[X-FORCE]] ou [[X-MEN]].\n[star] <b>Réponse</b> : après qu'Elixir a attaqué ou contré, soignez 1 dégât d'un autre personnage ami.",
 		"traits": "X-Force."
 	},
 	{
 		"code": "42012",
-		"flavor": "\"HIIIIIIIIIIIIIIIIIIIIIII !\"",        	
+		"flavor": "\"HIIIIIIIIIIIIIIIIIIIIIII !\"",
 		"name": "Cyrène",
 		"subname": "Theresa Cassidy",
 		"text": "[star] <b>Réponse</b> : après que Cyrène a attaqué, sonnez un sbire.",
@@ -106,15 +106,15 @@
 	},
 	{
 		"code": "42015",
-		"name": "Toujours sur ses Gardes",
 		"flavor": "\"Je me comporte constamment comme un faucon.\" — Archangel",
+		"name": "Toujours sur ses Gardes",
 		"text": "Jouez cette carte uniquement si votre identité a le trait [[AÉRIEN]].\n<b>Action de héros</b> : redressez votre héros et retirez 2 menaces de la manigance principale.",
 		"traits": "Aérien. Compétence."
 	},
 	{
 		"code": "42016",
-		"name": "Moquerie",
 		"flavor": "\"Hey ! Fido ! Qui t'a retiré ta laisse ?\" — Jubilé",
+		"name": "Moquerie",
 		"text": "<b>Action de héros</b> : le méchant vous attaque. Les autres personnages ne peuvent pas défendre contre cette attaque. Piochez 3 cartes.",
 		"traits": "Tactique."
 	},
@@ -140,7 +140,7 @@
 		"code": "42020",
 		"flavor": "\"Il vaut mieux dégager de mon chemin quand je suis sous cette forme !\"",
 		"name": "Rocket",
-	    "subname": "Sam Guthrie",
+		"subname": "Sam Guthrie",
 		"text": "<b>Interruption</b> : quand Rocket est censé subir n'importe quelle quantité de dégâts consécutifs, reduisez de X cette quantité, X étant le nombre de cartes [[AÉRIEN]] dans votre main.",
 		"traits": "Aérien. X-Force."
 	},
@@ -175,8 +175,8 @@
 	},
 	{
 		"code": "42031",
-		"name": "Formation de Vol",
 		"flavor": "\"Bobby, en formation autour de moi !.\" — Archangel",
+		"name": "Formation de Vol",
 		"text": "Alliance. (Les joueurs peuvent payer collectivement les coûts de cette carte.)\n<b>Action de héros</b> : redressez jusqu'à 3 personnages [[AÉRIEN]].",
 		"traits": "Aérien. Tactique."
 	},

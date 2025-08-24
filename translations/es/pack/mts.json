@@ -71,11 +71,11 @@
 	},
 	{
 		"code": "21011",
+		"flavor": "\"¡Vengadores, reuníos!\"",
 		"name": "Capitán América",
 		"subname": "Steve Rogers",
 		"text": "Dureza.\nEl coste para jugar al Capitán América se reduce en 1 por cada personaje [[Vengador]] que controles.",
-		"traits": "Vengador.",
-		"flavor": "\"¡Vengadores, reuníos!\""
+		"traits": "Vengador."
 	},
 	{
 		"code": "21012",
@@ -117,11 +117,11 @@
 	},
 	{
 		"code": "21019",
+		"flavor": "\"¿Y a ti cuántas veces te voy a tener que matar?\"",
 		"name": "Blade",
 		"subname": "Eric Brooks",
 		"text": "[star] <b>Respuesta obligada:</b> después de que Blade intervenga o ataque, elige entre gastar un recurso [physical] de tu mano o descartar a Blade.",
-		"traits": "Vengador. Vampiro.",
-		"flavor": "\"¿Y a ti cuántas veces te voy a tener que matar?\""
+		"traits": "Vengador. Vampiro."
 	},
 	{
 		"code": "21022",
@@ -161,24 +161,24 @@
 	},
 	{
 		"code": "21035",
+		"flavor": "\"Una cosa te digo sobre Adam: el tío sabe cómo lucir una capa.\" —Starlord",
 		"name": "Capa de Warlock",
 		"text": "<b>Respuesta de Héroe:</b> después de que resuelvas la capacidad \"Magia de combate\" de Adam Warlock, agota la Capa de Warlock → prepara a Adam Warlock.",
-		"traits": "Objeto.",
-		"flavor": "\"Una cosa te digo sobre Adam: el tío sabe cómo lucir una capa.\" —Starlord"
+		"traits": "Objeto."
 	},
 	{
 		"code": "21036",
+		"flavor": "\"Mientras siga en pie, desafío vuestro poder… ¡y lo contrarrestaré con el mío propio!\" —Adam Warlock",
 		"name": "Salvaguardia cósmica",
 		"text": "<b>Interrupción obligada:</b> cuando muestres una carta de Perfidia, anula los efectos de su enunciado <b>\"Cuando se muestre esta carta\"</b> y descártala. Luego descarta Salvaguardia cósmica.",
-		"traits": "Hechizo.",
-		"flavor": "\"Mientras siga en pie, desafío vuestro poder… ¡y lo contrarrestaré con el mío propio!\" —Adam Warlock"
+		"traits": "Hechizo."
 	},
 	{
 		"code": "21037",
+		"flavor": "\"Los recuerdos de la omnipotencia huyen con la experiencia.\" —Adam Warlock",
 		"name": "Sentidos místicos",
 		"text": "<b>Respuesta de Héroe:</b> después de que resuelvas la capacidad \"Magia de combate\" de Adam Warlock, roba 1 carta.",
-		"traits": "Alteración. Superpoder.",
-		"flavor": "\"Los recuerdos de la omnipotencia huyen con la experiencia.\" —Adam Warlock"
+		"traits": "Alteración. Superpoder."
 	},
 	{
 		"code": "21038",
@@ -194,18 +194,18 @@
 	},
 	{
 		"code": "21040",
+		"flavor": "\"Creen que estoy muerto. Y, mientras crean eso, no esperarán en absoluto lo que estoy a punto de desatar.\" —Adam Warlock",
 		"name": "Magia cuántica",
 		"text": "<b>Acción:</b> elige una carta que esté en tu pila de descartes → añade esa carta a tu mano.",
-		"traits": "Hechizo.",
-		"flavor": "\"Creen que estoy muerto. Y, mientras crean eso, no esperarán en absoluto lo que estoy a punto de desatar.\" —Adam Warlock"
+		"traits": "Hechizo."
 	},
 	{
 		"code": "21041",
+		"flavor": "\"Venid conmigo si queréis molar.\"",
 		"name": "Marvel Boy",
 		"subname": "Noh-Var",
 		"text": "<b>Interrupción:</b> cuando Marvel Boy ataque, gasta un recurso [physical] → este ataque gana A distancia y Penetrante.",
-		"traits": "Guardián. Kree.",
-		"flavor": "\"Venid conmigo si queréis molar.\""
+		"traits": "Guardián. Kree."
 	},
 	{
 		"code": "21042",
@@ -226,11 +226,11 @@
 	},
 	{
 		"code": "21047",
+		"flavor": "\"Soy el protector del universo. Esto es a lo que me dedico.\"",
 		"name": "Quasar",
 		"subname": "Wendell Vaughn",
 		"text": "<b>Respuesta:</b> después de que Quasar entre en juego, quita 1 de Amenaza de cada Plan que haya en juego.",
-		"traits": "Aéreo. Guardián.",
-		"flavor": "\"Soy el protector del universo. Esto es a lo que me dedico.\""
+		"traits": "Aéreo. Guardián."
 	},
 	{
 		"code": "21048",
@@ -251,11 +251,11 @@
 	},
 	{
 		"code": "21053",
+		"flavor": "\"Un gran hombre llevó este escudo y murió defendiéndo a otros. Estoy dispuesto a hacer lo mismo si fuera necesario.",
 		"name": "Mayor Victoria",
 		"subname": "Vance Astro",
 		"text": "<b>Interrupción:</b> cuando el Mayor Victoria sea derrotado, elige un personaje [[Guardián]] amigo → prepara ese personaje.",
-		"traits": "Guardián.",
-		"flavor": "\"Un gran hombre llevó este escudo y murió defendiéndo a otros. Estoy dispuesto a hacer lo mismo si fuera necesario."
+		"traits": "Guardián."
 	},
 	{
 		"code": "21054",
@@ -299,11 +299,11 @@
 	},
 	{
 		"code": "21065",
+		"flavor": "\"Albergo mis dudas sobre esta realidad.\"",
 		"name": "Martinex",
 		"subname": "T'Naga",
 		"text": "El coste para jugar a Martinex se reduce en 1 si tu Superhéroe tiene el rasgo [[Guardián]].",
-		"traits": "Guardián.",
-		"flavor": "\"Albergo mis dudas sobre esta realidad.\""
+		"traits": "Guardián."
 	},
 	{
 		"code": "21180a",

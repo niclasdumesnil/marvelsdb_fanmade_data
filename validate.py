@@ -101,21 +101,22 @@ def load_packs(args):
     packs_data = []
 
     packs_path = os.path.join(args.base_path, "packs.json")
-    packs_fanmade_path = os.path.join(args.base_path, "packs_fanmade.json")
+    # Utilise le chemin alternatif si fourni, sinon le chemin par défaut
+    packs_fanmade_path = args.fanmade_file if args.fanmade_file else os.path.join(args.base_path, "packs_fanmade.json")
 
-    # Si --fm_only, ne charger que pack_fanmade.json
+    # Si --fm_only, ne charger que packs_fanmade.json (ou fichier alternatif)
     if getattr(args, "fm_only", False):
         if os.path.isfile(packs_fanmade_path):
-            verbose_print(args, "Loading pack_fanmade index file (fm_only)...\n", 1)
+            verbose_print(args, f"Loading fanmade index file (fm_only) : {packs_fanmade_path}\n", 1)
             packs_data = load_json_file(args, packs_fanmade_path)
         else:
-            verbose_print(args, "Aucun fichier pack_fanmade.json trouvé.\n", 0)
+            verbose_print(args, f"Aucun fichier fanmade trouvé à {packs_fanmade_path}.\n", 0)
             packs_data = []
     else:
         packs_data = load_json_file(args, packs_path)
-        # Ajout du fichier pack_fanmade.json s'il existe
+        # Ajout du fichier packs_fanmade.json (ou alternatif) s'il existe
         if os.path.isfile(packs_fanmade_path):
-            verbose_print(args, "Loading pack_fanmade index file...\n", 1)
+            verbose_print(args, f"Loading fanmade index file : {packs_fanmade_path}\n", 1)
             packs_fanmade_data = load_json_file(args, packs_fanmade_path)
             if packs_fanmade_data:
                 packs_data.extend(packs_fanmade_data)
@@ -190,6 +191,9 @@ def parse_commandline():
     argparser.add_argument("-p", "--pack_path", default=None, help=("pack directory of JSON repo (default: BASE_PATH/%s/)" % PACK_DIR))
     argparser.add_argument("-c", "--schema_path", default=None, help=("schema directory of JSON repo (default: BASE_PATH/%s/" % SCHEMA_DIR))
     argparser.add_argument("--fm_only", default=False, action="store_true", help="ne traiter que les packs fanmade (pack_fanmade.json)")
+    argparser.add_argument("--fanmade_file", default=None, help="Chemin alternatif pour le fichier packs_fanmade.json")
+    # Ajout de l'argument -t / --translations pour valider les traductions
+    argparser.add_argument("-t", "--translations", default=False, action="store_true", help="Valider également les fichiers de traduction")
     args = argparser.parse_args()
 
     # Set all the necessary paths and check if they exist
@@ -417,14 +421,15 @@ def main():
     args = parse_commandline()
 
     packs = load_packs(args)
-
     factions = load_factions(args)
-
     types = load_types(args)
 
     if packs and factions and types:
         validate_cards(args, packs, factions, types)
-        check_all_translations(args)
+        # Validation des traductions uniquement si l'argument -t/--translations est présent
+        if args.translations:
+            # Cette étape vérifie tous les fichiers de traduction présents dans le dossier translations
+            check_all_translations(args)
     else:
         verbose_print(args, "Skipping card validation...\n", 0)
 

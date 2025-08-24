@@ -1,25 +1,25 @@
 [
 	{
 		"code": 32002,
+		"flavor": "<i>\"Forza Peter, grosso zoticone! È il tuo corpo a essere fatto di metallo, non il tuo cervello!\"</i>",
 		"name": "Shadowcat",
 		"subname": "Kitty Pryde",
 		"text": "Shadowcat ignora le parole chiave Guardia e Pattuglia e le icone crisi ([crisis]) in gioco.",
-		"traits": "X-Men.",
-		"flavor": "<i>\"Forza Peter, grosso zoticone! È il tuo corpo a essere fatto di metallo, non il tuo cervello!\"</i>"
+		"traits": "X-Men."
 	},
 	{
 		"code": 32003,
+		"flavor": "<i>Sotto quella pelle d'acciaio batte il cuore di un artista che preferirebbe dipingere piuttosto che combattere.</i>",
 		"name": "Studio di Piotr",
 		"text": "<b>Azione Alter Ego</b>: Esaurisci Studio di Piotr → scarta carte dalla cima del tuo mazzo finché non scarti 1 carta del set Colosso, aggiungi quella carta alla tua mano.",
-		"traits": "Luogo.",
-		"flavor": "<i>Sotto quella pelle d'acciaio batte il cuore di un artista che preferirebbe dipingere piuttosto che combattere.</i>"
+		"traits": "Luogo."
 	},
 	{
 		"code": 32004,
+		"flavor": "<i>\"Pete ha una volontà forte quanto la sua pelle corazzata. Non molla mica.\" - Wolverine</i>",
 		"name": "Volontà di Ferro",
 		"text": "Colosso riceve +1 INT.\n<b>Risposta</b>: Dopo che una carta status Robusto è stata scartata da Colosso, pesca 1 carta.",
-		"traits": "Superpotere.",
-		"flavor": "<i>\"Pete ha una volontà forte quanto la sua pelle corazzata. Non molla mica.\" - Wolverine</i>"
+		"traits": "Superpotere."
 	},
 	{
 		"code": 32005,
@@ -35,17 +35,17 @@
 	},
 	{
 		"code": 32007,
+		"flavor": "\"Aaarrrrrhhhhhh!\" - Colosso",
 		"name": "Scolpito nella Rabbia",
 		"text": "<b>Interruzione Eroe</b>: Quando effettui un attacco base, scarta 1 carta status Robusto dal tuo eroe → ricevi +6 ATT per questo attacco. Questo attacco ottiene Sopraffazione.",
-		"traits": "Superpotere.",
-		"flavor": "\"Aaarrrrrhhhhhh!\" - Colosso"
+		"traits": "Superpotere."
 	},
 	{
 		"code": 32008,
+		"flavor": "<i>\"Compagni! Poniamo fine a questa battaglia una volta per tutte!\" - Colosso</i>",
 		"name": "Pugno d'Acciaio",
 		"text": "<b>Azione Eroe</b> <i>(attacco)</i>: Infliggi 5 danni a un nemico. Puoi scartare 1 carta status Robusto dal tuo eroe → stordisci e confondi quel nemico.",
-		"traits": "Attacco. Superpotere.",
-		"flavor": "<i>\"Compagni! Poniamo fine a questa battaglia una volta per tutte!\" - Colosso</i>"
+		"traits": "Attacco. Superpotere."
 	},
 	{
 		"code": 32009,
@@ -55,10 +55,10 @@
 	},
 	{
 		"code": 32010,
+		"flavor": "<i>\"Ti sei preso gioco di me quando avresti dovuto uccidermi, concedendomi il tempo di cambiare da Piotr Rasputin... a Colosso!\" - Colosso</i>",
 		"name": "Corazza Vivente",
 		"text": "<b>Interruzione Alter Ego</b>: Quando il criminale si attiva, assumi la sembianza di eroe.",
-		"traits": "Superpotere.",
-		"flavor": "<i>\"Ti sei preso gioco di me quando avresti dovuto uccidermi, concedendomi il tempo di cambiare da Piotr Rasputin... a Colosso!\" - Colosso</i>"
+		"traits": "Superpotere."
 	},
 	{
 		"code": 32011,
@@ -69,25 +69,25 @@
 	},
 	{
 		"code": 32012,
+		"flavor": "<i>\"Voglio bene a mio padre. Ma mentre lui cerca di dominare gli altri, io combatto per proteggerli.\"</i>",
 		"name": "Polaris",
 		"subname": "Lorna Dane",
 		"text": "<b>Risposta</b>: Dopo che Polaris è entrata in gioco, irrobustisci 1 personaggio [[X-MEN]].",
-		"traits": "X-Men.",
-		"flavor": "<i>\"Voglio bene a mio padre. Ma mentre lui cerca di dominare gli altri, io combatto per proteggerli.\"</i>"
+		"traits": "X-Men."
 	},
 	{
 		"code": 32013,
+		"flavor": "<i>Difensori giurati di un mondo che li odia e li teme, gli X-Men si addestrano costantemente.</i>",
 		"name": "Addestramento Protettivo",
 		"text": "Assegna a un alleato [[X-MEN]]. Massimo 1 miglioria [[ADDESTRAMENTO]] per alleato.\nL'alleato con questa miglioria riceve +3 punti ferita.",
-		"traits": "Addestramento.",
-		"flavor": "<i>Difensori giurati di un mondo che li odia e li teme, gli X-Men si addestrano costantemente.</i>"
+		"traits": "Addestramento."
 	},
 	{
 		"code": 32014,
+		"flavor": "<i>\"Lo vuoi un bel sandwich di cazzotti?!\" - Shadowcat</i>",
 		"name": "Pugno Devastante",
 		"text": "<b>Interruzione Eroe</b> <i>(attacco/difesa)</i>: Quando un nemico lancia un attacco, infliggi 4 danni a quel nemico.",
-		"traits": "Attacco. Difesa.",
-		"flavor": "<i>\"Lo vuoi un bel sandwich di cazzotti?!\" - Shadowcat</i>"
+		"traits": "Attacco. Difesa."
 	},
 	{
 		"code": 32016,
@@ -116,10 +116,10 @@
 	},
 	{
 		"code": 32020,
+		"flavor": "<i>\"Forge si è davvero superato con questa bellezza!\" - Bestia</i>",
 		"name": "X-Jet",
 		"text": "<b>Risorsa</b>: Esaurisci X-Jet → genera [wild] per un giocatore la cui identità possiede il tratto [[X-MEN]].",
-		"traits": "Veicolo. X-Men.",
-		"flavor": "<i>\"Forge si è davvero superato con questa bellezza!\" - Bestia</i>"
+		"traits": "Veicolo. X-Men."
 	},
 	{
 		"code": 32021,
@@ -141,17 +141,17 @@
 	},
 	{
 		"code": 32034,
+		"flavor": "<i>\"Hai idea di quanta concentrazione ci voglia per rendere incorporeo soltanto un piede?\" - Shadowcat</i>",
 		"name": "Controllo Totale",
 		"text": "<b>Risposta Eroe</b>: Dopo che hai ignorato la parola chiave Guardia o Pattuglia su un gregario, esaurisci Controllo Totale → infliggi 2 danni a quel gregario.",
-		"traits": "Superpotere.",
-		"flavor": "<i>\"Hai idea di quanta concentrazione ci voglia per rendere incorporeo soltanto un piede?\" - Shadowcat</i>"
+		"traits": "Superpotere."
 	},
 	{
 		"code": 32035,
+		"flavor": "<i>La capacità di Shadowcat di rendersi intangibile ha un effetto devastante sui dispositivi elettronici.</i>",
 		"name": "Interferenza Intangibile",
 		"text": "<b>Risposta Eroe</b>: Dopo che hai ignorato l'icona crisi ([crisis]) su una trama, esaurisci Interferenza Intangibile  → rimuovi 2 minacce da quella trama.",
-		"traits": "Superpotere.",
-		"flavor": "<i>La capacità di Shadowcat di rendersi intangibile ha un effetto devastante sui dispositivi elettronici.</i>"
+		"traits": "Superpotere."
 	},
 	{
 		"code": 32036,
@@ -161,10 +161,10 @@
 	},
 	{
 		"code": 32037,
+		"flavor": "<i>\"State per assistere a un altro trucco, anche se probabilmente non siete ancora pronti.\" - Shadowcat</i>",
 		"name": "Sorpresa di Shadowcat",
 		"text": "<b>Azione Eroe</b> <i>(attacco)</i>: Infliggi 3 danni a un nemico. Ripristina il tuo eroe.",
-		"traits": "Attacco. Superpotere.",
-		"flavor": "<i>\"State per assistere a un altro trucco, anche se probabilmente non siete ancora pronti.\" - Shadowcat</i>"
+		"traits": "Attacco. Superpotere."
 	},
 	{
 		"code": 32038,
@@ -174,10 +174,10 @@
 	},
 	{
 		"code": 32039,
+		"flavor": "<i>\"Per citare il rapper: 'You can't touch this'!\" - Shadowcat</i>",
 		"name": "Camminare nell'Aria",
 		"text": "<b>Azione Eroe</b> <i>(intervento)</i>: Rimuovi 2 minacce da una trama (4 minacce invece se sei nella sembianza di massa Incorporea).",
-		"traits": "Intervento. Superpotere.",
-		"flavor": "<i>\"Per citare il rapper: 'You can't touch this'!\" - Shadowcat</i>"
+		"traits": "Intervento. Superpotere."
 	},
 	{
 		"code": 32040,
@@ -187,11 +187,11 @@
 	},
 	{
 		"code": 32041,
+		"flavor": "<i>\"Ti senti fortunato, cocco?\"</i>",
 		"name": "Wolverine",
 		"subname": "Logan",
 		"text": "[star] Gli attacchi di Wolverine ottengono Perforante.\n<b>Risposta</b>: Dopo che il tuo turno è iniziato, cura 1 danno a Wolverine.",
-		"traits": "X-Men.",
-		"flavor": "<i>\"Ti senti fortunato, cocco?\"</i>"
+		"traits": "X-Men."
 	},
 	{
 		"code": 32042,
@@ -225,11 +225,11 @@
 	},
 	{
 		"code": 32048,
-		"name": "Colosso",
-		"text": "Se la tua identità possiede il tratto [[MUTANTE]] o [[X-MEN]], riduci di 1 il costo per giocare Colosso.\nRobustezza.",
-		"traits": "X-Men.",
 		"flavor": "<i>\"Dietro di me, tovarisch!\"</i>",
-		"subname": "Piotr Rasputin"
+		"name": "Colosso",
+		"subname": "Piotr Rasputin",
+		"text": "Se la tua identità possiede il tratto [[MUTANTE]] o [[X-MEN]], riduci di 1 il costo per giocare Colosso.\nRobustezza.",
+		"traits": "X-Men."
 	},
 	{
 		"code": 32049,
@@ -388,10 +388,10 @@
 	},
 	{
 		"code": "32030a",
+		"flavor": "<i>\"Non puoi fermare ciò che non puoi afferrare!\"</i>",
 		"name": "Shadowcat",
 		"text": "<i>Intangibilità Selettiva</i> - Mentre sei nella sembianza di massa Incorporea, Shadowcat ignora le parole chiave Guardia e Pattuglia e le icone crisi ([crisis]) in gioco.",
-		"traits": "X-Men.",
-		"flavor": "<i>\"Non puoi fermare ciò che non puoi afferrare!\"</i>"
+		"traits": "X-Men."
 	},
 	{
 		"code": "32030b",
@@ -418,7 +418,7 @@
 	{
 		"code": "32171b",
 		"name": "Polizia Metropolitana",
-		"text": "Permanente.\nIl primo giocatore controlla Polizia Metropolitana.\r\n<b>Azione</b>: Esaurisci Polizia Metropolitana → scegli se infliggere 1 danno a un nemico oppure rimuovere 1 minaccia da una trama.",
+		"text": "Permanente.\nIl primo giocatore controlla Polizia Metropolitana.\n<b>Azione</b>: Esaurisci Polizia Metropolitana → scegli se infliggere 1 danno a un nemico oppure rimuovere 1 minaccia da una trama.",
 		"traits": "Persona."
 	},
 	{

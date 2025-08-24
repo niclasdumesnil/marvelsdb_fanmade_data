@@ -137,7 +137,7 @@
 	{
 		"code": "44021",
 		"name": "\"Je m'en Occupe\"",
-		"text": "<b>Action de héros</b> : si les icônes suivantes sont sur 1 ou plusieurs cartes en jeu : \n[crisis] → Infligez 3 dégâts à un ennemi.\n[acceleration] → Retirez 2 menaces d'une manigance.\n[amplify] → Redressez un allié que vous contrôlez.\n[hazard] → Piochez une carte."
+		"text": "<b>Action de héros</b> : si les icônes suivantes sont sur 1 ou plusieurs cartes en jeu :\n[crisis] → Infligez 3 dégâts à un ennemi.\n[acceleration] → Retirez 2 menaces d'une manigance.\n[amplify] → Redressez un allié que vous contrôlez.\n[hazard] → Piochez une carte."
 	},
 	{
 		"code": "44022",

@@ -21,13 +21,13 @@
 	{
 		"code": "70503",
 		"name": "Dealing with Hazards",
-		"text": "<b>Hero Action</b> (<i>thwart</i>): Remove 2 threat from a scheme. If this removes the last threat on that scheme, place 1 clue counter on an [[expedition ]]obligation. \n<i>“This is handy. We do need a rope.”</i>",
+		"text": "<b>Hero Action</b> (<i>thwart</i>): Remove 2 threat from a scheme. If this removes the last threat on that scheme, place 1 clue counter on an [[expedition ]]obligation.\n<i>“This is handy. We do need a rope.”</i>",
 		"traits": "Thwart."
 	},
 	{
 		"code": "70506",
 		"name": "Muscular Intervention",
-		"text": "<b>Hero Action</b> (<i>attack</i>): Deal 2 damage to an enemy. If this attack defeats that enemy, place 1 clue counter on an [[expedition ]]obligation. \n<i>“We live in a world full of violence!” </i>—<i>Tony</i>",
+		"text": "<b>Hero Action</b> (<i>attack</i>): Deal 2 damage to an enemy. If this attack defeats that enemy, place 1 clue counter on an [[expedition ]]obligation.\n<i>“We live in a world full of violence!” </i>—<i>Tony</i>",
 		"traits": "Attack."
 	},
 	{
@@ -51,7 +51,7 @@
 	{
 		"code": "70514",
 		"name": "Virgil Munsey",
-		"text": "<b>Hero Action</b>: Exhaust Virgil Munsey → the next thwart this phase removes 1 additional threat.\n<i>“I am Virgil Munsey, Tony’s chronicler for the amazing Marvels’ magazine.”</i>",
+		"text": "<b>Hero Action</b>: Exhaust Virgil Munsey → the next thwart this phase removes 1 additional threat.\n<i>“I am Virgil Munsey, Tony's chronicler for the amazing Marvels' magazine.”</i>",
 		"traits": "Persona."
 	},
 	{

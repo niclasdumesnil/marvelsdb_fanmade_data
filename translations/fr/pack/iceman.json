@@ -79,8 +79,8 @@
 	},
 	{
 		"code": "46012",
+		"flavor": "Il n'y a rien de plus dangeureux qu'une ado affamée qui peut se transformer en requin.",
 		"name": "Shark-Girl",
-       		"flavor": "Il n'y a rien de plus dangeureux qu'une ado affamée qui peut se transformer en requin.",
 		"subname": "Iara Dos Santos",
 		"text": "[star] Tant que Shark-Girl attaque un ennemi, elle gagne +1 ATQ pour chaque amélioration attachée à cet ennemi.",
 		"traits": "X-Men."
@@ -115,7 +115,7 @@
 		"code": "46017",
 		"name": "Chercher les Ennuis",
 		"text": "<b>Action de héros</b> <i>(contre)</i> : défaussez des cartes du dessus du deck Rencontre jusqu'à ce que vous défaussiez un sbire. Mettez ce sbire en jeu, engagé avec vous → retirez 3 menaces de la manigance principale.",
-		"traits": "Contre."		
+		"traits": "Contre."
 	},
 	{
 		"code": "46018",
@@ -125,15 +125,15 @@
 	{
 		"code": "46019",
 		"name": "Shadowcat",
-        	"subname": "Kitty Pryde",
+		"subname": "Kitty Pryde",
 		"text": "Jouez cette carte uniquement si votre identité a le trait [[X-MEN]].\n<b>Réponse</b> : après avoir joué Shadowcat de votre main, choisissez une manigance annexe en jeu → cette manigance perd chaque icône [acceleration], [amplify], [crisis] et [hazard] jusqu'à la fin du round.",
 		"traits": "X-Men."
 	},
 	{
-		"code": "46020",        
+		"code": "46020",
 		"flavor": "\"Je ne suis pas très costaud et je ne tire pas de rayons de la mort avec les yeux, mais j'ai le don de me faire des amis.\"",
 		"name": "Le Bec",
-	   	 "subname": "Barnell Bohusk",
+		"subname": "Barnell Bohusk",
 		"text": "<b>Réponse</b> : après avoir joué Le Bec de votre main, retirez 1 menace d'une manignace pour chaque allié [[X-MEN]] que vous contrôlez.",
 		"traits": "X-Men."
 	},

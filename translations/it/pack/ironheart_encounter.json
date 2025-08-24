@@ -13,13 +13,13 @@
 	{
 		"code": 29030,
 		"name": "Lucia von Bardas",
-		"text": "Mentre Lucia von Bardas è robusta, riceve +1 TRA e +1 ATT. \n<b>Risposta Obbligata:</b> Dopo che la Fase del Criminale è terminata, irrobustisci Lucia von Bardas.",
+		"text": "Mentre Lucia von Bardas è robusta, riceve +1 TRA e +1 ATT.\n<b>Risposta Obbligata:</b> Dopo che la Fase del Criminale è terminata, irrobustisci Lucia von Bardas.",
 		"traits": "Criminale. Cyborg. Elite."
 	},
 	{
 		"code": 29031,
 		"name": "Tecnologia Cyborg",
-		"text": "Assegna al gregario con più <b>tratti</b>. Se non puoi farlo, questa carta ottiene Impulso. \n Il gregario con questa aggiunta riceve +3 punti ferita e ottiene Ritorsione 1.",
+		"text": "Assegna al gregario con più <b>tratti</b>. Se non puoi farlo, questa carta ottiene Impulso.\n Il gregario con questa aggiunta riceve +3 punti ferita e ottiene Ritorsione 1.",
 		"traits": "Tecnologia."
 	},
 	{
@@ -41,12 +41,12 @@
 	{
 		"code": 29038,
 		"name": "InTilt",
-		"text": "Assegna alla tua identità. \n Considera le risorse stampate su ogni carta nella ua mano come se fossero [energy]. \n<b>Azione Eroe:</b> Scegli se scartare 1 carta con [energy] stampate che controlli oppure subire 2 danni indiretti → scarta questa carta."
+		"text": "Assegna alla tua identità.\n Considera le risorse stampate su ogni carta nella ua mano come se fossero [energy].\n<b>Azione Eroe:</b> Scegli se scartare 1 carta con [energy] stampate che controlli oppure subire 2 danni indiretti → scarta questa carta."
 	},
 	{
 		"code": 29039,
 		"name": "Elettricità Statica",
-		"text": "<b>Interruzione Obbligata: </b> Quando la Fase del Criminale inizia, infliggi 2 danni indiretti a ogni giocatore con [energy] nella sua mano e/o sulle carte che controlla. \n<b>Azione Eroe:</b> Scegli se scartare 1 carta con [energy] stampate che controlli oppure subire 2 danni indiretti →  scarta questa carta.",
+		"text": "<b>Interruzione Obbligata: </b> Quando la Fase del Criminale inizia, infliggi 2 danni indiretti a ogni giocatore con [energy] nella sua mano e/o sulle carte che controlla.\n<b>Azione Eroe:</b> Scegli se scartare 1 carta con [energy] stampate che controlli oppure subire 2 danni indiretti →  scarta questa carta.",
 		"traits": "Condizione."
 	},
 	{

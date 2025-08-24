@@ -51,15 +51,15 @@
 	{
 		"code": "39005",
 		"name": "Scossa Adrenalinica",
-		"text": "Assegna aMaGog.\r\nMaGog otiene Ritorsione 1 e Stabile.\n<b>Risposta Obbligata</b>: Dopo che l'indicatore di punti ferita di Magog è stato regolato, colloca 1[per_hero] gettoni favore su Sfidanti e scarta questa carta.\n<hr />\n[star] <b>Potenziamento</b>: Rivela questa carta.",
+		"text": "Assegna aMaGog.\nMaGog otiene Ritorsione 1 e Stabile.\n<b>Risposta Obbligata</b>: Dopo che l'indicatore di punti ferita di Magog è stato regolato, colloca 1[per_hero] gettoni favore su Sfidanti e scarta questa carta.\n<hr />\n[star] <b>Potenziamento</b>: Rivela questa carta.",
 		"traits": "Condizione."
 	},
 	{
 		"code": "39006",
+		"flavor": "\"Resta fermo, così posso schiacciarti!\" — MaGog",
 		"name": "Impeto Aggressivo",
 		"text": "Assegna a MaGog.\n<b>Risposta Obbligata</b>: Dopo che l'indicatore di punti ferita di Magog è stato regolato, colloca 1[per_hero] gettoni favore su Sfidanti e scarta questa carta.\n<hr />\n[star] <b>Potenziamento</b>: Rivela questa carta.",
-		"traits": "Condizione.",
-		"flavor": "\"Resta fermo, così posso schiacciarti!\" — MaGog"
+		"traits": "Condizione."
 	},
 	{
 		"code": "39007",
@@ -240,7 +240,7 @@
 		"code": "39031",
 		"flavor": "\"Non mi riconosceranno  mai.\"  — Mojo",
 		"name": "Mojo in Incognito",
-		"text": "Ostacolo 2[per_hero]. \n<b>Interruzione Obbligata</b>: Quando Mojo sta per subire un qualsiasi ammontare di danni, rimuovi invece un pari ammontare di minacce da questa trama."
+		"text": "Ostacolo 2[per_hero].\n<b>Interruzione Obbligata</b>: Quando Mojo sta per subire un qualsiasi ammontare di danni, rimuovi invece un pari ammontare di minacce da questa trama."
 	},
 	{
 		"code": "39032",
@@ -270,7 +270,7 @@
 	},
 	{
 		"code": "39037",
-		"flavor": "\"Sembra che la vittima fosse un uomo molto vivace.\" \n\"Da oggi sarà sicuramente più...mojo del solito.\"\n- Detective Domo e Mojo",
+		"flavor": "\"Sembra che la vittima fosse un uomo molto vivace.\"\n\"Da oggi sarà sicuramente più...mojo del solito.\"\n- Detective Domo e Mojo",
 		"name": "Scena del Crimine",
 		"text": "Ostacolo 1[per_hero]. <i>(Quando rivelata, colloca 1[per_hero] minacce su questa carta.)</i> Non è possibile rimuovere minacce dalle altre trame.\n<b>Azione Eroe</b>: Spendi X [Mental] → rimuovi X minacce da questa trama."
 	},
