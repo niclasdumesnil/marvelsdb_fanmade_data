@@ -243,7 +243,7 @@
 		"size": 15,
 		"status": "sealed",
 		"theme": "Marvel",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 2010,
@@ -299,7 +299,7 @@
 		"size": 17,
 		"status": "released",
 		"theme": "Marvel",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 9999,
