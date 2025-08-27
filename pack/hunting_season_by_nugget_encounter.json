@@ -19,7 +19,7 @@
 		"set_code": "vermin_by_nugget",
 		"set_position": 1,
 		"stage": 1,
-		"text": "[star] <b>Forced Response:</b> After Vermin activates against you, discard the top card of the encounter deck. If a <b><i>RAT</i></b> minion was discarded this way, put it into play engaged with you.",
+		"text": "[star] <b>Forced Response</b>: After Vermin activates against you, discard the top card of the encounter deck. If a <b><i>RAT</i></b> minion was discarded this way, put it into play engaged with you.",
 		"traits": "Mutate. Rat.",
 		"type_code": "villain"
 	},
@@ -43,7 +43,7 @@
 		"set_code": "vermin_by_nugget",
 		"set_position": 2,
 		"stage": 2,
-		"text": "[star] <b>Forced Response:</b> After Vermin activates against you, discard the top two cards of the encounter deck. Put the first <b><i>RAT</i></b> minion that was discarded this way, into play engaged with you.",
+		"text": "[star] <b>Forced Response</b>: After Vermin activates against you, discard the top two cards of the encounter deck. Put the first <b><i>RAT</i></b> minion that was discarded this way, into play engaged with you.",
 		"traits": "Mutate. Rat.",
 		"type_code": "villain"
 	},
@@ -67,7 +67,7 @@
 		"set_code": "vermin_by_nugget",
 		"set_position": 3,
 		"stage": 3,
-		"text": "[star] <b>Forced Response:</b> After Vermin activates against you, discard the top two cards of the encounter deck. Put each <b><i>RAT</i></b> minion that was discarded this way, into play engaged with you. Resolve the \"<b>Special</b>\" effect on Even More Rats.",
+		"text": "[star] <b>Forced Response</b>: After Vermin activates against you, discard the top two cards of the encounter deck. Put each <b><i>RAT</i></b> minion that was discarded this way, into play engaged with you. Resolve the \"<b>Special</b>\" effect on Even More Rats.",
 		"traits": "Mutate. Rat.",
 		"type_code": "villain"
 	},
@@ -108,7 +108,7 @@
 		"set_code": "vermin_by_nugget",
 		"set_position": 4,
 		"stage": 1,
-		"text": "[star] <b>Forced Reponse:</b> After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"<b>Special</b>\" effect on Even More Rats.",
+		"text": "[star] <b>Forced Reponse</b>: After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"<b>Special</b>\" effect on Even More Rats.",
 		"threat": 6,
 		"type_code": "main_scheme"
 	},
@@ -127,7 +127,7 @@
 		"set_code": "vermin_by_nugget",
 		"set_position": 5,
 		"stage": 2,
-		"text": "<b>When Revealed:</b> Search the encounter deck and discard pile for Bringer of Plague and reveal it. Advance to stage 2B.",
+		"text": "<b>When Revealed</b>: Search the encounter deck and discard pile for Bringer of Plague and reveal it. Advance to stage 2B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -150,7 +150,7 @@
 		"set_code": "vermin_by_nugget",
 		"set_position": 5,
 		"stage": 2,
-		"text": "[star] <b>Forced Reponse:</b> After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"Special\" effect on Even More Rats.\n<b>If this scheme is completed, rats have invaded the city and the players lose the game.</b>",
+		"text": "[star] <b>Forced Reponse</b>: After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"Special\" effect on Even More Rats.\n<b>If this scheme is completed, rats have invaded the city and the players lose the game.</b>",
 		"threat": 8,
 		"type_code": "main_scheme"
 	},
@@ -165,7 +165,7 @@
 		"quantity": 1,
 		"set_code": "vermin_by_nugget",
 		"set_position": 6,
-		"text": "Threat on <b><i>RAT</i></b> minions cannot be thwarted.\n<b>Special:</b> If the total number of threat on <b><i>RAT</i></b> minions and on the main scheme is equal to or more than the target threat value of the main scheme, the current stage of the main scheme is completed.",
+		"text": "Threat on <b><i>RAT</i></b> minions cannot be thwarted.\n<b>Special</b>: If the total number of threat on <b><i>RAT</i></b> minions and on the main scheme is equal to or more than the target threat value of the main scheme, the current stage of the main scheme is completed.",
 		"type_code": "environment"
 	},
 	{
@@ -183,7 +183,7 @@
 		"scheme": 0,
 		"set_code": "vermin_by_nugget",
 		"set_position": 7,
-		"text": "Surge.\nX is equal to the number of <b><i>RAT</i></b> minions engaged with you (to a maximum of 3).\n[star] <b>Boost:</b> Put Regular Rats into play engaged with you.",
+		"text": "Surge.\nX is equal to the number of <b><i>RAT</i></b> minions engaged with you (to a maximum of 3).\n[star] <b>Boost</b>: Put Regular Rats into play engaged with you.",
 		"traits": "Rat.",
 		"type_code": "minion"
 	},
@@ -202,7 +202,7 @@
 		"scheme": 0,
 		"set_code": "vermin_by_nugget",
 		"set_position": 11,
-		"text": "Surge. Quickstrike.\nX is equal to the number of <b><i>RAT</i></b> minions engaged with you (to a maximum of 3).\n[star] <b>Boost:</b> Put Feral Rats into play engaged with you.",
+		"text": "Surge. Quickstrike.\nX is equal to the number of <b><i>RAT</i></b> minions engaged with you (to a maximum of 3).\n[star] <b>Boost</b>: Put Feral Rats into play engaged with you.",
 		"traits": "Rat.",
 		"type_code": "minion"
 	},
@@ -223,7 +223,7 @@
 		"scheme": 1,
 		"set_code": "vermin_by_nugget",
 		"set_position": 15,
-		"text": "Guard.\nWhile Vermin Clone is engaged with you, characters you control cannot attack Regular Rats and Feral Rats.\n[star] <b>Boost:</b> Give the attacking enemy an additional boost card for this activation.",
+		"text": "Guard.\nWhile Vermin Clone is engaged with you, characters you control cannot attack Regular Rats and Feral Rats.\n[star] <b>Boost</b>: Give the attacking enemy an additional boost card for this activation.",
 		"traits": "Mutate. Rat.",
 		"type_code": "minion"
 	},
@@ -240,7 +240,7 @@
 		"quantity": 2,
 		"set_code": "vermin_by_nugget",
 		"set_position": 18,
-		"text": "Attach to your identity.\nEach <b>Rat</b> minion engaged with you gains guard.\n<b>Interrupt:</b> After you defeat a <b><i>RAT</i></b> minion engaged with you, discard 2 cards from your hand → discard this card.",
+		"text": "Attach to your identity.\nEach <b>Rat</b> minion engaged with you gains guard.\n<b>Interrupt</b>: After you defeat a <b><i>RAT</i></b> minion engaged with you, discard 2 cards from your hand → discard this card.",
 		"traits": "Condition.",
 		"type_code": "attachment"
 	},
@@ -258,7 +258,7 @@
 		"quantity": 1,
 		"set_code": "vermin_by_nugget",
 		"set_position": 20,
-		"text": "<b>When Revealed:</b> Search the encounter deck and discard pile for a copy of Vermin Clone and put it into play engaged with the first player.\n[crisis]",
+		"text": "<b>When Revealed</b>: Search the encounter deck and discard pile for a copy of Vermin Clone and put it into play engaged with the first player.\n[crisis]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -276,7 +276,7 @@
 		"quantity": 1,
 		"set_code": "vermin_by_nugget",
 		"set_position": 21,
-		"text": "<b>When Revealed:</b> Place threat here equal to the amount of threat on <b><i>RAT</i></b> minions in play.\n[hazard]",
+		"text": "<b>When Revealed</b>: Place threat here equal to the amount of threat on <b><i>RAT</i></b> minions in play.\n[hazard]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -292,7 +292,7 @@
 		"quantity": 2,
 		"set_code": "vermin_by_nugget",
 		"set_position": 22,
-		"text": "<b>When Revealed:</b> Discard X cards from the encounter deck, where X is equal to double the villain's stage number. For each <b><i>RAT</i></b> minion discarded this way, choose to either place 2 threat on the main scheme or put that minion into play engaged with you.",
+		"text": "<b>When Revealed</b>: Discard X cards from the encounter deck, where X is equal to double the villain's stage number. For each <b><i>RAT</i></b> minion discarded this way, choose to either place 2 threat on the main scheme or put that minion into play engaged with you.",
 		"type_code": "treachery"
 	},
 	{
@@ -307,7 +307,7 @@
 		"quantity": 2,
 		"set_code": "vermin_by_nugget",
 		"set_position": 24,
-		"text": "<b>When Revealed (Alter-Ego):</b> Vermin schemes. If there are no <b><i>RAT</i></b> minions engaged with you, this card gains surge.\n<b>When Revealed (Hero):</b> Vermin attacks you. If there are no <b><i>RAT</i></b> minions engaged with you, this card gains surge.",
+		"text": "<b>When Revealed (Alter-Ego)</b>: Vermin schemes. If there are no <b><i>RAT</i></b> minions engaged with you, this card gains surge.\n<b>When Revealed (Hero)</b>: Vermin attacks you. If there are no <b><i>RAT</i></b> minions engaged with you, this card gains surge.",
 		"type_code": "treachery"
 	},
 	{
@@ -322,7 +322,7 @@
 		"quantity": 4,
 		"set_code": "vermin_by_nugget",
 		"set_position": 26,
-		"text": "<b>When Revealed:</b> For each <b><i>RAT</i></b> minion engaged with you, choose to either place 1 threat on that minion, or take 1 indirect damage. Resolve the \"Special\" effect on Even More Rats. If there is one or no Rat minions engaged with you, this card gains surge.",
+		"text": "<b>When Revealed</b>: For each <b><i>RAT</i></b> minion engaged with you, choose to either place 1 threat on that minion, or take 1 indirect damage. Resolve the \"Special\" effect on Even More Rats. If there is one or no Rat minions engaged with you, this card gains surge.",
 		"type_code": "treachery"
 	},
 	{
@@ -336,7 +336,7 @@
 		"quantity": 1,
 		"set_code": "feral_instincts_by_nugget",
 		"set_position": 1,
-		"text": "Attach to the villain.\n[star] <b>Forced Interrupt:</b> When the villain would scheme against you, it attacks you instead. This attack gains overkill. Do not give the villain a boost card for this activation. Then, discard Feral Instincts.",
+		"text": "Attach to the villain.\n[star] <b>Forced Interrupt</b>: When the villain would scheme against you, it attacks you instead. This attack gains overkill. Do not give the villain a boost card for this activation. Then, discard Feral Instincts.",
 		"type_code": "attachment"
 	},
 	{
@@ -350,7 +350,7 @@
 		"quantity": 1,
 		"set_code": "feral_instincts_by_nugget",
 		"set_position": 2,
-		"text": "Attach to the villain.\nX is equal to the villain's stage number.\n[star] <b>Interrupt:</b> When the villain attacks you, choose to either spend [physical]  [physical] resources or exhaust your identity → discard Primal Strength.",
+		"text": "Attach to the villain.\nX is equal to the villain's stage number.\n[star] <b>Interrupt</b>: When the villain attacks you, choose to either spend [physical]  [physical] resources or exhaust your identity → discard Primal Strength.",
 		"type_code": "attachment"
 	},
 	{
@@ -366,7 +366,7 @@
 		"quantity": 1,
 		"set_code": "feral_instincts_by_nugget",
 		"set_position": 3,
-		"text": "<b>When Revealed:</b> The villain attacks you. If you are in alter-ego form, do not give the villain a boost card for this activation.\n[star] <b>Boost:</b> This card gets +1 Boost icon ( [boost] ) if this activation is an attack.",
+		"text": "<b>When Revealed</b>: The villain attacks you. If you are in alter-ego form, do not give the villain a boost card for this activation.\n[star] <b>Boost</b>: This card gets +1 Boost icon ( [boost] ) if this activation is an attack.",
 		"type_code": "treachery"
 	},
 	{
@@ -380,7 +380,7 @@
 		"quantity": 2,
 		"set_code": "feral_instincts_by_nugget",
 		"set_position": 4,
-		"text": "<b>When Revealed:</b> You take 1 damage. If the villain has taken 6[per_hero] or more damage, choose to either spend a [energy] resource or take 2 indirect damage. If the villain has taken 12[per_hero] or more damage, choose to either discard a random card from your hand or place 2 threat on the main scheme.",
+		"text": "<b>When Revealed</b>: You take 1 damage. If the villain has taken 6[per_hero] or more damage, choose to either spend a [energy] resource or take 2 indirect damage. If the villain has taken 12[per_hero] or more damage, choose to either discard a random card from your hand or place 2 threat on the main scheme.",
 		"type_code": "treachery"
 	},
 	{
@@ -400,7 +400,7 @@
 		"set_code": "scorpion_by_nugget",
 		"set_position": 1,
 		"stage": 1,
-		"text": "[star] <b>Forced Interrupt:</b> When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
+		"text": "[star] <b>Forced Interrupt</b>: When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
 		"traits": "Criminal.",
 		"type_code": "villain"
 	},
@@ -421,7 +421,7 @@
 		"set_code": "scorpion_by_nugget",
 		"set_position": 2,
 		"stage": 2,
-		"text": "Scorpion cannot be stunned.\n[star] <b>Forced Interrupt:</b> When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
+		"text": "Scorpion cannot be stunned.\n[star] <b>Forced Interrupt</b>: When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
 		"traits": "Criminal.",
 		"type_code": "villain"
 	},
@@ -441,7 +441,7 @@
 		"set_code": "scorpion_by_nugget",
 		"set_position": 3,
 		"stage": 3,
-		"text": "Scorpion cannot be stunned.\n<b>When Revealed:</b> Search the encounter deck and discard pile for Tail Laser and reveal it.\n[star] <b>Forced Interrupt:</b> When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
+		"text": "Scorpion cannot be stunned.\n<b>When Revealed</b>: Search the encounter deck and discard pile for Tail Laser and reveal it.\n[star] <b>Forced Interrupt:</b> When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
 		"traits": "Criminal.",
 		"type_code": "villain"
 	},
@@ -449,7 +449,7 @@
 		"2-sided": "a",
 		"back_link": "500123b",
 		"code": "500123a",
-		"errata": "Scorpion's Tail is an attachment not un upgrade (Merlin).",
+		"errata": "Scorpion's Tail is an attachment not an upgrade (Merlin).",
 		"faction_code": "encounter",
 		"name": "Thirst for Revenge",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001023",
@@ -459,7 +459,7 @@
 		"set_code": "scorpion_by_nugget",
 		"set_position": 4,
 		"stage": 1,
-		"text": "<b>Contents</b>: Scorpion (I) and Scorpion (II). <i>Scorpion (II) and Scorpion (III) in expert mode instead.).</i> Scorpion and Standard Encounter sets. One modular encounter set (<i>recommended: Feral Instincts</i>).\n<b>Setup</b>: Put the J. Jonah Jameson suport into play. Put the Scorpion's Tail into play and attach it to Scorpion. Shuffle the encounter deck. Advance to stage 1B.",
+		"text": "<b>Contents</b>: Scorpion (I) and Scorpion (II). <i>Scorpion (II) and Scorpion (III) in expert mode instead.).</i> Scorpion and Standard Encounter sets. One modular encounter set (<i>recommended: Feral Instincts</i>).\n<b>Setup</b>: Put the J. Jonah Jameson support into play. Put the Scorpion's Tail into play and attach it to Scorpion. Shuffle the encounter deck. Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -478,7 +478,7 @@
 		"set_code": "scorpion_by_nugget",
 		"set_position": 4,
 		"stage": 1,
-		"text": "<b>When Completed:</b> Place 1 wound counter on the J. Jonah Jameson support.",
+		"text": "<b>When Completed</b>: Place 1 wound counter on the J. Jonah Jameson support.",
 		"threat": 6,
 		"type_code": "main_scheme"
 	},
@@ -487,7 +487,7 @@
 		"back_link": "500124b",
 		"code": "500124a",
 		"faction_code": "encounter",
-		"flavor": "Scorpion has tracked down JJJ, and won't stop chasing him until he is eliminated.",
+		"flavor": "Scorpion has tracked down J.J.J., and won't stop chasing him until he is eliminated.",
 		"name": "Vengeful Poursuit",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001024",
 		"pack_code": "hunting_season_by_nugget",
@@ -496,7 +496,7 @@
 		"set_code": "scorpion_by_nugget",
 		"set_position": 5,
 		"stage": 2,
-		"text": "<b>When Revealed:</b> Advance to stage 2B.",
+		"text": "<b>When Revealed</b>: Advance to stage 2B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -506,7 +506,7 @@
 		"code": "500124b",
 		"escalation_threat": 1,
 		"faction_code": "encounter",
-		"flavor": "Protect JJJ with all your might, no matter how much you dislike him!",
+		"flavor": "Protect J.J.J. with all your might, no matter how much you dislike him!",
 		"hidden": true,
 		"name": "Vengeful Poursuit",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001024",
@@ -516,7 +516,7 @@
 		"set_code": "scorpion_by_nugget",
 		"set_position": 5,
 		"stage": 2,
-		"text": "<b>Forced Interrupt:</b> When this scheme would be completed, place 1 wound counter on the J. Jonah Jameson support instead. Then, remove all threat from this scheme and any upgrades and attachments attached to it.",
+		"text": "<b>Forced Interrupt</b>: When this scheme would be completed, place 1 wound counter on the J. Jonah Jameson support instead. Then, remove all threat from this scheme and any upgrades and attachments attached to it.",
 		"threat": 3,
 		"type_code": "main_scheme"
 	},
@@ -531,7 +531,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 6,
-		"text": "Permanent.\n<b>Interrupt:</b> When a friendly character would take any amount of damage, place 1 wound counter here → prevent all of that damage.\n<b>Forced Interrupt:</b> When there are 3 + 1[per_hero] or more wound counters here, <b>the players lose the game.</b>",
+		"text": "Permanent.\n<b>Interrupt</b>: When a friendly character would take any amount of damage, place 1 wound counter here → prevent all of that damage.\n<b>Forced Interrupt</b>: When there are 3 + 1[per_hero] or more wound counters here, <b>the players lose the game.</b>",
 		"traits": "Persona.",
 		"type_code": "support"
 	},
@@ -545,7 +545,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 7,
-		"text": "<b>[star] Forced Response:</b> After Scorpion attacks and damages a character, that character is stunned. If that character is already stunned, deal 1 damage to that character.\n<b>Interrupt:</b> When Scorpion would take any amount of damage, it may be placed here instead. Then, if there is 10[per_hero] or more damage here, set Scorpion's Tail aside, out of play. Then, Scorpion takes 8[per_hero] damage.",
+		"text": "<b>[star] Forced Response</b>: After Scorpion attacks and damages a character, that character is stunned. If that character is already stunned, deal 1 damage to that character.\n<b>Interrupt</b>: When Scorpion would take any amount of damage, it may be placed here instead. Then, if there is 10[per_hero] or more damage here, set Scorpion's Tail aside, out of play. Then, Scorpion takes 8[per_hero] damage.",
 		"traits": "Tech. Weapon.",
 		"type_code": "attachment"
 	},
@@ -560,7 +560,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 8,
-		"text": "Move 5 damage from Scorpion's Tail to Scorpion. Attach to Scorpion's Tail. If you cannot, this card gains surge.\n<b>Forced Interrupt:</b> When damage would be placed on Scorpion's Tail, place it here instead. If there is 8 or more damage here, discard Tail Armor.",
+		"text": "Move 5 damage from Scorpion's Tail to Scorpion. Attach to Scorpion's Tail. If you cannot, this card gains surge.\n<b>Forced Interrupt</b>: When damage would be placed on Scorpion's Tail, place it here instead. If there is 8 or more damage here, discard Tail Armor.",
 		"traits": "Armor. Tail. Tech.",
 		"type_code": "attachment"
 	},
@@ -576,7 +576,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 9,
-		"text": "Move 5 damage from Scorpion's Tail to Scorpion. Attach to Scorpion's Tail. If you cannot, this card gains surge.\n<b>Forced Interrupt:</b> When Scorpion attacks, he gets +1 ATK for that attack, and the attack gains piercing.\n[star] <b>Boost:</b> Shuffle this card into the encounter deck.",
+		"text": "Move 5 damage from Scorpion's Tail to Scorpion. Attach to Scorpion's Tail. If you cannot, this card gains surge.\n<b>Forced Interrupt</b>: When Scorpion attacks, he gets +1 ATK for that attack, and the attack gains piercing.\n[star] <b>Boost</b>: Shuffle this card into the encounter deck.",
 		"traits": "Tail. Tech.",
 		"type_code": "attachment"
 	},
@@ -592,7 +592,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 10,
-		"text": "Move 5 damage from Scorpion's Tail to Scorpion. Attach to Scorpion's Tail. If you cannot, this card gains surge.\n<b>Forced Interrupt:</b> When Scorpion attacks, the attack gains ranged and overkill.\n[star] <b>Boost:</b> Shuffle this card into the encounter deck.",
+		"text": "Move 5 damage from Scorpion's Tail to Scorpion. Attach to Scorpion's Tail. If you cannot, this card gains surge.\n<b>Forced Interrupt</b>: When Scorpion attacks, the attack gains ranged and overkill.\n[star] <b>Boost</b>: Shuffle this card into the encounter deck.",
 		"traits": "Tail. Tech.",
 		"type_code": "attachment"
 	},
@@ -607,7 +607,7 @@
 		"quantity": 2,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 11,
-		"text": "Move 5 damage from Scorpion's Tail to Scorpion. If Scorpion's Tail is attached to Scorpion, attach Coiled Up to your identity. If you cannot, this card gains surge.\n<b>Forced Interrupt:</b> When Scorpion's Tail is set aside, discard Coiled up.",
+		"text": "Move 5 damage from Scorpion's Tail to Scorpion. If Scorpion's Tail is attached to Scorpion, attach Coiled Up to your identity. If you cannot, this card gains surge.\n<b>Forced Interrupt</b>: When Scorpion's Tail is set aside, discard Coiled up.",
 		"traits": "Condition.",
 		"type_code": "attachment"
 	},
@@ -624,7 +624,7 @@
 		"scheme": 0,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 13,
-		"text": "<b>Forced Interrupt:</b> When Human Fly would take any amount of damage from an attack, prevent all of that damage. (Limit once per round.)\n[star] <b>Boost:</b> After this activation ends, deal yourself this card as a facedown encounter card.",
+		"text": "<b>Forced Interrupt</b>: When Human Fly would take any amount of damage from an attack, prevent all of that damage. (Limit once per round.)\n[star] <b>Boost</b>: After this activation ends, deal yourself this card as a facedown encounter card.",
 		"traits": "Aerial. Mutate.",
 		"type_code": "minion"
 	},
@@ -645,7 +645,7 @@
 		"scheme": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 15,
-		"text": "[star] <b>Forced Interrupt:</b> When Grizzly attacks, the attack gains piercing.\n[star] <b>Boost:</b> This attack gains piercing.",
+		"text": "[star] <b>Forced Interrupt</b>: When Grizzly attacks, the attack gains piercing.\n[star] <b>Boost:</b> This attack gains piercing.",
 		"traits": "Criminal. Mutate.",
 		"type_code": "minion"
 	},
@@ -665,7 +665,7 @@
 		"scheme": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 16,
-		"text": "Toughness.\n[star] <b>Boost:</b> This attack gains overkill.",
+		"text": "Toughness.\n[star] <b>Boost</b>: This attack gains overkill.",
 		"traits": "Criminal. Mutate.",
 		"type_code": "minion"
 	},
@@ -700,7 +700,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 18,
-		"text": "<b>When Revealed:</b> Place 2 additional threat here for each stunned friendly character.\n[hazard]",
+		"text": "<b>When Revealed</b>: Place 2 additional threat here for each stunned friendly character.\n[hazard]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -715,7 +715,7 @@
 		"quantity": 2,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 19,
-		"text": "<b>When Revealed:</b> Discard cards from the encounter deck until a <b><i>TAIL</i></b> attachment is discarded. Reveal that card.\n[star] <b>Boost:</b> This card gets +1 boost icon ( [boost] ) for each <b><i>TAIL</i></b> attachment attached to Scorpion.",
+		"text": "<b>When Revealed</b>: Discard cards from the encounter deck until a <b><i>TAIL</i></b> attachment is discarded. Reveal that card.\n[star] <b>Boost</b>: This card gets +1 boost icon ( [boost] ) for each <b><i>TAIL</i></b> attachment attached to Scorpion.",
 		"type_code": "treachery"
 	},
 	{
@@ -730,7 +730,7 @@
 		"quantity": 2,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 21,
-		"text": "<b>When Revealed (Alter-Ego):</b> Scorpion schemes. If you are stunned, Scorpion gets +2 SCH for this activation.\n<b>When Revealed (Hero):</b> Scorpion attacks you. After this activation, if you are stunned, you are confused.",
+		"text": "<b>When Revealed (Alter-Ego)</b>: Scorpion schemes. If you are stunned, Scorpion gets +2 SCH for this activation.\n<b>When Revealed (Hero)</b>: Scorpion attacks you. After this activation, if you are stunned, you are confused.",
 		"type_code": "treachery"
 	},
 	{
@@ -745,7 +745,7 @@
 		"quantity": 2,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 23,
-		"text": "<b>When Revealed:</b> Choose to either spend [physical] p or stun your identity. If you cannot, this card gains surge.\n[star] <b>Boost:</b> If this activation deals damage to you, exhaust your hero.",
+		"text": "<b>When Revealed</b>: Choose to either spend [physical] p or stun your identity. If you cannot, this card gains surge.\n[star] <b>Boost</b>: If this activation deals damage to you, exhaust your hero.",
 		"type_code": "treachery"
 	},
 	{
@@ -768,7 +768,7 @@
 		"set_code": "lizard_by_nugget",
 		"set_position": 1,
 		"stage": 1,
-		"text": "[star] <b>Forced Response:</b> After The Lizard schemes, flip The Lizard.\n<b>Forced Interrupt:</b> When the villain phase ends, discard 1[per_hero] cards from the top of the encounter deck. Reveal each <b><i>REPTILE</i></b> attachment that was discarded this way.",
+		"text": "[star] <b>Forced Response</b>: After The Lizard schemes, flip The Lizard.\n<b>Forced Interrupt</b>: When the villain phase ends, discard 1[per_hero] cards from the top of the encounter deck. Reveal each <b><i>REPTILE</i></b> attachment that was discarded this way.",
 		"traits": "Brute. Reptile.",
 		"type_code": "villain"
 	},
@@ -792,7 +792,7 @@
 		"set_code": "lizard_by_nugget",
 		"set_position": 1,
 		"stage": 1,
-		"text": "Curtis Connors cannot take damage.\n[star] <b>Forced Interrupt:</b> When Curtis Connors would attack, place 1 shame counter on the Reptilian Rage environment instead. If there are 3 shame counters there, Curtis Connors schemes.\n[star] <b>Forced Response:</b> After Curtis Connors schemes, flip Curtis Connors.",
+		"text": "Curtis Connors cannot take damage.\n[star] <b>Forced Interrupt</b>: When Curtis Connors would attack, place 1 shame counter on the Reptilian Rage environment instead. If there are 3 shame counters there, Curtis Connors schemes.\n[star] <b>Forced Response</b>: After Curtis Connors schemes, flip Curtis Connors.",
 		"traits": "Genius. Scientist.",
 		"type_code": "villain"
 	},
@@ -815,7 +815,7 @@
 		"set_code": "lizard_by_nugget",
 		"set_position": 2,
 		"stage": 2,
-		"text": "[star] <b>Forced Response:</b> After The Lizard schemes, flip The Lizard.\n<b>Forced Interrupt:</b> When the villain phase ends, discard 1[per_hero] cards from the top of the encounter deck. Each player in player order must reveal each the topmost <b><i>REPTILE</i></b> attachment in the encounter discard pile.",
+		"text": "[star] <b>Forced Response</b>: After The Lizard schemes, flip The Lizard.\n<b>Forced Interrupt</b>: When the villain phase ends, discard 1[per_hero] cards from the top of the encounter deck. Each player in player order must reveal each the topmost <b><i>REPTILE</i></b> attachment in the encounter discard pile.",
 		"traits": "Brute. Reptile.",
 		"type_code": "villain"
 	},
@@ -839,7 +839,7 @@
 		"set_code": "lizard_by_nugget",
 		"set_position": 2,
 		"stage": 2,
-		"text": "Curtis Connors cannot take damage.\n[star] <b>Forced Interrupt:</b> When Curtis Connors would attack, place 1 shame counter on the Reptilian Rage environment instead. If there are 3 shame counters there, Curtis Connors schemes.\n[star] <b>Forced Response:</b> After Curtis Connors schemes, flip Curtis Connors.",
+		"text": "Curtis Connors cannot take damage.\n[star] <b>Forced Interrupt</b>: When Curtis Connors would attack, place 1 shame counter on the Reptilian Rage environment instead. If there are 3 shame counters there, Curtis Connors schemes.\n[star] <b>Forced Response</b>: After Curtis Connors schemes, flip Curtis Connors.",
 		"traits": "Genius. Scientist.",
 		"type_code": "villain"
 	},
@@ -862,7 +862,7 @@
 		"set_code": "lizard_by_nugget",
 		"set_position": 3,
 		"stage": 3,
-		"text": "[star] <b>Forced Response:</b> After The Lizard schemes, flip The Lizard.\n<b>Forced Interrupt:</b> When the villain phase ends, discard 2[per_hero] cards from the top of the encounter deck. Each player in player order must reveal each the topmost <b><i>REPTILE</i></b> attachment in the encounter discard pile.",
+		"text": "[star] <b>Forced Response</b>: After The Lizard schemes, flip The Lizard.\n<b>Forced Interrupt</b>: When the villain phase ends, discard 2[per_hero] cards from the top of the encounter deck. Each player in player order must reveal each the topmost <b><i>REPTILE</i></b> attachment in the encounter discard pile.",
 		"traits": "Brute. Reptile.",
 		"type_code": "villain"
 	},
@@ -886,7 +886,7 @@
 		"set_code": "lizard_by_nugget",
 		"set_position": 3,
 		"stage": 3,
-		"text": "Curtis Connors cannot take damage.\n[star] <b>Forced Interrupt:</b> When Curtis Connors would attack, place 2 shame counter on the Reptilian Rage environment instead. If there are 3 shame counters there, Curtis Connors schemes.\n[star] <b>Forced Response:</b> After Curtis Connors schemes, flip Curtis Connors.",
+		"text": "Curtis Connors cannot take damage.\n[star] <b>Forced Interrupt</b>: When Curtis Connors would attack, place 2 shame counter on the Reptilian Rage environment instead. If there are 3 shame counters there, Curtis Connors schemes.\n[star] <b>Forced Response</b>: After Curtis Connors schemes, flip Curtis Connors.",
 		"traits": "Genius. Scientist.",
 		"type_code": "villain"
 	},
@@ -904,7 +904,7 @@
 		"set_code": "lizard_by_nugget",
 		"set_position": 4,
 		"stage": 1,
-		"text": "<b>Contents:</b> Curtis Connors (I) and Curtis Connors (II). <i>(Curtis Connors (II) and Curtis Connors (III) instead for expert mode.)</i> The Lizard and Standard encounters sets. One modular encounter set <i>(recommanded: Lizard Thralls)</i>.\n<b>Setup:</b> Put the Reptilian Rage environment into play. The villain starts on the Curtis Connors side. Advance to stage 1B.",
+		"text": "<b>Contents</b>: Curtis Connors (I) and Curtis Connors (II). <i>(Curtis Connors (II) and Curtis Connors (III) instead for expert mode.)</i> The Lizard and Standard encounters sets. One modular encounter set <i>(recommanded: Lizard Thralls)</i>.\n<b>Setup</b>: Put the Reptilian Rage environment into play. The villain starts on the Curtis Connors side. Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -924,7 +924,7 @@
 		"set_code": "lizard_by_nugget",
 		"set_position": 4,
 		"stage": 1,
-		"text": "<b>When completed:</b> Put shame counters on the Reptilian Rage environment so that it has 3 shame counters on it. If The Lizard is not in play, flip Curtis Connors.",
+		"text": "<b>When completed</b>: Put shame counters on the Reptilian Rage environment so that it has 3 shame counters on it. If The Lizard is not in play, flip Curtis Connors.",
 		"threat": 4,
 		"type_code": "main_scheme"
 	},
@@ -942,7 +942,7 @@
 		"set_code": "lizard_by_nugget",
 		"set_position": 5,
 		"stage": 2,
-		"text": "<b>When Revealed:</b> Search the encounter deck and discard pile for a copy of Reptile Research and reveal it. Advance to stage 2B.",
+		"text": "<b>When Revealed</b>: Search the encounter deck and discard pile for a copy of Reptile Research and reveal it. Advance to stage 2B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -981,7 +981,7 @@
 		"set_code": "lizard_by_nugget",
 		"set_position": 6,
 		"stage": 3,
-		"text": "<b>When Revealed:</b> If The Lizard is not in play, flip Curtis Connors. Put shame counters on the Reptilian Rage environment so that it has 3 shame counters. Advance to stage 3B.",
+		"text": "<b>When Revealed</b>: If The Lizard is not in play, flip Curtis Connors. Put shame counters on the Reptilian Rage environment so that it has 3 shame counters. Advance to stage 3B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1015,7 +1015,7 @@
 		"quantity": 1,
 		"set_code": "lizard_by_nugget",
 		"set_position": 7,
-		"text": "The Lizard gets +1 ATK for each shame counter on Reptilian Rage. (Max 3 shame counters.) While there is 1 or more shame counters here, The Lizard's attacks gain overkill.\n<b>Forced Response:</b> After The Lizard attacks, remove shame counters from Reptilian Rage:\nVillain Stage I: Remove 2 shame counters.\nVillain Stage II: Remove 1 shame counter.\nVillain Stage III: Remove 0 shame counters.",
+		"text": "The Lizard gets +1 ATK for each shame counter on Reptilian Rage. (Max 3 shame counters.) While there is 1 or more shame counters here, The Lizard's attacks gain overkill.\n<b>Forced Response</b>: After The Lizard attacks, remove shame counters from Reptilian Rage:\nVillain Stage I: Remove 2 shame counters.\nVillain Stage II: Remove 1 shame counter.\nVillain Stage III: Remove 0 shame counters.",
 		"type_code": "environment"
 	},
 	{
@@ -1029,7 +1029,7 @@
 		"quantity": 2,
 		"set_code": "lizard_by_nugget",
 		"set_position": 8,
-		"text": "<b>When Revealed:</b> Curtis Connors schemes with +1[per_hero] SCH. Attach this to The Lizard.\n<b>Interrupt:</b> When an event is played, cancel the effects of that event and discard it. Then, place Enhanced Lizard Senses at the bottom of the encounter discard pile.",
+		"text": "<b>When Revealed</b>: Curtis Connors schemes with +1[per_hero] SCH. Attach this to The Lizard.\n<b>Interrupt</b>: When an event is played, cancel the effects of that event and discard it. Then, place Enhanced Lizard Senses at the bottom of the encounter discard pile.",
 		"traits": "Reptile.",
 		"type_code": "attachment"
 	},
@@ -1044,7 +1044,7 @@
 		"quantity": 2,
 		"set_code": "lizard_by_nugget",
 		"set_position": 10,
-		"text": "<b>When Revealed:</b> Curtis Connors schemes with +1[per_hero] SCH. Attach this to The Lizard.\nThe Lizard gains retaliate 1.\n<b>Hero Action:</b> Spend a [energy] resource and take 1 damage → place Komodo Claws at the bottom of the encounter discard pile.",
+		"text": "<b>When Revealed</b>: Curtis Connors schemes with +1[per_hero] SCH. Attach this to The Lizard.\nThe Lizard gains retaliate 1.\n<b>Hero Action</b>: Spend a [energy] resource and take 1 damage → place Komodo Claws at the bottom of the encounter discard pile.",
 		"traits": "Reptile.",
 		"type_code": "attachment"
 	},
@@ -1059,7 +1059,7 @@
 		"quantity": 1,
 		"set_code": "lizard_by_nugget",
 		"set_position": 12,
-		"text": "<b>When Revealed:</b> Curtis Connors schemes with +1[per_hero] SCH. Attach this to The Lizard.\n[star] <b>Forced Interrupt:</b> When The Lizard attacks, the attack gains ranged.\n<b>Hero Action:</b> Spend a [mental] resource and place 1 threat on the main scheme → place Lizard Tail at the bottom of the encounter discard pile.",
+		"text": "<b>When Revealed</b>: Curtis Connors schemes with +1[per_hero] SCH. Attach this to The Lizard.\n[star] <b>Forced Interrupt</b>: When The Lizard attacks, the attack gains ranged.\n<b>Hero Action:</b> Spend a [mental] resource and place 1 threat on the main scheme → place Lizard Tail at the bottom of the encounter discard pile.",
 		"traits": "Reptile.",
 		"type_code": "attachment"
 	},
@@ -1074,7 +1074,7 @@
 		"quantity": 1,
 		"set_code": "lizard_by_nugget",
 		"set_position": 13,
-		"text": "<b>When Revealed:</b> Curtis Connors schemes with +1[per_hero] SCH. Attach this to The Lizard.\n[star] <b>Forced Interrupt:</b> When The Lizard attacks, the attack gains piercing.\nHero Action: Spend a [physical] resource and exhaust your hero → place Alligator Jaws at the bottom of the encounter discard pile.",
+		"text": "<b>When Revealed</b>: Curtis Connors schemes with +1[per_hero] SCH. Attach this to The Lizard.\n[star] <b>Forced Interrupt</b>: When The Lizard attacks, the attack gains piercing.\nHero Action: Spend a [physical] resource and exhaust your hero → place Alligator Jaws at the bottom of the encounter discard pile.",
 		"traits": "Reptile.",
 		"type_code": "attachment"
 	},
@@ -1089,7 +1089,7 @@
 		"quantity": 1,
 		"set_code": "lizard_by_nugget",
 		"set_position": 14,
-		"text": "<b>When Revealed:</b> Curtis Connors schemes with +1[per_hero] SCH. Attach this to The Lizard.\n[star] <b>Forced Interrupt:</b> When The Lizard attacks and damages a character, deal damage to another friendly character equal to the attacked character's ATK.\nHero Action: confuse your hero → place Ancient Reptilian Brain at the bottom of the encounter discard pile.",
+		"text": "<b>When Revealed</b>: Curtis Connors schemes with +1[per_hero] SCH. Attach this to The Lizard.\n[star] <b>Forced Interrupt</b>: When The Lizard attacks and damages a character, deal damage to another friendly character equal to the attacked character's ATK.\nHero Action: confuse your hero → place Ancient Reptilian Brain at the bottom of the encounter discard pile.",
 		"traits": "Reptile.",
 		"type_code": "attachment"
 	},
@@ -1103,7 +1103,7 @@
 		"quantity": 2,
 		"set_code": "lizard_by_nugget",
 		"set_position": 15,
-		"text": "Attach to your identity.\nAttached identity cannot trigger the \"<b>Hero Action</b>\" effect on <b><i>REPTILE</i></b> attachments.\n<b>Forced Interrupt:</b> When the hero phase ends, discard Boa Constricted.",
+		"text": "Attach to your identity.\nAttached identity cannot trigger the \"<b>Hero Action</b>\" effect on <b><i>REPTILE</i></b> attachments.\n<b>Forced Interrupt</b>: When the hero phase ends, discard Boa Constricted.",
 		"traits": "Condition.",
 		"type_code": "attachment"
 	},
@@ -1119,7 +1119,7 @@
 		"quantity": 2,
 		"set_code": "lizard_by_nugget",
 		"set_position": 17,
-		"text": "<b>When Revealed (Alter-Ego):</b> This card gains surge.\n<b>When Revealed (Hero):</b> The villain attacks you. Place 1 threat on the main scheme for each <b><i>REPTILE</i></b> attachment attached to the villain.\n[star] <b>Boost:</b> If this activation is an attack, place 1 threat on the main scheme.",
+		"text": "<b>When Revealed (Alter-Ego)</b>: This card gains surge.\n<b>When Revealed (Hero)</b>: The villain attacks you. Place 1 threat on the main scheme for each <b><i>REPTILE</i></b> attachment attached to the villain.\n[star] <b>Boost</b>: If this activation is an attack, place 1 threat on the main scheme.",
 		"type_code": "treachery"
 	},
 	{
@@ -1133,7 +1133,7 @@
 		"quantity": 2,
 		"set_code": "lizard_by_nugget",
 		"set_position": 19,
-		"text": "<b>When Revealed:</b> Place shame counters on the Reptilian Rage environment so that it has 3 shame counters. Choose to either exhaust your hero or the villain schemes. This activation ignores confused status cards.\n[star] <b>Boost:</b> Place 1 shame counter on the Reptilian Rage environment.",
+		"text": "<b>When Revealed</b>: Place shame counters on the Reptilian Rage environment so that it has 3 shame counters. Choose to either exhaust your hero or the villain schemes. This activation ignores confused status cards.\n[star] <b>Boost</b>: Place 1 shame counter on the Reptilian Rage environment.",
 		"type_code": "treachery"
 	},
 	{
@@ -1148,7 +1148,7 @@
 		"quantity": 2,
 		"set_code": "lizard_by_nugget",
 		"set_position": 21,
-		"text": "<b>When Revealed:</b> Heal 3 damage from the villain and remove each status card from him. Give the villain a tough status card.\n[star] <b>Boost:</b> Give the villain a tough status card.",
+		"text": "<b>When Revealed</b>: Heal 3 damage from the villain and remove each status card from him. Give the villain a tough status card.\n[star] <b>Boost</b>: Give the villain a tough status card.",
 		"type_code": "treachery"
 	},
 	{
@@ -1205,7 +1205,7 @@
 		"quantity": 2,
 		"set_code": "lizard_by_nugget",
 		"set_position": 25,
-		"text": "<b>When Revealed:</b> Place 1 additional threat here for each <b><i>REPTILE</i></b> card in play.\n[hazard]",
+		"text": "<b>When Revealed</b>: Place 1 additional threat here for each <b><i>REPTILE</i></b> card in play.\n[hazard]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1241,7 +1241,7 @@
 		"scheme_star": true,
 		"set_code": "lizard_thralls_by_nugget",
 		"set_position": 2,
-		"text": "[star] <b>Forced Interrupt:</b> When Lizard Thrall would scheme, it attacks instead, without triggering its \"<b>Forced Interrupt</b>\" effect.\n[star] <b>Forced Interrupt:</b> When Lizard Thrall would attack, it schemes instead, without triggering its \"<b>Forced Interrupt</b>\" effect.",
+		"text": "[star] <b>Forced Interrupt</b>: When Lizard Thrall would scheme, it attacks instead, without triggering its \"<b>Forced Interrupt</b>\" effect.\n[star] <b>Forced Interrupt</b>: When Lizard Thrall would attack, it schemes instead, without triggering its \"<b>Forced Interrupt</b>\" effect.",
 		"traits": "Civilian. Reptile.",
 		"type_code": "minion"
 	},
@@ -1261,7 +1261,7 @@
 		"scheme_star": true,
 		"set_code": "lizard_thralls_by_nugget",
 		"set_position": 3,
-		"text": "[star] <b>Forced Interrupt:</b> When Lizard Thrall would scheme, it attacks instead, without triggering its \"<b>Forced Interrupt</b>\" effect.\n[star] <b>Forced Interrupt:</b> When Lizard Thrall would attack, it schemes instead, without triggering its \"<b>Forced Interrupt</b>\" effect.",
+		"text": "[star] <b>Forced Interrupt</b>: When Lizard Thrall would scheme, it attacks instead, without triggering its \"<b>Forced Interrupt</b>\" effect.\n[star] <b>Forced Interrupt</b>: When Lizard Thrall would attack, it schemes instead, without triggering its \"<b>Forced Interrupt</b>\" effect.",
 		"traits": "Civilian. Reptile.",
 		"type_code": "minion"
 	},
@@ -1281,7 +1281,7 @@
 		"scheme_star": true,
 		"set_code": "lizard_thralls_by_nugget",
 		"set_position": 4,
-		"text": "[star] <b>Forced Interrupt:</b> When Lizard Thrall would scheme, it attacks instead, without triggering its \"<b>Forced Interrupt</b>\" effect.\n[star] <b>Forced Interrupt:</b> When Lizard Thrall would attack, it schemes instead, without triggering its \"<b>Forced Interrupt</b>\" effect.",
+		"text": "[star] <b>Forced Interrupt</b>: When Lizard Thrall would scheme, it attacks instead, without triggering its \"<b>Forced Interrupt</b>\" effect.\n[star] <b>Forced Interrupt</b>: When Lizard Thrall would attack, it schemes instead, without triggering its \"<b>Forced Interrupt</b>\" effect.",
 		"traits": "Civilian. Reptile.",
 		"type_code": "minion"
 	},
@@ -1301,7 +1301,7 @@
 		"scheme_star": true,
 		"set_code": "lizard_thralls_by_nugget",
 		"set_position": 5,
-		"text": "[star] <b>Forced Interrupt:</b> When Lizard Thrall would scheme, it attacks instead, without triggering its \"<b>Forced Interrupt</b>\" effect.\n[star] <b>Forced Interrupt:</b> When Lizard Thrall would attack, it schemes instead, without triggering its \"<b>Forced Interrupt</b>\" effect.",
+		"text": "[star] <b>Forced Interrupt</b>: When Lizard Thrall would scheme, it attacks instead, without triggering its \"<b>Forced Interrupt</b>\" effect.\n[star] <b>Forced Interrupt</b>: When Lizard Thrall would attack, it schemes instead, without triggering its \"<b>Forced Interrupt</b>\" effect.",
 		"traits": "Civilian. Reptile.",
 		"type_code": "minion"
 	},
@@ -1343,7 +1343,7 @@
 		"set_code": "vulture_by_nugget",
 		"set_position": 2,
 		"stage": 2,
-		"text": "While Vulture has the <b><i>AERIAL</i></b> trait, as an additional cost to attack Vulture, the attacker or the attack must have the <b><i>AERIAL</i></b> trait, or the attack must have ranged.\n[star] <b>Forced Interrupt:</b> When Vulture attacks a character with less than half of their maximum hit points remaining, he gets +1 ATK for that attack.",
+		"text": "While Vulture has the <b><i>AERIAL</i></b> trait, as an additional cost to attack Vulture, the attacker or the attack must have the <b><i>AERIAL</i></b> trait, or the attack must have ranged.\n[star] <b>Forced Interrupt</b>: When Vulture attacks a character with less than half of their maximum hit points remaining, he gets +1 ATK for that attack.",
 		"traits": "Aerial. Criminal.",
 		"type_code": "villain"
 	},
@@ -1364,7 +1364,7 @@
 		"set_code": "vulture_by_nugget",
 		"set_position": 3,
 		"stage": 3,
-		"text": "While Vulture has the <b><i>AERIAL</i></b> trait, as an additional cost to attack Vulture, the attacker or the attack must have the <b><i>AERIAL</i></b> trait, or the attack must have ranged.\n[star] <b>Forced Interrupt:</b> When Vulture attacks a character with less than half of their maximum hit points remaining, he gets +1 ATK for that attack.",
+		"text": "While Vulture has the <b><i>AERIAL</i></b> trait, as an additional cost to attack Vulture, the attacker or the attack must have the <b><i>AERIAL</i></b> trait, or the attack must have ranged.\n[star] <b>Forced Interrupt</b>: When Vulture attacks a character with less than half of their maximum hit points remaining, he gets +1 ATK for that attack.",
 		"traits": "Aerial. Criminal.",
 		"type_code": "villain"
 	},
@@ -1381,7 +1381,7 @@
 		"set_code": "vulture_by_nugget",
 		"set_position": 4,
 		"stage": 1,
-		"text": "<b>Contents:</b> Vulture (I) and Vulture (II). <i>(Vulture (II) and Vulture (III) instead for expert mode.)</i> Vulture and Standard encounter sets. One modular encounter set <i>(recomanded: Red Vulture)</i>.\n<b>Setup:</b> Search the encounter deck and discard pile for the S.H.I.E.L.D. Wingsuits environment and put it into play. Advance to stage 1B.",
+		"text": "<b>Contents</b>: Vulture (I) and Vulture (II). <i>(Vulture (II) and Vulture (III) instead for expert mode.)</i> Vulture and Standard encounter sets. One modular encounter set <i>(recomanded: Red Vulture)</i>.\n<b>Setup</b>: Search the encounter deck and discard pile for the S.H.I.E.L.D. Wingsuits environment and put it into play. Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1400,7 +1400,7 @@
 		"set_code": "vulture_by_nugget",
 		"set_position": 4,
 		"stage": 1,
-		"text": "<b>Forced Response:</b> After a character you control without the <b><i>AERIAL</i></b> trait thwarts and removes threat from this scheme, choose to either deal 1 damage to that character or place 1 threat on this scheme.\n<b>If the scheme is completed, the players lose the game.</b>",
+		"text": "<b>Forced Response</b>: After a character you control without the <b><i>AERIAL</i></b> trait thwarts and removes threat from this scheme, choose to either deal 1 damage to that character or place 1 threat on this scheme.\n<b>If the scheme is completed, the players lose the game.</b>",
 		"threat": 11,
 		"type_code": "main_scheme"
 	},
@@ -1415,7 +1415,7 @@
 		"quantity": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 5,
-		"text": "<b>Hero Action:</b> Spend a resource of any type → your hero and each ally you control gains the <b><i>AERIAL</i></b> trait until the end of the round.",
+		"text": "<b>Hero Action</b>: Spend a resource of any type → your hero and each ally you control gains the <b><i>AERIAL</i></b> trait until the end of the round.",
 		"type_code": "environment"
 	},
 	{
@@ -1435,7 +1435,7 @@
 		"scheme": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 6,
-		"text": "[star] <b>Forced Response:</b> After Armadillo attacks and damages a character, that character gains the <b><i>AERIAL</i></b> trait until the end of the round.\n[star] <b>Boost:</b> If this attack damages you, you gain the <b><i>AERIAL</i></b> trait until the end of the round.",
+		"text": "[star] <b>Forced Response</b>: After Armadillo attacks and damages a character, that character gains the <b><i>AERIAL</i></b> trait until the end of the round.\n[star] <b>Boost</b>: If this attack damages you, you gain the <b><i>AERIAL</i></b> trait until the end of the round.",
 		"traits": "Criminal. Elite. Mutate.",
 		"type_code": "minion"
 	},
@@ -1456,7 +1456,7 @@
 		"scheme": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 7,
-		"text": "[star] <b>Forced Response:</b> After White Rabbit attacks and damages you, if you don't have the <b><i>AERIAL</i></b> trait, discard a random card from your hand.\n[star] <b>Boost:</b> If this attack damages you, discard a card from your hand.",
+		"text": "[star] <b>Forced Response</b>: After White Rabbit attacks and damages you, if you don't have the <b><i>AERIAL</i></b> trait, discard a random card from your hand.\n[star] <b>Boost</b>: If this attack damages you, discard a card from your hand.",
 		"traits": "Criminal.",
 		"type_code": "minion"
 	},
@@ -1476,7 +1476,7 @@
 		"scheme": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 8,
-		"text": "Guard.\n<b>Forced Interrupt:</b> When Gibbon would take any amount of damage, prevent 1 of that damage.",
+		"text": "Guard.\n<b>Forced Interrupt</b>: When Gibbon would take any amount of damage, prevent 1 of that damage.",
 		"traits": "Criminal. Mutant.",
 		"type_code": "minion"
 	},
@@ -1491,7 +1491,7 @@
 		"quantity": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 9,
-		"text": "Attach to Vulture.\n[star] <b>Forced Interrupt:</b> When Vulture attacks a character with the <b><i>AERIAL</i></b> trait, he gets +1 ATK for that attack.\n<b>Hero Action:</b> Exhaust your hero and discard 2 cards from your hand → discard Wing Harness. Vulture loses the AERIAL trait until the end of the active player's turn.",
+		"text": "Attach to Vulture.\n[star] <b>Forced Interrupt</b>: When Vulture attacks a character with the <b><i>AERIAL</i></b> trait, he gets +1 ATK for that attack.\n<b>Hero Action</b>: Exhaust your hero and discard 2 cards from your hand → discard Wing Harness. Vulture loses the <b><i>AERIAL</i></b> trait until the end of the active player's turn.",
 		"traits": "Armor. Tech.",
 		"type_code": "attachment"
 	},
@@ -1507,7 +1507,7 @@
 		"quantity": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 10,
-		"text": "Attach to Vulture.\nVulture gains retaliate 1.\n[star] <b>Forced Interrupt:</b> When Vulture attacks, the attack gains piercing.\n<b>Hero Response:</b> After you attack Vulture, discard a card from your hand → discard Metal Talons.",
+		"text": "Attach to Vulture.\nVulture gains retaliate 1.\n[star] <b>Forced Interrupt</b>: When Vulture attacks, the attack gains piercing.\n<b>Hero Response</b>: After you attack Vulture, discard a card from your hand → discard Metal Talons.",
 		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
@@ -1522,7 +1522,7 @@
 		"quantity": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 11,
-		"text": "Attach to Vulture.\n<b>Forced Interrupt:</b> When Vulture attacks you, discard Projectile Feathers and take 2 indirect damage (3 indirect damage instead if you have the <b><i>AERIAL</i></b> trait).\nHero Action: Spend [energy] e resources → Discard Projectile Feathers. Vultures loses the <b><i>AERIAL</i></b> trait until the end of the active player's turn.",
+		"text": "Attach to Vulture.\n<b>Forced Interrupt</b>: When Vulture attacks you, discard Projectile Feathers and take 2 indirect damage (3 indirect damage instead if you have the <b><i>AERIAL</i></b> trait).\nHero Action: Spend [energy] e resources → Discard Projectile Feathers. Vultures loses the <b><i>AERIAL</i></b> trait until the end of the active player's turn.",
 		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
@@ -1537,7 +1537,7 @@
 		"quantity": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 13,
-		"text": "You gain the <b><i>AERIAL</i></b> trait. You cannot change to alter-ego form.\n<b>Forced Response:</b> After you attack Vulture, choose to either take 2 damage or spend [physical] resource. Discard Forcefully Elevated.",
+		"text": "You gain the <b><i>AERIAL</i></b> trait. You cannot change to alter-ego form.\n<b>Forced Response</b>: After you attack Vulture, choose to either take 2 damage or spend [physical] resource. Discard Forcefully Elevated.",
 		"type_code": "obligation"
 	},
 	{
@@ -1554,7 +1554,7 @@
 		"quantity": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 15,
-		"text": "Surge.\n<b>Forced Interrupt:</b> When the villain phase begins, place 3 threat on the main scheme and discard Aerial Kidnapping.\nWhen Defeated: Vulture loses the <b><i>AERIAL</i></b> trait until the end of the active player's turn.",
+		"text": "Surge.\n<b>Forced Interrupt</b>: When the villain phase begins, place 3 threat on the main scheme and discard Aerial Kidnapping.\nWhen Defeated: Vulture loses the <b><i>AERIAL</i></b> trait until the end of the active player's turn.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1571,7 +1571,7 @@
 		"quantity": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 16,
-		"text": "<b>When Revealed:</b> Place an additional 1 threat here for each character with less than half of their maximum hit points remaining.\n[hazard]",
+		"text": "<b>When Revealed</b>: Place an additional 1 threat here for each character with less than half of their maximum hit points remaining.\n[hazard]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1586,7 +1586,7 @@
 		"quantity": 3,
 		"set_code": "vulture_by_nugget",
 		"set_position": 18,
-		"text": "Surge.\n<b>When Revealed:</b> If you have the <b><i>AERIAL</i></b> trait, you lose the <b><i>AERIAL</i></b> trait until the end of the round. If you lost the <b><i>AERIAL</i></b> trait this way, take 2 damage.",
+		"text": "Surge.\n<b>When Revealed</b>: If you have the <b><i>AERIAL</i></b> trait, you lose the <b><i>AERIAL</i></b> trait until the end of the round. If you lost the <b><i>AERIAL</i></b> trait this way, take 2 damage.",
 		"type_code": "treachery"
 	},
 	{
@@ -1601,7 +1601,7 @@
 		"quantity": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 21,
-		"text": "<b>When Revealed:</b> Stun your identity and discard 1 card from your hand. If you have the AERIAL trait, this card gains surge.\n[star] <b>Boost:</b> If the activating character has the <b><i>AERIAL</i></b> trait, it gets an additional boost card for this activation.",
+		"text": "<b>When Revealed</b>: Stun your identity and discard 1 card from your hand. If you have the AERIAL trait, this card gains surge.\n[star] <b>Boost</b>: If the activating character has the <b><i>AERIAL</i></b> trait, it gets an additional boost card for this activation.",
 		"type_code": "treachery"
 	},
 	{
@@ -1615,7 +1615,7 @@
 		"quantity": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 23,
-		"text": "<b>When Revealed (Alter-Ego):</b> Vulture schemes. If you have less than half of your maximum hit points remaining, this card gains surge.\n<b>When Revealed (Hero):</b> Vulture attacks you. If you have less than half of your maximum hit points remaining, this card gains surge.",
+		"text": "<b>When Revealed (Alter-Ego)</b>: Vulture schemes. If you have less than half of your maximum hit points remaining, this card gains surge.\n<b>When Revealed (Hero)</b>: Vulture attacks you. If you have less than half of your maximum hit points remaining, this card gains surge.",
 		"type_code": "treachery"
 	},
 	{
@@ -1635,7 +1635,7 @@
 		"scheme": 1,
 		"set_code": "red_vulture_by_nugget",
 		"set_position": 1,
-		"text": "Quickstrike. Villainous.\n[star] <b>Forced Response:</b> After Vulture (James Natale) attacks and damages you, discard cards from the top of your deck equal to the amount of damage you took.",
+		"text": "Quickstrike. Villainous.\n[star] <b>Forced Response</b>: After Vulture (James Natale) attacks and damages you, discard cards from the top of your deck equal to the amount of damage you took.",
 		"traits": "Aerial. Mutate.",
 		"type_code": "minion"
 	},
@@ -1652,7 +1652,7 @@
 		"quantity": 1,
 		"set_code": "red_vulture_by_nugget",
 		"set_position": 2,
-		"text": "<b>When Revealed:</b> Search the encounter deck and discard pile for Vulture (James Natale) and put it into play engaged with the identity with the least amount of hit points left.\n[acceleration]",
+		"text": "<b>When Revealed</b>: Search the encounter deck and discard pile for Vulture (James Natale) and put it into play engaged with the identity with the least amount of hit points left.\n[acceleration]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1667,7 +1667,7 @@
 		"quantity": 2,
 		"set_code": "red_vulture_by_nugget",
 		"set_position": 3,
-		"text": "<b>When Revealed:</b> Discard the top 5 cards of the encounter deck. For each boost icon on the cards discarded this way, discard the top card of your deck.\n[star] <b>Boost:</b> After this attack, discard the top card of your deck for each damage you took from that attack.",
+		"text": "<b>When Revealed</b>: Discard the top 5 cards of the encounter deck. For each boost icon on the cards discarded this way, discard the top card of your deck.\n[star] <b>Boost</b>: After this attack, discard the top card of your deck for each damage you took from that attack.",
 		"type_code": "treachery"
 	},
 	{
@@ -1681,7 +1681,7 @@
 		"quantity": 2,
 		"set_code": "red_vulture_by_nugget",
 		"set_position": 5,
-		"text": "<b>When Revealed (Hero):</b> Vulture (James Natale) attacks your hero. If Vulture (James Natale) did not attack you this way, discard the top 6 cards of the encounter deck. If Vulture (James Natale) is in the encounter discard pile, put him in play engaged with you.",
+		"text": "<b>When Revealed (Hero)</b>: Vulture (James Natale) attacks your hero. If Vulture (James Natale) did not attack you this way, discard the top 6 cards of the encounter deck. If Vulture (James Natale) is in the encounter discard pile, put him in play engaged with you.",
 		"type_code": "treachery"
 	},
 	{
@@ -1701,7 +1701,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 1,
 		"stage": 1,
-		"text": "<b>Forced Interrupt:</b> When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit once per round per player.)",
+		"text": "<b>Forced Interrupt</b>: When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit once per round per player.)",
 		"traits": "Mercenary. Hunter.",
 		"type_code": "villain"
 	},
@@ -1721,7 +1721,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 2,
 		"stage": 2,
-		"text": "<b>When Revealed:</b> Search the encounter deck and discard pile for the Tooth Necklace attachment and reveal it.\n<b>Forced Interrupt:</b> When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit once per round per player.)",
+		"text": "<b>When Revealed</b>: Search the encounter deck and discard pile for the Tooth Necklace attachment and reveal it.\n<b>Forced Interrupt:</b> When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit once per round per player.)",
 		"traits": "Mercenary. Hunter.",
 		"type_code": "villain"
 	},
@@ -1741,7 +1741,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 3,
 		"stage": 3,
-		"text": "<b>When Revealed:</b> Deal each player a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.\n<b>Forced Interrupt:</b> When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit twice per round per player.)",
+		"text": "<b>When Revealed</b>: Deal each player a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.\n<b>Forced Interrupt</b>: When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit twice per round per player.)",
 		"traits": "Mercenary. Hunter.",
 		"type_code": "villain"
 	},
@@ -1759,7 +1759,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 4,
 		"stage": 1,
-		"text": "<b>Contents:</b> Kraven The Hunter (I) and Kraven The Hunter (II). <i>(Kraven The Hunter (II) and Kraven The Hunter (III) instead for expert mode.)</i> Kraven The Hunter and Standard encounter sets. Trap Deck. One modular encounter set <i>(recommended: Savage Six)</i>.\n<b>Setup:</b> Kraven The Hunter starts the game with a separate <b><i>TRAP</i></b> deck. (See insert.) Advance to stage 1B.",
+		"text": "<b>Contents</b>: Kraven The Hunter (I) and Kraven The Hunter (II). <i>(Kraven The Hunter (II) and Kraven The Hunter (III) instead for expert mode.)</i> Kraven The Hunter and Standard encounter sets. Trap Deck. One modular encounter set <i>(recommended: Savage Six)</i>.\n<b>Setup</b>: Kraven The Hunter starts the game with a separate <b><i>TRAP</i></b> deck. (See insert.) Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1779,7 +1779,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 4,
 		"stage": 1,
-		"text": "<b>Forced Interrupt:</b> When you flip to hero form, place 2 threat here.\n<b>Forced Response:</b> After you flip to alter-ego form, remove 1 threat from this scheme.",
+		"text": "<b>Forced Interrupt</b>: When you flip to hero form, place 2 threat here.\n<b>Forced Response</b>: After you flip to alter-ego form, remove 1 threat from this scheme.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1796,7 +1796,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 5,
 		"stage": 2,
-		"text": "<b>When Revealed:</b> Search the encounter deck and discard pile for the Calypso Serum side scheme and reveal it. Shuffle the encounter deck. Advance to stage 2B.",
+		"text": "<b>When Revealed</b>: Search the encounter deck and discard pile for the Calypso Serum side scheme and reveal it. Shuffle the encounter deck. Advance to stage 2B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1816,7 +1816,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 5,
 		"stage": 2,
-		"text": "<b>Forced Response:</b> After a <b><i>TRAP</i></b> card is revealed, place 1 threat here. (Limit one per player per round.)\n<b>If this stage is completed, the players have been hunted and therefore lose the game.</b>",
+		"text": "<b>Forced Response</b>: After a <b><i>TRAP</i></b> card is revealed, place 1 threat here. (Limit one per player per round.)\n<b>If this stage is completed, the players have been hunted and therefore lose the game.</b>",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1835,7 +1835,7 @@
 		"scheme": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 6,
-		"text": "Forced Interrupt: When a character you control attacks Last Son of Kraven, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. (Limit once per round.)\n[star] <b>Boost:</b> After this activation ends, shuffle this card into the encounter deck.",
+		"text": "Forced Interrupt: When a character you control attacks Last Son of Kraven, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. (Limit once per round.)\n[star] <b>Boost</b>: After this activation ends, shuffle this card into the encounter deck.",
 		"traits": "Mercenary. Hunter. Elite.",
 		"type_code": "minion"
 	},
@@ -1854,7 +1854,7 @@
 		"scheme": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 7,
-		"text": "Chameleon cannot take damage.\n[star] <b>Forced Interrupt:</b> When Chameleon would attack, he schemes instead.\n<b>Forced Interrupt:</b> When an enemy would be defeated, discard Chameleon instead.",
+		"text": "Chameleon cannot take damage.\n[star] <b>Forced Interrupt</b>: When Chameleon would attack, he schemes instead.\n<b>Forced Interrupt</b>: When an enemy would be defeated, discard Chameleon instead.",
 		"traits": "Criminal.",
 		"type_code": "minion"
 	},
@@ -1870,7 +1870,7 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 8,
-		"text": "Attach to Kraven the Hunter.\n[star] <b>Forced Response:</b> After Kraven The Hunter attacks and damages a character, confuse that character.\n<b>Interrupt</b>: When you attack Kraven The Hunter, discard a random card from your hand → discard Poisoned Dagger.",
+		"text": "Attach to Kraven the Hunter.\n[star] <b>Forced Response</b>: After Kraven The Hunter attacks and damages a character, confuse that character.\n<b>Interrupt</b>: When you attack Kraven The Hunter, discard a random card from your hand → discard Poisoned Dagger.",
 		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
@@ -1887,7 +1887,7 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 9,
-		"text": "Attach to Kraven The Hunter.\nKraven The Hunter gains retaliate 1.\n<b>Interrupt:</b> When you attack Kraven The Hunter, deal 3 damage to your identity → discard Kraven's Spear.",
+		"text": "Attach to Kraven The Hunter.\nKraven The Hunter gains retaliate 1.\n<b>Interrupt</b>: When you attack Kraven The Hunter, deal 3 damage to your identity → discard Kraven's Spear.",
 		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
@@ -1903,7 +1903,7 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 10,
-		"text": "Attach to Kraven The Hunter.\n[star] Forced Response: After Kraven The Hunter attacks you and doesn't damages you, take 1 damage.\nInterrupt: When you attack Kraven The Hunter, spend any 2 resources → discard Hunting Rifle.",
+		"text": "Attach to Kraven The Hunter.\n[star] <b>Forced Response</b>: After Kraven The Hunter attacks you and doesn't damages you, take 1 damage.\n<b>Interrupt</b>: When you attack Kraven The Hunter, spend any 2 resources → discard Hunting Rifle.",
 		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
@@ -1918,7 +1918,7 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 11,
-		"text": "Attach to Kraven The Hunter.\n[star] <b>Forced Response:</b> After Kraven The Hunter schemes, search the encounter deck and discard pile for a <b><i>WEAPON</i></b> attachment and reveal it.\n<b>Interrupt:</b> When you attack Kraven The Hunter, place 2[per_hero] threat on the main scheme → discard Tooth Necklace",
+		"text": "Attach to Kraven The Hunter.\n[star] <b>Forced Response</b>: After Kraven The Hunter schemes, search the encounter deck and discard pile for a <b><i>WEAPON</i></b> attachment and reveal it.\n<b>Interrupt</b>: When you attack Kraven The Hunter, place 2[per_hero] threat on the main scheme → discard Tooth Necklace",
 		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
@@ -1967,7 +1967,7 @@
 		"quantity": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 14,
-		"text": "<b>When Revealed:</b> Kraven The Hunter attacks you. If you are in alter-ego form, do not give the villain a boost card for this activation. If you have a <b><i>TRAP</i></b> attachment attached to you, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.\n[star] Boost: Deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.",
+		"text": "<b>When Revealed</b>: Kraven The Hunter attacks you. If you are in alter-ego form, do not give the villain a boost card for this activation. If you have a <b><i>TRAP</i></b> attachment attached to you, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.\n[star] <b>Boost</b>: Deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.",
 		"type_code": "treachery"
 	},
 	{
@@ -1982,7 +1982,7 @@
 		"quantity": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 16,
-		"text": "<b>When Revealed:</b> Discard X cards from the encounter deck where X is equal to triple the villain's stage number. Reveal the first <b><i>ITEM</i></b> or <b><i>WEAPON</i></b> attachment that was discarded this way. If no attachments were revealed this way, deal yourself a TRAP card from the TRAP deck.",
+		"text": "<b>When Revealed</b>: Discard X cards from the encounter deck where X is equal to triple the villain's stage number. Reveal the first <b><i>ITEM</i></b> or <b><i>WEAPON</i></b> attachment that was discarded this way. If no attachments were revealed this way, deal yourself a <b><i>TRAP </i></b>card from the <b><i>TRAP</i></b> deck.",
 		"type_code": "treachery"
 	},
 	{
@@ -1997,7 +1997,7 @@
 		"quantity": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 18,
-		"text": "<b>When Revealed:</b> Kraven The Hunter attacks the hero with the highest printed hit points. Other characters cannot defend against this attack. If no attacks ware made this way, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.",
+		"text": "<b>When Revealed</b>: Kraven The Hunter attacks the hero with the highest printed hit points. Other characters cannot defend against this attack. If no attacks ware made this way, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.",
 		"type_code": "treachery"
 	},
 	{
@@ -2011,7 +2011,7 @@
 		"quantity": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 20,
-		"text": "<b>When Revealed:</b> Deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Place 1 threat on the main scheme for each <b><i>TRAP</i></b> card dealt to you.\n[star] Boost: If you have 1 or more <b><i>TRAP</i></b> cards dealt to you, place 1 threat on the main scheme.",
+		"text": "<b>When Revealed</b>: Deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Place 1 threat on the main scheme for each <b><i>TRAP</i></b> card dealt to you.\n[star] <b>Boost</b>: If you have 1 or more <b><i>TRAP</i></b> cards dealt to you, place 1 threat on the main scheme.",
 		"type_code": "treachery"
 	},
 	{
@@ -2029,7 +2029,7 @@
 		"scheme": 0,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 1,
-		"text": "[star] While Ferocious Lion is attacking, it gets +1 ATK if the attack is undefended.\n<b>Forced Response:</b> After a character the engaged player controls attacks Kraven The Hunter, Ferocious Lion attacks the engaged player.",
+		"text": "[star] While Ferocious Lion is attacking, it gets +1 ATK if the attack is undefended.\n<b>Forced Response</b>: After a character the engaged player controls attacks Kraven The Hunter, Ferocious Lion attacks the engaged player.",
 		"traits": "Trap. Animal.",
 		"type_code": "minion"
 	},
@@ -2048,7 +2048,7 @@
 		"scheme": 0,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 3,
-		"text": "[star] Fierce Cheetah's attacks gain piercing.\n<b>Forced Response:</b> After a character the engaged player controls attacks Kraven The Hunter, Fierce Cheetah attacks the engaged player.",
+		"text": "[star] Fierce Cheetah's attacks gain piercing.\n<b>Forced Response</b>: After a character the engaged player controls attacks Kraven The Hunter, Fierce Cheetah attacks the engaged player.",
 		"traits": "Trap. Animal.",
 		"type_code": "minion"
 	},
@@ -2062,7 +2062,7 @@
 		"quantity": 2,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 5,
-		"text": "Choose to either exhaust your identity or attach Bear Trap to your identity. If your identity was exhausted this way, discard Bear Trap.\n<b>Forced Interrupt:</b> When the hero phase ends, you take 1 damage.\n<b>Action:</b> Spend a [physical] resource and take 2 damage → discard Bear Trap.",
+		"text": "Choose to either exhaust your identity or attach Bear Trap to your identity. If your identity was exhausted this way, discard Bear Trap.\n<b>Forced Interrupt</b>: When the hero phase ends, you take 1 damage.\n<b>Action</b>: Spend a [physical] resource and take 2 damage → discard Bear Trap.",
 		"traits": "Trap.",
 		"type_code": "attachment"
 	},
@@ -2076,7 +2076,7 @@
 		"quantity": 2,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 7,
-		"text": "Choose to either exhaust your identity or attach Capture Net to your identity. If your identity was exhausted this way, discard Capture Net.\n<b>Forced Interrupt:</b> When the hero phase ends, spend a [physical] resource or exhaust your identity.\nAction: When you would attack, spend a [physical] resource → discard Capture Net instead.",
+		"text": "Choose to either exhaust your identity or attach Capture Net to your identity. If your identity was exhausted this way, discard Capture Net.\n<b>Forced Interrupt</b>: When the hero phase ends, spend a [physical] resource or exhaust your identity.\nAction: When you would attack, spend a [physical] resource → discard Capture Net instead.",
 		"traits": "Trap.",
 		"type_code": "attachment"
 	},
@@ -2090,7 +2090,7 @@
 		"quantity": 2,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 9,
-		"text": "Choose to either exhaust your identity or attach Quicksand to your identity. If your identity was exhausted this way, discard Quicksand.\n<b>Interrupt:</b> When you play an event, cancel the effects of that event and discard it → discard Quicksend.",
+		"text": "Choose to either exhaust your identity or attach Quicksand to your identity. If your identity was exhausted this way, discard Quicksand.\n<b>Interrupt</b>: When you play an event, cancel the effects of that event and discard it → discard Quicksend.",
 		"traits": "Trap.",
 		"type_code": "attachment"
 	},
@@ -2105,7 +2105,7 @@
 		"quantity": 3,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 11,
-		"text": "<b>When Revealed:</b> Choose to either spend a [mental] resource or confuse your identity. If you cannot, take 1 damage.",
+		"text": "<b>When Revealed</b>: Choose to either spend a [mental] resource or confuse your identity. If you cannot, take 1 damage.",
 		"traits": "Trap.",
 		"type_code": "treachery"
 	},
@@ -2120,7 +2120,7 @@
 		"quantity": 3,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 14,
-		"text": "<b>When Revealed:</b> Choose one:\n• Exhaust your identity.\n• Discard an ally you control.\n• Discard an upgrade you control.\n• You take 3 damage.",
+		"text": "<b>When Revealed</b>: Choose one:\n• Exhaust your identity.\n• Discard an ally you control.\n• Discard an upgrade you control.\n• You take 3 damage.",
 		"traits": "Trap.",
 		"type_code": "treachery"
 	},
@@ -2137,7 +2137,7 @@
 		"quantity": 1,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 1,
-		"text": "<b>When Revealed:</b> Each <b><i>SAVAGE SIX</i></b> minion attacks the hero it is engaged with. If no attacks were made this way, search the encounter deck and discard pile for a <b><i>SAVAGE SIX</i></b> minion and put it into play engaged with the first player.\n[acceleration]",
+		"text": "<b>When Revealed</b>: Each <b><i>SAVAGE SIX</i></b> minion attacks the hero it is engaged with. If no attacks were made this way, search the encounter deck and discard pile for a <b><i>SAVAGE SIX</i></b> minion and put it into play engaged with the first player.\n[acceleration]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -2157,7 +2157,7 @@
 		"scheme": 2,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 2,
-		"text": "[star] <b>Forced Response:</b> After Vulture attacks you, deal yourself an encounter card. Then, shuffle Vulture into the encounter deck.\n[star] <b>Boost:</b> After this activation ends, shuffle this card into the encounter deck.",
+		"text": "[star] <b>Forced Response</b>: After Vulture attacks you, deal yourself an encounter card. Then, shuffle Vulture into the encounter deck.\n[star] <b>Boost</b>: After this activation ends, shuffle this card into the encounter deck.",
 		"traits": "Aerial. Criminal. Savage Six.",
 		"type_code": "minion"
 	},
@@ -2179,7 +2179,7 @@
 		"scheme": 1,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 3,
-		"text": "[star] Rhino's attacks gain overkill.\n<b>Forced Interrupt:</b> When the villain phase ends, give Rhino a tough status card.\n[star] <b>Boost:</b> This attack gains overkill.",
+		"text": "[star] Rhino's attacks gain overkill.\n<b>Forced Interrupt</b>: When the villain phase ends, give Rhino a tough status card.\n[star] <b>Boost</b>: This attack gains overkill.",
 		"traits": "Criminal. Elite. Savage Six.",
 		"type_code": "minion"
 	},
@@ -2201,7 +2201,7 @@
 		"scheme_star": true,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 4,
-		"text": "[star] Scorpion gets +1 SCH while the identity he is engaged with is stunned.\n[star] <b>Forced Response:</b> After Scorpion attacks and damages a character, that character is stunned.\n[star] <b>Boost:</b> This card gets +1 boost icon ( [boost] ) if you are stunned.",
+		"text": "[star] Scorpion gets +1 SCH while the identity he is engaged with is stunned.\n[star] <b>Forced Response</b>: After Scorpion attacks and damages a character, that character is stunned.\n[star] <b>Boost</b>: This card gets +1 boost icon ( [boost] ) if you are stunned.",
 		"traits": "Criminal. Elite. Savage Six.",
 		"type_code": "minion"
 	},
@@ -2223,7 +2223,7 @@
 		"scheme_star": true,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 5,
-		"text": "[star] Tarantula gets +1 ATK while the identity he is engaged with is confused.\n[star] <b>Forced Response:</b> After Tarantula attacks and damages a character, that character is confused.\n[star] <b>Boost:</b> This card gets +1 boost icon ( [boost] ) if you are confused.",
+		"text": "[star] Tarantula gets +1 ATK while the identity he is engaged with is confused.\n[star] <b>Forced Response</b>: After Tarantula attacks and damages a character, that character is confused.\n[star] <b>Boost</b>: This card gets +1 boost icon ( [boost] ) if you are confused.",
 		"traits": "Criminal. Savage Six.",
 		"type_code": "minion"
 	},
@@ -2244,7 +2244,7 @@
 		"scheme": 2,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 6,
-		"text": "While King Cobra is engaged with you, your hero cannot attack other enemies.\n[star] <b>Boost:</b> If this attacks deals damage to you, exhaust your identity.",
+		"text": "While King Cobra is engaged with you, your hero cannot attack other enemies.\n[star] <b>Boost</b>: If this attacks deals damage to you, exhaust your identity.",
 		"traits": "Savage Six. Serpent Society.",
 		"type_code": "minion"
 	},
@@ -2265,7 +2265,7 @@
 		"scheme_star": true,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 7,
-		"text": "[star] Stegron gets +1 SCH for each <b><i>SAVAGE SIX</i></b> enemy in play (max +4 SCH).\n<b>Forced Response:</b> After Stegron enters play, he schemes.\n[star] <b>Boost:</b> This card card gets +1 boost icon ( [boost] ) if at least one <b><i>SAVAGE SIX</i></b> minion is in play.",
+		"text": "[star] Stegron gets +1 SCH for each <b><i>SAVAGE SIX</i></b> enemy in play (max +4 SCH).\n<b>Forced Response</b>: After Stegron enters play, he schemes.\n[star] <b>Boost</b>: This card card gets +1 boost icon ( [boost] ) if at least one <b><i>SAVAGE SIX</i></b> minion is in play.",
 		"traits": "Reptile. Savage Six.",
 		"type_code": "minion"
 	}

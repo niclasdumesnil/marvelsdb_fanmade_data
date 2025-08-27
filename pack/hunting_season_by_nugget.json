@@ -9,7 +9,7 @@
 		"quantity": 1,
 		"set_code": "hunter_mode_by_nugget",
 		"set_position": 1,
-		"text": "<b><i>Hunter Mode Only.</i></b>\nVermin and Vermine (Clone) gets +1 ATK.\n<b>Forced Response:</b> After a <b><i>RAT</i></b> minion enters play, place 1 threat on it.",
+		"text": "<b><i>Hunter Mode Only.</i></b>\nVermin and Vermine (Clone) gets +1 ATK.\n<b>Forced Response</b>: After a <b><i>RAT</i></b> minion enters play, place 1 threat on it.",
 		"type_code": "environment"
 	},
 	{
@@ -22,7 +22,7 @@
 		"quantity": 1,
 		"set_code": "hunter_mode_by_nugget",
 		"set_position": 2,
-		"text": "<b><i>Hunter Mode Only.</i></b>\n<b>Forced Response:</b> After the villain phase ends, the first player chooses:\n• Place 1 wound counter on J. Jonah Jameson.\n• Discard cards from the encounter deck until an attachment is discarded. Reveal that card.",
+		"text": "<b><i>Hunter Mode Only.</i></b>\n<b>Forced Response</b>: After the villain phase ends, the first player chooses:\n• Place 1 wound counter on J. Jonah Jameson.\n• Discard cards from the encounter deck until an attachment is discarded. Reveal that card.",
 		"type_code": "environment"
 	},
 	{
@@ -35,7 +35,7 @@
 		"quantity": 1,
 		"set_code": "hunter_mode_by_nugget",
 		"set_position": 3,
-		"text": "<b><i>Hunter Mode Only.</i></b>\nThe target threat value of the main scheme is reduced by 1[per_hero] .\n<b>Forced Response:</b> After Curtis Connors activates against your hero, deal yourself 1 facedown encounter card.",
+		"text": "<b><i>Hunter Mode Only.</i></b>\nThe target threat value of the main scheme is reduced by 1[per_hero] .\n<b>Forced Response</b>: After Curtis Connors activates against your hero, deal yourself 1 facedown encounter card.",
 		"type_code": "environment"
 	},
 	{
@@ -48,7 +48,7 @@
 		"quantity": 1,
 		"set_code": "hunter_mode_by_nugget",
 		"set_position": 4,
-		"text": "<b><i>Hunter Mode Only.</i></b>\n<b>Forced Response:</b> After step one of the villain phase, place 1 threat on the main scheme for each identity without the <b><i>AERIAL</i></b> trait. Each identity with the <b><i>AERIAL</i></b> trait takes 2 indirect damage.",
+		"text": "<b><i>Hunter Mode Only.</i></b>\n<b>Forced Response</b>: After step one of the villain phase, place 1 threat on the main scheme for each identity without the <b><i>AERIAL</i></b> trait. Each identity with the <b><i>AERIAL</i></b> trait takes 2 indirect damage.",
 		"type_code": "environment"
 	},
 	{
@@ -61,7 +61,7 @@
 		"quantity": 1,
 		"set_code": "hunter_mode_by_nugget",
 		"set_position": 5,
-		"text": "<b><i>Hunter Mode Only.</i></b>\n<b>Forced Response:</b> After step one of the villain phase, deal each player 1 facedown <b><i>TRAP</i></b> card.\n<b>Forced Interrupt:</b> When the <b><i>TRAP</i></b> discard pile is shuffled back into the <b><i>TRAP</i></b> deck, deal the first player 1 facedown encounter card.",
+		"text": "<b><i>Hunter Mode Only.</i></b>\n<b>Forced Response</b>: After step one of the villain phase, deal each player 1 facedown <b><i>TRAP</i></b> card.\n<b>Forced Interrupt</b>: When the <b><i>TRAP</i></b> discard pile is shuffled back into the <b><i>TRAP</i></b> deck, deal the first player 1 facedown encounter card.",
 		"type_code": "environment"
 	},
 	{
@@ -131,7 +131,7 @@
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 3,
 		"subname": "Felicia Hardy",
-		"text": "Experience Cost 4.\n[star] <b>Forced Response:</b> After Black Cat thwarts, discard the top card of your deck. If that card has a printed [mental] resource, add it to your hand.",
+		"text": "Experience Cost 4.\n[star] <b>Forced Response</b>: After Black Cat thwarts, discard the top card of your deck. If that card has a printed [mental] resource, add it to your hand.",
 		"thwart": 1,
 		"thwart_star": true,
 		"traits": "Hero for hire.",
@@ -155,7 +155,7 @@
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 4,
 		"subname": "Kevin Plunder",
-		"text": "Experience Cost 4.\n<b>Response:</b> After Ka-Zar enters play, deal damage to the villain equal to the villain's stage number.",
+		"text": "Experience Cost 4.\n<b>Response</b>: After Ka-Zar enters play, deal damage to the villain equal to the villain's stage number.",
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "Hunter. Savage Land.",
@@ -179,7 +179,7 @@
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 5,
 		"subname": "Martin Blank",
-		"text": "Experience Cost 1.\n<b>Interrupt:</b> When Gibbon would take any amount of damage, prevent 1 of that damage. (Limit once per phase.)",
+		"text": "Experience Cost 1.\n<b>Interrupt</b>: When Gibbon would take any amount of damage, prevent 1 of that damage. (Limit once per phase.)",
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "Criminal. Mutant.",
@@ -197,7 +197,7 @@
 		"resource_wild": 1,
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 6,
-		"text": "Experience Cost 2.\n<b>Interrupt:</b> When you would take any amount of damage from an attack, prevent 3 of that damage. If you took no damage from this attack, draw 1 card.",
+		"text": "Experience Cost 2.\n<b>Interrupt</b>: When you would take any amount of damage from an attack, prevent 3 of that damage. If you took no damage from this attack, draw 1 card.",
 		"traits": "Defense. Skill.",
 		"type_code": "event"
 	},
@@ -213,7 +213,7 @@
 		"resource_wild": 1,
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 9,
-		"text": "Experience Cost 1.\n<b>Hero Action:</b> Give the villain up to three facedown boost cards. Draw 1 card for each facedown boost card given to the villain this way.",
+		"text": "Experience Cost 1.\n<b>Hero Action</b>: Give the villain up to three facedown boost cards. Draw 1 card for each facedown boost card given to the villain this way.",
 		"traits": "Tactic.",
 		"type_code": "event"
 	},
@@ -229,7 +229,7 @@
 		"resource_wild": 1,
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 12,
-		"text": "Experience Cost 3.\n<b>Hero Interrupt:</b> When you reveal an encounter card, spend a [physical]  resource → cancel that encounter card's \"<b>When Revealed</b>\" effects.",
+		"text": "Experience Cost 3.\n<b>Hero Interrupt</b>: When you reveal an encounter card, spend a [physical]  resource → cancel that encounter card's \"<b>When Revealed</b>\" effects.",
 		"type_code": "event"
 	},
 	{
@@ -260,7 +260,7 @@
 		"resource_wild": 1,
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 18,
-		"text": "Experience Cost 2.\n<b>Interrupt:</b> When you thwart, increase the amount of threat that thwart removes by 2. If this thwart removes the last threat from a scheme, deal 1 damage to an enemy and draw 1 card.",
+		"text": "Experience Cost 2.\n<b>Interrupt</b>: When you thwart, increase the amount of threat that thwart removes by 2. If this thwart removes the last threat from a scheme, deal 1 damage to an enemy and draw 1 card.",
 		"type_code": "event"
 	},
 	{
@@ -276,7 +276,7 @@
 		"resource_wild": 1,
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 21,
-		"text": "Experience Cost 4.\n<b>Hero Action:</b> Exhaust Savage Land and deal 1 damage to a hero or ally → that character gets +1 THW and +1 ATK until the end of the round.",
+		"text": "Experience Cost 4.\n<b>Hero Action</b>: Exhaust Savage Land and deal 1 damage to a hero or ally → that character gets +1 THW and +1 ATK until the end of the round.",
 		"traits": "Location. Savage Land.",
 		"type_code": "support"
 	},
@@ -308,7 +308,7 @@
 		"resource_wild": 1,
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 25,
-		"text": "Experience Cost 2.\nRestricted.\n<b>Interrupt:</b> When you make a basic attack exhaust Hatchet → you get +1 ATK for that attack.",
+		"text": "Experience Cost 2.\nRestricted.\n<b>Interrupt</b>: When you make a basic attack exhaust Hatchet → you get +1 ATK for that attack.",
 		"traits": "Weapon.",
 		"type_code": "upgrade"
 	},
@@ -340,7 +340,7 @@
 		"resource_wild": 1,
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 31,
-		"text": "Experience Cost 1.\n<b>Interrupt:</b> When an enemy attacks you, discard Trap → deal 2 damage to that enemy. If that enemy was defeated this way, return Trap to your hand.",
+		"text": "Experience Cost 1.\n<b>Interrupt</b>: When an enemy attacks you, discard Trap → deal 2 damage to that enemy. If that enemy was defeated this way, return Trap to your hand.",
 		"traits": "Preparation.",
 		"type_code": "upgrade"
 	},
@@ -356,7 +356,7 @@
 		"resource_wild": 1,
 		"set_code": "the_lodge-campaign_by_nugget",
 		"set_position": 34,
-		"text": "Experience Cost 2.\n<b>Hero Interrupt:</b> When an enemy would attack you, discard In Hiding → that enemy schemes instead, without getting a boost card for this activation.",
+		"text": "Experience Cost 2.\n<b>Hero Interrupt</b>: When an enemy would attack you, discard In Hiding → that enemy schemes instead, without getting a boost card for this activation.",
 		"traits": "Preparation.",
 		"type_code": "upgrade"
 	},
@@ -396,7 +396,7 @@
 		"scheme": 0,
 		"set_code": "hunt_campaign_by_nugget",
 		"set_position": 2,
-		"text": "Quickstrike. Retaliate 1.\n<b>Forced Interrupt:</b> When Lizard attacks, the attack gains piercing.",
+		"text": "Quickstrike. Retaliate 1.\n<b>Forced Interrupt</b>: When Lizard attacks, the attack gains piercing.",
 		"traits": "Brute. Reptile.",
 		"type_code": "minion"
 	},
@@ -444,7 +444,7 @@
 		"set_code": "hunt_campaign_by_nugget",
 		"set_position": 4,
 		"subname": "Macdonald Gargan",
-		"text": "[star] <b>Response:</b> After Scorpion attacks and damages an enemy, deal 1 damage to Scorpion → stun that enemy and deal 1 damage to it.",
+		"text": "[star] <b>Response</b>: After Scorpion attacks and damages an enemy, deal 1 damage to Scorpion → stun that enemy and deal 1 damage to it.",
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "Predator. Criminal.",
@@ -494,7 +494,7 @@
 		"set_code": "hunt_campaign_by_nugget",
 		"set_position": 6,
 		"subname": "Adrian Toomes",
-		"text": "<b>Action:</b> Exhaust Vulture and deal 1 damage to him → ready a friendly character. That character gains the <b><i>AERIAL</i></b> trait until the end of the phase.",
+		"text": "<b>Action</b>: Exhaust Vulture and deal 1 damage to him → ready a friendly character. That character gains the <b><i>AERIAL</i></b> trait until the end of the phase.",
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "Aerial. Predator. Criminal.",
@@ -529,7 +529,7 @@
 		"quantity": 1,
 		"set_code": "hunt_campaign_expert_by_nugget",
 		"set_position": 2,
-		"text": "You cannot change form.\nAction: Exhaust your identity → discard Captured!",
+		"text": "You cannot change form.\n<b>Action</b>: Exhaust your identity → discard Captured!",
 		"type_code": "obligation"
 	},
 	{
@@ -543,7 +543,7 @@
 		"quantity": 1,
 		"set_code": "hunt_campaign_expert_by_nugget",
 		"set_position": 3,
-		"text": "Each minion engaged with you gains quickstrike.\n<b>Alter-Ego Action:</b> Discard a card from your hand → discard Hunted!",
+		"text": "Each minion engaged with you gains quickstrike.\n<b>Alter-Ego Action</b>: Discard a card from your hand → discard Hunted!",
 		"type_code": "obligation"
 	},
 	{
@@ -557,7 +557,7 @@
 		"quantity": 1,
 		"set_code": "hunt_campaign_expert_by_nugget",
 		"set_position": 4,
-		"text": "<b>When Revealed:</b> Choose to either spend a [energy] resource or take 2 damage.",
+		"text": "<b>When Revealed</b>: Choose to either spend a [energy] resource or take 2 damage.",
 		"type_code": "treachery"
 	}
 ]
