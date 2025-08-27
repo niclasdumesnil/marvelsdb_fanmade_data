@@ -2,7 +2,7 @@
     {
         "is_unique": true,
         "name": "Wyn",
-        "text": "<i>Avatar of Magic</i> \u2014 You may include [[cosmic entity ]]and [[spell ]]cards in your deck from aspects other than your chosen aspect.\n<b>Action</b>: Shuffle X [[cosmic entity ]]cards to a maximum of 5 from your removed-from-game area into your deck \u2192 draw X cards.",
+        "text": "You may include [[cosmic entity ]]and [[spell ]]cards from any aspect in your deck.\n<i>Renegotiate</i> \u2014 <b>Action</b>: Shuffle up to 3 [[cosmic entity ]]cards from your removed-from -game area into your deck \u2192 draw that many cards. (Limit once per round.)",
         "type_code": "alter_ego",
         "faction_code": "hero",
         "set_code": "ser_reddwyn_by_justatuna",
@@ -15,13 +15,12 @@
         "position": 1,
         "quantity": 1,
         "hidden": true,
-        "traits": "Mystic.",
-        "errata" : "added \"to a maximum of 5\" (Merlin)"
+        "traits": "Mystic."
     },
     {
         "is_unique": true,
         "name": "Ser Reddwyn",
-        "text": "<i>Cosmic Commune </i>\u2014 <b>Interrupt</b>: When a [[cosmic entity]] is drawn as a boost card, deal it to any player as an encounter card. (Limit once per phase.)\n<i>\u201cYou\u2019ve had the sugar, now here\u2019s the salt.\u201d</i>",
+        "text": "<i>Cosmic Ally </i>\u2014 <b>Response</b>: After a [[cosmic entity]] is turned faceup as a boost card, deal it to any player as a facedown encounter card. (Limit once per phase.)\n<i>\u201cYou\u2019ve had the sugar, now here\u2019s the salt.\u201d</i>",
         "type_code": "hero",
         "faction_code": "hero",
         "set_code": "ser_reddwyn_by_justatuna",
@@ -45,7 +44,6 @@
             ],
             "offset": "-35px -33px"
         },
-        "traits": "Mystic.",
         "deck_options": [
 			{
 				"trait": [
@@ -53,7 +51,8 @@
 					"cosmic entity"
 				]
 			}
-		]
+		],
+        "traits": "Mystic."
     },
     {
         "is_unique": true,

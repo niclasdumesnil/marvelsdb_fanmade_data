@@ -15,7 +15,7 @@
         "position": 1,
         "quantity": 1,
         "hidden": true,
-        "traits": "Mutant."
+        "traits": "New. Mutant."
     },
     {
         "is_unique": true,
@@ -44,7 +44,7 @@
             ],
             "offset": "-35px -33px"
         },
-         "deck_options": [
+        "deck_options": [
 			{
 				"limit": 5,
 				"ressource" : "resource_energy"
@@ -55,7 +55,7 @@
     {
         "is_unique": true,
         "name": "Prodigy",
-        "text": "<i>Mimic </i>\u2014 <b>Response</b>: After a character you control thwarts, Prodigy gets +1 THW until the end of the phase (to a maximum of +3 THW).",
+        "text": "<i>Mimic </i>\u2014 <b>Response</b>: After a character you control thwarts, Prodigy gets +1 THW until the end of the phase (to a maximum of +3 THW).\n<i>\u201cKnowledge isn't power. It's an intrinsic good. It betters the world simply by existing.\u201d</i>",
         "type_code": "ally",
         "faction_code": "hero",
         "set_code": "surge_by_xb",
@@ -112,7 +112,7 @@
     },
     {
         "name": "Haste",
-        "text": "<b>Hero Interrupt</b>: When the surge keyword on an encounter card would be resolved, exhaust Haste instead.",
+        "text": "<b>Hero Interrupt</b>: When the surge keyword on an encounter card would be resolved, exhaust Haste instead.\n<i>\u201c\u2018ScuseMe StepAsideComin\u2019 Through!\u201d</i>",
         "type_code": "upgrade",
         "faction_code": "hero",
         "set_code": "surge_by_xb",
@@ -180,7 +180,7 @@
     },
     {
         "name": "Situation Control",
-        "text": "<b>Hero Action </b><i>(thwart)</i>: Remove 3 threat from a scheme. You may exhaust an ally you control to remove 3 threat from a scheme.",
+        "text": "<b>Hero Action </b><i>(thwart)</i>: Remove 3 threat from a scheme. You may exhaust an ally you control to remove 3 threat from a scheme.\n<i>\u201cHave to find a way... My responsibility... My burden...\u201d\n</i>",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "surge_by_xb",
@@ -197,7 +197,7 @@
     },
     {
         "name": "Gather Energy",
-        "text": "<b>Hero Action</b>: Choose up to 3 cards with a printed [energy] resource in your discard pile not named Gather Energy and place them on the top of your deck.",
+        "text": "<b>Hero Action</b>: Choose up to 3 cards with a printed [energy] resource in your discard pile not named Gather Energy and place them on the top of your deck.\n<i>\u201cMy mutant powers let me absorb static electricity and \t\tthen discharge it whenever i want...\u201d</i>",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "surge_by_xb",
@@ -214,7 +214,7 @@
     },
     {
         "name": "Lead the Team",
-        "text": "<b>Hero Action</b>: Ready your identity. Return the topmost ally with a printed [energy] resource in your discard pile to your hand.",
+        "text": "<b>Hero Action</b>: Ready your identity. Return the topmost ally with a printed [energy] resource in your discard pile to your hand.\n<i>\u201cEverybody get ready!\u201d\n</i>",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "surge_by_xb",

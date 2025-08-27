@@ -14,7 +14,7 @@
     },
     {
         "name": "Bus Attack",
-        "text": "<b>Forced Response</b>: After you exhaust an [[x-men]] or [[mutant]] friendly character, deal 1 damage to that character.\n[crisis]",
+        "text": "<i>\u201cAssemble my purifiers. We have a bus to catch.\u201d \u2014Stryker\n</i><b>Forced Response</b>: After you exhaust an [[x-men]] or [[mutant]] friendly character, deal 1 damage to that character.\n[crisis]",
         "type_code": "side_scheme",
         "faction_code": "encounter",
         "set_code": "surge_by_xb_nemesis",
@@ -80,7 +80,7 @@
     },
     {
         "name": "Ambushed",
-        "text": "<b>When Revealed</b>: Choose to either take 3 damage, discard an ally you control, or exhaust and stun your identity.",
+        "text": "<b>When Revealed</b>: Choose to either take 3 damage, discard an ally you control, or exhaust and stun your identity.\n<i>\u201cThis can\u2019t be happening... This can\u2019t be...\u201d</i>",
         "type_code": "treachery",
         "faction_code": "encounter",
         "set_code": "surge_by_xb_nemesis",

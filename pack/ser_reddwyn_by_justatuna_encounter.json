@@ -1,7 +1,7 @@
 [
     {
         "name": "Avatar\u2019s Duty",
-        "text": "You may flip to alter-ego form. Choose:\nExhaust Wyn \u2192 remove Avatar\u2019s Duty from the game.\nPlace each [[cosmic entity ]]card from your removed-from-game area into your discard pile. This card gains surge.",
+        "text": "You may flip to alter-ego form. Choose:\nExhaust Wyn \u2192 remove Avatar\u2019s Duty from the game.\nDiscard 7 cards from the encounter deck. This card gains surge. Discard Avatar\u2019s Duty.",
         "type_code": "obligation",
         "faction_code": "encounter",
         "set_code": "ser_reddwyn_by_justatuna",
@@ -35,7 +35,7 @@
     },
     {
         "name": "Babylon Event",
-        "text": "<i>\u201cThat spell... Did I hear it incorrectly, or was that the beginning of an elder pantheon breach?\u201d -Jericho Drumm\n</i>Permanent.\n<b>Forced Response</b>: After threat is placed here, if there is at least 10 threat here, each player takes damage equal to half their printed hit points.",
+        "text": "<i>\u201cThat spell... Did I hear it incorrectly, or was that the beginning of an elder pantheon breach?\u201d -Jericho Drumm\n</i>Permanent.\n<b>Forced Response</b>: After threat is placed here, if there is at least 10 threat here, each player takes damage equal to half their printed hit points rounded down.",
         "type_code": "side_scheme",
         "faction_code": "encounter",
         "set_code": "ser_reddwyn_by_justatuna_nemesis",
@@ -52,7 +52,7 @@
     },
     {
         "name": "Advance the Ritual",
-        "text": "<b>When Revealed</b>: Choose: Either place 4 threat on Babylon Event, or deal yourself 2 encounter cards. \n[star] <b>Boost</b>: Choose: Either place 2 threat on Babylon Event, or this card gains [boost][boost].\n<i>\u201cRegrets are for the dream. You are awake now. Open your eyes.\u201d -Cubisk Core</i>",
+        "text": "<b>When Revealed</b>: Choose: Either place 4 threat on Babylon Event, or deal yourself 2 facedown encounter cards. \n[star] <b>Boost</b>: Choose: Either place 2 threat on Babylon Event, or this card gains [boost][boost].\n<i>\u201cRegrets are for the dream. You are awake now. Open your eyes.\u201d -Cubisk Core</i>",
         "type_code": "treachery",
         "faction_code": "encounter",
         "set_code": "ser_reddwyn_by_justatuna_nemesis",

@@ -341,7 +341,7 @@
 		"size": 18,
 		"status": "released",
 		"theme": "Marvel",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 2501,
@@ -353,7 +353,7 @@
 		"pack_type_code": "hero_fanmade",
 		"position": 2501,
 		"size": 18,
-		"status": "beta",
+		"status": "released",
 		"theme": "Marvel",
 		"visibility": "true"
 	},
@@ -498,7 +498,7 @@
 		"code": "iron_man_by_raytten",
 		"creator": "Raytten",
 		"date_release": "2025-08-18",
-		"name": "Iron Man",
+		"name": "Iron Man mk LXX",
 		"octgn_id": "da44c66c-7d4c-5891-aa96-f94905c42c0f",
 		"pack_type_code": "hero_fanmade",
 		"position": 2020,

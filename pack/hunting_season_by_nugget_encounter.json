@@ -675,6 +675,7 @@
 		"boost": 1,
 		"code": "500134",
 		"faction_code": "encounter",
+		"flavor": "Scorpion has caused a car crash to get your attention, and to get closer to J. Jonah Jameson.",
 		"name": "Luring Out Prey",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001034",
 		"pack_code": "hunting_season_by_nugget",
@@ -682,7 +683,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 17,
-		"text": "hinder 1[per_hero].",
+		"text": "hinder 1[per_hero]. (<i>When Revealed: Place an additional 1 per Player threat here</i>).\n[crisis]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1213,6 +1214,7 @@
 		"boost": 3,
 		"code": "500158",
 		"faction_code": "encounter",
+		"flavor": "The Lizard has telepathically activated the reptilian brains of civilians, turning them into his thralls.",
 		"name": "Wake Your Inner Lizard",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001058",
 		"pack_code": "hunting_season_by_nugget",
@@ -1220,7 +1222,7 @@
 		"quantity": 1,
 		"set_code": "lizard_thralls_by_nugget",
 		"set_position": 1,
-		"text": "Hinder 1[per_hero] (<i>When Revealed: Place an additionnal 1 per Player threat here</i>).\n<b>Forced Interrupt</b>: When the villain phase begins, search the encounter deck and the discard pile for a copy of Lizard Thrall and put it into play engaged with the first player.",
+		"text": "Hinder 1[per_hero] (<i>When Revealed: Place an additional 1 per Player threat here</i>).\n<b>Forced Interrupt</b>: When the villain phase begins, search the encounter deck and the discard pile for a copy of Lizard Thrall and put it into play engaged with the first player.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1307,8 +1309,10 @@
 		"attack": 2,
 		"code": "500163",
 		"faction_code": "encounter",
+		"flavor": "\"Vultures feast on the weak.\"",
 		"health": 13,
 		"health_per_hero": true,
+		"is_unique": true,
 		"name": "Vulture",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001063",
 		"pack_code": "hunting_season_by_nugget",
@@ -1318,6 +1322,7 @@
 		"set_code": "vulture_by_nugget",
 		"set_position": 1,
 		"stage": 1,
+		"text": "While Vulture has the <b><i>AERIAL</i></b> trait, as an additional cost to attack Vulture, the attacker or the attack must have the <b><i>AERIAL</i></b> trait, or the attack must have ranged.",
 		"traits": "Aerial. Criminal.",
 		"type_code": "villain"
 	},
@@ -1328,6 +1333,7 @@
 		"faction_code": "encounter",
 		"health": 16,
 		"health_per_hero": true,
+		"is_unique": true,
 		"name": "Vulture",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001064",
 		"pack_code": "hunting_season_by_nugget",
@@ -1337,6 +1343,7 @@
 		"set_code": "vulture_by_nugget",
 		"set_position": 2,
 		"stage": 2,
+		"text": "While Vulture has the <b><i>AERIAL</i></b> trait, as an additional cost to attack Vulture, the attacker or the attack must have the <b><i>AERIAL</i></b> trait, or the attack must have ranged.\n[star] <b>Forced Interrupt:</b> When Vulture attacks a character with less than half of their maximum hit points remaining, he gets +1 ATK for that attack.",
 		"traits": "Aerial. Criminal.",
 		"type_code": "villain"
 	},
@@ -1347,6 +1354,7 @@
 		"faction_code": "encounter",
 		"health": 19,
 		"health_per_hero": true,
+		"is_unique": true,
 		"name": "Vulture",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001065",
 		"pack_code": "hunting_season_by_nugget",
@@ -1356,6 +1364,7 @@
 		"set_code": "vulture_by_nugget",
 		"set_position": 3,
 		"stage": 3,
+		"text": "While Vulture has the <b><i>AERIAL</i></b> trait, as an additional cost to attack Vulture, the attacker or the attack must have the <b><i>AERIAL</i></b> trait, or the attack must have ranged.\n[star] <b>Forced Interrupt:</b> When Vulture attacks a character with less than half of their maximum hit points remaining, he gets +1 ATK for that attack.",
 		"traits": "Aerial. Criminal.",
 		"type_code": "villain"
 	},
@@ -1372,6 +1381,7 @@
 		"set_code": "vulture_by_nugget",
 		"set_position": 4,
 		"stage": 1,
+		"text": "<b>Contents:</b> Vulture (I) and Vulture (II). <i>(Vulture (II) and Vulture (III) instead for expert mode.)</i> Vulture and Standard encounter sets. One modular encounter set <i>(recomanded: Red Vulture)</i>.\n<b>Setup:</b> Search the encounter deck and discard pile for the S.H.I.E.L.D. Wingsuits environment and put it into play. Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1380,6 +1390,7 @@
 		"code": "500166b",
 		"escalation_threat": 1,
 		"faction_code": "encounter",
+		"flavor": "Vulture is flying around, assaulting people for no apparent reason. Catch him before the casualties become too severe.",
 		"hidden": true,
 		"name": "Aerial Mayhem",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001066",
@@ -1389,12 +1400,14 @@
 		"set_code": "vulture_by_nugget",
 		"set_position": 4,
 		"stage": 1,
+		"text": "<b>Forced Response:</b> After a character you control without the <b><i>AERIAL</i></b> trait thwarts and removes threat from this scheme, choose to either deal 1 damage to that character or place 1 threat on this scheme.\n<b>If the scheme is completed, the players lose the game.</b>",
 		"threat": 11,
 		"type_code": "main_scheme"
 	},
 	{
 		"code": "500167",
 		"faction_code": "encounter",
+		"flavor": "\"Your opponent refuses to come down from the sky. Use these to have a chance at attacking him.\" - S.H.I.E.L.D. Agent",
 		"name": "S.H.I.E.L.D. Wingsuits",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001067",
 		"pack_code": "hunting_season_by_nugget",
@@ -1402,6 +1415,7 @@
 		"quantity": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 5,
+		"text": "<b>Hero Action:</b> Spend a resource of any type → your hero and each ally you control gains the <b><i>AERIAL</i></b> trait until the end of the round.",
 		"type_code": "environment"
 	},
 	{
@@ -1412,6 +1426,7 @@
 		"code": "500168",
 		"faction_code": "encounter",
 		"health": 7,
+		"is_unique": true,
 		"name": "Armadillo",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001068",
 		"pack_code": "hunting_season_by_nugget",
@@ -1420,7 +1435,8 @@
 		"scheme": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 6,
-		"traits": "Criminal. Elite.Mutate.",
+		"text": "[star] <b>Forced Response:</b> After Armadillo attacks and damages a character, that character gains the <b><i>AERIAL</i></b> trait until the end of the round.\n[star] <b>Boost:</b> If this attack damages you, you gain the <b><i>AERIAL</i></b> trait until the end of the round.",
+		"traits": "Criminal. Elite. Mutate.",
 		"type_code": "minion"
 	},
 	{
@@ -1429,7 +1445,9 @@
 		"boost_star": true,
 		"code": "500169",
 		"faction_code": "encounter",
+		"flavor": "\"Sweetie, does this outfit make me look fat?\"",
 		"health": 4,
+		"is_unique": true,
 		"name": "White Rabbit",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001069",
 		"pack_code": "hunting_season_by_nugget",
@@ -1438,6 +1456,7 @@
 		"scheme": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 7,
+		"text": "[star] <b>Forced Response:</b> After White Rabbit attacks and damages you, if you don't have the <b><i>AERIAL</i></b> trait, discard a random card from your hand.\n[star] <b>Boost:</b> If this attack damages you, discard a card from your hand.",
 		"traits": "Criminal.",
 		"type_code": "minion"
 	},
@@ -1446,7 +1465,9 @@
 		"boost": 2,
 		"code": "500170",
 		"faction_code": "encounter",
+		"flavor": "\"I can't stand anybody laughing at me!\"",
 		"health": 4,
+		"is_unique": true,
 		"name": "Gibbon",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001070",
 		"pack_code": "hunting_season_by_nugget",
@@ -1455,6 +1476,7 @@
 		"scheme": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 8,
+		"text": "Guard.\n<b>Forced Interrupt:</b> When Gibbon would take any amount of damage, prevent 1 of that damage.",
 		"traits": "Criminal. Mutant.",
 		"type_code": "minion"
 	},
@@ -1469,12 +1491,15 @@
 		"quantity": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 9,
+		"text": "Attach to Vulture.\n[star] <b>Forced Interrupt:</b> When Vulture attacks a character with the <b><i>AERIAL</i></b> trait, he gets +1 ATK for that attack.\n<b>Hero Action:</b> Exhaust your hero and discard 2 cards from your hand → discard Wing Harness. Vulture loses the AERIAL trait until the end of the active player's turn.",
+		"traits": "Armor. Tech.",
 		"type_code": "attachment"
 	},
 	{
 		"boost": 2,
 		"code": "500172",
 		"faction_code": "encounter",
+		"flavor": "\"No struggling. It'll all be over soon.\" - Vulture",
 		"name": "Metal Talons",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001072",
 		"pack_code": "hunting_season_by_nugget",
@@ -1482,6 +1507,8 @@
 		"quantity": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 10,
+		"text": "Attach to Vulture.\nVulture gains retaliate 1.\n[star] <b>Forced Interrupt:</b> When Vulture attacks, the attack gains piercing.\n<b>Hero Response:</b> After you attack Vulture, discard a card from your hand → discard Metal Talons.",
+		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
 	{
@@ -1495,11 +1522,14 @@
 		"quantity": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 11,
+		"text": "Attach to Vulture.\n<b>Forced Interrupt:</b> When Vulture attacks you, discard Projectile Feathers and take 2 indirect damage (3 indirect damage instead if you have the <b><i>AERIAL</i></b> trait).\nHero Action: Spend [energy] e resources → Discard Projectile Feathers. Vultures loses the <b><i>AERIAL</i></b> trait until the end of the active player's turn.",
+		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
 	{
 		"code": "500174",
 		"faction_code": "encounter",
+		"flavor": "\"Uncle Vulture needs to have a chat with you!\" - Vulture",
 		"name": "Forcefully Elevated",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001074",
 		"pack_code": "hunting_season_by_nugget",
@@ -1507,6 +1537,7 @@
 		"quantity": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 13,
+		"text": "You gain the <b><i>AERIAL</i></b> trait. You cannot change to alter-ego form.\n<b>Forced Response:</b> After you attack Vulture, choose to either take 2 damage or spend [physical] resource. Discard Forcefully Elevated.",
 		"type_code": "obligation"
 	},
 	{
@@ -1515,6 +1546,7 @@
 		"boost": 1,
 		"code": "500175",
 		"faction_code": "encounter",
+		"flavor": "Vulture has picked up a civilian and threatens to drop them from the sky.",
 		"name": "Aerial Kidnapping",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001075",
 		"pack_code": "hunting_season_by_nugget",
@@ -1522,6 +1554,7 @@
 		"quantity": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 15,
+		"text": "Surge.\n<b>Forced Interrupt:</b> When the villain phase begins, place 3 threat on the main scheme and discard Aerial Kidnapping.\nWhen Defeated: Vulture loses the <b><i>AERIAL</i></b> trait until the end of the active player's turn.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1530,6 +1563,7 @@
 		"boost": 3,
 		"code": "500176",
 		"faction_code": "encounter",
+		"flavor": "Vulture lives up to his name by preying on the weak and wounded.",
 		"name": "A Feast for Vultures",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001076",
 		"pack_code": "hunting_season_by_nugget",
@@ -1537,12 +1571,14 @@
 		"quantity": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 16,
+		"text": "<b>When Revealed:</b> Place an additional 1 threat here for each character with less than half of their maximum hit points remaining.\n[hazard]",
 		"type_code": "side_scheme"
 	},
 	{
 		"boost": 1,
 		"code": "500177",
 		"faction_code": "encounter",
+		"flavor": "\"When will you learn? The air is my element!\" - Vulture",
 		"name": "Knocked Out of the Sky",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001077",
 		"pack_code": "hunting_season_by_nugget",
@@ -1550,6 +1586,7 @@
 		"quantity": 3,
 		"set_code": "vulture_by_nugget",
 		"set_position": 18,
+		"text": "Surge.\n<b>When Revealed:</b> If you have the <b><i>AERIAL</i></b> trait, you lose the <b><i>AERIAL</i></b> trait until the end of the round. If you lost the <b><i>AERIAL</i></b> trait this way, take 2 damage.",
 		"type_code": "treachery"
 	},
 	{
@@ -1564,6 +1601,7 @@
 		"quantity": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 21,
+		"text": "<b>When Revealed:</b> Stun your identity and discard 1 card from your hand. If you have the AERIAL trait, this card gains surge.\n[star] <b>Boost:</b> If the activating character has the <b><i>AERIAL</i></b> trait, it gets an additional boost card for this activation.",
 		"type_code": "treachery"
 	},
 	{
@@ -1577,6 +1615,7 @@
 		"quantity": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 23,
+		"text": "<b>When Revealed (Alter-Ego):</b> Vulture schemes. If you have less than half of your maximum hit points remaining, this card gains surge.\n<b>When Revealed (Hero):</b> Vulture attacks you. If you have less than half of your maximum hit points remaining, this card gains surge.",
 		"type_code": "treachery"
 	},
 	{
@@ -1585,9 +1624,10 @@
 		"boost": 3,
 		"code": "500180",
 		"faction_code": "encounter",
+		"flavor": "This blood-red version of Vulture spews acid on its prey before it feasts on it.",
 		"health": 4,
 		"is_unique": true,
-		"name": "Vulture",
+		"name": "Vulture (James Natale)",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001080",
 		"pack_code": "hunting_season_by_nugget",
 		"position": 80,
@@ -1595,7 +1635,7 @@
 		"scheme": 1,
 		"set_code": "red_vulture_by_nugget",
 		"set_position": 1,
-		"text": "Quickstrike. Villainous.",
+		"text": "Quickstrike. Villainous.\n[star] <b>Forced Response:</b> After Vulture (James Natale) attacks and damages you, discard cards from the top of your deck equal to the amount of damage you took.",
 		"traits": "Aerial. Mutate.",
 		"type_code": "minion"
 	},
@@ -1604,6 +1644,7 @@
 		"boost": 3,
 		"code": "500181",
 		"faction_code": "encounter",
+		"flavor": "A red vulture-like creature swoops down on you, abruptly interrupting your fight.",
 		"name": "The Red Vulture",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001081",
 		"pack_code": "hunting_season_by_nugget",
@@ -1611,6 +1652,7 @@
 		"quantity": 1,
 		"set_code": "red_vulture_by_nugget",
 		"set_position": 2,
+		"text": "<b>When Revealed:</b> Search the encounter deck and discard pile for Vulture (James Natale) and put it into play engaged with the identity with the least amount of hit points left.\n[acceleration]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1625,6 +1667,7 @@
 		"quantity": 2,
 		"set_code": "red_vulture_by_nugget",
 		"set_position": 3,
+		"text": "<b>When Revealed:</b> Discard the top 5 cards of the encounter deck. For each boost icon on the cards discarded this way, discard the top card of your deck.\n[star] <b>Boost:</b> After this attack, discard the top card of your deck for each damage you took from that attack.",
 		"type_code": "treachery"
 	},
 	{
@@ -1638,16 +1681,18 @@
 		"quantity": 2,
 		"set_code": "red_vulture_by_nugget",
 		"set_position": 5,
+		"text": "<b>When Revealed (Hero):</b> Vulture (James Natale) attacks your hero. If Vulture (James Natale) did not attack you this way, discard the top 6 cards of the encounter deck. If Vulture (James Natale) is in the encounter discard pile, put him in play engaged with you.",
 		"type_code": "treachery"
 	},
 	{
 		"attack": 2,
 		"code": "500184",
 		"faction_code": "encounter",
+		"flavor": "\"The stupid, lumbering herd, trundles right into my trap!\"",
 		"health": 15,
 		"health_per_hero": true,
 		"is_unique": true,
-		"name": "Kraven the Hunter",
+		"name": "Kraven The Hunter",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001084",
 		"pack_code": "hunting_season_by_nugget",
 		"position": 84,
@@ -1656,6 +1701,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 1,
 		"stage": 1,
+		"text": "<b>Forced Interrupt:</b> When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit once per round per player.)",
 		"traits": "Mercenary. Hunter.",
 		"type_code": "villain"
 	},
@@ -1666,7 +1712,7 @@
 		"health": 17,
 		"health_per_hero": true,
 		"is_unique": true,
-		"name": "Kraven the Hunter",
+		"name": "Kraven The Hunter",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001085",
 		"pack_code": "hunting_season_by_nugget",
 		"position": 85,
@@ -1675,6 +1721,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 2,
 		"stage": 2,
+		"text": "<b>When Revealed:</b> Search the encounter deck and discard pile for the Tooth Necklace attachment and reveal it.\n<b>Forced Interrupt:</b> When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit once per round per player.)",
 		"traits": "Mercenary. Hunter.",
 		"type_code": "villain"
 	},
@@ -1685,7 +1732,7 @@
 		"health": 19,
 		"health_per_hero": true,
 		"is_unique": true,
-		"name": "Kraven the Hunter",
+		"name": "Kraven The Hunter",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001086",
 		"pack_code": "hunting_season_by_nugget",
 		"position": 86,
@@ -1694,6 +1741,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 3,
 		"stage": 3,
+		"text": "<b>When Revealed:</b> Deal each player a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.\n<b>Forced Interrupt:</b> When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit twice per round per player.)",
 		"traits": "Mercenary. Hunter.",
 		"type_code": "villain"
 	},
@@ -1702,6 +1750,7 @@
 		"back_link": "500187b",
 		"code": "500187a",
 		"faction_code": "encounter",
+		"flavor": "You've caught Sergei Kravinoff's attention, and now he is hunting you.",
 		"name": "Acquiring Targets",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001087",
 		"pack_code": "hunting_season_by_nugget",
@@ -1710,6 +1759,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 4,
 		"stage": 1,
+		"text": "<b>Contents:</b> Kraven The Hunter (I) and Kraven The Hunter (II). <i>(Kraven The Hunter (II) and Kraven The Hunter (III) instead for expert mode.)</i> Kraven The Hunter and Standard encounter sets. Trap Deck. One modular encounter set <i>(recommended: Savage Six)</i>.\n<b>Setup:</b> Kraven The Hunter starts the game with a separate <b><i>TRAP</i></b> deck. (See insert.) Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1719,6 +1769,7 @@
 		"code": "500187b",
 		"escalation_threat": 1,
 		"faction_code": "encounter",
+		"flavor": "Kraven is tracking you down. Shake him off your trail!",
 		"hidden": true,
 		"name": "Acquiring Targets",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001087",
@@ -1728,6 +1779,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 4,
 		"stage": 1,
+		"text": "<b>Forced Interrupt:</b> When you flip to hero form, place 2 threat here.\n<b>Forced Response:</b> After you flip to alter-ego form, remove 1 threat from this scheme.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1735,6 +1787,7 @@
 		"back_link": "500188b",
 		"code": "500188a",
 		"faction_code": "encounter",
+		"flavor": "He's got you now. Fight or Flight!",
 		"name": "The Great Hunt",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001088",
 		"pack_code": "hunting_season_by_nugget",
@@ -1743,6 +1796,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 5,
 		"stage": 2,
+		"text": "<b>When Revealed:</b> Search the encounter deck and discard pile for the Calypso Serum side scheme and reveal it. Shuffle the encounter deck. Advance to stage 2B.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1752,6 +1806,7 @@
 		"code": "500188b",
 		"escalation_threat": 1,
 		"faction_code": "encounter",
+		"flavor": "Kraven has tracked you down and is not letting you go until you have been culled.",
 		"hidden": true,
 		"name": "The Great Hunt",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001088",
@@ -1761,6 +1816,7 @@
 		"set_code": "kraven_by_nugget",
 		"set_position": 5,
 		"stage": 2,
+		"text": "<b>Forced Response:</b> After a <b><i>TRAP</i></b> card is revealed, place 1 threat here. (Limit one per player per round.)\n<b>If this stage is completed, the players have been hunted and therefore lose the game.</b>",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1779,6 +1835,7 @@
 		"scheme": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 6,
+		"text": "Forced Interrupt: When a character you control attacks Last Son of Kraven, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. (Limit once per round.)\n[star] <b>Boost:</b> After this activation ends, shuffle this card into the encounter deck.",
 		"traits": "Mercenary. Hunter. Elite.",
 		"type_code": "minion"
 	},
@@ -1797,6 +1854,7 @@
 		"scheme": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 7,
+		"text": "Chameleon cannot take damage.\n[star] <b>Forced Interrupt:</b> When Chameleon would attack, he schemes instead.\n<b>Forced Interrupt:</b> When an enemy would be defeated, discard Chameleon instead.",
 		"traits": "Criminal.",
 		"type_code": "minion"
 	},
@@ -1804,6 +1862,7 @@
 		"boost": 2,
 		"code": "500191",
 		"faction_code": "encounter",
+		"flavor": "\"Head's pounding, like someone's playing drums inside my brain.\" - Spider-Man",
 		"name": "Poisoned Dagger",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001091",
 		"pack_code": "hunting_season_by_nugget",
@@ -1811,12 +1870,15 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 8,
+		"text": "Attach to Kraven the Hunter.\n[star] <b>Forced Response:</b> After Kraven The Hunter attacks and damages a character, confuse that character.\n<b>Interrupt</b>: When you attack Kraven The Hunter, discard a random card from your hand → discard Poisoned Dagger.",
+		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
 	{
 		"boost": 2,
 		"code": "500192",
 		"faction_code": "encounter",
+		"flavor": "\"I'll be head to heels in blood tonight.\" - Kraven The Hunter",
 		"is_unique": true,
 		"name": "Kraven's Spear",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001092",
@@ -1825,12 +1887,15 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 9,
+		"text": "Attach to Kraven The Hunter.\nKraven The Hunter gains retaliate 1.\n<b>Interrupt:</b> When you attack Kraven The Hunter, deal 3 damage to your identity → discard Kraven's Spear.",
+		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
 	{
 		"boost": 2,
 		"code": "500193",
 		"faction_code": "encounter",
+		"flavor": "KRA-KOOM!",
 		"name": "Hunting Rifle",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001093",
 		"pack_code": "hunting_season_by_nugget",
@@ -1838,6 +1903,8 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 10,
+		"text": "Attach to Kraven The Hunter.\n[star] Forced Response: After Kraven The Hunter attacks you and doesn't damages you, take 1 damage.\nInterrupt: When you attack Kraven The Hunter, spend any 2 resources → discard Hunting Rifle.",
+		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
 	{
@@ -1851,6 +1918,8 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 11,
+		"text": "Attach to Kraven The Hunter.\n[star] <b>Forced Response:</b> After Kraven The Hunter schemes, search the encounter deck and discard pile for a <b><i>WEAPON</i></b> attachment and reveal it.\n<b>Interrupt:</b> When you attack Kraven The Hunter, place 2[per_hero] threat on the main scheme → discard Tooth Necklace",
+		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
 	{
@@ -1859,6 +1928,7 @@
 		"boost": 3,
 		"code": "500195",
 		"faction_code": "encounter",
+		"flavor": "Kraven gets his powers from the mysterious Calypso serum which is made up of jungle herbs and plants.",
 		"name": "The Calypso Serum",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001095",
 		"pack_code": "hunting_season_by_nugget",
@@ -1866,7 +1936,7 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 12,
-		"text": "hinder 1[per_hero].",
+		"text": "hinder 1[per_hero] (<i>When Revealed: Place an additional 1 per Player threat here</i>).\nEach enemy gets +1 SCH and +1 ATK.\n[hazard]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1875,6 +1945,7 @@
 		"boost": 2,
 		"code": "500196",
 		"faction_code": "encounter",
+		"flavor": "Kraven has released toxic gas that is surrounding everyone in the area. Due to his resistance to toxins, the gas doesn't affect him.",
 		"name": "Toxic Gas",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001096",
 		"pack_code": "hunting_season_by_nugget",
@@ -1882,7 +1953,7 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 13,
-		"text": "Hinder 1 per player (<i>When Revealed: Place an additionnal 1 per Player threat here</i>).",
+		"text": "Hinder 1[per_hero] (<i>When Revealed: Place an additional 1 per Player threat here</i>).\nEach friendly character gets -1 ATK.\n[acceleration]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1896,12 +1967,14 @@
 		"quantity": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 14,
+		"text": "<b>When Revealed:</b> Kraven The Hunter attacks you. If you are in alter-ego form, do not give the villain a boost card for this activation. If you have a <b><i>TRAP</i></b> attachment attached to you, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.\n[star] Boost: Deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.",
 		"type_code": "treachery"
 	},
 	{
 		"boost": 1,
 		"code": "500198",
 		"faction_code": "encounter",
+		"flavor": "\"Tonight!\" - Kraven The Hunter",
 		"name": "The Hunt Begins",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001098",
 		"pack_code": "hunting_season_by_nugget",
@@ -1909,12 +1982,14 @@
 		"quantity": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 16,
+		"text": "<b>When Revealed:</b> Discard X cards from the encounter deck where X is equal to triple the villain's stage number. Reveal the first <b><i>ITEM</i></b> or <b><i>WEAPON</i></b> attachment that was discarded this way. If no attachments were revealed this way, deal yourself a TRAP card from the TRAP deck.",
 		"type_code": "treachery"
 	},
 	{
 		"boost": 1,
 		"code": "500199",
 		"faction_code": "encounter",
+		"flavor": "\"You'll make such a better sport than those dumb lumbering things.\" - Kraven The Hunter",
 		"name": "Big Game Hunter",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001099",
 		"pack_code": "hunting_season_by_nugget",
@@ -1922,6 +1997,7 @@
 		"quantity": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 18,
+		"text": "<b>When Revealed:</b> Kraven The Hunter attacks the hero with the highest printed hit points. Other characters cannot defend against this attack. If no attacks ware made this way, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.",
 		"type_code": "treachery"
 	},
 	{
@@ -1935,6 +2011,7 @@
 		"quantity": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 20,
+		"text": "<b>When Revealed:</b> Deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Place 1 threat on the main scheme for each <b><i>TRAP</i></b> card dealt to you.\n[star] Boost: If you have 1 or more <b><i>TRAP</i></b> cards dealt to you, place 1 threat on the main scheme.",
 		"type_code": "treachery"
 	},
 	{
@@ -1942,6 +2019,7 @@
 		"attack_star": true,
 		"code": "500201",
 		"faction_code": "encounter",
+		"flavor": "RAWR!",
 		"health": 2,
 		"name": "Ferocious Lion",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001101",
@@ -1951,6 +2029,7 @@
 		"scheme": 0,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 1,
+		"text": "[star] While Ferocious Lion is attacking, it gets +1 ATK if the attack is undefended.\n<b>Forced Response:</b> After a character the engaged player controls attacks Kraven The Hunter, Ferocious Lion attacks the engaged player.",
 		"traits": "Trap. Animal.",
 		"type_code": "minion"
 	},
@@ -1959,6 +2038,7 @@
 		"attack_star": true,
 		"code": "500202",
 		"faction_code": "encounter",
+		"flavor": "RAOAOWR!",
 		"health": 2,
 		"name": "Fierce Cheetah",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001102",
@@ -1968,6 +2048,7 @@
 		"scheme": 0,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 3,
+		"text": "[star] Fierce Cheetah's attacks gain piercing.\n<b>Forced Response:</b> After a character the engaged player controls attacks Kraven The Hunter, Fierce Cheetah attacks the engaged player.",
 		"traits": "Trap. Animal.",
 		"type_code": "minion"
 	},
@@ -1981,6 +2062,7 @@
 		"quantity": 2,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 5,
+		"text": "Choose to either exhaust your identity or attach Bear Trap to your identity. If your identity was exhausted this way, discard Bear Trap.\n<b>Forced Interrupt:</b> When the hero phase ends, you take 1 damage.\n<b>Action:</b> Spend a [physical] resource and take 2 damage → discard Bear Trap.",
 		"traits": "Trap.",
 		"type_code": "attachment"
 	},
@@ -1994,6 +2076,7 @@
 		"quantity": 2,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 7,
+		"text": "Choose to either exhaust your identity or attach Capture Net to your identity. If your identity was exhausted this way, discard Capture Net.\n<b>Forced Interrupt:</b> When the hero phase ends, spend a [physical] resource or exhaust your identity.\nAction: When you would attack, spend a [physical] resource → discard Capture Net instead.",
 		"traits": "Trap.",
 		"type_code": "attachment"
 	},
@@ -2007,12 +2090,14 @@
 		"quantity": 2,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 9,
+		"text": "Choose to either exhaust your identity or attach Quicksand to your identity. If your identity was exhausted this way, discard Quicksand.\n<b>Interrupt:</b> When you play an event, cancel the effects of that event and discard it → discard Quicksend.",
 		"traits": "Trap.",
 		"type_code": "attachment"
 	},
 	{
 		"code": "500206",
 		"faction_code": "encounter",
+		"flavor": "\"I feel it's my duty to put you out of your misery so that you cannot sully your legacy any further.\" - Kraven The Hunter",
 		"name": "Tranquilizer Darts",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001106",
 		"pack_code": "hunting_season_by_nugget",
@@ -2020,12 +2105,14 @@
 		"quantity": 3,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 11,
+		"text": "<b>When Revealed:</b> Choose to either spend a [mental] resource or confuse your identity. If you cannot, take 1 damage.",
 		"traits": "Trap.",
 		"type_code": "treachery"
 	},
 	{
 		"code": "500207",
 		"faction_code": "encounter",
+		"flavor": "\"I'd set that trap for a different trophy, but your head will do fine.\" - Kraven The Hunter",
 		"name": "Swinging Boulder",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001107",
 		"pack_code": "hunting_season_by_nugget",
@@ -2033,6 +2120,7 @@
 		"quantity": 3,
 		"set_code": "kraven_trap_by_nugget",
 		"set_position": 14,
+		"text": "<b>When Revealed:</b> Choose one:\n• Exhaust your identity.\n• Discard an ally you control.\n• Discard an upgrade you control.\n• You take 3 damage.",
 		"traits": "Trap.",
 		"type_code": "treachery"
 	},
@@ -2041,6 +2129,7 @@
 		"boost": 3,
 		"code": "500208",
 		"faction_code": "encounter",
+		"flavor": "Animal-themed super villains flocked together to form the Savage Six!",
 		"name": "The Savage Six",
 		"octgn_id": "a1825670-a77e-4e37-89e8-9e629b001108",
 		"pack_code": "hunting_season_by_nugget",
@@ -2048,6 +2137,7 @@
 		"quantity": 1,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 1,
+		"text": "<b>When Revealed:</b> Each <b><i>SAVAGE SIX</i></b> minion attacks the hero it is engaged with. If no attacks were made this way, search the encounter deck and discard pile for a <b><i>SAVAGE SIX</i></b> minion and put it into play engaged with the first player.\n[acceleration]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -2067,6 +2157,7 @@
 		"scheme": 2,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 2,
+		"text": "[star] <b>Forced Response:</b> After Vulture attacks you, deal yourself an encounter card. Then, shuffle Vulture into the encounter deck.\n[star] <b>Boost:</b> After this activation ends, shuffle this card into the encounter deck.",
 		"traits": "Aerial. Criminal. Savage Six.",
 		"type_code": "minion"
 	},
@@ -2077,6 +2168,7 @@
 		"boost_star": true,
 		"code": "500210",
 		"faction_code": "encounter",
+		"flavor": "\"Nobody ever accused The Rhino of good manners.\"",
 		"health": 6,
 		"is_unique": true,
 		"name": "Rhino",
@@ -2087,6 +2179,7 @@
 		"scheme": 1,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 3,
+		"text": "[star] Rhino's attacks gain overkill.\n<b>Forced Interrupt:</b> When the villain phase ends, give Rhino a tough status card.\n[star] <b>Boost:</b> This attack gains overkill.",
 		"traits": "Criminal. Elite. Savage Six.",
 		"type_code": "minion"
 	},
@@ -2108,6 +2201,7 @@
 		"scheme_star": true,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 4,
+		"text": "[star] Scorpion gets +1 SCH while the identity he is engaged with is stunned.\n[star] <b>Forced Response:</b> After Scorpion attacks and damages a character, that character is stunned.\n[star] <b>Boost:</b> This card gets +1 boost icon ( [boost] ) if you are stunned.",
 		"traits": "Criminal. Elite. Savage Six.",
 		"type_code": "minion"
 	},
@@ -2129,6 +2223,7 @@
 		"scheme_star": true,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 5,
+		"text": "[star] Tarantula gets +1 ATK while the identity he is engaged with is confused.\n[star] <b>Forced Response:</b> After Tarantula attacks and damages a character, that character is confused.\n[star] <b>Boost:</b> This card gets +1 boost icon ( [boost] ) if you are confused.",
 		"traits": "Criminal. Savage Six.",
 		"type_code": "minion"
 	},
@@ -2138,6 +2233,7 @@
 		"boost_star": true,
 		"code": "500213",
 		"faction_code": "encounter",
+		"flavor": "\"Sssssssss\"",
 		"health": 5,
 		"is_unique": true,
 		"name": "King Cobra",
@@ -2148,6 +2244,7 @@
 		"scheme": 2,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 6,
+		"text": "While King Cobra is engaged with you, your hero cannot attack other enemies.\n[star] <b>Boost:</b> If this attacks deals damage to you, exhaust your identity.",
 		"traits": "Savage Six. Serpent Society.",
 		"type_code": "minion"
 	},
@@ -2168,6 +2265,7 @@
 		"scheme_star": true,
 		"set_code": "savage_six_by_nugget",
 		"set_position": 7,
+		"text": "[star] Stegron gets +1 SCH for each <b><i>SAVAGE SIX</i></b> enemy in play (max +4 SCH).\n<b>Forced Response:</b> After Stegron enters play, he schemes.\n[star] <b>Boost:</b> This card card gets +1 boost icon ( [boost] ) if at least one <b><i>SAVAGE SIX</i></b> minion is in play.",
 		"traits": "Reptile. Savage Six.",
 		"type_code": "minion"
 	}
