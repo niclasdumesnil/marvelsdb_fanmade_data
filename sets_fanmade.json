@@ -365,22 +365,22 @@
     "code": "alpha_flight_by_hax",
     "name": "Alpha Flight by Hax",
     "card_set_type_code": "hero"
-  },
-  {
-    "code": "alpha_flight_by_hax_nemesis",
-    "name": "Alpha Flight by Hax Nemesis",
-    "card_set_type_code": "nemesis"
-  },
-  {
-    "code": "snowbird_by_hax",
-    "name": "Snowbird by Hax",
-    "card_set_type_code": "hero"
-  },
-  {
-    "code": "manifold_by_bluehg",
-    "name": "Manifold by BlueHG",
-    "card_set_type_code": "hero"
-  },
+    },
+    {
+        "code": "alpha_flight_by_hax_nemesis",
+        "name": "Alpha Flight by Hax Nemesis",
+        "card_set_type_code": "nemesis"
+    },
+    {
+        "code": "snowbird_by_hax",
+        "name": "Snowbird by Hax",
+        "card_set_type_code": "hero"
+    },
+    {
+        "code": "manifold_by_bluehg",
+        "name": "Manifold by BlueHG",
+        "card_set_type_code": "hero"
+    },
     {
         "code": "manifold_by_bluehg_nemesis",
         "name": "Manifold by BlueHG Nemesis",
@@ -419,6 +419,16 @@
     {
         "code": "iron_man_by_raytten",
         "name": "Iron Man by Raytten",
+        "card_set_type_code": "hero"
+    },
+     {
+        "code": "spider-man_noir_by_merlin_nemesis",
+        "name": "Spider-Man Noir by Merlin Nemesis",
+        "card_set_type_code": "nemesis"
+    },
+    {
+        "code": "spider-man_noir_by_merlin",
+        "name": "Spider-Man Noir by Merlin",
         "card_set_type_code": "hero"
     }
 

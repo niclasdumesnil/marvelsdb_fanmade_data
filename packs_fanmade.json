@@ -506,5 +506,20 @@
 		"status": "beta",
 		"theme": "Marvel",
 		"language": "fr"
+	},
+	{
+		"cgdb_id": 2102,
+		"code": "spider-man_noir_by_merlin",
+		"date_release": "2025-04-06",
+		"name": "Spider-Man Noir",
+		"octgn_id": "7f59dfc0-ebe6-572b-bdb0-e58e87aca1c1",
+		"pack_type_code": "hero_fanmade",
+		"position": 2102,
+		"visibility": "false",
+		"creator": "Merlin",
+		"status": "released",
+		"size": 18,
+		"theme": "Marvel",
+		"language": "fr"
 	}
 ]
