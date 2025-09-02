@@ -1,438 +1,447 @@
 [
-	       
-    {
-        "code": "madripoor's_dragon_by_merlin",
-        "name": "Attack on Madripoor by Merlin",
-        "card_set_type_code": "villain"
-    },
-    {
-        "code": "iron_man_noir_by_merlin_nemesis",
-        "name": "Iron Man Noir by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "iron_man_noir_by_merlin",
-        "name": "Iron Man Noir by Merlin",
-        "card_set_type_code": "hero"
-    },
-
-    {
-        "code": "mystique_by_merlin_nemesis",
-        "name": "Mystique by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "mystique_by_merlin",
-        "name": "Mystique by Merlin",
-        "card_set_type_code": "hero"
-    }, 
-    {
-        "code": "destiny_by_merlin_nemesis",
-        "name": "Destiny by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "destiny_by_merlin",
-        "name": "Destiny by Merlin",
-        "card_set_type_code": "hero"
-    },
-         
-    {
-        "code": "joe_fixit_by_merlin_nemesis",
-        "name": "Joe Fixit by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "joe_fixit_by_merlin",
-        "name": "Joe Fixit by Merlin",
-        "card_set_type_code": "hero"
-    },
-
-    {
-        "code": "superior_iron_man_by_merlin_nemesis",
-        "name": "Superior Iron Man by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "superior_iron_man_by_merlin",
-        "name": "Superior Iron Man by Merlin",
-        "card_set_type_code": "hero"
-    },
-   
-    {
-        "code": "ghost_panther_by_merlin_nemesis",
-        "name": "Ghost Panther by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "ghost_panther_by_merlin",
-        "name": "Ghost Panther by Merlin",
-        "card_set_type_code": "hero"
-    },
-     {
-        "code": "rom_by_alias_&_merlin_nemesis",
-        "name": "Rom by Alias_&_Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "rom_by_alias_&_merlin",
-        "name": "Rom by Alias_&_Merlin",
-        "card_set_type_code": "hero"
-    },
- {
-        "code": "red_hulk_by_merlin_nemesis",
-        "name": "Red Hulk by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "red_hulk_by_merlin",
-        "name": "Red Hulk by Merlin",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "weapon_hex_by_merlin_nemesis",
-        "name": "Weapon Hex by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "weapon_hex_by_merlin",
-        "name": "Weapon Hex by Merlin",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "mantis_by_bluehg_nemesis",
-        "name": "Mantis by BLUEHG Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "mantis_by_bluehg",
-        "name": "Mantis by BLUEHG",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "rescue_by_rainy_nemesis",
-        "name": "Rescue by Rainy Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "rescue_by_rainy",
-        "name": "Rescue by Rainy",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "spider-man_by_rainy_nemesis",
-        "name": "Spider-Man by Rainy Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "spider-man_by_rainy",
-        "name": "Spider-Man by Rainy",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "iron_fist_by_merlin_nemesis",
-        "name": "Iron Fist by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "iron_fist_by_merlin",
-        "name": "Iron Fist by Merlin",
-        "card_set_type_code": "hero"
-    },
-
-    {
-        "code": "moon_knight_by_hax",
-        "name": "moon_knight_by_hax",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "moon_knight_by_hax_nemesis",
-        "name": "moon_knight_by_hax_nemesis",
-        "card_set_type_code": "nemesis"
-    },
-     {
-        "code": "blink_by_kajislav_nemesis",
-        "name": "Blink by Kajislav Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "blink_by_kajislav",
-        "name": "Blink by Kajislav",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "ghost_rider_by_swept_&_jiub_nemesis",
-        "name": "Ghost Rider by Swept_&_Jiub Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "ghost_rider_by_swept_&_jiub",
-        "name": "Ghost Rider by Swept_&_Jiub",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "lyja_by_kajislav_nemesis",
-        "name": "Lyja by Kajislav Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "lyja_by_kajislav",
-        "name": "Lyja by Kajislav",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "polaris_by_jackhkp_nemesis",
-        "name": "Polaris by JackHKP Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "polaris_by_jackhkp",
-        "name": "Polaris by JackHKP",
-        "card_set_type_code": "hero"
-    },
-
-    {
-        "code": "yondu_by_hax_nemesis",
-        "name": "Yondu by hax Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "yondu_by_hax",
-        "name": "yondu by Hax & Blue HG",
-        "card_set_type_code": "hero"
-    },
-     {
-        "code": "stanlee_by_ekaugust",
-        "name": "Stan Lee by ekaugust",
-        "card_set_type_code": "hero"
-    },
-      {
-        "code": "sentry_by_transience_nemesis",
-        "name": "Sentry by Transience Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "sentry_by_transience",
-        "name": "Sentry by Transience",
-        "card_set_type_code": "hero"
-    },
-     {
-        "code": "ser_reddwyn_by_justatuna_nemesis",
-        "name": "Ser Reddwyn by JustATuna Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "ser_reddwyn_by_justatuna",
-        "name": "Ser Reddwyn by JustATuna",
-        "card_set_type_code": "hero"
-    },
-     {
-        "code": "surge_by_xb_nemesis",
-        "name": "Surge by XB Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "surge_by_xb",
-        "name": "Surge by XB",
-        "card_set_type_code": "hero"
-    },
-     {
-        "code": "graviton_by_xb",
-        "name": "Graviton by XB",
-        "card_set_type_code": "villain"
-    },
-    {
-        "code": "dark_matter_by_xb",
-        "name": "Dark Matter by XB",
-        "card_set_type_code": "modular"
-    },
-    {
-        "code": "ms_marvel_by_cptscorp_&_rycoran_nemesis",
-        "name": "Ms. Marvel by CptScorp_&_RyCoRan Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "ms_marvel_by_cptscorp_&_rycoran",
-        "name": "Ms. Marvel by CptScorp_&_RyCoRan",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "agent_of_shield_by_merlin_nemesis",
-        "name": "Agent Of S.H.I.E.L.D. by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "agent_of_shield_by_merlin",
-        "name": "Agent Of S.H.I.E.L.D. by Merlin",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "asset_of_shield_by_merlin",
-        "name": "Asset Of S.H.I.E.L.D. by Merlin",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "wasp_by_jackhkp_nemesis",
-        "name": "Wasp by JackHKP Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "wasp_by_jackhkp",
-        "name": "Wasp by JackHKP",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "feral_instincts_by_nugget",
-        "name": "Feral Instincts by Nugget",
-        "card_set_type_code": "modular"
-    },
-    {
-        "code": "scorpion_by_nugget",
-        "name": "Scorpion by Nugget",
-        "card_set_type_code": "villain"
-    },
-     {
-        "code": "vermin_by_nugget",
-        "name": "Vermin by Nugget",
-        "card_set_type_code": "villain"
-    },
-    {
-        "code": "lizard_by_nugget",
-        "name": "Lizard by Nugget",
-        "card_set_type_code": "villain"
-    },
-    {
-        "code": "lizard_thralls_by_nugget",
-        "name": "Lizard Thralls by Nugget",
-        "card_set_type_code": "modular"
-    },
-    {
-        "code": "vulture_by_nugget",
-        "name": "Vulture by Nugget",
-        "card_set_type_code": "villain"
-    },
-    {
-        "code": "red_vulture_by_nugget",
-        "name": "Red Vulture by Nugget",
-        "card_set_type_code": "modular"
-    }, 
-    {   
-        "code": "kraven_by_nugget",
-        "name": "Kraven by Nugget",
-        "card_set_type_code": "villain"
-    },
-    {
-        "code": "kraven_trap_by_nugget",
-        "name": "Kraven Trap by Nugget",
-        "card_set_type_code": "modular"
-    },
-    {
-        "code": "savage_six_by_nugget",
-        "name": "Savage Six by Nugget",
-        "card_set_type_code": "modular"
-    },
-    {
-        "code": "hunter_mode_by_nugget",
-        "name": "Hunter Mode by Nugget",
-        "card_set_type_code": "modular"
-    },
-    {
-        "code": "the_lodge-campaign_by_nugget",
-        "name": "The Lodge-Campaign by Nugget",
-        "card_set_type_code": "modular"
-    },
-    {
-        "code": "hunt_campaign_expert_by_nugget",
-        "name": "The Hunt-Campaign Expert by Nugget",
-        "card_set_type_code": "modular"
-    },
-    {
-        "code": "hunt_campaign_by_nugget",
-        "name": "The Hunt-Campaign by Nugget",
-        "card_set_type_code": "modular"
-    },
-     {
-        "code": "tigra",
-        "name": "Tigra",
-        "card_set_type_code": "hero"
-    },
-     {
-        "code": "hulking",
-        "name": "Hulking",
-        "card_set_type_code": "hero"
-    },
-    {
+  {
+    "code": "madripoor's_dragon_by_merlin",
+    "name": "Attack on Madripoor by Merlin",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "iron_man_noir_by_merlin_nemesis",
+    "name": "Iron Man Noir by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "iron_man_noir_by_merlin",
+    "name": "Iron Man Noir by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "mystique_by_merlin_nemesis",
+    "name": "Mystique by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "mystique_by_merlin",
+    "name": "Mystique by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "destiny_by_merlin_nemesis",
+    "name": "Destiny by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "destiny_by_merlin",
+    "name": "Destiny by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "joe_fixit_by_merlin_nemesis",
+    "name": "Joe Fixit by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "joe_fixit_by_merlin",
+    "name": "Joe Fixit by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "superior_iron_man_by_merlin_nemesis",
+    "name": "Superior Iron Man by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "superior_iron_man_by_merlin",
+    "name": "Superior Iron Man by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "ghost_panther_by_merlin_nemesis",
+    "name": "Ghost Panther by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "ghost_panther_by_merlin",
+    "name": "Ghost Panther by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "rom_by_alias_&_merlin_nemesis",
+    "name": "Rom by Alias_&_Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "rom_by_alias_&_merlin",
+    "name": "Rom by Alias_&_Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "red_hulk_by_merlin_nemesis",
+    "name": "Red Hulk by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "red_hulk_by_merlin",
+    "name": "Red Hulk by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "weapon_hex_by_merlin_nemesis",
+    "name": "Weapon Hex by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "weapon_hex_by_merlin",
+    "name": "Weapon Hex by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "mantis_by_bluehg_nemesis",
+    "name": "Mantis by BLUEHG Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "mantis_by_bluehg",
+    "name": "Mantis by BLUEHG",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "rescue_by_rainy_nemesis",
+    "name": "Rescue by Rainy Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "rescue_by_rainy",
+    "name": "Rescue by Rainy",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "spider-man_by_rainy_nemesis",
+    "name": "Spider-Man by Rainy Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "spider-man_by_rainy",
+    "name": "Spider-Man by Rainy",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "iron_fist_by_merlin_nemesis",
+    "name": "Iron Fist by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "iron_fist_by_merlin",
+    "name": "Iron Fist by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "moon_knight_by_hax",
+    "name": "moon_knight_by_hax",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "moon_knight_by_hax_nemesis",
+    "name": "moon_knight_by_hax_nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "blink_by_kajislav_nemesis",
+    "name": "Blink by Kajislav Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "blink_by_kajislav",
+    "name": "Blink by Kajislav",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "ghost_rider_by_swept_&_jiub_nemesis",
+    "name": "Ghost Rider by Swept_&_Jiub Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "ghost_rider_by_swept_&_jiub",
+    "name": "Ghost Rider by Swept_&_Jiub",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "lyja_by_kajislav_nemesis",
+    "name": "Lyja by Kajislav Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "lyja_by_kajislav",
+    "name": "Lyja by Kajislav",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "polaris_by_jackhkp_nemesis",
+    "name": "Polaris by JackHKP Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "polaris_by_jackhkp",
+    "name": "Polaris by JackHKP",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "yondu_by_hax_nemesis",
+    "name": "Yondu by hax Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "yondu_by_hax",
+    "name": "yondu by Hax & Blue HG",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "stanlee_by_ekaugust",
+    "name": "Stan Lee by ekaugust",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "sentry_by_transience_nemesis",
+    "name": "Sentry by Transience Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "sentry_by_transience",
+    "name": "Sentry by Transience",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "ser_reddwyn_by_justatuna_nemesis",
+    "name": "Ser Reddwyn by JustATuna Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "ser_reddwyn_by_justatuna",
+    "name": "Ser Reddwyn by JustATuna",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "surge_by_xb_nemesis",
+    "name": "Surge by XB Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "surge_by_xb",
+    "name": "Surge by XB",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "graviton_by_xb",
+    "name": "Graviton by XB",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "dark_matter_by_xb",
+    "name": "Dark Matter by XB",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "ms_marvel_by_cptscorp_&_rycoran_nemesis",
+    "name": "Ms. Marvel by CptScorp_&_RyCoRan Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "ms_marvel_by_cptscorp_&_rycoran",
+    "name": "Ms. Marvel by CptScorp_&_RyCoRan",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "agent_of_shield_by_merlin_nemesis",
+    "name": "Agent Of S.H.I.E.L.D. by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "agent_of_shield_by_merlin",
+    "name": "Agent Of S.H.I.E.L.D. by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "asset_of_shield_by_merlin",
+    "name": "Asset Of S.H.I.E.L.D. by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "wasp_by_jackhkp_nemesis",
+    "name": "Wasp by JackHKP Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "wasp_by_jackhkp",
+    "name": "Wasp by JackHKP",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "feral_instincts_by_nugget",
+    "name": "Feral Instincts by Nugget",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "scorpion_by_nugget",
+    "name": "Scorpion by Nugget",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "vermin_by_nugget",
+    "name": "Vermin by Nugget",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "lizard_by_nugget",
+    "name": "Lizard by Nugget",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "lizard_thralls_by_nugget",
+    "name": "Lizard Thralls by Nugget",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "vulture_by_nugget",
+    "name": "Vulture by Nugget",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "red_vulture_by_nugget",
+    "name": "Red Vulture by Nugget",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "kraven_by_nugget",
+    "name": "Kraven by Nugget",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "kraven_trap_by_nugget",
+    "name": "Kraven Trap by Nugget",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "savage_six_by_nugget",
+    "name": "Savage Six by Nugget",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "hunter_mode_by_nugget",
+    "name": "Hunter Mode by Nugget",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "the_lodge-campaign_by_nugget",
+    "name": "The Lodge-Campaign by Nugget",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "hunt_campaign_expert_by_nugget",
+    "name": "The Hunt-Campaign Expert by Nugget",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "hunt_campaign_by_nugget",
+    "name": "The Hunt-Campaign by Nugget",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "tigra",
+    "name": "Tigra",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "hulking",
+    "name": "Hulking",
+    "card_set_type_code": "hero"
+  },
+  {
     "code": "alpha_flight_by_hax",
     "name": "Alpha Flight by Hax",
     "card_set_type_code": "hero"
-    },
-    {
-        "code": "alpha_flight_by_hax_nemesis",
-        "name": "Alpha Flight by Hax Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "snowbird_by_hax",
-        "name": "Snowbird by Hax",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "manifold_by_bluehg",
-        "name": "Manifold by BlueHG",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "manifold_by_bluehg_nemesis",
-        "name": "Manifold by BlueHG Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "carnage_by_ekaugust",
-        "name": "Carnage by ekAugust",
-        "card_set_type_code": "villain"
-    },
-    {
-        "code": "symbiotic_cruelty_by_ekaugust",
-        "name": "Symbiotic Cruelty by ekAugust",
-        "card_set_type_code": "modular"
-    },
-    {
-        "code": "cult_of_carnage_by_ekaugust",
-        "name": "Cult of Carnage by ekAugust",
-        "card_set_type_code": "modular"
-    },
-    {
-        "code": "skrull_menace_by_kajislav",
-        "name": "Skrull Menace by Kajislav",
-        "card_set_type_code": "hero"
-    },
-    {
-        "code": "skrull_empire_by_kajislav",
-        "name": "Skrull Empire by Kajislav",
-        "card_set_type_code": "villain"
-    },
-    {
-        "code": "iron_man_by_raytten_nemesis",
-        "name": "Iron Man by Raytten Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "iron_man_by_raytten",
-        "name": "Iron Man by Raytten",
-        "card_set_type_code": "hero"
-    },
-     {
-        "code": "spider-man_noir_by_merlin_nemesis",
-        "name": "Spider-Man Noir by Merlin Nemesis",
-        "card_set_type_code": "nemesis"
-    },
-    {
-        "code": "spider-man_noir_by_merlin",
-        "name": "Spider-Man Noir by Merlin",
-        "card_set_type_code": "hero"
-    }
-
+  },
+  {
+    "code": "alpha_flight_by_hax_nemesis",
+    "name": "Alpha Flight by Hax Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "snowbird_by_hax",
+    "name": "Snowbird by Hax",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "manifold_by_bluehg",
+    "name": "Manifold by BlueHG",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "manifold_by_bluehg_nemesis",
+    "name": "Manifold by BlueHG Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "carnage_by_ekaugust",
+    "name": "Carnage by ekAugust",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "symbiotic_cruelty_by_ekaugust",
+    "name": "Symbiotic Cruelty by ekAugust",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "cult_of_carnage_by_ekaugust",
+    "name": "Cult of Carnage by ekAugust",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "skrull_menace_by_kajislav",
+    "name": "Skrull Menace by Kajislav",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "skrull_empire_by_kajislav",
+    "name": "Skrull Empire by Kajislav",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "iron_man_by_raytten_nemesis",
+    "name": "Iron Man by Raytten Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "iron_man_by_raytten",
+    "name": "Iron Man by Raytten",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "spider-man_noir_by_merlin_nemesis",
+    "name": "Spider-Man Noir by Merlin Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "spider-man_noir_by_merlin",
+    "name": "Spider-Man Noir by Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "heimdall_by_jackhkp_nemesis",
+    "name": "Heimdall by JackHKP Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "heimdall_by_jackhkp",
+    "name": "Heimdall by JackHKP",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "mighty_thor_by_rainy",
+    "name": "Mighty Thor by Rainy",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "mighty_thor_by_rainy_nemesis",
+    "name": "Mighty Thor by Rainy Nemesis",
+    "card_set_type_code": "nemesis"
+  }
 ]
-   
-
-

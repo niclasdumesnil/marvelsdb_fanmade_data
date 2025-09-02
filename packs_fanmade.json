@@ -319,6 +319,7 @@
 		"code": "sentry_by_transience",
 		"creator": "Transience",
 		"date_release": "2025-06-16",
+		"language": "fr",
 		"name": "Sentry",
 		"octgn_id": "41907c5a-42a5-11f0-9fe2-0242ac120002",
 		"pack_type_code": "hero_fanmade",
@@ -326,8 +327,7 @@
 		"size": 23,
 		"status": "beta",
 		"theme": "Marvel",
-		"visibility": "true",
-		"language": "fr"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 2014,
@@ -498,28 +498,56 @@
 		"code": "iron_man_by_raytten",
 		"creator": "Raytten",
 		"date_release": "2025-08-18",
+		"language": "fr",
 		"name": "Iron Man mk LXX",
 		"octgn_id": "da44c66c-7d4c-5891-aa96-f94905c42c0f",
 		"pack_type_code": "hero_fanmade",
 		"position": 2020,
 		"size": 22,
 		"status": "beta",
-		"theme": "Marvel",
-		"language": "fr"
+		"theme": "Marvel"
 	},
 	{
 		"cgdb_id": 2102,
 		"code": "spider-man_noir_by_merlin",
+		"creator": "Merlin",
 		"date_release": "2025-04-06",
+		"language": "fr",
 		"name": "Spider-Man Noir",
 		"octgn_id": "7f59dfc0-ebe6-572b-bdb0-e58e87aca1c1",
 		"pack_type_code": "hero_fanmade",
 		"position": 2102,
-		"visibility": "false",
-		"creator": "Merlin",
+		"size": 23,
 		"status": "released",
-		"size": 18,
 		"theme": "Marvel",
-		"language": "fr"
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2006,
+		"code": "heimdall_by_jackhkp",
+		"creator": "JackHKP",
+		"date_release": "2025-08-31",
+		"name": "Heimdall",
+		"octgn_id": "6b6bd256-b2ec-568b-adeb-537a4168bcde",
+		"pack_type_code": "hero_fanmade",
+		"position": 2006,
+		"size": 23,
+		"status": "released",
+		"theme": "Marvel",
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2021,
+		"code": "mighty_thor_by_rainy",
+		"creator": "Rainy",
+		"date_release": "2025-09-02",
+		"name": "Mighty Thor",
+		"octgn_id": "a9f65411-f86b-48a8-bcac-0564be7f1ab9",
+		"pack_type_code": "hero_fanmade",
+		"position": 2021,
+		"size": 19,
+		"status": "released",
+		"theme": "marvel",
+		"visibility": "false"
 	}
 ]
