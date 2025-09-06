@@ -434,7 +434,7 @@
 		"pack_type_code": "fm_story",
 		"position": 9999,
 		"size": 1,
-		"status": "released",
+		"status": "beta",
 		"visibility": "false"
 	},
 	{
@@ -447,7 +447,7 @@
 		"pack_type_code": "hero_fanmade",
 		"position": 2016,
 		"size": 28,
-		"status": "released",
+		"status": "beta",
 		"theme": "Marvel",
 		"visibility": "false"
 	},
@@ -471,11 +471,11 @@
 		"creator": "ekAugust",
 		"date_release": "2025-08-18",
 		"name": "King In Black",
-		"octgn_id": "f8fe0d39-7068-4fbd-9901-6ba095105f07",
+		"octgn_id": "f8fe0d39-7068-4fbd-9901-6ba095105f07",                                                                                                                                                                  
 		"pack_type_code": "fm_story",
 		"position": 5003,
 		"size": 24,
-		"status": "released",
+		"status": "beta",
 		"theme": "Marvel",
 		"visibility": "false"
 	},
@@ -489,7 +489,7 @@
 		"pack_type_code": "fm_story",
 		"position": 5007,
 		"size": 41,
-		"status": "released",
+		"status": "releabetased",
 		"theme": "Marvel",
 		"visibility": "false"
 	},
