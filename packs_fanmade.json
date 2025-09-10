@@ -471,7 +471,7 @@
 		"creator": "ekAugust",
 		"date_release": "2025-08-18",
 		"name": "King In Black",
-		"octgn_id": "f8fe0d39-7068-4fbd-9901-6ba095105f07",                                                                                                                                                                  
+		"octgn_id": "f8fe0d39-7068-4fbd-9901-6ba095105f07",
 		"pack_type_code": "fm_story",
 		"position": 5003,
 		"size": 24,
@@ -548,6 +548,20 @@
 		"size": 19,
 		"status": "released",
 		"theme": "marvel",
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2022,
+		"code": "stature_by_captain_corp_&_hax",
+		"creator": "Captain Corp & Hax",
+		"date_release": "2025-09-10",
+		"name": "Stature",
+		"octgn_id": "2c10b8ef-af46-4fdf-9a74-0ac2fa5f008c",
+		"pack_type_code": "hero_fanmade",
+		"position": 2022,
+		"size": 22,
+		"status": "beta",
+		"theme": "Marvel",
 		"visibility": "false"
 	}
 ]

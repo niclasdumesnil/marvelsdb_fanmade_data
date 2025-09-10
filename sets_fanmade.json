@@ -443,5 +443,15 @@
     "code": "mighty_thor_by_rainy_nemesis",
     "name": "Mighty Thor by Rainy Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "stature_by_captain_corp_&_hax",
+    "name": "Stature by Captain Corp & Hax",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "stature_by_captain_corp_&_hax_nemesis",
+    "name": "Stature by Captain Corp & Hax Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]
