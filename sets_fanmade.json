@@ -453,5 +453,15 @@
     "code": "stature_by_captain_corp_&_hax_nemesis",
     "name": "Stature by Captain Corp & Hax Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "singularity_by_phenexian",
+    "name": "Singularity by Phenexian",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "singularity_by_phenexian_nemesis",
+    "name": "Singularity by Phenexian Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]

@@ -563,5 +563,19 @@
 		"status": "beta",
 		"theme": "Marvel",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2619,
+		"code": "singularity_by_phenexian",
+		"creator": "Phenexian",
+		"date_release": "2025-09-11",
+		"name": "Singularity",
+		"octgn_id": "670dd6af-ef0f-4494-b1ec-4a405becbe36",
+		"pack_type_code": "hero_fanmade",
+		"position": 2619,
+		"size": 25,
+		"status": "sealed",
+		"theme": "Marvel",
+		"visibility": "true"
 	}
 ]
