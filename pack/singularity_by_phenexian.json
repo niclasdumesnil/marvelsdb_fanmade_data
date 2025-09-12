@@ -5,6 +5,7 @@
         "back_link": "261901b",
         "code": "261901a",
         "deck_limit": 1,
+        "deck_option": "[ { \"trait\": [ a-force ], \"type\": [ \"ally\" ] } ]",
         "defense": 3,
         "faction_code": "hero",
         "hand_size": 5,
@@ -29,17 +30,7 @@
         "text": "<i>Pocket Universe</i> \u2014 <b>Action</b>: Place an ally in play facedown under Singularity. (Max 3 cards. Limit once per phase.)\n<b>Action</b>: Play an ally under Singularity as if they were in you hand, or put a minion under Singularity into play engaged with any player.",
         "thwart": 2,
         "traits": "A-Force. Aerial. Cosmic Entity.",
-        "type_code": "hero",
-        "deck_options": [
-			{
-				"trait": [
-					"a-force"
-				],
-				"type": [
-					"ally"
-				]
-			}
-		]
+        "type_code": "hero"
     },
     {
         "2-sided": "b",
@@ -187,7 +178,7 @@
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\"...In the heart of that girl,there is an island.\"",
+        "flavor": "\"...In the heart of that girl, there is an island.\"",
         "is_unique": true,
         "name": "Arcadia",
         "octgn_id": "670dd6af-ef0f-4494-b1ec-4a405b619008",
@@ -286,7 +277,7 @@
         "resource_energy": 1,
         "set_code": "singularity_by_phenexian",
         "set_position": 16,
-        "text": "<b>Hero Action</b>: Put all allies under Singularity into play uner your control. <i>(These cards don't count as having been played from hand.)</i>",
+        "text": "<b>Hero Action</b>: Put all allies under Singularity into play under your control. <i>(These cards don't count as having been played from hand.)</i>",
         "traits": "Superpower.",
         "type_code": "event"
     },
@@ -324,7 +315,6 @@
         "position": 15,
         "quantity": 1,
         "resource_energy": 1,
-        "set_position": 18,
         "subname": "Alison Blaire (Earth-15513)",
         "text": "<b>Response</b>: After you play Dazzler Thor, stun and confuse a minion for each  [energy]  resource spent to play her.",
         "thwart": 1,
@@ -349,7 +339,6 @@
         "position": 16,
         "quantity": 1,
         "resource_physical": 1,
-        "set_position": 19,
         "subname": "Medusalith Amaquelin",
         "text": "[star] <b>Response</b>: After Medusa thwarts, remove 1 threat from a scheme.\n[star] <b>Response</b>: After Medusa attacks, deal 1 damage to an enemy.",
         "thwart": 1,
@@ -370,7 +359,6 @@
         "position": 17,
         "quantity": 3,
         "resource_energy": 1,
-        "set_position": 20,
         "text": "Max 1 per round.\n<b>Hero Action</b>: Ready each <b><i>A-FORCE</i></b> character you control. Until the end of the phase, each <b><i>A-FORCE</i></b> character in play gets +1 THW and +1 ATK.",
         "traits": "A-Force.",
         "type_code": "event"
@@ -386,7 +374,6 @@
         "position": 18,
         "quantity": 3,
         "resource_mental": 1,
-        "set_position": 23,
         "text": "Play under any player's control. Max 1 <b><i>TEAM</i></b> card per player.\nEach of your <b><i>A-FORCE</i></b> allies gets +1 hit point. If all of your characters have the <b><i>A-FORCE</i></b> trait, each ally you control gets +1 THW and +1 ATK.",
         "traits": "Team.",
         "type_code": "support"
@@ -402,7 +389,6 @@
         "position": 19,
         "quantity": 1,
         "resource_energy": 1,
-        "set_position": 26,
         "text": "Team-Up (Singularity and Sister Grimm). Max 1 per deck.\n<b>Hero Action</b>: Defeat a minion and defeat a side scheme. Remove Anything Anywhere from the game.",
         "traits": "Spell.",
         "type_code": "event"
