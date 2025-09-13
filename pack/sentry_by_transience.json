@@ -56,7 +56,6 @@
         "code": "800402",
         "octgn_id": "41907c5a-42a5-11f0-9fe2-0242ac120002",
         "permanent": true,
-        "cost": 0,
         "position": 2,
         "quantity": 1,
         "set_position": 1,
@@ -81,7 +80,7 @@
     },
     {
         "name": "Pourfendre l'adversaire",
-        "text": "<b>Action de h&#233;ros</b> <i>(attaque)</i> : ajoutez X jetons Ombre sur Ennemi int&#233;rieur (jusqu'&#224; un maximum de 3). Vainquez X sbires non &#233;lite en jeu de votre choix.",
+        "text": "<b>Action de h&#233;ros</b> <i>(attaque)</i> : ajoutez X jetons Ombre sur Ennemi int&#233;rieur (jusqu'&#224; un maximum de 3). Vainquez X sbires non-[[&#233;lite]] en jeu de votre choix.",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "sentry_by_transience",
@@ -130,7 +129,7 @@
     },
     {
         "name": "Rayonnement solaire",
-        "text": "<b>Action de h&#233;ros</b> <i>(contre)</i> : ajoutez X jetons Ombre sur Ennemi int&#233;rieur (jusqu'&#224; un maximum de 3). Retirez 2 menaces pour chaque jeton ajout&#233; parmi les manigances de votre choix en ignorant les icônes de Crise ([crisis]).",
+        "text": "<b>Action de h&#233;ros</b> <i>(contre)</i> : ajoutez X jetons Ombre sur Ennemi int&#233;rieur (jusqu'&#224; un maximum de 3). Retirez 2 menaces parmi les manigances de votre choix en ignorant les icônes de Crise ([crisis]) pour chaque jeton ainsi ajout&#233;.",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "sentry_by_transience",
@@ -147,7 +146,7 @@
     },
     {
         "name": "Sauvetage in extremis",
-        "text": "<b>Interruption</b> <i>(d&#233;fense)</i> : Quand un alli&#233; est cens&#233; subir n'importe quelle quantit&#233; de d&#233;g&#226;ts, inclinez Sentry, ou ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur \u2192 pr&#233;venez tous les d&#233;g&#226;ts inflig&#233;s &#224; cet alli&#233;.",
+        "text": "<b>Interruption</b> <i>(d&#233;fense)</i> : Quand un alli&#233; est cens&#233; subir n'importe quelle quantit&#233; de d&#233;g&#226;ts, inclinez Sentry ou ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur \u2192 pr&#233;venez tous les d&#233;g&#226;ts inflig&#233;s &#224; cet alli&#233;.",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "sentry_by_transience",
@@ -166,7 +165,7 @@
     {
         "is_unique": true,
         "name": "La Tour de guet",
-        "text": "Vous pouvez jouer les cartes attach&#233;es &#224; La Tour de guet comme si elles &#233;taient dans votre main.\n<b>Action</b> : inclinez La Tour de guet \u2192 attachez une carte Événement de votre main à la tour de guet. (jusqu'&#224; 2 cartes maximum peuvent &#234;tre attach&#233;es &#224; La Tour de guet.)",
+        "text": "Vous pouvez jouer les cartes attach&#233;es &#224; La Tour de guet comme si elles &#233;taient dans votre main.\n<b>Action</b> : inclinez La Tour de guet \u2192 attachez une carte événement de votre main à la tour de guet. (jusqu'&#224; 2 cartes maximum peuvent &#234;tre attach&#233;es &#224; La Tour de guet.)",
         "type_code": "support",
         "faction_code": "hero",
         "set_code": "sentry_by_transience",
@@ -223,7 +222,7 @@
     },
     {
         "name": "Mon nom est Sentry",
-        "text": "<b>Interruption</b> : quand une carte Tra&#238;trise est r&#233;v&#233;l&#233;e du deck Rencontre, annulez ses effets \"Une fois r&#233;v&#233;l&#233;e\". Si vous &#234;tes sous forme d'alter-ego, passez sous forme de h&#233;ros. Ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur.",
+        "text": "<b>Interruption</b> : quand une carte Tra&#238;trise est r&#233;v&#233;l&#233;e du deck Rencontre, annulez ses effets \"<b>Une fois r&#233;v&#233;l&#233;e</b>\". Si vous &#234;tes sous forme d'alter ego, passez sous forme de h&#233;ros. Ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur.",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "sentry_by_transience",
@@ -240,7 +239,7 @@
     },
     {
         "name": "Résister à l'Obscurité;",
-        "text": "<b>Action</b> : Choisissez une option parmi les suivantes :\n - redressez votre identit&#233; \u2192 Ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur.\n - retirez 2 jetons Ombre sur Ennemi intérieur.\n\nEnsuite, m&#233;langez cette carte dans votre deck.\n\n<b>R&#233;ponse forc&#233;e</b> : Quand cette carte entre dans votre pile de d&#233;fausse <code>-</code> ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur.",
+        "text": "<b>Action</b> : Choisissez une option parmi les suivantes :\n - redressez votre identit&#233; \u2192 Ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur.\n - retirez 2 jetons Ombre sur Ennemi intérieur.\n\nEnsuite, m&#233;langez cette carte dans votre deck.\n\n<b>R&#233;ponse forc&#233;e</b> : Quand cette carte entre dans votre pile de d&#233;fausse \u2192 ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur.",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "sentry_by_transience",
