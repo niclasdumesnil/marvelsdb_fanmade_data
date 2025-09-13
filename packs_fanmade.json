@@ -489,7 +489,7 @@
 		"pack_type_code": "fm_story",
 		"position": 5007,
 		"size": 41,
-		"status": "releabetased",
+		"status": "released",
 		"theme": "Marvel",
 		"visibility": "false"
 	},
@@ -577,5 +577,20 @@
 		"status": "sealed",
 		"theme": "Marvel",
 		"visibility": "true"
+	},
+	{
+		"cgdb_id": 8006,
+		"code": "white_queen_by_proust",
+		"creator": "Proust",
+		"date_release": "2025-09-13",
+		"name": "White Queen",
+		"octgn_id": "34f176e1-8cfa-4477-ac33-7934b0f71a4b",
+		"pack_type_code": "hero_fanmade",
+		"position": 8006,
+		"size": 16,
+		"status": "alpha",
+		"theme": "Marvel",
+		"visibility": "false",
+    "language": "fr"
 	}
 ]

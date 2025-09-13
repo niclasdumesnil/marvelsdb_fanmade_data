@@ -463,5 +463,15 @@
     "code": "singularity_by_phenexian_nemesis",
     "name": "Singularity by Phenexian Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "white_queen_by_proust",
+    "name": "White Queen by Proust",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "white_queen_by_proust_nemesis",
+    "name": "White Queen by Proust Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]
