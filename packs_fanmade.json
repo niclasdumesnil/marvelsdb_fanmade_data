@@ -583,6 +583,7 @@
 		"code": "white_queen_by_proust",
 		"creator": "Proust",
 		"date_release": "2025-09-13",
+		"language": "fr",
 		"name": "White Queen",
 		"octgn_id": "34f176e1-8cfa-4477-ac33-7934b0f71a4b",
 		"pack_type_code": "hero_fanmade",
@@ -590,7 +591,6 @@
 		"size": 16,
 		"status": "alpha",
 		"theme": "Marvel",
-		"visibility": "false",
-    "language": "fr"
+		"visibility": "false"
 	}
 ]
