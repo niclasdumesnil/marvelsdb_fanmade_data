@@ -157,7 +157,7 @@
     },
     {
         "name": "Opposites Attract",
-        "text": "<b>Hero Action</b>: Choose a player. Deal 2 damage to the villain and each enemy engaged with that player. For each enemy damaged this way, you may discard an attached copy of Magetized Debris from that enemy to stun it.",
+        "text": "<b>Hero Action</b>: Choose a player. Deal 2 damage to the villain and each enemy engaged with that player. For each enemy damaged this way, you may discard an attached copy of Magnetized Debris from that enemy to stun it.",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "polaris_by_jackhkp",
