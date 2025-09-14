@@ -5,7 +5,7 @@
         "back_link": "261901b",
         "code": "261901a",
         "deck_limit": 1,
-        "deck_option": "[ { \"trait\": [ a-force ], \"type\": [ \"ally\" ] } ]",
+        "deck_options": "[ { \"trait\": [ \"a-force\" ], \"type\": [ \"ally\" ] } ]",
         "defense": 3,
         "faction_code": "hero",
         "hand_size": 5,
