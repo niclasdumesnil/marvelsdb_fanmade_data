@@ -601,7 +601,9 @@
 		"pack_type_code": "hero_fanmade",
 		"position": 8006,
 		"size": 23,
-		"status": "alpha",
-		"theme": "Marvel"
+		"status": "beta",
+		"theme": "Marvel",
+		"language": "fr",
+		"visibility": "true"
 	}
 ]
