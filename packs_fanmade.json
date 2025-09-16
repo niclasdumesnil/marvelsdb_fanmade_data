@@ -528,7 +528,6 @@
 		"creator": "JackHKP",
 		"date_release": "2025-09-15",
 		"name": "Heimdall",
-		"octgn_id": "6b6bd256-b2ec-568b-adeb-537a4168bcde",
 		"pack_type_code": "hero_fanmade",
 		"position": 2006,
 		"size": 23,
@@ -582,9 +581,9 @@
 		"cgdb_id": 2024,
 		"code": "angela_by_odysseus",
 		"creator": "Odysseus",
-		"date_release": "2025-09-17",
+		"date_release": "2025-09-16",
 		"name": "Angela",
-		"octgn_id": "0646fb38-9307-51c3-9445-834c5c309e98",
+		"octgn_id": "7146ec51-0500-47b8-9c64-cba3ab051845",
 		"pack_type_code": "hero_fanmade",
 		"position": 2024,
 		"size": 22,
@@ -596,6 +595,7 @@
 		"code": "white_queen_by_proust_&_merlin",
 		"creator": "Proust & Merlin",
 		"date_release": "2025-09-16",
+		"language": "fr",
 		"name": "White Queen",
 		"octgn_id": "db923053-d92c-4454-b573-ecb998d60fba",
 		"pack_type_code": "hero_fanmade",
@@ -603,7 +603,6 @@
 		"size": 23,
 		"status": "beta",
 		"theme": "Marvel",
-		"language": "fr",
 		"visibility": "true"
 	}
 ]
