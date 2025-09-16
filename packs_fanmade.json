@@ -581,15 +581,27 @@
 	{
 		"cgdb_id": 2024,
 		"code": "angela_by_odysseus",
+		"creator": "Odysseus",
 		"date_release": "2025-09-17",
 		"name": "Angela",
 		"octgn_id": "0646fb38-9307-51c3-9445-834c5c309e98",
 		"pack_type_code": "hero_fanmade",
 		"position": 2024,
-		"visibility": "false",
-		"creator": "Odysseus",
+		"size": 22,
 		"status": "released",
-		"size": 22
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 8006,
+		"code": "white_queen_by_proust_&_merlin",
+		"creator": "Proust & Merlin",
+		"date_release": "2025-09-16",
+		"name": "White Queen",
+		"octgn_id": "db923053-d92c-4454-b573-ecb998d60fba",
+		"pack_type_code": "hero_fanmade",
+		"position": 8006,
+		"size": 23,
+		"status": "alpha",
+		"theme": "Marvel"
 	}
-
 ]

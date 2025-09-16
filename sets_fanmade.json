@@ -465,13 +465,23 @@
     "card_set_type_code": "nemesis"
   },
   {
-        "code": "angela_by_odysseus_nemesis",
-        "name": "Angela by Odysseus Nemesis",
-        "card_set_type_code": "nemesis"
+    "code": "angela_by_odysseus_nemesis",
+    "name": "Angela by Odysseus Nemesis",
+    "card_set_type_code": "nemesis"
   },
   {
-        "code": "angela_by_odysseus",
-        "name": "Angela by Odysseus",
-        "card_set_type_code": "hero"
+    "code": "angela_by_odysseus",
+    "name": "Angela by Odysseus",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "white_queen_by_proust_&_merlin",
+    "name": "White Queen by Proust & Merlin",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "white_queen_by_proust_&_merlin_nemesis",
+    "name": "White Queen by Proust & Merlin Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]
