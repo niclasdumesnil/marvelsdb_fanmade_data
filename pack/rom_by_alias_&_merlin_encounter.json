@@ -49,7 +49,7 @@
     },
     {
         "name": "Dire Wraith",
-        "text": "Quickstrike.\n[star] When Dire Wraith attacks, it attacks the character you control with the less remaining hit points.\n<b>Forced Response</b>: Once defeated, shuffle Dire Wraith back into the encounter deck.",
+        "text": "Quickstrike.\n[star] When Dire Wraith attacks, it attacks the character you control with the least remaining hit points.\n<b>Forced Response</b>: Once defeated, shuffle Dire Wraith back into the encounter deck.",
         "type_code": "minion",
         "faction_code": "encounter",
         "set_code": "rom_by_alias_&_merlin_nemesis",

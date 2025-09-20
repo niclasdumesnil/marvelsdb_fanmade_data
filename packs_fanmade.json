@@ -528,6 +528,7 @@
 		"creator": "JackHKP",
 		"date_release": "2025-09-15",
 		"name": "Heimdall",
+		"octgn_id": "c9c9899a-e4d2-412f-9dd0-dd6f3b2108cf",
 		"pack_type_code": "hero_fanmade",
 		"position": 2006,
 		"size": 23,
@@ -586,9 +587,10 @@
 		"octgn_id": "7146ec51-0500-47b8-9c64-cba3ab051845",
 		"pack_type_code": "hero_fanmade",
 		"position": 2024,
-		"size": 22,
-		"status": "released",
-		"visibility": "true"
+		"size": 15,
+		"status": "beta",
+		"theme": "Marvel",
+		"visibility": "false"
 	},
 	{
 		"cgdb_id": 8006,

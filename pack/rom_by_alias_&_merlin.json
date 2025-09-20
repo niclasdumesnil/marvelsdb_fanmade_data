@@ -2,7 +2,7 @@
     {
         "is_unique": true,
         "name": "ROM",
-        "text": "<b>Setup: </b>Find Leader of the Space Knight upgrade and put it into play.<i>\nHelp</i> \u2014 <b>Action</b>: Choose a [[space knight]] ally in your discard pile and attach it facedown to Leader of the Space Knight upgrade (Limit once per round).\n<i>\u201cI offered my life to save Galador.\u201d </i>\u2014 <i>ROM</i>",
+        "text": "<b>Setup: </b>Find Leader of the Space Knights upgrade and put it into play.<i>\nHelp</i> \u2014 <b>Action</b>: Choose a [[space knight]] ally in your discard pile and attach it facedown to Leader of the Space Knight upgrade (Limit once per round).\n<i>\u201cI offered my life to save Galador.\u201d </i>\u2014 <i>ROM</i>",
         "type_code": "alter_ego",
         "faction_code": "hero",
         "set_code": "rom_by_alias_&_merlin",
@@ -20,7 +20,7 @@
     {
         "is_unique": true,
         "name": "ROM",
-        "text": "<i>Dire Wraith Search</i> \u2014 <b>Action</b>: Spend a [energy] resource and discard an ally in play \u2192 look at the top 5 cards of your deck. add X event to your hand (to a maximum of 3) where X is the number of printed health point of the ally (Limit once per round).",
+        "text": "<i>Dire Wraith Search</i> \u2014 <b>Action</b>: Spend a [energy] resource and discard an ally in play \u2192 look at the top 5 cards of your deck. add X events to your hand (to a maximum of 3) where X is the number of printed hit points of the ally (Limit once per round).",
         "type_code": "hero",
         "faction_code": "hero",
         "set_code": "rom_by_alias_&_merlin",
@@ -48,7 +48,7 @@
     },
     {
         "is_unique": true,
-        "name": "Leader of the Space Knight",
+        "name": "Leader of the Space Knights",
         "text": "Permanent. Setup.\n<b>Setup</b>: Find Starshine, Pulsar and Terminator and attach them facedown to this card. \nAllies attached to this card may be played as if they were in your hand.",
         "type_code": "upgrade",
         "faction_code": "hero",
@@ -174,7 +174,7 @@
     {
         "is_unique": true,
         "name": "Translator",
-        "text": "<b>Hero Resource</b>: Exhaust Translator \u2192 generate a [mental] resource for a [[thwart]] event. (2 resources for Assess the Threat event).\n<i>\u201cThis analyser will reveal the creatures as they are.\u201d </i>\u2014<i>ROM</i>",
+        "text": "<b>Hero Resource</b>: Exhaust Translator \u2192 generate a [mental] resource for a [[thwart]] event. (2 resources for Assess the Threat event).",
         "type_code": "upgrade",
         "faction_code": "hero",
         "set_code": "rom_by_alias_&_merlin",
