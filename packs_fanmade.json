@@ -130,7 +130,7 @@
 		"octgn_id": "c987fcbc-c4d3-51c2-a88f-db10fac8fe41",
 		"pack_type_code": "hero_fanmade",
 		"position": 709,
-		"size": 17,
+		"size": 23,
 		"status": "beta",
 		"theme": "Marvel",
 		"visibility": "false"
@@ -144,7 +144,7 @@
 		"octgn_id": "c89b0fd0-7794-55b7-8314-a57faf4202e6",
 		"pack_type_code": "hero_fanmade",
 		"position": 604,
-		"size": 25,
+		"size": 26,
 		"status": "released",
 		"theme": "Hasbro"
 	},
@@ -254,7 +254,7 @@
 		"octgn_id": "381bd788-111a-5f4f-a3eb-bcb150fa67c5",
 		"pack_type_code": "hero_fanmade",
 		"position": 2010,
-		"size": 20,
+		"size": 22,
 		"status": "released",
 		"theme": "Marvel",
 		"visibility": "true"
@@ -268,7 +268,7 @@
 		"octgn_id": "8a4a4ea7-f221-51fd-9475-1d693cfab27e",
 		"pack_type_code": "hero_fanmade",
 		"position": 2011,
-		"size": 17,
+		"size": 22,
 		"status": "beta",
 		"theme": "Marvel",
 		"visibility": "false"
@@ -380,7 +380,7 @@
 		"octgn_id": "a4082154-3c42-520c-ade7-5ee1eca38441",
 		"pack_type_code": "hero_fanmade",
 		"position": 2015,
-		"size": 18,
+		"size": 22,
 		"status": "released",
 		"theme": "Marvel",
 		"visibility": "false"
@@ -408,7 +408,7 @@
 		"octgn_id": "5fbe8550-ee38-5775-83b2-91ddfb1b4786",
 		"pack_type_code": "hero_fanmade",
 		"position": 2005,
-		"size": 18,
+		"size": 22,
 		"status": "beta",
 		"visibility": "false"
 	},
@@ -460,7 +460,7 @@
 		"octgn_id": "0a6276d1-079f-4b56-83f6-da46aa177d8d",
 		"pack_type_code": "hero_fanmade",
 		"position": 2017,
-		"size": 18,
+		"size": 32,
 		"status": "released",
 		"theme": "Marvel",
 		"visibility": "false"
@@ -545,7 +545,7 @@
 		"octgn_id": "a9f65411-f86b-48a8-bcac-0564be7f1ab9",
 		"pack_type_code": "hero_fanmade",
 		"position": 2021,
-		"size": 19,
+		"size": 22,
 		"status": "released",
 		"theme": "marvel",
 		"visibility": "false"
@@ -587,10 +587,10 @@
 		"octgn_id": "7146ec51-0500-47b8-9c64-cba3ab051845",
 		"pack_type_code": "hero_fanmade",
 		"position": 2024,
-		"size": 15,
+		"size": 22,
 		"status": "beta",
 		"theme": "Marvel",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 8006,
