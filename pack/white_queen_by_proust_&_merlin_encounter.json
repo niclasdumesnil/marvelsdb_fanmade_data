@@ -19,7 +19,7 @@
         "code": "800613",
         "deck_limit": 1,
         "faction_code": "encounter",
-        "health": 6,
+        "health": 5,
         "is_unique": true,
         "name": "Feilong",
         "octgn_id": "db923053-d92c-4454-b573-ecb998006013",
@@ -30,7 +30,7 @@
         "set_code": "white_queen_by_proust_&_merlin_nemesis",
         "set_position": 2,
         "text": "Robuste. Vilenie.\n<b>R\u00e9ponse forc\u00e9e</b>: apr\u00e8s que Feilong est entr\u00e9 en jeu, d\u00e9faussez tout alli\u00e9 Iron Man en jeu.\n(<i>Sbire N\u00e9m\u00e9sis de la Reine Blanche</i>.)",
-        "traits": "Orchis.",
+        "traits": "Orchis. Elite.",
         "type_code": "minion"
     },
     {

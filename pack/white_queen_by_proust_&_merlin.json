@@ -89,13 +89,13 @@
         "resource_mental": 1,
         "set_code": "white_queen_by_proust_&_merlin",
         "set_position": 2,
-        "text": "Tant que cette carte est en jeu, les personnages Robuste sont Solide \u00e0 la place.\nVous pouvez activer \"<i>lance Psy</i>\" une fois suppl&#233;mentaire par phase.\n<b>Action </b>: apr\u00e8s avoir r\u00e9solu Lance Psy, inclinez Esm\u00e9 \u2192 redressez votre h\u00e9ros.",
+        "text": "Tant que cette carte est en jeu, les personnages Robuste sont Solide \u00e0 la place.\nVous pouvez activer \"<i>lance Psy</i>\" une fois suppl&#233;mentaire par phase.\n<b>R\u00e9ponse </b>: apr\u00e8s avoir r\u00e9solu Lance Psy, inclinez Esm\u00e9 \u2192 redressez votre h\u00e9ros.",
         "traits": "Individu. Psionique.",
         "type_code": "support"
     },
     {
         "code": "800604",
-        "cost": 3,
+        "cost": 2,
         "deck_limit": 1,
         "faction_code": "hero",
         "name": "Les Maraudeurs",
@@ -106,7 +106,7 @@
         "resource_energy": 1,
         "set_code": "white_queen_by_proust_&_merlin",
         "set_position": 3,
-        "text": "<b>Action de H\u00e9ros </b>:<b> </b>inclinez <i>les Maraudeurs </i>\u2192 pour chaque carte d'\u00e9tat en jeu choisissez:<b>\n. </b>Retirez une menace d'une manigance\n<b>. </b>Infligez un d\u00e9g\u00e2t \u00e0 un ennemi\n<b>. </b>Retirez cette carte d'\u00e9tat",
+        "text": "<b>Action de H\u00e9ros </b>:<b> </b>inclinez <i>les Maraudeurs </i>\u2192 pour chaque carte d'\u00e9tat en jeu sur un perosnnage ami choisissez:<b>\n. </b>Retirez une menace d'une manigance\n<b>. </b>Infligez un d\u00e9g\u00e2t \u00e0 un ennemi\n<b>. </b>Retirez cette carte d'\u00e9tat",
         "traits": "X-Men.",
         "type_code": "support"
     },
@@ -195,13 +195,13 @@
         "resource_physical": 1,
         "set_code": "white_queen_by_proust_&_merlin",
         "set_position": 12,
-        "text": "<b>Action de h\u00e9ros </b>(a<i>ttaque</i>) : d\u00e9sorientez un personnage ami \u2192 infligez X d\u00e9g\u00e2ts \u00e0 un ennemi, X \u00e9tant \u00e9gal \u00e0 l'attaque de base du personnage choisi. Vous pouvez incliner le personnage choisi \u2192 cette attaque gagne D\u00e9ferlement et inflige 4 d\u00e9gats suppl\u00e9mentaires. ",
+        "text": "<b>Action de h\u00e9ros </b>(a<i>ttaque</i>) : d\u00e9sorientez un personnage ami \u2192 infligez X d\u00e9g\u00e2ts \u00e0 un ennemi, X \u00e9tant \u00e9gal \u00e0 l'attaque de base du personnage choisi. Vous pouvez incliner le personnage choisi \u2192 cette attaque gagne D\u00e9ferlement et inflige 3 d\u00e9gats suppl\u00e9mentaires. ",
         "traits": "Attaque. Psionique.",
         "type_code": "event"
     },
     {
         "code": "800610",
-        "cost": 0,
+        "cost": 1,
         "deck_limit": 2,
         "faction_code": "hero",
         "flavor": "<i>\"Trois contre un, \u00e7a semble in\u00e9gal\"- Emma Frost</i>",
