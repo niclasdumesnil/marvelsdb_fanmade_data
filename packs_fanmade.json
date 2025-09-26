@@ -498,13 +498,12 @@
 		"code": "iron_man_by_raytten",
 		"creator": "Raytten",
 		"date_release": "2025-08-18",
-		"language": "fr",
 		"name": "Iron Man mk LXX",
-		"octgn_id": "da44c66c-7d4c-5891-aa96-f94905c42c0f",
+		"octgn_id": "81d41f69-1640-51c5-ace6-3177e599f78e",
 		"pack_type_code": "hero_fanmade",
 		"position": 2020,
 		"size": 22,
-		"status": "beta",
+		"status": "released",
 		"theme": "Marvel"
 	},
 	{
@@ -553,7 +552,7 @@
 	{
 		"cgdb_id": 2022,
 		"code": "stature_by_captain_corp_&_hax",
-		"creator": "Captain Corp & Hax",
+		"creator": "CptScorp & Hax",
 		"date_release": "2025-09-10",
 		"name": "Stature",
 		"octgn_id": "2c10b8ef-af46-4fdf-9a74-0ac2fa5f008c",
