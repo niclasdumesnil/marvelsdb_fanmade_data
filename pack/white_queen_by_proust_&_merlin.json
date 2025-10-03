@@ -25,7 +25,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "white_queen_by_proust_&_merlin",
-        "text": "<i>Lance Psy</i> - <b>Action de h\u00e9ros </b>: \u00e9changez 2 cartes d'\u00e9tat diff\u00e9rentes entre 2 personnages (limite d'une fois par phase).\n<b>R\u00e9ponse forc\u00e9e </b>: apr\u00e8s avoir jou\u00e9 une carte <b>DIAMANT</b>, donnez une carte tenace \u00e0 votre identit\u00e9. Apr\u00e8s avoir jou\u00e9 une carte <b>PSIONIQUE</b> d\u00e9faussez toute carte tenace de votre identit\u00e9.",
+        "text": "<i>Lance Psy</i> - <b>Action de h\u00e9ros </b>: \u00e9changez 2 cartes d'\u00e9tat diff\u00e9rentes entre 2 personnages (limite d'une fois par phase).\n<b>R\u00e9ponse forc\u00e9e </b>: apr\u00e8s avoir jou\u00e9 une carte <b><i>DIAMANT</i></b>, donnez une carte tenace \u00e0 votre identit\u00e9. Apr\u00e8s avoir jou\u00e9 une carte <b><i>PSIONIQUE</i></b><i> </i>d\u00e9faussez toute carte tenace de votre identit\u00e9.",
         "thwart": 3,
         "traits": "Psionique. X-men.",
         "type_code": "hero"
@@ -103,7 +103,7 @@
         "pack_code": "white_queen_by_proust_&_merlin",
         "position": 4,
         "quantity": 1,
-        "resource_energy": 1,
+        "resource_wild": 1,
         "set_code": "white_queen_by_proust_&_merlin",
         "set_position": 3,
         "text": "<b>Action de H\u00e9ros </b>:<b> </b>inclinez <i>les Maraudeurs </i>\u2192 pour chaque carte d'\u00e9tat en jeu sur un perosnnage ami choisissez:<b>\n. </b>Retirez une menace d'une manigance\n<b>. </b>Infligez un d\u00e9g\u00e2t \u00e0 un ennemi\n<b>. </b>Retirez cette carte d'\u00e9tat",
