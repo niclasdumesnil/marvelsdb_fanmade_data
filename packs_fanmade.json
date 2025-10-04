@@ -618,5 +618,18 @@
 		"size": 22,
 		"status": "released",
 		"visibility": "true"
+	},
+	{
+		"cgdb_id": 8007,
+		"code": "beast_by_proust",
+		"creator": "Proust",
+		"date_release": "2025-10-03",
+		"name": "Beast",
+		"octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2f3d266",
+		"pack_type_code": "hero_fanmade",
+		"position": 8007,
+		"size": 18,
+		"status": "alpha",
+		"theme": "Marvel"
 	}
 ]

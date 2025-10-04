@@ -493,5 +493,26 @@
     "code": "namor_by_odysseus",
     "name": "Namor by Odysseus",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "beast_by_proust",
+    "name": "Beast by Proust",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "beast_by_proust_nemesis",
+    "name": "Beast by Proust Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "hulkling_by_kajislav",
+    "name": "Hulkling by Kajislav",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "hulkling_by_kajislav_nemesis",
+    "name": "Hulkling by Kajislav Nemesis",
+    "card_set_type_code": "nemesis"
   }
+
 ]
