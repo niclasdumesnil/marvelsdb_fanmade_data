@@ -609,14 +609,28 @@
 		"cgdb_id": 8007,
 		"code": "beast_by_proust",
 		"creator": "Proust",
-		"date_release": "2025-10-03",
+		"date_release": "2025-10-11",
 		"name": "Beast",
 		"octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2f3d266",
 		"pack_type_code": "hero_fanmade",
 		"position": 8007,
 		"size": 22,
-		"status": "alpha",
+		"status": "beta",
 		"theme": "Marvel",
-		"visibility": "false"
+		"language": "fr",
+		"visibility": "true"
+	},
+	{
+		"cgdb_id": 2026,
+		"code": "red_guardian_by_kajislav",
+		"creator": "Kajislav",
+		"date_release": "2025-10-12",
+		"name": "Red Guardian",
+		"octgn_id": "7bdcef20-83cc-47aa-a505-c601f5b57c6b",
+		"pack_type_code": "hero_fanmade",
+		"position": 2026,
+		"size": 22,
+		"status": "released",
+		"visibility": "true"
 	}
 ]
