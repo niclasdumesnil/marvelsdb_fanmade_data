@@ -49,7 +49,7 @@
     {
         "is_unique": true,
         "name": "Sabretooth",
-        "text": "<b>Response</b>: After Sabretooth enters your hand, if there is a [[portal]] upgrade in play, put Sabretooth into play under your control.\n<i>\"I don't make the rules. I just get screwed by 'em.\"</i>",
+        "text": "<b>Response</b>: After Sabretooth enters your hand, if there is a [[portal]] upgrade in play, put Sabretooth into play under your control. (limit once per round.)\n<i>\"I don't make the rules. I just get screwed by 'em.\"</i>",
         "type_code": "ally",
         "faction_code": "hero",
         "set_code": "blink_by_kajislav",
@@ -106,7 +106,7 @@
     },
     {
         "name": "Lose Footing",
-        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal 3 damage to an enemy. Deal 2 additional damage to that enemy for each [[portal]] upgrade attached to it.\n<i>\u201cI wasn't trying to port you away. I was trying to 'port you to pieces!\u201d \u2014Blink</i>",
+        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal 4 damage to an enemy. Deal 2 additional damage to that enemy for each [[portal]] upgrade attached to it.\n<i>\u201cI wasn't trying to port you away. I was trying to 'port you to pieces!\u201d \u2014Blink</i>",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "blink_by_kajislav",
@@ -123,7 +123,7 @@
     },
     {
         "name": "Multiple 'porting",
-        "text": "<b>Hero Action </b><i>(thwart)</i>: Remove 2 threat from a scheme. Remove 2 additional threat from that scheme for each [[portal]] upgrade attached to it.\n<i>\"Blinking into solid objects is something I tend to avoid. For obvious reasons.\" \u2014Blink</i>",
+        "text": "<b>Hero Action </b><i>(thwart)</i>: Remove 3 threat from a scheme. Remove 2 additional threat from that scheme for each [[portal]] upgrade attached to it.\n<i>\"Blinking into solid objects is something I tend to avoid. For obvious reasons.\" \u2014Blink</i>",
         "type_code": "event",
         "faction_code": "hero",
         "set_code": "blink_by_kajislav",
@@ -159,7 +159,7 @@
     {
         "is_unique": true,
         "name": "Blink's Quiver",
-        "text": "<b>Hero Action</b>: Exhaust Blink's Quiver \u2192 search your deck for a [[portal]] upgrade and add it to your hand. Shuffle your deck.\n<i>\u201cHave a nice trip! Don't forget to write!\u201d \u2014Blink</i>",
+        "text": "<b>Hero Action</b>: Exhaust Blink's Quiver \u2192 search your deck for a [[portal]] upgrade and add it to your hand.\n<b>Hero Action</b>: Put a [[portal]] upgrade from your hand into play.\n<i>\u201cHave a nice trip! Don't forget to write!\u201d \u2014Blink</i>",
         "type_code": "upgrade",
         "faction_code": "hero",
         "set_code": "blink_by_kajislav",
