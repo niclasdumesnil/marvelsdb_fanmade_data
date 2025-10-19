@@ -598,6 +598,7 @@
 		"code": "beast_by_proust",
 		"creator": "Proust",
 		"date_release": "2025-10-11",
+		"language": "fr",
 		"name": "Beast",
 		"octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2f3d266",
 		"pack_type_code": "hero_fanmade",
@@ -605,7 +606,6 @@
 		"size": 22,
 		"status": "beta",
 		"theme": "Marvel",
-		"language": "fr",
 		"visibility": "true"
 	},
 	{
@@ -619,6 +619,19 @@
 		"position": 2026,
 		"size": 22,
 		"status": "released",
+		"visibility": "true"
+	},
+	{
+		"cgdb_id": 2027,
+		"code": "beta_ray_bill_by_ripper3",
+		"creator": "Ripper3",
+		"date_release": "2025-10-18",
+		"name": "Beta Ray Bill",
+		"octgn_id": "f1524875-8b14-4a9a-9249-85a09874dd9d",
+		"pack_type_code": "hero_fanmade",
+		"position": 2027,
+		"size": 22,
+		"status": "sealed",
 		"visibility": "true"
 	}
 ]

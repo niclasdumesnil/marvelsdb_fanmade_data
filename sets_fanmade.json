@@ -523,5 +523,15 @@
     "code": "red_guardian_by_kajislav",
     "name": "Red Guardian by Kajislav",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "beta_ray_bill_by_ripper3_nemesis",
+    "name": "Beta Ray Bill by Ripper3 Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "beta_ray_bill_by_ripper3",
+    "name": "Beta Ray Bill by Ripper3",
+    "card_set_type_code": "hero"
   }
 ]
