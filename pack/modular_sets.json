@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Rhino",
+        "text": "Sooner",
+        "type_code": "modular_sets",
+        "position": 1,
+        "quantity": 1,
+        "code": "999501a",
+        "faction_code": "game_module",
+        "pack_code": "modular_sets",
+        "back_link": "999501b",
+        "traits": "breaking. Stealing. Brute. Crime. Hydra."
+				
+    },
+    {
+        "name": "Rhino",
+        "text": "later",
+        "type_code": "modular_sets",
+        "position": 1,
+        "quantity": 1,
+        "code": "999501b",
+        "faction_code": "game_module",
+        "pack_code": "modular_sets",
+        "hidden": true
+				
+    }
+    
+]

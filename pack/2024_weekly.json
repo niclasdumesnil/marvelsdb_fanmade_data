@@ -1,0 +1,298 @@
+[
+    {
+        "name": "The Ground is Lava",
+        "text": "Win the Mutagen Formula scenario with the Flight modular encounter set, using only heroes who have or can gain the [[Aerial]] trait. During this scenario, whenever an identity changes to alter-ego form, deal that identity 2 damage.",
+        "expansions_needed": "Green Goblin Scenario Pack (Mutagen Formula scenario). NeXt Evolution (Flight modular encounter set).",
+        "type_code": "challenge",
+        "position": 1,
+        "quantity": 1,
+        "code": "999001",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+    },
+    {
+        "name": "Two for One",
+        "text": "Defeat a minion and the villain at the same time with the damage dealt by the Fastball Special event.",
+        "expansions_needed": "Wolverine Hero Pack",
+        "type_code": "challenge",
+        "position": 2,
+        "quantity": 1,
+        "code": "999002",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Magnets and Metal",
+        "text": "Defeat the Magneto villain using only heroes from the following list: Iron Man, War Machine, Ironheart, and/or SP//dr. After setup, search the encounter deck for the Seized! side scheme and reveal it.",
+        "expansions_needed": "Mutant Genesis, War Machine Hero Pack (optional), Ironheart Hero Pack (optional), SP//dr Hero Pack (optional).",
+        "type_code": "challenge",
+        "position": 3,
+        "quantity": 1,
+        "code": "999003",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Teamwork Makes the Dream Work",
+        "text": "Defeat the Hood villain using the Acolytes, Dark Riders, Reavers, Blue Moon, Nasty Boys, Brotherhood, and Exodus modular encounter sets.",
+        "expansions_needed": "The Hood Scenario Pack, Mutant Genesis (Acolytes, Brotherhood modular sets), Gambit Hero Pack (Exodus modular set), Rogue Hero Pack (Reavers modular set), NeXt Evolution (Nasty Boys modular set), Age of Apocalypse (Dark Riders, Blue Moon modular sets).",
+        "type_code": "challenge",
+        "position": 4,
+        "quantity": 1,
+        "code": "999004",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Form Flippers",
+        "text": "Win the En Sabah Nur scenario using any combination of the following heroes: Ant-Man, Wasp, Spectrum, Vision, Shadowcat, and/or Angel.",
+        "expansions_needed": "Age of Apocalypse Ant-Man Hero Pack (optional) Wasp Hero Pack (optional) Mat Titan’s Shadow (optional) Vision Hero Pack (optional) Mutant Genesis (optional) Angel Hero Pack (optional).",
+        "type_code": "challenge",
+        "position": 5,
+        "quantity": 1,
+        "code": "999005",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Flower Power",
+        "text": "Defeat the Ronan the Accuser villain as the Groot hero. Groot must be at full health and possess the Power Stone at the end of the scenario.",
+        "expansions_needed": "Galaxy’s Most Wanted.",
+        "type_code": "challenge",
+        "position": 6,
+        "quantity": 1,
+        "code": "999006",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Breakin’ and Takin’: Ultimate Edition",
+        "text": "Defeat the Rhino villain while including the following modular encounter sets: Infinity Gauntlet, Flight, Super Strength, and Telepathy.",
+        "expansions_needed": "Mad Titan’s Shadow (Infinity Gauntlet modular set), NeXt Evolution (Flight, Super Strength, Telepathy modular sets).",
+        "type_code": "challenge",
+        "position": 7,
+        "quantity": 1,
+        "code": "999007",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Absorbing the Elements",
+        "text": "Defeat the Absorbing Man villain while the following characters are in play (as heroes or allies): Groot, Iceman, Rockslide, and Colossus.",
+        "expansions_needed": "Galaxy’s Most Wanted (Groot hero/ally), Iceman Hero Pack (Iceman hero) or Rogue Hero Pack (Iceman ally), Cyclops Hero Pack (Rockslide ally), Mutant Genesis (Colossus hero/ally), Wolverine Hero Pack (Colossus ally), or Age of Apocalypse (Colossus ally).",
+        "type_code": "challenge",
+        "position": 8,
+        "quantity": 1,
+        "code": "999008",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Gene Pool Party",
+        "text": "Defeat the Unus villain using only heroes with the ‘Pool aspect, one of whom must be Phoenix.",
+        "expansions_needed": "Phoenix Hero Pack, Age of Apocalypse, Deadpool Hero Pack (one per player).",
+        "type_code": "challenge",
+        "position": 9,
+        "quantity": 1,
+        "code": "999009",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Need for Speed",
+        "text": "Attack the Speed Demon minion three times in one turn with the Quicksilver hero.",
+        "expansions_needed": "Quicksilver Hero Pack, The Hood Scenario Pack.",
+        "type_code": "challenge",
+        "position": 10,
+        "quantity": 1,
+        "code": "999010",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Whose Show is it Anyway?",
+        "text": "Defeat the Mojo villain as the Spider-Ham and/or Deadpool hero(es). During this scenario, Show environments cannot leave play (ignore their “When Revealed” effects).",
+        "expansions_needed": "Spider-Ham Hero Pack, MojoMania Scenario Pack, Deadpool Hero Pack.",
+        "type_code": "challenge",
+        "position": 11,
+        "quantity": 1,
+        "code": "999011",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Wrath of the Mad Titan",
+        "text": "Defeat the Thanos villain using only [[Avenger]] and/or [[Guardian]] heroes. The final blow can only be dealt by a hero with 1 remaining hit point. After completing setup, advance the main scheme to stage 2A.",
+        "expansions_needed": "Mad Titan’s Shadow.",
+        "type_code": "challenge",
+        "position": 12,
+        "quantity": 1,
+        "code": "999012",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Complete the Collection",
+        "text": "Win the Infiltrate the Museum scenario as any hero(es). During this scenario, players cannot remove cards from The Collection, and The Grand Collection main scheme no longer causes players to lose when there are 5 per player cards in The Collection.",
+        "expansions_needed": "Galaxy’s Most Wanted.",
+        "type_code": "challenge",
+        "position": 13,
+        "quantity": 1,
+        "code": "999013",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Symbiote Smackdown",
+        "text": "Defeat the Venom villain with the Venom Nemesis encounter set as the modular encounter set.\nOnly the Venom hero, [[Web-Warrior]] heroes, or heroes with “Spider” in their title can be used. After setup, each player searches their collection for a Symbiote Suit and puts it in play under their control, then searches the encounter deck for an Enraged Symbiote and reveals it.\nDuring this scenario, each Symbiote Suit gains permanent, and each Enraged Symbiote triggers the villain’s Forced Response when attacked.",
+        "expansions_needed": "Sinister Motives, Venom Hero Pack.",
+        "type_code": "challenge",
+        "position": 14,
+        "quantity": 1,
+        "code": "999014",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Fickle Crowds",
+        "text": "Defeat MaGog as any hero(es). During this scenario, at the end of each villain phase, move 1 per player ratings counters from The Challengers to The Champion.",
+        "expansions_needed": "MojoMania Scenario Pack.",
+        "type_code": "challenge",
+        "position": 15,
+        "quantity": 1,
+        "code": "999015",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Everyday Heroes",
+        "text": "Win any scenario as any hero(es) without any identities flipping to hero form (each player must stay in alter-ego form for the entire game).",
+        "expansions_needed": "Captain America Hero Pack, Black Widow Hero Pack, Wasp Hero Pack, Cyclops Hero Pack, Gambit Hero Pack.",
+        "type_code": "challenge",
+        "position": 16,
+        "quantity": 1,
+        "code": "999016",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Mystic Mayhem",
+        "text": "Defeat Ebony Maw using the Adam Warlock Nemesis and the Doctor Strange Nemesis encounter sets as modular encounter sets. Only [[Mystic]] heroes can be used for this scenario. At the end of each villain phase, first player reveals the top card of the encounter deck.",
+        "expansions_needed": "The Mad Titan’s Shadow, Doctor Strange Hero Pack.",
+        "type_code": "challenge",
+        "position": 17,
+        "quantity": 1,
+        "code": "999017",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Lock and Load",
+        "text": "Defeat Crossbones using the Osborn Tech, Goblin Gear, and Military Grade modular encounter sets (remove Experimental Weapons). During setup, shuffle four random [[Weapon]] cards from these modular sets together to form the Experimental Weapons deck. Shuffle the remaining cards into the encounter deck as normal. For this scenario, only heroes with [[Weapon]] or [[Armor]] identity-specific upgrades may be used.",
+        "expansions_needed": "The Rise of Red Skull (Crossbones scenario), Sinister Motives (Osborn Tech, Goblin Gear modular encounter sets), NeXt Evolution (Military Grade modular encounter set).",
+        "type_code": "challenge",
+        "position": 18,
+        "quantity": 1,
+        "code": "999018",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Lone Wolf",
+        "text": "Defeat Stryfe solo as any hero with no allies in your deck (replace any identity-specific allies with aspect/basic cards). During this scenario, whenever you defeat a minion, draw 1 card.",
+        "expansions_needed": "NeXt Evolution.",
+        "type_code": "challenge",
+        "position": 19,
+        "quantity": 1,
+        "code": "999019",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    },
+    {
+        "name": "Field Study",
+        "text": "Defeat Dark Beast using the Temporal modular encounter set. Each player must use a hero whose alter-ego has the [[Genius]] trait. During this scenario, whenever a minion is revealed, resolve the “Special” ability on the Setting environment.",
+        "expansions_needed": "Age of Apocalypse (Dark Beast scenario), The Once and Future Kang Scenario Pack (Temporal modular encounter set).",
+        "type_code": "challenge",
+        "position": 20,
+        "quantity": 1,
+        "code": "999020",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+    },
+    {
+        "name": "Battle of the Bots",
+        "text": " Defeat Ultron as any hero(es) using the Sentinels modular encounter set. During this scenario, Drone minions gain the [[Sentinel]] trait, and Sentinel minions gain the [[Drone]] trait.",
+        "expansions_needed": "Mutant Genesis (Sentinels modular encounter set).",
+        "type_code": "challenge",
+        "position": 21,
+        "quantity": 1,
+        "code": "999021",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+    },
+    {
+        "name": "Not Easy Being Green",
+        "text": "Win the Risky Business scenario using only heroes from the following list: She-Hulk, Hulk, Gamora, and/or Drax. Each hero deck must use the Protection aspect for this scenario. During this scenario, if there are ever 6 per player or more infamy counters on Criminal Enterprise, the players lose the game.",
+        "expansions_needed": "Green Goblin Scenario Pack Hulk Hero Pack (optional) Gamora Hero Pack (optional) Drax Hero Pack (optional).",
+        "type_code": "challenge",
+        "position": 22,
+        "quantity": 1,
+        "code": "999022",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+    },
+    {
+        "name": "The Wreckoning",
+        "text": "Win the Wrecking Crew scenario as any hero(es). After setup, search each encounter deck for the following attachments and reveal them: Magic Crowbar, Ball and Chain, Distracting Taunts, and Bulldozer’s Helmet. During this scenario, each villain gains +1 SCH and +1 ATK for each defeated villain.",
+        "expansions_needed": "The Wrecking Crew Scenario Pack.",
+        "type_code": "challenge",
+        "position": 23,
+        "quantity": 1,
+        "code": "999023",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+    },
+    {
+        "name": "Absolutely Zero Tolerance",
+        "text": "Win the Project Wideawake scenario using the Future Past modular encounter set. Players can only use [[X-Men]] heroes for this scenario. After setup, search the encounter deck for Bastion and deal him to the first player as a facedown encounter card. At the end of each villain phase, if Bastion is in the encounter discard pile or victory display, deal him to the first player as a facedown encounter card.",
+        "expansions_needed": "Mutant Genesis.",
+        "type_code": "challenge",
+        "position": 24,
+        "quantity": 1,
+        "code": "999024",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+    },
+    {
+        "name": "Boss Rush",
+        "text": "Defeat the Hela, Taskmaster, and Mister Sinister scenarios, in that order. Players do not reset the game state between each scenario; instead, as soon as one scenario is won, remove all encounter cards from the game (except for Captive allies) and replace them with those of the next scenario, then resume play from the beginning of the player phase. During these scenarios, if any hero is defeated, the players lose the challenge.",
+        "expansions_needed": "The Rise of Red Skull (Taskmaster scenario), The Mad Titan’s Shadow (Hela scenario), and NeXt Evolution (Mister Sinister scenario).",
+        "type_code": "challenge",
+        "position": 25,
+        "quantity": 1,
+        "code": "999025",
+        "faction_code": "game_module",
+        "pack_code": "2024_weekly"
+
+    }
+
+    
+]
