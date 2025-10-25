@@ -543,5 +543,80 @@
     "code": "beast_by_hainz3y2",
     "name": "Beast by Hainz3y2",
     "card_set_type_code": "hero"
-  }
+  },
+  {
+    "code": "skrull_society_by_kajislav",
+    "name": "Skrull Society by Kajislav",
+    "card_set_type_code": "modular"
+   },
+   {
+    "code": "army_of_skrulls_by_kajislav",
+    "name": "Army of Skrulls by Kajislav",
+    "card_set_type_code": "modular"
+   },
+   {
+    "code": "kree-skrull_war_by_kajislav",
+    "name": "Kree-Skrull War by Kajislav",
+    "card_set_type_code": "modular"
+   },
+   {
+    "code": "super-skrull_by_kajislav",
+    "name": "Super-Skrull by Kajislav",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "paibok_by_kajislav",
+    "name": "Paibok by Kajislav",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "new_revengers_by_kajislav",
+    "name": "New Revengers by Kajislav",
+    "card_set_type_code": "modular"
+  },
+   {
+        "code": "skrull_pantheon_by_kajislav",
+        "name": "Skrull Pantheon by Kajislav",
+        "card_set_type_code": "villain"
+    },
+    {
+        "code": "dard'van_sect_by_kajislav",
+        "name": "Dard'Van Sect by Kajislav",
+        "card_set_type_code": "modular"
+    },
+     {
+        "code": "secret_invasion_by_kajislav",
+        "name": "Secret Invasion by Kajislav",
+        "card_set_type_code": "villain"
+    },
+     {
+        "code": "skrull_elite_-_war_skrull_by_kajislav",
+        "name": "Skrull Elite - War Skrull by Kajislav",
+        "card_set_type_code": "modular"
+    },
+    {
+        "code": "skrull_elite_-_crusader_by_kajislav",
+        "name": "Skrull Elite - Crusader by Kajislav",
+        "card_set_type_code": "modular"
+    },
+    {
+        "code": "skrull_elite_-_skymax_by_kajislav",
+        "name": "Skrull Elite - Skymax by Kajislav",
+        "card_set_type_code": "modular"
+    },
+    {
+        "code": "skrull_elite_-_jazinda_by_kajislav",
+        "name": "Skrull Elite - Jazinda by Kajislav",
+        "card_set_type_code": "modular"
+    },
+    {
+        "code": "skrull_elite_-_xavin_by_kajislav",
+        "name": "Skrull Elite - Xavin by Kajislav",
+        "card_set_type_code": "modular"
+    },
+    {
+        "code": "skrull_menace_campaign_by_kajislav",
+        "name": "Skrull Menace Campaign by Kajislav",
+        "card_set_type_code": "modular"
+    }
  ]
