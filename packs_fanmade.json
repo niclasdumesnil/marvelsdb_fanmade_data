@@ -638,14 +638,14 @@
 		"cgdb_id": 2029,
 		"code": "beast_by_hainz3y2",
 		"creator": "Hainz3y2",
-		"date_release": "2025-10-25",
+		"date_release": "2025-10-26",
 		"name": "Beast",
 		"octgn_id": "6577554c-f04a-47cd-bff5-3debd97b0712",
 		"pack_type_code": "hero_fanmade",
 		"position": 2029,
 		"size": 22,
 		"status": "sealed",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 9990,
@@ -653,10 +653,10 @@
 		"creator": "FFG & Merlin",
 		"date_release": "2025-10-23",
 		"name": "Weekly FFG 2024",
-		"status": "sealed",
 		"pack_type_code": "fm_theme",
 		"position": 9990,
 		"size": 25,
+		"status": "sealed",
 		"visibility": "true"
 	},
 	{
@@ -665,10 +665,10 @@
 		"creator": "FFG & Merlin",
 		"date_release": "2025-10-24",
 		"name": "Weekly FFG 2025",
-		"status": "released",
 		"pack_type_code": "fm_theme",
 		"position": 9991,
 		"size": 1,
+		"status": "released",
 		"visibility": "true"
 	},
 	{
@@ -677,10 +677,10 @@
 		"creator": "Villain Theory",
 		"date_release": "2025-10-25",
 		"name": "Modular Sets",
-		"status": "released",
 		"pack_type_code": "fm_theme",
 		"position": 9995,
 		"size": 1,
+		"status": "released",
 		"visibility": "false"
 	}
 ]
