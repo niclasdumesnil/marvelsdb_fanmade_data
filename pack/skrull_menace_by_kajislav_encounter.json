@@ -99,7 +99,7 @@
     {
         "is_unique": true,
         "name": "Paibok",
-        "text": "Toughness.\n[star] Paibok gets +1 SCH and +1 ATK for each [[treachery]] card attached to him.<b>\nForced Interrupt</b>: When a [[treachery]] card would be discarded, attach it facedown to Paibok instead. \n<i>(Lyja's nemesis minion.)</i>\n<i>\"Total humilation is truly the best revenge!\"</i>\n<i></i>",
+        "text": "Toughness.\n[star] Paibok gets +1 SCH and +1 ATK for each [[treachery]] card attached to him.<b>\nForced Interrupt</b>: When a [[treachery]] card would be discarded, attach it facedown to Paibok instead. \n<i>(Lyja's nemesis minion.)</i>",
         "type_code": "minion",
         "faction_code": "encounter",
         "set_code": "lyja_by_kajislav_nemesis",
@@ -1682,7 +1682,7 @@
     },
     {
         "name": "Shapeshifting",
-        "text": "Attach to Paibok.\nPaibok gains stalwart and the [[aerial]] trait.\n<b>Hero Action</b>: Spend [energy][physical] resources \u2192 discard this card. \n [star]<b> Boost</b>: Confuse a character\n you control.<i>\n \"We Skrulls are shape-shifters.\" \u2014Paibok </i>\n<i>\"We Skrulls are shape-shifters.\" \u2014Paibok</i>",
+        "text": "Attach to Paibok.\nPaibok gains stalwart and the [[aerial]] trait.\n<b>Hero Action</b>: Spend [energy][physical] resources \u2192 discard this card. \n [star]<b> Boost</b>: Confuse a character\n you control.<i>\n \"We Skrulls are shape-shifters.\" \u2014Paibok </i>",
         "type_code": "attachment",
         "faction_code": "encounter",
         "set_code": "paibok_by_kajislav",
@@ -2165,7 +2165,7 @@
     },
     {
         "name": "Blessed by Kly'bn",
-        "text": "Attach to the minion with the lowest SCH. If you cannot, this card gains surge.\nX is equal to the number of faith counters on the villain. \n [star]<b> Boost</b>: If this activation is a\n scheme, this card gets +2 boost\n icons ([boost][boost]) for this activation.",
+        "text": "Attach to the minion with the lowest SCH. If you cannot, this card gains surge.\nX is equal to the number of faith counters on the villain. \n [star]<b> Boost</b>: If this activation is a scheme, this card gets +2 boost icons ([boost][boost]) for this activation.",
         "type_code": "attachment",
         "faction_code": "encounter",
         "set_code": "skrull_pantheon_by_kajislav",
@@ -3554,7 +3554,7 @@
     },
         {
         "name": "Cosmic Cube Creation",
-        "text": "Hinder 4[[per player]]. Victory 2.\n<b>When Revealed</b>: Put the set-aside Shaper of Worlds into play engaged with you.\n<b>When Defeated</b>: Each player chooses a copy of the set-aside Cosmic Cube Fragment resource and shuffles it into their deck.\n[[acceleration]]",
+        "text": "Hinder 4[per_hero]. Victory 2.\n<b>When Revealed</b>: Put the set-aside Shaper of Worlds into play engaged with you.\n<b>When Defeated</b>: Each player chooses a copy of the set-aside Cosmic Cube Fragment resource and shuffles it into their deck.\n[acceleration]",
         "type_code": "side_scheme",
         "faction_code": "encounter",
         "set_code": "shaper_of_worlds_by_kajislav",
@@ -3564,7 +3564,8 @@
         "set_position": 2,
         "quantity": 1,
         "boost": 3,
-        "base_threat": 2
+        "base_threat": 2,
+        "base_threat_fixed" : true
     },
     {
 		"code": "500930",
@@ -3903,7 +3904,7 @@
     },
     {
         "name": "Cloning Program",
-        "text": "<i>The Skrull scientists had cloned samples of Deadpool's blood and use it to upgrade a squadron of Super-Skrulls. They also place Deadpool in charge of training these new Super-Skrulls.</i> Each [[skrull]] minion activates 1 additional time during the step two of the villain phase. \nThreat cannot be removed from this scheme while there is no . [[skrull]] minion in play. \n[crisis]",
+        "text": "<i>The Skrull scientists had cloned samples of Deadpool's blood and use it to upgrade a squadron of Super-Skrulls. They also place Deadpool in charge of training these new Super-Skrulls.</i> Each [[skrull]] minion activates 1 additional time during the step two of the villain phase. \nThreat cannot be removed from this scheme while there is no [[skrull]] minion in play. \n[crisis]",
         "type_code": "side_scheme",
         "faction_code": "campaign",
         "set_code": "skrull_elite_-_war_skrull_by_kajislav",
@@ -3948,7 +3949,7 @@
     },
     {
         "name": "Super-Skrull Training Program",
-        "text": "<i>\"Always remember, when you face a superior opponent, learn their weaknesses. Exploit them. That is the Skrull way.\" \u2014Commander Chrell</i> <b>When Revealed</b>: Give each [[skrull]] enemy a tough status card.\n[amplify]",
+        "text": "<i>\"Always remember, when you face a superior opponent, learn their weaknesses. Exploit them. That is the Skrull way.\" \u2014Commander Chrell</i>\n<b>When Revealed</b>: Give each [[skrull]] enemy a tough status card.\n[amplify]",
         "type_code": "side_scheme",
         "faction_code": "encounter",
         "set_code": "skrull_elite_-_xavin_by_kajislav",

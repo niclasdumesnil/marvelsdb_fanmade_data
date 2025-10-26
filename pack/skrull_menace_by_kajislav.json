@@ -385,7 +385,7 @@
     {
         "is_unique": true,
         "name": "Mur-G'nn",
-        "text": "<b>Action</b>: Exhaust Mur-G'nn and deal 1 damage to her \u2192 discard the top card of your deck. If that card's printed resource has: [physical] - Ready a card your control. [energy] - Give an identity a tough status card. [mental] - Heal 3 damage from a character. Mur-G'nn to your hand. [wild] - Choose one of the above.\n<i>\u201cThough I was born and bred for war, I have no taste for violance.\"</i>",
+        "text": "<b>Action</b>: Exhaust Mur-G'nn and deal 1 damage to her \u2192 discard the top card of your deck. If that card's printed resource has: [physical] - Ready a card your control. [energy] - Give an identity a tough status card. [mental] - Heal 3 damage from a character. Mur-G'nn to your hand. [wild] - Choose one of the above.",
         "type_code": "ally",
         "faction_code": "protection",
         "pack_code": "skrull_menace_by_kajislav",
@@ -1336,7 +1336,7 @@
     },
     {
         "name": "Skrull Shapeshifter",
-        "text": "Play under any player's control. \nYour identity gains the [[skrull]] trait.\n<b>Interrupt</b>: When you would be defeated, set your hit point dial to 1 instead. Then, discard this card.\n<i>\u201cEMBIGGEN!\u201d \u2013Ms. Marvel</i>",
+        "text": "Play under any player's control. \nYour identity gains the [[skrull]] trait.\n<b>Interrupt</b>: When you would be defeated, set your hit point dial to 1 instead. Then, discard this card.",
         "type_code": "upgrade",
          "faction_code": "campaign",
           "set_code": "skrull_menace_campaign_by_kajislav",  
@@ -1352,7 +1352,7 @@
     {
         "is_unique": true,
         "name": "Sy-Torak Gem",
-        "text": "Play under any player's control.\nYou get +3 hit points.\nYour hero gets +1 ATK.\n<b>Forced Interrupt</b>: When your deck empties, spend [energy] resource. If you cannot, discard Sy-Torak Gem.\n<i>\u201cEMBIGGEN!\u201d \u2013Ms. Marvel</i>",
+        "text": "Play under any player's control.\nYou get +3 hit points.\nYour hero gets +1 ATK.\n<b>Forced Interrupt</b>: When your deck empties, spend [energy] resource. If you cannot, discard Sy-Torak Gem.",
         "type_code": "upgrade",
         "faction_code": "campaign",
         "pack_code": "skrull_menace_by_kajislav",
