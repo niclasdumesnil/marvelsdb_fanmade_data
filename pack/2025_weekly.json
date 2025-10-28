@@ -10,6 +10,18 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+    {
+        "name": "Strength in Diversity",
+        "text": "Defeat any scenario as any hero(es). For this scenario, each player must adhere to the following deckbuilding restriction: no two allies in your deck can have any of the same printed traits, including identity-specific allies.",
+        "expansions_needed": "Any",
+        "type_code": "challenge",
+        "position": 2,
+        "quantity": 1,
+        "code": "999102",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
     
 ]
