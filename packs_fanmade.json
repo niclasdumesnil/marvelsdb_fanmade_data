@@ -681,5 +681,18 @@
 		"size": 1,
 		"status": "released",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2030,
+		"code": "havok_by_rainy",
+		"creator": "Rainy",
+		"date_release": "2025-10-29",
+		"name": "Havok",
+		"octgn_id": "6c7d476a-f54a-4e3c-b3ac-118c038671c7",
+		"pack_type_code": "hero_fanmade",
+		"position": 2030,
+		"size": 23,
+		"status": "released",
+		"visibility": "true"
 	}
 ]
