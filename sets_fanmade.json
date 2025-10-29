@@ -629,9 +629,19 @@
     "name": "Expert Skrull by Kajislav",
     "card_set_type_code": "modular"
   },
-   {
+  {
     "code": "shaper_of_worlds_by_kajislav",
     "name": "Shaper of Worlds by Kajislav",
     "card_set_type_code": "modular"
+  },
+  {
+    "code": "havok_by_rainy_nemesis",
+    "name": "Havok by Rainy Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "havok_by_rainy",
+    "name": "Havok by Rainy",
+    "card_set_type_code": "hero"
   }
 ]

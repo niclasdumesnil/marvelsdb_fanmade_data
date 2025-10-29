@@ -18,7 +18,7 @@
 		"scheme_star": true,
 		"set_code": "vermin_by_nugget",
 		"set_position": 1,
-		"stage": 1,
+		"stage": "I",
 		"text": "[star] <b>Forced Response</b>: After Vermin activates against you, discard the top card of the encounter deck. If a <b><i>RAT</i></b> minion was discarded this way, put it into play engaged with you.",
 		"traits": "Mutate. Rat.",
 		"type_code": "villain"
@@ -42,7 +42,7 @@
 		"scheme_star": true,
 		"set_code": "vermin_by_nugget",
 		"set_position": 2,
-		"stage": 2,
+		"stage": "II",
 		"text": "[star] <b>Forced Response</b>: After Vermin activates against you, discard the top two cards of the encounter deck. Put the first <b><i>RAT</i></b> minion that was discarded this way, into play engaged with you.",
 		"traits": "Mutate. Rat.",
 		"type_code": "villain"
@@ -66,7 +66,7 @@
 		"scheme_star": true,
 		"set_code": "vermin_by_nugget",
 		"set_position": 3,
-		"stage": 3,
+		"stage": "III",
 		"text": "[star] <b>Forced Response</b>: After Vermin activates against you, discard the top two cards of the encounter deck. Put each <b><i>RAT</i></b> minion that was discarded this way, into play engaged with you. Resolve the \"<b>Special</b>\" effect on Even More Rats.",
 		"traits": "Mutate. Rat.",
 		"type_code": "villain"
@@ -84,7 +84,7 @@
 		"quantity": 1,
 		"set_code": "vermin_by_nugget",
 		"set_position": 4,
-		"stage": 1,
+		"stage": "IA",
 		"text": "<b>Contents</b>: Vermin (I) and Vermin (II). <i>Vermin (II) and Vermin (III) in expert mode instead.)</i> Vermin and Standard Encounter sets. One modular encounter set (<i>recommended: Feral Instincts</i>).\n<b>Setup</b>: Put the Even More Rats Environment into play. Put a Regular Rats minion into play engaged with each player. Shuffle the encounter deck. Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
@@ -107,7 +107,7 @@
 		"quantity": 1,
 		"set_code": "vermin_by_nugget",
 		"set_position": 4,
-		"stage": 1,
+		"stage": "1B",
 		"text": "[star] <b>Forced Reponse</b>: After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"<b>Special</b>\" effect on Even More Rats.",
 		"threat": 6,
 		"type_code": "main_scheme"
@@ -126,7 +126,7 @@
 		"quantity": 1,
 		"set_code": "vermin_by_nugget",
 		"set_position": 5,
-		"stage": 2,
+		"stage": "2A",
 		"text": "<b>When Revealed</b>: Search the encounter deck and discard pile for Bringer of Plague and reveal it. Advance to stage 2B.",
 		"type_code": "main_scheme"
 	},
@@ -149,7 +149,7 @@
 		"quantity": 1,
 		"set_code": "vermin_by_nugget",
 		"set_position": 5,
-		"stage": 2,
+		"stage": "2B",
 		"text": "[star] <b>Forced Reponse</b>: After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"Special\" effect on Even More Rats.\n<b>If this scheme is completed, rats have invaded the city and the players lose the game.</b>",
 		"threat": 8,
 		"type_code": "main_scheme"
@@ -399,7 +399,7 @@
 		"scheme": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 1,
-		"stage": 1,
+		"stage": "I",
 		"text": "[star] <b>Forced Interrupt</b>: When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
 		"traits": "Criminal.",
 		"type_code": "villain"
@@ -420,7 +420,7 @@
 		"scheme": 2,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 2,
-		"stage": 2,
+		"stage": "II",
 		"text": "Scorpion cannot be stunned.\n[star] <b>Forced Interrupt</b>: When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
 		"traits": "Criminal.",
 		"type_code": "villain"
@@ -440,7 +440,7 @@
 		"scheme": 2,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 3,
-		"stage": 3,
+		"stage": "III",
 		"text": "Scorpion cannot be stunned.\n<b>When Revealed</b>: Search the encounter deck and discard pile for Tail Laser and reveal it.\n[star] <b>Forced Interrupt:</b> When the villain phase ends, if Scorpion's Tail is not attached to Scorpion, put it into play and attach it to Scorpion.",
 		"traits": "Criminal.",
 		"type_code": "villain"
@@ -458,7 +458,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 4,
-		"stage": 1,
+		"stage": "1A",
 		"text": "<b>Contents</b>: Scorpion (I) and Scorpion (II). <i>Scorpion (II) and Scorpion (III) in expert mode instead.).</i> Scorpion and Standard Encounter sets. One modular encounter set (<i>recommended: Feral Instincts</i>).\n<b>Setup</b>: Put the J. Jonah Jameson support into play. Put the Scorpion's Tail into play and attach it to Scorpion. Shuffle the encounter deck. Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
@@ -477,7 +477,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 4,
-		"stage": 1,
+		"stage": "1B",
 		"text": "<b>When Completed</b>: Place 1 wound counter on the J. Jonah Jameson support.",
 		"threat": 6,
 		"type_code": "main_scheme"
@@ -495,7 +495,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 5,
-		"stage": 2,
+		"stage": "2A",
 		"text": "<b>When Revealed</b>: Advance to stage 2B.",
 		"type_code": "main_scheme"
 	},
@@ -515,7 +515,7 @@
 		"quantity": 1,
 		"set_code": "scorpion_by_nugget",
 		"set_position": 5,
-		"stage": 2,
+		"stage": "2B",
 		"text": "<b>Forced Interrupt</b>: When this scheme would be completed, place 1 wound counter on the J. Jonah Jameson support instead. Then, remove all threat from this scheme and any upgrades and attachments attached to it.",
 		"threat": 3,
 		"type_code": "main_scheme"
@@ -767,7 +767,7 @@
 		"scheme_star": true,
 		"set_code": "lizard_by_nugget",
 		"set_position": 1,
-		"stage": 1,
+		"stage": "I",
 		"text": "[star] <b>Forced Response</b>: After The Lizard schemes, flip The Lizard.\n<b>Forced Interrupt</b>: When the villain phase ends, discard 1[per_hero] cards from the top of the encounter deck. Reveal each <b><i>REPTILE</i></b> attachment that was discarded this way.",
 		"traits": "Brute. Reptile.",
 		"type_code": "villain"
@@ -791,7 +791,7 @@
 		"scheme_star": true,
 		"set_code": "lizard_by_nugget",
 		"set_position": 1,
-		"stage": 1,
+		"stage": "I",
 		"text": "Curtis Connors cannot take damage.\n[star] <b>Forced Interrupt</b>: When Curtis Connors would attack, place 1 shame counter on the Reptilian Rage environment instead. If there are 3 shame counters there, Curtis Connors schemes.\n[star] <b>Forced Response</b>: After Curtis Connors schemes, flip Curtis Connors.",
 		"traits": "Genius. Scientist.",
 		"type_code": "villain"
@@ -814,7 +814,7 @@
 		"scheme_star": true,
 		"set_code": "lizard_by_nugget",
 		"set_position": 2,
-		"stage": 2,
+		"stage": "II",
 		"text": "[star] <b>Forced Response</b>: After The Lizard schemes, flip The Lizard.\n<b>Forced Interrupt</b>: When the villain phase ends, discard 1[per_hero] cards from the top of the encounter deck. Each player in player order must reveal each the topmost <b><i>REPTILE</i></b> attachment in the encounter discard pile.",
 		"traits": "Brute. Reptile.",
 		"type_code": "villain"
@@ -838,7 +838,7 @@
 		"scheme_star": true,
 		"set_code": "lizard_by_nugget",
 		"set_position": 2,
-		"stage": 2,
+		"stage": "II",
 		"text": "Curtis Connors cannot take damage.\n[star] <b>Forced Interrupt</b>: When Curtis Connors would attack, place 1 shame counter on the Reptilian Rage environment instead. If there are 3 shame counters there, Curtis Connors schemes.\n[star] <b>Forced Response</b>: After Curtis Connors schemes, flip Curtis Connors.",
 		"traits": "Genius. Scientist.",
 		"type_code": "villain"
@@ -861,7 +861,7 @@
 		"scheme_star": true,
 		"set_code": "lizard_by_nugget",
 		"set_position": 3,
-		"stage": 3,
+		"stage": "III",
 		"text": "[star] <b>Forced Response</b>: After The Lizard schemes, flip The Lizard.\n<b>Forced Interrupt</b>: When the villain phase ends, discard 2[per_hero] cards from the top of the encounter deck. Each player in player order must reveal each the topmost <b><i>REPTILE</i></b> attachment in the encounter discard pile.",
 		"traits": "Brute. Reptile.",
 		"type_code": "villain"
@@ -885,7 +885,7 @@
 		"scheme_star": true,
 		"set_code": "lizard_by_nugget",
 		"set_position": 3,
-		"stage": 3,
+		"stage": "III",
 		"text": "Curtis Connors cannot take damage.\n[star] <b>Forced Interrupt</b>: When Curtis Connors would attack, place 2 shame counter on the Reptilian Rage environment instead. If there are 3 shame counters there, Curtis Connors schemes.\n[star] <b>Forced Response</b>: After Curtis Connors schemes, flip Curtis Connors.",
 		"traits": "Genius. Scientist.",
 		"type_code": "villain"
@@ -903,7 +903,7 @@
 		"quantity": 1,
 		"set_code": "lizard_by_nugget",
 		"set_position": 4,
-		"stage": 1,
+		"stage": "1A",
 		"text": "<b>Contents</b>: Curtis Connors (I) and Curtis Connors (II). <i>(Curtis Connors (II) and Curtis Connors (III) instead for expert mode.)</i> The Lizard and Standard encounters sets. One modular encounter set <i>(recommanded: Lizard Thralls)</i>.\n<b>Setup</b>: Put the Reptilian Rage environment into play. The villain starts on the Curtis Connors side. Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
@@ -923,7 +923,7 @@
 		"quantity": 1,
 		"set_code": "lizard_by_nugget",
 		"set_position": 4,
-		"stage": 1,
+		"stage": "1B",
 		"text": "<b>When completed</b>: Put shame counters on the Reptilian Rage environment so that it has 3 shame counters on it. If The Lizard is not in play, flip Curtis Connors.",
 		"threat": 4,
 		"type_code": "main_scheme"
@@ -941,7 +941,7 @@
 		"quantity": 1,
 		"set_code": "lizard_by_nugget",
 		"set_position": 5,
-		"stage": 2,
+		"stage": "2A",
 		"text": "<b>When Revealed</b>: Search the encounter deck and discard pile for a copy of Reptile Research and reveal it. Advance to stage 2B.",
 		"type_code": "main_scheme"
 	},
@@ -962,7 +962,7 @@
 		"quantity": 1,
 		"set_code": "lizard_by_nugget",
 		"set_position": 5,
-		"stage": 2,
+		"stage": "2B",
 		"text": "X is the number of <b><i>REPTILE</i></b> cards (<i>including The Lizard</i>) in play.",
 		"threat": 10,
 		"type_code": "main_scheme"
@@ -980,7 +980,7 @@
 		"quantity": 1,
 		"set_code": "lizard_by_nugget",
 		"set_position": 6,
-		"stage": 3,
+		"stage": "3A",
 		"text": "<b>When Revealed</b>: If The Lizard is not in play, flip Curtis Connors. Put shame counters on the Reptilian Rage environment so that it has 3 shame counters. Advance to stage 3B.",
 		"type_code": "main_scheme"
 	},
@@ -1000,7 +1000,7 @@
 		"quantity": 1,
 		"set_code": "lizard_by_nugget",
 		"set_position": 6,
-		"stage": 3,
+		"stage": "3B",
 		"text": "The Lizard cannot be flipped.\nThreat cannot be removed from this scheme.\nIf this stage is completed, Curtis Connors is dead, and the players lose the game.",
 		"threat": 6,
 		"type_code": "main_scheme"
@@ -1321,7 +1321,7 @@
 		"scheme": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 1,
-		"stage": 1,
+		"stage": "I",
 		"text": "While Vulture has the <b><i>AERIAL</i></b> trait, as an additional cost to attack Vulture, the attacker or the attack must have the <b><i>AERIAL</i></b> trait, or the attack must have ranged.",
 		"traits": "Aerial. Criminal.",
 		"type_code": "villain"
@@ -1342,7 +1342,7 @@
 		"scheme": 2,
 		"set_code": "vulture_by_nugget",
 		"set_position": 2,
-		"stage": 2,
+		"stage": "II",
 		"text": "While Vulture has the <b><i>AERIAL</i></b> trait, as an additional cost to attack Vulture, the attacker or the attack must have the <b><i>AERIAL</i></b> trait, or the attack must have ranged.\n[star] <b>Forced Interrupt</b>: When Vulture attacks a character with less than half of their maximum hit points remaining, he gets +1 ATK for that attack.",
 		"traits": "Aerial. Criminal.",
 		"type_code": "villain"
@@ -1363,7 +1363,7 @@
 		"scheme": 3,
 		"set_code": "vulture_by_nugget",
 		"set_position": 3,
-		"stage": 3,
+		"stage": "III",
 		"text": "While Vulture has the <b><i>AERIAL</i></b> trait, as an additional cost to attack Vulture, the attacker or the attack must have the <b><i>AERIAL</i></b> trait, or the attack must have ranged.\n[star] <b>Forced Interrupt</b>: When Vulture attacks a character with less than half of their maximum hit points remaining, he gets +1 ATK for that attack.",
 		"traits": "Aerial. Criminal.",
 		"type_code": "villain"
@@ -1380,7 +1380,7 @@
 		"quantity": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 4,
-		"stage": 1,
+		"stage": "1A",
 		"text": "<b>Contents</b>: Vulture (I) and Vulture (II). <i>(Vulture (II) and Vulture (III) instead for expert mode.)</i> Vulture and Standard encounter sets. One modular encounter set <i>(recomanded: Red Vulture)</i>.\n<b>Setup</b>: Search the encounter deck and discard pile for the S.H.I.E.L.D. Wingsuits environment and put it into play. Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
@@ -1399,7 +1399,7 @@
 		"quantity": 1,
 		"set_code": "vulture_by_nugget",
 		"set_position": 4,
-		"stage": 1,
+		"stage": "1B",
 		"text": "<b>Forced Response</b>: After a character you control without the <b><i>AERIAL</i></b> trait thwarts and removes threat from this scheme, choose to either deal 1 damage to that character or place 1 threat on this scheme.\n<b>If the scheme is completed, the players lose the game.</b>",
 		"threat": 11,
 		"type_code": "main_scheme"
@@ -1700,7 +1700,7 @@
 		"scheme": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 1,
-		"stage": 1,
+		"stage": "I",
 		"text": "<b>Forced Interrupt</b>: When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit once per round per player.)",
 		"traits": "Mercenary. Hunter.",
 		"type_code": "villain"
@@ -1720,7 +1720,7 @@
 		"scheme": 2,
 		"set_code": "kraven_by_nugget",
 		"set_position": 2,
-		"stage": 2,
+		"stage": "II",
 		"text": "<b>When Revealed</b>: Search the encounter deck and discard pile for the Tooth Necklace attachment and reveal it.\n<b>Forced Interrupt:</b> When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit once per round per player.)",
 		"traits": "Mercenary. Hunter.",
 		"type_code": "villain"
@@ -1740,7 +1740,7 @@
 		"scheme": 3,
 		"set_code": "kraven_by_nugget",
 		"set_position": 3,
-		"stage": 3,
+		"stage": "III",
 		"text": "<b>When Revealed</b>: Deal each player a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck.\n<b>Forced Interrupt</b>: When a character you control attacks Kraven The Hunter, deal yourself a <b><i>TRAP</i></b> card from the <b><i>TRAP</i></b> deck. Reveal each <b><i>TRAP</i></b> card that has been dealt to you. (Limit twice per round per player.)",
 		"traits": "Mercenary. Hunter.",
 		"type_code": "villain"
@@ -1758,7 +1758,7 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 4,
-		"stage": 1,
+		"stage": "1A",
 		"text": "<b>Contents</b>: Kraven The Hunter (I) and Kraven The Hunter (II). <i>(Kraven The Hunter (II) and Kraven The Hunter (III) instead for expert mode.)</i> Kraven The Hunter and Standard encounter sets. Trap Deck. One modular encounter set <i>(recommended: Savage Six)</i>.\n<b>Setup</b>: Kraven The Hunter starts the game with a separate <b><i>TRAP</i></b> deck. (See insert.) Advance to stage 1B.",
 		"type_code": "main_scheme"
 	},
@@ -1778,7 +1778,7 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 4,
-		"stage": 1,
+		"stage": "1B",
 		"text": "<b>Forced Interrupt</b>: When you flip to hero form, place 2 threat here.\n<b>Forced Response</b>: After you flip to alter-ego form, remove 1 threat from this scheme.",
 		"type_code": "main_scheme"
 	},
@@ -1795,7 +1795,7 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 5,
-		"stage": 2,
+		"stage": "2A",
 		"text": "<b>When Revealed</b>: Search the encounter deck and discard pile for the Calypso Serum side scheme and reveal it. Shuffle the encounter deck. Advance to stage 2B.",
 		"type_code": "main_scheme"
 	},
@@ -1815,7 +1815,7 @@
 		"quantity": 1,
 		"set_code": "kraven_by_nugget",
 		"set_position": 5,
-		"stage": 2,
+		"stage": "2B",
 		"text": "<b>Forced Response</b>: After a <b><i>TRAP</i></b> card is revealed, place 1 threat here. (Limit one per player per round.)\n<b>If this stage is completed, the players have been hunted and therefore lose the game.</b>",
 		"type_code": "main_scheme"
 	},

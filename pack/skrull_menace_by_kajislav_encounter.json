@@ -175,7 +175,7 @@
         "scheme": 2,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 1,
-        "stage": 1,
+        "stage": "I",
         "text": "Retaliate 1.\n[star] Emperor Dorrek I's attacks gain ranged.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -197,7 +197,7 @@
         "scheme": 2,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 2,
-        "stage": 2,
+        "stage": "II",
         "text": "Retaliate 1.\n[star] Emperor Dorrek I's attacks gain ranged.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -219,7 +219,7 @@
         "scheme": 3,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 3,
-        "stage": 3,
+        "stage": "III",
         "text": "Retaliate 2.\n[star] Emperor Dorrek I's attacks gain ranged.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -241,7 +241,7 @@
         "scheme": 1,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 4,
-        "stage": 1,
+        "stage": "I",
         "text": "Incite 1[per_hero].\n[star] Emperor Dorrek VII's attacks gain overkill.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -263,7 +263,7 @@
         "scheme": 1,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 5,
-        "stage": 2,
+        "stage": "II",
         "text": "Incite 1[per_hero].\n[star] Emperor Dorrek VII's attacks gain overkill.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -285,7 +285,7 @@
         "scheme": 2,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 6,
-        "stage": 3,
+        "stage": "III",
         "text": "Incite 1[per_hero].\n[star] Emperor Dorrek VII's attacks gain overkill.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -307,7 +307,7 @@
         "scheme": 2,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 7,
-        "stage": 1,
+        "stage": "I",
         "text": "<b>When Revealed:</b> Empress R'Klll attacks each player in hero form.\n[star] Empress R'Klll's attacks gain piercing.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -329,7 +329,7 @@
         "scheme": 3,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 8,
-        "stage": 2,
+        "stage": "II",
         "text": "<b>When Revealed:</b> Empress R'Klll attacks each player in hero form.\n[star] Empress R'Klll's attacks gain piercing.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -351,7 +351,7 @@
         "scheme": 4,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 9,
-        "stage": 3,
+        "stage": "III",
         "text": "<b>When Revealed:</b> Empress R'Klll attacks each player in hero form.\n[star] Empress R'Klll's attacks gain piercing.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -372,7 +372,7 @@
         "scheme": 2,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 10,
-        "stage": 1,
+        "stage": "I",
         "text": "Steady. Toughness.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -393,7 +393,7 @@
         "scheme": 2,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 11,
-        "stage": 2,
+        "stage":"II",
         "text": "Steady. Toughness.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
@@ -414,7 +414,7 @@
         "scheme": 3,
         "set_code": "skrull_empire_by_kajislav",
         "set_position": 12,
-        "stage": 3,
+        "stage": "III",
         "text": "Stalwart. Toughness.\nX : the villain don't have hit points. Damage are dealt do the Skrull Empire Environment.",
         "traits": "Skrull.",
         "type_code": "villain"
