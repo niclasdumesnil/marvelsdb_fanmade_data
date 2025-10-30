@@ -643,5 +643,15 @@
     "code": "havok_by_rainy",
     "name": "Havok by Rainy",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "throg_by_rainy_nemesis",
+    "name": "Throg by Rainy Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "throg_by_rainy",
+    "name": "Throg by Rainy",
+    "card_set_type_code": "hero"
   }
 ]

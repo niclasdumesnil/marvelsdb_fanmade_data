@@ -694,5 +694,18 @@
 		"size": 23,
 		"status": "released",
 		"visibility": "true"
+	},
+	{
+		"cgdb_id": 2031,
+		"code": "throg_by_rainy",
+		"creator": "Rainy",
+		"date_release": "2025-11-04",
+		"name": "Throg",
+		"octgn_id": "2ede8afd-13d6-42ae-b6a4-df1336220174",
+		"pack_type_code": "hero_fanmade",
+		"position": 2031,
+		"size": 22,
+		"status": "released",
+		"visibility": "false"
 	}
 ]
