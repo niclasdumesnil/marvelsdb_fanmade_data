@@ -653,5 +653,15 @@
     "code": "throg_by_rainy",
     "name": "Throg by Rainy",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "hercules_by_rainy_nemesis",
+    "name": "Hercules by Rainy Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "hercules_by_rainy",
+    "name": "Hercules by Rainy",
+    "card_set_type_code": "hero"
   }
 ]

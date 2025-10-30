@@ -707,5 +707,18 @@
 		"size": 22,
 		"status": "released",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2032,
+		"code": "hercules_by_rainy",
+		"creator": "Rainy",
+		"date_release": "2025-11-07",
+		"name": "Hercules",
+		"octgn_id": "5f69f8a1-6e2a-4995-b4fb-de4864a6dfe6",
+		"pack_type_code": "hero_fanmade",
+		"position": 2032,
+		"size": 22,
+		"status": "released",
+		"visibility": "false"
 	}
 ]
