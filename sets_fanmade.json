@@ -663,5 +663,15 @@
     "code": "hercules_by_rainy",
     "name": "Hercules by Rainy",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "venom_by_ripper3_nemesis",
+    "name": "Venom by Ripper3 Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "venom_by_ripper3",
+    "name": "Venom by Ripper3",
+    "card_set_type_code": "hero"
   }
 ]

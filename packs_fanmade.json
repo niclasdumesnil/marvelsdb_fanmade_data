@@ -720,5 +720,18 @@
 		"size": 22,
 		"status": "released",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2033,
+		"code": "venom_by_ripper3",
+		"creator": "Ripper3",
+		"date_release": "2025-11-02",
+		"name": "Venom",
+		"octgn_id": "6a999490-11a8-4533-9c1e-d53b00f48ec0",
+		"pack_type_code": "hero_fanmade",
+		"position": 2033,
+		"size": 24,
+		"status": "released",
+		"visibility": "false"
 	}
 ]
