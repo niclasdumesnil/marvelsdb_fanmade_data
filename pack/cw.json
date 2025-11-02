@@ -936,7 +936,7 @@
         "quantity": 1,
         "resource_wild": 1,
         "set_code": "captain_america_leader",
-        "text": "<b>Action<b/>: Choose a minion engaged with you and choose a player on the enemy team. That minion engages that player.",
+        "text": "<b>Action</b>: Choose a minion engaged with you and choose a player on the enemy team. That minion engages that player.",
         "type_code": "event"
     },
     {
