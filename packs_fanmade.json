@@ -361,7 +361,7 @@
 		"cgdb_id": 2015,
 		"code": "ms_marvel_by_cptscorp_&_rycoran",
 		"creator": "CptScorp & RyCoRan",
-		"date_release": "2025-07-12",
+		"date_release": "2025-11-04",
 		"name": "Ms. Marvel",
 		"octgn_id": "a4082154-3c42-520c-ade7-5ee1eca38441",
 		"pack_type_code": "hero_fanmade",
@@ -369,7 +369,7 @@
 		"size": 22,
 		"status": "released",
 		"theme": "Marvel",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 2530,
@@ -650,7 +650,7 @@
 		"cgdb_id": 9990,
 		"code": "2024_weekly",
 		"creator": "FFG & Merlin",
-		"date_release": "2025-10-23",
+		"date_release": "2025-10-22",
 		"name": "Weekly FFG 2024",
 		"pack_type_code": "fm_theme",
 		"position": 9990,
@@ -662,11 +662,11 @@
 		"cgdb_id": 9991,
 		"code": "2025_weekly",
 		"creator": "FFG & Merlin",
-		"date_release": "2025-10-28",
+		"date_release": "2025-11-03",
 		"name": "Weekly FFG 2025",
 		"pack_type_code": "fm_theme",
 		"position": 9991,
-		"size": 2,
+		"size": 3,
 		"status": "released",
 		"visibility": "true"
 	},

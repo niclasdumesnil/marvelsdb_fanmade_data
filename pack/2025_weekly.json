@@ -22,6 +22,18 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+    {
+        "name": "The Futurist",
+        "text": "Defeat the Iron Man leader as any hero(es). During this scenario, whenever a Tech attachment is revealed, deal 2 indirect damage to each player, and whenever the Stark Tower side scheme is defeated, deal it to the first player as a facedown encounter card.",
+        "expansions_needed": "Civil War",
+        "type_code": "challenge",
+        "position": 3,
+        "quantity": 1,
+        "code": "999103",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
     
 ]
