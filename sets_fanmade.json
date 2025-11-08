@@ -673,5 +673,15 @@
     "code": "venom_by_ripper3",
     "name": "Venom by Ripper3",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "scarlet_spider_by_ripper3_nemesis",
+    "name": "Scarlet Spider by Ripper3 Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "scarlet_spider_by_ripper3",
+    "name": "Scarlet Spider by Ripper3",
+    "card_set_type_code": "hero"
   }
 ]

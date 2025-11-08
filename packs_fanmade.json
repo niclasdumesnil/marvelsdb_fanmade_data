@@ -733,5 +733,18 @@
 		"size": 24,
 		"status": "released",
 		"visibility": "true"
+	},
+	{
+		"cgdb_id": 2035,
+		"code": "scarlet_spider_by_ripper3",
+		"creator": "Ripper3",
+		"date_release": "2025-11-08",
+		"name": "Scarlet Spider",
+		"octgn_id": "22b2ebb7-99cf-4402-930c-c080191f1036",
+		"pack_type_code": "hero_fanmade",
+		"position": 2035,
+		"size": 24,
+		"status": "released",
+		"visibility": "true"
 	}
 ]
