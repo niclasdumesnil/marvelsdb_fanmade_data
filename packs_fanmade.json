@@ -759,5 +759,18 @@
 		"size": 23,
 		"status": "released",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2036,
+		"code": "luke_cage_by_rainy",
+		"creator": "Rainy",
+		"date_release": "2025-11-14",
+		"name": "Luke Cage",
+		"octgn_id": "2ff1dcda-c503-479c-9a9e-22f9ba24a941",
+		"pack_type_code": "hero_fanmade",
+		"position": 2036,
+		"size": 22,
+		"status": "released",
+		"visibility": "false"
 	}
 ]
