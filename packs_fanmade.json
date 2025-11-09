@@ -772,5 +772,18 @@
 		"size": 22,
 		"status": "released",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2028,
+		"code": "alligator_loki_by_ripper3",
+		"creator": "Ripper3",
+		"date_release": "2025-11-20",
+		"name": "Alligator Loki",
+		"octgn_id": "62f6ed57-a6a4-4598-bf0f-f9005d21bb50",
+		"pack_type_code": "hero_fanmade",
+		"position": 2028,
+		"size": 22,
+		"status": "released",
+		"visibility": "false"
 	}
 ]

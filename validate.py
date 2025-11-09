@@ -160,10 +160,10 @@ def load_types(args):
     types_path = os.path.join(args.base_path, "types.json")
     types_data = load_json_file(args, types_path)
 
-    # Ajout des types fanmade s'ils existent
-    types_fanmade_path = os.path.join(args.base_path, "packtypes_fanmade.json")
+    # Ajout des types fanmade s'ils existent (types_fanmade.json)
+    types_fanmade_path = os.path.join(args.base_path, "types_fanmade.json")
     if os.path.isfile(types_fanmade_path):
-        verbose_print(args, "Loading fanmade type index file...\n", 1)
+        verbose_print(args, "Loading fanmade type index file (types_fanmade.json)...\n", 1)
         types_fanmade_data = load_json_file(args, types_fanmade_path)
         if types_fanmade_data:
             types_data.extend(types_fanmade_data)
