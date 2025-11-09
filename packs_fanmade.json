@@ -746,5 +746,18 @@
 		"size": 24,
 		"status": "released",
 		"visibility": "true"
+	},
+	{
+		"cgdb_id": 2034,
+		"code": "superior_spider-man_by_ripper3",
+		"creator": "Ripper3",
+		"date_release": "2025-11-09",
+		"name": "Superior Spider-Man",
+		"octgn_id": "9959d3ea-b7fa-4688-95f7-e75d379d67ed",
+		"pack_type_code": "hero_fanmade",
+		"position": 2034,
+		"size": 23,
+		"status": "released",
+		"visibility": "false"
 	}
 ]

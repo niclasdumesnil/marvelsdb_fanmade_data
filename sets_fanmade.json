@@ -683,5 +683,20 @@
     "code": "scarlet_spider_by_ripper3",
     "name": "Scarlet Spider by Ripper3",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "superior_spider-man_by_ripper3_nemesis",
+    "name": "Superior Spider-Man by Ripper3 Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "superior_spider-man_by_ripper3",
+    "name": "Superior Spider-Man by Ripper3",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "spiderlings_by_ripper3",
+    "name": "Spiderlings by Ripper3",
+    "card_set_type_code": "hero"
   }
 ]
