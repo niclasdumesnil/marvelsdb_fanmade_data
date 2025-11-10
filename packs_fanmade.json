@@ -811,5 +811,18 @@
 		"size": 23,
 		"status": "released",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2039,
+		"code": "howard_the_duck_by_rycoran",
+		"creator": "RyCoRan",
+		"date_release": "2025-11-10",
+		"name": "Howard The Duck",
+		"octgn_id": "57c51749-3457-48bc-a9fe-97d1e6a28983",
+		"pack_type_code": "hero_fanmade",
+		"position": 2039,
+		"size": 23,
+		"status": "released",
+		"visibility": "false"
 	}
 ]

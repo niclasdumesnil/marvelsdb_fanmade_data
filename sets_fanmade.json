@@ -738,5 +738,15 @@
     "code": "blue_marvel_by_rainy",
     "name": "Blue Marvel by Rainy",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "howard_the_duck_by_rycoran_nemesis",
+    "name": "Howard The Duck by RyCoRan Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "howard_the_duck_by_rycoran",
+    "name": "Howard The Duck by RyCoRan",
+    "card_set_type_code": "hero"
   }
 ]
