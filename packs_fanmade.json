@@ -798,5 +798,18 @@
 		"size": 24,
 		"status": "released",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2038,
+		"code": "blue_marvel_by_rainy",
+		"creator": "Rainy",
+		"date_release": "2025-11-10",
+		"name": "Blue Marvel",
+		"octgn_id": "e2cb5690-df32-4c1d-94f0-0d65a685b669",
+		"pack_type_code": "hero_fanmade",
+		"position": 2038,
+		"size": 23,
+		"status": "released",
+		"visibility": "false"
 	}
 ]
