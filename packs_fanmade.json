@@ -751,14 +751,14 @@
 		"cgdb_id": 2034,
 		"code": "superior_spider-man_by_ripper3",
 		"creator": "Ripper3",
-		"date_release": "2025-11-09",
+		"date_release": "2025-11-10",
 		"name": "Superior Spider-Man",
 		"octgn_id": "9959d3ea-b7fa-4688-95f7-e75d379d67ed",
 		"pack_type_code": "hero_fanmade",
 		"position": 2034,
 		"size": 23,
 		"status": "released",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 2036,
@@ -783,6 +783,19 @@
 		"pack_type_code": "hero_fanmade",
 		"position": 2028,
 		"size": 22,
+		"status": "released",
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2037,
+		"code": "sabretooth_by_rycoran",
+		"creator": "RyCoRan",
+		"date_release": "2025-11-10",
+		"name": "Sabretooth",
+		"octgn_id": "b8975c82-2e76-4226-9b7e-56851cec5822",
+		"pack_type_code": "hero_fanmade",
+		"position": 2037,
+		"size": 24,
 		"status": "released",
 		"visibility": "false"
 	}

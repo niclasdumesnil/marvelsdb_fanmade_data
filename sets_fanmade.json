@@ -718,5 +718,15 @@
     "code": "alligator_loki_by_ripper3",
     "name": "Alligator Loki by Ripper3",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "sabretooth_by_rycoran_nemesis",
+    "name": "Sabretooth by RyCoRan Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "sabretooth_by_rycoran",
+    "name": "Sabretooth by RyCoRan",
+    "card_set_type_code": "hero"
   }
 ]
