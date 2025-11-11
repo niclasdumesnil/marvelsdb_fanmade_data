@@ -26,6 +26,13 @@
         "text": "<i>Multitasker</i> \u2014 <b>Response</b>: After you draw an event or resource, put that card into your reserve \u2192 draw 1 card. (Limit once per round.)\n<i>\u201cOh, my stars and garters! What have we here?\u201d</i>",
         "thwart": 2,
         "traits": "X-Men.",
+        "deck_options": [
+			{
+				"limit": 6,
+				"type" : "upgrade"
+            
+			}
+        ],
         "type_code": "hero"
     },
     {
@@ -42,7 +49,7 @@
         "quantity": 1,
         "recover": 4,
         "set_code": "beast_by_hainz3y2",
-        "text": "<i>R&D</i> \u2014 You may include up to 6 upgrades from aspects other than your chosen aspect. Your minimum deck size is 45 cards.\n<b>Action</b>: Put a card from your hand into your reserve. (Limit once per round.)\n<i>\u201cFlavour text.\u201d</i>",
+        "text": "<i>R&D</i> \u2014 You may include up to 6 upgrades from aspects other than your chosen aspect. Your minimum deck size is 45 cards.\n<b>Action</b>: Put a card from your hand into your reserve. (Limit once per round.)",
         "traits": "Genius. Mutant. Scientist.",
         "type_code": "alter_ego"
     },
