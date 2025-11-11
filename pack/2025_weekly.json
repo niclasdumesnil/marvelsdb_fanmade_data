@@ -34,6 +34,18 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+     {
+        "name": "He Can Do This All Day",
+        "text": "Defeat the Captain America leader as any hero(es). During this scenario, after Cap’s Shield is attached to a hero, that hero’s player must choose either heal 6 damage from Captain America or Captain America attacks their hero.",
+        "expansions_needed": "Civil War",
+        "type_code": "challenge",
+        "position": 4,
+        "quantity": 1,
+        "code": "999104",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
     
 ]
