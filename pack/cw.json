@@ -343,21 +343,24 @@
         "duplicate_of": "01088",
         "pack_code": "cw",
         "position": 20,
-        "quantity": 1
+        "quantity": 1,
+        "octgn_id": "e4e959c3-c409-44ea-8bba-46addf056020"
     },
     {
         "code": "56021",
         "duplicate_of": "01089",
         "pack_code": "cw",
         "position": 21,
-        "quantity": 1
+        "quantity": 1,
+        "octgn_id": "e4e959c3-c409-44ea-8bba-46addf056021"
     },
     {
         "code": "56022",
         "duplicate_of": "01090",
         "pack_code": "cw",
         "position": 22,
-        "quantity": 1
+        "quantity": 1,
+        "octgn_id": "e4e959c3-c409-44ea-8bba-46addf056022"
     },
     {
         "attack": 1,

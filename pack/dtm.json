@@ -2274,7 +2274,7 @@
 	"quantity": 3,
 	"deck_limit": 3,
 	"resource_energy": 1,
-	"text": "Max 1 per round.\nHero Action: Heal 2 damage from each damaged enemy \u2192 ready a friendly character for each enemy healed this way.",
+	"text": "Max 1 per round.\n<b>Hero Action</b>: Heal 2 damage from each damaged enemy \u2192 ready a friendly character for each enemy healed this way.",
 	"flavor": "“You are fortunate Doom is graciou–“\n“Shut up.” - Doctor Doom & Doctor Strange",
 	"traits": "Tactic.",
 	"type_code": "event"
@@ -2291,7 +2291,7 @@
 	"position": 128,
 	"quantity": 3,
 	"resource_energy": 1,
-	"text": "Uses (3 replay counters).\n<b>response</b>: After an enemy takes damage during the villain phase, remove 1 replay counter from here \u2192 ready a character you control.",
+	"text": "Uses (3 replay counters).\n<b>Response</b>: After an enemy takes damage during the villain phase, remove 1 replay counter from here \u2192 ready a character you control.",
 	"flavor": "“They say he favors his left. Let’s go!” - Microbe",
 	"traits": "Location.",
 	"type_code": "support"

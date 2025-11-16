@@ -496,14 +496,15 @@
         "duplicate_of": "40027",
         "pack_code": "bp",
         "position": 26,
-        "quantity": 1
+        "quantity": 1,
+        "octgn_id": "4010e194-df1c-477e-852e-3a2adf051026"
     },
     {
         "code": "51027",
         "duplicate_of": "01088",
         "pack_code": "bp",
         "position": 27,
-        "quantity": 1
+        "quantity": 1  
     },
     {
         "code": "51028",
