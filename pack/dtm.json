@@ -1698,7 +1698,7 @@
 	"position": 97,
 	"quantity": 3,
 	"resource_energy": 1,
-	"text": "<b>Hero Response</b>: After a card you control is defeated, choose one:\n- Play a Determination card from the victorydisplay with a printed cost of X for free,where X is less than the number of friendlycards you have placed in the victory display.\n- Place it in the victory display and draw 1 card.",
+	"text": "<b>Hero Response</b>: After a card you control is defeated, choose one:\n- Play a Determination card from the victory display with a printed cost of X for free, where X is less than the number of friendly cards you have placed in the victory display.\n- Place it in the victory display and draw 1 card.",
 	"traits": "Tactic. Tech.",
 	"type_code": "event"
 },	
@@ -2324,7 +2324,7 @@
 	"position": 130,
 	"quantity": 3,
 	"resource_mental": 1,
-	"text": "Attach to an enemy. Max 1 per enemy.<b>Forced Interrupt (Hero)</b> <i>(attack)</i>: When the villain phase ends, flip to alter-ego form and remove Timed Detonation from the game \u2192 deal 6 damage to attached enemy. This attack gains ranged and overkill.",
+	"text": "Attach to an enemy. Max 1 per enemy.\n<b>Forced Interrupt (Hero)</b> <i>(attack)</i>: When the villain phase ends, flip to alter-ego form and remove Timed Detonation from the game \u2192 deal 6 damage to attached enemy. This attack gains ranged and overkill.",
 	"traits": "Tactic.",
 	"type_code": "upgrade"
 },
