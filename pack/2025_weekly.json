@@ -46,6 +46,18 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+    {
+        "name": "Infamous Antiheroes",
+        "text": "Defeat the Hood scenario as any hero(es). All 7 modular encounter sets used for this scenario must be Thunderbolt modular sets (see below for a list of legal encounter sets). During this scenario, all Thunderbolt minions lose the Victory keyword.\nThunderbolt modular sets: Gravitational Pull, Hard Sound, Pale Little Spider, Power of the Atom, Supersonic, The Leaper, Extreme Risk, Growing Strong, Techno, and Whiteout ",
+        "expansions_needed": "The Hood Scenario Pack. Agents of S.H.I.E.L.D. At least one of the following: Black Panther Hero Pack, Silk Hero Pack, Falcon Hero Pack, Winter Soldier Hero Pack. ",
+        "type_code": "challenge",
+        "position": 5,
+        "quantity": 1,
+        "code": "999105",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
     
 ]
