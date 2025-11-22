@@ -748,5 +748,15 @@
     "code": "howard_the_duck_by_rycoran",
     "name": "Howard The Duck by RyCoRan",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "Karnak_by_1-2-punchboard_nemesis",
+    "name": "Karnak Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "Karnak_by_1-2-punchboard",
+    "name": "Karnak",
+    "card_set_type_code": "hero"
   }
 ]

@@ -824,5 +824,18 @@
 		"size": 23,
 		"status": "released",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2040,
+		"code": "Karnak_by_1-2-punchboard",
+		"creator": "1-2-Punchboard",
+		"date_release": "2025-11-22",
+		"name": "Karnak",
+		"octgn_id": "7f9b9b69-72b7-477d-9891-b4856c642572",
+		"pack_type_code": "hero_fanmade",
+		"position": 2040,
+		"size": 22,
+		"status": "sealed",
+		"visibility": "false"
 	}
 ]
