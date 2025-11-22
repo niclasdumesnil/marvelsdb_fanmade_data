@@ -190,35 +190,19 @@
     {
         "code": "202810",
         "cost": 0,
-        "deck_limit": 2,
+        "deck_limit": 3,
         "faction_code": "hero",
         "name": "Lurking",
         "octgn_id": "62f6ed57-a6a4-4598-bf0f-f9005d028010",
         "pack_code": "alligator_loki_by_ripper3",
         "position": 10,
-        "quantity": 2,
+        "quantity": 3,
         "resource_physical": 1,
         "set_code": "alligator_loki_by_ripper3",
         "set_position": 13,
         "text": "Max 1 per player.\n<b>Hero Response</b>: After a minion enters play, discard Lurking \u2192 Alligator Loki makes a basic attack against that minion without exhausting. Alligator Loki gets +1 ATK for this attack.",
         "traits": "Preparation.",
         "type_code": "upgrade"
-    },
-    {
-        "code": "202811",
-        "cost": 0,
-        "deck_limit": 1,
-        "faction_code": "hero",
-        "name": "Lurking",
-        "octgn_id": "62f6ed57-a6a4-4598-bf0f-f9005d028011",
-        "pack_code": "alligator_loki_by_ripper3",
-        "position": 11,
-        "quantity": 1,
-        "resource_energy": 1,
-        "set_code": "alligator_loki_by_ripper3",
-        "set_position": 15,
-        "text": "Max 1 per player.\n<b>Hero Response</b>: After a minion enters play, discard Lurking \u2192 Alligator Loki makes a basic attack against that minion without exhausting. Alligator Loki gets +1 ATK for this attack.",
-        "traits": "Preparation.",
-        "type_code": "upgrade"
     }
+   
 ]
