@@ -35,7 +35,16 @@
         "text": "<i>Flaw in All Things</i> \u2014 <b>Response</b>: After Karnak attacks or thwarts and defeats an enemy or side scheme without dealing excess damage or removing excess threat, deal 1 damage to an enemy and ready Karnak. (Limit twice per round.)",
         "thwart": 2,
         "traits": "Inhuman.",
-        "type_code": "hero"
+        "type_code": "hero",
+        "meta": {
+            "colors": [
+                "#03a81d",
+                "#585858",
+                "#ffffff",
+                "#fffffd"
+            ],
+            "offset": "-38px -33px"
+        }
     },
     {
         "attack": 2,
@@ -90,7 +99,7 @@
         "resource_mental": 1,
         "set_code": "Karnak_by_1-2-punchboard",
         "set_position": 6,
-        "text": "<b>Hero Action</b> <i>(thwart)</i>: Remove 3 threat from a scheme and discard an[[ARMOR]], [[TECH]], or [[WEAPON]] attachment from an enemy. If no attachment was discarded this way, confuse the villain instead.\n<i>\u201cIn time, all we rely on will shatter and fall.\u201d</i>",
+        "text": "<b>Hero Action</b> <i>(thwart)</i>: Remove 3 threat from a scheme and discard an [[ARMOR]], [[TECH]], or [[WEAPON]] attachment from an enemy. If no attachment was discarded this way, confuse the villain instead.\n<i>\u201cIn time, all we rely on will shatter and fall.\u201d</i>",
         "traits": "Skill. Thwart.",
         "type_code": "event"
     },
