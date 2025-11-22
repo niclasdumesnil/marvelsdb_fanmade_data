@@ -758,5 +758,15 @@
     "code": "Karnak_by_1-2-punchboard",
     "name": "Karnak",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "Black_Bolt_by_1-2-punchboard_nemesis",
+    "name": "Black Bolt Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "Black_Bolt_by_1-2-punchboard",
+    "name": "Black Bolt",
+    "card_set_type_code": "hero"
   }
 ]

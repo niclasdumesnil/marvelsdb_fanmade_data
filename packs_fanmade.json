@@ -837,5 +837,18 @@
 		"size": 22,
 		"status": "sealed",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2041,
+		"code": "Black_Bolt_by_1-2-punchboard",
+		"creator": "1-2-Punchboard",
+		"date_release": "2025-11-22",
+		"name": "Black Bolt",
+		"octgn_id": "22ab00e8-c78a-4b66-ab58-15b782090fea",
+		"pack_type_code": "hero_fanmade",
+		"position": 2041,
+		"size": 22,
+		"status": "sealed",
+		"visibility": "false"
 	}
 ]
