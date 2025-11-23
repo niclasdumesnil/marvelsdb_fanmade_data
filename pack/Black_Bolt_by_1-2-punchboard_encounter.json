@@ -8,7 +8,7 @@
 		"position": 12,
 		"quantity": 1,
 		"set_code": "Black_Bolt_by_1-2-punchboard",
-		"text": "<b><i>Give to the Blackagar Boltagon player.</i></b>\nYou may flip to alter-ego form. Choose:\n* Exhaust Blackagar Boltagon → remove Muzzled from the game.\n* Remove all electron counters from Black Bolt or Blackagar Boltagon. If no counters were removed, this card gains surge. Discard this obligation.",
+		"text": "<b><i>Give to the Blackagar Boltagon player.</i></b>\nYou may flip to alter-ego form. Choose:\n. Exhaust Blackagar Boltagon → remove Muzzled from the game.\n. Remove all electron counters from Black Bolt or Blackagar Boltagon. If no counters were removed, this card gains surge. Discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -31,6 +31,7 @@
 		"type_code": "minion"
 	},
 	{
+		"boost": 3,
 		"base_threat": 3,
 		"code": "204114",
 		"faction_code": "encounter",
@@ -40,7 +41,7 @@
 		"quantity": 1,
 		"set_code": "Black_Bolt_by_1-2-punchboard_nemesis",
 		"set_position": 2,
-		"text": "<i>“Oh my brothers. It is our time to rejoice. We have been meek and downtrodden for too long.” — Maximus the Mad</i>\n[acceleration]",
+		"text": "<i>“Oh my brothers. It is our time to rejoice. We have been meek and downtrodden for too long.” — Maximus the Mad</i>\n[hazard]",
 		"type_code": "side_scheme"
 	},
 	{
@@ -57,6 +58,7 @@
 		"type_code": "treachery"
 	},
 	{
+		"boost": 2,
 		"attack_star": true,
 		"code": "204116",
 		"faction_code": "encounter",

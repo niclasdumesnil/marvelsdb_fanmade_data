@@ -54,13 +54,14 @@
 		"pack_code": "Black_Bolt_by_1-2-punchboard",
 		"position": 2,
 		"quantity": 1,
-		"resource_mental": 1,
+		"resource_wild": 1,
 		"set_code": "Black_Bolt_by_1-2-punchboard",
 		"set_position": 1,
 		"text": "<b>Interrupt</b>: When Lockjaw is defeated, remove 2 electron counters from Black Bolt → return Lockjaw to your hand.\n<i>“He is my oldest friend in the world -- closer to me than my family, truer to me than my brother.” -- Black Bolt</i>",
 		"thwart": 2,
 		"traits": "Inhuman.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"deck_limit": 1
 	},
 	{
 		"code": "204103",
@@ -106,7 +107,7 @@
 		"resource_mental": 1,
 		"set_code": "Black_Bolt_by_1-2-punchboard",
 		"set_position": 6,
-		"text": "<b>Hero Interrupt</b> <i>(defense)</i>: When you would take any amount of damage, prevent 2 of that damage (4 of that damage instead if you have the <b>AERIAL</b> trait). If you took no damage, place 1 electron counter on Black Bolt.",
+		"text": "<b>Hero Interrupt</b> <i>(defense)</i>: When you would take any amount of damage, prevent 2 of that damage (4 of that damage instead if you have the [[AERIAL]] trait). If you took no damage, place 1 electron counter on Black Bolt.",
 		"traits": "Defense. Superpower.",
 		"type_code": "event"
 	},
@@ -168,7 +169,7 @@
 		"resource_energy": 1,
 		"set_code": "Black_Bolt_by_1-2-punchboard",
 		"set_position": 13,
-		"text": "Black Bolt gains the <b>AERIAL</b> trait.\n<b>Hero Action</b>: Remove 1 electron counter from Black Bolt and exhaust Anti-Graviton Field → ready Black Bolt.",
+		"text": "Black Bolt gains the [[AERIAL]] trait.\n<b>Hero Action</b>: Remove 1 electron counter from Black Bolt and exhaust Anti-Graviton Field → ready Black Bolt.",
 		"traits": "Superpower.",
 		"type_code": "upgrade"
 	},

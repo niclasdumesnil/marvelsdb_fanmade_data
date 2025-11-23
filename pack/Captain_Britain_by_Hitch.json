@@ -67,7 +67,8 @@
         "type_code": "ally",
         "thwart_cost": 2,
         "attack_cost": 1,
-        "attack_star": true
+        "attack_star": true,
+        "deck_limit": 1
     },
     {
         "code": "204203",
@@ -83,7 +84,8 @@
         "set_position": 2,
         "text": "Restricted.\nCaptain Britain gets +1 ATK.\n<b>Hero Interrupt</b>: When you make an attack, exhaust Telekinetic Sword \u2192 that attack gains piercing.",
         "traits": "Weapon. Psionic.",
-        "type_code": "upgrade"
+        "type_code": "upgrade",
+        "deck_limit": 1
     },
     {
         "code": "204204",
@@ -99,7 +101,8 @@
         "set_position": 3,
         "text": "Restricted.\nCaptain Britain gets +1 DEF.\n<b>Hero Response</b>: After you defend against an attack, exhaust Telekinetic Shield \u2192 ready Captain Britain.",
         "traits": "Weapon. Psionic.",
-        "type_code": "upgrade"
+        "type_code": "upgrade",
+        "deck_limit": 1
     },
     {
         "code": "204205",
@@ -115,7 +118,8 @@
         "set_position": 4,
         "text": "You get +2 hit points.\n<b>Resource</b>: Exhaust Amulet of Right \u2192 generate a [wild] resource.",
         "traits": "Otherworld.",
-        "type_code": "upgrade"
+        "type_code": "upgrade",
+        "deck_limit": 1
     },
     {
         "code": "204206",
@@ -132,7 +136,8 @@
         "text": "Betsy Braddock gets +2 REC.\n<b>Alter-Ego Action</b>: Exhaust Braddock Lighthouse \u2192 shuffle up to 2 events from the discard pile into your deck.",
         "traits": "Location.",
         "type_code": "support",
-        "flavor": "It was the seat of power of Excalibur for so long--it seems right to set up a gate there."
+        "flavor": "It was the seat of power of Excalibur for so long--it seems right to set up a gate there.",
+        "deck_limit": 1
     },
     {
         "code": "204207",
@@ -149,7 +154,8 @@
         "text": "<b>Hero Action</b> <i>(attack)</i>: Confuse an enemy. If you paid for this card using a [physical] resource, deal 4 damage to that enemy.",
         "traits": "Attack. Psionic.",
         "type_code": "event",
-        "flavor": "I can't leave this place undefended!"
+        "flavor": "I can't leave this place undefended!",
+        "deck_limit": 2
     },
     {
         "code": "204208",
@@ -166,7 +172,8 @@
         "text": "<b>Hero Response</b>: After you defeat an enemy, ready Captain Britain.",
         "traits": "Skill.",
         "type_code": "event",
-        "flavor" : "I'm sorry, I'm doing my best to settle this issue on the front lawn, but I'm being distracted by a nagging voice in my head--"
+        "flavor" : "I'm sorry, I'm doing my best to settle this issue on the front lawn, but I'm being distracted by a nagging voice in my head--",
+        "deck_limit": 2
     },
     {
         "code": "204209",
@@ -182,7 +189,8 @@
         "set_position": 10,
         "text": "<b>Hero Interrupt</b> <i>(defense)</i>: When you defend against an attack, you get +3 DEF for that attack. If you take no damage from that attack, heal 1 damage for each point of excess damage blocked.",
         "traits": "Defense. Psionic.",
-        "type_code": "event"
+        "type_code": "event",
+        "deck_limit": 2
     },
     {
         "code": "204210",
@@ -198,7 +206,8 @@
         "set_position": 12,
         "text": "<b>Hero Action</b> <i>(attack)</i>: Choose one:\n. Deal 1 damage to each enemy.\n. Deal 5 damage to an enemy.",
         "traits": "Attack. Psionic.",
-        "type_code": "event"
+        "type_code": "event",
+        "deck_limit": 2        
     },
     {
         "code": "204211",
@@ -214,6 +223,7 @@
         "set_position": 14,
         "text": "<b>Hero Action</b> <i>(thwart)</i>: Choose an enemy. That enemy attacks you. Remove threat from a scheme equal to your DEF.",
         "traits": "Tactic. Thwart.",
-        "type_code": "event"
+        "type_code": "event",
+        "deck_limit": 2
     }
 ]
