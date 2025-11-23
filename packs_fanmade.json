@@ -850,5 +850,18 @@
 		"size": 22,
 		"status": "sealed",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2042,
+		"code": "Captain_Britain_by_Hitch",
+		"creator": "Hitch",
+		"date_release": "2025-11-23",
+		"name": "Captain Britain",
+		"octgn_id": "b7546cdd-468b-4441-b605-a8ec1bc7612d",
+		"pack_type_code": "hero_fanmade",
+		"position": 2042,
+		"size": 22,
+		"status": "sealed",
+		"visibility": "false"
 	}
 ]

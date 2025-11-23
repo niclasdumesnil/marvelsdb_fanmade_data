@@ -768,5 +768,15 @@
     "code": "Black_Bolt_by_1-2-punchboard",
     "name": "Black Bolt",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "Captain_Britain_by_Hitch_nemesis",
+    "name": "Captain Britain Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "Captain_Britain_by_Hitch",
+    "name": "Captain Britain",
+    "card_set_type_code": "hero"
   }
 ]
