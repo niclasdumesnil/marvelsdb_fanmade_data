@@ -778,5 +778,15 @@
     "code": "Captain_Britain_by_Hitch",
     "name": "Captain Britain",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "Silver_Surfer_by_Hax_nemesis",
+    "name": "Silver Surfer Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "Silver_Surfer_by_Hax",
+    "name": "Silver Surfer",
+    "card_set_type_code": "hero"
   }
 ]

@@ -863,5 +863,18 @@
 		"size": 22,
 		"status": "sealed",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2043,
+		"code": "Silver_Surfer_by_Hax",
+		"creator": "Hax",
+		"date_release": "2025-11-23",
+		"name": "Silver Surfer",
+		"octgn_id": "a23e01f9-a42f-416f-a779-f919be0544de",
+		"pack_type_code": "hero_fanmade",
+		"position": 2043,
+		"size": 22,
+		"status": "sealed",
+		"visibility": "false"
 	}
 ]
