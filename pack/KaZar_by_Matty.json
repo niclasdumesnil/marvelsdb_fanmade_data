@@ -34,7 +34,16 @@
 		"text": "<i>The Call Of The Wild</i> — <b>Action</b>: Spend 1 resource of any type → ready Ka-Zar or Zabu. (Limit once per round.)",
 		"thwart": 1,
 		"traits": "Avenger. Savage Land.",
-		"type_code": "hero"
+		"type_code": "hero",
+		 "meta": {
+			"colors": [
+				"#5c715e",
+				"#a69776",
+				"#ffffff",
+				"#fffffd"
+			],
+			"offset": "-38px -33px"
+		}	
 	},
 	{
 		"code": "204502",
