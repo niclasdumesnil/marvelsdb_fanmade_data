@@ -889,5 +889,30 @@
 		"size": 22,
 		"status": "sealed",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2045,
+		"code": "kazar_by_matty",
+		"creator": "Matty",
+		"date_release": "2025-11-24",
+		"name": "Ka-Zar",
+		"pack_type_code": "hero_fanmade",
+		"position": 2045,
+		"size": 23,
+		"status": "sealed",
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2046,
+		"code": "sister_grimm_by_nashman88_man3",
+		"creator": "Nashman88 & Man-3",
+		"date_release": "2025-12-08",
+		"name": "Sister Grimm",
+		"octgn_id": "f9e02f2d-7506-48d4-aa64-65e059ff47f3",
+		"pack_type_code": "hero_fanmade",
+		"position": 2046,
+		"size": 49,
+		"status": "sealed",
+		"visibility": "false"
 	}
 ]

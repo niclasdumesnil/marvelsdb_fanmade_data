@@ -798,5 +798,25 @@
     "code": "Gwenpool_by_ekAugust",
     "name": "Gwenpool",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "kazar_by_matty_nemesis",
+    "name": "Ka-Zar by Matty Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "kazar_by_matty",
+    "name": "Ka-Zar by Matty",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "sister_grimm_by_nashman88_man3_nemesis",
+    "name": "Sister Grimm by Nashman88 & Man-3 Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "sister_grimm_by_nashman88_man3",
+    "name": "Sister Grimm by Nashman88 & Man-3",
+    "card_set_type_code": "hero"
   }
 ]
