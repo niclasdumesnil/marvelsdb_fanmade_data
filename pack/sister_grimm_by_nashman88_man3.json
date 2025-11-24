@@ -37,7 +37,24 @@
         "text": "<i>Blood Magic</i> \u2014 <b>Action</b>: Exhaust Staff of One, choose a [[Spell]] event in your hand, and discard cards from the top of your deck equal to that event's printed cost \u2192 play that event, ignoring its resource cost.",
         "thwart": 1,
         "traits": "Midnight Sun. Mystic.",
-        "type_code": "hero"
+        "type_code": "hero",
+        "meta": {
+            "colors": [
+                "#271e1f",
+                "#8c0770",
+                "#f9f9f9",
+                "#fffffd"
+            ],
+            "offset": "-38px -33px"
+        },
+        "deck_options": [
+			{
+		"trait": [
+					"spell"
+				]
+       
+  			}
+		]
     },
     {
         "code": "204602",
@@ -233,7 +250,7 @@
         "position": 12,
         "quantity": 1,
         "resource_mental": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
+       
         "subname": "Stephen Strange",
         "text": "<b>Interrupt</b>: When Doctor Strange uses a basic power, if you have at least 2 [[Spell]] events in your hand, he takes -1 consequential damage ([consequential]) for that use.",
         "thwart": 2,
@@ -255,7 +272,7 @@
         "position": 13,
         "quantity": 1,
         "resource_mental": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
+       
         "subname": "William Hastings",
         "text": "<b>Response</b>: After you play a [[Spell]] event, heal 1 damage from Jinx.",
         "thwart": 1,
@@ -274,7 +291,6 @@
         "position": 14,
         "quantity": 1,
         "resource_mental": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
         "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b>: Take X damage \u2192 heal X damage from a friendly character.",
         "traits": "Spell.",
         "type_code": "event"
@@ -290,8 +306,7 @@
         "pack_code": "sister_grimm_by_nashman88_man3",
         "position": 15,
         "quantity": 1,
-        "resource_physical": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
+        "resource_physical": 1,        
         "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b> <i>(attack)</i>: Take X damage \u2192 deal X damage to 3 different enemies.",
         "traits": "Attack. Spell.",
         "type_code": "event"
@@ -308,7 +323,7 @@
         "position": 16,
         "quantity": 1,
         "resource_mental": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
+       
         "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b> <i>(thwart)</i>: Take X damage \u2192 remove X threat from 2 different schemes.",
         "traits": "Spell. Thwart.",
         "type_code": "event"
@@ -325,7 +340,7 @@
         "position": 17,
         "quantity": 1,
         "resource_wild": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
+       
         "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b>: Take X damage \u2192 search your deck and discard pile for an ally with printed cost X or less and put that ally into play.",
         "traits": "Spell.",
         "type_code": "event"
@@ -345,7 +360,7 @@
         "position": 18,
         "quantity": 1,
         "resource_wild": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
+       
         "text": "Play only if your identity has the [[Mystic]] trait.\n<b>Response</b>: After you play Agatha Harkness from your hand, choose a [[Spell]] event in your discard pile and shuffle it into your deck.",
         "thwart": 2,
         "traits": "Midnight Sun. Mystic.",
@@ -366,7 +381,7 @@
         "position": 19,
         "quantity": 1,
         "resource_energy": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
+      
         "subname": "Sara",
         "text": "Play only if your identity has the [[Midnight Sun]] or [[Strange Academy]] trait.\n<b>Response</b>: After a player uses the ability on Strange Academy, heal 1 damage from Caretaker.",
         "thwart": 1,
@@ -384,7 +399,7 @@
         "position": 20,
         "quantity": 1,
         "resource_wild": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
+       
         "text": "Team-Up (2 [[Mystic]] characters). Max 1 per deck.\n<b>Hero Action</b>: Search your deck and discard pile for a [[Spell]] event and add it to your hand.",
         "traits": "Spell.",
         "type_code": "event"
@@ -399,7 +414,7 @@
         "position": 21,
         "quantity": 2,
         "resource_wild": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
+       
         "text": "Max 2 per deck.\nDouble the number of resources this card generates while paying for a [[Spell]] event or a [[Mystic]] card.",
         "type_code": "resource"
     },
@@ -416,7 +431,7 @@
         "position": 22,
         "quantity": 1,
         "resource_mental": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
+      
         "text": "Ignore this card's resource cost if your identity has the [[Midnight Sun]] or [[Strange Academy]] trait.\n<b>Hero Action</b>: Exhaust Strange Academy \u2192 generate a [wild] resource for an ally.",
         "traits": "Location.",
         "type_code": "support"
