@@ -788,5 +788,15 @@
     "code": "Silver_Surfer_by_Hax",
     "name": "Silver Surfer",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "Gwenpool_by_ekAugust_nemesis",
+    "name": "Gwenpool Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "Gwenpool_by_ekAugust",
+    "name": "Gwenpool",
+    "card_set_type_code": "hero"
   }
 ]

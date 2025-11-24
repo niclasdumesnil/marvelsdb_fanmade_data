@@ -719,7 +719,7 @@
 		"position": 2032,
 		"size": 22,
 		"status": "released",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 2033,
@@ -873,6 +873,19 @@
 		"octgn_id": "a23e01f9-a42f-416f-a779-f919be0544de",
 		"pack_type_code": "hero_fanmade",
 		"position": 2043,
+		"size": 22,
+		"status": "sealed",
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2044,
+		"code": "Gwenpool_by_ekAugust",
+		"creator": "ekAugust",
+		"date_release": "2025-11-24",
+		"name": "Gwenpool",
+		"octgn_id": "e6ccc9ba-8b6c-4ec8-a650-18a6ca703cff",
+		"pack_type_code": "hero_fanmade",
+		"position": 2044,
 		"size": 22,
 		"status": "sealed",
 		"visibility": "false"
