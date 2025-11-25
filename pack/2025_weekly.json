@@ -58,6 +58,19 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+    {
+        "name": "Stealth Mission",
+        "text": "Defeat the Batroc scenario as any hero(es) using modular encounter sets that have at least 2 minions each.\nDuring this scenario, each minion gains the vulnerable keyword and the text: “<b>When Defeated</b>: The players lose the game.“",
+        "expansions_needed": "Agents of S.H.I.E.L.D.",
+        "type_code": "challenge",
+        "position": 6,
+        "quantity": 1,
+        "code": "999106",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
+    
     
 ]
