@@ -853,5 +853,25 @@
     "code": "mister_fantastic_nemesis",
     "name": "Mister Fantastic Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "human_torch",
+    "name": "Human Torch",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "human_torch_nemesis",
+    "name": "Human Torch Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "the_thing",
+    "name": "The Thing",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "the_thing_nemesis",
+    "name": "The Thing Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]
