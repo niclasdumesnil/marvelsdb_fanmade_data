@@ -914,5 +914,18 @@
 		"size": 35,
 		"status": "sealed",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2047,
+		"code": "spider_man_noir_by_matty",
+		"creator": "Matty",
+		"date_release": "2025-11-26",
+		"name": "Spider-Man Noir",
+		"octgn_id": "cd4be2b6-ce23-48c1-be04-17bab80b3a1b",
+		"pack_type_code": "hero_fanmade",
+		"position": 2047,
+		"size": 32,
+		"status": "sealed",
+		"visibility": "false"
 	}
 ]
