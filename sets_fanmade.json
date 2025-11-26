@@ -833,5 +833,25 @@
     "code": "spider_man_noir_by_matty",
     "name": "Spider-Man Noir by Matty",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "invisible_woman",
+    "name": "Invisible Woman",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "invisible_woman_nemesis",
+    "name": "Invisible Woman Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "mister_fantastic",
+    "name": "Mister Fantastic",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "mister_fantastic_nemesis",
+    "name": "Mister Fantastic Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]
