@@ -7,7 +7,7 @@
         "deck_limit": 1,
         "defense": 1,
         "faction_code": "hero",
-        "flavor": "\"I 've benn kidnapped so many times, my mom finally let me take sefl-defense classes.\"",
+        "flavor": "\"I've been kidnapped so many times, my mom finally let me take self-defense classes.\"",
         "hand_size": 5,
         "health": 10,
         "is_unique": true,
@@ -26,7 +26,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "stature_by_captain_corp_&_hax",
-        "text": "<i>Regulate</i> - <b>Action</b>: Discard a card from your hand \u2192 draw 2 cards. (limit once per  round).",
+        "text": "<i>Regulate</i> — <b>Action</b>: Discard a card from your hand \u2192 draw 2 cards. (Limit once per round.)",
         "thwart": 2,
         "traits": "Young Avenger.",
         "type_code": "hero"
@@ -36,6 +36,7 @@
         "code": "202201b",
         "deck_limit": 1,
         "faction_code": "hero",
+        "flavor": "\"If my mom finds out, it'll kill her.\"",
         "hand_size": 6,
         "health": 10,
         "hidden": true,
@@ -47,6 +48,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "stature_by_captain_corp_&_hax",
+        "text": "<i>Cycling</i> — <b>Action</b>: Discard up to 3 cards from your hand \u2192 Cassie Lang gets +X REC until the end of the turn, where X is the number of cards discarded this way.",
         "traits": "Civilian.",
         "type_code": "alter_ego"
     },
@@ -57,6 +59,7 @@
         "deck_limit": 1,
         "defense": 2,
         "faction_code": "hero",
+        "flavor": "\"If you can grow, do you think you can shrink, too?\" —Iron Lad",
         "hand_size": 5,
         "health": 10,
         "is_unique": true,
@@ -66,6 +69,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "stature_by_captain_corp_&_hax",
+        "text": "<i>Lightweight</i> — [star] While your hand is empty, Stature gets +1 THW.",
         "thwart": 2,
         "thwart_star": true,
         "traits": "Tiny. Young Avenger.",
@@ -79,6 +83,7 @@
         "deck_limit": 1,
         "defense": 3,
         "faction_code": "hero",
+        "flavor": "\"How 'bout you drop the weapon before I drop <i>you</i>.\"",
         "hand_size": 4,
         "health": 10,
         "is_unique": true,
@@ -88,6 +93,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "stature_by_captain_corp_&_hax",
+        "text": "<i>Heavy-Handed</i> — [star] Stature gets +1 ATK for every 2 cards in your hand in excess of your hand size.",
         "thwart": 1,
         "traits": "Giant. Young Avenger.",
         "type_code": "hero"
@@ -110,6 +116,7 @@
         "set_code": "stature_by_captain_corp_&_hax",
         "set_position": 1,
         "subname": "Nathaniel Richards",
+        "text": "Iron Lad enters play with 4 time counters.\n<b>Action</b>: Remove a time counter from here \u2192 draw 1 card. (Limit once per round.)",
         "thwart": 2,
         "thwart_cost": 2,
         "traits": "Aerial. Young Avenger.",
@@ -128,6 +135,7 @@
         "resource_physical": 1,
         "set_code": "stature_by_captain_corp_&_hax",
         "set_position": 2,
+        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal 2 damage to an enemy. Then, deal X damage to that enemy, where X is the number of cards remaining in your hand after playing this card that exceed your printed hand size.",
         "traits": "Attack. Giant.",
         "type_code": "event"
     },
@@ -136,6 +144,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "hero",
+        "flavor": "\"I know guys who'd pay to die like this.\" — O'Grady",
         "name": "Rapid Stomp",
         "octgn_id": "2c10b8ef-af46-4fdf-9a74-0ac2fa022004",
         "pack_code": "stature_by_captain_corp_&_hax",
@@ -144,6 +153,7 @@
         "resource_physical": 1,
         "set_code": "stature_by_captain_corp_&_hax",
         "set_position": 4,
+        "text": "<b>Hero Interrupt</b> <i>(attack)</i>: When you make a basic ATK, change to your [[Giant]] hero form and deal X damage to the villain and up to 2 minions engaged with you instead, where X is equal to your ATK.",
         "traits": "Attack. Giant.",
         "type_code": "event"
     },
@@ -152,13 +162,16 @@
         "cost": -1,
         "deck_limit": 2,
         "faction_code": "hero",
+        "flavor": "\"Okay, Mr. Barton. Let's do this.\" —Stature",
         "name": "Let Loose",
         "octgn_id": "2c10b8ef-af46-4fdf-9a74-0ac2fa022005",
         "pack_code": "stature_by_captain_corp_&_hax",
         "position": 5,
         "quantity": 2,
+        "resource_energy": 1,
         "set_code": "stature_by_captain_corp_&_hax",
         "set_position": 6,
+        "text": "<b>Hero Action</b> <i>(thwart)</i>: Remove X threat (to a maximum of 6) divided among schemes as you choose. If this removes the last threat on 2 or more schemes, draw 2 cards.",
         "traits": "Thwart. Tiny.",
         "type_code": "event"
     },
@@ -167,6 +180,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "hero",
+        "flavor": "\"I stole Pym Particles from Dad for years.\" —Cassie",
         "name": "Sliding Scale",
         "octgn_id": "2c10b8ef-af46-4fdf-9a74-0ac2fa022006",
         "pack_code": "stature_by_captain_corp_&_hax",
@@ -175,6 +189,7 @@
         "resource_mental": 1,
         "set_code": "stature_by_captain_corp_&_hax",
         "set_position": 8,
+        "text": "<b>Hero Action</b>: You get +1 hand size until the end of the phase. You may spend up to 5 resources \u2192 you get +1 additional hand size until the end of the phase for each resource paid this way.",
         "traits": "Tactic. Tiny.",
         "type_code": "event"
     },
@@ -190,6 +205,8 @@
         "resource_wild": 1,
         "set_code": "stature_by_captain_corp_&_hax",
         "set_position": 10,
+        "text": "<b>Hero Response</b>: After you spend this card, heal 2 damage from your hero if you are in [[Giant]] hero form or draw 1 card if you are in [[Tiny]] hero form.",
+        "traits": "Resource.",
         "type_code": "resource"
     },
     {
@@ -197,6 +214,7 @@
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "hero",
+        "flavor": "Like their namesakes before them, the Young Avengers fight foes no single hero can withstand.",
         "name": "\"Young Avenger\"",
         "octgn_id": "2c10b8ef-af46-4fdf-9a74-0ac2fa022008",
         "pack_code": "stature_by_captain_corp_&_hax",
@@ -205,6 +223,7 @@
         "resource_wild": 1,
         "set_code": "stature_by_captain_corp_&_hax",
         "set_position": 12,
+        "text": "<b>Hero Response</b>: After an ally you control with the [[Young Avenger]] or [[Avenger]] trait attacks or thwarts, exhaust \"Young Avenger\" \u2192 draw 1 card.",
         "traits": "Title. Young Avenger.",
         "type_code": "upgrade"
     },
@@ -221,6 +240,8 @@
         "resource_physical": 1,
         "set_code": "stature_by_captain_corp_&_hax",
         "set_position": 13,
+        "text": "<b>Hero Response</b>: After you change to your:\n\u2022 [[Giant]] hero form \u2192 deal 1 damage to an enemy.\n\u2022 [[Tiny]] hero form \u2192 remove 1 threat from a scheme.",
+        "traits": "Condition. Superpower.",
         "type_code": "upgrade"
     },
     {
@@ -228,6 +249,7 @@
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "hero",
+        "flavor": "\"It doesn't matter how big you get, Hyde. I can always get bigger.\" —Stature",
         "name": "Re-Resize",
         "octgn_id": "2c10b8ef-af46-4fdf-9a74-0ac2fa022010",
         "pack_code": "stature_by_captain_corp_&_hax",
@@ -236,6 +258,8 @@
         "resource_energy": 1,
         "set_code": "stature_by_captain_corp_&_hax",
         "set_position": 14,
+        "text": "<b>Hero Action</b>: Discard a card from your hand and exhaust Re-Resize \u2192 change to another hero form. Draw 1 card.",
+        "traits": "Superpower. Tactic.",
         "type_code": "upgrade"
     },
     {
@@ -243,6 +267,7 @@
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "hero",
+        "flavor": "\"We need your help, Uncle Hank.\" —Stature",
         "name": "Size Tactics",
         "octgn_id": "2c10b8ef-af46-4fdf-9a74-0ac2fa022011",
         "pack_code": "stature_by_captain_corp_&_hax",
@@ -251,6 +276,8 @@
         "resource_mental": 1,
         "set_code": "stature_by_captain_corp_&_hax",
         "set_position": 15,
+        "text": "<b>Hero Interrupt</b>: When you play a card that shares a trait with your hero, exhaust Size Tactics \u2192 draw 1 card.",
+        "traits": "Superpower. Tactic.",
         "type_code": "upgrade"
     }
 ]

@@ -10,11 +10,13 @@
         "position": 12,
         "quantity": 1,
         "set_code": "stature_by_captain_corp_&_hax_nemesis",
+        "text": "<b>Give to the Cassie Lang player.</b>\nYou may flip to alter-ego form.\nChoose:\n\u2022 Summon Iron Lad \u2192 remove him and this obligation from the game.\n\u2022 You cannot be in [[Giant]] or [[Tiny]] hero form until the next villain phase. Discard this card.",
         "type_code": "obligation"
     },
     {
         "attack": null,
         "attack_star": true,
+     
         "code": "202213",
         "deck_limit": 1,
         "faction_code": "encounter",
@@ -28,26 +30,31 @@
         "scheme": 1,
         "set_code": "stature_by_captain_corp_&_hax_nemesis",
         "set_position": 1,
+        "text": "[star] Growing Man cannot take more than 1 damage from each instance of damage and his ATK is equal to his remaining hit points.\n<b>When Defeated</b>: Remove Growing Man from the game.\n<i>(Stature's nemesis minion.)</i>",
+        "traits": "Android. Giant.",
         "type_code": "minion"
     },
     {
         "base_threat": -1,
         "base_threat_fixed": true,
+        
         "code": "202214",
         "deck_limit": 1,
         "faction_code": "encounter",
-        "name": "Something is Off",
+        "name": "Something is Off...",
         "octgn_id": "2c10b8ef-af46-4fdf-9a74-0ac2fa022014",
         "pack_code": "stature_by_captain_corp_&_hax",
         "position": 14,
         "quantity": 1,
         "set_code": "stature_by_captain_corp_&_hax_nemesis",
         "set_position": 2,
+        "text": "<b>Forced Response</b>: After Growing Man takes damage from a player, summon a copy of Growing Man (Clone) and put it into play engaged with that player.\n<b>Forced Response</b>: After Growing Man is defeated, remove this side scheme from the game.",
         "type_code": "side_scheme"
     },
     {
         "attack": null,
         "attack_star": true,
+       
         "code": "202215",
         "deck_limit": 3,
         "faction_code": "encounter",
@@ -60,6 +67,8 @@
         "scheme": 1,
         "set_code": "stature_by_captain_corp_&_hax_nemesis",
         "set_position": 3,
+        "text": "[star] Growing Man (Clone) cannot be attacked and his ATK and hit points are equal to Growing Man's remaining hit points.\n<b>When Defeated</b>: Remove this card from the game.",
+        "traits": "Android. Tiny.",
         "type_code": "minion"
     }
 ]
