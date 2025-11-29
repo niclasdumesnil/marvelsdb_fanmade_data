@@ -941,5 +941,18 @@
 		"status": "sealed",
 		"theme": "Marvel",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2048,
+		"code": "hawkeye_by_cptscorp",
+		"creator": "CptScorp",
+		"date_release": "2025-11-29",
+		"name": "Hawkeye",
+		"octgn_id": "733d90e1-16db-4601-8e3f-cd07065ae0e0",
+		"pack_type_code": "hero_fanmade",
+		"position": 2048,
+		"size": 22,
+		"status": "released",
+		"visibility": "false"
 	}
 ]

@@ -873,5 +873,15 @@
     "code": "the_thing_nemesis",
     "name": "The Thing Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "hawkeye_by_cptscorp_nemesis",
+    "name": "Hawkeye by CptScorp Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "hawkeye_by_cptscorp",
+    "name": "Hawkeye by CptScorp",
+    "card_set_type_code": "hero"
   }
 ]
