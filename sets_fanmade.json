@@ -883,5 +883,15 @@
     "code": "hawkeye_by_cptscorp",
     "name": "Hawkeye by CptScorp",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "iron_lad_by_cptscorp_nemesis",
+    "name": "Iron Lad by CptScorp Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "iron_lad_by_cptscorp",
+    "name": "Iron Lad by CptScorp",
+    "card_set_type_code": "hero"
   }
 ]

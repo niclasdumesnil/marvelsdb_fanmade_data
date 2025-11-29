@@ -954,5 +954,18 @@
 		"size": 22,
 		"status": "released",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2049,
+		"code": "iron_lad_by_cptscorp",
+		"creator": "CptScorp",
+		"date_release": "2025-11-29",
+		"name": "Iron Lad",
+		"octgn_id": "47edd197-7b0b-4941-b4a4-801f0a1baa41",
+		"pack_type_code": "hero_fanmade",
+		"position": 2049,
+		"size": 23,
+		"status": "released",
+		"visibility": "false"
 	}
 ]
