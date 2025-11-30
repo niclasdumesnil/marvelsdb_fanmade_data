@@ -45,7 +45,15 @@
         "text": "<i>Master Archer</i> \u2014 <b>Interrupt </b><i>(attack)</i>: When an enemy initiates an attack, remove up to 3 arrow counters from Kate's Bow \u2192 deal 1 damage to that enemy for each arrow counter removed.",
         "thwart": 2,
         "traits": "Young Avenger.",
-        "type_code": "hero"
+        "type_code": "hero",
+        "deck_options": [
+			{
+	    			"trait": [
+					"skill"
+				]
+               
+			}
+		]
     },
     {
         "attack": 2,

@@ -893,5 +893,15 @@
     "code": "iron_lad_by_cptscorp",
     "name": "Iron Lad by CptScorp",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "shang_chi",
+    "name": "Shang-Chi",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "shang_chi_nemesis",
+    "name": "Shang-Chi Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]

@@ -906,14 +906,14 @@
 		"cgdb_id": 2046,
 		"code": "sister_grimm_by_nashman88_man3",
 		"creator": "Nashman88 & Man-3",
-		"date_release": "2025-11-24",
+		"date_release": "2025-11-30",
 		"name": "Sister Grimm",
 		"octgn_id": "f9e02f2d-7506-48d4-aa64-65e059ff47f3",
 		"pack_type_code": "hero_fanmade",
 		"position": 2046,
 		"size": 35,
 		"status": "sealed",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 2047,
@@ -964,8 +964,22 @@
 		"octgn_id": "47edd197-7b0b-4941-b4a4-801f0a1baa41",
 		"pack_type_code": "hero_fanmade",
 		"position": 2049,
-		"size": 23,
+		"size": 22,
 		"status": "released",
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2050,
+		"code": "shang_chi_by_hax",
+		"creator": "Hax",
+		"date_release": "2025-11-30",
+		"name": "Shang-Chi",
+		"octgn_id": "7d79f086-4f07-4d2b-86fc-4bbd0133cd1f",
+		"pack_type_code": "hero_fanmade",
+		"position": 2050,
+		"size": 22,
+		"status": "sealed",
+		"theme": "Marvel",
 		"visibility": "false"
 	}
 ]
