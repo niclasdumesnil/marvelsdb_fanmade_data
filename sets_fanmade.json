@@ -913,5 +913,15 @@
     "code": "us_agent_nemesis",
     "name": "U.S. Agent Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "totally_awesome_hulk",
+    "name": "Totally Awesome Hulk",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "totally_awesome_hulk_nemesis",
+    "name": "Totally Awesome Hulk Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]

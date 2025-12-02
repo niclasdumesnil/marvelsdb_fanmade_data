@@ -995,5 +995,19 @@
 		"status": "sealed",
 		"theme": "Marvel",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2052,
+		"code": "totally_awesome_hulk_by_hax",
+		"creator": "Hax",
+		"date_release": "2025-12-02",
+		"name": "Totally Awesome Hulk",
+		"octgn_id": "f1a61e48-5b90-49e0-b3e5-b7bc937b5176",
+		"pack_type_code": "hero_fanmade",
+		"position": 2052,
+		"size": 25,
+		"status": "sealed",
+		"theme": "Marvel",
+		"visibility": "false"
 	}
 ]
