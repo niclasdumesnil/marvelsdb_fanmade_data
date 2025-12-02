@@ -70,6 +70,18 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+    {
+        "name": "Xavier’s Final Exam",
+        "text": "Defeat the Mansion Attack scenario as any hero(es). During this scenario, there is no ally limit, and only allies can attack the villain or thwart the main scheme.",
+        "expansions_needed": "Mutant Genesis.",
+        "type_code": "challenge",
+        "position": 7,
+        "quantity": 1,
+        "code": "999107",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
     
     

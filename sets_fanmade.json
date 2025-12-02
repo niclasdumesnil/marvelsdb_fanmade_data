@@ -903,5 +903,15 @@
     "code": "shang_chi_nemesis",
     "name": "Shang-Chi Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "us_agent",
+    "name": "U.S. Agent",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "us_agent_nemesis",
+    "name": "U.S. Agent Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]
