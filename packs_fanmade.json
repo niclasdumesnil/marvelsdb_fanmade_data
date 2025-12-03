@@ -1009,5 +1009,19 @@
 		"status": "sealed",
 		"theme": "Marvel",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2053,
+		"code": "the_punisher_by_odysseus",
+		"creator": "Odysseus",
+		"date_release": "2025-12-03",
+		"name": "The Punisher",
+		"octgn_id": "f909454d-57e7-4b92-b698-4eb76860135d",
+		"pack_type_code": "hero_fanmade",
+		"position": 2053,
+		"size": 24,
+		"status": "released",
+		"theme": "Marvel",
+		"visibility": "false"
 	}
 ]

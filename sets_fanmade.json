@@ -923,5 +923,15 @@
     "code": "totally_awesome_hulk_nemesis",
     "name": "Totally Awesome Hulk Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "the_punisher",
+    "name": "The Punisher",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "the_punisher_nemesis",
+    "name": "The Punisher Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]
