@@ -184,7 +184,7 @@
         "resource_mental": 1,
         "set_code": "hawkeye_by_cptscorp",
         "set_position": 10,
-        "text": "<b>Response</b>: After you prevent any amount of threat from being placed on a scheme, remove 1 threat from a scheme.\n<b>Response</b>: After you prevent any amount of damage, remove 1 threat from a scheme.",
+        "text": "<b>Response</b>: After you prevent or reduce any amount of threat from being placed on a scheme, remove 1 threat from a scheme.\n<b>Response</b>: After you prevent or reduce any amount of damage, remove 1 threat from a scheme.",
         "traits": "Location.",
         "type_code": "support"
     },
