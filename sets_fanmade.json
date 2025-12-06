@@ -943,5 +943,15 @@
     "code": "old_man_hawkeye_by_illogical_nemesis",
     "name": "Old Man Hawkeye Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "old_man_quill_by_illogical",
+    "name": "Old Man Quill",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "old_man_quill_by_illogical_nemesis",
+    "name": "Old Man Quill Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]

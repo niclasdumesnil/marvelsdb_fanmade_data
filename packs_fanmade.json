@@ -1037,5 +1037,19 @@
 		"status": "released",
 		"theme": "Marvel",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2055,
+		"code": "old_man_quill_by_illogical",
+		"creator": "illogical",
+		"date_release": "2025-12-06",
+		"name": "Old Man Quill",
+		"octgn_id": "05fd8eaf-b53e-4c8a-a179-ee1eb37c0122",
+		"pack_type_code": "hero_fanmade",
+		"position": 2055,
+		"size": 22,
+		"status": "released",
+		"theme": "Marvel",
+		"visibility": "false"
 	}
 ]
