@@ -534,7 +534,7 @@
 		"size": 22,
 		"status": "released",
 		"theme": "Marvel",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 2619,
@@ -1019,7 +1019,21 @@
 		"octgn_id": "f909454d-57e7-4b92-b698-4eb76860135d",
 		"pack_type_code": "hero_fanmade",
 		"position": 2053,
-		"size": 23,
+		"size": 24,
+		"status": "released",
+		"theme": "Marvel",
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2054,
+		"code": "old_man_hawkeye_by_illogical",
+		"creator": "illogical",
+		"date_release": "2025-12-06",
+		"name": "Old Man Hawkeye",
+		"octgn_id": "761b938d-d5c8-4606-84a6-9400d6e42738",
+		"pack_type_code": "hero_fanmade",
+		"position": 2054,
+		"size": 22,
 		"status": "released",
 		"theme": "Marvel",
 		"visibility": "false"
