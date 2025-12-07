@@ -951,9 +951,9 @@
 		"octgn_id": "733d90e1-16db-4601-8e3f-cd07065ae0e0",
 		"pack_type_code": "hero_fanmade",
 		"position": 2048,
-		"size": 22,
+		"size": 23,
 		"status": "released",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 2049,
@@ -1034,7 +1034,7 @@
 		"pack_type_code": "hero_fanmade",
 		"position": 2054,
 		"size": 22,
-		"status": "released",
+		"status": "beta",
 		"theme": "Marvel",
 		"visibility": "false"
 	},
@@ -1048,7 +1048,7 @@
 		"pack_type_code": "hero_fanmade",
 		"position": 2055,
 		"size": 22,
-		"status": "released",
+		"status": "beta",
 		"theme": "Marvel",
 		"visibility": "false"
 	},
@@ -1061,8 +1061,8 @@
 		"octgn_id": "85ef87e7-7618-4420-b85f-fdf2bde6743e",
 		"pack_type_code": "hero_fanmade",
 		"position": 2056,
-		"size": 22,
-		"status": "released",
+		"size": 21,
+		"status": "beta",
 		"theme": "Marvel",
 		"visibility": "false"
 	}

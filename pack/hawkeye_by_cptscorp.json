@@ -221,7 +221,7 @@
         "resource_energy": 1,
         "set_code": "hawkeye_by_cptscorp",
         "set_position": 12,
-        "text": "You gain Agile 1. <i>(Reduce damage taken from undefended attacks by 1, to a minimum of 1)</i>\n<b>Interrupt:</b> When you prevent any amount of damage from an attack, deal 1 damage to an enemy.",
+        "text": "You gain Agile 1. <i>(Reduce damage taken from undefended attacks by 1, to a minimum of 1)</i>\n<b>Interrupt:</b> When you prevent or reduce any amount of damage from an attack, deal 1 damage to an enemy.",
         "traits": "Skill.",
         "type_code": "upgrade"
     },
@@ -278,6 +278,21 @@
         "set_position": 15,
         "text": "You may remove up to 5 arrow counters with your <i>Master Archer</i> <b>Interrupt </b>instead.\n<b>Resource:</b> Exhaust Kate's Quiver \u2192 generate a [wild] resource and place 1 arrow counter on Kate's Bow.",
         "traits": "Item.",
+        "type_code": "upgrade"
+    },
+    {
+        "code": "204819",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "basic",
+        "name": "Promoted!",
+        "octgn_id": "733d90e1-16db-4601-8e3f-cd0706048019",
+        "pack_code": "hawkeye_by_cptscorp",
+        "position": 19,
+        "quantity": 3,
+        "resource_physical": 1,
+        "text": "Play only if you have the [[young avenger]] trait.\nAttach to a friendly character. Max 1 per character.\n Attached character gains the [[avenger]] trait.",
+        "traits": "Title.",
         "type_code": "upgrade"
     }
 ]
