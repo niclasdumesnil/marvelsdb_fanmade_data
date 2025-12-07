@@ -953,5 +953,15 @@
     "code": "old_man_quill_by_illogical_nemesis",
     "name": "Old Man Quill Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "old_man_logan_by_nugget",
+    "name": "Old Man Logan",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "old_man_logan_by_nugget_nemesis",
+    "name": "Old Man Logan Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]

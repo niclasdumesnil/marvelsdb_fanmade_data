@@ -1051,5 +1051,19 @@
 		"status": "released",
 		"theme": "Marvel",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2056,
+		"code": "old_man_logan_by_nugget",
+		"creator": "Nugget",
+		"date_release": "2025-12-07",
+		"name": "Old Man Logan",
+		"octgn_id": "85ef87e7-7618-4420-b85f-fdf2bde6743e",
+		"pack_type_code": "hero_fanmade",
+		"position": 2056,
+		"size": 22,
+		"status": "released",
+		"theme": "Marvel",
+		"visibility": "false"
 	}
 ]
