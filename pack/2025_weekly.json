@@ -82,6 +82,18 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+     {
+        "name": "Unstoppable Momentum",
+        "text": "Defeat the Juggernaut scenario as any hero(es). During this scenario, momentum counters cannot be removed from Juggernaut.",
+        "expansions_needed": "NeXt Evolution.",
+        "type_code": "challenge",
+        "position": 8,
+        "quantity": 1,
+        "code": "999108",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
     
     
