@@ -2040,6 +2040,67 @@
 		"set_position": 5,
 		"text": "Surge.\n<b>When Revealed</b>: Remove each status card from the villain. Give the villain a tough status card.\n[star] <b>Boost</b>: This enemy gains stalwart for this activation.",
 		"type_code": "treachery"
+	},
+	{
+		"boost_star": true,
+		"code": "502207",
+		"boost": 1,
+		"faction_code": "encounter",
+		"name": "Delusion of Collusion",
+		"pack_code": "guardians_of_the_flarking_galaxy_by_justatuna",
+		"position": 107,
+		"quantity": 2,
+		"set_code": "whispers_of_paranoia_by_justatuna",
+		"set_position": 1,
+		"text": "Attach to your identity.\nYou cannot ready allies or [[persona]] supports you control.\n<b>Alter-Ego Action</b>: Discard an ally or [[persona]] support you control \u2192 discard this card.\n[star] <b>Boost</b>: If any ally is defeated by this attack, take indirect damage equal to that ally's printed cost.",
+		"traits": "Illusion.",
+		"type_code": "attachment"
+	},
+	{
+		"code": "502208",
+		"boost": 2,
+		"faction_code": "encounter",
+		"name": "Manipulated Mind",
+		"pack_code": "guardians_of_the_flarking_galaxy_by_justatuna",
+		"position": 108,
+		"quantity": 1,
+		"set_code": "whispers_of_paranoia_by_justatuna",
+		"set_position": 3,
+		"text": "Treat attached ally as a minion with a blank text box (except for [[traits]]). Attached minion's SCH is equal to its printed THW and it does not take consequential damage.\n<b>When Revealed</b>: Attach to the ally you control with the lowest cost. Attached ally engages its controller. Otherwise, this card gains surge.",
+		"traits": "Illusion.",
+		"type_code": "attachment"
+	},
+	{
+		"boost_star": true,
+		"code": "502209",
+		"boost": 2,
+		"faction_code": "encounter",
+		"flavor": "\"Thanos? Father? No! Not now!\" -Gamora",
+		"name": "Old Grudge",
+		"pack_code": "guardians_of_the_flarking_galaxy_by_justatuna",
+		"position": 109,
+		"quantity": 1,
+		"set_code": "whispers_of_paranoia_by_justatuna",
+		"set_position": 4,
+		"text": "Attached minion gets +1 hit point.\n<b>When Revealed</b>: Search the encounter deck, discard pile, and set-aside area for your nemesis minion, then reveal that minion. Attach Old Grudge to it. (Shuffle.)\n[star] <b>Boost</b>: Deal 1 damage to each character you control.",
+		"traits": "Illusion.",
+		"type_code": "attachment"
+	},
+	{
+		"base_threat": 1,
+		"base_threat_fixed": true,
+		"code": "502210",
+		"boost": 3,
+		"faction_code": "encounter",
+		"name": "Analysis Paralysis",
+		"pack_code": "guardians_of_the_flarking_galaxy_by_justatuna",
+		"position": 110,
+		"quantity": 1,
+		"scheme_amplify": 1,
+		"set_code": "whispers_of_paranoia_by_justatuna",
+		"set_position": 5,
+		"text": "<b>When Revealed</b>: Search the encounter deck, discard pile, and set-aside area for your nemesis side scheme, then reveal it. Place X additional threat here, where X is equal to the amount of threat on that side scheme.",
+		"type_code": "side_scheme"
 	}
 
 ]
