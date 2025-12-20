@@ -94,7 +94,20 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+    {
+        "name": "Tag Team",
+        "text": "Defeat Unus using only heroes that have at least one identity-specific ally. After setup, each player finds their identity-specific ally and puts it into play. For this scenario, identity-specific allies do not take consequential damage, and if one of those allies ever leaves play, the players lose the game.",
+        "expansions_needed": "Age of Apocalypse.",
+        "type_code": "challenge",
+        "position": 9,
+        "quantity": 1,
+        "code": "999109",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
+    
     
     
 ]
