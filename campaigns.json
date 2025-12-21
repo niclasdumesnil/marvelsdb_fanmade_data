@@ -1,0 +1,528 @@
+﻿[
+{
+  "code": "alias_investigations_by_christian_fecteau",
+  "name": "Alias Investigations",
+  "creator": "Christian Fecteau",
+  "description": "Jessica Jones is ready to do whatever it takes to find the culprit of this kidnapping case, teaming up with any hero who agrees to help in a relentless pursuit that could threaten her ability to continue working.\n\nPlayers must navigate a complex web of clues, leads, and evidence while managing Jessica's physical condition as she pushes herself to the limit.",
+  "image": "alias_investigations.jpg",
+  "type": "custom",
+  "scenarios": [
+    {
+      "code": "rhino",
+      "name": "Rhino (AKA Fight at the Facility)",
+      "description": "Jessica Jones has asked for your help with tracking down the culprit who kidnapped her client. Her investigation hit a few dead ends, but she has a new lead: a folder of case files stored inside a safety deposit box at a S.H.I.E.L.D. facility.\n\nAs you discuss a strategy at her office, breaking news flashes on the screen: Rhino is forcing his way into a nearby S.H.I.E.L.D. site. You and Jessica must rush to the facility to secure the documents before he destroys them. Heroics first, ask questions later.",
+      "introduction": "After Step 1 (Select Heroes), each player records their name, identity, and aspect in the Campaign Log.\n\nAfter Step 11 (Shuffle Encounter Deck), assemble the Clue Deck using:\n* Radioactive Man (Core Set #129)\n* Madame Hydra (Core Set #181)\n* Mystique (Mutant Genesis #80)\n\nAfter Step 13 (Resolve Mulligans), the first player searches for the Jessica Jones ally (Core Set #59) and places her in play under the first player's control. She gains the text:\n* 'Victory -1'\n* 'Jessica Jones does not count against your ally limit.'",
+      "resolution": "Check the victory display at the end of the scenario:\n* If Jessica Jones is present, check one box under 'Jessica’s Wounds' in the Campaign Log.\n* If the card revealed from the Clue Deck is in the victory display, record its name under 'Evidence Collected'.\n* If the revealed card is not in the victory display, record its name under 'Leads Pursued'.\n\nProceed to Scenario #2.",
+      "image": "rhino_facility.jpg"
+    },
+    {
+      "code": "project_wideawake",
+      "name": "Sentinel (AKA Brawl at the Mall)",
+      "description": "The documents recovered from the facility reveal that several superpowered people have gone missing within a two-mile radius of the local mall. Jessica thinks it's possible all the kidnappings are the work of the same individual.\n\nYou and Jessica head to the mall to check things out for yourselves, but find that Sentinels are patrolling the area to keep the truth buried.",
+      "introduction": "After Step 8, check the Campaign Log. Add the corresponding encounter sets (Masters of Evil, Legions of Hydra, or Mystique) if their cards are listed under Leads or Evidence.\n\nAfter Step 10, search for any cards listed under 'Leads Pursued' and put them into play. They gain the text 'Victory 1'.\n\nAfter Step 11, assemble a new Clue Deck using:\n* Taskmaster’s Training Camp (#108)\n* Test Subjects (#123)\n* Intruder Alert! (#19)\n\nAfter Step 13, place the Jessica Jones ally in play under the first player’s control with her campaign text.",
+      "resolution": "Record the results of the investigation:\n* If Jessica Jones is in the victory display, check one box under 'Jessica’s Wounds'.\n* If the new Clue card is in the victory display, record it as 'Evidence Collected'; otherwise, record it as 'Leads Pursued'.\n* For each Captive ally that entered play during the scenario, record their name under 'Victims Rescued'.\n* If a card listed under 'Leads Pursued' is in the victory display, move it to 'Evidence Collected'.",
+      "image": "sentinel_mall.jpg"
+    },
+    {
+      "code": "the_kidnapper_aka_the_final_battle",
+      "name": "The Kidnapper (AKA The Final Battle)",
+      "description": "After the battle at the mall, you and Jessica now know the identity of the kidnapper. You've discovered they've used modified Sentinels and enlisted minions to cover their tracks.\n\nThey didn't cover things up well enough, though, because now you and Jessica know where to find them. All you need to do now is stop them and rescue the final victims.",
+      "introduction": "Determine the Villain based on the Campaign Log:\n* If Taskmaster’s Training Camp is listed: Villain is Taskmaster.\n* If Test Subjects is listed: Villain is Zola.\n* If Intruder Alert! is listed: Villain is Master Mold.\n\nFollow the setup for the specific villain. Place any cards listed under 'Leads Pursued' into play. Assemble the Clue Deck using the 4 Captive allies, removing any whose names are already listed under 'Victims Rescued'. Place the Jessica Jones ally into play with her campaign text.",
+      "resolution": "The final battle is over! Record the name of the Captive ally revealed from the Clue Deck under 'Victims Rescued'.\n\nConsult the Epilogue based on the Campaign Log:\n* Count the boxes under 'Jessica’s Wounds' to determine Jessica's health and the future of Alias Investigations.\n* Tally your victory points to determine your investigator rank, from 'Resilient Rookie' to 'Super-Sleuth'.\n\nYou have won the campaign!",
+      "image": "final_battle.jpg"
+    }
+  ],
+  "modulars": {
+    "rhino": [
+      { "name": "Weapon Master", "code": "weap_master" }
+    ],
+    "project_wideawake": [
+      { "name": "Masters of Evil", "code": "masters_of_evil" },
+      { "name": "Legions of Hydra", "code": "legions_of_hydra" },
+      { "name": "Mystique", "code": "mystique" }
+     
+    ],
+    "the_kidnapper_aka_the_final_battle": [
+       
+       { "name": "Hydra Patrol", "code": "hydra_patrol" }
+      
+    ]
+  },
+  "campaign_notes": [
+    "Leads Pursued",
+    "Evidence Collected",
+    "Victims Rescued"
+  ],
+  "campaign_counters": [
+    "Jessica Wounds",
+    "Victory Points"
+  ]
+},
+
+{
+  "code": "house_of_mojo_by_amanda_shagoury",
+  "name": "House of Mojo",
+  "creator": "Amanda Shagoury",
+  "description": "This campaign is a celebration of Marvel Champions: The Card Game's 5-year anniversary. Players will take on a specific role within the team which determines what upgrades can be unlocked. Each of the game's campaign expansions from its first five years has been included in some way as part of this anniversary celebration.",
+  "image": "house_of_mojo.jpg",
+  "type": "custom",
+  "scenarios": [
+    {
+      "code": "training_for_the_end_of_the_world",
+      "name": "Scenario #1 - Training for the End of the World",
+      "description": "The story starts like many others, training in the Danger Room. Today's mission: stop the end of the world. We just need to adjust the settings before we start.",
+      "introduction": "Each player records their identity and chooses a role from the table (Fighter, Tactician, Protector, or Tank). Put their condition upgrade in play.\n\nAs a team, decide which of these player side schemes you will attempt to complete:\n* Assemble the Team\n* Establish Safehouse\n* Gear Up\n* Mission Prep\n* Practice Maneuvers\n* Prepare Defenses\n\nNote: Apocalypse starts the game in his Biomorph form.",
+      "resolution": "Check the setting modular encounter set used (Super Strength, Telepathy, or Flight). Based on the set, each player may add specific aspect or leadership events to their deck. Record the name of the events.\n\n* If the training side scheme was defeated, check “Training Side Scheme Thwarted”.\n* If the Hellfire Club modular set was used and defeated, check “Hellfire Club Disbanded”.",
+      "image": "training_apocalypse.jpg"
+    },
+    {
+      "code": "wandas_vision",
+      "name": "Scenario #2 - Wanda’s Vision",
+      "description": "Cerebro has located a disturbance in the Savage Lands. Scarlet Witch is overwhelmed by grief and Magneto is protecting her, willing to destroy the world with Asteroid M rather than let her come to harm.",
+      "introduction": "Put the X-Jet into play. Each player puts their condition upgrade into play on the basic side.\n\n* If “Training Side Scheme Thwarted” is checked, put that side scheme in play on its environment side.\n* If “Hellfire Club Disbanded” is checked, each player may add one copy of their Scenario #1 Event to their hand (this does not count toward the starting hand limit).",
+      "resolution": "If the Sauron modular set was used, check “Sauron Encountered”.\n\nCheck how far the main scheme advanced:\n* If it reached “The Rule of Magnus”, check “Advanced 2”.\n* If it reached “Factory Online”, check “Advanced 1”.",
+      "image": "wandas_vision.jpg"
+    },
+    {
+      "code": "balance_will_be_restored",
+      "name": "Scenario #3 - Balance Will Be Restored",
+      "description": "Wanda changes reality to a world where mutants rule. Thanos has come to Earth to snap the world into alignment. Your team must stand together to stop half the world's population from being snapped from existence.",
+      "introduction": "All friendly characters gain the MUTANT, X-MEN, X-FORCE, and X-FACTOR traits. Players may include trait-locked cards for these traits.\n\n* Place Public Outcry into play.\n* Shuffle Smear Campaign into the encounter deck.\n* If “Training Side Scheme Thwarted” is checked, put the player side scheme into play on its environment side.\n* Each player may put a copy of “Children of the Atom” into play.",
+      "resolution": "Each player chooses to add a copy of Shawarma or the Market Card associated with their role to their deck. Record the decision.\n\nIf “The Infinity Stones” main scheme did not advance to “Balance the Scales”, check “The Team Has Gotten Stronger”. Wanda realizes her error but whispers: “No more mutants.”",
+      "image": "thanos_balance.jpg"
+    },
+    {
+      "code": "saving_grace",
+      "name": "Scenario #4 - Saving Grace",
+      "description": "90% of the mutant population has lost their powers. The remaining mutants are being rounded up by Sentinels. The team plans a remarkable escape to start a new nation on Utopia.",
+      "introduction": "To win this scenario, you must complete 4 tasks:\n1. Defeat the Sentinel villain.\n2. Rescue the mutants from the mission side scheme.\n3. Have X-Jet in play.\n4. Have Utopia in play.\n\n* If “Sauron Encountered” is checked, put the Magneto ally into play.\n* If “The Team Has Gotten Stronger” is checked, players put their condition upgrade into play on the advanced side.",
+      "resolution": "Each player may add one player side scheme to their deck from any aspect. If the Genosha modular set was added, check “Escaped Genosha”. The team flies into the sunset towards Utopia.",
+      "image": "sentinel_rescue.jpg"
+    },
+    {
+      "code": "mojo_all_along",
+      "name": "Scenario #5 - Mojo All Along",
+      "description": "Mojo was behind the twists and turns all along. He brings out his Wheel of Genres and traps you in a family-friendly sitcom. You need to find a way out of Mojo’s clutches to get back to real life.",
+      "introduction": "Put Longshot into play under the first player’s control.\n\n* If the team added the Arcade set, each player adds their Role Upgrade to their deck.\n* If “Training Side Scheme Thwarted” is checked, put the player side scheme into play on its environment side.\n* If “The Team Has Gotten Stronger” is checked, players put their condition upgrade into play on the advanced side.\n* If “Escaped Genosha” is checked, players may put one of the recorded player side schemes from Scenario #4 into play.",
+      "resolution": "You escape and wake up in your bed at the mansion. Is this really reality or just another illusion? The players win the campaign!",
+      "image": "mojo_sitcom.jpg"
+    }
+  ],
+  "modulars": {
+    "training_for_the_end_of_the_world": [
+      { "name": "Clan Akkaba", "code": "clan_akkaba" },
+      { "name": "Super Strength, Telepathy, or Flight", "code": "next_evol_settings" },
+      { "name": "Hellfire Club", "code": "hellfire_club" }
+    ],
+    "wandas_vision": [
+      { "name": "Savage Lands", "code": "savage_lands" },
+      { "name": "Sauron", "code": "sauron_iceman" }
+    ],
+    "balance_will_be_restored": [
+      { "name": "Infinity Gauntlet", "code": "infinity_gauntlet" },
+      { "name": "Legions of Hydra", "code": "legions_of_hydra" },
+      { "name": "Hydra Assault", "code": "hydra_assault" }
+    ],
+    "saving_grace": [
+      { "name": "Project Wideawake", "code": "project_wideawake" },
+      { "name": "Zero Tolerance", "code": "zero_tolerance" },
+      { "name": "Dystopian Nightmare", "code": "dystopian_nightmare" },
+      { "name": "Genosha", "code": "genosha_modular" }
+    ],
+    "mojo_all_along": [
+      { "name": "Sitcom", "code": "sitcom_modular" },
+      { "name": "Arcade", "code": "arcade_modular" }
+    ]
+  },
+  "campaign_notes": [
+    "Role",
+    "Scenario 1 Event",
+    "Market or Shawarma",
+    "Player Side Scheme",
+    "Training Side Scheme Thwarted",
+    "Hellfire Club Disbanded",
+    "Sauron Encountered",
+    "The Team Has Gotten Stronger",
+    "Escaped Genosha"
+  ],
+  "campaign_counters": [
+    "HP Expert",
+    "Advanced 1",
+    "Advanced 2"
+  ]
+},
+
+{
+  "code": "revenge_of_the_black_order_by_karl_resch",
+  "name": "Revenge of the Black Order",
+  "creator": "Karl Resch",
+  "description": "The Revenge of the Black Order campaign is made up of three scenarios, all dependent on how the heroes are spending their downtime during a surprise invasion. As the assault intensifies, each group has to tackle different challenges in order to turn the tide of battle and save the day.",
+  "image": "black_order_revenge.jpg",
+  "type": "custom",
+  "scenarios": [
+    {
+      "code": "krazy_klyntar",
+      "name": "Scenario #1A - Krazy Klyntar",
+      "description": "Nothing beats a day to yourself, but the tranquil silence is broken by screams and sirens. The sky is starting to fill with spaceships launching fighters and deploying troops commanded by elite warriors; you recognize them as servants of the Mad Titan, Thanos. Amidst the confusion, oily tendril-snakes slither from sewers to be collected by skiffs. You head into the fray, noticing Venom, the lethal protector, twitching strangely. Suddenly, he grabs and tackles you in a state of mindless savagery. You knock him into a nearby bell tower to loosen his grip.",
+      "introduction": "Each player records their identity in the campaign log. Put the Metro PD Support and the Save the Shawarma Place side scheme into play. Each player shuffles a copy of the Martial Law obligation into their deck and records it in the campaign log under Obligations. In the campaign log under Black Order, mark the Black Dwarf, Supergiant, and Black Swan boxes.",
+      "resolution": "Venom collapses, stunned by the bell’s soundwaves. If Save the Shawarma Place was defeated, mark the Shawarma box in the campaign log. For every Black Order Minion in the victory display, unmark the box with their name under the Black Order section of the campaign log.",
+      "image": "venom_klyntar.jpg"
+    },
+    {
+      "code": "defend_it_and_hope",
+      "name": "Scenario #1B - Defend It and Hope",
+      "description": "The attack came without warning. S.W.O.R.D. Command and Alpha Flight Station had no time to retaliate, only issue warnings of a massive fleet led by Thanos' Black Order. Your mission is to protect valuable strongholds and assets while establishing other bases of operations. The obvious first attack is against Avengers Tower, a bastion of defense and knowledge for the superpowers of Earth. The world has descended into chaos, but you have the skills to rise above and protect it.",
+      "introduction": "Each player records their identity. Discard cards from the top of the encounter deck until a Setting environment is discarded and put it into play. Put the Establish Safehouse player side scheme into play. Shuffle the Security Breach side scheme into the Encounter Deck. Place damage on Avengers Tower based on the chosen difficulty (1 per player for Standard, 2 for Expert).",
+      "resolution": "If the Avengers Tower has the Damaged trait, mark Tower Damaged in the campaign log. If the Safehouse Established environment is in play, mark Safehouse Secured. If Security Breach is in the Victory Display, mark the Security Breach box. Mark the Proxima Midnight and Corvus Glaive boxes under Black Order.",
+      "image": "tower_defense.jpg"
+    },
+    {
+      "code": "who_will_fight_me",
+      "name": "Scenario #1C - Who Will Fight Me?",
+      "description": "Parallel universes, mythical beings, and new abilities are daily occurrences on Earth, so the panic over an alien attack seems redundant to you. However, getting to your ship won't be easy as the city is locked down. A red alien giant, MaGog, emerges from the sewers overturning police cars and causing first responders to scatter. 'Earth shall fall! New masters shall emerge!' he shouts, laughing maniacally. You step forward into a cityscape twisted into an arena, ready to make short work of him and get to the real fight in space.",
+      "introduction": "Each player records their identity in the campaign log. Players cannot switch identities during a campaign.",
+      "resolution": "If the Longshot ally is in play, mark the Scenario 2 box in the Longshot Ally section of the campaign log. Each player may choose one support or upgrade they control with a cost of two or less and record it under Gear Up. These cards can be put into play at the start of future scenarios at the cost of additional threat on the main scheme.",
+      "image": "magog_arena.jpg"
+    },
+    {
+      "code": "badoon_bombardment",
+      "name": "Scenario #2 - Badoon Bombardment",
+      "description": "More ships fly into view, supporting large cannons gathering energy for a direct assault. The Badoon leader, Drang, is commanding his fleet to strike targets throughout the city, including safehouses where people have taken cover. Whether you are coming from the streets of New York, the ruins of Avengers Tower, or the Blue Area of the Moon, the pressure is mounting. You must stop the alien commander to prevent the bombardment from devastating the population.",
+      "introduction": "Follow the instructions for your chosen Campaign Path:\n* First Response: Put Metro PD into play. If Shawarma is marked, shuffle it into your deck. Shuffle recorded Obligations and Panicked Refugees into your deck. Put marked Black Order minions into play or the deck.\n* Spec Ops: Put Rogue Vessel and Safehouse Established (if marked) into play. Shuffle Corvus Glaive, Proxima Midnight, and Security Breach (if not marked) into the deck.\n* Direct Assault: One player puts Gladiator into play engaged with them. If Scenario 2 is marked for Longshot, put him into play. Put recorded Gear Up cards into play by adding threat to the main scheme.",
+      "resolution": "For every Black Order Minion in the victory display, unmark their box. If playing First Response and Panicked Refugees was removed from the game, remove it from the Obligations list. If playing Spec Ops and Security Breach is in the victory display, mark it. If playing Direct Assault and Longshot is in play, mark his Scenario 3 box.",
+      "image": "badoon_bombardment.jpg"
+    },
+    {
+      "code": "mysteries_and_magic",
+      "name": "Scenario #3 - Mysteries and Magic",
+      "description": "The Black Order's mastermind, Ebony Maw, emerges unphased by your victories. He stands amongst the rubble, sensing your frustration and fear. Whether he is disrupting your perfect day, attacking the landing pad of Avengers Tower, or morphing with Klyntar tendrils on the Moon, his power is immense. Portals open around him, bringing forth wondrous and mysterious creatures of the cosmos. He mocks your military might and training, claiming you lack an understanding of true strength.",
+      "introduction": "Follow the setup for your Campaign Path:\n* First Response: Put Metro PD and Mojo in the Middle into play. Shuffle Shawarma and marked Black Order minions into the deck.\n* Spec Ops: Put Safehouse Established (if marked) into play. Shuffle Security Breach and marked Black Order minions into the deck.\n* Direct Assault: If Scenario 3 is marked for Longshot, put him into play. Put recorded Gear Up cards into play by adding threat to the main scheme.",
+      "resolution": "Ebony Maw staggers and disappears through a portal. The ships disperse, clearing the sky. You are left with disarray and questions. It seems the Black Order was testing Earth's defenses. Across the cosmos, Thanos nodes in approval; he has tested the new alliances and now looks toward the other eight realms before returning for a final assault.",
+      "image": "ebony_maw_final.jpg"
+    }
+  ],
+  "modulars": {
+    "krazy_klyntar": [
+      { "name": "Symbiotic Strength", "code": "symbiotic_strength" },
+      { "name": "Black Order", "code": "black_order_modular" }
+    ],
+    "defend_it_and_hope": [
+      { "name": "Tower Defense", "code": "tower_defense_modular" },
+      { "name": "Streets of Mayhem", "code": "streets_mayhem" }
+    ],
+    "who_will_fight_me": [
+      { "name": "MaGog", "code": "magog_modular" },
+      { "name": "Band of Badoon", "code": "band_badoon" },
+      { "name": "Longshot", "code": "longshot_modular" }
+    ],
+    "badoon_bombardment": [
+      { "name": "Brotherhood of Badoon", "code": "brotherhood_badoon" },
+      { "name": "Flight", "code": "flight_modular" },
+      { "name": "Kree Militants", "code": "kree_militants" },
+      { "name": "Blue Moon", "code": "blue_moon" }
+    ],
+    "mysteries_and_magic": [
+      { "name": "Ebony Maw", "code": "ebony_maw_modular" },
+      { "name": "Sitcom", "code": "sitcom_modular" },
+      { "name": "Telepathy", "code": "telepathy_modular" },
+      { "name": "Legions of Hel", "code": "legions_hel" },
+      { "name": "Menagerie Medley", "code": "menagerie_medley" }
+    ]
+  },
+  "campaign_notes": [
+    "Story Path",
+    "Obligations",
+    "Gear Up",
+    "Black Order",
+    "Safehouse Secured",
+    "Longshot Ally",
+    "Security Breach",
+    "Tower Damaged",
+    "Shawarma",
+    "Narrative Campaign Restrictions"
+  ],
+  "campaign_counters": [
+    "Remaining Hit Points"
+  ]
+},
+
+{
+  "code": "she_hulk_vs_deadpool_game_night_by_kurt_hake",
+  "name": "She-Hulk vs. Deadpool’s Game Night",
+  "creator": "Kurt Hake",
+  "description": "This campaign is a story about the rivalry between everyone's favorite fourth-wall breakers: She-Hulk and Deadpool. Deadpool has set up a series of metagame challenges to prove who is better at card games. Players take She-Hulk's side to navigate the unpredictable chaos of the 'Pool aspect.",
+  "image": "game_night.jpg",
+  "type": "custom",
+  "scenarios": [
+    {
+      "code": "red_skull",
+      "name": "Scenario #1 - Game Night Begins",
+      "description": "With the power of the Reality Stone, Red Skull begins to remake the world. The Avengers assemble to stop him, but their meeting is interrupted by the X-Force and Deadpool, who wants to prove he's better than She-Hulk at Marvel Champions. Suddenly, Lady Deathstrike and her Reavers crash through the windows. Deadpool claims he has a double agent inside Hydra, but She-Hulk isn't convinced.",
+      "introduction": "Record your Avenger or X-Force hero identity. One player must be She-Hulk. The first player puts the Deadpool ally into play. She-Hulk shuffles the War upgrade into her deck, searches the encounter deck for Lady Deathstrike, and deals her to herself as a facedown encounter card.",
+      "resolution": "If the scenario is won, add 1 to the Strength of the Alliance. Deadpool steals the Reality Stone, and you add Stick-to-itiveness and Laser Swords to the Reward Pool. If the METAGAME challenge (defeat a Reaver with War) was completed, She-Hulk wins the game 'War'. Otherwise, Deadpool wins it.",
+      "image": "red_skull_game.jpg"
+    },
+    {
+      "code": "lord_of_the_wings",
+      "name": "Scenario #2 - The Lord of the Wings",
+      "description": "Deadpool transforms the heroes' surroundings into a strange fantasy world to prove he's the best at everything. Winged monsters Sauron and Death descend upon the heroes. She-Hulk is furious that Deadpool is playing games with reality just because he's jealous she was in the Core Set. It's time to show him who is really the best at card games.",
+      "introduction": "Randomly deal the Reward Pool among players and shuffle the cards into your decks. The first player searches the encounter deck for the A Game of Mojo's environment and the Sauron Lives! side scheme and puts them into play.",
+      "resolution": "If the scenario is won, She-Hulk stands triumphant, but Deadpool refuses to give up the stone. Add 'Lord of the Wings' to Games Won for She-Hulk. If the METAGAME challenge (confuse Death with Blackout) was completed, She-Hulk wins 'Blackout'. Update the Strength of the Alliance if the teamwork goal was met.",
+      "image": "fantasy_deadpool.jpg"
+    },
+    {
+      "code": "android_web_hacker",
+      "name": "Scenario #3 - Android Web-Hacker",
+      "description": "The fantasy world is replaced with a dystopian futuristic cityscape. Deadpool challenges you to take down an evil corporation in his version of 'Android Web-hacker'. She-Hulk is ready to use her fists against corporate corruption, but she suggests bringing along some Android allies to help hack the systems.",
+      "introduction": "Deal the Reward Pool at random. Search the encounter deck for the Mojo Runner environment and the ICE-teroid M side scheme and put them into play. Apply ice counters to schemes whenever Criminal Enterprise enters play.",
+      "resolution": "If victory is achieved, She-Hulk celebrates. Deadpool taunts that hacking wasn't his specialty anyway and prepares for the next game before his 'buyer' arrives. Record wins for 'Android Web-hacker' and 'Tic-Tac-Toe' based on the METAGAME challenge (defeat a Program with Tic-Tac-Toe).",
+      "image": "cyberpunk_hacker.jpg"
+    },
+    {
+      "code": "akkaba_horror",
+      "name": "Scenario #4 - Akkaba Horror",
+      "description": "Reality transforms again, growing dark and spooky. The heroes find themselves inside a foul chamber where a cult ritual is taking place. Deadpool remains disturbingly cheerful, inviting everyone to play 'Akkaba Horror'. He warns you not to lose your mind, though he thinks sanity is overrated anyway.",
+      "introduction": "Deal the Reward Pool. Search the encounter deck for the Mojo Files environment and the Cultist minion and put them into play. Place 3 sanity counters on each identity. Players lose sanity when revealing Treachery cards; losing all counters means defeat.",
+      "resolution": "The heroes win against Clan Akkaba, but She-Hulk has had enough. Deadpool seemingly relents as reality returns to normal, but a huge spaceship fills the sky. Record wins for 'Akkaba Horror' and 'Rock, Paper, Scissors' based on the metagame challenge.",
+      "image": "apocalypse_horror.jpg"
+    },
+    {
+      "code": "game_collection",
+      "name": "Scenario #5 - The Game Collection",
+      "description": "Deadpool turns on the heroes, trapping them in giant game boxes and loading them onto a ship. He has sold the Reality Stone and the heroes to Taneleer Tivan, The Collector. You are taken to the Museum to live like pawns on a board. She-Hulk is ready to punch Deadpool's face, but he claims he always planned to break you out—after getting paid.",
+      "introduction": "Deal the Reward Pool. Put the Deadpool ally into play. For each game won by Deadpool, trigger a corresponding penalty (adding modular sets like Flight, Telepathy, or revealing side schemes). She-Hulk deals herself the Card Shark minion.",
+      "resolution": "Free from the boxes, the heroes head home. The Reality Stone is reclaimed and kept far from Deadpool. She-Hulk threatens Deadpool with 'lawfare' if he ever tries to steal her team name again. You win the campaign!",
+      "image": "collector_museum.jpg"
+    }
+  ],
+  "modulars": {
+    "red_skull": [
+      { "name": "Deathstrike", "code": "deathstrike" },
+      { "name": "Reavers", "code": "reavers" }
+    ],
+    "lord_of_the_wings": [
+      { "name": "Four Horsemen", "code": "four_horsemen" },
+      { "name": "Sauron", "code": "sauron_modular" },
+      { "name": "Fantasy", "code": "fantasy_modular" }
+    ],
+    "android_web_hacker": [
+      { "name": "Risky Business", "code": "risky_business" },
+      { "name": "Sci-Fi", "code": "sci_fi_modular" }
+    ],
+    "akkaba_horror": [
+      { "name": "Clan Akkaba", "code": "clan_akkaba_modular" },
+      { "name": "Horror", "code": "horror_modular" }
+    ],
+    "game_collection": [
+      { "name": "Escape the Museum", "code": "escape_museum" },
+      { "name": "Galactic Artifacts", "code": "galactic_artifacts" },
+      { "name": "Ship Command", "code": "ship_command" },
+      { "name": "Western", "code": "western_modular" },
+      { "name": "Next Evolution Settings", "code": "next_evol_settings" }
+    ]
+  },
+  "campaign_notes": [
+    "Games Won For She-Hulk",
+    "Reward Pool",
+    "Games Won For Deadpool"
+  ],
+  "campaign_counters": [
+    "Strength Of The Alliance",
+    "Time Stone Rewinds"
+  ]
+},
+
+{
+  "code": "watcher_team_what_if_by_zach_goscha",
+  "name": "The Watcher’s Team: What If...?",
+  "creator": "Zach Goscha",
+  "description": "I am The Watcher. I observe many realities beyond the one you know. In this campaign, we explore unique stories where heroes are not who they seem. You will be forced to change identities to witness these vast changes across the multiverse.",
+  "image": "watcher_what_if.jpg",
+  "type": "custom",
+  "scenarios": [
+    {
+      "code": "iron_man_trapped_in_time",
+      "name": "Scenario #1 - Iron Man: Trapped In Time",
+      "description": "Tony Stark finds himself in a fantasy realm of King Arthur. A powerful wizard is after a special gem, using dragons and frost giants to besiege the grand cities. We must answer the question: What if Iron Man was trapped in the time of King Arthur?",
+      "introduction": "Iron Man must be one of the identities used. Add Godslayer to his deck with the Setup and Permanent keywords. To advance, Iron Man must use Godslayer in the final attack to reduce the villain to zero. Shuffle System Shock into the encounter deck.",
+      "resolution": "If the Dragon minion was defeated, players gain the Endless Possibilities ability. Iron Man is victorious, but Ebony Maw casts a portal spell that sucks him away to another realm.",
+      "image": "king_arthur_ironman.jpg"
+    },
+    {
+      "code": "spider_man_sorcerer_supreme",
+      "name": "Scenario #2 - Spider-Man: The Sorcerer Supreme",
+      "description": "In this world, Peter Parker is a mystic rather than a street-level Avenger. He faces a time-traveling villain from the future to save Hope Summers. Suddenly, a portal opens and an Iron Man in red and gold plate armor emerges from the Arthurian timeline to help.",
+      "introduction": "Spider-Man (Peter Parker) must be used and gains the Mystic trait. Add The Sorcerer Supreme to his deck. Players must also use the Iron Man identity from the previous scenario. Deal Black Tom Cassidy as a facedown encounter card to Spider-Man.",
+      "resolution": "If a Spell card was used to finish the villain, players gain the Cosmic Sight ability. Spider-Man senses danger coming from the Underworld and plunges into the rift with Iron Man.",
+      "image": "sorcerer_supreme_spiderman.jpg"
+    },
+    {
+      "code": "rogue_and_power_of_thor",
+      "name": "Scenario #3 - Rogue And The Power Of Thor",
+      "description": "Anna Marie is a god. Wielding Jarnbjorn, she enters Hel to save Odin from Hela. A portal opens and she is joined by the Sorcerer Supreme Spider-Man and the Arthurian Knight Iron Man. They agree to help her, sensing a high level of cosmic danger looming.",
+      "introduction": "Rogue must be used and gains the Asgard trait. Add Jarnbjorn to her deck. Players must also select either Iron Man or Spider-Man from the previous scenarios. Attach an attachment to the villain from the encounter deck.",
+      "resolution": "If Hela was flipped to her Wounded side 4+ times, players gain A Portal In Times Of Need. The Watcher reveals himself to the heroes, warning of a great and terrible enemy at hand.",
+      "image": "thor_rogue.jpg"
+    },
+    {
+      "code": "captain_america_vigilante_justice",
+      "name": "Scenario #4 - Captain America: Vigilante Justice",
+      "description": "Steve Rogers has taken on the role of an aggressive vigilante, tearing through street-level crime with weapons and little mercy. Wearing red, white, and blue with a dark expression, he reluctantly joins the heroes gathered by The Watcher to stop The Hood.",
+      "introduction": "Captain America must be used and gains the Civilian trait. His deck must include at least 6 cards with the Weapon trait. Add Lock and Load and Laser Cannon to his deck. Players take damage, place threat, or discard cards at random.",
+      "resolution": "If 5 minions were defeated with Weapon cards, players gain the I Have Intervened ability. The Watcher informs the four unique heroes that the fate of the universe is in their hands as he transports them to the final battle.",
+      "image": "vigilante_captain_america.jpg"
+    },
+    {
+      "code": "watcher_team_final",
+      "name": "Scenario #5 - The Watcher’s Team",
+      "description": "I will watch no more as another world ends. I have intervened. In this timeline, Ultron has gained the Infinity Gauntlet and seeks to destroy the planet with nuclear codes. I have gathered the most unique heroes from across the multiverse to defeat him once and for all.",
+      "introduction": "Players must select identities used in the previous scenarios and follow their unique setup rules. For each player, draw and reveal a card from the Infinity Stone deck.",
+      "resolution": "Ultron is defeated and the players win the campaign! I am The Watcher. I will no longer simply watch if a new evil arises to change the multiverse for the worse. We will continue to explore: What If...?",
+      "image": "ultron_gauntlet.jpg"
+    }
+  ],
+  "modulars": {
+    "iron_man_trapped_in_time": [
+      { "name": "Ebony Maw", "code": "ebony_maw_watcher" },
+      { "name": "Fantasy", "code": "fantasy_watcher" },
+      { "name": "Frost Giants", "code": "frost_giants" }
+    ],
+    "spider_man_sorcerer_supreme": [
+      { "name": "Stryfe", "code": "stryfe_watcher" },
+      { "name": "Hope Summers", "code": "hope_summers" },
+      { "name": "Horror", "code": "horror_watcher" },
+      { "name": "Black Tom Cassidy", "code": "black_tom" }
+    ],
+    "rogue_and_power_of_thor": [
+      { "name": "Hela", "code": "hela_watcher" },
+      { "name": "Legions of Hel", "code": "legions_hel_watcher" },
+      { "name": "Enchantress", "code": "enchantress" }
+    ],
+    "captain_america_vigilante_justice": [
+      { "name": "The Hood", "code": "hood_watcher" },
+      { "name": "Streets of Mayhem", "code": "streets_mayhem_watcher" },
+      { "name": "Zzzax", "code": "zzzax_modular" },
+      { "name": "Ransacked Armor", "code": "ransacked_armor" },
+      { "name": "Running Interference", "code": "running_interference" },
+      { "name": "Down To Earth", "code": "down_to_earth" },
+      { "name": "Weapon Master", "code": "weapon_master_watcher" },
+      { "name": "Iron Spider's Sinister Six", "code": "sinister_six" }
+    ],
+    "the_watcher_team_final": [
+      { "name": "Ultron", "code": "ultron_watcher" },
+      { "name": "Infinity Gauntlet", "code": "infinity_gauntlet_watcher" }
+    ]
+  },
+  "campaign_notes": [
+    "Endless Possibilities",
+    "Cosmic Sight",
+    "A Portal In Times Of Need",
+    "I Have Intervened"
+  ],
+  "campaign_counters": [
+    "Remaining Hit Points"
+  ]
+},
+
+  {
+    "code": "guardians_of_the_flarking_galaxy_by_justatuna",
+    "name": "Guardians of the Flarking Galaxy", 
+    "creator": "JustATuna",
+    "description": "A bizarre, humorous campaign where the Guardians must stop an absurd ecological disaster across several strange worlds.",
+    "image": "guardians_of_the_flarking_galaxy.jpg",
+    "type": "custom",
+    "scenarios": [
+      { "code": "the_gardener_by_justatuna", "name": "The Gardener",
+        "description": "A verdant planet where a mysterious gardener grows impossible plants.",
+        "introduction": "The team arrives on a verdant planet where a mysterious gardener grows impossible plants.",
+        "resolution": "You have contained the gardener's experiments and saved the ecosystem.",
+        "image": "the_garderner.png"
+      },
+      { "code": "warbringer_by_justatuna", "name": "Groot Invasion",
+        "description": "Groot clones multiply uncontrollably and threaten the city.",
+        "introduction": "Groot clones are multiplying out of control; contain them before they overrun the city.",
+        "resolution": "The invasion was repelled, and the remaining Groots were relocated to a safe sanctuary.",
+        "image": "groot_invasion.jpg"
+      },
+      { "code": "escape_the_church_by_justatuna", "name": "Branching Path",
+        "description": "Choices lead the team down diverging scenarios that affect the campaign's outcome.",
+        "introduction": "Choices lead the team down diverging scenarios; your decisions shape the final outcome.",
+        "resolution": "Depending on prior choices the team either unites the factions or parts ways in an uneasy truce.",
+        "image": "branching_path.jpg"
+      }
+    ],
+    "modulars": {
+      "the_gardener_by_justatuna": [
+        {"name": "Groot", "code": "groot_by_justatuna"},
+        {"name": "Growing Pain", "code": "growing_pain_by_justatuna"}
+      ],
+      "warbringer_by_justatuna": [],
+      "escape_the_church_by_justatuna": [
+        {"name": "Ship Command II", "code": "ship_command_ii_by_justatuna"}
+      ]
+    }
+    ,
+    "campaign_notes": [
+      "note_remarks",
+      "note_tips",
+      "note_setup",
+      "note_voting"
+    ],
+    "campaign_counters": [
+      "seeds_collected",
+      "trees_destroyed",
+      "invasion_level",
+      "votes_defend",
+      "votes_confront"
+    ]
+  }
+  ,
+  {
+    "code": "skrull_menace_by_kajislav",
+    "name": "Skrull Menace",
+    "creator": "Kajislav",
+    "description": "An infiltration-themed campaign: Skrulls impersonate allies and twist trust into a weapon.",
+    "image": "skrull_menace.jpg",
+    "type": "custom",
+    "scenarios": [
+      { "code": "secret_invasion_by_kajislav", "name": "Skrull Infiltration",
+        "description": "Investigate reports of odd behavior that hint at Skrull impersonation.",
+        "introduction": "Reports of strange behavior among civilians point to deep Skrull infiltration.",
+        "resolution": "Key Skrull cells were uncovered and arrested, but a few may have escaped.",
+        "image": "skrull_infiltration.jpg"
+      },
+      { "code": "super-skrull_by_kajislav", "name": "Imposter Reveal",
+        "description": "A prominent figure is exposed as a Skrull imposter and public trust wavers.",
+        "introduction": "A high-profile public figure is exposed as an imposter. The team must manage fallout.",
+        "resolution": "The truth is revealed; public trust is shaken but restored after decisive action.",
+        "image": "imposter_reveal.jpg"
+      },
+      { "code": "paibok_by_kajislav", "name": "Final Showdown",
+        "description": "Confront the Skrull leadership in a decisive final engagement.",
+        "introduction": "The Skrull leadership mounts a last stand; stop their plan before it executes.",
+        "resolution": "The Skrull plot was foiled, and survivors were taken into custody or fled.",
+        "image": "final_showdown.jpg"
+      }
+    ],
+    "modulars": {
+      "super-skrull_by_kajislav": [
+        {"name": "Secret Messages", "code": "skrull_society_by_kajislav"}
+      ],
+      "imposter_reveal": [],
+      "secret_invasion_by_kajislav": [
+        {"name": "Reinforcements", "code": "new_revengers_by_kajislav"}
+      ]
+    },
+    "campaign_notes": [
+      "note_location",
+      "note_suspects",
+      "note_evidence",
+      "note_victory_conditions"
+    ],
+    "campaign_counters": [
+      "infiltrators_count",
+      "trust_level",
+      "enemy_strength"
+    ]
+  }
+]
