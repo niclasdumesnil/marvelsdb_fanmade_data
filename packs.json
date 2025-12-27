@@ -7,7 +7,8 @@
 		"octgn_id": "dea583bf-554b-43c8-a6ed-a44782094ad1",
 		"pack_type_code": "core",
 		"position": 1,
-		"size": 355
+		"size": 355,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 2,
@@ -456,7 +457,8 @@
 		"octgn_id": "1ab538aa-6ad1-4d9d-83a6-3ebc3aa25a34",
 		"pack_type_code": "story",
 		"position": 45,
-		"size": 271
+		"size": 271,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 46,
@@ -466,7 +468,8 @@
 		"octgn_id": "9612581e-ee76-46fb-89b7-71ae7aac08d7",
 		"pack_type_code": "hero",
 		"position": 46,
-		"size": 60
+		"size": 60,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 47,
@@ -476,7 +479,8 @@
 		"octgn_id": "2bb9367c-944e-4475-b643-6a84c3214443",
 		"pack_type_code": "hero",
 		"position": 47,
-		"size": 60
+		"size": 60,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 48,
@@ -486,7 +490,8 @@
 		"octgn_id": "65f91d01-99db-4c7e-814f-28ddf0e91d6d",
 		"pack_type_code": "hero",
 		"position": 48,
-		"size": 60
+		"size": 60,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 49,
@@ -496,7 +501,8 @@
 		"octgn_id": "0035c164-5de7-4b2e-bb80-d49e4b2e67d0",
 		"pack_type_code": "hero",
 		"position": 49,
-		"size": 60
+		"size": 60,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 50,
@@ -506,7 +512,8 @@
 		"octgn_id": "bddee479-23cf-4576-b33c-c95ee9f3cc96",
 		"pack_type_code": "story",
 		"position": 50,
-		"size": 273
+		"size": 273,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 51,
@@ -516,7 +523,8 @@
 		"octgn_id": "4010e194-df1c-477e-852e-3a2adf07ea10",
 		"pack_type_code": "hero",
 		"position": 51,
-		"size": 60
+		"size": 60,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 52,
@@ -526,7 +534,8 @@
 		"octgn_id": "25cf07ae-e8ab-4443-8040-672bd25d635a",
 		"pack_type_code": "hero",
 		"position": 52,
-		"size": 60
+		"size": 60,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 53,
@@ -536,7 +545,8 @@
 		"octgn_id": "dc47d9b6-c518-4972-b8bf-a1e1ab9d9f23",
 		"pack_type_code": "hero",
 		"position": 53,
-		"size": 60
+		"size": 60,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 54,
@@ -546,7 +556,8 @@
 		"octgn_id": "8e74fa84-01d6-42e0-8b7d-b02638e96f5c",
 		"pack_type_code": "hero",
 		"position": 54,
-		"size": 60
+		"size": 60,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 55,
@@ -556,7 +567,8 @@
 		"octgn_id": "e1ad8fbe-b7e2-48f0-96ea-40362c3184da",
 		"pack_type_code": "scenario",
 		"position": 55,
-		"size": 78
+		"size": 78,
+		"environment" : "current"
 	},
 	{
 		"cgdb_id": 56,
@@ -566,6 +578,7 @@
 		"octgn_id": "e4e959c3-c409-44ea-8bba-46addf9c4b4b",
 		"pack_type_code": "story",
 		"position": 56,
-		"size": 274
+		"size": 274,
+		"environment" : "current"
   }  
 ]

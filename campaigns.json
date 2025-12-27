@@ -63,22 +63,22 @@
   "code": "house_of_mojo_by_amanda_shagoury",
   "name": "House of Mojo",
   "creator": "Amanda Shagoury",
-  "description": "This campaign is a celebration of Marvel Champions: The Card Game's 5-year anniversary. Players will take on a specific role within the team which determines what upgrades can be unlocked. Each of the game's campaign expansions from its first five years has been included in some way as part of this anniversary celebration.",
+  "description": "This winter the hit TV show everyone has been talking about returns after 20 years. With five years and eight seasons of content to reference, what twists and turns will happen this season on House of Mojo?",
   "image": "house_of_mojo.jpg",
   "type": "custom",
   "scenarios": [
     {
-      "code": "training_for_the_end_of_the_world",
+      "code": "en_sabah_nur",
       "name": "Scenario #1 - Training for the End of the World",
-      "description": "The story starts like many others, training in the Danger Room. Today's mission: stop the end of the world. We just need to adjust the settings before we start.",
+      "description": "After a well-known theme song that you’ll keep humming throughout this campaign, this story starts out like many others, training in the Danger Room. Today’s mission: stop the end of the world. Nothing we haven’t faced before and we all know our roles. We just need to adjust the settings before we start. Now what will help us prepare for anything life throws our way?",
       "introduction": "Each player records their identity and chooses a role from the table (Fighter, Tactician, Protector, or Tank). Put their condition upgrade in play.\n\nAs a team, decide which of these player side schemes you will attempt to complete:\n* Assemble the Team\n* Establish Safehouse\n* Gear Up\n* Mission Prep\n* Practice Maneuvers\n* Prepare Defenses\n\nNote: Apocalypse starts the game in his Biomorph form.",
       "resolution": "Check the setting modular encounter set used (Super Strength, Telepathy, or Flight). Based on the set, each player may add specific aspect or leadership events to their deck. Record the name of the events.\n\n* If the training side scheme was defeated, check “Training Side Scheme Thwarted”.\n* If the Hellfire Club modular set was used and defeated, check “Hellfire Club Disbanded”.",
       "image": "training_apocalypse.jpg"
     },
     {
-      "code": "wandas_vision",
+      "code": "magneto",
       "name": "Scenario #2 - Wanda’s Vision",
-      "description": "Cerebro has located a disturbance in the Savage Lands. Scarlet Witch is overwhelmed by grief and Magneto is protecting her, willing to destroy the world with Asteroid M rather than let her come to harm.",
+      "description": "Right as training ends, the alarm starts to sound. Over the intercom, Professor X says, slightly out of character,“Everyone, to the X-Jet! Cerebro has located a disturbance in the Savage Lands! Based on ratings and our limited time for character development, it seems that the Scarlet Witch is overwhelmed by… grief or something… and must be stopped! Magneto’s protecting her and he would rather destroy the world with Asteroid M than let her come to harm. And Sauron is still a danger roaming those lands! Think of the ratings!”",
       "introduction": "Put the X-Jet into play. Each player puts their condition upgrade into play on the basic side.\n\n* If “Training Side Scheme Thwarted” is checked, put that side scheme in play on its environment side.\n* If “Hellfire Club Disbanded” is checked, each player may add one copy of their Scenario #1 Event to their hand (this does not count toward the starting hand limit).",
       "resolution": "If the Sauron modular set was used, check “Sauron Encountered”.\n\nCheck how far the main scheme advanced:\n* If it reached “The Rule of Magnus”, check “Advanced 2”.\n* If it reached “Factory Online”, check “Advanced 1”.",
       "image": "wandas_vision.jpg"
@@ -109,14 +109,14 @@
     }
   ],
   "modulars": {
-    "training_for_the_end_of_the_world": [
+    "en_sabah_nur": [
       { "name": "Clan Akkaba", "code": "clan_akkaba" },
       { "name": "Super Strength, Telepathy, or Flight", "code": "next_evol_settings" },
-      { "name": "Hellfire Club", "code": "hellfire_club" }
+      { "name": "Hellfire Club", "code": "hellfire" }
     ],
-    "wandas_vision": [
-      { "name": "Savage Lands", "code": "savage_lands" },
-      { "name": "Sauron", "code": "sauron_iceman" }
+    "magneto": [
+      { "name": "Savage Land", "code": "savage_land" },
+      { "name": "Sauron", "code": "sauron" }
     ],
     "balance_will_be_restored": [
       { "name": "Infinity Gauntlet", "code": "infinity_gauntlet" },
@@ -136,19 +136,25 @@
   },
   "campaign_notes": [
     "Role",
-    "Scenario 1 Event",
     "Market or Shawarma",
-    "Player Side Scheme",
+    "Player Side Scheme"
+  ],
+  "campaign_counters": [
+    
+    
+  ],
+  "campaign_checkbox": [
+    "Flight",
+    "Super Strength",
+    "Telepathy",
     "Training Side Scheme Thwarted",
     "Hellfire Club Disbanded",
     "Sauron Encountered",
-    "The Team Has Gotten Stronger",
-    "Escaped Genosha"
-  ],
-  "campaign_counters": [
-    "HP Expert",
     "Advanced 1",
-    "Advanced 2"
+    "Advanced 2",
+    "The Team Has Gotten Stronger",
+     "Escaped Genosha"
+      
   ]
 },
 
