@@ -106,6 +106,18 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+    {
+        "name": "Keep Them in the Air",
+        "text": "Defeat the Baron Zemo villain. One player must use the Maria Hill hero and include each of the following cards in their deck: The Circe, The Bellerophon, The Douglass, and The Pericles.\nAt the end of setup, the Maria Hill player searches their deck and discard pile for each S.H.I.E.L.D. support with a printed cost of 6 and puts them into play. During this scenario, if any of those supports ever leaves play, the players lose the game.",
+        "expansions_needed": "Agents of S.H.I.E.L.D.",
+        "type_code": "challenge",
+        "position": 10,
+        "quantity": 1,
+        "code": "999110",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
     
     
