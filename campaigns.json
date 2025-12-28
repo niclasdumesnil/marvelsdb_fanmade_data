@@ -6,6 +6,7 @@
   "description": "Jessica Jones is ready to do whatever it takes to find the culprit of this kidnapping case, teaming up with any hero who agrees to help in a relentless pursuit that could threaten her ability to continue working.\n\nPlayers must navigate a complex web of clues, leads, and evidence while managing Jessica's physical condition as she pushes herself to the limit.",
   "image": "alias_investigations.jpg",
   "type": "custom",
+  "position": 110,
   "scenarios": [
     {
       "code": "rhino",
@@ -66,6 +67,7 @@
   "description": "This winter the hit TV show everyone has been talking about returns after 20 years. With five years and eight seasons of content to reference, what twists and turns will happen this season on House of Mojo?",
   "image": "house_of_mojo.jpg",
   "type": "custom",
+  "position": 111,
   "scenarios": [
     {
       "code": "en_sabah_nur",
@@ -154,7 +156,7 @@
     "Advanced 2",
     "The Team Has Gotten Stronger",
      "Escaped Genosha"
-      
+  
   ]
 },
 
@@ -165,6 +167,7 @@
   "description": "The Revenge of the Black Order campaign is made up of three scenarios, all dependent on how the heroes are spending their downtime during a surprise invasion. As the assault intensifies, each group has to tackle different challenges in order to turn the tide of battle and save the day.",
   "image": "black_order_revenge.jpg",
   "type": "custom",
+  "position": 112,
   "scenarios": [
     {
       "code": "krazy_klyntar",
@@ -259,6 +262,7 @@
   "description": "This campaign is a story about the rivalry between everyone's favorite fourth-wall breakers: She-Hulk and Deadpool. Deadpool has set up a series of metagame challenges to prove who is better at card games. Players take She-Hulk's side to navigate the unpredictable chaos of the 'Pool aspect.",
   "image": "game_night.jpg",
   "type": "custom",
+  "position": 113,
   "scenarios": [
     {
       "code": "red_skull",
@@ -345,6 +349,7 @@
   "description": "I am The Watcher. I observe many realities beyond the one you know. In this campaign, we explore unique stories where heroes are not who they seem. You will be forced to change identities to witness these vast changes across the multiverse.",
   "image": "watcher_what_if.jpg",
   "type": "custom",
+  "position": 114,
   "scenarios": [
     {
       "code": "iron_man_trapped_in_time",
@@ -437,6 +442,7 @@
     "description": "A bizarre, humorous campaign where the Guardians must stop an absurd ecological disaster across several strange worlds.",
     "image": "guardians_of_the_flarking_galaxy.jpg",
     "type": "custom",
+    "position": 203,
     "scenarios": [
       { "code": "the_gardener_by_justatuna", "name": "The Gardener",
         "description": "A verdant planet where a mysterious gardener grows impossible plants.",
@@ -490,6 +496,7 @@
     "description": "An infiltration-themed campaign: Skrulls impersonate allies and twist trust into a weapon.",
     "image": "skrull_menace.jpg",
     "type": "custom",
+    "position": 202,
     "scenarios": [
       { "code": "secret_invasion_by_kajislav", "name": "Skrull Infiltration",
         "description": "Investigate reports of odd behavior that hint at Skrull impersonation.",
