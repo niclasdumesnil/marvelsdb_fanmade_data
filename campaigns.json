@@ -237,7 +237,7 @@
         "description": "The attack came without warning. S.W.O.R.D. Command and Alpha Flight Station had no time to retaliate, only issue warnings of a massive fleet led by Thanos' Black Order. Your mission is to protect valuable strongholds and assets while establishing other bases of operations. The obvious first attack is against Avengers Tower, a bastion of defense and knowledge for the superpowers of Earth. The world has descended into chaos, but you have the skills to rise above and protect it.",
         "introduction": "Each player records their identity. Discard cards from the top of the encounter deck until a Setting environment is discarded and put it into play. Put the Establish Safehouse player side scheme into play. Shuffle the Security Breach side scheme into the Encounter Deck.<br><br><b>Damage:</b> Place damage on Avengers Tower based on the chosen difficulty (1 per player for Standard, 2 for Expert).",
         "resolution": "If the Avengers Tower has the Damaged trait, mark Tower Damaged in the campaign log. If the Safehouse Established environment is in play, mark Safehouse Secured. If Security Breach is in the Victory Display, mark the Security Breach box. Mark the Proxima Midnight and Corvus Glaive boxes under Black Order.",
-        "image": "tower_defense.jpg"
+        "image": "tower_defense_black_order.jpg"
       },
       {
         "code": "magog",
@@ -330,19 +330,24 @@
     },
     "campaign_notes": [
       "Story Path",
-      "Obligations",
       "Gear Up",
-      "Black Order",
-      "Safehouse Secured",
-      "Longshot Ally",
-      "Security Breach",
-      "Tower Damaged",
-      "Shawarma",
+      "Obligations",
       "Narrative Campaign Restrictions"
     ],
-    "campaign_counters": [
-      "Remaining Hit Points"
-    ]
+    "campaign_counters": [],
+    "campaign_checkbox": [
+      "Black Dwarf",
+      "Supergiant",
+      "Black Swan",
+      "Proxima Midnight", 
+      "Corvus Glaive",
+      "Shawarma",
+      "Tower Damaged",
+      "Safehouse Secured",
+      "Security Breach",
+      "Scenario #2 - Longshot Ally",
+      "Scenario #3 - Longshot Ally"
+     ]
   },
   {
     "code": "she_hulk_vs_deadpool_game_night_by_kurt_hake",
