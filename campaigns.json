@@ -3,33 +3,33 @@
   "code": "alias_investigations_by_christian_fecteau",
   "name": "Alias Investigations",
   "creator": "Christian Fecteau",
-  "description": "Jessica Jones is ready to do whatever it takes to find the culprit of this kidnapping case, teaming up with any hero who agrees to help in a relentless pursuit that could threaten her ability to continue working.\n\nPlayers must navigate a complex web of clues, leads, and evidence while managing Jessica's physical condition as she pushes herself to the limit.",
+  "description": "Jessica Jones is ready to do whatever it takes to find the culprit of this kidnapping case, and that means she will team up with any hero who agrees to help. Players may choose whatever heroes and aspects they like in any combination. After beginning the campaign, deck lists cannot be modified, so be ready for anything.",  "epilogue": "Check the Campaign Log. Count the number of checked boxes under “Jessica’s Wounds” and consult the table below.<br><br><b>3 checked boxes</b>: <i>Jessica Jones temporarily closes Alias Investigations. She thanks you for your help and tells you that she needs to take some time before she can get back to working on her own again.</i><br><b>2 checked boxes</b>:<i>You stop in on Alias Investigations a few weeks later. Jessica is mostly the same as you remember her. Business is slow, she tells you, but her clients know that they do good work, and that’s the important thing. You have a feeling that things will be tough for a bit, but she’ll get through it; she always does.</i><br><b>1 checked boxes</b>: <i>Business seems good for Alias Investigations. Jessica’s reputation in the community has grown since the last time you saw her. She meets up with you to catch up, and you share a good laugh about that one part of the case where she got knocked out and you had to finish the fight for her.</i><br><b>0 checked boxes</b>: <i>Jessica is thriving. Alias Investigations has expanded, and she’s hired a few new investigators to help with the workload. She thanks you again for your help during the case, and tells you that she couldn’t have done it without you.</i><br><br>Next, tally your victory points from all three scenarios to determine your investigator rank:<br><b>0-2 VP</b>: Resilient Rookie<br><b>3-5 VP</b>: Determined Detective<br><b>6-8 VP</b>: Skilled Sleuth<br><b>9-11 VP</b>: Master Investigator<br><b>12+ VP</b>: Super-Sleuth",
   "image": "alias_investigations.jpg",
   "type": "custom",
   "position": 110,
   "scenarios": [
     {
       "code": "rhino",
-      "name": "Rhino (AKA Fight at the Facility)",
-      "description": "Jessica Jones has asked for your help with tracking down the culprit who kidnapped her client. Her investigation hit a few dead ends, but she has a new lead: a folder of case files stored inside a safety deposit box at a S.H.I.E.L.D. facility.\n\nAs you discuss a strategy at her office, breaking news flashes on the screen: Rhino is forcing his way into a nearby S.H.I.E.L.D. site. You and Jessica must rush to the facility to secure the documents before he destroys them. Heroics first, ask questions later.",
-      "introduction": "After Step 1 (Select Heroes), each player records their name, identity, and aspect in the Campaign Log.\n\nAfter Step 11 (Shuffle Encounter Deck), assemble the Clue Deck using:\n* Radioactive Man (Core Set #129)\n* Madame Hydra (Core Set #181)\n* Mystique (Mutant Genesis #80)\n\nAfter Step 13 (Resolve Mulligans), the first player searches for the Jessica Jones ally (Core Set #59) and places her in play under the first player's control. She gains the text:\n* 'Victory -1'\n* 'Jessica Jones does not count against your ally limit.'",
+      "name": "Scenario #1 - Rhino (AKA Fight at the Facility)",
+      "description": "Jessica Jones has asked for your help with tracking down the culprit who kidnapped her client, and so you’ve met her at her office – Alias Investigations – to work with her and figure out a strategy. Her investigation has hit a few dead ends, but she tells you that one of her contacts has reached out to her with a new lead: a folder of case files that are currently stored inside a safety deposit box at a S.H.I.E.L.D. facility.\n\nRight after she mentions this, the words “breaking news” flash across the screen of Jessica’s old TV: Rhino is forcing his way into a nearby S.H.I.E.L.D. site, and authorities are advising everyone to steer clear until the situation is resolved. You turn to Jessica, as though to ask if this might be the same S.H.I.E.L.D. building where the documents are being stored, but you can already tell the answer to that question from the way that Jessica is holding her head in her hands and sighing exasperatedly.\n\nThere’s no time to prepare or speculate as to whether the timing of Rhino’s attack is a coincidence – you and Jessica grab your things and rush to the facility. Heroics first, ask questions later.",
+      "introduction": "After Step 1 (Select Heroes), each player records their name, identity, and aspect in the Campaign Log.\nAfter Step 11 (Shuffle Encounter Deck), assemble the Clue Deck using:\n* Radioactive Man (Core Set #129)\n* Madame Hydra (Core Set #181)\n* Mystique (Mutant Genesis #80)\n\nAfter Step 13 (Resolve Mulligans), the first player searches for the Jessica Jones ally (Core Set #59) and places her in play under the first player's control. She gains the text:\n* 'Victory -1'\n* 'Jessica Jones does not count against your ally limit.'",
       "resolution": "Check the victory display at the end of the scenario:\n* If Jessica Jones is present, check one box under 'Jessica’s Wounds' in the Campaign Log.\n* If the card revealed from the Clue Deck is in the victory display, record its name under 'Evidence Collected'.\n* If the revealed card is not in the victory display, record its name under 'Leads Pursued'.\n\nProceed to Scenario #2.",
       "image": "rhino_facility.jpg"
     },
     {
       "code": "project_wideawake",
-      "name": "Sentinel (AKA Brawl at the Mall)",
-      "description": "The documents recovered from the facility reveal that several superpowered people have gone missing within a two-mile radius of the local mall. Jessica thinks it's possible all the kidnappings are the work of the same individual.\n\nYou and Jessica head to the mall to check things out for yourselves, but find that Sentinels are patrolling the area to keep the truth buried.",
+      "name": "Scenario #2 - Sentinel (AKA Brawl at the Mall)",
+      "description": "Although Rhino seemed to have no interest in the case file at the facility, another foe appeared partway through the battle, and they were determined to keep you from getting the contents of the safety deposit box. While it occurred to you that the enemy you encountered might be the person behind the kidnapping, Jessica doesn’t seem convinced; she thinks the real kidnapper probably sent someone to steal the files for them and wouldn’t risk going in person. “That one’s likely working with the kidnapper, though,” Jessica says. “I doubt we’ve seen the last of them.”<br><br>The documents you recovered from the facility are dense; you and Jessica take the files back to her office and start reading through them. As it turns out, Jessica’s client isn’t the only person kidnapped – the information you’ve found says that there’s been several superpowered people who have gone missing within the last few weeks, and all of them disappeared within a two-mile radius of the local mall. If what you’re reading is true, then it’s possible that all the kidnappings are the work of the same individual.<br><br>There’s only one way to find out, so you and Jessica head to the mall to check things out for yourselves.",
       "introduction": "After Step 8, check the Campaign Log. Add the corresponding encounter sets (Masters of Evil, Legions of Hydra, or Mystique) if their cards are listed under Leads or Evidence.\n\nAfter Step 10, search for any cards listed under 'Leads Pursued' and put them into play. They gain the text 'Victory 1'.\n\nAfter Step 11, assemble a new Clue Deck using:\n* Taskmaster’s Training Camp (#108)\n* Test Subjects (#123)\n* Intruder Alert! (#19)\n\nAfter Step 13, place the Jessica Jones ally in play under the first player’s control with her campaign text.",
       "resolution": "Record the results of the investigation:\n* If Jessica Jones is in the victory display, check one box under 'Jessica’s Wounds'.\n* If the new Clue card is in the victory display, record it as 'Evidence Collected'; otherwise, record it as 'Leads Pursued'.\n* For each Captive ally that entered play during the scenario, record their name under 'Victims Rescued'.\n* If a card listed under 'Leads Pursued' is in the victory display, move it to 'Evidence Collected'.",
       "image": "sentinel_mall.jpg"
     },
     {
       "code": "the_kidnapper_aka_the_final_battle",
-      "name": "The Kidnapper (AKA The Final Battle)",
-      "description": "After the battle at the mall, you and Jessica now know the identity of the kidnapper. You've discovered they've used modified Sentinels and enlisted minions to cover their tracks.\n\nThey didn't cover things up well enough, though, because now you and Jessica know where to find them. All you need to do now is stop them and rescue the final victims.",
+      "name": "Scenario #3 - The Kidnapper (AKA The Final Battle)",
+      "description": "After the battle at the mall, you and Jessica now know the identity of the kidnapper. You’ve discovered that they’ve used modified Sentinels to commit the kidnappings, and they’ve also enlisted minions to help cover their tracks. They didn’t cover things up well enough, though, because now you and Jessica where to find them.<br><br>All you need to do now is stop them.",
       "introduction": "Determine the Villain based on the Campaign Log:\n* If Taskmaster’s Training Camp is listed: Villain is Taskmaster.\n* If Test Subjects is listed: Villain is Zola.\n* If Intruder Alert! is listed: Villain is Master Mold.\n\nFollow the setup for the specific villain. Place any cards listed under 'Leads Pursued' into play. Assemble the Clue Deck using the 4 Captive allies, removing any whose names are already listed under 'Victims Rescued'. Place the Jessica Jones ally into play with her campaign text.",
-      "resolution": "The final battle is over! Record the name of the Captive ally revealed from the Clue Deck under 'Victims Rescued'.\n\nConsult the Epilogue based on the Campaign Log:\n* Count the boxes under 'Jessica’s Wounds' to determine Jessica's health and the future of Alias Investigations.\n* Tally your victory points to determine your investigator rank, from 'Resilient Rookie' to 'Super-Sleuth'.\n\nYou have won the campaign!",
+      "resolution": "The final battle is over!\nRecord the name of the Captive ally revealed from the Clue Deck under 'Victims Rescued'.\nConsult the Epilogue based on the Campaign Log:\n* Count the boxes under 'Jessica’s Wounds' to determine Jessica's health and the future of Alias Investigations.\n* Tally your victory points to determine your investigator rank, from 'Resilient Rookie' to 'Super-Sleuth'.\nYou have won the campaign!",
       "image": "final_battle.jpg"
     }
   ],
@@ -91,6 +91,7 @@
       "description": "Wanda changes reality to a world where mutants rule. Thanos has come to Earth to snap the world into alignment. Your team must stand together to stop half the world's population from being snapped from existence.",
       "introduction": "All friendly characters gain the MUTANT, X-MEN, X-FORCE, and X-FACTOR traits. Players may include trait-locked cards for these traits.\n\n* Place Public Outcry into play.\n* Shuffle Smear Campaign into the encounter deck.\n* If “Training Side Scheme Thwarted” is checked, put the player side scheme into play on its environment side.\n* Each player may put a copy of “Children of the Atom” into play.",
       "resolution": "Each player chooses to add a copy of Shawarma or the Market Card associated with their role to their deck. Record the decision.\n\nIf “The Infinity Stones” main scheme did not advance to “Balance the Scales”, check “The Team Has Gotten Stronger”. Wanda realizes her error but whispers: “No more mutants.”",
+      "epilogue" : "Thanos’s motivations have shown Wanda just how misguided her actions were, and she realizes she must return reality back to what it was. But, as she does, she whispers three words that will change history forever. “No more mutants.” (Wait, was that in the script??)",
       "image": "thanos_balance.jpg"
     },
     {
@@ -433,109 +434,7 @@
   "campaign_counters": [
     "Remaining Hit Points"
   ]
-},
+}
 
-  {
-    "code": "guardians_of_the_flarking_galaxy_by_justatuna",
-    "name": "Guardians of the Flarking Galaxy", 
-    "creator": "JustATuna",
-    "description": "A bizarre, humorous campaign where the Guardians must stop an absurd ecological disaster across several strange worlds.",
-    "image": "guardians_of_the_flarking_galaxy.jpg",
-    "type": "custom",
-    "position": 203,
-    "scenarios": [
-      { "code": "the_gardener_by_justatuna", "name": "The Gardener",
-        "description": "A verdant planet where a mysterious gardener grows impossible plants.",
-        "introduction": "The team arrives on a verdant planet where a mysterious gardener grows impossible plants.",
-        "resolution": "You have contained the gardener's experiments and saved the ecosystem.",
-        "image": "the_garderner.png"
-      },
-      { "code": "warbringer_by_justatuna", "name": "Groot Invasion",
-        "description": "Groot clones multiply uncontrollably and threaten the city.",
-        "introduction": "Groot clones are multiplying out of control; contain them before they overrun the city.",
-        "resolution": "The invasion was repelled, and the remaining Groots were relocated to a safe sanctuary.",
-        "image": "groot_invasion.jpg"
-      },
-      { "code": "escape_the_church_by_justatuna", "name": "Branching Path",
-        "description": "Choices lead the team down diverging scenarios that affect the campaign's outcome.",
-        "introduction": "Choices lead the team down diverging scenarios; your decisions shape the final outcome.",
-        "resolution": "Depending on prior choices the team either unites the factions or parts ways in an uneasy truce.",
-        "image": "branching_path.jpg"
-      }
-    ],
-    "modulars": {
-      "the_gardener_by_justatuna": [
-        {"name": "Groot", "code": "groot_by_justatuna"},
-        {"name": "Growing Pain", "code": "growing_pain_by_justatuna"}
-      ],
-      "warbringer_by_justatuna": [],
-      "escape_the_church_by_justatuna": [
-        {"name": "Ship Command II", "code": "ship_command_ii_by_justatuna"}
-      ]
-    }
-    ,
-    "campaign_notes": [
-      "note_remarks",
-      "note_tips",
-      "note_setup",
-      "note_voting"
-    ],
-    "campaign_counters": [
-      "seeds_collected",
-      "trees_destroyed",
-      "invasion_level",
-      "votes_defend",
-      "votes_confront"
-    ]
-  }
-  ,
-  {
-    "code": "skrull_menace_by_kajislav",
-    "name": "Skrull Menace",
-    "creator": "Kajislav",
-    "description": "An infiltration-themed campaign: Skrulls impersonate allies and twist trust into a weapon.",
-    "image": "skrull_menace.jpg",
-    "type": "custom",
-    "position": 202,
-    "scenarios": [
-      { "code": "secret_invasion_by_kajislav", "name": "Skrull Infiltration",
-        "description": "Investigate reports of odd behavior that hint at Skrull impersonation.",
-        "introduction": "Reports of strange behavior among civilians point to deep Skrull infiltration.",
-        "resolution": "Key Skrull cells were uncovered and arrested, but a few may have escaped.",
-        "image": "skrull_infiltration.jpg"
-      },
-      { "code": "super-skrull_by_kajislav", "name": "Imposter Reveal",
-        "description": "A prominent figure is exposed as a Skrull imposter and public trust wavers.",
-        "introduction": "A high-profile public figure is exposed as an imposter. The team must manage fallout.",
-        "resolution": "The truth is revealed; public trust is shaken but restored after decisive action.",
-        "image": "imposter_reveal.jpg"
-      },
-      { "code": "paibok_by_kajislav", "name": "Final Showdown",
-        "description": "Confront the Skrull leadership in a decisive final engagement.",
-        "introduction": "The Skrull leadership mounts a last stand; stop their plan before it executes.",
-        "resolution": "The Skrull plot was foiled, and survivors were taken into custody or fled.",
-        "image": "final_showdown.jpg"
-      }
-    ],
-    "modulars": {
-      "super-skrull_by_kajislav": [
-        {"name": "Secret Messages", "code": "skrull_society_by_kajislav"}
-      ],
-      "imposter_reveal": [],
-      "secret_invasion_by_kajislav": [
-        {"name": "Reinforcements", "code": "new_revengers_by_kajislav"}
-      ]
-    },
-    "campaign_notes": [
-      "note_location",
-      "note_suspects",
-      "note_evidence",
-      "note_victory_conditions"
-    ],
-    "campaign_counters": [
-      "infiltrators_count",
-      "trust_level",
-      "enemy_strength"
-    ]
-  }
+ 
 ]
