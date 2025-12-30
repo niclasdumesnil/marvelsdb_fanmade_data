@@ -1,0 +1,119 @@
+{
+    "code": "what_if_by_amanda_shagoury",
+    "name": "What If...?",
+    "creator": "Amanda Shagoury",
+    "description": "Reality has been manipulated and everything has changed. What if you had joined another team, learned the mystic arts, or became a god?",
+    "epilogue": "Ultron has been stopped. Reality shifts and folds in on itself—SNAP!—everything seems back to normal. At least it seemed to only affect you this time. What will happen next? I guess we'll have to wait to find out.<br><br>Reality has been restored and the players win the campaign!",
+    "image": "what_if.jpg",
+    "type": "custom",
+    "position": 105,
+    "scenarios": [
+        {
+            "code": "risky_business",
+            "name": "Scenario #1 - Risky Business Is An Everyday Occurrence",
+            "description": "<i>The Green Goblin is putting citizens in danger. There are community service tasks around the city that need to be done. It seems like just another Tuesday for a superhero. But what if it isn't?<\/i>",
+            "introduction": "<b>Special Rules:<\/b><br>Review The Green Goblin Scenario Pack rulebook for Risky Business-specific special rules (i.e., when a villain stage is defeated).<br><br><b>Setup:<\/b><br>Each player records their identity in the campaign log. Players cannot change identities during the campaign.<br>Choose one (1) “Campaign - Community Service” (Sinister Motives #176-180) side scheme at random. Shuffle that card into the encounter deck.",
+            "resolution": "Each player chooses a “What If...?” trait to add to their identity (ASGARD, AVENGER, CHAMPION, GUARDIAN, MYSTIC, S.H.I.E.L.D.\/SPY, or WEB-WARRIOR) and records it in the campaign log.<br>Each player chooses an ally from their collection with their “What If...?” trait and adds it to their deck (recorded as \"trait ally\").<br>If a “Campaign - Community Service” side scheme is in the victory display, record its title in the “Community Service” section of the campaign log.<br>Then, each player may choose a player card of any type with their “What If...?” trait to add to their deck (recorded under Card Rewards).<br><br><b>Note:<\/b> Cards that have a trait requirement to use them can be selected for both the trait ally and the Card Rewards. Trait allies and Card Rewards do not have to be in the same aspect as the deck. Trait allies and Card Rewards do not count towards minimum or maximum deck size.",
+            "epilogue": "",
+            "image": "risky_business_whatif.jpg"
+        },
+        {
+            "code": "tower_defense",
+            "name": "Scenario #2 - I Feel Like We've Defended This Tower Before",
+            "description": "<i>After stopping the Green Goblin, the world spins and... suddenly you find yourself in a Battle for New York?! Corvus Glaive and Proxima Midnight are attacking Avengers Tower. This is not the normal monthly attack though. Where did the Black Order get pumpkin bombs? And why is Madame Hydra working with them?<\/i><br><br><i>You turn and see your fellow heroes wielding powers and abilities they never had before. Something has changed reality as you know it. Come to think of it, when did you change too?<\/i>",
+            "introduction": "<b>Special Rules:<\/b><br>Review the Mad Titan's Shadow rulebook for information on the suggested play area set up and special rules about the two main schemes and villains.<br><br><b>Setup:<\/b><br>Choose one (1) “Campaign - Community Service” side scheme at random that does not have its title recorded in the “Community Service” section of the campaign log. Shuffle that card into the encounter deck.<br>Put damage on Avengers Tower equal to the number of players.<br>Put the “Save the Shawarma Place” side scheme (Mad Titan's Shadow #182) into play.<br>Choose one aspect a player is playing for this game and do the corresponding setup below:<br><ul><li><b>Aggression:<\/b> Each player chooses a minion from the encounter deck and puts it into play engaged with them. Shuffle the encounter deck.<\/li><li><b>Justice:<\/b> Players choose a side scheme from the encounter deck and reveal it. Shuffle the encounter deck.<\/li><li><b>Leadership:<\/b> Deal damage equal to the number of players plus one, divided among the heroes as they choose.<\/li><li><b>Protection:<\/b> Search the encounter deck for a “Goblin Glider” attachment and attach it to one of the villains. Shuffle the encounter deck.<\/li><\/ul><br><b>Note:<\/b> Count only the main aspect of a deck toward available options. If a player is playing Spider-Woman, either main aspect can be chosen. In the case of Adam Warlock, his deck includes all aspects, so any one of the four can be chosen.",
+            "resolution": "If “Save the Shawarma Place” was defeated, add “Shawarma” (Mad Titan's Shadow #183) to the campaign pool and record it in the campaign log.<br>If Avengers Tower has the DAMAGED trait, record it in the campaign log.<br>If a “Campaign - Community Service” side scheme is in the victory display, record its title in the “Community Service” section of the campaign log.<br>Then each player may choose another player card of any type with their “What If...?” trait to add to their deck (recorded under \"Card Rewards\").",
+            "epilogue": "",
+            "image": "tower_defense_whatif.jpg"
+        },
+        {
+            "code": "taskmaster",
+            "name": "Scenario #3 - Coworker Confinement",
+            "description": "<i>After stopping the assault on Avengers Tower, the team gets shawarma at the usual place. At least that's familiar! The team has no idea what you're talking about when you ask why Hydra is working with the children of Thanos. Don't they always? Then suddenly everyone gets an alert. Some of your allies have been taken hostage by Taskmaster!<\/i>",
+            "introduction": "<b>Setup:<\/b><br>Search the encounter deck for a “Captured by Hydra” side scheme and put it into play with each player's trait ally in place of the usual captured ally.<br>If Avengers Tower had the DAMAGED trait, place an additional three (3) threat on the “Captured by Hydra” side scheme.<br>Choose one (1) “Campaign - Community Service” side scheme at random that does not have its title recorded in the “Community Service” section of the campaign log. Shuffle that card into the encounter deck.<br>If Shawarma is in the campaign pool, each player shuffles one (1) copy of “Shawarma” into their deck.",
+            "resolution": "Each player chooses another ally with their “What If...?” trait and adds it to their deck (recorded under Card Rewards).<br>If the trait allies were rescued from the “Captured by Hydra” side scheme, record that the trait allies were saved in the campaign log.<br>If a “Campaign - Community Service” side scheme is in the victory display, record its title in the “Community Service” section of the campaign log.<br>Then, each player may choose another player card of any type with their “What If...?” trait to add to their deck (recorded under \"Card Rewards\").",
+            "epilogue": "",
+            "image": "taskmaster_whatif.jpg"
+        },
+        {
+            "code": "the_hood",
+            "name": "Scenario #4 - The Hood, Leader of Hydra and Many Others",
+            "description": "<i>With your allies saved, you return to try to figure out what happened to reality. The Beasty Boys were working with Taskmaster. Last time you saw them they were working for the Hood. Maybe he has more information. It takes time some to find the Hood, or did he find you? He's now, apparently, the leader of Hydra. Wait, those minions aren't part of Hydra, or any version of the Hood's organization you've ever seen. When did he team up with them?<\/i>",
+            "introduction": "<b>Special Rules:<\/b><br>Reality is getting completely mixed up! The unique rule does not apply for this scenario.<br><br><b>Setup:<\/b><br>Choose one (1) “Campaign - Community Service” side scheme at random that does not have its title recorded in the “Community Service” section of the campaign log. Shuffle that card into the encounter deck.<br>If Shawarma is in the campaign pool, each player shuffles one (1) copy of “Shawarma” into their deck.<br>If the allies were saved, each player puts their recorded trait ally into play.<br>Pick four (4) modular sets from the table based on the “What If...?” traits recorded in the campaign log. Set the chosen sets aside along with Osborn Tech, Temporal, and the Wrecking Crew. Choose one (1) of the seven total set aside sets, then shuffle it into the encounter deck. This replaces the “Making Connections” Main Scheme Setup.",
+            "resolution": "If the main scheme reached “Crime State,” record that crime has taken over in the campaign log.<br>If the Temporal encounter set was added to the encounter deck, record that the dinosaurs are loose in the campaign log.<br>If a “Campaign - Community Service” side scheme is in the victory display, record its title in the “Community Service” section of the campaign log.<br>Then each player may choose another player card of any type with their “What If...?” trait to add to their deck (recorded under Card Rewards).",
+            "epilogue": "",
+            "image": "the_hood_whatif.jpg"
+        },
+        {
+            "code": "ultron",
+            "name": "Scenario #5 - Ultron in Infinity... Assembled!",
+            "description": "<i>The Hood's organization has been stopped, but reality still isn't what you remember. The Hood's dinosaur minions certainly don't make sense. It's like someone has manipulated not only reality, but also time to cause chaos... That's it! Someone must have assembled the Infinity Gauntlet. After stumbling upon some mechanical minions and following a retreating drone, you find Ultron with the Infinity Gauntlet trying to take over each and every timeline, dimension, and reality!<\/i>",
+            "introduction": "<b>Special Rules:<\/b><br>Review the Mad Titan's Shadow rulebook for Infinity Gauntlet Setup.<br><br><b>Setup:<\/b><br>If Shawarma is in the campaign pool, each player shuffles one (1) copy of “Shawarma” into their deck.<br>If the allies were saved, each player puts their trait ally into play.<br>If 'crime has taken over' is not recorded in the campaign log, each player chooses one (1) card from their Card Rewards in the campaign log and puts it in their hand. This card does not count towards your hand size.<br>If the dinosaurs are loose, put a “Tyrannosaurus Rex” minion (Once and Future Kang #32) into play engaged with the first player.",
+            "resolution": "",
+            "epilogue": "",
+            "image": "ultron_whatif.jpg"
+        }
+    ],
+    "modulars": {
+        "risky_business": [
+            {
+                "name": "Down to Earth",
+                "code": "down_to_earth"
+            }
+        ],
+        "tower_defense": [
+            {
+                "name": "Goblin Gimmicks",
+                "code": "goblin_gimmicks"
+            },
+            {
+                "name": "Legions of Hydra",
+                "code": "legions_of_hydra"
+            }
+        ],
+        "taskmaster": [
+            {
+                "name": "Hydra Patrol",
+                "code": "hydra_patrol"
+            },
+            {
+                "name": "Beasty Boys",
+                "code": "beasty_boys"
+            }
+        ],
+        "the_hood": [
+            {
+                "name": "Osborn Tech",
+                "code": "osborn_tech"
+            },
+            {
+                "name": "Temporal",
+                "code": "temporal"
+            },
+            {
+                "name": "Wrecking Crew",
+                "code": "wrecking_crew_modular"
+            }
+        ],
+        "ultron": [
+            {
+                "name": "Infinity Gauntlet",
+                "code": "infinity_gauntlet"
+            }
+        ]
+    },
+    "campaign_notes": [
+        "\"What If...?\" Trait",
+        "Trait Ally",
+        "Card Rewards",
+        "Community Service"
+    ],
+    "campaign_counters": [],
+    "campaign_checkbox": [
+        "Shawarma added to campaign pool?",
+        "Avengers Tower damaged?",
+        "Trait allies saved?",
+        "Crime taken over?",
+        "Dinosaurs loose?"
+    ]
+}

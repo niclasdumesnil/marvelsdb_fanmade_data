@@ -1,0 +1,201 @@
+{
+  "code": "entropic_ascension_by_karl_resch",
+  "name": "Entropic Ascension",
+  "creator": "Karl Resch",
+  "description": "The Entropic Ascension campaign is made up of four scenarios, all of which force the heroes to make choices and decisions that will ultimately affect their final encounter. While chaos descends upon New York City, the heroes are unable to deal with all of the endless threats at once, creating civilian outcries for those who cannot be saved.",
+  "epilogue": "",
+  "image": "entropic_ascension.jpg",
+  "type": "custom",
+  "position": 103,
+  "scenarios": [
+    {
+      "code": "taskmaster",
+      "name": "Scenario #1 - Taskmaster",
+      "description": "<i>Tension holds New York City in a precarious balance. After Venom Goblin's attempted rampage, crime seems to have lessened; however, when it raises its head it is quick, decisive, and efficient. To complicate matters, many of your street-level contacts have gone missing, leaving these criminal quick-strikes all the more effective, as there is less opposition involved.<br><br>S.H.I.E.L.D. intel has confirmed who's capturing and holding your allies: Taskmaster! Despite operating with his own elite Hydra squad, it appears Taskmaster's services have been purchased from a private bidder. S.H.I.E.L.D. has offered some initial support, but they are ill-equipped to handle the criminal underworld.<br><br>As you go to rescue your friends and make your move against Taskmaster, chaos erupts across the city; it's as if somebody knew you were coming! You can't handle everything - what do you choose?<\/i><br><br><b>A. Investigative Journalism:<\/b> With the rise of these strategic crime waves, journalists from various media outlets have begun investigations to figure out who is pulling the strings. Tombstone is now tailing the journalists, to \"encourage\" them to stop their quest to uncover the truth. You're caught in the middle of trying to protect the reporters while rescuing your allies! If you choose this option, add the Running Interference encounter set (Green Goblin) to the Encounter deck.<br><br><b>B. Blackout:<\/b> Electro is attacking the city's power grid, draining power into a special device. If the extra electricity isn't for him, what could it be for? If you choose to handle this threat, add the Power Drain encounter set (Green Goblin) to the Encounter deck.",
+      "introduction": "Put the Public Outcry (Sinister Motives #174) environment into play (in standard mode, use the side with the text 'Standard Mode Only'; in expert mode, use the side with the text 'Expert Mode Only').<br>Shuffle the Smear Campaign (Sinister Motives #175) treachery into the encounter deck.<br>Choose 1 'Campaign - Community Service' (Sinister Motives #176-180) side scheme at random. Shuffle that side scheme into the encounter deck.",
+      "resolution": "<b>Victory:<\/b><br>In the reputation track: Using the 'Conditions' section below, calculate your group's total reputation value, then mark that number of nodes (starting at the topmost unmarked node).<br>Each player who rescued one or more allies from the Taskmaster encounter set adds those allies to their deck and records their names in the campaign log, under 'Rescued Allies.'<br>If a 'Campaign - Community Service' side scheme is in the victory display, record its title in the 'Community Service' section.<br>If the group chose 'Investigative Journalism,' check 'Charge Complete - Zzzax' and 'Superior Foes - Sinister Assault' in the campaign log. Proceed to Scenario #2A.<br>If the group chose 'Blackout,' check 'Fears & Doubts - Whispers of Paranoia' and 'Brute Force - Wrecking Crew' in the campaign log. Proceed to Scenario #2B.<br><b>Expert Campaign Only:<\/b> Record each identity's remaining hit points.<br><br><b>Conditions:<\/b><br><ul><li>(+X) Victory points in the victory display<\/li><li>(+1) No minions in play<\/li><li>(+1) No side schemes in play<\/li><li>(+1) No threat on the main scheme<\/li><li>(+1) Fewer than 12 acceleration tokens in play<\/li><li>(+1) No defeated identities<\/li><\/ul>",
+      "epilogue": "",
+      "image": "taskmaster_entropic.jpg"
+    },
+    {
+      "code": "rhino",
+      "name": "Scenario #2A - Rhino",
+      "description": "<i>Your allies are free, and you'll need every ounce of their help. Multiple uproars and raids are taking place, the cacophony of it all ringing in your ears. Despite multiple threats, you decide that the Rhino needs to be stopped as soon as possible. He's compromised two law enforcement agencies, and you can only help one!<\/i><br><br><b>A. Police Transport:<\/b> Local law enforcement has completed a raid, taking a number of weapons and their dealers off the street. On their way to processing, Rhino has attacked the transport! If you choose this option, add Ransacked Armory (The Hood) to the Encounter Deck.<br><br><b>B. Raft Transport:<\/b> Despite taking all precautions, Rhino has broken apart a Raft transport moving gear meant to subdue enhanced individuals. If you choose this option, add Under Attack (Core Set) to the Encounter Deck.",
+      "introduction": "Put the Public Outcry (Sinister Motives #174) environment into play.<br>Shuffle the Smear Campaign (Sinister Motives #175) treachery into the encounter deck.<br>Choose 1 'Campaign - Community Service' (Sinister Motives #176-180) side scheme at random that does have its title recorded in the 'Community Service' section of the campaign log. Shuffle that side scheme into the encounter deck.<br>Follow all 'Setup' instructions on the left side of the reputation track for any marked nodes, from top to bottom. Then, do the same for the 'Setup' instructions on the right side.<br><b>Expert Campaign Only:<\/b> Set HP/Heal.",
+      "resolution": "<b>Victory:<\/b><br>In the reputation track: Calculate and mark nodes using the 'Conditions' section below.<br>If a 'Campaign - Community Service' side scheme is in the victory display, record its title in the 'Community Service' section.<br>If the group chose 'Police Transport,' check 'Raft Weapons - Under Attack', 'Loved Ones in Peril - Down to Earth', and 'On A Roll - Armadillo' in the campaign log. Proceed to scenario 3.<br>If the group chose 'Raft Transport,' check 'Contraband - Ransacked Armory', 'Loved Ones in Peril - Down to Earth', and 'On A Roll - Armadillo' in the campaign log. Proceed to scenario 3.<br><b>Expert Campaign Only:<\/b> Record each identity's remaining hit points.<br><br><b>Conditions:<\/b><br><ul><li>(+X) Victory points in the victory display<\/li><li>(+1) No minions in play<\/li><li>(+1) No side schemes in play<\/li><li>(+1) No threat on the main scheme<\/li><li>(+1) Fewer than 12 acceleration tokens in play<\/li><li>(+1) No defeated identities<\/li><\/ul>",
+      "epilogue": "",
+      "image": "rhino_entropic.jpg"
+    },
+    {
+      "code": "mysterio",
+      "name": "Scenario #2B - Mysterio",
+      "description": "<i>While you've managed to rescue some allies and prevent a loss of power to the city, new terrors begin to emerge. Illusions and the stuff of nightmares leer around corners, causing panic in the streets. People curl up on sidewalks as their own inner thoughts threaten to overwhelm them. You've seen this before - Quentin Beck, also known as Mysterio. You have no choice but to face your own inner fears as you hunt him down.<br><br>It's not enough that fear has crippled the city - more attacks are springing across town. You can't let the people of the city suffer - Mysterio must be stopped. As the populace deals with their own inner hauntings, you realize a local building of your closest friends and allies is under attack as well. You have two options!<\/i><br><br><b>A. Strangers & Acquaintances:<\/b> It's a tough call, but you can't allow your personal feelings and relationships to get in the way of saving as many people as you can. If you choose this option, add City in Chaos (Sinister Motives) to the Encounter deck.<br><br><b>B. Friends & Family:<\/b> Your conscience pangs with regret, but you know you could not live with yourself if you let those closest to you get hurt. You will do everything to protect them while thwarting Mysterio. If you choose this option, add Down to Earth (Sinister Motives) to the Encounter deck.",
+      "introduction": "Put the Public Outcry (Sinister Motives #174) environment into play.<br>Shuffle the Smear Campaign (Sinister Motives #175) treachery into the encounter deck.<br>Choose 1 'Campaign - Community Service' (Sinister Motives #176-180) side scheme at random that does have its title recorded in the 'Community Service' section of the campaign log. Shuffle that side scheme into the encounter deck.<br>Follow all 'Setup' instructions on the left side of the reputation track for any marked nodes, from top to bottom. Then, do the same for the 'Setup' instructions on the right side.<br><b>Expert Campaign Only:<\/b> Set HP/Heal.",
+      "resolution": "<b>Victory:<\/b><br>In the reputation track: Calculate and mark nodes using the 'Conditions' section below.<br>If a 'Campaign - Community Service' side scheme is in the victory display, record its title in the 'Community Service' section.<br>If the group chose 'Strangers & Acquaintances,' check 'Raft Weapons - Under Attack', 'Contraband - Ransacked Armory', and 'Loved Ones in Peril - Down to Earth' in the campaign log. Proceed to Scenario #3.<br>If the group chose 'Friends & Family,' check 'Raft Weapons - Under Attack', 'Contraband - Ransacked Armory', and 'City Cries for a Savior - City in Chaos' in the campaign log. Proceed to Scenario #3.<br><b>Expert Campaign Only:<\/b> Record each identity's remaining hit points.<br><br><b>Conditions:<\/b><br><ul><li>(+X) Victory points in the victory display<\/li><li>(+1) No minions in play<\/li><li>(+1) No side schemes in play<\/li><li>(+1) No threat on the main scheme<\/li><li>(+1) Fewer than 12 acceleration tokens in play<\/li><li>(+1) No defeated identities<\/li><\/ul>",
+      "epilogue": "",
+      "image": "mysterio_entropic.jpg"
+    },
+    {
+      "code": "klaw",
+      "name": "Scenario #3 - Klaw",
+      "description": "<i>You're exhausted and nearly beaten, but the day isn't over. Another major attack in the city is occurring - this time on Oscorp itself! You thought you wouldn't have to deal with Norman Osborn after his Venom Goblin stunt, but it appears there are those that still have their eyes on whatever he's been up to in his various laboratories and research departments.<br><br>Klaw, the arms dealer, has brought in a crew of his own and is looking to raid Oscorp - for whatever type of goodies, you're not sure. There's a few different locations being raided - which one is more important to stop?<\/i><br><br><b>A. Engineering:<\/b> It's well known that Norman has created many weapons and tools designed to make his Goblin persona more deadly. You've seen them in action before, and don't want to see them used against you again. If you choose this option, add Crossfire's Crew (The Hood) to the Encounter deck.<br><br><b>B. Biology:<\/b> Whatever it is Norman still has left in his biolabs, you're determined that the wrong people don't get their hands on it. If you choose this option, add Iron Spider's Sinister Six (SP//dr) to the Encounter deck.",
+      "introduction": "Put the Public Outcry (Sinister Motives #174) environment into play.<br>Shuffle the Smear Campaign (Sinister Motives #175) treachery into the encounter deck.<br>Choose 1 'Campaign - Community Service' (Sinister Motives #176-180) side scheme at random that does have its title recorded in the 'Community Service' section of the campaign log. Shuffle that side scheme into the encounter deck.<br>Follow all 'Setup' instructions on the left side of the reputation track for any marked nodes, from top to bottom. Then, do the same for the 'Setup' instructions on the right side.<br><b>Expert Campaign Only:<\/b> Set HP/Heal. Deal Klaw 1 facedown boost card.",
+      "resolution": "<b>Victory:<\/b><br>In the reputation track: Calculate and mark nodes using the 'Conditions' section below.<br>If a 'Campaign - Community Service' side scheme is in the victory display, record its title in the 'Community Service' section.<br>If the group chose 'Engineering,' check 'Oscorp Biolab Raided - Symbiotic Strength' in the campaign log.<br>If the group chose 'Biology,' check 'Oscorp R&D Raided - Osborn Tech' in the campaign log.<br>If your group's reputation is 15 or higher, check 'Criminal Empire - Sinister Syndicate' in the campaign log.<br>If your group's reputation is 14 or lower, check 'Unleash the Beast! - Beasty Boys' in the campaign log.<br>Proceed to Scenario #4.<br><b>Expert Campaign Only:<\/b> Record each identity's remaining hit points.<br><br><b>Conditions:<\/b><br><ul><li>(+X) Victory points in the victory display<\/li><li>(+1) No minions in play<\/li><li>(+1) No side schemes in play<\/li><li>(+1) No threat on the main scheme<\/li><li>(+1) Fewer than 12 acceleration tokens in play<\/li><li>(+1) No defeated identities<\/li><\/ul>",
+      "epilogue": "",
+      "image": "klaw_entropic.jpg"
+    },
+    {
+      "code": "the_hood",
+      "name": "Scenario #4 - The Hood",
+      "description": "<i>Klaw gave you the name of who's been hiring him and the others - Parker Robbins, The Hood. You race through the darkened underbelly of New York to confront him.<br><br>\"You can't stop what's coming,\" The Hood states with nothing but a smile showing from underneath his cowl. \"No matter what you tried to do, there were too many pieces in motion, too many things to ensure my ascent to ruling the underworld and making this city my own!\"<\/i>",
+      "introduction": "<b>Setup:<\/b><br>Put the Public Outcry (Sinister Motives #174) environment into play.<br>Shuffle the Smear Campaign (Sinister Motives #175) treachery into the encounter deck.<br>Follow all 'Setup' instructions on the left side of the reputation track for any marked nodes, from top to bottom. Then, do the same for the 'Setup' instructions on the right side.<br><b>Expert Campaign Only:<\/b> Set HP/Heal. Place 1 [per player] additional threat on the main scheme.<br><br>Set seven of the modular encounter sets aside, based on the checked boxes in the campaign log.",
+      "resolution": "In the reputation track: Using the 'Conditions' section below, calculate your group's total reputation value, then mark that number of nodes.<br>You've defeated The Hood! Congratulations, you've won the campaign!<br><br><b>Conditions:<\/b><br><ul><li>(+X) Victory points in the victory display<\/li><li>(+1) No minions in play<\/li><li>(+1) No side schemes in play<\/li><li>(+1) No threat on the main scheme<\/li><li>(+1) Fewer than 12 acceleration tokens in play<\/li><li>(+1) No defeated identities<\/li><\/ul>",
+      "epilogue": "",
+      "image": "the_hood_entropic.jpg"
+    }
+  ],
+  "modulars": {
+    "taskmaster": [
+      {
+        "name": "Hydra Patrol",
+        "code": "hydra_patrol"
+      },
+      {
+        "name": "Running Interference",
+        "code": "running_interference"
+      },
+      {
+        "name": "Power Drain",
+        "code": "power_drain"
+      }
+    ],
+    "rhino": [
+      {
+        "name": "Ransacked Armory",
+        "code": "ransacked_armory"
+      },
+      {
+        "name": "Experimental Weapons",
+        "code": "exper_weapon"
+      }
+    ],
+    "mysterio": [
+      {
+        "name": "Personal Nightmare",
+        "code": "personal_nightmare"
+      },
+      {
+        "name": "City in Chaos",
+        "code": "city_in_chaos"
+      },
+      {
+        "name": "Down to Earth",
+        "code": "down_to_earth"
+      }
+    ],
+    "klaw": [
+      {
+        "name": "Crossfire's Crew",
+        "code": "crossfire_crew"
+      },
+      {
+        "name": "Iron Spider's Sinister Six",
+        "code": "ironspider_sinister"
+      },
+      {
+        "name": "Sinister Syndicate",
+        "code": "sinister_syndicate"
+      }
+    ],
+    "the_hood": [
+      {
+        "name": "Zzzax",
+        "code": "zzzax"
+      },
+      {
+        "name": "Sinister Assault",
+        "code": "sinister_assault"
+      },
+      {
+        "name": "Whispers of Paranoia",
+        "code": "whispers_of_paranoia"
+      },
+      {
+        "name": "Wrecking Crew",
+        "code": "wrecking_crew_modular"
+      },
+      {
+        "name": "Under Attack",
+        "code": "under_attack"
+      },
+      {
+        "name": "Ransacked Armory",
+        "code": "ransacked_armory"
+      },
+      {
+        "name": "Armadillo",
+        "code": "armadillo"
+      },
+      {
+        "name": "Down to Earth",
+        "code": "down_to_earth"
+      },
+      {
+        "name": "City in Chaos",
+        "code": "city_in_chaos"
+      },
+      {
+        "name": "Osborn Tech",
+        "code": "osborn_tech"
+      },
+      {
+        "name": "Symbiotic Strength",
+        "code": "symbiotic_strength"
+      },
+      {
+        "name": "Sinister Syndicate",
+        "code": "sinister_syndicate"
+      },
+      {
+        "name": "Beasty Boys",
+        "code": "beasty_boys"
+      }
+    ]
+  },
+  "campaign_notes": [
+    "Rescued Allies",
+    "S.H.I.E.L.D. Tech",
+    "Aspect Advantage",
+    "Community Service",
+    "Planning Ahead",
+    "State of Emergency"
+  ],
+  "campaign_counters": [
+    "Reputation Track"
+  ],
+  "tracks": [
+    {
+      "title": "Hero Side",
+      "text": "Deal 3 'Campaign - S.H.I.E.L.D. Tech' upgrades at random to a player. That player may choose 1 to add to their deck for the rest of the campaign, record that card's title in their 'S.H.I.E.L.D. Tech' section of the campaign log, then return the others to the collection. Cards chosen this way do not count toward minimum or maximum deck size. Repeat this process for each player.<br><b>5:<\/b> During step 13 of game setup, each player may take 1 additional mulligan.<br><b>9:<\/b> Each player chooses an aspect card in their collection from any aspect and adds the maximum number of copies of that card, by title, to their deck for the rest of the campaign. Record the title of that card in their 'Aspect Advantage' section of the campaign log. Cards chosen this way do not count toward minimum or maximum deck size.<br><b>13:<\/b> Setup: Each player flips their 'Campaign - S.H.I.E.L.D. Tech' upgrade to its ENHANCED side.<br><b>17:<\/b> Each player chooses one card from their deck, then records the title of that card in their 'Planning Ahead' section of the campaign log.<br><b>17:<\/b> Setup: Each player searches their deck and discard pile for 1 copy of the card recorded in their 'Planning Ahead' section of the campaign log, then adds that card to their hand. (Shuffle.)<br><b>21:<\/b> Setup: Each player may search their collection for a Helicarrier support (Core Set 92) and put it into play under their control."
+    },
+    {
+      "title": "Villain Side",
+      "text": "<b>1:<\/b> Choose one 'State of Emergency' (The Hood 55-58) side scheme at random. Record its name in the 'State of Emergency' section of the campaign log.<br><b>1:<\/b> Setup: Shuffle each card recorded in the 'State of Emergency' section of the campaign log into the encounter deck.<br><b>5:<\/b> Setup: Place 18 threat on the main scheme.<br><b>9:<\/b> Setup: In player order, each player must search the encounter deck and discard pile for a minion, then put that minion into play engaged with themself. (Shuffle.) For each player who did not put a minion into play this way, deal that player 1 facedown encounter card.<br><b>17:<\/b> Setup: The first player must search the encounter deck and discard pile for a scenario-specific side scheme, then reveal it. Place 12 threat on that side scheme. (Shuffle.)<br><b>21:<\/b> Choose one 'State of Emergency' (The Hood 55-58) side scheme at random. Record its name in the 'State of Emergency' section of the campaign log."
+    }
+  ],
+  "campaign_checkbox": [
+    "Charge Complete - Zzzax",
+    "Superior Foes - Sinister Assault",
+    "Fears & Doubts - Whispers of Paranoia",
+    "Brute Force - Wrecking Crew",
+    "Raft Weapons - Under Attack",
+    "Contraband - Ransacked Armory",
+    "On A Roll - Armadillo",
+    "Loved Ones in Peril - Down to Earth",
+    "City Cries for a Savior - City in Chaos",
+    "Oscorp R&D Raided - Osborn Tech",
+    "Oscorp Biolab Raided - Symbiotic Strength",
+    "Criminal Empire - Sinister Syndicate",
+    "Unleash the Beast! - Beasty Boys"
+  ]
+}

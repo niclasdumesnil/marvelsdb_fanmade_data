@@ -1,0 +1,127 @@
+{
+  "code": "going_viral_by_henry_borkgren",
+  "name": "Going Viral",
+  "creator": "Henry Borkgren",
+  "description": "Reinvigorate your Marvel Champions games by going back to the first big bad released - Ultron - and stop the insidious android from taking over the world with a computer virus that has dominated some of Marvel's most infamous cyborgs and synthetics to his will!",
+  "epilogue": "",
+  "image": "going_viral.jpg",
+  "type": "custom",
+  "position": 104,
+  "scenarios": [
+    {
+      "code": "taskmaster",
+      "name": "Scenario #1 - Taskmaster",
+      "description": "<i>Taskmaster and his team of ex-Hydra mercenaries have kidnapped several members of the Avengers, as well as the Heroes for Hire that tried to stop him. You've got to free the captured heroes, stop Taskmaster, and hopefully find out who hired the masked mercenary, and why he kidnapped these Avengers specifically...<\/i>",
+      "introduction": "Gather any number of the following ally cards and set them aside face-down as CAPTIVE cards: Ant-Man (Hank Pym), Iron Man (Tony Stark), Jocasta, Victor Mancha, Vision, and/or Wasp (Janet Van Dyne).<br>When resolving the 'When Revealed' effect on the Captured by Hydra side scheme, these cards are also treated as CAPTIVE allies.",
+      "resolution": "<b>Victory:<\/b><br>Each player who rescued one or more allies adds those allies to their deck (ignoring aspect restrictions) and records them under 'Rescued Allies'.<br>Mark tallies on Pym's Antivirus Track:<br><ul><li>1 tally for: Jocasta, Victor Mancha, Wasp.<\/li><li>2 tallies for: Iron Man, Vision.<\/li><li>3 tallies for: Ant-Man.<\/li><\/ul><br>Mark 1 tally on the Ultron Infection Track for every 3 threat on the main scheme.",
+      "epilogue": "<i>Taskmaster's not talking, but the rescued heroes have an idea of what's going on. They've pieced together what the kidnapped Avengers all have in common: Ultron.<\/i>",
+      "image": "taskmaster_viral.jpg"
+    },
+    {
+      "code": "interlude_1",
+      "name": "Interlude #1 - Worldwide Crisis",
+      "description": "<i>Taskmaster's not talking, but the rescued heroes have an idea of what's going on. They've pieced together what the kidnapped Avengers all have in common: Ultron. Using the technology at your disposal, you've come to the realization that, all across the globe, cyborgs, androids, and artificial intelligences are going haywire.<br><br>Ultron's influence has spread not only across the globe, but to outside our gravity, as well. Ultron has spread a virus that will infect every computer system, android, and cyborg in the galaxy. Before you can get a grasp on the situation, the Avengers' satellites are shut down, taken off the board. You managed to get only a glimpse of intelligence - two sites under attack, and a third location implied to also be by your sudden loss of connection.<br><br>On an island off the coast of Wakanda, Arnim Zola has begun a new experiment. What he's working on, it's impossible to determine, but it's clear from monitoring his coded messages that he's reaching out to Ultron, even if you don't understand what's being said. What could Ultron infecting the Earth's computers have to do with the rogue geneticist? The fact that you don't know makes you worried.<br><br>In New York, the Sinister Six cause general chaos and mayhem as they make their way towards Oscorp. You have no doubt that the robotically-enhanced Doctor Octopus and Scorpion have fallen under Ultron's influence, although it's impossible to tell if the other Sinister Six know what's happening. You're not sure what they could be after in Oscorp, and it's possible that Osborn's defenses there could keep them out... but can you take that risk? If you don't stop them now, Ultron might even get more of a hold on them.<br><br>Out in orbit, something had to take out your satellites - and you've got a sneaking suspicion a certain blue cyborg got bit by the Ultron bug. You'll have to take a ship up there and deal with her. Ultron's control over Earth's communications is obviously a huge problem for coordinating resistance efforts against the mad android, but maybe you can take a chance on there being enough of you gathered already to take him out... right?<br><br>So many questions, but the real question is... Who is the priority? Odds are, you won't have time to deal with them all, and the ones you wait on will be tougher by the time you get to them... All the while, Dr. Pym struggles to develop an antivirus software to counter his creation...<\/i>",
+      "introduction": "Scenario #2a, #2b, and #2c can be played in any order.<br><b>NOTE:<\/b> You will only play two of these three scenarios. You don't have time to stop all three villains... so choose wisely.",
+      "resolution": "Proceed to the chosen Scenario #2.",
+      "epilogue": "",
+      "image": "worldwide_crisis.jpg"
+    },
+    {
+      "code": "zola",
+      "name": "Scenario #2A - Zola",
+      "description": "<i>Zola is deep in researching a hideously ingenious new program - one that blends man and machine, a terrible equation that will allow Ultron's mind to be encoded not only in the binary of ones and zeroes, but also within the nucleic bases that make up the living body! If the Hydra scientist can accomplish this scheme, Ultron's virus won't just be infecting computers and androids, but every hero on Earth and beyond!<br><br>His experiment has already begun to find purchase in his first victim - the perfect bridge between organic and inorganic, M.O.D.O.K.! Zola's the main target, but if you can't stop M.O.D.O.K.'s Doomsday Chair, Ultron will have a powerful weapon in his arsenal.<\/i>",
+      "introduction": "<b>Setup:<\/b><br>Perform any Setup instructions on Pym's Antivirus Track and the General Effect column of the Ultron Infection Track.<br><b>'Are we too late?':<\/b> If this is the second Scenario #2 played in this campaign, each player discards cards from the top of the encounter deck until they discard an attachment, then attaches it to the Ultimate Bio-Servant minion engaged with them.<br><br><b>Pym's Antivirus Track:<\/b><ul><li><b>Tally 3:<\/b> Setup: Each player puts each S.H.I.E.L.D. Tech upgrade noted in the campaign log into play under the appropriate player's control.<\/li><li><b>Tally 9:<\/b> Setup: Each player who has the ENHANCED version of their S.H.I.E.L.D. Tech upgrade noted in the campaign log flips it to its ENHANCED side.<\/li><li><b>Tally 12:<\/b> Setup: Each player searches their deck for an ally listed under 'Allies Rescued' and puts it into play. If that ally is Ant-Man (Hank Pym) or Wasp (Janet Van Dyne), put three pym counters on that ally.<\/li><li><b>Tally 15:<\/b> Setup: Search the encounter deck for up to 3 attachments and remove them from the game.<\/li><\/ul><br><b>Ultron Infection Track (General Effect):<\/b><ul><li><b>Tally 5:<\/b> Setup: When creating the encounter deck, also gather the Under Attack encounter set (Core Set) and shuffle it into the encounter deck.<\/li><li><b>Tally 11:<\/b> Setup: Search the encounter deck for an attachment that can be attached to the villain and attach it to the villain.<\/li><li><b>Tally 17:<\/b> Setup: Give the villain a tough status card. Then, for each player, that player chooses to either stun or confuse their identity.<\/li><li><b>Tally 18:<\/b> Setup: Search the encounter deck for up to 3 attachments and remove them from the game.<\/li><li><b>Tally 20:<\/b> Setup: Deal each player one facedown encounter card.<\/li><\/ul>",
+      "resolution": "<b>Victory:<\/b> Record 'You stopped Zola'. If Doomsday Chair or M.O.D.O.K. was in play, record 'M.O.D.O.K. got away', otherwise record 'M.O.D.O.K. was captured'.<br>Update Pym's Track: 3 tallies if M.O.D.O.K. captured; 1 tally per ARMOR/TECH/WEAPON attachment in discard pile.<br>Update Ultron Track: 1 tally per 3 threat on main scheme. +2 tallies if main scheme is 'The Mad Doctor'. +2 tallies if 'M.O.D.O.K. got away'.<br><br><b>Loss:<\/b> Record 'You failed to stop Zola' and 'M.O.D.O.K. got away'. Mark 5 tallies on Ultron Infection Track.",
+      "epilogue": "",
+      "image": "zola_viral.jpg"
+    },
+    {
+      "code": "sinister_six",
+      "name": "Scenario #2B - Sinister Six",
+      "description": "<i>You hurry to Oscorp, doing your best to find where in the facility the Sinister Six are, and what they're after. Heading to the central security console, you are shocked when the system powers on and Ultron's face appears on each monitor, locking you out - if Ultron already had access to Oscorp, why were the Six headed here? All at once you realize: You've fallen right into a trap. The Six swarm from all sides, rushing to prevent your escape. You've got to get out of here and get back to what really matters! Scorpion shouts at you with Ultron's voice - \"Your resistance means nothing!\" - and you promise yourself that, if you can, you'll take Scorpion down on the way out.<\/i>",
+      "introduction": "<b>Setup:<\/b><br>Perform any Setup instructions on Pym's Antivirus Track and the General Effect column of the Ultron Infection Track.<br><b>'Are we too late?':<\/b> If this is the second Scenario #2 played in this campaign, the first player searches the encounter deck for the Robotic Enhancement treachery and reveals it.<br><br><b>Pym's Antivirus Track:<\/b><ul><li><b>Tally 3:<\/b> Setup: Each player puts each S.H.I.E.L.D. Tech upgrade noted in the campaign log into play under the appropriate player's control.<\/li><li><b>Tally 9:<\/b> Setup: Each player who has the ENHANCED version of their S.H.I.E.L.D. Tech upgrade noted in the campaign log flips it to its ENHANCED side.<\/li><li><b>Tally 12:<\/b> Setup: Each player searches their deck for an ally listed under 'Allies Rescued' and puts it into play. If that ally is Ant-Man (Hank Pym) or Wasp (Janet Van Dyne), put three pym counters on that ally.<\/li><li><b>Tally 15:<\/b> Setup: Search the encounter deck for up to 3 attachments and remove them from the game.<\/li><\/ul><br><b>Ultron Infection Track (General Effect):<\/b><ul><li><b>Tally 5:<\/b> Setup: When creating the encounter deck, also gather the Under Attack encounter set (Core Set) and shuffle it into the encounter deck.<\/li><li><b>Tally 11:<\/b> Setup: Search the encounter deck for an attachment that can be attached to the villain and attach it to the villain.<\/li><li><b>Tally 17:<\/b> Setup: Give the villain a tough status card. Then, for each player, that player chooses to either stun or confuse their identity.<\/li><li><b>Tally 18:<\/b> Setup: Search the encounter deck for up to 3 attachments and remove them from the game.<\/li><li><b>Tally 20:<\/b> Setup: Deal each player one facedown encounter card.<\/li><\/ul>",
+      "resolution": "<b>Victory:<\/b> Record 'You stopped the Sinister Six'. If Scorpion was set aside, record 'Scorpion was captured', otherwise 'Scorpion got away'.<br>Update Pym's Track: 1 tally if Doc Ock OR Scorpion set aside (3 if BOTH). 1 tally per card in victory display. 1 tally per ARMOR/TECH/WEAPON attachment in discard pile.<br>Update Ultron Track: 1 tally per 3 threat on main scheme. +2 tallies if main scheme is 'Sinister Beatdown'. +1 tally if 'Scorpion got away'.<br><br><b>Loss:<\/b> Record 'You failed to stop the Sinister Six'. Mark 10 tallies on Ultron Infection Track.",
+      "epilogue": "",
+      "image": "sinister_six_viral.jpg"
+    },
+    {
+      "code": "nebula",
+      "name": "Scenario #2C - Nebula",
+      "description": "<i>In Earth's orbit, Nebula's ship races around the globe, striking down orbital defenses and attaching Ultron's drones to all forms of communications satellites, from commercial to S.H.I.E.L.D's top coordinating spy satellites. Racing after her in your own ship, you've got to catch her now, otherwise she can just come back later! If you can't disable that ship of hers, you know she'll come back to bite you later...<\/i>",
+      "introduction": "<b>Setup:<\/b><br>Perform any Setup instructions on Pym's Antivirus Track and the General Effect column of the Ultron Infection Track.<br><b>'Are we too late?':<\/b> If this is the second Scenario #2 played in this campaign, put two evasion counters on Nebula's ship.<br><br><b>Pym's Antivirus Track:<\/b><ul><li><b>Tally 3:<\/b> Setup: Each player puts each S.H.I.E.L.D. Tech upgrade noted in the campaign log into play under the appropriate player's control.<\/li><li><b>Tally 9:<\/b> Setup: Each player who has the ENHANCED version of their S.H.I.E.L.D. Tech upgrade noted in the campaign log flips it to its ENHANCED side.<\/li><li><b>Tally 12:<\/b> Setup: Each player searches their deck for an ally listed under 'Allies Rescued' and puts it into play. If that ally is Ant-Man (Hank Pym) or Wasp (Janet Van Dyne), put three pym counters on that ally.<\/li><li><b>Tally 15:<\/b> Setup: Search the encounter deck for up to 3 attachments and remove them from the game.<\/li><\/ul><br><b>Ultron Infection Track (General Effect):<\/b><ul><li><b>Tally 5:<\/b> Setup: When creating the encounter deck, also gather the Under Attack encounter set (Core Set) and shuffle it into the encounter deck.<\/li><li><b>Tally 11:<\/b> Setup: Search the encounter deck for an attachment that can be attached to the villain and attach it to the villain.<\/li><li><b>Tally 17:<\/b> Setup: Give the villain a tough status card. Then, for each player, that player chooses to either stun or confuse their identity.<\/li><li><b>Tally 18:<\/b> Setup: Search the encounter deck for up to 3 attachments and remove them from the game.<\/li><li><b>Tally 20:<\/b> Setup: Deal each player one facedown encounter card.<\/li><\/ul>",
+      "resolution": "<b>Victory:<\/b> Record 'You stopped Nebula'. If Nebula's Ship had no evasion counters, record 'Nebula was captured', otherwise 'Nebula got away'.<br>Update Pym's Track: 1 tally per ARMOR/TECH/WEAPON attachment in discard pile.<br>Update Ultron Track: 1 tally per 3 threat on main scheme. +2 tallies if main scheme is 'Warp Drive Initiated'. +1 tally if 'Nebula got away'.<br><br><b>Loss:<\/b> Record 'You failed to stop Nebula'. Mark 1 tally on Ultron Infection Track.",
+      "epilogue": "",
+      "image": "nebula_viral.jpg"
+    },
+    {
+      "code": "interlude_2",
+      "name": "Interlude #2 - Ultron Unlimited",
+      "description": "<i>As you rush around the world, desperately trying to stay ahead of Ultron's plans, you realize you're running out of time. You need to bring this to a head, here and now. It doesn't matter if Pym's computer antivirus is ready in time - you've got to stop Ultron, now. You can only hope you did enough to get ready, and that you made the right choices in which plans were the biggest threat to you and the world...<br><br>Deep in the Colorado mountains, what remains of Ultron's forces unite. Ultron slouches on his throne, awaiting their offerings.<\/i>",
+      "introduction": "Check your campaign log under 'Scenario Results' and resolve the following in order:<br><ul><li>If 'You stopped Zola' is NOT recorded: Record 'Zola completed the algorithm' and mark 10 tallies on the Ultron Infection Track.<\/li><li>If 'You stopped the Sinister Six' is NOT recorded: Record 'The Sinister Six stand united' and mark 1 tally on the Ultron Infection Track.<\/li><li>If 'You stopped Nebula' is NOT recorded: Record 'Nebula controls Earth's communications' and mark 5 tallies on the Ultron Infection Track.<\/li><\/ul>",
+      "resolution": "Proceed to Scenario #3 - Ultron.",
+      "epilogue": "",
+      "image": "ultron_unlimited.jpg"
+    },
+    {
+      "code": "ultron",
+      "name": "Scenario #3 - Ultron",
+      "description": "<i>Ultron and his armies of drones stand ready to complete their plan. Armed with the fruits of his minion's labors, he prepares to enact a final assault, an attack that ensures all not under his control will cease to exist. Your preparations have been made to the best of their ability, but if Ultron gains control of those silos, no nation on the planet will be able to stop him, and all will either be Ultron or be gone.<\/i>",
+      "introduction": "<b>Setup:<\/b><br>Check Campaign Log 'Scenario Results':<br><ul><li><b>Zola completed algorithm:<\/b> Swap 1 random Avenger/Android ally in each deck for Zola's Algorithm.<\/li><li><b>M.O.D.O.K. got away:<\/b> Shuffle The Doomsday Chair set into encounter deck. Reveal a side scheme.<\/li><li><b>Sinister Six stand united:<\/b> Put Doctor Octopus and Scorpion (Sinister Assault set) into play. Shuffle rest of set into encounter deck.<\/li><li><b>Scorpion got away:<\/b> Put Scorpion (A Mess of Things) into play (unless already in play).<\/li><li><b>Nebula controls comms:<\/b> Put Nemesis minion into play. Shuffle rest of Nemesis set into encounter deck. (If no Nemesis, treat top cards of deck as DRONES).<\/li><li><b>Nebula got away:<\/b> Attach Power Stone to Ultron. Players may fetch Nebula ally.<\/li><\/ul><br>Resolve Setup effects for Pym's Antivirus Track and Ultron Infection Track (General & Scenario #3 columns).<br><br><b>Pym's Antivirus Track:<\/b><ul><li><b>Tally 3:<\/b> Setup: Each player puts each S.H.I.E.L.D. Tech upgrade noted in the campaign log into play under the appropriate player's control.<\/li><li><b>Tally 9:<\/b> Setup: Each player who has the ENHANCED version of their S.H.I.E.L.D. Tech upgrade noted in the campaign log flips it to its ENHANCED side.<\/li><li><b>Tally 12:<\/b> Setup: Each player searches their deck for an ally listed under 'Allies Rescued' and puts it into play. If that ally is Ant-Man (Hank Pym) or Wasp (Janet Van Dyne), put three pym counters on that ally.<\/li><li><b>Tally 15:<\/b> Setup: Search the encounter deck for up to 3 attachments and remove them from the game.<\/li><\/ul><br><b>Ultron Infection Track (General Effect):<\/b><ul><li><b>Tally 5:<\/b> Setup: When creating the encounter deck, also gather the Under Attack encounter set (Core Set) and shuffle it into the encounter deck.<\/li><li><b>Tally 11:<\/b> Setup: Search the encounter deck for an attachment that can be attached to the villain and attach it to the villain.<\/li><li><b>Tally 17:<\/b> Setup: Give the villain a tough status card. Then, for each player, that player chooses to either stun or confuse their identity.<\/li><li><b>Tally 18:<\/b> Setup: Search the encounter deck for up to 3 attachments and remove them from the game.<\/li><li><b>Tally 20:<\/b> Setup: Deal each player one facedown encounter card.<\/li><\/ul><br><b>Ultron Infection Track (Scenario #3 Effect):<\/b><ul><li><b>Tally 5:<\/b> Setup: Search the encounter deck for a copy of Vibranium Armor (Core Set) and reveal it. If there are 3 or more players, also search the encounter deck for a copy of Concussive Blasters (Core Set) and reveal it.<\/li><li><b>Tally 11:<\/b> Setup: Gather the Experimental Weapons set (Rise of Red Skull), Osborn Tech set (Sinister Motives), and Ransacked Armory set (The Hood) and shuffle them into the encounter deck.<\/li><li><b>Tally 17:<\/b> Setup: Each player puts the top card of their deck into play facedown, engaged with them as a DRONE minion. Then, for each DRONE in play, search the encounter deck for an attachment and attach it to that minion.<\/li><li><b>Tally 18:<\/b> Setup: Choose and ignore one \"Setup\" ability from the Scenario #3 column of the Ultron Infection Track.<\/li><li><b>Tally 20:<\/b> Setup: When completing step 8 of Setup, gather Ultron (I), Ultron (II), and Ultron (III) to create the villain deck.<\/li><\/ul>",
+      "resolution": "Ultron is defeated and the players win the campaign!",
+      "epilogue": "",
+      "image": "ultron_viral.jpg"
+    }
+  ],
+  "modulars": {
+    "taskmaster": [
+      {
+        "name": "Hydra Patrol",
+        "code": "hydra_patrol"
+      }
+    ],
+    "zola": [
+      {
+        "name": "Ransacked Armory",
+        "code": "ransacked_armory"
+      },
+      {
+        "name": "The Doomsday Chair",
+        "code": "the_doomsday_chair"
+      }
+    ],
+    "sinister_six": [
+      {
+        "name": "Guerrilla Tactics",
+        "code": "guerrilla_tactics"
+      },
+      {
+        "name": "Osborn Tech",
+        "code": "osborn_tech"
+      }
+    ],
+    "nebula": [
+      {
+        "name": "Power Stone",
+        "code": "power_stone"
+      },
+      {
+        "name": "Experimental Weapons",
+        "code": "exper_weapon"
+      },
+      {
+        "name": "Ship Command",
+        "code": "ship_command"
+      }
+    ],
+    "ultron": []
+  },
+  "campaign_notes": [
+    "Rescued Allies",
+    "S.H.I.E.L.D. Upgrades",
+    "Scenario Results"
+  ],
+  "campaign_counters": [
+    "Pym's Antivirus Track",
+    "Ultron Infection Track"
+  ]
+}
