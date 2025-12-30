@@ -1,0 +1,121 @@
+{
+    "code": "awesome_campaign_volume_1_by_steele_hull",
+    "name": "Awesome Campaign Volume 1",
+    "creator": "Steele Hull",
+    "description": "Campaign mode combines five scenarios into an epic experience where the outcome of each game impacts the next scenario. To complete the campaign, the players must win all five scenarios in numerical order, starting with scenario #1 ('Moonage Daydream') and ending with scenario #5 ('Spirit in the Sky').<br><br><b>Hero Selection:<\/b> Hero selection is restricted to identities that do NOT have the Guardian trait on any of their forms.<br><br><b>Guardian Influence:<\/b> The Guardians take what they do very seriously. If you want their respect, you gotta impress. After each scenario in the campaign, players will record in their campaign log the amount of influence each player earned and add it to their total. During Setup of the final mission, players will have an opportunity turn those influence points in for their choice of a variety of rewards.",
+    "epilogue": "<i>Thanos is defeated and the players win the campaign!<\/i>",
+    "image": "awesome_campaign_vol_1.jpg",
+    "type": "custom",
+    "position": 101,
+    "scenarios": [
+        {
+            "code": "ronan",
+            "name": "Scenario #1 - Moonage Daydream",
+            "description": "<i>Finding themselves in an unlikely partnership fighting alongside the Guardians of the Galaxy, our heroes are engaged in an epic space battle just outside Earth’s orbit. The fearsome Ronan the Accuser has allied himself with M.O.D.O.K. and has taken control of the Power Stone! Introductions will have to wait, these two have got to be stopped before it’s too late!<\/i>",
+            "introduction": "Each player records their identity in the campaign log (identities with the Guardian trait on any of their forms cannot be used for this campaign). Players cannot switch identities during a campaign.<br>Attach the Power Stone to Ronan the Accuser.<br>Each player may search their collection for an Honorary Guardian upgrade (Nebula #35) and put it into play attached to their identity.<br>Each player may search their collection for a basic (grey) Guardian ally NOT in their decklist and put it into play under their control. Record the name of each ally put into play this way in the “Guardian Ally” box in the campaign log under the controlling identity’s name.<br>Each player may search their collection for a Galaxy’s Most Wanted Campaign unit cost 4 Market upgrade (Galaxy’s Most Wanted #162-165) and put it into play under their control.<br>Each player may search their collection for a Galaxy’s Most Wanted Campaign unit cost 6 Market upgrade (Galaxy’s Most Wanted #170-173) and put it into play under their control.<br>Each player may search their deck and discard pile for an identity-specific card and add it to their hand.<br><br><b>Expert Campaign Only:<\/b> Place an additional 1 per player threat on the main scheme.",
+            "resolution": "If M.O.D.O.K. is in play, mark the box beside “M.O.D.O.K. In Play?” in the “Scenario #1” section of the campaign log.<br>Each player records 1 influence point in the “Guardian Influence” box under their identity’s name in the campaign log for each of the following conditions that were met at the conclusion of the scenario:<br><ul><li>No defeated identities<\/li><li>No minions in play<\/li><li>No side schemes in play<\/li><li>No threat on the main scheme<\/li><li>Fewer than 1 per person acceleration tokens in play<\/li><\/ul><br><b>Expert Campaign Only:<\/b> Record each identity’s remaining hit points.",
+            "epilogue": "",
+            "image": "ronan_moonage.jpg"
+        },
+        {
+            "code": "absorbing_man",
+            "name": "Scenario #2 - Ain't No Mountain High Enough",
+            "description": "<i>Victory! But at what cost? Those introductions never really had a chance to take place. The Milano sustained critical damage during the battle, and it was only thanks to a vacant escape pod that the heroes survived at all. Rushing the heroes into the pod, Star-Lord assures them that the Guardians will be fine, and they will be in touch. Plummeting directionless into the Earth’s atmosphere, the pod strikes down in a clearing within a vast snowcapped mountain forest far from civilization. Still licking their wounds, the heroes emerge from the pod to find themselves totally lost in the middle of a fierce blizzard. All of a sudden, a loud CRACK sounds out, and with a deafening THUD, a tree lands on the ground just feet from the wreckage. Turning around, the heroes witness an entire line of trees fly into the air before a voice bellows out, “What do you think you’re doing?! You ain’t supposed to be here!” From behind a pile of broken tree trunks emerges Absorbing Man! Where did he come from?! Without a moment to gather themselves, the heroes are forced back into action.<\/i>",
+            "introduction": "Reveal the Unnatural Storm side scheme.<br>Each player is stunned, confused, and exhausted. Place an additional 3 per player threat on the main scheme.<br><br><b>Expert Campaign Only:<\/b> Set each player’s hit point dial to their remaining hit point value recorded in the campaign log. Each player may deal themself 1 facedown encounter card from the encounter deck to set their hit point dial to their identity’s printed hit point value. Each player discards the top 10 cards of their deck. Each player discards 1 card at random from their hand.",
+            "resolution": "Record the number of delay counters on the main scheme in the “Scenario #2” section of the campaign log.<br>Each player records 1 influence point in the “Guardian Influence” box under their identity’s name in the campaign log for each of the following conditions that were met at the conclusion of the scenario:<br><ul><li>No defeated identities<\/li><li>No minions in play<\/li><li>No side schemes in play<\/li><li>No threat on the main scheme<\/li><li>Fewer than 1 per person acceleration tokens in play<\/li><\/ul><br><b>Expert Campaign Only:<\/b> Record each identity’s remaining hit points.",
+            "epilogue": "",
+            "image": "absorbing_man_forest.jpg"
+        },
+        {
+            "code": "wrecking_crew",
+            "name": "Scenario #3 - Escape",
+            "description": "<i>Absorbing Man may have fallen, but he did his job. As it turns out, the mountain the heroes landed on is home to a top-secret prison built to sequester the most dangerous offenders. Whoever hired Absorbing Man to guard the area was successful in their ploy - the Wrecking Crew are loose!<\/i>",
+            "introduction": "<b>Modified Rules:<\/b> Only the active villain can take damage. Threat cannot be removed from side schemes whose villain does not have the active counter.<br><br><b>Setup:<\/b><br>Shuffle 1 attachment from the Experimental Weapons (Rise of Red Skull #72-75) modular set into each villain’s encounter deck at random.<br>Deal each player 1 encounter card from the active villain’s encounter deck for every 5 delay counters recorded in the campaign log.<br><br><b>Expert Campaign Only:<\/b> Set each player’s hit point dial to their remaining hit point value recorded in the campaign log. Each player may deal themself 1 facedown encounter card from the encounter deck to set their hit point dial to their identity’s printed hit point value. In player order, each player searches any encounter deck for a minion and puts it into play engaged with them (shuffle).",
+            "resolution": "Record the name of the last villain to be defeated in the “Scenario #3” section of the campaign log.<br>Each player records 1 influence point in the “Guardian Influence” box under their identity’s name in the campaign log for each of the following conditions that were met at the conclusion of the scenario:<br><ul><li>No defeated identities<\/li><li>No minions in play<\/li><li>No side schemes in play<\/li><li>No threat on the main scheme<\/li><li>Fewer than 1 per person acceleration tokens in play<\/li><\/ul><br><b>Expert Campaign Only:<\/b> Record each identity’s remaining hit points.",
+            "epilogue": "",
+            "image": "wrecking_crew_prison.jpg"
+        },
+        {
+            "code": "red_skull",
+            "name": "Scenario #4 - Cherry Bomb",
+            "description": "<i>Defeated, the Wrecking Crew withdraw and flee the scene. Not willing to leave this trail cold, the heroes remain in hot pursuit and are led to an old, abandoned warehouse on the edge of a desolate village. Sticking to the shadows, the team finds a broken window among the rafters and infiltrates the building without drawing notice. Just below their perch stands the infamous Red Skull, his crimson visage glowing in the half-dark warehouse as he interrogates his newly freed henchmen. “You what?! And where are they now? Such insolence will not be tolerated. The stone has been promised to me, and I shall have my reward! If you cannot succeed, then I will silence them myself!” So, Red Skull’s working for someone else? Who could it be?! At that very moment, Red Skull snaps his head upward and looks directly toward the heroes’ hiding spot. A devilish smile stretches across his face, “And it seems I will have my opportunity sooner than I thought.”<\/i>",
+            "introduction": "<b>Side Scheme Deck:<\/b> Search the encounter deck for each side scheme and shuffle them together into their own deck.<br><br><b>Setup:<\/b><br>Search the encounter deck for a minion whose name matches the name of the villain recorded in the campaign log (from Scenario #3). Put that minion into play engaged with the First Player, then shuffle the encounter deck.<br><br><b>Expert Campaign Only:<\/b> Set each player’s hit point dial to their remaining hit point value recorded in the campaign log. Each player may deal themself 1 facedown encounter card from the encounter deck to set their hit point dial to their identity’s printed hit point value. In player order, each player discards cards from the encounter deck until a minion is discarded and puts that minion into play with them.",
+            "resolution": "If The Sleeper has not been removed from the game, mark the box beside “The Sleeper Active?” in the “Scenario #4” section of the campaign log.<br>Each player records 1 influence point in the “Guardian Influence” box under their identity’s name in the campaign log for each of the following conditions that were met at the conclusion of the scenario:<br><ul><li>No defeated identities<\/li><li>No minions in play<\/li><li>No side schemes in play<\/li><li>No threat on the main scheme<\/li><li>Fewer than 1 per person acceleration tokens in play<\/li><\/ul><br><b>Expert Campaign Only:<\/b> Record each identity’s remaining hit points.",
+            "epilogue": "",
+            "image": "red_skull_warehouse.jpg"
+        },
+        {
+            "code": "thanos",
+            "name": "Scenario #5 - Spirit in the Sky",
+            "description": "<i>Just as the heroes deal the final blow to Red Skull, his master - the Mad Titan Thanos himself - shows up alongside some familiar faces, and with a wave of his hand, rips the roof off the building! Ronan to his left, M.O.D.O.K. to his right, and armed with the Infinity Gauntlet, Thanos laughs at the defeat of his crimson faced servant. Just as Thanos lifts his hand to obliterate the heroes, a flash streaks across the sky. The Milano! The Guardians! Looks like they’ve been paying attention after all. Any help is a welcome sight, as somehow Thanos and his allies have gathered all the Infinity Stones. The fate of the universe is at stake!<\/i>",
+            "introduction": "If the box next to “M.O.D.O.K. In Play?” is marked in the campaign log, search the encounter deck for the M.O.D.O.K. minion and put it into play engaged with the First Player.<br>If the box next to “The Sleeper Active?” is marked in the campaign log, shuffle The Sleeper (Rise of Red Skull #130) into the encounter deck.<br>Each player may search their collection for an Honorary Guardian upgrade (Nebula #35) and put it into play attached to their identity.<br>Each player may search their collection for the Guardian ally recorded under their identity’s name in the campaign log and puts it into play under their control.<br>Each player may purchase cards from the Influence Rewards section and add those cards to their deck (if a card has the Setup trait, put it into play per the Setup rules).<br><br><b>Expert Campaign Only:<\/b> Set each player’s hit point dial to their remaining hit point value recorded in the campaign log. Each player may deal themself 1 facedown encounter card from the encounter deck to set their hit point dial to their identity’s printed hit point value. The first player resolves the Special ability of each Infinity Stone in play. Then, put the top card of the Infinity Stone deck into play.<br><br><b>INFLUENCE REWARDS<\/b><br><i>Only one copy of each card from the Influence Rewards section can be used for the players as a group.<\/i><br><br><table style='width:100%; border-collapse: collapse; border: none;'><tr><td style='width:50%; vertical-align:top; padding-right:10px;'><table style='width:100%'><thead><tr><th colspan='2' style='text-align:left'>unlockable supports<\/th><\/tr><tr><th style='text-align:left; width:80%'>Name<\/th><th style='text-align:left; width:20%'>Cost<\/th><\/tr><\/thead><tbody><tr><td>Milano<\/td><td>5<\/td><\/tr><tr><td>Armor Plating<\/td><td>5<\/td><\/tr><tr><td>Heavy Cannon<\/td><td>2<\/td><\/tr><tr><td>Hyper Thrusters<\/td><td>2<\/td><\/tr><tr><td>Reactor Core<\/td><td>2<\/td><\/tr><tr><td>Cargo Hold<\/td><td>3<\/td><\/tr><tr><td>Mounted Laser<\/td><td>3<\/td><\/tr><tr><td>Navigation Column<\/td><td>3<\/td><\/tr><tr><td>Targeting Screen<\/td><td>3<\/td><\/tr><\/tbody><\/table><br><table style='width:100%'><thead><tr><th colspan='2' style='text-align:left'>unlockable resources<\/th><\/tr><tr><th style='text-align:left; width:80%'>Name<\/th><th style='text-align:left; width:20%'>Cost<\/th><\/tr><\/thead><tbody><tr><td>Shawarma<\/td><td>5<\/td><\/tr><\/tbody><\/table><br><table style='width:100%'><thead><tr><th colspan='2' style='text-align:left'>unlockable events<\/th><\/tr><tr><th style='text-align:left; width:80%'>Name<\/th><th style='text-align:left; width:20%'>Cost<\/th><\/tr><\/thead><tbody><tr><td>Brainstorm<\/td><td>1<\/td><\/tr><tr><td>By Any Means<\/td><td>1<\/td><\/tr><tr><td>Contingency Plan<\/td><td>1<\/td><\/tr><tr><td>In Defiance<\/td><td>1<\/td><\/tr><tr><td>Sure Gamble<\/td><td>1<\/td><\/tr><tr><td>Calculate the Odds<\/td><td>2<\/td><\/tr><tr><td>Creative Solution<\/td><td>2<\/td><\/tr><tr><td>Grapple<\/td><td>2<\/td><\/tr><tr><td>Wing It<\/td><td>2<\/td><\/tr><tr><td>Close Call<\/td><td>2<\/td><\/tr><tr><td>Defy Danger<\/td><td>2<\/td><\/tr><tr><td>In Harm's Way<\/td><td>2<\/td><\/tr><tr><td>Take the Fight to Them<\/td><td>2<\/td><\/tr><tr><td>Grand Strategy<\/td><td>3<\/td><\/tr><tr><td>Power Unleashed<\/td><td>3<\/td><\/tr><tr><td>Tried and True<\/td><td>3<\/td><\/tr><tr><td>Triple Threat<\/td><td>3<\/td><\/tr><tr><td>Ardent Resolve<\/td><td>4<\/td><\/tr><tr><td>Onrush<\/td><td>4<\/td><\/tr><tr><td>Safeguard<\/td><td>4<\/td><\/tr><\/tbody><\/table><\/td><td style='width:50%; vertical-align:top; padding-left:10px;'><table style='width:100%'><thead><tr><th colspan='2' style='text-align:left'>unlockable upgrades<\/th><\/tr><tr><th style='text-align:left; width:80%'>Name<\/th><th style='text-align:left; width:20%'>Cost<\/th><\/tr><\/thead><tbody><tr><td>Basic Thwart Upgrade<\/td><td>3<\/td><\/tr><tr><td>Basic Attack Upgrade<\/td><td>3<\/td><\/tr><tr><td>Basic Defense Upgrade<\/td><td>3<\/td><\/tr><tr><td>Basic Recovery Upgrade<\/td><td>3<\/td><\/tr><tr><td>Flip any unlocked basic power upgrade to Improved<\/td><td>2<\/td><\/tr><tr><td>Compact Darts<\/td><td>3<\/td><\/tr><tr><td>Impact-Dampening Suit<\/td><td>3<\/td><\/tr><tr><td>Laser Goggles<\/td><td>3<\/td><\/tr><tr><td>Propulsion Gauntlet<\/td><td>3<\/td><\/tr><tr><td>Retinal Display<\/td><td>3<\/td><\/tr><tr><td>Shock Knuckles<\/td><td>3<\/td><\/tr><tr><td>Wave Bracers<\/td><td>3<\/td><\/tr><tr><td>Wrist Navigator<\/td><td>3<\/td><\/tr><tr><td>Flip any unlocked S.H.I.E.L.D. Tech upgrade to Improved<\/td><td>2<\/td><\/tr><tr><td>Adrenal Stims<\/td><td>4<\/td><\/tr><tr><td>Tactical Scanner<\/td><td>4<\/td><\/tr><tr><td>Emergency Teleporter<\/td><td>4<\/td><\/tr><tr><td>Laser Cannon<\/td><td>4<\/td><\/tr><tr><td>Norn Stone<\/td><td>4<\/td><\/tr><\/tbody><\/table><br><table style='width:100%'><thead><tr><th colspan='2' style='text-align:left'>unlockable allies<\/th><\/tr><tr><th style='text-align:left; width:80%'>Name<\/th><th style='text-align:left; width:20%'>Cost<\/th><\/tr><\/thead><tbody><tr><td>Moon Knight<\/td><td>3<\/td><\/tr><tr><td>Shang-Chi<\/td><td>3<\/td><\/tr><tr><td>White Tiger<\/td><td>3<\/td><\/tr><tr><td>Elektra<\/td><td>3<\/td><\/tr><tr><td>Lady Sif<\/td><td>3<\/td><\/tr><tr><td>Fandral<\/td><td>3<\/td><\/tr><tr><td>Volstagg<\/td><td>3<\/td><\/tr><\/tbody><\/table><\/td><\/tr><\/table>",
+            "resolution": "Thanos is defeated and the players win the campaign!",
+            "epilogue": "",
+            "image": "thanos_final_battle.jpg"
+        }
+    ],
+    "modulars": {
+        "ronan": [
+            {
+                "name": "The Doomsday Chair",
+                "code": "the_doomsday_chair"
+            },
+            {
+                "name": "Power Stone",
+                "code": "power_stone"
+            },
+            {
+                "name": "Ship Command",
+                "code": "ship_command"
+            }
+        ],
+        "absorbing_man": [
+            {
+                "name": "Frost Giants",
+                "code": "frost_giants"
+            }
+        ],
+        "wrecking_crew": [
+            {
+                "name": "Experimental Weapons",
+                "code": "exper_weapon"
+            }
+        ],
+        "red_skull": [
+            {
+                "name": "Wrecking Crew",
+                "code": "wrecking_crew_modular"
+            },
+            {
+                "name": "Children of Thanos",
+                "code": "children_of_thanos"
+            }
+        ],
+        "thanos": [
+            {
+                "name": "Infinity Gauntlet",
+                "code": "infinity_gauntlet"
+            },
+            {
+                "name": "Kree Fanatic",
+                "code": "kree_fanatic"
+            },
+            {
+                "name": "The Doomsday Chair",
+                "code": "the_doomsday_chair"
+            }
+        ]
+    },
+    "campaign_notes": [
+        "Guardian Ally",
+        "Last Villain Defeated"
+    ],
+    "campaign_counters": [
+        "Guardian Influence",
+        "Number of Delay Counters"
+    ],
+    "campaign_checkbox": [
+        "M.O.D.O.K. In Play?",
+        "The Sleeper Active?"
+    ]
+}
