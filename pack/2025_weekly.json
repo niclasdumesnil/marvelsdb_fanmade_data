@@ -118,8 +118,18 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+    {
+        "name": "Mojo’s Major Movie Mayhem",
+        "text": "Defeat the Mojo scenario as any hero(es). After setup, search the encounter deck for Major Domo and reveal him. During this scenario, Major Domo gains permanent and loses his Hero Action ability.",
+        "expansions_needed": "MojoMania.",
+        "type_code": "challenge",
+        "position": 11,
+        "quantity": 1,
+        "code": "999111",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
-    
-    
-    
+     
 ]
