@@ -1,0 +1,107 @@
+{
+  "code": "crimson_cowl_conspiracy_by_kurt_hake",
+  "name": "The Crimson Cowl Conspiracy",
+  "creator": "Kurt Hake",
+  "description": "The Crimson Cowl Conspiracy campaign represents a struggle between the Avengers and their classic foes, the Masters of Evil. As such, each player must select an identity which has the AVENGER trait in hero form. In addition, each player must select a different aspect to use with their deck.",
+  "epilogue": "",
+  "image": "crimson_cowl_conspiracy.jpg",
+  "type": "custom",
+  "position": 102,
+  "scenarios": [
+    {
+      "code": "crossbones",
+      "name": "Scenario #1 - Crossbones",
+      "description": "<i>Nick Fury summons you and the rest of the Avengers to Project P.E.G.A.S.U.S., ostensibly to help test new S.H.I.E.L.D. technology. You are happy to oblige; after all, S.H.I.E.L.D. has the best toys! Time flies as you tour the facility, trying various weapons and gadgets.<br><br>Suddenly, the security alarm blares. The base is under attack! Running to the monitor, you see a small army of supervillains heading your way. You had better stop them from stealing any weapons! Otherwise, it's the wrath of Nick Fury you will have to worry about.<\/i>",
+      "introduction": "Each player records their AVENGER identity and their aspect in the campaign log. Players must choose different aspects than each other.<br>Deal 3 \"Campaign - S.H.I.E.L.D. Tech\" upgrades at random to a player. That player must choose 1 to put into play. Record its name in their \"Tech Proficiencies\" section of the campaign log. Repeat this process for each player.<br>After drawing starting hands, the Leadership player draws 1 additional card. Each non-Leadership player may search their collection for a Quinjet support (Captain America #19) and put it into play.<br>The first player must search the encounter deck and discard pile for the Brothers Grimm minion, and then give it to Crossbones as a facedown boost card. (Shuffle.)<br><b>Campaign Reminder:<\/b> Each MASTERS OF EVIL minion the players defeat is added to the victory display.",
+      "resolution": "Return all \"Campaign - S.H.I.E.L.D. Tech\" upgrades to the campaign card set.<br>Each non-Leadership player returns their Quinjet support to their collection.<br>In the campaign log:<br><ul><li>For each AVENGER ally in play, record its name in the \"Assembled Avengers\" section.<\/li><li>For each MASTERS OF EVIL minion in play, in the encounter deck, and in the encounter discard pile, record its name in the \"Escaped Minions\" section.<\/li><li>For each MASTERS OF EVIL minion in the victory pile, record its name in the \"Caught Minions\" section.<\/li><\/ul>",
+      "epilogue": "",
+      "image": "crossbones_crimson.jpg"
+    },
+    {
+      "code": "klaw",
+      "name": "Scenario #2 - Klaw",
+      "description": "<i>Although you defeated Crossbones, a few of his accomplices managed to escape with valuable S.H.I.E.L.D. weapons. You dread Nick Fury's reaction, but to your surprise, he actually smiles.<br><br>\"I suppose I can tell you the truth now,\" he says. \"This attack went exactly as I hoped.\" You look at him with a puzzled expression, but he continues. \"S.H.I.E.L.D. has recently been plagued by a series of thefts made by a group of supervillains calling themselves the new Masters of Evil. So far, we have been unable to thwart their underground weapons network or even identify their leader. But that all changes today! We leaked the existence of these experimental weapons to the Masters of Evil. Then we placed tracking devices inside the weapons, hoping the villains would take the bait - and they did! You Avengers were called in to keep everything looking authentic. You played your parts perfectly!\"<br><br>You resent being manipulated and kept in the dark about the plan, but what's done is done. Now you have a new mission: follow the tracking signal, mount a counterattack on the Masters of Evil, and uncover the identity of their mysterious leader.<\/i>",
+      "introduction": "Deal 3 \"Campaign - S.H.I.E.L.D. Tech\" upgrades at random to a player. That player must choose 1 to put into play. If it is listed in their \"Tech Proficiencies\" section of the campaign log, they flip it to its ENHANCED side. Otherwise, record its name in that section. Repeat this process for each player.<br>After drawing starting hands, the Aggression player draws 1 additional card. Each non-Aggression player may search their collection for a Counterattack upgrade (Black Widow #30) and put it into play.<br>Shuffle into the encounter deck each minion listed on the \"Escaped Minions\" section of the campaign log.<br>The first player must search the encounter deck and discard pile for the Crime Pays side scheme, then reveal it. (Shuffle.)<br><b>Campaign Reminders:<\/b> Each MASTERS OF EVIL minion the players defeat is added to the victory display. Whenever an ally card is played, if its name is listed in the \"Assembled Avengers\" section of the campaign log, reduce its cost by 1.",
+      "resolution": "Return all \"Campaign - S.H.I.E.L.D. Tech\" upgrades to the campaign card set.<br>Each non-Aggression player returns their Counterattack upgrade to their collection.<br>In the campaign log:<br><ul><li>For each AVENGER ally in play, record its name in the \"Assembled Avengers\" section (if it is not already on that list).<\/li><li>For each MASTERS OF EVIL minion in play, in the encounter deck, and in the encounter discard pile, record its name in the \"Escaped Minions\" section (if it is not already on that list).<\/li><li>For each MASTERS OF EVIL minion in the victory display, record its name in the \"Caught Minions\" section and, if applicable, remove its name from the \"Escaped Minions\" section.<\/li><\/ul>",
+      "epilogue": "",
+      "image": "klaw_crimson.jpg"
+    },
+    {
+      "code": "absorbing_man",
+      "name": "Scenario #3 - Absorbing Man",
+      "description": "<i>You have shut down Klaw's smuggling operation, but his boss, the Crimson Cowl, is escaping! Eager to unmask the villain, you quickly give chase. You almost catch up, until two imposing figures block your path. To reach the Crimson Cowl, you will first have to get through Absorbing Man and Mister Hyde.<\/i>",
+      "introduction": "Deal 3 \"Campaign - S.H.I.E.L.D. Tech\" upgrades at random to a player. That player must choose 1 to put into play. If it is listed in their \"Tech Proficiencies\" section of the campaign log, they flip it to its ENHANCED side. Otherwise, record its name in that section. Repeat this process for each player.<br>After drawing starting hands, the Protection player draws 1 additional card. Each non-Protection player may search their collection for an Anticipation upgrade (Valkyrie #35) and put it into play.<br>Shuffle into the encounter deck each minion listed on the \"Escaped Minions\" section of the campaign log.<br>The first player must search the encounter deck and discard pile for the Self-Experimentation side scheme and reveal it. (Shuffle.)<br><b>Campaign Reminders:<\/b> Each MASTERS OF EVIL minion the players defeat is added to the victory display. Whenever an ally card is played, if its name is listed in the \"Assembled Avengers\" section of the campaign log, reduce its cost by 1.",
+      "resolution": "Return all \"Campaign - S.H.I.E.L.D. Tech\" upgrades to the campaign card set.<br>Each non-Protection player returns their Anticipation upgrade to their collection.<br>In the campaign log:<br><ul><li>For each AVENGER ally in play, record its name in the \"Assembled Avengers\" section (if it is not already on that list).<\/li><li>For each MASTERS OF EVIL minion in play, in the encounter deck, and in the encounter discard pile, record its name in the \"Escaped Minions\" section (if it is not already on that list).<\/li><li>For each MASTERS OF EVIL minion in the victory display, record its name in the \"Caught Minions\" section and, if applicable, cross out its name from the \"Escaped Minions\" section.<\/li><\/ul>",
+      "epilogue": "",
+      "image": "absorbing_man_crimson.jpg"
+    },
+    {
+      "code": "wrecking_crew",
+      "name": "Scenario #4 - Wrecking Crew",
+      "description": "<i>Because of the interference of Absorbing Man and Mister Hyde, the Crimson Cowl managed to get away. Although you have decimated the ranks of the Masters of Evil, you are back to square one in your mission to unmask their leader.<br><br>Your fellow Avengers agree that the best way to find a lead would be to interrogate the Masters of Evil you have already arrested. Together, you head to \"the Vault\" prison for superhuman criminals. However, when you arrive, you find the Vault in chaos. The Wrecking Crew has initiated a prison break! You must re-secure the prison, or else your best sources of information may escape and rejoin the Crimson Cowl.<\/i>",
+      "introduction": "Deal 3 \"Campaign - S.H.I.E.L.D. Tech\" upgrades at random to a player. That player must choose 1 to put into play. If it is listed in their \"Tech Proficiencies\" section of the campaign log, they flip it to its ENHANCED side. Otherwise, record its name in that section. Repeat this process for each player.<br>After drawing starting hands, the Justice player draws 1 additional card. Each non-Justice player may search their collection for an Interrogation Room support (Core Set #63) and put it into play.<br>In player order, each player must search a different villain's encounter deck for a Corrupt Prison Guard minion and reveal it. (Shuffle.)<br><b>Campaign Reminder:<\/b> Whenever an ally card is played, if its name is listed in the \"Assembled Avengers\" section of the campaign log, reduce its cost by 1.",
+      "resolution": "Return all \"Campaign - S.H.I.E.L.D. Tech\" upgrades to the campaign card set.<br>Each non-Justice player returns their Interrogation Room support to their collection.<br>In the campaign log:<br><ul><li>For each AVENGER ally in play, record its name in the \"Assembled Avengers\" section (if it is not already on that list).<\/li><li>For each MASTERS OF EVIL minion in play, in the encounter deck, and in the encounter discard pile, record its name in the \"Escaped Minions\" section (if it is not already on that list).<\/li><li>For each MASTERS OF EVIL minion in the victory display, record its name in the \"Caught Minions\" section and, if applicable, remove its name from the \"Escaped Minions\" section.<\/li><li>Calculate the total SCH of all minions on the \"Caught Minions\" list. Record this value as the \"Intel Level.\"<\/li><\/ul>",
+      "epilogue": "",
+      "image": "wrecking_crew_crimson.jpg"
+    },
+    {
+      "code": "ultron",
+      "name": "Scenario #5 - Ultron",
+      "description": "<i>Having stopped the prison break, you obtain what information you can from the prisoners. Hopefully, this intel will be enough to prepare you for the Crimson Cowl's endgame. You return to Avengers Mansion and begin to make plans.<br><br>However, you are interrupted when the computer system is hijacked by an invasive AI. On screen, you see the silhouette of a cloaked figure.<br><br>\"I am the Crimson Cowl. I have grown tired of your interference. Know this: your resistance is futile. The Avengers must die, but there is no need for you to suffer. If you surrender now, I offer you a quick and painless death. But if you stand in my way, your agony will be greater than you can imagine. What say you?\"<br><br>You look at your teammates with a smile. There is only one thing to say: \"Avengers, assemble!\"<\/i>",
+      "introduction": "Deal 3 \"Campaign - S.H.I.E.L.D. Tech\" upgrades at random to a player. That player must choose 1 to put into play. If it is listed in their \"Tech Proficiencies\" section of the campaign log, they flip it to its ENHANCED side. Repeat this process for each player.<br>After drawing starting hands, trigger each of the following effects which is satisfied by the \"Intel Level\" in the campaign log:<br><ul><li><b>Intel 1 or greater:<\/b> The Leadership player draws 1 additional card. Each non-Leadership player may search their collection for a Quinjet support (Captain America #19) and put it into play.<\/li><li><b>Intel 3 or greater:<\/b> The Aggression player draws 1 additional card. Each non-Aggression player may search their collection for a Counterattack upgrade (Black Widow #30) and put it into play.<\/li><li><b>Intel 5 or greater:<\/b> The Protection player draws 1 additional card. Each non-Protection player may search their collection for an Anticipation upgrade (Valkyrie 35) and put it into play.<\/li><li><b>Intel 7 or greater:<\/b> The Justice player draws 1 additional card. Each non-Justice player may search their collection for an Interrogation Room support (Core Set #63) and put it into play.<\/li><li><b>Intel 9 or greater:<\/b> Give each identity a tough status card.<\/li><\/ul><br>Then, continue with setup:<br>Shuffle into the encounter deck each minion listed on the \"Escaped Minions\" section of the campaign log.<br>In player order, each player must search the encounter deck and discard pile for a MASTERS OF EVIL minion, and then deal it to themself as a facedown encounter card.<br>The first player must search the encounter deck and discard pile for the Invasive AI side scheme and reveal it. (Shuffle.)<br><b>Campaign Reminder:<\/b> Each MASTERS OF EVIL minion the players defeat is added to the victory display. Whenever an ally card is played, if its name is listed in the \"Assembled Avengers\" section of the campaign log, reduce its cost by 1.",
+      "resolution": "You win the campaign!",
+      "epilogue": "",
+      "image": "ultron_crimson.jpg"
+    }
+  ],
+  "modulars": {
+    "crossbones": [
+      {
+        "name": "Experimental Weapons",
+        "code": "exper_weapon"
+      },
+      {
+        "name": "Brothers Grimm",
+        "code": "brothers_grimm"
+      },
+      {
+        "name": "Beasty Boys",
+        "code": "beasty_boys"
+      },
+      {
+        "name": "Crossfire's Crew",
+        "code": "crossfire_crew"
+      }
+    ],
+    "klaw": [
+      {
+        "name": "Sinister Syndicate",
+        "code": "sinister_syndicate"
+      }
+    ],
+    "absorbing_man": [
+      {
+        "name": "Mister Hyde",
+        "code": "mister_hyde"
+      }
+    ],
+    "wrecking_crew": [],
+    "ultron": [
+      {
+        "name": "Masters of Evil",
+        "code": "masters_of_evil"
+      }
+    ]
+  },
+  "campaign_notes": [
+    "Tech Proficiencies",
+    "Assembled Avengers",
+    "Escaped Minions",
+    "Caught Minions"
+    
+  ],
+  "campaign_counters": [
+    "Intel Level",
+    "Final Score"
+  ]
+}
