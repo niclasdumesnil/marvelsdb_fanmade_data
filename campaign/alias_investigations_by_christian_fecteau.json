@@ -1,0 +1,92 @@
+{
+    "code": "alias_investigations_by_christian_fecteau",
+    "name": "Alias Investigations",
+    "creator": "Christian Fecteau",
+    "description": "Jessica Jones is ready to do whatever it takes to find the culprit of this kidnapping case, and that means she will team up with any hero who agrees to help. Players may choose whatever heroes and aspects they like in any combination. After beginning the campaign, deck lists cannot be modified, so be ready for anything.",
+    "epilogue": "Check the Campaign Log. Count the number of checked boxes under “Jessica’s Wounds” and consult the table below.<br><br><b>3 checked boxes<\/b>: <i>Jessica Jones temporarily closes Alias Investigations. She thanks you for your help and tells you that she needs to take some time before she can get back to working on her own again.<\/i><br><b>2 checked boxes<\/b>: <i>You stop in on Alias Investigations a few weeks later. Jessica is mostly the same as you remember her. Business is slow, she tells you, but her clients know that she does good work, and that’s the important thing. You have a feeling that things will be tough for a bit, but she’ll get through it; she always does.<\/i><br><b>1 checked box<\/b>: <i>Business seems good for Alias Investigations. Jessica’s reputation in the community has grown since the last time you saw her. She meets up with you to catch up, and you share a good laugh about that one part of the case where she got knocked out and you had to finish the fight for her.<\/i><br><b>0 checked boxes<\/b>: <i>After the work done on the kidnapping case, Alias Investigations has a stellar reputation. Crime in the area has dropped significantly since then, and the police often call Jessica in as a consultant. She has also received calls from some superhero teams that were seeking her advice. The work keeps her busy, but she finds time to send you a letter thanking you for the work you did with her.<\/i><br><br>Next, tally your victory points from all three scenarios to determine your investigator rank:<br><b>6 or more VP<\/b>: Super-Sleuth<br><b>4 or 5 VP<\/b>: Insightful Investigator<br><b>2 or 3 VP<\/b>: Dauntless Detective<br><b>1 or less VP<\/b>: Resilient Rookie",
+    "image": "alias_investigations.jpg",
+    "type": "custom",
+    "position": 110,
+    "scenarios": [
+        {
+            "code": "rhino",
+            "name": "Scenario #1 - Rhino (AKA Fight at the Facility)",
+            "description": "<i>Jessica Jones has asked for your help with tracking down the culprit who kidnapped her client, and so you’ve met her at her office – Alias Investigations – to work with her and figure out a strategy. Her investigation has hit a few dead ends, but she tells you that one of her contacts has reached out to her with a new lead: a folder of case files that are currently stored inside a safety deposit box at a S.H.I.E.L.D. facility.<\/i><br><br><i>Right after she mentions this, the words “breaking news” flash across the screen of Jessica’s old TV: Rhino is forcing his way into a nearby S.H.I.E.L.D. site, and authorities are advising everyone to steer clear until the situation is resolved. You turn to Jessica, as though to ask if this might be the same S.H.I.E.L.D. building where the documents are being stored, but you can already tell the answer to that question from the way that Jessica is holding her head in her hands and sighing exasperatedly.<\/i><br><br><i>There’s no time to prepare or speculate as to whether the timing of Rhino’s attack is a coincidence – you and Jessica grab your things and rush to the facility. Heroics first, ask questions later.<\/i>",
+            "introduction": "After Step 1 (Select Heroes), each player records their name, identity, and aspect in the Campaign Log.<br>After Step 11 (Shuffle Encounter Deck), assemble the Clue Deck using the following three cards: Radioactive Man (Core Set #129), Madame Hydra (Core Set #181), and Mystique (Mutant Genesis #80).<br>After Step 13 (Resolve Mulligans), the first player searches for the Jessica Jones ally (Core Set #59) and places her in play under the first player's control.<br><br><b>Special Rules:<\/b><br>For the duration of the scenario, Jessica Jones gains the text “Victory -1” and “Jessica Jones does not count against your ally limit.”<br>When players defeat Stage I of the Villain (or Stage II in Expert Mode), reveal the top card of the Clue Deck.<br>Cards from the Clue Deck gain the text “Victory 2”.",
+            "resolution": "Check the victory display at the end of the scenario:<br><ul><li>If Jessica Jones is in the victory display, check one box under “Jessica’s Wounds” in the Campaign Log.<\/li><li>If the card revealed from the Clue Deck is in the victory display, record its name under “Evidence Collected”.<\/li><li>If the revealed card is not in the victory display, record its name under “Leads Pursued”.<\/li><li>Record the total victory value of cards in the victory display in the “Victory Tally” section.<\/li><\/ul><br><b>Expert Mode Only:<\/b> Record each Identity's remaining hit points.",
+            "epilogue": "",
+            "image": "rhino_facility.jpg"
+        },
+        {
+            "code": "project_wideawake",
+            "name": "Scenario #2 - Sentinel (AKA Brawl at the Mall)",
+            "description": "<i>Although Rhino seemed to have no interest in the case file at the facility, another foe appeared partway through the battle, and they were determined to keep you from getting the contents of the safety deposit box. While it occurred to you that the enemy you encountered might be the person behind the kidnapping, Jessica doesn’t seem convinced; she thinks the real kidnapper probably sent someone to steal the files for them and wouldn’t risk going in person. “That one’s likely working with the kidnapper, though,” Jessica says. “I doubt we’ve seen the last of them.”<\/i><br><br><i>The documents you recovered from the facility are dense; you and Jessica take the files back to her office and start reading through them. As it turns out, Jessica’s client isn’t the only person kidnapped – the information you’ve found says that there’s been several superpowered people who have gone missing within the last few weeks, and all of them disappeared within a two-mile radius of the local mall. If what you’re reading is true, then it’s possible that all the kidnappings are the work of the same individual. There’s only one way to find out, so you and Jessica head to the mall to check things out for yourselves.<\/i>",
+            "introduction": "<b>Setup:<\/b><br>After Step 8, check the Campaign Log. If Radioactive Man, Madame Hydra, or Mystique are listed under “Leads Pursued” or “Evidence Collected”, add their corresponding encounter set (Masters of Evil, Legions of Hydra, or Mystique) to the encounter deck.<br>After Step 10, search for any cards listed under “Leads Pursued” and put them into play. Each card gains the text “Victory 1”.<br>After Step 11, assemble the Clue Deck using: Taskmaster’s Training Camp (#108), Test Subjects (#123), and Intruder Alert! (#19).<br>After Step 13, place the Jessica Jones ally in play under the first player’s control with her campaign text (“Victory -1”, does not count against ally limit).<br><br><b>Special Rules:<\/b><br>When players defeat Stage I (or II in Expert), reveal the top card of the Clue Deck. It gains “Victory 2”.",
+            "resolution": "Record the results of the investigation:<br><ul><li>If Jessica Jones is in the victory display, check one box under “Jessica’s Wounds”.<\/li><li>If the card revealed from the Clue Deck is in the victory display, record it as “Evidence Collected”; otherwise, record it as “Leads Pursued”.<\/li><li>If a card listed under “Leads Pursued” is in the victory display, cross it out and record it in “Evidence Collected”.<\/li><li>For each Captive ally that entered play (including Jubilee), record their name under “Victims Rescued”.<\/li><li>Record the total victory value in the “Victory Tally”.<\/li><\/ul><br><b>Expert Mode Only:<\/b> Record each Identity's remaining hit points.",
+            "epilogue": "",
+            "image": "sentinel_mall.jpg"
+        },
+        {
+            "code": "the_kidnapper_aka_the_final_battle",
+            "name": "Scenario #3 - The Kidnapper (AKA The Final Battle)",
+            "description": "<i>After the battle at the mall, you and Jessica now know the identity of the kidnapper. You’ve discovered that they’ve used modified Sentinels to commit the kidnappings, and they’ve also enlisted minions to help cover their tracks. They didn’t cover things up well enough, though, because now you and Jessica know where to find them. All you need to do now is stop them.<\/i>",
+            "introduction": "<b>Villain Selection:<\/b><br>Check the Campaign Log for “Leads Pursued” or “Evidence Collected”:<br>If <b>Taskmaster’s Training Camp<\/b> is listed: Villain is Taskmaster (Encounter Deck: Hydra Patrol).<br>If <b>Test Subjects<\/b> is listed: Villain is Zola (Main Scheme: The Island of Dr. Zola).<br>If <b>Intruder Alert!<\/b> is listed: Villain is Master Mold (Encounter Deck: Sentinels).<br><br><b>Setup:<\/b><br>Add Masters of Evil, Legions of Hydra, or Mystique sets if their corresponding clue cards are listed in the Campaign Log.<br>Place any cards listed under “Leads Pursued” into play (they gain “Victory 1”).<br>Assemble the Clue Deck using the 4 Captive allies (Project Wideawake set), removing any listed under “Victims Rescued”.<br>Place Jessica Jones in play with her campaign text.<br><br><b>Special Rules:<\/b><br>When Stage I (or II in Expert) is defeated, reveal the top Clue card. It enters play under the first player's control and gains: “This ally does not count towards your ally limit” and “If this card leaves play, the players lose the game.”",
+            "resolution": "The final battle is over!<br><ul><li>If Jessica Jones is in the victory display, check one box under “Jessica’s Wounds”.<\/li><li>If a card listed under “Leads Pursued” is in the victory display, move it to “Evidence Collected”.<\/li><li>Record the Captive ally's name from the Clue Deck under “Victims Rescued”.<\/li><li>Record total victory value.<\/li><\/ul><br><b>Expert Mode Only:<\/b> Record each Identity's remaining hit points.<br><br>Proceed to Epilogue.",
+            "epilogue": "",
+            "image": "final_battle.jpg"
+        }
+    ],
+    "modulars": {
+        "rhino": [
+            {
+                "name": "Weapon Master",
+                "code": "weap_master"
+            }
+        ],
+        "project_wideawake": [
+            {
+                "name": "Masters of Evil",
+                "code": "masters_of_evil"
+            },
+            {
+                "name": "Legions of Hydra",
+                "code": "legions_of_hydra"
+            },
+            {
+                "name": "Mystique",
+                "code": "mystique"
+            }
+        ],
+        "the_kidnapper_aka_the_final_battle": [
+            {
+                "name": "Hydra Patrol",
+                "code": "hydra_patrol"
+            },
+            {
+                "name": "Sentinels",
+                "code": "sentinels"
+            },
+            {
+                "name": "Masters of Evil",
+                "code": "masters_of_evil"
+            },
+            {
+                "name": "Legions of Hydra",
+                "code": "legions_of_hydra"
+            },
+            {
+                "name": "Mystique",
+                "code": "mystique"
+            }
+        ]
+    },
+    "campaign_notes": [
+        "Leads Pursued",
+        "Evidence Collected",
+        "Victims Rescued"
+    ],
+    "campaign_counters": [
+        "Jessica Wounds",
+        "Victory Points"
+    ]
+}

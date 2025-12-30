@@ -1,0 +1,130 @@
+{
+    "code": "she_hulk_vs_deadpool_game_night_by_kurt_hake",
+    "name": "She-Hulk vs. Deadpool’s Game Night",
+    "creator": "Kurt Hake",
+    "description": "This campaign is a story about the rivalry between everyone's favorite fourth-wall breakers: She-Hulk and Deadpool. Deadpool has set up a series of metagame challenges to prove who is better at card games. Players take She-Hulk's side to navigate the unpredictable chaos of the 'Pool aspect.<br><br><b>Requirements:<\/b> One player must be She-Hulk. Other players must be Avengers or X-Force (but not Deadpool).",
+    "epilogue": "<i>Free from The Collector's game boxes, the heroes head home. Both Avengers and X-Force are careful to keep the reclaimed Reality Stone away from Deadpool. Seemingly oblivious to the anger of his teammates, he begins to celebrate.<br><br>\"This team-up campaign of ours was fun. Maybe we should make the merger permanent. How about name blending? The A-Force has a nice ring to it.\"<br><br>She-Hulk quickly shoots down the idea. \"Deadpool, the players may have had some fun, but I'm never working with you again. Besides, I've already led a team called A-Force. If you steal the name, I'll sue, and you know that lawfare is a game you'll never beat me in.\"<\/i>",
+    "image": "game_night.jpg",
+    "type": "custom",
+    "position": 113,
+    "scenarios": [
+        {
+            "code": "red_skull",
+            "name": "Scenario #1 - Game Night Begins",
+            "description": "<i>With the power of the Reality Stone, Red Skull begins to remake the world in his own image. In response, the Avengers assemble at their mansion to make plans to take down their old foe.<br><br>She-Hulk expresses doubt in their chances. “This seems like an awfully difficult scenario for beginning a campaign. What was the designer thinking?”<br><br>The other Avengers look at each other perplexed, but their confusion is interrupted by the mansion doorbell. To their surprise, the X-Force is at the door! Deadpool struts in and tries to take charge. “I know how to take down the Red Skull, because I have a double agent inside Hydra! Follow me, and I bet the players will win before scheme 1B is even complete.”<br><br>She-Hulk isn’t having it. “Deadpool, nobody put you in charge. Everybody knows I’m better than you at games, especially Marvel Champions. And if you are so confident you know how to win, why do you need our help?”<br><br>Without warning, Reavers crash through the windows into the mansion. Their leader, Lady Deathstrike, joins the conversation as though she were invited. “He must want your help because he’s afraid of me! The Red Skull may be fanatical, but we Reavers would hunt these mutants even if Hydra weren’t offering a reward.”<\/i>",
+            "introduction": "Each player records their AVENGER or X-FORCE hero identity in the campaign log.<br>The first player searches their collection for the Deadpool ally (Next Evolution #24) and puts it into play.<br>She-Hulk searches her collection for the War upgrade (Deadpool Hero Pack #58) and shuffles it into her deck.<br>She-Hulk must search the encounter deck for the Lady Deathstrike minion, and then deal it to herself as a facedown encounter card.<br><br><b>Special Rules:<\/b><br>Deadpool gains the following text: “The first player controls Deadpool. Deadpool does not count against your ally limit. If Deadpool leaves play, the players lose the game.”<br>The METAGAME challenge is to defeat a REAVER minion using the War upgrade.<br>The teamwork goal is simply to win the scenario.",
+            "resolution": "<b>Scenario resolution:<\/b><br>Remove Deadpool and War from the player decks.<br>In the campaign log:<br><ul><li>Add Blackout and War (Deadpool Hero Pack #53, 58) to the Reward Pool.<\/li><li>If the METAGAME challenge was completed, add “War” to Games Won for She-Hulk. Otherwise, add “War” to Games Won for Deadpool.<\/li><\/ul><br><b>Victory:<\/b><br>In the campaign log:<br><ul><li>Because you won the scenario, you completed the teamwork goal. Add 1 to the Strength of the Alliance.<\/li><li>Deadpool has rewards for you. Add Stick-to-itiveness and Laser Swords (Deadpool Hero Pack #30, 55) to the Reward Pool.<\/li><\/ul><br><b>Defeat:<\/b><br>Because you lost the scenario and had to be rescued by Bob, Deadpool has pity on you. In the Campaign Log, add Git Gud and Bob, Agent of Hydra (Deadpool Hero Pack #28, 43) to the Reward Pool.",
+            "epilogue": "<b>Victory:<\/b> <i>Red Skull is defeated, and She-Hulk confiscates the Reality Stone, returning the world to normal. \"Once we lock the stone away for safekeeping, do you X-Force guys want to join us for shawarma? It's an Avengers tradition.\" Although the idea sounds good to both teams, Deadpool shakes his head. \"Why settle for shawarma when we have an Infinity Stone to play with?\" Before She-Hulk can react, Deadpool steals the Reality Stone.<\/i><br><br><b>Defeat:<\/b> <i>Just as Red Skull is about to achieve total victory, he is blasted in the back by one of his own Hydra goons! It must be the double agent that Deadpool mentioned. Deadpool takes the opportunity to swipe the Reality Stone. \"Nice job, Bob! Old no-nose never saw you coming. With this Infinity Stone, I could return the world to normal - but that would be boring! Let's have some fun with it instead.\"<\/i>",
+            "image": "red_skull_game.jpg"
+        },
+        {
+            "code": "four_horsemen",
+            "name": "Scenario #2 - The Lord of the Wings",
+            "description": "<i>Deadpool transforms the heroes' surroundings into a strange fantasy world. “The players already know that I’m the best at Marvel Champions, but with the Reality Stone I can prove that I’m the best at everything. Welcome to the Lord of the Wings!”<br><br>As if on cue, the winged monsters Sauron and Death descend on the heroes. She-Hulk is angry. “That Deadpool! He’s just jealous that I got to be in the Core Set. I’m going to show him who’s really the best at card games. OK, players, it’s time to start the scenario. Better play your cards right!”<\/i>",
+            "introduction": "Beginning with the first player, deal the contents of the Reward Pool at random to the players. Each player shuffles their dealt cards into their deck without looking at them.<br>The first player must search the encounter deck for the A Game of Mojo's environment and the Sauron Lives! side scheme, and then put them into play.<br><br><b>Special Rules:<\/b><br>In this scenario, all minions gain the Villainous keyword.<br>The METAGAME challenge is to confuse the Death villain using the Blackout upgrade.<br>The teamwork goal is for each player to have an X-FORCE ally in play when the scenario ends.<br><br><b>Strength of the Alliance:<\/b><br>0: No Effect.<br>1: The first time each player plays a ‘Pool card each round, that player may draw a card.<br>2: Each identity gets +2 hit points.<br>3: Each AVENGER character gains the X-FORCE trait, and vice versa.<br>4: Increase each player’s ally limit by 1.<br>5: Each HYDRA, POSSE, or DEADPOOL CORPS ally gains the AVENGER and X-FORCE traits.<br>6: While Collector is WOUNDED, he is not given boost cards.<br>7: Whenever the Milano is exhausted, the first player may ready Deadpool.<br>8: Each hero has +1 THW for each Time Stone Rewind in the campaign log.",
+            "resolution": "<b>Scenario resolution:<\/b><br>Remove all 'Pool cards from player decks and return them to the Reward Pool.<br>In the campaign log:<br><ul><li>Add Tic-Tac-Toe (Deadpool Hero Pack #57) to the Reward Pool.<\/li><li>If the METAGAME challenge was completed, add “Blackout” to Games Won for She-Hulk. Otherwise, add “Blackout” to Games Won for Deadpool.<\/li><li>If the teamwork goal was completed, add 1 to the Strength of the Alliance.<\/li><\/ul><br><b>Victory:<\/b><br>In the campaign log:<br><ul><li>Add \"Lord of the Wings\" to Games Won for She-Hulk.<\/li><li>Each player selects a different card from this list and adds it to the Reward Pool: Cutupper, Get Rage-y, Not My Responsibility, Get in Front of Me!, Plot Convenience.<\/li><\/ul><br><b>Defeat:<\/b><br>In the campaign log, add \"Lord of the Wings\" to Games Won for Deadpool.",
+            "epilogue": "<b>Victory:<\/b> <i>She-Hulk stands triumphant. \"Come on, Deadpool. I've already beaten you. Give up the stone!\" \"I don't think so. The players were promised a full campaign, and I'm sure I'll beat you in the next game!\"<\/i><br><br><b>Defeat:<\/b> <i>After the heroes fail to take down the Horsemen, Deadpool uses the Infinity Stone to defeat the villains. He taunts She-Hulk for her loss. \"Ha! You're so bad at this game. Let's play another!\"<\/i>",
+            "image": "fantasy_deadpool.jpg"
+        },
+        {
+            "code": "risky_business",
+            "name": "Scenario #3 - Android Web-Hacker",
+            "description": "<i>With Sauron and the Horsemen defeated, Deadpool again uses the Reality Stone. Before anyone can stop him, the fantasy world is replaced with a dystopian futuristic cityscape. “It’s time for the next game!” Deadpool shouts. “I’ll take down this evil corporation and prove I’m the best at Android Web-hacker!”<br><br>She-Hulk smirks. “I’ve taken down crooked corporate types in the court room before. This time it’ll be fun to use my fists. Hey, players, you should put some ANDROID allies in your decks. They’ll be helpful in hacking the corporate systems.”<\/i>",
+            "introduction": "Deal the Reward Pool at random. Search the encounter deck for the Mojo Runner environment and the ICE-teroid M side scheme and put them into play.<br><br><b>Special Rules:<\/b><br>Whenever the Criminal Enterprise environment enters play, place an ice counter on each scheme. If a scheme with an ice counter would have any amount of threat removed, prevent all of that removal and discard an ice counter from it instead.<br>When an ANDROID character thwarts, discard all ice counters from the target before removing threat.<br>The METAGAME challenge is to defeat a PROGRAM minion using the Tic-Tac-Toe upgrade.<br>The teamwork goal is for each player to have an AVENGER ally in play when the scenario ends.<br><br><b>Strength of the Alliance:<\/b><br>0: No Effect.<br>1: The first time each player plays a ‘Pool card each round, that player may draw a card.<br>2: Each identity gets +2 hit points.<br>3: Each AVENGER character gains the X-FORCE trait, and vice versa.<br>4: Increase each player’s ally limit by 1.<br>5: Each HYDRA, POSSE, or DEADPOOL CORPS ally gains the AVENGER and X-FORCE traits.<br>6: While Collector is WOUNDED, he is not given boost cards.<br>7: Whenever the Milano is exhausted, the first player may ready Deadpool.<br>8: Each hero has +1 THW for each Time Stone Rewind in the campaign log.",
+            "resolution": "<b>Scenario resolution:<\/b><br>Remove all 'Pool cards from player decks and return them to the Reward Pool.<br>In the campaign log:<br><ul><li>Add Rock, Paper, Scissors (Deadpool Hero Pack #56) to the Reward Pool.<\/li><li>If the METAGAME challenge was completed, add “Tic-Tac-Toe” to Games Won for She-Hulk. Otherwise, add “Tic-Tac-Toe” to Games Won for Deadpool.<\/li><li>If the teamwork goal was completed, add 1 to the Strength of the Alliance.<\/li><\/ul><br><b>Victory:<\/b><br>In the campaign log:<br><ul><li>Add \"Android Web-hacker\" to Games Won for She-Hulk.<\/li><li>Each player selects a different card from this list and adds it to the Reward Pool: Da Bomb, 'Pool Inspection, Self Confidence, Self Control, Self Preservation.<\/li><\/ul><br><b>Defeat:<\/b><br>In the campaign log, add \"Android Web-hacker\" to Games Won for Deadpool.",
+            "epilogue": "<b>Victory:<\/b> <i>She-Hulk celebrates the win. \"Have you had enough, Deadpool, or do I need to beat you again?\" \"Not even close! Hacking was never my specialty anyway. Let's see if you can keep your sanity in the next game! We've got time for at least one more before the buyer arrives.\"<\/i><br><br><b>Defeat:<\/b> <i>Deadpool defeats the Green Goblin, gloating all the way. \"She-Hulk was talking so big, but little old Wade is the winner! I can't wait to play another game. As Cap would say, I can do this all day. Or, at least I can do this until the buyer shows up.\"<\/i>",
+            "image": "cyberpunk_hacker.jpg"
+        },
+        {
+            "code": "en_sabah_nur",
+            "name": "Scenario #4 - Akkaba Horror",
+            "description": "<i>Reality transforms once again, but this time it grows dark. The heroes find themselves inside a foul and spooky chamber where some sort of cult ritual is taking place. Deadpool remains disturbingly cheerful. “It’s time to play Akkaba Horror! Try not to lose your mind - though, in my opinion, sanity is overrated anyway.”<\/i>",
+            "introduction": "Deal the Reward Pool. Search the encounter deck for the Mojo Files environment and the Cultist minion and put them into play. Place 3 sanity counters on each identity.<br><br><b>Special Rules:<\/b><br>Whenever a player reveals a Treachery card, that player must discard a sanity counter from their identity. If an identity ever has no sanity counters, that identity is defeated.<br>The METAGAME challenge is to add an aspect card to hand using the Rock, Paper, Scissors upgrade.<br>The teamwork goal is for each player to have 2 or more sanity counters when the scenario ends.<br><br><b>Strength of the Alliance:<\/b><br>0: No Effect.<br>1: The first time each player plays a ‘Pool card each round, that player may draw a card.<br>2: Each identity gets +2 hit points.<br>3: Each AVENGER character gains the X-FORCE trait, and vice versa.<br>4: Increase each player’s ally limit by 1.<br>5: Each HYDRA, POSSE, or DEADPOOL CORPS ally gains the AVENGER and X-FORCE traits.<br>6: While Collector is WOUNDED, he is not given boost cards.<br>7: Whenever the Milano is exhausted, the first player may ready Deadpool.<br>8: Each hero has +1 THW for each Time Stone Rewind in the campaign log.",
+            "resolution": "<b>Scenario resolution:<\/b><br>Remove all 'Pool cards from player decks and return them to the Reward Pool.<br>In the campaign log:<br><ul><li>If the METAGAME challenge was completed, add “Rock, Paper, Scissors” to Games Won for She-Hulk. Otherwise, add “Rock, Paper, Scissors” to Games Won for Deadpool.<\/li><li>If the teamwork goal was completed, add 1 to the Strength of the Alliance.<\/li><\/ul><br><b>Victory:<\/b><br>In the campaign log:<br><ul><li>Add \"Akkaba Horror\" to Games Won for She-Hulk.<\/li><li>Each player selects a different card from this list and adds it to the Reward Pool: Dogpool, Headpool, Kidpool, Lady Deadpool, Pandapool.<\/li><\/ul><br><b>Defeat:<\/b><br>In the campaign log, add \"Akkaba Horror\" to Games Won for Deadpool.",
+            "epilogue": "<b>Victory:<\/b> <i>Although the heroes are victorious against Clan Akkaba, She-Hulk is not happy. \"This has gone far enough, Deadpool! We've all had enough of these games.\" The world returns to normal as Deadpool seemingly relents. \"You're right. It's time for the games to end, because my buyer is here!\" The feeling of dread returns to the heroes as a huge spaceship fills the sky.<\/i><br><br><b>Defeat:<\/b> <i>Though the heroes are overwhelmed by Clan Akkaba, Deadpool uses the power of the stone to defeat the cultists and return En Sabah Nur to his slumber. \"I win! It's too bad we're out of time. These games have been fun, but my buyer has arrived, and a merc has got to get paid.\" Reality begins to return to normal, but despite the familiar surroundings, a foreboding spaceship flies into view.<\/i>",
+            "image": "apocalypse_horror.jpg"
+        },
+        {
+            "code": "escape_the_museum",
+            "name": "Scenario #5 - The Game Collection",
+            "description": "<i>Deadpool turns on the heroes, using the Reality Stone to trap them in cells resembling giant game boxes. He loads the boxes onto the ship, revealing his buyer to be none other than Taneleer Tivan, The Collector.<br><br>The Collector is very pleased. “What a bargain! Not only have I acquired an Infinity Stone, but I also get several new games out of the deal! With these new additions, my game collection will be unrivaled.”<br><br>Within moments, the captured heroes find themselves warping through space to The Collector’s Museum. When they arrive, The Collector places them on a giant shelf, doomed to live like pawns on a board or cards in a deck.<br><br>She-Hulk is not going quietly. “That rat Deadpool! After endangering the very fabric of reality all night, he turns us over to a mad cosmic being for thirty pieces of silver. I mean, we both know the campaign needed a fifth scenario, but it didn’t have to be like this. How can you X-Force guys stand to work with him?”<br><br>But just then, Deadpool appears. “Hey, give me a break. I always planned on breaking you out. Besides, a mercenary has to make his money somehow. Do you have any idea what kind of wealth an Elder of the Universe can offer?”<br><br>“Deadpool, if we manage to get out of this, my fists and your face are going to have a long chat.”<br><br>“Oh, come on, don’t act like you haven’t had fun. Everybody loves a good card game. We’ll get the Reality Stone back, find a ship, and escape. I promise I’ll play nice.”<\/i>",
+            "introduction": "Deal the Reward Pool. Put the Deadpool ally into play.<br>If there are 4 or more Games Won for She-Hulk, she won the majority of the games. As a reward, add 1 to the Strength of the Alliance.<br>While constructing the encounter deck, for each Game Won for Deadpool, trigger the corresponding penalty (adding modular sets or revealing side schemes).<br>She-Hulk deals herself the Card Shark minion.<br><br><b>Strength of the Alliance:<\/b><br>0: No Effect.<br>1: The first time each player plays a ‘Pool card each round, that player may draw a card.<br>2: Each identity gets +2 hit points.<br>3: Each AVENGER character gains the X-FORCE trait, and vice versa.<br>4: Increase each player’s ally limit by 1.<br>5: Each HYDRA, POSSE, or DEADPOOL CORPS ally gains the AVENGER and X-FORCE traits.<br>6: While Collector is WOUNDED, he is not given boost cards.<br>7: Whenever the Milano is exhausted, the first player may ready Deadpool.<br>8: Each hero has +1 THW for each Time Stone Rewind in the campaign log.",
+            "resolution": "<b>Victory:<\/b><br>The players win the campaign!<br><br><b>Defeat:<\/b><br>In the campaign log, add 1 to the number of Time Stone Rewinds. Remove all 'Pool cards from player decks and return them to the Reward Pool. Replay this scenario. (You may alter your deck first.) Do NOT reset the Strength of the Alliance to what it was before the scenario was set up.",
+            "epilogue": "<b>Defeat:<\/b> <i>The escape has failed. It seems the heroes will spend the rest of their lives as pieces of The Collector's games. But what's that shiny green object in Deadpool's hand? \"I think our team-up is in need of a little deus ex machina. It's a good thing the Reality Stone wasn't my only Infinity Stone!\" he shouts. \"With the Time Stone, I can reset the scenario. You're welcome, players! Just remember it was me, not She-Hulk, who saved the day.\"<\/i>",
+            "image": "collector_museum.jpg"
+        }
+    ],
+    "modulars": {
+        "red_skull": [
+            {
+                "name": "Deathstrike",
+                "code": "deathstrike"
+            },
+            {
+                "name": "Reavers",
+                "code": "reavers"
+            }
+        ],
+        "four_horsemen": [
+            {
+                "name": "Sauron",
+                "code": "sauron"
+            },
+            {
+                "name": "Fantasy",
+                "code": "fantasy"
+            }
+        ],
+        "risky_business": [
+            {
+                "name": "Sci-Fi",
+                "code": "sci-fi"
+            }
+        ],
+        "en_sabah_nur": [
+            {
+                "name": "Clan Akkaba",
+                "code": "clan_akkaba"
+            },
+            {
+                "name": "Horror",
+                "code": "horror"
+            }
+        ],
+        "escape_the_museum": [
+            {
+                "name": "Galactic Artifacts",
+                "code": "galactic_artifacts"
+            },
+            {
+                "name": "Ship Command",
+                "code": "ship_command"
+            },
+            {
+                "name": "Western",
+                "code": "western"
+            },
+            {
+                "name": "Flight",
+                "code": "flight"
+            },
+            {
+                "name": "Telepathy",
+                "code": "telepathy"
+            },
+            {
+                "name": "Super Strength",
+                "code": "super_strength"
+            }
+        ]
+    },
+    "campaign_notes": [
+        "Reward Pool",
+        "Games Won For She-Hulk",
+        "Games Won For Deadpool"
+    ],
+    "campaign_counters": [
+        "Strength Of The Alliance",
+        "Time Stone Rewinds"
+    ]
+}

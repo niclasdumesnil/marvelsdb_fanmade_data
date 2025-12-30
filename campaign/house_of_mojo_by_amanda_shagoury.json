@@ -1,0 +1,147 @@
+{
+    "code": "house_of_mojo_by_amanda_shagoury",
+    "name": "House of Mojo",
+    "creator": "Amanda Shagoury",
+    "description": "<i>This winter the hit TV show everyone has been talking about returns after 20 years. With five years and eight seasons of content to reference, what twists and turns will happen this season on House of Mojo?<\/i><br><br>This campaign is a celebration of Marvel Champions: The Card Game's 5-year anniversary. Players will take on a specific role within the team. This role will determine what upgrades can be unlocked by that player.",
+    "epilogue": "",
+    "image": "house_of_mojo.jpg",
+    "type": "custom",
+    "position": 111,
+    "scenarios": [
+        {
+            "code": "en_sabah_nur",
+            "name": "Scenario #1 - Training for the End of the World",
+            "description": "<i>After a well-known theme song that you’ll keep humming throughout this campaign, this story starts out like many others, training in the Danger Room. Today’s mission: stop the end of the world. Nothing we haven’t faced before and we all know our roles. We just need to adjust the settings before we start. Now what will help us prepare for anything life throws our way?<\/i>",
+            "introduction": "Each player records their identity in the campaign log and chooses a role from the table (Fighter, Tactician, Protector, or Tank). Put their condition upgrade in play.<br><br>As a team, decide which of these player side schemes you will attempt to complete (choose only one):<br><ul><li>Assemble the Team<\/li><li>Establish Safehouse<\/li><li>Gear Up<\/li><li>Mission Prep<\/li><li>Practice Maneuvers<\/li><li>Prepare Defenses<\/li><\/ul><br><b>Note:<\/b> Apocalypse starts the game in his Biomorph form.<br><b>Note:<\/b> The Clan Akkaba modular encounter set has a card that starts in play (Ancient Ritual).<br><b>Note:<\/b> The setting encounter sets (Super Strength, Telepathy, Flight) have one attachment that comes into play during setup.",
+            "resolution": "Check the setting modular encounter set used (Super Strength, Telepathy, or Flight). Based on the set, each player may add specific aspect or leadership events to their deck. Record the name of the events.<br><br><b>Outcomes:<\/b><br><ul><li>If the training side scheme was defeated, check “Training Side Scheme Thwarted”.<\/li><li>If the Hellfire Club modular set was used and defeated, check “Hellfire Club Disbanded”.<\/li><\/ul><br><b>Expert Campaign Only:<\/b> Record each identity's remaining hit points.",
+            "epilogue": "",
+            "image": "training_apocalypse.jpg"
+        },
+        {
+            "code": "magneto_villain",
+            "name": "Scenario #2 - Wanda’s Vision",
+            "description": "<i>Right as training ends, the alarm starts to sound. Over the intercom, Professor X says, slightly out of character, “Everyone, to the X-Jet! Cerebro has located a disturbance in the Savage Lands! Based on ratings and our limited time for character development, it seems that the Scarlet Witch is overwhelmed by… grief or something… and must be stopped! Magneto’s protecting her and he would rather destroy the world with Asteroid M than let her come to harm. And Sauron is still a danger roaming those lands! Think of the ratings!”<\/i>",
+            "introduction": "Put the X-Jet into play.<br>Based on their role, each player puts into play their condition upgrade from the table in the campaign log with the basic side facing up.<br><br><b>Campaign Adjustments:<\/b><br><ul><li>If “Training Side Scheme Thwarted” is checked, put that side scheme in play on its environment side.<\/li><li>If “Hellfire Club Disbanded” is checked, each player may add one copy of their Scenario #1 Event to their hand (this does not count toward the starting hand limit).<\/li><\/ul><br><b>Expert Campaign Only:<\/b> Set each player’s hit point dial to their remaining hit point value from the previous scenario. Each player may place one acceleration token on the main scheme to heal their identity to full.",
+            "resolution": "<b>Sauron:<\/b> If the Sauron modular set was used, check “Sauron Encountered”.<br><br><b>Advancement:<\/b> Check how far the main scheme advanced:<br><ul><li>If it reached “The Rule of Magnus”, check “Advanced 2”.<\/li><li>If it reached “Factory Online”, check “Advanced 1”.<\/li><\/ul><br><b>Expert Campaign Only:<\/b> Record each identity's remaining hit points.",
+            "epilogue": "",
+            "image": "wandas_vision.jpg"
+        },
+        {
+            "code": "thanos",
+            "name": "Scenario #3 - Balance Will Be Restored",
+            "description": "<i>You barely scrape by Magneto but can't get to Wanda in time. She changes reality to a world where mutants rule and humans are forced into the shadows. How novel! In the change, many people have become mutants. With the world balance out of whack, that seems like the perfect opportunity for a climactic tie-in, and Thanos has come to Earth to snap the world into alignment. Thankfully, your team is working together better than ever. (Maybe you all could stand together in a circle looking around as you team up for the trailer... Can we get some more wind on Thor's hair??) Will you be able to stop Thanos from snapping half the world's population from existence?<\/i>",
+            "introduction": "For this scenario, all friendly characters gain the MUTANT, X-MEN, X-FORCE, and X-FACTOR traits. Players may include trait-locked cards for these traits.<br><br><b>Setup:<\/b><br>Place Public Outcry into play. Shuffle Smear Campaign into the encounter deck.<br>If “Training Side Scheme Thwarted” is checked, put the player side scheme into play on its environment side.<br>Based on their role each player puts into play their condition upgrade with the basic side facing up.<br>Each player may put a copy of “Children of the Atom” into play.<br><br><b>Expert Campaign Only:<\/b> Set HP\/Heal. If 'Advanced 2' is checked, put the top card of the Infinity Stone deck into play. If 'Advanced 1' is checked, add one per player threat to the main scheme.",
+            "resolution": "Each player chooses to add a copy of Shawarma or the Market Card associated with their role to their deck. Record the decision.<br><br><b>Outcome:<\/b> If “The Infinity Stones” main scheme did not advance to “Balance the Scales”, check “The Team Has Gotten Stronger”.<br><b>Expert Campaign Only:<\/b> Record each identity's remaining hit points.",
+            "epilogue": "<i>Wanda realizes her error but whispers: “No more mutants.”<\/i>",
+            "image": "thanos_balance.jpg"
+        },
+        {
+            "code": "project_wideawake",
+            "name": "Scenario #4 - Saving Grace",
+            "description": "<i>90% of the mutant population has lost their powers. The rest of society is afraid of the remaining mutants changing reality again, so they've been rounded up and are under the watchful eyes of the Sentinels. Time for a remarkable escape! The team has a plan to start a new nation for mutants. First, they need to rescue a group of mutants and only then can they escape to Utopia on the X-Jet. The Sentinels won't make this easy. Maybe Magneto will help. (Everyone loves a good cameo, luckily his schedule just cleared up.)<\/i>",
+            "introduction": "<b>Special Rules:<\/b> To win this scenario, you must complete 4 tasks:<br>1. Defeat the Sentinel villain.<br>2. Rescue the mutants from the mission side scheme.<br>3. Have X-Jet in play.<br>4. Have Utopia in play.<br><br><b>Setup:<\/b><br>Put the Build Support player side scheme in play.<br>If “Training Side Scheme Thwarted” is checked, put the player side scheme in play on its environment side.<br>If “Sauron Encountered” is checked, put the Magneto ally into play.<br>If “The Team Has Gotten Stronger” is checked, players put their condition upgrade into play on the advanced side.<br>Put the “Find Lost Mutants” mission side scheme in play.<br><br><b>Expert Campaign Only:<\/b> Set HP\/Heal.",
+            "resolution": "Each player may add one player side scheme to their deck from any aspect. Record these side schemes.<br>If the Genosha modular set was added, check “Escaped Genosha”.<br><b>Expert Campaign Only:<\/b> Record each identity's remaining hit points.",
+            "epilogue": "<i>The team flies into the sunset towards Utopia.<\/i>",
+            "image": "sentinel_rescue.jpg"
+        },
+        {
+            "code": "mojo",
+            "name": "Scenario #5 - Mojo All Along",
+            "description": "<i>After a brief song break describing with awkward specificity how Mojo was behind all the twists and turns (something that may have been more of a plot twist if the show didn't have his name in the title), he brings out his Wheel of Genres and says \"What to do now, what to do now? Ah I know! Everyone likes sitcoms. I'm sure Arcade can help us find an interesting twist on the genre. We'll start with that. Quiet on set!\"<\/i><br><br><i>You are suddenly in a talking head of a family-friendly network sitcom. You need to find a way out of Mojo's clutches to get back to real life. You find Longshot is in the same show. He says, \"I saw how you helped out those mutants. Now let me help you find a way out of here.\"<\/i>",
+            "introduction": "Put Longshot into play under the first player’s control.<br><br><b>Campaign Adjustments:<\/b><br><ul><li>If the team added the Arcade set, each player adds their Role Upgrade to their deck.<\/li><li>If “Training Side Scheme Thwarted” is checked, put the player side scheme into play on its environment side.<\/li><li>If “The Team Has Gotten Stronger” is checked, players put their condition upgrade into play on the advanced side.<\/li><li>If “Escaped Genosha” is checked, players may put one of the recorded player side schemes from Scenario #4 into play.<\/li><\/ul><br><b>Expert Campaign Only:<\/b> Set HP\/Heal.",
+            "resolution": "The players win the campaign!",
+            "epilogue": "<i>You escape and wake to find yourself back in your bed at the mansion. Is this really reality or is this just another illusion? Guess we'll just have to find out next time playing Marvel Champions: The Card Game.<\/i>",
+            "image": "mojo_sitcom.jpg"
+        }
+    ],
+    "modulars": {
+        "en_sabah_nur": [
+            {
+                "name": "Clan Akkaba",
+                "code": "clan_akkaba"
+            },
+            {
+                "name": "Super Strength",
+                "code": "super_strength"
+            },
+            {
+                "name": "Telepathy",
+                "code": "telepathy"
+            },
+            {
+                "name": "Flight",
+                "code": "flight"
+            },
+            {
+                "name": "Hellfire Club",
+                "code": "hellfire"
+            }
+        ],
+        "magneto_villain": [
+            {
+                "name": "Savage Land",
+                "code": "savage_land"
+            },
+            {
+                "name": "Sauron",
+                "code": "sauron"
+            }
+        ],
+        "thanos": [
+            {
+                "name": "Infinity Gauntlet",
+                "code": "infinity_gauntlet"
+            },
+            {
+                "name": "Legions of Hydra",
+                "code": "legions_of_hydra"
+            },
+            {
+                "name": "Hydra Assault",
+                "code": "hydra_assault"
+            }
+        ],
+        "project_wideawake": [
+            {
+                "name": "Zero Tolerance",
+                "code": "zero_tolerance"
+            },
+            {
+                "name": "Dystopian Nightmare",
+                "code": "dystopian_nightmare"
+            },
+            {
+                "name": "Genosha",
+                "code": "genosha"
+            }
+        ],
+        "mojo": [
+            {
+                "name": "Sitcom",
+                "code": "sitcom"
+            },
+            {
+                "name": "Arcade",
+                "code": "arcade"
+            }
+        ]
+    },
+    "campaign_notes": [
+        "Role",
+        "Market or Shawarma",
+        "Player Side Scheme"
+    ],
+    "campaign_counters": [],
+    "campaign_checkbox": [
+        "Flight",
+        "Super Strength",
+        "Telepathy",
+        "Training Side Scheme Thwarted",
+        "Hellfire Club Disbanded",
+        "Sauron Encountered",
+        "Advanced 1",
+        "Advanced 2",
+        "The Team Has Gotten Stronger",
+        "Escaped Genosha"
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "code": "revenge_of_the_black_order_by_karl_resch",
+    "name": "Revenge of the Black Order",
+    "creator": "Karl Resch",
+    "description": "The Revenge of the Black Order campaign is made up of three scenarios, all dependent on how the heroes are spending their downtime during a surprise invasion. As the assault intensifies, each group has to tackle different challenges in order to turn the tide of battle and save the day.<br><br><b>Choose your Path:<\/b><br><ul><li><b>First Response:<\/b> Identities must possess either the Attorney, Civilian, Genius, Mystic, or Scientist trait.<\/li><li><b>Spec Ops:<\/b> Identities must possess either the Android, King, Mercenary, S.H.I.E.L.D., Soldier, Spy, or Wakanda trait.<\/li><li><b>Direct Assault:<\/b> Identities must possess either the Asgard, Inhuman, Mutant, or Outlaw trait.<\/li><\/ul>",
+    "epilogue": "Across the cosmos, the Black Order stands before Thanos. Despite being wounded and battle-scarred, they bear no disappointment, no shame. They stand in silence with steely resolve. They wear their wounds with pride, in an assembly of confidence before the Mad Titan.<br><br>“Sire,” the Ebony Maw states. “We have tested the defenses and seen how the new alliances work together. Earth is now reeling in the confusion and might of what they witnessed.”<br><br>Thanos muses for a moment, nodding his head slowly. “Earth belongs to only one realm,” he says slowly, his voice carrying through the dark emptiness. “Eight other realms lie before us. We begin there, and return to Earth for a final assault.”<br><br>The Maw bows, preparing a portal spell to open the path to the next invasion.",
+    "image": "black_order_revenge.jpg",
+    "type": "custom",
+    "position": 112,
+    "scenarios": [
+        {
+            "code": "venom",
+            "name": "Scenario #1A - Krazy Klyntar (First Response)",
+            "description": "<i>Nothing beats a day to yourself. Wait, correct that - nothing beats a day to yourself spending it with those closest to you. You have amazing, glorious plans, like reading the book you’ve wanted to at your favorite coffee shop. Maybe spend time with loved ones. Go and grab lunch from your favorite shawarma place. Finally tell your crush your true feelings. So many possibilities on a beautiful day like this.<\/i><br><br><i>Except the day doesn’t seem so beautiful anymore. The sky is starting to fill with spaceships, descending from the atmosphere, launching fighters and deploying troops. The tranquil silence is broken by screams and sirens. The National Guard begins to descend on the city, telling people to get indoors to safety and declaring martial law. The fear is palpable, which means it’s time to use your gifts to help others, rushing in with the rest of the first responders.<\/i><br><br><i>It’s no longer a city; it’s a combat zone. The largest transports have landed, deploying hordes of aliens commanded by elite warriors; you recognize them as servants of the Mad Titan, Thanos. Several spaceships with large satellite-discs float above the city; the discs are pointed below at you. Some sort of high-pitched ringing hits your ears, though it’s high enough that it doesn’t seem to be bothering you. You’re just not quite sure what it they are doing.<\/i><br><br><i>Amidst all the confusion, oily tendril-snakes slither and crawl from sewer drains and outlets, climbing higher and higher to be collected by small flying skiffs deployed from the stationary ships bombarding the city with the unique frequency. You head into the fray, noticing another being moving fast and attempting to gain height above the city - Venom, the lethal protector. You shout his name, but he ignores you, his body twitching strangely. You get closer, only for him to unexpectedly grab and tackle you. You attempt to loosen yourself and fight him off, but he’s in a feral state. He has no words, just mindless savagery. You spy a bell tower on the nearest block, and knock Venom into the area.<\/i>",
+            "introduction": "Each player records their identity in the campaign log. Players cannot switch identities during a campaign.<br>Put the “Metro PD” Support into play.<br>Put the “Save the Shawarma Place” side scheme into play.<br>Each player shuffles a copy of the “Martial Law” obligation into their deck, and records it in the campaign log under “Obligations”.<br>In the campaign log under “Black Order”, mark the “Black Dwarf”, “Supergiant”, and “Black Swan” boxes.<br><br><b>Expert Campaign Only:<\/b> Place 1 facedown boost card on each identity.<br><br><b>Special Rules:<\/b> All BLACK ORDER Minions count as having “Victory 1” for this game unless they already possess the Victory X keyword.",
+            "resolution": "If Save the Shawarma Place was defeated, mark the “Shawarma” box in the campaign log. For every Black Order Minion in the victory display, unmark the box with their name under the “Black Order” section of the campaign log.<br><br><b>Expert Campaign Only:<\/b> Record each identity’s remaining hit points.",
+            "epilogue": "<i>Venom collapses, stunned and catatonic from the bell’s soundwaves.<\/i>",
+            "image": "venom_klyntar.jpg"
+        },
+        {
+            "code": "tower_defense",
+            "name": "Scenario #1B - Defend It and Hope (Spec Ops)",
+            "description": "<i>Despite all plans, precautions, and preparations, the attack came without warning. S.W.O.R.D. Command and Alpha Flight Station had no time to retaliate, only issue warnings that a massive fleet was invading Earth’s atmosphere. Many alien armies were sending troops, all being led by Thanos’ Black Order.<\/i><br><br><i>Your mission briefing was given to you while on your way to deployment. Martial law has been declared, and there are already other friends and allies of yours fighting in the streets against the invaders. You’ve been pulled to another special assignment - protect valuable strongholds and assets while establishing other bases of operations. The obvious first attack is against Avengers Tower, a bastion of defense and knowledge for the superpowers of Earth. The world has descended into chaos, but you have the skills to rise above and protect it.<\/i>",
+            "introduction": "Each player records their identity in the campaign log. Players cannot switch identities during a campaign.<br>Discard cards from the top of the encounter deck until a Setting environment is discarded and put it into play.<br>Put the “Establish Safehouse” player side scheme into play.<br>Shuffle the “Security Breach” side scheme into the Encounter Deck.<br>Place damage on Avengers Tower per the selected difficulty (Standard: 1\/player, Expert: 2\/player, Heroic: 3\/player).<br><br><b>Expert Campaign Only:<\/b> Record each identity’s remaining hit points in the campaign log.<br><br><b>Special Rules:<\/b> All BLACK ORDER Minions count as having “Victory 1” for this game unless they already possess the Victory X keyword.",
+            "resolution": "If the Avengers Tower has the Damaged trait, mark “Tower Damaged” in the campaign log. If the “Safehouse Established” environment is in play, mark “Safehouse Secured” in the campaign log. If “Security Breach” is in the Victory Display, mark the “Security Breach” box in the campaign log. In the campaign log, mark the “Proxima Midnight” and “Corvus Glaive” boxes under “Black Order”.<br><br><b>Expert Campaign Only:<\/b> Record each identity’s remaining hit points in the campaign log.",
+            "epilogue": "",
+            "image": "tower_defense_black_order.jpg"
+        },
+        {
+            "code": "magog",
+            "name": "Scenario #1C - Who Will Fight Me? (Direct Assault)",
+            "description": "<i>Why is everyone on Earth always so surprised when strange things happen? Parallel universes open up, mythical beings find their ways from other dimensions, and new abilities manifest themselves across humankind. These things happen every day.... so why is everyone freaking out that aliens are attacking from outer space? This isn’t a first.<\/i><br><br><i>You’re fine with taking the fight to them, up in space - you’ve spent some time up there, after all. If anything, you were kind of getting bored hanging out on Earth anyway. Might as well embrace the strangeness and go where it’s expected.<\/i><br><br><i>Except getting to your ship isn’t going to be easy. The city is locked down, and you need to access your secret park job. On top of that, it’s not all the Badoon aliens running through the streets, it’s the red alien giant emerging from the sewers and overturning police cars and causing first responders to scatter. You mutter something to yourself about stuff like this happening when universes are absorbed into yours.<\/i><br><br><i>“Earth shall fall! New masters shall emerge!” the red giant shouts, laughing maniacally. The Badoon give him wide berth, unsure who he fights for. The sound of normal people screaming in fear seems constant. “Where are you, Champions of Earth?” the giant shouts. You step forward, surrounded by alien fighters and civilians looking for safety, a cityscape twisted into some sort of arena. You hear a random person shout out a word of encouragement to you. If only more were filled with hope. Time to make short work of this guy and get up to where the real fight is.<\/i><br><br><i>As you get ready to rumble, a friend steps forward, assuming a combat stance. “Today’s your lucky day,” he grins at you.<\/i>",
+            "introduction": "Each player records their identity in the campaign log. Players cannot switch identities during a campaign.<br><br><b>Expert Campaign Only:<\/b> Add one acceleration token to the main scheme.",
+            "resolution": "If the Longshot ally is in play, mark the “Scenario 2” box in the “Longshot Ally” section of the campaign log.<br>Each player may choose one support or upgrade they control with a cost of two or less (three or less if The Champion is on its Booing Crowd side) and record it in the campaign log under “Gear Up”. (Each player will be able to start the following scenarios with their chosen card in play at the cost of additional threat on the main scheme.) Players cannot choose cards without a cost.<br><br><b>Expert Campaign Only:<\/b> Record each identity’s remaining hit points in the campaign log.",
+            "epilogue": "<i>As the red giant collapses, the sound of cheering civilians is like music to your ears. It’s nice to be appreciated when you’re so often considered a freak or weirdo. Assembling your allies, you get into your craft and jet through the sky into the atmosphere, blasting your way through enemy fighters.<\/i>",
+            "image": "magog_arena.jpg"
+        },
+        {
+            "code": "brotherhood_of_badoon",
+            "name": "Scenario #2 - Badoon Bombardment",
+            "description": "More ships fly into view, though these are larger, supporting large cannons. The cannons begin gathering energy, preparing for direct assault!<br><br><b>First Response:<\/b> <i>Venom collapses, stunned and catatonic from the bell’s soundwaves. The disc-ships hovering above the city begin their ascent back in to space, apparently having collected enough oily tendrils. You’re no longer able to perceive the blasted frequency, whatever it was. It doesn’t seem to be affecting Venom anymore, though you keep the bells ringing just in case. New flagships have arrived, blotting out the sun in an eerie eclipse. You can see large cannons arranging themselves at targets throughout the city, ready to fire, some pointed at safehouses where people have taken cover. Citizens scream in panic, begging you to save them. As the largest ship hovers over the skyline, the hull opens, a new alien commander flying through the sky with a jetpack, flying through the city to attack those caught in the crossfire. You’ve found your next enemy - perhaps if you can stop him, you can prevent more of this assault.<\/i><br><br><b>Spec Ops:<\/b> <i>You’d feel a tad more comfortable if you were just dealing with the mindless Outrider soldiers of Thanos, but it seems this time the Black Order has found allies with the Brotherhood of Badoon and the Kree Empire. Disciplined and militaristic, it will take all your strategy to disrupt their plans. The Badoon leader (Drang, according to the newest briefing) seems to have gone back to commanding his fleet, each of them pointing cannons at new strongholds. Kree soldiers take to the streets, moving in precise, tactical formations as they work to eliminate enemies and cover more ground. You defended Avengers Tower; however, it seems like these enemies want to give it another go with more firepower. You can get a transport of your own and do some damage against the fleet while also repulsing the Kree attack. It’s a multi-battlefield fight, but you’re used to the odds stacked against you.<\/i><br><br><b>Direct Assault:<\/b> <i>As the red giant collapses, the sound of cheering civilians is like music to your ears. It’s nice to be appreciated when you’re so often considered a freak or weirdo. Assembling your allies, you get into your craft and jet through the sky into the atmosphere, blasting your way through enemy fighters. You see the giant flagship of Drang, leader of the Badoon aliens, positioning his vessel to strike targets below. In the distance, you can see that Drang has retreated from above the city and is now focusing his forces at the Blue Area of the Moon. Apparently, the goal of the Black Order is to try and limit all help your allies can provide. You pilot your craft over to the Blue Area, prepared to help. Your ship is suddenly slammed by an unknown force. Outside, you see Kallark, the Shi’ar Imperial Guard known as Gladiator, giving you a steely look. “I am sorry, my friends,” he shouts to you, “but the Shi’ar Empire is under siege by these invaders. Their terms are that we help in this attack to prevent more of our people being slaughtered.” It looks like you better take care of Drang and get the Imperial Guard back on your side.<\/i>",
+            "introduction": "Follow the instructions for your chosen Campaign Path:<br><br><b>First Response:<\/b> Put the “Metro PD” Support into play. If “Shawarma” is marked in the campaign log, each player shuffles one copy of “Shawarma” into their deck. Each player shuffles one copy of each obligation recorded in their “Obligation” section of the campaign log along with one copy of the “Panicked Refugees” obligation into their deck. Each player records “Panicked Refugees” in the campaign log under “Obligations”. If “Black Swan” is marked under “Black Order”, put the “Black Swan” minion into play engaged with the first player. If “Supergiant” and\/or “Black Dwarf” are marked, shuffle each corresponding minion card(s) into the encounter deck.<br><br><b>Spec Ops:<\/b> Search the encounter deck for the “Rogue Vessel” environment and put it into play. If “Safehouse Secured” is marked, put the “Safehouse Established” environment into play. Shuffle the “Corvus Glaive” and “Proxima Midnight” minions into the encounter deck. If “Security Breach” is not marked, shuffle the “Security Breach” side scheme into the Encounter Deck. If “Tower Damaged” is marked, deal three damage to each identity.<br><br><b>Direct Assault:<\/b> One player searches the encounter deck for the Gladiator minion and puts him into play engaged with them. If “Scenario 2” is marked under “Longshot Ally”, one player may put him into play under their control. If not, shuffle the Longshot ally into the encounter deck. Each player may take one copy of the card they recorded in the campaign log from any player’s deck and put it into play under their control. Then, add threat to the main scheme equal to the total cost of the cards put into play this way.<br><br><b>Expert Campaign Only:<\/b> Set each player’s hit points to their remaining hit point value recorded in the campaign log. (First Response: may add Medical Emergency to heal; Spec Ops: may deal 1 facedown encounter card to heal; Direct Assault: may place 1 acceleration token to heal).",
+            "resolution": "For every BLACK ORDER Minion in the victory display, unmark the box with their name under the “Black Order” section of the campaign log.<br><br><b>First Response:<\/b> If a player removed their copy of “Panicked Refugees” from the game, remove it from the campaign log under “Obligations”.<br><br><b>Spec Ops:<\/b> If “Security Breach” is in the Victory Display, mark the “Security Breach” box. In the campaign log, mark the “Proxima Midnight” and “Corvus Glaive” boxes under “Black Order”.<br><br><b>Direct Assault:<\/b> If the Longshot ally is in play, mark the “Scenario 3” box in the “Longshot Ally” in the campaign log.<br><br><b>Expert Campaign Only:<\/b> Record each identity’s remaining hit points.",
+            "epilogue": "",
+            "image": "badoon_bombardment.jpg"
+        },
+        {
+            "code": "ebony_maw",
+            "name": "Scenario #3 - Mysteries and Magic",
+            "description": "The Black Order's nefarious mastermind seems unphased by your victories, emerging into your own section of chaos and entering the fray himself.<br><br><b>First Response (Ground Support):<\/b> <i>What do they say about the best laid plans? Your perfect day is in shambles. You didn’t get to visit your family, your date fell through, and you cracked your smartphone screen. To top it off, your teammate is bickering with you, and your favorite coffee spot now has a broken alien vessel sitting on the patio. Your world is literally falling apart. No joke, you can’t make this up. You sent the jetpacking alien packing, but now, a portal opens, and Ebony Maw steps through. He stands amongst the rubble and destruction. “Even off guard, you have still managed to perform admirably,” he says, and you’re unsure if he’s stating fact or mocking you. “I can sense your frustration and fear. Perhaps they will remember you with fond memories and forgive you for your failures.” You grit your teeth and think about how this alien is the reason your perfect day got disrupted. Time to go heroic, get Earth back to normal, and salvage what’s left of today.<\/i><br><br><b>Spec Ops:<\/b> <i>The second assault has failed. You stand several stories above the city on the landing pad of Avengers Tower. Drang has withdrawn his flagships, ascending into space and vanishing from view. You glance below as the final scuffles finish in the streets. With a whoosh of air, a portal opens, and out steps another member of the Black Order, Ebony Maw. While looking slightly battered, his demeanor is calm, collected, and smug. “Despite all your tactics and military might, you lack understanding of true strength. Behold, the mysteries of the universe.” He gestures wildly, his fingers twisting as he weaves complex sorcery. The aura around him darkens, and portals begin to open around him as he summons creatures not native to this realm. Extraterrestrial horrors emerge all around you, some swarming down to the city streets below. “No training can prepare you for this,” he says with a cold stoicism. He’s not wrong, you think to yourself. You wish you had a wizard with you to assist in all this wizarding madness.<\/i><br><br><b>Direct Assault:<\/b> <i>A portal opens, and a wounded Maw steps through. You can see the cityscape of Earth behind him. He pauses a moment and breathes deeply, and you see oily tendrils creep along his arms, his long fingers morphing into claws. “A world full of Klyntar remnants should have been more responsible about their handling,” he muses. “It only takes one enemy to suddenly turn them against you.” As he smiles, you notice his features partially transformed with razor-sharp teeth. Gesturing wildly, the Maw begins to open portals around him, bringing forth wondrous and mysterious creatures of the cosmos and other worlds. A deep, guttural, Klyntar-infused laugh emanates from his mouth.<\/i>",
+            "introduction": "Follow the setup for your Campaign Path:<br><br><b>First Response:<\/b> Put the “Metro PD” Support into play. If “Shawarma” is marked in the campaign log, each player shuffles one copy of “Shawarma” into their deck. If “Black Swan” is marked under “Black Order”, put the “Black Swan” minion into play engaged with the first player. If “Supergiant” and\/or “Black Dwarf” are marked, shuffle each corresponding minion card(s) into the encounter deck. Search the encounter deck for the “Mojo in the Middle” environment and put it into play.<br><br><b>Spec Ops:<\/b> If “Safehouse Secured” is marked, put the “Safehouse Established” environment into play. If “Security Breach” is not marked, shuffle the “Security Breach” side scheme into the encounter deck. If “Corvus Glaive” and\/or “Proxima Midnight” are marked, shuffle each corresponding minion card(s) into the encounter deck. If “Tower Damaged” is marked, deal three damage to each identity.<br><br><b>Direct Assault:<\/b> If “Scenario 3” is marked under “Longshot Ally”, one player may put him into play under their control. If not, shuffle the Longshot ally into the encounter deck. Each player may take one copy of the card they recorded in the campaign log from any player’s deck and put it into play under their control. Then, add threat to the main scheme equal to the total cost of the cards put into play this way.<br><br><b>Expert Campaign Only:<\/b> Set each player’s hit points to their remaining hit point value recorded in the campaign log. (First Response: may add Medical Emergency\/Obligations to heal; Spec Ops: may deal 1 facedown encounter card to heal; Direct Assault: may place 1 acceleration token to heal).",
+            "resolution": "For every BLACK ORDER Minion in the victory display, unmark the box with their name under the “Black Order” section of the campaign log.",
+            "epilogue": "<b>First Response:<\/b> <i>The negative emotions you’ve felt today are gone. A mix of righteous rage and adrenaline courses through your veins as you prepare to end Ebony Maw. With a single incantation, a portal opens and he falls through, disappearing. Soon after, the remaining spaceships begin to disperse, clearing the sky once again. It takes a moment to calm down, and you walk to your favorite coffee shop and deal with the alien debris. People being to emerge from their hiding places, looking to assist and thanking you for being there to save them. Perhaps things aren’t as bad as they seemed. You sigh, and look at your broken phone screen. Might as well try and make that phone call now. You can’t shake the feeling that something grows beyond the stars. The Black Order has new allies, and they all sought to go to war with Earth. What can it mean?<\/i><br><br><b>Spec Ops:<\/b> <i>The final briefing on the events of the day led to more questions than answers. The whole world was attacked strategically, but certain defenses pertaining to the superhuman community seemed to be the target. While the attacks were brutal and aggressive, once tough resistance was met, the troops withdrew. Numerous places were attacked, some of which previously housed items of power or resources like vibranium and adamantium. Reports, however, show that once defenders like you were deployed to the most valuable areas, the other assaults withdrew. The focus was entirely on what would be defended. You can’t help but feel a growing sense of unease. All that’s left is disarray and questions. It seems as if the Black Order was after information....to see what the response to an invasion would be.<\/i><br><br><b>Direct Assault:<\/b> <i>As the Maw staggers, he waves a hand, opening a portal and stepping through it before you can do anything else. The ships around you begin to retreat. The Imperial Guard, renewed at your victory, begin attacking the vessels that are retreating slowly. As the horizon empties to nothing but stars and empty space, Gladiator returns to you, carrying a Badoon prisoner. “You need to hear this from him,” he says, then throws the warrior at your feet. Despite the defeat, the alien is calm, almost dignified. “The Shi’ar Empire is weakened,” he rasps. “Earth is unstable. This victory is only temporary. How can you believe yourselves so well-protected when an interstellar army assembles? Too much power resides here, and others have taken note. Alliances are forming.” Gladiator takes him away, gathering the rest of the Imperial Guard to depart. A growing unease gnaws at you - what was learned?<\/i>",
+            "image": "ebony_maw_final.jpg"
+        }
+    ],
+    "modulars": {
+        "venom": [
+            {
+                "name": "Symbiotic Strength",
+                "code": "symbiotic_strength"
+            },
+            {
+                "name": "Black Order",
+                "code": "black_order"
+            }
+        ],
+        "tower_defense": [
+            {
+                "name": "Streets of Mayhem",
+                "code": "streets_of_mayhem"
+            }
+        ],
+        "magog": [
+            {
+                "name": "Band of Badoon",
+                "code": "band_of_badoon"
+            },
+            {
+                "name": "Longshot",
+                "code": "longshot"
+            }
+        ],
+        "brotherhood_of_badoon": [
+            {
+                "name": "Flight",
+                "code": "flight"
+            },
+            {
+                "name": "Kree Militants",
+                "code": "kree_militant"
+            },
+            {
+                "name": "Blue Moon",
+                "code": "blue_moon"
+            }
+        ],
+        "ebony_maw": [
+            {
+                "name": "Sitcom",
+                "code": "sitcom"
+            },
+            {
+                "name": "Telepathy",
+                "code": "telepathy"
+            },
+            {
+                "name": "Legions of Hel",
+                "code": "legions_of_hel"
+            },
+            {
+                "name": "Menagerie Medley",
+                "code": "menagerie_medley"
+            },
+            {
+                "name": "Symbiotic Strength",
+                "code": "symbiotic_strength"
+            }
+        ]
+    },
+    "campaign_notes": [
+        "Story Path",
+        "Gear Up",
+        "Obligations",
+        "Narrative Campaign Restrictions"
+    ],
+    "campaign_counters": [],
+    "campaign_checkbox": [
+        "Black Dwarf",
+        "Supergiant",
+        "Black Swan",
+        "Proxima Midnight",
+        "Corvus Glaive",
+        "Shawarma",
+        "Tower Damaged",
+        "Safehouse Secured",
+        "Security Breach",
+        "Scenario #2 - Longshot Ally",
+        "Scenario #3 - Longshot Ally"
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "code": "watcher_team_what_if_by_zach_goscha",
+    "name": "The Watcher’s Team: What If...?",
+    "creator": "Zach Goscha",
+    "description": "I am The Watcher. I observe many realities beyond the one you know. In this campaign, we explore unique stories where heroes are not who they seem. You will be forced to change identities to witness these vast changes across the multiverse.",
+    "epilogue": "<i>I am The Watcher. It was my job to record every single reality and to simply watch the multiverse unfold. I have watched the choices in your reality and the universe you call Marvel Champions. But I will no longer simply watch. If a new evil arises that will shape and change the multiverse for the worse, I will call on unique heroes to save the day. I will strive to save as many as I can as we both continue to explore the vast new realities and ask ourselves the question... What If...?<\/i>",
+    "image": "watcher_what_if.jpg",
+    "type": "custom",
+    "position": 114,
+    "scenarios": [
+        {
+            "code": "ebony_maw",
+            "name": "Scenario #1 - Iron Man: Trapped In Time",
+            "description": "<i>I am The Watcher and in the reality you play, Iron Man is a TECH upgrade-focused hero. But there are more realities than one, and I must watch them all. In this world, represented by what you call a scenario, Tony Stark finds himself in a fantasy environment. A powerful wizard is after a special gem located in one of the grand cities, using an array of dragons and frost giants to succeed we must answer the question: What if Iron Man was Trapped In The Time of King Arthur?<\/i>",
+            "introduction": "Iron Man must be one of the identities used.<br>One copy of Godslayer (Gamora #18) is added to Iron Man’s deck regardless of which aspect the Iron Man player picked. Godslayer adds the Setup and Permanent keywords to the card.<br>To advance to each villain phase, Godslayer must be used in the attack that reduces the villain to zero hit points.<br>Shuffle System Shock into the encounter deck.",
+            "resolution": "If the Dragon minion was defeated, each player gains: “Endless Possibilities” - During step 15 of the game setup, each player may take 1 additional mulligan.<br><b>Expert Campaign Only:<\/b> Record Iron Man's remaining hit points in the campaign log.",
+            "epilogue": "<i>Iron Man is victorious over the wizard! He grabs the gem the villain was after, but the wizard has one last trick up his sleeve. Ebony Maw casts a portal spell that sucks Iron Man away to another realm.<\/i>",
+            "image": "king_arthur_ironman.jpg"
+        },
+        {
+            "code": "stryfe",
+            "name": "Scenario #2 - Spider-Man: The Sorcerer Supreme",
+            "description": "<i>I am The Watcher and in the reality you play, Spider-Man is simply a web-swinging Avenger. But there are more realities than one, and I must watch them all. In this world, represented by what you call a scenario, Peter Parker is more than a genius, he is in fact a mystic. Leaving behind street crime he faces down a villain from the future in a paranormal setting. On a mission to save Hope Summers from a time traveling villain, the wall-crawler fights to save the entire universe as we answer the question: What if Spider-Man was the Sorcerer Supreme?<br><br>Wait, what’s this? As a portal opens revealing a knight in red and gold armor. Iron Man emerges from the portal, in a new realm and reality. Not sure where he is he nonetheless jumps into action helping the Sorcerer Supreme.<\/i>",
+            "introduction": "Spider-Man (Peter Parker) must be used and gains the Mystic trait. Add The Sorcerer Supreme to his deck with Setup and Permanent keywords.<br>Players must also use the Iron Man identity from the previous scenario.<br>Deal Black Tom Cassidy as a facedown encounter card to Spider-Man.<br><b>Expert Campaign Only:<\/b> If Iron Man is in play, set Iron Man's hit point value recorded in the campaign log for the previous scenario. The Iron Man player may deal themselves 1 facedown encounter card to heal their identity to its full hit point value.",
+            "resolution": "If the Spider-Man\/Peter Parker player used a card with a SPELL trait to reduce Stryfe to 0 hit points, each player gains: “Cosmic Sight” - After step 15 of the game setup, each player may search their discard pile and deck for a resource card and add it to their hand.<br><b>Expert Campaign Only:<\/b> Record Spider-Man and Iron Man's remaining hit points in the campaign log.",
+            "epilogue": "<i>Spider-Man senses a huge level of danger coming from the Underworld and plunges into the rift with Iron Man following close behind.<\/i>",
+            "image": "sorcerer_supreme_spiderman.jpg"
+        },
+        {
+            "code": "hela",
+            "name": "Scenario #3 - Rogue And The Power Of Thor",
+            "description": "<i>I am The Watcher and in the reality you play, Rogue is a member of the X-Men. But there are more realities than one, and I must watch them all. In this world, represented by what you call a scenario, Anna Marie is a god. Fighting to vanquish the villains that would harm Asgard and to save Odin from Hel, we explore the unique question: What if Rogue posessed the power of Thor?<br><br>As Rogue enters Hel wielding Jarnbjorn, in search of Odin, a portal opens up. Rogue turns, ready to attack only to see heroes emerge, Spider-Man, the Sorceror Supreme, and Iron Man, a knight of King Arthur’s court. After explaining her plan, the heroes agree to help Rogue save Odin, if only to find out why they sense a high level of cosmic danger.<\/i>",
+            "introduction": "Rogue must be used and gains the Asgard trait. Add Jarnbjorn to her deck with Setup and Permanent keywords.<br>Players must also select either Iron Man or Spider-Man from the previous scenarios.<br>Search the encounter discard pile and deck for an Attachment and attach it to the villain.<br><b>Expert Campaign Only:<\/b> Set HP\/Heal for Iron Man\/Spider-Man.",
+            "resolution": "If Hela was flipped to her Wounded side 4 or more times, each player gains: “A Portal In Times Of Need” - After step 15 of the game setup, each player may search their discard pile and deck for an ally and add it to their hand.<br><b>Expert Campaign Only:<\/b> Record Rogue, Spider-Man (Peter Parker), and Iron Man's remaining hit points in the campaign log.",
+            "epilogue": "<i>The Watcher reveals himself to the heroes, warning of a great and terrible enemy at hand.<\/i>",
+            "image": "thor_rogue.jpg"
+        },
+        {
+            "code": "the_hood",
+            "name": "Scenario #4 - Captain America: Vigilante Justice",
+            "description": "<i>I am The Watcher and in the reality you play, Captain America is a shield-wielding protector of the people. But there are more realities than one, and I must watch them all. In this world, represented by what you call a scenario, Steve Rogers has taken on the role of an aggressive vigilante, tearing through street level crime with lots of weapons and little mercy. Through this, we discover: What if Captain America was a hotblooded, lethal protector?<br><br>In a dark and dirty alleyway, we see our hero, wearing red, white, and blue, yet bearing a dark expression. In the same alleyway, my portal opens bringing with it the heroes I have gathered. While wanting nothing to do with the other heroes, this new Captain America reluctantly decides to help them if first they help him vanquish an evil villain known only as The Hood.<\/i>",
+            "introduction": "Captain America must be used and gains the Civilian trait. His deck must include at least 6 cards with the Weapon trait.<br>Add Lock and Load and Laser Cannon to his deck.<br>Each player must either take 2 indirect damage, place 2 threat on the main scheme or discard 2 cards at random.<br><b>Expert Campaign Only:<\/b> Set HP\/Heal for previous identities.",
+            "resolution": "If at least 5 minions were defeated with a card that has the WEAPON trait, each player gains: “I Have Intervened” - After step 15 of the game setup, each player may search their discard pile and deck for an identity-specific card and add it to their hand.<br><b>Expert Campaign Only:<\/b> Record each hero's remaining hit points in the campaign log.",
+            "epilogue": "<i>The Watcher informs the four unique heroes that the fate of the universe is in their hands as he transports them to the final battle.<\/i>",
+            "image": "vigilante_captain_america.jpg"
+        },
+        {
+            "code": "ultron",
+            "name": "Scenario #5 - The Watcher’s Team",
+            "description": "<i>I have been watching this entire time. The defeat of each villain, the unique story of each hero, and conquest or defeat of the many timelines I witness. I have seen your victories and defeats. I have seen the unique worlds you visit, the vast changes of identities, aspects, villains, and encounters that each one experiences. But I will not be silent anymore. I will not watch another entire world end because I am only watching. I have intervened and I will watch no more. We will now explore a new question that has never been asked before: What if The Watcher intervened?<br><br>In this unique timeline, Ultron has gained the Infinity Gauntlet. In his quest for power, Ultron will destroy this planet using nuclear codes. Soon, nobody will be able to stand up to him, and the android will destroy countless worlds the same way. I have gathered the most unique and powerful heroes from across the multiverse to defeat the villain once and for all. I have intervened.<\/i>",
+            "introduction": "Players must select identities used in the previous scenarios and follow their unique setup rules.<br>For each player, draw and reveal a card from the Infinity Stone deck.<br><b>Expert Campaign Only:<\/b> Set HP\/Heal.",
+            "resolution": "Ultron is defeated and the players win the campaign!",
+            "image": "ultron_gauntlet.jpg"
+        }
+    ],
+    "modulars": {
+        "ebony_maw": [
+            {
+                "name": "Fantasy",
+                "code": "fantasy"
+            },
+            {
+                "name": "Frost Giants",
+                "code": "frost_giants"
+            }
+        ],
+        "stryfe": [
+            {
+                "name": "Hope Summers",
+                "code": "hope_summers"
+            },
+            {
+                "name": "Horror",
+                "code": "horror"
+            },
+            {
+                "name": "Black Tom Cassidy",
+                "code": "black_tom_cassidy"
+            }
+        ],
+        "hela": [
+            {
+                "name": "Legions of Hel",
+                "code": "legions_of_hel"
+            },
+            {
+                "name": "Enchantress",
+                "code": "enchantress"
+            }
+        ],
+        "the_hood": [
+            {
+                "name": "Streets of Mayhem",
+                "code": "streets_of_mayhem"
+            },
+            {
+                "name": "Zzzax",
+                "code": "zzzax"
+            },
+            {
+                "name": "Ransacked Armory",
+                "code": "ransacked_armory"
+            },
+            {
+                "name": "Running Interference",
+                "code": "running_interference"
+            },
+            {
+                "name": "Down To Earth",
+                "code": "down_to_earth"
+            },
+            {
+                "name": "Weapon Master",
+                "code": "weap_master"
+            },
+            {
+                "name": "Iron Spider's Sinister Six",
+                "code": "ironspider_sinister"
+            }
+        ],
+        "ultron": [
+            {
+                "name": "Infinity Gauntlet",
+                "code": "infinity_gauntlet"
+            }
+        ]
+    },
+    "campaign_notes": [],
+    "campaign_counters": [],
+    "campaign_checkbox": [
+        "Endless Possibilities",
+        "Cosmic Sight",
+        "A Portal In Times Of Need",
+        "I Have Intervened"
+    ]
+}
