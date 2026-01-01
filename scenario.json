@@ -1,0 +1,5528 @@
+[
+  {
+    "villain_set_code": "klaw",
+    "title": "Guards, Guards!",
+    "nbmodular": 1,
+    "modular_set_codes": ["ransacked_armory"],
+    "difficulty": -2,
+    "text": "Gives Klaw 5x Armored Guards total. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Warped Timeline",
+    "nbmodular": 2,
+    "modular_set_codes": ["temporal", "dystopian_nightmare"],
+    "difficulty": -2,
+    "text": "Impactful boost abilities. Stuns. Sends alter-ego. Small minions. Side schemes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Tooth and Klaw ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["armies_of_titan"],
+    "difficulty": -1,
+    "text": "Small minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Good Vibrations",
+    "nbmodular": 2,
+    "modular_set_codes": ["new_avengers", "secret_avengers"],
+    "difficulty": 0,
+    "text": "Mixed minions. Impactful boost abilities. Teamwork. Status cards.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Anti-Mutant Amplifier",
+    "nbmodular": 1,
+    "modular_set_codes": ["genosha"],
+    "difficulty": 0,
+    "text": "Steady. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["masters_of_evil"],
+    "difficulty": 0,
+    "text": "Large minions. Impactful boost abilities.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Sounds Like Trouble ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["sinister_syndicate"],
+    "difficulty": 1,
+    "text": "Impactful boost abilities. Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Arctic Monkeys",
+    "nbmodular": 1,
+    "modular_set_codes": ["frost_giants"],
+    "difficulty": 1,
+    "text": "Large minions. Sends alter-ego. Stuns.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Oops, Joined a Cult",
+    "nbmodular": 1,
+    "modular_set_codes": ["clan_akkaba"],
+    "difficulty": 2,
+    "text": "Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Boosted Boombox ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["sinister_assault", "mutant_insurrection"],
+    "difficulty": 2,
+    "text": "High boost icons. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Vibranium Order",
+    "nbmodular": 2,
+    "modular_set_codes": ["children_of_thanos", "black_order"],
+    "difficulty": 2,
+    "text": "Mixed minions. Disruption. Impactful boost abilities. Adds Black Order theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Soundgarden",
+    "nbmodular": 1,
+    "modular_set_codes": ["black_tom_cassidy"],
+    "difficulty": 2,
+    "text": "Anti-Rush. Small minions. Stuns. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Klaw Starts an Army",
+    "nbmodular": 1,
+    "modular_set_codes": ["kree_militant"],
+    "difficulty": 2,
+    "text": "Large minions. Overkill/piercing boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Klaw Starts a Band ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["band_of_badoon"],
+    "difficulty": 2,
+    "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Klaw Starts a Zoo",
+    "nbmodular": 1,
+    "modular_set_codes": ["menagerie_medley"],
+    "difficulty": 3,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Sonic Screwdriver ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["anachronauts"],
+    "difficulty": 3,
+    "text": "Mixed minions. Impactful boost abilities (additional boost cards).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "We Are Sound!",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "symbiotic_strength"],
+    "difficulty": 3,
+    "text": "Steady (protects 2x boost card attacks). Extra attacks. ATK bonus. Small minions. Dangerous attacks.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Boost Card Highscore",
+    "nbmodular": 3,
+    "modular_set_codes": ["anachronauts", "space_pirates", "hard_sound"],
+    "difficulty": 4,
+    "text": "A huge amount of additional boost cards. Mixed minions. Boss minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Mutant Formula",
+    "nbmodular": 2,
+    "modular_set_codes": ["hope_summers", "mutant_slayers"],
+    "difficulty": -1,
+    "text": "Adds helpful setup ally. Mixed minions. Adds mutant theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["goblin_gimmicks"],
+    "difficulty": 0,
+    "text": "Attachments. Treacheries. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Oscorp Upgrades",
+    "nbmodular": 1,
+    "modular_set_codes": ["ransacked_armory"],
+    "difficulty": 1,
+    "text": "Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "The Little Lost Goblin ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["fantasy"],
+    "difficulty": 1,
+    "text": "Introduces an extra Goblin-traited minion. Mixed minions. Boss minion (Dragon).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Goblin Gang",
+    "nbmodular": 1,
+    "modular_set_codes": ["a_mess_of_things"],
+    "difficulty": 1,
+    "text": "Extra attack (Gang-Up, works well with minion swarm). Large minion. Stuns. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Ben Reilly",
+    "nbmodular": 1,
+    "modular_set_codes": ["spider_man_modular"],
+    "difficulty": 2,
+    "text": "Medium minion. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Crime Wave",
+    "nbmodular": 2,
+    "modular_set_codes": ["down_to_earth", "city_in_chaos"],
+    "difficulty": 2,
+    "text": "Mixed minions. Sends alter-ego. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Venom Goblin At Home",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 3,
+    "text": "Extra attacks. Dangerous attacks. Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Crafty Goblins",
+    "nbmodular": 1,
+    "modular_set_codes": ["guerrilla_tactics"],
+    "difficulty": 3,
+    "text": "Bonuses for multiple enemies. Side schemes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Rogues' Gallery ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["sinister_assault"],
+    "difficulty": 3,
+    "text": "Large minions. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "A State of Mayhem ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["streets_of_mayhem", "state_of_emergency"],
+    "difficulty": 3,
+    "text": "Side schemes. Changing environment. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Alien Invasion",
+    "nbmodular": 2,
+    "modular_set_codes": ["band_of_badoon", "menagerie_medley"],
+    "difficulty": 3,
+    "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm. Confuses.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Goblin Gizmos",
+    "nbmodular": 2,
+    "modular_set_codes": ["goblin_gimmicks", "goblin_gear"],
+    "difficulty": 3,
+    "text": "Attachments. Extra activations. Treacheries. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Oscorp Unleashed",
+    "nbmodular": 1,
+    "modular_set_codes": ["osborn_tech"],
+    "difficulty": 4,
+    "text": "Attachments. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "New Goblin Toys",
+    "nbmodular": 1,
+    "modular_set_codes": ["goblin_gear"],
+    "difficulty": 4,
+    "text": "Extra activations. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mutagen_formula",
+    "title": "Ultimate Green Goblin",
+    "nbmodular": 3,
+    "modular_set_codes": ["super_strength", "goblin_gear", "osborn_tech"],
+    "difficulty": 4,
+    "text": "Attachments. Extra activations. ATK bonus. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Unicorn's Horn",
+    "nbmodular": 1,
+    "modular_set_codes": ["fantasy"],
+    "difficulty": 0,
+    "text": "Mixed minions. Boss minion (Dragon).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["bomb_scare"],
+    "difficulty": 0,
+    "text": "Small minions. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Smash and Grab",
+    "nbmodular": 1,
+    "modular_set_codes": ["a_mess_of_things"],
+    "difficulty": 1,
+    "text": "Extra attack (Gang-Up). Large minion. Stuns. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Stay Hydrated",
+    "nbmodular": 1,
+    "modular_set_codes": ["hydra_patrol"],
+    "difficulty": 1,
+    "text": "Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Property Damage",
+    "nbmodular": 1,
+    "modular_set_codes": ["armadillo"],
+    "difficulty": 1,
+    "text": "Toughs (makes extra use of Rhino's toughs). Large minion. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Status Update",
+    "nbmodular": 1,
+    "modular_set_codes": ["beasty_boys"],
+    "difficulty": 1,
+    "text": "Status cards (makes extra use of Rhino's stuns). 2x Large minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Oops, Joined a Cult ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["clan_akkaba"],
+    "difficulty": 2,
+    "text": "Adds threat (without affecting the main scheme). Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "We are Breaking!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 2,
+    "text": "Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Hydra Heist ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["hydra_assault", "ransacked_armory"],
+    "difficulty": 2,
+    "text": "Mixed minions. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Rhino's Rampage ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["sinister_assault", "state_of_emergency"],
+    "difficulty": 3,
+    "text": "Large minions. Side schemes. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Sinister Swarm",
+    "nbmodular": 2,
+    "modular_set_codes": ["sinister_syndicate", "ironspider_sinister"],
+    "difficulty": 3,
+    "text": "Mixed minions. Criminal trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "First Rhino On The Moon",
+    "nbmodular": 2,
+    "modular_set_codes": ["blue_moon", "gravitational_pull"],
+    "difficulty": 3,
+    "text": "Anti-Rush. Teamwork. Mixed minions. Boss minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Get Wrecked",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "wrecking_crew_modular"],
+    "difficulty": 3,
+    "text": "Steady. ATK bonus. Large minions. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Thanos with a Horn",
+    "nbmodular": 3,
+    "modular_set_codes": ["infinity_gauntlet", "children_of_thanos", "black_order"],
+    "difficulty": 4,
+    "text": "SOLO WARNING: The Infinity Stones will destroy the main scheme. Large minions. Status cards. ATK/SCH bonus. Impactful boost effects.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Ultimate Rhino",
+    "nbmodular": 3,
+    "modular_set_codes": ["super_strength", "sinister_assault", "state_of_emergency"],
+    "difficulty": 4,
+    "text": "Steady. ATK bonus. Large minions. High boost icons. Side schemes. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["goblin_gimmicks"],
+    "difficulty": 0,
+    "text": "Attachments. Treacheries. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Criminal Enterprise ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["down_to_earth", "running_interference"],
+    "difficulty": 1,
+    "text": "Sends alter-ego (makes Norman tougher). Small minions. Boss minion. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Mercenary Army",
+    "nbmodular": 2,
+    "modular_set_codes": ["ransacked_armory", "batroc's_brigade"],
+    "difficulty": 1,
+    "text": "Medium minions. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Sharknado ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["menagerie_medley"],
+    "difficulty": 2,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Goblin Might",
+    "nbmodular": 1,
+    "modular_set_codes": ["super_strength"],
+    "difficulty": 2,
+    "text": "Steady (keeps Goblin activating). ATK bonus. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Wicked Schemes",
+    "nbmodular": 2,
+    "modular_set_codes": ["whispers_of_paranoia", "dystopian_nightmare"],
+    "difficulty": 2,
+    "text": "Sends alter-ego (makes Norman tougher). Nemesis interaction. Side schemes. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Crazy Train",
+    "nbmodular": 2,
+    "modular_set_codes": ["sitcom", "telepathy"],
+    "difficulty": 2,
+    "text": "Retaliate. Anti-Ally. Sends alter-ego (makes Norman tougher). SCH bonus. Overkill. Obligations. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Enchanted Forest",
+    "nbmodular": 2,
+    "modular_set_codes": ["enchantress", "black_tom_cassidy"],
+    "difficulty": 3,
+    "text": "Anti-Rush (makes Goblin tougher). Sends alter-ego. Steals allies. Mixed minions. Stuns. Quickstrike.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Osborn's Thunderbolts",
+    "nbmodular": 2,
+    "modular_set_codes": ["gravitational_pull", "power_of_the_atom"],
+    "difficulty": 4,
+    "text": "2x Boss minions (adds pressure while villain is Norman). Surprise damage. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Brains AND Brawn",
+    "nbmodular": 2,
+    "modular_set_codes": ["telepathy", "growing_strong"],
+    "difficulty": 4,
+    "text": "Boss minion (adds pressure while villain is Norman). Retaliate. Anti-Ally. SCH bonus. Overkill. Sends alter-ego.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "New Goblin Toys",
+    "nbmodular": 1,
+    "modular_set_codes": ["goblin_gear"],
+    "difficulty": 4,
+    "text": "Extra activations. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Oscorp Unleashed",
+    "nbmodular": 1,
+    "modular_set_codes": ["osborn_tech"],
+    "difficulty": 4,
+    "text": "Attachments. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Ultimate Norman",
+    "nbmodular": 3,
+    "modular_set_codes": ["super_strength", "goblin_gear", "osborn_tech"],
+    "difficulty": 4,
+    "text": "Steady (keeps Goblin activating). Extra activations. ATK bonus. Attachments. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "New Hardware",
+    "nbmodular": 1,
+    "modular_set_codes": ["military_grade"],
+    "difficulty": -2,
+    "text": "Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Batteries Not Included",
+    "nbmodular": 1,
+    "modular_set_codes": ["power_drain"],
+    "difficulty": -2,
+    "text": "Treacheries. Mills encounter deck. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Do The Robot ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["sentinels"],
+    "difficulty": -1,
+    "text": "Large minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Anti-Mutant Tech",
+    "nbmodular": 1,
+    "modular_set_codes": ["genosha"],
+    "difficulty": 0,
+    "text": "Steady (keeps drones spawning). Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "3D Printed ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["celestial_tech"],
+    "difficulty": 0,
+    "text": "Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["under_attack"],
+    "difficulty": 0,
+    "text": "Anti-Ally. Surprise damage.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Android Attacker",
+    "nbmodular": 1,
+    "modular_set_codes": ["weap_master"],
+    "difficulty": 1,
+    "text": "Extra attacks (to spawn drones).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Delivery Drone ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["galactic_artifacts"],
+    "difficulty": 1,
+    "text": "Victory display side schemes. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Glitch in the System",
+    "nbmodular": 1,
+    "modular_set_codes": ["sci-fi"],
+    "difficulty": 2,
+    "text": "Mixed minions. Toughness environment (deadly with drones). Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "A.I. Hivemind",
+    "nbmodular": 1,
+    "modular_set_codes": ["guerrilla_tactics"],
+    "difficulty": 3,
+    "text": "Bonuses with multiple enemies (drones). Side schemes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Vibranium Might",
+    "nbmodular": 1,
+    "modular_set_codes": ["super_strength"],
+    "difficulty": 3,
+    "text": "Steady (keeps drones spawning). ATK bonus. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Ultra Ultron",
+    "nbmodular": 1,
+    "modular_set_codes": ["osborn_tech"],
+    "difficulty": 4,
+    "text": "Attachments. Surge leads to more drones. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Nano-Tech Robots",
+    "nbmodular": 2,
+    "modular_set_codes": ["sentinels", "future_past"],
+    "difficulty": 4,
+    "text": "Large minions. Boss minions. Victory display. High boost icons. Nemesis interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Infinity Ultron",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinity_gauntlet", "genosha"],
+    "difficulty": 4,
+    "text": "Steady (keeps drones spawning). ATK/SCH bonus. Status cards. Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Man on the Moon",
+    "nbmodular": 1,
+    "modular_set_codes": ["blue_moon"],
+    "difficulty": 0,
+    "text": "Anti-Rush. Teamwork. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Part Of The Team",
+    "nbmodular": 1,
+    "modular_set_codes": ["masters_of_evil"],
+    "difficulty": 0,
+    "text": "Large minions. Thematic (Absorbing Man has been a member).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["hydra_patrol"],
+    "difficulty": 0,
+    "text": "Small minions. Leads to environment effects triggering. Adds Hydra theme.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Lightmasters of Evil",
+    "nbmodular": 2,
+    "modular_set_codes": ["wrecking_crew_modular", "she_hulk_nemesis"],
+    "difficulty": 1,
+    "text": "Large minions. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Sharknado ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["menagerie_medley"],
+    "difficulty": 2,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "The Hydra Elite",
+    "nbmodular": 2,
+    "modular_set_codes": ["captain_america_nemesis", "legions_of_hydra"],
+    "difficulty": 3,
+    "text": "5x Hydra Soldiers lead to more environment cards (when defeated). Anti-Rush. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "To Infinity and Beyond",
+    "nbmodular": 1,
+    "modular_set_codes": ["infinity_gauntlet"],
+    "difficulty": 3,
+    "text": "No minions (Space Stone resets his deck + causes acceleration token). Status cards. ATK/SCH bonus. Smaller encounter deck = his environment cards trigger more often.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Ice, Ice, Baby ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["whiteout", "frost_giants"],
+    "difficulty": 3,
+    "text": "Large minions. Boss minion. Stuns. Sends alter-ego. (Relates to Ice trait.)",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Knock On Wood",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "black_tom_cassidy"],
+    "difficulty": 3,
+    "text": "Steady. Anti-Rush. Mixed minions. Stuns. Quickstrike. (Relates to Wood trait.)",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Like A Rolling Stone",
+    "nbmodular": 2,
+    "modular_set_codes": ["gravitational_pull", "running_interference"],
+    "difficulty": 3,
+    "text": "Two boss minions. Sends alter-ego. (Tombstone/Moonstone relate to Stone trait.)",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Pedal to the Metal",
+    "nbmodular": 2,
+    "modular_set_codes": ["supersonic", "sentinels"],
+    "difficulty": 3,
+    "text": "Boss minion. Large minions. Overkill. (Relates to Metal trait.)",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Technically Gifted",
+    "nbmodular": 1,
+    "modular_set_codes": ["osborn_tech"],
+    "difficulty": 4,
+    "text": "Attachments. Surge leads to environment effects triggering. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Friends From Mars ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["badoon_headhunter"],
+    "difficulty": 4,
+    "text": "Two large minions. Surge leads to more environment effects triggering.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Here to Slay",
+    "nbmodular": 3,
+    "modular_set_codes": ["ransacked_armory", "military_grade", "mutant_slayers"],
+    "difficulty": -2,
+    "text": "Attachments. Medium minions. Adds mutant theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 3,
+    "modular_set_codes": ["weap_master", "hydra_assault", "legions_of_hydra"],
+    "difficulty": 0,
+    "text": "Extra attacks. Mixed minions. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Alternative Hydration ??",
+    "nbmodular": 3,
+    "modular_set_codes": ["weap_master", "hydra_patrol", "captain_america_nemesis"],
+    "difficulty": 1,
+    "text": "5x Hydra Soldiers led by Zemo. Extra attacks. Anti-Rush. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Mercenary Alliance",
+    "nbmodular": 3,
+    "modular_set_codes": ["ransacked_armory", "batroc's_brigade", "the_leaper"],
+    "difficulty": 1,
+    "text": "5x Medium mercenary-traited minions. Boss minion. Discarding. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Big Game Hunter",
+    "nbmodular": 3,
+    "modular_set_codes": ["under_attack", "hounds", "frost_giants"],
+    "difficulty": 1,
+    "text": "Anti-Ally. Surprise damage. Sends alter-ego + brings you back. Quickstrike. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Don't Fear the Reaver ??",
+    "nbmodular": 3,
+    "modular_set_codes": ["weap_master", "reavers", "deathstrike"],
+    "difficulty": 2,
+    "text": "Extra attacks. Mixed minions. Attachments. Teamwork. Thematic (Crossbones looks like a Reaver).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Weaponless",
+    "nbmodular": 3,
+    "modular_set_codes": ["super_strength", "legions_of_hydra", "hydra_patrol"],
+    "difficulty": 3,
+    "text": "Steady. No added weapons. Anti-Rush. ATK bonus. Mixed minions. Thematic (What if Crossbones took a super serum?).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "I Like Big Boosts",
+    "nbmodular": 3,
+    "modular_set_codes": ["extreme_risk", "wrecking_crew_modular", "black_order"],
+    "difficulty": 4,
+    "text": "High boost icons. Large minions. Boss minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Anti-Rush Thunderbolts",
+    "nbmodular": 3,
+    "modular_set_codes": ["extreme_risk", "whiteout", "blue_moon"],
+    "difficulty": 4,
+    "text": "Anti-Rush. Teamwork. Mixed minions. Boss minion. Stuns.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Spider Glider Rider",
+    "nbmodular": 3,
+    "modular_set_codes": ["goblin_gear", "osborn_tech", "sinister_assault"],
+    "difficulty": 4,
+    "text": "Attachments. High boost icons. Extra activations. Large minions. Adds Spider-Man theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "WandaVision",
+    "nbmodular": 1,
+    "modular_set_codes": ["sitcom"],
+    "difficulty": 0,
+    "text": "Obligations (combos with Kang's cards). Sends alter-ego.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "New Quantumnauts",
+    "nbmodular": 2,
+    "modular_set_codes": ["sentinels", "zero_tolerance"],
+    "difficulty": 0,
+    "text": "Mixed minions. Sentinel trait interaction. Robot thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Dark Future",
+    "nbmodular": 1,
+    "modular_set_codes": ["dystopian_nightmare"],
+    "difficulty": 0,
+    "text": "Obligations (combos with Kang's cards). Sends alter-ego. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["temporal"],
+    "difficulty": 0,
+    "text": "Small minions. Stuns. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Fly Me To The Moon ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["blue_moon"],
+    "difficulty": 1,
+    "text": "Anti-Rush. Teamwork. Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Chronos Corps",
+    "nbmodular": 1,
+    "modular_set_codes": ["hounds"],
+    "difficulty": 1,
+    "text": "Small minions. Quickstrike. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Nemesis Emphasis",
+    "nbmodular": 1,
+    "modular_set_codes": ["whispers_of_paranoia"],
+    "difficulty": 1,
+    "text": "Sends alter-ego. Nemesis interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Back to the Future III",
+    "nbmodular": 1,
+    "modular_set_codes": ["western"],
+    "difficulty": 1,
+    "text": "Mixed minions. Damage environment. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "We Are Conquering!",
+    "nbmodular": 2,
+    "modular_set_codes": ["symbiotic_strength", "weap_master"],
+    "difficulty": 2,
+    "text": "Extra attacks. Dangerous attacks. Small minions. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Mutant Mayhem",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinites", "genosha"],
+    "difficulty": 2,
+    "text": "Steady. Anti-Ally (defending). Mixed minions. Adds threat. Adds mutant theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Past and Present",
+    "nbmodular": 2,
+    "modular_set_codes": ["fantasy", "sci-fi"],
+    "difficulty": 2,
+    "text": "Mixed minions. Boss minion (Dragon). Toughness environment. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Jurassic World",
+    "nbmodular": 1,
+    "modular_set_codes": ["savage_land"],
+    "difficulty": 2,
+    "text": "Retaliate. Discards. Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "History's Greatest ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["anachronauts"],
+    "difficulty": 3,
+    "text": "Mixed minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Kangception ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["mot"],
+    "difficulty": 3,
+    "text": "Obligations. Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "The Spoils of War",
+    "nbmodular": 2,
+    "modular_set_codes": ["space_pirates", "galactic_artifacts"],
+    "difficulty": 3,
+    "text": "Small minions. Quickstrike. Card removal. Victory display side schemes. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Terminator",
+    "nbmodular": 2,
+    "modular_set_codes": ["future_past", "sci-fi"],
+    "difficulty": 4,
+    "text": "Mixed minions. Boss minions. Victory display. High boost icons. Nemesis interaction. Toughness. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "red_skull",
+    "title": "Ride the Lightning",
+    "nbmodular": 2,
+    "modular_set_codes": ["power_drain", "zzzax"],
+    "difficulty": -2,
+    "text": "Treacheries. Mills encounter deck. Punishes energy resources.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "red_skull",
+    "title": "Dehydration",
+    "nbmodular": 2,
+    "modular_set_codes": ["bomb_scare", "hydra_assault"],
+    "difficulty": -2,
+    "text": "Small minions. Extra attacks. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Trickmaster",
+    "nbmodular": 1,
+    "modular_set_codes": ["trickster_magic"],
+    "difficulty": -2,
+    "text": "Large minions. Adds more allies to be rescued.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Shifting Loyalties",
+    "nbmodular": 1,
+    "modular_set_codes": ["s.h.i.e.l.d."],
+    "difficulty": 0,
+    "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "A.I.M.",
+    "nbmodular": 1,
+    "modular_set_codes": ["a.i.m._abduction"],
+    "difficulty": 0,
+    "text": "Captures allies. Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["weap_master"],
+    "difficulty": 0,
+    "text": "Extra attacks. Attachments. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Thunderbolts #1",
+    "nbmodular": 2,
+    "modular_set_codes": ["dangerous_recruits", "thunderbolts"],
+    "difficulty": 1,
+    "text": "When Revealed abilities. Impactful boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Master of the Nine Realms",
+    "nbmodular": 2,
+    "modular_set_codes": ["enchantress", "frost_giants"],
+    "difficulty": 2,
+    "text": "Sends alter-ego (for main scheme ability). Anti-Rush. Large minions. Steals allies. Adds Asgard theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Taskmadness",
+    "nbmodular": 2,
+    "modular_set_codes": ["telepathy", "sitcom"],
+    "difficulty": 2,
+    "text": "Sends alter-ego (for main scheme ability). Retaliate. Anti-Ally. SCH bonus. Overkill.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Boostmaster ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["sinister_assault"],
+    "difficulty": 2,
+    "text": "High boost icons (for main scheme ability). Large minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Crime-Master",
+    "nbmodular": 2,
+    "modular_set_codes": ["down_to_earth", "whispers_of_paranoia"],
+    "difficulty": 2,
+    "text": "Sends alter-ego (for main scheme ability). Small minions. Nemesis interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Stickmaster",
+    "nbmodular": 1,
+    "modular_set_codes": ["extreme_risk"],
+    "difficulty": 3,
+    "text": "Boss minion. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Training Hydra ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["legions_of_hydra"],
+    "difficulty": 3,
+    "text": "Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Thunderbolts #2",
+    "nbmodular": 2,
+    "modular_set_codes": ["pale_little_spider", "techno"],
+    "difficulty": 4,
+    "text": "2x Boss minions. Piercing. Damage reflect. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Hyde and Seek",
+    "nbmodular": 2,
+    "modular_set_codes": ["mister_hyde", "goblin_gear"],
+    "difficulty": 4,
+    "text": "Boss minion. Attachments. Extra activations. Nowhere is safe.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "wrecking_crew",
+    "title": "Get Wrecked",
+    "nbmodular": 4,
+    "modular_set_codes": ["city_in_chaos", "down_to_earth", "state_of_emergency", "power_drain"],
+    "difficulty": 0,
+    "text": "Keeps the scenario to very few minions. Thematic (wrecking the city).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "wrecking_crew",
+    "title": "Mass Breakout ??",
+    "nbmodular": 4,
+    "modular_set_codes": ["sinister_syndicate", "ironspider_sinister", "masters_of_evil", "running_interference"],
+    "difficulty": 1,
+    "text": "Many minions. Mixed minions. Criminal trait interaction. Thematic (breaking out).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "wrecking_crew",
+    "title": "All-Out Assault",
+    "nbmodular": 4,
+    "modular_set_codes": ["standard", "hydra_assault", "weap_master", "symbiotic_strength"],
+    "difficulty": 1,
+    "text": "Extra attacks to combo with the Wrecking Crew's attack abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "wrecking_crew",
+    "title": "Goblin Quartet",
+    "nbmodular": 4,
+    "modular_set_codes": ["goblin_gear", "osborn_tech", "sinister_assault", "ironspider_sinister"],
+    "difficulty": 3,
+    "text": "Extra minions. Attachments. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Hydra Distraction",
+    "nbmodular": 1,
+    "modular_set_codes": ["bomb_scare"],
+    "difficulty": -2,
+    "text": "Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "New Upgrades ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["ransacked_armory"],
+    "difficulty": -2,
+    "text": "Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Cosmic Guards",
+    "nbmodular": 1,
+    "modular_set_codes": ["blue_moon"],
+    "difficulty": 0,
+    "text": "Anti-Rush. Teamwork. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Armor Plating",
+    "nbmodular": 1,
+    "modular_set_codes": ["armadillo"],
+    "difficulty": 0,
+    "text": "Toughs. Large minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Doctor Frankenstein",
+    "nbmodular": 1,
+    "modular_set_codes": ["running_interference"],
+    "difficulty": 0,
+    "text": "Boss minion. Sends alter-ego. Attachments. Adds horror theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["under_attack"],
+    "difficulty": 0,
+    "text": "Anti-Ally. Area damage.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Super Swarm",
+    "nbmodular": 1,
+    "modular_set_codes": ["band_of_badoon"],
+    "difficulty": 1,
+    "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Experiment Gone Wrong",
+    "nbmodular": 1,
+    "modular_set_codes": ["sauron"],
+    "difficulty": 2,
+    "text": "Large minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Mutate Teamwork ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["guerrilla_tactics"],
+    "difficulty": 3,
+    "text": "Bonuses for multiple enemies (minions). Side schemes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Tech Convention",
+    "nbmodular": 1,
+    "modular_set_codes": ["techno"],
+    "difficulty": 3,
+    "text": "Boss minion. Piercing. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Arkham Horror",
+    "nbmodular": 1,
+    "modular_set_codes": ["horror"],
+    "difficulty": 3,
+    "text": "Mixed minions. Quickstrike environment. Adds horror theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Don't Fear the Reaver ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["reavers"],
+    "difficulty": 4,
+    "text": "Minions with tech attachments. Main scheme ability helps trigger Teamwork.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Doomsday Zola",
+    "nbmodular": 1,
+    "modular_set_codes": ["the_doomsday_chair"],
+    "difficulty": 4,
+    "text": "Large minion. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Doctor Jekyll",
+    "nbmodular": 1,
+    "modular_set_codes": ["mister_hyde"],
+    "difficulty": 4,
+    "text": "Boss minion. Adds horror theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Nano-Technology",
+    "nbmodular": 1,
+    "modular_set_codes": ["future_past"],
+    "difficulty": 4,
+    "text": "Boss minions. Victory display. High boost icons. Nemesis interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "Goblin Museum",
+    "nbmodular": 1,
+    "modular_set_codes": ["goblin_gimmicks"],
+    "difficulty": -2,
+    "text": "Attachments. Treacheries.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "Jump to Lightspeed ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["ship_command", "blue_moon"],
+    "difficulty": -2,
+    "text": "Anti-Rush. Milano helps remove cards from The Collection. Teamwork. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "A Cheap Victory ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["scientist_supreme"],
+    "difficulty": -2,
+    "text": "Vulnerable. 2x Large minions. Minions go to the victory display, not The Collection.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "Table For Two",
+    "nbmodular": 1,
+    "modular_set_codes": ["a_i_m._science"],
+    "difficulty": -1,
+    "text": "Small minions. Minions enter play two at a time, filling The Collection.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "Sticky Fingers",
+    "nbmodular": 1,
+    "modular_set_codes": ["sinister_syndicate"],
+    "difficulty": -1,
+    "text": "Medium minions. Impactful boost effects. Sends more cards to The Collection.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "Thanos Daycare",
+    "nbmodular": 1,
+    "modular_set_codes": ["children_of_thanos"],
+    "difficulty": 0,
+    "text": "Large minions. Impactful boost abilities. Sends more cards to The Collection.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "Thief of Time",
+    "nbmodular": 1,
+    "modular_set_codes": ["anachronauts"],
+    "difficulty": 0,
+    "text": "Mixed minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["menagerie_medley"],
+    "difficulty": 0,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities (leads to filling The Collection). Confuses. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "Infiltrate the Deck",
+    "nbmodular": 1,
+    "modular_set_codes": ["mystique"],
+    "difficulty": 2,
+    "text": "Boss minion. Puts cards in your deck.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "Tricks Up His Sleeve",
+    "nbmodular": 1,
+    "modular_set_codes": ["brothers_grimm"],
+    "difficulty": 2,
+    "text": "Large minion. Very few total minions. Attachments (fills The Collection).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "Badoon Muscle",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "band_of_badoon"],
+    "difficulty": 3,
+    "text": "Steady. ATK bonus. Mixed minions. Surprise damage. Sends cards to the Collection. Swarm. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "The Special Hell",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinity_gauntlet", "osborn_tech"],
+    "difficulty": 4,
+    "text": "WARNING: Collector collects his own Infinity Stones. Status cards. ATK/SCH bonus.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Paint It Black",
+    "nbmodular": 2,
+    "modular_set_codes": ["armies_of_titan", "black_order"],
+    "difficulty": -2,
+    "text": "Mixed minions. Black Order trait interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Space Police ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["genosha"],
+    "difficulty": -1,
+    "text": "Steady. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Oops, Collected a Cult",
+    "nbmodular": 1,
+    "modular_set_codes": ["clan_akkaba"],
+    "difficulty": -1,
+    "text": "Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Freeze!",
+    "nbmodular": 1,
+    "modular_set_codes": ["frost_giants"],
+    "difficulty": -1,
+    "text": "Sends alter-ego. Large minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Gene Pool Party",
+    "nbmodular": 1,
+    "modular_set_codes": ["infinites"],
+    "difficulty": -1,
+    "text": "Anti-Ally (defending). Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Running Scared",
+    "nbmodular": 2,
+    "modular_set_codes": ["hounds", "dystopian_nightmare"],
+    "difficulty": -1,
+    "text": "Small minions. Sends alter-ego + pulls you back. Quickstrike.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Kree-ative Solution",
+    "nbmodular": 1,
+    "modular_set_codes": ["kree_militant"],
+    "difficulty": 0,
+    "text": "Large minions. Overkill/piercing boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Museum Helpers ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["acolytes"],
+    "difficulty": 0,
+    "text": "Mixed minions. Teamwork.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["menagerie_medley"],
+    "difficulty": 0,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Stolen Time",
+    "nbmodular": 1,
+    "modular_set_codes": ["anachronauts"],
+    "difficulty": 1,
+    "text": "Mixed minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Stay Hydrated ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["legions_of_hydra"],
+    "difficulty": 2,
+    "text": "Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "One Step Ahead",
+    "nbmodular": 1,
+    "modular_set_codes": ["telepathy"],
+    "difficulty": 2,
+    "text": "Retaliate. Anti-Ally. SCH bonus. Overkill. Sends alter-ego.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Under Arrest",
+    "nbmodular": 2,
+    "modular_set_codes": ["s.h.i.e.l.d.", "pale_little_spider"],
+    "difficulty": 3,
+    "text": "Small minions. Boss minion. Vulnerable. Patrol. Damage reflect. Anti-S.H.I.E.L.D.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "A Seat on the Council",
+    "nbmodular": 1,
+    "modular_set_codes": ["the_doomsday_chair"],
+    "difficulty": 4,
+    "text": "Large minion. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Bounty Hunters",
+    "nbmodular": 1,
+    "modular_set_codes": ["mutant_slayers"],
+    "difficulty": -2,
+    "text": "Medium minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Space Oddity",
+    "nbmodular": 1,
+    "modular_set_codes": ["fantasy"],
+    "difficulty": -2,
+    "text": "Mixed minions. Boss minion (Dragon).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Kree Reinforcements",
+    "nbmodular": 1,
+    "modular_set_codes": ["kree_militant"],
+    "difficulty": 0,
+    "text": "Large minions. Overkill/piercing boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Maximum Firepower",
+    "nbmodular": 2,
+    "modular_set_codes": ["frost_giants", "sitcom"],
+    "difficulty": 0,
+    "text": "Sends alter-ego (helps charge Badoon Ship). Large minions. Obligations.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Power of the Sun",
+    "nbmodular": 1,
+    "modular_set_codes": ["sinister_assault"],
+    "difficulty": 0,
+    "text": "Large minions. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Side Scheme Wormhole",
+    "nbmodular": 1,
+    "modular_set_codes": ["galactic_artifacts"],
+    "difficulty": 0,
+    "text": "Many side schemes. Attachments. Does not add minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["band_of_badoon"],
+    "difficulty": 0,
+    "text": "Mixed minions. Surprise damage. Swarm. Badoon trait interaction. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Cosmic Creatures ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["menagerie_medley"],
+    "difficulty": 1,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Taxi to Asteroid-M",
+    "nbmodular": 1,
+    "modular_set_codes": ["acolytes"],
+    "difficulty": 1,
+    "text": "Mixed minions. Teamwork.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Gorram Reavers ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["reavers"],
+    "difficulty": 2,
+    "text": "Mixed minions. Teamwork.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Brotherhood of the Moon",
+    "nbmodular": 2,
+    "modular_set_codes": ["blue_moon", "gravitational_pull"],
+    "difficulty": 3,
+    "text": "Anti-Rush. Mixed minions. Teamwork. Boss minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Badoon Platoon ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["band_of_badoon", "badoon_headhunter"],
+    "difficulty": 4,
+    "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Crashed On Dagobah",
+    "nbmodular": 2,
+    "modular_set_codes": ["telepathy", "black_tom_cassidy"],
+    "difficulty": 4,
+    "text": "Retaliate. Anti-Ally. Anti-Rush. SCH bonus. Overkill. Stuns. Small minions. Quickstrike.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Infinity Drang",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinity_gauntlet", "genosha"],
+    "difficulty": 4,
+    "text": "Steady. Status cards. ATK/SCH bonus. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "Bounty Hunters",
+    "nbmodular": 1,
+    "modular_set_codes": ["mutant_slayers"],
+    "difficulty": -2,
+    "text": "Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "Cosmic Warrior ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["armies_of_titan", "celestial_tech"],
+    "difficulty": -2,
+    "text": "Small minions. Impactful boost abilities. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "Fly Me to the Moon ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["blue_moon"],
+    "difficulty": -1,
+    "text": "Anti-Rush. Teamwork. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "Daughter of Thanos ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["black_order", "children_of_thanos"],
+    "difficulty": -1,
+    "text": "Large minions. Black Order trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "On Loan to Ronan",
+    "nbmodular": 1,
+    "modular_set_codes": ["kree_militant"],
+    "difficulty": -1,
+    "text": "Large minions. Overkill/piercing boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "The Space Police",
+    "nbmodular": 1,
+    "modular_set_codes": ["genosha"],
+    "difficulty": 0,
+    "text": "Steady (keeps Techniques triggering). Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "We Are Surging!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 0,
+    "text": "Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["space_pirates"],
+    "difficulty": 0,
+    "text": "Small minions. Quickstrike. Card removal. Impactful boost abilities (additional boost cards find more Techniques). Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "Technique Time Warp",
+    "nbmodular": 1,
+    "modular_set_codes": ["anachronauts"],
+    "difficulty": 1,
+    "text": "Mixed minions. Impactful boost abilities (additional boost cards find more Techniques).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "Build-A-Groot",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "black_tom_cassidy"],
+    "difficulty": 2,
+    "text": "Steady (keeps Techniques triggering). Anti-Rush. ATK bonus. Small minions. Quickstrike. Stuns.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "Usurped Throne",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinity_gauntlet", "kree_fanatic"],
+    "difficulty": 4,
+    "text": "Steady. ATK/SCH boost. Status cards. Boss minion. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "Ronan the Merciful",
+    "nbmodular": 3,
+    "modular_set_codes": ["goblin_gimmicks", "mutant_slayers", "hope_summers"],
+    "difficulty": -3,
+    "text": "Medium minions. Attachments. Helpful setup ally.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "Kree Sentries ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["sentinels", "zero_tolerance"],
+    "difficulty": -2,
+    "text": "Mixed minions. Sentinel trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "Warhammer 40K",
+    "nbmodular": 1,
+    "modular_set_codes": ["fantasy"],
+    "difficulty": -2,
+    "text": "Mixed minions. Boss minion (Dragon).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "We Are Conquering!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 0,
+    "text": "Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "The Next Generation ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["acolytes"],
+    "difficulty": 0,
+    "text": "Mixed minions. Teamwork.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "Oops, Joined Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 0,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["kree_militant"],
+    "difficulty": 0,
+    "text": "Large minions. Overkill/piercing boost abilities. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "Accuse-onauts",
+    "nbmodular": 1,
+    "modular_set_codes": ["anachronauts"],
+    "difficulty": 2,
+    "text": "Mixed minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "Kree Supremacy",
+    "nbmodular": 2,
+    "modular_set_codes": ["kree_militant", "kree_fanatic"],
+    "difficulty": 3,
+    "text": "Extra attacks. Large minions. Overkill/piercing boost effects.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "Infinity Ronan",
+    "nbmodular": 3,
+    "modular_set_codes": ["infinity_gauntlet", "super_strength", "kree_militant"],
+    "difficulty": 4,
+    "text": "Steady. ATK/SCH boost. Status cards. Large minions. Overkill/piercing boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "A Wizard is Never Early",
+    "nbmodular": 2,
+    "modular_set_codes": ["galactic_artifacts", "fantasy"],
+    "difficulty": -2,
+    "text": "Mixed minions. Boss minion (Dragon). Victory display side schemes. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Master of Puppets",
+    "nbmodular": 2,
+    "modular_set_codes": ["trickster_magic", "shadow_king"],
+    "difficulty": -1,
+    "text": "Large minions. Gives allies. Steals allies. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["armies_of_titan", "children_of_thanos"],
+    "difficulty": 0,
+    "text": "Mixed minions. Impactful boost abilities. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Forbidden Sorcery",
+    "nbmodular": 2,
+    "modular_set_codes": ["legions_of_hel", "horror"],
+    "difficulty": 1,
+    "text": "Mixed minions. Quickstrike environment. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Conjured Creatures ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["temporal", "menagerie_medley"],
+    "difficulty": 1,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Status cards.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "New Followers",
+    "nbmodular": 2,
+    "modular_set_codes": ["acolytes", "celestial_tech"],
+    "difficulty": 1,
+    "text": "Mixed minions. Teamwork. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Ancient Magic",
+    "nbmodular": 2,
+    "modular_set_codes": ["clan_akkaba", "personal_nightmare"],
+    "difficulty": 1,
+    "text": "Mixed minions. Adds threat. Huge side scheme. Discards. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Insidious Whispers",
+    "nbmodular": 2,
+    "modular_set_codes": ["enchantress", "whispers_of_paranoia"],
+    "difficulty": 1,
+    "text": "Anti-Rush. Sends alter-ego. Steals allies. Nemesis interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Emperor Palpatine",
+    "nbmodular": 3,
+    "modular_set_codes": ["telepathy", "zzzax", "power_drain"],
+    "difficulty": 1,
+    "text": "Retaliate. Anti-Ally. SCH bonus. Treacheries. Mills encounter deck. Punishes energy resources.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Oops, Joined Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 2,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Warcaster",
+    "nbmodular": 2,
+    "modular_set_codes": ["genosha", "under_attack"],
+    "difficulty": 2,
+    "text": "Steady. Anti-Ally. Surprise damage. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Dark Side of the Moon ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["extreme_risk", "blue_moon"],
+    "difficulty": 3,
+    "text": "Anti-Rush. Teamwork. Mixed minions. Boss minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "We Are Strong!",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "symbiotic_strength"],
+    "difficulty": 3,
+    "text": "Steady. ATK boost. Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Infinite Magic",
+    "nbmodular": 3,
+    "modular_set_codes": ["infinity_gauntlet", "brothers_grimm", "genosha"],
+    "difficulty": 4,
+    "text": "Status cards. ATK/SCH bonus. Mixed minions. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "Down The Rabbit Hole",
+    "nbmodular": 2,
+    "modular_set_codes": ["crazy_gang", "fantasy"],
+    "difficulty": -2,
+    "text": "Mixed minions. Boss minion (Dragon).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["frost_giants", "legions_of_hel"],
+    "difficulty": 0,
+    "text": "Mixed minions. Sends alter-ego. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "Army of Giants",
+    "nbmodular": 2,
+    "modular_set_codes": ["frost_giants", "thor_nemesis"],
+    "difficulty": 1,
+    "text": "Large minions (5x giant-traited). Sends alter-ego. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "Fallen Warriors ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["clan_akkaba", "temporal"],
+    "difficulty": 1,
+    "text": "Mixed minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "Undead Mutants ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["brotherhood", "sauron"],
+    "difficulty": 2,
+    "text": "Mixed minions. Brotherhood trait interaction. Adds mutant theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "Hel on Earth",
+    "nbmodular": 2,
+    "modular_set_codes": ["genosha", "infinites"],
+    "difficulty": 2,
+    "text": "Steady. Anti-Ally (defending). Mixed minions. Adds threat. Adds mutant theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "A Bone To Pick",
+    "nbmodular": 2,
+    "modular_set_codes": ["personal_nightmare", "horror"],
+    "difficulty": 2,
+    "text": "Mixed minions. Victory display side scheme (powers up Hela). Discards. Quickstrike environment. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "The Ice Queen ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["frost_giants", "whiteout"],
+    "difficulty": 3,
+    "text": "Large minions. Boss minion. Stuns. Sends alter-ego. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "Hela From the Other Side ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["menagerie_medley", "guerrilla_tactics"],
+    "difficulty": 3,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Bonuses for multiple enemies. Side schemes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "Bigger and Better",
+    "nbmodular": 2,
+    "modular_set_codes": ["ransacked_armory", "power_of_the_atom"],
+    "difficulty": 3,
+    "text": "Boss minion. Attachments (for Hela's large story minions + Thunderbolt).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "The Victory Dismay",
+    "nbmodular": 2,
+    "modular_set_codes": ["galactic_artifacts", "future_past"],
+    "difficulty": 4,
+    "text": "Victory display side schemes (powers up Hela). Boss minions. Nemesis interaction. Victory display.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "Across the Nine Realms",
+    "nbmodular": 2,
+    "modular_set_codes": ["galactic_artifacts", "fantasy"],
+    "difficulty": -2,
+    "text": "Mixed minions. Boss minion (Dragon). Victory display side schemes. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "The Avengers",
+    "nbmodular": 3,
+    "modular_set_codes": ["temporal", "armies_of_titan", "shadow_king"],
+    "difficulty": -2,
+    "text": "Small minions. Stealing allies. Stuns. Thematic (inspired by the first MCU Avengers movie).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "God of Lies ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["trickster_magic", "whispers_of_paranoia"],
+    "difficulty": -2,
+    "text": "Large minions. Gives allies. Sends alter-ego. Nemesis interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "Framed!",
+    "nbmodular": 2,
+    "modular_set_codes": ["martial_law", "s.h.i.e.l.d."],
+    "difficulty": -1,
+    "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "Illusions of Betrayal",
+    "nbmodular": 2,
+    "modular_set_codes": ["new_avengers", "secret_avengers"],
+    "difficulty": -1,
+    "text": "Medium minions. Teamwork. Impactful boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "No Stone Unturned",
+    "nbmodular": 2,
+    "modular_set_codes": ["genosha", "kree_militant"],
+    "difficulty": 0,
+    "text": "Steady. Mixed minions. Overkill/piercing boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "Oops, Joined Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 0,
+    "text": "Extra attacks (with Infinity Gauntlet). Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "Sinister Servants ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["sinister_assault", "ironspider_sinister"],
+    "difficulty": 0,
+    "text": "Mixed minions (above average). High boost icons. Adds Spider-Man theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "Time Variance Authority",
+    "nbmodular": 3,
+    "modular_set_codes": ["personal_nightmare", "mot", "dystopian_nightmare"],
+    "difficulty": 0,
+    "text": "Mixed minions. Sends alter-ego. Huge side scheme. Side schemes. Adds time theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["frost_giants", "enchantress"],
+    "difficulty": 0,
+    "text": "Anti-Rush. Sends alter-ego. Steals allies. Large minions. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "The Spoils of War",
+    "nbmodular": 2,
+    "modular_set_codes": ["menagerie_medley", "galactic_artifacts"],
+    "difficulty": 1,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Side Schemes. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "Don't Fear the Reaver",
+    "nbmodular": 2,
+    "modular_set_codes": ["reavers", "deathstrike"],
+    "difficulty": 2,
+    "text": "Mixed minions. Reaver trait interaction. Teamwork. Discarding.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "Misery Business",
+    "nbmodular": 2,
+    "modular_set_codes": ["mystique", "space_pirates"],
+    "difficulty": 4,
+    "text": "Small minions. Boss minion. Quickstrike. Card removal. Puts cards in your deck. WARNING: Painful.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "The Reality Stone",
+    "nbmodular": 2,
+    "modular_set_codes": ["temporal", "fantasy"],
+    "difficulty": -2,
+    "text": "Mixed minions. Boss minion (Dragon). Stuns.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Someone to Stun",
+    "nbmodular": 2,
+    "modular_set_codes": ["scientist_supreme", "s.h.i.e.l.d."],
+    "difficulty": -1,
+    "text": "Vulnerable. Mixed minions. Anti-S.H.I.E.L.D.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Space Stone Special",
+    "nbmodular": 2,
+    "modular_set_codes": ["dark_riders", "mutant_insurrection"],
+    "difficulty": 0,
+    "text": "Mixed minions. Minions attack abilities (perfect for the Space Stone). Teamwork.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "New Black Order ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["acolytes", "celestial_tech"],
+    "difficulty": 0,
+    "text": "Mixed minions. Teamwork. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["black_order", "children_of_thanos"],
+    "difficulty": 0,
+    "text": "Large minions. Black Order trait interaction. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "The Thanos Simulation",
+    "nbmodular": 2,
+    "modular_set_codes": ["sci-fi", "power_drain"],
+    "difficulty": 1,
+    "text": "Mixed minions. Discards. Toughness environment.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Galactic Armies ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["armies_of_titan", "band_of_badoon"],
+    "difficulty": 2,
+    "text": "Mixed minions. Swarm. Impactful boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Infinite Infinites",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinites", "celestial_tech"],
+    "difficulty": 2,
+    "text": "Anti-Ally (defending). Small minions. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "We Are Inevitable!",
+    "nbmodular": 2,
+    "modular_set_codes": ["symbiotic_strength", "venom_nemesis"],
+    "difficulty": 2,
+    "text": "Extra attacks. Small minions. Dangerous attacks. Adds Symbiote theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Oops, Took Over Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 2,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Ronan's Forces",
+    "nbmodular": 2,
+    "modular_set_codes": ["kree_militant", "under_attack"],
+    "difficulty": 2,
+    "text": "Anti-Ally. Overkill/piercing boost abilities. Large minions. Surprise damage. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Rip Up Your Deck",
+    "nbmodular": 2,
+    "modular_set_codes": ["space_pirates", "dystopian_nightmare"],
+    "difficulty": 2,
+    "text": "Card removal. Sends alter-ego. Small minions. Quickstrike. Additional boost cards. Side schemes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "The Spoils of War",
+    "nbmodular": 2,
+    "modular_set_codes": ["menagerie_medley", "galactic_artifacts"],
+    "difficulty": 3,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Side Schemes. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Super Thanos",
+    "nbmodular": 3,
+    "modular_set_codes": ["super_strength", "flight", "telepathy"],
+    "difficulty": 4,
+    "text": "Overkill. Retaliate. Steady. Anti-Ally. ATK/SCH bonuses. Overkill/piercing. Pain. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Fair Play ??",
+    "nbmodular": 7,
+    "modular_set_codes": ["hydra_assault", "temporal", "armies_of_titan", "black_order", "fantasy", "mutant_insurrection", "a_i_m._science"],
+    "difficulty": -2,
+    "text": "Mixed minions. Modular sets within the easier 50%.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Dark Magic",
+    "nbmodular": 7,
+    "modular_set_codes": ["horror", "fantasy", "legions_of_hel", "trickster_magic", "enchantress", "shadow_king", "scarlet_witch_nemesis"],
+    "difficulty": -1,
+    "text": "Mixed minions. Adds magic/horror theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Avenged Sevenfold",
+    "nbmodular": 7,
+    "modular_set_codes": ["new_avengers", "secret_avengers", "mighty_avengers", "young_avengers", "the_initiative", "defenders", "spider_man_modular"],
+    "difficulty": -1,
+    "text": "Mixed minions. Avenger trait interaction. Adds superhero theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Criminal Empire ??",
+    "nbmodular": 7,
+    "modular_set_codes": ["sinister_syndicate", "ironspider_sinister", "space_pirates", "down_to_earth", "crazy_gang", "crime", "state_of_emergency"],
+    "difficulty": 0,
+    "text": "Mixed minions. Criminal trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Trick or Treat",
+    "nbmodular": 7,
+    "modular_set_codes": ["ship_command", "hope_summers", "longshot", "goblin_gimmicks", "horror", "brothers_grimm", "goblin_gear"],
+    "difficulty": 0,
+    "text": "Attachments. Mix of easy and difficult sets.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Masters of Evil United",
+    "nbmodular": 7,
+    "modular_set_codes": ["masters_of_evil", "sinister_syndicate", "crossfire_crew", "beasty_boys", "mister_hyde", "brothers_grimm", "shuri_nemesis"],
+    "difficulty": 0,
+    "text": "Mixed minions. Master of Evil trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Hydra Battalion",
+    "nbmodular": 7,
+    "modular_set_codes": ["bomb_scare", "legions_of_hydra", "weap_master", "hydra_assault", "hydra_patrol", "captain_america_nemesis", "winter_soldier_nemesis"],
+    "difficulty": 0,
+    "text": "Mixed minions. Hydra trait interaction. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Anti-Rush Brigade",
+    "nbmodular": 7,
+    "modular_set_codes": ["black_tom_cassidy", "enchantress", "hydra_patrol", "a_mess_of_things", "infinites", "hounds", "blue_moon"],
+    "difficulty": 1,
+    "text": "Mixed minions. Anti-Rush.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "A Galaxy Far, Far Away",
+    "nbmodular": 7,
+    "modular_set_codes": ["band_of_badoon", "kree_militant", "menagerie_medley", "children_of_thanos", "black_order", "armies_of_titan", "sci-fi"],
+    "difficulty": 2,
+    "text": "Mixed minions. Swarm. Adds space theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Build-A-Hood Workshop",
+    "nbmodular": 7,
+    "modular_set_codes": ["infinity_gauntlet", "flight", "super_strength", "telepathy", "genosha", "savage_land", "blue_moon"],
+    "difficulty": 4,
+    "text": "Keywords. ATK/SCH boosts. Attachments. Environments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Thunderbolts Are Go",
+    "nbmodular": 7,
+    "modular_set_codes": ["gravitational_pull", "hard_sound", "power_of_the_atom", "pale_little_spider", "extreme_risk", "techno", "whiteout"],
+    "difficulty": 4,
+    "text": "Boss minions. Highly likely to have an Elite Thunderbolt minion enter play early.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "Mad Titan's Army",
+    "nbmodular": 2,
+    "modular_set_codes": ["armies_of_titan", "black_order"],
+    "difficulty": 0,
+    "text": "Mixed minions. Black order interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["armies_of_titan"],
+    "difficulty": 0,
+    "text": "Small minions. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "The Wrong Tower",
+    "nbmodular": 1,
+    "modular_set_codes": ["genosha"],
+    "difficulty": 1,
+    "text": "Steady. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "The Boys Are Back In Town",
+    "nbmodular": 2,
+    "modular_set_codes": ["beasty_boys", "nasty_boys"],
+    "difficulty": 1,
+    "text": "Mixed minions. Status cards. Teamwork.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "Oops, Joined a Cult",
+    "nbmodular": 1,
+    "modular_set_codes": ["clan_akkaba"],
+    "difficulty": 1,
+    "text": "Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "We are Plural!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 1,
+    "text": "Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "Oops, Joined Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 1,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "Proxima's New Genes",
+    "nbmodular": 1,
+    "modular_set_codes": ["infinites"],
+    "difficulty": 1,
+    "text": "Anti-Ally (defending). Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "Corvus Starts a Band ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["band_of_badoon"],
+    "difficulty": 2,
+    "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "Anti-Mutant Army",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinites", "genosha"],
+    "difficulty": 2,
+    "text": "Steady. Anti-Ally (defending). Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "The Perfect Couple ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["guerrilla_tactics"],
+    "difficulty": 3,
+    "text": "Bonuses for multiple enemies. Side schemes. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "Tower of Pain",
+    "nbmodular": 2,
+    "modular_set_codes": ["pale_little_spider", "legions_of_hydra"],
+    "difficulty": 4,
+    "text": "Mixed minions. Boss minion. Damage reflect.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "Boost Card Bonanza",
+    "nbmodular": 2,
+    "modular_set_codes": ["hard_sound", "anachronauts"],
+    "difficulty": 4,
+    "text": "Mixed minions. Boss minion. Additional boost cards.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Incredible Illusions",
+    "nbmodular": 1,
+    "modular_set_codes": ["temporal"],
+    "difficulty": -2,
+    "text": "Small minions. Stuns. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Friend or Foe?",
+    "nbmodular": 1,
+    "modular_set_codes": ["trickster_magic"],
+    "difficulty": -2,
+    "text": "Large minions. Gives allies. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Visions of Despair",
+    "nbmodular": 1,
+    "modular_set_codes": ["dystopian_nightmare"],
+    "difficulty": -2,
+    "text": "Sends alter-ego. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Framed!",
+    "nbmodular": 1,
+    "modular_set_codes": ["s.h.i.e.l.d."],
+    "difficulty": -1,
+    "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Doom's Brigade",
+    "nbmodular": 1,
+    "modular_set_codes": ["batroc's_brigade"],
+    "difficulty": -1,
+    "text": "Medium minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Martial Mirages",
+    "nbmodular": 1,
+    "modular_set_codes": ["weap_master"],
+    "difficulty": -1,
+    "text": "Extra attacks (more illusions in your deck).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Twisted Funfair ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["arcade"],
+    "difficulty": -1,
+    "text": "Side schemes. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Illusions of Betrayal",
+    "nbmodular": 2,
+    "modular_set_codes": ["new_avengers", "secret_avengers"],
+    "difficulty": -1,
+    "text": "Medium minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Special Effects Expert",
+    "nbmodular": 1,
+    "modular_set_codes": ["fantasy"],
+    "difficulty": 0,
+    "text": "Environments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["whispers_of_paranoia"],
+    "difficulty": 0,
+    "text": "Illusion trait. Sends alter-ego. Nemesis interaction. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "We Are Mysterious!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 1,
+    "text": "Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "The Sinister Seven ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["sinister_assault"],
+    "difficulty": 1,
+    "text": "Large minions. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Jurassic World",
+    "nbmodular": 1,
+    "modular_set_codes": ["savage_land"],
+    "difficulty": 1,
+    "text": "Retaliate. Discards. Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "The Illusionists",
+    "nbmodular": 1,
+    "modular_set_codes": ["enchantress"],
+    "difficulty": 2,
+    "text": "Anti-Rush. Sends alter-ego. Steals allies. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Mind Games",
+    "nbmodular": 1,
+    "modular_set_codes": ["telepathy"],
+    "difficulty": 3,
+    "text": "Retaliate. Anti-Ally. SCH bonus. Overkill.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Deja Vu",
+    "nbmodular": 1,
+    "modular_set_codes": ["mystique"],
+    "difficulty": 4,
+    "text": "Boss minion. Puts cards in your deck.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "Quicksand ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["power_drain"],
+    "difficulty": 0,
+    "text": "Treacheries. Mills encounter deck.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["down_to_earth"],
+    "difficulty": 0,
+    "text": "Sends alter-ego. Small minions. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "That Sinking Feeling",
+    "nbmodular": 1,
+    "modular_set_codes": ["masters_of_evil"],
+    "difficulty": 1,
+    "text": "Mixed minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "We Are Sandy!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 2,
+    "text": "Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "The Sandman Cometh",
+    "nbmodular": 1,
+    "modular_set_codes": ["personal_nightmare"],
+    "difficulty": 2,
+    "text": "Huge side scheme. 2x Medium minions. Adds nightmare theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "Oops, Joined a Cult ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["clan_akkaba"],
+    "difficulty": 2,
+    "text": "Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "Sandpaper",
+    "nbmodular": 1,
+    "modular_set_codes": ["under_attack"],
+    "difficulty": 2,
+    "text": "Anti-Ally. Surprise damage.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "The Sinister Seven",
+    "nbmodular": 1,
+    "modular_set_codes": ["sinister_assault"],
+    "difficulty": 3,
+    "text": "Large minions. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "Debris Storm",
+    "nbmodular": 2,
+    "modular_set_codes": ["wrecking_crew", "streets_of_mayhem"],
+    "difficulty": 3,
+    "text": "Large minions. Changing environments. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "Oops, Joined Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 3,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "The Sands of Time",
+    "nbmodular": 1,
+    "modular_set_codes": ["anachronauts"],
+    "difficulty": 3,
+    "text": "Mixed minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "Concrete Fists",
+    "nbmodular": 2,
+    "modular_set_codes": ["mutant_insurrection", "extreme_risk"],
+    "difficulty": 4,
+    "text": "Mixed minions. Boss minion. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "Snowman ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["frost_giants", "whiteout"],
+    "difficulty": 4,
+    "text": "Mixed minions. Boss minion. Stuns. Sends alter-ego.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "Dune Sea Desperadoes",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "sinister_syndicate"],
+    "difficulty": 4,
+    "text": "Steady. ATK boost. Medium minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "I Don't Like Sand",
+    "nbmodular": 2,
+    "modular_set_codes": ["telepathy", "genosha"],
+    "difficulty": 4,
+    "text": "Steady. Retaliate. Anti-Ally. SCH bonus. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "Hive of Scum & Villainy",
+    "nbmodular": 1,
+    "modular_set_codes": ["down_to_earth"],
+    "difficulty": -1,
+    "text": "Small minions. Sends alter-ego. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "Reptilian Recruit",
+    "nbmodular": 1,
+    "modular_set_codes": ["ghost_spider_nemesis"],
+    "difficulty": -1,
+    "text": "Large minion. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "A Rolling Stone",
+    "nbmodular": 1,
+    "modular_set_codes": ["running_interference"],
+    "difficulty": -1,
+    "text": "Boss minion. Sends alter-ego. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "Nowhere to Hide ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["dystopian_nightmare"],
+    "difficulty": -1,
+    "text": "Sends alter-ego. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "Running with Rhino",
+    "nbmodular": 1,
+    "modular_set_codes": ["city_in_chaos"],
+    "difficulty": 0,
+    "text": "Large minion. Acceleration tokens. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "Mutant Ambush",
+    "nbmodular": 1,
+    "modular_set_codes": ["genosha"],
+    "difficulty": 1,
+    "text": "Steady. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "We are Plural!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 1,
+    "text": "Extra attacks. Dangerous attacks. Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "Really, Really Sinister",
+    "nbmodular": 1,
+    "modular_set_codes": ["sinister_syndicate"],
+    "difficulty": 1,
+    "text": "Medium minions. Boost effects. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "Coordinated Crime",
+    "nbmodular": 1,
+    "modular_set_codes": ["state_of_emergency"],
+    "difficulty": 2,
+    "text": "Side schemes. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Midnight Suns I",
+    "nbmodular": 1,
+    "modular_set_codes": ["bomb_scare"],
+    "difficulty": -1,
+    "text": "Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Symbiote Swarm ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["venom_nemesis"],
+    "difficulty": 0,
+    "text": "Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Twisted Timewarp",
+    "nbmodular": 1,
+    "modular_set_codes": ["temporal"],
+    "difficulty": 0,
+    "text": "Small minions. Stuns.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["down_to_earth"],
+    "difficulty": 0,
+    "text": "Sends alter-ego. Small minions.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Midnight Suns II",
+    "nbmodular": 1,
+    "modular_set_codes": ["hydra_patrol"],
+    "difficulty": 1,
+    "text": "Small minions. Reveals more of his cards.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Steady Eddie",
+    "nbmodular": 2,
+    "modular_set_codes": ["genosha", "celestial_tech"],
+    "difficulty": 2,
+    "text": "Steady. Mixed minions. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Oops, Ate A Cult",
+    "nbmodular": 1,
+    "modular_set_codes": ["clan_akkaba"],
+    "difficulty": 1,
+    "text": "Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "The Sinister Seven",
+    "nbmodular": 1,
+    "modular_set_codes": ["sinister_assault"],
+    "difficulty": 2,
+    "text": "Large minions. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Brock 'N' Roll Band ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["band_of_badoon"],
+    "difficulty": 2,
+    "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "The Lethal Attacker",
+    "nbmodular": 1,
+    "modular_set_codes": ["kree_militant"],
+    "difficulty": 2,
+    "text": "Large minions. Overkill/piercing boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Timely Revenge ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["anachronauts"],
+    "difficulty": 3,
+    "text": "Mixed minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Symbiotic Tendrils",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "black_tom_cassidy"],
+    "difficulty": 3,
+    "text": "Anti-Rush. Steady. ATK boost. Stuns. Quickstrike. Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Knull's Lullaby",
+    "nbmodular": 2,
+    "modular_set_codes": ["children_of_thanos", "hard_sound"],
+    "difficulty": 4,
+    "text": "Large minions. Boss minion. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Now We're REALLY Angry!",
+    "nbmodular": 3,
+    "modular_set_codes": ["anachronauts", "space_pirates", "hard_sound"],
+    "difficulty": 4,
+    "text": "Mixed minions. Impactful boost abilities. Quickstrike. Boss minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom_goblin",
+    "title": "Classic Goblin ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["goblin_gimmicks"],
+    "difficulty": -3,
+    "text": "Attachments. Treacheries.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom_goblin",
+    "title": "Symbiote Swarm ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["venom_nemesis"],
+    "difficulty": -2,
+    "text": "Small minions. Impactful boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom_goblin",
+    "title": "Rogues' Gallery",
+    "nbmodular": 1,
+    "modular_set_codes": ["sinister_assault"],
+    "difficulty": -1,
+    "text": "Large minions. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom_goblin",
+    "title": "A City on Fire",
+    "nbmodular": 1,
+    "modular_set_codes": ["state_of_emergency"],
+    "difficulty": -1,
+    "text": "Side schemes. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom_goblin",
+    "title": "Symbiotic Tendrils",
+    "nbmodular": 1,
+    "modular_set_codes": ["black_tom_cassidy"],
+    "difficulty": -1,
+    "text": "Anti-Rush. Stuns. Quickstrike. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom_goblin",
+    "title": "Oops, Ate Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 0,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom_goblin",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["goblin_gear"],
+    "difficulty": 0,
+    "text": "Extra activations. Attachments. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "venom_goblin",
+    "title": "Oscorp Unleashed",
+    "nbmodular": 1,
+    "modular_set_codes": ["osborn_tech"],
+    "difficulty": 2,
+    "text": "Attachments. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "venom_goblin",
+    "title": "Nightmare Goblin",
+    "nbmodular": 3,
+    "modular_set_codes": ["infinity_gauntlet", "super_strength", "goblin_gear"],
+    "difficulty": 4,
+    "text": "Steady. Status cards. ATK/SCH bonus. Extra activations. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "Marauder Clones",
+    "nbmodular": 1,
+    "modular_set_codes": ["mutant_slayers"],
+    "difficulty": -2,
+    "text": "Medium minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "Mass Sentinel Production ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["sentinels", "zero_tolerance"],
+    "difficulty": -2,
+    "text": "Mixed minions. Sentinel trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "Electromagnetic Pulse",
+    "nbmodular": 1,
+    "modular_set_codes": ["power_drain"],
+    "difficulty": -2,
+    "text": "Treacheries. Mills encounter deck. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "Homo Superior",
+    "nbmodular": 1,
+    "modular_set_codes": ["extreme_measures"],
+    "difficulty": -1,
+    "text": "Mixed minions. Enter play abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "The Gang's All Here ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["brotherhood"],
+    "difficulty": -1,
+    "text": "Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "Aco-Lites",
+    "nbmodular": 1,
+    "modular_set_codes": ["magneto_nemesis"],
+    "difficulty": -1,
+    "text": "Mixed minions. Discards. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "Vanity Project",
+    "nbmodular": 1,
+    "modular_set_codes": ["sci_fi"],
+    "difficulty": 0,
+    "text": "Includes robotic Magneto minion. Mixed minions. Toughness environment. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "No Stone Unturned",
+    "nbmodular": 1,
+    "modular_set_codes": ["kree_militant"],
+    "difficulty": 0,
+    "text": "Large minions. Overkill/piercing boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["acolytes"],
+    "difficulty": 0,
+    "text": "Mixed minions. Teamwork. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "We Are Magnetic!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 1,
+    "text": "Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "The Creator",
+    "nbmodular": 1,
+    "modular_set_codes": ["savage_land"],
+    "difficulty": 1,
+    "text": "Retaliate. Discards. Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "Oops, Joined Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 2,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "Asteroid-H",
+    "nbmodular": 1,
+    "modular_set_codes": ["legions_of_hydra"],
+    "difficulty": 3,
+    "text": "Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "Acolytes United",
+    "nbmodular": 2,
+    "modular_set_codes": ["acolytes", "exodus"],
+    "difficulty": 4,
+    "text": "Mixed minions. Boss minion. Teamwork. Status cards. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "Adoring Fans",
+    "nbmodular": 3,
+    "modular_set_codes": ["hope_summers", "longshot", "mutant_slayers"],
+    "difficulty": -3,
+    "text": "Helpful setup ally. Occasionally gives you another helpful ally. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "Killing Time",
+    "nbmodular": 1,
+    "modular_set_codes": ["temporal"],
+    "difficulty": -2,
+    "text": "Small minions. Stuns.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "Are You Not Entertained?",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "celestial_tech"],
+    "difficulty": 0,
+    "text": "Extra attacks. Attachments. No minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "Gladiators United ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["blue_moon"],
+    "difficulty": 0,
+    "text": "Anti-Rush. Teamwork. Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "No Stone Unturned",
+    "nbmodular": 1,
+    "modular_set_codes": ["kree_militant"],
+    "difficulty": 0,
+    "text": "Large minions. Overkill/piercing boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["fantasy"],
+    "difficulty": 0,
+    "text": "Random MojoMania environment. (Fantasy/Sci-Fi/Horror).",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "We Are Gog!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 1,
+    "text": "Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "Genoshan Colosseum",
+    "nbmodular": 1,
+    "modular_set_codes": ["genosha"],
+    "difficulty": 1,
+    "text": "Steady. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "Jurassic World",
+    "nbmodular": 1,
+    "modular_set_codes": ["savage_land"],
+    "difficulty": 1,
+    "text": "Retaliate. Discards. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "The Hunger Games ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["acolytes"],
+    "difficulty": 2,
+    "text": "Mixed minions. Teamwork.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "The Grand Champion",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "under_attack"],
+    "difficulty": 3,
+    "text": "Steady. No minions added. ATK boost. Anti-Ally. Surprise damage. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "Boss Arena",
+    "nbmodular": 2,
+    "modular_set_codes": ["growing_strong", "extreme_risk"],
+    "difficulty": 4,
+    "text": "2x Boss minions. Treacheries.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "Gatecrashers",
+    "nbmodular": 1,
+    "modular_set_codes": ["mutant_slayers"],
+    "difficulty": -3,
+    "text": "Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "Mansion Mayhem",
+    "nbmodular": 1,
+    "modular_set_codes": ["streets_of_mayhem"],
+    "difficulty": -2,
+    "text": "Changing environment. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "Bad Neighborhood ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["genosha"],
+    "difficulty": -2,
+    "text": "Steady. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "Mansion Demolition",
+    "nbmodular": 1,
+    "modular_set_codes": ["wrecking_crew_modular"],
+    "difficulty": -1,
+    "text": "Large minions. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "Otherhood #1",
+    "nbmodular": 1,
+    "modular_set_codes": ["rogue_nemesis"],
+    "difficulty": -1,
+    "text": "Large minion. Brotherhood trait interaction. Puts cards in your deck.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "Otherhood #2 ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["sci_fi"],
+    "difficulty": -1,
+    "text": "Mixed minions. Toughness environment. 2x Brotherhood characters.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "Otherhood #3",
+    "nbmodular": 1,
+    "modular_set_codes": ["sauron"],
+    "difficulty": -1,
+    "text": "Large minion. Brotherhood trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "We Are Plural!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": -1,
+    "text": "Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["mystique"],
+    "difficulty": 0,
+    "text": "Boss minion. Puts cards in your deck. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "Family Reunion",
+    "nbmodular": 1,
+    "modular_set_codes": ["colossus_nemesis"],
+    "difficulty": 1,
+    "text": "Overkill/piercing. Large minion. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "The Professor's Chair",
+    "nbmodular": 1,
+    "modular_set_codes": ["the_doomsday_chair"],
+    "difficulty": 1,
+    "text": "Large minion. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "Passing the Torch",
+    "nbmodular": 1,
+    "modular_set_codes": ["infinity_gauntlet"],
+    "difficulty": 1,
+    "text": "Status cards. ATK/SCH bonus. Infinity Gauntlet passes between villains.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mansion_attack",
+    "title": "Motherboard of Evil Mutants",
+    "nbmodular": 1,
+    "modular_set_codes": ["future_past"],
+    "difficulty": 2,
+    "text": "Boss minions. Victory display. High boost icons. Nemesis interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "master_mold",
+    "title": "High Voltage",
+    "nbmodular": 1,
+    "modular_set_codes": ["power_drain"],
+    "difficulty": -1,
+    "text": "Treacheries. Mills encounter deck. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "master_mold",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["zero_tolerance"],
+    "difficulty": 0,
+    "text": "Mixed minions. Sentinel trait interaction. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "master_mold",
+    "title": "Someone to Stun ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["scientist_supreme", "s.h.i.e.l.d."],
+    "difficulty": 1,
+    "text": "Mixed minions. Vulnerable. Anti-S.H.I.E.L.D.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "master_mold",
+    "title": "No Laughing Matter",
+    "nbmodular": 1,
+    "modular_set_codes": ["sitcom"],
+    "difficulty": 2,
+    "text": "Sends alter-ego (brings in minions here). Obligations.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "master_mold",
+    "title": "Programmed Robots ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["sci_fi"],
+    "difficulty": 2,
+    "text": "Mixed minions. Toughness environment. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "master_mold",
+    "title": "Master Mind",
+    "nbmodular": 2,
+    "modular_set_codes": ["telepathy", "zero_tolerance"],
+    "difficulty": 3,
+    "text": "Retaliate. Anti-Ally. SCH bonus. Sends alter-ego. Overkill. Sentinel interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "master_mold",
+    "title": "Sentinel-IV",
+    "nbmodular": 2,
+    "modular_set_codes": ["supersonic", "zero_tolerance"],
+    "difficulty": 3,
+    "text": "Mixed minions. Sentinel trait interaction. Overkill. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "master_mold",
+    "title": "New Hardware",
+    "nbmodular": 1,
+    "modular_set_codes": ["osborn_tech"],
+    "difficulty": 4,
+    "text": "Attachments. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "master_mold",
+    "title": "Big Happy Robot Family",
+    "nbmodular": 2,
+    "modular_set_codes": ["future_past", "zero_tolerance"],
+    "difficulty": 4,
+    "text": "Mixed minions. Boss minions. Victory display. Sentinel interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "master_mold",
+    "title": "Nano-Tech Online",
+    "nbmodular": 1,
+    "modular_set_codes": ["future_past"],
+    "difficulty": 4,
+    "text": "Boss minions. Victory display. High boost icons. Nemesis interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mojo",
+    "title": "Mojo's Worst Critic",
+    "nbmodular": 1,
+    "modular_set_codes": ["hope_summers"],
+    "difficulty": -2,
+    "text": "Helpful setup ally.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mojo",
+    "title": "Campaign Mode",
+    "nbmodular": 1,
+    "modular_set_codes": ["longshot"],
+    "difficulty": -1,
+    "text": "Occasionally gives you a helpful ally.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mojo",
+    "title": "Fast Forward ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["power_drain"],
+    "difficulty": 3,
+    "text": "Mills encounter deck. Treacheries.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mojo",
+    "title": "Red Right Hand",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinity_gauntlet", "super_strength"],
+    "difficulty": 4,
+    "text": "Steady. Status cards. ATK/SCH bonus. Space Stone discards encounter deck.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "Round Them Up ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["military_grade"],
+    "difficulty": -1,
+    "text": "Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "High Voltage",
+    "nbmodular": 1,
+    "modular_set_codes": ["power_drain"],
+    "difficulty": -1,
+    "text": "Treacheries. Mills encounter deck. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "No Laughing Matter",
+    "nbmodular": 1,
+    "modular_set_codes": ["sitcom"],
+    "difficulty": 0,
+    "text": "Sends alter-ego (harder solo). Obligations.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["sentinels"],
+    "difficulty": 0,
+    "text": "Large minions. Sentinel trait interaction. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "Run For Your Lives",
+    "nbmodular": 1,
+    "modular_set_codes": ["a_i_m._abduction"],
+    "difficulty": 1,
+    "text": "Anti-Ally. Steals allies. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "Anti-Mutant Pact ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["genosha"],
+    "difficulty": 1,
+    "text": "Steady. Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "00PS, J01N3D A Cult",
+    "nbmodular": 1,
+    "modular_set_codes": ["clan_akkaba"],
+    "difficulty": 2,
+    "text": "Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "Predictive Algorithm",
+    "nbmodular": 2,
+    "modular_set_codes": ["telepathy", "sci_fi"],
+    "difficulty": 3,
+    "text": "Retaliate. Anti-Ally. SCH bonus. Overkill. Mixed minions. Toughness environment.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "Dark Future",
+    "nbmodular": 2,
+    "modular_set_codes": ["future_past", "dystopian_nightmare"],
+    "difficulty": 4,
+    "text": "Boss minions. Sends alter-ego. Victory display. Nemesis interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "Big Happy Robot Family",
+    "nbmodular": 2,
+    "modular_set_codes": ["future_past", "sentinels"],
+    "difficulty": 4,
+    "text": "Boss minions. Victory display. High boost icons. Nemesis interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "New Hardware",
+    "nbmodular": 1,
+    "modular_set_codes": ["osborn_tech"],
+    "difficulty": 4,
+    "text": "Attachments. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Big Healer",
+    "nbmodular": 2,
+    "modular_set_codes": ["mutant_insurrection", "streets_of_mayhem"],
+    "difficulty": -1,
+    "text": "Mixed minions. Changing environment. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Criminal World ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["ironspider_sinister", "down_to_earth"],
+    "difficulty": -1,
+    "text": "Mixed minions. Sends alter-ego. Criminal trait interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Otherhood #1",
+    "nbmodular": 2,
+    "modular_set_codes": ["brotherhood", "rogue_nemesis"],
+    "difficulty": -1,
+    "text": "Mixed minions. Brotherhood trait interaction. Puts cards in your deck.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Otherhood #2 ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["brotherhood", "sci_fi"],
+    "difficulty": -1,
+    "text": "Mixed minions. Toughness environment. 2x Brotherhood characters.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Otherhood #3",
+    "nbmodular": 2,
+    "modular_set_codes": ["brotherhood", "sauron"],
+    "difficulty": 0,
+    "text": "Mixed minions. Brotherhood trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Mutant Mayhem",
+    "nbmodular": 2,
+    "modular_set_codes": ["genosha", "infinites"],
+    "difficulty": 1,
+    "text": "Steady. Anti-Ally. Mixed minions. Adds threat. Adds mutant theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["brotherhood", "mystique"],
+    "difficulty": 0,
+    "text": "Mixed minions. Boss minion. Puts cards in your deck. Brotherhood trait interaction.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Oops, Joined Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 1,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Don't Fear the Reaver",
+    "nbmodular": 2,
+    "modular_set_codes": ["reavers", "deathstrike"],
+    "difficulty": 2,
+    "text": "Mixed minions. Reaver trait interaction. Teamwork. Discarding.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Assassin's Creed",
+    "nbmodular": 2,
+    "modular_set_codes": ["gambit_nemesis", "arcade"],
+    "difficulty": 2,
+    "text": "Mixed minions. Quickstrike. Side schemes. Assassin trait interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Single-Minded Fury",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "under_attack"],
+    "difficulty": 3,
+    "text": "Steady. Anti-Ally. No minions. Surprise damage. ATK boost.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "sabretooth",
+    "title": "Biggest Healer",
+    "nbmodular": 2,
+    "modular_set_codes": ["sinister_assault", "osborn_tech"],
+    "difficulty": 4,
+    "text": "Attachments. High boost icons. Adds Spider-Man theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "spiral",
+    "title": "Freerunning",
+    "nbmodular": 1,
+    "modular_set_codes": ["streets_of_mayhem"],
+    "difficulty": 0,
+    "text": "Changing environment. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "spiral",
+    "title": "Steady As She Goes",
+    "nbmodular": 1,
+    "modular_set_codes": ["genosha"],
+    "difficulty": 1,
+    "text": "Steady. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "spiral",
+    "title": "Stage Fright ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["black_tom_cassidy"],
+    "difficulty": 1,
+    "text": "Anti-Rush. Stuns. Quickstrike. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "spiral",
+    "title": "Sisterhood of Mutants #1",
+    "nbmodular": 1,
+    "modular_set_codes": ["deathstrike"],
+    "difficulty": 1,
+    "text": "Large minion. Discarding. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "spiral",
+    "title": "Sisterhood of Mutants #2",
+    "nbmodular": 1,
+    "modular_set_codes": ["enchantress"],
+    "difficulty": 1,
+    "text": "Anti-Rush. Sends alter-ego. Steals allies. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "spiral",
+    "title": "We Are Fleeing!",
+    "nbmodular": 1,
+    "modular_set_codes": ["symbiotic_strength"],
+    "difficulty": 2,
+    "text": "Extra attacks. Dangerous attacks. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "The Once & Future Juggs",
+    "nbmodular": 1,
+    "modular_set_codes": ["temporal"],
+    "difficulty": -2,
+    "text": "Small minions. Stuns.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Princess Hope",
+    "nbmodular": 1,
+    "modular_set_codes": ["fantasy"],
+    "difficulty": -2,
+    "text": "Mixed minions. Boss minion (Dragon).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Sinister's Plan ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["mutant_slayers", "military_grade"],
+    "difficulty": -2,
+    "text": "Medium minions. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Brotherhood Infiltration",
+    "nbmodular": 1,
+    "modular_set_codes": ["brotherhood"],
+    "difficulty": -1,
+    "text": "Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Astronauts & Juggernauts",
+    "nbmodular": 1,
+    "modular_set_codes": ["kree_militant"],
+    "difficulty": 0,
+    "text": "Large minions. Overkill/piercing boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Enemy Of My Enemy",
+    "nbmodular": 1,
+    "modular_set_codes": ["acolytes"],
+    "difficulty": 0,
+    "text": "Mixed minions. Teamwork.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Icebreaker",
+    "nbmodular": 1,
+    "modular_set_codes": ["frost_giants"],
+    "difficulty": 0,
+    "text": "Sends alter-ego. Large minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Smash Bros ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["wrecking_crew_modular"],
+    "difficulty": 0,
+    "text": "Large minions. High boost icons. Brute synergy.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Anachro-Juggernauts",
+    "nbmodular": 1,
+    "modular_set_codes": ["anachronauts"],
+    "difficulty": 1,
+    "text": "Mixed minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Thunderbolts Are Go",
+    "nbmodular": 2,
+    "modular_set_codes": ["thunderbolts", "gravitational_pull"],
+    "difficulty": 2,
+    "text": "Boss minion. Medium minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Ready to Rumble",
+    "nbmodular": 1,
+    "modular_set_codes": ["legions_of_hydra"],
+    "difficulty": 3,
+    "text": "Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "juggernaut",
+    "title": "Non-Stop Removal",
+    "nbmodular": 1,
+    "modular_set_codes": ["osborn_tech"],
+    "difficulty": 4,
+    "text": "Attachments. No minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Marauder's Orders ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["mutant_slayers"],
+    "difficulty": -2,
+    "text": "Medium minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "The Clone Wars",
+    "nbmodular": 1,
+    "modular_set_codes": ["brotherhood"],
+    "difficulty": 0,
+    "text": "Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Genetic Doubles",
+    "nbmodular": 1,
+    "modular_set_codes": ["personal_nightmare"],
+    "difficulty": 0,
+    "text": "Huge side scheme. Discards. 2x medium minions. Thematic (clones).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Toughs and Clones ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["armies_of_titan"],
+    "difficulty": 0,
+    "text": "Small minions. Toughs. Side schemes can bring in clones.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Mister Hydra",
+    "nbmodular": 1,
+    "modular_set_codes": ["hydra_patrol"],
+    "difficulty": 0,
+    "text": "Small minions. Reveals his own cards.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Experimental Armor",
+    "nbmodular": 1,
+    "modular_set_codes": ["armadillo"],
+    "difficulty": 0,
+    "text": "Toughs. Large minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Expanding The Gene Pool",
+    "nbmodular": 1,
+    "modular_set_codes": ["infinites"],
+    "difficulty": 0,
+    "text": "Anti-Ally (defending). Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["nasty_boys"],
+    "difficulty": 0,
+    "text": "Mixed minions. Teamwork. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Big Iron ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["ironspider_sinister"],
+    "difficulty": 1,
+    "text": "Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Sweeping the City",
+    "nbmodular": 2,
+    "modular_set_codes": ["streets_of_mayhem", "hydra_assault"],
+    "difficulty": 1,
+    "text": "Environments combo with Superpower modulars. Small minions. Extra attacks.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Strange Experiments",
+    "nbmodular": 1,
+    "modular_set_codes": ["menagerie_medley"],
+    "difficulty": 2,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "What's Your Status?",
+    "nbmodular": 2,
+    "modular_set_codes": ["acolytes", "celestial_tech"],
+    "difficulty": 2,
+    "text": "Mixed minions. Teamwork. Attachments. Status cards.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Genetic Boosts",
+    "nbmodular": 1,
+    "modular_set_codes": ["anachronauts"],
+    "difficulty": 2,
+    "text": "Mixed minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "When The Going Gets Tough",
+    "nbmodular": 2,
+    "modular_set_codes": ["armies_of_titan", "growing_strong"],
+    "difficulty": 4,
+    "text": "Small minions. Boss minion. Toughs. Side schemes can bring in clones.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "morlock_siege",
+    "title": "Making An Entrance",
+    "nbmodular": 2,
+    "modular_set_codes": ["bomb_scare", "power_drain"],
+    "difficulty": -1,
+    "text": "Small minions. Treacheries. Mills encounter deck.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "morlock_siege",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["military_grade", "mutant_slayers"],
+    "difficulty": 0,
+    "text": "Medium minions. Attachments. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "morlock_siege",
+    "title": "Oops, Joined Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 1,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "morlock_siege",
+    "title": "Run For Your Lives ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["genosha", "dystopian_nightmare"],
+    "difficulty": 1,
+    "text": "Sends alter-ego. Steady. Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "morlock_siege",
+    "title": "Morlock Mayhem",
+    "nbmodular": 2,
+    "modular_set_codes": ["a.i.m._abduction", "under_attack"],
+    "difficulty": 2,
+    "text": "Anti-Ally. Surprise damage. 2x Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "morlock_siege",
+    "title": "Hungry Like The Wolf",
+    "nbmodular": 2,
+    "modular_set_codes": ["horror", "legions_of_hel"],
+    "difficulty": 2,
+    "text": "Mixed minions. Quickstrike environment. Adds horror theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "morlock_siege",
+    "title": "Changing of the Guard",
+    "nbmodular": 2,
+    "modular_set_codes": ["black_tom_cassidy", "infinites"],
+    "difficulty": 2,
+    "text": "Anti-Rush. Anti-Ally (defending). Stuns. Quickstrike. Small minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "morlock_siege",
+    "title": "Under Pressure ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["blue_moon", "growing_strong"],
+    "difficulty": 3,
+    "text": "Anti-Rush. Teamwork. Mixed minions. Boss minion. Treacheries.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "morlock_siege",
+    "title": "Relentless Raiders",
+    "nbmodular": 2,
+    "modular_set_codes": ["telepathy", "frost_giants"],
+    "difficulty": 3,
+    "text": "Retaliate. Anti-Ally. SCH bonus. Overkill. Sends alter-ego. Large minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "morlock_siege",
+    "title": "Boost Card Massacre",
+    "nbmodular": 2,
+    "modular_set_codes": ["anachronauts", "hard_sound"],
+    "difficulty": 4,
+    "text": "Mixed minions. Boss minion. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "Cut The Power",
+    "nbmodular": 2,
+    "modular_set_codes": ["zzzax", "power_drain"],
+    "difficulty": -2,
+    "text": "Treacheries. Mills encounter deck. Punishes energy resources.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "Crime Wave",
+    "nbmodular": 2,
+    "modular_set_codes": ["down_to_earth", "city_in_chaos"],
+    "difficulty": -1,
+    "text": "Mixed minions. Sends alter-ego.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "Twisted Funfair",
+    "nbmodular": 2,
+    "modular_set_codes": ["crazy_gang", "arcade"],
+    "difficulty": 0,
+    "text": "Mixed minions. Side schemes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["military_grade", "nasty_boys"],
+    "difficulty": 0,
+    "text": "Mixed minions. Attachments. Teamwork. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "Space Jam ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["armies_of_titan", "children_of_thanos"],
+    "difficulty": 1,
+    "text": "Mixed minions. Impactful boost abilities. Adds Black Order theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "A Chase Within A Chase",
+    "nbmodular": 2,
+    "modular_set_codes": ["genosha", "celestial_tech"],
+    "difficulty": 1,
+    "text": "Steady. Mixed minions. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "Hydra Armory ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["hydra_patrol", "ransacked_armory"],
+    "difficulty": 1,
+    "text": "Anti-Rush. Mixed minions. Reveals more of their cards. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "Oops, Joined Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 1,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "A State of Mayhem",
+    "nbmodular": 2,
+    "modular_set_codes": ["streets_of_mayhem", "state_of_emergency"],
+    "difficulty": 2,
+    "text": "Side schemes. Changing environment. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "Ultimate Swarm",
+    "nbmodular": 2,
+    "modular_set_codes": ["band_of_badoon", "menagerie_medley"],
+    "difficulty": 3,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Swarm.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "Prehistoric Spider",
+    "nbmodular": 2,
+    "modular_set_codes": ["savage_land", "pale_little_spider"],
+    "difficulty": 4,
+    "text": "Retaliate. Discards. Mixed minions. Boss minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "Warped Timeline",
+    "nbmodular": 2,
+    "modular_set_codes": ["temporal", "dystopian_nightmare"],
+    "difficulty": -1,
+    "text": "Small minions. Sends alter-ego. Stuns. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "Fallen Future ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["sentinels", "zero_tolerance"],
+    "difficulty": -1,
+    "text": "Mixed minions. Sentinel trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "Anti-Mutant Mayhem",
+    "nbmodular": 2,
+    "modular_set_codes": ["military_grade", "genosha"],
+    "difficulty": 0,
+    "text": "Steady. Mixed minions. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["extreme_measures", "mutant_insurrection"],
+    "difficulty": 0,
+    "text": "Mixed minions. Mutant Liberation Front trait interaction. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "Future Forces ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["band_of_badoon", "experimental_weapons"],
+    "difficulty": 1,
+    "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "Back in Time",
+    "nbmodular": 2,
+    "modular_set_codes": ["savage_land", "fantasy"],
+    "difficulty": 2,
+    "text": "Retaliate. Discards. Mixed minions. Boss minion (Dragon). Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "Erase Your Board",
+    "nbmodular": 2,
+    "modular_set_codes": ["sinister_syndicate", "children_of_thanos"],
+    "difficulty": 2,
+    "text": "Mixed minions. Impactful boost abilities. Discards upgrades/supports.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "Chronos Corps",
+    "nbmodular": 2,
+    "modular_set_codes": ["hounds", "mot"],
+    "difficulty": 2,
+    "text": "Mixed minions. Quickstrike. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "Psionic Bastion",
+    "nbmodular": 2,
+    "modular_set_codes": ["exodus", "psylocke_nemesis"],
+    "difficulty": 3,
+    "text": "Boss minion. Large minion. Psionic cards (combos with Stryfe). Status cards.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "A Firm Handshake",
+    "nbmodular": 2,
+    "modular_set_codes": ["extreme_risk", "zzzax"],
+    "difficulty": 3,
+    "text": "Extreme Risk increases hand size. Zzzax punishes energies in hand. Boss minion.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "At Full Power",
+    "nbmodular": 3,
+    "modular_set_codes": ["telepathy", "extreme_measures", "mutant_insurrection"],
+    "difficulty": 4,
+    "text": "Retaliate. Anti-Ally. SCH bonus. Overkill. Mixed minions. Sends alter-ego. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "Ticking Time Bomb",
+    "nbmodular": 2,
+    "modular_set_codes": ["genosha", "power_of_the_atom"],
+    "difficulty": 4,
+    "text": "Steady. Mixed minions. Boss minion. Surprise damage.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "Gifts From The Past ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["temporal", "celestial_tech"],
+    "difficulty": -2,
+    "text": "Small minions. Stuns. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "Mutant Followers",
+    "nbmodular": 2,
+    "modular_set_codes": ["extreme_measures", "mutant_insurrection"],
+    "difficulty": -1,
+    "text": "Mixed minions. Mutant Liberation Front trait interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "Fly Me To The Moon",
+    "nbmodular": 2,
+    "modular_set_codes": ["blue_moon", "armies_of_titan"],
+    "difficulty": -1,
+    "text": "Anti-Rush. Teamwork. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "Upgrading the Troops",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinites", "ransacked_armory"],
+    "difficulty": -1,
+    "text": "Anti-Ally (defending). Small minions. Attachments (for Prelates). Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinites", "dark_riders"],
+    "difficulty": 0,
+    "text": "Anti-Ally (defending). Mixed minions. Teamwork. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "Apocalypse Starts a Band",
+    "nbmodular": 2,
+    "modular_set_codes": ["band_of_badoon", "celestial_tech"],
+    "difficulty": 1,
+    "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "Rally the Troops",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinites", "hydra_patrol"],
+    "difficulty": 1,
+    "text": "Anti-Ally (defending). Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "Empire of Evil Mutants ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["brotherhood", "sauron"],
+    "difficulty": 2,
+    "text": "Mixed minions. Brotherhood trait interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "Ghosts of the Fallen",
+    "nbmodular": 2,
+    "modular_set_codes": ["menagerie_medley", "guerrilla_tactics"],
+    "difficulty": 3,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Confuses. Bonuses for multiple enemies.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "Zealots & Prelates",
+    "nbmodular": 2,
+    "modular_set_codes": ["clan_akkaba", "acolytes"],
+    "difficulty": 3,
+    "text": "Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "apocalypse",
+    "title": "Upgrading Apocalypse",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinites", "techno"],
+    "difficulty": 3,
+    "text": "Anti-Ally (defending). Small minions. Boss minion. Piercing. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "Fresh from the Lab",
+    "nbmodular": 2,
+    "modular_set_codes": ["ransacked_armory", "weap_master"],
+    "difficulty": -2,
+    "text": "Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "Face the Past ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["temporal"],
+    "difficulty": -1,
+    "text": "Small minions. Stuns. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "Osborn's Dark X-Men",
+    "nbmodular": 1,
+    "modular_set_codes": ["s.h.i.e.l.d."],
+    "difficulty": 0,
+    "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 1,
+    "modular_set_codes": ["dystopian_nightmare"],
+    "difficulty": 0,
+    "text": "Sends alter-ego. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "Beasts of a Feather",
+    "nbmodular": 1,
+    "modular_set_codes": ["beasty_boys"],
+    "difficulty": 1,
+    "text": "2x Large minions. Status cards.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "Crimes In Time",
+    "nbmodular": 1,
+    "modular_set_codes": ["crime"],
+    "difficulty": 1,
+    "text": "Side schemes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "Oops, In A Cult",
+    "nbmodular": 1,
+    "modular_set_codes": ["clan_akkaba"],
+    "difficulty": 2,
+    "text": "Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "Dark Beast's Creations",
+    "nbmodular": 1,
+    "modular_set_codes": ["infinites"],
+    "difficulty": 2,
+    "text": "Anti-Ally (defending). Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "Time Lord ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["mot"],
+    "difficulty": 3,
+    "text": "Mixed minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "Terminator",
+    "nbmodular": 1,
+    "modular_set_codes": ["future_past"],
+    "difficulty": 4,
+    "text": "Boss minions. Victory display. High boost icons. Nemesis interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "dark_beast",
+    "title": "Bad Fur Day",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "osborn_tech"],
+    "difficulty": 4,
+    "text": "Steady. ATK bonus. Attachments. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Old Myths",
+    "nbmodular": 2,
+    "modular_set_codes": ["legions_of_hel", "fantasy"],
+    "difficulty": -2,
+    "text": "Mixed minions. Boss minion (Dragon).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Ancient Warriors",
+    "nbmodular": 2,
+    "modular_set_codes": ["temporal", "celestial_tech"],
+    "difficulty": -2,
+    "text": "Small minions. Stuns. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Mutant Followers ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["extreme_measures", "mutant_insurrection"],
+    "difficulty": -1,
+    "text": "Mixed minions. Mutant Liberation Front trait interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Survival of the Fittest",
+    "nbmodular": 2,
+    "modular_set_codes": ["hounds", "dystopian_nightmare"],
+    "difficulty": -1,
+    "text": "Sends alter-ego + brings you back. Quickstrike. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Gifts from the Future",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinites", "shadow_king"],
+    "difficulty": -1,
+    "text": "Anti-Ally. Mixed minions. Stealing allies. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Mojo-pocalypse",
+    "nbmodular": 2,
+    "modular_set_codes": ["sci_fi", "crime"],
+    "difficulty": 0,
+    "text": "Side schemes. Mixed minions. Toughness environment.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["clan_akkaba", "celestial_tech"],
+    "difficulty": 0,
+    "text": "Mixed minions. Adds threat. Attachments. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "A New Master ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["masters_of_evil", "sinister_syndicate"],
+    "difficulty": 1,
+    "text": "Mixed minions. Impactful boost effects. Masters of Evil trait interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Side Scheme Daydream",
+    "nbmodular": 2,
+    "modular_set_codes": ["clan_akkaba", "infinites"],
+    "difficulty": 2,
+    "text": "Anti-Ally (defending). Mixed minions. Receives a LOT of threat from form changes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Zealots & Prelates ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["clan_akkaba", "acolytes"],
+    "difficulty": 2,
+    "text": "Mixed minions. Teamwork. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "The Ally Shredder",
+    "nbmodular": 2,
+    "modular_set_codes": ["menagerie_medley", "under_attack"],
+    "difficulty": 2,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Egyptian Snow",
+    "nbmodular": 2,
+    "modular_set_codes": ["whiteout", "frost_giants"],
+    "difficulty": 3,
+    "text": "Sends alter-ego. Large minions. Boss minion. Stuns.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Genetic Booster Pack",
+    "nbmodular": 2,
+    "modular_set_codes": ["anachronauts", "hard_sound"],
+    "difficulty": 4,
+    "text": "Mixed minions. Boss minion. Impactful boost abilities (additional boost cards).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Just Horsing Around",
+    "nbmodular": 2,
+    "modular_set_codes": ["goblin_gimmicks", "mutant_slayers"],
+    "difficulty": -3,
+    "text": "Medium minions. Attachments. Treacheries.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Hold Your Horses ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["temporal", "fantasy"],
+    "difficulty": -2,
+    "text": "Mixed minions. Huge minion (Dragon). Stuns.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Riders On The Storm",
+    "nbmodular": 2,
+    "modular_set_codes": ["power_drain", "zzzax"],
+    "difficulty": -2,
+    "text": "Treacheries. Mills encounter deck. Punishes energy resources.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Stable Masters ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["masters_of_evil", "sinister_syndicate"],
+    "difficulty": 0,
+    "text": "Large minions. Impactful boost abilities. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["dystopian_nightmare", "hounds"],
+    "difficulty": 0,
+    "text": "Sends alter-ego + brings you back. Small minions. Quickstrike. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Why The Long Face?",
+    "nbmodular": 2,
+    "modular_set_codes": ["genosha", "military_grade"],
+    "difficulty": 1,
+    "text": "Steady. Mixed minions. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Forces of Apocalypse",
+    "nbmodular": 2,
+    "modular_set_codes": ["dark_riders", "infinites"],
+    "difficulty": 1,
+    "text": "Anti-Ally (defending). Mixed minions. Teamwork. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Horseman of War",
+    "nbmodular": 2,
+    "modular_set_codes": ["children_of_thanos", "extreme_measures"],
+    "difficulty": 1,
+    "text": "Mixed minions. Discards upgrades/supports etc.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Horseman of Famine",
+    "nbmodular": 2,
+    "modular_set_codes": ["personal_nightmare", "iceman_nemesis"],
+    "difficulty": 1,
+    "text": "Huge side scheme. Discards. 3x medium minions. Indirect damage.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Horseman of Pestilence",
+    "nbmodular": 2,
+    "modular_set_codes": ["wolverine_nemesis", "domino_nemesis"],
+    "difficulty": 1,
+    "text": "3x Mixed minions. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Oops, We Joined Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 2,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Sinister Steeds ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["ironspider_sinister", "sinister_assault"],
+    "difficulty": 2,
+    "text": "Mixed minions (above average). High boost icons. Adds Spider-Man theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Horseman of Death",
+    "nbmodular": 2,
+    "modular_set_codes": ["under_attack", "menagerie_medley"],
+    "difficulty": 3,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "The Fifth Horseman",
+    "nbmodular": 2,
+    "modular_set_codes": ["extreme_risk", "band_of_badoon"],
+    "difficulty": 4,
+    "text": "Mixed minions. Boss minion. Surprise damage. Impactful boost abilities. Swarm.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "Latest Weapons",
+    "nbmodular": 1,
+    "modular_set_codes": ["experimental_weapons"],
+    "difficulty": -2,
+    "text": "Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "Well-Armed Soldiers",
+    "nbmodular": 1,
+    "modular_set_codes": ["ransacked_armory"],
+    "difficulty": -1,
+    "text": "Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "Twin Armies ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["armies_of_titan"],
+    "difficulty": 0,
+    "text": "Small minions. Side schemes can bring in more Infinites.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["dystopian_nightmare"],
+    "difficulty": 0,
+    "text": "Sends alter-ego. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "Ally Agony",
+    "nbmodular": 1,
+    "modular_set_codes": ["crossfire_crew"],
+    "difficulty": 1,
+    "text": "Anti-Ally. Medium minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "Highly-Trained",
+    "nbmodular": 1,
+    "modular_set_codes": ["guerrilla_tactics"],
+    "difficulty": 1,
+    "text": "Bonuses for multiple enemies. Side schemes. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "The Ally Blender",
+    "nbmodular": 1,
+    "modular_set_codes": ["under_attack"],
+    "difficulty": 1,
+    "text": "Anti-Ally. Surprise damage.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "Oops, In A Cult ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["clan_akkaba"],
+    "difficulty": 2,
+    "text": "Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "A New Prelate",
+    "nbmodular": 1,
+    "modular_set_codes": ["deathstrike"],
+    "difficulty": 2,
+    "text": "Large minion. Discards. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "Strength In Numbers",
+    "nbmodular": 1,
+    "modular_set_codes": ["super_strength"],
+    "difficulty": 3,
+    "text": "Steady. ATK boost. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "unus",
+    "title": "Infinite Infinites",
+    "nbmodular": 2,
+    "modular_set_codes": ["infinity_gauntlet", "celestial_tech"],
+    "difficulty": 4,
+    "text": "Status cards. ATK/SCH bonus. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Bat Rock Band ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["band_of_badoon", "celestial_tech"],
+    "difficulty": 2,
+    "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Infiltrate the Hellfire Gala",
+    "nbmodular": 2,
+    "modular_set_codes": ["hellfire", "shadowcat_nemesis"],
+    "difficulty": 2,
+    "text": "Mixed minions. Hellfire trait interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Tougher Than He Looks",
+    "nbmodular": 2,
+    "modular_set_codes": ["armies_of_titan", "growing_strong"],
+    "difficulty": 3,
+    "text": "Small minions. Boss minion. Treacheries. Toughs.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Champion Kickboxer",
+    "nbmodular": 2,
+    "modular_set_codes": ["super_strength", "heroes_for_hire"],
+    "difficulty": 3,
+    "text": "Steady. ATK bonus. Upgrade removal.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "A.I.M. for the Head",
+    "nbmodular": 2,
+    "modular_set_codes": ["scientist_supreme", "the_doomsday_chair"],
+    "difficulty": 4,
+    "text": "Large minions. Vulnerable. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Brand New Brigade",
+    "nbmodular": 2,
+    "modular_set_codes": ["reavers", "deathstrike"],
+    "difficulty": 4,
+    "text": "Mixed minions. Teamwork. Reaver trait interaction. Discarding.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "In My Crosshairs",
+    "nbmodular": 2,
+    "modular_set_codes": ["crossfire_crew", "beasty_boys"],
+    "difficulty": 1,
+    "text": "Anti-Ally. Stuns. Mixed minions. Crossfire's Crew trait interaction.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "Trust Nobody",
+    "nbmodular": 2,
+    "modular_set_codes": ["maria_hill", "s.h.i.e.l.d._executive_board"],
+    "difficulty": 2,
+    "text": "Resource sink. Possible ATK/SCH boost. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "No Empty Threats ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["clan_akkaba", "genosha"],
+    "difficulty": 3,
+    "text": "Steady. Mixed minions. Adds threat.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "Band of the Moon",
+    "nbmodular": 2,
+    "modular_set_codes": ["band_of_badoon", "blue_moon"],
+    "difficulty": 3,
+    "text": "Mixed minions. Anti-Rush. Surprise damage. Teamwork. Swarm.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "A.I.M. for the Head",
+    "nbmodular": 2,
+    "modular_set_codes": ["scientist_supreme", "the_doomsday_chair"],
+    "difficulty": 4,
+    "text": "Large minions. Vulnerable. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "Thunderbolts Are Go",
+    "nbmodular": 2,
+    "modular_set_codes": ["extreme_risk", "techno"],
+    "difficulty": 4,
+    "text": "2x Boss minions. Piercing. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "Agent of S.H.I.E.L.D.",
+    "nbmodular": 2,
+    "modular_set_codes": ["s.h.i.e.l.d.", "exper_weapon"],
+    "difficulty": -1,
+    "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "Elite S.H.I.E.L.D. Squad",
+    "nbmodular": 2,
+    "modular_set_codes": ["cape_killer", "martial_law"],
+    "difficulty": 0,
+    "text": "Small minions. S.H.I.E.L.D. trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "It's a Trap!",
+    "nbmodular": 2,
+    "modular_set_codes": ["arcade", "dystopian_nightmare"],
+    "difficulty": 0,
+    "text": "Side schemes. Adds threat. Sends alter-ego. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "Stay Hydrated ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["hydra_patrol", "hydra_assault"],
+    "difficulty": 0,
+    "text": "Small minions. Extra attacks. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "Thunderbolts United",
+    "nbmodular": 2,
+    "modular_set_codes": ["taskmaster", "thunderbolts"],
+    "difficulty": 0,
+    "text": "When Revealed abilities. Impactful boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "Sneaky Super Spy",
+    "nbmodular": 2,
+    "modular_set_codes": ["pale_little_spider", "guerrilla_tactics"],
+    "difficulty": 0,
+    "text": "Side schemes. Damage reflection. Adds threat. Thematic (Black Widow minion surges).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "black_widow_villain",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["a.i.m._abduction", "a.i.m._science"],
+    "difficulty": 0,
+    "text": "Small minions. Anti-Ally. A.I.M. trait interaction. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "A.I.M. Inventions",
+    "nbmodular": 1,
+    "modular_set_codes": ["ransacked_armory"],
+    "difficulty": -2,
+    "text": "Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "Brainwashing",
+    "nbmodular": 1,
+    "modular_set_codes": ["trickster_magic"],
+    "difficulty": -2,
+    "text": "Large minions. Gives allies. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "Watch Your A.I.M.",
+    "nbmodular": 2,
+    "modular_set_codes": ["a.i.m._abduction", "a.i.m._science"],
+    "difficulty": -1,
+    "text": "Small minions. Anti-Ally. A.I.M. trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "Adaptive Army ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["armies_of_titan"],
+    "difficulty": -1,
+    "text": "Small minions. Side schemes can bring in more Adaptoids.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "Dark Experiments",
+    "nbmodular": 1,
+    "modular_set_codes": ["personal_nightmare"],
+    "difficulty": 0,
+    "text": "Huge side scheme. Discards. 2x medium minions. Thematic (clones).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "One Step Ahead",
+    "nbmodular": 1,
+    "modular_set_codes": ["arcade"],
+    "difficulty": 0,
+    "text": "Side schemes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "DEFAULT MODULAR",
+    "nbmodular": 1,
+    "modular_set_codes": ["scientist_supreme"],
+    "difficulty": 0,
+    "text": "Vulnerable. 2x Large minions. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "Upgraded Chair",
+    "nbmodular": 1,
+    "modular_set_codes": ["under_attack"],
+    "difficulty": 1,
+    "text": "Anti-Ally. Surprise damage. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "Big Iron ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["ironspider_sinister"],
+    "difficulty": 1,
+    "text": "Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "M.O.R.E. T.E.C.H.",
+    "nbmodular": 1,
+    "modular_set_codes": ["the_doomsday_chair"],
+    "difficulty": 3,
+    "text": "Attachments. Thematic (M.O.D.O.K. minion surges).",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "Mental Retaliation",
+    "nbmodular": 1,
+    "modular_set_codes": ["telepathy"],
+    "difficulty": 3,
+    "text": "Extra Retaliate. Anti-Ally. SCH bonus. Overkill. Sends alter-ego. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "Stolen Blueprints",
+    "nbmodular": 1,
+    "modular_set_codes": ["osborn_tech"],
+    "difficulty": 3,
+    "text": "Attachments. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "A.I.M.'s Elites",
+    "nbmodular": 2,
+    "modular_set_codes": ["pale_little_spider", "hard_sound"],
+    "difficulty": 4,
+    "text": "2x Boss minions. Damage reflect. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "Ultimate M.O.D.O.K.",
+    "nbmodular": 2,
+    "modular_set_codes": ["the_doomsday_chair", "osborn_tech"],
+    "difficulty": 4,
+    "text": "Large minion. Attachments. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "m.o.d.o.k.",
+    "title": "Stop Hitting Yourself",
+    "nbmodular": 2,
+    "modular_set_codes": ["telepathy", "savage_land"],
+    "difficulty": 4,
+    "text": "+2 Retaliate. Anti-Ally. SCH bonus. Overkill. Sends alter-ego. Discards. Mixed minions.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Life On Mars ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["temporal", "ship_command"],
+    "difficulty": -3,
+    "text": "Small minions. Stuns. Treacheries. Milano helps pay for the Executive Board.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Suspicious Minds",
+    "nbmodular": 2,
+    "modular_set_codes": ["trickster_magic", "whispers_of_paranoia"],
+    "difficulty": -2,
+    "text": "Large minions. Gives allies. Sends alter-ego. Nemesis interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Watch Your A.I.M. ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["a.i.m._abduction", "a.i.m._science"],
+    "difficulty": -1,
+    "text": "Small minions. Anti-Ally. A.I.M. trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "S.H.I.E.L.D. Takeover",
+    "nbmodular": 2,
+    "modular_set_codes": ["martial_law", "cape_killer"],
+    "difficulty": 0,
+    "text": "Vulnerable. Small minions. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Reluctant Foes #1",
+    "nbmodular": 2,
+    "modular_set_codes": ["new_avengers", "secret_avengers"],
+    "difficulty": 0,
+    "text": "Medium minions. Teamwork. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Reluctant Foes #2",
+    "nbmodular": 2,
+    "modular_set_codes": ["mighty_avengers", "the_initiative"],
+    "difficulty": 0,
+    "text": "Medium minions. When Revealed abilities. Impactful boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["scientist_supreme", "s.h.i.e.l.d."],
+    "difficulty": 0,
+    "text": "Vulnerable. Mixed minions. Anti-S.H.I.E.L.D. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "We Are Unmasked!",
+    "nbmodular": 2,
+    "modular_set_codes": ["symbiotic_strength", "venom_nemesis"],
+    "difficulty": 1,
+    "text": "Extra attacks. Dangerous attacks. Small minions. Adds Symbiote theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Oops, Still Hydra",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 1,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Surprise Hydration",
+    "nbmodular": 2,
+    "modular_set_codes": ["winter_soldier_nemesis", "hydra_patrol"],
+    "difficulty": 1,
+    "text": "Small minions. Anti-Rush. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Old Man's Plan",
+    "nbmodular": 2,
+    "modular_set_codes": ["masters_of_evil", "enchantress"],
+    "difficulty": 2,
+    "text": "Anti-Rush. Sends alter-ego. Steals allies. Mixed minions. Boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Army of Evil ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["masters_of_evil", "wrecking_crew_modular"],
+    "difficulty": 2,
+    "text": "Large minions. High boost icons. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Finding Zemo",
+    "nbmodular": 2,
+    "modular_set_codes": ["menagerie_medley", "guerrilla_tactics"],
+    "difficulty": 3,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Bonuses for multiple enemies. Side schemes.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Diplomatic Crisis",
+    "nbmodular": 2,
+    "modular_set_codes": ["bomb_scare", "ransacked_armory"],
+    "difficulty": -2,
+    "text": "Small minions. Attachments.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Expanded Brigade",
+    "nbmodular": 2,
+    "modular_set_codes": ["batroc's_brigade", "war_machine_nemesis"],
+    "difficulty": 0,
+    "text": "Medium minions. Discarding upgrades. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "DEFAULT MODULARS",
+    "nbmodular": 2,
+    "modular_set_codes": ["a.i.m._science", "batroc's_brigade"],
+    "difficulty": 0,
+    "text": "Mixed minions. Thematic.",
+    "creator": "default"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Call the Cops ??",
+    "nbmodular": 2,
+    "modular_set_codes": ["genosha", "s.h.i.e.l.d."],
+    "difficulty": 1,
+    "text": "Steady. Vulnerable. Mixed minions. Anti-S.H.I.E.L.D.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Hydra Mercenary",
+    "nbmodular": 2,
+    "modular_set_codes": ["weap_master", "hydra_assault"],
+    "difficulty": 1,
+    "text": "Extra attacks. Small minions. Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Hydra Ascendant",
+    "nbmodular": 2,
+    "modular_set_codes": ["winter_soldier_nemesis", "captain_america_nemesis"],
+    "difficulty": 1,
+    "text": "Anti-Rush. Mixed minions (below average). Adds Hydra theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "We Are Leaping!",
+    "nbmodular": 2,
+    "modular_set_codes": ["symbiotic_strength", "venom_nemesis"],
+    "difficulty": 2,
+    "text": "Extra attacks. Dangerous attacks. Small minions. Adds Symbiote theme.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "Government Upgrades",
+    "nbmodular": 1,
+    "modular_set_codes": ["ransacked_armory"],
+    "difficulty": -2,
+    "text": "Attachments. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "Changing Sides ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["trickster_magic"],
+    "difficulty": -2,
+    "text": "Large minions. Gives allies. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "Under Arrest #1",
+    "nbmodular": 1,
+    "modular_set_codes": ["s.h.i.e.l.d."],
+    "difficulty": 0,
+    "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "Under Arrest #2",
+    "nbmodular": 2,
+    "modular_set_codes": ["cape_killer", "martial_law"],
+    "difficulty": 0,
+    "text": "Small minions. S.H.I.E.L.D. trait interaction. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "Thunderbolts United",
+    "nbmodular": 2,
+    "modular_set_codes": ["dangerous_recruits", "thunderbolts"],
+    "difficulty": 0,
+    "text": "When Revealed abilities. Impactful boost abilities. Thematic.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "City-Wide Showdown",
+    "nbmodular": 1,
+    "modular_set_codes": ["streets_of_mayhem"],
+    "difficulty": 0,
+    "text": "Changing environment. High boost icons.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "Ganging Up",
+    "nbmodular": 1,
+    "modular_set_codes": ["a_mess_of_things"],
+    "difficulty": 1,
+    "text": "Extra attack (Gang-Up). Large minion. Stuns.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "Crooked Cohorts",
+    "nbmodular": 1,
+    "modular_set_codes": ["masters_of_evil"],
+    "difficulty": 1,
+    "text": "Large minions. Impactful boost abilities.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "Sharknado",
+    "nbmodular": 1,
+    "modular_set_codes": ["menagerie_medley"],
+    "difficulty": 2,
+    "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
+    "creator": "villain theory"
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "Thunderous Teamwork ??",
+    "nbmodular": 1,
+    "modular_set_codes": ["guerrilla_tactics"],
+    "difficulty": 4,
+    "text": "Bonuses for multiple enemies. Side schemes. Thematic.",
+    "creator": "villain theory"
+  }
+]
