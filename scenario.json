@@ -51,7 +51,7 @@
     "modular_set_codes": ["masters_of_evil"],
     "difficulty": 0,
     "text": "Large minions. Impactful boost abilities.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "klaw",
@@ -177,7 +177,7 @@
     "modular_set_codes": ["goblin_gimmicks"],
     "difficulty": 0,
     "text": "Attachments. Treacheries. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -321,7 +321,7 @@
     "modular_set_codes": ["bomb_scare"],
     "difficulty": 0,
     "text": "Small minions. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "rhino",
@@ -447,7 +447,7 @@
     "modular_set_codes": ["goblin_gimmicks"],
     "difficulty": 0,
     "text": "Attachments. Treacheries. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "risky_business",
@@ -609,7 +609,7 @@
     "modular_set_codes": ["under_attack"],
     "difficulty": 0,
     "text": "Anti-Ally. Surprise damage.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "ultron",
@@ -708,7 +708,7 @@
     "modular_set_codes": ["hydra_patrol"],
     "difficulty": 0,
     "text": "Small minions. Leads to environment effects triggering. Adds Hydra theme.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "absorbing_man",
@@ -816,7 +816,7 @@
     "modular_set_codes": ["weap_master", "hydra_assault", "legions_of_hydra"],
     "difficulty": 0,
     "text": "Extra attacks. Mixed minions. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "crossbones",
@@ -924,7 +924,7 @@
     "modular_set_codes": ["temporal"],
     "difficulty": 0,
     "text": "Small minions. Stuns. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "kang",
@@ -1086,7 +1086,7 @@
     "modular_set_codes": ["weap_master"],
     "difficulty": 0,
     "text": "Extra attacks. Attachments. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "taskmaster",
@@ -1257,7 +1257,7 @@
     "modular_set_codes": ["under_attack"],
     "difficulty": 0,
     "text": "Anti-Ally. Area damage.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "zola",
@@ -1410,7 +1410,7 @@
     "modular_set_codes": ["menagerie_medley"],
     "difficulty": 0,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities (leads to filling The Collection). Confuses. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1527,7 +1527,7 @@
     "modular_set_codes": ["menagerie_medley"],
     "difficulty": 0,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1635,7 +1635,7 @@
     "modular_set_codes": ["band_of_badoon"],
     "difficulty": 0,
     "text": "Mixed minions. Surprise damage. Swarm. Badoon trait interaction. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -1770,7 +1770,7 @@
     "modular_set_codes": ["space_pirates"],
     "difficulty": 0,
     "text": "Small minions. Quickstrike. Card removal. Impactful boost abilities (additional boost cards find more Techniques). Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "nebula",
@@ -1860,7 +1860,7 @@
     "modular_set_codes": ["kree_militant"],
     "difficulty": 0,
     "text": "Large minions. Overkill/piercing boost abilities. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "ronan",
@@ -1914,7 +1914,7 @@
     "modular_set_codes": ["armies_of_titan", "children_of_thanos"],
     "difficulty": 0,
     "text": "Mixed minions. Impactful boost abilities. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2031,7 +2031,7 @@
     "modular_set_codes": ["frost_giants", "legions_of_hel"],
     "difficulty": 0,
     "text": "Mixed minions. Sends alter-ego. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "hela",
@@ -2202,7 +2202,7 @@
     "modular_set_codes": ["frost_giants", "enchantress"],
     "difficulty": 0,
     "text": "Anti-Rush. Sends alter-ego. Steals allies. Large minions. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "loki",
@@ -2274,7 +2274,7 @@
     "modular_set_codes": ["black_order", "children_of_thanos"],
     "difficulty": 0,
     "text": "Large minions. Black Order trait interaction. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "thanos",
@@ -2472,7 +2472,7 @@
     "modular_set_codes": ["armies_of_titan"],
     "difficulty": 0,
     "text": "Small minions. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "tower_defense",
@@ -2661,7 +2661,7 @@
     "modular_set_codes": ["whispers_of_paranoia"],
     "difficulty": 0,
     "text": "Illusion trait. Sends alter-ego. Nemesis interaction. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "mysterio",
@@ -2733,7 +2733,7 @@
     "modular_set_codes": ["down_to_earth"],
     "difficulty": 0,
     "text": "Sends alter-ego. Small minions. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "sandman",
@@ -2967,7 +2967,7 @@
     "modular_set_codes": ["down_to_earth"],
     "difficulty": 0,
     "text": "Sends alter-ego. Small minions.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "venom",
@@ -3120,7 +3120,7 @@
     "modular_set_codes": ["goblin_gear"],
     "difficulty": 0,
     "text": "Extra activations. Attachments. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "venom_goblin",
@@ -3219,7 +3219,7 @@
     "modular_set_codes": ["acolytes"],
     "difficulty": 0,
     "text": "Mixed minions. Teamwork. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "magneto_villain",
@@ -3318,7 +3318,7 @@
     "modular_set_codes": ["fantasy"],
     "difficulty": 0,
     "text": "Random MojoMania environment. (Fantasy/Sci-Fi/Horror).",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "magog",
@@ -3453,7 +3453,7 @@
     "modular_set_codes": ["mystique"],
     "difficulty": 0,
     "text": "Boss minion. Puts cards in your deck. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "mansion_attack",
@@ -3507,7 +3507,7 @@
     "modular_set_codes": ["zero_tolerance"],
     "difficulty": 0,
     "text": "Mixed minions. Sentinel trait interaction. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "master_mold",
@@ -3651,7 +3651,7 @@
     "modular_set_codes": ["sentinels"],
     "difficulty": 0,
     "text": "Large minions. Sentinel trait interaction. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "project_wideawake",
@@ -3777,7 +3777,7 @@
     "modular_set_codes": ["brotherhood", "mystique"],
     "difficulty": 0,
     "text": "Mixed minions. Boss minion. Puts cards in your deck. Brotherhood trait interaction.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "sabretooth",
@@ -4056,7 +4056,7 @@
     "modular_set_codes": ["nasty_boys"],
     "difficulty": 0,
     "text": "Mixed minions. Teamwork. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "mister_sinister",
@@ -4128,7 +4128,7 @@
     "modular_set_codes": ["military_grade", "mutant_slayers"],
     "difficulty": 0,
     "text": "Medium minions. Attachments. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "morlock_siege",
@@ -4236,7 +4236,7 @@
     "modular_set_codes": ["military_grade", "nasty_boys"],
     "difficulty": 0,
     "text": "Mixed minions. Attachments. Teamwork. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "on_the_run",
@@ -4335,7 +4335,7 @@
     "modular_set_codes": ["extreme_measures", "mutant_insurrection"],
     "difficulty": 0,
     "text": "Mixed minions. Mutant Liberation Front trait interaction. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "stryfe",
@@ -4452,7 +4452,7 @@
     "modular_set_codes": ["infinites", "dark_riders"],
     "difficulty": 0,
     "text": "Anti-Ally (defending). Mixed minions. Teamwork. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "apocalypse",
@@ -4542,7 +4542,7 @@
     "modular_set_codes": ["dystopian_nightmare"],
     "difficulty": 0,
     "text": "Sends alter-ego. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "dark_beast",
@@ -4668,7 +4668,7 @@
     "modular_set_codes": ["clan_akkaba", "celestial_tech"],
     "difficulty": 0,
     "text": "Mixed minions. Adds threat. Attachments. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -4767,7 +4767,7 @@
     "modular_set_codes": ["dystopian_nightmare", "hounds"],
     "difficulty": 0,
     "text": "Sends alter-ego + brings you back. Small minions. Quickstrike. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "four_horsemen",
@@ -4884,7 +4884,7 @@
     "modular_set_codes": ["dystopian_nightmare"],
     "difficulty": 0,
     "text": "Sends alter-ego. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "unus",
@@ -5118,7 +5118,7 @@
     "modular_set_codes": ["a.i.m._abduction", "a.i.m._science"],
     "difficulty": 0,
     "text": "Small minions. Anti-Ally. A.I.M. trait interaction. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -5181,7 +5181,7 @@
     "modular_set_codes": ["scientist_supreme"],
     "difficulty": 0,
     "text": "Vulnerable. 2x Large minions. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -5316,7 +5316,7 @@
     "modular_set_codes": ["scientist_supreme", "s.h.i.e.l.d."],
     "difficulty": 0,
     "text": "Vulnerable. Mixed minions. Anti-S.H.I.E.L.D. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "baron_zemo",
@@ -5397,7 +5397,7 @@
     "modular_set_codes": ["a.i.m._science", "batroc's_brigade"],
     "difficulty": 0,
     "text": "Mixed minions. Thematic.",
-    "creator": "default"
+    "creator": "FFG"
   },
   {
     "villain_set_code": "batroc",
