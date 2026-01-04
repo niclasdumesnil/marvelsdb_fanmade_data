@@ -1,0 +1,89 @@
+{
+    "code": "the_rise_of_red_skull_by_fantasy_flight_games",
+    "name": "The Rise of Red Skull",
+    "creator": "Fantasy Flight Games",
+    "description": "Welcome to The Rise of Red Skull! This campaign expansion comes with five new scenarios that tell the story of Hydra's rise to power, as well as two new heroes who fight to restore freedom to the oppressed. Players must defeat five villains in order: Crossbones, Absorbing Man, Taskmaster, Zola, and Red Skull.",
+    "epilogue": "Cap, I found the Stone! I believe I can use it to undo Hydra's reality. Do it, Tony! ... It's good to be home! Verily, another glorious victory to celebrate. What's bothering you, Tony? Hydra nearly conquered the world with that stone. What if there are more stones out there?",
+    "image": "the_rise_of_red_skull.jpg",
+    "type": "official",
+    "position": 2,
+    "scenarios": [
+        {
+            "code": "crossbones",
+            "name": "Scenario #1 - Crossbones",
+            "description": "Crossbones is attacking the Project P.E.G.A.S.U.S. facility in the Adirondack mountains with a small army of Hydra troops. The S.H.I.E.L.D. soldiers stationed there fight desperately to protect the facility, but they are being overwhelmed by Hydra's blitzkrieg assault. They need your help to stop Crossbones from capturing the experimental weapons being developed in the P.E.G.A.S.U.S. labs.",
+            "introduction": "Each player records their identity in the campaign log found on the back cover of this rulebook. Players cannot switch identities during a campaign.\n<b>Expert Mode Only:</b> Remove Crossbones (I) and add Crossbones (III). Setup the scenario using the expert villain cards and expert encounter set.",
+            "resolution": "<b>Victory:</b> Each player chooses one of the TECH upgrades from the Hydra Campaign set and adds it to their deck. Record the name of each EXPERIMENTAL attachment that entered the game in the campaign log.\n<b>Expert Mode Only:</b> Record each identity's remaining hit points in the campaign log, as well as any cards added to their deck.",
+            "image": "crossbones.jpg"
+        },
+        {
+            "code": "absorbing_man",
+            "name": "Scenario #2 - Absorbing Man",
+            "description": "The tide of battle turned against Hydra after you arrived to aid the beleagured S.H.I.E.L.D. soldiers at Project P.E.G.A.S.U.S. Crossbones has been captured, and his army has been defeated, but Madame Hydra escaped the facility with an Infinity Gem. You chase her outside, but you are stopped short by the imposing form of Absorbing Man. The formidable villain has been hired by Red Skull to delay your pursuit. You will have to defeat him before you can recover the Infinity Gem.",
+            "introduction": "Each player searches their deck for all cards with the setup keyword and puts them into play. Shuffle each Experimental attachment recorded in the campaign log into the encounter deck.\n<b>Expert Mode Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario. Each player may add 1 random obligation from their expert campaign set to their deck to heal their identity to its full hit point value.",
+            "resolution": "<b>Victory:</b> Record the number of delay counters on the main scheme in the campaign log. Each player may choose one of the \"Basic\" Condition upgrades in the Campaign set, attach it to their identity, and add it to their deck in the campaign log.\n<b>Expert Mode Only:</b> Record each identity's remaining hit points in the campaign log, as well as any cards added to their deck.",
+            "image": "absorbing_man.jpg"
+        },
+        {
+            "code": "taskmaster",
+            "name": "Scenario #3 - Taskmaster",
+            "description": "With Absorbing Man in S.H.I.E.L.D. custody and Madame Hydra in the wind, you are flying back to Avengers Tower to plan your next move when all reality is changed in a flash of yellow light. When you reach New York City, you are shocked to find Avengers Tower emblazoned with the Hydra banner. But before you can process what has happened, an explosion rocks your Quinjet, and you crash-land in the city. On the ground, you find that all of New York is under Hydra rule. Anti-hero propaganda is plastered on every corner, and squads of Hydra soldiers patrol the streets. They are led by the notorious Taskmaster, Hydra's new chief of police. He is going door-to-door hunting down heroes and locking them up. He fired the surface-to-air missile that brought you down, and now he is searching for you.",
+            "introduction": "Each player searches their deck for all cards with the setup keyword and puts them into play. Shuffle each Experimental attachment recorded in the campaign log into the encounter deck.\n<b>Expert Mode Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario. Each player may add 1 random obligation from their expert campaign set to their deck to heal their identity to its full hit point value.",
+            "resolution": "<b>Victory:</b> Each player who rescued one or more allies from the Taskmaster encounter set adds those allies to their deck and records their names in the campaign log.\n<b>Expert Mode Only:</b> Record each identity's remaining hit points in the campaign log, as well as any cards added to their deck.",
+            "image": "taskmaster.jpg"
+        },
+        {
+            "code": "zola",
+            "name": "Scenario #4 - Zola",
+            "description": "Having defeated Taskmaster, you learn that Hydra has not only captured New York City but all of the United States. It was the mad scientist, Arnim Zola, who built a machine to harness the power of the Reality Gem and tipped the balance of power in Hydra's favor. He has created a research station for himself on Ellis Island, and turned the historic port into a nightmarish prison for his unfortunate test subjects. Taskmaster was ordered to bring the heroes he captured there for experimentation. In this upside-down America, you are the only hope the captives have to escape a horrible fate.",
+            "introduction": "Each player searches their deck for all cards with the setup keyword and puts them into play. Shuffle each Experimental attachment recorded in the campaign log into the encounter deck.\n<b>Expert Mode Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario. Each player may add 1 random obligation from their expert campaign set to their deck to heal their identity to its full hit point value.",
+            "resolution": "<b>Victory:</b> Each player engaged with an enemy records they are engaged with an enemy in the campaign log. If the Hydra Prison side scheme is still in play, record the name of each ally underneath it in the campaign log. If the Hydra Prison side scheme is not in play, each player in hero form may replace their \"Basic\" Condition upgrade with its \"Improved\" side.\n<b>Expert Mode Only:</b> Record each identity's remaining hit points in the campaign log, as well as any cards added to their deck.",
+            "image": "zola.jpg"
+        },
+        {
+            "code": "red_skull",
+            "name": "Scenario #5 - Red Skull",
+            "description": "You have liberated Zola's island and disarmed the mad doctor, but the Reality Gem still eludes you. You learn from Zola that the Gem resides with the true mastermind behind Hydra's ascendancy: the brilliant and nefarious Red Skull. The villain has taken up residence in Washington, D.C. and transformed the White House into his personal fortress. But Red Skull's ambition for conquest does not end with the U.S.A. — he plans to bind every nation under Hydra rule with the power of the Reality Gem. His scientists work around the clock to make the necessary modifications to Zola's machine. Once completed, Red Skull will use the Reality Gem to conquer the whole world. If that happens, nobody will be safe from the types of atrocities you witnessed in Zola's labs. You cannot allow this to happen. You must defeat Red Skull and use the Reality Gem to set things right again.",
+            "introduction": "Each player searches their deck for all cards with the setup keyword and puts them into play. Shuffle each Experimental attachment recorded in the campaign log into the encounter deck. Place X threat counters on the main scheme, where X is the number of delay counters recorded in the campaign log.\n<b>Expert Mode Only:</b> (Place X2 threat counters instead). Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario. Each player may add 1 random obligation from their expert campaign set to their deck. Each player who was recorded as being engaged with an enemy deals themselves an encounter card. If the players lose this game, the players lose the campaign.",
+            "resolution": "<b>Victory:</b> Hydra is defeated and the players win the campaign!",
+            "image": "red_skull.jpg"
+        }
+    ],
+    "modulars": {
+        "crossbones": [
+            { "name": "Experimental Weapons", "code": "experimental_weapons" },
+            { "name": "Hydra Assault", "code": "hydra_assault" },
+            { "name": "Weapon Master", "code": "weap_master" },
+            { "name": "Legions of Hydra", "code": "legions_of_hydra" }
+        ],
+        "absorbing_man": [
+            { "name": "Hydra Patrol", "code": "hydra_patrol" }
+        ],
+        "taskmaster": [
+            { "name": "Hydra Patrol", "code": "hydra_patrol" },
+            { "name": "Weapon Master", "code": "weap_master" }
+        ],
+        "zola": [
+            { "name": "Under Attack", "code": "under_attack" }
+        ],
+        "red_skull": [
+            { "name": "Hydra Assault", "code": "hydra_assault" },
+            { "name": "Hydra Patrol", "code": "hydra_patrol" }
+        ]
+    },
+    "campaign_notes": [
+        "Tech Upgrade",
+        "Basic Upgrade",
+        "Rescued Allies",
+        "Experimental Weapons added to encounter deck",
+        "Scenario 2 Delay Counters",
+        "Players engaged with minions",
+        "Allies removed from the campaign"
+    ],
+    "campaign_counters": [],
+    "campaign_checkbox": [
+        "Expert Mode",
+        "Hydra escaped (Scenario 1)",
+        "Reality Stone Secured"
+    ]
+}

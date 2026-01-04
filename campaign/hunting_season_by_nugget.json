@@ -1,0 +1,81 @@
+{
+    "code": "hunting_season_by_nugget",
+    "name": "Hunting Season",
+    "creator": "Nugget",
+    "description": "Welcome to Hunting Season! This custom campaign expansion comes with five custom scenarios that tell the story of a crazed hunter going after animal-themed villains for his own sense of morality. Each of the five new scenarios in this expansion features a new villain: Vermin, Scorpion, The Lizard, Vulture, and Kraven the Hunter.",
+    "epilogue": "Kraven falls to his knees, revealing a prideful grin. 'It would seem I have become Kraven the Hunted! Thank you, heroes, for giving me the hunt of a lifetime.' Kraven collapses on the ground, and is later confirmed dead. The animal-themed villains are arrested, and the heroes reflect on the necessity of putting an end to Kraven's madness. Kraven the Hunter is defeated and the players win the campaign!",
+    "image": "hunting_season.jpg",
+    "type": "custom",
+    "position": 115,
+    "scenarios": [
+        {
+            "code": "vermin_by_nugget",
+            "name": "Scenario #1 - Vermin",
+            "description": "The human-rat hybrid Vermin has come out of the sewers of New York City and brought with him a giant swarm of rats. The NYPD and S.H.I.E.L.D. stand defenseless. Defeat him to force the rats back underground.",
+            "introduction": "Each player records their identity in the campaign log; players cannot switch identities.\n<b>Hunter Mode Only:</b> Put the Rabid Rodents environment into play.",
+            "resolution": "<b>Victory:</b> Each player earns 3 Experience. Earn 1 bonus XP if not engaged with rat minions and 1 bonus XP if the main scheme is on stage 1. One player adds the Vermin ally to their deck. <b>Hunter Mode Only:</b> Earn 1 additional XP.<br><br><b>Loss:</b> New York is quarantined. Vermin escapes. Each player earns 2 XP, plus 1 if not engaged with rat minions. Record that Vermin escaped.",
+            "image": "verminhs.jpg"
+        },
+        {
+            "code": "scorpion_by_nugget",
+            "name": "Scenario #2 - Scorpion",
+            "description": "Scorpion is seeking revenge against J. Jonah Jameson Jr. We need you to defeat Scorpion before he gets his pincers in Mr. Jameson.",
+            "introduction": "Each player may spend 2 XP to increase starting hand size by 1.\n<b>Expert Campaign:</b> Set HP to remaining values. Spend XP to heal 1 per XP or add a random obligation to heal to full.\n<b>Hunter Mode Only:</b> Put the Sting of the Scorpion environment into play.",
+            "resolution": "<b>Victory:</b> Each player earns 3 Experience. Earn 1 XP if Jameson has 1 or no wound counters, and 1 XP if the Scorpion's Tail is set aside. Scorpion ally joins the player with the least predator allies. <b>Hunter Mode Only:</b> Earn 1 additional XP.<br><br><b>Loss:</b> Scorpion kills Jameson. Each player earns 2 XP, plus 1 if the Tail is set aside. Each player must remove 1 hero-specific card from their deck.",
+            "image": "scorpionhs.jpg"
+        },
+        {
+            "code": "lizard_by_nugget",
+            "name": "Scenario #3 - Lizard",
+            "description": "Dr. Curtis Connors is losing control to his reptile side. 'Please come and help me before I hurt anyone.'",
+            "introduction": "Each player may spend 2 XP for +1 setup hand size.\n<b>Expert Campaign:</b> Rules for HP/Soin as per scenario 2.\n<b>Hunter Mode Only:</b> Put the Cold-Blooded environment into play.",
+            "resolution": "<b>Victory:</b> Each player earns 3 Experience. Earn 1 XP if on stage 1 or 2 of main scheme, and 1 XP if Lizard has less than 1 reptile attachment per player. Lizard ally joins the player with the least predator allies.<br><br><b>Loss:</b> Curtis Connors is gone. Each player earns 2 XP + bonuses. Record that Lizard escaped and remove 1 hero-specific card from deck.",
+            "image": "lizardhs.jpg"
+        },
+        {
+            "code": "vulture_by_nugget",
+            "name": "Scenario #4 - Vulture",
+            "description": "Vulture swoops through your window and drops you on the asphalt before causing mayhem. Gather info to find the mastermind.",
+            "introduction": "Each player may spend 2 XP for +1 setup hand size.\n<b>Expert Campaign:</b> Usual HP/Soin rules.\n<b>Hunter Mode Only:</b> Put the Aerial Excellence environment into play.",
+            "resolution": "<b>Victory:</b> Each player earns 3 Experience. Earn 1 XP if at 50% HP or more, and 1 XP if threat is less than 7 per player. Vulture ally joins the player with the least predator allies. Gibbon is added to the Lodge.<br><br><b>Loss:</b> Vulture flies away, but you attach a GPS tracker. Each player earns 2 XP + bonuses.",
+            "image": "vulturehs.jpg"
+        },
+        {
+            "code": "kraven_by_nugget",
+            "name": "Scenario #5 - Kraven the Hunter",
+            "description": "Kraven has been triggering feral instincts in others. Now, you are his ultimate prey. Sergei Kravinoff stands ready for the final hunt.",
+            "introduction": "If Vermin or Lizard escaped, add their minions. If Scorpion or Vulture joined, remove their minions. Kraven uses a Trap Deck. Spend 2 XP for +1 setup hand size.\n<b>Expert Campaign:</b> Usual rules.\n<b>Hunter Mode Only:</b> Put the Master Trapper environment into play.",
+            "resolution": "<b>Victory:</b> Kraven is defeated and the players win the campaign!<br><br><b>Loss:</b> The last thing you hear is a thundering KRA-KOOOMMM!!! The players lose the campaign...",
+            "image": "kravenhs.jpg"
+        }
+    ],
+    "modulars": {
+        "vermin_by_nugget": [{ "name": "Feral Instincts", "code": "feral_instincts_by_nugget" }],
+        "scorpion_by_nugget": [{ "name": "Feral Instincts", "code": "feral_instincts_by_nugget" }],
+        "lizard_by_nugget": [{ "name": "Lizard Thralls", "code": "lizard_thralls_by_nugget" }],
+        "vulture_by_nugget": [{ "name": "Red Vulture", "code": "red_vulture_by_nugget" }],
+        "kraven_by_nugget": [{ "name": "Savage Six", "code": "savage_six_by_nugget" }]
+    },
+    "campaign_notes": [
+        "Master Hunter",
+        "Predator Ally",
+        "Hero-specific cards removed from deck",
+        "Cards from The Lodge",
+        "Scenario notes",
+        "Encounter cards in player deck"
+    ],
+    "campaign_counters": [
+        "Player 1 Experience",
+        "Player 2 Experience",
+        "Player 3 Experience",
+        "Player 4 Experience"
+    ],
+    "campaign_checkbox": [
+        "Expert Campaign",
+        "Hunter Mode",
+        "Vermin escaped",
+        "Scorpion joined",
+        "Lizard escaped",
+        "Vulture joined"
+    ]
+}
