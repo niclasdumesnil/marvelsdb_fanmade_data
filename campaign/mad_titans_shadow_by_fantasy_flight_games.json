@@ -1,0 +1,92 @@
+{
+  "code": "mad_titans_shadow_by_fantasy_flight_games",
+  "name": "The Mad Titan's Shadow",
+  "creator": "Fantasy Flight Games",
+  "description": "<i>The Mad Titan, Thanos, is on a quest to collect all six Infinity Stones and join them together in the Infinity Gauntlet. If he succeeds, Thanos will have the power to control the universe - or destroy it. His fanatical followers, the Black Order, have pledged their lives to the Titan's cause, and they scour the universe for the only two stones that their master still needs to complete the Gauntlet: the Power Stone and the Reality Stone.</i><br><br>Welcome to The Mad Titan's Shadow! This campaign expansion comes with five new scenarios that tell the story of the Infinity Gauntlet and two brave heroes who risk everything to prevent universal destruction.",
+  "epilogue": "<i>throw him in the dungeon! and lock the infinity gauntlet in the vault. never again will it trouble the nine realms. come my friends. there is to be a feast held in your honor! more drinks for my friends - the heroes of midgard! that is a fine sword you carry. thank you m'lady. tell me again how you cut the infinity gauntlet from thanos' arm. as reward for your service, odin has ordered the vault of asgard opened to you. take what you can carry. holy flark balls, groot! we're getting paid!</i>",
+  "image": "mad_titans_shadow.jpg",
+  "type": "official",
+  "position": 4,
+  "scenarios": [
+    {
+      "code": "ebony_maw",
+      "name": "Scenario #1 - Ebony Maw",
+      "description": "<i>The Mad Titan, Thanos, is on a quest to collect all six Infinity Stones and join them together in the Infinity Gauntlet. If he succeeds, Thanos will have the power to control the universe — or destroy it. His fanatical followers, the Black Order, have pledged their lives to the Titan’s cause, and they scour the universe for the only two stones that their master still needs to complete the Gauntlet: the Power Stone and the Reality Stone. One of those followers, Ebony Maw, has discovered that the Power Stone is being kept in a secure vault on Knowhere. Now, the Black Order’s sorcerer is leading an army of Thanos in a direct assault on the space station. Cosmo and the rest of the Knowhere Corps are doing what they can to defend the station, but they won’t last long against Maw without your help!</i>",
+      "introduction": "<ul><li>Each player records their identity in the campaign log found on the back cover of this rulebook.</li><li>Players cannot switch identities during a campaign.</li><li>Put the Secure the Landing Pad side scheme into play.</li><li>Shuffle the Security Breach side scheme into the encounter deck.</li></ul>",
+      "resolution": "<b>Victory:</b><br><ul><li>If Secure the Landing Pad was defeated, add Cosmo to the campaign pool.</li><li>If Attack on Knowhere 1B was completed, add Security Breach to the campaign pool.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+      "image": "ebony_maw.jpg"
+    },
+    {
+      "code": "tower_defense",
+      "name": "Scenario #2 - Tower Defense",
+      "description": "<i>Ebony Maw failed to capture the Power Stone, but in an unexpected twist, it was delivered to Thanos by Loki, the God of Mischief. The outcast prince of Asgard also revealed to Thanos that the Reality Stone could be found in Avengers Tower on Earth. The Mad Titan immediately ordered Corvus Glaive and Proxima Midnight, his two most trusted generals, to attack the Avengers and seize the last Infinity Stone. Now it's up to Earth's mightiest heroes to protect the Stone, and their home, from the Black Order.</i>",
+      "introduction": "<ul><li>Put the Save the Shawarma Place side scheme into play.</li><li>If Security Breach is in the campaign pool, shuffle it into the encounter deck.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario.</li><li><b>Expert Campaign Only:</b> Each player may place one acceleration token on one of the main schemes to heal their identity to its full hit point value.</li></ul>",
+      "resolution": "<b>Victory:</b><br><ul><li>If Save the Shawarma Place was defeated, add Shawarma to the campaign pool.</li><li>If Black Swan is NOT in the victory display, add her to the campaign pool.</li><li>If Avengers Tower has the Damaged trait, record that in the campaign log.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+      "image": "tower_defense.jpg"
+    },
+    {
+      "code": "thanos",
+      "name": "Scenario #3 - Thanos",
+      "description": "<i>The Black Order's assault on Avengers Tower was brutal, but the Avengers stood firm in the defense. The tide of battle turned when the Guardians of the Galaxy arrived to lift the seige. The combined forces of the Guardians and the Avengers was enough to drive back the armies of Thanos. Yet in the midst of that chaos, the Mad Titan used the Space Stone to teleport directly into Avengers Tower. Once inside, he seized the Reality Stone and teleported back to his enormous space ship, Sanctuary. With all six Infinity Stones in his possession, it is only a matter of time before Thanos masters the power of the Infinity Gauntlet and wreaks havoc on the universe. You only have one shot at stopping him before it's too late!</i>",
+      "introduction": "<ul><li>Put the Hack Sanctuary's Computer side scheme into play.</li><li>If Cosmo is in the campaign pool, put him into play under the first player's control.</li><li>If Security Breach is in the campaign pool, shuffle it into the encounter deck.</li><li>If Shawarma is in the campaign pool, each player shuffles one copy of Shawarma into their deck.</li><li>If Black Swan is in the campaign pool, put her into play engaged with the first player.</li><li>If Avengers Tower had the Damaged trait, deal three damage to each identity.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario.</li><li><b>Expert Campaign Only:</b> Each player may place one acceleration token on the main scheme to heal their identity to its full hit point value.</li></ul>",
+      "resolution": "<b>Victory:</b><br><ul><li>If Defensive Protocols is NOT in the victory display, add System Shock to the campaign pool.</li><li>If The Infinity Stones 1B was completed, record that in the campaign log.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+      "image": "thanos.jpg"
+    },
+    {
+      "code": "hela",
+      "name": "Scenario #4 - Hela",
+      "description": "<i>Against all odds, Thanos has been defeated and the Infinity Gauntlet wrested from his hand! The combined power of the Guardians of the Galaxy and the Avengers was just enough to save the universe from the Mad Titan. The heroes all breathe a huge sigh of relief, but they have to decide what to do with the Infinity Gauntlet. Tensions rise among the super-powered friends as an impassioned debate breaks out. Before the argument can spiral further out of control, the enigmatic Adam Warlock steps forward to offer his stewardship. His unique connection to the Soul Stone makes him the ideal candidate to safeguard the Gauntlet. The gathered Avengers and Guardians agree to this, and the Gauntlet is entrusted to Warlock's care. Relieved to have the mattered settled, the exhausted heroes move to the lounge to eat and celebrate their victory. After they leave, the stoic figure of Adam Warlock is replaced by the grinning God of Mischief. Loki used his magic arts to impersonate Warlock and fool the heroes into giving him the Infinity Gauntlet! The trickster uses the power of the Gauntlet to enact the final part of his plan: to usurp the Throne of Asgard from Odin. He casts the All-Father down to Hel, consigning him to the cruel ministrations of Hela, goddess of death. Only the stalwart watchman of Asgard, Heimdall, escapes to bring news of Loki's treachery to Avengers Tower. He warns that only Odin has the power to defeat Loki and insists that the heroes journey into Hel to rescue the All-Father from Hela's grasp.</i>",
+      "introduction": "<ul><li>Put the Find the Norn Stones side scheme into play.</li><li>Shuffle the Summoned Back treachery into the encounter deck.</li><li>If Shawarma is in the campaign pool, each player shuffles one copy of Shawarma into their deck.</li><li>If System Shock is in the campaign pool, each player shuffles one copy of System Shock into their deck.</li><li>If The Infinity Stones 1B was completed, each player discards the top half of their deck.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario.</li><li><b>Expert Campaign Only:</b> Each player may place one acceleration token on the main scheme to heal their identity to its full hit point value.</li></ul>",
+      "resolution": "<b>Victory:</b><br><ul><li>If Find the Norn Stones was defeated, add Norn Stone to the campaign pool.</li><li>If Retrieve Odin's Armor is in the victory display, add Odin to the campaign pool.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+      "image": "hela.jpg"
+    },
+    {
+      "code": "loki",
+      "name": "Scenario #5 - Loki",
+      "description": "<i>The heroes have defeated Hela and rescued Odin from the dungeons of Hel, but Loki still sits on the throne of Asgard with the Infinity Gauntlet. Heimdall can take you to the Golden Realm, and the All-Father can offer you some protection from Loki's magic, but it is up to you to defeat the trickster god and secure the Infinity Stones.</i>",
+      "introduction": "<ul><li>Put the Open the Dungeons side scheme into play.</li><li>Shuffle the Summoned Back treachery into the encounter deck.</li><li>If Shawarma is in the campaign pool, each player shuffles one copy of Shawarma into their deck.</li><li>If System Shock is in the campaign pool, each player shuffles one copy of System Shock into their deck.</li><li>If The Infinity Stones 1B was completed, each player discards the top half of their deck.</li><li>If Norn Stone is in the campaign pool, each player puts one copy of the Norn Stone upgrade into play on its Setup side.</li><li>If Odin is in the campaign pool, put Odin into play on his King side.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario.</li><li><b>Expert Campaign Only:</b> Each player may place one acceleration token on the main scheme to heal their identity to its full hit point value.</li><li><b>Expert Campaign Only:</b> If the players lose this game, Loki exerts his rule over all the universe and the players lose the campaign.</li></ul>",
+      "resolution": "<b>Victory:</b><br>Loki is defeated and the players win the campaign!",
+      "image": "loki.jpg"
+    }
+  ],
+  "modulars": {
+    "ebony_maw": [
+      { "name": "Black Order", "code": "black_order" },
+      { "name": "Armies of Titan", "code": "armies_of_titan" }
+    ],
+    "tower_defense": [
+      { "name": "Armies of Titan", "code": "armies_of_titan" }
+    ],
+    "thanos": [
+      { "name": "Infinity Gauntlet", "code": "infinity_gauntlet" },
+      { "name": "Black Order", "code": "black_order" },
+      { "name": "Children of Thanos", "code": "children_of_thanos" }
+    ],
+    "hela": [
+      { "name": "Legions of Hel", "code": "legions_of_hel" },
+      { "name": "Frost Giants", "code": "frost_giants" }
+    ],
+    "loki": [
+      { "name": "The Infinity Gauntlet", "code": "infinity_gauntlet" },
+      { "name": "Enchantress", "code": "enchantress" },
+      { "name": "Frost Giants", "code": "frost_giants" }
+    ]
+  },
+  "campaign_notes": [
+      "Notes"
+  ],
+  "campaign_counters": [
+    
+  ],
+  "campaign_checkbox": [
+    "Cosmo added to campaign pool",
+    "Security Breach added to campaign pool",
+    "Shawarma added to campaign pool",
+    "Black Swan added to campaign pool",
+    "Avengers Tower has the Damaged trait",
+    "System Shock added to campaign pool",
+    "The Infinity Stones 1B was completed",
+    "Norn Stone added to campaign pool",
+    "Odin added to campaign pool"
+  ]
+}
