@@ -130,6 +130,18 @@
         "faction_code": "game_module",
         "pack_code": "2025_weekly"
 				
+    },
+    {
+        "name": "A Close Call",
+        "text": "Defeat one of the following scenarios as any hero(es): Ultron, Red Skull, Ronan the Accuser, Thanos, Venom, Magneto, Stryfe, En Sabah Nur, or Baron Zemo.<br>During this scenario, the villain cannot be defeated unless either A) each identity has only 1 hit point remaining or B) the final stage of the main scheme is only 1 threat away from being completed. (For an even harder challenge, do both A and B at the same time.)",
+        "expansions_needed": "Marvel Champions Core Set. Rise of Red Skull. Galaxy’s Most Wanted. Mad Titan’s Shadow. Sinister Motives. Mutant Genesis. NeXt Evolution. Age of Apocalypse. Agents of S.H.I.E.L.D.",
+        "type_code": "challenge",
+        "position": 12,
+        "quantity": 1,
+        "code": "999112",
+        "faction_code": "game_module",
+        "pack_code": "2025_weekly"
+				
     }
      
 ]
