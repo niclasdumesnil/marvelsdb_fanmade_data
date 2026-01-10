@@ -1,0 +1,87 @@
+{
+    "code": "skrull_menace_campaign_by_kajislav",
+    "name": "Skrull Menace",
+    "creator": "Kajislav",
+    "description": "<i>Welcome to the Skrull Menace campaign expansion! This set comes with five new scenarios that tell the story of the Skrull Empire's multiple attempts to conquer planet Earth, both during the Empire's heyday and its near destruction.</i>",
+    "epilogue": "<i>Queen Veranke is defeated and the players win the campaign!</i>",
+    "image": "skrull_menace.jpg",
+    "type": "custom",
+    "position": 202,
+    "scenarios": [
+        {
+            "code": "skrull_empire_by_kajislav",
+            "name": "Scenario #1 - Skrull Empire",
+            "description": "<i>The Skrulls are a ferocious warrior race, and one of the most devious races in the cosmos. And yet, in their own way they are also a noble warrior race, whom have carved for themselves one of the oldest interstellar empires in the universe. The Skrulls conquered or colonized every suitable world in the Andromeda Galaxy. Are you able to stop them from dominating planet Earth?</i>",
+            "introduction": "<b>Campaign Instructions - Setup:</b><br><ul><li>Each player records their identity in the campaign log found on page 22 of this rulebook. Players cannot switch identities during a campaign.</li><li>Shuffle the Cosmic Cube Creation side scheme into the encounter deck.</li><li>Set the Shaper of Worlds minion and one copy of the Cosmic Cube Fragment resource per player aside, out of play.</li><li>Shuffle one random Skrull Elite modular encounter set (Crusader, Jazinda, Skymax, War-Skrull or Xavin) into the encounter deck.</li></ul>",
+            "resolution": "<b>Campaign Instructions - Victory:</b><br><ul><li>Record each minion and side scheme in the victory display to the Cooperation Progress section of the rulebook.</li><li>Add each card whose requirements are met in the Cooperation Progress section from the campaign set to the Cooperation Area.</li><li>Record which game area the Skrull Elite minion is in.</li><li>Add the ally matching the title of the Skrull Elite minion in the victory display and a player side scheme matching the aspect of that ally from the campaign set to the Cooperation Area.</li><li>Record which game area the Shaper of Worlds minion is in.</li><li>Record which game area the Cosmic Cube Creation side scheme is in.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+            "image": "skrull_empire.jpg"
+        },
+        {
+            "code": "super-skrull_by_kajislav",
+            "name": "Scenario #2 - Super-Skrull",
+            "description": "<i>The fall of the Skrull Empire began when the Skrull throneworld was devoured by Galactus. If that wasn't devastating enough, the subsequent Skrull civil war and the Annihilation wave further decimated the Skrull race. A new emperor was needed to unify and lead Skrulls scattered across the galaxy. Kl'rt, the Super-Skrull learned that Princess Anelle had a child with his old foe, the original Captain Marvel, and made it his mission to find this heir, named Dorrek VIII, and bring him to Andromeda Galaxy to convince him to become the ruler of the Empire and reunify his people.</i>",
+            "introduction": "<b>Campaign Instructions - Setup:</b><br><ul><li>If Shaper of Worlds is marked as \"In play\", put it into play engaged with the first player.</li><li>If Shaper of Worlds is marked as \"Set aside, out of play\", set it aside, out of play.</li><li>If Shaper of Worlds is marked as \"In another game area\", shuffle it into the encounter deck.</li><li>If Cosmic Cube Creation is marked as \"In play\", put it into play and set one copy of the Cosmic Cube Fragment resource per player aside, out of play.</li><li>If Cosmic Cube Creation is marked as \"In the victory display\", remove it from the campaign.</li><li>If Cosmic Cube Creation is marked as as \"In another game area\", shuffle it into the encounter deck and set one copy of the Cosmic Cube Fragment resource per player aside, out of play.</li><li>If the Skrull Elite minion from the previous scenario is marked as \"In the victory display\", remove it and its encounter set from the campaign.</li><li>If the Skrull Elite minion from the previous scenario is marked as \"In another game area\", shuffle it and its encounter set into the encounter deck.</li><li>Shuffle one other random Skrull Elite modular encounter set (Crusader, Jazinda, Skymax, War-Skrull or Xavin) into the encounter deck.</li><li>Each player may shuffle one card of each card type from the Cooperation Area into their deck.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario.</li><li><b>Expert Campaign Only:</b> Each player may place one acceleration token on the main scheme to heal their identity to its full hit point value.</li></ul>",
+            "resolution": "<b>Campaign Instructions - Victory:</b><br><ul><li>Add the Super-Skrull ally and Searching for Powers player side scheme from the campaign set to the Cooperation Area.</li><li>Record each minion and side scheme in the victory display to the Cooperation Progress section of the rulebook.</li><li>Add each card whose requirements are met in the Cooperation Progress section from the campaign set to the Cooperation Area.</li><li>Record which game area the Skrull Elite minions are in.</li><li>Add each ally matching the title of the Skrull Elite minion in the victory display and a player side scheme matching the aspect of that ally from the campaign set to the Cooperation Area.</li><li>Record which game area the Shaper of Worlds minion is in.</li><li>Record which game area the Cosmic Cube Creation side scheme is in.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+            "image": "super_skrull.jpg"
+        },
+        {
+            "code": "paibok_by_kajislav",
+            "name": "Scenario #3 - Paibok",
+            "description": "<i>After the failed attempt of Super-Skrull to kidnap Dorrek VIII and make him an emperor of the shattered Skrull Empire, the Skrull scientists took a loyal Skrull soldier named Paibok and turned him into a new Skrull super soldier, the Power Skrull. Instead of the powers of the Fantastic Four, Paibok has been gifted with powers of several X-Men. Paibok teams up with a group of super villains who call themselves the New Revengers. Can you stop the genetically enhanced Power Skrull from mastering all of his powers and conquering Earth?</i>",
+            "introduction": "<b>Campaign Instructions - Setup:</b><br><ul><li>If Shaper of Worlds is marked as \"In play\", put it into play engaged with the first player.</li><li>If Shaper of Worlds is marked as \"Set aside, out of play\", set it aside, out of play.</li><li>If Shaper of Worlds is marked as \"In another game area\", shuffle it into the encounter deck.</li><li>If Cosmic Cube Creation is marked as \"In play\", put it into play and set one copy of the Cosmic Cube Fragment resource per player aside, out of play.</li><li>If Cosmic Cube Creation is marked as \"In the victory display\", remove it from the campaign.</li><li>If Cosmic Cube Creation is marked as as \"In another game area\", shuffle it into the encounter deck and set one copy of the Cosmic Cube Fragment resource per player aside, out of play.</li><li>Each Skrull Elite minion from the previous scenario, that is marked as \"In the victory display\", and its encounter set are removed from the campaign.</li><li>Each Skrull Elite minion from the previous scenario, that is marked as \"In another game area\", and its encounter set are shuffled into the encounter deck.</li><li>Shuffle one other random Skrull Elite modular encounter set (Crusader, Jazinda, Skymax, War-Skrull or Xavin) into the encounter deck.</li><li>Each player may shuffle one card of each card type from the Cooperation Area into their deck.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario.</li><li><b>Expert Campaign Only:</b> Each player may place one acceleration token on the main scheme to heal their identity to its full hit point value.</li></ul>",
+            "resolution": "<b>Campaign Instructions - Victory:</b><br><ul><li>Add the Paibok ally and Skrull Military Training player side scheme from the campaign set to the Cooperation Area.</li><li>Record each minion and side scheme in the victory display to the Cooperation Progress section of the rulebook.</li><li>Add each card whose requirements are met in the Cooperation Progress section from the campaign set to the Cooperation Area.</li><li>Record which game area the Skrull Elite minions are in.</li><li>Add each ally matching the title of the Skrull Elite minion in the victory display and a player side scheme matching the aspect of that ally from the campaign set to the Cooperation Area.</li><li>Record which game area the Shaper of Worlds minion is in.</li><li>Record which game area the Cosmic Cube Creation side scheme is in.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+            "image": "paibok.jpg"
+        },
+        {
+            "code": "skrull_pantheon_by_kajislav",
+            "name": "Scenario #4 - Skrull Pantheon",
+            "description": "<i>Kly'bn and Sl'gur't are the only true gods of the Skrull Empire. They are presented as the emperor and the empress of the Skrull Pantheon. Although Kly'bn was capable of shapeshifting, he pledged to never change his shape again, to stand as a symbol and reminder to his people of who and what they were. Sl'gur't of the Infinite Names also made a sacrifice, and pledged never to keep the same form for more than a few moments, to represent the shape-changing ability of the Skrulls. The two of them indirectly supported the creation and expansion of the Skrull Empire. They conquered and enslaved the pantheons of the conquered races, numbering nearly 1000 pantheons. Now the duo is after the native gods of planet Earth.</i>",
+            "introduction": "<b>Campaign Instructions - Setup:</b><br><ul><li>If Shaper of Worlds is marked as \"In play\", put it into play engaged with the first player.</li><li>If Shaper of Worlds is marked as \"Set aside, out of play\", set it aside, out of play.</li><li>If Shaper of Worlds is marked as \"In another game area\", shuffle it into the encounter deck.</li><li>If Cosmic Cube Creation is marked as \"In play\", put it into play and set one copy of the Cosmic Cube Fragment resource per player aside, out of play.</li><li>If Cosmic Cube Creation is marked as \"In the victory display\", remove it from the campaign.</li><li>If Cosmic Cube Creation is marked as as \"In another game area\", shuffle it into the encounter deck and set one copy of the Cosmic Cube Fragment resource per player aside, out of play.</li><li>Each Skrull Elite minion from the previous scenario, that is marked as \"In the victory display\", and its encounter set are removed from the campaign.</li><li>Each Skrull Elite minion from the previous scenario, that is marked as \"In another game area\", and its encounter set are shuffled into the encounter deck.</li><li>Shuffle one other random Skrull Elite modular encounter set (Crusader, Jazinda, Skymax, War-Skrull or Xavin) into the encounter deck.</li><li>Each player may shuffle one card of each card type from the Cooperation Area into their deck.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario.</li><li><b>Expert Campaign Only:</b> Each player may place one acceleration token on the main scheme to heal their identity to its full hit point value.</li></ul>",
+            "resolution": "<b>Campaign Instructions - Victory:</b><br><ul><li>Record each minion and side scheme in the victory display to the Cooperation Progress section of the rulebook.</li><li>Add each card whose requirements are met in the Cooperation Progress section from the campaign set to the Cooperation Area.</li><li>Record which game area the Skrull Elite minions are in.</li><li>Add each ally matching the title of the Skrull Elite minion in the victory display and a player side scheme matching the aspect of that ally from the campaign set to the Cooperation Area.</li><li>Record which game area the Shaper of Worlds minion is in.</li><li>Record which game area the Cosmic Cube Creation side scheme is in.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+            "image": "pantheon.jpg"
+        },
+        {
+            "code": "secret_invasion_by_kajislav",
+            "name": "Scenario #5 - Secret Invasion",
+            "description": "<i>With no home and cataclysmic events almost decimating the Skrullian race, the Skrulls find themselves pushed to the edge. Princess Veranke was a faithful believer of the prophecy that destruction would come for the Skrull Throneworld. She was banished for her faith, but when the prophecy was fulfilled, she was declared the Skrull Queen. She travelled to Earth and, impersonating the avenger Spider-Woman, she laid the groundwork for the invasion of the planet the Skrulls had long since hated.</i>",
+            "introduction": "<b>Campaign Instructions - Setup:</b><br><ul><li>If Shaper of Worlds is marked as \"In play\", put it into play engaged with the first player.</li><li>If Shaper of Worlds is marked as \"Set aside, out of play\", set it aside, out of play.</li><li>If Shaper of Worlds is marked as \"In another game area\", shuffle it into the encounter deck.</li><li>If Cosmic Cube Creation is marked as \"In play\", put it into play and set one copy of the Cosmic Cube Fragment resource per player aside, out of play.</li><li>If Cosmic Cube Creation is marked as \"In the victory display\", remove it from the campaign.</li><li>If Cosmic Cube Creation is marked as as \"In another game area\", shuffle it into the encounter deck and set one copy of the Cosmic Cube Fragment resource per player aside, out of play.</li><li>Each Skrull Elite minion from the previous scenario, that is marked as \"In the victory display\", and its encounter set are removed from the campaign.</li><li>Each Skrull Elite minion from the previous scenario, that is marked as \"In another game area\", and its encounter set are shuffled into the encounter deck.</li><li>Shuffle the remaining Skrull Elite modular encounter set (Crusader, Jazinda, Skymax, War-Skrull or Xavin) into the encounter deck.</li><li>Each player may shuffle one card of each card type from the Cooperation Area into their deck.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario.</li><li><b>Expert Campaign Only:</b> Each player may place one acceleration token on the main scheme to heal their identity to its full hit point value.</li></ul>",
+            "resolution": "<b>Campaign Instructions - Victory:</b><br>Queen Veranke is defeated and the players win the campaign!",
+            "image": "secret_invasion.jpg"
+        }
+    ],
+    "modulars": {
+        "skrull_empire_by_kajislav": [
+            { "name": "Army of Skrulls", "code": "army_of_skrulls_by_kajislav" },
+            { "name": "Skrull Society", "code": "skrull_society_by_kajislav" }
+        ],
+        "super-skrull_by_kajislav": [
+            { "name": "Army of Skrulls", "code": "army_of_skrulls_by_kajislav" },
+            { "name": "Kree-Skrull War", "code": "kree-skrull_war_by_kajislav" }
+        ],
+        "paibok_by_kajislav": [
+            { "name": "New Revengers", "code": "new_revengers_by_kajislav" }
+        ],
+        "skrull_pantheon_by_kajislav": [
+            { "name": "Dard'van Sect", "code": "dard'van_sect_by_kajislav" },
+            { "name": "Skrull Society", "code": "skrull_society_by_kajislav" }
+        ],
+        "secret_invasion_by_kajislav": [
+            { "name": "Army of Skrulls", "code": "army_of_skrulls_by_kajislav" }
+        ]
+    },
+    "campaign_notes": [
+        "Shaper of Worlds' Game Area",
+        "Cosmic Cube Creation's Game Area"
+    ],
+    "campaign_counters": [
+        "Faith counters",
+        "Mastery counters"
+    ],
+    "campaign_checkbox": [
+        "Crusader - Set included", "Crusader - In victory display", "Crusader - In another game area",
+        "Jazinda - Set included", "Jazinda - In victory display", "Jazinda - In another game area",
+        "Skymax - Set included", "Skymax - In victory display", "Skymax - In another game area",
+        "War Skrull - Set included", "War Skrull - In victory display", "War Skrull - In another game area",
+        "Xavin - Set included", "Xavin - In victory display", "Xavin - In another game area"
+    ]
+}
