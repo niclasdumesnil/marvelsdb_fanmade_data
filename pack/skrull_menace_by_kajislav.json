@@ -642,11 +642,11 @@
         "code": "500744",
         "cost": 3,
         "position": 44,
-        "quantity": 1,
+        "quantity": 2,
         "traits": "Superpower.",
         "resource_energy": 1,
         "set_position": 12,
-        "deck_limit": 1
+        "deck_limit": 2
     },
     {
         "name": "Ministerial Tiara",

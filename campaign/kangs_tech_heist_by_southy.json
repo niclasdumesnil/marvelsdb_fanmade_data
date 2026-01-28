@@ -1,0 +1,93 @@
+{
+    "code": "kangs_tech_heist_by_southy",
+    "name": "Kang's Tech Heist",
+    "creator": "Evan Southwell",
+    "description": "During this campaign, you will need to create the Tech deck. The Tech deck consists of encounter cards that are all attachments with the Tech trait. They represent weapons, armor, salvaged body enhancements, and items that S.H.I.E.L.D. has acquired from the various villains in the world.<br><br><b>The Tech Deck:</b><br>You may add or remove these or other Tech attachments for your Tech deck, but make sure that the deck has at least 20 cards.<br>In an Expert campaign playthrough, add all 6 cards from the Osborn Tech set (Sinister Motives Expansion) to the Tech deck (they do not count towards the 20 card minimum).<br><br><b>Campaign-Specific Cards:</b><br>This campaign utilizes upgrades from the Hydra Campaign set (The Rise of Red Skull Expansion) and Campaign - S.H.I.E.L.D. Tech set (Sinister Motives Expansion). They can only be earned by winning a scenario.",
+    "epilogue": "Kang the Criminal is defeated and the players win the campaign!",
+    "image": "kangs_tech_heist.jpg",
+    "type": "custom",
+    "position": 152,
+    "scenarios": [
+        {
+            "code": "crossbones",
+            "name": "Scenario #1 - Crossbones",
+            "description": "<i>The Adirondack Mountains, home of Project P.E.G.A.S.U.S. and at one point the secret location of the Reality Stone, but now just a S.H.I.E.L.D. storehouse. Over the years, any confiscated weapons or items from evil-doers have been brought here. Ever since Red Skull stole the Reality Stone from here, the security at this place was viewed as somewhat insufficient, so all of it is being brought elsewhere. Today would've been the day it was all moved, but just as the trucks left the main gates, the Hydra mercenary known as Crossbones and his new criminal crew attack and steal the tech being shipped out. They now have the tools to arm a small army, and they know what else could be in the storehouse, so they push further into the base to steal more. Who are they working for? It is up to you to stop them and find out!</i>",
+            "introduction": "Each player records their identity in the campaign log.<br>During deckbuilding, each player may put an upgrade with the Tech trait from any aspect into their deck. It does not count towards their deck maximum.<br>Create and shuffle the Tech deck (see campaign mode rules) and place it facedown.<br>Shuffle The Senator's Support (Military Grade #5/5) and Limitless Supply (Goblin Gear #5/6) side schemes into the encounter deck.<br><br><b>Campaign Reminder:</b><br>When an enemy schemes, take the top card of the Tech deck and shuffle it into the encounter deck (you may look at it before you shuffle). If an enemy would scheme while the Tech deck is empty, that enemy gets +1 SCH for that activation.",
+            "resolution": "Record the name and set number of each card that was put into the encounter deck from the Tech deck this game in the campaign log.<br>Deal 3 \"Campaign - S.H.I.E.L.D. Tech\" upgrades at random to a player. That player may choose 1 to add to their deck for the rest of the campaign, record that card's title in their \"S.H.I.E.L.D. Tech\" section of the campaign log, then return the others to the collection. Cards chosen this way do not count towards minimum or maximum deck size. Repeat this process for each player.<br>Record the name of each Experimental attachment that entered the game in the campaign log.<br><br><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.",
+            "epilogue": "",
+            "image": "crossbones_tech.jpg"
+        },
+        {
+            "code": "klaw",
+            "name": "Scenario #2 - Klaw",
+            "description": "<i>While you were able to stop Crossbones from getting away with some of the stronger weapons, his crew got away with most of the tech that was being shipped away. The head of the facility decides to give you some old S.H.I.E.L.D tech that has been collecting dust in order to help you catch the thieves. You track the stolen shipment to an abandoned warehouse, or what should be an abandoned warehouse. It appears to be in operation by Klaw, the notorious Master of Evil. He has gotten his underground weapons network back up and running and seems to have rewired some Sentinels to act as workers, and more likely as bodyguards. You get word that he is meeting with the Crimson Cowl to sell the stolen tech. Now is your chance to take out the seller and the dealer of this operation, get to it!</i>",
+            "introduction": "During deckbuilding, each player may put an upgrade with the Tech trait from any aspect into their deck. It does not count towards their deck maximum.<br>Shuffle each Tech attachment recorded in the campaign log into the encounter deck.<br>Create and shuffle the Tech deck (see campaign mode rules) with the remaining cards and place it facedown.<br>Shuffle The Senator's Support (Military Grade #5/5) and Limitless Supply (Goblin Gear #5/6) side schemes into the encounter deck.<br>Shuffle each Experimental attachment recorded in the campaign log into the encounter deck.<br>Each player searches their deck for their \"S.H.I.E.L.D. Tech\" upgrade and puts them into play.<br><br><b>Campaign Reminder:</b><br>When an enemy schemes, take the top card of the Tech deck and shuffle it into the encounter deck (you may look at it before you shuffle). If an enemy would scheme while the Tech deck is empty, that enemy gets +1 SCH for that activation.<br><br><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario. Each player may add the top card of the Tech deck to the encounter deck to heal their identity to its full hit point value.",
+            "resolution": "Record the name and set number of each card that was put into the encounter deck from the Tech deck this game in the campaign log.<br>Each player chooses one of the Tech upgrades from the \"Hydra Campaign\" set and adds it to their deck.<br><br><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.",
+            "epilogue": "",
+            "image": "klaw_warehouse.jpg"
+        },
+        {
+            "code": "kang",
+            "name": "Scenario #3 - Kang",
+            "description": "<i>You have captured Klaw, but alas, he has sold the stolen tech and a small platoon of Sentinels to the Crimson Cowl, who reveals himself as Kang! It is now clear that Kang has hired Crossbones and Klaw to acquire this tech for him and his gang to perform further time heists across the timeline. Once he arms his Macrobots, Sentinels, and Iron Spider's Sinister Six with high-powered weaponry, his new criminal empire will be unstoppable! Seeing as the situation is dire, you decide to take some of the old Avengers tech Klaw had in his warehouse to help defeat Kang, as well as some upgrades for your S.H.I.E.L.D. tech. You must now give chase and prevent the rise of Kang the Criminal!</i>",
+            "introduction": "During deckbuilding, each player may put an upgrade with the Tech trait from any aspect into their deck. It does not count towards their deck maximum.<br>Shuffle each Tech attachment recorded in the campaign log into the encounter deck.<br>Create and shuffle the Tech deck (see campaign mode rules) with the remaining cards and place it facedown.<br>Shuffle The Senator's Support (Military Grade #5/5) and Limitless Supply (Goblin Gear #5/6) side schemes into the encounter deck.<br>Shuffle each Experimental attachment recorded in the campaign log into the encounter deck.<br>Each player searches their deck for their \"S.H.I.E.L.D. Tech\" upgrade and puts them into play on its Enhanced side.<br>Each player searches their deck for their \"Hydra Campaign\" upgrade and puts them into play.<br><br><b>Campaign Reminder:</b><br>When an enemy schemes, take the top card of the Tech deck and shuffle it into the encounter deck (you may look at it before you shuffle). If an enemy would scheme while the Tech deck is empty, that enemy gets +1 SCH for that activation.<br><br><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario. Each player may add the top card of the Tech deck to the encounter deck to heal their identity to its full hit point value.",
+            "resolution": "Kang the Criminal is defeated and the players win the campaign!",
+            "epilogue": "",
+            "image": "kang_criminal.jpg"
+        }
+    ],
+    "modulars": {
+        "crossbones": [
+            {
+                "name": "Experimental Weapons",
+                "code": "exper_weapon"
+            },
+            {
+                "name": "Weapon Master",
+                "code": "weap_master"
+            },
+            {
+                "name": "Sinister Syndicate",
+                "code": "sinister_syndicate"
+            },
+            {
+                "name": "Black Tom Cassidy",
+                "code": "black_tom_cassidy"
+            }
+        ],
+        "klaw": [
+            {
+                "name": "Sentinels",
+                "code": "sentinels"
+            },
+            {
+                "name": "Weapon Master",
+                "code": "weap_master"
+            }
+        ],
+        "kang": [
+            {
+                "name": "Sentinels",
+                "code": "sentinels"
+            },
+            {
+                "name": "Weapon Master",
+                "code": "weap_master"
+            },
+            {
+                "name": "Iron Spider's Sinister Six",
+                "code": "ironspider_sinister"
+            }
+        ]
+    },
+    "campaign_notes": [
+        "S.H.I.E.L.D. Tech Upgrade",
+        "Hydra Campaign Upgrade",
+        "Tech Deck Cards Added Into Encounter Deck",
+        "Experimental Weapons Added Into Encounter Deck"
+    ],
+    "campaign_counters": [
+        
+    ],
+    "campaign_checkbox": []
+}

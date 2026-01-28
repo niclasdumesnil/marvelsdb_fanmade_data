@@ -1,0 +1,83 @@
+{
+    "code": "captain_america_winter_soldier_by_yazan",
+    "name": "Captain America: The Winter Soldier: The Card Game",
+    "creator": "Yazan Kawar",
+    "description": "This is my tribute to one of my favourite M.C.U. movies, Captain America: The Winter Soldier. Each scenario captures an iconic battle in the movie in the best way I was able to, using existing Marvel Champions cards.<br><br>In the final scenario, Alexander Pierce, the Secretary of the World Security Council, is represented by one overturned S.H.I.E.L.D. board member. The villain that puts everything in motion in the movie is Arnim Zola, but by the time the final act takes place, he is no more. In my campaign, we will fight Zola symbolically, as we are trying to take down his legacy - Hydra's rebirth.",
+    "epilogue": "Zola's legacy is halted with the destruction of the Project Insight helicarriers. As the three Insight ships come crashing down to the ground, reality also comes crashing down on our heroes. Hydra is back and S.H.I.E.L.D. is no more - all of its bases have been infiltrated by Hydra. Agent Romanoff's identity has been exposed.<br><br>Bucky Barnes escapes, his mind racing with memories of a life lived long ago. Free from Hydra's control, he goes into hiding.<br><br>The players win the campaign. Captain America will return.",
+    "image": "captain_america_winter_soldier_by_yazan.jpg",
+    "type": "custom",
+    "position": 151,
+    "scenarios": [
+        {
+            "code": "batroc",
+            "name": "Scenario #1 - Batroc Hijacks the Lemurian Star",
+            "description": "<i>Two years after the Battle of New York, Steve Rogers works in Washington, D.C. for the spy agency S.H.I.E.L.D. While he is out on a morning jog with Sam Wilson, Agent Natasha Romanoff arrives to bring him in on a mission with S.H.I.E.L.D.'s counter-terrorism STRIKE team, led by Brock Rumlow. A S.H.I.E.L.D. vessel by the name of the Lemurian Star had been hijacked by pirates led by Georges Batroc and Cap, Widow, and the team are tasked with rescuing the hostages aboard.</i>",
+            "introduction": "Put the Black Widow Protection Ally (Core Set) into play under any player's control.<br><ul><li>This card is considered to be owned by this player for the duration of the scenario and bypasses all deck-building restrictions other than for Uniqueness.</li><li>This card does not count towards the player's minimum or maximum deck size.</li><li>The owner may elect to treat all of this card's traits as blank for this scenario.</li></ul><br><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign.",
+            "resolution": "Each player may choose one support or upgrade they control with a cost of two or less (three or less if all four Rescued Captive allies are in play) and record it in the campaign log.<br>(Each player will be able to start the following scenarios with their chosen card in play at the cost of additional threat on the main scheme.)<br>Players cannot choose cards without a cost (i.e. that have a cost of \"-\").<br><br><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign.",
+            "epilogue": "",
+            "image": "batroc_lemurian.jpg"
+        },
+        {
+            "code": "crossbones",
+            "name": "Scenario #2 - Crossbones Shares an Elevator",
+            "description": "<i>During the hostage rescue, Rogers discovers that Agent Romanoff had her own secret mission from Director Fury to extract some S.H.I.E.L.D. intelligence onto a USB drive. He goes to confront Nick Fury about being kept in the dark, and Fury reveals S.H.I.E.L.D.'s upcoming Project Insight, consisting of three brand new state-of-the-art Insight helicarriers. These helicarriers are designed to sit at 3000 ft in the air and neutralize enemy threats based on Insight satellite data. Fury reveals his suspicions to Cap about the project and hands him the USB key, telling him \"Don't trust anyone\".<br><br>After Rogers leaves, he learns Fury was attacked by a mysterious masked assassin known as the Winter Soldier and has been rushed to hospital. Cap rushes back to the Triskelion, where he is questioned by Alexander Pierce, the head of the World Security Council. Cap says nothing about the USB key and starts to leave.<br><br>While in the elevator, Captain America and our heroes are joined by Brock Rumlow and an increasing number of STRIKE team operatives. They soon realize that this is no coincidence.<br><br>Cap cuts through the tension. \"Before we get started, does anyone want to get out?\"</i>",
+            "introduction": "Players select between the Captain America Leadership Ally (The Mad Titan's Shadow) or Captain America Aggression Ally (Winter Soldier Hero Pack). Put the selected Captain America ally into play under any player's control.<br><ul><li>This card is considered to be owned by this player for the duration of the scenario and bypasses all deck-building restrictions other than for Uniqueness.</li><li>This card does not count towards the player's minimum or maximum deck size.</li><li>The owner may elect to treat all of this card's traits as blank for this scenario.</li></ul><br>Each player may take one copy of the card they recorded in the campaign log from their deck and put it into play under their control. Then, add threat to the main scheme equal to the total cost of the cards put into play this way.<br><br><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario.<br><b>Expert Campaign Only:</b> Each player may deal themself one facedown encounter card to heal their identity to its full hit point value.",
+            "resolution": "Each player may choose one support or upgrade they control with a cost of X or less (where X is equal to five minus the number of EXPERIMENTAL attachments that entered the game) and record it in the campaign log.<br>(Each player will be able to start the following scenarios with their chosen card in play at the cost of additional threat on the main scheme.)<br>Players cannot choose cards without a cost (i.e. that have a cost of \"-\").<br><br><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign.",
+            "epilogue": "",
+            "image": "crossbones_elevator.jpg"
+        },
+        {
+            "code": "zola",
+            "name": "Scenario #3 - Zola's Hydra Legacy",
+            "description": "<i>After escaping the Triskelion, Cap and Widow decipher the information on the USB key. They learn that after the war, S.H.I.E.L.D. recruited former Hydra members, including Arnim Zola, former Nazi scientist. Zola used his position to reform Hydra in the shadows within S.H.I.E.L.D. Agents have been turned from the top-down, along with powerful men such as Alexander Pierce, Secretary of the World Security Council. Furthermore, it turns out that Zola saved the life of Captain America's childhood friend Bucky Barnes, only to brainwash him and turn him as well.<br><br>Zola constructed an algorithm to take over the Project Insight helicarriers to eliminate targets around the world on behalf of Hydra, including the President and Cap himself, and Pierce and his goons are about to launch it.<br><br>Rumlow and the Hydra STRIKE team enter the S.H.I.E.L.D. control room and begin a hostage situation in an effort to launch the helicarriers. Agent 13 intervenes, but Rumlow manages to launch them anyway. The only way to stop them now is to disable S.H.I.E.L.D.'s control of them, dropping them out of the air.<br><br>With the Insight helicarriers in the sky, our heroes arrive back at the Triskelion. Sam Wilson takes to the skies in his Falcon suit to disable the helicarriers, taking Cap with him. The Winter Soldier, now revealed to be Bucky Barnes-turned-Hydra sleeper agent, is waiting to stop them.<br><br>Can our heroes stop Alexander Pierce, the Winter Soldier, and Zola's Hydra legacy?</i>",
+            "introduction": "Put all three S.H.I.E.L.D. Executive Board member environments into play. Select one at random and flip it over and attach it to the villain. Place two counters on each of the other two. Shuffle the remaining three cards into the encounter deck.<br>Put the Winter Soldier hero card (Winter Soldier Hero Pack) engaged with a randomly selected player and attach Reluctant Foe (Agents of S.H.I.E.L.D. - Baron Zemo #7) to it.<br>Put a copy of Zola's Algorithm (Rise of Red Skull - Expert Campaign Set #1/4) into play for each player's identity.<br>Players may place one copy of Agent 13 (Captain America or Sinister Motives/Ironheart) under Hydra Prison and add 4 threat on the side scheme. If this option is chosen, the player that defeats Hydra Prison takes ownership of the campaign Agent 13 for the remainder of the scenario, regardless of deckbuilding restrictions, aside from Uniqueness.<br>Put the Sam Wilson Falcon Leadership Ally (Captain America Hero Pack) into play under any player's control.<br><ul><li>This card is considered to be owned by this player for the duration of the scenario and bypasses all deck-building restrictions other than Uniqueness.</li><li>This card does not count towards the player's minimum or maximum deck size.</li><li>The owner may elect to treat all of this card's traits as blank for this scenario.</li></ul><br>Each player may take one copy of each card they recorded in the campaign log from their deck and put it into play under their control. Then, add threat to the main scheme equal to the total cost of the cards put into play this way.<br><br><b>Expert Campaign Only:</b> Attach Neurological Implants (Rise of Red Skull - Zola #21/31) to Winter Soldier.<br><b>Expert Campaign Only:</b> Set each player's hit points to their remaining hit point value recorded in the campaign log for the previous scenario.<br><b>Expert Campaign Only:</b> Each player may deal themself one facedown encounter card to heal their identity to its full hit point value.",
+            "resolution": "Zola's legacy is halted with the destruction of the Project Insight helicarriers. As the three Insight ships come crashing down to the ground, reality also comes crashing down on our heroes. Hydra is back and S.H.I.E.L.D. is no more - all of its bases have been infiltrated by Hydra. Agent Romanoff's identity has been exposed.<br><br>Bucky Barnes escapes, his mind racing with memories of a life lived long ago. Free from Hydra's control, he goes into hiding.<br><br>The players win the campaign. Captain America will return.",
+            "epilogue": "",
+            "image": "zola_hydra.jpg"
+        }
+    ],
+    "modulars": {
+        "batroc": [
+            {
+                "name": "Space Pirates",
+                "code": "space_pirates"
+            },
+            {
+                "name": "Batroc's Brigade",
+                "code": "batrocs_brigade"
+            }
+        ],
+        "crossbones": [
+            {
+                "name": "Experimental Weapons",
+                "code": "exper_weapon"
+            },
+            {
+                "name": "Hydra Patrol",
+                "code": "hydra_patrol"
+            },
+            {
+                "name": "S.H.I.E.L.D.",
+                "code": "s.h.i.e.l.d."
+            }
+        ],
+        "zola": [
+            {
+                "name": "Hydra Assault",
+                "code": "hydra_assault"
+            },
+            {
+                "name": "S.H.I.E.L.D. Executive Board",
+                "code": "s.h.i.e.l.d._executive_board"
+            }
+        ]
+    },
+    "campaign_notes": [
+        "Support/Upgrade #1",
+        "Support/Upgrade #2"
+    ],
+    "campaign_counters": [
+        
+    ],
+    "campaign_checkbox": []
+}

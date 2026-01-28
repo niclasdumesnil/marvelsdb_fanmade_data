@@ -1,0 +1,94 @@
+{
+    "code": "genetic_manipulation_by_8_bit_quill",
+    "name": "Genetic Manipulation",
+    "creator": "8-Bit Quill",
+    "description": "It's been a hell of a day. Or is it week? You're not entirely sure how long you were out, but however long it was seems to have been enough to strap you to a table and inject you with something. Groggy or not, the restraints aren't something that are going to hold you for more than a few passing seconds. Sitting up, you see the familiar faces of your team going through the same process.<br><br>The last thing you remember was sharing a drink at the annual Krakoan Independence celebration. Xavier announced the new X-Men teams, showed us new technology for portals, all the usual stuff. When you stepped away for a breather, Greycrow approached you with drinks in hand. And now you're here. He's going to have some questions to answer later, but for now you prioritize freeing the civilians in the lab that are having more trouble with their restraints before trying the door.<br><br>It opens smoothly. Seems like whoever wanted you in here didn't expect you to be awake so quickly. Motioning the other captives to follow along, you make your way down the hallway to a large room full of people milling around. The mess hall would be much less intimidating if it wasn't full of mercenaries armed with a surprising arsenal of swords, grenades and... is that a glider?! There's no other way out, so you make yourself seen and prepare for battle as a mercenary in white shouts: \"Remember, take hostages if you need to! Overwhelm and lock them down!\"",
+    "epilogue": "The final blow struck, Mr. Sinister collapses to the ground and the Hounds freeze. They haven't been taught how to operate without orders. As you eye Sinister, one of the rescued hostages goes over to a Hound and asks a few questions quietly, surprised at the lack of response.<br><br>Well, the Ruling Council of Krakoa has been very clear about their policy: All mutants will face judgment by mutants. And you're not going to be the one to stand against an entire government sounds like too much paperwork. It helps that between Beast, Forge and the other geniuses on the island, someone should have some idea of how to deactivate these genes and deprogram the Hounds. So now all you have to do is teleport to the middle of the Atlantic. All in a day's work.",
+    "image": "genetic_manipulation.jpg",
+    "type": "custom",
+    "position": 153,
+    "scenarios": [
+        {
+            "code": "taskmaster",
+            "name": "Scenario #1 - Taskmaster",
+            "description": "",
+            "introduction": "Take the three permanent setup attachment cards from Mr. Sinister's modular sets (Flight, Super Strength and Telepathy), shuffle them, and put one of them at random into play. This card retains Setup and Permanent, but attaches to the player rather than the villain. Read \"Attached Villain\" as \"Attached Hero\" for the purpose of ongoing effects, and +1 SCH becomes +1 THW. The card text applies to all players in each scenario.<br>Take the Rescued Civilians from the Agents of Shield box, and set them on the table. They cannot attack, thwart, or activate their Hero Ability. When the villain schemes, deal 3 damage to a Rescued Civilian. In multiplayer, Rescued Civilians get +3 Health for each extra player<br>Once a Rescued Civilian loses all of their health, it represents them being overwhelmed and recaptured; flip them face down for the remainder of the fight. If all Rescued Civilians are flipped face down, you lose the scenario.<br><br><b>Taskmaster begins with Laser Rifle from Experimental Weapons in play.</b>",
+            "resolution": "After the fight, you're hit with a bout of nausea. Something shifts under your skin as you feel a foreign influence spread through your body. Replace up to 3 cards from your deck with cards in your collection from any 1 aspect.<br>You shake off the unsettling sensation and turn to observe the small group of civilians. They seem to be alright, with a few members of the group freeing anyone recaptured in the fighting. With everyone sorted, the next step is to find the exit in this absolute maze.",
+            "epilogue": "",
+            "image": "taskmaster_lab.jpg"
+        },
+        {
+            "code": "on_the_run",
+            "name": "Scenario #2 - On the Run",
+            "description": "<i>Pushing your way out the door of the lab, a glint of light from the rooftop opposite causes your group to scatter before a few puffs of dirt shoot up near you. A man covered in patches of metal stands up, calling out as he does: \"I'm not surprised those nitwits couldn't hold down a decent contract! Still, my job was to recapture anyone who escaped before the week was out.\"<br><br>Greycrow. He loops a grappling hook around a rail and leaps, keeping the rifle expertly trained on your entourage the whole time. By himself, you're not too worried about making a run for it. But slowly, from behind Greycrow, an odd posse makes their way out of the building and forms a perimeter. It seems you're not escaping without another fight.</i>",
+            "introduction": "Take the three permanent setup attachment cards from Mr. Sinister's modular sets (Flight, Super Strength and Telepathy), shuffle them, and put one of them at random into play. This card retains Setup and Permanent, but attaches to the player rather than the villain. Read \"Attached Villain\" as \"Attached Hero\" for the purpose of ongoing effects, and +1 SCH becomes +1 THW. The card text applies to all players in each scenario.<br>Take the Rescued Civilians from the Agents of Shield box, and set them on the table. They cannot attack, thwart, or activate their Hero Ability. When the villain schemes, deal 3 damage to a Rescued Civilian. In multiplayer, Rescued Civilians get +3 Health for each extra player<br>Once a Rescued Civilian loses all of their health, it represents them being overwhelmed and recaptured; flip them face down for the remainder of the fight. If all Rescued Civilians are flipped face down, you lose the scenario.<br><br>Greycrow is the selected villain for this scenario, and will use the Hope's Captor card as the regular scenario does. For flavor, imagine the card referencing the hostages instead.<br>Replace Tempo and Thumbelina from Extreme Measures with Samurai from Mutant Insurrection and Malice from the Next Evolution Campaign.<br>Flip all Rescued Civilians face up before beginning the fight.",
+            "resolution": "Defeating Greycrow is less satisfying than you were hoping for. Not only does he not remember meeting up with you at the celebration, but the only information he was given about this job was that he was supposed to gather a crew and guard the facility door. It doesn't make any sense!<br>The fight finished, you head in the direction of a safehouse you use in emergencies. The hostages all look as tired as you feel, so on the way you stop to find an isolated alley and slump down against the wall to catch your breath. A few of them are exhibiting similar changes to the ones you're feeling, while others have completely different powers or show no signs of anything at all.<br>While everyone is resting, one of the rescued hostages approaches you, convinced that their manifested abilities can help get you all to safety. Each player chooses one of the Rescued Inhumans from the MODOK scenario in Agents of S.H.I.E.L.D (Flying Inhuman, Psionic Inhuman, Strong Inhuman and Sarah Gaza). They begin with that ally in play in the next scenario.<br>For this campaign, treat the reminder text of the Psionic Inhuman as: \"After this ally thwarts, reduce the value of the villain's next boost card to 1.\"",
+            "epilogue": "",
+            "image": "greycrow_attack.jpg"
+        },
+        {
+            "code": "mister_sinister",
+            "name": "Scenario #3 - Mr. Sinister",
+            "description": "<i>\"Oh this is simply adorable!\" A sing-songy voice cuts through the silence. \"My little incubators, out for a walk. I was so hoping the Hellions could do their job and keep you entertained, but perhaps this outcome was preferable. It might even answer one of my questions on gene development! It exhibited itself so quickly in you... Was it the fighting that brought it out? The stress? Something to study for future opportunities.\"<br><br>A blue portal appears in the shadows nearby, and a pale man clad in a massive, garish cape strides out of it. \"I hope you don't mind being mixed in with the riff raff. I needed a variety of specimens you see, and that required taking some risks with who I could use. You don't mind, do you? Of course, that meant that I had to take certain steps. Greycrow had to be psychically controlled, various people had to be kidnapped, and, of course, we had to make sure the incubators couldn't disappear!\"<br><br>He signals into the portal and multiple people step through. You recognize them from their markings as Hounds, figures Xavier has mentioned to you exist in the future to track mutants. \"You wouldn't believe the effort it took to hack their handler,\" muses Sinister. \"I could just ask you to come back with me, but honestly I need to get some data on how the gene has affected you, and somehow I doubt you'll come back without a fight. So really, I'm doing both of us a favor!\"<br><br>You ready yourself for Sinister and the Hounds, Inhuman ally beside you.</i>",
+            "introduction": "Take the three permanent setup attachment cards from Mr. Sinister's modular sets (Flight, Super Strength and Telepathy), shuffle them, and put one of them at random into play. This card retains Setup and Permanent, but attaches to the player rather than the villain. Read \"Attached Villain\" as \"Attached Hero\" for the purpose of ongoing effects, and +1 SCH becomes +1 THW. The card text applies to all players in each scenario.<br>Take the Rescued Civilians from the Agents of Shield box, and set them on the table. They cannot attack, thwart, or activate their Hero Ability. When the villain schemes, deal 3 damage to a Rescued Civilian. In multiplayer, Rescued Civilians get +3 Health for each extra player<br>Once a Rescued Civilian loses all of their health, it represents them being overwhelmed and recaptured; flip them face down for the remainder of the fight. If all Rescued Civilians are flipped face down, you lose the scenario.<br><br>Remove the main scheme 2A relating to your permanent upgrade, and its modular cards, from the game.<br>Set aside the two remaining permanent modular sets for Mr. Sinister, bringing them in at random as directed in the base scenario.<br>Do not use the Hope modular set for this encounter.<br>In Mr. Sinister's phase 3B, he attacks the Rescued Civilians rather than Hope.",
+            "resolution": "The final blow struck, Mr. Sinister collapses to the ground and the Hounds freeze. They haven't been taught how to operate without orders. As you eye Sinister, one of the rescued hostages goes over to a Hound and asks a few questions quietly, surprised at the lack of response.<br><br>Well, the Ruling Council of Krakoa has been very clear about their policy: All mutants will face judgment by mutants. And you're not going to be the one to stand against an entire government sounds like too much paperwork. It helps that between Beast, Forge and the other geniuses on the island, someone should have some idea of how to deactivate these genes and deprogram the Hounds. So now all you have to do is teleport to the middle of the Atlantic. All in a day's work.",
+            "epilogue": "",
+            "image": "mr_sinister_lab.jpg"
+        }
+    ],
+    "modulars": {
+        "taskmaster": [
+            {
+                "name": "Batroc's Brigade",
+                "code": "batrocs_brigade"
+            },
+            {
+                "name": "Goblin Gimmicks",
+                "code": "goblin_gimmicks"
+            },
+            {
+                "name": "Experimental Weapons",
+                "code": "exper_weapon"
+            }
+        ],
+        "on_the_run": [
+            {
+                "name": "Jubilee Nemesis",
+                "code": "jubilee_nemesis"
+            },
+            {
+                "name": "Extreme Measures",
+                "code": "extreme_measures"
+            },
+            {
+                "name": "Mutant Insurrection",
+                "code": "mutant_insurrection"
+            },
+            {
+                "name": "Next Evolution Campaign",
+                "code": "next_evol_campaign"
+            }
+        ],
+        "mister_sinister": [
+            {
+                "name": "Hounds",
+                "code": "hounds"
+            },
+            {
+                "name": "Flight",
+                "code": "flight"
+            },
+            {
+                "name": "Super Strength",
+                "code": "super_strength"
+            },
+            {
+                "name": "Telepathy",
+                "code": "telepathy"
+            }
+        ]
+    },
+    "campaign_notes": [],
+    "campaign_counters": [],
+    "campaign_checkbox": []
+}
