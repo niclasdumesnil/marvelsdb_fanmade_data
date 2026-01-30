@@ -15,6 +15,12 @@
     "card_set_type_code": "hero"
   },
   {
+		"card_set_type_code": "hero_special",
+		"code": "iron_man_noir_expedition_by_merlin",
+		"name": "Expedition Deck", 
+		"parent_code": "iron_man_noir_by_merlin"
+	},
+  {
     "code": "mystique_by_merlin_nemesis",
     "name": "Mystique by Merlin Nemesis",
     "card_set_type_code": "nemesis"
