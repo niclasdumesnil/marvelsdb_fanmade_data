@@ -1054,5 +1054,20 @@
     "code": "mister_negative_by_andyn",
     "name": "Mister Negative by AndyN",
     "card_set_type_code": "villain"
+  },
+  {
+    "code": "rachel_summers_by_ripper3_nemesis",
+    "name": "Rachel Summers by Ripper3 Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "rachel_summers_by_ripper3",
+    "name": "Rachel Summers by Ripper3",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "rachel_summers_tribulation_by_ripper3",
+    "name": "Rachel Summers Tribulationby Ripper3",
+    "card_set_type_code": "nemesis"
   }
 ]
