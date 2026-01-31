@@ -225,7 +225,7 @@
         "hidden": true,
         "traits": "Artifact. Item.",
         "resource_mental": 1,
-        "set_position": 16
+        "set_position": 1
     },
     {
         "is_unique": true,
@@ -243,7 +243,7 @@
         "hidden": true,
         "traits": "Armor. Artifact.",
         "resource_wild": 1,
-        "set_position": 17
+        "set_position": 2
     },
     {
         "is_unique": true,
@@ -261,7 +261,7 @@
         "hidden": true,
         "traits": "Artifact. Weapon.",
         "resource_physical": 1,
-        "set_position": 18
+        "set_position": 3
     },
     {
         "is_unique": true,
@@ -279,7 +279,7 @@
         "hidden": true,
         "traits": "Armor. Artifact.",
         "resource_wild": 1,
-        "set_position": 19
+        "set_position": 4
     },
     {
         "is_unique": true,
@@ -297,6 +297,6 @@
         "hidden": true,
         "traits": "Artifact. Item.",
         "resource_energy": 1,
-        "set_position": 20
+        "set_position": 5
     }
 ]
