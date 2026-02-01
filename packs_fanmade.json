@@ -1064,7 +1064,8 @@
     "position": 9991,
     "size": 12,
     "status": "released",
-    "visibility": "true"
+    "visibility": "true",
+    "theme": "Marvel"
   },
   {
     "cgdb_id": 2701,
@@ -1077,6 +1078,7 @@
     "position": 2701,
     "size": 36,
     "status": "sealed",
+    "theme": "Marvel",
     "visibility": "true"
   },
   {
@@ -1090,6 +1092,7 @@
     "position": 2057,
     "size": 24,
     "status": "released",
+    "theme": "Marvel",
     "visibility": "true"
   },
   {
@@ -1103,6 +1106,7 @@
     "position": 2058,
     "size": 22,
     "status": "sealed",
+    "theme": "Marvel",
     "visibility": "false"
   },
   {
@@ -1116,6 +1120,7 @@
     "position": 5020,
     "size": 22,
     "status": "released",
+    "theme": "Marvel",
     "visibility": "false"
   },
 	{
@@ -1127,9 +1132,10 @@
 		"octgn_id": "d44cc126-0575-463f-8a1e-f59476be71a5",
 		"pack_type_code": "hero_fanmade",
 		"position": 2061,
-		"size": 18,
+		"size": 23,
 		"status": "released",
-		"visibility": "false"
+    "theme": "Marvel",
+		"visibility": "true"
 	},
   {
 		"cgdb_id": 2016,
