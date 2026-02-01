@@ -360,7 +360,6 @@
     "name": "Hulking",
     "card_set_type_code": "hero"
   },
-  
   {
     "code": "manifold_by_bluehg",
     "name": "Manifold by BlueHG",
@@ -1126,5 +1125,20 @@
     "code": "aurora_northstar_special_by_designhacker",
     "name": "Aurora/Jeane Beauvier Set-aside",
     "parent_code": "aurora_northstar_by_designhacker"
+  },
+  {
+    "code": "alpha_flight_by_hax",
+    "name": "Alpha Flight by Hax",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "morbius_by_rycoran_nemesis",
+    "name": "Morbius by RyCoRan Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "morbius_by_rycoran",
+    "name": "Morbius by RyCoRan",
+    "card_set_type_code": "hero"
   }
 ]
