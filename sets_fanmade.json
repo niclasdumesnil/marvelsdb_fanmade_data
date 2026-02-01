@@ -360,21 +360,7 @@
     "name": "Hulking",
     "card_set_type_code": "hero"
   },
-  {
-    "code": "alpha_flight_by_hax",
-    "name": "Alpha Flight by Hax",
-    "card_set_type_code": "hero"
-  },
-  {
-    "code": "alpha_flight_by_hax_nemesis",
-    "name": "Alpha Flight by Hax Nemesis",
-    "card_set_type_code": "nemesis"
-  },
-  {
-    "code": "snowbird_by_hax",
-    "name": "Snowbird by Hax",
-    "card_set_type_code": "hero"
-  },
+  
   {
     "code": "manifold_by_bluehg",
     "name": "Manifold by BlueHG",
@@ -1067,7 +1053,78 @@
   },
   {
     "code": "rachel_summers_tribulation_by_ripper3",
-    "name": "Rachel Summers Tribulationby Ripper3",
+    "name": "Rachel Summers Tribulation by Ripper3",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "firestar_by_bluehg_nemesis",
+    "name": "Firestar Nemesis by blueHG",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "firestar_by_bluehg",
+    "name": "Firestar by blueHG",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "nova_prime_by_justatuna",
+    "name": "Nova Prime by JustATuna",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "nova_prime_by_justatuna_nemesis",
+    "name": "Nova Prime Nemesis by JustATuna",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "alpha_flight_by_hax_nemesis",
+    "name": "Alpha Flight by Hax Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "snowbird_by_hax",
+    "name": "Snowbird by Hax",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "shaman_by_designhacker",
+    "name": "Shaman by Designhacker",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "sasquatch_by_designhacker",
+    "name": "Sasquatch by Designhacker",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "puck_by_designhacker",
+    "name": "Puck by Designhacker",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "vindicator_by_designhacker",
+    "name": "Vindicator by Designhacker",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "guardian_by_designhacker",
+    "name": "Guardian by Designhacker",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "northstar_aurora_by_designhacker",
+    "name": "Northstar & Aurora by Designhacker",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "aurora_northstar_by_designhacker",
+    "name": "Northstar & Aurora by Designhacker",
+    "card_set_type_code": "hero"
+  },
+  {
+    "card_set_type_code": "hero_special",
+    "code": "aurora_northstar_special_by_designhacker",
+    "name": "Aurora/Jeane Beauvier Set-aside",
+    "parent_code": "aurora_northstar_by_designhacker"
   }
 ]

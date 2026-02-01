@@ -415,12 +415,12 @@
 		"cgdb_id": 2016,
 		"code": "alpha_flight_by_hax",
 		"creator": "Hax",
-		"date_release": "2025-08-12",
+		"date_release": "2026-02-01",
 		"name": "Alpha Flight",
 		"octgn_id": "68071830-cf71-4497-a47d-19c19f5fb6fc",
 		"pack_type_code": "hero_fanmade",
 		"position": 2016,
-		"size": 28,
+		"size": 132,
 		"status": "beta",
 		"theme": "Marvel",
 		"visibility": "false"
@@ -1104,5 +1104,31 @@
 		"size": 24,
 		"status": "released",
 		"visibility": "true"
+	},
+	{
+		"cgdb_id": 2058,
+		"code": "firestar_by_bluehg",
+		"creator": "blueHG",
+		"date_release": "2026-01-31",
+		"name": "Firestar by blueHG",
+		"octgn_id": "616b40dd-052c-455d-a2bd-fc8b4758a94a",
+		"pack_type_code": "hero_fanmade",
+		"position": 2058,
+		"size": 22,
+		"status": "sealed",
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 5020,
+		"code": "nova_prime_by_justatuna",
+		"creator": "JustATuna",
+		"date_release": "2026-01-31",
+		"name": "Nova Prime by JustATuna",
+		"octgn_id": "fdf03832-04ba-4026-a82a-e07b84fab7a6",
+		"pack_type_code": "hero_fanmade",
+		"position": 5020,
+		"size": 22,
+		"status": "released",
+		"visibility": "false"
 	}
 ]
