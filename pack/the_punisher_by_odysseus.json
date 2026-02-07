@@ -75,7 +75,8 @@
         "set_position": 1,
         "text": "Permanent.\n<b>Hero Response</b>: After you play an [[ATTACK]] event, remove 1 threat from a scheme.",
         "traits": "Symbol.",
-        "type_code": "upgrade"
+        "type_code": "upgrade",
+        "permanent": true
     },
     {
         "code": "205303",
