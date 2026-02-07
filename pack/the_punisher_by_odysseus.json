@@ -41,6 +41,18 @@
             ],
             "offset": "-35px -33px"
         },
+        "deck_options": [
+			{
+				
+				"trait": [
+					"attack"
+					
+				],
+				"type": [
+					"event"
+				]
+			}
+		],
         "set_code": "the_punisher",
         "text": "<i>Vigilante Justice</i> \u2014 <b>Resource</b>: Generate a [wild] resource for an [[ATTACK]] event. (Limit once per phase.)",
         "thwart": 1,
