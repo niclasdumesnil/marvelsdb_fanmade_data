@@ -1236,6 +1236,7 @@
 		"code": "201658",
 		"cost": 1,
 		"deck_limit": 2,
+        "position": 58,
 		"faction_code": "hero",
 		"flavor": "“I don't think so. Now, let's get to work, eh!” —Puck",
 		"name": "Glance",
