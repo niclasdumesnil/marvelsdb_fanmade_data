@@ -30,7 +30,7 @@
 		"scheme": 2,
 		"set_code": "alpha_flight_by_hax_nemesis",
 		"set_position": 1,
-		"text": "Drone minions get +1 SCH, +1 ATK and +1 hit points. master of the world gets +1 ATK for each acceleration token in play.\n<b>Forced Interrupt</b>: When Master fo the world attacks, resolve his attack aganst each <b><i>ALPHA FLIGHT </i></b>character.\n(<b><i>ALPHA FLIGHT</i></b> nemesis minion.)",
+		"text": "[[Drone]] minions get +1 SCH, +1 ATK and +1 hit points. master of the world gets +1 ATK for each acceleration token in play.\n<b>Forced Interrupt</b>: When Master fo the world attacks, resolve his attack aganst each [[ALPHA FLIGHT]] character.\n([[ALPHA FLIGHT]] nemesis minion.)",
 		"traits": "Aerial. Genius.",
 		"type_code": "minion"
 	},
@@ -45,9 +45,10 @@
 		"permanent": true,
 		"position": 17,
 		"quantity": 1,
+		"base_threat": 2,
 		"set_code": "alpha_flight_by_hax_nemesis",
 		"set_position": 2,
-		"text": "Permanent.\n<b>Forced Response</b>: After your turn ends, if there is 1 or more threat here, resolve the \"<i>Drone Master</i>\" ability.\n<i>Drone Master</i> - <b>Special</b>: Discard te top 2 cards of the encounter deck. put each trachery discarded this way into play facedown, engaged with you  as a drone minion. Each facedown encounter card Drone minon has base hit points of 1, base SCH of 0, base attack of 0 and the <b><i>AERIAL</i></b> trait.",
+		"text": "Permanent.\n<b>Forced Response</b>: After your turn ends, if there is 1 or more threat here, resolve the \"<i>Drone Master</i>\" ability.\n<i>Drone Master</i> - <b>Special</b>: Discard te top 2 cards of the encounter deck. put each trachery discarded this way into play facedown, engaged with you  as a [[drone]] minion. Each facedown encounter card [[Drone]] minon has base hit points of 1, base SCH of 0, base attack of 0 and the [[AERIAL]] trait.",
 		"type_code": "side_scheme"
 	},
 	{
