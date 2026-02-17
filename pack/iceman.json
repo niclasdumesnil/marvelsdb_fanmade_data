@@ -58,7 +58,7 @@
         "permanent": true,
         "position": 2,
         "quantity": 6,
-        "set_code": "frostbite",
+        "set_code": "iceman_frostbite",
         "set_position": 1,
         "text": "Permanent.\nAttached enemy gets -1 SCH and -1 ATK.\n<b>Forced Response</b>: After attached enemy activates or leaves play, set this card aside.",
         "traits": "Condition. Ice.",
@@ -411,7 +411,6 @@
         "duplicate_of": "13024",
         "pack_code": "iceman",
         "position": 23,
-        "quantity": 2,
-        "octgn_id": "9612581e-ee76-46fb-89b7-71ae7a046023"
+        "quantity": 2
     }
 ]

@@ -591,11 +591,9 @@
 		"position": 57,
 		"size": 90,
 		"environment" : "current",
-		"creator": "Spoiler",
-		"status": "beta",
-		"theme": "Marvel",
-		"visibility": "false",
-		"pack_type_code": "scenar_fanmade"
+		"visibility": "true",
+		"pack_type_code": "scenario"
+		
 
 	},
 	{
@@ -604,14 +602,12 @@
 		"date_release": "2026-02-20",
 		"name": "Wonder Man",
 		"octgn_id": "7eb46497-8915-4be9-b31d-7bee67842bce",
-		"creator": "Spoiler",
 		"environment" : "current",
 		"position": 58,
 		"size": 60,
-		"status": "beta",
 		"theme": "Marvel",
-		"visibility": "false",
-		"pack_type_code": "hero_fanmade"
+		"visibility": "true",
+		"pack_type_code": "hero"
 	},
 	{
 		"cgdb_id": 59,
@@ -619,13 +615,11 @@
 		"date_release": "2026-02-20",
 		"name": "Hercules",
 		"octgn_id": "01625c2e-06c7-4321-bfd4-9abdc6877046",
-		"creator": "Spoiler",
 		"position": 59,
 		"size": 60,
 		"environment" : "current",
-		"status": "beta",
 		"theme": "Marvel",
-		"visibility": "false",
-		"pack_type_code": "hero_fanmade"
+		"visibility": "true",
+		"pack_type_code": "hero"
 	}
 ]
