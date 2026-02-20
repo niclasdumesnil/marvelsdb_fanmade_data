@@ -1149,5 +1149,18 @@
 		"status": "beta",
 		"theme": "Marvel",
 		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2062,
+		"code": "venompool_by_cptscorp",
+		"creator": "CptScorp",
+		"date_release": "2026-02-20",
+		"name": "Venompool",
+		"octgn_id": "0c714380-7fb9-4a28-9c0f-872b0924c970",
+		"pack_type_code": "hero_fanmade",
+		"position": 2062,
+		"size": 25,
+		"status": "sealed",
+		"visibility": "true"
 	}
 ]

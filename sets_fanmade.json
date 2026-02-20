@@ -1140,5 +1140,15 @@
     "code": "morbius_by_rycoran",
     "name": "Morbius by RyCoRan",
     "card_set_type_code": "hero"
+  },
+  {
+    "code": "venompool_by_cptscorp_nemesis",
+    "name": "Venompool by CptScorp Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "venompool_by_cptscorp",
+    "name": "Venompool by CptScorp",
+    "card_set_type_code": "hero"
   }
 ]
