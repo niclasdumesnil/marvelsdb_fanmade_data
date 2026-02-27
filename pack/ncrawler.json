@@ -353,7 +353,8 @@
         "duplicate_of": "01079",
         "pack_code": "ncrawler",
         "position": 19,
-        "quantity": 2
+        "quantity": 2,
+        "alt_art": true
     },
     {
         "base_threat": 5,

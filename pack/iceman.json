@@ -327,7 +327,8 @@
         "duplicate_of": "16043",
         "pack_code": "iceman",
         "position": 17,
-        "quantity": 3
+        "quantity": 3,    
+        "alt_art": true
     },
     {
         "base_threat": 2,
@@ -396,7 +397,8 @@
         "flavor": "\"This is why we practice, people!\" \u2014Phoenix",
         "pack_code": "iceman",
         "position": 21,
-        "quantity": 3
+        "quantity": 3,
+        "alt_art": true
     },
     {
         "code": "46022",
@@ -404,13 +406,15 @@
         "flavor": "\"You'll be fine.\" \u2014Dr. Rao",
         "pack_code": "iceman",
         "position": 22,
-        "quantity": 3
+        "quantity": 3,
+        "alt_art": true
     },
     {
         "code": "46023",
         "duplicate_of": "13024",
         "pack_code": "iceman",
         "position": 23,
-        "quantity": 2
+        "quantity": 2,
+        "alt_art": true
     }
 ]

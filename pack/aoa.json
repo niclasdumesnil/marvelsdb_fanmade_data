@@ -275,7 +275,8 @@
         "duplicate_of": "04016",
         "pack_code": "aoa",
         "position": 13,
-        "quantity": 3
+        "quantity": 3,
+        "alt_art": true
     },
     {
         "code": "45014",
@@ -348,7 +349,8 @@
         "duplicate_of": "01072",
         "pack_code": "aoa",
         "position": 19,
-        "quantity": 2
+        "quantity": 2,
+        "alt_art": true
     },
     {
         "attack": 1,
@@ -756,14 +758,16 @@
         "flavor": "\"It feels good to hit ninjas again.\" \u2014Psylocke",
         "pack_code": "aoa",
         "position": 46,
-        "quantity": 3
+        "quantity": 3,
+        "alt_art": true
     },
     {
         "code": "45047",
         "duplicate_of": "01055",
         "pack_code": "aoa",
         "position": 47,
-        "quantity": 2
+        "quantity": 2,
+        "alt_art": true
     },
     {
         "attack": 1,
@@ -840,7 +844,8 @@
         "pack_code": "aoa",
         "position": 52,
         "quantity": 3,
-        "octgn_id": "1ab538aa-6ad1-4d9d-83a6-3ebc3a045052"
+        "octgn_id": "1ab538aa-6ad1-4d9d-83a6-3ebc3a045052",
+        "alt_art": true
     },
     {
         "back_link": "45171b",

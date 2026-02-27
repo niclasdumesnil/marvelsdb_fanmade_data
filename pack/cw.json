@@ -344,7 +344,8 @@
         "pack_code": "cw",
         "position": 20,
         "quantity": 1,
-        "octgn_id": "e4e959c3-c409-44ea-8bba-46addf056020"
+        "octgn_id": "e4e959c3-c409-44ea-8bba-46addf056020",
+        "alt_art": true
     },
     {
         "code": "56021",
@@ -352,7 +353,8 @@
         "pack_code": "cw",
         "position": 21,
         "quantity": 1,
-        "octgn_id": "e4e959c3-c409-44ea-8bba-46addf056021"
+        "octgn_id": "e4e959c3-c409-44ea-8bba-46addf056021",
+        "alt_art": true
     },
     {
         "code": "56022",
@@ -360,7 +362,8 @@
         "pack_code": "cw",
         "position": 22,
         "quantity": 1,
-        "octgn_id": "e4e959c3-c409-44ea-8bba-46addf056022"
+        "octgn_id": "e4e959c3-c409-44ea-8bba-46addf056022",
+        "alt_art": true
     },
     {
         "attack": 1,
@@ -719,7 +722,8 @@
         "flavor": "\"Is that all you got?\" \u2014Captain America",
         "pack_code": "cw",
         "position": 48,
-        "quantity": 3
+        "quantity": 3,
+        "alt_art": true
     },
     {
         "code": "56049",

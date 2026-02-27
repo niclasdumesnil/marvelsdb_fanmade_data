@@ -289,7 +289,8 @@
 		"octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975032015",
 		"pack_code": "mut_gen",
 		"position": 15,
-		"quantity": 3
+		"quantity": 3,
+		"alt_art": true
 	},
 	{
 		"code": "32016",
@@ -297,7 +298,8 @@
 		"octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975032016",
 		"pack_code": "mut_gen",
 		"position": 16,
-		"quantity": 3
+		"quantity": 3,
+		"alt_art": true
 	},
 	{
 		"code": "32017",
@@ -386,7 +388,8 @@
 		"octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975032022",
 		"pack_code": "mut_gen",
 		"position": 22,
-		"quantity": 1
+		"quantity": 1,
+		"alt_art": true
 	},
 	{
 		"code": "32023",
@@ -394,7 +397,8 @@
 		"octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975032023",
 		"pack_code": "mut_gen",
 		"position": 23,
-		"quantity": 1
+		"quantity": 1,
+		"alt_art": true
 	},
 	{
 		"code": "32024",
@@ -402,7 +406,8 @@
 		"octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975032024",
 		"pack_code": "mut_gen",
 		"position": 24,
-		"quantity": 1
+		"quantity": 1,
+		"alt_art": true
 	},
 	{
 		"attack": 2,

@@ -565,7 +565,8 @@
         "octgn_id": "104e1218-df9b-43f7-93e0-ca2ef9040030",
         "pack_code": "next_evol",
         "position": 30,
-        "quantity": 3
+        "quantity": 3,
+        "alt_art": true
     },
     {
         "attack": 2,
@@ -897,7 +898,8 @@
         "duplicate_of": "30014",
         "pack_code": "next_evol",
         "position": 52,
-        "quantity": 3
+        "quantity": 3,
+        "alt_art": true
     },
     {
         "code": "40053",
@@ -937,7 +939,8 @@
         "duplicate_of": "30019",
         "pack_code": "next_evol",
         "position": 55,
-        "quantity": 3
+        "quantity": 3,
+        "alt_art": true
     },
     {
         "attack": 1,
