@@ -12,9 +12,9 @@
 	},
 	{
 		"code": "49029",
-		"flavor": "Magneto's former Acolytes felt betrayed by their leader's change of heart about mutant and human coexistence.",
 		"name": "Martyr for Mutants",
-		"text": "<b>When Defeated</b>: The defeating player discards the top 9 cards of their deck."
+		"text": "<b>When Defeated</b>: The defeating player discards the top 9 cards of their deck.",
+		"flavor": "Magneto's former Acolytes felt betrayed by their leader's change of heart about mutant and human coexistence."
 	},
 	{
 		"code": "49030",
@@ -35,16 +35,16 @@
 	},
 	{
 		"code": "49038",
-		"flavor": "\"Never raise a hand to your betters, serf!\"",
 		"name": "Sebastian Shaw",
 		"text": "Toughness. Villainous.\n<b>Forced Response</b>: After Sebastian Shaw is attacked, give him a facedown boost card. He cannot be attacked again this phase.",
+		"flavor": "\"Never raise a hand to your betters, serf!\"",
 		"traits": "Hellfire."
 	},
 	{
 		"code": "49039",
-		"flavor": "\"Foolish child! Countless thousands have gone to the fire in my name.\"",
 		"name": "Selene",
 		"text": "Quickstrike. Villainous.\nAllies cannot attack Selene\n<hr />\n[star] <b>Boost</b>: Discard an ally you control.",
+		"flavor": "\"Foolish child! Countless thousands have gone to the fire in my name.\"",
 		"traits": "Hellfire."
 	},
 	{
@@ -55,9 +55,9 @@
 	},
 	{
 		"code": "49041",
-		"flavor": "The inner circle of the Hellfire Club uses its wealth and power to plot the course of mutant affairs in secret.",
 		"name": "The Inner Circle",
-		"text": "<b>When Revealed</b>: Place 2 additional threat here for each [[Hellfire]] card in play."
+		"text": "<b>When Revealed</b>: Place 2 additional threat here for each [[Hellfire]] card in play.",
+		"flavor": "The inner circle of the Hellfire Club uses its wealth and power to plot the course of mutant affairs in secret."
 	},
 	{
 		"code": "49042",

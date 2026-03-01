@@ -7,9 +7,9 @@
 	},
 	{
 		"code": "38001b",
-		"flavor": "\"Vous ne pourriez pas vivre la vie qui est la mienne.\"",
 		"name": "Anna Marie",
 		"text": "<b>Mise en place</b> : mettez de côté votre amélioration Touché.\n<i>Retrait</i> — <b>Réponse forcée</b> : après être passé sous cette forme, mettez de côté Touché.",
+		"flavor": "\"Vous ne pourriez pas vivre la vie qui est la mienne.\"",
 		"traits": "Mutant."
 	},
 	{
@@ -28,7 +28,7 @@
 	{
 		"code": "38004",
 		"name": "Veste de Malicia",
-		"text": "Tant que Touché est attachée à un personnage ami, Malicia gagne + 1 CTR.\nTant que Touché est attachée à un personnage ennemi, Malicia gagne + 1 ATQ.\n",
+		"text": "Tant que Touché est attachée à un personnage ami, Malicia gagne + 1 CTR.\nTant que Touché est attachée à un personnage ennemi, Malicia gagne + 1 ATQ.",
 		"traits": "Objet."
 	},
 	{
@@ -51,9 +51,9 @@
 	},
 	{
 		"code": "38008",
-		"flavor": "\"Sugah, arrêt, tu me rends folle.\" — Malicia",
 		"name": "Belle à l'Épreuve des Balles",
 		"text": "<b>Interruption de héros</b> <i>(défense)</i> : quand un ennemi auquel est attachée Touché attaque, prévenez tous les dégâts de cette attaque et gagnez une carte d'état Tenace.",
+		"flavor": "\"Sugah, arrêt, tu me rends folle.\" — Malicia",
 		"traits": "Défense. Super-pouvoir."
 	},
 	{
@@ -78,10 +78,10 @@
 	},
 	{
 		"code": "38012",
-		"flavor": "\"Tu souhaites passer à travers mon exosquelette impénétrable ? Bonne chance à toi.\"",
 		"name": "Armor",
 		"subname": "Hisako Ichiki",
 		"text": "Jouez cette carte uniquement si votre identité a le trait [[X-MEN]].\nTénacité.",
+		"flavor": "\"Tu souhaites passer à travers mon exosquelette impénétrable ? Bonne chance à toi.\"",
 		"traits": "X-Men."
 	},
 	{
@@ -105,7 +105,7 @@
 	{
 		"code": "38019",
 		"name": "Gène X",
-		"text": "Jouez cette carte uniquement si votre identité a le trait [[MUTANT]]. 1 max par joueur.\n<b>Ressource</b> : inclinez Gène X → générez une ressource [wild] pour un événement spécifique à votre identité."
+		"text": "Jouez cette carte uniquement si votre identité a le trait [[MUTANT]]. 1 max par joueur.\n<b>Ressource</b> : inclinez Gène X → générez une ressource [wild] pour un événement spécifique à l'identité."
 	},
 	{
 		"code": "38028",
