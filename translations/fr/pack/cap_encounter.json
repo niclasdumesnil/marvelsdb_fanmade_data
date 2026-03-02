@@ -6,15 +6,15 @@
 	},
 	{
 		"code": "03027",
-		"flavor": "Le Baron Zemo conduit un commando armé d'Hydra à travers la ville afin de traquer les Avengers.",
 		"name": "Commando Armé",
-		"text": "<b>Une fois révélé</b> : dans l'ordre des joueurs, chaque joueur défausse la carte du dessus du deck de Rencontre et subit 1 dégâts pour chaque icône de boost défaussée par cet effet."
+		"text": "<b>Une fois révélé</b> : dans l'ordre des joueurs, chaque joueur défausse la carte du dessus du deck de Rencontre et subit 1 dégâts pour chaque icône de boost défaussée par cet effet.",
+		"flavor": "Le Baron Zemo conduit un commando armé d'Hydra à travers la ville afin de traquer les Avengers."
 	},
 	{
 		"code": "03028",
-		"flavor": "\"Pour que mon père soit vengé, Captain America doit mourir.\"",
 		"name": "Baron Zemo",
 		"text": "Coup Rapide.\nTant que le Baron Zemo est engagé avec vous, vous ne pouvez pas contrer.\n<i>(Sbire Némésis de Captain America)</i>",
+		"flavor": "\"Pour que mon père soit vengé, Captain America doit mourir.\"",
 		"traits": "Hydra. Élite."
 	},
 	{

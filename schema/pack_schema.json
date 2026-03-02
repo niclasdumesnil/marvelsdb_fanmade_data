@@ -29,6 +29,10 @@
 				}
 			]
 		},
+		"language": {
+			"minLength": 1,
+			"type": "string"
+		},
 		"name": {
 			"minLength": 1,
 			"type": "string"
