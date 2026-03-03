@@ -877,7 +877,21 @@
 		"size": 23,
 		"status": "alpha",
 		"theme": "Marvel",
-		"visibility": false
+		"visibility": "false"
+	},
+	{
+		"cgdb_id": 2064,
+		"code": "celestial_messiah_by_cpstcorp",
+		"creator": "Cpstcorp",
+		"date_release": "2026-03-03",
+		"name": "Celestial Messiah",
+		"octgn_id": "7d62609a-0b1f-4144-96b4-97972c383346",
+		"pack_type_code": "scenar_fanmade",
+		"position": 2064,
+		"size": 30,
+		"status": "sealed",
+		"theme": "Marvel",
+		"visibility": "false"
 	},
 	{
 		"cgdb_id": 2102,
