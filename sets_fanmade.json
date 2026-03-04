@@ -1165,5 +1165,15 @@
 		"code": "celestial_messiah_by_cpstcorp",
 		"name": "Celestial Messiah",
 		"card_set_type_code": "villain"
+	},
+	{
+		"code": "cotati_infection_by_cpstcorp",
+		"name": "Cotati Infection",
+		"card_set_type_code": "modular"
+	},
+	{
+		"code": "spider_boy_nemesis_by_hax",
+		"name": "Spider-Boy Nemesis",
+		"card_set_type_code": "nemesis"
 	}
 ]
