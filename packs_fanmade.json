@@ -894,6 +894,20 @@
 		"visibility": "false"
 	},
 	{
+		"cgdb_id": 2065,
+		"code": "nightwing_by_ripper3",
+		"creator": "Ripper3",
+		"date_release": "2026-03-04",
+		"name": "Nightwing",
+		"octgn_id": "5c9e6e36-5868-4171-aacc-18a7d711f63d",
+		"pack_type_code": "hero_fanmade",
+		"position": 2065,
+		"size": 23,
+		"status": "released",
+		"theme": "DC",
+		"visibility": "false"
+	},
+	{
 		"cgdb_id": 2102,
 		"code": "spider-man_noir_by_merlin",
 		"creator": "Merlin",

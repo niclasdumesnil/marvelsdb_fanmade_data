@@ -1175,5 +1175,15 @@
 		"code": "spider_boy_nemesis_by_hax",
 		"name": "Spider-Boy Nemesis",
 		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "nightwing_by_ripper3_nemesis",
+		"name": "Nightwing by Ripper3 Nemesis",
+		"card_set_type_code": "nemesis"
+	},
+	{
+		"code": "nightwing_by_ripper3",
+		"name": "Nightwing by Ripper3",
+		"card_set_type_code": "hero"
 	}
 ]
