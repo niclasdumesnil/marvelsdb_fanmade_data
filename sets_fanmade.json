@@ -1025,7 +1025,6 @@
 		"code": "old_man_logan_by_nugget_nemesis",
 		"name": "Old Man Logan Nemesis",
 		"card_set_type_code": "nemesis"
-		
 	},
 	{
 		"code": "the_gardener_by_justatuna",
@@ -1267,5 +1266,15 @@
 		"code": "nightwing_by_ripper3",
 		"name": "Nightwing",
 		"card_set_type_code": "hero"
+	},
+	{
+		"code": "shocker_by_ripper3",
+		"name": "Shocker by Ripper3",
+		"card_set_type_code": "villain"
+	},
+	{
+		"code": "power_drain_ii_by_ripper3",
+		"name": "Power Drain Ii by Ripper3",
+		"card_set_type_code": "modular"
 	}
 ]

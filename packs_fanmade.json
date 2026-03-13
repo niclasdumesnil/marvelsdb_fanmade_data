@@ -493,19 +493,6 @@
 		"visibility": "true"
 	},
 	{
-		"cgdb_id": 2033,
-		"code": "venom_by_ripper3",
-		"creator": "Ripper3",
-		"date_release": "2025-11-01",
-		"name": "Venom",
-		"octgn_id": "6a999490-11a8-4533-9c1e-d53b00f48ec0",
-		"pack_type_code": "hero_fanmade",
-		"position": 2033,
-		"size": 24,
-		"status": "released",
-		"visibility": "true"
-	},
-	{
 		"cgdb_id": 2036,
 		"code": "luke_cage_by_rainy",
 		"creator": "Rainy",
@@ -1078,9 +1065,10 @@
 		"creator": "Ripper3",
 		"date_release": "2026-03-13",
 		"name": "Web of Deceit",
+		"octgn_id": "fb766780-0f17-4e74-9fb7-4ca84fef5f62",
 		"pack_type_code": "fm_story",
 		"position": 5030,
-		"size": 47,
+		"size": 72,
 		"status": "released",
 		"theme": "Marvel",
 		"visibility": "true"
