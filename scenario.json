@@ -8,7 +8,8 @@
     ],
     "difficulty": -2,
     "text": "Gives Klaw 5x Armored Guards total. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 1
   },
   {
     "villain_set_code": "klaw",
@@ -20,7 +21,8 @@
     ],
     "difficulty": -2,
     "text": "Impactful boost abilities. Stuns. Sends alter-ego. Small minions. Side schemes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 2
   },
   {
     "villain_set_code": "klaw",
@@ -32,7 +34,8 @@
     "difficulty": -1,
     "text": "Small minions. Impactful boost abilities.",
     "creator": "villain theory",
-    "visibility": false
+    "visibility": false,
+    "scenario_id": 3
   },
   {
     "villain_set_code": "klaw",
@@ -44,7 +47,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Impactful boost abilities. Teamwork. Status cards.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 4
   },
   {
     "villain_set_code": "klaw",
@@ -55,7 +59,8 @@
     ],
     "difficulty": 0,
     "text": "Steady. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 5
   },
   {
     "villain_set_code": "klaw",
@@ -67,7 +72,8 @@
     "difficulty": 0,
     "text": "Large minions. Impactful boost abilities.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 6
   },
   {
     "villain_set_code": "klaw",
@@ -78,7 +84,8 @@
     ],
     "difficulty": 1,
     "text": "Impactful boost abilities. Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 7
   },
   {
     "villain_set_code": "klaw",
@@ -89,7 +96,8 @@
     ],
     "difficulty": 1,
     "text": "Large minions. Sends alter-ego. Stuns.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 8
   },
   {
     "villain_set_code": "klaw",
@@ -100,7 +108,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 9
   },
   {
     "villain_set_code": "klaw",
@@ -112,7 +121,8 @@
     ],
     "difficulty": 2,
     "text": "High boost icons. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 10
   },
   {
     "villain_set_code": "klaw",
@@ -124,7 +134,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Disruption. Impactful boost abilities. Adds Black Order theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 11
   },
   {
     "villain_set_code": "klaw",
@@ -135,7 +146,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Rush. Small minions. Stuns. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 12
   },
   {
     "villain_set_code": "klaw",
@@ -146,7 +158,8 @@
     ],
     "difficulty": 2,
     "text": "Large minions. Overkill/piercing boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 13
   },
   {
     "villain_set_code": "klaw",
@@ -157,7 +170,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 14
   },
   {
     "villain_set_code": "klaw",
@@ -168,7 +182,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 15
   },
   {
     "villain_set_code": "klaw",
@@ -179,7 +194,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Impactful boost abilities (additional boost cards).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 16
   },
   {
     "villain_set_code": "klaw",
@@ -191,7 +207,8 @@
     ],
     "difficulty": 3,
     "text": "Steady (protects 2x boost card attacks). Extra attacks. ATK bonus. Small minions. Dangerous attacks.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 17
   },
   {
     "villain_set_code": "klaw",
@@ -204,7 +221,8 @@
     ],
     "difficulty": 4,
     "text": "A huge amount of additional boost cards. Mixed minions. Boss minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 18
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -216,7 +234,8 @@
     ],
     "difficulty": -1,
     "text": "Adds helpful setup ally. Mixed minions. Adds mutant theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 19
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -228,7 +247,8 @@
     "difficulty": 0,
     "text": "Attachments. Treacheries. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 20
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -239,7 +259,8 @@
     ],
     "difficulty": 1,
     "text": "Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 21
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -250,7 +271,8 @@
     ],
     "difficulty": 1,
     "text": "Introduces an extra Goblin-traited minion. Mixed minions. Boss minion (Dragon).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 22
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -261,7 +283,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attack (Gang-Up, works well with minion swarm). Large minion. Stuns. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 23
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -272,7 +295,8 @@
     ],
     "difficulty": 2,
     "text": "Medium minion. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 24
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -284,7 +308,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Sends alter-ego. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 25
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -295,7 +320,8 @@
     ],
     "difficulty": 3,
     "text": "Extra attacks. Dangerous attacks. Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 26
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -306,7 +332,8 @@
     ],
     "difficulty": 3,
     "text": "Bonuses for multiple enemies. Side schemes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 27
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -317,7 +344,8 @@
     ],
     "difficulty": 3,
     "text": "Large minions. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 28
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -329,7 +357,8 @@
     ],
     "difficulty": 3,
     "text": "Side schemes. Changing environment. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 29
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -341,7 +370,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm. Confuses.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 30
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -353,7 +383,8 @@
     ],
     "difficulty": 3,
     "text": "Attachments. Extra activations. Treacheries. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 31
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -364,7 +395,8 @@
     ],
     "difficulty": 4,
     "text": "Attachments. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 32
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -375,7 +407,8 @@
     ],
     "difficulty": 4,
     "text": "Extra activations. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 33
   },
   {
     "villain_set_code": "mutagen_formula",
@@ -388,7 +421,8 @@
     ],
     "difficulty": 4,
     "text": "Attachments. Extra activations. ATK bonus. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 34
   },
   {
     "villain_set_code": "rhino",
@@ -399,7 +433,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Boss minion (Dragon).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 35
   },
   {
     "villain_set_code": "rhino",
@@ -411,7 +446,8 @@
     "difficulty": 0,
     "text": "Small minions. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 36
   },
   {
     "villain_set_code": "rhino",
@@ -422,7 +458,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attack (Gang-Up). Large minion. Stuns. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 37
   },
   {
     "villain_set_code": "rhino",
@@ -433,7 +470,8 @@
     ],
     "difficulty": 1,
     "text": "Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 38
   },
   {
     "villain_set_code": "rhino",
@@ -444,7 +482,8 @@
     ],
     "difficulty": 1,
     "text": "Toughs (makes extra use of Rhino's toughs). Large minion. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 39
   },
   {
     "villain_set_code": "rhino",
@@ -455,7 +494,8 @@
     ],
     "difficulty": 1,
     "text": "Status cards (makes extra use of Rhino's stuns). 2x Large minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 40
   },
   {
     "villain_set_code": "rhino",
@@ -466,7 +506,8 @@
     ],
     "difficulty": 2,
     "text": "Adds threat (without affecting the main scheme). Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 41
   },
   {
     "villain_set_code": "rhino",
@@ -477,7 +518,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 42
   },
   {
     "villain_set_code": "rhino",
@@ -489,7 +531,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 43
   },
   {
     "villain_set_code": "rhino",
@@ -501,7 +544,8 @@
     ],
     "difficulty": 3,
     "text": "Large minions. Side schemes. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 44
   },
   {
     "villain_set_code": "rhino",
@@ -513,7 +557,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Criminal trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 45
   },
   {
     "villain_set_code": "rhino",
@@ -525,7 +570,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Rush. Teamwork. Mixed minions. Boss minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 46
   },
   {
     "villain_set_code": "rhino",
@@ -537,7 +583,8 @@
     ],
     "difficulty": 3,
     "text": "Steady. ATK bonus. Large minions. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 47
   },
   {
     "villain_set_code": "rhino",
@@ -550,7 +597,8 @@
     ],
     "difficulty": 4,
     "text": "SOLO WARNING: The Infinity Stones will destroy the main scheme. Large minions. Status cards. ATK/SCH bonus. Impactful boost effects.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 48
   },
   {
     "villain_set_code": "rhino",
@@ -563,7 +611,8 @@
     ],
     "difficulty": 4,
     "text": "Steady. ATK bonus. Large minions. High boost icons. Side schemes. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 49
   },
   {
     "villain_set_code": "risky_business",
@@ -575,7 +624,8 @@
     "difficulty": 0,
     "text": "Attachments. Treacheries. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 50
   },
   {
     "villain_set_code": "risky_business",
@@ -587,7 +637,8 @@
     ],
     "difficulty": 1,
     "text": "Sends alter-ego (makes Norman tougher). Small minions. Boss minion. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 51
   },
   {
     "villain_set_code": "risky_business",
@@ -599,7 +650,8 @@
     ],
     "difficulty": 1,
     "text": "Medium minions. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 52
   },
   {
     "villain_set_code": "risky_business",
@@ -610,7 +662,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 53
   },
   {
     "villain_set_code": "risky_business",
@@ -621,7 +674,8 @@
     ],
     "difficulty": 2,
     "text": "Steady (keeps Goblin activating). ATK bonus. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 54
   },
   {
     "villain_set_code": "risky_business",
@@ -633,7 +687,8 @@
     ],
     "difficulty": 2,
     "text": "Sends alter-ego (makes Norman tougher). Nemesis interaction. Side schemes. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 55
   },
   {
     "villain_set_code": "risky_business",
@@ -645,7 +700,8 @@
     ],
     "difficulty": 2,
     "text": "Retaliate. Anti-Ally. Sends alter-ego (makes Norman tougher). SCH bonus. Overkill. Obligations. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 56
   },
   {
     "villain_set_code": "risky_business",
@@ -657,7 +713,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Rush (makes Goblin tougher). Sends alter-ego. Steals allies. Mixed minions. Stuns. Quickstrike.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 57
   },
   {
     "villain_set_code": "risky_business",
@@ -669,7 +726,8 @@
     ],
     "difficulty": 4,
     "text": "2x Boss minions (adds pressure while villain is Norman). Surprise damage. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 58
   },
   {
     "villain_set_code": "risky_business",
@@ -681,7 +739,8 @@
     ],
     "difficulty": 4,
     "text": "Boss minion (adds pressure while villain is Norman). Retaliate. Anti-Ally. SCH bonus. Overkill. Sends alter-ego.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 59
   },
   {
     "villain_set_code": "risky_business",
@@ -692,7 +751,8 @@
     ],
     "difficulty": 4,
     "text": "Extra activations. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 60
   },
   {
     "villain_set_code": "risky_business",
@@ -703,7 +763,8 @@
     ],
     "difficulty": 4,
     "text": "Attachments. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 61
   },
   {
     "villain_set_code": "risky_business",
@@ -716,7 +777,8 @@
     ],
     "difficulty": 4,
     "text": "Steady (keeps Goblin activating). Extra activations. ATK bonus. Attachments. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 62
   },
   {
     "villain_set_code": "ultron",
@@ -727,7 +789,8 @@
     ],
     "difficulty": -2,
     "text": "Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 63
   },
   {
     "villain_set_code": "ultron",
@@ -738,7 +801,8 @@
     ],
     "difficulty": -2,
     "text": "Treacheries. Mills encounter deck. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 64
   },
   {
     "villain_set_code": "ultron",
@@ -749,7 +813,8 @@
     ],
     "difficulty": -1,
     "text": "Large minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 65
   },
   {
     "villain_set_code": "ultron",
@@ -760,7 +825,8 @@
     ],
     "difficulty": 0,
     "text": "Steady (keeps drones spawning). Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 66
   },
   {
     "villain_set_code": "ultron",
@@ -771,7 +837,8 @@
     ],
     "difficulty": 0,
     "text": "Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 67
   },
   {
     "villain_set_code": "ultron",
@@ -783,7 +850,8 @@
     "difficulty": 0,
     "text": "Anti-Ally. Surprise damage.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 68
   },
   {
     "villain_set_code": "ultron",
@@ -794,7 +862,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks (to spawn drones).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 69
   },
   {
     "villain_set_code": "ultron",
@@ -805,7 +874,8 @@
     ],
     "difficulty": 1,
     "text": "Victory display side schemes. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 70
   },
   {
     "villain_set_code": "ultron",
@@ -816,7 +886,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Toughness environment (deadly with drones). Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 71
   },
   {
     "villain_set_code": "ultron",
@@ -827,7 +898,8 @@
     ],
     "difficulty": 3,
     "text": "Bonuses with multiple enemies (drones). Side schemes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 72
   },
   {
     "villain_set_code": "ultron",
@@ -838,7 +910,8 @@
     ],
     "difficulty": 3,
     "text": "Steady (keeps drones spawning). ATK bonus. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 73
   },
   {
     "villain_set_code": "ultron",
@@ -849,7 +922,8 @@
     ],
     "difficulty": 4,
     "text": "Attachments. Surge leads to more drones. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 74
   },
   {
     "villain_set_code": "ultron",
@@ -861,7 +935,8 @@
     ],
     "difficulty": 4,
     "text": "Large minions. Boss minions. Victory display. High boost icons. Nemesis interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 75
   },
   {
     "villain_set_code": "ultron",
@@ -873,7 +948,8 @@
     ],
     "difficulty": 4,
     "text": "Steady (keeps drones spawning). ATK/SCH bonus. Status cards. Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 76
   },
   {
     "villain_set_code": "absorbing_man",
@@ -884,7 +960,8 @@
     ],
     "difficulty": 0,
     "text": "Anti-Rush. Teamwork. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 77
   },
   {
     "villain_set_code": "absorbing_man",
@@ -895,7 +972,8 @@
     ],
     "difficulty": 0,
     "text": "Large minions. Thematic (Absorbing Man has been a member).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 78
   },
   {
     "villain_set_code": "absorbing_man",
@@ -907,7 +985,8 @@
     "difficulty": 0,
     "text": "Small minions. Leads to environment effects triggering. Adds Hydra theme.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 79
   },
   {
     "villain_set_code": "absorbing_man",
@@ -919,7 +998,8 @@
     ],
     "difficulty": 1,
     "text": "Large minions. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 80
   },
   {
     "villain_set_code": "absorbing_man",
@@ -930,7 +1010,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 81
   },
   {
     "villain_set_code": "absorbing_man",
@@ -942,7 +1023,8 @@
     ],
     "difficulty": 3,
     "text": "5x Hydra Soldiers lead to more environment cards (when defeated). Anti-Rush. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 82
   },
   {
     "villain_set_code": "absorbing_man",
@@ -953,7 +1035,8 @@
     ],
     "difficulty": 3,
     "text": "No minions (Space Stone resets his deck + causes acceleration token). Status cards. ATK/SCH bonus. Smaller encounter deck = his environment cards trigger more often.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 83
   },
   {
     "villain_set_code": "absorbing_man",
@@ -965,7 +1048,8 @@
     ],
     "difficulty": 3,
     "text": "Large minions. Boss minion. Stuns. Sends alter-ego. (Relates to Ice trait.)",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 84
   },
   {
     "villain_set_code": "absorbing_man",
@@ -977,7 +1061,8 @@
     ],
     "difficulty": 3,
     "text": "Steady. Anti-Rush. Mixed minions. Stuns. Quickstrike. (Relates to Wood trait.)",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 85
   },
   {
     "villain_set_code": "absorbing_man",
@@ -989,7 +1074,8 @@
     ],
     "difficulty": 3,
     "text": "Two boss minions. Sends alter-ego. (Tombstone/Moonstone relate to Stone trait.)",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 86
   },
   {
     "villain_set_code": "absorbing_man",
@@ -1001,7 +1087,8 @@
     ],
     "difficulty": 3,
     "text": "Boss minion. Large minions. Overkill. (Relates to Metal trait.)",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 87
   },
   {
     "villain_set_code": "absorbing_man",
@@ -1012,7 +1099,8 @@
     ],
     "difficulty": 4,
     "text": "Attachments. Surge leads to environment effects triggering. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 88
   },
   {
     "villain_set_code": "absorbing_man",
@@ -1023,7 +1111,8 @@
     ],
     "difficulty": 4,
     "text": "Two large minions. Surge leads to more environment effects triggering.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 89
   },
   {
     "villain_set_code": "crossbones",
@@ -1036,7 +1125,8 @@
     ],
     "difficulty": -2,
     "text": "Attachments. Medium minions. Adds mutant theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 90
   },
   {
     "villain_set_code": "crossbones",
@@ -1050,7 +1140,8 @@
     "difficulty": 0,
     "text": "Extra attacks. Mixed minions. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 91
   },
   {
     "villain_set_code": "crossbones",
@@ -1063,7 +1154,8 @@
     ],
     "difficulty": 1,
     "text": "5x Hydra Soldiers led by Zemo. Extra attacks. Anti-Rush. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 92
   },
   {
     "villain_set_code": "crossbones",
@@ -1076,7 +1168,8 @@
     ],
     "difficulty": 1,
     "text": "5x Medium mercenary-traited minions. Boss minion. Discarding. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 93
   },
   {
     "villain_set_code": "crossbones",
@@ -1089,7 +1182,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally. Surprise damage. Sends alter-ego + brings you back. Quickstrike. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 94
   },
   {
     "villain_set_code": "crossbones",
@@ -1102,7 +1196,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Mixed minions. Attachments. Teamwork. Thematic (Crossbones looks like a Reaver).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 95
   },
   {
     "villain_set_code": "crossbones",
@@ -1115,7 +1210,8 @@
     ],
     "difficulty": 3,
     "text": "Steady. No added weapons. Anti-Rush. ATK bonus. Mixed minions. Thematic (What if Crossbones took a super serum?).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 96
   },
   {
     "villain_set_code": "crossbones",
@@ -1128,7 +1224,8 @@
     ],
     "difficulty": 4,
     "text": "High boost icons. Large minions. Boss minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 97
   },
   {
     "villain_set_code": "crossbones",
@@ -1141,7 +1238,8 @@
     ],
     "difficulty": 4,
     "text": "Anti-Rush. Teamwork. Mixed minions. Boss minion. Stuns.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 98
   },
   {
     "villain_set_code": "crossbones",
@@ -1154,7 +1252,8 @@
     ],
     "difficulty": 4,
     "text": "Attachments. High boost icons. Extra activations. Large minions. Adds Spider-Man theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 99
   },
   {
     "villain_set_code": "kang",
@@ -1165,7 +1264,8 @@
     ],
     "difficulty": 0,
     "text": "Obligations (combos with Kang's cards). Sends alter-ego.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 100
   },
   {
     "villain_set_code": "kang",
@@ -1177,7 +1277,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Sentinel trait interaction. Robot thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 101
   },
   {
     "villain_set_code": "kang",
@@ -1188,7 +1289,8 @@
     ],
     "difficulty": 0,
     "text": "Obligations (combos with Kang's cards). Sends alter-ego. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 102
   },
   {
     "villain_set_code": "kang",
@@ -1200,7 +1302,8 @@
     "difficulty": 0,
     "text": "Small minions. Stuns. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 103
   },
   {
     "villain_set_code": "kang",
@@ -1211,7 +1314,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Rush. Teamwork. Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 104
   },
   {
     "villain_set_code": "kang",
@@ -1222,7 +1326,8 @@
     ],
     "difficulty": 1,
     "text": "Small minions. Quickstrike. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 105
   },
   {
     "villain_set_code": "kang",
@@ -1233,7 +1338,8 @@
     ],
     "difficulty": 1,
     "text": "Sends alter-ego. Nemesis interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 106
   },
   {
     "villain_set_code": "kang",
@@ -1244,7 +1350,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Damage environment. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 107
   },
   {
     "villain_set_code": "kang",
@@ -1256,7 +1363,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Dangerous attacks. Small minions. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 108
   },
   {
     "villain_set_code": "kang",
@@ -1268,7 +1376,8 @@
     ],
     "difficulty": 2,
     "text": "Steady. Anti-Ally (defending). Mixed minions. Adds threat. Adds mutant theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 109
   },
   {
     "villain_set_code": "kang",
@@ -1280,7 +1389,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Boss minion (Dragon). Toughness environment. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 110
   },
   {
     "villain_set_code": "kang",
@@ -1291,7 +1401,8 @@
     ],
     "difficulty": 2,
     "text": "Retaliate. Discards. Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 111
   },
   {
     "villain_set_code": "kang",
@@ -1302,7 +1413,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 112
   },
   {
     "villain_set_code": "kang",
@@ -1313,7 +1425,8 @@
     ],
     "difficulty": 3,
     "text": "Obligations. Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 113
   },
   {
     "villain_set_code": "kang",
@@ -1325,7 +1438,8 @@
     ],
     "difficulty": 3,
     "text": "Small minions. Quickstrike. Card removal. Victory display side schemes. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 114
   },
   {
     "villain_set_code": "kang",
@@ -1337,7 +1451,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Boss minions. Victory display. High boost icons. Nemesis interaction. Toughness. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 115
   },
   {
     "villain_set_code": "red_skull",
@@ -1349,7 +1464,8 @@
     ],
     "difficulty": -2,
     "text": "Treacheries. Mills encounter deck. Punishes energy resources.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 116
   },
   {
     "villain_set_code": "red_skull",
@@ -1361,7 +1477,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Extra attacks. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 117
   },
   {
     "villain_set_code": "taskmaster",
@@ -1372,7 +1489,8 @@
     ],
     "difficulty": -2,
     "text": "Large minions. Adds more allies to be rescued.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 118
   },
   {
     "villain_set_code": "taskmaster",
@@ -1383,7 +1501,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 119
   },
   {
     "villain_set_code": "taskmaster",
@@ -1394,7 +1513,8 @@
     ],
     "difficulty": 0,
     "text": "Captures allies. Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 120
   },
   {
     "villain_set_code": "taskmaster",
@@ -1406,7 +1526,8 @@
     "difficulty": 0,
     "text": "Extra attacks. Attachments. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 121
   },
   {
     "villain_set_code": "taskmaster",
@@ -1418,7 +1539,8 @@
     ],
     "difficulty": 1,
     "text": "When Revealed abilities. Impactful boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 122
   },
   {
     "villain_set_code": "taskmaster",
@@ -1430,7 +1552,8 @@
     ],
     "difficulty": 2,
     "text": "Sends alter-ego (for main scheme ability). Anti-Rush. Large minions. Steals allies. Adds Asgard theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 123
   },
   {
     "villain_set_code": "taskmaster",
@@ -1442,7 +1565,8 @@
     ],
     "difficulty": 2,
     "text": "Sends alter-ego (for main scheme ability). Retaliate. Anti-Ally. SCH bonus. Overkill.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 124
   },
   {
     "villain_set_code": "taskmaster",
@@ -1453,7 +1577,8 @@
     ],
     "difficulty": 2,
     "text": "High boost icons (for main scheme ability). Large minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 125
   },
   {
     "villain_set_code": "taskmaster",
@@ -1465,7 +1590,8 @@
     ],
     "difficulty": 2,
     "text": "Sends alter-ego (for main scheme ability). Small minions. Nemesis interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 126
   },
   {
     "villain_set_code": "taskmaster",
@@ -1476,7 +1602,8 @@
     ],
     "difficulty": 3,
     "text": "Boss minion. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 127
   },
   {
     "villain_set_code": "taskmaster",
@@ -1487,7 +1614,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 128
   },
   {
     "villain_set_code": "taskmaster",
@@ -1499,7 +1627,8 @@
     ],
     "difficulty": 4,
     "text": "2x Boss minions. Piercing. Damage reflect. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 129
   },
   {
     "villain_set_code": "taskmaster",
@@ -1511,7 +1640,8 @@
     ],
     "difficulty": 4,
     "text": "Boss minion. Attachments. Extra activations. Nowhere is safe.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 130
   },
   {
     "villain_set_code": "wrecking_crew",
@@ -1525,7 +1655,8 @@
     ],
     "difficulty": 0,
     "text": "Keeps the scenario to very few minions. Thematic (wrecking the city).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 131
   },
   {
     "villain_set_code": "wrecking_crew",
@@ -1539,7 +1670,8 @@
     ],
     "difficulty": 1,
     "text": "Many minions. Mixed minions. Criminal trait interaction. Thematic (breaking out).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 132
   },
   {
     "villain_set_code": "wrecking_crew",
@@ -1553,7 +1685,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks to combo with the Wrecking Crew's attack abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 133
   },
   {
     "villain_set_code": "wrecking_crew",
@@ -1567,7 +1700,8 @@
     ],
     "difficulty": 3,
     "text": "Extra minions. Attachments. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 134
   },
   {
     "villain_set_code": "zola",
@@ -1578,7 +1712,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 135
   },
   {
     "villain_set_code": "zola",
@@ -1589,7 +1724,8 @@
     ],
     "difficulty": -2,
     "text": "Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 136
   },
   {
     "villain_set_code": "zola",
@@ -1600,7 +1736,8 @@
     ],
     "difficulty": 0,
     "text": "Anti-Rush. Teamwork. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 137
   },
   {
     "villain_set_code": "zola",
@@ -1611,7 +1748,8 @@
     ],
     "difficulty": 0,
     "text": "Toughs. Large minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 138
   },
   {
     "villain_set_code": "zola",
@@ -1622,7 +1760,8 @@
     ],
     "difficulty": 0,
     "text": "Boss minion. Sends alter-ego. Attachments. Adds horror theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 139
   },
   {
     "villain_set_code": "zola",
@@ -1634,7 +1773,8 @@
     "difficulty": 0,
     "text": "Anti-Ally. Area damage.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 140
   },
   {
     "villain_set_code": "zola",
@@ -1645,7 +1785,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 141
   },
   {
     "villain_set_code": "zola",
@@ -1656,7 +1797,8 @@
     ],
     "difficulty": 2,
     "text": "Large minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 142
   },
   {
     "villain_set_code": "zola",
@@ -1667,7 +1809,8 @@
     ],
     "difficulty": 3,
     "text": "Bonuses for multiple enemies (minions). Side schemes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 143
   },
   {
     "villain_set_code": "zola",
@@ -1678,7 +1821,8 @@
     ],
     "difficulty": 3,
     "text": "Boss minion. Piercing. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 144
   },
   {
     "villain_set_code": "zola",
@@ -1689,7 +1833,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Quickstrike environment. Adds horror theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 145
   },
   {
     "villain_set_code": "zola",
@@ -1700,7 +1845,8 @@
     ],
     "difficulty": 4,
     "text": "Minions with tech attachments. Main scheme ability helps trigger Teamwork.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 146
   },
   {
     "villain_set_code": "zola",
@@ -1711,7 +1857,8 @@
     ],
     "difficulty": 4,
     "text": "Large minion. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 147
   },
   {
     "villain_set_code": "zola",
@@ -1722,7 +1869,8 @@
     ],
     "difficulty": 4,
     "text": "Boss minion. Adds horror theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 148
   },
   {
     "villain_set_code": "zola",
@@ -1733,7 +1881,8 @@
     ],
     "difficulty": 4,
     "text": "Boss minions. Victory display. High boost icons. Nemesis interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 149
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1744,7 +1893,8 @@
     ],
     "difficulty": -2,
     "text": "Attachments. Treacheries.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 150
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1756,7 +1906,8 @@
     ],
     "difficulty": -2,
     "text": "Anti-Rush. Milano helps remove cards from The Collection. Teamwork. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 151
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1767,7 +1918,8 @@
     ],
     "difficulty": -2,
     "text": "Vulnerable. 2x Large minions. Minions go to the victory display, not The Collection.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 152
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1778,7 +1930,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Minions enter play two at a time, filling The Collection.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 153
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1789,7 +1942,8 @@
     ],
     "difficulty": -1,
     "text": "Medium minions. Impactful boost effects. Sends more cards to The Collection.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 154
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1800,7 +1954,8 @@
     ],
     "difficulty": 0,
     "text": "Large minions. Impactful boost abilities. Sends more cards to The Collection.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 155
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1811,7 +1966,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 156
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1823,7 +1979,8 @@
     "difficulty": 0,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities (leads to filling The Collection). Confuses. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 157
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1834,7 +1991,8 @@
     ],
     "difficulty": 2,
     "text": "Boss minion. Puts cards in your deck.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 158
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1845,7 +2003,8 @@
     ],
     "difficulty": 2,
     "text": "Large minion. Very few total minions. Attachments (fills The Collection).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 159
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1857,7 +2016,8 @@
     ],
     "difficulty": 3,
     "text": "Steady. ATK bonus. Mixed minions. Surprise damage. Sends cards to the Collection. Swarm. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 160
   },
   {
     "villain_set_code": "infiltrate_the_museum",
@@ -1869,7 +2029,8 @@
     ],
     "difficulty": 4,
     "text": "WARNING: Collector collects his own Infinity Stones. Status cards. ATK/SCH bonus.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 161
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1881,7 +2042,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Black Order trait interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 162
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1892,7 +2054,8 @@
     ],
     "difficulty": -1,
     "text": "Steady. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 163
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1903,7 +2066,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 164
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1914,7 +2078,8 @@
     ],
     "difficulty": -1,
     "text": "Sends alter-ego. Large minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 165
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1925,7 +2090,8 @@
     ],
     "difficulty": -1,
     "text": "Anti-Ally (defending). Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 166
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1937,7 +2103,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Sends alter-ego + pulls you back. Quickstrike.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 167
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1948,7 +2115,8 @@
     ],
     "difficulty": 0,
     "text": "Large minions. Overkill/piercing boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 168
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1959,7 +2127,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Teamwork.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 169
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1971,7 +2140,8 @@
     "difficulty": 0,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 170
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1982,7 +2152,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 171
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -1993,7 +2164,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 172
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -2004,7 +2176,8 @@
     ],
     "difficulty": 2,
     "text": "Retaliate. Anti-Ally. SCH bonus. Overkill. Sends alter-ego.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 173
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -2016,7 +2189,8 @@
     ],
     "difficulty": 3,
     "text": "Small minions. Boss minion. Vulnerable. Patrol. Damage reflect. Anti-S.H.I.E.L.D.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 174
   },
   {
     "villain_set_code": "escape_the_museum",
@@ -2027,7 +2201,8 @@
     ],
     "difficulty": 4,
     "text": "Large minion. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 175
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2038,7 +2213,8 @@
     ],
     "difficulty": -2,
     "text": "Medium minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 176
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2049,7 +2225,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Boss minion (Dragon).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 177
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2060,7 +2237,8 @@
     ],
     "difficulty": 0,
     "text": "Large minions. Overkill/piercing boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 178
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2072,7 +2250,8 @@
     ],
     "difficulty": 0,
     "text": "Sends alter-ego (helps charge Badoon Ship). Large minions. Obligations.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 179
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2083,7 +2262,8 @@
     ],
     "difficulty": 0,
     "text": "Large minions. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 180
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2094,7 +2274,8 @@
     ],
     "difficulty": 0,
     "text": "Many side schemes. Attachments. Does not add minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 181
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2106,7 +2287,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Surprise damage. Swarm. Badoon trait interaction. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 182
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2117,7 +2299,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 183
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2128,7 +2311,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Teamwork.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 184
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2139,7 +2323,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Teamwork.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 185
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2151,7 +2336,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Rush. Mixed minions. Teamwork. Boss minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 186
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2163,7 +2349,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 187
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2175,7 +2362,8 @@
     ],
     "difficulty": 4,
     "text": "Retaliate. Anti-Ally. Anti-Rush. SCH bonus. Overkill. Stuns. Small minions. Quickstrike.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 188
   },
   {
     "villain_set_code": "brotherhood_of_badoon",
@@ -2187,7 +2375,8 @@
     ],
     "difficulty": 4,
     "text": "Steady. Status cards. ATK/SCH bonus. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 189
   },
   {
     "villain_set_code": "nebula",
@@ -2198,7 +2387,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 190
   },
   {
     "villain_set_code": "nebula",
@@ -2210,7 +2400,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Impactful boost abilities. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 191
   },
   {
     "villain_set_code": "nebula",
@@ -2221,7 +2412,8 @@
     ],
     "difficulty": -1,
     "text": "Anti-Rush. Teamwork. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 192
   },
   {
     "villain_set_code": "nebula",
@@ -2233,7 +2425,8 @@
     ],
     "difficulty": -1,
     "text": "Large minions. Black Order trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 193
   },
   {
     "villain_set_code": "nebula",
@@ -2244,7 +2437,8 @@
     ],
     "difficulty": -1,
     "text": "Large minions. Overkill/piercing boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 194
   },
   {
     "villain_set_code": "nebula",
@@ -2255,7 +2449,8 @@
     ],
     "difficulty": 0,
     "text": "Steady (keeps Techniques triggering). Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 195
   },
   {
     "villain_set_code": "nebula",
@@ -2266,7 +2461,8 @@
     ],
     "difficulty": 0,
     "text": "Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 196
   },
   {
     "villain_set_code": "nebula",
@@ -2278,7 +2474,8 @@
     "difficulty": 0,
     "text": "Small minions. Quickstrike. Card removal. Impactful boost abilities (additional boost cards find more Techniques). Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 197
   },
   {
     "villain_set_code": "nebula",
@@ -2289,7 +2486,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Impactful boost abilities (additional boost cards find more Techniques).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 198
   },
   {
     "villain_set_code": "nebula",
@@ -2301,7 +2499,8 @@
     ],
     "difficulty": 2,
     "text": "Steady (keeps Techniques triggering). Anti-Rush. ATK bonus. Small minions. Quickstrike. Stuns.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 199
   },
   {
     "villain_set_code": "nebula",
@@ -2313,7 +2512,8 @@
     ],
     "difficulty": 4,
     "text": "Steady. ATK/SCH boost. Status cards. Boss minion. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 200
   },
   {
     "villain_set_code": "ronan",
@@ -2326,7 +2526,8 @@
     ],
     "difficulty": -3,
     "text": "Medium minions. Attachments. Helpful setup ally.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 201
   },
   {
     "villain_set_code": "ronan",
@@ -2338,7 +2539,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Sentinel trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 202
   },
   {
     "villain_set_code": "ronan",
@@ -2349,7 +2551,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Boss minion (Dragon).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 203
   },
   {
     "villain_set_code": "ronan",
@@ -2360,7 +2563,8 @@
     ],
     "difficulty": 0,
     "text": "Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 204
   },
   {
     "villain_set_code": "ronan",
@@ -2371,7 +2575,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Teamwork.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 205
   },
   {
     "villain_set_code": "ronan",
@@ -2383,7 +2588,8 @@
     ],
     "difficulty": 0,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 206
   },
   {
     "villain_set_code": "ronan",
@@ -2395,7 +2601,8 @@
     "difficulty": 0,
     "text": "Large minions. Overkill/piercing boost abilities. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 207
   },
   {
     "villain_set_code": "ronan",
@@ -2406,7 +2613,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 208
   },
   {
     "villain_set_code": "ronan",
@@ -2418,7 +2626,8 @@
     ],
     "difficulty": 3,
     "text": "Extra attacks. Large minions. Overkill/piercing boost effects.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 209
   },
   {
     "villain_set_code": "ronan",
@@ -2431,7 +2640,8 @@
     ],
     "difficulty": 4,
     "text": "Steady. ATK/SCH boost. Status cards. Large minions. Overkill/piercing boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 210
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2443,7 +2653,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Boss minion (Dragon). Victory display side schemes. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 211
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2455,7 +2666,8 @@
     ],
     "difficulty": -1,
     "text": "Large minions. Gives allies. Steals allies. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 212
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2468,7 +2680,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Impactful boost abilities. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 213
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2480,7 +2693,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Quickstrike environment. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 214
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2492,7 +2706,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Status cards.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 215
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2504,7 +2719,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Teamwork. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 216
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2516,7 +2732,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Adds threat. Huge side scheme. Discards. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 217
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2528,7 +2745,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Rush. Sends alter-ego. Steals allies. Nemesis interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 218
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2541,7 +2759,8 @@
     ],
     "difficulty": 1,
     "text": "Retaliate. Anti-Ally. SCH bonus. Treacheries. Mills encounter deck. Punishes energy resources.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 219
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2553,7 +2772,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 220
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2565,7 +2785,8 @@
     ],
     "difficulty": 2,
     "text": "Steady. Anti-Ally. Surprise damage. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 221
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2577,7 +2798,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Rush. Teamwork. Mixed minions. Boss minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 222
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2589,7 +2811,8 @@
     ],
     "difficulty": 3,
     "text": "Steady. ATK boost. Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 223
   },
   {
     "villain_set_code": "ebony_maw",
@@ -2602,7 +2825,8 @@
     ],
     "difficulty": 4,
     "text": "Status cards. ATK/SCH bonus. Mixed minions. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 224
   },
   {
     "villain_set_code": "hela",
@@ -2614,7 +2838,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Boss minion (Dragon).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 225
   },
   {
     "villain_set_code": "hela",
@@ -2627,7 +2852,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Sends alter-ego. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 226
   },
   {
     "villain_set_code": "hela",
@@ -2639,7 +2865,8 @@
     ],
     "difficulty": 1,
     "text": "Large minions (5x giant-traited). Sends alter-ego. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 227
   },
   {
     "villain_set_code": "hela",
@@ -2651,7 +2878,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 228
   },
   {
     "villain_set_code": "hela",
@@ -2663,7 +2891,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Brotherhood trait interaction. Adds mutant theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 229
   },
   {
     "villain_set_code": "hela",
@@ -2675,7 +2904,8 @@
     ],
     "difficulty": 2,
     "text": "Steady. Anti-Ally (defending). Mixed minions. Adds threat. Adds mutant theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 230
   },
   {
     "villain_set_code": "hela",
@@ -2687,7 +2917,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Victory display side scheme (powers up Hela). Discards. Quickstrike environment. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 231
   },
   {
     "villain_set_code": "hela",
@@ -2699,7 +2930,8 @@
     ],
     "difficulty": 3,
     "text": "Large minions. Boss minion. Stuns. Sends alter-ego. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 232
   },
   {
     "villain_set_code": "hela",
@@ -2711,7 +2943,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Bonuses for multiple enemies. Side schemes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 233
   },
   {
     "villain_set_code": "hela",
@@ -2723,7 +2956,8 @@
     ],
     "difficulty": 3,
     "text": "Boss minion. Attachments (for Hela's large story minions + Thunderbolt).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 234
   },
   {
     "villain_set_code": "hela",
@@ -2735,7 +2969,8 @@
     ],
     "difficulty": 4,
     "text": "Victory display side schemes (powers up Hela). Boss minions. Nemesis interaction. Victory display.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 235
   },
   {
     "villain_set_code": "loki",
@@ -2747,7 +2982,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Boss minion (Dragon). Victory display side schemes. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 236
   },
   {
     "villain_set_code": "loki",
@@ -2760,7 +2996,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Stealing allies. Stuns. Thematic (inspired by the first MCU Avengers movie).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 237
   },
   {
     "villain_set_code": "loki",
@@ -2772,7 +3009,8 @@
     ],
     "difficulty": -2,
     "text": "Large minions. Gives allies. Sends alter-ego. Nemesis interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 238
   },
   {
     "villain_set_code": "loki",
@@ -2784,7 +3022,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 239
   },
   {
     "villain_set_code": "loki",
@@ -2796,7 +3035,8 @@
     ],
     "difficulty": -1,
     "text": "Medium minions. Teamwork. Impactful boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 240
   },
   {
     "villain_set_code": "loki",
@@ -2808,7 +3048,8 @@
     ],
     "difficulty": 0,
     "text": "Steady. Mixed minions. Overkill/piercing boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 241
   },
   {
     "villain_set_code": "loki",
@@ -2820,7 +3061,8 @@
     ],
     "difficulty": 0,
     "text": "Extra attacks (with Infinity Gauntlet). Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 242
   },
   {
     "villain_set_code": "loki",
@@ -2832,7 +3074,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions (above average). High boost icons. Adds Spider-Man theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 243
   },
   {
     "villain_set_code": "loki",
@@ -2845,7 +3088,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Sends alter-ego. Huge side scheme. Side schemes. Adds time theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 244
   },
   {
     "villain_set_code": "loki",
@@ -2858,7 +3102,8 @@
     "difficulty": 0,
     "text": "Anti-Rush. Sends alter-ego. Steals allies. Large minions. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 245
   },
   {
     "villain_set_code": "loki",
@@ -2870,7 +3115,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Side Schemes. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 246
   },
   {
     "villain_set_code": "loki",
@@ -2882,7 +3128,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Reaver trait interaction. Teamwork. Discarding.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 247
   },
   {
     "villain_set_code": "loki",
@@ -2894,7 +3141,8 @@
     ],
     "difficulty": 4,
     "text": "Small minions. Boss minion. Quickstrike. Card removal. Puts cards in your deck. WARNING: Painful.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 248
   },
   {
     "villain_set_code": "thanos",
@@ -2906,7 +3154,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Boss minion (Dragon). Stuns.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 249
   },
   {
     "villain_set_code": "thanos",
@@ -2918,7 +3167,8 @@
     ],
     "difficulty": -1,
     "text": "Vulnerable. Mixed minions. Anti-S.H.I.E.L.D.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 250
   },
   {
     "villain_set_code": "thanos",
@@ -2930,7 +3180,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Minions attack abilities (perfect for the Space Stone). Teamwork.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 251
   },
   {
     "villain_set_code": "thanos",
@@ -2942,7 +3193,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Teamwork. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 252
   },
   {
     "villain_set_code": "thanos",
@@ -2955,7 +3207,8 @@
     "difficulty": 0,
     "text": "Large minions. Black Order trait interaction. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 253
   },
   {
     "villain_set_code": "thanos",
@@ -2967,7 +3220,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Discards. Toughness environment.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 254
   },
   {
     "villain_set_code": "thanos",
@@ -2979,7 +3233,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Swarm. Impactful boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 255
   },
   {
     "villain_set_code": "thanos",
@@ -2991,7 +3246,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally (defending). Small minions. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 256
   },
   {
     "villain_set_code": "thanos",
@@ -3003,7 +3259,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Small minions. Dangerous attacks. Adds Symbiote theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 257
   },
   {
     "villain_set_code": "thanos",
@@ -3015,7 +3272,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 258
   },
   {
     "villain_set_code": "thanos",
@@ -3027,7 +3285,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally. Overkill/piercing boost abilities. Large minions. Surprise damage. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 259
   },
   {
     "villain_set_code": "thanos",
@@ -3039,7 +3298,8 @@
     ],
     "difficulty": 2,
     "text": "Card removal. Sends alter-ego. Small minions. Quickstrike. Additional boost cards. Side schemes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 260
   },
   {
     "villain_set_code": "thanos",
@@ -3051,7 +3311,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Side Schemes. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 261
   },
   {
     "villain_set_code": "thanos",
@@ -3064,7 +3325,8 @@
     ],
     "difficulty": 4,
     "text": "Overkill. Retaliate. Steady. Anti-Ally. ATK/SCH bonuses. Overkill/piercing. Pain. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 262
   },
   {
     "villain_set_code": "the_hood",
@@ -3081,7 +3343,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Modular sets within the easier 50%.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 263
   },
   {
     "villain_set_code": "the_hood",
@@ -3098,7 +3361,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Adds magic/horror theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 264
   },
   {
     "villain_set_code": "the_hood",
@@ -3115,7 +3379,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Avenger trait interaction. Adds superhero theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 265
   },
   {
     "villain_set_code": "the_hood",
@@ -3132,7 +3397,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Criminal trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 266
   },
   {
     "villain_set_code": "the_hood",
@@ -3149,7 +3415,8 @@
     ],
     "difficulty": 0,
     "text": "Attachments. Mix of easy and difficult sets.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 267
   },
   {
     "villain_set_code": "the_hood",
@@ -3166,7 +3433,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Master of Evil trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 268
   },
   {
     "villain_set_code": "the_hood",
@@ -3183,7 +3451,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Hydra trait interaction. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 269
   },
   {
     "villain_set_code": "the_hood",
@@ -3200,7 +3469,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Anti-Rush.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 270
   },
   {
     "villain_set_code": "the_hood",
@@ -3217,7 +3487,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Swarm. Adds space theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 271
   },
   {
     "villain_set_code": "the_hood",
@@ -3234,7 +3505,8 @@
     ],
     "difficulty": 4,
     "text": "Keywords. ATK/SCH boosts. Attachments. Environments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 272
   },
   {
     "villain_set_code": "the_hood",
@@ -3251,7 +3523,8 @@
     ],
     "difficulty": 4,
     "text": "Boss minions. Highly likely to have an Elite Thunderbolt minion enter play early.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 273
   },
   {
     "villain_set_code": "tower_defense",
@@ -3263,7 +3536,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Black order interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 274
   },
   {
     "villain_set_code": "tower_defense",
@@ -3275,7 +3549,8 @@
     "difficulty": 0,
     "text": "Small minions. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 275
   },
   {
     "villain_set_code": "tower_defense",
@@ -3286,7 +3561,8 @@
     ],
     "difficulty": 1,
     "text": "Steady. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 276
   },
   {
     "villain_set_code": "tower_defense",
@@ -3298,7 +3574,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Status cards. Teamwork.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 277
   },
   {
     "villain_set_code": "tower_defense",
@@ -3309,7 +3586,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 278
   },
   {
     "villain_set_code": "tower_defense",
@@ -3320,7 +3598,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 279
   },
   {
     "villain_set_code": "tower_defense",
@@ -3332,7 +3611,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 280
   },
   {
     "villain_set_code": "tower_defense",
@@ -3343,7 +3623,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally (defending). Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 281
   },
   {
     "villain_set_code": "tower_defense",
@@ -3354,7 +3635,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 282
   },
   {
     "villain_set_code": "tower_defense",
@@ -3366,7 +3648,8 @@
     ],
     "difficulty": 2,
     "text": "Steady. Anti-Ally (defending). Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 283
   },
   {
     "villain_set_code": "tower_defense",
@@ -3377,7 +3660,8 @@
     ],
     "difficulty": 3,
     "text": "Bonuses for multiple enemies. Side schemes. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 284
   },
   {
     "villain_set_code": "tower_defense",
@@ -3389,7 +3673,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Boss minion. Damage reflect.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 285
   },
   {
     "villain_set_code": "tower_defense",
@@ -3401,7 +3686,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Boss minion. Additional boost cards.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 286
   },
   {
     "villain_set_code": "mysterio",
@@ -3412,7 +3698,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Stuns. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 287
   },
   {
     "villain_set_code": "mysterio",
@@ -3423,7 +3710,8 @@
     ],
     "difficulty": -2,
     "text": "Large minions. Gives allies. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 288
   },
   {
     "villain_set_code": "mysterio",
@@ -3434,7 +3722,8 @@
     ],
     "difficulty": -2,
     "text": "Sends alter-ego. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 289
   },
   {
     "villain_set_code": "mysterio",
@@ -3445,7 +3734,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 290
   },
   {
     "villain_set_code": "mysterio",
@@ -3456,7 +3746,8 @@
     ],
     "difficulty": -1,
     "text": "Medium minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 291
   },
   {
     "villain_set_code": "mysterio",
@@ -3467,7 +3758,8 @@
     ],
     "difficulty": -1,
     "text": "Extra attacks (more illusions in your deck).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 292
   },
   {
     "villain_set_code": "mysterio",
@@ -3478,7 +3770,8 @@
     ],
     "difficulty": -1,
     "text": "Side schemes. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 293
   },
   {
     "villain_set_code": "mysterio",
@@ -3490,7 +3783,8 @@
     ],
     "difficulty": -1,
     "text": "Medium minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 294
   },
   {
     "villain_set_code": "mysterio",
@@ -3501,7 +3795,8 @@
     ],
     "difficulty": 0,
     "text": "Environments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 295
   },
   {
     "villain_set_code": "mysterio",
@@ -3513,7 +3808,8 @@
     "difficulty": 0,
     "text": "Illusion trait. Sends alter-ego. Nemesis interaction. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 296
   },
   {
     "villain_set_code": "mysterio",
@@ -3524,7 +3820,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 297
   },
   {
     "villain_set_code": "mysterio",
@@ -3535,7 +3832,8 @@
     ],
     "difficulty": 1,
     "text": "Large minions. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 298
   },
   {
     "villain_set_code": "mysterio",
@@ -3546,7 +3844,8 @@
     ],
     "difficulty": 1,
     "text": "Retaliate. Discards. Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 299
   },
   {
     "villain_set_code": "mysterio",
@@ -3557,7 +3856,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Rush. Sends alter-ego. Steals allies. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 300
   },
   {
     "villain_set_code": "mysterio",
@@ -3568,7 +3868,8 @@
     ],
     "difficulty": 3,
     "text": "Retaliate. Anti-Ally. SCH bonus. Overkill.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 301
   },
   {
     "villain_set_code": "mysterio",
@@ -3579,7 +3880,8 @@
     ],
     "difficulty": 4,
     "text": "Boss minion. Puts cards in your deck.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 302
   },
   {
     "villain_set_code": "sandman",
@@ -3590,7 +3892,8 @@
     ],
     "difficulty": 0,
     "text": "Treacheries. Mills encounter deck.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 303
   },
   {
     "villain_set_code": "sandman",
@@ -3602,7 +3905,8 @@
     "difficulty": 0,
     "text": "Sends alter-ego. Small minions. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 304
   },
   {
     "villain_set_code": "sandman",
@@ -3613,7 +3917,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 305
   },
   {
     "villain_set_code": "sandman",
@@ -3624,7 +3929,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 306
   },
   {
     "villain_set_code": "sandman",
@@ -3635,7 +3941,8 @@
     ],
     "difficulty": 2,
     "text": "Huge side scheme. 2x Medium minions. Adds nightmare theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 307
   },
   {
     "villain_set_code": "sandman",
@@ -3646,7 +3953,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 308
   },
   {
     "villain_set_code": "sandman",
@@ -3657,7 +3965,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally. Surprise damage.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 309
   },
   {
     "villain_set_code": "sandman",
@@ -3668,7 +3977,8 @@
     ],
     "difficulty": 3,
     "text": "Large minions. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 310
   },
   {
     "villain_set_code": "sandman",
@@ -3680,7 +3990,8 @@
     ],
     "difficulty": 3,
     "text": "Large minions. Changing environments. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 311
   },
   {
     "villain_set_code": "sandman",
@@ -3692,7 +4003,8 @@
     ],
     "difficulty": 3,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 312
   },
   {
     "villain_set_code": "sandman",
@@ -3703,7 +4015,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 313
   },
   {
     "villain_set_code": "sandman",
@@ -3715,7 +4028,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Boss minion. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 314
   },
   {
     "villain_set_code": "sandman",
@@ -3727,7 +4041,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Boss minion. Stuns. Sends alter-ego.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 315
   },
   {
     "villain_set_code": "sandman",
@@ -3739,7 +4054,8 @@
     ],
     "difficulty": 4,
     "text": "Steady. ATK boost. Medium minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 316
   },
   {
     "villain_set_code": "sandman",
@@ -3751,7 +4067,8 @@
     ],
     "difficulty": 4,
     "text": "Steady. Retaliate. Anti-Ally. SCH bonus. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 317
   },
   {
     "villain_set_code": "sinister_six",
@@ -3762,7 +4079,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Sends alter-ego. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 318
   },
   {
     "villain_set_code": "sinister_six",
@@ -3773,7 +4091,8 @@
     ],
     "difficulty": -1,
     "text": "Large minion. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 319
   },
   {
     "villain_set_code": "sinister_six",
@@ -3784,7 +4103,8 @@
     ],
     "difficulty": -1,
     "text": "Boss minion. Sends alter-ego. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 320
   },
   {
     "villain_set_code": "sinister_six",
@@ -3795,7 +4115,8 @@
     ],
     "difficulty": -1,
     "text": "Sends alter-ego. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 321
   },
   {
     "villain_set_code": "sinister_six",
@@ -3806,7 +4127,8 @@
     ],
     "difficulty": 0,
     "text": "Large minion. Acceleration tokens. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 322
   },
   {
     "villain_set_code": "sinister_six",
@@ -3817,7 +4139,8 @@
     ],
     "difficulty": 1,
     "text": "Steady. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 323
   },
   {
     "villain_set_code": "sinister_six",
@@ -3828,7 +4151,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Dangerous attacks. Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 324
   },
   {
     "villain_set_code": "sinister_six",
@@ -3839,7 +4163,8 @@
     ],
     "difficulty": 1,
     "text": "Medium minions. Boost effects. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 325
   },
   {
     "villain_set_code": "sinister_six",
@@ -3850,7 +4175,8 @@
     ],
     "difficulty": 2,
     "text": "Side schemes. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 326
   },
   {
     "villain_set_code": "venom",
@@ -3861,7 +4187,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 327
   },
   {
     "villain_set_code": "venom",
@@ -3872,7 +4199,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 328
   },
   {
     "villain_set_code": "venom",
@@ -3883,7 +4211,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. Stuns.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 329
   },
   {
     "villain_set_code": "venom",
@@ -3895,7 +4224,8 @@
     "difficulty": 0,
     "text": "Sends alter-ego. Small minions.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 330
   },
   {
     "villain_set_code": "venom",
@@ -3906,7 +4236,8 @@
     ],
     "difficulty": 1,
     "text": "Small minions. Reveals more of his cards.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 331
   },
   {
     "villain_set_code": "venom",
@@ -3918,7 +4249,8 @@
     ],
     "difficulty": 2,
     "text": "Steady. Mixed minions. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 332
   },
   {
     "villain_set_code": "venom",
@@ -3929,7 +4261,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 333
   },
   {
     "villain_set_code": "venom",
@@ -3940,7 +4273,8 @@
     ],
     "difficulty": 2,
     "text": "Large minions. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 334
   },
   {
     "villain_set_code": "venom",
@@ -3951,7 +4285,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 335
   },
   {
     "villain_set_code": "venom",
@@ -3962,7 +4297,8 @@
     ],
     "difficulty": 2,
     "text": "Large minions. Overkill/piercing boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 336
   },
   {
     "villain_set_code": "venom",
@@ -3973,7 +4309,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 337
   },
   {
     "villain_set_code": "venom",
@@ -3985,7 +4322,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Rush. Steady. ATK boost. Stuns. Quickstrike. Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 338
   },
   {
     "villain_set_code": "venom",
@@ -3997,7 +4335,8 @@
     ],
     "difficulty": 4,
     "text": "Large minions. Boss minion. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 339
   },
   {
     "villain_set_code": "venom",
@@ -4010,7 +4349,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Impactful boost abilities. Quickstrike. Boss minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 340
   },
   {
     "villain_set_code": "venom_goblin",
@@ -4021,7 +4361,8 @@
     ],
     "difficulty": -3,
     "text": "Attachments. Treacheries.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 341
   },
   {
     "villain_set_code": "venom_goblin",
@@ -4032,7 +4373,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Impactful boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 342
   },
   {
     "villain_set_code": "venom_goblin",
@@ -4043,7 +4385,8 @@
     ],
     "difficulty": -1,
     "text": "Large minions. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 343
   },
   {
     "villain_set_code": "venom_goblin",
@@ -4054,7 +4397,8 @@
     ],
     "difficulty": -1,
     "text": "Side schemes. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 344
   },
   {
     "villain_set_code": "venom_goblin",
@@ -4065,7 +4409,8 @@
     ],
     "difficulty": -1,
     "text": "Anti-Rush. Stuns. Quickstrike. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 345
   },
   {
     "villain_set_code": "venom_goblin",
@@ -4077,7 +4422,8 @@
     ],
     "difficulty": 0,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 346
   },
   {
     "villain_set_code": "venom_goblin",
@@ -4089,7 +4435,8 @@
     "difficulty": 0,
     "text": "Extra activations. Attachments. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 347
   },
   {
     "villain_set_code": "venom_goblin",
@@ -4100,7 +4447,8 @@
     ],
     "difficulty": 2,
     "text": "Attachments. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 348
   },
   {
     "villain_set_code": "venom_goblin",
@@ -4113,7 +4461,8 @@
     ],
     "difficulty": 4,
     "text": "Steady. Status cards. ATK/SCH bonus. Extra activations. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 349
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4124,7 +4473,8 @@
     ],
     "difficulty": -2,
     "text": "Medium minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 350
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4136,7 +4486,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Sentinel trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 351
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4147,7 +4498,8 @@
     ],
     "difficulty": -2,
     "text": "Treacheries. Mills encounter deck. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 352
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4158,7 +4510,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Enter play abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 353
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4169,7 +4522,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 354
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4180,7 +4534,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Discards. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 355
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4191,7 +4546,8 @@
     ],
     "difficulty": 0,
     "text": "Includes robotic Magneto minion. Mixed minions. Toughness environment. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 356
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4202,7 +4558,8 @@
     ],
     "difficulty": 0,
     "text": "Large minions. Overkill/piercing boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 357
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4214,7 +4571,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Teamwork. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 358
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4225,7 +4583,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 359
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4236,7 +4595,8 @@
     ],
     "difficulty": 1,
     "text": "Retaliate. Discards. Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 360
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4248,7 +4608,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 361
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4259,7 +4620,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 362
   },
   {
     "villain_set_code": "magneto_villain",
@@ -4271,7 +4633,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Boss minion. Teamwork. Status cards. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 363
   },
   {
     "villain_set_code": "magog",
@@ -4284,7 +4647,8 @@
     ],
     "difficulty": -3,
     "text": "Helpful setup ally. Occasionally gives you another helpful ally. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 364
   },
   {
     "villain_set_code": "magog",
@@ -4295,7 +4659,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Stuns.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 365
   },
   {
     "villain_set_code": "magog",
@@ -4307,7 +4672,8 @@
     ],
     "difficulty": 0,
     "text": "Extra attacks. Attachments. No minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 366
   },
   {
     "villain_set_code": "magog",
@@ -4318,7 +4684,8 @@
     ],
     "difficulty": 0,
     "text": "Anti-Rush. Teamwork. Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 367
   },
   {
     "villain_set_code": "magog",
@@ -4329,7 +4696,8 @@
     ],
     "difficulty": 0,
     "text": "Large minions. Overkill/piercing boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 368
   },
   {
     "villain_set_code": "magog",
@@ -4341,7 +4709,8 @@
     "difficulty": 0,
     "text": "Random MojoMania environment. (Fantasy/Sci-Fi/Horror).",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 369
   },
   {
     "villain_set_code": "magog",
@@ -4352,7 +4721,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 370
   },
   {
     "villain_set_code": "magog",
@@ -4363,7 +4733,8 @@
     ],
     "difficulty": 1,
     "text": "Steady. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 371
   },
   {
     "villain_set_code": "magog",
@@ -4374,7 +4745,8 @@
     ],
     "difficulty": 1,
     "text": "Retaliate. Discards. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 372
   },
   {
     "villain_set_code": "magog",
@@ -4385,7 +4757,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Teamwork.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 373
   },
   {
     "villain_set_code": "magog",
@@ -4397,7 +4770,8 @@
     ],
     "difficulty": 3,
     "text": "Steady. No minions added. ATK boost. Anti-Ally. Surprise damage. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 374
   },
   {
     "villain_set_code": "magog",
@@ -4409,7 +4783,8 @@
     ],
     "difficulty": 4,
     "text": "2x Boss minions. Treacheries.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 375
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4420,7 +4795,8 @@
     ],
     "difficulty": -3,
     "text": "Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 376
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4431,7 +4807,8 @@
     ],
     "difficulty": -2,
     "text": "Changing environment. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 377
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4442,7 +4819,8 @@
     ],
     "difficulty": -2,
     "text": "Steady. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 378
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4453,7 +4831,8 @@
     ],
     "difficulty": -1,
     "text": "Large minions. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 379
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4464,7 +4843,8 @@
     ],
     "difficulty": -1,
     "text": "Large minion. Brotherhood trait interaction. Puts cards in your deck.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 380
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4475,7 +4855,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Toughness environment. 2x Brotherhood characters.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 381
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4486,7 +4867,8 @@
     ],
     "difficulty": -1,
     "text": "Large minion. Brotherhood trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 382
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4497,7 +4879,8 @@
     ],
     "difficulty": -1,
     "text": "Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 383
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4509,7 +4892,8 @@
     "difficulty": 0,
     "text": "Boss minion. Puts cards in your deck. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 384
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4520,7 +4904,8 @@
     ],
     "difficulty": 1,
     "text": "Overkill/piercing. Large minion. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 385
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4531,7 +4916,8 @@
     ],
     "difficulty": 1,
     "text": "Large minion. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 386
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4542,7 +4928,8 @@
     ],
     "difficulty": 1,
     "text": "Status cards. ATK/SCH bonus. Infinity Gauntlet passes between villains.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 387
   },
   {
     "villain_set_code": "mansion_attack",
@@ -4553,7 +4940,8 @@
     ],
     "difficulty": 2,
     "text": "Boss minions. Victory display. High boost icons. Nemesis interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 388
   },
   {
     "villain_set_code": "master_mold",
@@ -4564,7 +4952,8 @@
     ],
     "difficulty": -1,
     "text": "Treacheries. Mills encounter deck. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 389
   },
   {
     "villain_set_code": "master_mold",
@@ -4576,7 +4965,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Sentinel trait interaction. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 390
   },
   {
     "villain_set_code": "master_mold",
@@ -4588,7 +4978,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Vulnerable. Anti-S.H.I.E.L.D.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 391
   },
   {
     "villain_set_code": "master_mold",
@@ -4599,7 +4990,8 @@
     ],
     "difficulty": 2,
     "text": "Sends alter-ego (brings in minions here). Obligations.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 392
   },
   {
     "villain_set_code": "master_mold",
@@ -4610,7 +5002,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Toughness environment. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 393
   },
   {
     "villain_set_code": "master_mold",
@@ -4622,7 +5015,8 @@
     ],
     "difficulty": 3,
     "text": "Retaliate. Anti-Ally. SCH bonus. Sends alter-ego. Overkill. Sentinel interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 394
   },
   {
     "villain_set_code": "master_mold",
@@ -4634,7 +5028,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Sentinel trait interaction. Overkill. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 395
   },
   {
     "villain_set_code": "master_mold",
@@ -4645,7 +5040,8 @@
     ],
     "difficulty": 4,
     "text": "Attachments. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 396
   },
   {
     "villain_set_code": "master_mold",
@@ -4657,7 +5053,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Boss minions. Victory display. Sentinel interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 397
   },
   {
     "villain_set_code": "master_mold",
@@ -4668,7 +5065,8 @@
     ],
     "difficulty": 4,
     "text": "Boss minions. Victory display. High boost icons. Nemesis interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 398
   },
   {
     "villain_set_code": "mojo",
@@ -4679,7 +5077,8 @@
     ],
     "difficulty": -2,
     "text": "Helpful setup ally.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 399
   },
   {
     "villain_set_code": "mojo",
@@ -4690,7 +5089,8 @@
     ],
     "difficulty": -1,
     "text": "Occasionally gives you a helpful ally.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 400
   },
   {
     "villain_set_code": "mojo",
@@ -4701,7 +5101,8 @@
     ],
     "difficulty": 3,
     "text": "Mills encounter deck. Treacheries.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 401
   },
   {
     "villain_set_code": "mojo",
@@ -4713,7 +5114,8 @@
     ],
     "difficulty": 4,
     "text": "Steady. Status cards. ATK/SCH bonus. Space Stone discards encounter deck.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 402
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4724,7 +5126,8 @@
     ],
     "difficulty": -1,
     "text": "Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 403
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4735,7 +5138,8 @@
     ],
     "difficulty": -1,
     "text": "Treacheries. Mills encounter deck. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 404
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4746,7 +5150,8 @@
     ],
     "difficulty": 0,
     "text": "Sends alter-ego (harder solo). Obligations.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 405
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4758,7 +5163,8 @@
     "difficulty": 0,
     "text": "Large minions. Sentinel trait interaction. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 406
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4769,7 +5175,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally. Steals allies. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 407
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4780,7 +5187,8 @@
     ],
     "difficulty": 1,
     "text": "Steady. Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 408
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4791,7 +5199,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 409
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4803,7 +5212,8 @@
     ],
     "difficulty": 3,
     "text": "Retaliate. Anti-Ally. SCH bonus. Overkill. Mixed minions. Toughness environment.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 410
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4815,7 +5225,8 @@
     ],
     "difficulty": 4,
     "text": "Boss minions. Sends alter-ego. Victory display. Nemesis interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 411
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4827,7 +5238,8 @@
     ],
     "difficulty": 4,
     "text": "Boss minions. Victory display. High boost icons. Nemesis interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 412
   },
   {
     "villain_set_code": "project_wideawake",
@@ -4838,7 +5250,8 @@
     ],
     "difficulty": 4,
     "text": "Attachments. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 413
   },
   {
     "villain_set_code": "sabretooth",
@@ -4850,7 +5263,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Changing environment. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 414
   },
   {
     "villain_set_code": "sabretooth",
@@ -4862,7 +5276,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Sends alter-ego. Criminal trait interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 415
   },
   {
     "villain_set_code": "sabretooth",
@@ -4874,7 +5289,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Brotherhood trait interaction. Puts cards in your deck.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 416
   },
   {
     "villain_set_code": "sabretooth",
@@ -4886,7 +5302,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Toughness environment. 2x Brotherhood characters.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 417
   },
   {
     "villain_set_code": "sabretooth",
@@ -4898,7 +5315,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Brotherhood trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 418
   },
   {
     "villain_set_code": "sabretooth",
@@ -4910,7 +5328,8 @@
     ],
     "difficulty": 1,
     "text": "Steady. Anti-Ally. Mixed minions. Adds threat. Adds mutant theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 419
   },
   {
     "villain_set_code": "sabretooth",
@@ -4923,7 +5342,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Boss minion. Puts cards in your deck. Brotherhood trait interaction.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 420
   },
   {
     "villain_set_code": "sabretooth",
@@ -4935,7 +5355,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 421
   },
   {
     "villain_set_code": "sabretooth",
@@ -4947,7 +5368,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Reaver trait interaction. Teamwork. Discarding.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 422
   },
   {
     "villain_set_code": "sabretooth",
@@ -4959,7 +5381,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Quickstrike. Side schemes. Assassin trait interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 423
   },
   {
     "villain_set_code": "sabretooth",
@@ -4971,7 +5394,8 @@
     ],
     "difficulty": 3,
     "text": "Steady. Anti-Ally. No minions. Surprise damage. ATK boost.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 424
   },
   {
     "villain_set_code": "sabretooth",
@@ -4983,7 +5407,8 @@
     ],
     "difficulty": 4,
     "text": "Attachments. High boost icons. Adds Spider-Man theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 425
   },
   {
     "villain_set_code": "spiral",
@@ -4994,7 +5419,8 @@
     ],
     "difficulty": 0,
     "text": "Changing environment. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 426
   },
   {
     "villain_set_code": "spiral",
@@ -5005,7 +5431,8 @@
     ],
     "difficulty": 1,
     "text": "Steady. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 427
   },
   {
     "villain_set_code": "spiral",
@@ -5016,7 +5443,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Rush. Stuns. Quickstrike. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 428
   },
   {
     "villain_set_code": "spiral",
@@ -5027,7 +5455,8 @@
     ],
     "difficulty": 1,
     "text": "Large minion. Discarding. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 429
   },
   {
     "villain_set_code": "spiral",
@@ -5038,7 +5467,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Rush. Sends alter-ego. Steals allies. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 430
   },
   {
     "villain_set_code": "spiral",
@@ -5049,7 +5479,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Dangerous attacks. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 431
   },
   {
     "villain_set_code": "juggernaut",
@@ -5060,7 +5491,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Stuns.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 432
   },
   {
     "villain_set_code": "juggernaut",
@@ -5071,7 +5503,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Boss minion (Dragon).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 433
   },
   {
     "villain_set_code": "juggernaut",
@@ -5083,7 +5516,8 @@
     ],
     "difficulty": -2,
     "text": "Medium minions. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 434
   },
   {
     "villain_set_code": "juggernaut",
@@ -5094,7 +5528,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 435
   },
   {
     "villain_set_code": "juggernaut",
@@ -5105,7 +5540,8 @@
     ],
     "difficulty": 0,
     "text": "Large minions. Overkill/piercing boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 436
   },
   {
     "villain_set_code": "juggernaut",
@@ -5116,7 +5552,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Teamwork.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 437
   },
   {
     "villain_set_code": "juggernaut",
@@ -5127,7 +5564,8 @@
     ],
     "difficulty": 0,
     "text": "Sends alter-ego. Large minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 438
   },
   {
     "villain_set_code": "juggernaut",
@@ -5138,7 +5576,8 @@
     ],
     "difficulty": 0,
     "text": "Large minions. High boost icons. Brute synergy.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 439
   },
   {
     "villain_set_code": "juggernaut",
@@ -5149,7 +5588,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 440
   },
   {
     "villain_set_code": "juggernaut",
@@ -5161,7 +5601,8 @@
     ],
     "difficulty": 2,
     "text": "Boss minion. Medium minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 441
   },
   {
     "villain_set_code": "juggernaut",
@@ -5172,7 +5613,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 442
   },
   {
     "villain_set_code": "juggernaut",
@@ -5183,7 +5625,8 @@
     ],
     "difficulty": 4,
     "text": "Attachments. No minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 443
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5194,7 +5637,8 @@
     ],
     "difficulty": -2,
     "text": "Medium minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 444
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5205,7 +5649,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 445
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5216,7 +5661,8 @@
     ],
     "difficulty": 0,
     "text": "Huge side scheme. Discards. 2x medium minions. Thematic (clones).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 446
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5227,7 +5673,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. Toughs. Side schemes can bring in clones.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 447
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5238,7 +5685,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. Reveals his own cards.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 448
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5249,7 +5697,8 @@
     ],
     "difficulty": 0,
     "text": "Toughs. Large minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 449
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5260,7 +5709,8 @@
     ],
     "difficulty": 0,
     "text": "Anti-Ally (defending). Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 450
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5272,7 +5722,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Teamwork. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 451
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5283,7 +5734,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 452
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5295,7 +5747,8 @@
     ],
     "difficulty": 1,
     "text": "Environments combo with Superpower modulars. Small minions. Extra attacks.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 453
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5306,7 +5759,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 454
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5318,7 +5772,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Teamwork. Attachments. Status cards.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 455
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5329,7 +5784,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 456
   },
   {
     "villain_set_code": "mister_sinister",
@@ -5341,7 +5797,8 @@
     ],
     "difficulty": 4,
     "text": "Small minions. Boss minion. Toughs. Side schemes can bring in clones.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 457
   },
   {
     "villain_set_code": "morlock_siege",
@@ -5353,7 +5810,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Treacheries. Mills encounter deck.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 458
   },
   {
     "villain_set_code": "morlock_siege",
@@ -5366,7 +5824,8 @@
     "difficulty": 0,
     "text": "Medium minions. Attachments. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 459
   },
   {
     "villain_set_code": "morlock_siege",
@@ -5378,7 +5837,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 460
   },
   {
     "villain_set_code": "morlock_siege",
@@ -5390,7 +5850,8 @@
     ],
     "difficulty": 1,
     "text": "Sends alter-ego. Steady. Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 461
   },
   {
     "villain_set_code": "morlock_siege",
@@ -5402,7 +5863,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally. Surprise damage. 2x Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 462
   },
   {
     "villain_set_code": "morlock_siege",
@@ -5414,7 +5876,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Quickstrike environment. Adds horror theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 463
   },
   {
     "villain_set_code": "morlock_siege",
@@ -5426,7 +5889,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Rush. Anti-Ally (defending). Stuns. Quickstrike. Small minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 464
   },
   {
     "villain_set_code": "morlock_siege",
@@ -5438,7 +5902,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Rush. Teamwork. Mixed minions. Boss minion. Treacheries.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 465
   },
   {
     "villain_set_code": "morlock_siege",
@@ -5450,7 +5915,8 @@
     ],
     "difficulty": 3,
     "text": "Retaliate. Anti-Ally. SCH bonus. Overkill. Sends alter-ego. Large minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 466
   },
   {
     "villain_set_code": "morlock_siege",
@@ -5462,7 +5928,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Boss minion. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 467
   },
   {
     "villain_set_code": "on_the_run",
@@ -5474,7 +5941,8 @@
     ],
     "difficulty": -2,
     "text": "Treacheries. Mills encounter deck. Punishes energy resources.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 468
   },
   {
     "villain_set_code": "on_the_run",
@@ -5486,7 +5954,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Sends alter-ego.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 469
   },
   {
     "villain_set_code": "on_the_run",
@@ -5498,7 +5967,8 @@
     ],
     "difficulty": 0,
     "text": "Mixed minions. Side schemes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 470
   },
   {
     "villain_set_code": "on_the_run",
@@ -5511,7 +5981,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Attachments. Teamwork. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 471
   },
   {
     "villain_set_code": "on_the_run",
@@ -5523,7 +5994,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Impactful boost abilities. Adds Black Order theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 472
   },
   {
     "villain_set_code": "on_the_run",
@@ -5535,7 +6007,8 @@
     ],
     "difficulty": 1,
     "text": "Steady. Mixed minions. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 473
   },
   {
     "villain_set_code": "on_the_run",
@@ -5547,7 +6020,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Rush. Mixed minions. Reveals more of their cards. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 474
   },
   {
     "villain_set_code": "on_the_run",
@@ -5559,7 +6033,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 475
   },
   {
     "villain_set_code": "on_the_run",
@@ -5571,7 +6046,8 @@
     ],
     "difficulty": 2,
     "text": "Side schemes. Changing environment. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 476
   },
   {
     "villain_set_code": "on_the_run",
@@ -5583,7 +6059,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Swarm.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 477
   },
   {
     "villain_set_code": "on_the_run",
@@ -5595,7 +6072,8 @@
     ],
     "difficulty": 4,
     "text": "Retaliate. Discards. Mixed minions. Boss minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 478
   },
   {
     "villain_set_code": "stryfe",
@@ -5607,7 +6085,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Sends alter-ego. Stuns. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 479
   },
   {
     "villain_set_code": "stryfe",
@@ -5619,7 +6098,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Sentinel trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 480
   },
   {
     "villain_set_code": "stryfe",
@@ -5631,7 +6111,8 @@
     ],
     "difficulty": 0,
     "text": "Steady. Mixed minions. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 481
   },
   {
     "villain_set_code": "stryfe",
@@ -5644,7 +6125,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Mutant Liberation Front trait interaction. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 482
   },
   {
     "villain_set_code": "stryfe",
@@ -5656,7 +6138,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 483
   },
   {
     "villain_set_code": "stryfe",
@@ -5668,7 +6151,8 @@
     ],
     "difficulty": 2,
     "text": "Retaliate. Discards. Mixed minions. Boss minion (Dragon). Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 484
   },
   {
     "villain_set_code": "stryfe",
@@ -5680,7 +6164,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Impactful boost abilities. Discards upgrades/supports.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 485
   },
   {
     "villain_set_code": "stryfe",
@@ -5692,7 +6177,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Quickstrike. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 486
   },
   {
     "villain_set_code": "stryfe",
@@ -5704,7 +6190,8 @@
     ],
     "difficulty": 3,
     "text": "Boss minion. Large minion. Psionic cards (combos with Stryfe). Status cards.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 487
   },
   {
     "villain_set_code": "stryfe",
@@ -5716,7 +6203,8 @@
     ],
     "difficulty": 3,
     "text": "Extreme Risk increases hand size. Zzzax punishes energies in hand. Boss minion.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 488
   },
   {
     "villain_set_code": "stryfe",
@@ -5729,7 +6217,8 @@
     ],
     "difficulty": 4,
     "text": "Retaliate. Anti-Ally. SCH bonus. Overkill. Mixed minions. Sends alter-ego. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 489
   },
   {
     "villain_set_code": "stryfe",
@@ -5741,7 +6230,8 @@
     ],
     "difficulty": 4,
     "text": "Steady. Mixed minions. Boss minion. Surprise damage.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 490
   },
   {
     "villain_set_code": "apocalypse",
@@ -5753,7 +6243,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Stuns. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 491
   },
   {
     "villain_set_code": "apocalypse",
@@ -5765,7 +6256,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Mutant Liberation Front trait interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 492
   },
   {
     "villain_set_code": "apocalypse",
@@ -5777,7 +6269,8 @@
     ],
     "difficulty": -1,
     "text": "Anti-Rush. Teamwork. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 493
   },
   {
     "villain_set_code": "apocalypse",
@@ -5789,7 +6282,8 @@
     ],
     "difficulty": -1,
     "text": "Anti-Ally (defending). Small minions. Attachments (for Prelates). Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 494
   },
   {
     "villain_set_code": "apocalypse",
@@ -5802,7 +6296,8 @@
     "difficulty": 0,
     "text": "Anti-Ally (defending). Mixed minions. Teamwork. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 495
   },
   {
     "villain_set_code": "apocalypse",
@@ -5814,7 +6309,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 496
   },
   {
     "villain_set_code": "apocalypse",
@@ -5826,7 +6322,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally (defending). Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 497
   },
   {
     "villain_set_code": "apocalypse",
@@ -5838,7 +6335,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Brotherhood trait interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 498
   },
   {
     "villain_set_code": "apocalypse",
@@ -5850,7 +6348,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Confuses. Bonuses for multiple enemies.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 499
   },
   {
     "villain_set_code": "apocalypse",
@@ -5862,7 +6361,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 500
   },
   {
     "villain_set_code": "apocalypse",
@@ -5874,7 +6374,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Ally (defending). Small minions. Boss minion. Piercing. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 501
   },
   {
     "villain_set_code": "dark_beast",
@@ -5886,7 +6387,8 @@
     ],
     "difficulty": -2,
     "text": "Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 502
   },
   {
     "villain_set_code": "dark_beast",
@@ -5897,7 +6399,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Stuns. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 503
   },
   {
     "villain_set_code": "dark_beast",
@@ -5908,7 +6411,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 504
   },
   {
     "villain_set_code": "dark_beast",
@@ -5920,7 +6424,8 @@
     "difficulty": 0,
     "text": "Sends alter-ego. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 505
   },
   {
     "villain_set_code": "dark_beast",
@@ -5931,7 +6436,8 @@
     ],
     "difficulty": 1,
     "text": "2x Large minions. Status cards.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 506
   },
   {
     "villain_set_code": "dark_beast",
@@ -5942,7 +6448,8 @@
     ],
     "difficulty": 1,
     "text": "Side schemes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 507
   },
   {
     "villain_set_code": "dark_beast",
@@ -5953,7 +6460,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 508
   },
   {
     "villain_set_code": "dark_beast",
@@ -5964,7 +6472,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally (defending). Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 509
   },
   {
     "villain_set_code": "dark_beast",
@@ -5975,7 +6484,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 510
   },
   {
     "villain_set_code": "dark_beast",
@@ -5986,7 +6496,8 @@
     ],
     "difficulty": 4,
     "text": "Boss minions. Victory display. High boost icons. Nemesis interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 511
   },
   {
     "villain_set_code": "dark_beast",
@@ -5998,7 +6509,8 @@
     ],
     "difficulty": 4,
     "text": "Steady. ATK bonus. Attachments. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 512
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6010,7 +6522,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Boss minion (Dragon).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 513
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6022,7 +6535,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Stuns. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 514
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6034,7 +6548,8 @@
     ],
     "difficulty": -1,
     "text": "Mixed minions. Mutant Liberation Front trait interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 515
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6046,7 +6561,8 @@
     ],
     "difficulty": -1,
     "text": "Sends alter-ego + brings you back. Quickstrike. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 516
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6058,7 +6574,8 @@
     ],
     "difficulty": -1,
     "text": "Anti-Ally. Mixed minions. Stealing allies. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 517
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6070,7 +6587,8 @@
     ],
     "difficulty": 0,
     "text": "Side schemes. Mixed minions. Toughness environment.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 518
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6083,7 +6601,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Adds threat. Attachments. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 519
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6095,7 +6614,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Impactful boost effects. Masters of Evil trait interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 520
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6107,7 +6627,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally (defending). Mixed minions. Receives a LOT of threat from form changes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 521
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6119,7 +6640,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Teamwork. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 522
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6131,7 +6653,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 523
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6143,7 +6666,8 @@
     ],
     "difficulty": 3,
     "text": "Sends alter-ego. Large minions. Boss minion. Stuns.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 524
   },
   {
     "villain_set_code": "en_sabah_nur",
@@ -6155,7 +6679,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Boss minion. Impactful boost abilities (additional boost cards).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 525
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6167,7 +6692,8 @@
     ],
     "difficulty": -3,
     "text": "Medium minions. Attachments. Treacheries.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 526
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6179,7 +6705,8 @@
     ],
     "difficulty": -2,
     "text": "Mixed minions. Huge minion (Dragon). Stuns.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 527
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6191,7 +6718,8 @@
     ],
     "difficulty": -2,
     "text": "Treacheries. Mills encounter deck. Punishes energy resources.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 528
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6203,7 +6731,8 @@
     ],
     "difficulty": 0,
     "text": "Large minions. Impactful boost abilities. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 529
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6216,7 +6745,8 @@
     "difficulty": 0,
     "text": "Sends alter-ego + brings you back. Small minions. Quickstrike. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 530
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6228,7 +6758,8 @@
     ],
     "difficulty": 1,
     "text": "Steady. Mixed minions. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 531
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6240,7 +6771,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally (defending). Mixed minions. Teamwork. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 532
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6252,7 +6784,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions. Discards upgrades/supports etc.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 533
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6264,7 +6797,8 @@
     ],
     "difficulty": 1,
     "text": "Huge side scheme. Discards. 3x medium minions. Indirect damage.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 534
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6276,7 +6810,8 @@
     ],
     "difficulty": 1,
     "text": "3x Mixed minions. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 535
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6288,7 +6823,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 536
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6300,7 +6836,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions (above average). High boost icons. Adds Spider-Man theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 537
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6312,7 +6849,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 538
   },
   {
     "villain_set_code": "four_horsemen",
@@ -6324,7 +6862,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Boss minion. Surprise damage. Impactful boost abilities. Swarm.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 539
   },
   {
     "villain_set_code": "unus",
@@ -6335,7 +6874,8 @@
     ],
     "difficulty": -2,
     "text": "Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 540
   },
   {
     "villain_set_code": "unus",
@@ -6346,7 +6886,8 @@
     ],
     "difficulty": -1,
     "text": "Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 541
   },
   {
     "villain_set_code": "unus",
@@ -6357,7 +6898,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. Side schemes can bring in more Infinites.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 542
   },
   {
     "villain_set_code": "unus",
@@ -6369,7 +6911,8 @@
     "difficulty": 0,
     "text": "Sends alter-ego. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 543
   },
   {
     "villain_set_code": "unus",
@@ -6380,7 +6923,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally. Medium minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 544
   },
   {
     "villain_set_code": "unus",
@@ -6391,7 +6935,8 @@
     ],
     "difficulty": 1,
     "text": "Bonuses for multiple enemies. Side schemes. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 545
   },
   {
     "villain_set_code": "unus",
@@ -6402,7 +6947,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally. Surprise damage.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 546
   },
   {
     "villain_set_code": "unus",
@@ -6413,7 +6959,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 547
   },
   {
     "villain_set_code": "unus",
@@ -6424,7 +6971,8 @@
     ],
     "difficulty": 2,
     "text": "Large minion. Discards. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 548
   },
   {
     "villain_set_code": "unus",
@@ -6435,7 +6983,8 @@
     ],
     "difficulty": 3,
     "text": "Steady. ATK boost. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 549
   },
   {
     "villain_set_code": "unus",
@@ -6447,7 +6996,8 @@
     ],
     "difficulty": 4,
     "text": "Status cards. ATK/SCH bonus. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 550
   },
   {
     "villain_set_code": "batroc",
@@ -6459,7 +7009,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Surprise damage. Impactful boost abilities. Swarm. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 551
   },
   {
     "villain_set_code": "batroc",
@@ -6471,7 +7022,8 @@
     ],
     "difficulty": 2,
     "text": "Mixed minions. Hellfire trait interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 552
   },
   {
     "villain_set_code": "batroc",
@@ -6483,7 +7035,8 @@
     ],
     "difficulty": 3,
     "text": "Small minions. Boss minion. Treacheries. Toughs.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 553
   },
   {
     "villain_set_code": "batroc",
@@ -6495,7 +7048,8 @@
     ],
     "difficulty": 3,
     "text": "Steady. ATK bonus. Upgrade removal.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 554
   },
   {
     "villain_set_code": "batroc",
@@ -6507,7 +7061,8 @@
     ],
     "difficulty": 4,
     "text": "Large minions. Vulnerable. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 555
   },
   {
     "villain_set_code": "batroc",
@@ -6519,7 +7074,8 @@
     ],
     "difficulty": 4,
     "text": "Mixed minions. Teamwork. Reaver trait interaction. Discarding.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 556
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6531,7 +7087,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally. Stuns. Mixed minions. Crossfire's Crew trait interaction.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 557
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6543,7 +7100,8 @@
     ],
     "difficulty": 2,
     "text": "Resource sink. Possible ATK/SCH boost. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 558
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6555,7 +7113,8 @@
     ],
     "difficulty": 3,
     "text": "Steady. Mixed minions. Adds threat.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 559
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6567,7 +7126,8 @@
     ],
     "difficulty": 3,
     "text": "Mixed minions. Anti-Rush. Surprise damage. Teamwork. Swarm.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 560
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6579,7 +7139,8 @@
     ],
     "difficulty": 4,
     "text": "Large minions. Vulnerable. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 561
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6591,7 +7152,8 @@
     ],
     "difficulty": 4,
     "text": "2x Boss minions. Piercing. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 562
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6603,7 +7165,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 563
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6615,7 +7178,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. S.H.I.E.L.D. trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 564
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6627,7 +7191,8 @@
     ],
     "difficulty": 0,
     "text": "Side schemes. Adds threat. Sends alter-ego. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 565
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6639,7 +7204,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. Extra attacks. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 566
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6651,7 +7217,8 @@
     ],
     "difficulty": 0,
     "text": "When Revealed abilities. Impactful boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 567
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6663,7 +7230,8 @@
     ],
     "difficulty": 0,
     "text": "Side schemes. Damage reflection. Adds threat. Thematic (Black Widow minion surges).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 568
   },
   {
     "villain_set_code": "black_widow_villain",
@@ -6676,7 +7244,8 @@
     "difficulty": 0,
     "text": "Small minions. Anti-Ally. A.I.M. trait interaction. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 569
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6687,7 +7256,8 @@
     ],
     "difficulty": -2,
     "text": "Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 570
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6698,7 +7268,8 @@
     ],
     "difficulty": -2,
     "text": "Large minions. Gives allies. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 571
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6710,7 +7281,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Anti-Ally. A.I.M. trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 572
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6721,7 +7293,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Side schemes can bring in more Adaptoids.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 573
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6732,7 +7305,8 @@
     ],
     "difficulty": 0,
     "text": "Huge side scheme. Discards. 2x medium minions. Thematic (clones).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 574
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6743,7 +7317,8 @@
     ],
     "difficulty": 0,
     "text": "Side schemes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 575
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6755,7 +7330,8 @@
     "difficulty": 0,
     "text": "Vulnerable. 2x Large minions. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 576
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6766,7 +7342,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Ally. Surprise damage. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 577
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6777,7 +7354,8 @@
     ],
     "difficulty": 1,
     "text": "Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 578
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6788,7 +7366,8 @@
     ],
     "difficulty": 3,
     "text": "Attachments. Thematic (M.O.D.O.K. minion surges).",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 579
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6799,7 +7378,8 @@
     ],
     "difficulty": 3,
     "text": "Extra Retaliate. Anti-Ally. SCH bonus. Overkill. Sends alter-ego. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 580
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6810,7 +7390,8 @@
     ],
     "difficulty": 3,
     "text": "Attachments. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 581
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6822,7 +7403,8 @@
     ],
     "difficulty": 4,
     "text": "2x Boss minions. Damage reflect. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 582
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6834,7 +7416,8 @@
     ],
     "difficulty": 4,
     "text": "Large minion. Attachments. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 583
   },
   {
     "villain_set_code": "m.o.d.o.k.",
@@ -6846,7 +7429,8 @@
     ],
     "difficulty": 4,
     "text": "+2 Retaliate. Anti-Ally. SCH bonus. Overkill. Sends alter-ego. Discards. Mixed minions.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 584
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6858,7 +7442,8 @@
     ],
     "difficulty": -3,
     "text": "Small minions. Stuns. Treacheries. Milano helps pay for the Executive Board.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 585
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6870,7 +7455,8 @@
     ],
     "difficulty": -2,
     "text": "Large minions. Gives allies. Sends alter-ego. Nemesis interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 586
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6882,7 +7468,8 @@
     ],
     "difficulty": -1,
     "text": "Small minions. Anti-Ally. A.I.M. trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 587
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6894,7 +7481,8 @@
     ],
     "difficulty": 0,
     "text": "Vulnerable. Small minions. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 588
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6906,7 +7494,8 @@
     ],
     "difficulty": 0,
     "text": "Medium minions. Teamwork. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 589
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6918,7 +7507,8 @@
     ],
     "difficulty": 0,
     "text": "Medium minions. When Revealed abilities. Impactful boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 590
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6931,7 +7521,8 @@
     "difficulty": 0,
     "text": "Vulnerable. Mixed minions. Anti-S.H.I.E.L.D. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 591
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6943,7 +7534,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Dangerous attacks. Small minions. Adds Symbiote theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 592
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6955,7 +7547,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 593
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6967,7 +7560,8 @@
     ],
     "difficulty": 1,
     "text": "Small minions. Anti-Rush. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 594
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6979,7 +7573,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Rush. Sends alter-ego. Steals allies. Mixed minions. Boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 595
   },
   {
     "villain_set_code": "baron_zemo",
@@ -6991,7 +7586,8 @@
     ],
     "difficulty": 2,
     "text": "Large minions. High boost icons. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 596
   },
   {
     "villain_set_code": "baron_zemo",
@@ -7003,7 +7599,8 @@
     ],
     "difficulty": 3,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses. Bonuses for multiple enemies. Side schemes.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 597
   },
   {
     "villain_set_code": "batroc",
@@ -7015,7 +7612,8 @@
     ],
     "difficulty": -2,
     "text": "Small minions. Attachments.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 598
   },
   {
     "villain_set_code": "batroc",
@@ -7027,7 +7625,8 @@
     ],
     "difficulty": 0,
     "text": "Medium minions. Discarding upgrades. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 599
   },
   {
     "villain_set_code": "batroc",
@@ -7040,7 +7639,8 @@
     "difficulty": 0,
     "text": "Mixed minions. Thematic.",
     "creator": "FFG",
-    "visibility": true
+    "visibility": true,
+    "scenario_id": 600
   },
   {
     "villain_set_code": "batroc",
@@ -7052,7 +7652,8 @@
     ],
     "difficulty": 1,
     "text": "Steady. Vulnerable. Mixed minions. Anti-S.H.I.E.L.D.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 601
   },
   {
     "villain_set_code": "batroc",
@@ -7064,7 +7665,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attacks. Small minions. Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 602
   },
   {
     "villain_set_code": "batroc",
@@ -7076,7 +7678,8 @@
     ],
     "difficulty": 1,
     "text": "Anti-Rush. Mixed minions (below average). Adds Hydra theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 603
   },
   {
     "villain_set_code": "batroc",
@@ -7088,7 +7691,8 @@
     ],
     "difficulty": 2,
     "text": "Extra attacks. Dangerous attacks. Small minions. Adds Symbiote theme.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 604
   },
   {
     "villain_set_code": "thunderbolts",
@@ -7099,7 +7703,8 @@
     ],
     "difficulty": -2,
     "text": "Attachments. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 605
   },
   {
     "villain_set_code": "thunderbolts",
@@ -7110,7 +7715,8 @@
     ],
     "difficulty": -2,
     "text": "Large minions. Gives allies. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 606
   },
   {
     "villain_set_code": "thunderbolts",
@@ -7121,7 +7727,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. Vulnerable. Anti-S.H.I.E.L.D. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 607
   },
   {
     "villain_set_code": "thunderbolts",
@@ -7133,7 +7740,8 @@
     ],
     "difficulty": 0,
     "text": "Small minions. S.H.I.E.L.D. trait interaction. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 608
   },
   {
     "villain_set_code": "thunderbolts",
@@ -7145,7 +7753,8 @@
     ],
     "difficulty": 0,
     "text": "When Revealed abilities. Impactful boost abilities. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 609
   },
   {
     "villain_set_code": "thunderbolts",
@@ -7156,7 +7765,8 @@
     ],
     "difficulty": 0,
     "text": "Changing environment. High boost icons.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 610
   },
   {
     "villain_set_code": "thunderbolts",
@@ -7167,7 +7777,8 @@
     ],
     "difficulty": 1,
     "text": "Extra attack (Gang-Up). Large minion. Stuns.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 611
   },
   {
     "villain_set_code": "thunderbolts",
@@ -7178,7 +7789,8 @@
     ],
     "difficulty": 1,
     "text": "Large minions. Impactful boost abilities.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 612
   },
   {
     "villain_set_code": "thunderbolts",
@@ -7189,7 +7801,8 @@
     ],
     "difficulty": 2,
     "text": "Anti-Ally. Surprise damage. Mixed minions. Impactful boost abilities. Confuses.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 613
   },
   {
     "villain_set_code": "thunderbolts",
@@ -7200,6 +7813,7 @@
     ],
     "difficulty": 4,
     "text": "Bonuses for multiple enemies. Side schemes. Thematic.",
-    "creator": "villain theory"
+    "creator": "villain theory",
+    "scenario_id": 614
   }
 ]

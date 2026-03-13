@@ -47,8 +47,10 @@
         "deck_options": [
 			{
 				"limit": 5,
-				"ressource" : "resource_energy"
-  			}
+                "resource": [
+                    "energy"
+                ]
+			}
 		],
         "traits": "New. X-Men."
     },
