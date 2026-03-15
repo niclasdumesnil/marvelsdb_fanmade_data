@@ -34,7 +34,7 @@ def update_cards_file(file_path, pack_octgn_id, pack_id):
         print(f"Fichier {file_path} non trouvé, passage au suivant.")  # TRACE
         return
     print(f"Ouverture du fichier {file_path}")  # TRACE
-    with open(file_path, encoding="utf-8") as json_file:
+    with open(file_path, encoding="utf-8-sig") as json_file:
         data = json.load(json_file)
         updated_data = data.copy()
         for item in updated_data:
@@ -54,12 +54,12 @@ def update_cards_file(file_path, pack_octgn_id, pack_id):
             except KeyError:
                 print("An exception occurred: " + item.get('name', item.get('code', '???')))
     print(f"Écriture du fichier {file_path}")  # TRACE
-    with open(file_path, 'w', encoding="utf-8") as outfile:
+    with open(file_path, 'w', encoding="utf-8-sig") as outfile:
         json.dump(updated_data, outfile, indent=4, sort_keys=True)
 
 
 print(f"Ouverture du fichier packs_fanmade.json")  # TRACE
-with open('./packs_fanmade.json', encoding="utf-8") as json_file:
+with open('./packs_fanmade.json', encoding="utf-8-sig") as json_file:
     pack_data = json.load(json_file)
     updated_data = pack_data.copy()
     for item in updated_data:
@@ -77,7 +77,7 @@ with open('./packs_fanmade.json', encoding="utf-8") as json_file:
                 print("An exception occurred: " + item['code'])
 
 print(f"Écriture du fichier packs_fanmade.json")  # TRACE
-with open('./packs_fanmade.json', 'w', encoding="utf-8") as outfile:
+with open('./packs_fanmade.json', 'w', encoding="utf-8-sig") as outfile:
     json.dump(updated_data, outfile, indent='\t', sort_keys=True)
 
 # Mise à jour des deux fichiers de cartes associés au pack
