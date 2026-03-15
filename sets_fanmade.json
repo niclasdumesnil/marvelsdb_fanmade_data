@@ -1313,11 +1313,6 @@
     "card_set_type_code": "villain"
   },
   {
-    "code": "fantastic_four_by_hax",
-    "name": "Fantastic Four",
-    "card_set_type_code": "hero"
-  },
-  {
     "code": "doctor_doom_by_hax",
     "name": "Doctor Doom",
     "card_set_type_code": "villain"
@@ -1340,6 +1335,11 @@
   {
     "code": "vibranium_heist_by_hax",
     "name": "Vibranium Heist",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "fantastic_four_campaign_by_hax",
+    "name": "Fantastic Four Campaign",
     "card_set_type_code": "modular"
   }
 ]
