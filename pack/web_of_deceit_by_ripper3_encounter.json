@@ -328,6 +328,7 @@
 	},
 	{
 		"base_threat": 0,
+		"base_threat_fixed": true,
 		"code": "503058b",
 		"escalation_threat": 1,
 		"faction_code": "encounter",
@@ -398,6 +399,7 @@
 	{
 		"base_threat": 0,
 		"code": "503060b",
+		"base_threat_fixed": true,
 		"escalation_threat": 1,
 		"faction_code": "encounter",
 		"flavor": "<i>Shocker has new tech and powerful allies. Their only goal - create chaos and terror.\n</i>",

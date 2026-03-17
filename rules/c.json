@@ -1,0 +1,34 @@
+[
+	{
+		"id": "choosing_an_option",
+		"term": "Choosing an Option",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "When an ability prompts a player to choose between multiple options, that player must choose an option whose resolution could change the game state, regardless of the cost to trigger that ability. If no option could change the game state, the ability cannot be triggered."
+			}
+		],
+		"whats_new": [
+			{
+				"version": "1.7",
+				"diff": "Added the rule requiring that a player MUST choose an option that effectively changes the game state (it is no longer possible to choose an option that would have no effect just to pay a cost or discard a card)."
+			}
+		]
+	},
+	{
+		"id": "control_changes",
+		"term": "Control Changes",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If an effect changes the controller of a card, that card moves to its new controller's play area. Attachments, tokens, and counters on that card move with it. If a card changes control, it maintains its state (exhausted or ready). Lasting effects associated with the previous controller cease to apply if the conditions are no longer met."
+			}
+		],
+		"whats_new": [
+			{
+				"version": "1.7",
+				"diff": "In-depth clarification on transferring control. New rules specifically handle what happens to attachments (they stay attached), the exhausted/ready state of the card, and clarify that if a player is eliminated, cards that changed control revert to their original owner."
+			}
+		]
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"id": "hazard_icon",
+		"term": "Hazard Icon",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A hazard icon indicates that the villain is more dangerous. During step 3 of the villain phase, deal one additional encounter card for each hazard icon in play. These additional cards are dealt in player order."
+			}
+		]
+	},
+	{
+		"id": "hero",
+		"term": "Hero",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Hero is one of the two forms an identity card can take. While in hero form, a player can trigger hero actions, use basic attack and thwart powers, and is targeted by villain attacks during the villain phase."
+			}
+		]
+	},
+	{
+		"id": "hit_points_hp",
+		"term": "Hit Points (HP)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Hit points represent the vitality of characters. A character's hit points are reduced by damage and increased by healing. If a character's hit points are reduced to 0, that character is defeated."
+			}
+		]
+	}
+]

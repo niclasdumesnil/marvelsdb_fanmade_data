@@ -1,0 +1,28 @@
+[
+	{
+		"id": "game_environments",
+		"term": "Game Environments",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A Game Environment establishes a specific cardpool from which a player can customize their deck. This document details two game environments: the Legacy Environment (using all products in a player's collection) and the Limited Environment (a restricted subset consisting of the core set, up to 3 expansions, and up to 10 hero packs)."
+			}
+		],
+		"whats_new": [
+			{
+				"version": "1.7",
+				"diff": "Added Appendix VI: Game Environments (Beta). This formalizes the standard 'Legacy Environment' and introduces a brand new 'Limited Environment' format to help curate smaller cardpools for deckbuilding."
+			}
+		]
+	},
+	{
+		"id": "guard",
+		"term": "Guard",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Guard is a keyword. While a minion with the guard keyword is engaged with a player, that player cannot use cards or basic powers to attack the villain."
+			}
+		]
+	}
+]

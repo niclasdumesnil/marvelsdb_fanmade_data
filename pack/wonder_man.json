@@ -73,7 +73,8 @@
         "set_position": 1,
         "text": "Permanent. Max 3 cards tucked here.\n<b>Response</b>: After you play an event with a printed [energy] resource, tuck that event from your discard pile under this card \u2192 heal 1 damage from your identity.",
         "traits": "Superpower.",
-        "type_code": "upgrade"
+        "type_code": "upgrade",
+        "errata": "Ionic Physiology’s cost arrow should instead be replaced with “Then” - Alex Werner, FFG Game Rules Specialist"
     },
     {
         "code": "58003",

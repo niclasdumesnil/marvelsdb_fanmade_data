@@ -1,0 +1,32 @@
+[
+	{
+		"id": "thwart",
+		"term": "Thwart",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Thwart is a basic power. A player can exhaust their hero to thwart. When a hero thwarts, remove threat from a scheme equal to the hero's THW (thwart) value."
+			}
+		]
+	},
+	{
+		"id": "tough",
+		"term": "Tough",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Tough is a status card given by the Toughness keyword or other card effects. A tough status card prevents the next instance of damage the character would take. Once the damage is prevented, the tough status card is discarded."
+			}
+		]
+	},
+	{
+		"id": "treachery",
+		"term": "Treachery",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Treachery is an encounter card type. When a treachery is revealed, its 'When Revealed' abilities resolve immediately, and then the treachery is placed in the encounter discard pile."
+			}
+		]
+	}
+]

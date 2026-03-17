@@ -1,0 +1,42 @@
+[
+	{
+		"id": "scheme",
+		"term": "Scheme",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Scheme is a basic enemy activation. During the villain phase, the villain and each minion engaged with a player in alter-ego form scheme. To scheme, place threat on the main scheme equal to the scheming character's SCH value (plus any boost cards if it is the villain)."
+			}
+		]
+	},
+	{
+		"id": "setup",
+		"term": "Setup",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Setup is the process of preparing the game before the first round begins. It involves selecting identities, building the encounter deck, setting hit points, drawing starting hands, resolving mulligans, and applying any setup instructions on the main scheme or identities."
+			}
+		]
+	},
+	{
+		"id": "stunned",
+		"term": "Stunned",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Stunned is a status card. If a stunned character attempts to attack, the attack is prevented, and the stunned status card is discarded instead. A character can only have one stunned status card at a time."
+			}
+		]
+	},
+	{
+		"id": "surge",
+		"term": "Surge",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Surge is a keyword. After an encounter card with the surge keyword is revealed, the player resolving the card reveals an additional encounter card from the encounter deck."
+			}
+		]
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{
+		"id": "winning_the_game",
+		"term": "Winning the Game",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The players win the game if they defeat the final stage of the villain's identity. The players lose the game if all players are eliminated, or if the villain completes the final stage of the main scheme."
+			}
+		]
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"id": "damage",
+		"term": "Damage",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Damage reduces a character's hit points. Damage can be dealt by attacks or by card abilities. When a character takes damage, their hit points are reduced by the specified amount. If a character's hit points are reduced to 0, they are defeated."
+			}
+		]
+	},
+	{
+		"id": "defeat",
+		"term": "Defeat",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "When a character has 0 or fewer hit points, they are defeated. If a hero is defeated, that player is eliminated from the game. If a minion or ally is defeated, it is placed in the appropriate discard pile. If a villain stage is defeated, the villain advances to the next stage."
+			}
+		]
+	},
+	{
+		"id": "defend",
+		"term": "Defend",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "When an enemy attacks, players may defend against the attack. A player can exhaust a hero or ally to defend. If a character defends against an attack, the damage from the attack is dealt to that character instead of the original target."
+			}
+		]
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"id": "empty_deck",
+		"term": "Empty Deck",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If a player deck empties, the player shuffles their discard pile to make a new deck and deals themself one facedown encounter card. If the encounter deck empties, the encounter discard pile is shuffled to make a new deck and one acceleration token is placed on the main scheme."
+			}
+		]
+	},
+	{
+		"id": "encounter_card",
+		"term": "Encounter Card",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Encounter cards are dealt from the encounter deck. They represent the challenges the villain throws at the heroes, including minions, treacheries, attachments, side schemes, and obligations."
+			}
+		]
+	},
+	{
+		"id": "exhaust",
+		"term": "Exhaust",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If a card is exhausted, it is rotated 90 degrees. An exhausted card cannot be exhausted again until it is readied. Most characters must exhaust to attack, thwart, defend, or recover."
+			}
+		]
+	}
+]

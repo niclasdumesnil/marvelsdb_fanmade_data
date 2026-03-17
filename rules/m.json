@@ -1,0 +1,32 @@
+[
+	{
+		"id": "main_scheme",
+		"term": "Main Scheme",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The main scheme is a card type. It represents the villain's primary objective. If the amount of threat on a main scheme is equal to or greater than its target threat value, the scheme advances. If the final stage of the main scheme is completed, the villain wins the game."
+			}
+		]
+	},
+	{
+		"id": "minion",
+		"term": "Minion",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Minion is an encounter card type. When a minion is revealed, it enters play engaged with the player who revealed it. Minions activate against the player they are engaged with during the villain phase."
+			}
+		]
+	},
+	{
+		"id": "mulligan",
+		"term": "Mulligan",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "During setup, after drawing their starting hand, each player has a single opportunity to take a mulligan. To do so, a player discards any number of cards from their hand, and then draws up to their starting hand size."
+			}
+		]
+	}
+]

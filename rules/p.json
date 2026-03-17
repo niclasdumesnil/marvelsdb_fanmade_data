@@ -1,0 +1,42 @@
+[
+	{
+		"id": "per_player_icon",
+		"term": "Per Player Icon",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The per player icon (a small silhouette symbol) indicates that a value is multiplied by the number of players who started the scenario. This value does not change if a player is eliminated from the game."
+			}
+		]
+	},
+	{
+		"id": "permanent",
+		"term": "Permanent",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Permanent is a keyword. A card with the permanent keyword cannot leave play. It cannot be defeated, discarded, or returned to a player's hand or deck."
+			}
+		]
+	},
+	{
+		"id": "play_put_into_play",
+		"term": "Play, Put Into Play",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Playing a card involves paying its cost and placing it into the play area (or resolving its effect if it is an event). 'Put into play' bypasses the need to pay costs; the card simply enters the play area from its previous out-of-play state."
+			}
+		]
+	},
+	{
+		"id": "player_elimination",
+		"term": "Player Elimination",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A player is eliminated from the game if their identity is defeated (reduced to 0 hit points). When a player is eliminated, their hand, deck, discard pile, and all cards they own in play are removed from the game. The remaining players continue the game."
+			}
+		]
+	}
+]

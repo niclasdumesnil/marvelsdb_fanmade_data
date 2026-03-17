@@ -1,0 +1,12 @@
+[
+	{
+		"id": "quick_strike",
+		"term": "Quick Strike",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Quick strike is a keyword. After a minion with the quick strike keyword engages a player whose identity is in hero form, that minion attacks that player."
+			}
+		]
+	}
+]

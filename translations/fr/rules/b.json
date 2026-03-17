@@ -1,0 +1,38 @@
+[
+	{
+		"id": "basic_card",
+		"term": "Basic Card",
+		"see_also": [
+			"aspect_card",
+			"classifications",
+			"identity_specific_card",
+			"appendix_i_deck_customization"
+		]
+	},
+	{
+		"id": "basic_power",
+		"term": "Basic Power",
+		"see_also": [
+			"ally",
+			"attack_enemy_activation",
+			"attack_player_ability_type",
+			"defend",
+			"identity",
+			"minion",
+			"modifiers",
+			"recover",
+			"scheme_enemy_activation",
+			"thwart"
+		]
+	},
+	{
+		"id": "boost_boost_icon",
+		"term": "Boost, Boost Icon",
+		"see_also": [
+			"attack_enemy_activation",
+			"scheme_enemy_activation",
+			"star_icon",
+			"villainous"
+		]
+	}
+]

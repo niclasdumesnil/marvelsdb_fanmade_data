@@ -1,0 +1,18 @@
+[
+	{
+		"id": "uniqueness",
+		"term": "Uniqueness",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A card with an asterisk (*) before its title is unique. There can be only one unique card with the same title in play at a time. If the title and subtitle (Alter-Ego) match a card already in play, the new card cannot enter play."
+			}
+		],
+		"whats_new": [
+			{
+				"version": "1.7",
+				"diff": "Revision of uniqueness rules. The comparison is now strictly made between the main title (e.g., Captain America) AND the Alter-Ego identity (Steve Rogers), to definitively prevent thematic inconsistencies in multiplayer."
+			}
+		]
+	}
+]

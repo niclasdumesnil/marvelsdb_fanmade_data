@@ -1,0 +1,12 @@
+[
+	{
+		"id": "keyword",
+		"term": "Keyword",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A keyword is a specific word or phrase that serves as a shorthand for a game rule or ability. Examples include Guard, Overkill, Quick Strike, Retaliate, Surge, and Toughness."
+			}
+		]
+	}
+]

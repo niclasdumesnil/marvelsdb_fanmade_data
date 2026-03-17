@@ -1,0 +1,22 @@
+[
+	{
+		"id": "villain",
+		"term": "Villain",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Villain is an encounter card type. The villain is the primary enemy the heroes are attempting to defeat. The villain activates during the villain phase, either attacking or scheming depending on the form of the active player's identity."
+			}
+		]
+	},
+	{
+		"id": "villain_phase",
+		"term": "Villain Phase",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The villain phase is the second phase of the round. During this phase, threat is added to the main scheme, the villain and minions activate against the players, and encounter cards are dealt and revealed."
+			}
+		]
+	}
+]

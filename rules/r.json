@@ -1,0 +1,84 @@
+[
+	{
+		"id": "ranged",
+		"term": "Ranged",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Ranged is a keyword. An attack with the ranged keyword ignores the retaliate keyword. The character with retaliate does not deal damage back to the attacker."
+			}
+		]
+	},
+	{
+		"id": "ready",
+		"term": "Ready",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A card that is in an upright state is ready. Ready cards can be exhausted to pay costs or trigger abilities. When a player readies a card, they rotate it from an exhausted (horizontal) state to a ready (upright) state."
+			}
+		]
+	},
+	{
+		"id": "recover",
+		"term": "Recover",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Recover is a basic power. A player can exhaust their alter-ego to recover. When an alter-ego recovers, it heals damage equal to its REC (recovery) value."
+			}
+		]
+	},
+	{
+		"id": "referential_abilities",
+		"term": "Referential Abilities",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Some abilities refer to other cards by title, trait, or other characteristics. A card that refers to its own title refers only to itself, unless the ability uses the phrase 'a [name] card'. References to traits work similarly to encompass all cards sharing that trait."
+			}
+		],
+		"whats_new": [
+			{
+				"version": "1.7",
+				"diff": "Complete revision of the interpretation of referential abilities. Clarification on the distinction between a card that names itself (self-referential) and a card that targets other copies with the same name."
+			}
+		]
+	},
+	{
+		"id": "resource",
+		"term": "Resource",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Resources are used to pay the cost to play cards and trigger abilities. The four types of resources are energy, mental, physical, and wild. A wild resource can be used as any of the other three types."
+			}
+		]
+	},
+	{
+		"id": "retaliate",
+		"term": "Retaliate",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Retaliate X is a keyword. After a character with the retaliate X keyword is attacked, deal X damage to the attacker. The character with retaliate must survive the attack to deal this damage."
+			}
+		]
+	},
+	{
+		"id": "revealing_cards",
+		"term": "Revealing Cards",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Revealing a card is the process of turning a facedown card faceup or revealing a card from the top of a deck. When an encounter card is revealed, its 'When Revealed' abilities trigger immediately. Encounter cards are revealed using a strict stepwise process."
+			}
+		],
+		"whats_new": [
+			{
+				"version": "1.7",
+				"diff": "Added a strict stepwise process for revealing encounter cards to properly resolve timing conflicts for interrupts and responses."
+			}
+		]
+	}
+]

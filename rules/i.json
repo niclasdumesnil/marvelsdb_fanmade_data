@@ -1,0 +1,42 @@
+[
+	{
+		"id": "identity",
+		"term": "Identity",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Identity is a card type. A player's identity card represents the character they are playing in the game. An identity card is double-sided, with a hero form on one side and an alter-ego form on the other."
+			}
+		]
+	},
+	{
+		"id": "in_play_and_out_of_play",
+		"term": "In Play and Out of Play",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The playing area, which includes all heroes, alter-egos, allies, minions, villains, attachments, side schemes, the main scheme, and environments, is considered 'in play'. Cards in a player's hand, deck, or discard pile, and cards in the encounter deck or discard pile are 'out of play'. Abilities can only be triggered from cards in play unless specified otherwise."
+			}
+		]
+	},
+	{
+		"id": "incite",
+		"term": "Incite",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Incite is a keyword. When a card with the incite X keyword is revealed, place X threat on the main scheme."
+			}
+		]
+	},
+	{
+		"id": "interrupt",
+		"term": "Interrupt",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "An interrupt is a triggered ability that is triggered immediately before its specified triggering condition occurs. The resolution of an interrupt ability precedes the resolution of its triggering condition."
+			}
+		]
+	}
+]

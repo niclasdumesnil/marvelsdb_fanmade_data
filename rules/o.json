@@ -1,0 +1,38 @@
+[
+	{
+		"id": "obligation",
+		"term": "Obligation",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Obligation is an encounter card type that represents a commitment or obstacle for a specific hero. When an obligation is revealed from the encounter deck, it is given to the player controlling the identity matching the obligation's text, resolving its effects."
+			}
+		]
+	},
+	{
+		"id": "otherwise",
+		"term": "Otherwise",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If an effect includes the word 'otherwise', the text following the word 'otherwise' resolves if the preceding conditional effect does not resolve in full."
+			}
+		],
+		"whats_new": [
+			{
+				"version": "1.7",
+				"diff": "Expanded definition. The rule now clearly states that if the preceding effect is partial or fails, the 'Otherwise' condition takes over entirely to ensure an effect takes place."
+			}
+		]
+	},
+	{
+		"id": "overkill",
+		"term": "Overkill",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Overkill is a keyword. If an attack with overkill defeats a minion, excess damage is dealt to the villain. If an attack with overkill defeats an ally, excess damage is dealt to the player's identity."
+			}
+		]
+	}
+]

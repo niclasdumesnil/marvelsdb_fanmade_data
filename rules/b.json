@@ -1,0 +1,66 @@
+[
+	{
+		"id": "base_value",
+		"term": "Base Value",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A base value is the numerical value printed on a card or granted by a constant ability, before any modifiers are applied.\n- A character's base hit points is the value printed on their card.\n- A character's base ATK, THW, SCH, DEF, or REC is the value printed on their card.\n- Modifiers (such as +1 ATK or -1 THW) alter the base value to create a modified value."
+			}
+		]
+	},
+	{
+		"id": "basic_card",
+		"term": "Basic Card",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Cards in the “Basic” classification are cards that are not associated with a specific identity or aspect.<br><ul><li>When building a deck, a player may customize the remainder of their deck (the portion not allocated to their identity-specific cards) using basic cards.</li><li>A card is designated as basic if it has the word “Basic” printed at the bottom of the card in its deckbuilding classification area.</li><li>Basic cards are not aspect cards.</li></ul>"
+			}
+		],
+		"see_also": [
+			"aspect_card",
+			"classifications",
+			"identity_specific_card",
+			"appendix_i_deck_customization"
+		]
+	},
+	{
+		"id": "basic_power",
+		"term": "Basic Power",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A basic power is a statistic that allows a character to perform a certain game function.<br><ul><li>There are five different basic powers:</li><ul><li>Attack power (ATK) can be used by a character to perform a basic attack and deal damage to another character. Generally, heroes, allies, villains, and minions have attack power.&nbsp;</li><li>Thwart power (THW) can be used by a character to perform a basic thwart and remove threat from a scheme. Generally, heroes and allies have thwart power.</li><li>Defense power (DEF) can be used by a character to perform a basic defense and prevent damage from an attack. Generally, only heroes have defense power.</li><li>&nbsp;Recovery power (REC) can be used by a character \nto perform a basic recovery and heal damage from \nthemself. Generally, only alter-egos have recovery \npower.</li><li>Scheme power (SCH) can be used by a character \nto perform a basic scheme and place threat on the \nmain scheme. Generally, villains and minions have \nscheme power.&nbsp;&nbsp;</li></ul></ul>"
+			}
+		],
+		"see_also": [
+			"ally",
+			"attack_enemy_activation",
+			"attack_player_ability_type",
+			"defend",
+			"identity",
+			"minion",
+			"modifiers",
+			"recover",
+			"scheme_enemy_activation",
+			"thwart"
+		]
+	},
+	{
+		"id": "boost_boost_icon",
+		"term": "Boost, Boost Icon",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Each time the villain attacks or schemes, the villain is given one facedown card from the encounter deck, as a <b>boost</b> card.  Minions with the villainous keyword are also given a <b>boost</b> card when they activate.<div>During the activation (and after any defenders are declared if the villain is attacking), each <b>boost</b> card on the enemy is turned face up one at a time. Add the number of <b>boost</b> icons on each card to the enemy’s ATK value (if it is attacking) or SCH value (if it is scheming) for that activation. <b>Boost</b> icons are located at the bottom-right of the card.</div><div>If the <b>boost</b> field has a star icon, it indicates that the card \nhas a “<b>Boost</b>” ability. Refer to the card’s text box and \nresolve the “<b>Boost</b>” ability when the card is turned face up. \nThe “<b>Boost</b>” ability is located beneath the divider line in the \ntext box.&nbsp;&nbsp;</div><div><ul><li>A star icon is not itself considered a <b>boost</b> icon, and \ndoes not contribute to the villain’s ATK or SCH value.&nbsp;</li><li>Only the ability text beneath the divider line is active \non a card that is resolving as a <b>boost</b> card.</li><li>Damage dealt by a <b>boost</b> ability is not considered to \nbe damage dealt by the activation during which the \n<b>boost</b> ability resolved.</li><li>If additional <b>boost</b> cards are resolved for an \nactivation, the <b>boost</b> icons are cumulative, and all \n“<b>Boost</b>” abilities on those cards resolve.\n• • After applying a <b>boost</b> card to an activation, discard it.</li><li>If an enemy is dealt a <b>boost</b> card outside of its own \nactivation, that <b>boost</b> card remains facedown on that \nenemy until that enemy activates.</li><ul><li>If that enemy is a villain or a minion with the \nvillainous keyword, it still gets dealt another <b>boost</b> \ncard at the start of its activation as normal.&nbsp;&nbsp;</li></ul></ul></div>"
+			}
+		],
+		"see_also": [
+			"attack_enemy_activation",
+			"scheme_enemy_activation",
+			"star_icon",
+			"villainous"
+		]
+	}
+]
