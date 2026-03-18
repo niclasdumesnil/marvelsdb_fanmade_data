@@ -2310,7 +2310,7 @@
         "faction_code": "encounter",
         "is_unique": true,
         "name": "The Great Web",
-        "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030169",
+        "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030171",
         "pack_code": "web_of_deceit_by_ripper3",
         "position": 171,
         "quantity": 1,
@@ -2347,7 +2347,7 @@
         "health": 6,
         "is_unique": true,
         "name": "Hobgoblin",
-        "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030171",
+        "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030169",
         "pack_code": "web_of_deceit_by_ripper3",
         "position": 169,
         "quantity": 1,
@@ -2369,11 +2369,11 @@
         "position": 172,
         "quantity": 1,
         "resource_energy": 1,
+        "set_code": "wod_campaign_multiverse_by_ripper3",
+        "set_position": 1,
         "text": "Setup.\n<b>Hero Response</b>: After you change form, discard Great Web Strand \u2192 search your deck and discard pile for a [[web-warrior]] ally or an ally with \u201cSpider\u201d in its title and add it to your hand.",
         "traits": "Web-Warrior.",
-        "type_code": "support",
-		"set_code": "wod_campaign_multiverse_by_ripper3",
-		"set_position": 1	
+        "type_code": "support"
     },
     {
         "attack": 2,
@@ -2390,14 +2390,14 @@
         "position": 173,
         "quantity": 1,
         "resource_wild": 1,
+        "set_code": "wod_campaign_multiverse_by_ripper3",
+        "set_position": 2,
         "subname": "mayday parker",
         "text": "<b>Response</b>: After Spider-Girl enters play or leaves play, choose:\n\u2022 Ready your hero.\n\u2022 Heal 1 damage from your alter-ego.",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
-        "type_code": "ally",
-		"set_code": "wod_campaign_multiverse_by_ripper3",
-		"set_position": 2	
+        "type_code": "ally"
     },
     {
         "attack": 2,
@@ -2414,14 +2414,14 @@
         "position": 174,
         "quantity": 1,
         "resource_physical": 1,
+        "set_code": "wod_campaign_multiverse_by_ripper3",
+        "set_position": 3,
         "subname": "billy braddock",
         "text": "Toughness.\n<b>Response</b>: After Spider-UK enters play, give another [[web-warrior]] character a tough status card. If you cannot, discard cards from the top of your deck until you discard an ally and add it to your hand.\n<i>\u201cbritish quote here!\u201d</i>",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
-        "type_code": "ally",
-		"set_code": "wod_campaign_multiverse_by_ripper3",
-		"set_position": 3
+        "type_code": "ally"
     },
     {
         "code": "503175",
@@ -2434,11 +2434,11 @@
         "position": 175,
         "quantity": 1,
         "resource_energy": 1,
+        "set_code": "wod_campaign_multiverse_by_ripper3",
+        "set_position": 4,
         "text": "Setup.\nYou gain the [[web-warrior]] trait.\nYou get +2 hit points.\n<i>The portal opens to reveal the dimension designated Earth-001.</i>",
         "traits": "Title.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_multiverse_by_ripper3",
-		"set_position": 4
+        "type_code": "upgrade"
     },
     {
         "code": "503176",
@@ -2453,11 +2453,11 @@
         "position": 176,
         "quantity": 1,
         "resource_physical": 1,
+        "set_code": "wod_campaign_multiverse_by_ripper3",
+        "set_position": 5,
         "text": "Setup. Permanent.\nYou may include [[web-warrior]] allies from any aspect in your deck during deckbuilding.\n<i>\u201cSo, Karn. How've you been? You're not feeling...hungry or anything, are you?\u201d -Anya</i>",
         "traits": "Location. Web-Warrior.",
-        "type_code": "support",
-		"set_code": "wod_campaign_multiverse_by_ripper3",
-		"set_position": 5
+        "type_code": "support"
     },
     {
         "code": "503177",
@@ -2470,11 +2470,11 @@
         "position": 177,
         "quantity": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_multiverse_by_ripper3",
+        "set_position": 6,
         "text": "Play under any player's control. Max 1 [[team ]]card per player.\nEach of your [[web-warrior]] allies gets +1 hit point and +1 ATK.\n<i>\u201cBattleplan Normandy! Take it to 'em!\u201d -Spider-UK</i>",
         "traits": "Team.",
-        "type_code": "support",
-		"set_code": "wod_campaign_multiverse_by_ripper3",
-		"set_position": 6
+        "type_code": "support"
     },
     {
         "attack": 2,
@@ -2491,14 +2491,14 @@
         "position": 178,
         "quantity": 1,
         "resource_physical": 1,
+        "set_code": "wod_campaign_multiverse_by_ripper3",
+        "set_position": 7,
         "subname": "peter parker",
         "text": "<b>Response</b>: After Spider-Man Noir leaves play, heal 4 damage from your identity.\n<i>\u201cWherever I go the wind follows, and the wind... smells like rain.\u201d</i>",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
-        "type_code": "ally",
-		"set_code": "wod_campaign_multiverse_by_ripper3",
-		"set_position": 7
+        "type_code": "ally"
     },
     {
         "attack": 2,
@@ -2515,14 +2515,14 @@
         "position": 179,
         "quantity": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_multiverse_by_ripper3",
+        "set_position": 8,
         "subname": "Pavitr Prabhakar",
         "text": "<b>Response</b>: After Spider-Man leaves play, remove 4 threat from a scheme.\n<i>\"Being Spider-Man is so easy!\"</i>",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
-        "type_code": "ally",
-		"set_code": "wod_campaign_multiverse_by_ripper3",
-		"set_position": 8
+        "type_code": "ally"
     },
     {
         "attack": 2,
@@ -2539,14 +2539,14 @@
         "position": 180,
         "quantity": 1,
         "resource_energy": 1,
+        "set_code": "wod_campaign_multiverse_by_ripper3",
+        "set_position": 9,
         "subname": "Anya Corazon",
         "text": "<b>Response</b>: After Arana leaves play, deal 5 damage to an enemy.",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
-        "type_code": "ally",
-		"set_code": "wod_campaign_multiverse_by_ripper3",
-		"set_position": 9	
+        "type_code": "ally"
     },
     {
         "code": "503181",
@@ -2560,11 +2560,11 @@
         "position": 181,
         "quantity": 1,
         "resource_wild": 1,
+        "set_code": "wod_campaign_multiverse_by_ripper3",
+        "set_position": 10,
         "text": "Each [[web-warrior]] ally gets +1 hit point for each boost icon ([boost]) tucked under them.\n<b>Response:</b> After a [[web-warrior]] ally enters play, tuck the top card of the encounter deck under that ally.",
         "traits": "Web-Warrior.",
-        "type_code": "support",
-		"set_code": "wod_campaign_multiverse_by_ripper3",
-		"set_position": 10
+        "type_code": "support"
     },
     {
         "code": "503182",
@@ -2577,11 +2577,11 @@
         "position": 182,
         "quantity": 1,
         "resource_wild": 1,
+        "set_code": "wod_campaign_radioactive_by_ripper3",
+        "set_position": 1,
         "text": "Setup.\n<b>Action</b>: Discard Radioactive Spider \u2192 deal 1 damage to your identity. You get +2 hand size until the end of the phase.",
         "traits": "Radioactive. Tiny.",
-        "type_code": "support",
-		"set_code": "wod_campaign_radioactive_by_ripper3",
-		"set_position": 1
+        "type_code": "support"
     },
     {
         "code": "503183",
@@ -2594,11 +2594,11 @@
         "position": 183,
         "quantity": 1,
         "resource_energy": 1,
+        "set_code": "wod_campaign_radioactive_by_ripper3",
+        "set_position": 2,
         "text": "<b>Hero Action</b> <i>(attack)</i>: Deal 5 damage to an enemy.\n<i>(This card is both a Web of Deceit Campaign Reward card and an Aggression card.)</i>",
         "traits": "Attack. Superpower.",
-        "type_code": "event",
-		"set_code": "wod_campaign_radioactive_by_ripper3",
-		"set_position": 2
+        "type_code": "event"
     },
     {
         "code": "503184",
@@ -2611,11 +2611,11 @@
         "position": 184,
         "quantity": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_radioactive_by_ripper3",
+        "set_position": 3,
         "text": "<b>Hero Action</b> <i>(thwart)</i>: Remove 3 threat from a scheme. If this removes the last threat from that scheme, draw 2 cards.\n<i>(This card is both a Web of Deceit Campaign Reward card and a Justice card.)</i>",
         "traits": "Superpower. Thwart.",
-        "type_code": "event",
-		"set_code": "wod_campaign_radioactive_by_ripper3",
-		"set_position": 3
+        "type_code": "event"
     },
     {
         "code": "503185",
@@ -2629,11 +2629,11 @@
         "quantity": 1,
         "resource_energy": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_radioactive_by_ripper3",
+        "set_position": 4,
         "text": "You get +3 hit points.\n<b>Response</b>: After your turn begins, exhaust Spider-Healing Factor \u2192 heal 1 damage from your identity.\n<i>(This card is both a Web of Deceit Campaign Reward card an a Pool card.)</i>",
         "traits": "Superpower.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_radioactive_by_ripper3",
-		"set_position": 4
+        "type_code": "upgrade"
     },
     {
         "code": "503186",
@@ -2646,11 +2646,11 @@
         "position": 186,
         "quantity": 1,
         "resource_physical": 1,
+        "set_code": "wod_campaign_radioactive_by_ripper3",
+        "set_position": 5,
         "text": "You get +3 hit points and your hero gets +1 DEF and +1 ATK.\n<i>(This card is both a Web of Deceit Campaign Reward card and a Protection card.)\n</i>",
         "traits": "Superpower.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_radioactive_by_ripper3",
-		"set_position": 5
+        "type_code": "upgrade"
     },
     {
         "attack": 3,
@@ -2667,13 +2667,13 @@
         "position": 187,
         "quantity": 1,
         "resource_wild": 1,
+        "set_code": "wod_campaign_radioactive_by_ripper3",
+        "set_position": 6,
         "text": "<b>Response</b>: After Doppelganger leaves play, search your deck and discard pile for a [[superpower ]]card and add it to your hand.\n<i>(This card is both a Web of Deceit Campaign Reward card and a Leadership card.)</i>",
         "thwart": 0,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
-        "type_code": "ally",
-		"set_code": "wod_campaign_radioactive_by_ripper3",
-		"set_position": 6
+        "type_code": "ally"
     },
     {
         "code": "503188",
@@ -2686,10 +2686,10 @@
         "quantity": 2,
         "resource_energy": 2,
         "resource_physical": 2,
+        "set_code": "wod_campaign_radioactive_by_ripper3",
+        "set_position": 7,
         "traits": "Superpower.",
-        "type_code": "resource",
-		"set_code": "wod_campaign_radioactive_by_ripper3",
-		"set_position": 7
+        "type_code": "resource"
     },
     {
         "code": "503189",
@@ -2702,11 +2702,11 @@
         "position": 189,
         "quantity": 1,
         "resource_energy": 1,
+        "set_code": "wod_campaign_radioactive_by_ripper3",
+        "set_position": 9,
         "text": "Uses (3 energy counters).\n<b>Response</b>: After you play a [[superpower ]]card, remove 1 energy counter from Dynamo \u2192 stun an enemy and deal 2 damage to it.",
         "traits": "Superpower.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_radioactive_by_ripper3",
-		"set_position": 9
+        "type_code": "upgrade"
     },
     {
         "code": "503190",
@@ -2720,11 +2720,11 @@
         "quantity": 1,
         "resource_energy": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_radioactive_by_ripper3",
+        "set_position": 10,
         "text": "Uses (3 energy counters).\n<b>Response</b>: After you play a [[superpower ]]card, remove 1 energy counter from Camouflage\u2192 confuse an enemy and give your identity a tough status card.",
         "traits": "Superpower.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_radioactive_by_ripper3",
-		"set_position": 10
+        "type_code": "upgrade"
     },
     {
         "code": "503191",
@@ -2738,11 +2738,11 @@
         "quantity": 1,
         "resource_energy": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_spidersense_by_ripper3",
+        "set_position": 1,
         "text": "Setup.\n<b>Interrupt</b>: When you reveal a treachery, discard Spider-Tingle \u2192 cancel the \u201c<b>When Revealed</b>\u201d effects of that treachery.\n<i>\u201cIt's his Spider-Sense!\u201d</i>",
         "traits": "Superpower.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_spidersense_by_ripper3",
-		"set_position": 1
+        "type_code": "upgrade"
     },
     {
         "code": "503192",
@@ -2755,11 +2755,11 @@
         "position": 192,
         "quantity": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_spidersense_by_ripper3",
+        "set_position": 2,
         "text": "<b>Hero Interrupt</b>: When the villain initiates an attack against you, draw 1 card.\n<i>\u201cThanks Spidey-Sense!\u201d</i>",
         "traits": "Superpower.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_spidersense_by_ripper3",
-		"set_position": 2
+        "type_code": "upgrade"
     },
     {
         "code": "503193",
@@ -2773,11 +2773,11 @@
         "position": 193,
         "quantity": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_spidersense_by_ripper3",
+        "set_position": 3,
         "text": "Setup. Permanent.\nYou gain the [[psionic ]]trait.\n<i>\u201cThe threads of destiny are never still. I see where they lead\u2026 if you dare to follow.\u201d -Madame Web.</i>",
         "traits": "Psionic. Superpower.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_spidersense_by_ripper3",
-		"set_position": 3
+        "type_code": "upgrade"
     },
     {
         "code": "503194",
@@ -2790,11 +2790,11 @@
         "position": 194,
         "quantity": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_spidersense_by_ripper3",
+        "set_position": 4,
         "text": "<b>Hero Action </b><i>(thwart)</i>:<b> </b>Ready your identity \u2192 remove 3 threat from a scheme.\n<i>\u201cTrouble nearby, I better investigate!\u201d</i>",
         "traits": "Thwart.",
-        "type_code": "event",
-		"set_code": "wod_campaign_spidersense_by_ripper3",
-		"set_position": 4
+        "type_code": "event"
     },
     {
         "code": "503195",
@@ -2807,11 +2807,11 @@
         "position": 195,
         "quantity": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_spidersense_by_ripper3",
+        "set_position": 5,
         "text": "Alliance.\n<b>Interrupt: </b>When a treachery card is revealed from the encounter deck, cancel its \"<b>When Revealed</b>\" effects. Each player draws 1 card.",
         "traits": "Psionic. Superpower.",
-        "type_code": "event",
-		"set_code": "wod_campaign_spidersense_by_ripper3",
-		"set_position": 5
+        "type_code": "event"
     },
     {
         "code": "503196",
@@ -2822,13 +2822,13 @@
         "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030196",
         "pack_code": "web_of_deceit_by_ripper3",
         "position": 196,
-        "quantity": 1,        
+        "quantity": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_spidersense_by_ripper3",
+        "set_position": 6,
         "text": "<b>Action </b><i>(thwart)</i>: Exhaust Arachno-Telepathy, and discard 1 card from the encounter deck \u2192 remove 1 threat from a scheme for each icon ([boost] or [star]) discarded this way.\n<i>\u201cWe can eat them, right? Asking for a friend.\u201d </i>\u2014<i>Spiders-Man</i>",
         "traits": "Psionic. Superpower.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_spidersense_by_ripper3",
-		"set_position": 6
+        "type_code": "upgrade"
     },
     {
         "code": "503197",
@@ -2841,11 +2841,11 @@
         "position": 197,
         "quantity": 2,
         "resource_physical": 1,
+        "set_code": "wod_campaign_spidersense_by_ripper3",
+        "set_position": 7,
         "text": "<b>Hero Interrupt </b><i>(defense)</i>: When your hero would take any amount of damage from an enemy attack, prevent all of that damage.\n<i>\u201cWhoops!\u201d\n- Silk</i>",
         "traits": "Defense. Skill.",
-        "type_code": "event",
-		"set_code": "wod_campaign_spidersense_by_ripper3",
-		"set_position": 7
+        "type_code": "event"
     },
     {
         "base_threat": 5,
@@ -2861,10 +2861,10 @@
         "position": 198,
         "quantity": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_spidersense_by_ripper3",
+        "set_position": 9,
         "text": "Victory 0.\n<b>When Defeated</b>: Each player draws 2 cards. Until the end of the round, play with the top card of the encounter deck faceup.\n<i>\u201cNew skeins of being sewn....\u201d -Julia Carpenter, Madame Web</i>",
-        "type_code": "player_side_scheme",
-		"set_code": "wod_campaign_spidersense_by_ripper3",
-		"set_position": 9
+        "type_code": "player_side_scheme"
     },
     {
         "code": "503199",
@@ -2878,11 +2878,11 @@
         "position": 199,
         "quantity": 1,
         "resource_wild": 1,
+        "set_code": "wod_campaign_spidersense_by_ripper3",
+        "set_position": 10,
         "text": "Each [[psionic ]]character you control gains the [[web-warrior]] trait.\n<b>Alter-Ego Action </b><i>(thwart)</i>: Exhaust Madame Web \u2192 for each [[web-warrior]] card you control, choose a scheme and remove 1 threat from it.",
         "traits": "Persona. Psionic. Web-Warrior.",
-        "type_code": "support",
-		"set_code": "wod_campaign_spidersense_by_ripper3",
-		"set_position": 10
+        "type_code": "support"
     },
     {
         "code": "503200",
@@ -2895,11 +2895,11 @@
         "position": 200,
         "quantity": 1,
         "resource_physical": 1,
+        "set_code": "wod_campaign_webspinner_by_ripper3",
+        "set_position": 1,
         "text": "Setup. Uses (3 web counters.)\n<b>Hero Resource</b>: Exhaust Web-Shooter and remove 1 web counter from it \u2192 generate a [wild] resource.",
         "traits": "Item. Tech.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_webspinner_by_ripper3",
-		"set_position": 1
+        "type_code": "upgrade"
     },
     {
         "code": "503201",
@@ -2912,11 +2912,11 @@
         "position": 201,
         "quantity": 1,
         "resource_energy": 1,
+        "set_code": "wod_campaign_webspinner_by_ripper3",
+        "set_position": 2,
         "text": "<b>Hero Action</b>: Choose two of the following (you may choose the same option twice):\n\u2022 Ready a [[tech ]]card you control.\n\u2022 Place 1 all-purpose counter on a [[tech ]]upgrade you control.\n<i>\u201cI need to whip up a new batch of web fluid soon...\u201d\n- Spider-Man</i>",
         "traits": "Skill.",
-        "type_code": "event",
-		"set_code": "wod_campaign_webspinner_by_ripper3",
-		"set_position": 2
+        "type_code": "event"
     },
     {
         "code": "503202",
@@ -2929,11 +2929,11 @@
         "position": 202,
         "quantity": 1,
         "resource_mental": 1,
+        "set_code": "wod_campaign_webspinner_by_ripper3",
+        "set_position": 3,
         "text": "Uses (4 bot counters).\n<b>Hero Action </b><i>(thwart)</i><b>:</b> Exhaust Spider-Bots and remove 1 bot counter from here \u2192 remove threat from a scheme equal to the total number of printed [mental] and [wild] resources in your hand.",
         "traits": "Tech.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_webspinner_by_ripper3",
-		"set_position": 3
+        "type_code": "upgrade"
     },
     {
         "code": "503203",
@@ -2946,11 +2946,11 @@
         "position": 203,
         "quantity": 1,
         "resource_wild": 1,
+        "set_code": "wod_campaign_webspinner_by_ripper3",
+        "set_position": 4,
         "text": "Victory 1.\n<b>Action</b>: Add Bag Head to the victory display\u2192 change to hero form. Draw up to your hand size.",
         "traits": "Item.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_webspinner_by_ripper3",
-		"set_position": 4
+        "type_code": "upgrade"
     },
     {
         "code": "503204",
@@ -2964,9 +2964,9 @@
         "quantity": 1,
         "resource_energy": 2,
         "resource_wild": 4,
-        "type_code": "resource",
-		"set_code": "wod_campaign_webspinner_by_ripper3",
-		"set_position": 5
+        "set_code": "wod_campaign_webspinner_by_ripper3",
+        "set_position": 5,
+        "type_code": "resource"
     },
     {
         "code": "503205",
@@ -2979,11 +2979,11 @@
         "position": 205,
         "quantity": 1,
         "resource_wild": 1,
+        "set_code": "wod_campaign_webspinner_by_ripper3",
+        "set_position": 6,
         "text": "Reduce the cost to play this card by 1 for each [[web-warrior]] card you control.\n<b>Hero Response</b>: After you defend against an attack, exhaust Spider-Mobile \u2192 ready your identity.",
         "traits": "Tech. Vehicle. Web-Warrior.",
-        "type_code": "support",
-		"set_code": "wod_campaign_webspinner_by_ripper3",
-		"set_position": 6
+        "type_code": "support"
     },
     {
         "attack": 1,
@@ -3000,14 +3000,14 @@
         "position": 206,
         "quantity": 1,
         "resource_wild": 1,
+        "set_code": "wod_campaign_webspinner_by_ripper3",
+        "set_position": 7,
         "subname": "bailey briggs",
         "text": "<b>Response</b>: After Spider-Boy enters play or leaves play, remove 1 threat from a scheme.\n<i>\"No need to applaud. Well...maybe some applause would be nice.\" </i>\u2014<i>Spider-Boy</i>",
         "thwart": 1,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
-        "type_code": "ally",
-		"set_code": "wod_campaign_webspinner_by_ripper3",
-		"set_position": 7
+        "type_code": "ally"
     },
     {
         "code": "503207",
@@ -3020,11 +3020,11 @@
         "position": 207,
         "quantity": 2,
         "resource_wild": 1,
+        "set_code": "wod_campaign_webspinner_by_ripper3",
+        "set_position": 8,
         "text": "<b>Hero Action</b>: Ready your hero. Your identity gets +1 to each of its basic powers until the end of the round.\n<i>\u201cI need to whip up a new batch of web fluid soon...\u201d\n- Spider-Man</i>",
         "traits": "Skill.",
-        "type_code": "event",
-		"set_code": "wod_campaign_webspinner_by_ripper3",
-		"set_position": 8
+        "type_code": "event"
     },
     {
         "code": "503208",
@@ -3037,10 +3037,105 @@
         "position": 208,
         "quantity": 1,
         "resource_physical": 1,
+        "set_code": "wod_campaign_webspinner_by_ripper3",
+        "set_position": 10,
         "text": "Attach to an enemy.\nAttached enemy loses steady and stalwart.\n<b>Forced Interrupt</b>: When an enemy would activate, discard Webbed instead.",
         "traits": "Superpower.",
-        "type_code": "upgrade",
-		"set_code": "wod_campaign_webspinner_by_ripper3",
-		"set_position": 10
+        "type_code": "upgrade"
+    },
+    {
+        "back_link": "503210b",
+        "code": "503210a",
+        "faction_code": "encounter",
+        "is_unique": false,
+        "name": "Power Outage",
+        "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030210",
+        "pack_code": "web_of_deceit_by_ripper3",
+        "position": 210,
+        "quantity": 1,
+        "set_code": "power_outage_by_ripper3",
+        "set_position": 1,
+        "stage": "1A",
+        "text": "<b>Contents:</b> Electro (I) and Electro (II). (Electro (II) and Electro (III) instead for expert mode.) Electro, Power Drain II, and Standard encounters sets. One modular encounter set (recommended A.I.M. Science).\n<b>Setup:</b> Put the Electricity Clones and Grounded environments into play.",
+        "type_code": "main_scheme"
+    },
+    {
+        "base_threat": 1,
+        "code": "503210b",
+        "escalation_threat": 1,
+        "faction_code": "encounter",
+        "flavor": "Electro teams up with his girlfriend, A.I.M., Kingpin, and his electro-clones to charge up more than ever before! Can the Spiders stop him?",
+        "hidden": true,
+        "is_unique": false,
+        "name": "Power Outage",
+        "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030210",
+        "pack_code": "web_of_deceit_by_ripper3",
+        "position": 210,
+        "quantity": 1,
+        "set_code": "power_outage_by_ripper3",
+        "set_position": 1,
+        "stage": "1B",
+        "text": "[star] <b>Forced Response:</b> After resolving step one of the villain phase, heal 1 damage from the villain for each acceleration token and icon ([acceleration]) in play.",
+        "threat": 7,
+        "type_code": "main_scheme"
+    },
+    {
+        "back_link": "503211b",
+        "code": "503211a",
+        "faction_code": "encounter",
+        "flavor": "The Electros are on the verge of unlimited power, thanks to the science of A.I.M. and the backing of the Kingpin...",
+        "is_unique": false,
+        "name": "Power Surge",
+        "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030211",
+        "pack_code": "web_of_deceit_by_ripper3",
+        "position": 209,
+        "quantity": 1,
+        "set_code": "power_outage_by_ripper3",
+        "set_position": 2,
+        "stage": "2A",
+        "text": "<b>When Revealed:</b> Exhaust each friendly [[TECH]] support and upgrade. Each player discards cards from the encounter deck until they discard an [[A.I.M.]] minion, then reveals that minion. Each player searches their deck and discard pile for a card with a printed [energy] resource and adds it to their hand. (<i>Shuffle</i>.)",
+        "type_code": "main_scheme"
+    },
+    {
+        "base_threat": 0,
+        "code": "503211b",
+        "escalation_threat": 1,
+        "faction_code": "encounter",
+        "flavor": "Electro is overloading the grid!",
+        "hidden": true,
+        "is_unique": false,
+        "name": "Power Surge",
+        "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030211",
+        "pack_code": "web_of_deceit_by_ripper3",
+        "position": 210,
+        "quantity": 1,
+        "scheme_acceleration": 1,
+        "set_code": "power_outage_by_ripper3",
+        "set_position": 2,
+        "stage": "2B",
+        "text": "* <b>Forced Response:</b> After you resolve an Electro treachery, remove that treachery from the game.\n\n<b>If this stage is completed, the players lose the game.</b>",
+        "threat": 9,
+        "type_code": "main_scheme"
+    },
+    {
+        "attack": 1,
+        "boost": 1,
+        "code": "503209",
+        "faction_code": "encounter",
+        "health": 2,
+        "is_unique": false,
+        "name": "A.i.m. Scientist",
+        "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030209",
+        "pack_code": "web_of_deceit_by_ripper3",
+        "position": 211,
+        "quantity": 2,
+        "scheme": 1,
+        "scheme_acceleration": 1,
+        "set_code": "power_outage_by_ripper3",
+        "set_position": 3,
+        "text": "Vulnerable.\n<b>When Defeated:</b> Search the encounter deck and discard pile for the Dark Matter Conversion side scheme and reveal it.",
+        "thwart": 1,
+        "traits": "A.i.m. Scientist.",
+        "type_code": "minion"
     }
 ]

@@ -1402,11 +1402,14 @@
     "name": "WOD Campaign Web-Spinner",
     "card_set_type_code": "modular"
   },
-   {
+  {
     "code": "wod_campaign_by_ripper3",
     "name": "WOD Campaign",
     "card_set_type_code": "modular"
+  },
+  {
+    "code": "power_outage_by_ripper3",
+    "name": "Power Outage",
+    "card_set_type_code": "modular"
   }
-  
-  
 ]
