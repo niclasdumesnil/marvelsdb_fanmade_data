@@ -2050,105 +2050,69 @@
         "type_code": "attachment"
     },
     {
-        "back_link": "503154b",
         "code": "503154a",
-        "faction_code": "encounter",
-        "name": "Pursued by the Past",
         "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030154",
         "pack_code": "web_of_deceit_by_ripper3",
-        "permanent": true,
+        "duplicate_of": "45075a",
         "position": 154,
         "quantity": 1,
-        "set_code": "other_by_ripper3",
-        "set_position": 1,
-        "text": "Permanent. Setup.\n<b>Forced Response:</b> After you place a pursuit counter here, if the number of counters here is at least 3 more than the number of players, remove each counter here \u2192 if your nemesis minion is in play, it activates against you. Otherwise, flip this card over.\n<i>\u201cBusiness. Is. Good.\u201d</i>",
-        "type_code": "environment"
-    },
+		"alt_art" : true
+},
     {
         "code": "503154b",
-        "faction_code": "encounter",
-        "hidden": true,
-        "name": "Pursued by the Past",
         "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030154",
         "pack_code": "web_of_deceit_by_ripper3",
-        "permanent": true,
         "position": 154,
         "quantity": 1,
-        "set_code": "other_by_ripper3",
-        "set_position": 1,
-        "text": "Permanent.\n<b>Forced Response:</b> After you flip to this side, find your nemesis minion and reveal it. Search the set-aside area for your nemesis side scheme and reveal it. Shuffle your remaining set-aside nemesis set into the encounter deck. Flip this card over.\n<i>\u201cBusiness. Is. Good.\u201d</i>",
-        "type_code": "environment"
+		"duplicate_of": "45075b",
+		"alt_art" : true
     },
     {
-        "boost_star": true,
+       
         "code": "503155",
-        "faction_code": "encounter",
-        "name": "Dark Designs",
         "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030155",
         "pack_code": "web_of_deceit_by_ripper3",
         "position": 155,
         "quantity": 2,
-        "set_code": "standard_iii_by_ripper3",
-        "set_position": 2,
-        "text": "<b>When Revealed</b>: Place 1 pursuit counter on Pursued by the Past. Then, if it has any counters on it, the villain schemes.\n[star] <b>Boost</b>: After this activation resolves, place 1 pursuit counter on Pursued by the Past,",
-        "type_code": "treachery"
+        "duplicate_of": "45076",
+		"alt_art" : true
     },
     {
-        "boost": 1,
-        "code": "503156",
-        "faction_code": "encounter",
-        "name": "Sinister Strike",
+        "code": "503156",       
         "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030156",
         "pack_code": "web_of_deceit_by_ripper3",
         "position": 156,
         "quantity": 2,
-        "set_code": "standard_iii_by_ripper3",
-        "set_position": 4,
-        "text": "<b>When Revealed (Alter-Ego)</b>: Place 1 pursuit counter on Pursued by the Past. Then, if it has any counters on it, this card gains surge.\n<b>When Revealed (Hero)</b>: Place 1 pursuit counter on Pursued by the Past. Then, if it has any counters on it, the villain attacks you.",
-        "type_code": "treachery"
+        "duplicate_of": "45077",
+		"alt_art" : true
     },
     {
-        "boost_star": true,
         "code": "503157",
-        "faction_code": "encounter",
-        "name": "Evil Alliance",
         "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030157",
         "pack_code": "web_of_deceit_by_ripper3",
         "position": 157,
         "quantity": 1,
-        "set_code": "standard_iii_by_ripper3",
-        "set_position": 6,
-        "text": "<b>When Revealed</b>: Each nemesis minion in play activates against you. If no minions activated this way, place 3 pursuit counters on Pursued by the Past.\n[star]<b> Boost</b>: After this activation resolves, place 1 pursuit counter on Pursued by the Past.",
-        "type_code": "treachery"
+        "duplicate_of": "45078",
+		"alt_art" : true
     },
     {
-        "boost_star": true,
-        "code": "503158",
-        "faction_code": "encounter",
-        "name": "Nowhere is Safe",
+   	    "code": "503158",
         "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030158",
         "pack_code": "web_of_deceit_by_ripper3",
         "position": 158,
         "quantity": 1,
-        "set_code": "standard_iii_by_ripper3",
-        "set_position": 7,
-        "text": "<b>When Revealed</b>: Place 1 pursuit counter on Pursued by the Past. Then, if it has any counters on it, discard an upgrade or support you control.\n[star]<b> Boost</b>: After this activation resolves, place 1 pursuit counter on Pursued by the Past.",
-        "type_code": "treachery"
+        "duplicate_of": "45079",
+		"alt_art" : true
     },
     {
-        "boost": 2,
         "code": "503159",
-        "faction_code": "encounter",
-        "name": "Drawing Nearer",
         "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84f030159",
         "pack_code": "web_of_deceit_by_ripper3",
         "position": 159,
         "quantity": 1,
-        "set_code": "standard_iii_by_ripper3",
-        "set_position": 8,
-        "text": "<b>Forced Response</b>: After your turn begins, discard the top card of your deck. Place 1 pursuit counter on Pursued by the Past for each printed resource icon on that card.\n<b>Alter-Ego Action</b>: Discard an identity- specific card from your hand \u2192 discard this card.\n\u201cThese dissenters breed conflict. They are your true enemies.\u201d \u2014Hydra News Media",
-        "type_code": "obligation"
-    },
+        "duplicate_of": "45080",
+		"alt_art" : true
+	},
     {
         "attack": 1,
         "boost": 1,
