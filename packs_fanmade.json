@@ -788,7 +788,7 @@
 	{
 		"cgdb_id": 2058,
 		"code": "firestar_by_bluehg",
-		"creator": "blueHG",
+		"creator": "BlueHG",
 		"date_release": "2026-01-31",
 		"name": "Firestar",
 		"octgn_id": "616b40dd-052c-455d-a2bd-fc8b4758a94a",
@@ -843,7 +843,7 @@
 	{
 		"cgdb_id": 2064,
 		"code": "celestial_messiah_by_cpstcorp",
-		"creator": "Cpstcorp",
+		"creator": "CptScorp",
 		"date_release": "2026-03-03",
 		"name": "Celestial Messiah",
 		"octgn_id": "7d62609a-0b1f-4144-96b4-97972c383346",
@@ -1035,9 +1035,9 @@
 	{
 		"cgdb_id": 5020,
 		"code": "nova_prime_by_justatuna",
-		"creator": "JustATuna",
+		"creator": "JustaTuna",
 		"date_release": "2026-01-31",
-		"name": "Nova Prime by JustATuna",
+		"name": "Nova Prime",
 		"octgn_id": "fdf03832-04ba-4026-a82a-e07b84fab7a6",
 		"pack_type_code": "hero_fanmade",
 		"position": 5020,
