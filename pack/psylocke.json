@@ -479,7 +479,7 @@
         "pack_code": "psylocke",
         "position": 30,
         "quantity": 3,
-        "resource_energy": 1,
+        "resource_mental": 1,
         "text": "Play only if your hero has the [[PSIONIC]] trait.\n<b>Hero Action</b> <i>(attack)</i>: Deal 4 damage to an enemy. This attack gains ranged.",
         "traits": "Attack. Psionic.",
         "type_code": "event"
