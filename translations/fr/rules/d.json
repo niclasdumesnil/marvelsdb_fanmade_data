@@ -1,1 +1,9 @@
-[]
+[
+	{
+		"id": "drain",
+		"term": "Drain",
+		"see_also": [
+			"keyword"
+		]
+	}
+]

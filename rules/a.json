@@ -40,11 +40,11 @@
 		]
 	},
 	{
-		"id": "accelration_icon",
+		"id": "acceleration_icon",
 		"term": "Acceleration icon",
 		"versions": [
 			{
-				"version": "",
+				"version": "1.7",
 				"content": "An acceleration icon represents additional forces that are advancing the villain’s nefarious plans. During step one of the villain phase, place X additional threat on the main scheme, where X is the number of acceleration icons in play.<br><ul><li>An acceleration icon can be removed from play by defeating the encounter card it is printed on.</li><li>Accleration icons are not considered acceleration tokens, and vice versa.</li></ul>"
 			}
 		],

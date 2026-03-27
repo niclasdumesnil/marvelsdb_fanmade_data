@@ -73,7 +73,7 @@
 		"scheme": 2,
 		"set_code": "scarlet_spider_by_ripper3_nemesis",
 		"set_position": 4,
-		"text": "<b>Forced Interrupt:</b> When a character other than your identity attacks Clone, discard the top card of your deck. If that card's printed cost is odd, resolve that attack against your identity instead.",
+		"text": "<b>Forced Interrupt:</b> When a character other than the engaged player's identity attacks Clone, discard the top card of your deck. If that card's printed cost is odd, resolve that attack against your identity instead.",
 		"traits": "Clone.",
 		"type_code": "minion"
 	},

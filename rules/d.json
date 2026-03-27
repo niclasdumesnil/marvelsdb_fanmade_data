@@ -28,5 +28,18 @@
 				"content": "When an enemy attacks, players may defend against the attack. A player can exhaust a hero or ally to defend. If a character defends against an attack, the damage from the attack is dealt to that character instead of the original target."
 			}
 		]
+	},
+	{
+		"id": "drain",
+		"term": "Drain",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<span class=\"lightblue\">Drain X is a keyword. When this keyword is triggered by a character, deal X damage to that character’s target. Then, if the target took that damage, heal X damage from the character who triggered drain.</span>"
+			}
+		],
+		"see_also": [
+			"keyword"
+		]
 	}
 ]

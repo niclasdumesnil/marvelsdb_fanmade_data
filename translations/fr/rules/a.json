@@ -28,7 +28,7 @@
 		]
 	},
 	{
-		"id": "accelration_icon",
+		"id": "acceleration_icon",
 		"term": "Acceleration icon",
 		"see_also": [
 			"icons",
@@ -45,22 +45,6 @@
 			"encounter_deck",
 			"main_scheme",
 			"villain"
-		]
-	},
-	{
-		"id": "action",
-		"term": "Action",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "<p>« <b>Action</b> » est un type de capacité déclenchée. Les joueurs sont autorisés à déclencher des capacités d'<b>action</b> lors de leur tour ou par une requête lors des tours des autres joueurs.</p><ul><li><span class=\"red\"><span class=\"red\">Les joueurs ne peuvent déclencher des capacités d'<b>action</b> que sur les cartes qu'ils contrôlent ou sur des cartes de rencontre.</span></span><ul><li><span class=\"red\"><span class=\"red\">Les joueurs ne peuvent pas déclencher de capacités d'<b>action</b> sur des obligations dans les zones de jeu des autres joueurs.</span></span></li></ul></li><li><span class=\"red\"><span class=\"red\">Chaque capacité « <b>Action</b> Forcée » doit être résolue avant que la phase du joueur puisse se terminer.</span></span><ul><li><span class=\"red\"><span class=\"red\">Une capacité « <b>Action</b> Forcée » peut être déclenchée à tout moment où une capacité d'<b>action</b> non forcée pourrait l'être.</span></span></li><li><span class=\"red\"><span class=\"red\">Si une telle capacité a un coût qui ne peut pas être payé ou requiert une ou plusieurs cibles valides et qu'il n'en existe aucune, la phase peut se terminer sans que cette capacité soit résolue.</span></span></li></ul></li></ul>"
-			}
-		],
-		"whats_new": [
-			{
-				"version": "1.7",
-				"diff": "<ul><li><span class=\"red\"><span class=\"red\">Les joueurs ne peuvent déclencher des capacités d'<b>action</b> que sur les cartes qu'ils contrôlent ou sur des cartes de rencontre.</span></span><ul><li><span class=\"red\"><span class=\"red\">Les joueurs ne peuvent pas déclencher de capacités d'<b>action</b> sur des obligations dans les zones de jeu des autres joueurs.</span></span></li></ul></li><li><span class=\"red\"><span class=\"red\">Chaque capacité « <b>Action</b> Forcée » doit être résolue avant que la phase du joueur puisse se terminer.</span></span><ul><li><span class=\"red\"><span class=\"red\">Une capacité « <b>Action</b> Forcée » peut être déclenchée à tout moment où une capacité d'<b>action</b> non forcée pourrait l'être.</span></span></li><li><span class=\"red\"><span class=\"red\">Si une telle capacité a un coût qui ne peut pas être payé ou requiert une ou plusieurs cibles valides et qu'il n'en existe aucune, la phase peut se terminer sans que cette capacité soit résolue.</span></span></li></ul></li></ul>"
-			}
 		]
 	},
 	{
