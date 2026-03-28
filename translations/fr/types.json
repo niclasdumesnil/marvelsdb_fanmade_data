@@ -1,23 +1,67 @@
 [
 	{
+		"code": "main_scheme",
+		"name": "Manigance principale"
+	},
+	{
+		"code": "side_scheme",
+		"name": "Manigance annexe"
+	},
+	{
+		"code": "resource",
+		"name": "Ressource"
+	},
+	{
+		"code": "minion",
+		"name": "Sbire"
+	},
+	{
+		"code": "event",
+		"name": "Événement"
+	},
+	{
+		"code": "upgrade",
+		"name": "Amélioration"
+	},
+	{
 		"code": "ally",
 		"name": "Allié"
+	},
+	{
+		"code": "support",
+		"name": "Soutien"
+	},
+	{
+		"code": "hero",
+		"name": "Héros"
 	},
 	{
 		"code": "alter_ego",
 		"name": "Alter ego"
 	},
 	{
+		"code": "villain",
+		"name": "Méchant"
+	},
+	{
 		"code": "attachment",
 		"name": "Attachement"
+	},
+	{
+		"code": "obligation",
+		"name": "Obligation"
+	},
+	{
+		"code": "treachery",
+		"name": "Traîtrise"
 	},
 	{
 		"code": "environment",
 		"name": "Environnement"
 	},
 	{
-		"code": "event",
-		"name": "Événement"
+		"code": "player_side_scheme",
+		"name": "Manigance Annexe Joueur"
 	},
 	{
 		"code": "evidence_means",
@@ -32,47 +76,15 @@
 		"name": "Evidence - Opportunity"
 	},
 	{
-		"code": "hero",
-		"name": "Héros"
+		"code": "leader",
+		"name": "Leader"
 	},
 	{
-		"code": "main_scheme",
-		"name": "Manigance principale"
+		"code": "challenge",
+		"name": "Challenge"
 	},
 	{
-		"code": "minion",
-		"name": "Sbire"
-	},
-	{
-		"code": "obligation",
-		"name": "Obligation"
-	},
-	{
-		"code": "player_side_scheme",
-		"name": "Manigance Annexe Joueur"
-	},
-	{
-		"code": "resource",
-		"name": "Ressource"
-	},
-	{
-		"code": "side_scheme",
-		"name": "Manigance annexe"
-	},
-	{
-		"code": "support",
-		"name": "Soutien"
-	},
-	{
-		"code": "treachery",
-		"name": "Traîtrise"
-	},
-	{
-		"code": "upgrade",
-		"name": "Amélioration"
-	},
-	{
-		"code": "villain",
-		"name": "Méchant"
+		"code": "player_minion",
+		"name": "Sbire Joueur"
 	}
 ]

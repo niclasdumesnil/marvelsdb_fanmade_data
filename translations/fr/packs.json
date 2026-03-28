@@ -1,187 +1,103 @@
 [
 	{
-		"code": "angel",
-		"name": "Angel"
-	},
-	{
-		"code": "ant",
-		"name": "Ant-Man"
-	},
-	{
-		"code": "aoa",
-		"name": "L'Ère d'Apocalypse"
-	},
-	{
-		"code": "aos",
-		"name": "Agents of S.H.I.E.L.D."
-	},
-	{
-		"code": "bkw",
-		"name": "Black Widow"
-	},
-	{
-		"code": "bp",
-		"name": "Black Panther"
-	},
-	{
-		"code": "cap",
-		"name": "Captain America"
-	},
-	{
 		"code": "core",
 		"name": "Boîte de base"
-	},
-	{
-		"code": "cyclops",
-		"name": "Cyclope"
-	},
-	{
-		"code": "deadpool",
-		"name": "Deadpool"
-	},
-	{
-		"code": "drax",
-		"name": "Drax"
-	},
-	{
-		"code": "drs",
-		"name": "Docteur Strange"
-	},
-	{
-		"code": "gam",
-		"name": "Gamora"
-	},
-	{
-		"code": "gambit",
-		"name": "Gambit"
-	},
-	{
-		"code": "gmw",
-		"name": "Convoitise Galactique"
 	},
 	{
 		"code": "gob",
 		"name": "Le Bouffon vert"
 	},
 	{
-		"code": "hlk",
-		"name": "Hulk"
-	},
-	{
-		"code": "hood",
-		"name": "The Hood"
-	},
-	{
-		"code": "iceman",
-		"name": "Iceberg"
-	},
-	{
-		"code": "ironheart",
-		"name": "Ironheart"
-	},
-	{
-		"code": "jubilee",
-		"name": "Jubilé"
-	},
-	{
-		"code": "magneto",
-		"name": "Magneto"
-	},
-	{
-		"code": "mojo",
-		"name": "MojoMania"
+		"code": "cap",
+		"name": "Captain America"
 	},
 	{
 		"code": "msm",
 		"name": "Miss Marvel"
 	},
 	{
-		"code": "mts",
-		"name": "L'Ombre du Titan Fou"
-	},
-	{
-		"code": "mut_gen",
-		"name": "La Genèse des Mutants"
-	},
-	{
-		"code": "ncrawler",
-		"name": "Diablo"
-	},
-	{
-		"code": "nebu",
-		"name": "Nebula"
-	},
-	{
-		"code": "next_evol",
-		"name": "NeXt Evolution"
-	},
-	{
-		"code": "nova",
-		"name": "Nova"
-	},
-	{
-		"code": "phoenix",
-		"name": "Phénix"
-	},
-	{
-		"code": "psylocke",
-		"name": "Psylocke"
-	},
-	{
-		"code": "qsv",
-		"name": "Vif-Argent"
-	},
-	{
-		"code": "rogue",
-		"name": "Malicia"
-	},
-	{
-		"code": "ron",
-		"name": "Set Modulaire Ronan"
-	},
-	{
-		"code": "scw",
-		"name": "La Sorcière Rouge"
-	},
-	{
-		"code": "silk",
-		"name": "Silk"
-	},
-	{
-		"code": "sm",
-		"name": "Sinistres Motivations"
-	},
-	{
-		"code": "spdr",
-		"name": "SP//dr"
-	},
-	{
-		"code": "spiderham",
-		"name": "Spider-Cochon"
-	},
-	{
-		"code": "stld",
-		"name": "Star-Lord"
-	},
-	{
-		"code": "storm",
-		"name": "Tornade"
+		"code": "twc",
+		"name": "Les Démolisseurs"
 	},
 	{
 		"code": "thor",
 		"name": "Thor"
 	},
 	{
-		"code": "toafk",
-		"name": "Kang le Conquérant"
+		"code": "bkw",
+		"name": "Black Widow"
+	},
+	{
+		"code": "drs",
+		"name": "Docteur Strange"
+	},
+	{
+		"code": "hlk",
+		"name": "Hulk"
+	},
+	{
+		"code": "ron",
+		"name": "Set Modulaire Ronan"
 	},
 	{
 		"code": "trors",
 		"name": "L'Avènement de Crâne Rouge"
 	},
 	{
-		"code": "twc",
-		"name": "Les Démolisseurs"
+		"code": "toafk",
+		"name": "Kang le Conquérant"
+	},
+	{
+		"code": "ant",
+		"name": "Ant-Man"
+	},
+	{
+		"code": "wsp",
+		"name": "La Guêpe"
+	},
+	{
+		"code": "qsv",
+		"name": "Vif-Argent"
+	},
+	{
+		"code": "scw",
+		"name": "La Sorcière Rouge"
+	},
+	{
+		"code": "gmw",
+		"name": "Convoitise Galactique"
+	},
+	{
+		"code": "stld",
+		"name": "Star-Lord"
+	},
+	{
+		"code": "gam",
+		"name": "Gamora"
+	},
+	{
+		"code": "drax",
+		"name": "Drax"
+	},
+	{
+		"code": "vnm",
+		"name": "Venom"
+	},
+	{
+		"code": "mts",
+		"name": "L'Ombre du Titan Fou"
+	},
+	{
+		"code": "nebu",
+		"name": "Nebula"
+	},
+	{
+		"code": "warm",
+		"name": "War Machine"
+	},
+	{
+		"code": "hood",
+		"name": "The Hood"
 	},
 	{
 		"code": "valk",
@@ -192,27 +108,227 @@
 		"name": "Vision"
 	},
 	{
-		"code": "vnm",
-		"name": "Venom"
+		"code": "sm",
+		"name": "Sinistres Motivations"
 	},
 	{
-		"code": "warm",
-		"name": "War Machine"
+		"code": "nova",
+		"name": "Nova"
+	},
+	{
+		"code": "ironheart",
+		"name": "Ironheart"
+	},
+	{
+		"code": "spiderham",
+		"name": "Spider-Cochon"
+	},
+	{
+		"code": "spdr",
+		"name": "SP//dr"
+	},
+	{
+		"code": "mut_gen",
+		"name": "La Genèse des Mutants"
+	},
+	{
+		"code": "cyclops",
+		"name": "Cyclope"
+	},
+	{
+		"code": "phoenix",
+		"name": "Phénix"
 	},
 	{
 		"code": "wolv",
 		"name": "Wolverine"
 	},
 	{
-		"code": "wsp",
-		"name": "La Guêpe"
+		"code": "storm",
+		"name": "Tornade"
+	},
+	{
+		"code": "gambit",
+		"name": "Gambit"
+	},
+	{
+		"code": "rogue",
+		"name": "Malicia"
+	},
+	{
+		"code": "mojo",
+		"name": "MojoMania"
+	},
+	{
+		"code": "next_evol",
+		"name": "NeXt Evolution"
+	},
+	{
+		"code": "psylocke",
+		"name": "Psylocke"
+	},
+	{
+		"code": "angel",
+		"name": "Angel"
 	},
 	{
 		"code": "x23",
 		"name": "X-23"
 	},
 	{
+		"code": "deadpool",
+		"name": "Deadpool"
+	},
+	{
+		"code": "aoa",
+		"name": "L'Ère d'Apocalypse"
+	},
+	{
+		"code": "iceman",
+		"name": "Iceberg"
+	},
+	{
+		"code": "jubilee",
+		"name": "Jubilé"
+	},
+	{
+		"code": "ncrawler",
+		"name": "Diablo"
+	},
+	{
+		"code": "magneto",
+		"name": "Magneto"
+	},
+	{
+		"code": "aos",
+		"name": "Agents du S.H.I.E.L.D."
+	},
+	{
+		"code": "bp",
+		"name": "Black Panther"
+	},
+	{
+		"code": "silk",
+		"name": "Silk"
+	},
+	{
+		"code": "cw",
+		"name": "Civil War"
+	},
+	{
+		"code": "wonder_man",
+		"name": "Wonder Man"
+	},
+	{
+		"code": "hercules",
+		"name": "Hercule"
+	},
+	{
+		"code": "rom_by_alias_&_merlin",
+		"name": "Rom"
+	},
+	{
 		"code": "mystique_by_merlin",
 		"name": "Mystique"
+	},
+	{
+		"code": "destiny_by_merlin",
+		"name": "Destiny"
+	},
+	{
+		"code": "iron_man_noir_by_merlin",
+		"name": "Iron Man Noir"
+	},
+	{
+		"code": "joe_fixit_by_merlin",
+		"name": "Joe Fixit"
+	},
+	{
+		"code": "red_hulk_by_merlin",
+		"name": "Red Hulk"
+	},
+	{
+		"code": "mk_by_hax",
+		"name": "Moon Knight"
+	},
+	{
+		"code": "mantis_by_bluehg",
+		"name": "Mantis"
+	},
+	{
+		"code": "rescue_by_rainy",
+		"name": "Rescue"
+	},
+	{
+		"code": "spider-man_by_rainy",
+		"name": "Spider-Man 2099"
+	},
+	{
+		"code": "polaris_by_jackhkp",
+		"name": "Polaris"
+	},
+	{
+		"code": "wasp_by_jackhkp",
+		"name": "La Guêpe"
+	},
+	{
+		"code": "heimdall_by_jackhkp",
+		"name": "Heimdall"
+	},
+	{
+		"code": "yondu_by_hax",
+		"name": "Yondu"
+	},
+	{
+		"code": "manifold_by_bluehg",
+		"name": "Manifold"
+	},
+	{
+		"code": "stature_by_captain_corp_&_hax",
+		"name": "Stature"
+	},
+	{
+		"code": "angela_by_odysseus",
+		"name": "Angela"
+	},
+	{
+		"code": "namor_by_odysseus",
+		"name": "Namor"
+	},
+	{
+		"code": "red_guardian_by_kajislav",
+		"name": "Red Guardian"
+	},
+	{
+		"code": "beast_by_hainz3y2",
+		"name": "Le Fauve"
+	},
+	{
+		"code": "havok_by_rainy",
+		"name": "Havok"
+	},
+	{
+		"code": "throg_by_rainy",
+		"name": "Throg"
+	},
+	{
+		"code": "hercules_by_rainy",
+		"name": "Hercule"
+	},
+	{
+		"code": "luke_cage_by_rainy",
+		"name": "Luke Cage"
+	},
+	{
+		"code": "Karnak_by_1-2-punchboard",
+		"name": "Karnak"
+	},
+	{
+		"code": "Gwenpool_by_ekAugust",
+		"name": "Gwenpool"
+	},
+	{
+		"code": "shang_chi_by_hax",
+		"name": "Shang-Chi"
 	}
 ]

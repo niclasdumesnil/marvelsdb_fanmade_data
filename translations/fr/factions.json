@@ -4,12 +4,8 @@
 		"name": "Agressivité"
 	},
 	{
-		"code": "basic",
-		"name": "Basique"
-	},
-	{
-		"code": "campaign",
-		"name": "Campagne"
+		"code": "justice",
+		"name": "Justice"
 	},
 	{
 		"code": "encounter",
@@ -20,23 +16,31 @@
 		"name": "Héros"
 	},
 	{
-		"code": "justice",
-		"name": "Justice"
+		"code": "basic",
+		"name": "Basique"
 	},
 	{
 		"code": "leadership",
 		"name": "Commandement"
 	},
 	{
-		"code": "pool",
-		"name": "'Pool"
-	},
-	{
 		"code": "protection",
 		"name": "Protection"
 	},
 	{
+		"code": "campaign",
+		"name": "Campagne"
+	},
+	{
+		"code": "pool",
+		"name": "'Pool"
+	},
+	{
 		"code": "determination",
-		"name": "determination"
+		"name": "Détermination"
+	},
+	{
+		"code": "game_module",
+		"name": "Module de jeu"
 	}
 ]
