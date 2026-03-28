@@ -1,0 +1,163 @@
+[
+	{
+		"code": "59001a",
+		"name": "Hercule",
+		"text": "<i>Expiation</i> - <b>Réponse </b>: après qu'une carte Travail a été ajoutée à la pile de victoire, mettez en jeu la carte du dessus du deck Don. Redressez Hercule. Vous pouvez passer sous forme d'alter ego. (Limite d'une fois par phase.)",
+		"traits": "Avenger. Olympe."
+	},
+	{
+		"code": "59001b",
+		"name": "Hercule",
+		"text": "Hercule commence la partie avec un deck [[Travail ]]et un deck [[Don]]. <i>(Voir feuillet.)</i>\n<i>Nouveaux Travaux d'Hercule</i> - <b>Action </b>: s'il n'y a pas de carte Travail en jeu, révélez la carte du dessus du deck [[Travail]].",
+		"traits": "Olympe."
+	},
+	{
+		"code": "59002",
+		"name": "Vaincre l'Hydre",
+		"text": "Victoire 0.\nLe sbire attaché gagne +6 points de vie et le trait Élite. Le sbire attaché ne peut pas subir de dégâts sauf par les attaques d'Hercule.\n<b>Une fois révélée</b> : trouvez un sbire non-Élite ayant au moins 6 points de vie imprimés. Révélez-le, soignez-le de tous ses dégâts et attachez-lui cette carte.",
+		"traits": "Travail."
+	},
+	{
+		"code": "59003",
+		"name": "Incarner le Pathos",
+		"text": "Victoire 0.\nLa manigance annexe attachée gagne Assaut. Les menaces sur la manigance attachée ne peuvent pas être retirées sauf par les contres d'Hercule.\n<b>Une fois révélée</b> : trouvez une manigance annexe Rencontre qui n'est pas en jeu et révélez-la, en considérant que chaque joueur dessus est un 1 et attachez-lui cette carte. Placez 6 menaces supplémentaires dessus.",
+		"traits": "Travail."
+	},
+	{
+		"code": "59004",
+		"name": "Protéger l'Humanité",
+		"text": "Utilisations (3 jetons Travail). Victoire 0.\n<b>Une fois révélée</b> : trouvez Amadeus Cho et mettez-le en jeu.\n<b>Interruption forcée</b> : quand le méchant est censé attaquer Hercule, choisissez 1 de vos alliés. Le méchant attaque cet allié à la place. Après la résolution de cette attaque, si Hercule a défendu, retirez 1 jeton Travail de cette carte.",
+		"traits": "Travail."
+	},
+	{
+		"code": "59005",
+		"name": "Peau du Lion de Némée",
+		"text": "Permanent.\nHercule gagne +2 points de vie et Solide.\n<b>Réponse</b> : après l'entrée en jeu de cette carte, piochez 4 cartes.",
+		"traits": "Artefact. Don."
+	},
+	{
+		"code": "59006",
+		"name": "Bouclier de Persée",
+		"text": "Permanent.\nHercule gagne +1 point de vie et Riposte 1.\n<b>Réponse</b> : après l'entrée en jeu de cette carte, piochez 4 cartes.",
+		"traits": "Artefact. Don."
+	},
+	{
+		"code": "59007",
+		"name": "Epée de  Pélée",
+		"text": "Permanent. Restreint.\nHercule gagne +1 point de vie et ses attaques de base gagnent Perçant.\n<b>Réponse</b> : après l'entrée en jeu de cette carte, piochez 4 cartes.",
+		"traits": "Artefact. Don. Arme."
+	},
+	{
+		"code": "59008",
+		"name": "Amadeus Cho",
+		"text": "<b>Interruption forcée</b> : quand un sbire est censé vous attaquer, il attaque Amades Cho à la place.\n<b>Action</b> : inclinez Amadeus Cho → piochez 1 carte.",
+		"traits": "Génie."
+	},
+	{
+		"code": "59009",
+		"name": "Le Don du Comabt",
+		"text": "Réduisez de 1 le coût pour jouer cette carte pour chaque carte Don que vous contrôlez.\n<b>Action de héros</b> : (<i>attaque</i>) : infligez 5 dégâts à un ennemi.",
+		"flavor": "« Comme l'a dit Hercule en d'innombrables occasions : en garde ! » - Hercule",
+		"traits": "Attaque."
+	},
+	{
+		"code": "59010",
+		"text": "<b>Action de héros</b> : redressez Hercule. Si vous contrôlez au moins :\n   • ﻿1 carte Don, redressez une amélioration spécifique à votre identité que vous contrôlez.\n   • 2 cartes Don, gagnez une carte d'état Tenace.\n   • 3 cartes Don, piochez 1 carte."
+	},
+	{
+		"code": "59011",
+		"name": "Sagesse d'Athena",
+		"text": "Réduisez de 1 le coût pour jouer cette carte pour chaque carte Don que vous contrôlez.\nAction de héros (contre) : retirez 4 menaces d'une manigance.",
+		"flavor": "« Hey punkette ! Est-ce toi, ô, sœur chérie ? » - Hercule",
+		"traits": "Contre."
+	},
+	{
+		"code": "59012",
+		"name": "Olympe",
+		"text": "<b>Ressource</b> : inclinez l'Olympe → générez une ressource libre pour chaque carte Don que vous contrôlez.",
+		"flavor": "Bien que l'influence de l'Olympe ait décliné depuis la période hellénistique, ses fêtes sont toujours grandioses.",
+		"traits": "Lieu. Olympe."
+	},
+	{
+		"code": "59013",
+		"name": "Gantelets d'Hercules",
+		"text": "<b>Interruption de héros</b> : quand Hercule défend contre une attaque, inclinez les Gantelets d'Hercule → Hercule gagne Riposte 1 pour cette attaque pour chaque carte Don que vous contrôlez.",
+		"traits": "Armure. Olympe."
+	},
+	{
+		"code": "59014",
+		"name": "Masse Dorée",
+		"text": "Restreint.\n<b>Interruption de héros</b> : quand Hercule effectue une attaque de base, inclinez la Masse Dorée → Hercule gagne +1 ATQ pour cette attaque pour chaque carte Don que vous contrôlez. Cette attaque gagne Déferlement.",
+		"traits": "Olympe. Arme."
+	},
+	{
+		"code": "59015",
+		"name": "Casque d'Herc",
+		"text": "Interruption de héros (défense) : quand le méchant attaque, inclinez le Casque d'Herc → diminuez de 1 la quantité de dégâts infligée par cette attaque.",
+		"flavor": "« Ménage tes inquiétudes, mortel, car le puissant Hercule ne périra pas en ce jour » - Hercule",
+		"traits": "Armure. Olympe."
+	},
+	{
+		"code": "59016",
+		"name": "Lion de l'Olympe",
+		"text": "Temporaire. (Défaussez cette carte à la fin du round.)\nVotre héros gagne +1 CTR, +1 ATQ et +1 DEF.",
+		"flavor": "La férocité d'Hercule n'a d'égale que celle des puissants lions de la Grèce antique.",
+		"traits": "Olympe."
+	},
+	{
+		"code": "59017",
+		"text": "<b>Réponse de héros</b> : après qu'Hercule a attaqué et vaincu un ennemi, inclinez cette amélioration → soignez 1 dégât d'Hercule pour chaque point de dégât en excès infligé à cet ennemi par cette attaque.",
+		"traits": "Olympe. Titre."
+	},
+	{
+		"code": "59018",
+		"name": "Deathcry",
+		"subname": "Sharra Neramani",
+		"text": "[star] <b>Interruption de héros</b> : quand Deathcry effectue une attaque de base, infligez 1 dégât à votre héros → Deathcry subit -1 dégât consécutif pour cette attaque.",
+		"traits": "Avenger."
+	},
+	{
+		"code": "59019",
+		"name": "Namora",
+		"subname": "Aquaria Neptunia",
+		"text": "[star ]Namora gagne +1 point de vie pour chaque autre allié que vous contrôlez.",
+		"flavor": "« ﻿﻿Il paraît qu'elle peut battre Captain Marvel au bras de fer. » - L'Homme-Gorille",
+		"traits": "Agent d'Atlas. Atlantide."
+	},
+	{
+		"code": "59020",
+		"name": "Thor",
+		"subname": "Odinson",
+		"text": "[star] <b>Réponse forcée</b> : après que Thor a effectué un contre de base, défaussez des cartes du dessus du deck Rencontre jusqu'à ce que vous défaussiez un sbire. Mettez en jeu ce sbire engagé avec vous",
+		"traits": "Asgard. Avenger."
+	},
+	{
+		"code": "59023",
+		"name": "Campagne de Recrutement",
+		"text": "Sous forme d'alter ego uniquement.\n<b>Action</b> : défaussez Campagne de Recrutement et choisissez un joueur → réduisez à 0 le coût en ressources du prochain allié que ce joueur joue à cette phase."
+	},
+	{
+		"code": "59024",
+		"name": "\"Vengez-Moi !\"",
+		"text": "Jouez cette carte uniquement si votre identité a le trait Avenger.\nAttachez cette carte à un allié. 1 max par allié.\n<b>Interruption</b> : quand l'allié attaché est vaincu, piochez 2 cartes",
+		"traits": "Avenger."
+	},
+	{
+		"code": "59025",
+		"name": "Gilgamesh",
+		"text": "En tant que coût supplémentaire pour jouer cette carte, si vous n'avez pas le trait [[Éternel]], désorientez votre identité.",
+		"flavor": "Après avoir vécu un million d'années, même Gilgamesh a un jour oublié qui il était.",
+		"traits": "Eternel."
+	},
+	{
+		"code": "59026",
+		"name": "Rivalité Antique",
+		"text": "En Equipe (Hercule et Thor). 1 max par deck.\n<b>Action de héros</b> : cherchez une amélioration spécifique à votre identité dans votre pile de défausse et ajoutez-la à votre main. Redressez Hercule et Thor.",
+		"traits": "Asgard. Olympe."
+	},
+	{
+		"code": "59028",
+		"name": "Evaluer la Menace",
+		"text": "Victoire 0.\nJouez cette carte uniquement si votre identité a le trait [[Avenger ]]ou [[S.H.I.E.L.D.]].\n<b>Une fois déjouée</b> : chaque joueur peut chercher une carte [[Avenger ]]ou [[S.H.I.E.L.D.]] dans son deck ou sa pile de défausse et l'ajouter à sa main. (<i>Mélangez</i>.) Réduisez de 2 le coût pour jouer chacune de ces cartes jusqu'à la fin de la phase."
+	}
+]

@@ -1,7 +1,7 @@
 [
 	{
 		"code": "44101",
-		"name": "Cable ",
+		"name": "Cable",
 		"subname": "Nathaniel Summers",
 		"text": "Reckless (<i>After this character enters play, place 1 threat on each scheme.</i>)\n[star] <b>Interrupt</b>: When Cable attacks, discard any number of cards from your hand  for each card discarded this way, Cable gets +1 ATK for this attack.",
 		"traits": "X-Force. X-Men."
@@ -23,7 +23,7 @@
 	{
 		"code": "44104",
 		"name": "Wolverine",
-		"subname": " Logan",
+		"subname": "Logan",
 		"text": "[star]<b>Forced Response</b>: After Wolverine thwarts, heal 2 damage from him.",
 		"traits": "Avenger. X-Men."
 	},
@@ -139,7 +139,7 @@
 	{
 		"code": "44123",
 		"name": "Dagger",
-		"subname": " Tandy Bowen",
+		"subname": "Tandy Bowen",
 		"text": "Fragile. (<i>Attacks against this character gain overkill.</i>)\nWhile Dagger is attached to the Cloak ally, reduce the cost to play her by 2.",
 		"traits": "Avenger. X-Men."
 	},
@@ -221,13 +221,13 @@
 	{
 		"code": "44136",
 		"name": "Quasar",
-		"subname": " Avril Kincaid",
+		"subname": "Avril Kincaid",
 		"text": "<b>Response</b>: After Quasar enters play, deal 2 damage to each enemy engaged with you.",
 		"traits": "Aerial. Guardian"
 	},
 	{
 		"code": "44137",
-		"name": "Star-Lord ",
+		"name": "Star-Lord",
 		"subname": "Kitty Pryde",
 		"text": "[star] <b>Response</b>: After Star-Lord thwarts, deal 1 damage to an enemy.",
 		"traits": "Guardian. X-Men."
@@ -264,8 +264,8 @@
 	},
 	{
 		"code": "44143",
-		"name": "The Thing ",
-		"subname": " Ben Grimm",
+		"name": "The Thing",
+		"subname": "Ben Grimm",
 		"text": "Toughness.\n<b>Forced Interrupt</b>: When your hero would take any amount of damage, deal that damage to The Thing instead.",
 		"traits": "Fantastic Four. Guardian."
 	},
@@ -353,8 +353,7 @@
 	{
 		"code": "44157",
 		"name": "Twice the Determination",
-		"text": "Max 1 per deck.\n<b>Hero Response</b>: After you spend this card, return it to your hand. (Limit once per round.)",
-		"traits": ""
+		"text": "Max 1 per deck.\n<b>Hero Response</b>: After you spend this card, return it to your hand. (Limit once per round.)"
 	},
 	{
 		"code": "44158",
@@ -383,8 +382,7 @@
 	{
 		"code": "44162",
 		"name": "“That All You Got?”",
-		"text": "Max 1 per round.\n<b>Hero Action</b>: Search the encounter deck for an attachment. Reveal that attachment → draw 3 cards. (Shuffle the encounter deck.)",
-		"traits": ""
+		"text": "Max 1 per round.\n<b>Hero Action</b>: Search the encounter deck for an attachment. Reveal that attachment → draw 3 cards. (Shuffle the encounter deck.)"
 	},
 	{
 		"code": "44163",
@@ -432,8 +430,7 @@
 	{
 		"code": "44170",
 		"name": "Munitions Cache",
-		"text": "Enters play with 2 ammo counters and 2 charge counters.\nMax 1 per player.\n<b>Action</b>: Exhaust Munitions Cache → move 1 ammo counter or 1 charge counter from this card to another upgrade you control.",
-		"traits": ""
+		"text": "Enters play with 2 ammo counters and 2 charge counters.\nMax 1 per player.\n<b>Action</b>: Exhaust Munitions Cache → move 1 ammo counter or 1 charge counter from this card to another upgrade you control."
 	},
 	{
 		"code": "44171",
@@ -449,8 +446,8 @@
 	},
 	{
 		"code": "44173",
-		"name": "Starling ",
-		"subname": " Tiana Toomes",
+		"name": "Starling",
+		"subname": "Tiana Toomes",
 		"text": "Fragile  (<i>Attacks against this character gain overkill.</i>).\n<b>Hero Response</b>: After Starling takes 5 or more damage from an attack, your hero gains +1 ATK until the end of the game.",
 		"traits": "Aerial. Champion."
 	},
@@ -487,8 +484,7 @@
 	{
 		"code": "44179",
 		"name": "Borrowed Gear",
-		"text": "Attach to an ally. Max 1 per deck.\nAttached ally gets +1 hit point for each upgrade attached to them (to a maximum of +4 hit points).\n<b>Forced Response</b>: After Borrowed Gear enters play, attach an ally from your discard pile facedown here → attached ally gains that facedown ally's [[TRAITS]].",
-		"traits": ""
+		"text": "Attach to an ally. Max 1 per deck.\nAttached ally gets +1 hit point for each upgrade attached to them (to a maximum of +4 hit points).\n<b>Forced Response</b>: After Borrowed Gear enters play, attach an ally from your discard pile facedown here → attached ally gains that facedown ally's [[TRAITS]]."
 	},
 	{
 		"code": "44180",
@@ -560,8 +556,7 @@
 	{
 		"code": "44191",
 		"name": "Determined Energy",
-		"text": "Max 2 per deck.\n<b>Hero Interrupt</b>: When you spend this card to play a [[TACTIC]] card, give an ally and minion each a tough status card.",
-		"traits": ""
+		"text": "Max 2 per deck.\n<b>Hero Interrupt</b>: When you spend this card to play a [[TACTIC]] card, give an ally and minion each a tough status card."
 	},
 	{
 		"code": "44192",
@@ -591,8 +586,7 @@
 	{
 		"code": "44196",
 		"name": "Purple Peril",
-		"text": "Victory 0.\nOnly the owner of this card can remove threat from here.\n<b>Hero Response</b>: After this card is placed in the victory display, discard X cards from the top of your deck, and add each Determination card discarded this way to your hand (to a maximum of 5), where X is the number of cards in the victory display.",
-		"traits": ""
+		"text": "Victory 0.\nOnly the owner of this card can remove threat from here.\n<b>Hero Response</b>: After this card is placed in the victory display, discard X cards from the top of your deck, and add each Determination card discarded this way to your hand (to a maximum of 5), where X is the number of cards in the victory display."
 	},
 	{
 		"code": "44197",
@@ -631,8 +625,7 @@
 	{
 		"code": "44202",
 		"name": "A Dangerous Game",
-		"text": "You cannot move more than 4 threat to this card per turn.\n<b>Hero Action</b>: Take up to 4 damage → move that amount of threat from another scheme to here.\n<b>Forced Response</b>: After threat is placed here, if there is at least 16[per_hero] threat here, deal 16[per_hero]damage to the villain and remove this card from the game.",
-		"traits": ""
+		"text": "You cannot move more than 4 threat to this card per turn.\n<b>Hero Action</b>: Take up to 4 damage → move that amount of threat from another scheme to here.\n<b>Forced Response</b>: After threat is placed here, if there is at least 16[per_hero] threat here, deal 16[per_hero]damage to the villain and remove this card from the game."
 	},
 	{
 		"code": "44203",
@@ -649,7 +642,7 @@
 	{
 		"code": "44205",
 		"name": "Venompool",
-		"subname": " Wade Wilson",
+		"subname": "Wade Wilson",
 		"text": "Alias (<i>If you control a card with a matching subtitle, discard it and play this card for free.</i>).\nVenompool gets +1 ATK for each facedown encounter card in front of you (to a maximum of +3 ATK).\n<b>Forced Response</b>: After Venompool enters play, choose to either place 2 threat on the main scheme or deal yourself a facedown encounter card.",
 		"traits": "Symbiote. X-Force."
 	},
@@ -663,9 +656,8 @@
 	{
 		"code": "44207",
 		"name": "Zenpool",
-		"subname": " Wade Wilson",
-		"text": "Alias (<i>If you control a card with a matching subtitle, discard it and play this card for free.</i>).\n<b>Interrupt</b>:When Zenpool enters play, spend any number of resources. Discard 1 facedown encounter card in front of you for each resource spent this way.",
-		"traits": ""
+		"subname": "Wade Wilson",
+		"text": "Alias (<i>If you control a card with a matching subtitle, discard it and play this card for free.</i>).\n<b>Interrupt</b>:When Zenpool enters play, spend any number of resources. Discard 1 facedown encounter card in front of you for each resource spent this way."
 	},
 	{
 		"code": "44208",

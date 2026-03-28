@@ -1,0 +1,69 @@
+[
+	{
+		"code": "59035",
+		"name": "Implorer Athena",
+		"text": "<b><i>Donnez cette carte au jouer d'Hercule.</i></b>\nQuand vous comptez les cartes [[Don ]] que vous contrôlez, considérez que vous n'en contrôlez aucune.\n<b>Action d'alter ego</b> : inclinez Hercule ou dépensez les ressources suivantes : [mental ][mental ]→ retirez cette obligation de la partie."
+	},
+	{
+		"code": "59036",
+		"name": "Ares",
+		"text": "Riposte 1.\n[star ] <b>Réponse forcée</b> : après qu'Arès a manigancé, attribuez-vous 1 carte Rencontre face cachée.",
+		"traits": "Elite. Olympe."
+	},
+	{
+		"code": "59037",
+		"name": "Hydre de Lerne",
+		"text": "<b>Réponse forcée</b> : après qu'un personnage que vous contrôlez a attaqué et blessé l'Hydre de Lerne, choisissez :\n    ﻿﻿\n• Dépensez une ressource [physique].  \n• ﻿﻿L'Hydre de Lerne se soigne de 2 dégâts.",
+		"traits": "Créature. Hydra."
+	},
+	{
+		"code": "59038",
+		"name": "Querelle Olympienne",
+		"text": "<b>Une fois révélée</b> : placez 1 menace supplémentaire sur cette manigance annexe pour chaque carte Olympe en jeu.",
+		"flavor": "Par deux fois, Hercule a déjoué des tentatives de renverser l'Olympe orchestrées par son Oncle Pluton et son demi-frère Arés."
+	},
+	{
+		"code": "59039",
+		"name": "Hache d'Ares",
+		"text": "Attachez cette carte à Arès. Sinon, attachez-la au méchant.\n[star ] <b>Réponse forcée</b> : après que l'ennemi attaché a attaqué, si aucun personnage ami n'a subi de dégâts lors de cette attaque, défaussez cet attachement.",
+		"flavor": "Du Kukri jusqu'aux fusils sniper de Shi'ar, Arès emploie toutes les armes à sa disposition avec une égale cruauté.",
+		"traits": "Arme."
+	},
+	{
+		"code": "59040",
+		"name": "Dieu de la Guerre",
+		"text": "<b>Une fois révélée</b> : chaque sbire attaque le joueur avec qui il est engagé (même si ce joueur est sous forme d'alter ego). Si aucun sbire ne s'active par cet effet, défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire soit défaussé et révélez-le."
+	},
+	{
+		"code": "59041",
+		"name": "Tous Contre Tous",
+		"text": "Entrave 2[per_hero].\n<b>Réponse forcée</b> : après qu'un personnage a été vaincu, placez 2 menaces sur cette manigance.\n<b>Une fois déjouée</b> : mettez de côté Tous Contre Tous."
+	},
+	{
+		"code": "59042",
+		"name": "Hecate",
+		"text": "<b>Une fois révélée/vaincue</b> : trouvez la manigance annexe Tous Contre Tous et révélez-la.\n[star] ﻿﻿<b>Réponse forcée</b> : après l'activation d'Hécate, placez 2 menaces sur la manigance annexe Tous Contre Tous.",
+		"flavor": "« ﻿Ceux qui t'ont un jour adoré, contre toi se sont rebelles. »",
+		"traits": "Olympe."
+	},
+	{
+		"code": "59043",
+		"name": "Kyknos",
+		"text": "Riposte 1. Ténacité. Victoire 0.\n[star ] ﻿﻿<b>Réponse forcée</b> : après l'activation de Kyknos, placez 2 menaces sur la manigance annexe Tous Contre Tous. Sinon, placez 1 menace sur la manigance principale.",
+		"flavor": "« ﻿La peine de mort sera exécutée par Kyknos, le fils d'Arès. »",
+		"traits": "Brute. Olympe."
+	},
+	{
+		"code": "59044",
+		"name": "Policier Envouté",
+		"text": "Riposte 1.\n[star] Les attaques du Policier Envoûté gagnent Perçant et À Distance.",
+		"flavor": "« Hey, rangez-vous sur le bas-côté ! »",
+		"traits": "Aérien. Dragon. Envouté."
+	},
+	{
+		"code": "59045",
+		"name": "Foule en Mouvement",
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : trouvez la manigance annexe Tous Contre Tous et révélez-la.",
+		"flavor": "Personne n'est en sécurité lorsque s'applique la règle du Tous Contre Tous."
+	}
+]
