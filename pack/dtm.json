@@ -100,7 +100,7 @@
 		"position": 5,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "<b>Hero Action</b> (<i>attack</i>): Deal up to 5 damage to your hero and choose up to 3 enemies  → deal X damage to each chosen enemy, where X is the amount of damage your hero took this way.",
+		"text": "<b>Hero Action</b>: (<i>attack</i>): Deal up to 5 damage to your hero and choose up to 3 enemies  → deal X damage to each chosen enemy, where X is the amount of damage your hero took this way.",
 		"traits": "Attack.",
 		"type_code": "event"
 	},
@@ -116,7 +116,7 @@
 		"position": 6,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "<b>Hero Interrupt</b> (<i>defense</i>): When a friendly character would take any amount of damage from an attack, prevent up to 3 of that damage. Then, if you took damage from that attack, ready your hero.",
+		"text": "<b>Hero Interrupt</b>: (<i>defense</i>): When a friendly character would take any amount of damage from an attack, prevent up to 3 of that damage. Then, if you took damage from that attack, ready your hero.",
 		"traits": "Defense.",
 		"type_code": "event"
 	},
@@ -146,7 +146,7 @@
 		"position": 8,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "Uses (3 tactic counters). \n<b>Action</b> :: Exhaust Merc Squad and remove 1 tactic counter from it → deal 1 damage to an enemy and remove 1 threat from the main scheme.",
+		"text": "Uses (3 tactic counters). \n<b>Action</b>: Exhaust Merc Squad and remove 1 tactic counter from it → deal 1 damage to an enemy and remove 1 threat from the main scheme.",
 		"traits": "Mercs For Money.",
 		"type_code": "support"
 	},
@@ -485,7 +485,7 @@
 		"position": 27,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "<b>Hero Action</b> (<I>attack</i>): Deal 2 damage to an enemy (4 damage instead if that enemy is stunned or confused). This attack gains piercing.",
+		"text": "<b>Hero Action</b>: (<I>attack</i>): Deal 2 damage to an enemy (4 damage instead if that enemy is stunned or confused). This attack gains piercing.",
 		"traits": "Attack.",
 		"type_code": "event"
 	},
@@ -501,7 +501,7 @@
 		"position": 28,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "<b>Hero Action</b> (<i>attack/thwart</i>): Take up to 3 damage →  deal X damage to enemies divided as you choose, then remove X threat from schemes in play divided as you choose, where X is the amount of damage you took this way.",
+		"text": "<b>Hero Action</b>: (<i>attack/thwart</i>): Take up to 3 damage →  deal X damage to enemies divided as you choose, then remove X threat from schemes in play divided as you choose, where X is the amount of damage you took this way.",
 		"traits": "Attack. Thwart.",
 		"type_code": "event"
 	},
@@ -517,7 +517,7 @@
 		"position": 29,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "<b>Hero Action</b> (<i>thwart</i>): Remove 2 threat from a scheme. Then, you may take up to 5 damage and remove 1 threat from a scheme for each point of damage you took this way divided among schemes as you choose.",
+		"text": "<b>Hero Action</b>: (<i>thwart</i>): Remove 2 threat from a scheme. Then, you may take up to 5 damage and remove 1 threat from a scheme for each point of damage you took this way divided among schemes as you choose.",
 		"traits": "Thwart.",
 		"type_code": "event"
 	},
@@ -533,7 +533,7 @@
 		"position": 30,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "Uses (3 adrenaline counters).\n<b>Action</b> :: Exhaust Adrenaline Shot and remove 1 adrenaline counter from here →  choose an ally. That ally’s next attack deals 2 additional damage and they take 1 additional consequential damage.",
+		"text": "Uses (3 adrenaline counters).\n<b>Action</b>: Exhaust Adrenaline Shot and remove 1 adrenaline counter from here →  choose an ally. That ally’s next attack deals 2 additional damage and they take 1 additional consequential damage.",
 		"traits": "Item.",
 		"type_code": "upgrade"
 	},
@@ -565,7 +565,7 @@
 		"position": 32,
 		"quantity": 3,
 		"resource_mental": 1,
-		"text": "Play only if your hero’s remaining hit points are less than half your hero’s starting hit points.\n<b>Hero Action</b> (<i>attack</i>): Take 1 damage and deal 6 damage to the villain. Then, change your form.",
+		"text": "Play only if your hero’s remaining hit points are less than half your hero’s starting hit points.\n<b>Hero Action</b>: (<i>attack</i>): Take 1 damage and deal 6 damage to the villain. Then, change your form.",
 		"traits": "Attack.",
 		"type_code": "event"
 	},
@@ -581,7 +581,7 @@
 		"position": 33,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "Play only if your identity has the trait [[avenger]].\n<b>Hero Action</b> (<i>attack</i>): Heal 1 damage from your identity. Heal X additional damage from your identity where X is equal to the villain’s stage number.",
+		"text": "Play only if your identity has the trait [[avenger]].\n<b>Hero Action</b>: (<i>attack</i>): Heal 1 damage from your identity. Heal X additional damage from your identity where X is equal to the villain’s stage number.",
 		"traits": "Tactic.",
 		"type_code": "event"
 	},
@@ -680,7 +680,7 @@
 		"position": 38,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "<b>Hero Action</b> (<i>attack</i>): Discard an upgrade you control with counters on it, then deal X damage to the villain and each minion engaged with you, where X is the number of counters discarded this way.",
+		"text": "<b>Hero Action</b>: (<i>attack</i>): Discard an upgrade you control with counters on it, then deal X damage to the villain and each minion engaged with you, where X is the number of counters discarded this way.",
 		"traits": "Attack.",
 		"type_code": "event"
 	},
@@ -696,7 +696,7 @@
 		"position": 39,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "<b>Hero Action</b> (<i>thwart</i>): Remove 2 threat from a scheme. If this is the first card you have played this round, you may take 1 damage to return this card to your hand.",
+		"text": "<b>Hero Action</b>: (<i>thwart</i>): Remove 2 threat from a scheme. If this is the first card you have played this round, you may take 1 damage to return this card to your hand.",
 		"traits": "Thwart.",
 		"type_code": "event"
 	},
@@ -712,7 +712,7 @@
 		"position": 40,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "<b>Hero Action</b> (<i>attack</i>): Deal 2 damage to an enemy. If this is the first card you have played this round, you may take 1 damage to return this card to your hand.",
+		"text": "<b>Hero Action</b>: (<i>attack</i>): Deal 2 damage to an enemy. If this is the first card you have played this round, you may take 1 damage to return this card to your hand.",
 		"traits": "Attack.",
 		"type_code": "event"
 	},
@@ -728,7 +728,7 @@
 		"position": 41,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "Restricted. This card cannot be in play while you control an ally.\nYour basic attacks gain overkill. <b>Réponse</b> : After you attack a minion and deal 2 or more excess damage with overkill, stun the villain.",
+		"text": "Restricted. This card cannot be in play while you control an ally.\nYour basic attacks gain overkill. <b>Response</b>: After you attack a minion and deal 2 or more excess damage with overkill, stun the villain.",
 		"traits": "Tech. Weapon.",
 		"type_code": "upgrade"
 	},
@@ -814,7 +814,7 @@
 		"position": 46,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "<b>Hero Interrupt</b> (<i>defense</i>): When a friendly character would take any amount of damage, deal yourself a facedown encounter card → prevent up to 5 of that damage.",
+		"text": "<b>Hero Interrupt</b>: (<i>defense</i>): When a friendly character would take any amount of damage, deal yourself a facedown encounter card → prevent up to 5 of that damage.",
 		"traits": "Defense.",
 		"type_code": "event"
 	},
@@ -830,7 +830,7 @@
 		"position": 47,
 		"quantity": 3,
 		"resource_mental": 1,
-		"text": "<b>Hero Action</b> (<i>thwart</i>): Deal yourself 1 facedown encounter card, then choose:\n• Remove 5 threat from a scheme.\n• Remove 2 threat from each scheme in play.",
+		"text": "<b>Hero Action</b>: (<i>thwart</i>): Deal yourself 1 facedown encounter card, then choose:\n• Remove 5 threat from a scheme.\n• Remove 2 threat from each scheme in play.",
 		"traits": "Thwart.",
 		"type_code": "event"
 	},
@@ -862,7 +862,7 @@
 		"position": 49,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "<b>Hero Interrupt</b> (<i>attack/defense/thwart</i>): When an enemy activates against you, deal yourself a facedown encounter card → cancel that activation. If an attack was canceled this way, deal 3 damage to that enemy. If a scheme was canceled this way, remove 2 threat from the main scheme.",
+		"text": "<b>Hero Interrupt</b>: (<i>attack/defense/thwart</i>): When an enemy activates against you, deal yourself a facedown encounter card → cancel that activation. If an attack was canceled this way, deal 3 damage to that enemy. If a scheme was canceled this way, remove 2 threat from the main scheme.",
 		"traits": "Attack. Defense. Thwart.",
 		"type_code": "event"
 	},
@@ -878,7 +878,7 @@
 		"position": 50,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "Play only if your hero’s remaining hit points are less than half your hero’s starting hit points.\n<b>Hero Action</b> (<i>attack</i>): Take 2 damage. Then, deal 8 damage to the villain.",
+		"text": "Play only if your hero’s remaining hit points are less than half your hero’s starting hit points.\n<b>Hero Action</b>: (<i>attack</i>): Take 2 damage. Then, deal 8 damage to the villain.",
 		"traits": "Attack.",
 		"type_code": "event"
 	},
@@ -977,7 +977,7 @@
 		"position": 55,
 		"quantity": 1,
 		"resource_energy": 1,
-		"text": "Play only if your identity has the [[mystic]] trait. Max 1 per deck.\n<b>Hero Action</b> (attack): Shuffle your deck. Choose an enemy and remove up to 3 cards from the top of your deck from the game → drain 2 from that enemy for each card removed this way.",
+		"text": "Play only if your identity has the [[mystic]] trait. Max 1 per deck.\n<b>Hero Action</b>: (attack): Shuffle your deck. Choose an enemy and remove up to 3 cards from the top of your deck from the game → drain 2 from that enemy for each card removed this way.",
 		"traits": "Attack. Spell.",
 		"type_code": "event"
 	},
@@ -993,7 +993,7 @@
 		"position": 56,
 		"quantity": 1,
 		"resource_energy": 1,
-		"text": "<b>Action</b> :: Shuffle this card into the encounter deck (without looking). \n<b>When Revealed</b>: The player who played this card chooses to either discard a card from their hand or deal 5 damage to each ally they control, the villain, and each minion engaged with them. Remove this card from the game.",
+		"text": "<b>Action</b>: Shuffle this card into the encounter deck (without looking). \n<b>When Revealed</b>: The player who played this card chooses to either discard a card from their hand or deal 5 damage to each ally they control, the villain, and each minion engaged with them. Remove this card from the game.",
 		"traits": "Cosmic Entity.",
 		"type_code": "event"
 	},
@@ -1023,7 +1023,7 @@
 		"position": 58,
 		"quantity": 3,
 		"resource_mental": 1,
-		"text": "Play under any player’s control. Max 1 team card per player.\n<b>Response</b>: If each of your allies has the  trait [[hero for hire]], this card gains: \"<b>Response</b>\": After an ally you control defeats an enemy, draw 1 card.”",
+		"text": "Play under any player’s control. Max 1 team card per player.\n<b>Response</b>: If each of your allies has the  trait [[hero for hire]], this card gains: \"<b>Response</b>:\": After an ally you control defeats an enemy, draw 1 card.”",
 		"traits": "Team.",
 		"type_code": "support"
 	},
@@ -1071,7 +1071,7 @@
 		"position": 61,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "Alliance. \n<b>Hero Action</b> (attack): Exhaust an [[Avenger]] character and a [[Guardian]] character and deal 1 damage to each of them → deal a total of 6 damage divided among enemies as you choose. If neither of these friendly characters were defeated this way, ready them.",
+		"text": "Alliance. \n<b>Hero Action</b>: (attack): Exhaust an [[Avenger]] character and a [[Guardian]] character and deal 1 damage to each of them → deal a total of 6 damage divided among enemies as you choose. If neither of these friendly characters were defeated this way, ready them.",
 		"traits": "Attack. Tactic.",
 		"type_code": "event"
 	},
@@ -1164,7 +1164,7 @@
 		"position": 66,
 		"quantity": 1,
 		"resource_mental": 1,
-		"text": "<b>Action</b> :: Exhaust Misty Knight and deal 1 damage to her → choose one: \n- Search your deck and discard pile for a copy of the Bounty upgrade and add it to your hand.\n - Reduce the resource cost of the next Bounty Upgrade you play this turn by 1.",
+		"text": "<b>Action</b>: Exhaust Misty Knight and deal 1 damage to her → choose one: \n- Search your deck and discard pile for a copy of the Bounty upgrade and add it to your hand.\n - Reduce the resource cost of the next Bounty Upgrade you play this turn by 1.",
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "Hero for Hire.",
@@ -1198,7 +1198,7 @@
 		"position": 68,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "Attach to an ally. Max 1 per ally. Uses (1 ammo counter and 1 charge counter.) \n<b>Action</b> :: Exhaust Duo-Gun and choose one:\n- Remove 1 ammo counter from it → attached ally’s next attack gains piercing. \n - Remove 1 charge counter from it → attached ally’s next attack gains overkill.",
+		"text": "Attach to an ally. Max 1 per ally. Uses (1 ammo counter and 1 charge counter.) \n<b>Action</b>: Exhaust Duo-Gun and choose one:\n- Remove 1 ammo counter from it → attached ally’s next attack gains piercing. \n - Remove 1 charge counter from it → attached ally’s next attack gains overkill.",
 		"traits": "Tech. Weapon.",
 		"type_code": "upgrade"
 	},
@@ -1230,7 +1230,7 @@
 		"position": 70,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "Enters play with 2 ammo counters and 2 charge counters. \nMax 1 per player.\n<b>Action</b> :: Exhaust Munitions Cache → move 1 ammo counter or 1 charge counter from this card to another upgrade you control.",
+		"text": "Enters play with 2 ammo counters and 2 charge counters. \nMax 1 per player.\n<b>Action</b>: Exhaust Munitions Cache → move 1 ammo counter or 1 charge counter from this card to another upgrade you control.",
 		"traits": "",
 		"type_code": "upgrade"
 	},
@@ -1246,7 +1246,7 @@
 		"position": 71,
 		"quantity": 2,
 		"resource_wild": 1,
-		"text": "Requirement ([wild] [physical]). \nMax 2 per deck.\n<b>Hero Action</b> (<i>attack</i>): Take 2 damage → draw 3 cards and deal X damage to an enemy, where X is the combined printed resource cost of those cards.",
+		"text": "Requirement ([wild] [physical]). \nMax 2 per deck.\n<b>Hero Action</b>: (<i>attack</i>): Take 2 damage → draw 3 cards and deal X damage to an enemy, where X is the combined printed resource cost of those cards.",
 		"traits": "Attack.",
 		"type_code": "event"
 	},
@@ -1265,7 +1265,7 @@
 		"position": 72,
 		"quantity": 1,
 		"resource_energy": 1,
-		"text": "<b>Hero Action</b> : Place 1 acceleration token on Red Dagger. (Limit once per phase.) \n<b>Interrupt</b>: When Red Dagger attacks, resolve this attack X times, where X is the number of acceleration tokens in play.",
+		"text": "<b>Hero Action</b>: Place 1 acceleration token on Red Dagger. (Limit once per phase.) \n<b>Interrupt</b>: When Red Dagger attacks, resolve this attack X times, where X is the number of acceleration tokens in play.",
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "Champion.",
@@ -1320,7 +1320,7 @@
 		"pack_code": "dtm",
 		"position": 75,
 		"quantity": 1,
-		"text": "Setup. \nMax 1 per deck. \n<b>Forced Interrupt</b> : When the game begins, choose any 3 different non-determination cards from your collection and set them aside. \n<b>Action</b> :: Exhaust this card and deal yourself a facedown encounter card → search the set-aside area for 1 of these chosen cards and add it to your hand.",
+		"text": "Setup. \nMax 1 per deck. \n<b>Forced Interrupt</b>: When the game begins, choose any 3 different non-determination cards from your collection and set them aside. \n<b>Action</b>: Exhaust this card and deal yourself a facedown encounter card → search the set-aside area for 1 of these chosen cards and add it to your hand.",
 		"type_code": "upgrade"
 	},
 	{
@@ -1462,7 +1462,7 @@
 		"position": 83,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "<b>Hero Action</b> (<i>attack</i>): Deal X damage to an enemy. This attack gains piercing. If that enemy is defeated by this attack, draw X cards. Then, if this attack removed a tough status card, draw 2 additional cards.",
+		"text": "<b>Hero Action</b>: (<i>attack</i>): Deal X damage to an enemy. This attack gains piercing. If that enemy is defeated by this attack, draw X cards. Then, if this attack removed a tough status card, draw 2 additional cards.",
 		"traits": "Attack.",
 		"type_code": "event"
 	},
@@ -1564,7 +1564,7 @@
 		"position": 89,
 		"quantity": 3,
 		"resource_mental": 1,
-		"text": "Attach to an enemy.\n<b>Hero Interrupt</b> (<i>attack</i>): When you attack attached enemy, discard each [[TACTIC]] upgrade attached to them → deal 2 damage to that enemy for each upgrade discarded this way. This attack gains overkill.",
+		"text": "Attach to an enemy.\n<b>Hero Interrupt</b>: (<i>attack</i>): When you attack attached enemy, discard each [[TACTIC]] upgrade attached to them → deal 2 damage to that enemy for each upgrade discarded this way. This attack gains overkill.",
 		"traits": "Attack. Psionic.",
 		"type_code": "upgrade"
 	},
@@ -1665,7 +1665,7 @@
 		"position": 95,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "Play only if your identity has the [[X-MEN]] trait.\n<b>Hero Action</b> (<i>attack/thwart</i>): Discard each [[X-MEN]] ally you control → remove X threat from among schemes in play and deal X damage among enemies in play, where X is equal to the number of remaining hit points from allies discarded this way.",
+		"text": "Play only if your identity has the [[X-MEN]] trait.\n<b>Hero Action</b>: (<i>attack/thwart</i>): Discard each [[X-MEN]] ally you control → remove X threat from among schemes in play and deal X damage among enemies in play, where X is equal to the number of remaining hit points from allies discarded this way.",
 		"traits": "Attack. Thwart.",
 		"type_code": "event"
 	},
@@ -1786,7 +1786,7 @@
 		"quantity": 1,
 		"resource_mental": 1,
 		"subname": "Chris Powell",
-		"text": "[star] Enters play with a configuration counter on his ATK. Darkhawk gets +2 to the power with a counter on it.\n<b>Action</b> :: Exhaust Darkhawk → move the configuration counter onto his other basic power.",
+		"text": "[star] Enters play with a configuration counter on his ATK. Darkhawk gets +2 to the power with a counter on it.\n<b>Action</b>: Exhaust Darkhawk → move the configuration counter onto his other basic power.",
 		"thwart": 1,
 		"thwart_cost": 1,
 		"thwart_star": true,
@@ -1821,7 +1821,7 @@
 		"position": 103,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "<b>Hero Action</b> (<i>attack</i>): Deal a total of 5 damage divided among characters as you choose. then, each player draws 1 card for each [[AERIAL]] character under their control damaged this way.",
+		"text": "<b>Hero Action</b>: (<i>attack</i>): Deal a total of 5 damage divided among characters as you choose. then, each player draws 1 card for each [[AERIAL]] character under their control damaged this way.",
 		"traits": "Aerial. Attack.",
 		"type_code": "event"
 	},
@@ -2031,7 +2031,7 @@
 		"quantity": 1,
 		"resource_energy": 1,
 		"subname": "Clarice Ferguson",
-		"text": "<b>Action</b> :: Exhaust Blink and deal 1 damage each to her and your identity  → choose to either ready a [[LOCATION]] card or change your form.",
+		"text": "<b>Action</b>:: Exhaust Blink and deal 1 damage each to her and your identity  → choose to either ready a [[LOCATION]] card or change your form.",
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "Psionic. X-Men.",
@@ -2049,7 +2049,7 @@
 		"quantity": 3,
 		"deck_limit": 3,
 		"resource_physical": 1,
-		"text": "Alliance.\n<b>Hero Action</b> (<i>attack/thwart</i>): Deal up to 3 damage to an [[X-MEN]] character and up to 3 damage to an [[X-FORCE]] character → remove X threat from among schemes in play and deal X damage among enemies in play, where X is the total amount of damage taken this way.",
+		"text": "Alliance.\n<b>Hero Action</b>: (<i>attack/thwart</i>): Deal up to 3 damage to an [[X-MEN]] character and up to 3 damage to an [[X-FORCE]] character → remove X threat from among schemes in play and deal X damage among enemies in play, where X is the total amount of damage taken this way.",
 		"traits": "Attack. Thwart.",
 		"type_code": "event"
 	},
@@ -2087,7 +2087,7 @@
 		"position": 117,
 		"quantity": 1,
 		"resource_physical": 1,
-		"text": "uses (2 deploy counters). \n<b>Action</b> :: Exhaust The Behemoth, remove 1 deploy counter from it and, discard an ally you control → search your collection or deck for a [[S.H.I.E.L.D .]]ally and put it into play.",
+		"text": "uses (2 deploy counters). \n<b>Action</b>: Exhaust The Behemoth, remove 1 deploy counter from it and, discard an ally you control → search your collection or deck for a [[S.H.I.E.L.D .]]ally and put it into play.",
 		"traits": "S.H.I.E.L.D. Vehicle.",
 		"type_code": "support"
 	},
@@ -2103,7 +2103,7 @@
 		"position": 118,
 		"quantity": 1,
 		"resource_energy": 1,
-		"text": "<b>Response</b>: After you remove an all-purpose counter from a card you control, place it here (to a maimum of 6 counters here).\n<b>Action</b> :: Discard The Peak and 1 card from your hand → deal  damage to the villain and remove 1 threat from a scheme for each counter discarded this way.",
+		"text": "<b>Response</b>: After you remove an all-purpose counter from a card you control, place it here (to a maimum of 6 counters here).\n<b>Action</b>: Discard The Peak and 1 card from your hand → deal  damage to the villain and remove 1 threat from a scheme for each counter discarded this way.",
 		"traits": "S.W.O.R.D.",
 		"type_code": "support"
 	},
