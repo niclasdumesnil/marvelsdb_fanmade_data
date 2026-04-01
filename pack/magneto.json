@@ -490,7 +490,8 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "New. X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"deck_limit": 1
 	},
 	{
 		"attack": 2,
@@ -512,7 +513,8 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "New. X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"deck_limit": 1
 	},
 	{
 		"attack": 2,
@@ -534,7 +536,8 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "New. X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"deck_limit": 1
 	},
 	{
 		"attack": 2,
@@ -556,7 +559,8 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "New. X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"deck_limit": 1
 	},
 	{
 		"code": "49037",
