@@ -88,7 +88,7 @@
 		"position": 56,
 		"quantity": 1,
 		"set_code": "spider_man_morales",
-		"text": "<b>Give to the Miles Morales player.</b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust Miles Morales → remove Keeping Secrets from the game.\n\u2022 Discard Ganke Lee and Jefferson Davis from play. If neither was discarded this way, this card gains surge. Discard this obligation.",
+		"text": "<b>Give to the Miles Morales player.</b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Miles Morales → remove Keeping Secrets from the game.\n• Discard Ganke Lee and Jefferson Davis from play. If neither was discarded this way, this card gains surge. Discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -490,7 +490,7 @@
 		"quantity": 1,
 		"set_code": "venom",
 		"set_position": 5,
-		"text": "If there are at least 3[per_hero] chime counters here, flip this card.\n<b>Interrupt: </b> When any amount of damage would be dealt to Venom by an attack, (you may) place that many chime counters here instead.",
+		"text": "If there are at least 3[per_hero] chime counters here, flip this card.\n<b><b>Interrupt</b>: </b> When any amount of damage would be dealt to Venom by an attack, (you may) place that many chime counters here instead.",
 		"traits": "Location. Quiet.",
 		"type_code": "environment"
 	},
@@ -757,7 +757,7 @@
 		"quantity": 1,
 		"set_code": "mysterio",
 		"set_position": 6,
-		"text": "Attach to Mysterio.\n<b>Hero Action: </b> Spend 1 resource of any type and shuffle the top 2 cards of the encounter deck into your deck → discard this card.",
+		"text": "Attach to Mysterio.\n<b><b>Hero Action</b>: </b> Spend 1 resource of any type and shuffle the top 2 cards of the encounter deck into your deck → discard this card.",
 		"traits": "Illusion.",
 		"type_code": "attachment"
 	},
@@ -1583,7 +1583,7 @@
 		"quantity": 2,
 		"set_code": "city_in_chaos",
 		"set_position": 4,
-		"text": "Peril. (While you are resolving this card, other players cannot help you.)\n<b> When Revealed: </b> Choose:\nPlace 1 acceleration token on the main scheme.\nExhaust a character you control and spend 1 resource of any type",
+		"text": "Peril. (While you are resolving this card, other players cannot help you.)\n<b> <b>When Revealed</b>: </b> Choose:\nPlace 1 acceleration token on the main scheme.\nExhaust a character you control and spend 1 resource of any type",
 		"type_code": "treachery"
 	},
 	{
@@ -1600,7 +1600,7 @@
 		"scheme": 0,
 		"set_code": "down_to_earth",
 		"set_position": 1,
-		"text": "Surge.\n<b> Alter-ego Action: </b> Spend a [physical] resource → deal 3 damage to Common Criminal. If this minion is defeated this way, choose to either draw 1 card or remove 3 threat from a side scheme.",
+		"text": "Surge.\n<b> Alter-ego <b>Action</b>: </b> Spend a [physical] resource → deal 3 damage to Common Criminal. If this minion is defeated this way, choose to either draw 1 card or remove 3 threat from a side scheme.",
 		"traits": "Criminal.",
 		"type_code": "minion"
 	},
@@ -1615,7 +1615,7 @@
 		"quantity": 1,
 		"set_code": "down_to_earth",
 		"set_position": 4,
-		"text": "While in hero form, increase the resource cost of each event you play by 1.\n<b> Alter-Ego Action: </b> Discard 1 identity specific card from your hand → discard this obligation.",
+		"text": "While in hero form, increase the resource cost of each event you play by 1.\n<b> Alter-Ego <b>Action</b>: </b> Discard 1 identity specific card from your hand → discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -1690,7 +1690,7 @@
 		"quantity": 1,
 		"set_code": "goblin_gear",
 		"set_position": 2,
-		"text": "Attach to the villain.\nUses (2 bomb counters.)\n[star] <b>Forced Response: </b> After the villain attacks you, remove 1 bomb counter from here → exhaust 1 upgrade and 1 support you control.",
+		"text": "Attach to the villain.\nUses (2 bomb counters.)\n[star] <b><b>Forced Response</b>: </b> After the villain attacks you, remove 1 bomb counter from here → exhaust 1 upgrade and 1 support you control.",
 		"traits": "Tech. Weapon.",
 		"type_code": "attachment"
 	},
@@ -1707,7 +1707,7 @@
 		"quantity": 1,
 		"set_code": "goblin_gear",
 		"set_position": 3,
-		"text": "Attach to the villain.\nUses (2 bomb counters.)\n[star] <b>Forced Response: </b> After the villain attacks you, remove 1 bomb counter from here → take 2 indirect damage.",
+		"text": "Attach to the villain.\nUses (2 bomb counters.)\n[star] <b><b>Forced Response</b>: </b> After the villain attacks you, remove 1 bomb counter from here → take 2 indirect damage.",
 		"traits": "Tech. Weapon.",
 		"type_code": "attachment"
 	},
@@ -1724,7 +1724,7 @@
 		"quantity": 1,
 		"set_code": "goblin_gear",
 		"set_position": 4,
-		"text": "Attach to the villain.\nUses (2 bomb counters.)\n[star] <b>Forced Response: </b> After the villain attacks you, remove 1 bomb counter from here → discard 1 event from your hand with the lowest cost.",
+		"text": "Attach to the villain.\nUses (2 bomb counters.)\n[star] <b><b>Forced Response</b>: </b> After the villain attacks you, remove 1 bomb counter from here → discard 1 event from your hand with the lowest cost.",
 		"traits": "Tech. Weapon.",
 		"type_code": "attachment"
 	},
@@ -1951,7 +1951,7 @@
 		"quantity": 1,
 		"set_code": "personal_nightmare",
 		"set_position": 1,
-		"text": "Attach to your identity.\nYou cannot resolve triggered abilities in your hero's printed text box. (Triggered abilities are ones with <b> bold </b> timing triggers.) /n <b> Alter-Ego Action: </b> Discard 1 identity-specific card at random from your hand →discard this card.",
+		"text": "Attach to your identity.\nYou cannot resolve triggered abilities in your hero's printed text box. (Triggered abilities are ones with <b> bold </b> timing triggers.) /n <b> Alter-Ego <b>Action</b>: </b> Discard 1 identity-specific card at random from your hand →discard this card.",
 		"traits": "Illusion.",
 		"type_code": "attachment"
 	},
@@ -2198,7 +2198,7 @@
 		"scheme": 1,
 		"set_code": "symbiotic_strength",
 		"set_position": 4,
-		"text": "Guard Patrol. (While this minion is engaged with you, you cannot thwart the main scheme.)\n<hr />\n[star] <b>Boost</b>: Put enraged Symbiote into play engaged with you.",
+		"text": "Guard. Patrol. (While this minion is engaged with you, you cannot thwart the main scheme.)\n<hr />\n[star] <b>Boost</b>: Put enraged Symbiote into play engaged with you.",
 		"traits": "Symbiote.",
 		"type_code": "minion"
 	},
@@ -2242,7 +2242,7 @@
 		"quantity": 2,
 		"set_code": "whispers_of_paranoia",
 		"set_position": 1,
-		"text": "Attach to your identity.\nYou cannot ready allies or [[persona]] supports you control\n<b> Alter-Ego Action: </b> Discard an ally or [[persona]] support you control → discard this card.\n<hr />\n[star] <b>Boost</b>: If any ally is defeated by this attack, take indirect damage equal to that ally's printed cost.",
+		"text": "Attach to your identity.\nYou cannot ready allies or [[persona]] supports you control\n<b> Alter-Ego <b>Action</b>: </b> Discard an ally or [[persona]] support you control → discard this card.\n<hr />\n[star] <b>Boost</b>: If any ally is defeated by this attack, take indirect damage equal to that ally's printed cost.",
 		"traits": "Illusion.",
 		"type_code": "attachment"
 	},

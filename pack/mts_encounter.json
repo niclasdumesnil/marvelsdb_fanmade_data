@@ -88,7 +88,7 @@
 		"position": 66,
 		"quantity": 1,
 		"set_code": "warlock",
-		"text": "<b><i>Give to Adam Warlock player.</i></b>\nYou may flip to alter-ego. Choose:\n\u2022 Exhaust your alter-ego → remove this card from the game.\n\u2022 Discard the top 5 cards of your deck. Place 1 threat on the main scheme for each different aspect cards discarded this way. Discard this obligation.",
+		"text": "<b><i>Give to Adam Warlock player.</i></b>\nYou may flip to alter-ego. Choose:\n• Exhaust your alter-ego → remove this card from the game.\n• Discard the top 5 cards of your deck. Place 1 threat on the main scheme for each different aspect cards discarded this way. Discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -828,14 +828,14 @@
 		"code": "21104",
 		"faction_code": "encounter",
 		"is_unique": true,
-		"name": "Corvus Glaive",
+		"name": "Corvus's Glaive",
 		"octgn_id": "bfede6d2-96e8-485a-a07e-072b03ca3cf3",
 		"pack_code": "mts",
 		"position": 104,
 		"quantity": 1,
 		"set_code": "tower_defense",
 		"set_position": 16,
-		"text": "Attach to Corvus Glaive.\nCorvus Glaive gains retaliate 1.\n<b>Hero Action:<\b> Take 1 damage and spend [energy] [physical] resources → discard this card.",
+		"text": "Attach to Corvus Glaive.\nCorvus Glaive gains retaliate 1.\n<b>Hero Action</b>: Take 1 damage and spend [energy] [physical] resources → discard this card.",
 		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
@@ -1192,7 +1192,7 @@
 		"scheme_amplify": 1,
 		"set_code": "thanos",
 		"set_position": 19,
-		"text": "<b>When Revealed</b>: Put the top card of the [[infinity stone]] deck into play.",
+		"text": "<b>When Defeated</b>: Choose and discard an [[infinity stone]] from play.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1250,7 +1250,7 @@
 		"scheme": 1,
 		"set_code": "children_of_thanos",
 		"set_position": 3,
-		"text": "Villainous (When this minion activates, give it a boost card.)\n<hr />\n[star] <b>Boost</b>: Give this enemy 1 additional boost card",
+		"text": "Villainous. (When this minion activates, give it a boost card.)\n<hr />\n[star] <b>Boost</b>: Give this enemy 1 additional boost card",
 		"traits": "Black Order. Elite.",
 		"type_code": "minion"
 	},
@@ -1496,7 +1496,7 @@
 		"set_code": "hela",
 		"set_position": 3,
 		"stage": "1B",
-		"text": "<b> Forced Interrupt: </b> When Hela would be defeated, if Odin is attached to this scheme, discard each attachment from Hela and flip her to her [[wounded]] side instead.\n<b> If this scheme is completed, the players lose the game. </b>",
+		"text": "<b> <b>Forced Interrupt</b>: </b> When Hela would be defeated, if Odin is attached to this scheme, discard each attachment from Hela and flip her to her [[wounded]] side instead.\n<b> If this scheme is completed, the players lose the game. </b>",
 		"threat": 18,
 		"type_code": "main_scheme"
 	},
@@ -1560,7 +1560,7 @@
 		"scheme_acceleration": 1,
 		"set_code": "hela",
 		"set_position": 5,
-		"text": "Hinder 1[per_hero]. Victory 2.\n<b> When Defeated: </b> The first player reveals Gjallerbru and Skurg, and puts them into play. Deal each other player 1 facedown encounter card.",
+		"text": "Hinder 1[per_hero]. Victory 2.\n<b> <b>When Defeated</b>: </b> The first player reveals Gjallerbru and Skurg, and puts them into play. Deal each other player 1 facedown encounter card.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1577,7 +1577,7 @@
 		"scheme_hazard": 1,
 		"set_code": "hela",
 		"set_position": 6,
-		"text": "Hinder 1[per_hero]. Victory 4.\n<b> When Defeated: </b> The first player detaches Odin from the main scheme and takes control of him. Deal each player 1 facedown encounter card.",
+		"text": "Hinder 1[per_hero]. Victory 4.\n<b> <b>When Defeated</b>: </b> The first player detaches Odin from the main scheme and takes control of him. Deal each player 1 facedown encounter card.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1594,7 +1594,7 @@
 		"scheme_amplify": 1,
 		"set_code": "hela",
 		"set_position": 7,
-		"text": "Hinder 1[per_hero]. Victory 3.\n<b> When Defeated: </b> The first player reveals Hall of Nastrond and Nidhogg, and puts them into play. Deal each other player 1 facedown encounter card.",
+		"text": "Hinder 1[per_hero]. Victory 3.\n<b> <b>When Defeated</b>: </b> The first player reveals Hall of Nastrond and Nidhogg, and puts them into play. Deal each other player 1 facedown encounter card.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -1868,7 +1868,7 @@
 		"quantity": 2,
 		"set_code": "frost_giants",
 		"set_position": 4,
-		"text": "Attack to your identity\nAttached identity cannot ready.\n<b>Alter-Ego Action: </b> Spend [energy] [physical] resources → discard this card.",
+		"text": "Attack to your identity\nAttached identity cannot ready.\n<b>Alter-Ego <b>Action</b>: </b> Spend [energy] [physical] resources → discard this card.",
 		"traits": "Condition.",
 		"type_code": "attachment"
 	},
@@ -1903,7 +1903,7 @@
 		"set_code": "loki",
 		"set_position": 1,
 		"stage": "I",
-		"text": "Victory 1.\nLoki cannot take damage while a side scheme is in play.\n<b> When Defeated: </b> Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that side scheme.",
+		"text": "Victory 1.\nLoki cannot take damage while a side scheme is in play.\n<b> <b>When Defeated</b>: </b> Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that side scheme.",
 		"traits": "Asgard. Mystic.",
 		"type_code": "villain"
 	},
@@ -1923,7 +1923,7 @@
 		"set_code": "loki",
 		"set_position": 2,
 		"stage": "I",
-		"text": "Retaliate 1. Victory 1.\n<b> When Defeated: </b> Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that side scheme.",
+		"text": "Retaliate 1. Victory 1.\n<b> <b>When Defeated</b>: </b> Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that side scheme.",
 		"traits": "Asgard. Mystic.",
 		"type_code": "villain"
 	},
@@ -1943,7 +1943,7 @@
 		"set_code": "loki",
 		"set_position": 3,
 		"stage": "I",
-		"text": "Stalwart. Victory 1.\n<b> When Defeated: </b> Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that side scheme.",
+		"text": "Stalwart. Victory 1.\n<b> <b>When Defeated</b>: </b> Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that side scheme.",
 		"traits": "Asgard. Mystic.",
 		"type_code": "villain"
 	},
@@ -1963,7 +1963,7 @@
 		"set_code": "loki",
 		"set_position": 4,
 		"stage": "I",
-		"text": "Stalwart. Victory 1.\n<b> When Defeated: </b> Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that side scheme.",
+		"text": "Stalwart. Victory 1.\n<b> <b>When Defeated</b>: </b> Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that side scheme.",
 		"traits": "Asgard. Mystic.",
 		"type_code": "villain"
 	},
@@ -1984,7 +1984,7 @@
 		"set_code": "loki",
 		"set_position": 5,
 		"stage": "I",
-		"text": "Victory 1.\n[star] Loki's attacks gain piercing.\n<b> When Defeated: </b> Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that side scheme.",
+		"text": "Victory 1.\n[star] Loki's attacks gain piercing.\n<b> <b>When Defeated</b>: </b> Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that side scheme.",
 		"traits": "Asgard. Mystic.",
 		"type_code": "villain"
 	},
@@ -2035,7 +2035,7 @@
 		"scheme_amplify": 1,
 		"set_code": "loki",
 		"set_position": 7,
-		"text": "Hinder 1[per_hero]\n<b> When Defeated: </b> Reveal the top card of the [[infinity stone]] deck. Swap Loki with a random set-aside Loki villain.",
+		"text": "Hinder 1[per_hero]\n<b> <b>When Defeated</b>: </b> Reveal the top card of the [[infinity stone]] deck. Swap Loki with a random set-aside Loki villain.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -2053,7 +2053,7 @@
 		"scheme_amplify": 1,
 		"set_code": "loki",
 		"set_position": 8,
-		"text": "Hinder 1[per_hero]\n<b> When Defeated: </b> Reveal the top card of the [[infinity stone]] deck. Swap Loki with a random set-aside Loki villain.",
+		"text": "Hinder 1[per_hero]\n<b> <b>When Defeated</b>: </b> Reveal the top card of the [[infinity stone]] deck. Swap Loki with a random set-aside Loki villain.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -2070,7 +2070,7 @@
 		"scheme_crisis": 1,
 		"set_code": "loki",
 		"set_position": 9,
-		"text": "Hinder 1[per_hero]\n<b> When Defeated: </b> Reveal the top card of the [[infinity stone]] deck. Swap Loki with a random set-aside Loki villain.",
+		"text": "Hinder 1[per_hero]\n<b> <b>When Defeated</b>: </b> Reveal the top card of the [[infinity stone]] deck. Swap Loki with a random set-aside Loki villain.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -2087,7 +2087,7 @@
 		"scheme_hazard": 1,
 		"set_code": "loki",
 		"set_position": 10,
-		"text": "Hinder 1[per_hero]\n<b> When Defeated: </b> Reveal the top card of the [[infinity stone]] deck. Swap Loki with a random set-aside Loki villain.",
+		"text": "Hinder 1[per_hero]\n<b> <b>When Defeated</b>: </b> Reveal the top card of the [[infinity stone]] deck. Swap Loki with a random set-aside Loki villain.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -2103,7 +2103,7 @@
 		"quantity": 1,
 		"set_code": "loki",
 		"set_position": 11,
-		"text": "Attach to Loki.\n<b> Hero Response: </b> After you make a basic attack against Loki, spend [energy] [physical] resources → discard this card.\n<hr />\n[star] <b>Boost</b>: Attack this card to Loki.",
+		"text": "Attach to Loki.\n<b> <b>Hero Response</b>: </b> After you make a basic attack against Loki, spend [energy] [physical] resources → discard this card.\n<hr />\n[star] <b>Boost</b>: Attack this card to Loki.",
 		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
@@ -2120,7 +2120,7 @@
 		"scheme": 1,
 		"set_code": "loki",
 		"set_position": 12,
-		"text": "Attach to Loki.\n<b> Hero Response: </b> After you make a basic attack against Loki, spend [mental] [physical] resources → discard this card.\n<hr />\n[star] <b>Boost</b>: Attach this card to Loki.",
+		"text": "Attach to Loki.\n<b> <b>Hero Response</b>: </b> After you make a basic attack against Loki, spend [mental] [physical] resources → discard this card.\n<hr />\n[star] <b>Boost</b>: Attach this card to Loki.",
 		"traits": "Item.",
 		"type_code": "attachment"
 	},
@@ -2136,7 +2136,7 @@
 		"quantity": 1,
 		"set_code": "loki",
 		"set_position": 13,
-		"text": "Attach to Loki.\n<b>Forced Response</b>: After Loki is swapped with a set-aside Loki villain, give him a tough status card.\n<b> Hero Response: </b> After you make a basic attack against Loki, spend [energy] [mental] resources → discard this card.",
+		"text": "Attach to Loki.\n<b>Forced Response</b>: After Loki is swapped with a set-aside Loki villain, give him a tough status card.\n<b> <b>Hero Response</b>: </b> After you make a basic attack against Loki, spend [energy] [mental] resources → discard this card.",
 		"traits": "Armor.",
 		"type_code": "attachment"
 	},

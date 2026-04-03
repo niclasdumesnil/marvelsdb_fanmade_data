@@ -6,16 +6,16 @@
 	},
 	{
 		"code": "23029",
-		"flavor": "\"Stark et toi, vous l'avez bien cherché !\"",
 		"name": "Le Laser Vivant",
 		"text": "Coup Rapide.\n[star] Les attaques du Laser Vivant gagne Perçant.\n<i>(Sbire Némésis de War Machine.)</i>",
+		"flavor": "\"Stark et toi, vous l'avez bien cherché !\"",
 		"traits": "Criminel."
 	},
 	{
 		"code": "23030",
-		"flavor": "Le Laser Vivant attaque un bureau de l'administration. Les employés ont besoin d'aide !",
 		"name": "Spectacle Lumineux Mortel",
-		"text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : infligez 1 dégât à chaque identité."
+		"text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : infligez 1 dégât à chaque identité.",
+		"flavor": "Le Laser Vivant attaque un bureau de l'administration. Les employés ont besoin d'aide !"
 	},
 	{
 		"code": "23031",

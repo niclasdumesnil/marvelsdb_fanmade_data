@@ -156,7 +156,8 @@
 		"set_code": "doctor_strange",
 		"set_position": 9,
 		"text": "<b>Hero Interrupt</b>: When a treachery is revealed from the encounter deck, cancel all of its effects and discard it.",
-		"type_code": "event"
+		"type_code": "event",
+		"traits": "Spell."
 	},
 	{
 		"code": "09008",

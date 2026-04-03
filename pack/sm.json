@@ -25,7 +25,7 @@
 		"position": 1,
 		"quantity": 1,
 		"set_code": "ghost_spider",
-		"text": "<i>Dizzying Reflexes</i> - <b>Response:</b> After you resolve an \"<b>Interrupt</b>\" or \"<b>Response</b>\" ability on an event, ready Ghost-Spider. (Limit once per phase.)",
+		"text": "<i>Dizzying Reflexes</i> - <b>Response</b>: After you resolve an \"<b>Interrupt</b>\" or \"<b>Response</b>\" ability on an event, ready Ghost-Spider. (Limit once per phase.)",
 		"thwart": 1,
 		"traits": "Web-Warrior.",
 		"type_code": "hero"
@@ -46,7 +46,7 @@
 		"quantity": 1,
 		"recover": 3,
 		"set_code": "ghost_spider",
-		"text": "<b>Action:</b> Choose to either shuffle Ticket to the Multiverse from your discard pile into your deck or ready George Stacy. (Limit once per round.)",
+		"text": "<b>Action</b>: Choose to either shuffle Ticket to the Multiverse from your discard pile into your deck or ready George Stacy. (Limit once per round.)",
 		"traits": "Civilian.",
 		"type_code": "alter_ego"
 	},
@@ -1006,7 +1006,7 @@
 		"quantity": 1,
 		"set_code": "snitches_get_stitches",
 		"set_position": 1,
-		"text": "Victory -1.\nAttach to Venom (Eddie Brock). If you cannot this card gains surge.\n<b>Forced Interrupt</b>: When a villain attacks, it attacks Venom. If that attack defeats Venom, add Venom and this card to the victory display.\n<b>Action</b>: Exhaust Venom and spend 2 resources of the same type \u2192 discard this card.",
+		"text": "Victory -1.\nAttach to Venom (Eddie Brock). If you cannot this card gains surge.\n<b>Forced Interrupt</b>: When a villain attacks, it attacks Venom. If that attack defeats Venom, add Venom and this card to the victory display.\n<b>Action</b>: Exhaust Venom and spend 2 resources of the same type → discard this card.",
 		"type_code": "attachment"
 	},
 	{
@@ -1022,7 +1022,7 @@
 		"deck_limit": 1,
 		"set_code": "shield_tech",
 		"set_position": 1,
-		"text": "Setup. Permanent.\n<b>Hero Response</b>: After your hero attacks, remove 1 dart counter from here \u2192 deal 1 damage to an enemy.\n<b>Alter-Ego Action</b>: Spend 1 resource of any type \u2192 place 3 dart counters here. (Limit once per round.)",
+		"text": "Setup. Permanent.\n<b>Hero Response</b>: After your hero attacks, remove 1 dart counter from here → deal 1 damage to an enemy.\n<b>Alter-Ego Action</b>: Spend 1 resource of any type → place 3 dart counters here. (Limit once per round.)",
 		"traits": "S.H.I.E.L.D. Tech.",
 		"type_code": "upgrade"
 	},
@@ -1039,7 +1039,7 @@
 		"deck_limit": 1,
 		"set_code": "shield_tech",
 		"set_position": 1,
-		"text": "Permanent.\n<b>Hero Response</b>: After your hero attacks, remove 1 dart counter from here \u2192 deal 1 damage to up to 2 different enemies.\n<b>Alter-Ego Action</b>: Spend 1 resource of any type \u2192 place 3 dart counters here. (Limit once per round.)",
+		"text": "Permanent.\n<b>Hero Response</b>: After your hero attacks, remove 1 dart counter from here → deal 1 damage to up to 2 different enemies.\n<b>Alter-Ego Action</b>: Spend 1 resource of any type → place 3 dart counters here. (Limit once per round.)",
 		"traits": "Enhanced. S.H.I.E.L.D. Tech.",
 		"type_code": "upgrade"
 	},
@@ -1056,7 +1056,7 @@
 		"deck_limit": 1,
 		"set_code": "shield_tech",
 		"set_position": 2,
-		"text": "Setup. Permanent.\nYour identity gets +2 hit points.\n<b>Hero Interrupt</b>: When the villain phase begins, spend 1 resource of any type \u2192 until the end of the phase, reduce the amount of damage your hero takes from each enemy attack by 1.",
+		"text": "Setup. Permanent.\nYour identity gets +2 hit points.\n<b>Hero Interrupt</b>: When the villain phase begins, spend 1 resource of any type → until the end of the phase, reduce the amount of damage your hero takes from each enemy attack by 1.",
 		"traits": "S.H.I.E.L.D. Tech.",
 		"type_code": "upgrade"
 	},
@@ -1073,7 +1073,7 @@
 		"deck_limit": 1,
 		"set_code": "shield_tech",
 		"set_position": 2,
-		"text": "Permanent.\nYour identity gets +3 hit points.\n<b>Hero Interrupt</b>: When your hero would take any amount of damage from an enemy attack, discard the top card of your deck \u2192 prevent 1 of that damage.",
+		"text": "Permanent.\nYour identity gets +3 hit points.\n<b>Hero Interrupt</b>: When your hero would take any amount of damage from an enemy attack, discard the top card of your deck → prevent 1 of that damage.",
 		"traits": "Enhanced. S.H.I.E.L.D. Tech.",
 		"type_code": "upgrade"
 	},
@@ -1124,7 +1124,7 @@
 		"deck_limit": 1,
 		"set_code": "shield_tech",
 		"set_position": 4,
-		"text": "Setup. Permanent.\n<b>Hero Action</b>: Exhaust Propulsion Gauntlet and take 2 indirect damage \u2192 ready your hero.",
+		"text": "Setup. Permanent.\n<b>Hero Action</b>: Exhaust Propulsion Gauntlet and take 2 indirect damage → ready your hero.",
 		"traits": "S.H.I.E.L.D. Tech.",
 		"type_code": "upgrade"
 	},
@@ -1141,7 +1141,7 @@
 		"deck_limit": 1,
 		"set_code": "shield_tech",
 		"set_position": 4,
-		"text": "Permanent.\n<b>Hero Action</b>: Exhaust Propulsion Gauntlet and take 2 indirect damage \u2192 ready your hero. Your hero gets +1 THW, +1 ATK, and +1 DEF until the end of the phase.",
+		"text": "Permanent.\n<b>Hero Action</b>: Exhaust Propulsion Gauntlet and take 2 indirect damage → ready your hero. Your hero gets +1 THW, +1 ATK, and +1 DEF until the end of the phase.",
 		"traits": "Enhanced. S.H.I.E.L.D. Tech.",
 		"type_code": "upgrade"
 	},
@@ -1251,7 +1251,7 @@
 		"back_link": "27189b",
 		"code": "27189a",
 		"faction_code": "campaign",
-		"name": "Wrist Navigators",
+		"name": "Wrist Navigator",
 		"octgn_id": "9b19aec4-ff1e-4b26-b85d-17c15f4ba81f",
 		"pack_code": "sm",
 		"permanent": true,

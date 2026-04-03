@@ -10,7 +10,7 @@
 		"position": 27,
 		"quantity": 1,
 		"set_code": "doctor_strange",
-		"text": "<b><i>Give to the Stephen Strange player.</i></b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust Stephen Strange → remove Physical Toll from the game.\n\u2022 The next event you play costs 3 additional resources. Discard this obligation after you play an event.",
+		"text": "<b><i>Give to the Stephen Strange player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Stephen Strange → remove Physical Toll from the game.\n• The next event you play costs 3 additional resources. Discard this obligation after you play an event.",
 		"type_code": "obligation"
 	},
 	{

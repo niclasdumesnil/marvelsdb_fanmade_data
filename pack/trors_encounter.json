@@ -9,7 +9,7 @@
 		"position": 26,
 		"quantity": 1,
 		"set_code": "hawkeye",
-		"text": "<b><i>Give to the Clint Barton Player.</i></b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust Clint Barton → remove this card from the game.\n\u2022 Discard Hawkeye's Bow from play. Discard this obligation.\n",
+		"text": "<b><i>Give to the Clint Barton Player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Clint Barton → remove this card from the game.\n• Discard Hawkeye's Bow from play. Discard this obligation.\n",
 		"type_code": "obligation"
 	},
 	{
@@ -96,7 +96,7 @@
 		"position": 53,
 		"quantity": 1,
 		"set_code": "spider_woman",
-		"text": "<b><i>Give to the Jessica Drew Player.</i></b>\n\u2022 Exhaust Jessica Drew → remove Uncertain Loyalties from the game.\n\u2022 Place 3 threat on the main scheme. Discard this obligation.\n",
+		"text": "<b><i>Give to the Jessica Drew Player.</i></b>\n• Exhaust Jessica Drew → remove Uncertain Loyalties from the game.\n• Place 3 threat on the main scheme. Discard this obligation.\n",
 		"type_code": "obligation"
 	},
 	{
@@ -372,7 +372,7 @@
 		"boost": 3,
 		"code": "04065",
 		"faction_code": "encounter",
-		"flavor": "\"Bask in the glow, babe.\" \u2014Crossbones",
+		"flavor": "\"Bask in the glow, babe.\" —Crossbones",
 		"illustrator": "Patrick McEvoy",
 		"is_unique": true,
 		"name": "Crossbones' Armor",
@@ -622,7 +622,7 @@
 		"set_code": "absorbing_man",
 		"set_position": 3,
 		"stage": "III",
-		"text": "Absorbing Man gains the trait of each environment in play.\n[star] <b>Forced Response</b>: After Absorbing Man activates against you, if he has the:\n\u2022 [[Ice]] or [[Stone]] trait, place 1 threat on the main scheme.\n\u2022 [[Metal]] or [[Wood]] trait, take 1 indirect damage.",
+		"text": "Absorbing Man gains the trait of each environment in play.\n[star] <b>Forced Response</b>: After Absorbing Man activates against you, if he has the:\n• [[Ice]] or [[Stone]] trait, place 1 threat on the main scheme.\n• [[Metal]] or [[Wood]] trait, take 1 indirect damage.",
 		"traits": "Brute.",
 		"type_code": "villain"
 	},
@@ -2042,8 +2042,9 @@
 		"quantity": 2,
 		"set_code": "weap_master",
 		"set_position": 3,
-		"text": "<b>When Reveled (Alter-Ego)</b>: The villain schemes. If they have a [[Weapon]] attachment, this card gains surge.\n<b>When Reveled (Hero)</b>: the villain attacks you. If they have a [[Weapon]] attachment, this card gains surge.",
-		"type_code": "treachery"
+		"text": "<b>When Revealed (Alter-Ego)</b>: The villain schemes. If they have a [[Weapon]] attachment, this card gains surge.\n<b>When Revealed (Hero)</b>: the villain attacks you. If they have a [[Weapon]] attachment, this card gains surge.",
+		"type_code": "treachery",
+		"boost": 1
 	},
 	{
 		"boost": 1,

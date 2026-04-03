@@ -1,23 +1,23 @@
 [
 	{
 		"code": "27001a",
-		"flavor": "\"Combattre un monstre n'est pas le pire moyen de passer son vendredi soir pour une adolescente.\"",
 		"name": "Ghost-Spider",
 		"text": "<i>Réflexes Incroyables</i> — <b>Réponse</b> : après que vous avez résolu une capacité \"<b>Interruption</b>\" ou \"<b>Réponse</b>\" d'un événement, redressez Ghost-Spider. (Limite d'une fois par phase.)",
+		"flavor": "\"Combattre un monstre n'est pas le pire moyen de passer son vendredi soir pour une adolescente.\"",
 		"traits": "Web-Warrior."
 	},
 	{
 		"code": "27001b",
-		"flavor": "\"C'est parti pour le solo de batterie !\"",
 		"name": "Gwen Stacy",
 		"text": "<b>Action</b> : choisissez : soit vous mélangez dans votre deck le Billet pour le Multivers depuis votre pile défausse, soit vous redressez George Stacy. (Limite d'une fois par round.)",
+		"flavor": "\"C'est parti pour le solo de batterie !\"",
 		"traits": "Civil."
 	},
 	{
 		"code": "27002",
-		"flavor": "\"J'espérais que vous feriez AU MOINS semblant de vous battre.\" — Ghost-Spider",
 		"name": "Coup de Pied Fantôme",
 		"text": "<b>Réponse de héros</b> <i>(attaque)</i> : après que Ghost-Spider a utilisé un pouvoir de base, infligez 6 dégâts à un ennemi. (1 max par utilisation de pouvoir de base.)",
+		"flavor": "\"J'espérais que vous feriez AU MOINS semblant de vous battre.\" — Ghost-Spider",
 		"traits": "Attaque."
 	},
 	{
@@ -27,9 +27,9 @@
 	},
 	{
 		"code": "27004",
-		"flavor": "\"La vie prend un tout autre sens quand on voit le monde à l'envers.\" — Ghost-Spider",
 		"name": "Salto Fantôme",
 		"text": "<b>Réponse de héros</b> <i>(contre)</i> : après que Ghost-Spider a utilisé un pouvoir de base, retirez 5 menaces d'une manigance. (1 max par utilisation de pouvoir de base.)",
+		"flavor": "\"La vie prend un tout autre sens quand on voit le monde à l'envers.\" — Ghost-Spider",
 		"traits": "Contre."
 	},
 	{
@@ -46,9 +46,9 @@
 	},
 	{
 		"code": "27007",
-		"flavor": "\"Crois-moi, ce n'est pas Ghost-Spider le problème.\"",
 		"name": "George Stacy",
 		"text": "Les événements attachés à George Stacy peuvent être joués comme s'ils étaient dans votre main.\n<b>Action</b> : inclinez George Stacy → attachez 1 événement de votre main à cette carte, face cachée (jusqu'à un maximum de 3).",
+		"flavor": "\"Crois-moi, ce n'est pas Ghost-Spider le problème.\"",
 		"traits": "Individu."
 	},
 	{
@@ -59,40 +59,40 @@
 	},
 	{
 		"code": "27009",
-		"flavor": "\"Voilà qui devrait être pratique.\" — Gwen Stacy",
 		"name": "Bracelet-Toile",
 		"text": "<b>Réponse de héros</b> : après que vous avez résolu une capacité \"<b>Interruption</b>\" ou \"<b>Réponse</b>\" d'un événement, inclinez le Bracelet-Toile → piochez 1 carte. (1 max par événement.)",
+		"flavor": "\"Voilà qui devrait être pratique.\" — Gwen Stacy",
 		"traits": "Objet. Tech."
 	},
 	{
 		"code": "27010",
-		"flavor": "\"Je crois que je commence à me faire à cette vie de super-héroïne.\"",
 		"name": "Silk",
 		"subname": "Cindy Moon",
 		"text": "<b>Réponse</b> : après avoir joué Silk de votre main, si vous contrôlez une autre carte [[WEB-WARRIOR]], cherchez une traîtrise dans le deck Rencontre et défaussez-la. <i>(Mélangez le deck Rencontre.)</i>",
+		"flavor": "\"Je crois que je commence à me faire à cette vie de super-héroïne.\"",
 		"traits": "Web-Warrior."
 	},
 	{
 		"code": "27011",
-		"flavor": "\"Brooklyn n'aime pas être dirigée. Et nous non plus.\"",
 		"name": "Spider-Man",
 		"subname": "Miles Morales",
 		"text": "<b>Réponse</b> : après avoir joué Spider-Man de votre main, si vous contrôlez au moins 3 cartes [[WEB-WARRIOR]], sonnez et désorientez un ennemi.",
+		"flavor": "\"Brooklyn n'aime pas être dirigée. Et nous non plus.\"",
 		"traits": "Web-Warrior."
 	},
 	{
 		"code": "27012",
-		"flavor": "\"Les gens ont besoin d'aide et de protection. Nous sommes les seuls à pouvoir leur apporter.\"",
 		"name": "Spider-UK",
 		"subname": "Billy Braddock",
 		"text": "<b>Interruption</b> : quand Spider-UK défend contre une attaque, infligez à l'ennemi attaquant un nombre de dégâts égal au nombre de cartes [[WEB-WARRIOR]] que vous contrôlez.",
+		"flavor": "\"Les gens ont besoin d'aide et de protection. Nous sommes les seuls à pouvoir leur apporter.\"",
 		"traits": "Web-Warrior."
 	},
 	{
 		"code": "27014",
-		"flavor": "\"En haut ! En Bas ! Arf, trop lent.\" — Ghost-Spider",
 		"name": "Bond de Côté",
 		"text": "<b>Interruption de héros</b> <i>(défense)</i> : quand vous êtes censé subir n'importe quelle quantité de dégâts, prévenez 2 de ces dégâts. Si vous avez utilisé une ressource [energy] pour payer cette carte, retirez 2 menaces de la manigance principale.",
+		"flavor": "\"En haut ! En Bas ! Arf, trop lent.\" — Ghost-Spider",
 		"traits": "Défense."
 	},
 	{
@@ -103,9 +103,9 @@
 	},
 	{
 		"code": "27016",
-		"flavor": "\"Quand je serai sorti de là, tu comprendras ta douleur.\"",
 		"name": "Ce Qui Ne Me Tue Pas",
-		"text": "Exigence ([physical]). <i>(Lorsque vous payez pour cette carte, dépensez les ressources indiquées.)</i>\n<b>Action de héros</b> : soignez 2 dégâts de votre héros → redressez votre héros."
+		"text": "Exigence ([physical]). <i>(Lorsque vous payez pour cette carte, dépensez les ressources indiquées.)</i>\n<b>Action de héros</b> : soignez 2 dégâts de votre héros → redressez votre héros.",
+		"flavor": "\"Quand je serai sorti de là, tu comprendras ta douleur.\""
 	},
 	{
 		"code": "27017",
@@ -144,50 +144,50 @@
 	},
 	{
 		"code": "27030b",
-		"flavor": "\"Une fois que tu as bondi du haut d'un gratte-ciel et affronté des criminels, tout le reste paraît fade.\"",
 		"name": "Miles Morales",
 		"text": "<b>Réponse</b> : après être passé sous cette forme, mélangez dans votre deck 1 carte du set Spider-Man depuis votre pile de défausse.",
+		"flavor": "\"Une fois que tu as bondi du haut d'un gratte-ciel et affronté des criminels, tout le reste paraît fade.\"",
 		"traits": "Civil."
 	},
 	{
 		"code": "27031",
-		"flavor": "\"Je n'hésiterai pas à t'humilier en plus de te blesser.\" — Spider-Man",
 		"name": "Arachnobaties",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 2 dégâts à un ennemi. Si cet ennemi a une carte d'état Sonné, infligez-lui 3 dégâts supplémentaires. Si cet ennemi a une carte d'état Désorienté, infligez-lui 3 dégâts supplémentaires.",
+		"flavor": "\"Je n'hésiterai pas à t'humilier en plus de te blesser.\" — Spider-Man",
 		"traits": "Attaque."
 	},
 	{
 		"code": "27032",
-		"flavor": "\"Je n'ai pas demander ces pouvoirs, ces... responsabilités. Mais je ne vais pas les gâcher.\" — Miles Morales",
 		"name": "Double Vie",
-		"text": "1 max par round.\n<b>Action</b> : changez de forme. Si vous avez utilisé une ressource [physical] pour payer cette carte, redressez votre identité."
+		"text": "1 max par round.\n<b>Action</b> : changez de forme. Si vous avez utilisé une ressource [physical] pour payer cette carte, redressez votre identité.",
+		"flavor": "\"Je n'ai pas demander ces pouvoirs, ces... responsabilités. Mais je ne vais pas les gâcher.\" — Miles Morales"
 	},
 	{
 		"code": "27033",
-		"flavor": "\"Je vois que tu n'es pas content de me voir... ou plutôt de ne pas me voir ?\" — Spider-Man",
 		"name": "Se Balancer",
 		"text": "<b>Action de héros</b> <i>(contre)</i> : retirez 4 menaces d'une manigance. Si vous avez utilisé une ressource [mental] pour payer cette carte, résolvez la capacité <i>\"Camouflage d'Araignée\"</i> de Spider-Man.",
+		"flavor": "\"Je vois que tu n'es pas content de me voir... ou plutôt de ne pas me voir ?\" — Spider-Man",
 		"traits": "Contre."
 	},
 	{
 		"code": "27034",
-		"flavor": "\"Si ça ne suffit pas à t'arrêter, je connais quelque chose qui fera l'affaire.\" — Spider-Man",
 		"name": "Lancer de Toile",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 4 dégâts à un ennemi. Si vous avez utilisé une ressource [energy] pour payer cette carte, résolvez la capacité <i>\"Rayon Venimeux\"</i> de Spider-Man.",
+		"flavor": "\"Si ça ne suffit pas à t'arrêter, je connais quelque chose qui fera l'affaire.\" — Spider-Man",
 		"traits": "Attaque."
 	},
 	{
 		"code": "27035",
-		"flavor": "\"Je suis le type dans le fauteuil.\"",
 		"name": "Ganke Lee",
 		"text": "<b>Action</b> : inclinez Ganke Lee → piochez 1 carte. Si vous êtes sous forme de héros, choisissez et défaussez 1 carte de votre main.",
+		"flavor": "\"Je suis le type dans le fauteuil.\"",
 		"traits": "Individu."
 	},
 	{
 		"code": "27036",
-		"flavor": "\"Je ne suis pas là pour mon passé, mais je n'en ai pas honte non plus. C'est ce qui a fait de moi ce que je suis.\"",
 		"name": "Jefferson Davis",
 		"text": "<b>Action d'alter ego</b> : inclinez Jefferson Davis → retirez 1 menace de la manigance ayant le moins de menaces.",
+		"flavor": "\"Je ne suis pas là pour mon passé, mais je n'en ai pas honte non plus. C'est ce qui a fait de moi ce que je suis.\"",
 		"traits": "Individu. S.H.I.E.L.D."
 	},
 	{
@@ -216,17 +216,17 @@
 	},
 	{
 		"code": "27041",
-		"flavor": "\"Sérieusement ? C'est vous l'équipe d'élite ? Le niveau était si bas que ça l'année où ils vous ont recrutés ?\"",
 		"name": "Spider-Woman",
 		"subname": "Jessica Drew",
 		"text": "Réduisez de 1 le coût pour jouer Spider-Woman pour chaque ennemi désorienté en jeu.",
+		"flavor": "\"Sérieusement ? C'est vous l'équipe d'élite ? Le niveau était si bas que ça l'année où ils vous ont recrutés ?\"",
 		"traits": "S.H.I.E.L.D. Web-Warrior."
 	},
 	{
 		"code": "27042",
-		"flavor": "\"Vous êtes désormais sous la juridiction du S.H.I.E.L.D. !\"",
 		"name": "Intervention de l'Agence",
 		"text": "<b>Action</b> : inclinez jusqu'à 3 cartes [[S.H.I.E.L.D.]] que vous contrôlez et choisissez une manigance → retirez 2 manigances de cette manigance pour chaque carte ainsi inclinée.",
+		"flavor": "\"Vous êtes désormais sous la juridiction du S.H.I.E.L.D. !\"",
 		"traits": "S.H.I.E.L.D. Tactique."
 	},
 	{
@@ -243,10 +243,10 @@
 	},
 	{
 		"code": "27046",
-		"flavor": "\"Je porte sur moi les stigmates du passé. Mais il n'y a pas que ça. Je suis meilleure maintenant. Plus forte. Plus sage.\"",
 		"name": "Agent 13",
 		"subname": "Sharon Carter",
 		"text": "[star] <b>Réponse</b> : après que l'Agent 13 a attaqué ou contré, choisissez un soutien [[S.H.I.E.L.D.]] → redressez ce soutien.",
+		"flavor": "\"Je porte sur moi les stigmates du passé. Mais il n'y a pas que ça. Je suis meilleure maintenant. Plus forte. Plus sage.\"",
 		"traits": "S.H.I.E.L.D. Espion."
 	},
 	{
@@ -264,24 +264,24 @@
 	},
 	{
 		"code": "27049",
-		"flavor": "\"Tu vois, Miles. C'est comme ça qu'on fait.\"",
 		"name": "Spider-Man",
 		"subname": "Peter Parker",
 		"text": "Exigence ([energy] [mental] [physical]). <i>(Lorsque vous payez pour cette carte, dépensez les ressources indiquées.)</i>\n<b>Réponse</b> : après que Spider-Man a attaqué ou contré, choisissez un autre personnage [[WEB-WARRIOR]] → redressez le personnage choisi.",
+		"flavor": "\"Tu vois, Miles. C'est comme ça qu'on fait.\"",
 		"traits": "Web-Warrior."
 	},
 	{
 		"code": "27054",
-		"flavor": "\"Je vais dire à mes gars de contacter vos gars.\"",
 		"name": "Agent de Liaison",
 		"text": "<b>Action de héros</b> : inclinez l'Agent de Liaison → jouez une carte [[S.H.I.E.L.D.]] de votre main en réduisant de 1 son coût en ressources.",
+		"flavor": "\"Je vais dire à mes gars de contacter vos gars.\"",
 		"traits": "Individu. S.H.I.E.L.D."
 	},
 	{
 		"code": "27055",
-		"flavor": "\"On ne déploie pas souvent un Torpilleur du Ciel. Et quand on le fait, c'est que la situation est en train de devenir critique.\" — Nick Fury",
 		"name": "Torpilleur du Ciel",
 		"text": "<b>Réponse</b> : après que vous avez joué une carte [[S.H.I.E.L.D.]], inclinez le Torpilleur du Ciel → infligez 2 dégâts à un ennemi.",
+		"flavor": "\"On ne déploie pas souvent un Torpilleur du Ciel. Et quand on le fait, c'est que la situation est en train de devenir critique.\" — Nick Fury",
 		"traits": "S.H.I.E.L.D. Véhicule."
 	},
 	{
