@@ -1,67 +1,67 @@
 [
 	{
 		"code": "49027",
-		"name": "Old Grievances",
-		"text": "<b><i>Give to the Erik Lehnsherr player.</i></b>\n<b>Forced Response</b>: After you use your <i>\"Magnetic Pull\"</i> ability, take 1 damage for each card discarded by it.\n<b>Alter-Ego Action</b>: Exhaust Erik Lehnsherr → discard Old Grievances."
+		"name": "Vieilles Querelles",
+		"text": "<b><i>Donnez cette carte au joueur de Erik Lehnsherr.</i></b>\n<b>Réponse forcée</b> : après avoir utilisé votre capacité « Attraction Magnétique », subissez 1 dégât pour chaque carte qu'elle a défaussée.\n<b>Action d'alter ego</b> : inclinez Erik Lehnsherr → défaussez Vieilles Querelles."
 	},
 	{
 		"code": "49028",
 		"name": "Exodus",
-		"text": "Steady. Toughness. Villainous.\n[star] <b>Forced Response</b>: After Exodus attacks you, discard cards from the top of your deck equal to his total ATK.\n<i>(Magneto's nemesis minion.)</i>",
-		"traits": "Acolyte. Elite. Psionic."
+		"text": "Solide. Ténacité. Vilenie.\netoile <b>Réponse forcée</b> : après qu'Exodus vous a attaqué, défaussez un nombre de cartes du dessus de votre deck égal à son total d'ATQ.\n(<i>Sbire Némésis de Magnéto.</i>)",
+		"traits": "Acolyte. Elite. Psionique."
 	},
 	{
 		"code": "49029",
-		"name": "Martyr for Mutants",
-		"text": "<b>When Defeated</b>: The defeating player discards the top 9 cards of their deck.",
-		"flavor": "Magneto's former Acolytes felt betrayed by their leader's change of heart about mutant and human coexistence."
+		"name": "Le Martyr des Mutants",
+		"text": "<b>Une fois déjouée</b> : le joueur qui a dejoué cette manigance défausse les 9 cartes du dessus de son deck.",
+		"flavor": "Les anciens Acolytes de Magnéto se sont sentis trahis lorsque leur chef a changé d'avis sur la coexistence des humains et des mutants."
 	},
 	{
 		"code": "49030",
 		"name": "Fabian Cortez",
-		"text": "Guard.\n<b>When Defeated</b>: The defeating player discards the top 4 cards of their deck.\n<hr />\n[star] <b>Boost</b>: Discard the top 4 cards of your deck.",
+		"text": "Garde.\nUne fois vaincu : le joueur qui a vaincu ce sbire défausse les 4 cartes du dessus de son deck.\n<hr>\n[star] <b>Boost</b> : défaussez les 4 cartes du dessus de votre deck.",
 		"traits": "Acolyte."
 	},
 	{
 		"code": "49031",
 		"name": "Frenzy",
-		"text": "Quickstrike.\n[star] <b>Forced Response</b>: After Frenzy attacks you, discard the top 2 cards of your deck.\n<hr />\n[star] <b>Boost</b>: Discard the top 4 cards of your deck.",
+		"text": "Coup Rapide.\n[star] ﻿﻿<b>Réponse forcée</b> : après que Frenzy vous a attaqué, défaussez les 2 cartes du dessus de votre deck.\n</hr>\n[star] ﻿﻿<b>Boost </b>: défaussez les 4 cartes du dessus de votre deck.",
 		"traits": "Acolyte."
 	},
 	{
 		"code": "49032",
-		"name": "Angry Acolyte",
-		"text": "<b>When Revealed</b>: Each [[Acolyte]] minion engaged with a player activates against that player. If no minion activates this way, discard cards from the top of the encounter deck until an [[Acolyte]] minion is discarded. Reveal that minion."
+		"name": "Acolytes en Colère",
+		"text": "<b>Une fois révélée</b> : chaque sbire [[Acolyte ]]engagé avec un joueur s'active contre ce joueur. Si aucun sbire n'est activé par cet effet, défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire [[Acolyte ]]soit défaussé. Révélez ce sbire."
 	},
 	{
 		"code": "49038",
 		"name": "Sebastian Shaw",
-		"text": "Toughness. Villainous.\n<b>Forced Response</b>: After Sebastian Shaw is attacked, give him a facedown boost card. He cannot be attacked again this phase.",
-		"flavor": "\"Never raise a hand to your betters, serf!\"",
+		"text": "Ténacité. Vilenie.\n<b>Réponse forcée</b> : après que Sebastian Shaw a été attaqué, donnez-lui une carte de boost face cachée. Il ne peut plus être attaqué lors de cette phase.",
+		"flavor": "« Ne lève jamais la main sur tes supérieurs, serf ! »",
 		"traits": "Hellfire."
 	},
 	{
 		"code": "49039",
-		"name": "Selene",
-		"text": "Quickstrike. Villainous.\nAllies cannot attack Selene\n<hr />\n[star] <b>Boost</b>: Discard an ally you control.",
-		"flavor": "\"Foolish child! Countless thousands have gone to the fire in my name.\"",
+		"name": "Sélené",
+		"text": "Coup Rapide. Vilenie.\nLes alliés ne peuvent pas attaquer Séléné.\n</hr>\n[star] <b>Boost </b>: défaussez un allié que vous contrôlez.",
+		"flavor": "« Fol enfant ! On ne compte plus les milliers d'âmes qui ont brûlé en mon nom. »",
 		"traits": "Hellfire."
 	},
 	{
 		"code": "49040",
-		"name": "Hellfire Pawn",
-		"text": "Guard. Patrol. Surge.\n<i>(While a minion with the patrol keyword is engaged with you, you cannot thwart the main scheme.)</i>\n<hr />\n[star] <b>Boost</b>: Put Hellfire Pawn into play engaged with you.",
-		"traits": "Hellfire."
+		"name": "Pion des Damnés",
+		"text": "Garde. Patrouille. Renfort.\n(<i>Tant qu'un sbire doté du mot-clé Patrouille est engagé avec vous, vous ne pouvez pas contrer la manigance principale</i>.)\n\n[star] <b>Boost </b>: mettez en jeu le Pion des Damnés engagé avec vous.",
+		"traits": "Damnés"
 	},
 	{
 		"code": "49041",
-		"name": "The Inner Circle",
-		"text": "<b>When Revealed</b>: Place 2 additional threat here for each [[Hellfire]] card in play.",
-		"flavor": "The inner circle of the Hellfire Club uses its wealth and power to plot the course of mutant affairs in secret."
+		"name": "Le Cercle restreint",
+		"text": "<b>Une fois révélée</b> : placez 2 menaces supplémentaires sur cette carte pour chaque carte Damnés en jeu.",
+		"flavor": "Le cercle restreint du Club des Damnés utilise sa fortune et son pouvoir pour manipuler le destin des mutants sous le sceau du secret."
 	},
 	{
 		"code": "49042",
-		"name": "Power and Decadence",
-		"text": "<b>When Revealed</b>: Give the villain a tough status card. Give this card to that villain as a facedown boost card.\n<hr />\n[star] <b>Boost</b>: After this activation, the activating enemy activates against you again. Do not give it a boost card for that activation."
+		"name": "Puissance et Décadence",
+		"text": "<b>Une fois révélée</b> : donnez une carte d'état Tenace au méchant. Donnez cette traîtrise au méchant en tant que carte de boost face cachée.\n<hr>\n[star] <b>Boost </b>: après cette activation, l'ennemi actif s'active à nouveau contre vous. Ne lui donnez pas de carte de boost pour cette activation."
 	}
 ]

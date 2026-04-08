@@ -118,7 +118,7 @@
 	{
 		"code": "49017",
 		"name": "Prêt au Combat",
-		"text": "Action de héros : défaussez des cartes du deck Rencontre jusqu'à ce que vous défaussiez un sbire. Mettez-le en jeu engagé avec vous → jouez un allié de votre main, en réduisant de 3 son coût.",
+		"text": "<b>Action de héros</b> : défaussez des cartes du deck Rencontre jusqu'à ce que vous défaussiez un sbire. Mettez-le en jeu engagé avec vous → jouez un allié de votre main, en réduisant de 3 son coût.",
 		"flavor": "« C'est parti. » - M",
 		"traits": "Tactique."
 	},
@@ -138,14 +138,14 @@
 	{
 		"code": "49020",
 		"name": "Nouvelles Recrues",
-		"text": "Victoire 0.\nJouez cette carte uniquement si votre identité a le trait[[ X-Men]].\nUne fois déjouée : chaque joueur choisit 1 allié Nouveau mis de côté et l'ajoute à sa main.",
+		"text": "Victoire 0.\nJouez cette carte uniquement si votre identité a le trait[[ X-Men]].\n<b>Une fois déjouée</b> : chaque joueur choisit 1 allié Nouveau mis de côté et l'ajoute à sa main.",
 		"flavor": "Le rêve de tous les étudiants de l'Institut Xavier, c'est de rejoindre les X-Men."
 	},
 	{
 		"code": "49021",
 		"name": "La Reine Blanche",
 		"subname": "Emma Frost",
-		"text": "Jouez cette carte uniquement si votre identité a le trait [[X-Force]] ou [[X-Men]].\nRéponse : après que la Reine Blanche est entrée en jeu, défaussez une carte d'état d'un personnage.",
+		"text": "Jouez cette carte uniquement si votre identité a le trait [[X-Force]] ou [[X-Men]].\n<b>Réponse</b> : après que la Reine Blanche est entrée en jeu, défaussez une carte d'état d'un personnage.",
 		"flavor": "« Oh, très cher, je n'ai besoin d'aucun pouvoir psionique pour vous manipuler. »",
 		"traits": "Psionique. X-Men."
 	},

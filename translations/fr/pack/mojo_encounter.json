@@ -90,7 +90,7 @@
 		"text": "<b>Une fois révélée</b> : vous êtes désorienté. Placez 2 menaces sur la manigance principale (4 menaces à la place s'il y a plus de jetons Audimat sur Les Challengeurs que sur Le Champion).\n<hr />\n[star] <b>Boost</b>: vous êtes désorienté."
 	},
 	{
-		"code": "39012B",
+		"code": "39012b",
 		"name": "Spirale",
 		"text": "S'il y a au moins 3[per_hero] jetons Téléportation sur cette carte, retirez-les tous et retournez Spirale.\n[star] <b>Réponse forcée</b> : après que Spirale s'est activée, placez 1 jeton Téléportation sur elle.",
 		"traits": "Acculée. Mystique."
@@ -102,13 +102,7 @@
 		"traits": "En fuite. Mystique."
 	},
 	{
-		"code": "39012b",
-		"name": "Spiral",
-		"text": "If there are at least 3[per_hero] teleport counters here, remove all of them and flip Spiral.\n[star] <b>Forced Response</b>: After Spiral activates, place 1 teleport counter here.",
-		"traits": "Cornered. Mystic."
-	},
-	{
-		"code": "39013B",
+		"code": "39013b",
 		"name": "Spirale",
 		"text": "S'il y a au moins 2[per_hero] jetons Téléportation sur cette carte, retirez-les tous et retournez Spirale.\n[star] <b>Réponse forcée</b> : après que Spirale s'est activée, placez 1 jeton Téléportation sur elle.",
 		"traits": "Acculée. Mystique."
@@ -120,13 +114,7 @@
 		"traits": "En fuite. Mystique."
 	},
 	{
-		"code": "39013b",
-		"name": "Spiral",
-		"text": "If there are at least 2[per_hero] teleport counters here, remove all of them and flip Spiral.\n[star] <b>Forced Response</b>: After Spiral activates, place 1 teleport counter here.",
-		"traits": "Cornered. Mystic."
-	},
-	{
-		"code": "39014B",
+		"code": "39014b",
 		"name": "Spirale",
 		"text": "S'il y a au moins 3[per_hero] jetons Téléportation sur cette carte, retirez-les tous et retournez Spirale.\n<b>Une fois révélée</b> : Spirale attaque chaque joueur dans l'ordre des joueurs <i>(même s'il est sous forme d'alter ego)</i>.\n[star] <b>Réponse forcée</b> : après que Spirale s'est activée, placez 1 jeton Téléportation sur elle.",
 		"traits": "Acculée. Mystique."
@@ -136,12 +124,6 @@
 		"name": "Spirale",
 		"text": "Spirale ne peut ni subir de dégât ni être sonnée. Aucune menace ne peut être retirée de la manigance principale.\n[star] <b>Interruption forcée</b> : quand Spirale est censée attaquer, elle manigance à la place.",
 		"traits": "En fuite. Mystique."
-	},
-	{
-		"code": "39014b",
-		"name": "Spiral",
-		"text": "If there are at least 3[per_hero] teleport counters here, remove all of them and flip Spiral.\n<b>When Revealed</b>: Spiral attacks each player in player order <i>(even in alter-ego form)</i>.\n[star] <b>Forced Response</b>: After Spiral activates, place 1 teleport counter here.",
-		"traits": "Cornered. Mystic."
 	},
 	{
 		"code": "39015a",
