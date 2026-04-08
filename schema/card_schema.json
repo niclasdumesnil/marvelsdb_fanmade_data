@@ -1,5 +1,7 @@
 {
+	"$schema": "http://json-schema.org/draft-04/schema#",
 	"additionalProperties": true,
+	"description": "JSON Schema for a Marvel Champions card — derived from Card.orm.yml",
 	"dependencies": {
 		"name": [
 			"faction_code",
@@ -7,6 +9,9 @@
 		]
 	},
 	"properties": {
+		"alt_art": {
+			"type": "boolean"
+		},
 		"attack": {
 			"oneOf": [
 				{
@@ -26,6 +31,14 @@
 			"type": "boolean"
 		},
 		"back_flavor": {
+			"minLength": 1,
+			"type": "string"
+		},
+		"back_link": {
+			"type": "string",
+			"minLength": 1
+		},
+		"back_name": {
 			"minLength": 1,
 			"type": "string"
 		},
@@ -75,6 +88,10 @@
 		"cost_per_hero": {
 			"type": "boolean"
 		},
+		"creator": {
+			"minLength": 1,
+			"type": "string"
+		},
 		"deck_limit": {
 			"minimum": 1,
 			"type": "integer"
@@ -92,7 +109,7 @@
 					},
 					"resource": {
 						"items": {
-							"minlength": 1,
+							"minLength": 1,
 							"type": "string"
 						},
 						"minItems": 1,
@@ -100,7 +117,7 @@
 					},
 					"trait": {
 						"items": {
-							"minlength": 1,
+							"minLength": 1,
 							"type": "string"
 						},
 						"minItems": 1,
@@ -108,7 +125,7 @@
 					},
 					"type": {
 						"items": {
-							"minlength": 1,
+							"minLength": 1,
 							"type": "string"
 						},
 						"minItems": 1,
@@ -182,7 +199,15 @@
 		"escalation_threat_star": {
 			"type": "boolean"
 		},
+		"expansions_needed": {
+			"minLength": 1,
+			"type": "string"
+		},
 		"faction_code": {
+			"minLength": 1,
+			"type": "string"
+		},
+		"faction2_code": {
 			"minLength": 1,
 			"type": "string"
 		},
@@ -214,12 +239,15 @@
 		"health_star": {
 			"type": "boolean"
 		},
+		"hidden": {
+			"type": "boolean"
+		},
 		"illustrator": {
 			"pattern": ".*",
 			"type": "string"
 		},
 		"is_unique": {
-			"oneof": [
+			"oneOf": [
 				{
 					"type": "boolean"
 				},
@@ -228,7 +256,14 @@
 				}
 			]
 		},
+		"meta": {
+			"type": "object"
+		},
 		"name": {
+			"minLength": 1,
+			"type": "string"
+		},
+		"octgn_id": {
 			"minLength": 1,
 			"type": "string"
 		},
@@ -275,7 +310,22 @@
 			"minLength": 1,
 			"type": "string"
 		},
+		"scheme": {
+			"oneOf": [
+				{
+					"minimum": -1,
+					"type": "integer"
+				},
+				{
+					"type": "null"
+				}
+			]
+		},
 		"scheme_acceleration": {
+			"minimum": 1,
+			"type": "integer"
+		},
+		"scheme_amplify": {
 			"minimum": 1,
 			"type": "integer"
 		},
@@ -293,6 +343,10 @@
 		"set_code": {
 			"minLength": 1,
 			"type": "string"
+		},
+		"set_position": {
+			"minimum": 1,
+			"type": "integer"
 		},
 		"stage": {
 			"minLength": 1,

@@ -1,5 +1,7 @@
 {
-	"additionalProperties": false,
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"additionalProperties": true,
+	"description": "JSON Schema for a Marvel Champions card type — derived from Type.orm.yml",
 	"properties": {
 		"code": {
 			"minLength": 1,
