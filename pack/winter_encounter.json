@@ -46,7 +46,8 @@
 		"set_code": "winter_soldier_nemesis",
 		"set_position": 2,
 		"text": "Each [[Hydra]] minion gets +1 ATK and +2 hit points.\n<b>When Defeated</b>: The player who defeated this scheme searches the encounter deck and discard pile for a [[Hydra]] minion and reveals it. <i>(Shuffle.)</i>",
-		"type_code": "side_scheme"
+		"type_code": "side_scheme",
+		"traits": ""
 	},
 	{
 		"attack": 1,

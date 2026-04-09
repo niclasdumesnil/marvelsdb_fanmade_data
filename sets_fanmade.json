@@ -951,6 +951,12 @@
     "card_set_type_code": "hero"
   },
   {
+    "card_set_type_code": "hero_special",
+    "code": "young_avengers_narrative",
+    "name": "Young Avengers",
+    "parent_code": "iron_lad_by_cptscorp, hawkeye_by_cptscorp, stature_by_captain_corp_&_hax"
+  },
+  {
     "code": "shang_chi",
     "name": "Shang-Chi",
     "card_set_type_code": "hero"

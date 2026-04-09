@@ -1,54 +1,54 @@
 [
 	{
 		"code": "51031",
-		"name": "T'Challa's Shadow",
-		"text": "<b><i>Give to the Shuri player.</i></b>\nUses (4 doubt counters). Victory 0.\nIncrease the resource cost of each card you play by 1.\n<b>Forced Response</b>: After you thwart, attack, or defend, remove 1 doubt counter from here."
+		"name": "L'Ombre de T'Challa",
+		"text": "<b><i>Donnez cette carte au joueur de Shuri.</i></b>\nUtilisations (4 jetons Doute). Victoire 0.\nAugmentez de 1 le coût en ressources de chaque carte que vous jouez.\n<b>Réponse forcée</b> : après que vous avez contré, attaqué ou défendu, retirez 1 jeton Doute de cette obligation."
 	},
 	{
 		"code": "51032",
-		"flavor": "\"Once my sweet music plays...the world will be mine!\"",
 		"name": "Klaw",
-		"text": "[star] <b>Forced Interrupt</b>: When Klaw attacks, give him 1 boost card for this activation.\n<i>(Black Panther's nemesis minion.)</i>",
-		"traits": "Elite. Masters of Evil."
+		"text": "[star] <b>Interruption forcée</b> : quand Klaw vous attaque, donnez-lui 1 carte de boost pour cette activation.\n<i>(Sbire Némésis de Black Panther.)</i>",
+		"flavor": "« Lorsque tout le monde entendra ma douce musique... le monde sera à moi ! »",
+		"traits": "Elite. Maîtres du Mal."
 	},
 	{
 		"code": "51033",
-		"flavor": "Klaw aims to use the powers of the girl he calls M.U.S.I.C. to mind-control the world.",
-		"name": "Manipulated M.U.S.I.C.",
-		"text": "<b>When Revealed</b>: Find M.U.S.I.C. and put her into play engaged with you.\n<b>When Defeated</b>: Discard M.U.S.I.C. from play."
+		"name": "M.U.S.I.C. Manipulée",
+		"text": "<b>Une fois révélée</b> : trouvez M.U.S.I.C. et mettez-la en jeu engagée avec vous.\n<b>Une fois déjouée</b> : défaussez M.U.S.I.C. du jeu.",
+		"flavor": "Klaw a pour dessein d'utiliser les pouvoirs de la fille qu'il appelle M.U.S.I.C. pour contrôler les esprits du monde entier."
 	},
 	{
 		"code": "51034",
 		"name": "M.U.S.I.C.",
-		"text": "<b>When Revealed</b>: Find Manipulated M.U.S.I.C. and put it into play.\n<b>When Defeated</b>: Move all threat from Manipulated M.U.S.I.C. to the main scheme.",
-		"traits": "Captive."
+		"text": "<b>Une fois révélée</b> : trouvez M.U.S.I.C. Manipulée et mettez-la en jeu.\n<b>Une fois vaincue</b> : déplacez vers la manigance principale toute la menace qui se trouve sur M.U.S.I.C. Manipulée.",
+		"traits": "Captif."
 	},
 	{
 		"code": "51035",
-		"name": "The Scream",
-		"text": "<b>When Revealed</b>: Stun each character you control. Deal 1 damage to each of those characters that was already stunned.\n<hr />\n[star] <b>Boost</b>: You are stunned. If you were already stunned, take 1 damage."
+		"name": "Le Cri",
+		"text": "<b>Une fois révélée</b> : sonnez chaque personnage que vous contrôlez. Infligez 1 dégât à chacun de ces personnages qui était déjà sonné\n[star] <b>Boost</b> : vous êtes sonné. Si vous étiez déjà sonné, subissez 1 dégât."
 	},
 	{
 		"code": "51039",
 		"name": "Joystick",
-		"text": "Villainous. Victory 1.\n[star] <b>Forced Interrupt</b>: When Joystick activates against you, choose:\n• Give her 1 additional boost card for this activation and draw 1 card.\n• Give her a tough status card.",
+		"text": "Vilenie. Victoire 1.\n[star] <b>Interruption forcée</b> : quand Joystick s'active contre vous, choisissez : \n•  ﻿Donnez-lui 1 carte de boost supplémentaire pour cette activation et piochez 1 carte.   \n•  ﻿﻿Donnez-lui une carte d'état Tenace.",
 		"traits": "Elite. Thunderbolt."
 	},
 	{
 		"code": "51040",
-		"name": "Energy Truncheon",
-		"text": "Attach to Joystick. Otherwise, attach to the villain.\n[star] Attached enemy's attacks gain piercing.\n<b>Hero Action</b>: Attached enemy attacks you. After this attack, discard this card and draw 1 card.",
-		"traits": "Tech. Weapon."
+		"name": "Matraque Energétique",
+		"text": "Attachez cette carte à Joystick. Sinon, attachez-la au méchant.\n[star] Les attaques de l'ennemi attaché gagnent Perçant.\n<b>Action de héros</b> : l'ennemi attaché vous attaque. Après cette attaque, défaussez cet attachement et piochez 1 carte.",
+		"traits": "Tech. Arme."
 	},
 	{
 		"code": "51041",
-		"flavor": "\"Try keepin' up.\" —Joystick",
-		"name": "Playing for Keeps",
-		"text": "Each identity gets +1 hand size.\n<b>Forced Interrupt</b>: When an enemy activates, give it 1 boost card for that activation <i>(in addition to any other boost cards it gets)</i>."
+		"name": "Jouer Pour le Plaisir",
+		"text": "La taille de main de chaque identité gagne +1.\n<b>Interruption forcée</b> : quand un ennemi s'active, donnez-lui 1 carte de boost pour cette activation (en plus des autres cartes de boost qu'il pourrait déjà recevoir).",
+		"flavor": "« Essaye de suivre ! » - Joystick"
 	},
 	{
 		"code": "51042",
-		"name": "Extreme Risk",
-		"text": "<b>When Revealed</b>: Find Joystick and reveal her. <i>(If she is already in play, she engages you.)</i> Joystick activates against you. If no enemy  activated this way, this card gains surge.\n<hr />\n[star] <b>Boost</b>: You may give the activating enemy an additional boost card. If you do, draw 1 card."
+		"name": "Risque Extrême",
+		"text": "<b>Une fois révélée</b> : trouvez Joystick et révélez-la (si elle est déjà en jeu, elle vous engage.) Joystick s'active contre vous. Si aucun ennemi n'a été activé par cet effet, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : vous pouvez donner une carte de boost supplémentaire à l'ennemi en cours d'activation. Si vous le faites, piochez 1 carte."
 	}
 ]

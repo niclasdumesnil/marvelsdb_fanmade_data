@@ -2,285 +2,285 @@
 	{
 		"code": "50001a",
 		"name": "Maria Hill",
-		"text": "Each ally you control gains the [[S.H.I.E.L.D.]] trait.\n<i>Reassignment</i> — <b>Action</b>: Move 1 all-purpose counter from a [[S.H.I.E.L.D.]] support to another [[S.H.I.E.L.D.]] support. (Limit once per round.)",
-		"traits": "S.H.I.E.L.D. Spy."
+		"text": "Chaque allié que vous contrôlez gagne le trait [[S.H.I.E.L.D.]].\n<i>Réaffectation</i> — <b>Action</b> : déplacez 1 jeton générique d'un soutien [[S.H.I.E.L.D.]] vers un autre soutien [[S.H.I.E.L.D.]] (Limite d'une fois par round.)",
+		"traits": "S.H.I.E.L.D. Espion."
 	},
 	{
 		"code": "50001b",
 		"name": "Maria Hill",
-		"text": "You may include the maximum number of copies of 3 [[S.H.I.E.L.D.]] supports in your deck from aspects other than your chosen aspect.\n<b>Action</b>: Exhaust Maria Hill → search your deck for a [[S.H.I.E.L.D.]] support and add it to your hand.",
-		"traits": "S.H.I.E.L.D. Spy."
+		"text": "Vous pouvez inclure dans votre deck le nombre maximum d'exemplaires de 3 soutiens [[S.H.I.E.L.D.]]  appartenant à d'autres affinités que celle que vous avez choisie.\n<b>Action</b> : inclinez Maria Hill → cherchez dans votre deck un soutien [[S.H.I.E.L.D.]]  et ajoutez-le à votre main.",
+		"traits": "S.H.I.E.L.D. Espion."
 	},
 	{
 		"code": "50002",
-		"flavor": "\"I put my best agent on the case.\" —Maria Hill",
 		"name": "Nick Fury",
-		"text": "[star] <b>Response</b>: After Nick Fury uses a basic power, place 1 all-purpose counter on a [[S.H.I.E.L.D.]] support.",
+		"text": "[star] <b>Réponse</b> : après que Nick Fury a utilisé un pouvoir de base, placez 1 jeton générique sur un soutien [[S.H.I.E.L.D.]].",
+		"flavor": "« Je mets mon meilleur agent sur le coup. » - Maria Hill",
 		"traits": "S.H.I.E.L.D."
 	},
 	{
 		"code": "50003",
-		"name": "All-Points Bulletin",
-		"text": "<b>Hero Action</b>: For each [[S.H.I.E.L.D.]] support you control, choose:\n• Remove 1 threat from a scheme.\n• Deal 1 damage to an enemy.",
-		"traits": "Tactic."
+		"name": "Avis de Recherche",
+		"text": "<b>Action de héros</b> : pour chaque soutien [[S.H.I.E.L.D.] que vous contrôlez, choisissez :    ﻿﻿\n• Retirez 1 menace d'une manigance.\n• ﻿﻿Infligez 1 dégât à un ennemi.",
+		"traits": "Tactique."
 	},
 	{
 		"code": "50004",
-		"flavor": "\"I want the suspect in custody yesterday!\" —Maria Hill",
-		"name": "On the Double",
-		"text": "<b>Action</b>: Ready any number of [[S.H.I.E.L.D.]] supports with a combined printed cost of 6 or less."
+		"name": "Intervention Eclair",
+		"text": "<b>Action</b> : redressez n'importe quel nombre de soutiens [[S.H.I.E.L.D.]] pour un coût imprimé combiné de 6 ou moins.",
+		"flavor": "« Je veux que le suspect soit arrêté ! Et que ça saute ! » - Maria Hill"
 	},
 	{
 		"code": "50005",
-		"flavor": "\"We got orders straight from the Director. Move it!\" —Dum Dum Dugan",
-		"name": "Reinforcements",
-		"text": "<b>Action</b>: Choose any number of [[S.H.I.E.L.D.]] supports with a combined printed cost of 6 or less. Place 1 all-purpose counter on each of those supports."
+		"name": "Renforts",
+		"text": "<b>Action</b> : choisissez n'importe quel nombre de soutiens [[S.H.I.E.L.D.]] pour un coût imprimé combiné de 6 ou moins. Placez 1 jeton générique sur chacun de ces soutiens.",
+		"flavor": "« Les ordres viennent directement de la Directrice. Bougez-vous ! » - Dum Dum Dugan"
 	},
 	{
 		"code": "50006",
-		"flavor": "\"Sometimes it just comes down to numbers. More people die if I don't act than if I do.\" —Maria Hill",
-		"name": "The Hard Call",
-		"text": "<b>Hero Action</b>: Discard a [[S.H.I.E.L.D.]] support you control → deal X damage to each enemy, where X is the printed cost of the discarded support."
+		"name": "Un Choix Difficile",
+		"text": "<b>Action de héros</b> : défaussez un soutien [[S.H.I.E.L.D.]] que vous contrôlez → infligez X dégâts à chaque ennemi, X étant le coût imprimé du soutien défaussé.",
+		"flavor": "« Parfois, il faut peser le pour et le contre. Parfois des gens meurent quand j'agis, mais plus de gens meurent si je ne le fais pas. » - Maria Hill"
 	},
 	{
 		"code": "50007",
-		"name": "Special Funding",
-		"text": "<b>Response</b>: After you spend this card to pay for a [[S.H.I.E.L.D.]] support, place 1 all-purpose counter on that support after it enters play."
+		"name": "Financement Spécial",
+		"text": "<b>Réponse</b> : après avoir dépensé cette carte pour payer un soutien [[S.H.I.E.L.D.]], placez 1 jeton générique sur ce soutien après son entrée en jeu."
 	},
 	{
 		"code": "50008",
-		"name": "Support Staff",
-		"text": "Uses (3 staff counters).\n<b>Resource</b>: Exhaust Support Staff and remove 1 staff counter from it → generate a [wild] resource for a player whose identity has the [[S.H.I.E.L.D.]] trait.",
-		"traits": "Persona. S.H.I.E.L.D."
+		"name": "Equipe de Soutien",
+		"text": "Utilisations (3 jetons Personnel).\n<b>Ressource</b> : retirez 1 jeton Personnel de l'Équipe de Soutien et inclinez-la → générez une ressource [wild] pour un joueur dont l'identité a le trait [[S.H.I.E.L.D.]].",
+		"traits": "Individu. S.H.I.E.L.D.."
 	},
 	{
 		"code": "50009",
-		"name": "The Iliad",
-		"text": "Uses (3 mission counters).\n<b>Action</b>: Exhaust The Iliad and remove 1 mission counter from it → choose:\n• Deal 5 damage to an enemy.\n• Remove 4 threat from a scheme.\n• Heal 3 damage from an identity.",
-		"traits": "S.H.I.E.L.D. Vehicle."
+		"name": "L'Iliade",
+		"text": "Utilisations (3 jetons Mission).\n<b>Action</b> : retirez 1 jeton Mission de L'Iliade et inclinez-le → choisissez :\n  • ﻿﻿Infligez 5 dégâts à un ennemi.\n  • ﻿﻿Retirez 4 menaces d'une manigance.\n  • ﻿Soignez 3 dégâts d'une identité.",
+		"traits": "S.H.I.E.L.D. Véhicule."
 	},
 	{
 		"code": "50010",
-		"flavor": "\"When you've got job hazards like I do, it pays to take precautions.\" —Maria Hill",
-		"name": "Life Model Decoy",
-		"text": "<b>Interrupt</b>: When an enemy attacks you, discard Life Model Decoy → prevent all damage from that attack.",
-		"traits": "Preparation. Tech."
+		"name": "Simulacre Vie Modélisée",
+		"text": "<b>Interruption</b> : quand un ennemi vous attaque, défaussez Simulacre de Vie Modélisée → prévenez tous les dégâts de cette attaque.",
+		"flavor": "« Lorsque l'on connaît les risques d'un travail comme le mien, ça paye de prendre des précautions. » - Maria Hill",
+		"traits": "Préparation. Tech."
 	},
 	{
 		"code": "50011",
-		"flavor": "\"You don't have to agree with my orders. You just have to carry them out.\" —Maria Hill",
-		"name": "S.H.I.E.L.D. Director",
-		"text": "<b>Action</b>: Exhaust S.H.I.E.L.D. Director → place 1 all-purpose counter on a [[S.H.I.E.L.D.]] support.",
-		"traits": "Title."
+		"name": "Directrice du S.H.I.E.L.D.",
+		"text": "<b>Action</b> : inclinez Directrice du S.H.I.E.L.D. → placez 1 jeton générique sur un soutien [[S.H.I.E.L.D.]].",
+		"flavor": "« Vous n'avez pas besoin d'être d'accord avec mes ordres. Il vous suffit d'y obéir. » - Maria Hill",
+		"traits": "Titre."
 	},
 	{
 		"code": "50012",
-		"flavor": "\"I better get hazard pay for this!\"",
 		"name": "Victoria Hand",
-		"text": "<b>Response</b>: After Victoria Hand enters play, ready a [[S.H.I.E.L.D.]] support.",
+		"text": "<b>Réponse</b> : après que Victoria Hand est entrée en jeu, redressez un soutien [[S.H.I.E.L.D.]].",
+		"flavor": "« J'espère que la prime de risque sera à la hauteur cette fois-ci. »",
 		"traits": "S.H.I.E.L.D."
 	},
 	{
 		"code": "50013",
 		"name": "Slingshot",
 		"subname": "Yo-Yo Rodriguez",
-		"text": "<b>Action</b>: Spend a [energy] resource → put Slingshot into play from your hand under any player's control. At the end of the phase, if Slingshot is still in play, return her to your hand.",
-		"traits": "S.H.I.E.L.D. Spy."
+		"text": "<b>Action</b> : dépensez une ressource [energy] → mettez en jeu Slingshot depuis votre main sous le contrôle de n'importe quel joueur. À la fin de la phase, si Slingshot est toujours en jeu, renvoyez-la dans votre main.",
+		"traits": "S.H.I.E.L.D. Espion."
 	},
 	{
 		"code": "50014",
-		"name": "Organizational Support",
-		"text": "<b>Interrupt</b>: When you spend this card, exhaust up to 3 allies and/or supports you control that share a [[Trait]] with your identity → generate the printed resources on each card exhausted this way."
+		"name": "Soutien Organisationnel",
+		"text": "<b>Interruption</b> : quand vous dépensez cette carte, inclinez jusqu'à 3 alliés et/ou soutiens que vous contrôlez qui partagent un [[Trait]] avec votre identité → générez les ressources imprimées sur chaque carte ainsi inclinée."
 	},
 	{
 		"code": "50015",
-		"name": "Agents of S.H.I.E.L.D.",
-		"text": "Play under any player's control. Max 1 [[Team]] card per player.\nIf each of your characters has the [[S.H.I.E.L.D.]] trait, this card gains: \"<b>Interrupt</b>: When you reveal an encounter card, exhaust this card → cancel the effects of that card and discard it. Then, reveal another card from the encounter deck.\"",
-		"traits": "Team."
+		"name": "Agents du S.H.I.E.L.D.",
+		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 carte [[Équipe]] max par joueur.\nSi chacun de vos personnages a le trait [[S.H.I.E.L.D.]], ce soutien gagne : « <b>Interruption</b> : quand vous révélez une carte Rencontre, inclinez ce soutien → annulez les effets de la carte révélée et défaussez-la. Ensuite, révélez une autre carte du deck Rencontre. »",
+		"traits": "Equipe."
 	},
 	{
 		"code": "50017",
-		"name": "The Circe",
-		"text": "Uses (2 deploy counters).\n<b>Action</b>: Exhaust The Circe, remove 1 deploy counter from it, and choose a player → that player puts an ally into play from their hand.",
-		"traits": "S.H.I.E.L.D. Vehicle."
+		"name": "Le Circé",
+		"text": "Utilisations (2 jetons Déploiement).\n<b>Action</b> : retirez 1 jeton Déploiement du Circé, inclinez-le et choisissez un joueur → ce joueur met en jeu un allié de sa main.",
+		"traits": "S.H.I.E.L.D. Véhicule."
 	},
 	{
 		"code": "50018",
-		"name": "The Bellerophon",
-		"text": "Uses (3 missile counters).\n<b>Action</b>: Exhaust The Bellerophon, remove 1 missile counter from it, and choose a player → deal 3 damage to the villain and each minion engaged with that player, discarding all tough status cards from those enemies first.",
-		"traits": "S.H.I.E.L.D. Vehicle."
+		"name": "Le Bellerophon",
+		"text": "Utilisations (3 jetons Missile).\n<b>Action</b> : retirez 1 jeton Missile du Bellérophon, inclinez-le et choisissez un joueur → infligez 3 dégâts au méchant et à chaque sbire engagé avec ce joueur, en commençant par défausser toutes les cartes d'état Tenace de ces ennemis.",
+		"traits": "S.H.I.E.L.D. Véhicule."
 	},
 	{
 		"code": "50019",
-		"name": "The Douglass",
-		"text": "Uses (3 operation counters).\n<b>Action</b>: Exhaust The Douglass and remove 1 operational counter from it → remove 2 threat from each scheme, ignoring any crisis icons ([crisis]) in play.",
-		"traits": "S.H.I.E.L.D. Vehicle."
+		"name": "Le Douglass",
+		"text": "Utilisations (3 jetons Opération).\n<b>Action</b> : retirez 1 jeton Opération du Douglass et inclinez-le → retirez 2 menaces de chaque manigance, en ignorant toute icône de crise en jeu.",
+		"traits": "S.H.I.E.L.D. Véhicule."
 	},
 	{
 		"code": "50020",
-		"name": "The Pericles",
-		"text": "Uses (2 supply counters).\n<b>Action</b>: Exhaust The Pericles and remove 1 supply counter from it → give a hero or villain a status card of your choice. Give an ally or minion a status card of your choice.",
-		"traits": "S.H.I.E.L.D. Vehicle."
+		"name": "Le Périclès",
+		"text": "Utilisations (2 jetons Ravitaillement).\n<b>Action</b> : retirez 1 jeton Ravitaillement du Périclès et inclinez-le → donnez à un héros ou au méchant une carte d'état de votre choix. Donnez à un allié ou à un sbire une carte d'état de votre choix.",
+		"traits": "S.H.I.E.L.D. Véhicule."
 	},
 	{
 		"code": "50022",
 		"name": "Grant Ward",
-		"text": "Grant Ward cannot defend.\n<b>Forced Response</b>: After you reveal a treachery, you may spend a [mental] resource. If you do not, take damage equal to Grant Ward's ATK and remove Grant Ward from the game.",
-		"traits": "S.H.I.E.L.D. Spy."
+		"text": "Grant Ward ne peut pas défendre.\n<b>Réponse forcée</b> : après que vous avez révélé une traîtrise, vous pouvez dépenser une ressource[ mental]. Si vous ne le faites pas, subissez un nombre de dégâts égal à l'ATQ de Grant Ward et retirez Grant Ward de la partie.",
+		"traits": "S.H.I.E.L.D. Espion."
 	},
 	{
 		"code": "50023",
-		"flavor": "\"Don't call me the Cavalry.\"",
 		"name": "Melinda May",
-		"text": "[star] <b>Response</b>: After Melinda May uses a basic power, look at the top card of the encounter deck. You may discard that card.",
-		"traits": "S.H.I.E.L.D. Spy."
+		"text": "[star] <b>Réponse</b> : après que Melinda May a utilisé un pouvoir de base, regardez la carte du dessus du deck Rencontre. Vous pouvez défausser la carte consultée.",
+		"flavor": "« Non, je ne suis pas la Cavalerie. »",
+		"traits": "S.H.I.E.L.D. Espion."
 	},
 	{
 		"code": "50024",
-		"name": "Super Spies",
-		"text": "Team-Up (Maria Hill and Nick Fury). Max 1 per deck.\n<b>Hero Action</b>: Place a total of 3 all-purpose counters and/or threat tokens on [[S.H.I.E.L.D.]] supports and/or suit form upgrades."
+		"name": "Super Espions",
+		"text": "En Équipe (Maria Hill et Nick Fury). 1 max par deck.\n<b>Action de héros</b> : placez un total de 3 jetons génériques et/ou pions Menace sur des soutiens [[S.H.I.E.L.D.]] et/ou améliorations Forme d'Uniforme."
 	},
 	{
 		"code": "50028",
-		"name": "Front Organization",
-		"text": "Play under any player's control. Max 1 per player.\n<b>Interrupt</b>: When an encounter card effect would discard a card you control, discard Front Organization instead of discarding that card.",
-		"traits": "Location."
+		"name": "Organisation de Façade",
+		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 max par joueur.\n<b>Interruption</b> : quand un effet de carte Rencontre est censé défausser une carte que vous contrôlez, défaussez Organisation de Façade à la place de défausser cette carte.",
+		"traits": "Lieu."
 	},
 	{
 		"code": "50034a",
 		"name": "Nick Fury",
-		"text": "[star] <i>Gather Intel</i> — <b>Response</b>: After Nick Fury makes a basic thwart, place 1 threat on your suit form upgrade.\n<i>Break Cover</i> — <b>Forced Interrupt</b>: When you attack, change to Assault suit form.",
-		"traits": "S.H.I.E.L.D. Soldier. Spy."
+		"text": "[star] <i>Rassembler des informations</i> — <b>Réponse</b> : après que Nick Fury a effectué un contre de base, placez 1 menace sur votre amélioration Forme d'Uniforme.\nQuitter sa couverture - <b>Interruption forcée</b> : quand vous attaquez, passez sous forme d'uniforme Assaut.",
+		"traits": "S.H.I.E.L.D. Soldat. Espion."
 	},
 	{
 		"code": "50034b",
 		"name": "Nick Fury",
-		"text": "<i>Suit Up</i> — <b>Setup</b>: Put your suit form upgrade into play, Assault side faceup.\n<i>Infiltrate</i> — <b>Action</b>: Change to Stealth suit form.",
-		"traits": "S.H.I.E.L.D. Soldier. Spy."
+		"text": "<i>En Uniforme</i> — <b>Mise en place</b> : mettez en jeu votre amélioration Forme d'Uniforme, face Assaut visible.\n<i>Infiltration</i> — <b>Action</b> : passez sous forme d'uniforme Furtivité.",
+		"traits": "S.H.I.E.L.D. Soldat. Espion."
 	},
 	{
 		"code": "50035a",
-		"name": "Assault",
-		"text": "Suit form. Permanent.\n<b>Interrupt</b>: When you attack, remove up to 3 threat from here → this attack deals 1 additional damage for each threat removed this way.",
-		"traits": "Item. Tech."
+		"name": "Assaut",
+		"text": "Forme d'Uniforme.  Permanent.\n<b>Interruption</b> : quand vous attaquez, retirez jusqu'à 3 menaces de cette carte → cette attaque inflige 1 dégât supplémentaire pour chaque menace ainsi retirée.",
+		"traits": "Objet. Tech."
 	},
 	{
 		"code": "50035b",
-		"name": "Stealth",
-		"text": "Suit form. Permanent.\n<b>Forced Interrupt (Hero)</b>: When an enemy would attack you, it schemes instead. Place 1 threat from that activation here instead of on the main scheme if there is 5 or less threat on this card.",
-		"traits": "Item. Tech."
+		"name": "Furtivité",
+		"text": "Forme d'Uniforme. Permanent.\n<b>Interruption forcée (héros)</b> : quand un ennemi est censé vous attaquer, il manigance à la place. Placez 1 menace de cette activation ici au lieu de la manigance principale s'il y a 5 menaces ou moins sur cette amélioration.",
+		"traits": "Objet. Tech."
 	},
 	{
 		"code": "50036",
-		"flavor": "\"Now that's how you make an exit!\"",
 		"name": "Maria Hill",
-		"text": "[star] <b>Interrupt</b>: When Maria Hill thwarts, place the removed threat on your suit form upgrade.",
+		"text": "[star] <b>Interruption</b> : quand Maria Hill contre, la menace retirée est placée sur votre amélioration Forme d'Uniforme.",
+		"flavor": "« Voilà ! C'est ce que j'appelle réussir sa sortie. »",
 		"traits": "S.H.I.E.L.D."
 	},
 	{
 		"code": "50037",
-		"name": "Concentrated Fire",
-		"text": "<b>Hero Action</b> <i>(attack)</i>: Deal 4 damage to an enemy. This attack gains ranged. If this attack defeats an enemy, choose:\n• Place threat on your suit form upgrade equal to that enemy's printed SCH.\n• Change to Stealth suit form.",
+		"name": "Feu Nourri",
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 4 dégâts à un ennemi. Cette attaque gagne À Distance. Si un ennemi est vaincu par cette attaque, choisissez :   \n• ﻿Placez sur votre amélioration Forme d'Uniforme un nombre de menaces égal à la MNG imprimée de cet ennemi.  \n• ﻿﻿Passez sous forme d'uniforme Furtivité.",
 		"traits": "Attack."
 	},
 	{
 		"code": "50038",
-		"name": "Covert Surveillance",
-		"text": "<b>Hero Action</b> <i>(thwart)</i>: Remove 2 threat from a scheme. If you are in Stealth suit form, you may place that threat on your suit form upgrade. Otherwise, you may change to Stealth suit form.",
-		"traits": "Thwart."
+		"name": "Surveillance Discrète",
+		"text": "<b>Action de héros</b> (<i>contre</i>) : retirez 2 menaces d'une manigance. Si vous êtes sous forme d'uniforme Furtivité, vous pouvez placer ces menaces sur votre amélioration Forme d'Uniforme. Sinon, vous pouvez passer sous forme d'uniforme Furtivité.",
+		"traits": "Contre."
 	},
 	{
 		"code": "50039",
-		"flavor": "\"Eat lasers!\" —Nick Fury",
-		"name": "Spray Fire",
-		"text": "<b>Hero Action</b> <i>(attack)</i>: Choose a player. Deal 3 damage to the villain and each minion engaged with that player. This attack gains ranged.",
-		"traits": "Attack."
+		"name": "Tir en Rafale",
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : choisissez un joueur. Infligez 3 dégâts au méchant et à chaque sbire engagé avec ce joueur. Cette attaque gagne À Distance.",
+		"flavor": "« Vous allez manger du laser ! » - Nick Fury",
+		"traits": "Attaque."
 	},
 	{
 		"code": "50040",
-		"flavor": "\"This job has its perks.\" —Nick Fury",
-		"name": "Fury's Flying Car",
-		"text": "<b>Hero Action</b>: Exhaust Fury's Flying Car and remove 1 threat from your suit form upgrade → ready Nick Fury. He gains the [[Aerial]] trait until the end of the round.",
-		"traits": "Aerial. Tech. Vehicle."
+		"name": "Voiture Volante de Fury",
+		"text": "<b>Action de héros</b> : inclinez la Voiture Volante de Fury et retirez 1 menace de votre amélioration Forme d'Uniforme → redressez Nick Fury. Il gagne le trait [[Aérien]] jusqu'à la fin du round.",
+		"flavor": "« Ce job a ses avantages. » - Nick Fury",
+		"traits": "Aérien. Tech. Véhicule."
 	},
 	{
 		"code": "50041",
-		"name": "Safe House #221",
-		"text": "<b>Alter-Ego Action</b>: Exhaust Safe House #221 → choose:\n• Heal 2 damage from Nick Fury.\n• Place 1 threat on your suit form upgrade.",
-		"traits": "Location. S.H.I.E.L.D."
+		"name": "Refuge #221",
+		"text": "<b>Action d'alter ego</b> : inclinez le Refuge #221 → choisissez :   ﻿﻿\n• Soignez 2 dégâts de Nick Fury.\n• ﻿﻿Placez 1 menace sur votre amélioration Forme d'Uniforme.",
+		"traits": "Lieu. S.H.I.E.L.D."
 	},
 	{
 		"code": "50042",
-		"name": "EM Shield",
-		"text": "<b>Interrupt</b> <i>(defense)</i>: When you would take any amount of damage from an attack, discard EM Shield → prevent all of that damage.",
-		"traits": "Preparation. Tech."
+		"name": "Bouclier Electromagnétique",
+		"text": "<b>Interruption</b> (<i>défense</i>) : quand vous êtes censé subir n'importe quelle quantité de dégâts d'une attaque, défaussez le Bouclier Electromagnétique → prévenez tous ces dégâts.",
+		"traits": "Préparation. Tech."
 	},
 	{
 		"code": "50043",
-		"name": "Eyepatch Camera",
-		"text": "<b>Hero Interrupt</b>: When any amount of threat would be placed on the main scheme, discard Eyepatch Camera → place up to 3 of that threat on your suit form upgrade instead.",
-		"traits": "Preparation. Tech."
+		"name": "Caméra Oculaire",
+		"text": "<b>Interruption de héros</b> : quand n'importe quelle quantité de menaces devrait être placée sur la manigance principale, défaussez la Caméra Oculaire → placez jusqu'à 3 de ces menaces sur votre amélioration Forme d'Uniforme à la place.",
+		"traits": "Préparation. Tech."
 	},
 	{
 		"code": "50044",
-		"name": "Fury's Watch",
-		"text": "<b>Resource</b>: Exhaust Fury's Watch and remove up to 2 threat from your suit form upgrade → generate a [mental] resource for each threat you removed this way.",
-		"traits": "Item. Tech."
+		"name": "Montre de Fury",
+		"text": "<b>Ressource</b> : inclinez la Montre de Fury et retirez jusqu'à 2 menaces de votre amélioration Forme d'Uniforme → générez une ressource [mental] pour chaque menace ainsi retirée.",
+		"traits": "Objet. Tech."
 	},
 	{
 		"code": "50045",
-		"name": "Intelligence Analysis",
-		"text": "<b>Interrupt</b>: When you reveal a treachery, discard Intelligence Analysis and remove 1 threat from your suit form upgrade → cancel the effects of that treachery and discard it.",
-		"traits": "Preparation. Skill."
+		"name": "Analyse du Renseignement",
+		"text": "<b>Interruption</b> : quand vous révélez une traîtrise, défaussez Analyse du Renseignement et retirez 1 menace de votre amélioration Forme d'Uniforme → annulez les effets de cette traîtrise et défaussez-la.",
+		"traits": "Préparation. Compétence."
 	},
 	{
 		"code": "50046",
-		"flavor": "\"I'm a man who leads a life of danger.\" —Nick Fury",
-		"name": "Secret Agent",
-		"text": "<b>Hero Response</b>: After you resolve the ability of a [[Preparation]] card you control, move 1 threat from a scheme to your suit form upgrade.",
-		"traits": "Title."
+		"name": "Agent Secret",
+		"text": "<b>Réponse de héros</b> : après que vous avez résolu la capacité d'une carte Préparation que vous contrôlez, déplacez 1 menace d'une manigance vers votre amélioration Forme d'Uniforme.",
+		"flavor": "« Je suis un homme qui vit dangereusement. » - Nick Fury",
+		"traits": "Titre."
 	},
 	{
 		"code": "50050",
-		"flavor": "\"What's that information worth to you, Coulson?\" —Taskmaster",
-		"name": "Informant",
-		"text": "Max 1 per player.\n<b>Interrupt</b>: When a minion schemes, discard Informant → this activation removes threat instead of placing it.",
-		"traits": "Preparation."
+		"name": "Informateur",
+		"text": "1 max par joueur.\n<b>Interruption</b> : quand un sbire manigance, défaussez Informateur → cette activation retire de la menace au lieu d'en placer.",
+		"flavor": "« Quelle valeur cette information a-t-elle pour vous, Coulson ? » - Taskmaster",
+		"traits": "Préparation."
 	},
 	{
 		"code": "50051",
-		"name": "Intelligence",
-		"text": "Max 1 per player.\n<b>Response</b>: After a player is dealt an encounter card, discard Intelligence → look at each encounter card dealt to each player and the top card of the encounter deck. You may swap any number of those cards.",
-		"traits": "Preparation."
+		"name": "Renseignement",
+		"text": "1 max par joueur.\n<b>Réponse</b> : après qu'une carte Rencontre a été attribuée à un joueur, défaussez Renseignement → regardez chaque carte Rencontre attribuée à chaque joueur ainsi que la carte du dessus du deck Rencontre. Vous pouvez échanger n'importe quel nombre de ces cartes.",
+		"traits": "Préparation."
 	},
 	{
 		"code": "50052",
-		"name": "Prism Dust",
-		"text": "Max 1 per player.\n<b>Hero Response</b> <i>(attack)</i>: After a minion enters play, discard Prism Dust → confuse that minion and deal 2 damage to it.",
-		"traits": "Preparation. Tech."
+		"name": "Poudre Prismatique",
+		"text": "1 max par joueur.\n<b>Réponse de héros</b> (<i>attaque</i>) : après l'entrée en jeu d'un sbire, défaussez Poudre Prismatique → désorientez ce sbire et infligez-lui 2 dégâts.",
+		"traits": "Préparation. Tech."
 	},
 	{
 		"code": "50054",
 		"name": "Nick Fury, Sr.",
-		"text": "<b>Forced Response</b>: After Nick Fury, Sr. enters play, choose one: Remove 3 threat from a scheme, draw 2 cards, or give a [[S.H.I.E.L.D.]] character a tough status card. At the end of the round, if Nick Fury, Sr. is still in play, discard him.",
-		"traits": "S.H.I.E.L.D. Soldier."
+		"text": "<b>Réponse forcée</b> : après que Nick Fury, Sr. est entré en jeu, choisissez une option : retirez 3 menaces d'une manigance, piochez 2 cartes ou donnez une carte d'état Tenace à un personnage [[S.H.I.E.L.D.]]. À la fin du round, si Nick Fury, Sr. est toujours en jeu, défaussez-le.",
+		"traits": "S.H.I.E.L.D. Soldat."
 	},
 	{
 		"code": "50055",
 		"name": "Jemma Simmons",
-		"text": "Reduce the cost to play Jemma Simmons by 2 if your identity has the [[S.H.I.E.L.D.]] trait.\n<b>Resource</b>: Exhaust Jemma Simmons → generate a [mental] resource for a [[Tech]] card.",
-		"traits": "Persona. S.H.I.E.L.D."
+		"text": "Réduisez de 2 le coût pour jouer Jemma Simmons si votre identité a le trait [[S.H.I.E.L.D.]].\n<b>Ressource</b> : inclinez Jemma Simmons → générez une ressource [mental] pour une carte [[Tech]].",
+		"traits": "Individu. S.H.I.E.L.D."
 	},
 	{
 		"code": "50056",
 		"name": "Leo Fitz",
-		"text": "Reduce the cost to play Leo Fitz by 2 if your identity has the [[S.H.I.E.L.D.]] trait.\n<b>Alter-Ego Action</b>: Exhaust Leo Fitz → search you deck for a [[Tech]] card and add it to your hand. <i>(Shuffle.)</i>",
-		"traits": "Persona. S.H.I.E.L.D."
+		"text": "Réduisez de 2 le coût pour jouer Leo Fitz si votre identité a le trait [[S.H.I.E.L.D.]].\n<b>Action d'alter ego</b> : inclinez Leo Fitz → cherchez une carte [[Tech ]] dans votre deck et ajoutez-la à votre main. (<i>Mélangez</i>.)",
+		"traits": "Individu. S.H.I.E.L.D."
 	},
 	{
 		"code": "50058",
-		"name": "Practiced Plan",
-		"text": "Max 1 per player.\n<b>Response</b>: After you discard a [[Preparation]] card you control, discard Practiced Plan → return that card to your hand from your discard pile.",
-		"traits": "Preparation."
+		"name": "Plan à Toute Epreuve",
+		"text": "1 max par joueur.\n<b>Réponse</b> : après que vous avez défaussé une carte Préparation que vous contrôlez, défaussez Plan à Toute Épreuve → renvoyez cette carte Préparation dans votre main depuis votre pile de défausse.",
+		"traits": "Préparation."
 	}
 ]

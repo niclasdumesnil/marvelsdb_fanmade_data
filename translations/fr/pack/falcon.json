@@ -1,0 +1,166 @@
+[
+	{
+		"code": "53001a",
+		"name": "Le Faucon",
+		"text": "Lors de la phase des Joueurs, jouez avec la carte du dessus du deck Rencontre face visible.\nVue Perçante - <b>Réponse</b> : après que vous avez joué une carte [[Aérien]], défaussez la carte du dessus du deck Rencontre.",
+		"traits": "Aérien. Avenger."
+	},
+	{
+		"code": "53001b",
+		"name": "Sam Wilson",
+		"text": "<i>Vol d'Oiseau</i> — <b>Action</b> : défaussez 1 carte de votre main → cherchez une carte Oiseau dans votre deck ou votre pile de défausse et ajoutez-la à votre main. (Limite d'une fois par round.)",
+		"traits": "S.H.I.E.L.D.."
+	},
+	{
+		"code": "53002",
+		"name": "Ailes-Rouges",
+		"text": "<b>Action de héros</b> : inclinez Ailes-Rouges, renvoyez-le dans votre main et défaussez la carte du dessus du deck Rencontre → choisissez entre infliger X dégâts à un ennemi ou retirer X menaces d'une manigance. X est le nombre d'icônes dans le champ de boost de la carte défaussée.",
+		"traits": "Aérien. Avenger. Oiseau."
+	},
+	{
+		"code": "53003",
+		"name": "Oiseau de Proie",
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 4 dégâts à un ennemi. Vous pouvez défausser la carte du dessus du deck Rencontre pour infliger 1 dégât supplémentaire à cet ennemi pour chaque icône dans le champ de boost de la carte défaussée.",
+		"traits": "Aérien. Attaque."
+	},
+	{
+		"code": "53004",
+		"name": "Vue Panoramique",
+		"text": "<b>Action de héros</b> (<i>contre</i>) : retirez 3 menaces d'une manigance. Vous pouvez défausser la carte du dessus du deck Rencontre pour retirer 1 menace supplémentaire de cette manigance pour chaque icône dans le champ de boost de la carte défaussée.",
+		"traits": "Aérien. Contre."
+	},
+	{
+		"code": "53005",
+		"name": "Toujours Plus Haut",
+		"text": "<b>Réponse de héros</b> (<i>défense</i>) : après qu'une carte de boost face cachée a été donnée à un ennemi attaquant, regardez cette carte et la carte du dessus du deck Rencontre. Vous pouvez échanger ces deux cartes. Piochez 1 carte pour chaque icône imprimée dans le champ de boost de la carte de boost (<i>actuelle</i>).",
+		"traits": "Aérien. Défense."
+	},
+	{
+		"code": "53006",
+		"name": "La Nuée du Faucon",
+		"text": "Utilisations (5 jetons Oiseau).\n<b>Ressource</b> : retirez 1 jeton Oiseau de cette carte → générez 1 ressource [energy] pour une carte [[Aérien]]. (Limite d'une fois par carte.)",
+		"flavor": "« Avez-vous reçu mon message ? » - Le Faucon",
+		"traits": "Aérien. Oiseau."
+	},
+	{
+		"code": "53007",
+		"name": "Soupe Populaire",
+		"text": "<b>Action d'alter ego</b> : inclinez Sam Wilson et Soupe Populaire → soignez Sam Wilson d'un nombre de dégâts égal à sa REC et réduisez de 2 le coût du prochain allié ou soutien joué à cette phase.",
+		"flavor": "Sam marche dans las pas de ses parents et montre le bon exemple à son entourage.",
+		"traits": "Lieu."
+	},
+	{
+		"code": "53008",
+		"name": "Evaluation aérienne",
+		"text": "<b>Interruption de héros</b> : quand un autre personnage ami est censé subir n'importe quelle quantité de dégâts, défaussez Évacuation Aérienne → prévenez tous ces dégâts et passez sous forme d'alter ego. Si l'autre personnage ami est un héros, il passe également sous forme d'alter ego.",
+		"traits": "Aérien. Préparation."
+	},
+	{
+		"code": "53009",
+		"name": "Reconnaissance Aérienne",
+		"text": "<b>Action de héros</b> : inclinez Reconnaissance Aérienne et attribuez 1 carte Rencontre face cachée à un joueur → placez 1 jeton Reconnaissance sur cette amélioration.\n<b>Interruption</b> : quand une carte Rencontre est censée être attribuée à un joueur, retirez 1 jeton Reconnaissance de cette amélioration à la place.",
+		"traits": "Aérien. Tactique."
+	},
+	{
+		"code": "53010",
+		"name": "Connaissance du Terrain",
+		"text": "<b>Interruption de héros</b> : quand Le Faucon utilise un pouvoir de base, inclinez Connaissance du Terrain et défaussez la carte du dessus du deck Rencontre → Le Faucon gagne +1 à ce pouvoir pour cette utilisation pour chaque icône ([star] and [boost]) dans le champ de boost de la carte défaussée.",
+		"traits": "Aérien. Compétence."
+	},
+	{
+		"code": "53011",
+		"name": "Attirer Leur Attention",
+		"text": "<b>Réponse de héros</b> : après le début de la phase du Méchant, défaussez Attirer Leur Attention → Le Faucon ne s'incline pas pour défendre jusqu'à la fin de la phase.",
+		"flavor": "« Maintenant, je pourrais faire ça toute la journée ! » - Le Faucon",
+		"traits": "Aérien. Préparation."
+	},
+	{
+		"code": "53012",
+		"name": "Ligne de Grapin",
+		"text": "<b>Réponse de héros</b> : après avoir résolu votre capacité « Vue Perçante », défaussez la Ligne de Grapin → pour chaque icône dans le champ de boost de la carte défaussée, choisissez une option :  \n • ﻿Redressez un personnage que vous contrôlez.\n • ﻿﻿Sonnez un ennemi.",
+		"traits": "Objet."
+	},
+	{
+		"code": "53013",
+		"name": "Microtissu de Vibranium",
+		"text": "Le Faucon gagne +1 DEF.\n<b>Interruption de héros</b> : quand Le Faucon est censé subir n'importe quelle quantité de dégâts, inclinez Microtissu de Vibranium → prévenez I de ces dégâts et infligez 1 dégât à un ennemi.",
+		"traits": "Tech. Wakanda."
+	},
+	{
+		"code": "53015",
+		"name": "Aero",
+		"subname": "Lei Ling",
+		"text": "<b>Action de héros</b> : inclinez Aéro → choisissez un joueur. Jusqu'à la fin de la phase, chaque personnage Aérien que ce joueur contrôle gagne +1 ATQ.",
+		"flavor": "« Je sens des perturbations portées par le vent. »",
+		"traits": "Aérien. Agent d'Atlas."
+	},
+	{
+		"code": "53017",
+		"name": "Hugin & Munin",
+		"text": "<b>Réponse</b> : après l'entrée en jeu de Hugin et Munin, cherchez un sbire parmi les 10 cartes du dessus du deck Rencontre et mettez-le en jeu engage avec vous → redressez 1 personnage que vous contrôlez pour chaque icône ([star] and [boost]) dans le champ de boost de ce sbire.",
+		"traits": "Aérien. Asgard. Oiseau."
+	},
+	{
+		"code": "53018",
+		"name": "Spectrum",
+		"subname": "Monica Rambeau",
+		"text": "<b>Réponse</b> : après avoir joué Spectrum, intercalez sous elle 1 carte utilisée pour la payer. Si cette carte a comme ressource imprimée : \n • [mental] - Spectrum gagne +2 CTR.\n • [physical] - Spectrum gagne +2 ATQ\n • [energy] ﻿- Spectrum gagne +2 points de vie.\n • [wild] ﻿﻿- Appliquez toutes les options ci-dessus.",
+		"traits": "Aérien. Avenger."
+	},
+	{
+		"code": "53019",
+		"name": "La Force de la Diversité",
+		"text": "Alliance.\n<b>Action de héros</b> : pour chaque Trait différent sur des personnages amis en jeu, choisissez :   ﻿﻿\n• Retirez 1 menace d'une manigance.\n• ﻿﻿Infligez 1 dégât à un ennemi."
+	},
+	{
+		"code": "53020",
+		"name": "Escadron en Vol",
+		"text": "Jouez cette carte uniquement si votre identité a le trait [[Aérien]]. 1 carte Équipe max par joueur.\nSi chacun de vos alliés a le trait [[Aérien]], augmentez de 1 votre limite d'alliés et ce soutien gagne: « <b>Réponse</b> : après que vous avez joué une carte [[aérien]], inclinez ce soutien → redressez un allié que vous contrôlez. »",
+		"traits": "Equipe."
+	},
+	{
+		"code": "53021",
+		"name": "Réserve de Ressources",
+		"text": "1 max par joueur.\nN'importe quel joueur peut dépenser la carte Ressource intercalée ici comme si elle était dans sa main.\n<b>Action</b> : inclinez Réserve de Ressources → intercalez 1 carte Ressource de votre main sous cette carte (jusqu'à un maximum de 1).",
+		"traits": "Lieu."
+	},
+	{
+		"code": "53023",
+		"name": "Captain America",
+		"text": "Jouez cette carte uniquement si vous êtes le joueur de Bucky Barnes ou de Sam Wilson.\n<b>Action de héros</b> : inclinez Captain America et dépensez une ressource [physical] → trouvez le Bouclier de Captain America et ajoutez-le à votre main. S'il quitte le jeu par cet effet, infligez 4 dégâts à un ennemi.",
+		"traits": "Titre."
+	},
+	{
+		"code": "53024",
+		"name": "Ailier",
+		"text": "Attachez cette carte à un allié [[Aérien]]. 1 max par allié.\n<b>Interruption</b> : quand un autre allié [[Aérien]] est censé subir n'importe quelle quantité de dégâts consécutifs, inclinez l'allié attaché → prévenez 1 de ces dégâts.",
+		"traits": "Titre."
+	},
+	{
+		"code": "53034",
+		"name": "Bouclier de Captain America",
+		"text": "Liée (amélioration Captain America). Restreint.\nVotre héros gagne +1 DEF et Riposte 1.",
+		"flavor": "« Ce bouclier est un symbole de liberté. » —Captain America",
+		"traits": "Objet."
+	},
+	{
+		"code": "53035",
+		"name": "Le Soldat de l'Hiver",
+		"subname": "Bucky Barnes",
+		"text": "<b>Réponse</b> : après que Le Soldat de l'Hiver a attaqué et vaincu un ennemi, retirez 2 menaces d'une manigance.",
+		"flavor": "« Tant que je serai en vie, vous ne lutterez jamais seul. »",
+		"traits": "S.H.I.E.L.D. Soldat."
+	},
+	{
+		"code": "53036",
+		"name": "Misty Knight",
+		"text": "[star] <b>Interruption</b> : quand Misty Knight contre, regardez les 2 cartes du dessus du deck Rencontre et défaussez 1 de ces cartes. Misty Knight gagne +1 CTR pour ce contre pour chaque icône ([star] and [boost]) dans le champ de boost de la carte défaussée.",
+		"traits": "Héros à Louer."
+	},
+	{
+		"code": "53037",
+		"name": "Salle des Opérations",
+		"text": "Utilisations (3 jetons Alerte).\n<b>Interruption</b> : quand un personnage ami est censé subir n'importe quelle quantité de dégâts alors qu'il défend, retirez 1 jeton Alerte de ce soutien → prévenez 1 de ces dégâts et retirez 1 menace d'une manigance.",
+		"traits": "S.H.I.E.L.D.."
+	}
+]

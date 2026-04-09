@@ -5,7 +5,7 @@
         "code": "204901a",
         "defense": 2,
         "faction_code": "hero",
-        "flavor": "<i>\u201cThey call me Kang.\u201d</i>",
+        "flavor": "<i>“They call me Kang.”</i>",
         "hand_size": 4,
         "health": 9,
         "is_unique": true,
@@ -24,7 +24,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "iron_lad_by_cptscorp",
-        "text": "<i>Destiny</i> \u2014 <b>Action:</b> Name a resource type and look at the top 4 cards of your deck. Add up to 2 cards with the chosen resource type to your hand and discard the others. (Limit once per round.)",
+        "text": "<i>Destiny</i> — <b>Action</b>: Name a resource type and look at the top 4 cards of your deck. Add up to 2 cards with the chosen resource type to your hand and discard the others. (Limit once per round.)",
         "thwart": 2,
         "traits": "Young Avenger.",
         "type_code": "hero"
@@ -43,7 +43,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "iron_lad_by_cptscorp",
-        "text": "<i>Inventive Genius</i> \u2014 <b>Action:</b> Reduce the resource cost of the next [[tech]] card played this phase by 2. (Limit once per round.)\n<i>\u201cI'm from the thirtieth century...\u201d</i>",
+        "text": "<i>Inventive Genius</i> — <b>Action</b>: Reduce the resource cost of the next [[tech]] card played this phase by 2. (Limit once per round.)\n<i>“I'm from the thirtieth century...”</i>",
         "traits": "Genius.",
         "type_code": "alter_ego"
     },
@@ -65,7 +65,7 @@
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 1,
         "subname": "Cassie Lang",
-        "text": "<b>Response:</b> After Stature enters play, heal 1 damage from your identity. You may discard up to 3 cards from your deck to heal 1 more damage for each card discarded.\n<i>\u201cWe'll protect you, Nate.\u201d</i>",
+        "text": "<b>Response</b>: After Stature enters play, heal 1 damage from your identity. You may discard up to 3 cards from your deck to heal 1 more damage for each card discarded.\n<i>“We'll protect you, Nate.”</i>",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Young Avenger.",
@@ -84,7 +84,7 @@
         "resource_energy": 1,
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 2,
-        "text": "<b>Hero Action:</b> Discard a [[tech]] card you control \u2192 deal 6 damage to X enemies in play, where X is equal to the printed resource cost of the discarded card. This damage ignores tough status cards.",
+        "text": "<b>Hero Action</b>: Discard a [[tech]] card you control → deal 6 damage to X enemies in play, where X is equal to the printed resource cost of the discarded card. This damage ignores tough status cards.",
         "type_code": "event"
     },
     {
@@ -100,7 +100,7 @@
         "resource_energy": 1,
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 3,
-        "text": "<b>Hero Action</b> (attack): Deal 2 damage to an enemy. You may discard 5 cards from your deck to deal 6 damage instead.\n<i>\u201cYou are NOTHING!\u201d -Iron Lad</i>",
+        "text": "<b>Hero Action</b> (attack): Deal 2 damage to an enemy. You may discard 5 cards from your deck to deal 6 damage instead.\n<i>“You are NOTHING!” -Iron Lad</i>",
         "traits": "Attack.",
         "type_code": "event"
     },
@@ -117,7 +117,7 @@
         "resource_mental": 1,
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 6,
-        "text": "<b>Alter-Ego Action:</b> Shuffle 2 cards from your discard pile back into your deck. Draw 1 card for each [[tech]] card shuffled into your deck this way.\n<i>\u201cI finally found someone who can help me.\u201d -Iron Lad</i>",
+        "text": "<b>Alter-Ego <b>Action</b>:</b> Shuffle 2 cards from your discard pile back into your deck. Draw 1 card for each [[tech]] card shuffled into your deck this way.\n<i>“I finally found someone who can help me.” -Iron Lad</i>",
         "type_code": "event"
     },
     {
@@ -134,7 +134,7 @@
         "resource_mental": 1,
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 8,
-        "text": "<b>Alter-Ego Action:</b> Exhaust Vision AI \u2192 shuffle the top card of your discard pile into your deck. Return the bottom card of your discard pile to your hand.\n<i>\u201cI downloaded the Vision's operating system and data files into my armor.\u201d -Iron Lad</i>",
+        "text": "<b>Alter-Ego <b>Action</b>:</b> Exhaust Vision AI → shuffle the top card of your discard pile into your deck. Return the bottom card of your discard pile to your hand.\n<i>“I downloaded the Vision's operating system and data files into my armor.” -Iron Lad</i>",
         "traits": "Tech.",
         "type_code": "support"
     },
@@ -151,7 +151,7 @@
         "resource_mental": 1,
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 9,
-        "text": "<b>Interrupt</b> (thwart): When threat would be placed on a scheme, discard Hack \u2192 remove that amount from that scheme instead. Additionally, you may discard 5 cards from your deck to remove the same amount from a different scheme.",
+        "text": "<b>Interrupt</b> (thwart): When threat would be placed on a scheme, discard Hack → remove that amount from that scheme instead. Additionally, you may discard 5 cards from your deck to remove the same amount from a different scheme.",
         "traits": "Preparation. Tech.",
         "type_code": "upgrade"
     },
@@ -168,7 +168,7 @@
         "resource_energy": 1,
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 10,
-        "text": "Uses (X ion counters, where X is equal to the number of [[tech]] cards you control.)<b>\nHero Resource:</b> Exhaust Ion Amplifiers and remove 1 ion counter from it \u2192 generate a [wild] resource.",
+        "text": "Uses (X ion counters, where X is equal to the number of [[tech]] cards you control.)<b>\nHero <b>Resource</b>:</b> Exhaust Ion Amplifiers and remove 1 ion counter from it → generate a [wild] resource.",
         "traits": "Tech.",
         "type_code": "upgrade"
     },
@@ -186,7 +186,7 @@
         "resource_mental": 1,
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 12,
-        "text": "Iron Lad gains [[aerial]].<b>\nHero Response:</b> After playing an event, exhaust Iron Lad's Boots \u2192 return the bottom card of your discard pile to your hand.",
+        "text": "Iron Lad gains [[aerial]].<b>\n<b>Hero Response</b>:</b> After playing an event, exhaust Iron Lad's Boots → return the bottom card of your discard pile to your hand.",
         "traits": "Armor. Tech.",
         "type_code": "upgrade"
     },
@@ -204,7 +204,7 @@
         "resource_physical": 1,
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 13,
-        "text": "<b>Hero Response:</b> After Iron Lad uses a basic power, exhaust Iron Lad's Helmet \u2192 return the bottom card of your discard pile to your hand.",
+        "text": "<b>Hero Response</b>: After Iron Lad uses a basic power, exhaust Iron Lad's Helmet → return the bottom card of your discard pile to your hand.",
         "traits": "Armor. Tech.",
         "type_code": "upgrade"
     },
@@ -222,7 +222,7 @@
         "resource_energy": 1,
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 14,
-        "text": "You get +3 hit points.<b>\nHero Action:</b> Exhaust Iron Lad's Suit \u2192 ready Iron Lad.\n<i>\u201cThis armor responds to your thoughts.\u201d -Kang</i>",
+        "text": "You get +3 hit points.<b>\n<b>Hero Action</b>:</b> Exhaust Iron Lad's Suit → ready Iron Lad.\n<i>“This armor responds to your thoughts.” -Kang</i>",
         "traits": "Armor. Tech.",
         "type_code": "upgrade"
     },
@@ -239,7 +239,7 @@
         "resource_wild": 1,
         "set_code": "iron_lad_by_cptscorp",
         "set_position": 15,
-        "text": "<b>Hero Response:</b> After you reveal an encounter card, exhaust Neurokinetic Interface \u2192 if that card was:\n \u2022 A treachery or minion, deal 2 damage to an enemy.\n\u2022 A side scheme or attachment, remove 2 threat from a scheme.",
+        "text": "<b>Hero Response</b>: After you reveal an encounter card, exhaust Neurokinetic Interface → if that card was:\n • A treachery or minion, deal 2 damage to an enemy.\n• A side scheme or attachment, remove 2 threat from a scheme.",
         "traits": "Armor. Tech.",
         "type_code": "upgrade"
     }

@@ -1119,6 +1119,19 @@
 		"visibility": "true"
 	},
 	{
+		"cgdb_id": 2066,
+		"code": "young_avengers_by_merlin",
+		"creator": "Merlin",
+		"date_release": "2026-04-10",
+		"name": "Young Avengers",
+		"pack_type_code": "fm_theme",
+		"position": 2066,
+		"size": 1,
+		"status": "beta",
+		"theme": "Marvel",
+		"visibility": "false"
+	},
+	{
 		"cgdb_id": 9990,
 		"code": "2024_weekly",
 		"creator": "FFG & Merlin",

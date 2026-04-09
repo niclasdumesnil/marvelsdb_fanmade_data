@@ -1,0 +1,61 @@
+[
+	{
+		"code": "53029",
+		"name": "Protecteur de Harlem",
+		"text": "<b><i>Donnez cette carte au joueur de Sam Wilson.</i></b>\nUtilisations (3 jetons Urgence). Victoire 0.\n<b>Action d'alter ego</b> : dépensez 1 ressource de n'importe quel type → retirez 1 jeton Urgence de cette obligation."
+	},
+	{
+		"code": "53030",
+		"name": "La Vipère",
+		"text": "Coup Rapide.\n[star] <b>Réponse forcée</b> : après l'activation de la Vipère, défaussez les 5 cartes du dessus du deck Rencontre.\n<i>(Sbire Némésis du Faucon.)</i>",
+		"traits": "Société du Serpent."
+	},
+	{
+		"code": "53031",
+		"name": "Serpent Solutions",
+		"text": "<b>Réponse forcée</b> : après qu'un sbire [[Société du Serpent]] a été défaussé du dessus du deck Rencontre, attribuez-le au premier joueur en tant que carte Rencontre face cachée.",
+		"flavor": "« Lorsque les problèmes surgissent, faites appel au Serpent. » - La Vipère"
+	},
+	{
+		"code": "53032",
+		"name": "Soldat du Serpent",
+		"text": "Coup Rapide.\n<hr>\n[star] <b>Boost</b> : donnez une carte de boost supplémentaire à l'ennemi en cours d'activation.",
+		"traits": "Société du Serpent."
+	},
+	{
+		"code": "53033",
+		"name": "Propaconda",
+		"text": "Renfort.\n<b>Une fois révélée</b> : mélangez dans le deck Rencontre chaque sbire [[Société du Serpent]] de la pile de défausse Rencontre.",
+		"flavor": "Quand la Vipère a repris la Serpent Society, il a mis à profit son expérience de publicitaire pour la renommer « Serpent Solutions »."
+	},
+	{
+		"code": "53038",
+		"name": "Fixer",
+		"text": "Vilenie. Victoire 1.\n<b>Interruption forcée</b> : quand un attachement [[Tech]] non-spécifique à un scénario est censé être attaché au méchant, attachez-le à Fixer à la place. Tout texte de cet attachement qui se réfère au « méchant » se réfère à Fixer à la place.",
+		"traits": "Elite. Génie. Thunderbolt."
+	},
+	{
+		"code": "53039",
+		"name": "Réacteur Dorsal",
+		"text": "Attachez cette carte à Fixer. Sinon, attachez-la au méchant.\nL'ennemi attaché gagne [[Aérien]].\n<b>Interruption forcée</b> : quand le personnage attaché est censé subir 3 dégâts ou plus, prévenez tous ces dégâts et défaussez le Réacteur Dorsal.",
+		"flavor": "Vrrrrrooooooom!",
+		"traits": "Tech."
+	},
+	{
+		"code": "53040",
+		"name": "Module Tech",
+		"text": "Attachez cette carte à Fixer. Sinon, attachez-la au méchant.\n[star]  L'ennemi attaché gagne +1 ATQ pour chaque autre attachement [[Tech]] sur lui.\n<b>Action de héros</b> : inclinez n'importe quel nombre de personnages que vous contrôlez dont la somme des CTR doit être supérieure à la MNG de l'ennemi attaché → défaussez cet attachement.",
+		"traits": "Tech."
+	},
+	{
+		"code": "53041",
+		"name": "Innovation Technologique",
+		"text": "<b>Une fois révélée</b> : cherchez un attachement [[Tech]] dans le deck Rencontre ou la pile de défausse Rencontre et révélez-le. Placez 1 menace supplémentaire sur cette manigance annexe pour chaque carte [[Tech]] en jeu.",
+		"flavor": "« Je retournerai leur propre technologie contre eux. » - Fixer"
+	},
+	{
+		"code": "53042",
+		"name": "Techno",
+		"text": "<b>Une fois révélée</b> : trouvez Fixer et révélez-le. (<i>S'il est déjà en jeu, il vous engage</i>.) Fixer s'active contre vous. Si aucun ennemi n'a été ainsi activé, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : si cette activation est une attaque, elle gagne Perçant."
+	}
+]

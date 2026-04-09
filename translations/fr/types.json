@@ -86,5 +86,9 @@
 	{
 		"code": "player_minion",
 		"name": "Sbire Joueur"
+	},
+	{
+		"code": "narrative",
+		"name": "Narratif"
 	}
 ]

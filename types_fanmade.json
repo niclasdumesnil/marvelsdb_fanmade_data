@@ -6,5 +6,9 @@
 	{
 		"code": "player_minion",
 		"name": "Player Minion"
+	},
+	{
+		"code": "narrative",
+		"name": "Narrative"
 	}
 ]

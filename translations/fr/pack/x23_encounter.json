@@ -32,5 +32,15 @@
 		"code": "43033",
 		"name": "Hack 'n' Slash",
 		"text": "<b>When Revealed</b>: Discard 1 random card from your hand and take damage equal to the number of printed resources on it.\n<hr />\n[star] <b>Boost</b>: Discard 1 random card from your hand and take damage equal to the number of printed resources on it."
+	},
+	{
+		"code": "43099a",
+		"name": "L'Histoire Commence",
+		"text": "Ceci est le recto d'une carte narrative."
+    },
+	{
+		"code": "43099b",
+		"name": "L'Histoire se Déroule",
+		"text": "Ceci est le verso d'une carte narrative."
 	}
 ]

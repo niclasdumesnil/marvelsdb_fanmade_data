@@ -5,5 +5,155 @@
 		"text": "<i>Protecteur Mortel</i> - <b>Réponse</b> : après que vous avez attaqué et vaincu un ennemi, retirez 2 menaces d'une manigance.",
 		"flavor": "« La Chambre Rouge m'a entraîné à faire des choses terribles. Aujourd'hui, J'utilise mes talents pour protéger les autres. »",
 		"traits": "S.H.I.E.L.D. Soldat."
+	},
+	{
+		"code": "54001b",
+		"name": "Bucky Barnes",
+		"text": "<i>Cybernétiquement Modifié</i> - <b>Action</b> : dépensez 1 ressource de n'importe quel type → cherchez le Bras Cybernétique dans votre deck ou votre pile de défausse et mettez-le en jeu. (<i>Mélangez</i>.)",
+		"flavor": "« Pas mal pour un vétéran de quatre-vingt-dix-neuf ans. »",
+		"traits": "S.H.I.E.L.D. Soldat."
+	},
+	{
+		"code": "54002",
+		"name": "Bras Cybernétique",
+		"text": "<b>Ressource</b> : inclinez le Bras Cybernétique → générez une ressource [wild] pour un événement Attaque. Cet événement inflige 1 dégât supplémentaire.",
+		"flavor": "« Bucky était un formidable combattant avant qu'on lui donne ce bras. Avec cette arme, il est simplement terrifiant. » - Steve Rogers",
+		"traits": "Objet. Tech."
+	},
+	{
+		"code": "54003",
+		"name": "Black Widow",
+		"subname": "Natasha Romanoff",
+		"text": "<b>Réponse</b> : après que vous avez joué Black Widow de votre main, renvoyez dans votre main un événement Attaque de votre pile de défausse.",
+		"traits": "S.H.I.E.L.D. Espion."
+	},
+	{
+		"code": "54004",
+		"name": "Blocage du Bras",
+		"text": "Interruption de héros (attaque/ défense) : quand un ennemi attaque, infligez-lui 3 dégâts. Si vous avez incliné le Bras Cybernétique pour payer cet événement, prévenez tous les dégâts de l'attaque de cet ennemi.",
+		"traits": "Attaque. Défense."
+	},
+	{
+		"code": "54005",
+		"name": "Coup de Poing Métallique",
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 7 dégâts à un ennemi. Si vous avez incliné le Bras Cybernétique pour payer cet événement, cette attaque gagne Déferlement.",
+		"traits": "Attaque."
+	},
+	{
+		"code": "54006",
+		"name": "Décharge Electrique",
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 4 dégâts à un ennemi. Si vous avez payé cet événement avec une ressource [energy], sonnez cet ennemi.",
+		"flavor": "« Ils auraient eu la même réaction si tu leur avais montré une photo de toi au lycée. » - Black Widow",
+		"traits": "Attaque."
+	},
+	{
+		"code": "54007",
+		"name": "Refuge #30",
+		"text": "<b>Action d'alter ego</b> : inclinez le Refuge #30 → cherchez un sbire dans le deck Rencontre et mettez-le en jeu engagé avec vous. (<i>Mélangez</i>.) Ensuite, piochez 1 carte.",
+		"flavor": "« Tu ne devineras jamais qui est notre nouveau voisin. » - Bucky Barnes",
+		"traits": "Lieu. S.H.I.E.L.D.."
+	},
+	{
+		"code": "54008",
+		"name": "Infiltration Silencieuse",
+		"text": "<b>Réponse de héros</b> : après que vous avez attaqué et vaincu un ennemi, défaussez cette carte → redressez votre héros et désorientez un ennemi.",
+		"flavor": "« Ils n'auront même pas le temps de comprendre ce qui leur arrive. » - Le Soldat de l'Hiver",
+		"traits": "Préparation."
+	},
+	{
+		"code": "54009",
+		"name": "Armure de l'Hiver",
+		"text": "Vous gagnez +3 points de vie et Solide.",
+		"flavor": "« Le bras est à l'épreuve des balles, mais le reste de mon corps est toujours de chair et de sang. » - Le Soldat de l'Hiver",
+		"traits": "Armure."
+	},
+	{
+		"code": "54010",
+		"name": "Masque de l'Hiver",
+		"text": "Vous gagnez le trait Espion.\n<b>Réponse de héros</b> : après que vous avez attaqué et vaincu un ennemi, inclinez le Masque de l'Hiver → piochez 1 carte.",
+		"traits": "Objet. Tech."
+	},
+	{
+		"code": "54011",
+		"name": "Fusil de l'Hiver",
+		"text": "Restreint.\n<b>Interruption de héros</b> : quand le Soldat de l'Hiver effectue une attaque de base, inclinez le Fusil de l'Hiver → Le Soldat de l'Hiver gagne +2 ATQ pour cette attaque. Cette attaque gagne Perçant et À Distance.",
+		"traits": "Arme."
+	},
+	{
+		"code": "54012",
+		"name": "Captain America",
+		"subname": "Steve Rogers",
+		"text": "Ténacité.\n<b>Réponse</b> : après que Captain America est entré en jeu, redressez un personnage S.H.I.E.L.D.",
+		"flavor": "« Debout, soldat ! »",
+		"traits": "S.H.I.E.L.D. Espion."
+	},
+	{
+		"code": "54013",
+		"name": "Deathlok",
+		"subname": "Henry Hayes",
+		"text": "<b>Réponse</b> : après que Deathlok est entré en jeu, cherchez un exemplaire d'Arme de Poing du S.H.I.E.L.D. dans votre deck ou votre pile de défausse et attachez-le-lui. (<i>Mélangez</i>.)",
+		"flavor": "« Mon corps est un concentré d'armes de haute technologie contrôlées par mon seul esprit. »",
+		"traits": "Cyborg. S.H.I.E.L.D.."
+	},
+	{
+		"code": "54014",
+		"name": "Puissance de Feu",
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : inclinez jusqu'à 3 améliorations Arme que vous contrôlez → pour chaque amélioration ainsi inclinée, choisissez un ennemi et infligez-lui 3 dégâts. Cette attaque gagne À Distance.",
+		"traits": "Attaque."
+	},
+	{
+		"code": "54016",
+		"name": "Chercher l'Affrontement",
+		"text": "<b>Action de héros</b> : défaussez des cartes du dessus du deck Rencontre jusqu'à ce que vous défaussiez un sbire. Mettez en jeu ce sbire engagé avec vous → redressez votre héros."
+	},
+	{
+		"code": "54017",
+		"name": "Posture Agresssive",
+		"text": "1 max par joueur.\n<b>Réponse de héros</b> : après que vous avez engagé un sbire, défaussez cette carte → cherchez un événement Attaque dans votre deck et ajoutez-le à votre main. (<i>Mélangez</i>.)",
+		"traits": "Préparation."
+	},
+	{
+		"code": "54018",
+		"name": "Bambino",
+		"text": "Attachez cette carte à un personnage [[S.H.I.E.L.D.]] Elle gagne Restreint tant qu'elle est attachée à une identité. Utilisations (3 jetons Munition).\n<b>Interruption</b> : quand le personnage attaché effectue une attaque de base, retirez 1 jeton Munition de cette carte → cette attaque inflige 3 dégâts supplémentaires et gagne Déferlement.",
+		"traits": "Tech. Arme."
+	},
+	{
+		"code": "54019",
+		"name": "L'Homme sur le Mur",
+		"text": "Jouez cette carte uniquement si votre identité a le trait [[Soldat]].\n<b>Action de héros</b> : inclinez L'Homme sur le Mur → réduisez de 1 le coût de la prochaine carte que vous jouez à cette phase pour chaque sbire engagé avec vous.",
+		"traits": "Titre."
+	},
+	{
+		"code": "54020",
+		"name": "Arme de Poing du S.H.I.E.L.D.",
+		"text": "Attachez cette carte à un personnage [[S.H.I.E.L.D.]] Limite de 1 par personnage. Utilisations (3 jetons Munition).\n<b>Interruption</b> : quand le personnage attache effectue une attaque de base, retirez 1 jeton Munition de l'Arme de Poing du S.H.I.E.L.D. et inclinez-la → infligez 1 dégât à un ennemi.",
+		"traits": "Arme."
+	},
+	{
+		"code": "54022",
+		"name": "Super Soldats",
+		"text": "En Équipe (Captain America et Le Soldat de l'Hiver). 1 max par deck.\n<b>Action de héros</b> (<i>attaque</i>) : infligez 6 dégâts à un ennemi. Donnez une carte d'état Tenace à Captain America et au Soldat de l'Hiver.",
+		"traits": "Attaque."
+	},
+	{
+		"code": "54023",
+		"name": "Winter, Widow, Soldat, Espionne",
+		"text": "En Équipe (Black Widow et le Soldat de l'Hiver). 1 max par deck.\n<b>Action de héros</b> (<i>attaque</i>) : mettez en jeu une amélioration [[Préparation]] de votre pile de défausse. Infligez 4 dégâts à un ennemi.",
+		"traits": "Attaque."
+	},
+	{
+		"code": "54032",
+		"name": "White Widow",
+		"subname": "Yelena Belova",
+		"text": "<b>Réponse</b> : après avoir résolu la capacité d'une carte [[Préparation]] que vous contrôlez, soignez White Widow d'un nombre de dégâts égal au coût en ressources imprimé de cette carte.",
+		"flavor": "« Surprise. »",
+		"traits": "S.H.I.E.L.D. Espion"
+	},
+	{
+		"code": "54033",
+		"name": "Adjoint du S.H.I.E.L.D.",
+		"text": "Jouez cette carte uniquement si votre identité a le trait [[S.H.I.E.L.D.]]\nAttachez cette carte à un personnage ami.\n1 max par personnage.\nLe personnage attaché gagne +1 point de vie et le trait [[S.H.I.E.L.D.]]",
+		"traits": "Titre."
 	}
 ]

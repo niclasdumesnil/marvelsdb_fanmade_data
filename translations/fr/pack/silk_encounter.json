@@ -1,45 +1,45 @@
 [
 	{
 		"code": "52028",
-		"name": "Silk Sense Overload",
-		"text": "<b><i>Give to the Cindy Moon player.</i></b>\n<b>Forced Interrupt</b>: When a card would be tucked under your identity by a player card effect, tuck it under here instead. Then, if there are 2 tucked cards here, you may discard this card (remove it from the game instead if there are 3 or more tucked cards here)."
+		"name": "Sens Silk Surchargé",
+		"text": "<b><i>Donnez cette carte au joueur de Cindy Moon.</i></b>\n<b>Interruption forcée</b> : quand une carte est censée être intercalée sous votre identité par un effet de carte Joueur, intercalez-la sous cette obligation à la place. Ensuite, s'il y a 2 cartes intercalées ici, vous pouvez défausser cette obligation (retirez-la de la partie à la place s'il y a au moins 3 cartes intercalées ici)."
 	},
 	{
 		"code": "52029",
 		"name": "Morlun",
-		"text": "[star] Morlun gets +1 SCH and +1 ATK for each encounter card tucked under each identity.\n<b>When Defeated</b>: Discard each copy of Hunting the Spider-Bride tucked under each identity.</b>",
-		"traits": "Elite. Inheritor."
+		"text": "[star] Morlun gagne +1 MNG et +1 ATQ pour chaque carte Rencontre intercalée sous chaque identité.\n<b>Une fois vaincu</b> : défaussez chaque exemplaire de Traquer la Promise de l'Araignée intercalé sous chaque identité.",
+		"traits": "Elite. Héritier."
 	},
 	{
 		"code": "52030",
-		"flavor": "\"There you are. The spinner at the center of the web. It's time. The Great Hunt begins.\" —Morlun",
-		"name": "The Great Hunt",
-		"text": "<b>When Revealed</b>: Place 1 additional threat here for each card tucked under each identity."
+		"name": "La Grande Chasse",
+		"text": "<b>Une fois révélée</b> : placez 1 menace supplémentaire sur cette manigance annexe pour chaque carte intercalée sous chaque identité.",
+		"flavor": "« Te voilà enfin. L'aiguille au centre de la toile. Il est temps. La Grande Chasse commence. » - Morlun"
 	},
 	{
 		"code": "52031",
-		"name": "Hunting the Spider-Bride",
-		"text": "Surge.\n<b>When Revealed</b>: If you have 4 cards tucked under your identity, discard 1 of those cards at random. Tuck this card under your identity.\n<b>Forced Response</b>: After a player card effect discards this card from under an identity, that identity takes 2 damage."
+		"name": "Traquer la Promise de l'Araignée",
+		"text": "Renfort.\n<b>Une fois révélée</b> : si vous avez 4 cartes intercalées sous votre identité, défaussez-en 1 prise au hasard. Intercalez cette traîtrise sous votre identité.\n<b>Réponse forcée</b> : après qu'un effet de carte Joueur a défaussé cette traîtrise du dessous d'une identité, cette identité subit 2 dégâts."
 	},
 	{
 		"code": "52035",
 		"name": "Atlas",
-		"text": "Villainous. Victory 1.\n[star] Atlas gets +2 hit points for each growth counter on him.\n<b>Forced Response</b>: After the villain phase ends, place 1 growth counter on Atlas.",
+		"text": "Vilenie. Victoire 1.\n[star]  Atlas gagne +2 points de vie pour chaque jeton Croissance sur lui.\n<b>Réponse forcée</b> : après la fin de la phase du Méchant, placez 1 jeton Croissance sur Atlas.",
 		"traits": "Elite. Thunderbolt."
 	},
 	{
 		"code": "52036",
-		"name": "Grow Invulnerable",
-		"text": "<b>When Revealed</b>: Place 1 additional threat here for each growth counter on Atlas.\n<b>If Atlas has 10 or more growth counters on him, the players lose the game.</b>"
+		"name": "Croissance Invulnérable",
+		"text": "<b>Une fois révélée</b> : placez 1 menace supplémentaire sur cette manigance annexe pour chaque jeton Croissance sur Atlas.\n<b>Si Atlas a au moins 10 jetons Croissance sur lui, les joueurs perdent la partie.</b>"
 	},
 	{
 		"code": "52037",
-		"name": "Growing Strong",
-		"text": "<b>When Revealed</b>: Find Atlas and reveal him. <i>(If he is already in play, he engages you.)</i> Atlas activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n[star] <b>Boost</b>: Give the activating enemy a tough status card."
+		"name": "Force Croissante",
+		"text": "<b>Une fois révélée</b> : trouvez Atlas et révélez-le. (<i>S'il est déjà en jeu, il vous engage</i>.) Atlas s'active contre vous. Si aucun ennemi n'a été activé par cet effet, cette carte gagne Renfort.\n<hr />\n[star] <b>Boost</b> : donnez une carte d'état Tenace à l'ennemi en cours d'activation."
 	},
 	{
 		"code": "52038",
-		"name": "Titanic Proportions",
-		"text": "<b>When Revealed</b>: The players as a group take X indirect damage, where X is the number of growth counters on Atlas. If X is less than 3, this card gains surge.\n<hr />\n[star] <b>Boost</b>: If Atlas is in play, place 1 growth counter on him."
+		"name": "Proportions Titanesques",
+		"text": "<b>Une fois révélée</b> : les joueurs subissent collectivement X dégâts indirects, X étant le nombre de jetons Croissance sur Atlas. Si X est inférieur à 3, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : si Atlas est en jeu, placez 1 jeton Croissance sur lui."
 	}
 ]
