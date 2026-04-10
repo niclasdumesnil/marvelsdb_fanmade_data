@@ -13,7 +13,7 @@
 	{
 		"code": "59037",
 		"name": "Hydre de Lerne",
-		"text": "<b>Réponse forcée</b> : après qu'un personnage que vous contrôlez a attaqué et blessé l'Hydre de Lerne, choisissez :\n    ﻿﻿\n• Dépensez une ressource [physique].  \n• ﻿﻿L'Hydre de Lerne se soigne de 2 dégâts.",
+		"text": "<b>Réponse forcée</b> : après qu'un personnage que vous contrôlez a attaqué et blessé l'Hydre de Lerne, choisissez :    ﻿﻿\n• Dépensez une ressource [physique].  \n• ﻿﻿L'Hydre de Lerne se soigne de 2 dégâts.",
 		"traits": "Créature. Hydra."
 	},
 	{
@@ -41,7 +41,7 @@
 	},
 	{
 		"code": "59042",
-		"name": "Hecate",
+		"name": "Hécate",
 		"text": "<b>Une fois révélée/vaincue</b> : trouvez la manigance annexe Tous Contre Tous et révélez-la.\n[star] ﻿﻿<b>Réponse forcée</b> : après l'activation d'Hécate, placez 2 menaces sur la manigance annexe Tous Contre Tous.",
 		"flavor": "« ﻿Ceux qui t'ont un jour adoré, contre toi se sont rebelles. »",
 		"traits": "Olympe."

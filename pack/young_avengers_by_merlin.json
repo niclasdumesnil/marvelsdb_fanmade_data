@@ -27,7 +27,7 @@
 		"set_code": "young_avengers_narrative",
 		"stage": "B",
 		"hidden": true,
-		"text": "Each [[Young Avenger]] hero gain the [[Avenger ]]Trait.\n<b>Response</b>: After a [[young avenger]] character enters play, search your deck and your discard pile for an Honorary Avenger upgrade and attach it to that character.",
+		"text": "Each [[Young Avenger]] hero gain the [[Avenger]] Trait.\n<b>Response</b>: After a player plays a [[young avenger]] ally, that player search their deck and discard pile for an Honorary Avenger upgrade and attach it to that ally.",
 		"flavor": "Having proven their courage through countless reality-bending crises and cosmic wars, the young heroes finally step out of their mentors' shadows, officially accepting their rightful places as equals on the main Avengers roster.",
 		"type_code": "narrative",
 		"creator": "Merlin"

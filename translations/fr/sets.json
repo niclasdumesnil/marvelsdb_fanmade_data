@@ -1254,5 +1254,13 @@
 	{
 		"code": "extreme_risk",
 		"name": "Extreme Risk"
+	},
+	{
+		"code": "hercules_labor_deck",
+		"name": "Deck Travail"
+	},
+	{
+		"code": "hercules_gift_deck",
+		"name": "Deck Don"
 	}
 ]

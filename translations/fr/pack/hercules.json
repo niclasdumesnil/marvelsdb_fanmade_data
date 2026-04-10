@@ -43,7 +43,7 @@
 	},
 	{
 		"code": "59007",
-		"name": "Epée de  Pélée",
+		"name": "Epée de Pélée",
 		"text": "Permanent. Restreint.\nHercule gagne +1 point de vie et ses attaques de base gagnent Perçant.\n<b>Réponse</b> : après l'entrée en jeu de cette carte, piochez 4 cartes.",
 		"traits": "Artefact. Don. Arme."
 	},
@@ -62,6 +62,7 @@
 	},
 	{
 		"code": "59010",
+		"name": "Fils de Zeus",
 		"text": "<b>Action de héros</b> : redressez Hercule. Si vous contrôlez au moins :\n   • ﻿1 carte Don, redressez une amélioration spécifique à votre identité que vous contrôlez.\n   • 2 cartes Don, gagnez une carte d'état Tenace.\n   • 3 cartes Don, piochez 1 carte."
 	},
 	{
@@ -106,6 +107,7 @@
 	},
 	{
 		"code": "59017",
+		"name": "Prince du Pouvoir",
 		"text": "<b>Réponse de héros</b> : après qu'Hercule a attaqué et vaincu un ennemi, inclinez cette amélioration → soignez 1 dégât d'Hercule pour chaque point de dégât en excès infligé à cet ennemi par cette attaque.",
 		"traits": "Olympe. Titre."
 	},
@@ -158,6 +160,6 @@
 	{
 		"code": "59028",
 		"name": "Evaluer la Menace",
-		"text": "Victoire 0.\nJouez cette carte uniquement si votre identité a le trait [[Avenger ]]ou [[S.H.I.E.L.D.]].\n<b>Une fois déjouée</b> : chaque joueur peut chercher une carte [[Avenger ]]ou [[S.H.I.E.L.D.]] dans son deck ou sa pile de défausse et l'ajouter à sa main. (<i>Mélangez</i>.) Réduisez de 2 le coût pour jouer chacune de ces cartes jusqu'à la fin de la phase."
+		"text": "Victoire 0.\nJouez cette carte uniquement si votre identité a le trait [[Avenger]] ou [[S.H.I.E.L.D.]].\n<b>Une fois déjouée</b> : chaque joueur peut chercher une carte [[Avenger]] ou [[S.H.I.E.L.D.]] dans son deck ou sa pile de défausse et l'ajouter à sa main. (<i>Mélangez</i>.) Réduisez de 2 le coût pour jouer chacune de ces cartes jusqu'à la fin de la phase."
 	}
 ]
