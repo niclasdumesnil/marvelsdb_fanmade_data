@@ -1,35 +1,34 @@
-[
-	{
-		"code": "206601a",
-		"faction_code": "hero",
-		"name": "The Failsafe Awakening",
-		"pack_code": "young_avengers_by_merlin",
-		"position": 1,
-		"quantity": 1,
-		"permanent": true,
-		"set_code": "young_avengers_narrative",
-		"stage": "A",
-		"double_sided": true,
-		"back_link": "206601b",
-		"text": "<b>Action</b>: Discard an Honorary Avenger upgrade from your hand → Draw 1 card and flip this card.",
-		"flavor": "In the devastating wake of the Avengers' disbandment, a time-traveling teenager desperately seeking to rewrite his dark destiny activates a hidden protocol, uniting a new generation of legacy heroes to stop a temporal conqueror.",
-		"type_code": "narrative",
-		"creator": "Merlin"
-	},
-	{
-		"code": "206601b",
-		"faction_code": "hero",
-		"name": "Passing the Torch",
-		"pack_code": "young_avengers_by_merlin",
-		"permanent": true,
-		"position": 1,
-		"quantity": 1,
-		"set_code": "young_avengers_narrative",
-		"stage": "B",
-		"hidden": true,
-		"text": "Each [[Young Avenger]] hero gain the [[Avenger]] Trait.\n<b>Response</b>: After a player plays a [[young avenger]] ally, that player search their deck and discard pile for an Honorary Avenger upgrade and attach it to that ally.",
-		"flavor": "Having proven their courage through countless reality-bending crises and cosmic wars, the young heroes finally step out of their mentors' shadows, officially accepting their rightful places as equals on the main Avengers roster.",
-		"type_code": "narrative",
-		"creator": "Merlin"
-	}
+﻿[
+    {
+        "code":  "206601a",
+        "faction_code":  "hero",
+        "name":  "The Failsafe Awakening",
+        "pack_code":  "young_avengers_by_merlin",
+        "position":  1,
+        "quantity":  1,
+        "permanent":  true,
+        "set_code":  "young_avengers_narrative",
+        "stage":  "A",
+        "back_link":  "206601b",
+        "text":  "\u003cb\u003eAction\u003c/b\u003e: Discard an Honorary Avenger upgrade from your hand â†’ Draw 1 card and flip this card.",
+        "flavor":  "In the devastating wake of the Avengers\u0027 disbandment, a time-traveling teenager desperately seeking to rewrite his dark destiny activates a hidden protocol, uniting a new generation of legacy heroes to stop a temporal conqueror.",
+        "type_code":  "narrative",
+        "creator":  "Merlin"
+    },
+    {
+        "code":  "206601b",
+        "faction_code":  "hero",
+        "name":  "Passing the Torch",
+        "pack_code":  "young_avengers_by_merlin",
+        "permanent":  true,
+        "position":  1,
+        "quantity":  1,
+        "set_code":  "young_avengers_narrative",
+        "stage":  "B",
+        "hidden":  true,
+        "text":  "Each [[Young Avenger]] hero gain the [[Avenger]] Trait.\n\u003cb\u003eResponse\u003c/b\u003e: After a player plays a [[young avenger]] ally, that player search their deck and discard pile for an Honorary Avenger upgrade and attach it to that ally.",
+        "flavor":  "Having proven their courage through countless reality-bending crises and cosmic wars, the young heroes finally step out of their mentors\u0027 shadows, officially accepting their rightful places as equals on the main Avengers roster.",
+        "type_code":  "narrative",
+        "creator":  "Merlin"
+    }
 ]

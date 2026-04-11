@@ -1,9 +1,9 @@
 [
 	{
 		"code": "06001a",
-		"flavor": "\"Tu fais maintenant face au plus puissant de touts les Avengers !\"",
 		"name": "Thor",
 		"text": "<i>\"En Garde !\"</i> — <b>Réponse</b> : après que vous avez engagé un sbire, piochez 2 cartes. (Limite d'une fois par phase.)",
+		"flavor": "\"Tu fais maintenant face au plus puissant de touts les Avengers !\"",
 		"traits": "Asgard. Avenger."
 	},
 	{
@@ -14,9 +14,9 @@
 	},
 	{
 		"code": "06002",
-		"flavor": "\"Là où mon bien aimé s'avance ; que sa Dame Sif soit à ses côtés !\"",
 		"name": "Dame Sif",
 		"text": "<b>Réponse</b> : après que dame Sif est entrée en jeu, redressez Thor ou Odinson.",
+		"flavor": "\"Là où mon bien aimé s'avance ; que sa Dame Sif soit à ses côtés !\"",
 		"traits": "Asgard."
 	},
 	{
@@ -27,78 +27,78 @@
 	},
 	{
 		"code": "06004",
-		"flavor": "\"Pour l'honneur ! Pour la gloire ! Pour Asgard !\" — Thor",
 		"name": "Pour Asgard !",
-		"text": "<b>Action d'alter ego</b> : cherchez une carte avec le trait Asgard dans votre deck ou votre pile de défausse et ajoutez-la à votre main. Mélangez votre deck."
+		"text": "<b>Action d'alter ego</b> : cherchez une carte avec le trait Asgard dans votre deck ou votre pile de défausse et ajoutez-la à votre main. Mélangez votre deck.",
+		"flavor": "\"Pour l'honneur ! Pour la gloire ! Pour Asgard !\" — Thor"
 	},
 	{
 		"code": "06005",
-		"flavor": "\"Et maintenant Mjolnir ! Frappe avec justesse !\" — Thor",
 		"name": "Lancer de Marteau",
 		"text": "<b>Action de Héros</b> <i>(attaque)</i> : inclinez Mjolnir → infligez 8 dégâts à un ennemi et renvoyez Mjolnir dans votre main. Cette attaque gagne Déferlement.",
+		"flavor": "\"Et maintenant Mjolnir ! Frappe avec justesse !\" — Thor",
 		"traits": "Attaque. Super-pouvoir."
 	},
 	{
 		"code": "06006",
-		"flavor": "\"Je m'y oppose !\" — Thor",
 		"name": "Frappe Foudroyante",
 		"text": "<b>Action de héros</b> : dépensez X ressources [energy] → infligez X dégâts au méchant et à chaque sbire engagé avec vous. Cette attaque ignore les cartes d'état Tenace si vous avez le trait [[AÉRIEN]].",
+		"flavor": "\"Je m'y oppose !\" — Thor",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "06007",
-		"flavor": "C'est depuis la lumineuse cité d'Asgard qu'Odin veille sur les Neuf Royaumes, et c'est là que Thor fut élevé comme un prince.",
 		"name": "Asgard",
 		"text": "Votre taille de main augmente de +1.",
+		"flavor": "C'est depuis la lumineuse cité d'Asgard qu'Odin veille sur les Neuf Royaumes, et c'est là que Thor fut élevé comme un prince.",
 		"traits": "Asgard. Lieu."
 	},
 	{
 		"code": "06008",
-		"flavor": "\"Je suis le dieu du Tonnerre et le seigneur de la Foudre. Les cieux eux-mêmes se mettent à trembler quand parle le Puissant Thor !\" — Thor",
 		"name": "Dieu du Tonnerre",
 		"text": "<b>Ressource de Héros</b> : inclinez Dieu du Tonnerre → générez une ressource [energy].",
+		"flavor": "\"Je suis le dieu du Tonnerre et le seigneur de la Foudre. Les cieux eux-mêmes se mettent à trembler quand parle le Puissant Thor !\" — Thor",
 		"traits": "Asgard. Titre."
 	},
 	{
 		"code": "06009",
-		"flavor": "Quiconque soulève ce marteau, s'il en est digne, reçoit le pouvoir de Thor.",
 		"name": "Mjolnir",
 		"text": "Restreint. <i>(2 cartes restreintes max par joueur.)\n</i>Thor gagne +1 ATQ et le trait [[AÉRIEN]].",
+		"flavor": "Quiconque soulève ce marteau, s'il en est digne, reçoit le pouvoir de Thor.",
 		"traits": "Asgard. Arme."
 	},
 	{
 		"code": "06010",
-		"flavor": "\"Mes frères et soeurs ; préparez-vous. Aujourd'hui, nous partons à la GUERRE !\" — Thor",
 		"name": "Casque de Thor",
 		"text": "Vous gagnez +5 points de vie.",
+		"flavor": "\"Mes frères et soeurs ; préparez-vous. Aujourd'hui, nous partons à la GUERRE !\" — Thor",
 		"traits": "Asgard. Armure."
 	},
 	{
 		"code": "06011",
-		"flavor": "\"Tout ce que Thor peut faire, Hercule peut le faire plus fort !\"",
 		"name": "Hercule",
 		"text": "Réduisez de 1 le coût pour jouer Hercule pour chaque sbire engagé avec vous.",
+		"flavor": "\"Tout ce que Thor peut faire, Hercule peut le faire plus fort !\"",
 		"traits": "Avenger. Olympe."
 	},
 	{
 		"code": "06012",
-		"flavor": "\"Je suis Valkyrie, protectrice d'Asgard\".",
 		"name": "Valkyrie",
 		"text": "<b>Réponse:</b> Après que Valkyrie est entrée en jeu, infligez 2 dégâts à un sbire (3 dégâts à la place si vous avez utilisé une ressource [energy] pour payer cette carte).",
+		"flavor": "\"Je suis Valkyrie, protectrice d'Asgard\".",
 		"traits": "Asgard. Avenger."
 	},
 	{
 		"code": "06014",
-		"flavor": "\" Il faut que je te dise un mot !\" — Thor",
 		"name": "Viens par Ici !",
 		"text": "<b>Action de Héros</b> <i>(attaque)</i> : infligez 1 dégât à un sbire. Si vous avez le trait [[AÉRIEN]], engagez cet ennemi.",
+		"flavor": "\" Il faut que je te dise un mot !\" — Thor",
 		"traits": "Attaque."
 	},
 	{
 		"code": "06015",
-		"flavor": "Paf !",
 		"name": "Coup avec Élan",
 		"text": "<b>Interruption de Héros</b> : quand votre héros effectue une attaque de base, inclinez une amélioration [[ARME]] de votre héros → il gagne +3 ATQ pour cette attaque.",
+		"flavor": "Paf !",
 		"traits": "Compétence."
 	},
 	{
@@ -121,16 +121,16 @@
 	},
 	{
 		"code": "06020",
-		"flavor": "\"Souhaitez-vous savoir ce que j'ai vu ?\"",
 		"name": "Heimdall",
 		"text": "<b>Réponse</b> : après que Heimdall est entré en jeu, regardez les 3 cartes du dessus du deck Rencontre. Défaussez 1 de ces cartes et remettez les autres sur le deck dans l'ordre de votre choix.",
+		"flavor": "\"Souhaitez-vous savoir ce que j'ai vu ?\"",
 		"traits": "Asgard."
 	},
 	{
 		"code": "06021",
-		"flavor": "\"Ma peau est indestructible, mec. Tu ne sais donc pas qui je suis ?\" — Luke Cage",
 		"name": "Invulnérabilité",
 		"text": "<b>Action de héros</b> : donnez une carte d'état Tenace à votre héros.",
+		"flavor": "\"Ma peau est indestructible, mec. Tu ne sais donc pas qui je suis ?\" — Luke Cage",
 		"traits": "Super-pouvoir."
 	},
 	{

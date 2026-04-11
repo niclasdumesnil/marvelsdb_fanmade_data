@@ -1,0 +1,238 @@
+[
+	{
+		"code": "56001a",
+		"name": "Tigra",
+		"text": "Chaque sbire ayant un exemplaire de Traqué attaché perd Garde.\n<i>En Chasse</i> —<b>Réponse</b> : après le début de la phase des Joueurs, piochez 1 carte pour chaque sbire engagé avec vous (jusqu'à un maximum de 3).",
+		"traits": "Avenger."
+	},
+	{
+		"code": "56001b",
+		"name": "Greer Nelson",
+		"text": "<i>Enquête Sous Couverture</i> — <b>Action</b> : cherchez un exemplaire de Traqué dans votre deck ou votre pile de défausse et ajoutez-le à votre main. (Limite d'une fois par round.)",
+		"flavor": "« On n'a pas besoin d'être un Avenger pour protéger les autres. »",
+		"traits": "Police."
+	},
+	{
+		"code": "56002",
+		"name": "Moon Knight",
+		"subname": "Marc Spector",
+		"text": "<b>Réponse forcée</b> : après que Moon Knight est entré en jeu, cherchez un sbire dans le deck Rencontre ou la pile de défausse Rencontre et mettez-le en jeu engagé avec vous. Sonnez et désorientez ce sbire.",
+		"traits": "Avenger."
+	},
+	{
+		"code": "56003",
+		"name": "Commissariat",
+		"text": "<b>Action d'alter ego</b> : inclinez le Commissariat → retirez 1 menace d'une manigance. Retirez 1 menace supplémentaire pour chaque sbire engagé avec vous.",
+		"flavor": "« Épargnez-moi vos menaces, monsieur. Mes amis sont bien plus effrayants que les vôtres. » - Greer Nelson",
+		"traits": "Lieu."
+	},
+	{
+		"code": "56004",
+		"name": "Amulette à Tête de Chat",
+		"text": "<b>Ressource</b> : inclinez l'Amulette à Tête de Chat → générez une ressource [physical] pour chaque sbire engagé avec vous (jusqu'à un maximum de [physical][physical][physical]).",
+		"flavor": "L'amulette de Tigra lui permet d'adopter une forme féline ou une forme humaine.",
+		"traits": "Artefact. Objet."
+	},
+	{
+		"code": "56005",
+		"name": "Griffes acérées",
+		"text": "<b>Interruption</b> : quand vous effectuez une attaque de base, inclinez Griffes Acérées → Tigra gagne +1 ATQ pour cette attaque. Choisissez :\n• ﻿﻿Cette attaque gagne Déferlement.\n• ﻿﻿Cette attaque gagne Perçant.",
+		"traits": "Arme."
+	},
+	{
+		"code": "56006",
+		"name": "Réflexes de Chay",
+		"text": "<b>Interruption de héros</b> : quand vous êtes censé subir n'importe quelle quantité de dégâts, défaussez Réflexes de Chat → prévenez 3 de ces dégâts. Vous pouvez désorienter un sbire engagé avec vous.",
+		"traits": "Super-Pouvoir."
+	},
+	{
+		"code": "56007",
+		"name": "Traqué",
+		"text": "[star] En tant que coût supplémentaire pour jouer cette amélioration, cherchez un sbire dans le deck Rencontre ou la pile de défausse Rencontre et mettez-le en jeu engagé avec vous. Attachez Traqué à ce sbire et sonnez-le.\n<b>Interruption</b> : quand le sbire attaché est vaincu, redressez Tigra.",
+		"traits": "Condition."
+	},
+	{
+		"code": "56008",
+		"name": "Bec et Ongles",
+		"text": "Réduisez de 1 le coût pour jouer cet événement pour chaque sbire engagé avec vous.\n<b>Action de héros</b> (<i>attaque</i>) : infligez 4 dégâts à un ennemi. Infligez 4 dégâts à un ennemi.",
+		"traits": "Attaque. Super-Pouvoir."
+	},
+	{
+		"code": "56009",
+		"name": "Sens de Félin",
+		"text": "<b>Action de héros</b> (<i>contre</i>) : Retirez 3 menaces d'une manigance. Si cet effet retire la dernière menace de cette manigance, sonnez un sbire.",
+		"flavor": "« C'est mon instinct. Je suis un chat, alors je chasse. » - Tigra",
+		"traits": "Super-Pouvoir. Contre."
+	},
+	{
+		"code": "56010",
+		"name": "Le Pistoléro",
+		"subname": "Matthew Hawk",
+		"text": "[star] <b>Interruption</b> : quand Le Pistoléro effectue une attaque de base, choisissez 2 ennemis à la place de 1 et résolvez cette attaque contre chacun d'eux.",
+		"flavor": "« Très bien les gars, vous êtes prêts ? »"
+	},
+	{
+		"code": "56012",
+		"name": "Couverture Aérienne",
+		"text": "Utilisations (2 jetons Carburant). 1 max par joueur.\n<b>Réponse</b> : après l'entrée en jeu d'un sbire, retirez 1 jeton Carburant de ce soutien et inclinez-le → cherchez une amélioration [[Tactique]] dans votre deck ou votre pile de défausse qui peut être attachée à ce sbire et ajoutez-la à votre main.",
+		"traits": "Tech."
+	},
+	{
+		"code": "56013",
+		"name": "Né Pour l'Agressivité",
+		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 max par joueur.\nVous gagnez + 3 points de vie et votre héros gagne +1 ATQ.",
+		"traits": "Condition."
+	},
+	{
+		"code": "56016",
+		"name": "Coup de Grâce",
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : vainquez un sbire non-[[Élite]] ayant une amélioration attachée. Ignorez toute capacité « <b>Une fois vaincu </b>» sur ce sbire.",
+		"flavor": "« ﻿﻿Cela se termine ici ... et maintenant ! » - ﻿﻿Le Chevalier Noir",
+		"traits": "Attaque."
+	},
+	{
+		"code": "56017",
+		"name": "Coup Sauvage",
+		"text": "<b>Interruption de héros</b> : quand vous effectuez une attaque de base, vous gagnez +6 ATQ pour cette attaque. Cette attaque gagne Perçant.",
+		"flavor": "KRACK !",
+		"traits": "Compétence."
+	},
+	{
+		"code": "56019",
+		"name": "Le Frelon",
+		"subname": "Hank Pym",
+		"text": "Jouez cette carte uniquement si vous avez le trait [[Avenger]].\n<b>Réponse</b> : après que Le Frelon est entré en jeu cherchez une amélioration parmi les 5 cartes de votre deck et ajoutez-la à votre main.",
+		"flavor": "« Je sais ce que j'ai à faire. »"
+	},
+	{
+		"code": "56029a",
+		"name": "Hulkling",
+		"text": "<i>Forme Choisie</i> — <b>Réponse forcée</b> : après qu'une amélioration [[Métamorphose]] est entrée en jeu sous votre contrôle, défaussez chaque autre amélioration [[Métamorphose]] que vous contrôlez et redressez Hulkling.",
+		"traits": "Avenger. Kree. Skrull."
+	},
+	{
+		"code": "56029b",
+		"name": "Teddy Altman",
+		"text": "Vous ne pouvez pas avoir plus de 1 amélioration [[Métamorphose]] en jeu.\n<i>Métamorphe</i> — <b>Action</b> : cherchez une amélioration [[Métamorphose]] dans votre deck et votre pile de défausse et ajoutez-la à votre main. (Limite d'une fois par round.)",
+		"traits": "Kree. Skrull."
+	},
+	{
+		"code": "56030",
+		"name": "Wiccan",
+		"subname": "William Kaplan",
+		"text": "<b>Réponse</b> : après que vous avez joué Wiccan de votre main, cherchez un événement spécifique à votre identité dans votre deck ou votre pile de défausse et ajoutez-le à votre main. (<i>Mélangez</i>.)",
+		"flavor": "« Accroche-toi, Teddy ! Je viens te sauver ! »"
+	},
+	{
+		"code": "56031",
+		"name": "Résidence Altman",
+		"text": "<b>Action d'alter ego</b> : inclinez la Résidence Altman → soignez 2 dégâts de Teddy Altman et mélangez 1 carte Hulkling de votre pile de défausse dans votre deck.",
+		"flavor": "Teddy a été élevé par Mrs. Altman depuis son plus jeune âge pour cacher son ascendance véritable.",
+		"traits": "Lieu."
+	},
+	{
+		"code": "56032",
+		"name": "Forme Ailée",
+		"text": "Hulkling gagne +1 CTR, +1 ATQ, +1 DEF et gagne le trait Aérien.\n<b>Réponse de héros</b> : après que vous avez joué un événement, inclinez Forme Ailée → retirez 2 menaces d'une manigance.",
+		"traits": "Métamorphose."
+	},
+	{
+		"code": "56033",
+		"name": "Forme d'Hulk",
+		"text": "Hulkling gagne +2 ATQ et +1 DEF.\n<b>Réponse de héros</b> : après que vous avez joué un événement, inclinez Forme d'Hulk → infligez 2 dégâts à un ennemi.",
+		"traits": "Métamorphose."
+	},
+	{
+		"code": "56034",
+		"name": "Forme Armurée",
+		"text": "Hulkling gagne +1 ATQ, +2 DEF et gagne Riposte 1.\n<b>Réponse de héros</b> : après que vous avez joue un événement, inclinez Forme Armurée → soignez 2 dégâts de Hulkling.",
+		"traits": "Métamorphose."
+	},
+	{
+		"code": "56035",
+		"name": "Forme Imitative",
+		"text": "Hulkling gagne +2 CTR.\n<b>Interruption forcée</b> : quand un ennemi est censé vous attaquer, il manigance à la place.\n<b>Réponse de héros</b> : après que vous avez joué un événement, inclinez Forme Imitative → piochez 1 carte.",
+		"traits": "Métamorphose."
+	},
+	{
+		"code": "56036",
+		"name": "Physiologie Extraterrestre",
+		"text": "<b>Ressource</b> : inclinez Physiologie Extraterrestre → générez une ressource [wild] (les ressources suivantes : [wild] [wild] à la place si vous payez pour une carte Hulkling).",
+		"flavor": "« Lorsque j'ai découvert mes pouvoirs pour la première fois, j'ai cru que j'étais un mutant. Mais en fait, je suis juste un extraterrestre ! »",
+		"traits": "Super-Pouvoir."
+	},
+	{
+		"code": "56037",
+		"name": "Frappe de Métamorphose",
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 5 dégâts à un ennemi. Redressez votre amélioration Métamorphose.",
+		"flavor": "« Ne touche pas à mes amis ! » - Hulkling",
+		"traits": "Attaque. Super-Pouvoir."
+	},
+	{
+		"code": "56038",
+		"name": "Défense Armurée",
+		"text": "<b>Interruption de héros</b> (<i>défense</i>) : quand un ennemi attaque, infligez-lui un nombre de dégâts égal à votre DEF. Après cette attaque, donnez une carte d'état Tenace à Hulkling.",
+		"traits": "Défense. Super-Pouvoir."
+	},
+	{
+		"code": "56039",
+		"name": "Imitation",
+		"text": "<b>Action de héros</b> (<i>contre</i>) : retirez 4 menaces d'une manigance. Si cela retire la dernière menace de cette manigance, vous pouvez passer sous forme d'alter ego.",
+		"flavor": "« Je suis le métamorphe de service des Young Avengers. » - Hulkling",
+		"traits": "Super-Pouvoir. Contre."
+	},
+	{
+		"code": "56040",
+		"name": "Métamorphe",
+		"text": "<b>Action de héros</b> : cherchez dans votre deck ou votre pile de défausse une amélioration Métamorphose et ajoutez-la à votre main. (Mélangez.)",
+		"flavor": "« Tu l'avais pas vu venir, celle-là, pas vrai ? » - Huikling",
+		"traits": "Super-Pouvoir."
+	},
+	{
+		"code": "56041",
+		"name": "Patriot",
+		"subname": "Elijah Bradley",
+		"text": "<b>Réponse</b> : après que vous avez engagé un sbire, donnez une carte d'état Tenace à Patriot.",
+		"flavor": "« Je suis prêt à tout. »",
+		"traits": "Avenger."
+	},
+	{
+		"code": "56043",
+		"name": "Base cachée",
+		"text": "Utilisations (3 jetons Forteresse).\n<b>Réponse d'alter ego</b> : après avoir changé de forme, retirez 1 jeton Forteresse de la Base Cachée et inclinez-la → donnez à votre identité une carte d'état Tenace.",
+		"traits": "Lieu."
+	},
+	{
+		"code": "56045",
+		"name": "Excelsior",
+		"text": "Restreint. (2 cartes restreintes max par joueur.)\n<b>Réponse</b> : après que votre héros a défendu contre une attaque ennemie, dépensez une ressource [[energy]] → infligez 2 dégâts à un ennemi.",
+		"traits": "Kree. Skrull. Arme."
+	},
+	{
+		"code": "56046",
+		"name": "Né Pour la Défense",
+		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 max par joueur.\nVous gagnez +3 points de vie et votre héros gagne +1 DEF.",
+		"traits": "Condition."
+	},
+	{
+		"code": "56047",
+		"name": "\"Je peux faire ça Toute la Journée\"",
+		"text": "<b>Interruption de héros</b> (<i>défense</i>) : quand un ennemi attaque, déclarez votre héros en tant que défenseur sans l'incliner.",
+		"traits": "Défense."
+	},
+	{
+		"code": "56050",
+		"name": "A Double Tranchant",
+		"text": "<b>Interruption de héros</b> (<i>défense</i>) : quand un ennemi attaque, vous gagnez Riposte 1 jusqu'à la fin de la phase.",
+		"flavor": "« C'est un jeu qui se joue à deux ! » - Wiccan",
+		"traits": "Défense."
+	},
+	{
+		"code": "56052",
+		"name": "Iron Lad",
+		"subname": "Nathaniel Richards",
+		"text": "[star] ﻿<b>Interruption</b> : quand Iron Lad utilise un pouvoir de base, inclinez un autre allié [[Avenger]] que vous contrôlez → ajoutez le pouvoir correspondant de cet allié au pouvoir d'Iron Lad pour cette utilisation.",
+		"flavor": "« ﻿Ce n'est pas pour rien que nous sommes devenus Young Avengers. »",
+		"traits": "Avenger."
+	}
+]

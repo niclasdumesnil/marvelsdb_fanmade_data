@@ -6,15 +6,15 @@
 	},
 	{
 		"code": "06027",
-		"flavor": "Incorrigible filou, Loki ne laisse jamais passer une occasion de faire obstacle à son frère, Thor.",
 		"name": "Querelle Familiale",
-		"text": "<b>Une fois révélée</b> : placez 1 menace supplémentaire sur cette carte pour chaque carte [[Asgard]] en jeu."
+		"text": "<b>Une fois révélée</b> : placez 1 menace supplémentaire sur cette carte pour chaque carte [[Asgard]] en jeu.",
+		"flavor": "Incorrigible filou, Loki ne laisse jamais passer une occasion de faire obstacle à son frère, Thor."
 	},
 	{
 		"code": "06028",
-		"flavor": "\"Tu sembles dépité, mon frère. C'est une bonne chose.\"",
 		"name": "Loki",
 		"text": "<b>Interruption</b> : quand Loki est censé être vaincu, défaussez la carte du dessus du deck Rencontre. Si cette carte est une traîtrise, soignez tous les dégâts de Loki à la place.\n<i>(Sbire Némésis de Thor.)</i>",
+		"flavor": "\"Tu sembles dépité, mon frère. C'est une bonne chose.\"",
 		"traits": "Asgard."
 	},
 	{
@@ -25,8 +25,8 @@
 	},
 	{
 		"code": "06030",
-		"flavor": "\"Combien de fois te feras-tu avoir comme ça ?\" — Loki",
 		"name": "Filou",
-		"text": "<b>Une fois révélée</b> : défaussez les 3 cartes du dessus de votre deck. Placez 1 menace sur la manigance principale pour chaque type de carte différent défaussé par cet effet."
+		"text": "<b>Une fois révélée</b> : défaussez les 3 cartes du dessus de votre deck. Placez 1 menace sur la manigance principale pour chaque type de carte différent défaussé par cet effet.",
+		"flavor": "\"Combien de fois te feras-tu avoir comme ça ?\" — Loki"
 	}
 ]

@@ -2,143 +2,174 @@
 	{
 		"code": "58001a",
 		"name": "Wonder Man",
+		"text": "<i>Recyclage de Puissance</i> — Wonder Man gagne +1 ATQ pour chaque carte intercalée sous Physiologie lonique.\n[star] <b>Réponse forcée</b> : après que Wonder Man a effectué une attaque de base, défaussez chaque carte intercalée sous Physiologie lonique.",
 		"traits": "Aérien. Avenger."
 	},
 	{
 		"code": "58001b",
 		"name": "Simon Williams",
+		"text": "<i>Etre d'Énergie Ionique</i> — Vous pouvez inclure dans votre deck des événements ayant une icône de ressource energie imprimée de n'importe quelle affinité.\n<b>Mise en place</b> : mettez en jeu Physiologie lonique.",
 		"traits": "Civil."
 	},
 	{
 		"code": "58002",
 		"name": "Physiologie Ionique",
-		"traits": "Super-pouvoir."
+		"text": "Permanent. 3 cartes max. intercalées dessous.\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [energy] imprimée, intercalez-le sous cette carte depuis votre pile de défausse → soignez 1 dégât de votre identité.",
+		"errata": "remplacer \"→\" par \"puis\".  - Alex Werner, FFG Game Rules Specialist",
+		"traits": "Super-Pouvoir."
 	},
 	{
 		"code": "58003",
 		"name": "Altruisme Actif",
+		"text": "<b>Action de héros</b> (<i>contre</i>) : retirez 1 menace d'une manigance. Retirez 2 menaces supplémentaires de cette manigance pour chaque ressource [energy] que vous avez surpayée pour cette carte (jusqu'à un maximum de [energy] [energy]).",
 		"traits": "Contre."
 	},
 	{
 		"code": "58004",
 		"name": "Rayon Ionique",
-		"traits": "Attaque. Super-pouvoir."
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 3 dégâts à un ennemi. Infligez 2 dégâts supplémentaires à cet ennemi pour chaque ressource [energy] que vous avez surpayée pour cette carte (jusqu'à un maximum de  [energy] [energy] [energy]).",
+		"traits": "Attaque. Super-Pouvoir."
 	},
 	{
 		"code": "58005",
 		"name": "Frappe des Etoiles",
-		"traits": "Attaque. Super-pouvoir."
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : infligez à un ennemi un nombre de dégâts égal à votre ATQ. Si vous avez surpayé pour cette carte avec une ressource [energy], sonnez cet ennemi.",
+		"traits": "Attaque. Super-Pouvoir."
 	},
 	{
 		"code": "58006",
-		"name": "Siphon d'Energie"
+		"name": "Siphon d'Energie",
+		"text": "<b>Interruption de héros</b> : quand vous dépensez cette carte, subissez jusqu'à 3 dégâts → cette carte génère 1 ressource [energy] supplémentaire pour chaque dégât ainsi subi."
 	},
 	{
 		"code": "58007",
 		"name": "Fans de Wonder Man",
+		"text": "<b>Action d'alter ego</b> : inclinez les Fans de Wonder Man → choisissez :\n • ﻿Intercalez sous Physiologie lonique 1 carte Evénement ayant une ressource [energy] imprimée de votre pile de défausse.\n • ﻿﻿Piochez 1 carte.",
 		"traits": "Civil."
 	},
 	{
 		"code": "58008",
 		"name": "Ceinture à Réaction",
+		"text": "<b>Ressource de héros</b> : inclinez la Ceinture à Réaction → générez une ressource [energy] pour un événement. \n<b>Ressource de héros</b> : inclinez la Ceinture à Réaction et défaussez une carte intercalée sous Physiologie lonique → générez une ressource [energy].",
 		"traits": "Objet. Tech."
 	},
 	{
 		"code": "58009",
 		"name": "Monsieur Hollywood",
+		"text": "<b>Ressource</b> : générez une ressource [energy] pour surpayer une carte. (Limite d'une fois par carte.)",
+		"flavor": "« Hey, c'est pas vous qu'on a vu dans Beach Volleyball Bros II ? » - Kate Bishop",
 		"traits": "Titre."
 	},
 	{
 		"code": "58010",
 		"name": "Lunettes de Soleil Iconiques",
+		"text": "<b>Réponse</b> : après que vous avez changé de forme, choisissez :\n• ﻿﻿Intercalez sous Physiologie lonique une carte Événement ou Ressource ayant une ressource [energy] imprimée de votre pile de défausse.\n• ﻿﻿Ajoutez à votre main une carte intercalée sous Physiologie Ionique.",
 		"traits": "Objet."
 	},
 	{
 		"code": "58011",
 		"name": "\"Mais d'Où tu Sors\"",
-		"traits": "Super-pouvoir."
+		"text": "<b>Interruption forcée</b> : quand Wonder Man est censé être vaincu, fixez son compteur de points de vie à 4 et passez-le sous forme d'alter ego à la place. Vous pouvez intercaler sous Physiologie lonique des événements ayant une ressource [energy] imprimée depuis votre pile de défausse jusqu'à ce qu'il y ait 3 cartes intercalées dessous. Retirez cette amélioration de la partie.",
+		"traits": "Super-Pouvoir."
 	},
 	{
 		"code": "58012",
 		"name": "Firebird",
 		"subname": "Bonita Juarez",
+		"text": "Si vous avez surpayé pour Firebird, mettez 1 jeton Renaissance sur elle.\n<b>Interruption</b> : quand Firebird est censée être vaincue à cause d'un dégât consécutif, retirez-lui 1 jeton Renaissance → soignez tous ses dégâts à la place.",
 		"traits": "Aérien. Avenger."
 	},
 	{
 		"code": "58013",
 		"name": "Hawkeye",
 		"subname": "Clint Barton",
+		"text": "Hawkeye entre en jeu avec 4 jetons Flèches sur lui.\n<b>Réponse</b> : après qu'un allié a effectué un contre de base, retirez 1 jeton Flèche de Hawkeye → infligez 2 dégâts à un sbire.",
 		"traits": "Avenger. S.H.I.E.L.D."
 	},
 	{
 		"code": "58014",
 		"name": "La Sorcière Rouge",
 		"subname": "Wanda Maximoff",
+		"text": "<b>Réponse forcée</b> : après avoir joué La Sorcière Rouge, défaussez la carte du dessus du deck Rencontre. S'il s'agit d'une carte Traîtrise, résolvez sa capacité « <b>Une fois révélée</b> ».",
 		"traits": "Avenger. Mystique."
 	},
 	{
 		"code": "58015",
 		"name": "Sentry",
 		"subname": "Robert Reynolds",
+		"text": "<b>Réponse forcée</b> : après que Sentry est entré en jeu, cherchez une manigance annexe dans le deck Rencontre et révélez-la. (<i>Mélangez</i>.) Si aucune manigance annexe n'a été ainsi révélée, placez 6 menaces sur la manigance principale.",
 		"traits": "Aérien. Avenger."
 	},
 	{
 		"code": "58016",
 		"name": "Bienveillance au Combat",
+		"text": "<b>Action de héros</b> : soignez 2 dégâts d'un ennemi → désorientez cet ennemi.",
+		"flavor": "« Hein ? C'est quoi le piège ? » - Le Vautour",
 		"traits": "Tactique."
 	},
 	{
 		"code": "58018",
 		"name": "Partout en Même Temps",
+		"text": "Jouez cette carte uniquement si votre identité a le trait [[Aérien]].\n<b>Action de héros</b> (<i>contre</i>) : choisissez X manigances. Retirez 2 menaces de chaque manigance choisie (3 menaces à la place si vous avez surpayé pour cette carte).",
 		"traits": "Aérien. Contre."
 	},
 	{
 		"code": "58019",
-		"name": "Plus Fort Ensemble"
+		"name": "Plus Fort Ensemble",
+		"text": "<b>Interruption de héros</b> : quand un personnage autre que votre héros est censé subir n'importe quelle quantité de dégâts, si ce personnage partage un [Trait] avec votre héros, diminuez de votre DEF cette quantité de dégâts."
 	},
 	{
 		"code": "58020",
 		"name": "Frappe Unie",
+		"text": "<b>Interruption de héros</b> : quand un allié utilise un pouvoir de base, inclinez votre héros → ajoutez le pouvoir correspondant de votre héros au pouvoir de cet allié pour cette utilisation. Cet allié ne subit pas de dégâts consécutifs pour cette utilisation.",
 		"traits": "Tactique."
 	},
 	{
 		"code": "58021",
 		"name": "Entraînement Héroïque",
+		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 max par joueur.\nVous gagnez +3 points de vie et votre héros gagne +1 CTR.",
 		"traits": "Condition."
 	},
 	{
 		"code": "58022",
 		"name": "Swordman",
 		"subname": "Jacques Duquesnes",
+		"text": "[star] Les attaques de base de Swordsman gagnent Perçant.\n<b>Réponse de héros</b> : après qu'une carte de boost a été retournée face visible lors d'une attaque non détendue, déclarez Swordsman en tant que défenseur sans l'incliner.",
 		"traits": "Avenger."
 	},
 	{
 		"code": "58024",
 		"name": "Jarvis",
+		"text": "<b>Réponse</b> : après qu'un héros [[Avenger]] est passé sous forme d'alter ego, inclinez Jarvis → choisissez :   \n•  ﻿﻿Cette identité gagne +2 REC jusqu'à la fin de la phase.\n•   ﻿﻿Défaussez une carte d'état de cette identité.",
 		"traits": "Avenger. Individu."
 	},
 	{
 		"code": "58030",
 		"name": "Prix Entre Deux Feux",
+		"text": "Attachez cette carte à un sbire non-[[Élite]]. 1 max par sbire.\n<b>Interruption</b> : quand un personnage ami attaque, infligez 1 dégât au sbire attaché.",
 		"traits": "Tactique."
 	},
 	{
 		"code": "58031",
-		"name": "Cameo"
+		"name": "Cameo",
+		"text": "Mise en place. 1 max par deck.\n<b>Mise en place</b> : cherchez dans votre collection un allié spécifique à une identité appartenant à une identité qui n'est pas utilisée dans cette partie. Mélangez cet allié dans votre deck. Défaussez 2 cartes de votre main et retirez ce soutien de la partie."
 	},
 	{
 		"code": "58032",
 		"name": "Effort Conjoint.",
+		"text": "Attachez cette carte à une carte Rencontre en jeu. 1 max par carte Rencontre.\nLorsque vous payez les coûts de la carte attachée, n'importe quel joueur peut aider à payer ces coûts.",
 		"traits": "Tactique."
 	},
 	{
 		"code": "58033",
 		"name": "Défense Désarmante",
+		"text": "<b>Interruption de héros</b> (<i>défense</i>) : quand votre héros défend contre une attaque, il gagne +2 DEF pour cette attaque. Si vous ne subissez pas de dégât de cette attaque, défaussez un attachement de l'ennemi attaquant ayant la mention « <b>Action de héros</b> « ou « <b>Réponse de héros</b> ».",
 		"traits": "Défense."
 	},
 	{
 		"code": "58034",
 		"name": "Camp des Avengers",
+		"text": "Jouez cette carte uniquement si votre identité a le trait [[Avenger]]. 1 max par deck.\n<b>Action</b> : inclinez le Camp des Avengers → choisissez : intercalez sous cette carte 1 allié de votre main s'il n'y a pas d'allié intercalé ici, ou jouez l'allié intercalé ici comme s'il était dans votre main.",
 		"traits": "Avenger. Lieu."
 	}
 ]

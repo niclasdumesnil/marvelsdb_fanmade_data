@@ -1418,5 +1418,11 @@
     "code": "power_outage_by_ripper3",
     "name": "Power Outage",
     "card_set_type_code": "modular"
+  },
+  {
+    "card_set_type_code": "hero_special",
+    "code": "thor_narrative",
+    "name": "Thor Narrative",
+    "parent_code": "thor"
   }
 ]

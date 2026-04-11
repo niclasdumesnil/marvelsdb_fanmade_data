@@ -1,23 +1,30 @@
 [
 	{
 		"code": "58025",
-		"name": "Pacifisme"
+		"name": "Pacifisme",
+		"text": "<b><i>Donnez cette carte au joueur de Simon Williams.</i></b>\nWonder Man ne peut pas attaquer.\n<b>Action d'alter ego</b> : inclinez Simon Williams ou défaussez 3 cartes intercalées sous Physiologie lonique → défaussez cette obligation."
 	},
 	{
 		"code": "58026",
 		"name": "Le Moissoneur",
+		"text": "Coup rapide.\n[star] <b>Réponse forcée</b> : après que Le Moissonneur a attaqué et vaincu un allié, attribuez une carte Rencontre face cachée au contrôleur de cet allié.",
 		"traits": "Cyborg."
 	},
 	{
 		"code": "58027",
-		"name": "Frère Conttre Frère"
+		"name": "Frère Conttre Frère",
+		"text": "En tant que coût supplémentaire pour attaquer Le Moissonneur, vous devez défausser 1 carte de votre main.",
+		"flavor": "« Si seulement tu étais mon véritable frère... à la place de cette monstruosité que tu es devenu. » - ﻿﻿Le Moissonneur"
 	},
 	{
 		"code": "58028",
-		"name": "Coup de Faux"
+		"name": "Coup de Faux",
+		"text": "<b>Une fois révélée</b> : si Le Moissonneur est en jeu, il s'active contre vous. Sinon, subissez 2 dégâts indirects.",
+		"flavor": "« Rien ne se mettra en travers de mon chemin. » - Le Moissonneur"
 	},
 	{
 		"code": "58029",
-		"name": "La Mort ne Peut Mourir"
+		"name": "La Mort ne Peut Mourir",
+		"text": "<b>Une fois révélée</b> : Le Moissonneur s'active contre vous. Si Le Moissonneur n'est pas en jeu, trouvez-le et révélez-le.\n<hr>\n[star] <b>Boost</b> : si Le Moissonneur est en jeu, il s'active contre vous (après cette activation)."
 	}
 ]
