@@ -493,6 +493,7 @@
 		"flavor": "Thor is considered \"unworthy\" after a battle on the Moon where Nick Fury whispered something to him, causing Thor's hammer, Mjolnir, to fall to the Moon's surface, leaving Thor weakened.",
 		"quantity": 1,
 		"set_code": "thor_narrative",
+		"creator" : "Merlin",
 		"set_position": 1
 	},
 	{
@@ -507,6 +508,7 @@
 		"flavor": "Whosoever holds this hammer if she be worthy shall possess the power of THOR",
 		"quantity": 1,
 		"set_code": "thor_narrative",
+		"creator" : "Merlin",
 		"set_position": 1
 	}
 ]
