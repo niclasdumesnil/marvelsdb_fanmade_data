@@ -202,9 +202,9 @@
 	{
 		"card_set_type_code": "hero_special",
 		"code": "doctor_strange_invocation_deck",
-		"name": "Invocation Deck",		
+		"name": "Invocation Deck",
 		"parent_code": "doctor_strange"
-	},	
+	},
 	{
 		"code": "doctor_strange_nemesis",
 		"name": "Doctor Strange Nemesis",
@@ -1555,7 +1555,7 @@
 	{
 		"code": "growing_strong",
 		"name": "Growing Strong",
-    "card_set_type_code": "modular"
+		"card_set_type_code": "modular"
 	},
 	{
 		"code": "black_panther_shuri",
