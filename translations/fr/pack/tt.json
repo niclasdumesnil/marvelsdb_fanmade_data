@@ -1,0 +1,29 @@
+[
+	{
+		"code": "55063",
+		"name": "L'Homme Absorbant",
+		"subname": "Carl Creel",
+		"text": "Liée (sbire L'Homme Absorbant).\nVictoire 0.\nNe compte pas dans votre limite d'alliés.\n[star] <b>Interruption</b> : quand L'Homme Absorbant attaque ou contre, inclinez une amélioration ou un soutien que vous contrôlez. L'Homme Absorbant gagne +X à ce pouvoir pour cette utilisation, X étant le coût imprimé de la carte inclinée (jusqu'à un maximum de +3).",
+		"traits": "Provocateur."
+	},
+	{
+		"code": "55064",
+		"name": "Titania",
+		"subname": "Mary MacPherran",
+		"text": "Liée (sbire Titania). Victoire 0.\nNe compte pas dans votre limite d'alliés.\n[star] Les attaques de Titania gagnent Déferlement et Perçant.",
+		"traits": "Provocateur."
+	},
+	{
+		"code": "55065",
+		"name": "Le Tourbillon",
+		"subname": "David Cannon",
+		"text": "Liée (sbire Le Tourbillon). Victoire 0.\nNe compte pas dans votre limite d'alliés.\n[star] <b>Interruption</b> : quand Le Tourbillon attaque, retirez 1 menace de chaque manigance en jeu. Pour chaque menace ainsi retirée, Le Tourbillon gagne +1 ATQ pour cette attaque.",
+		"traits": "Provocateur."
+	},
+	{
+		"code": "55066",
+		"name": "Zzzax",
+		"text": "Liée (sbire Zzzax). Victoire 0.\nNe compte pas dans votre limite d'alliés.\n<b>Réponse</b> : après que Zzzax est entré en jeu, cherchez une carte ayant une ressource [energy] imprimée parmi les 5 cartes du dessus de votre deck et ajoutez-la à votre main (Mélangez.)",
+		"traits": "Provocateur."
+	}
+]

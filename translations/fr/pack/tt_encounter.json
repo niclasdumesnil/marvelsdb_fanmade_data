@@ -1,0 +1,105 @@
+[
+	{
+		"code": "55001",
+		"name": "L'Enchanteresse",
+		"text": "[star] <b>Réponse forcée</b> : après que L'Enchanteresse vous a attaqué, placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu.",
+		"traits": "Asgard. Mystique."
+	},
+	{
+		"code": "55002",
+		"name": "L'Enchanteresse",
+		"text": "Solide. Ténacité.\n<b>Une fois révélée</b> : en mode Standard, mettez en jeu l'Avenir du Désespoir mis de côté, ensuite placez 3per_hero] menaces supplémentaires dessus.\n[star] <b>Réponse forcée</b> : après que L'Enchanteresse vous a attaqué, placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu.",
+		"traits": "Asgard. Mystique."
+	},
+	{
+		"code": "55003",
+		"name": "L'Enchanteresse",
+		"text": "Solide. Ténacité.\n<b>Une fois révélée</b> : mettez en jeu l'Avenir du Désespoir mis de côté, ensuite placez 4[per_hero] menaces supplémentaires dessus.\n[star] <b>Réponse forcée</b> : après que L'Enchanteresse vous a attaqué, placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu."
+	},
+	{
+		"code": "55004a",
+		"name": "Un Continent Exceptionnel",
+		"text": "<b>Contenu</b> : Enchanteresse (l) et Enchanteresse (II). (Enchanteresse (II) et Enchanteresse (III) à la place en mode Expert.) Les sets de rencontre Enchanteresse et Standard. Un set de rencontre modulaire (Magie du Filou).\n<b>Mise en place</b> : mettez de côté la manigance annexe L'Avenir du Désespoir. Attachez à chaque identité un Regard Hypnotique pris au hasard (les joueurs ne peuvent pas regarder les faces cachées). Mettez de côté chaque Regard Hypnotique restant."
+	},
+	{
+		"code": "55004b",
+		"name": "Un Continent Exceptionnel",
+		"text": "<b>Interruption forcée</b> : quand un jeton Charme est censé être placé sur la carte [[Enchantement]] de votre zone de jeu, si votre identité a le trait [[Envoûté]], placez 1 menace sur cette manigance principale à la place.",
+		"flavor": "L'Enchanteresse entreprend de conquérir l'Amérique du Sud en transformant tous ses opposants en laquais envoûtés."
+	},
+	{
+		"code": "55005a",
+		"name": "Sorcière Souveraine",
+		"text": "<b>Une fois révélée</b> : si l'attachement Couronne de l'Enchanteresse est en jeu, sonnez chaque identité. Sinon, cherchez la Couronne de l'Enchanteresse dans le deck Rencontre ou la pile de défausse Rencontre et révélez-la. (<i>Mélangez</i>.)"
+	},
+	{
+		"code": "55005b",
+		"name": "Sorcière Souveraine",
+		"text": "<b>Interruption forcée</b> : quand un jeton Charme est censé être placé sur la carte [[Enchantement]] de votre zone de jeu, si votre identité a le trait [[Envoûté]], placez 1 menace sur cette manigance principale à la place.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+	},
+	{
+		"code": "55006",
+		"name": "L'Avenir du Désespoir",
+		"text": "L'Enchanteresse gagne Robuste et ne peut pas subir de dégâts.\n<b>Une fois révélée</b> : placez 1 jeton Charme sur chaque carte [[Enchantement]] en jeu."
+	},
+	{
+		"code": "55007a",
+		"name": "Regard Hypnotique",
+		"text": "Permanent.\nVotre identité gagne le trait [[Provocateur]].\nS'il y a au moins 5 jetons Charme sur cette carte, retirez-les tous et retournez cette carte.",
+		"traits": "Enchantement."
+	},
+	{
+		"code": "55007b",
+		"name": "L'Illusion de l'Envie",
+		"text": "Permanent.\nVotre identité gagne le trait [[Envoûté]].\n<b>Une fois révélée</b> : défaussez une carte que vous contrôlez. Sinon, défaussez les 8 cartes du dessus de votre deck.\n<b>Action forcée</b> : inclinez cette carte → donnez une carte de boost face cachée à L'Enchanteresse. Redressez votre identité.",
+		"traits": "Enchantement."
+	},
+	{
+		"code": "55008a",
+		"name": "Regard Hypnotique",
+		"text": "Permanent.\nVotre identité gagne le trait [[Provocateur]].\nS'il y a au moins 5 jetons Charme sur cette carte, retirez-les tous et retournez cette carte.",
+		"traits": "Enchantement."
+	},
+	{
+		"code": "55008b",
+		"name": "L'illusion de l'Avarice",
+		"text": "Permanent.\nVotre identité gagne le trait [[Envoûté]].\n<b>Une fois révélée</b> : vous êtes désorienté. Sinon, subissez 2 dégâts.\n<b>Action forcée</b> : inclinez cette carte → piochez 1 carte, ensuite jouez-la (en payant ses coûts). Si vous ne pouvez pas, subissez 1 dégât.",
+		"traits": "Enchantement."
+	},
+	{
+		"code": "55009a",
+		"name": "Regard Hypnotique",
+		"text": "Permanent.\nVotre identité gagne le trait [[Provocateur]].\nS'il y a au moins 5 jetons Charme sur cette carte, retirez-les tous et retournez cette carte.",
+		"traits": "Enchantement."
+	},
+	{
+		"code": "55009b",
+		"name": "L'illusion de l'Orgueil",
+		"text": "Permanent.\nVotre identité gagne le trait [[Envoûté]].\n<b>Une fois révélée</b> : inclinez votre identité. Sinon, défaussez 1 carte prise au hasard dans votre main.\n<b>Action forcée</b> : inclinez cette carte → placez 1 menace sur la manigance principale. Retirez 2 menaces d'une manigance annexe.",
+		"traits": "Enchantement."
+	},
+	{
+		"code": "55010a",
+		"name": "Regard Hypnotique",
+		"text": "Permanent.\nVotre identité gagne le trait [[Provocateur]].\nS'il y a au moins 5 jetons Charme sur cette carte, retirez-les tous et retournez cette carte.",
+		"traits": "Enchantement."
+	},
+	{
+		"code": "55010b",
+		"name": "L'Illusion de la Paresse",
+		"text": "Permanent.\nVotre identité gagne le trait [[Envoûté]].\n<b>Une fois révélée</b> : vous êtes sonné. Sinon, placez 2 menaces sur la manigance principale.\n<b>Action forcée</b> : inclinez cette carte → soignez 1 dégât de L'Enchanteresse. Piochez 1 carte, puis défaussez 1 carte.",
+		"traits": "Enchantement."
+	},
+	{
+		"code": "55011a",
+		"name": "Regard Hypnotique",
+		"text": "Permanent.\nVotre identité gagne le trait [[Provocateur]].\nS'il y a au moins 5 jetons Charme sur cette carte, retirez-les tous et retournez cette carte.",
+		"traits": "Enchantement."
+	},
+	{
+		"code": "55011b",
+		"name": "L'Illusion de la Colère",
+		"text": "Permanent.\nVotre identité gagne le trait [[Envoûté]].\n<b>Une fois révélée</b> : cherchez une carte parmi les 5 cartes du dessus du deck Rencontre et révélez-la. (Melangez.)\n<b>Action forcée</b> : inclinez cette carte → subissez 1 dégât indirect. Infligez 2 dégâts à un sbire.",
+		"traits": "Enchantement."
+	}
+]
