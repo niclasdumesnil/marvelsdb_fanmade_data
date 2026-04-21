@@ -101,5 +101,70 @@
 		"name": "L'Illusion de la Colère",
 		"text": "Permanent.\nVotre identité gagne le trait [[Envoûté]].\n<b>Une fois révélée</b> : cherchez une carte parmi les 5 cartes du dessus du deck Rencontre et révélez-la. (Melangez.)\n<b>Action forcée</b> : inclinez cette carte → subissez 1 dégât indirect. Infligez 2 dégâts à un sbire.",
 		"traits": "Enchantement."
+	},
+	{
+		"code": "55012",
+		"name": "L'Appel de la Séduction",
+		"text": "Attachez cette carte à votre identité.\n<b>Action forcée</b> : inclinez cette carte → placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu. Jouez une carte de votre main, en réduisant de 1 son coût en ressources.\n<b>Action d'alter ego</b> : inclinez cette carte → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : révélez cette carte.",
+		"traits": "Tentation."
+	},
+	{
+		"code": "55013",
+		"name": "Baiser de la Tentation",
+		"text": "Attachez cette carte à votre identité.\n<b>Action forcée</b> : inclinez cette carte → placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu. Piochez 1 carte, puis défaussez 1 carte de votre main.\n<b>Action d'alter ego</b> : inclinez cette carte → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : révélez cette carte.",
+		"traits": "Tentation."
+	},
+	{
+		"code": "55014",
+		"name": "Philtre d'Amour",
+		"text": "Attachez cette carte à votre identité.\n<b>Action forcée</b> : inclinez cette carte → placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu. Redressez votre identité.\n<b>Action d'alter ego</b> : inclinez cette carte → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : révélez cette carte.",
+		"traits": "Objet. Tentation."
+	},
+	{
+		"code": "55015",
+		"name": "Séduit",
+		"text": "Attachez cette carte à votre identité.\nVous ne pouvez pas effectuer d'attaque de base ou jouer d'événement [[Attaque.]]\n<b>Action d'alter ego</b> : dépensez les ressources suivantes : [energy] [mental] → défaussez cette carte.",
+		"flavor": "« Est-ce que tu m'aimes ? » - L'Enchanteresse",
+		"traits": "Condition."
+	},
+	{
+		"code": "55016",
+		"name": "Couronne de l'Enchanteresse",
+		"text": "Attachez cette carte à L'Enchanteresse.\nEn mode Expert, L'Enchanteresse gagne Robuste.\n[star] <b>Réponse forcée</b> : après que L'Enchanteresse a manigancé contre vous, placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu.\n<b>Action de héros</b> : chaque joueur incline son identité et subit 1 dégât → défaussez cette carte.",
+		"traits": "Objet."
+	},
+	{
+		"code": "55017",
+		"name": "Laquais Envoûté",
+		"text": "Coup Rapide.\n[star] <b>Réponse forcée</b> : après que ce sbire vous a attaqué, placez 1 jeton Charme sur la carte Enchantement de votre zone de jeu.\n<hr>\n[star] <b>Boost</b> : choisissez : soit vous placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu, soit vous désorientez votre identité.",
+		"traits": "Envouté."
+	},
+	{
+		"code": "55018",
+		"name": "Brute Envoûté",
+		"text": "Garde.\n[star] Ce sbire gagne +3 points de vie tant qu'il est engagé avec un joueur dont l'identité a le trait Envoûté.\n<hr>\n[star] <b>Boost</b> : choisissez : soit vous placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu, soit vous inclinez votre identité.",
+		"traits": "Brute. Envouté."
+	},
+	{
+		"code": "55019",
+		"name": "Sindr",
+		"text": "[star] Les attaques de Sindr infligent des dégâts indirects.\n<b>Une fois révélée</b> : si votre identité a le trait [[Provocateur]], Sindr s'active contre vous. Si votre identité a le trait [[Envoûté]], donnez une carte d'état Tenace à Sindr.",
+		"traits": "Elite. Géant."
+	},
+	{
+		"code": "55020",
+		"name": "Ulik",
+		"text": "En mode Expert, Ulik gagne Ténacité.\n<b>Réponse forcée</b> : après qu'un joueur a infligé n'importe quelle quantité de dégâts à L'Enchanteresse, Ulik attaque ce joueur.\n<b>Une fois vaincu</b> : L'Enchanteresse attaque le joueur qui a vaincu Ulik et gagne +1 ATQ pour cette attaque.",
+		"traits": "Brute. Troll."
+	},
+	{
+		"code": "55021",
+		"name": "Loi de l'Attraction",
+		"text": "<b>Une fois révélée</b> : défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire [[Envoûté]] soit défaussé. Révélez ce sbire.\n<hr>\n[star] <b>Boost</b> : placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu."
+	},
+	{
+		"code": "55023",
+		"name": "\"Obéis à mes Ordres",
+		"text": "<b>Une fois révélée</b> : si votre identité a le trait [[Provocateur]], choisissez l'une des options suivantes. Si votre identité a le trait [[Envoûté]] appliquez les deux options dans n'importe quel ordre :   \n• Cherchez un sbire dans le deck Rencontre ou la pile de défausse Rencontre et révélez-le. (<i>Mélangez</i>.)\n•  Cherchez une manigance annexe dans le deck Rencontre ou la pile de défausse Rencontre et révélez-la. (<i>Mélangez</i>.)"
 	}
 ]
