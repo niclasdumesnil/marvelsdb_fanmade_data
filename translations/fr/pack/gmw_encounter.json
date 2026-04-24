@@ -6,9 +6,9 @@
 	},
 	{
 		"code": "16026",
-		"flavor": "Furnax est en train de dévaster la Planète X, le monde natal de Groot, apportant la mort et la destruction à tout ce qu'il touche.",
 		"name": "Blasier Infernal",
-		"text": "<b>Réponse forcée</b> : après le début de la phase du Méchant, infligez 2 dégâts indirects à chaque joueur."
+		"text": "<b>Réponse forcée</b> : après le début de la phase du Méchant, infligez 2 dégâts indirects à chaque joueur.",
+		"flavor": "Furnax est en train de dévaster la Planète X, le monde natal de Groot, apportant la mort et la destruction à tout ce qu'il touche."
 	},
 	{
 		"code": "16027",
@@ -28,14 +28,14 @@
 	},
 	{
 		"code": "16054",
-		"flavor": "\"Je sais que tu détestes ce mot, mais bon. Si ça ressemble à un canard, que ça cancane comme un canard et que ça marche comme un canard... c'est que c'est un raton-laveur !!\" — Blackjack O'Hare",
-		"name": "Vendetta"
+		"name": "Vendetta",
+		"flavor": "\"Je sais que tu détestes ce mot, mais bon. Si ça ressemble à un canard, que ça cancane comme un canard et que ça marche comme un canard... c'est que c'est un raton-laveur !!\" — Blackjack O'Hare"
 	},
 	{
 		"code": "16055",
-		"flavor": "Hahahahahahahahahahahahahaha !",
 		"name": "Blackjack O'Hare",
 		"text": "Coup Rapide.\nVilenie. <i>(Quand ce sbire s'active, donnez-lui une carte de boost.)<i>\n<i>(Sbire Némésis de Rocket Raccoon.)</i>",
+		"flavor": "Hahahahahahahahahahahahahaha !",
 		"traits": "Criminel."
 	},
 	{
@@ -46,15 +46,15 @@
 	},
 	{
 		"code": "16057",
-		"flavor": "\"Et qu'est-ce que tu comptes y faire, hein ?!\" — Blackjack O'Hare",
 		"name": "Invasion Planétaire",
-		"text": "<b>Une fois révélée</b> : défaussez des cartes du deck rencontre jusqu'à ce que vous défaussiez un sbire. Révélez ce sbire. Ensuite, donnez-lui une carte d'état Tenace."
+		"text": "<b>Une fois révélée</b> : défaussez des cartes du deck rencontre jusqu'à ce que vous défaussiez un sbire. Révélez ce sbire. Ensuite, donnez-lui une carte d'état Tenace.",
+		"flavor": "\"Et qu'est-ce que tu comptes y faire, hein ?!\" — Blackjack O'Hare"
 	},
 	{
 		"code": "16058",
-		"flavor": "\"Capitulez face à la puissance des Badoon !\"",
 		"name": "Drang",
 		"text": "[star] <b>Réponse forcée</b> : après que Drang a manigancé, résolvez la capacité <i>\"Charger\"</i> du Vaisseau Badoon.",
+		"flavor": "\"Capitulez face à la puissance des Badoon !\"",
 		"traits": "Badoon."
 	},
 	{
@@ -71,21 +71,21 @@
 	},
 	{
 		"code": "16061a",
-		"flavor": "<i>Drang's overwhelming forces have mounted a surprise attack against Earth!</i>",
 		"name": "Invasion Terrestre",
-		"text": "<b>Contenu</b> : Drang (I) et Drang (II). <i>(Drang (II) et Drang(III) à la place en mode expert.)</i> Les sets de rencontre La Confrérie des Badoon, Contrôles du Vaisseau et Standard. Un set de rencontre modulaire <i>(Troupe de Badoon).</i>\n<b>Mise en place</b> : mettez en jeu l'environnement Vaisseau Badoon et le soutien Milano."
+		"text": "<b>Contenu</b> : Drang (I) et Drang (II). <i>(Drang (II) et Drang(III) à la place en mode expert.)</i> Les sets de rencontre La Confrérie des Badoon, Contrôles du Vaisseau et Standard. Un set de rencontre modulaire <i>(Troupe de Badoon).</i>\n<b>Mise en place</b> : mettez en jeu l'environnement Vaisseau Badoon et le soutien Milano.",
+		"flavor": "<i>Drang's overwhelming forces have mounted a surprise attack against Earth!</i>"
 	},
 	{
 		"code": "16061b",
-		"flavor": "Les innombrables hordes de Badoon ont lancé une attaque surprise contre la Terre !",
 		"name": "Invasion Terrestre",
-		"text": "[star]<b>Réponse forcée</b> : après avoir résolu l'étape un de la phase du Méchant, résolvez la capacité <i>\"Charger\"</i> du Vaisseau Badoon.\n<b>Action de premier joueur</b> : inclinez le Milano → retirez 3 menaces de cette manigance."
+		"text": "[star]<b>Réponse forcée</b> : après avoir résolu l'étape un de la phase du Méchant, résolvez la capacité <i>\"Charger\"</i> du Vaisseau Badoon.\n<b>Action de premier joueur</b> : inclinez le Milano → retirez 3 menaces de cette manigance.",
+		"flavor": "Les innombrables hordes de Badoon ont lancé une attaque surprise contre la Terre !"
 	},
 	{
 		"code": "16062a",
-		"flavor": "Les Badoon ont percé les défenses de la Terre ! Repoussez-les avant qu'il ne soit trop tard !",
 		"name": "Protéger la Planète",
-		"text": "<b>Une fois révélée</b> : résolvez la capacité <i>\"Charger\"</i> du Vaisseau Badoon."
+		"text": "<b>Une fois révélée</b> : résolvez la capacité <i>\"Charger\"</i> du Vaisseau Badoon.",
+		"flavor": "Les Badoon ont percé les défenses de la Terre ! Repoussez-les avant qu'il ne soit trop tard !"
 	},
 	{
 		"code": "16062b",
@@ -94,9 +94,9 @@
 	},
 	{
 		"code": "16063",
-		"flavor": "Le vaisseau de la Confrérie des Badoon charge ses canons dans le but de lancer une attaque dévastatrice contre les héros au sol.",
 		"name": "Vaisseau Badoon",
 		"text": "<i>Charger</i> — <b>Spécial</b> : placer 1 jeton Salve sur cette carte. Ensuite, s'il y a au moins 4 jetons Salve dessus, infligez 2 dégâts indirects à chaque joueur et retirez tous les jetons Salve de cette carte.",
+		"flavor": "Le vaisseau de la Confrérie des Badoon charge ses canons dans le but de lancer une attaque dévastatrice contre les héros au sol.",
 		"traits": "Aérien. Véhicule."
 	},
 	{
@@ -133,9 +133,9 @@
 	},
 	{
 		"code": "16070",
-		"flavor": "\"J'ai justement une vitrine de libre qui attend de nouvelles acquisitions !\"",
 		"name": "Le Collectionneur",
 		"text": "<b>Interruption forcée</b> : quand une carte <i>(Joueur ou Rencontre)</i> qui est en jeu est censée être placée dans une pile de défausse, mettez-la dans La Collection, face visible, à la place.",
+		"flavor": "\"J'ai justement une vitrine de libre qui attend de nouvelles acquisitions !\"",
 		"traits": "Doyen."
 	},
 	{
@@ -168,9 +168,9 @@
 	},
 	{
 		"code": "16075",
-		"flavor": "\"Nul ne peut m'échapper.\"",
 		"name": "Monark Starstalker",
 		"text": "Vilenie. <i>(Quand ce sbire s'active, donnez-lui une carte de boost.)<i>",
+		"flavor": "\"Nul ne peut m'échapper.\"",
 		"traits": "Chasseur de primes."
 	},
 	{
@@ -201,9 +201,9 @@
 	},
 	{
 		"code": "16080b",
-		"flavor": "\"Vous êtes plus malins que je ne le pensais, je dois vous l'accorder. Aucune importance. Reprenons où nous en étions.\"",
 		"name": "Le Collectionneur",
 		"text": "Le Collectionneur ne peut pas être vaincu.\n<b>Interruption forcée</b> : quand le round se termine, retournez Le Collectionneur. Ensuite, réglez les points de vie de son compteur pour qu'ils correspondent à ses points de vie imprimés.",
+		"flavor": "\"Vous êtes plus malins que je ne le pensais, je dois vous l'accorder. Aucune importance. Reprenons où nous en étions.\"",
 		"traits": "Doyen. Blessé."
 	},
 	{
@@ -214,9 +214,9 @@
 	},
 	{
 		"code": "16081b",
-		"flavor": "\"Vous êtes plus malins que je ne le pensais, je dois vous l'accorder. Aucune importance. Reprenons où nous en étions.\"",
 		"name": "Le Collectionneur",
 		"text": "Le Collectionneur ne peut pas être vaincu.\n<b>Interruption forcée</b> : quand le round se termine, retournez Le Collectionneur. Ensuite, réglez les points de vie de son compteur pour qu'ils correspondent à ses points de vie imprimés.",
+		"flavor": "\"Vous êtes plus malins que je ne le pensais, je dois vous l'accorder. Aucune importance. Reprenons où nous en étions.\"",
 		"traits": "Doyen. Blessé."
 	},
 	{
@@ -226,39 +226,39 @@
 	},
 	{
 		"code": "16082b",
-		"flavor": "Vous êtes pris au piège dans le musée du collectionneur. Avant de pouvoir vous échapper, vous devez retrouver le Milano.",
 		"name": "Retrouver le Milano",
-		"text": "<b>Interruption forcée</b> : quand la dernière menace est retirée de cette manigance, avancez au stade 2A <i>(les joueurs gagnent en avançant).</i>\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+		"text": "<b>Interruption forcée</b> : quand la dernière menace est retirée de cette manigance, avancez au stade 2A <i>(les joueurs gagnent en avançant).</i>\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>",
+		"flavor": "Vous êtes pris au piège dans le musée du collectionneur. Avant de pouvoir vous échapper, vous devez retrouver le Milano."
 	},
 	{
 		"code": "16083a",
-		"flavor": "Le Milano est retenu dans une immense vitrine. vous tentez en vain de l'ouvrir et finissez par vous résoudre à briser la vitre.",
 		"name": "Perdus dans le Musée",
-		"text": "<b>Une fois révélée</b> : mettez en jeu , sous le contrôle du premier joueur, le soutien Milano du set de rencontre Contrôles du Vaisseau mis de côté."
+		"text": "<b>Une fois révélée</b> : mettez en jeu , sous le contrôle du premier joueur, le soutien Milano du set de rencontre Contrôles du Vaisseau mis de côté.",
+		"flavor": "Le Milano est retenu dans une immense vitrine. vous tentez en vain de l'ouvrir et finissez par vous résoudre à briser la vitre."
 	},
 	{
 		"code": "16083b",
-		"flavor": "Maintenant que vous avez dégagé le Milano, utilisez-le pour trouver la porte principale !",
 		"name": "Perdus dans le Musée",
-		"text": "<b>Interruption forcée</b> : quand la dernière menace est retirée de cette manigance, avancez au stade 3A <i>(les joueurs gagnent en avançant).</i>\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+		"text": "<b>Interruption forcée</b> : quand la dernière menace est retirée de cette manigance, avancez au stade 3A <i>(les joueurs gagnent en avançant).</i>\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>",
+		"flavor": "Maintenant que vous avez dégagé le Milano, utilisez-le pour trouver la porte principale !"
 	},
 	{
 		"code": "16084a",
-		"flavor": "Vous avez trouvé la sortie ! Vous allumez les propulseurs du Milano et vous élancez dans l'espace, mais les Canons du Vaisseau Musée commencent à vous tirer dessus.",
 		"name": "La Grande Évasion",
-		"text": "<b>Une fois révélée</b> : retournez le Labyrinthe de Rayonnages. Placez 1 pion accélération sur la manigance principale. Mélangez dans le deck rencontre les cartes restantes du set de rencontre Contrôles du Vaisseau mis de côté."
+		"text": "<b>Une fois révélée</b> : retournez le Labyrinthe de Rayonnages. Placez 1 pion accélération sur la manigance principale. Mélangez dans le deck rencontre les cartes restantes du set de rencontre Contrôles du Vaisseau mis de côté.",
+		"flavor": "Vous avez trouvé la sortie ! Vous allumez les propulseurs du Milano et vous élancez dans l'espace, mais les Canons du Vaisseau Musée commencent à vous tirer dessus."
 	},
 	{
 		"code": "16084b",
-		"flavor": "Vous y êtes presque ! Échappez aux tirs du Vaisseau Musée pour vous enfuir !",
 		"name": "La Grande Évasion",
-		"text": "<b>Action de premier joueur</b> : inclinez le Milano → retirez 3 menaves de cette carte.\n<b>S'il n'y a aucune menace sur cette carte, les joueurs gagnent la partie.</b>\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+		"text": "<b>Action de premier joueur</b> : inclinez le Milano → retirez 3 menaves de cette carte.\n<b>S'il n'y a aucune menace sur cette carte, les joueurs gagnent la partie.</b>\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>",
+		"flavor": "Vous y êtes presque ! Échappez aux tirs du Vaisseau Musée pour vous enfuir !"
 	},
 	{
 		"code": "16085a",
-		"flavor": "Le musée du Collectionneur est un dédale rempli de babioles provenant de toutes les cultures existantes et de pauvres créatures provenant de chaque système solaire.",
 		"name": "Labyrinthe de Rayonnages",
 		"text": "\"<i>Par ici ?</i>\" — <b>Action de héros</b> : attribuez-vous 1 carte Rencontre face cachée → retirez 5 menaces de lma manigance principale. (Limite d'une fois par round par joueur.)",
+		"flavor": "Le musée du Collectionneur est un dédale rempli de babioles provenant de toutes les cultures existantes et de pauvres créatures provenant de chaque système solaire.",
 		"traits": "Lieu."
 	},
 	{
@@ -274,9 +274,9 @@
 	},
 	{
 		"code": "16087",
-		"flavor": "\"Je.. s'appelle... Groot ???\" — Groot",
 		"name": "Géométrie Impossible",
-		"text": "Incitation 1. <i>(Quand cette carte est révélée, placez 1 menace sur la manigance principale.)</i>\n<b>Une fois révélée</b> : vous êtes désorienté. Si vous êtes déjà désorienté, choisissez et défausseez 1 carte que vous contrôlez."
+		"text": "Incitation 1. <i>(Quand cette carte est révélée, placez 1 menace sur la manigance principale.)</i>\n<b>Une fois révélée</b> : vous êtes désorienté. Si vous êtes déjà désorienté, choisissez et défausseez 1 carte que vous contrôlez.",
+		"flavor": "\"Je.. s'appelle... Groot ???\" — Groot"
 	},
 	{
 		"code": "16088",
@@ -303,21 +303,21 @@
 	},
 	{
 		"code": "16091b",
-		"flavor": "Vous avez localisé Nebula, mais elle tente désespérément de vous échapper. C'est peut-être votre seule chance de lui reprendre la Pierre du Pouvoir.",
 		"name": "L'Art de la Fuite",
-		"text": "X est égal au nombre de jetons Fuite sur le Vaisseau de Nebula."
+		"text": "X est égal au nombre de jetons Fuite sur le Vaisseau de Nebula.",
+		"flavor": "Vous avez localisé Nebula, mais elle tente désespérément de vous échapper. C'est peut-être votre seule chance de lui reprendre la Pierre du Pouvoir."
 	},
 	{
 		"code": "16092a",
-		"flavor": "Avec une précision extrême, le Vaisseau de Nebula virevolte et manœuvre de manière à s'éloigner suffisemment du Milano pour avoir une chance de s'enfuir.",
 		"name": "Mode Distorsion Activé",
-		"text": "<b>Une fois révélée</b> : placez 2 jetons Fuite sur le Vaisseau de Nebula. Pour chaque jeton fuite sur le Vaisseau de Nebula, défaussez les 2 cartes du dessus du deck de chaque joueur et du deck Rencontre."
+		"text": "<b>Une fois révélée</b> : placez 2 jetons Fuite sur le Vaisseau de Nebula. Pour chaque jeton fuite sur le Vaisseau de Nebula, défaussez les 2 cartes du dessus du deck de chaque joueur et du deck Rencontre.",
+		"flavor": "Avec une précision extrême, le Vaisseau de Nebula virevolte et manœuvre de manière à s'éloigner suffisemment du Milano pour avoir une chance de s'enfuir."
 	},
 	{
 		"code": "16092b",
-		"flavor": "Nebula a amorcé ses moteurs. Détruisez-les avant qu'elle n'effectue un saut dans l'espace !",
 		"name": "Mode Distorsion Activé",
-		"text": "X est égal au nombre de jetons Fuite sur le Vaisseau de Nebula.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+		"text": "X est égal au nombre de jetons Fuite sur le Vaisseau de Nebula.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>",
+		"flavor": "Nebula a amorcé ses moteurs. Détruisez-les avant qu'elle n'effectue un saut dans l'espace !"
 	},
 	{
 		"code": "16093",
@@ -367,9 +367,9 @@
 	},
 	{
 		"code": "16101",
-		"flavor": "\"Je n'aurai de cesse jusqu'à ce que j'obtienne ce que je veux.\" — Nebula",
 		"name": "Prête au Combat",
-		"text": "<b>Une fois révélée</b> : défaussez des cartes du dessus du deck de Rencontre jusqu'à ce qu'un attachement [[TECHNIQUE]] soit défaussé. Révélez-le. Ensuite, résolvez sa capacité <b>\"Spécial\"</b>."
+		"text": "<b>Une fois révélée</b> : défaussez des cartes du dessus du deck de Rencontre jusqu'à ce qu'un attachement [[TECHNIQUE]] soit défaussé. Révélez-le. Ensuite, résolvez sa capacité <b>\"Spécial\"</b>.",
+		"flavor": "\"Je n'aurai de cesse jusqu'à ce que j'obtienne ce que je veux.\" — Nebula"
 	},
 	{
 		"code": "16102",
@@ -378,9 +378,9 @@
 	},
 	{
 		"code": "16103",
-		"flavor": "\"Pas de discussion, pas de débat. Vous êtes coupables !\"",
 		"name": "Ronan l'Accusateur",
 		"text": "Ténacité.\n[star]<b>Interruption forcée</b> : quand Ronan l'Accusateur s'activate contre vous, donnez-lui 1 carte de boost supplémentaire si vous contrôlez la Pierre du Pouvoir.",
+		"flavor": "\"Pas de discussion, pas de débat. Vous êtes coupables !\"",
 		"traits": "Accusateur. Kree."
 	},
 	{
@@ -402,21 +402,21 @@
 	},
 	{
 		"code": "16106b",
-		"flavor": "Les forces de Ronan l'Accusateur ont tendu une embuscade au Milano afin de s'emparer de la Pierre du Pouvoir. Avec de bons réflexes et quelques talents de pilotage, vous devriez arriver à vous en sortir.",
 		"name": "Interception Imminente",
-		"text": "<b>Action de premier joueur</b> : inclinez le Milano → retirer 3 menaces de cette manigance."
+		"text": "<b>Action de premier joueur</b> : inclinez le Milano → retirer 3 menaces de cette manigance.",
+		"flavor": "Les forces de Ronan l'Accusateur ont tendu une embuscade au Milano afin de s'emparer de la Pierre du Pouvoir. Avec de bons réflexes et quelques talents de pilotage, vous devriez arriver à vous en sortir."
 	},
 	{
 		"code": "16107a",
-		"flavor": "Le vaisseau de Ronan l'Accusateur s'est arrimé au vôtre. Une fois à bord du Milano, il lui a suffit d'un coup de son Arme Universelle pour vous mettre à terre. Avant que vous n'ayez pu vous relever, il s'était emparé de la Pierre du Pouvoir.",
 		"name": "\"Je Reprends ce qui m'Appartient\"",
-		"text": "<b>Une fois révélée</b> : attachez la Pierre du Pouvoir à Ronan l'Accusateur. Si elle lui est déjà attachée, donnez-lui 1 carte de boost face cachée."
+		"text": "<b>Une fois révélée</b> : attachez la Pierre du Pouvoir à Ronan l'Accusateur. Si elle lui est déjà attachée, donnez-lui 1 carte de boost face cachée.",
+		"flavor": "Le vaisseau de Ronan l'Accusateur s'est arrimé au vôtre. Une fois à bord du Milano, il lui a suffit d'un coup de son Arme Universelle pour vous mettre à terre. Avant que vous n'ayez pu vous relever, il s'était emparé de la Pierre du Pouvoir."
 	},
 	{
 		"code": "16107b",
-		"flavor": "Ronan l'Accusateur s'est emparé de la Pierre du Pouvoir ! Récupérez-la avant qu'il ne soit trop tard.",
 		"name": "\"Je Reprends ce qui m'Appartient\"",
-		"text": "Tant que la Pierre du Pouvoir est attachée à Ronan l'Accusateur, aucune menace ne peut être retirée de cette manigance.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+		"text": "Tant que la Pierre du Pouvoir est attachée à Ronan l'Accusateur, aucune menace ne peut être retirée de cette manigance.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>",
+		"flavor": "Ronan l'Accusateur s'est emparé de la Pierre du Pouvoir ! Récupérez-la avant qu'il ne soit trop tard."
 	},
 	{
 		"code": "16108",
@@ -448,9 +448,9 @@
 	},
 	{
 		"code": "16113",
-		"flavor": "L'entraînement Kree et la détermination stoïque de Ronan l'Accusateur en font un adversaire incomparable.",
 		"name": "Grand Tacticien",
-		"text": "La Pierre du Pouvoir ne peut pas être détachée de Ronan l'Accusateur.\n<b>Une fois révélée</b> : attachez la Pierre du Pouvoir à Ronan l'Accusateur. Si elle lui est déjà attachée, placez 1[per_hero] menaces sur cette carte."
+		"text": "La Pierre du Pouvoir ne peut pas être détachée de Ronan l'Accusateur.\n<b>Une fois révélée</b> : attachez la Pierre du Pouvoir à Ronan l'Accusateur. Si elle lui est déjà attachée, placez 1[per_hero] menaces sur cette carte.",
+		"flavor": "L'entraînement Kree et la détermination stoïque de Ronan l'Accusateur en font un adversaire incomparable."
 	},
 	{
 		"code": "16114",
@@ -459,9 +459,9 @@
 	},
 	{
 		"code": "16115",
-		"flavor": "\"Agenouillez-vous devant moi !\" — Ronan l'Accusateur",
 		"name": "Physiologie Kree",
-		"text": "Renfort.\n<b>Une fois révélée</b> : donnez une carte d'état Tenace à Ronan l'Accusateur. S'il a déjà une carte d'état Tenace, subissez 1 dégât."
+		"text": "Renfort.\n<b>Une fois révélée</b> : donnez une carte d'état Tenace à Ronan l'Accusateur. S'il a déjà une carte d'état Tenace, subissez 1 dégât.",
+		"flavor": "\"Agenouillez-vous devant moi !\" — Ronan l'Accusateur"
 	},
 	{
 		"code": "16116",
@@ -500,9 +500,9 @@
 	},
 	{
 		"code": "16122",
-		"flavor": "La cape du mythique héros Hercule. Ceux qui ont la chance de revêtir cet habit se retrouvent dotés d'une force inimaginable.",
 		"name": "Cape d'Hercule",
 		"text": "Attachez cette carte à l'ennemi ayant l'ATQ la plus faible.\n<b>Action de héros</b> : dépensez les ressources suivantes : [physical][physical][physical] → défaussez cette carte.",
+		"flavor": "La cape du mythique héros Hercule. Ceux qui ont la chance de revêtir cet habit se retrouvent dotés d'une force inimaginable.",
 		"traits": "Artefact."
 	},
 	{
@@ -519,9 +519,9 @@
 	},
 	{
 		"code": "16125",
-		"flavor": "C'est la toxine la plus mortelle de la galaxie.",
 		"name": "Le Poison",
 		"text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand votre tour commence, placez 1 jeton Poison sur cette carte. Ensuite, subissez 1 dégât pour chaque jeton Poison sur cette carte.\n<b>Action de héros</b> : dépensez 3 ressources de différents types → défaussez cette carte. <i>(N'importe quel joueur peut le faire.)</i>",
+		"flavor": "C'est la toxine la plus mortelle de la galaxie.",
 		"traits": "Artefact."
 	},
 	{
@@ -582,9 +582,9 @@
 	},
 	{
 		"code": "16136",
-		"flavor": "\"TROUVER. LES. INTRUS.\"",
 		"name": "Serviteur Mécanique",
 		"text": "Garde. <i>(Tant que ce sbire est engagé avec vous, vous ne pouvez pas attaquer le méchant.)</i>\nPatrouille <i>(Tant que ce sbire est engagé avec vous, vous ne pouvez pas contrer la manigance principale.)</i>",
+		"flavor": "\"TROUVER. LES. INTRUS.\"",
 		"traits": "Robot."
 	},
 	{
@@ -612,14 +612,14 @@
 	},
 	{
 		"code": "16141",
-		"flavor": "Une famille qui pille ensemble reste ensemble.",
 		"name": "Code d'Honneur des Voleurs",
-		"text": "<b>Une fois révélée</b> : défaussez des cartes du dessus du deck de Rencontre jusqu'à ce qu'un sbire [[CRIMINEL]] soit défaussé. Révélez ce sbire. Ensuite, donnez une carte d'état Tenace à ce sbire et 1 carte de boost face cachée au méchant."
+		"text": "<b>Une fois révélée</b> : défaussez des cartes du dessus du deck de Rencontre jusqu'à ce qu'un sbire [[CRIMINEL]] soit défaussé. Révélez ce sbire. Ensuite, donnez une carte d'état Tenace à ce sbire et 1 carte de boost face cachée au méchant.",
+		"flavor": "Une famille qui pille ensemble reste ensemble."
 	},
 	{
 		"code": "16142",
 		"name": "Milano",
-		"text": "Permanent. Mise en place.\nLe premier joueur contrôle le Milano.\n<i>Pilotage</i> - <b>Ressource:</b> inclinez le Milano → générez une ressource [wild] pour n'importe quel joueur.",
+		"text": "Permanent. Mise en place.\nLe premier joueur contrôle le Milano.\n<i>Pilotage</i> - <b>Ressource</b>: inclinez le Milano → générez une ressource [wild] pour n'importe quel joueur.",
 		"traits": "Aérien. Véhicule."
 	},
 	{

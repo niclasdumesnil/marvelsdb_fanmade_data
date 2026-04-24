@@ -724,6 +724,7 @@
 		"code": "21170",
 		"name": "Bâton de Loki",
 		"text": "Attachez cette carte à Loki.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Loki, dépensez les ressources suivantes : [mental][physical] → défaussez cette carte.\n<hr />\n[star] <b>Boost</b>: attachez cette carte à Loki.",
+		"errata": "dépensez les ressources suivantes : [energy][physical] au lieu de [mental][physical] (mc4db)",
 		"traits": "Arme."
 	},
 	{

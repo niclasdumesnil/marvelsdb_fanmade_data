@@ -9,7 +9,7 @@
 		"position": 25,
 		"quantity": 1,
 		"set_code": "groot",
-		"text": "<b><i>Give to the Groot player.</i></b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust your alter-ego → remove Wilt from the game.\n\u2022 Remove 3 growth counters from Groot. If no growth counters were removed this way, this card gains surge. Discard this obligation.",
+		"text": "<b><i>Give to the Groot player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust your alter-ego → remove Wilt from the game.\n• Remove 3 growth counters from Groot. If no growth counters were removed this way, this card gains surge. Discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -74,7 +74,7 @@
 		"position": 53,
 		"quantity": 1,
 		"set_code": "rocket",
-		"text": "<b><i>Give to the Rocket Raccoon player.</i></b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust your alter-ego → remove Crisis on Halfworld from the game.\n\u2022 Discard the highest cost upgrade you control. If no upgrade was discarded this way, this card gains surge. Discard this obligation",
+		"text": "<b><i>Give to the Rocket Raccoon player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust your alter-ego → remove Crisis on Halfworld from the game.\n• Discard the highest cost upgrade you control. If no upgrade was discarded this way, this card gains surge. Discard this obligation",
 		"type_code": "obligation"
 	},
 	{
@@ -816,7 +816,7 @@
 		"quantity": 1,
 		"set_code": "escape_the_museum",
 		"set_position": 6,
-		"text": "\"<i>Hold on to your butts!</i>\" — <b>Forced Interrupt</b>: When the villain phase begins, choose one:\n\u2022 Exhaust the Milano → assign 2[per_hero] indirect damage among players.\n\u2022 Assign 3[per_hero] indirect damage among players.",
+		"text": "\"<i>Hold on to your butts!</i>\" — <b>Forced Interrupt</b>: When the villain phase begins, choose one:\n• Exhaust the Milano → assign 2[per_hero] indirect damage among players.\n• Assign 3[per_hero] indirect damage among players.",
 		"traits": "Aerial. Vehicle.",
 		"type_code": "environment"
 	},
@@ -1989,7 +1989,7 @@
 	{
 		"back_link": "16178b",
 		"base_threat": 2,
-        "base_threat_fixed": true,
+		"base_threat_fixed": true,
 		"code": "16178a",
 		"faction_code": "encounter",
 		"name": "Badoon Blitz",
@@ -2004,7 +2004,7 @@
 	},
 	{
 		"base_threat": 3,
-        "base_threat_fixed": true,
+		"base_threat_fixed": true,
 		"code": "16178b",
 		"faction_code": "encounter",
 		"hidden": true,
@@ -2022,7 +2022,7 @@
 	{
 		"back_link": "16179b",
 		"base_threat": 3,
-        "base_threat_fixed": true,
+		"base_threat_fixed": true,
 		"code": "16179a",
 		"faction_code": "encounter",
 		"name": "Gallery of Splendor",
@@ -2037,7 +2037,7 @@
 	},
 	{
 		"base_threat": 4,
-        "base_threat_fixed": true,
+		"base_threat_fixed": true,
 		"code": "16179b",
 		"faction_code": "encounter",
 		"hidden": true,
@@ -2088,7 +2088,7 @@
 	{
 		"back_link": "16181b",
 		"base_threat": 5,
-        "base_threat_fixed": true,
+		"base_threat_fixed": true,
 		"code": "16181a",
 		"faction_code": "encounter",
 		"name": "Guerrilla Tactics",
@@ -2103,7 +2103,7 @@
 	},
 	{
 		"base_threat": 6,
-        "base_threat_fixed": true,
+		"base_threat_fixed": true,
 		"code": "16181b",
 		"faction_code": "encounter",
 		"hidden": true,
@@ -2122,7 +2122,7 @@
 	{
 		"back_link": "16182b",
 		"base_threat": 6,
-        "base_threat_fixed": true,
+		"base_threat_fixed": true,
 		"code": "16182a",
 		"faction_code": "encounter",
 		"name": "Kree Supremacy",
@@ -2138,7 +2138,7 @@
 	},
 	{
 		"base_threat": 7,
-        "base_threat_fixed": true,
+		"base_threat_fixed": true,
 		"code": "16182b",
 		"faction_code": "encounter",
 		"hidden": true,

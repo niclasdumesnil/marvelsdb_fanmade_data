@@ -13,99 +13,99 @@
 	},
 	{
 		"code": "16002",
-		"flavor": "\"Je s'appelle Groot...\" — Groot",
 		"name": "Fructification",
 		"text": "<b>Action</b> : placez 2 jetons Croissance sur Groot (jusqu'à un maximum de 10).",
+		"flavor": "\"Je s'appelle Groot...\" — Groot",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "16003",
-		"flavor": "\"Je s'appelle Groot !!!\" — Groot",
 		"name": "\"Je s'Appelle Groot\"",
 		"text": "<b>Action de héros</b> <i>(contre)</i> : retirez d'une manigance un nombre de menaces égal au nombre de jetons Croissance sur Groot.",
+		"flavor": "\"Je s'appelle Groot !!!\" — Groot",
 		"traits": "Super-pouvoir. Contre."
 	},
 	{
 		"code": "16004",
-		"flavor": "\"JE. S'APPELLE. GROOT !\" — Groot",
 		"name": "\"JE. S'APPELLE. GROOT !\"",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez à un ennemi un nombre dé dégâts égal au nombre de jetons Croissance sur Groot.",
+		"flavor": "\"JE. S'APPELLE. GROOT !\" — Groot",
 		"traits": "Attaque. Super-pouvoir."
 	},
 	{
 		"code": "16005",
-		"flavor": "\"Je. S'appelle. Groot.\" — Groot",
 		"name": "Coup de Racine",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 5 dégâts à un ennemi. Si cet ennemi est vaincu par cette attaque, placez 1 jeton Croissance sur Groot (jusqu'à un maximum de 10)",
+		"flavor": "\"Je. S'appelle. Groot.\" — Groot",
 		"traits": "Attaque. Super-pouvoir."
 	},
 	{
 		"code": "16006",
-		"flavor": "\"On s'Appelle Groot.\" — Groot",
 		"name": "\"On s'appelle Groot\"",
 		"text": "<b>Action de héros</b> : retirez jusqu'à 4 jetons Croissance de Groot → choisissez autant de personnages amis. Donnez une carte d'état Tenace à chacun de ces personnages.",
+		"flavor": "\"On s'Appelle Groot.\" — Groot",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "16007",
-		"flavor": "\"Je... S'appelle... Groot.\" — Groot",
 		"name": "Sol Fertile",
 		"text": "<b>Action d'alter ego</b> : inclinez Sol Fertile → placez 1 jeton Croissance sur Groot (jusqu'à un maximum de 10) et piochez 1 carte.",
+		"flavor": "\"Je... S'appelle... Groot.\" — Groot",
 		"traits": "Lieu."
 	},
 	{
 		"code": "16008",
-		"flavor": "\"Je s'appelle. GROOT !\" — Groot",
 		"name": "Branches Enchevêtrées",
 		"text": "<b>Interruption de héros</b> : quand Groot effectue un contre de base, retirez-lui 1 jeton Croissance et inclinez Branches Enchevêtrées → Groot gagne +2 CTR pour ce contre.",
+		"flavor": "\"Je s'appelle. GROOT !\" — Groot",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "16009",
-		"flavor": "\"Je S'APPELLE Groot.\" — Groot",
 		"name": "Branches Déchaînées",
 		"text": "<b>Réponse de héros</b> : après que Groot a utilisé un pouvoir de base, retirez-lui 2 jetons Croissance et inclinez Branches Déchaînées → redressez Groot.",
+		"flavor": "\"Je S'APPELLE Groot.\" — Groot",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "16010",
-		"flavor": "\"Je s'appelle Groot ?\" — Groot",
 		"name": "Bouclier de Branches",
 		"text": "<b>Interruption de héros</b> : quand Groot défend contre une attaque, retirez-lui 1 jeton Croissance et inclinez Bouclier de Branches → Groot gagne +3 DEF pour cette attaque.",
+		"flavor": "\"Je s'appelle Groot ?\" — Groot",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "16011",
-		"flavor": "\"C'est bon, on a pigé, tu t'appelles Groot.\" — Rocket Raccoon",
 		"name": "Branches Épineuses",
 		"text": "<b>Interruption de héros</b> : quand Groot effectue une attaque de base, retirez-lui 1 jeton Croissance et inclinez Branches Épineuses → Groot gagne +2 ATQ pour cette attaque.",
+		"flavor": "\"C'est bon, on a pigé, tu t'appelles Groot.\" — Rocket Raccoon",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "16012",
-		"flavor": "\"Je suis celui qui sait.\"",
 		"name": "Starhawk",
 		"text": "<b>Interruption</b> : quand Starhawk subit un nombre de dégâts exactement égal à ses points de vie restants, renvoyez-le dans votre main.",
+		"flavor": "\"Je suis celui qui sait.\"",
 		"traits": "Aérien. Gardien."
 	},
 	{
 		"code": "16014",
-		"flavor": "\"Prépare-toi, imbécile\" — Drax",
 		"name": "Prêt à en Découdre",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 2 dégâts au méchant (5 dégâts à la place si les points de vie restants de votre héros sont supérieurs ou égaux à ses points de vie de départ).",
+		"flavor": "\"Prépare-toi, imbécile\" — Drax",
 		"traits": "Attaque."
 	},
 	{
 		"code": "16016",
 		"name": "Impavide",
-		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur.\n1 max par joueur.\n Tant que les points de vie restants de votre héros sont supérieurs ou égaux à ses points de vie de départ, il gagne Risposte 1.",
+		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur.\n1 max par joueur.\n Tant que les points de vie restants de votre héros sont supérieurs ou égaux à ses points de vie de départ, il gagne Riposte 1.",
 		"traits": "Condition."
 	},
 	{
 		"code": "16017",
-		"flavor": "\"Plutôt mourir que me rendre\" — Drax",
 		"name": "Difficile à Ignorer",
 		"text": "<b>Réponse de héros</b> : après que votre héros a défendu contre une attaque sans subir de dégâts, inclinez Difficile à Ignorer → retirez 1 menace de la manigance principale.",
+		"flavor": "\"Plutôt mourir que me rendre\" — Drax",
 		"traits": "Attaque."
 	},
 	{
@@ -127,37 +127,37 @@
 	},
 	{
 		"code": "16029a",
-		"flavor": "\"C'est ça ! Tu peux me frapper, tu peux m'insulter, mais PERSONNE ne touche à mon flingue !\"",
 		"name": "Rocket Raccoon",
 		"text": "<i>\"Va Crever !\"</i> — <b>Réponse</b> : après que vous avez infligé des dégâts en excès à un ennemi, piochez 1 carte.",
+		"flavor": "\"C'est ça ! Tu peux me frapper, tu peux m'insulter, mais PERSONNE ne touche à mon flingue !\"",
 		"traits": "Gardien."
 	},
 	{
 		"code": "16029b",
-		"flavor": "\"Y'a personne comme moi, à part moi.\"",
 		"name": "Rocket Raccoon",
 		"text": "<i>Rafistolage</i> — <b>Action</b> : choisissez et défaussez une amélioration [[TECH]] que vous contrôlez → piochez 2 cartes. (Limite d'une fois par round.)",
+		"flavor": "\"Y'a personne comme moi, à part moi.\"",
 		"traits": "Génie. Hors-la-loi."
 	},
 	{
 		"code": "16030",
-		"flavor": "\"Non, je pensais que ce serait drôle ! C'était drôle ?\" — Rocket Raccoon",
 		"name": "J'ai un Plan",
 		"text": "<b>Réponse de héros</b> : après que vous avez effectué un contre de base <i>(en utilisant votre CTR)</i>, redressez Rocket Raccoon. Rocket Raccoon gagne +1 CTR jusqu'à la fin de la phase tant qu'il est sous forme de héros.",
+		"flavor": "\"Non, je pensais que ce serait drôle ! C'était drôle ?\" — Rocket Raccoon",
 		"traits": "Tactique."
 	},
 	{
 		"code": "16031",
-		"flavor": "\"Moi ? Je m'intéresse pas trop aux gens. Je passe la plupart de mon temps à leur tirer dessus.\" — Rocket Raccoon",
 		"name": "Recharger",
 		"text": "<b>Action de héros</b> : redressez chaque amélioration [[TECH]] que vous contrôlez.",
+		"flavor": "\"Moi ? Je m'intéresse pas trop aux gens. Je passe la plupart de mon temps à leur tirer dessus.\" — Rocket Raccoon",
 		"traits": "Compétence."
 	},
 	{
 		"code": "16032",
-		"flavor": "\"J'aime les choses simples... comme voir à quel point ce truc peut faire mal.\" — Rocket Raccoon",
 		"name": "Schadenfreude",
-		"text": "<b>Action de héros</b> : jusqu'à la fin du tour, soignez 2 dégâts de Rocket Raccoon chaque fois que vous infligez n'importe quelle quantité de dégâts à un ennemi."
+		"text": "<b>Action de héros</b> : jusqu'à la fin du tour, soignez 2 dégâts de Rocket Raccoon chaque fois que vous infligez n'importe quelle quantité de dégâts à un ennemi.",
+		"flavor": "\"J'aime les choses simples... comme voir à quel point ce truc peut faire mal.\" — Rocket Raccoon"
 	},
 	{
 		"code": "16033",
@@ -172,9 +172,9 @@
 	},
 	{
 		"code": "16035",
-		"flavor": "\"Ouais, ouais, regarde le monstre de foire tant que tu peux.\" — Rocket Raccoon",
 		"name": "Squelette Cybernétique",
 		"text": "Vous gagnez +3 points de vie.\n Tant que vous êtes sous forme de héros, Rocket Raccoon gagne +1 ATQ.",
+		"flavor": "\"Ouais, ouais, regarde le monstre de foire tant que tu peux.\" — Rocket Raccoon",
 		"traits": "Tech."
 	},
 	{
@@ -197,16 +197,16 @@
 	},
 	{
 		"code": "16039",
-		"flavor": "\"Même vu de là-haut, je peux dire que tu es sans doute l'humain le plus laid que j'ai jamais vu. Et pourtant je traîne avec Peter Quill.\" — Rocket Raccoon",
 		"name": "Bottes à Propulsion",
 		"text": "Tant qu'il est sous forme de héros, rocket Raccoon gagne +1 CTR et le trait [[AÉRIEN]].",
+		"flavor": "\"Même vu de là-haut, je peux dire que tu es sans doute l'humain le plus laid que j'ai jamais vu. Et pourtant je traîne avec Peter Quill.\" — Rocket Raccoon",
 		"traits": "Armure. Arme."
 	},
 	{
 		"code": "16040",
-		"flavor": "\"Youpi ! Nous sommes à nouveau une *tik* équipe ! Plus personne ne pourra *tik* nous arrêter !\"",
 		"name": "Bug",
 		"text": "<b>Réponse de héros</b> : après que votre héros a efectué une attaque de base, soignez 1 dégât de Bug.",
+		"flavor": "\"Youpi ! Nous sommes à nouveau une *tik* équipe ! Plus personne ne pourra *tik* nous arrêter !\"",
 		"traits": "Gardien."
 	},
 	{
@@ -217,9 +217,9 @@
 	},
 	{
 		"code": "16045",
-		"flavor": "\"C'est quelque peu... excessif\"",
 		"name": "Jusqu'au-Boutisme",
 		"text": "<b>Interruption de héros</b> : quand l'attaque de votre héros inflige n'importe quelle quantité de dégâts en excès, augmentez de 1 cette quantité.",
+		"flavor": "\"C'est quelque peu... excessif\"",
 		"traits": "Compétence."
 	},
 	{
@@ -230,9 +230,9 @@
 	},
 	{
 		"code": "16047",
-		"flavor": "\"Je s'appelle Groot !\"",
 		"name": "Groot",
 		"text": "Jouez cette carte uniquement si votre identité a le trait [[GARDIEN]].\n <b>Réponse</b> : après que Groot a défendu contre une attaque, soignez-le de 2 dégâts.",
+		"flavor": "\"Je s'appelle Groot !\"",
 		"traits": "Gardien."
 	},
 	{
