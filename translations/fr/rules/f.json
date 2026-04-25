@@ -1,72 +1,72 @@
 [
-    {
-        "id": "find",
-        "term": "Trouver",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Lorsqu'un joueur reçoit l'instruction de trouver une carte, il cherche dans chaque zone de jeu où cette carte pourrait se trouver (zone de jeu, zone de mise de côté, deck joueur, pile de défausse, deck rencontre, etc.). [cite: 180]<ul><li>Les joueurs ne doivent pas chercher inutilement dans des zones s'ils savent où se trouve la carte. [cite: 180]</li><li>Toutes les zones de jeu sont soumises à la recherche, à l'exception des cartes rencontre face cachée dans n'importe quelle zone de jeu, de la pile de victoire, et des cartes retirées de la partie. [cite: 180, 181]</li><li>Si un joueur reçoit l'instruction de « trouver et révéler » un sbire qui est déjà en jeu, ce joueur engage ce sbire et résout ses mots-clés et/ou capacités déclenchées liés à sa révélation. Le sbire n'est pas considéré comme entrant en jeu et conserve ses attachements et jetons. [cite: 181, 182]</li></ul>"
-            }
-        ]
-    },
-    {
-        "id": "first_player",
-        "term": "Premier joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le premier joueur est déterminé par les joueurs au début de la partie. [cite: 182] Le pion premier joueur indique quel joueur est le premier joueur. [cite: 182] À la fin du round, le pion passe au joueur suivant dans le sens horaire. [cite: 182] Si le premier joueur est éliminé, le pion passe immédiatement au joueur suivant. [cite: 183] Le premier joueur décide notamment :<ul><li>De la cible parmi plusieurs options valides pour une carte rencontre. [cite: 183]</li><li>De l'ordre de résolution des effets simultanés. [cite: 183]</li><li>De la priorité pour déclencher les Interruptions et les Réponses (le premier joueur a la première opportunité, puis on tourne dans l'ordre des joueurs). [cite: 184]</li></ul>"
-            }
-        ]
-    },
-    {
-        "id": "flip",
-        "term": "Retourner",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Lorsqu'un joueur reçoit l'instruction de retourner une carte, il la met à l'envers pour que la face visible devienne face cachée. [cite: 184]<ul><li>Une carte pliable à « trois faces » est considérée comme retournée à chaque fois que la face visible change. [cite: 185]</li><li>Lorsqu'une carte est retournée, si la nouvelle face a le même type de carte que la face précédente, la carte conserve tous ses attachements, cartes glissées dessous, états et jetons. Si le type est différent, tous les attachements, états et jetons sont défaussés. [cite: 185]</li></ul>"
-            }
-        ]
-    },
-    {
-        "id": "for_each",
-        "term": "« Pour Chaque »",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "« Pour chaque » indique qu'un effet est répété en fonction du nombre d'un élément de jeu dénombrable. [cite: 185]<ul><li>Si un effet avec « pour chaque » requiert une cible, cet effet s'applique à une seule cible à moins que la clause n'inclue une instruction « choisissez ». [cite: 186]</li><li>Si un effet « pour chaque » sans instruction « choisissez » inflige des dégâts ou retire de la menace, il est considéré comme une seule instance de dégâts ou de retrait de menace. [cite: 186]</li><li>S'il a une instruction « choisissez », chaque itération de ce choix est considérée comme une instance séparée de cet effet. Les réponses peuvent être déclenchées après chaque instance. [cite: 186, 187]</li><li>Si une autre capacité modifie un effet « pour chaque », ce modificateur s'applique à chaque instance de cet effet. [cite: 189]</li></ul>"
-            }
-        ]
-    },
-    {
-        "id": "forced",
-        "term": "Forcée",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Forcée est un mot déclencheur en gras. Si le mot « Forcée » précède une capacité déclenchée, l'initiation de la capacité est obligatoire. [cite: 189]<ul><li>Les capacités « Interruption Forcée » et « Réponse Forcée » doivent être résolues lorsque leurs conditions de déclenchement sont remplies. [cite: 190]</li><li>Les capacités « Action Forcée » doivent être résolues avant que la phase des joueurs ne puisse se terminer. [cite: 190]</li><li>Les interruptions et réponses forcées ont priorité sur les interruptions et réponses non forcées. [cite: 190]</li><li>Si plusieurs capacités forcées s'initient au même moment, le premier joueur détermine l'ordre de résolution. [cite: 190]</li></ul>"
-            }
-        ]
-    },
-    {
-        "id": "form_change_form",
-        "term": "Forme, changer de forme",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Un joueur peut être soit sous forme de héros, soit sous forme d'alter ego à un moment donné. [cite: 191]<ul><li>Une fois par round, pendant son tour, chaque joueur est autorisé à changer de forme en retournant sa carte identité. [cite: 191]</li><li>Lorsqu'un joueur change de forme, seule la forme change. Le personnage conserve ses dégâts, cartes d'état, effets persistants, attachements, jetons et état (redressé ou incliné). [cite: 191]</li><li>Les capacités de cartes qui font changer de forme ne comptent pas dans la limite d'un changement de forme volontaire par round. [cite: 191]</li><li>Les cartes avec le mot-clé « forme [type] » octroient à une identité des formes uniques, qui s'ajoutent aux formes héros et alter ego. Ces formes ne comptent pas dans la limite du changement de forme par tour. [cite: 191, 192]</li></ul>"
-            }
-        ]
-    },
-    {
-        "id": "friendly",
-        "term": "Ami",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Ami est un terme générique qui fait référence aux cartes que les joueurs contrôlent. [cite: 193]"
-            }
-        ]
-    }
+	{
+		"id": "find",
+		"term": "Trouver",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lorsqu'un joueur reçoit l'instruction de trouver une carte, il cherche dans chaque zone de jeu où cette carte pourrait se trouver (zone de jeu, zone de mise de côté, deck joueur, pile de défausse, deck rencontre, etc.).<ul><li>Les joueurs ne doivent pas chercher inutilement dans des zones s'ils savent où se trouve la carte.</li><li>Toutes les zones de jeu sont soumises à la recherche, à l'exception des cartes rencontre face cachée dans n'importe quelle zone de jeu, de la pile de victoire, et des cartes retirées de la partie. [cite: 180, 181]</li><li>Si un joueur reçoit l'instruction de « trouver et révéler » un sbire qui est déjà en jeu, ce joueur engage ce sbire et résout ses mots-clés et/ou capacités déclenchées liés à sa révélation. Le sbire n'est pas considéré comme entrant en jeu et conserve ses attachements et jetons. [cite: 181, 182]</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "first_player",
+		"term": "Premier joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le premier joueur est déterminé par les joueurs au début de la partie. Le pion premier joueur indique quel joueur est le premier joueur. À la fin du round, le pion passe au joueur suivant dans le sens horaire. Si le premier joueur est éliminé, le pion passe immédiatement au joueur suivant. Le premier joueur décide notamment :<ul><li>De la cible parmi plusieurs options valides pour une carte rencontre.</li><li>De l'ordre de résolution des effets simultanés.</li><li>De la priorité pour déclencher les Interruptions et les Réponses (le premier joueur a la première opportunité, puis on tourne dans l'ordre des joueurs).</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "flip",
+		"term": "Retourner",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lorsqu'un joueur reçoit l'instruction de retourner une carte, il la met à l'envers pour que la face visible devienne face cachée.<ul><li>Une carte pliable à « trois faces » est considérée comme retournée à chaque fois que la face visible change.</li><li>Lorsqu'une carte est retournée, si la nouvelle face a le même type de carte que la face précédente, la carte conserve tous ses attachements, cartes glissées dessous, états et jetons. Si le type est différent, tous les attachements, états et jetons sont défaussés.</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "for_each",
+		"term": "« Pour Chaque »",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "« Pour chaque » indique qu'un effet est répété en fonction du nombre d'un élément de jeu dénombrable.<ul><li>Si un effet avec « pour chaque » requiert une cible, cet effet s'applique à une seule cible à moins que la clause n'inclue une instruction « choisissez ».</li><li>Si un effet « pour chaque » sans instruction « choisissez » inflige des dégâts ou retire de la menace, il est considéré comme une seule instance de dégâts ou de retrait de menace.</li><li>S'il a une instruction « choisissez », chaque itération de ce choix est considérée comme une instance séparée de cet effet. Les réponses peuvent être déclenchées après chaque instance. [cite: 186, 187]</li><li>Si une autre capacité modifie un effet « pour chaque », ce modificateur s'applique à chaque instance de cet effet.</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "forced",
+		"term": "Forcée",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Forcée est un mot déclencheur en gras. Si le mot « Forcée » précède une capacité déclenchée, l'initiation de la capacité est obligatoire.<ul><li>Les capacités « Interruption Forcée » et « Réponse Forcée » doivent être résolues lorsque leurs conditions de déclenchement sont remplies.</li><li>Les capacités « Action Forcée » doivent être résolues avant que la phase des joueurs ne puisse se terminer.</li><li>Les interruptions et réponses forcées ont priorité sur les interruptions et réponses non forcées.</li><li>Si plusieurs capacités forcées s'initient au même moment, le premier joueur détermine l'ordre de résolution.</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "form_change_form",
+		"term": "Forme, changer de forme",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Un joueur peut être soit sous forme de héros, soit sous forme d'alter ego à un moment donné.<ul><li>Une fois par round, pendant son tour, chaque joueur est autorisé à changer de forme en retournant sa carte identité.</li><li>Lorsqu'un joueur change de forme, seule la forme change. Le personnage conserve ses dégâts, cartes d'état, effets persistants, attachements, jetons et état (redressé ou incliné).</li><li>Les capacités de cartes qui font changer de forme ne comptent pas dans la limite d'un changement de forme volontaire par round.</li><li>Les cartes avec le mot-clé « forme [type] » octroient à une identité des formes uniques, qui s'ajoutent aux formes héros et alter ego. Ces formes ne comptent pas dans la limite du changement de forme par tour. [cite: 191, 192]</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "friendly",
+		"term": "Ami",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Ami est un terme générique qui fait référence aux cartes que les joueurs contrôlent."
+			}
+		]
+	}
 ]

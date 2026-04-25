@@ -6,7 +6,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "See: Attack (Enemy Activation) [cite: 361]",
+				"content": "See: Attack (Enemy Activation)",
 				"whats_new": ""
 			}
 		],
@@ -21,7 +21,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "The unique icon (<span class=\"icon-unique\"></span>) indicates a card that represents a singular person, place, or thing within the Marvel universe. [cite: 362] <red>Two unique cards are considered to “match” if any of the following apply: The two cards share a title, and both have no subtitle and no alter-ego title. (For example, two copies of the Jarnbjorn upgrade, or the Jessica Jones ally and the Jessica Jones minion.) The subtitle or alter-ego title of one matches the title, subtitle, or alter-ego title of the other. (For example, the identity with the T’Challa alter-ego, the T’Challa ally, and the Black Panther ally with the subtitle “T’Challa” are all considered to match.) [cite: 363]</red><ul><li>A player cannot include multiple matching cards in their deck. The identity is included in this evaluation. [cite: 364]</li><li>When choosing identities during setup, players cannot choose identities that match. The players may choose a scenario even if one or more villains match one or more chosen identities. [cite: 364]</li><li>A non-villain card in an out-of-play state that matches a card in play cannot enter play. [cite: 364] If the out-of-play card is a player card, it cannot be played or put into play. Any effect that attempts to do so has no effect. [cite: 364] If it is a non-villain encounter card, it is discarded and any effects of it entering play are ignored. If it was being revealed, any effects of it being revealed are ignored and the player revealing it is dealt a facedown encounter card. [cite: 365]</li></ul>",
+				"content": "The unique icon (<span class=\"icon-unique\"></span>) indicates a card that represents a singular person, place, or thing within the Marvel universe. <red>Two unique cards are considered to “match” if any of the following apply: The two cards share a title, and both have no subtitle and no alter-ego title. (For example, two copies of the Jarnbjorn upgrade, or the Jessica Jones ally and the Jessica Jones minion.) The subtitle or alter-ego title of one matches the title, subtitle, or alter-ego title of the other. (For example, the identity with the T’Challa alter-ego, the T’Challa ally, and the Black Panther ally with the subtitle “T’Challa” are all considered to match.)</red><ul><li>A player cannot include multiple matching cards in their deck. The identity is included in this evaluation.</li><li>When choosing identities during setup, players cannot choose identities that match. The players may choose a scenario even if one or more villains match one or more chosen identities.</li><li>A non-villain card in an out-of-play state that matches a card in play cannot enter play. If the out-of-play card is a player card, it cannot be played or put into play. Any effect that attempts to do so has no effect. If it is a non-villain encounter card, it is discarded and any effects of it entering play are ignored. If it was being revealed, any effects of it being revealed are ignored and the player revealing it is dealt a facedown encounter card.</li></ul>",
 				"whats_new": "Revised uniqueness rules. The comparison is now strictly made between the main title AND the Alter-Ego identity or subtitle to definitively prevent thematic inconsistencies."
 			}
 		],
@@ -42,7 +42,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Upgrade is a player card type that represents powers, attacks, equipment, and other assets that are (in most cases) at an identity’s immediate disposal. [cite: 365]<ul><li>An upgrade is active so long as it is in play, and it remains in play until a card ability causes it to leave play. [cite: 365]</li><li>Most upgrade cards enter play near a player’s identity card, and modify the player’s hero or alter-ego (or both). [cite: 365]</li><li>Some upgrades enter play and “attach to” another card. These upgrades modify the card they are attached to, not the hero or alter-ego of the player who played the upgrade. [cite: 365] A player controls any upgrades attached to characters they control, including upgrades owned by another player. [cite: 366]</li><li>Unless attached to a different friendly character, upgrade cards are considered to be an extension of the controlling player’s identity. [cite: 366] Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve on such upgrades are also considered to be resolved by that player’s identity. [cite: 366]</li></ul>",
+				"content": "Upgrade is a player card type that represents powers, attacks, equipment, and other assets that are (in most cases) at an identity’s immediate disposal.<ul><li>An upgrade is active so long as it is in play, and it remains in play until a card ability causes it to leave play.</li><li>Most upgrade cards enter play near a player’s identity card, and modify the player’s hero or alter-ego (or both).</li><li>Some upgrades enter play and “attach to” another card. These upgrades modify the card they are attached to, not the hero or alter-ego of the player who played the upgrade. A player controls any upgrades attached to characters they control, including upgrades owned by another player.</li><li>Unless attached to a different friendly character, upgrade cards are considered to be an extension of the controlling player’s identity. Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve on such upgrades are also considered to be resolved by that player’s identity.</li></ul>",
 				"whats_new": ""
 			}
 		],
@@ -65,7 +65,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "When a card with this keyword enters play, place X all-purpose counters from the token pool on the card. [cite: 367] The word following the value establishes and identifies the type of uses the card holds. [cite: 367] Each card with this keyword also has an ability that references the type of use established by the keyword as part of the cost. [cite: 367] When the last all-purpose counter is removed from a card with uses, discard that card. [cite: 367]",
+				"content": "When a card with this keyword enters play, place X all-purpose counters from the token pool on the card. The word following the value establishes and identifies the type of uses the card holds. Each card with this keyword also has an ability that references the type of use established by the keyword as part of the cost. When the last all-purpose counter is removed from a card with uses, discard that card.",
 				"whats_new": ""
 			}
 		],

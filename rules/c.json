@@ -214,7 +214,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A cost arrow icon (<span class=\"icon-cost\"></span>) in ability text distinguishes a cost from an effect, in a “pay cost <span class=\"icon-cost\"></span> resolve effect” format. <red>Non-bolded text before the cost arrow icon must be paid and/or resolved in full before the text after the cost arrow icon can be resolved.</red><ul><li>Responses to the text preceding the cost arrow icon resolve before the text following the icon resolves.</li></ul>",
+				"content": "A cost arrow icon (→)&nbsp;in ability text distinguishes a cost from an effect, in a “pay cost → resolve effect” format. <red>Non-bolded text before the cost arrow icon must be paid and/or resolved in full before the text after the cost arrow icon can be resolved.</red><ul><li>Responses to the text preceding the cost arrow icon resolve before the text following the icon resolves.</li></ul>",
 				"whats_new": "Added clarification on the mandatory resolution order of non-bolded text before the arrow."
 			}
 		],

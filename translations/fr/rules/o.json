@@ -1,63 +1,63 @@
 [
-    {
-        "id": "obligation",
-        "term": "Obligation",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Obligation est un type de carte rencontre qui représente un engagement ou un obstacle que l'alter ego d'une identité pourrait devoir affronter ou surmonter. [cite: 256]<ul><li>Les capacités sur les obligations qui utilisent les mots « vous » ou « votre » s'appliquent uniquement au joueur dans la zone de jeu duquel se trouve l'obligation. [cite: 256]</li><li>Chaque identité est associée à une ou plusieurs cartes obligation. [cite: 258] Si une identité est jouée, toutes les cartes obligation associées à cette identité sont mélangées dans le deck rencontre lors de la mise en place. [cite: 258]</li><li>Les cartes obligation spécifiques à l'identité font partie du set spécifique à l'identité qui leur est associé. [cite: 258] Elles ne peuvent être utilisées aux côtés d'une identité que si elles partagent une icône de set avec cette identité. [cite: 258]</li><li>Si une carte obligation est révélée du deck rencontre et qu'elle indique qu'elle doit être donnée à un joueur spécifique, placez cette obligation dans la zone de jeu du joueur qui contrôle l'identité associée. [cite: 258] Ce joueur doit décider comment résoudre l'obligation. [cite: 258]</li><li>Si une obligation ne peut pas être donnée au joueur spécifié, ignorez la capacité de la carte, retirez-la de la partie et révélez une carte rencontre supplémentaire. [cite: 259] Si l'obligation ne précise pas à qui elle doit être donnée, le joueur qui l'a révélée la place dans sa zone de jeu et doit la résoudre. [cite: 259]</li><li>Seul le joueur ayant l'obligation dans sa zone de jeu peut déclencher ses capacités ou payer ses coûts. [cite: 259]</li><li>Si un joueur pioche une carte obligation depuis son deck joueur, il la place dans sa zone de jeu. [cite: 260] Il ne pioche pas de carte pour la remplacer, sauf s'il est en train de refaire sa main jusqu'à sa taille de main. [cite: 260]</li></ul>"
-            }
-        ]
-    },
-    {
-        "id": "otherwise",
-        "term": "« Sinon »",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "<red>Les effets commençant par « sinon » ne se résolvent que si l'effet précédent n'a pas été résolu. [cite: 260]</red><ul><li>Un effet « sinon » se résoudra si l'une ou plusieurs des conditions suivantes s'appliquent à l'effet précédent : Il a une condition qui n'est pas vraie. [cite: 261] Il a un effet qui ne peut pas être au moins partiellement résolu. [cite: 261]</li><li>Si « sinon » est précédé d'un point-virgule, l'« effet précédent » désigne les effets avant le point-virgule dans la même phrase. [cite: 261] Si l'effet « sinon » forme sa propre phrase, l'« effet précédent » désigne la phrase qui précède directement la phrase du « sinon ». [cite: 261]</li></ul>",
-                "whats_new": "Définition élargie. La règle stipule désormais clairement que si l'effet précédent est partiel ou échoue, la condition 'Sinon' prend le relais entièrement pour garantir qu'un effet se produise."
-            }
-        ]
-    },
-    {
-        "id": "out_of_play",
-        "term": "Hors jeu",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Voir : En jeu et Hors jeu [cite: 59]"
-            }
-        ]
-    },
-    {
-        "id": "overkill",
-        "term": "Déferlement",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Si un allié subit une quantité quelconque de dégâts en excès d'une attaque avec le mot-clé déferlement, infligez simultanément des dégâts égaux au montant en excès à l'identité du joueur qui contrôle l'allié. [cite: 262] Si un sbire subit des dégâts en excès d'une attaque avec le mot-clé déferlement, infligez simultanément des dégâts égaux au montant en excès au méchant. [cite: 262]<ul><li>Les dégâts infligés par le déferlement à une identité ou à un méchant sont considérés comme des dégâts provenant d'une attaque, mais ne constituent pas une attaque contre ce personnage. [cite: 262]</li><li>Si une capacité de carte compte les dégâts en excès infligés, cette capacité compte la même valeur de dégâts en excès que celle calculée lors de la résolution du mot-clé déferlement. [cite: 262]</li><li>Lorsqu'un allié ou un sbire avec une carte d'état tenace subit des dégâts en excès par une attaque avec le mot-clé déferlement, les dégâts de déferlement ne sont pas infligés à l'identité du contrôleur de cet allié ni au méchant, respectivement. [cite: 262]</li></ul>"
-            }
-        ]
-    },
-    {
-        "id": "overpay",
-        "term": "Surpayer",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Voir : Coût [cite: 59]"
-            }
-        ]
-    },
-    {
-        "id": "ownership_and_control",
-        "term": "Propriété et contrôle",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le propriétaire d'une carte est le joueur dont le deck contenait la carte au début de la mise en place. [cite: 263] Le scénario est considéré comme le propriétaire du deck rencontre et de chaque carte rencontre. [cite: 263]<ul><li>Les cartes identité sont possédées et contrôlées par le joueur jouant cette identité. [cite: 263]</li><li>Les cartes entrent en jeu sous le contrôle de leur propriétaire. [cite: 263] Les cartes rencontre sont considérées comme étant sous le contrôle du scénario. [cite: 263] Les améliorations attachées à une carte contrôlée par un joueur autre que le propriétaire de l'amélioration sont contrôlées par cet autre joueur. [cite: 264] Lorsqu'un joueur prend le contrôle d'une carte joueur spécifique à une campagne ou à un scénario (comme un allié, un soutien ou une amélioration) avec un dos de carte joueur, ce joueur devient le propriétaire de cette carte jusqu'à la fin de la partie ou jusqu'à ce qu'un autre joueur en prenne le contrôle. [cite: 264]</li><li>Le contrôle d'une carte reste constant à moins qu'une capacité ne provoque explicitement son changement de contrôle. [cite: 264]</li><li>Un joueur contrôle les cartes dans ses propres zones hors jeu (comme la main, le deck et la pile de défausse). [cite: 264]</li><li>Si un personnage change de contrôle pendant qu'il est en jeu, il reste dans le même état (redressé ou incliné, endommagé ou non, etc.) et est déplacé vers la zone de jeu de son nouveau contrôleur. [cite: 264] Les améliorations sur une carte qui change de contrôle changent également de contrôle vers le même nouveau contrôleur. [cite: 264]</li><li>Un changement de contrôle d'une carte reste en effet jusqu'à ce que l'un des événements suivants se produise : La capacité qui a changé le contrôle cesse d'être en effet, la carte revient alors sous le contrôle de son propriétaire. [cite: 266] La carte quitte le jeu, elle est placée dans la zone hors jeu équivalente de son propriétaire. [cite: 266] Si c'est un événement joué ou défaussé de la main, il est placé dans la défausse de son propriétaire. [cite: 267]</li><li>Si une étape de jeu ou une capacité fait référence à une carte que « vous contrôlez » ou qu'un « joueur contrôle », cela ne fait référence qu'aux cartes en jeu actuellement sous le contrôle de ce joueur. [cite: 267]</li></ul>"
-            }
-        ]
-    }
+	{
+		"id": "obligation",
+		"term": "Obligation",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Obligation est un type de carte rencontre qui représente un engagement ou un obstacle que l'alter ego d'une identité pourrait devoir affronter ou surmonter.<ul><li>Les capacités sur les obligations qui utilisent les mots « vous » ou « votre » s'appliquent uniquement au joueur dans la zone de jeu duquel se trouve l'obligation.</li><li>Chaque identité est associée à une ou plusieurs cartes obligation. Si une identité est jouée, toutes les cartes obligation associées à cette identité sont mélangées dans le deck rencontre lors de la mise en place.</li><li>Les cartes obligation spécifiques à l'identité font partie du set spécifique à l'identité qui leur est associé. Elles ne peuvent être utilisées aux côtés d'une identité que si elles partagent une icône de set avec cette identité.</li><li>Si une carte obligation est révélée du deck rencontre et qu'elle indique qu'elle doit être donnée à un joueur spécifique, placez cette obligation dans la zone de jeu du joueur qui contrôle l'identité associée. Ce joueur doit décider comment résoudre l'obligation.</li><li>Si une obligation ne peut pas être donnée au joueur spécifié, ignorez la capacité de la carte, retirez-la de la partie et révélez une carte rencontre supplémentaire. Si l'obligation ne précise pas à qui elle doit être donnée, le joueur qui l'a révélée la place dans sa zone de jeu et doit la résoudre.</li><li>Seul le joueur ayant l'obligation dans sa zone de jeu peut déclencher ses capacités ou payer ses coûts.</li><li>Si un joueur pioche une carte obligation depuis son deck joueur, il la place dans sa zone de jeu. Il ne pioche pas de carte pour la remplacer, sauf s'il est en train de refaire sa main jusqu'à sa taille de main.</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "otherwise",
+		"term": "« Sinon »",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<red>Les effets commençant par « sinon » ne se résolvent que si l'effet précédent n'a pas été résolu.</red><ul><li>Un effet « sinon » se résoudra si l'une ou plusieurs des conditions suivantes s'appliquent à l'effet précédent : Il a une condition qui n'est pas vraie. Il a un effet qui ne peut pas être au moins partiellement résolu.</li><li>Si « sinon » est précédé d'un point-virgule, l'« effet précédent » désigne les effets avant le point-virgule dans la même phrase. Si l'effet « sinon » forme sa propre phrase, l'« effet précédent » désigne la phrase qui précède directement la phrase du « sinon ».</li></ul>",
+				"whats_new": "Définition élargie. La règle stipule désormais clairement que si l'effet précédent est partiel ou échoue, la condition 'Sinon' prend le relais entièrement pour garantir qu'un effet se produise."
+			}
+		]
+	},
+	{
+		"id": "out_of_play",
+		"term": "Hors jeu",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : En jeu et Hors jeu"
+			}
+		]
+	},
+	{
+		"id": "overkill",
+		"term": "Déferlement",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Si un allié subit une quantité quelconque de dégâts en excès d'une attaque avec le mot-clé déferlement, infligez simultanément des dégâts égaux au montant en excès à l'identité du joueur qui contrôle l'allié. Si un sbire subit des dégâts en excès d'une attaque avec le mot-clé déferlement, infligez simultanément des dégâts égaux au montant en excès au méchant.<ul><li>Les dégâts infligés par le déferlement à une identité ou à un méchant sont considérés comme des dégâts provenant d'une attaque, mais ne constituent pas une attaque contre ce personnage.</li><li>Si une capacité de carte compte les dégâts en excès infligés, cette capacité compte la même valeur de dégâts en excès que celle calculée lors de la résolution du mot-clé déferlement.</li><li>Lorsqu'un allié ou un sbire avec une carte d'état tenace subit des dégâts en excès par une attaque avec le mot-clé déferlement, les dégâts de déferlement ne sont pas infligés à l'identité du contrôleur de cet allié ni au méchant, respectivement.</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "overpay",
+		"term": "Surpayer",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Coût"
+			}
+		]
+	},
+	{
+		"id": "ownership_and_control",
+		"term": "Propriété et contrôle",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le propriétaire d'une carte est le joueur dont le deck contenait la carte au début de la mise en place. Le scénario est considéré comme le propriétaire du deck rencontre et de chaque carte rencontre.<ul><li>Les cartes identité sont possédées et contrôlées par le joueur jouant cette identité.</li><li>Les cartes entrent en jeu sous le contrôle de leur propriétaire. Les cartes rencontre sont considérées comme étant sous le contrôle du scénario. Les améliorations attachées à une carte contrôlée par un joueur autre que le propriétaire de l'amélioration sont contrôlées par cet autre joueur. Lorsqu'un joueur prend le contrôle d'une carte joueur spécifique à une campagne ou à un scénario (comme un allié, un soutien ou une amélioration) avec un dos de carte joueur, ce joueur devient le propriétaire de cette carte jusqu'à la fin de la partie ou jusqu'à ce qu'un autre joueur en prenne le contrôle.</li><li>Le contrôle d'une carte reste constant à moins qu'une capacité ne provoque explicitement son changement de contrôle.</li><li>Un joueur contrôle les cartes dans ses propres zones hors jeu (comme la main, le deck et la pile de défausse).</li><li>Si un personnage change de contrôle pendant qu'il est en jeu, il reste dans le même état (redressé ou incliné, endommagé ou non, etc.) et est déplacé vers la zone de jeu de son nouveau contrôleur. Les améliorations sur une carte qui change de contrôle changent également de contrôle vers le même nouveau contrôleur.</li><li>Un changement de contrôle d'une carte reste en effet jusqu'à ce que l'un des événements suivants se produise : La capacité qui a changé le contrôle cesse d'être en effet, la carte revient alors sous le contrôle de son propriétaire. La carte quitte le jeu, elle est placée dans la zone hors jeu équivalente de son propriétaire. Si c'est un événement joué ou défaussé de la main, il est placé dans la défausse de son propriétaire.</li><li>Si une étape de jeu ou une capacité fait référence à une carte que « vous contrôlez » ou qu'un « joueur contrôle », cela ne fait référence qu'aux cartes en jeu actuellement sous le contrôle de ce joueur.</li></ul>"
+			}
+		]
+	}
 ]

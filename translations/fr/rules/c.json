@@ -1,167 +1,167 @@
 [
-    {
-        "id": "campaign_specific_card",
-        "term": "Cartes spécifiques à une campagne",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Les cartes de la classification « spécifique à une campagne » sont des cartes qui appartiennent au set de cartes d'accompagnement d'une campagne.<ul><li>Les cartes spécifiques à une campagne ne peuvent être utilisées que lors d'une campagne du même produit (déterminé par l'icône de set du produit).</li><li>Les règles d'une campagne déterminent comment les joueurs utilisent les cartes spécifiques à cette campagne.</li><li>Une carte spécifique à une campagne est désignée par le mot « Campagne » imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "cancel",
-        "term": "Annuler",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Certaines capacités de carte peuvent annuler des effets de carte ou de jeu.<ul><li>Les capacités d'annulation interrompent l'initiation des effets et les empêchent de se résoudre.</li><li>Chaque fois que les effets d'une capacité sont annulés, la capacité (hormis ses effets) est toujours considérée comme initiée, et les coûts sont quand même payés. Seuls les effets sont empêchés de s'initier, et ne se résolvent pas.</li><li>Si les effets d'une carte événement sont annulés, la carte est toujours considérée comme jouée, et elle est défaussée.</li><li>Si les effets d'une carte traîtrise sont annulés, la carte est toujours considérée comme révélée, et elle est toujours placée dans la pile de défausse rencontre.</li><li>Les effets d'annulation sont considérés comme un sous-type d'effet de remplacement, l'effet annulé étant remplacé par aucun effet. Les capacités dépendant de l'effet annulé ne peuvent pas se déclencher car l'effet annulé n'est pas considéré comme s'étant produit.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "cannot",
-        "term": "Ne peut pas",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le terme « ne peut pas » est absolu et ne peut pas être contredit par d'autres capacités ou effets.<ul><li>Si deux capacités entrent en conflit, la capacité avec « ne peut pas » a préséance.</li><li>Si deux règles entrent en conflit, la règle avec « ne peut pas » a préséance.</li><li>Une capacité peut outrepasser une règle avec « ne peut pas » selon les Règles d'Or.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "card_types",
-        "term": "Types de carte",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le type d'une carte indique les diverses règles et fonctions de jeu associées à cette carte.<ul><li>Les cartes allié, événement, identité, manigance annexe de joueur, ressource, soutien et amélioration sont des types de cartes joueur.</li><li>Les cartes attachement, environnement, manigance principale, sbire, obligation, manigance annexe, traîtrise et méchant sont des types de cartes rencontre.</li><li>Si une capacité fait changer le type d'une carte, elle perd tous les autres types de cartes qu'elle pourrait posséder et fonctionne comme n'importe quelle carte du nouveau type. Les cartes attachées à une carte qui change de type restent attachées, mais seules les capacités qui font référence au nouveau type de carte restent actives.</li><li>Un allié qui a été transformé en sbire engage son contrôleur et ne subit pas de dégâts consécutifs après avoir attaqué ou manigancé. Lorsqu'un joueur change un sbire en allié, ce joueur prend le contrôle de cet allié.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "character",
-        "term": "Personnage",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Les identités (héros et alter ego), les alliés, les méchants et les sbires sont tous des personnages.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "choose_game_element",
-        "term": "Choisir (Élément de Jeu)",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "L'expression « choisissez un(e) [élément de jeu] » (tel qu'un allié, un sbire ou une manigance) indique qu'un joueur doit sélectionner un élément de jeu qui répond aux conditions spécifiques d'une capacité.<ul><li>Le joueur résolvant la capacité qui utilise le mot « choisissez » est le joueur qui fait le choix spécifié par la carte.</li><li>Si la capacité d'une carte joueur nécessite de choisir une ou plusieurs cibles, et qu'il n'y a pas de cible valide pour aucune partie de la capacité, la capacité ne peut pas être initiée.</li><li>Si plusieurs cibles doivent être choisies par le même joueur, choisissez simultanément autant de cibles que possible, jusqu'au maximum spécifié.</li><li>Un effet qui peut choisir « n'importe quel nombre » de cibles ne se résout pas avec succès si zéro de ces cibles est choisi.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "choosing_an_option",
-        "term": "Choisir (Option)",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "<red>Lorsqu'une capacité demande à un joueur de choisir entre plusieurs options, ce joueur doit choisir une option dont la résolution pourrait modifier l'état du jeu, quel que soit le coût pour déclencher cette capacité. Si aucune option ne peut modifier l'état du jeu, la capacité ne peut pas être déclenchée.</red>",
-                "whats_new": "Ajout de la règle exigeant qu'un joueur DOIT choisir une option qui modifie effectivement l'état du jeu (il n'est plus possible de choisir une option qui n'aurait aucun effet juste pour payer un coût ou défausser une carte)."
-            }
-        ]
-    },
-    {
-        "id": "classifications",
-        "term": "Classifications",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "La classification d'une carte est le groupe auquel elle appartient en fonction de ses attributs spécifiques.<ul><li>Les cartes de la classification « spécifique à l'identité » sont des cartes qui appartiennent au set d'accompagnement d'une identité.</li><li>Les cartes de la classification « affinité » sont des cartes qui appartiennent aux affinités Agressivité, Justice, Commandement, Protection et/ou 'Pool.</li><li>Les cartes de la classification « Basique » ne sont pas associées à une identité ou une affinité spécifique.</li><li>Les cartes de la classification « spécifique au scénario » sont des cartes qui appartiennent au set d'accompagnement d'un scénario.</li><li>Les cartes de la classification « set de rencontre modulaire » appartiennent à un set modulaire de cartes rencontre.</li><li>Les cartes de la classification « spécifique à une campagne » ne peuvent être utilisées que pendant une campagne du même produit.</li><li>Les cartes de la classification « Standard » sont des cartes ajoutées à la plupart des scénarios.</li><li>Les cartes de la classification « Expert » sont des cartes ajoutées aux scénarios en jouant en mode expert.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "confuse_confused",
-        "term": "Désorienter, désorienté",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Désorienté est un état qui annule la prochaine manigance ou le prochain contre d'un personnage.<ul><li>Si une capacité « désoriente » un personnage, donnez à ce personnage une carte d'état désorienté.</li><li>Un personnage est désorienté s'il possède une carte d'état désorienté. Un personnage avec le mot-clé solide n'est désorienté que s'il possède deux cartes d'état désorienté.</li><li>Si un personnage possède une capacité indiquant qu'il « ne peut pas être désorienté », les cartes d'état désorienté ne peuvent pas être placées sur ce personnage.</li><li>Si une identité ou un allié désorienté tente de contrer ou d'utiliser une capacité de contre, défaussez la carte désorienté à la place. Les coûts associés à la tentative de contre, y compris l'inclinaison du personnage, doivent tout de même être payés.</li><li>Si un méchant ou un sbire désorienté devait manigancer, défaussez la carte d'état désorienté à la place.</li><li>Comme l'action de contre ou l'activation de manigance a été remplacée par le retrait de la carte d'état désorienté, ce personnage n'est pas considéré comme ayant contré ou manigancé.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "consequential_damage",
-        "term": "Dégâts consécutifs",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Après qu'un allié a attaqué, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs sous son champ ATQ. Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs sous son champ CTR.<ul><li>Les dégâts consécutifs sont infligés à un allié après avoir résolu les capacités déclenchées par l'attaque ou le contre de cet allié.</li><li>Si la cible du pouvoir de base d'un allié quitte le jeu avant que cet allié n'inflige des dégâts égaux à son ATQ ou ne retire de la menace égale à son CTR, l'allié ne subit pas de dégâts consécutifs (mais s'incline tout de même). Cet allié n'est pas considéré comme ayant attaqué ou contré pour ce qui est des autres capacités.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "control_changes",
-        "term": "Changements de contrôle",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "<red>Si un effet modifie le contrôleur d'une carte, cette carte est déplacée vers la zone de jeu de son nouveau contrôleur. Les attachements, jetons et compteurs sur cette carte se déplacent avec elle. Si une carte change de contrôle, elle conserve son état (inclinée ou redressée). Les effets persistants associés au contrôleur précédent cessent de s'appliquer si les conditions ne sont plus remplies.</red>",
-                "whats_new": "Clarification approfondie sur le transfert de contrôle. De nouvelles règles gèrent spécifiquement ce qu'il advient des attachements (ils restent attachés), l'état incliné/redressé de la carte, et précisent que si un joueur est éliminé, les cartes qui ont changé de contrôle reviennent à leur propriétaire d'origine."
-            }
-        ]
-    },
-    {
-        "id": "copy",
-        "term": "Exemplaire",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Un exemplaire d'une carte est défini par son titre. Un deuxième exemplaire d'une carte est toute autre carte qui partage le même titre et sous-titre (le cas échéant), quels que soient le type, le texte, l'illustration ou toute autre caractéristique différente entre les cartes.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "cost",
-        "term": "Coût",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le coût en ressources d'une carte est la valeur numérique qui doit être payée pour jouer la carte. Certaines capacités ont un coût décrit dans le texte de la capacité qui doit être payé pour utiliser la capacité.<ul><li>Une icône de coût en forme de flèche (<span class=\"icon-cost\"></span>) dans le texte d'une capacité distingue un coût d'un effet.</li><li>Un coût en ressources avec l'icône par joueur (<span class=\"icon-per_player\"></span>) est multiplié par le nombre de joueurs qui ont commencé le scénario.</li><li>Pour payer un coût en ressources, un joueur dépense des ressources qu'il génère en défaussant des cartes de sa main ou en utilisant des capacités de carte « Ressource ».</li><li>Lors du paiement d'un coût, un joueur est autorisé à générer des ressources au-delà du coût spécifié (surpayer). Toutes les ressources générées au-delà du coût spécifié sont perdues.</li><li>Si infliger des dégâts est un coût, ce coût est considéré comme payé même si une partie ou la totalité de ces dégâts est prévenue.</li><li>Si subir des dégâts est un coût, ce coût n'est pas considéré comme payé à moins que la totalité de ces dégâts n'ait été subie.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "cost_arrow_icon",
-        "term": "Icône de coût en forme de flèche",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Une icône de coût en forme de flèche (<span class=\"icon-cost\"></span>) dans le texte d'une capacité distingue un coût d'un effet, dans un format « payer le coût <span class=\"icon-cost\"></span> résoudre l'effet ». <red>Le texte non gras précédant l'icône de coût en forme de flèche doit être payé et/ou résolu en totalité avant que le texte suivant l'icône de coût en forme de flèche ne puisse être résolu.</red><ul><li>Les réponses au texte précédant l'icône de coût en forme de flèche se résolvent avant que le texte suivant l'icône ne se résolve.</li></ul>",
-                "whats_new": "Ajout d'une clarification sur l'ordre de résolution obligatoire du texte non gras précédant la flèche."
-            }
-        ]
-    },
-    {
-        "id": "crisis_icon",
-        "term": "Icône de Crise",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Tant qu'au moins une icône de crise (<span class=\"icon-crisis\"></span>) est en jeu, la menace ne peut pas être retirée de la manigance principale par des cartes joueur.<ul><li>Les capacités sur les cartes rencontre ne sont pas affectées par l'icône de crise.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    }
+	{
+		"id": "campaign_specific_card",
+		"term": "Cartes spécifiques à une campagne",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les cartes de la classification « spécifique à une campagne » sont des cartes qui appartiennent au set de cartes d'accompagnement d'une campagne.<ul><li>Les cartes spécifiques à une campagne ne peuvent être utilisées que lors d'une campagne du même produit (déterminé par l'icône de set du produit).</li><li>Les règles d'une campagne déterminent comment les joueurs utilisent les cartes spécifiques à cette campagne.</li><li>Une carte spécifique à une campagne est désignée par le mot « Campagne » imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "cancel",
+		"term": "Annuler",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certaines capacités de carte peuvent annuler des effets de carte ou de jeu.<ul><li>Les capacités d'annulation interrompent l'initiation des effets et les empêchent de se résoudre.</li><li>Chaque fois que les effets d'une capacité sont annulés, la capacité (hormis ses effets) est toujours considérée comme initiée, et les coûts sont quand même payés. Seuls les effets sont empêchés de s'initier, et ne se résolvent pas.</li><li>Si les effets d'une carte événement sont annulés, la carte est toujours considérée comme jouée, et elle est défaussée.</li><li>Si les effets d'une carte traîtrise sont annulés, la carte est toujours considérée comme révélée, et elle est toujours placée dans la pile de défausse rencontre.</li><li>Les effets d'annulation sont considérés comme un sous-type d'effet de remplacement, l'effet annulé étant remplacé par aucun effet. Les capacités dépendant de l'effet annulé ne peuvent pas se déclencher car l'effet annulé n'est pas considéré comme s'étant produit.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "cannot",
+		"term": "Ne peut pas",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le terme « ne peut pas » est absolu et ne peut pas être contredit par d'autres capacités ou effets.<ul><li>Si deux capacités entrent en conflit, la capacité avec « ne peut pas » a préséance.</li><li>Si deux règles entrent en conflit, la règle avec « ne peut pas » a préséance.</li><li>Une capacité peut outrepasser une règle avec « ne peut pas » selon les Règles d'Or.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "card_types",
+		"term": "Types de carte",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le type d'une carte indique les diverses règles et fonctions de jeu associées à cette carte.<ul><li>Les cartes allié, événement, identité, manigance annexe de joueur, ressource, soutien et amélioration sont des types de cartes joueur.</li><li>Les cartes attachement, environnement, manigance principale, sbire, obligation, manigance annexe, traîtrise et méchant sont des types de cartes rencontre.</li><li>Si une capacité fait changer le type d'une carte, elle perd tous les autres types de cartes qu'elle pourrait posséder et fonctionne comme n'importe quelle carte du nouveau type. Les cartes attachées à une carte qui change de type restent attachées, mais seules les capacités qui font référence au nouveau type de carte restent actives.</li><li>Un allié qui a été transformé en sbire engage son contrôleur et ne subit pas de dégâts consécutifs après avoir attaqué ou manigancé. Lorsqu'un joueur change un sbire en allié, ce joueur prend le contrôle de cet allié.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "character",
+		"term": "Personnage",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les identités (héros et alter ego), les alliés, les méchants et les sbires sont tous des personnages.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "choose_game_element",
+		"term": "Choisir (Élément de Jeu)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "L'expression « choisissez un(e) [élément de jeu] » (tel qu'un allié, un sbire ou une manigance) indique qu'un joueur doit sélectionner un élément de jeu qui répond aux conditions spécifiques d'une capacité.<ul><li>Le joueur résolvant la capacité qui utilise le mot « choisissez » est le joueur qui fait le choix spécifié par la carte.</li><li>Si la capacité d'une carte joueur nécessite de choisir une ou plusieurs cibles, et qu'il n'y a pas de cible valide pour aucune partie de la capacité, la capacité ne peut pas être initiée.</li><li>Si plusieurs cibles doivent être choisies par le même joueur, choisissez simultanément autant de cibles que possible, jusqu'au maximum spécifié.</li><li>Un effet qui peut choisir « n'importe quel nombre » de cibles ne se résout pas avec succès si zéro de ces cibles est choisi.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "choosing_an_option",
+		"term": "Choisir (Option)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<red>Lorsqu'une capacité demande à un joueur de choisir entre plusieurs options, ce joueur doit choisir une option dont la résolution pourrait modifier l'état du jeu, quel que soit le coût pour déclencher cette capacité. Si aucune option ne peut modifier l'état du jeu, la capacité ne peut pas être déclenchée.</red>",
+				"whats_new": "Ajout de la règle exigeant qu'un joueur DOIT choisir une option qui modifie effectivement l'état du jeu (il n'est plus possible de choisir une option qui n'aurait aucun effet juste pour payer un coût ou défausser une carte)."
+			}
+		]
+	},
+	{
+		"id": "classifications",
+		"term": "Classifications",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "La classification d'une carte est le groupe auquel elle appartient en fonction de ses attributs spécifiques.<ul><li>Les cartes de la classification « spécifique à l'identité » sont des cartes qui appartiennent au set d'accompagnement d'une identité.</li><li>Les cartes de la classification « affinité » sont des cartes qui appartiennent aux affinités Agressivité, Justice, Commandement, Protection et/ou 'Pool.</li><li>Les cartes de la classification « Basique » ne sont pas associées à une identité ou une affinité spécifique.</li><li>Les cartes de la classification « spécifique au scénario » sont des cartes qui appartiennent au set d'accompagnement d'un scénario.</li><li>Les cartes de la classification « set de rencontre modulaire » appartiennent à un set modulaire de cartes rencontre.</li><li>Les cartes de la classification « spécifique à une campagne » ne peuvent être utilisées que pendant une campagne du même produit.</li><li>Les cartes de la classification « Standard » sont des cartes ajoutées à la plupart des scénarios.</li><li>Les cartes de la classification « Expert » sont des cartes ajoutées aux scénarios en jouant en mode expert.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "confuse_confused",
+		"term": "Désorienter, désorienté",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Désorienté est un état qui annule la prochaine manigance ou le prochain contre d'un personnage.<ul><li>Si une capacité « désoriente » un personnage, donnez à ce personnage une carte d'état désorienté.</li><li>Un personnage est désorienté s'il possède une carte d'état désorienté. Un personnage avec le mot-clé solide n'est désorienté que s'il possède deux cartes d'état désorienté.</li><li>Si un personnage possède une capacité indiquant qu'il « ne peut pas être désorienté », les cartes d'état désorienté ne peuvent pas être placées sur ce personnage.</li><li>Si une identité ou un allié désorienté tente de contrer ou d'utiliser une capacité de contre, défaussez la carte désorienté à la place. Les coûts associés à la tentative de contre, y compris l'inclinaison du personnage, doivent tout de même être payés.</li><li>Si un méchant ou un sbire désorienté devait manigancer, défaussez la carte d'état désorienté à la place.</li><li>Comme l'action de contre ou l'activation de manigance a été remplacée par le retrait de la carte d'état désorienté, ce personnage n'est pas considéré comme ayant contré ou manigancé.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "consequential_damage",
+		"term": "Dégâts consécutifs",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Après qu'un allié a attaqué, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs sous son champ ATQ. Après qu'un allié a contré, il subit des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs sous son champ CTR.<ul><li>Les dégâts consécutifs sont infligés à un allié après avoir résolu les capacités déclenchées par l'attaque ou le contre de cet allié.</li><li>Si la cible du pouvoir de base d'un allié quitte le jeu avant que cet allié n'inflige des dégâts égaux à son ATQ ou ne retire de la menace égale à son CTR, l'allié ne subit pas de dégâts consécutifs (mais s'incline tout de même). Cet allié n'est pas considéré comme ayant attaqué ou contré pour ce qui est des autres capacités.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "control_changes",
+		"term": "Changements de contrôle",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<red>Si un effet modifie le contrôleur d'une carte, cette carte est déplacée vers la zone de jeu de son nouveau contrôleur. Les attachements, jetons et compteurs sur cette carte se déplacent avec elle. Si une carte change de contrôle, elle conserve son état (inclinée ou redressée). Les effets persistants associés au contrôleur précédent cessent de s'appliquer si les conditions ne sont plus remplies.</red>",
+				"whats_new": "Clarification approfondie sur le transfert de contrôle. De nouvelles règles gèrent spécifiquement ce qu'il advient des attachements (ils restent attachés), l'état incliné/redressé de la carte, et précisent que si un joueur est éliminé, les cartes qui ont changé de contrôle reviennent à leur propriétaire d'origine."
+			}
+		]
+	},
+	{
+		"id": "copy",
+		"term": "Exemplaire",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Un exemplaire d'une carte est défini par son titre. Un deuxième exemplaire d'une carte est toute autre carte qui partage le même titre et sous-titre (le cas échéant), quels que soient le type, le texte, l'illustration ou toute autre caractéristique différente entre les cartes.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "cost",
+		"term": "Coût",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le coût en ressources d'une carte est la valeur numérique qui doit être payée pour jouer la carte. Certaines capacités ont un coût décrit dans le texte de la capacité qui doit être payé pour utiliser la capacité.<ul><li>Une icône de coût en forme de flèche (<span class=\"icon-cost\"></span>) dans le texte d'une capacité distingue un coût d'un effet.</li><li>Un coût en ressources avec l'icône par joueur (<span class=\"icon-per_player\"></span>) est multiplié par le nombre de joueurs qui ont commencé le scénario.</li><li>Pour payer un coût en ressources, un joueur dépense des ressources qu'il génère en défaussant des cartes de sa main ou en utilisant des capacités de carte « Ressource ».</li><li>Lors du paiement d'un coût, un joueur est autorisé à générer des ressources au-delà du coût spécifié (surpayer). Toutes les ressources générées au-delà du coût spécifié sont perdues.</li><li>Si infliger des dégâts est un coût, ce coût est considéré comme payé même si une partie ou la totalité de ces dégâts est prévenue.</li><li>Si subir des dégâts est un coût, ce coût n'est pas considéré comme payé à moins que la totalité de ces dégâts n'ait été subie.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "cost_arrow_icon",
+		"term": "Icône de coût en forme de flèche",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une icône de coût en forme de flèche (→)&nbsp;dans le texte d'une capacité distingue un coût d'un effet, dans un format « payer le coût →&nbsp;résoudre l'effet ». <red>Le texte non gras précédant l'icône de coût en forme de flèche doit être payé et/ou résolu en totalité avant que le texte suivant l'icône de coût en forme de flèche ne puisse être résolu.</red><ul><li>Les réponses au texte précédant l'icône de coût en forme de flèche se résolvent avant que le texte suivant l'icône ne se résolve.</li></ul>",
+				"whats_new": "Ajout d'une clarification sur l'ordre de résolution obligatoire du texte non gras précédant la flèche."
+			}
+		]
+	},
+	{
+		"id": "crisis_icon",
+		"term": "Icône de Crise",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Tant qu'au moins une icône de crise (<span class=\"icon-crisis\"></span>) est en jeu, la menace ne peut pas être retirée de la manigance principale par des cartes joueur.<ul><li>Les capacités sur les cartes rencontre ne sont pas affectées par l'icône de crise.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	}
 ]
