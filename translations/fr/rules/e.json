@@ -1,1 +1,152 @@
-[]
+[
+    {
+        "id": "each_player",
+        "term": "Chaque Joueur",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Lorsque chaque joueur reçoit l'instruction de résoudre un effet, chaque joueur résout cet effet l'un après l'autre.<ul><li>Si l'effet ne spécifie pas dans quel ordre les joueurs résolvent l'effet, le premier joueur décide de l'ordre.</li><li>Si un joueur ne peut pas résoudre complètement cet effet, il le résout autant que possible.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "empty_deck",
+        "term": "Deck vide",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Si le deck d'un joueur se vide, le joueur mélange sa pile de défausse pour former un nouveau deck et se distribue une carte rencontre face cachée. Si le deck rencontre se vide, la pile de défausse rencontre est mélangée pour former un nouveau deck et un pion accélération est placé sur la manigance principale."
+            }
+        ]
+    },
+    {
+        "id": "encounter_card",
+        "term": "Cartes Rencontre",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Il existe huit types de cartes rencontre : les attachements, les environnements, les sbires, les manigances principales, les obligations, les manigances annexes, les traîtrises et les méchants. Elles représentent les défis que le méchant lance aux héros.<ul><li>Les cartes rencontre appartiennent à diverses classifications, telles que les cartes rencontre spécifiques au scénario ou les cartes rencontre de set modulaire.</li><li>La plupart des cartes rencontre ont un dos de carte orange.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "encounter_deck",
+        "term": "Deck rencontre",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Le deck rencontre contient les cartes rencontre (attachements, environnements, sbires, manigances annexes et traîtrises) que les joueurs peuvent affronter lors d'un scénario.<ul><li>L'ordre des cartes dans le deck rencontre ne peut pas être modifié sauf instruction contraire.</li><li>Si le deck rencontre est vide, la pile de défausse rencontre est immédiatement mélangée pour créer un nouveau deck rencontre. Lorsque cela se produit, placez un pion accélération à côté du deck manigance principale.</li><li>Si une capacité défausse des cartes du deck rencontre jusqu'à ce qu'une condition soit remplie et que le deck se vide, la capacité est considérée comme remplie. Ne continuez pas l'effet de défausse avec le deck nouvellement mélangé.</li><li>S'il n'y a aucune carte simultanément dans le deck rencontre et dans la défausse rencontre, une boucle infinie se produit. Si cela arrive, les joueurs perdent la partie.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "encounter_set",
+        "term": "Ensemble de Rencontre",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Un ensemble de rencontre (ou set de rencontre) est un regroupement de cartes rencontre.<ul><li>Il existe quatre types de sets de rencontre : les sets spécifiques au scénario, les sets modulaires, le set Standard et le set Expert.</li><li>Les sets de rencontre portant le même nom mais des icônes de set différentes sont considérés comme des sets distincts.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "end_of_player_phase",
+        "term": "Fin de la phase des joueurs",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Pour terminer la phase des joueurs, effectuez les étapes suivantes :<ol><li>Dans l'ordre des joueurs, chaque joueur peut défausser un nombre quelconque de cartes de sa main, et doit défausser jusqu'à sa taille de main s'il a plus de cartes que sa taille de main.</li><li>Chaque joueur pioche simultanément jusqu'à sa taille de main.</li><li>Chaque joueur redresse simultanément toutes ses cartes. Redressez chaque carte rencontre inclinée.</li><li>Tout effet qui dure « jusqu'à la fin de la phase [des joueurs] » se termine.</li><li>Résolvez tous les effets « quand/après que la phase [des joueurs] se termine ».</li></ol>"
+            }
+        ]
+    },
+    {
+        "id": "enemy",
+        "term": "Ennemi",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Un ennemi est un sbire ou un méchant. Lorsqu'il est utilisé comme descripteur, « ennemi » fait référence aux éléments de jeu qui appartiennent au scénario : « cartes ennemi », « capacités ennemies », etc."
+            }
+        ]
+    },
+    {
+        "id": "energy_resource",
+        "term": "Ressource énergie",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Une ressource énergie (<span class=\"icon-energy\"></span>) est l'un des quatre types de ressources.<ul><li>Les ressources énergie peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités de cartes exigent spécifiquement que des ressources énergie soient dépensées pour résoudre leurs effets.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "engage",
+        "term": "Engager",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Lorsqu'un sbire entre en jeu dans la zone de jeu d'un joueur, il engage ce joueur. Sauf indication contraire, le sbire engage le joueur qui résout la carte rencontre actuelle.<ul><li>Un sbire engagé reste engagé avec le même joueur jusqu'à ce qu'il soit vaincu, retiré du jeu ou qu'une capacité le fasse engager un autre joueur.</li><li>Si une capacité demande à un joueur d'engager un sbire, ce sbire est également considéré comme ayant engagé ce joueur.</li><li>Tant qu'un sbire est engagé avec un joueur, les capacités de cartes ne peuvent pas forcer le sbire à s'engager à nouveau avec ce même joueur.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "enters_play",
+        "term": "Entrer en jeu",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "L'expression « entre en jeu » désigne tout moment où une carte passe d'une zone hors jeu à une zone en jeu. Jouer une carte, mettre une carte en jeu via une capacité, ou révéler une carte du deck rencontre sont autant de moyens par lesquels une carte peut entrer en jeu."
+            }
+        ]
+    },
+    {
+        "id": "environment",
+        "term": "Environnement",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Environnement est un type de carte rencontre qui crée une règle globale ou un ensemble de règles pour le scénario. Une carte environnement entre en jeu dans la zone de jeu du méchant, et est active tant qu'elle reste en jeu.<ul><li>Si un environnement entre en jeu, il y reste jusqu'à ce qu'une capacité de carte ou un effet de jeu le fasse quitter le jeu.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "event",
+        "term": "Evénement",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Un événement est un type de carte joueur qui est généralement joué pour un effet instantané. Chaque fois qu'un joueur joue une carte événement, il la place face visible sur la table devant lui (l'événement n'est pas en jeu), paie ses coûts, résout ses effets (à moins qu'ils ne soient annulés), puis place la carte dans la pile de défausse de son propriétaire.<ul><li>Si un événement a plus d'une capacité déclenchée, le joueur qui le joue choisit l'une de ces capacités à déclencher.</li><li>Si les effets d'un événement sont annulés, la carte est toujours considérée comme ayant été jouée et ses coûts restent payés.</li><li>Une carte événement ne peut pas être jouée si elle nécessite une ou plusieurs cibles et n'a pas au moins une cible valide.</li><li>Les cartes événement sont considérées comme une extension d'une identité. Les attaques, contres, défenses et capacités résolues par un joueur jouant un événement sont également considérées comme effectuées par l'identité de ce joueur.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "excess_damage",
+        "term": "Dégâts en excès",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Les dégâts en excès correspondent à toute quantité de dégâts infligée à un personnage au-delà des points de vie restants de ce personnage."
+            }
+        ]
+    },
+    {
+        "id": "exhausted",
+        "term": "Incliné",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Si une carte est inclinée, elle est pivotée de 90 degrés. Une carte inclinée ne peut pas être inclinée à nouveau tant qu'elle n'est pas redressée. La plupart des personnages doivent s'incliner pour attaquer, contrer, défendre ou récupérer.<ul><li>Une capacité de carte sur une carte inclinée est active et peut toujours interagir avec l'état du jeu. Cependant, si une carte inclinée doit s'incliner pour payer le coût d'utilisation de sa capacité, cette capacité ne peut pas être utilisée tant que la carte n'est pas redressée.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "expert_set",
+        "term": "Set Expert",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Le set expert est un set de rencontre qui est ajouté aux scénarios lors d'une partie en mode expert.<ul><li>Le set expert n'est pas un set de rencontre modulaire et ne peut pas être sélectionné (par les joueurs ou au hasard) lorsqu'un scénario demande d'inclure un set modulaire.</li><li>Les cartes de la classification « Expert » sont toutes les cartes portant le mot « Expert » imprimé au bas de la carte, dans la zone de nom du set de rencontre.</li></ul>"
+            }
+        ]
+    }
+]

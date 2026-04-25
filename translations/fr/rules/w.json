@@ -1,1 +1,68 @@
-[]
+[
+    {
+        "id": "when_completed_abilities",
+        "term": "Capacité \"une fois achevée\"",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Une capacité \"une fois achevée\" est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « Une fois achevée ». Lorsqu'une manigance principale est achevée, toutes les capacités « Une fois achevée » sur la carte se résolvent.",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "when_defeated_abilities",
+        "term": "Capacité une fois vaincu, déjouée",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Une capacité une fois vaincu/déjouée est un type de capacité déclenchée, indiquée par le déclencheur en gras « Une fois vaincu » ou « Une fois déjouée ».<ul><li>Lorsqu'un stade de méchant, une manigance annexe, un stade de manigance principale, un allié ou un sbire est vaincu ou déjoué, toutes les capacités « Une fois vaincu/déjouée » sur la carte se résolvent.</li><li>Une carte vaincue quitte le jeu après la résolution de sa capacité « Une fois vaincu/déjouée », le cas échéant.</li></ul>",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "when_revealed_abilities",
+        "term": "Capacité une fois révélée",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Une capacité une fois révélée est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « Une fois révélée ». Lorsqu'un joueur révèle une carte du deck rencontre, un nouveau stade de manigance ou un nouveau stade de méchant, toutes les capacités « Une fois révélée » sur la carte se résolvent.<ul><li>Si une carte rencontre avec une capacité « Une fois révélée » entre en jeu pendant la mise en place, résolvez cette capacité pendant l'étape « Résoudre la Mise en Place du Scénario et les Capacités Une Fois Révélées ».</li><li>Si une carte rencontre avec une capacité « Une fois révélée » est mise en jeu sans être révélée, la capacité « Une fois révélée » ne se déclenche pas.</li><li>Les capacités « Une fois révélée » sur les cartes méchant et manigance principale ne peuvent pas être annulées.</li></ul>",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "wild_resource",
+        "term": "Ressource Libre",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Une ressource libre (<span class=\"icon-wild\"></span>) est l'un des quatre types de ressources.<ul><li>Les ressources libres peuvent être dépensées pour payer le coût en ressources des cartes et des capacités. Lorsqu'un joueur génère une ressource libre, il peut spécifier comme quel type de ressource (énergie, mentale, physique ou libre) elle est utilisée. Lorsqu'une carte qui génère une ressource libre voit ses ressources doublées, chacune de ses ressources libres peut être déclarée comme un type différent.</li><li>Certaines capacités de carte nécessitent spécifiquement que des ressources libres soient dépensées pour résoudre leurs effets.</li><li>Lorsque les ressources ne sont pas générées pour un coût, une ressource libre n'a aucune caractéristique autre que « ressource libre ». Dans de tels contextes, les ressources libres ne peuvent être interprétées comme aucun des autres types de ressources.</li></ul>",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "winning_the_game",
+        "term": "Gagner la Partie",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Si le stade final du méchant est vaincu, les joueurs gagnent la partie. Si le stade final du deck manigance principale est achevé, le méchant gagne la partie.<ul><li>Certains scénarios ont des conditions de victoire ou de défaite alternatives. Si ces conditions sont remplies, les joueurs gagnent ou perdent en conséquence. Les conditions de victoire ou de défaite alternatives ne peuvent pas être effacées ou annulées.</li></ul>",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "would",
+        "term": "\"Est censé\"",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "L'expression « est censé » (ou « devrait ») est utilisée pour définir la condition de déclenchement de certaines capacités d'interruption, et établit une priorité de timing plus élevée pour ces capacités par rapport aux interruptions pour la même condition de déclenchement sans cette expression.<ul><li>Si une interruption à une condition de déclenchement qui devrait se produire modifie la nature de ce qui est sur le point de se produire (comme par un effet de remplacement), aucune autre interruption au déclencheur d'origine ne peut être utilisée puisque la résolution de ce déclencheur n'est plus valide. Par exemple, une interruption qui stipule « quand un personnage est censé être vaincu » se déclenche avant une interruption qui stipule « quand un personnage est vaincu ».</li></ul>",
+                "whats_new": ""
+            }
+        ]
+    }
+]

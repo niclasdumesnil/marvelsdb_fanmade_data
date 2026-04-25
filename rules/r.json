@@ -2,83 +2,368 @@
 	{
 		"id": "ranged",
 		"term": "Ranged",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Ranged is a keyword. An attack with the ranged keyword ignores the retaliate keyword. The character with retaliate does not deal damage back to the attacker."
+				"content": "An attack with the ranged keyword ignores the retaliate keyword.",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"attack_enemy_activation",
+			"attack_player_ability_type",
+			"keywords",
+			"reminder_text",
+			"retaliate_x"
 		]
 	},
 	{
 		"id": "ready",
 		"term": "Ready",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A card that is in an upright state is ready. Ready cards can be exhausted to pay costs or trigger abilities. When a player readies a card, they rotate it from an exhausted (horizontal) state to a ready (upright) state."
+				"content": "Cards enter play in a ready state, positioned so that their controller can read their text from left to right.<ul><li>If a player is instructed to ready an exhausted card, the card is returned to its ready state. If there is an additional cost for a player to ready a card, that player can choose not to pay that cost. If they do not pay the cost, the card does not ready.</li></ul>",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"enters_play",
+			"exhausted"
+		]
+	},
+	{
+		"id": "rec",
+		"term": "REC",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Basic Power, Recover",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"basic_power",
+			"recover"
 		]
 	},
 	{
 		"id": "recover",
 		"term": "Recover",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Recover is a basic power. A player can exhaust their alter-ego to recover. When an alter-ego recovers, it heals damage equal to its REC (recovery) value."
+				"content": "Recover is a basic power a player can use in alter-ego form. To recover, the player exhausts their alter-ego and heals a number of hit points equal to their REC value.<ul><li>An identity that has no damage to heal cannot perform a basic recovery.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"basic_power",
+			"form_change_form",
+			"heal",
+			"hit_points_hp",
+			"identity"
+		]
+	},
+	{
+		"id": "referential_ability",
+		"term": "Referential Ability",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Some abilities refer to specific cards by name. These are called referential abilities. If an ability refers to a title shared by multiple cards in the game, that ability refers only to the card(s) that match the criteria highest in this list:<red><ol><li>The card on which the referential ability is printed. Such an ability is a self-referential ability.</li><li>Cards that belong to the same identity.</li><li>Player cards (if the ability is on a player card) or encounter cards (if the ability is on an encounter card).</li></ol></red>",
+				"whats_new": "Complete revision of the interpretation of referential abilities. Clarification on the distinction between a card that names itself (self-referential) and a card that targets other copies with the same name."
+			}
+		],
+		"see_also": [
+			"ability",
+			"character",
+			"classifications",
+			"identity",
+			"identity_specific_card"
+		]
+	},
+	{
+		"id": "remaining_hit_points",
+		"term": "Remaining Hit Points",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A character’s remaining hit points is the amount of damage that character can take before reaching zero hit points.<ul><li>An identity’s or villain’s hit point dial represents their remaining hit points.</li><li>To calculate remaining hit points for an ally or minion, start with the character’s maximum hit points (as indicated by its printed value modified by any card abilities or game effects), and subtract their sustained damage (the number of damage counters on them).</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"hit_points_hp",
+			"identity",
+			"sustained_damage",
+			"villain"
+		]
+	},
+	{
+		"id": "reminder_text",
+		"term": "Reminder Text",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Some card abilities may include reminder text. Reminder text is italicized and in parentheses (like this). Reminder text has no effect on the game and is only intended to remind a player of a specific game function or rule.",
+				"whats_new": ""
 			}
 		]
 	},
 	{
-		"id": "referential_abilities",
-		"term": "Referential Abilities",
+		"id": "removed_from_the_game",
+		"term": "Removed from the Game",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Some abilities refer to other cards by title, trait, or other characteristics. A card that refers to its own title refers only to itself, unless the ability uses the phrase 'a [name] card'. References to traits work similarly to encompass all cards sharing that trait."
+				"content": "A card that has been removed from the game is set aside and does not interact with the game in any manner for the duration of its removal. If there is no specified duration, a card that has been removed from the game is considered removed until the end of the game.<ul><li>“Removed from the game” is an out-of-play state.</li></ul>",
+				"whats_new": ""
 			}
 		],
-		"whats_new": [
+		"see_also": [
+			"in_play_and_out_of_play",
+			"leaves_play"
+		]
+	},
+	{
+		"id": "replacement_effect",
+		"term": "Replacement Effect",
+		"type": "official",
+		"versions": [
 			{
 				"version": "1.7",
-				"diff": "Complete revision of the interpretation of referential abilities. Clarification on the distinction between a card that names itself (self-referential) and a card that targets other copies with the same name."
+				"content": "A replacement effect replaces a specified effect with a different effect. Most replacement effects are interrupt abilities in the format of “when [triggering condition] would happen, do [replacement effect] instead.”<ul><li>When an effect is replaced, it is no longer considered imminent and no further interrupts or responses to that effect can be triggered.</li></ul>",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"ability",
+			"alteration_effect",
+			"cancel",
+			"interrupt",
+			"otherwise",
+			"triggered_ability",
+			"would"
+		]
+	},
+	{
+		"id": "requirement_resources",
+		"term": "Requirement (Resources)",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A card with the requirement keyword cannot be played unless each resource of the specified type is spent while paying for that card’s cost.<ul><li>A card with the requirement keyword cannot be played “ignoring its resource cost” because the required resources cannot be paid for it.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"cost",
+			"initiating_abilities",
+			"keywords",
+			"resource"
 		]
 	},
 	{
 		"id": "resource",
 		"term": "Resource",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Resources are used to pay the cost to play cards and trigger abilities. The four types of resources are energy, mental, physical, and wild. A wild resource can be used as any of the other three types."
-			}
-		]
-	},
-	{
-		"id": "retaliate",
-		"term": "Retaliate",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "Retaliate X is a keyword. After a character with the retaliate X keyword is attacked, deal X damage to the attacker. The character with retaliate must survive the attack to deal this damage."
-			}
-		]
-	},
-	{
-		"id": "revealing_cards",
-		"term": "Revealing Cards",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "Revealing a card is the process of turning a facedown card faceup or revealing a card from the top of a deck. When an encounter card is revealed, its 'When Revealed' abilities trigger immediately. Encounter cards are revealed using a strict stepwise process."
+				"content": "Resources are used to pay the cost to play cards and to pay certain ability costs.<ul><li>A player can generate resources to pay a cost by discarding cards from their hand to generate the resource or resources indicated at the bottom-left corner of the card, or by using card abilities that generate resources.</li><li>There are four types of resources in the game: energy, mental, physical, and wild. Wild resources can be used as their type or any of the other types.</li><li>To pay the cost of playing a card, a number of resources equal to (or greater than) the card’s cost must be generated. For most cards, any type (or mix of types) of resources can be used to pay this cost.</li><li>If an ability has a resource cost, a number of resources equal to or greater than this cost must be generated. Many abilities require specific resource types, and the specified types in the specified quantities must be generated in order to pay the cost of the ability.</li><li>Excess resources generated toward any cost are lost, and do not carry over to future costs.</li></ul>",
+				"whats_new": ""
 			}
 		],
-		"whats_new": [
+		"see_also": [
+			"cost",
+			"energy_resource",
+			"icons",
+			"mental_resource",
+			"physical_resource",
+			"wild_resource"
+		]
+	},
+	{
+		"id": "resource_ability",
+		"term": "Resource Ability",
+		"type": "official",
+		"versions": [
 			{
 				"version": "1.7",
-				"diff": "Added a strict stepwise process for revealing encounter cards to properly resolve timing conflicts for interrupts and responses."
+				"content": "A resource ability is a type of triggered ability, indicated by the bold “Resource” timing trigger.<ul><li>A resource ability can be triggered anytime the player who controls the ability is generating resources to pay a cost. A resource ability that generates a resource only for a specific type of cost cannot be triggered when paying a cost not of that type. (For example, a resource ability that generates a resource for an aspect card cannot be triggered when paying for a non-aspect card.)</li></ul>",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"cost",
+			"resource",
+			"triggered_ability"
+		]
+	},
+	{
+		"id": "resource_card",
+		"term": "Resource Card",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Resource cards are a player card type. Their primary function is to be discarded from a player’s hand to generate resources. These cards generally provide more (or more efficient) resources than other card types when they are discarded from a player’s hand to generate resources.<ul><li>Some resource cards have card text that is active while using the card to generate resources.</li><li>Resource cards are considered to be an extension of an identity. If a player spends a resource, that resource is also considered to be spent by that player’s identity.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"card_types",
+			"energy_resource",
+			"enters_play",
+			"icons",
+			"identity",
+			"leaves_play",
+			"mental_resource",
+			"physical_resource",
+			"player",
+			"player_card",
+			"resource",
+			"wild_resource"
+		]
+	},
+	{
+		"id": "response",
+		"term": "Response",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A response ability is a type of triggered ability, indicated by the bold “Response” timing trigger. Response abilities may be executed after the specified triggering condition occurs, as described in the response’s ability text.<ul><li>Players can only trigger response abilities on cards they control or on encounter cards. Players cannot trigger response abilities on obligations in other players’ play areas.</li><li>Multiple responses may be executed from the same triggering condition, but each response may only be triggered once per occurrence of the triggering condition. Multiple copies of a card with a response can each be triggered by the same triggering condition.</li><li>If single effect causes multiple triggering conditions to occur, responses to each of those triggering conditions can be resolved in any order.</li><li>Once all players decide they do not wish to resolve any (further) responses to a triggering condition, (further) responses to that instance of that triggering condition cannot be used.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"ability",
+			"triggered_ability",
+			"triggering_condition"
+		]
+	},
+	{
+		"id": "restricted",
+		"term": "Restricted",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A player cannot have more than two cards with the restricted keyword in play under their control at the same time. A player can play or put into play a restricted card even if they already control two restricted cards. However, if a player ever controls more than two restricted cards in play, they must immediately choose and discard from play restricted cards they control until they have only two in play.",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"discard",
+			"keywords",
+			"ownership_and_control",
+			"player",
+			"reminder_text"
+		]
+	},
+	{
+		"id": "retaliate_x",
+		"term": "Retaliate X",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "After a character with the retaliate X keyword is attacked, deal X damage to the attacker. (X is the value next to the retaliate keyword.)<ul><li>The character with retaliate X must be in play after the attack resolves to deal this damage.</li><li>The order of resolution for abilities surrounding the retaliate keyword is as follows: 1. Abilities that trigger “after [character] takes any amount of damage...” 2. Retaliate X 3. Abilities that trigger “after [character] is attacked...” or “after [character] attacks [and damages/defeats]...”</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"ally",
+			"attack_enemy_activation",
+			"attack_player_ability_type",
+			"damage",
+			"identity",
+			"keywords",
+			"minion",
+			"reminder_text",
+			"villain"
+		]
+	},
+	{
+		"id": "reveal",
+		"term": "Reveal",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "During step four of the villain phase, each player (in player order) reveals and resolves all facedown encounter cards that have been dealt to them, one card at a time in the order in which they were dealt. To reveal an encounter card, follow these steps:<red><ol><li>Turn the encounter card faceup.</li><li>If the encounter card’s type is:<ul><li>Attachment: It enters play attached to the game element specified in its text.</li><li>Environment: It enters play in the villain’s play area.</li><li>Minion: It enters play in the play area of the player revealing it. It is considered to engage that player.</li><li>Obligation: It enters play in the play area of the player revealing it. If the card specifies a player to give it to, that player is considered to be revealing it.</li><li>Side scheme: It enters play in the villain’s play area.</li><li>Treachery: Place it on the table in front of the player revealing it. (It is not in play.)</li><li>Other: Place it on the table in front of the player revealing it. (It is not in play.)</li></ul></li><li>Resolve each “When Revealed” ability on that card (including those provided by keywords).</li><li>If the card is a treachery, discard it.</li></ol></red>If a player is instructed by card text to reveal an encounter card from the encounter deck or any other game area, this same resolution procedure applies.",
+				"whats_new": "Added a strict stepwise process for revealing encounter cards to properly resolve timing conflicts for interrupts and responses."
+			}
+		],
+		"see_also": [
+			"attachment",
+			"choose_game_element",
+			"choosing_an_option",
+			"deal",
+			"encounter_card",
+			"enters_play",
+			"environment",
+			"in_player_order",
+			"minion",
+			"obligation",
+			"player",
+			"side_scheme",
+			"treachery",
+			"villain_phase"
+		]
+	},
+	{
+		"id": "rookie_mode",
+		"term": "Rookie Mode",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Modes of Play",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"modes_of_play"
+		]
+	},
+	{
+		"id": "round_overview",
+		"term": "Round Overview",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Overview - Round Overview",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "running_out_of_cards",
+		"term": "Running Out of Cards",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Encounter Deck, Player Deck",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"encounter_deck",
+			"player_deck"
 		]
 	}
 ]

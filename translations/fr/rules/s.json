@@ -1,1 +1,310 @@
-[]
+[
+	{
+		"id": "scenario_specific_card",
+		"term": "Cartes spécifiques au scénario",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les cartes de la classification « spécifique au scénario » sont des cartes qui appartiennent au set de cartes d'accompagnement d'un scénario.<ul><li>Un scénario doit inclure chaque carte spécifique au scénario associée à ce scénario. La quantité exacte de chaque carte dans ce set est déterminée par le scénario.</li><li>Dans la plupart des scénarios, les cartes spécifiques au scénario sont réparties en trois decks : le deck méchant, le deck manigance principale et le deck rencontre.</li><li>Une carte spécifique au scénario est désignée par le nom du scénario auquel elle est associée, imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "sch",
+		"term": "MNG",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Pouvoir de Base, Manigance (activation des ennemis)",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "scheme_card_type",
+		"term": "Manigance (type de carte)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le mot « manigance » désigne trois types de cartes différents : les manigances principales, les manigances annexes de joueur et les manigances annexes.<ul><li>Si une capacité de carte place de la menace ou retire de la menace d'« une manigance », le joueur résolvant cette capacité choisit quelle manigance — principale ou annexe — cette capacité affecte.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "scheme_enemy_activation",
+		"term": "Manigance (activation des ennemis)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une manigance est un type d'activation des ennemis. Si un ennemi reçoit l'instruction de manigancer, suivez ces étapes :<ol><li>Si un méchant, ou un sbire avec le mot-clé vilenie, manigance, donnez-lui une carte de boost face cachée du deck rencontre. (Si un sbire sans le mot-clé vilenie manigance, ignorez cette étape.)</li><li>Résolvez chacune des cartes de boost de l'ennemi qui manigance, une par une et dans l'ordre où elles ont été distribuées, en faisant ce qui suit : a. Retournez la carte de boost face visible. b. Résolvez toutes les capacités « Boost », indiquées par l'icône d'étoile dans la zone de boost. c. Augmentez la valeur de MNG de l'ennemi qui manigance de un pour chaque icône de boost sur la carte. d. Défaussez la carte de boost. e. Si l'ennemi a encore des cartes de boost, répétez ces étapes avec la carte de boost suivante.</li><li>Placez une quantité de menace sur la manigance principale égale à la valeur modifiée de MNG de l'ennemi qui manigance.</li></ol>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "search",
+		"term": "Chercher",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lorsqu'un joueur reçoit l'instruction de chercher une carte, il est autorisé à regarder chacune des cartes dans la zone fouillée.<ul><li>Si le joueur trouve une carte qui satisfait aux critères de la recherche, il ajoute cette carte à la zone de jeu indiquée par les instructions sur l'effet de recherche.</li><li>Si un joueur trouve plusieurs cartes qui satisfont aux critères d'une recherche, le joueur choisit parmi ces options.</li><li>Les cartes fouillées ne sont pas considérées comme quittant la zone fouillée.</li><li>Si une partie quelconque d'un deck est fouillée, à la fin de cette étape de jeu, fonction de jeu ou capacité de carte, mélangez entièrement ce deck.</li><li>Si un joueur reçoit l'instruction de « chercher dans [sa] collection » une carte, le joueur cherche parmi toutes ses cartes Marvel Champions en dehors de la partie en cours la carte spécifiée. Il devient le propriétaire de cette carte jusqu'à la fin de la partie.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "self_referential",
+		"term": "Auto-Référentiel",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Capacité référentielle",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "set_aside",
+		"term": "Mettre de Côté, Mis de Côté",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certaines étapes de jeu ou capacités de carte demandent aux joueurs de mettre de côté des cartes spécifiques. Les cartes mises de côté sont hors jeu et n'ont aucune interaction avec le jeu jusqu'à ce qu'elles soient référencées par des instructions du scénario ou par une capacité de carte.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "set_icon",
+		"term": "Icône de Set",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "L'icône de set est un indicateur sur une carte de l'origine du produit de cette carte, situé dans les informations de collection de la carte au bas de la carte.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "setup",
+		"term": "Mise en place",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "La mise en place est le processus de préparation de la partie avant que le premier round ne commence. Il comprend la sélection des identités, le réglage des points de vie, le choix du premier joueur, la mise de côté des obligations et des sets némésis, le mélange des decks joueurs, la collecte des jetons/cartes d'état, la sélection du scénario, le réglage des points de vie du méchant, la création du deck rencontre, la mise en jeu des cartes de mise en place, la résolution de la mise en place du scénario et des capacités « une fois révélées », la mise en place de la campagne, la pioche des cartes, la résolution des mulligans, et la résolution des capacités de mise en place des personnages.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "setup_keyword",
+		"term": "Mise en Place (Mot-Clé)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une carte avec le mot-clé mise en place commence la partie en jeu.<ul><li>Les cartes avec le mot-clé mise en place sont mises en jeu lors de l'étape « Mettre les Cartes de Mise en Place en Jeu » de la mise en place.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "setup_triggered_ability",
+		"term": "Mise en Place (Capacité Déclenchée)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "« Mise en place » est un type de capacité déclenchée qui se résout pendant la mise en place.<ul><li>Les capacités de mise en place sont obligatoires.</li><li>Les capacités de mise en place sur les cartes rencontre sont résolues pendant l'étape « Résoudre la Mise en Place du Scénario et les Capacités Une Fois Révélées » de la mise en place.</li><li>Les capacités de mise en place sur les cartes joueur sont résolues pendant l'étape « Résoudre les Capacités de Mise en Place des Personnages » de la mise en place.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "shuffle",
+		"term": "Mélanger",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Mélanger est la fonction de jeu consistant à rendre aléatoire le contenu d'un deck.<ul><li>Si un joueur reçoit l'instruction de mélanger un deck, ce deck doit être rendu aléatoire au point qu'aucun joueur de la partie ne puisse déterminer l'ordre des cartes dans ce deck.</li><li>À chaque fois qu'un deck est fouillé (action chercher) par une étape de jeu ou une capacité de carte, ce deck est mélangé après que l'étape de jeu ou la capacité de carte a terminé sa résolution.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "side_scheme",
+		"term": "Manigance Annexe",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "La manigance annexe est un type de carte rencontre qui représente des obstacles et des distractions supplémentaires auxquels les héros sont confrontés. Si une manigance annexe est révélée, elle entre en jeu et est placée à côté du deck manigance principale dans la zone de jeu du méchant.<ul><li>Chaque manigance annexe entre en jeu avec une quantité de menace sur elle égale à la valeur de menace de départ de la carte (indiquée au bas de la carte).</li><li>Une manigance annexe reste en jeu jusqu'à ce qu'il n'y ait plus de menace sur elle (ce qui la fait être déjouée et défaussée), ou jusqu'à ce qu'une capacité de carte la retire du jeu.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "simultaneous_resolution",
+		"term": "Résolution simultanée",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Si deux effets (ou plus) avec le même déclencheur de timing en gras devraient se résoudre simultanément, le premier joueur détermine l'ordre dans lequel les effets se résolvent.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "skirmish_mode",
+		"term": "Mode Escarmouche",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Modes de Jeu",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "special",
+		"term": "Spécial",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une capacité spéciale est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « Spécial ». Les capacités spéciales ne peuvent être exécutées que par l'instruction explicite d'une autre capacité de carte.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "stalwart",
+		"term": "Robuste",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Un personnage qui possède le mot-clé robuste ne peut pas être sonné ni désorienté.<ul><li>Si un personnage gagne le mot-clé robuste alors qu'il possède une carte d'état sonné et/ou désorienté, chaque carte d'état sonné et/ou désorienté est retirée de ce personnage.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "standard_mode",
+		"term": "Mode Standard",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Modes de Jeu",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "standard_set",
+		"term": "Set standard",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le set standard est un set de rencontre qui est ajouté à la plupart des scénarios.<ul><li>Le set standard n'est pas un set de rencontre modulaire et ne peut pas être sélectionné (par les joueurs ou au hasard) lorsqu'un scénario demande aux joueurs de choisir un set de rencontre modulaire à inclure dans ce scénario.</li><li>Les cartes de la classification « Standard » sont toutes les cartes qui ont le mot « Standard » imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "star_icon",
+		"term": "Icône d'Étoile",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une icône d'étoile (<span class=\"icon-star\"></span>) est utilisée conjointement avec la statistique d'une carte ou la zone de boost pour indiquer qu'il y a une capacité obligatoire dans la boîte de texte qui correspond à ce champ. En soi, l'icône d'étoile n'a aucun effet ; c'est simplement un rappel de vérifier la boîte de texte de la carte à chaque fois que ce champ est utilisé.<ul><li>Si une icône d'étoile est située à côté de la valeur ATQ ou MNG d'un ennemi, l'icône sert de rappel pour vérifier la boîte de texte de cet ennemi à chaque fois que cet ennemi utilise cette valeur pour attaquer ou manigancer.</li><li>Si une icône d'étoile est située dans le champ ATQ ou MNG d'un attachement, l'icône sert de rappel pour vérifier la boîte de texte de cet attachement à chaque fois que l'ennemi attaché utilise la valeur modifiée par ce champ pour attaquer ou manigancer.</li><li>Si une icône d'étoile est située à côté de la valeur ATQ ou CTR d'un allié, l'icône sert de rappel pour vérifier la boîte de texte de cet allié à chaque fois qu'il utilise cette valeur pour attaquer ou contrer.</li><li>Si une icône d'étoile est située à côté de la valeur ATQ, CTR ou DEF d'un héros, ou à côté de la valeur REC d'un alter ego, l'icône sert de rappel pour vérifier la boîte de texte de ce personnage à chaque fois qu'il utilise cette valeur.</li><li>Si une étape de jeu ou une capacité fait référence à un pouvoir avec la valeur étoile (<span class=\"icon-star\"></span>), cette valeur est traitée comme étant 0.</li><li>Si une icône d'étoile est située dans la zone de boost d'une carte rencontre, l'icône sert de rappel pour vérifier la boîte de texte de cette carte à chaque fois que cette carte est retournée face visible comme carte de boost pendant l'activation du méchant.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "status_cards",
+		"term": "Cartes d'état",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les cartes d'état représentent différents états dans lesquels un personnage peut se trouver pendant la partie. Lorsqu'un personnage reçoit une carte d'état, prenez une carte d'état du type spécifié dans la réserve et placez-la sur ce personnage.<ul><li>Un personnage ne peut pas avoir plus d'une carte d'état de chaque type à la fois. Les personnages avec le mot-clé solide peuvent avoir une carte d'état désorienté supplémentaire et une carte d'état sonné supplémentaire.</li><li>Les capacités des cartes d'état ont priorité sur toutes les capacités déclenchées conflictuelles.</li><li>Les trois types de cartes d'état sont : <b>Désorienté</b> (annule le prochain contre ou la prochaine manigance d'un personnage), <b>Sonné</b> (annule la prochaine attaque d'un personnage), et <b>Tenace</b> (prévient les dégâts que le personnage prend).</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "steady",
+		"term": "Solide",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Un personnage avec le mot-clé solide peut avoir une carte d'état sonné supplémentaire et une carte d'état désorienté supplémentaire. Ce personnage n'est pas sonné à moins qu'il n'ait deux cartes d'état sonné, et n'est pas désorienté à moins qu'il n'ait deux cartes d'état désorienté.<ul><li>Après que l'attaque, la manigance ou le contre de ce personnage est annulé par un effet de carte d'état, retirez toutes les cartes d'état du type correspondant de ce personnage.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "stun_stunned",
+		"term": "Sonner, sonné",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Sonné est un état qui annule la prochaine attaque d'un personnage.<ul><li>Si une capacité « sonne » un personnage, donnez-lui une carte d'état sonné.</li><li>Un personnage est sonné s'il a une carte d'état sonné. Un personnage avec le mot-clé solide n'est sonné que s'il a deux cartes d'état sonné.</li><li>Si un personnage a une capacité indiquant qu'il « ne peut pas être sonné », les cartes d'état sonné ne peuvent pas être placées sur ce personnage.</li><li>Si une identité ou un allié sonné tente d'attaquer ou d'utiliser une capacité d'attaque, défaussez la carte sonné à la place. Les coûts associés à la tentative d'attaque, y compris l'inclinaison du personnage, doivent tout de même être payés.</li><li>Un personnage sonné peut tenter d'attaquer ou d'utiliser une capacité d'attaque même s'il n'a pas de cible valide pour une attaque.</li><li>Si un méchant ou un sbire sonné devait attaquer, défaussez la carte d'état sonné à la place.</li><li>Comme l'action d'attaque ou l'activation d'attaque a été remplacée par le retrait de la carte d'état sonné, ce personnage n'est pas considéré comme ayant attaqué.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "subtitle",
+		"term": "Sous-Titre",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certaines cartes allié ont un sous-titre sous le titre. Un sous-titre représente un alias alternatif qu'un personnage utilise parfois.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "support",
+		"term": "Soutien",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Soutien est un type de carte joueur qui représente des lieux, des soutiens de l'arrière-garde ou des amis, et d'autres éléments en coulisses dont un héros ou un alter ego pourrait disposer.<ul><li>Les cartes soutien entrent en jeu dans la rangée arrière de la zone de jeu d'un joueur.</li><li>Une carte soutien est active tant qu'elle est en jeu, et elle reste en jeu jusqu'à ce qu'une capacité de carte la fasse quitter le jeu.</li><li>Les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent à partir de soutiens en jeu sous le contrôle d'un joueur ne sont pas considérés comme étant effectués par l'identité de ce joueur.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "surge",
+		"term": "Renfort",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Après qu'une carte rencontre avec ce mot-clé est révélée, le joueur qui résout la carte révèle une carte rencontre supplémentaire du dessus du deck rencontre.<ul><li>Terminez le processus de résolution de la carte originale, ainsi que de toute capacité de réponse déclenchée par la révélation de cette carte, avant de révéler la carte supplémentaire.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "sustained_damage",
+		"term": "Dégâts Subis",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les dégâts subis font référence à la différence entre les points de vie maximums d'un personnage et ses points de vie restants.<ul><li>Pour calculer les dégâts subis par une identité ou un méchant (en utilisant un cadran de points de vie), prenez les points de vie maximums du personnage (indiqués par sa valeur imprimée modifiée par toute capacité ou effet de jeu) et soustrayez ses points de vie restants (indiqués par le cadran).</li><li>Les dégâts subis par un allié ou un sbire sont égaux à la valeur totale de tous les jetons dégât sur la carte.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "swap",
+		"term": "Echanger",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une instruction « d'échanger » deux composants signifie échanger l'emplacement de ces deux composants.<ul><li>Un échange ne peut pas être effectué s'il n'y a pas un composant dans les deux emplacements.</li><li>L'échange d'une carte en main avec la carte du dessus d'un deck n'est pas considéré comme piocher cette carte.</li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes <b>partagent un titre</b>, aucune des cartes n'est considérée comme entrant ou quittant le jeu. Les jetons, cartes attachées, cartes glissées dessous et cartes d'état sur la carte précédemment en jeu sont transférés à l'autre carte, et l'autre carte conserve l'état (redressé ou incliné) de la carte précédemment en jeu. Si la carte échangée a un cadran de points de vie associé, ce cadran reste à la même valeur.</li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes <b>ne partagent pas de titre</b>, la carte en jeu est considérée comme quittant le jeu et la carte hors jeu est considérée comme entrant en jeu. Les jetons, cartes attachées, cartes glissées et cartes d'état sur la carte précédemment en jeu ne sont pas transférés à l'autre carte, et l'autre carte entre en jeu redressée. Si la carte échangée a un cadran de points de vie associé, ce cadran est réinitialisé à la valeur de points de vie imprimée de la nouvelle carte.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	}
+]

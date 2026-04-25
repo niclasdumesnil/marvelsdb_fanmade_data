@@ -2,26 +2,77 @@
 	{
 		"id": "damage",
 		"term": "Damage",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
 				"content": "Damage reduces a character's hit points. Damage can be dealt by attacks or by card abilities. When a character takes damage, their hit points are reduced by the specified amount. If a character's hit points are reduced to 0, they are defeated."
+			}
+		],
+		"see_also": [
+			"defeat",
+			"hit_points"
+		]
+	},
+	{
+		"id": "dash_value",
+		"term": "Dash (Value)",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A value presented as a dash (–) indicates that value cannot be used.<ul><li>If a card has a dash (–) as its cost value, that card cannot be played and can only enter play through other means.</li><li>If a character’s power (ATK, DEF, REC, SCH, and THW) has a dash (–) as the value, the character cannot exhaust to use that power.</li><li>If a game step or card ability references a value of dash (–), that value is treated as an unmodifiable 0.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "deal",
+		"term": "Deal, Deal an Encounter Card",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "During step three of the villain phase, each player is dealt one facedown encounter card. If a card ability instructs a player to be dealt an encounter card, the player takes the top card of the encounter deck and places it facedown in front of them. This card is not revealed at this time. This card is added to the queue of cards that player resolves during the villain phase.",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"encounter_card",
+			"villain_phase"
+		]
+	},
+	{
+		"id": "deck",
+		"term": "Deck",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "There are four main types of decks that appear in a game: the player deck, the encounter deck, the villain deck, and the main scheme deck. Certain identities or scenarios may add other decks to the game.<ul><li>The order of cards within a deck cannot be altered unless a player is instructed to do so by a game step, game function, or card ability.</li></ul>",
+				"whats_new": ""
 			}
 		]
 	},
 	{
 		"id": "defeat",
 		"term": "Defeat",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
 				"content": "When a character has 0 or fewer hit points, they are defeated. If a hero is defeated, that player is eliminated from the game. If a minion or ally is defeated, it is placed in the appropriate discard pile. If a villain stage is defeated, the villain advances to the next stage."
 			}
+		],
+		"see_also": [
+			"hit_points",
+			"player_elimination"
 		]
 	},
 	{
 		"id": "defend",
 		"term": "Defend",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
@@ -30,16 +81,81 @@
 		]
 	},
 	{
-		"id": "drain",
-		"term": "Drain",
+		"id": "delayed_effect",
+		"term": "Delayed Effects",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "<span class=\"lightblue\">Drain X is a keyword. When this keyword is triggered by a character, deal X damage to that character’s target. Then, if the target took that damage, heal X damage from the character who triggered drain.</span>"
+				"content": "Some abilities contain delayed effects. Such abilities specify a future timing point, or indicate a future condition that may arise, and dictate an effect that is to happen at that time.<ul><li>Delayed effects resolve automatically and immediately after their specified timing point or future condition occurs or becomes true, and before responses to that point or condition may be used. Delayed effects have the same timing priority as constant effects.</li><li>When a delayed effect resolves, it is not treated as a new triggered ability, even if the delayed effect was originally created by a triggered ability.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "discard",
+		"term": "Discard",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Discarding is the act of attempting to move a card from a non-discard-pile play area to a discard pile.<ul><li>If a player card is discarded, it is placed faceup on top of the owning player’s discard pile.</li><li>If an encounter card is discarded, it is placed faceup on top of the encounter discard pile.</li><li>If multiple cards are discarded from a player’s hand or from play by a singular effect, place those cards in the appropriate discard pile in any order.</li><li>If multiple cards are discarded from a deck by a singular effect, place those cards in the appropriate discard pile one at a time (without changing the order). These discards are considered simultaneous.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "discard_pile",
+		"term": "Discard Pile",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A discard pile is an out-of-play area that contains cards that have been discarded throughout the game.<ul><li>Each player has their own discard pile, and the encounter deck has its own discard pile.</li><li>Each discard pile is open information, and may be looked at by any player at any time.</li><li>The order of cards in a discard pile may not be changed unless a player is instructed to do so by a card ability.</li><li>Any ability that would shuffle a discard pile of zero cards back into a deck does not shuffle the deck.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "double_sided_card",
+		"term": "Double-Sided Card",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A card is double-sided if neither of its sides has a card back (player, villain, or encounter).<ul><li>When a double-sided card would enter an out-of-play area other than the victory display or set-aside area, it is removed from the game.</li><li>If a double-sided card has “Standard Mode Only” and “Expert Mode Only” sides, it is put into play with the “Expert Mode Only” side faceup if the players are playing expert mode. Otherwise, the card is put into play with the “Standard Mode Only” side faceup.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "drain",
+		"term": "Drain",
+		"type": "fanmade",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Drain X is a keyword. When this keyword is triggered by a character, deal X damage to that character’s target. Then, if the target took that damage, heal X damage from the character who triggered drain."
 			}
 		],
 		"see_also": [
 			"keyword"
+		]
+	},
+	{
+		"id": "draw",
+		"term": "Draw, Drawing Cards",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If a player is instructed to draw one or more cards, those cards are drawn from the top of their deck one at a time.<ul><li>Drawn cards are added to a player’s hand.</li><li>Each player’s hand size is checked at the end of the player phase. If a player has more cards in their hand than their hand size value at this time, they must choose and discard cards from hand until they are at their hand size.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"hand_size",
+			"player_deck"
 		]
 	}
 ]

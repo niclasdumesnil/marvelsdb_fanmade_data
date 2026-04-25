@@ -1,0 +1,17 @@
+[
+	{
+		"id": "x_value",
+		"term": "“X” (Value)",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Non-Numerical Variable",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"non_numerical_variable"
+		]
+	}
+]

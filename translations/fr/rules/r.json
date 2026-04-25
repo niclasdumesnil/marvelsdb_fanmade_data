@@ -1,1 +1,222 @@
-[]
+[
+	{
+		"id": "ranged",
+		"term": "A distance",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une attaque avec le mot-clé à distance ignore le mot-clé riposte X.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "ready",
+		"term": "Redressé",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les cartes entrent en jeu à l'état redressé, positionnées de façon à ce que leur contrôleur puisse lire leur texte de gauche à droite.<ul><li>Si un joueur reçoit l'instruction de redresser une carte inclinée, la carte retourne à son état redressé. S'il y a un coût supplémentaire pour redresser une carte, ce joueur peut choisir de ne pas le payer. S'il ne paie pas le coût, la carte ne se redresse pas.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "rec",
+		"term": "REC",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Pouvoir de Base, Récupération, récupérer",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "recover",
+		"term": "Récupération, récupérer",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "La récupération est un pouvoir de base qu'un joueur peut utiliser sous forme d'alter ego. Pour récupérer, le joueur incline son alter ego et soigne un nombre de points de vie égal à sa valeur de REC.<ul><li>Une identité qui n'a aucun dégât à soigner ne peut pas effectuer une récupération de base.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "referential_ability",
+		"term": "Capacité référentielle",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certaines capacités font référence à des cartes spécifiques par leur nom. Ce sont des capacités référentielles. Si une capacité fait référence à un titre partagé par plusieurs cartes dans le jeu, cette capacité ne fait référence qu'à la ou les cartes qui correspondent aux critères les plus élevés dans cette liste :<red><ol><li>La carte sur laquelle la capacité référentielle est imprimée. Une telle capacité est auto-référentielle.</li><li>Les cartes qui appartiennent à la même identité.</li><li>Les cartes joueur (si la capacité est sur une carte joueur) ou les cartes rencontre (si la capacité est sur une carte rencontre).</li></ol></red>",
+				"whats_new": "Révision complète de l'interprétation des capacités référentielles. Clarification de la distinction entre une carte qui se nomme elle-même (auto-référentielle) et une carte qui cible d'autres exemplaires ayant le même nom."
+			}
+		]
+	},
+	{
+		"id": "remaining_hit_points",
+		"term": "Points de Vie Restants",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les points de vie restants d'un personnage correspondent à la quantité de dégâts que ce personnage peut subir avant d'atteindre zéro point de vie.<ul><li>Le cadran de points de vie d'une identité ou d'un méchant représente ses points de vie restants.</li><li>Pour calculer les points de vie restants d'un allié ou d'un sbire, prenez les points de vie maximums du personnage (indiqués par sa valeur imprimée modifiée par toute capacité ou effet) et soustrayez ses dégâts subis (le nombre de jetons dégât sur lui).</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "reminder_text",
+		"term": "Texte de Rappel",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certaines capacités de carte peuvent inclure un texte de rappel. Le texte de rappel est en italique et entre parenthèses. Le texte de rappel n'a aucun effet sur le jeu et sert uniquement à rappeler à un joueur une fonction de jeu ou une règle spécifique.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "removed_from_the_game",
+		"term": "Retiré de la Partie",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une carte qui a été retirée de la partie est mise de côté et n'interagit en aucune façon avec la partie pendant la durée de son retrait. S'il n'y a pas de durée spécifiée, une carte retirée de la partie est considérée comme retirée jusqu'à la fin de la partie.<ul><li>« Retiré de la partie » est un état hors jeu.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "replacement_effect",
+		"term": "Effets de remplacement",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Un effet de remplacement remplace un effet spécifié par un effet différent. La plupart des effets de remplacement sont des capacités d'interruption au format « quand [condition de déclenchement] devrait se produire, faites [effet de remplacement] à la place. »<ul><li>Lorsqu'un effet est remplacé, il n'est plus considéré comme imminent et aucune autre interruption ou réponse à cet effet ne peut être déclenchée.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "requirement_resources",
+		"term": "Exigence (Ressources)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une carte avec le mot-clé exigence ne peut être jouée que si chaque ressource du type spécifié est dépensée lors du paiement de son coût.<ul><li>Une carte avec le mot-clé exigence ne peut pas être jouée « en ignorant son coût en ressources » car les ressources exigées ne peuvent pas être payées.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "resource",
+		"term": "Ressource",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les ressources sont utilisées pour payer le coût des cartes à jouer et de certaines capacités.<ul><li>Un joueur peut générer des ressources pour payer un coût en défaussant des cartes de sa main (les ressources générées sont indiquées dans le coin inférieur gauche de la carte), ou en utilisant des capacités générant des ressources.</li><li>Il y a quatre types de ressources dans le jeu : énergie, mentale, physique, et libre. Les ressources libres peuvent être utilisées comme leur propre type ou n'importe quel autre type.</li><li>Pour payer le coût d'une carte, un nombre de ressources égal (ou supérieur) à ce coût doit être généré. N'importe quel type de ressources peut être utilisé pour ce coût.</li><li>Si une capacité a un coût en ressources, le nombre de ressources doit être généré. De nombreuses capacités requièrent des types spécifiques, qui doivent être générés en quantité spécifiée.</li><li>Les ressources générées en excès sont perdues et ne sont pas reportées.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "resource_ability",
+		"term": "Ressource (capacité)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une capacité de ressource est un type de capacité déclenchée, indiquée par le déclencheur « Ressource ».<ul><li>Une capacité de ressource peut être déclenchée chaque fois que le joueur qui la contrôle génère des ressources pour payer un coût. Une capacité qui génère une ressource uniquement pour un type de coût spécifique ne peut pas être déclenchée lors du paiement d'un coût qui n'est pas de ce type.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "resource_card",
+		"term": "Ressource (carte)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les cartes ressource sont un type de carte joueur. Leur fonction principale est d'être défaussées de la main d'un joueur pour générer des ressources. Elles fournissent généralement plus de ressources (ou plus efficacement) que les autres types de cartes.<ul><li>Certaines cartes ressource ont un texte de carte actif lorsqu'elles sont utilisées pour générer des ressources.</li><li>Les cartes ressource sont considérées comme une extension d'une identité. Si un joueur dépense une ressource, celle-ci est également considérée comme dépensée par l'identité de ce joueur.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "response",
+		"term": "Réponse",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une capacité de réponse est un type de capacité déclenchée, indiquée par le déclencheur en gras « Réponse ». Elles peuvent être exécutées après que la condition de déclenchement spécifiée se produit.<ul><li>Les joueurs ne peuvent déclencher des capacités de réponse que sur les cartes qu'ils contrôlent ou sur les cartes rencontre.</li><li>Plusieurs réponses peuvent être exécutées à partir de la même condition de déclenchement, mais chaque réponse ne peut être déclenchée qu'une seule fois par occurrence.</li><li>Si un seul effet provoque plusieurs conditions de déclenchement, les réponses à chacune de ces conditions peuvent être résolues dans n'importe quel ordre.</li><li>Une fois que tous les joueurs décident de ne plus résoudre de réponses, plus aucune réponse à cette instance ne peut être utilisée.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "restricted",
+		"term": "Restreint",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Un joueur ne peut pas avoir plus de deux cartes avec le mot-clé restreint en jeu sous son contrôle en même temps. Il peut jouer ou mettre en jeu une carte restreinte même s'il en contrôle déjà deux. Cependant, si un joueur contrôle plus de deux cartes restreintes en jeu, il doit immédiatement choisir et défausser de sa zone de jeu des cartes restreintes jusqu'à n'en avoir plus que deux en jeu.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "retaliate_x",
+		"term": "Riposte X",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Après qu'un personnage avec le mot-clé riposte X a été attaqué, infligez X dégâts à l'attaquant. (X est la valeur à côté du mot-clé riposte.)<ul><li>Le personnage avec riposte X doit être en jeu après la résolution de l'attaque pour infliger ces dégâts.</li><li>L'ordre de résolution des capacités autour du mot-clé riposte est le suivant : 1. Les capacités qui se déclenchent « après que [personnage] subit des dégâts... » 2. Riposte X 3. Les capacités qui se déclenchent « après que [personnage] est attaqué... » ou « après que [personnage] attaque [et blesse/vainc]... »</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "reveal",
+		"term": "Révéler",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Pendant l'étape quatre de la phase du méchant, chaque joueur révèle et résout toutes les cartes rencontre face cachée qui lui ont été distribuées, une par une. Pour révéler une carte rencontre, suivez ces étapes :<red><ol><li>Retournez la carte rencontre face visible.</li><li>Selon le type de la carte rencontre :<ul><li>Attachement : Il entre en jeu attaché à l'élément de jeu spécifié.</li><li>Environnement : Il entre en jeu dans la zone de jeu du méchant.</li><li>Sbire : Il entre en jeu dans la zone du joueur qui le révèle, et l'engage.</li><li>Obligation : Elle entre en jeu dans la zone du joueur qui la révèle. Si elle spécifie un joueur, ce joueur est considéré comme la révélant.</li><li>Manigance annexe : Elle entre en jeu dans la zone du méchant.</li><li>Traîtrise : Placez-la sur la table devant le joueur. (Elle n'est pas en jeu.)</li><li>Autre : Placez-la sur la table devant le joueur. (Elle n'est pas en jeu.)</li></ul></li><li>Résolvez chaque capacité « Une fois révélée » (y compris les mots-clés).</li><li>Si c'est une traîtrise, défaussez-la.</li></ol></red>Cette procédure s'applique également si une carte instruit de révéler une carte rencontre du deck.",
+				"whats_new": "Ajout d'un processus par étapes strict pour révéler les cartes rencontre afin de résoudre correctement les conflits de timing pour les interruptions et les réponses."
+			}
+		]
+	},
+	{
+		"id": "rookie_mode",
+		"term": "Mode Débutant",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Modes de Jeu",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "round_overview",
+		"term": "Déroulement d'un Round",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Déroulement d'un Round",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "running_out_of_cards",
+		"term": "Tomber à Court de Cartes",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Deck rencontre, Deck joueur",
+				"whats_new": ""
+			}
+		]
+	}
+]

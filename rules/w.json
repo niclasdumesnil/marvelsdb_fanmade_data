@@ -1,12 +1,108 @@
 [
 	{
-		"id": "winning_the_game",
-		"term": "Winning the Game",
+		"id": "when_completed_abilities",
+		"term": "When Completed Abilities",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "The players win the game if they defeat the final stage of the villain's identity. The players lose the game if all players are eliminated, or if the villain completes the final stage of the main scheme."
+				"content": "A when completed ability is a type of triggered ability, indicated by the bold “When Completed” timing trigger. When a main scheme is complete, all “When Completed” abilities on the card resolve.",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"main_scheme"
+		]
+	},
+	{
+		"id": "when_defeated_abilities",
+		"term": "When Defeated Abilities",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A when defeated ability is a type of triggered ability, indicated by the bold “When Defeated” timing trigger.<ul><li>When a villain stage, side scheme, main scheme stage, ally, or minion is defeated, all “When Defeated” abilities on the card resolve.</li><li>A defeated card leaves play after its “When Defeated” ability is resolved, if any.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"ally",
+			"defeat",
+			"main_scheme",
+			"minion",
+			"side_scheme",
+			"triggered_ability",
+			"villain"
+		]
+	},
+	{
+		"id": "when_revealed_abilities",
+		"term": "When Revealed Abilities",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A when revealed ability is a type of triggered ability, indicated by the bold “When Revealed” timing trigger. When a player reveals a card from the encounter deck, a new scheme stage, or a new villain stage, all “When Revealed” abilities on the card resolve.<ul><li>If an encounter card with a “When Revealed” ability enters play during setup, resolve that ability during the “Resolve Scenario Setup and When Revealed Abilities” step.</li><li>If an encounter card with a “When Revealed” ability is put into play without being revealed, the “When Revealed” ability does not trigger.</li><li>“When Revealed” abilities on villain and main scheme cards cannot be canceled.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"choose_game_element",
+			"encounter_card",
+			"main_scheme",
+			"setup",
+			"triggered_ability",
+			"villain"
+		]
+	},
+	{
+		"id": "wild_resource",
+		"term": "Wild Resource",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A wild resource (<span class=\"icon-wild\"></span>) is one of the four types of resources.<ul><li>Wild resources can be spent to pay the resource cost of cards and abilities. When a player generates a wild resource, they may specify which resource type (energy, mental, physical, or wild) it is being used as. When a card that generates a wild resource has its resources doubled, each of its wild resources can be declared a different type.</li><li>Some card abilities specifically require wild resources to be spent in order to resolve their effects.</li><li>When resources are not being generated for a cost, a wild resource does not have any characteristic other than “wild resource.” In such contexts, wild resources cannot be interpreted as any of the other resource types.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"ability",
+			"cost",
+			"energy_resource",
+			"icons",
+			"mental_resource",
+			"physical_resource",
+			"resource"
+		]
+	},
+	{
+		"id": "winning_the_game",
+		"term": "Winning the Game",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If the final villain stage is defeated, the players win the game. If the final stage of the main scheme deck is completed, the villain wins the game.<ul><li>Some scenarios have alternate win or loss conditions. If these conditions are met, the players win or lose accordingly. Alternate win or loss conditions cannot be blanked or canceled.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "would",
+		"term": "“Would”",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The word “would” is used to define the triggering condition of some interrupt abilities, and establishes a higher timing priority for those abilities than interrupts to the same triggering condition without the word “would.”<ul><li>If an interrupt to a triggering condition that would occur changes the nature of that which is about to occur (such as through a replacement effect), no further interrupts to the original trigger may be used since the resolution of that trigger is no longer valid. For example, an interrupt that states “when a character would be defeated” triggers before an interrupt that states “when a character is defeated.”</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"interrupt",
+			"replacement_effect",
+			"triggered_ability"
 		]
 	}
 ]

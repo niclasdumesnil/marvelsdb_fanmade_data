@@ -1,28 +1,93 @@
 [
 	{
-		"id": "game_environments",
-		"term": "Game Environments",
+		"id": "gains",
+		"term": "“Gains”",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A Game Environment establishes a specific cardpool from which a player can customize their deck. This document details two game environments: the Legacy Environment (using all products in a player's collection) and the Limited Environment (a restricted subset consisting of the core set, up to 3 expansions, and up to 10 hero packs)."
+				"content": "If a card gains a characteristic (such as a trait, keyword, or ability text), the card functions as if it possesses the gained characteristic. Gained characteristics are not considered to be printed on the card. [cite: 193]",
+				"whats_new": ""
 			}
 		],
-		"whats_new": [
+		"see_also": [
+			"keywords",
+			"printed",
+			"traits"
+		]
+	},
+	{
+		"id": "game_element",
+		"term": "Game Element",
+		"type": "official",
+		"versions": [
 			{
 				"version": "1.7",
-				"diff": "Added Appendix VI: Game Environments (Beta). This formalizes the standard 'Legacy Environment' and introduces a brand new 'Limited Environment' format to help curate smaller cardpools for deckbuilding."
+				"content": "A game element is a component or person involved in playing a game of Marvel Champions. All of the following are game elements:<ul><li>Cards</li><li>Decks</li><li>Discard Piles</li><li>Hands (of cards)</li><li>Hit Point Dials</li><li>Players</li><li>Tokens</li></ul> [cite: 193]",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"card_types",
+			"deck",
+			"discard_pile",
+			"player",
+			"target"
+		]
+	},
+	{
+		"id": "game_environments",
+		"term": "Game Environments",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A Game Environment establishes a specific cardpool from which a player can customize their deck. This document details three game environments: the Current Environment (most recent products), the Legacy Environment (using all products in a player's collection), and the Limited Environment (a restricted subset consisting of the core set, up to 3 expansions, and up to 10 hero packs). [cite: 514, 515, 517]",
+				"whats_new": "Added Appendix VI: Game Environments (Beta). This formalizes the standard 'Legacy Environment' and introduces a brand new 'Limited Environment' format to help curate smaller cardpools for deckbuilding. [cite: 42]"
+			}
+		]
+	},
+	{
+		"id": "golden_rules",
+		"term": "Golden Rules",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If the text of this Rules Reference directly contradicts the text of the Learn to Play book, the text of the Rules Reference takes precedence. [cite: 73] If the text of a card directly contradicts the text of either the Rules Reference or the Learn to Play book, the text of the card takes precedence. [cite: 74]",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "grim_rule",
+		"term": "Grim Rule",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If players are unable to find the answer to a rules or timing conflict in this Rules Reference, resolve the conflict in the manner that the players perceive as the worst possible resolution at that moment with regards to winning the scenario, and continue with the game. [cite: 74]",
+				"whats_new": ""
 			}
 		]
 	},
 	{
 		"id": "guard",
 		"term": "Guard",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Guard is a keyword. While a minion with the guard keyword is engaged with a player, that player cannot use cards or basic powers to attack the villain."
+				"content": "Guard is a keyword. While a minion with the guard keyword is engaged with a player, that player cannot use cards they control to attack a villain without this keyword. [cite: 195]",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"attack_player_ability_type",
+			"engage",
+			"keywords",
+			"minion",
+			"villain"
 		]
 	}
 ]

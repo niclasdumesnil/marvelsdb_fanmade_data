@@ -1,9 +1,122 @@
 [
 	{
+		"id": "damage",
+		"term": "Dégâts",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les dégâts réduisent les points de vie d'un personnage. Les dégâts peuvent être infligés par des attaques ou par des capacités de cartes. Lorsqu'un personnage subit des dégâts, ses points de vie sont réduits de la quantité spécifiée. Si les points de vie d'un personnage sont réduits à 0, il est vaincu."
+			}
+		]
+	},
+	{
+		"id": "dash_value",
+		"term": "Tiret (Valeur)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une valeur présentée sous la forme d'un tiret (–) indique que cette valeur ne peut pas être utilisée.<ul><li>Si une carte a un tiret (–) comme valeur de coût, elle ne peut pas être jouée et ne peut entrer en jeu que par d'autres moyens.</li><li>Si le pouvoir d'un personnage (ATQ, DEF, REC, SCH ou THW) a un tiret (–) comme valeur, le personnage ne peut pas s'incliner pour utiliser ce pouvoir.</li><li>Si une étape de jeu ou une capacité de carte fait référence à une valeur de tiret (–), cette valeur est traitée comme un 0 non modifiable.</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "deal",
+		"term": "Attribuer, Attribuer une Carte Rencontre",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Pendant l'étape trois de la phase du méchant, chaque joueur se voit attribuer une carte rencontre face cachée. Si une capacité de carte demande à un joueur de se voir attribuer une carte rencontre, le joueur prend la carte du dessus du deck rencontre et la place face cachée devant lui. Cette carte n'est pas révélée à ce moment-là. Elle est ajoutée à la file d'attente des cartes que ce joueur résout pendant la phase du méchant."
+			}
+		]
+	},
+	{
+		"id": "deck",
+		"term": "Deck",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Il y a quatre types principaux de decks qui apparaissent dans une partie : le deck joueur, le deck rencontre, le deck méchant et le deck manigance principale. Certaines identités ou scénarios peuvent ajouter d'autres decks à la partie.<ul><li>L'ordre des cartes dans un deck ne peut pas être modifié à moins qu'un joueur ne soit invité à le faire par une étape de jeu, une fonction de jeu ou une capacité de carte.</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "defeat",
+		"term": "Vaincre, déjouer",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lorsqu'un personnage a 0 point de vie ou moins, il est vaincu. Si un héros est vaincu, ce joueur est éliminé de la partie. Si un sbire ou un allié est vaincu, il est placé dans la pile de défausse appropriée. Si un stade du méchant est vaincu, le méchant passe au stade suivant."
+			}
+		]
+	},
+	{
+		"id": "defend",
+		"term": "Défendre, Défense",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lorsqu'un ennemi attaque, les joueurs peuvent se défendre contre cette attaque. Un joueur peut incliner un héros ou un allié pour défendre. Si un personnage défend contre une attaque, les dégâts de l'attaque sont infligés à ce personnage au lieu de la cible d'origine."
+			}
+		]
+	},
+	{
+		"id": "delayed_effect",
+		"term": "Effets retardés",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certaines capacités contiennent des effets retardés. Ces capacités spécifient un moment futur, ou indiquent une condition future qui pourrait survenir, et dictent un effet qui doit se produire à ce moment-là.<ul><li>Les effets retardés se résolvent automatiquement et immédiatement après que leur moment spécifié ou condition future se produit ou devient vrai, et avant que des réponses à ce moment ou condition puissent être utilisées. Les effets retardés ont la même priorité de timing que les effets constants.</li><li>Lorsqu'un effet retardé se résout, il n'est pas traité comme une nouvelle capacité déclenchée, même s'il a été initialement créé par une capacité déclenchée.</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "discard",
+		"term": "Défausser",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Défausser est l'action de tenter de déplacer une carte depuis une zone de jeu (autre qu'une pile de défausse) vers une pile de défausse.<ul><li>Si une carte joueur est défaussée, elle est placée face visible sur le dessus de la pile de défausse du joueur qui la possède.</li><li>Si une carte rencontre est défaussée, elle est placée face visible sur le dessus de la pile de défausse rencontre.</li><li>Si plusieurs cartes sont défaussées de la main d'un joueur ou du jeu par un seul effet, placez ces cartes dans la pile de défausse appropriée dans n'importe quel ordre.</li><li>Si plusieurs cartes sont défaussées d'un deck par un seul effet, placez ces cartes dans la pile de défausse appropriée une par une (sans en changer l'ordre). Ces défausses sont considérées comme simultanées.</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "discard_pile",
+		"term": "Pile de défausse",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une pile de défausse est une zone hors jeu qui contient les cartes qui ont été défaussées tout au long de la partie.<ul><li>Chaque joueur a sa propre pile de défausse, et le deck rencontre a sa propre pile de défausse.</li><li>Chaque pile de défausse est une information ouverte, et peut être consultée par n'importe quel joueur à tout moment.</li><li>L'ordre des cartes dans une pile de défausse ne peut pas être modifié à moins qu'un joueur n'y soit invité par une capacité de carte.</li><li>Toute capacité qui demanderait de mélanger une pile de défausse de zéro carte dans un deck ne mélange pas le deck.</li></ul>"
+			}
+		]
+	},
+	{
+		"id": "double_sided_card",
+		"term": "Cartes Double-Face",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une carte est double-face si aucun de ses côtés ne possède un dos de carte (joueur, méchant ou rencontre).<ul><li>Lorsqu'une carte double-face devrait entrer dans une zone hors jeu autre que la pile de victoire ou la zone de mise de côté, elle est retirée de la partie.</li><li>Si une carte double-face possède les faces « Mode Standard Uniquement » et « Mode Expert Uniquement », elle est mise en jeu avec la face « Mode Expert Uniquement » visible si les joueurs jouent en mode expert. Sinon, la carte est mise en jeu avec la face « Mode Standard Uniquement » visible.</li></ul>"
+			}
+		]
+	},
+	{
 		"id": "drain",
 		"term": "Drain",
-		"see_also": [
-			"keyword"
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Drain X est un mot-clé. Lorsque ce mot-clé est déclenché par un personnage, infligez X dégâts à la cible de ce personnage. Ensuite, si la cible a subi ces dégâts, soignez X dégâts du personnage qui a déclenché le drain."
+			}
+		]
+	},
+	{
+		"id": "draw",
+		"term": "Piocher, Piocher des Cartes",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Si un joueur reçoit l'instruction de piocher une ou plusieurs cartes, ces cartes sont piochées sur le dessus de son deck, une par une.<ul><li>Les cartes piochées sont ajoutées à la main du joueur.</li><li>La taille de la main de chaque joueur est vérifiée à la fin de la phase des joueurs. Si un joueur a plus de cartes en main que sa valeur de taille de main à ce moment-là, il doit choisir et défausser des cartes de sa main jusqu'à ce qu'il atteigne sa taille de main.</li></ul>"
+			}
 		]
 	}
 ]

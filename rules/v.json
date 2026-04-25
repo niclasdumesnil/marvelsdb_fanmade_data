@@ -1,22 +1,185 @@
 [
 	{
-		"id": "villain",
-		"term": "Villain",
+		"id": "valid_target",
+		"term": "Valid Target",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Villain is an encounter card type. The villain is the primary enemy the heroes are attempting to defeat. The villain activates during the villain phase, either attacking or scheming depending on the form of the active player's identity."
+				"content": "See: Target",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"target"
+		]
+	},
+	{
+		"id": "victory_display",
+		"term": "Victory Display",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The victory display is an out-of-play game area shared by all players. Cards in the victory display follow the standard rules for out-of-play cards.",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"in_play_and_out_of_play",
+			"player",
+			"victory_x"
+		]
+	},
+	{
+		"id": "victory_x",
+		"term": "Victory X",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "When a card with the victory X keyword leaves play under the following conditions, place it in the victory display instead of its owner’s discard pile:<ul><li>A character or side scheme with the victory X keyword is placed in the victory display when it is defeated.</li><li>An attachment or upgrade with the victory X keyword is placed in the victory display when the card to which it is attached is defeated. (The card the attachment or upgrade was attached to is discarded as normal.)</li><li>A card with both the victory X and uses (X “type”) keywords is placed in the victory display when its last all-purpose counter is removed from it.</li></ul>While in the victory display, X indicates how many victory points that card is worth. (X is the value next to the victory keyword.)<ul><li>Some scenarios or campaigns may count the number of victory points in the victory display.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"defeat",
+			"discard_pile",
+			"keywords",
+			"reminder_text",
+			"uses_x_type",
+			"victory_display"
+		]
+	},
+	{
+		"id": "villain",
+		"term": "Villain, Villain Deck",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Villain is an encounter card type that represents the primary enemy the players are attempting to defeat in a scenario. The villain is represented by a sequential deck of one or more cards. The players defeat the villain by reducing the hit points of each stage of the villain deck to zero.<ul><li>Villain cards cannot be discarded from play.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"activation",
+			"attack_enemy_activation",
+			"scheme_enemy_activation",
+			"villain_defeat"
+		]
+	},
+	{
+		"id": "villain_defeat",
+		"term": "Villain Defeat",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If the villain’s hit point dial is reduced to zero, the players have defeated that stage of the villain. Remove the current stage of the villain deck from the game. The next sequential stage of the villain deck is revealed. Set the villain’s hit point dial as indicated by that stage. If the final stage of the villain deck is defeated, the players win the game.<ul><li>The revealing of a villain cannot be canceled.</li><li>Excess damage that is dealt to defeat a villain stage does not carry over to the new stage.</li><li>If the new stage of the villain has the same title as the previous stage: The new stage of the villain is considered the same character as the defeated stage for purposes of card abilities (such as the retaliate X keyword). Attachments, upgrades, status cards, counters, and non-damage tokens on a villain carry over to the new stage. If the villain was defeated while activating, the villain resumes that activation using the new villain stage.</li><li>If the new stage of the villain has a different title from the previous stage: The new stage of the villain not is considered the same character as the defeated stage for purposes of card abilities. Attachments, upgrades, status cards, counters, and non-damage tokens do not carry over to the new stage. If the villain was defeated while activating, the activation ends without resolving.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"all_purpose_counter",
+			"attachment",
+			"damage",
+			"defeat",
+			"excess_damage",
+			"hit_points_hp",
+			"status_cards",
+			"villain"
 		]
 	},
 	{
 		"id": "villain_phase",
 		"term": "Villain Phase",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "The villain phase is the second phase of the round. During this phase, threat is added to the main scheme, the villain and minions activate against the players, and encounter cards are dealt and revealed."
+				"content": "The steps of the villain phase are:<ol><li><b>Place Threat.</b> Place the amount of threat indicated in the main scheme’s acceleration field onto that scheme. If any acceleration icons or tokens are active, additional threat equal to the number of such icons and tokens is also placed at this time.</li><li><b>Enemies Activate.</b> In player order, each player resolves the following: a. The villain activates against the player. b. Each minion engaged with the player activates against them, in the order of that player’s choice.</li><li><b>Deal Encounter Cards.</b> Deal one encounter card to each player. Deal one additional card for each hazard icon on a card in play. These additional cards are dealt in player order.</li><li><b>Reveal Encounter Cards.</b> The first player reveals each of their encounter cards, one card at a time in the order in which they were dealt, resolving each card based on its card type. Each player repeats this process in player order, until no dealt encounter cards remain.</li><li><b>Pass First Player Token.</b> Pass the first player token to the next clockwise player.</li><li><b>End of Villain Phase and Round.</b> a. Any effects that last “until the end of the [villain] phase” or “until the end of the round” end. b. Resolve any “when/after the [villain] phase ends” or “when/after the round ends” effects.</li></ol>",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"acceleration_icon",
+			"activation",
+			"attack_enemy_activation",
+			"deal",
+			"engage",
+			"find",
+			"hazard_icon",
+			"in_player_order",
+			"main_scheme",
+			"minion",
+			"player",
+			"reveal",
+			"scheme_enemy_activation",
+			"threat",
+			"villain"
+		]
+	},
+	{
+		"id": "villain_play_area",
+		"term": "Villain’s Play Area",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The villain’s play area (also sometimes referred to as the “villain’s game area”) is the area of play where the villain deck, the main scheme deck, the encounter deck, the encounter discard pile, and the villain’s hit point dial are located.<ul><li>Environment cards and side scheme cards are placed in the villain’s play area when they enter play.</li><li>Attachments cards attached to cards in the villain’s play area are in the villain’s play area. Attachment cards attached to cards in a player’s play area are not in the villain’s play area.</li><li>Minion cards engaged with a player are in that player’s play area and not in the villain’s play area.</li><li>Obligation cards given to a player are in that player’s play area and not in the villain’s play area.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"attachment",
+			"discard_pile",
+			"encounter_deck",
+			"environment",
+			"in_play_and_out_of_play",
+			"main_scheme",
+			"minion",
+			"obligation",
+			"villain"
+		]
+	},
+	{
+		"id": "villainous",
+		"term": "Villainous",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "When a minion with the villainous keyword activates, give it a facedown boost card from the top of the encounter deck. When you resolve that minion’s activation, turn the boost card faceup, resolve any boost ability on that card, and apply its boost icons to the minion’s stats for this activation. Discard the boost card after it is resolved.<ul><li>If a boost ability on a boost card dealt to a minion refers to “the villain,” that ability still applies to the villain (even though a minion is resolving it).</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"activation",
+			"attack_enemy_activation",
+			"boost",
+			"discard",
+			"keywords",
+			"minion",
+			"reminder_text",
+			"scheme_enemy_activation"
+		]
+	},
+	{
+		"id": "vulnerable",
+		"term": "Vulnerable",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "When a character with vulnerable becomes confused or stunned, that character is immediately discarded.<ul><li>If a character with the vulnerable keyword would simultaneously take enough damage to defeat it and become either confused or stunned, it is discarded before the damage is applied and is not considered defeated.</li><li>If a character has both the steady and vulnerable keywords, the vulnerable keyword does not take effect until that character has two confused or two stunned status cards.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"confuse_confused",
+			"steady",
+			"stun_stunned"
 		]
 	}
 ]

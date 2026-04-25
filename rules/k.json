@@ -1,12 +1,19 @@
 [
 	{
-		"id": "keyword",
-		"term": "Keyword",
+		"id": "keywords",
+		"term": "Keywords",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A keyword is a specific word or phrase that serves as a shorthand for a game rule or ability. Examples include Guard, Overkill, Quick Strike, Retaliate, Surge, and Toughness."
+				"content": "A keyword is an attribute that conveys specific rules to its card.<ul><li>If a card gains multiple instances of a keyword, any additional instances have no effect unless that keyword is followed by a number (e.g. Hinder X, Retaliate X), in which case the numbers for each instance are added together.</li><li>The following keywords are used in the game: Alliance, Assault, Form, Guard, Hinder X, Incite X, Linked (Card Title), Overkill, Patrol, Peril, Permanent, Piercing, Quickstrike, Ranged, Requirement (Resources), Restricted, Retaliate X, Setup, Stalwart, Steady, Surge, Team-Up, Teamwork (Trait), Temporary, Toughness, Uses (X “Type”), Victory X, Villainous.</li></ul>",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"gains",
+			"printed",
+			"traits"
 		]
 	}
 ]

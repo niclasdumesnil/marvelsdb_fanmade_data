@@ -1,12 +1,35 @@
 [
 	{
-		"id": "quick_strike",
-		"term": "Quick Strike",
+		"id": "qualifiers",
+		"term": "Qualifiers",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Quick strike is a keyword. After a minion with the quick strike keyword engages a player whose identity is in hero form, that minion attacks that player."
+				"content": "If ability text includes a qualifier followed by multiple terms, the qualifier applies to each item in the list, if applicable. For example, in the phrase “each ready character and attachment” the word “ready” applies to both “character” and “attachment.” [cite: 295]",
+				"whats_new": ""
 			}
+		]
+	},
+	{
+		"id": "quickstrike",
+		"term": "Quickstrike",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "After a minion with the quickstrike keyword engages a player whose identity is in hero form, that minion attacks that player. [cite: 296]",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"attack_enemy_activation",
+			"engage",
+			"form_change_form",
+			"keywords",
+			"minion",
+			"player",
+			"reminder_text"
 		]
 	}
 ]

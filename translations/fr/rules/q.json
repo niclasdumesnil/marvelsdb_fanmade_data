@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "id": "qualifiers",
+        "term": "Qualificatifs",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Si le texte d'une capacité inclut un qualificatif suivi de plusieurs termes, le qualificatif s'applique à chaque élément de la liste, le cas échéant. Par exemple, dans la phrase « chaque personnage et attachement redressé », le mot « redressé » s'applique à la fois au « personnage » et à l'« attachement ».",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "quickstrike",
+        "term": "Coup rapide",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Après qu'un sbire avec le mot-clé coup rapide engage un joueur dont l'identité est sous forme de héros, ce sbire attaque ce joueur.",
+                "whats_new": ""
+            }
+        ]
+    }
+]

@@ -1,1 +1,13 @@
-[]
+[
+    {
+        "id": "keywords",
+        "term": "Mots-clés",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Un mot-clé est un attribut qui confère des règles spécifiques à sa carte.<ul><li>Si une carte gagne plusieurs instances d'un mot-clé, toute instance supplémentaire n'a aucun effet, à moins que ce mot-clé ne soit suivi d'un nombre (par exemple Entrave X, Riposte X), auquel cas les nombres de chaque instance s'additionnent.</li><li>Les mots-clés suivants sont utilisés dans le jeu : Alliance, À distance, Assaut, Coup rapide, Déferlement, En équipe, Entrave X, Esprit d'équipe, Exigence, Forme, Garde, Incitation X, Liée, Mise en place, Patrouille, Perçant, Péril, Permanent, Renfort, Restreint, Riposte X, Robuste, Solide, Temporaire, Ténacité, Utilisations, Victoire X, Vilenie.</li></ul>",
+                "whats_new": ""
+            }
+        ]
+    }
+]

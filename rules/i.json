@@ -1,42 +1,209 @@
 [
 	{
-		"id": "identity",
-		"term": "Identity",
+		"id": "icons",
+		"term": "Icons",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Identity is a card type. A player's identity card represents the character they are playing in the game. An identity card is double-sided, with a hero form on one side and an alter-ego form on the other."
+				"content": "Icons are graphical elements that represent various functions within the game.<ul><li>Energy Icon (<span class=\"icon-energy\"></span>)</li><li>Mental Icon (<span class=\"icon-mental\"></span>)</li><li>Physical Icon (<span class=\"icon-physical\"></span>)</li><li>Wild Icon (<span class=\"icon-wild\"></span>)</li><li>Acceleration Icon (<span class=\"icon-acceleration\"></span>)</li><li>Amplify Icon (<span class=\"icon-amplify\"></span>)</li><li>Crisis Icon (<span class=\"icon-crisis\"></span>)</li><li>Hazard Icon (<span class=\"icon-hazard\"></span>)</li><li>Boost Icon (<span class=\"icon-boost\"></span>)</li><li>Star Icon (<span class=\"icon-star\"></span>)</li><li>Consequential Damage Icon (<span class=\"icon-consequential_damage\"></span>)</li><li>Cost Arrow (<span class=\"icon-cost\"></span>)</li><li>Per Player Icon (<span class=\"icon-per_player\"></span>)</li><li>Unique Icon (<span class=\"icon-unique\"></span>)</li></ul>",
+				"whats_new": ""
 			}
+		]
+	},
+	{
+		"id": "identity",
+		"term": "Identity",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Identity is a player card type that represents which character a player is playing in the game. A player’s identity card is a double-sided card that represents their hero on one side and their alter-ego on the other. The side that is face up indicates the form (hero or alter-ego) that player is currently in.<ul><li>Each player begins the game in alter-ego form.</li><li>If a card refers to a hero or alter-ego by title, it refers only to the identity with that title, and not to the other side of the card.</li><li>Identity cards cannot be discarded from play.</li><li>The faceup side of an identity card is considered to be in play. The facedown side of an identity card is considered to be out of play.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"form_change_form",
+			"in_play_and_out_of_play",
+			"player",
+			"player_card"
+		]
+	},
+	{
+		"id": "identity_specific_card",
+		"term": "Identity-Specific Card",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Cards in the “identity-specific” classification (also sometimes called “hero-specific”) are cards that belong to an identity’s set of accompanying cards.<ul><li>A player’s deck must include each identity-specific card associated with their chosen identity card. The exact quantity of each card in that identity-specific set must be included in the deck.</li><li>Identity-specific cards (along with obligation cards and nemesis encounter set cards) may only be used alongside an identity if those cards share a set icon with that identity.</li><li>An identity-specific card is designated by the identity icon printed in the bottom right corner of the card.</li><li>Identity cards are identity-specific cards.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"aspect_card",
+			"basic_card",
+			"classifications",
+			"identity",
+			"nemesis_encounter_set"
+		]
+	},
+	{
+		"id": "ignore",
+		"term": "Ignore",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "An ability that ignores some ability, icon, or cost treats that ability, icon, or cost as not being in effect or present while that ability is resolving.<ul><li>When a card is played “ignoring its resource cost,” no resources are paid for that card. For the purpose of card effects, that card is considered to have been played with zero resources paid for its cost.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"ability",
+			"cost",
+			"icons",
+			"requirement_resources"
 		]
 	},
 	{
 		"id": "in_play_and_out_of_play",
 		"term": "In Play and Out of Play",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "The playing area, which includes all heroes, alter-egos, allies, minions, villains, attachments, side schemes, the main scheme, and environments, is considered 'in play'. Cards in a player's hand, deck, or discard pile, and cards in the encounter deck or discard pile are 'out of play'. Abilities can only be triggered from cards in play unless specified otherwise."
+				"content": "A card is considered to either be in play or out of play depending on its state within the game. If a card is in play, its text is active and it can affect the game.<ul><li>For player cards, the faceup side of a player’s identity card is in play. The faceup ally cards, support cards, and upgrade cards that have entered play are in play.</li><li>For encounter cards, the faceup side of the top card of the villain deck and the faceup side of the top card of the main scheme deck are in play. The faceup attachment cards, environment cards, minion cards, obligation cards, and side scheme cards that have entered play are in play.</li><li>Card abilities only interact with, and can only target, cards that are in play (unless the ability text specifically refers to an out-of-play area).</li><li>Event cards and treachery cards implicitly resolve from an out-of-play area.</li><li>Cards in a player’s hand, deck, and discard pile are out of play. Cards in the encounter deck, encounter discard pile, unrevealed cards in the villain deck, unrevealed cards in the main scheme deck, and facedown encounter cards dealt to a player are out of play. Facedown cards attached to in-play cards are out of play.</li></ul>",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"ability",
+			"enters_play",
+			"leaves_play",
+			"play",
+			"target"
 		]
 	},
 	{
-		"id": "incite",
-		"term": "Incite",
+		"id": "in_player_order",
+		"term": "In Player Order",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Incite is a keyword. When a card with the incite X keyword is revealed, place X threat on the main scheme."
+				"content": "If players are instructed to perform a sequence “in player order,” the first player performs their part of the sequence first, followed by the other players in clockwise order.<ul><li>If a sequence performed in player order does not conclude after each player has performed their part of the sequence once, the sequence of opportunities continues in a clockwise manner until it is complete.</li><li>The phrase “next player” always refers to the next (clockwise) player in player order.</li></ul>",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"first_player",
+			"player",
+			"player_phase",
+			"player_turn"
+		]
+	},
+	{
+		"id": "incite_x",
+		"term": "Incite X",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "When a card with the incite X keyword is revealed, place X threat on the main scheme. (X is the value next to the incite keyword.)",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"keywords",
+			"main_scheme",
+			"reminder_text",
+			"reveal",
+			"threat"
+		]
+	},
+	{
+		"id": "indirect_damage",
+		"term": "Indirect Damage",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Some card abilities may deal “indirect damage.”<ul><li>Indirect damage dealt to a player can be divided as that player chooses among characters under their control.</li><li>Indirect damage dealt to a group of players (or among players) can be divided as the group chooses among friendly characters in play.</li><li>All indirect damage from a single source is first assigned and then resolved simultaneously.</li><li>While assigning indirect damage, a character cannot be assigned more indirect damage than would cause it to be defeated.</li><li>If an enemy’s attack deals indirect damage, the indirect damage is dealt during step four of the enemy activation (after player’s have the opportunity to defend against the attack). Only the defending character, or the attacked player’s identity if the attack was undefended, is considered to have been attacked.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"ally",
+			"attack_enemy_activation",
+			"damage",
+			"defeat",
+			"player"
+		]
+	},
+	{
+		"id": "infinite_hit_points",
+		"term": "Infinite Hit Points",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Hit Points",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"hit_points_hp"
+		]
+	},
+	{
+		"id": "initiating_abilities",
+		"term": "Initiating Abilities",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "When a player wishes to play a card or initiate a triggered ability, that player first declares their intent. Then, the player checks the following conditions in order:<ol><li>Check play restrictions: can the card be played, or the ability initiated, at this time? Check that it has at least one valid target.</li><li>Determine the cost (or costs) to play the card or initiate the ability and the player’s ability to pay them, taking modifiers into account.</li><li>If playing a card, the player places that card faceup on the table in front of them.</li><li>Apply any modifiers to the cost(s).</li><li>Pay the cost(s). If this step is reached and the cost(s) cannot be paid, abort this process without paying any costs.</li><li>The card commences being played, or the effects of the ability attempt to initiate.</li><li>The card is played or the ability (if not canceled in the previous step) resolves. The card enters play or, if it is an event card, its effects resolve and it is then placed in its owner’s discard pile.</li></ol>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"ability",
+			"cost",
+			"target"
+		]
+	},
+	{
+		"id": "instead",
+		"term": "“Instead”",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Replacement Effect",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"replacement_effect"
 		]
 	},
 	{
 		"id": "interrupt",
 		"term": "Interrupt",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "An interrupt is a triggered ability that is triggered immediately before its specified triggering condition occurs. The resolution of an interrupt ability precedes the resolution of its triggering condition."
+				"content": "An interrupt ability is a type of triggered ability, indicated by the bold “Interrupt” timing trigger. Interrupt abilities may be executed anytime the specified triggering condition occurs, as described in the interrupt’s ability text. The interrupt ability interrupts the resolution of the specified triggering condition, and resolves immediately before that triggering condition resolves.<ul><li>Players can only trigger interrupt abilities on cards they control or on encounter cards.</li><li>Multiple interrupts may be triggered by the same triggering condition, but each interrupt can only be triggered once per occurrence of the triggering condition.</li><li>Interrupts that use the word “would” resolve before its triggering condition initiates, when that condition becomes imminent.</li><li>If an interrupt changes (via a replacement effect) or cancels an imminent triggering condition, further interrupts to the original triggering condition cannot be triggered.</li></ul>",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"cancel",
+			"replacement_effect",
+			"triggered_ability",
+			"would"
 		]
 	}
 ]

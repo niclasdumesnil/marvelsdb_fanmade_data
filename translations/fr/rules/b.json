@@ -1,38 +1,46 @@
 [
 	{
+		"id": "base_value",
+		"term": "Valeur de Base",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une valeur définie avant que les modificateurs ne soient appliqués. Dans la plupart des cas, il s'agit également de la valeur imprimée.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
 		"id": "basic_card",
-		"term": "Basic Card",
-		"see_also": [
-			"aspect_card",
-			"classifications",
-			"identity_specific_card",
-			"appendix_i_deck_customization"
+		"term": "Cartes basiques",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les cartes de la classification « basique » sont des cartes qui ne sont pas associées à une identité ou une affinité spécifique.<ul><li>Lors de la construction d'un deck, un joueur peut personnaliser le reste de son deck (la partie non allouée à ses cartes spécifiques à l'identité) en utilisant des cartes basiques.</li><li>Une carte est désignée comme basique si elle porte le mot « Basique » imprimé au bas de la carte dans sa zone de classification de construction de deck.</li><li>Les cartes basiques ne sont pas des cartes d'affinité.</li></ul>",
+				"whats_new": ""
+			}
 		]
 	},
 	{
 		"id": "basic_power",
-		"term": "Basic Power",
-		"see_also": [
-			"ally",
-			"attack_enemy_activation",
-			"attack_player_ability_type",
-			"defend",
-			"identity",
-			"minion",
-			"modifiers",
-			"recover",
-			"scheme_enemy_activation",
-			"thwart"
+		"term": "Pouvoir de Base",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Un pouvoir de base est une statistique qui permet à un personnage d'effectuer une certaine fonction de jeu.<ul><li>Il y a cinq pouvoirs de base différents :<ul><li>Le pouvoir d'attaque (ATQ) peut être utilisé par un personnage pour effectuer une attaque de base et infliger des dégâts à un autre personnage. Généralement, les héros, les alliés, les méchants et les sbires ont un pouvoir d'attaque.</li><li>Le pouvoir de contre (CTR) peut être utilisé par un personnage pour effectuer un contre de base et retirer de la menace d'une manigance. Généralement, les héros et les alliés ont un pouvoir de contre.</li><li>Le pouvoir de défense (DEF) peut être utilisé par un personnage pour effectuer une défense de base et prévenir les dégâts d'une attaque. Généralement, seuls les héros ont un pouvoir de défense.</li><li>Le pouvoir de récupération (REC) peut être utilisé par un personnage pour effectuer une récupération de base et se soigner. Généralement, seuls les alter ego ont un pouvoir de récupération.</li><li>Le pouvoir de manigance (MNG) peut être utilisé par un personnage pour effectuer une manigance de base et placer de la menace sur la manigance principale. Généralement, les méchants et les sbires ont un pouvoir de manigance.</li></ul></li></ul>",
+				"whats_new": ""
+			}
 		]
 	},
 	{
 		"id": "boost_boost_icon",
-		"term": "Boost, Boost Icon",
-		"see_also": [
-			"attack_enemy_activation",
-			"scheme_enemy_activation",
-			"star_icon",
-			"villainous"
+		"term": "Boost, icône de boost",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Chaque fois que le méchant attaque ou manigance, on lui donne une carte face cachée du deck rencontre, comme carte de boost. Les sbires avec le mot-clé vilenie reçoivent également une carte de boost lorsqu'ils s'activent. Pendant l'activation (et après que d'éventuels défenseurs ont été déclarés si le méchant attaque), chaque carte de boost sur l'ennemi est retournée face visible une par une. Ajoutez le nombre d'icônes de boost de chaque carte à la valeur d'ATQ (s'il attaque) ou de MNG (s'il manigance) de l'ennemi pour cette activation. Les icônes de boost sont situées en bas à droite de la carte. Si la zone de boost comporte une icône d'étoile, cela indique que la carte possède une capacité « Boost ». Référez-vous à la boîte de texte de la carte et résolvez la capacité « Boost » lorsque la carte est retournée face visible. La capacité « Boost » est située sous la ligne de séparation dans la boîte de texte.<ul><li>Une icône d'étoile n'est pas en soi considérée comme une icône de boost et ne contribue pas à la valeur d'ATQ ou de MNG du méchant.</li><li>Seul le texte de capacité situé sous la ligne de séparation est actif sur une carte qui est résolue comme carte de boost.</li><li>Les dégâts infligés par une capacité de boost ne sont pas considérés comme des dégâts infligés par l'activation durant laquelle la capacité de boost a été résolue.</li><li>Si des cartes de boost supplémentaires sont résolues pour une activation, les icônes de boost sont cumulatives, et toutes les capacités « Boost » sur ces cartes se résolvent.</li><li>Après avoir appliqué une carte de boost à une activation, défaussez-la.</li><li>Si un ennemi reçoit une carte de boost en dehors de sa propre activation, cette carte de boost reste face cachée sur cet ennemi jusqu'à ce qu'il s'active. Si cet ennemi est un méchant ou un sbire avec le mot-clé vilenie, il reçoit tout de même une autre carte de boost au début de son activation, comme d'habitude.</li></ul>",
+				"whats_new": ""
+			}
 		]
 	}
 ]

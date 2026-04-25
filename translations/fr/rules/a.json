@@ -1,274 +1,271 @@
 [
 	{
 		"id": "ability",
-		"term": "Ability",
-		"see_also": [
-			"action",
-			"alteration_effect",
-			"and",
-			"cancel",
-			"delayed_effect",
-			"forced",
-			"in_play_and_out_of_play",
-			"initiating_abilities",
-			"interrupt",
-			"labeled_ability",
-			"lasting_effects",
-			"qualifiers",
-			"replacement_effect",
-			"resource_ability",
-			"response",
-			"simultaneous_resolution",
-			"special",
-			"target",
-			"then",
-			"when_defeated_abilities",
-			"when_revealed_abilities",
-			"would"
+		"term": "Capacité",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une capacité est un texte de jeu sur une carte qui explique ce que la carte fait (ou peut faire). Plusieurs exemples peuvent être vus dans l'Appendice III de ce Guide de Référence.<br><ul><li>Les capacités de cartes n'interagissent qu'avec des cartes qui sont en jeu, à moins que la capacité ne fasse spécifiquement référence à une zone ou un élément hors jeu.</li><li>Les capacités de cartes sur les héros, alter ego, alliés, améliorations et soutiens ne peuvent être utilisées que si la carte est en jeu, à moins que la capacité ne précise qu'elle s'utilise depuis un état hors jeu. Les cartes événement interagissent implicitement avec le jeu depuis une zone hors jeu.</li><li>Si une capacité spécifie une ou plusieurs cibles, elle ne peut être initiée que si elle a au moins une cible valide. <i>Par exemple, une capacité indiquant « infligez 5 dégâts à un sbire » ne peut pas être initiée s'il n'y a aucun sbire en jeu.</i></li><ul><li><i>Exemples de cibles : « le méchant », « un sbire », « un ennemi », « une manigance », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».</i></li></ul><li>Lorsqu'une capacité comporte plus d'une phrase de texte, lisez l'intégralité de la capacité pour vérifier s'il y a des effets d'altération qui pourraient changer la façon dont elle se résout. Ensuite, résolvez la capacité une phrase à la fois.</li><li>Une capacité précédée d'un déclencheur de timing en gras suivi d'un deux-points est appelée capacité déclenchée. Une capacité sans déclencheur de timing en gras est appelée capacité constante.</li><li>Les capacités des cartes joueur ne peuvent pas se résoudre pendant la <b>mise en place</b> de la partie, à moins d'être précédées du déclencheur « <b>Mise en place</b> ».</li><li>La résolution des types de capacités suivants est obligatoire : capacités constantes, capacités « <b>Mise en place</b> », capacités « <b>Une fois révélée</b> », capacités « <b>Une fois vaincu</b> », <red>les capacités « <b>Action Forcée</b> »</red>, capacités « <b>Interruption Forcée</b> », capacités « <b>Réponse Forcée</b> », capacités « <b>Boost</b> » et mots-clés.</li><ul><li>Si l'un de ces types utilise le mot « pouvoir/peut », la partie suivant ce mot est optionnelle.</li></ul><li>La résolution des types suivants est optionnelle : « <b>Action</b> », « <b>Interruption</b> », « <b>Réponse</b> », « <b>Ressource</b> ». Le joueur qui contrôle la carte détermine s'il l'utilise ou non. Tout joueur peut utiliser une telle capacité sur une carte rencontre, avec les exceptions suivantes :</li><ul><li>Seul le joueur qui contrôle une carte joueur avec un attachement utilisant les mots « vous » ou « votre » peut déclencher ses capacités ou payer ses coûts.</li><li>Seul le joueur avec une obligation dans sa zone de jeu peut déclencher ses capacités ou payer ses coûts.</li></ul></ul><b>Capacités Constantes</b> — Toute capacité sans mot-clé ni déclencheur en gras. Elle devient active dès que la carte entre en jeu et le reste tant qu'elle y est.<br><ul><li>Certaines recherchent continuellement une condition spécifique (« pendant », « si », « tant que »). L'effet est actif chaque fois que la condition est remplie.</li><li>Si plusieurs exemplaires d'une même capacité constante sont en jeu, chacune affecte le jeu indépendamment.</li></ul><b>Capacités Déclenchées</b> — Indiquées par un déclencheur en gras suivi de deux-points.<br><ul><li>Sauf si précédées de « <b>Forcée</b> », toutes les <b>interruptions</b> et <b>réponses</b> sont optionnelles.</li><li>Les capacités « <b>Forcée</b> », « <b>Une fois révélée</b> », « <b>Une fois vaincu</b> » et « Une fois achevée » sont déclenchées par le jeu au moment approprié.</li><li>Si le déclencheur contient le mot « Héros » ou « Alter ego », la capacité ne s'utilise que si le joueur est dans cette forme.</li><li>Si des guillemets encadrent le déclencheur, il s'agit d'une référence à d'autres capacités avec ce déclencheur.</li></ul><b>Priorité de Timing Simultanée</b> — En cas de condition de déclenchement identique, la priorité est :<br><ol><li>Capacités constantes, effets retardés, effets persistants, mots-clés et icônes , , , .</li><li>Cartes d'état.</li><li>Capacités « <b>Interruption Forcée</b> ».</li><li>Capacités « <b>Interruption</b> ».</li><li>Capacités « <b>Boost</b> », « <b>Une fois vaincu</b> » et « <b>Une fois révélée</b> ».</li><li>Capacités « <b>Réponse Forcée</b> ».</li><li>Capacités « <b>Réponse</b> ».</li><li>Dégâts consécutifs.</li></ol>",
+				"whats_new": "<ul><li><red>les capacités « <b>Action Forcée</b> »</red></li></ul>"
+			}
 		]
 	},
 	{
 		"id": "acceleration_icon",
-		"term": "Acceleration icon",
-		"see_also": [
-			"icons",
-			"main_scheme",
-			"threat",
-			"villain_phase"
+		"term": "Icône d'Accélération",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une icône d'accélération représente des forces supplémentaires qui font avancer les plans néfastes du méchant. Lors de l'étape 1 de la phase du méchant, placez X menaces supplémentaires sur la manigance principale, où X est le nombre d'icônes d'accélération en jeu.<br><ul><li>Une icône d'accélération peut être retirée du jeu en vainquant la carte rencontre sur laquelle elle est imprimée.</li><li>Les icônes d'accélération ne sont pas considérées comme des pions accélération, et vice versa.</li></ul>"
+			}
 		]
 	},
 	{
 		"id": "acceleration_token",
-		"term": "Acceleration Token",
-		"see_also": [
-			"component_limitations",
-			"encounter_deck",
-			"main_scheme",
-			"villain"
+		"term": "Pion Accélération",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les pions accélération sont fonctionnellement équivalents aux icônes d'accélération (mais ne sont pas considérés comme tels). Ils sont placés à côté de la manigance principale pour rappeler d'ajouter X menaces supplémentaires lors de l'étape 1 de la phase du méchant, où X est le nombre de pions accélération en jeu.<div>Les pions accélération entrent en jeu par l'un de ces deux effets :<br><ul><li>Si le deck rencontre est vide, placez un pion accélération à côté de la manigance principale.</li><li>Les effets de cartes peuvent instruire d'ajouter un pion accélération en jeu.</li><ul><li>Les pions accélération placés sur d'autres cartes que la manigance principale ajoutent quand même de la menace à celle-ci lors de l'étape 1.</li></ul></ul>Les pions accélération sur la manigance principale ne peuvent pas être retirés du jeu. Contrairement aux autres pions, lorsqu'une carte manigance principale quitte le jeu, le pion accélération n'est pas défaussé.<br><ul><li>Les pions accélération placés sur d'autres cartes sont retirés du jeu lorsque la carte sur laquelle ils sont placés quitte le jeu.</li><li>Les pions accélération ne sont pas considérés comme des icônes d'accélération, et vice versa.</li></ul></div>"
+			}
+		]
+	},
+	{
+		"id": "action",
+		"term": "Action",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "« <b>Action</b> » est un type de capacité déclenchée. Les joueurs sont autorisés à déclencher des capacités <b>action</b> pendant leur tour, ou sur demande pendant le tour des autres joueurs.<br><ul><li>Les joueurs ne peuvent déclencher des capacités <b>action</b> que sur les cartes qu'ils contrôlent ou sur les cartes rencontre. Les joueurs ne peuvent pas déclencher de capacités <b>action</b> sur les obligations dans la zone de jeu d'autres joueurs.</li><li><red>Chaque capacité « <b>Action Forcée</b> » doit être résolue avant que la phase des joueurs ne puisse se terminer.</red></li><ul><li><red>Une capacité <b>action forcée</b> peut être déclenchée à n'importe quel moment où une capacité <b>action</b> non forcée pourrait l'être.</red></li><li><red>Si une telle capacité a un coût qui ne peut être payé ou nécessite une ou plusieurs cibles valides et n'en a aucune, la phase peut se terminer sans que cette capacité ne soit résolue.</red></li></ul></ul>",
+				"whats_new": "Ajout de clarifications concernant les capacités Action Forcée et leur timing avant la fin de la phase des joueurs."
+			}
 		]
 	},
 	{
 		"id": "activation",
 		"term": "Activation",
-		"see_also": [
-			"boost",
-			"attack_enemy_activation",
-			"scheme_enemy_activation",
-			"minion",
-			"villain",
-			"villain_phase"
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Il existe deux types d'activations des ennemis : une activation d'attaque et une activation de manigance. Chaque fois qu'un ennemi attaque ou manigance, il est considéré comme s'étant activé.<br><ul><li>Pendant l'étape deux de la phase du méchant, le méchant s'active une fois par joueur, dans l'ordre des joueurs. Si le joueur est sous forme de héros, le méchant initie une attaque contre lui. S'il est sous forme d'alter ego, le méchant initie une manigance.</li><li>Pendant l'étape deux de la phase du méchant, chaque sbire engagé s'active contre ce joueur. Si le joueur est sous forme de héros, le sbire initie une attaque. S'il est sous forme d'alter ego, le sbire initie une manigance.</li><li>À chaque activation du méchant, donnez-lui une carte <b>boost</b> du deck rencontre pour cette activation.</li><li>Certaines capacités peuvent également forcer les ennemis à attaquer ou manigancer. Ce sont aussi des activations.</li><li>Si plusieurs ennemis s'activent contre vous simultanément, résolvez d'abord l'activation du méchant (le cas échéant), puis les activations des sbires dans l'ordre de votre choix.</li><li>Si un sbire en cours d'activation quitte le jeu, son activation se termine immédiatement.</li><li>Un effet qui initie une activation ennemie est considéré comme résolu une fois l'activation entièrement résolue.</li><li>Si un effet initie une activation pendant la résolution d'une autre activation, la nouvelle activation se résout après que l'activation en cours a terminé de se résoudre.</li><ul><li>Si plusieurs activations sont initiées de cette manière, le premier joueur décide de l'ordre de résolution.</li><li><red>Toutes les capacités déclenchées par l'activation initiale se résolvent avant que les activations suivantes ne s'initient.</red></li></ul></ul>",
+				"whats_new": "Précise que toutes les capacités déclenchées par l'activation initiale se résolvent avant l'initiation des activations suivantes."
+			}
 		]
 	},
 	{
 		"id": "active_player",
-		"term": "Active Player",
-		"see_also": [
-			"player",
-			"player_turn"
+		"term": "Joueur Actif",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le joueur qui joue son tour pendant la phase des joueurs est le joueur actif."
+			}
 		]
 	},
 	{
 		"id": "additional",
-		"term": "Additional",
-		"see_also": [
-			"alteration_effect"
+		"term": "« Supplémentaire »",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Effets d'altération"
+			}
 		]
 	},
 	{
 		"id": "after",
-		"term": "After",
-		"see_also": [
-			"ability",
-			"response"
+		"term": "« Après »",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le mot « après » fait référence à un événement de jeu qui vient de se terminer. De nombreuses capacités de réponse utilisent le terme « après » pour spécifier le moment auquel elles peuvent être utilisées."
+			}
 		]
 	},
 	{
 		"id": "all_purpose_counter",
-		"term": "All-Purpose Counter",
-		"see_also": [
-			"component_limitations",
-			"uses_x_type"
+		"term": "Jetons Génériques",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les jetons génériques (ou compteurs génériques) peuvent être utilisés pour suivre divers états de jeu et statuts. Ils n'ont pas de règles inhérentes. Les capacités de carte peuvent créer et définir différents types de compteurs. Si un compteur est requis, un jeton générique est utilisé pour suivre sa présence dans la partie.<br><ul><li><red>Les jetons génériques sont considérés comme des pions pour toutes les utilisations du jeu.</red></li><li><red>Une capacité qui fait référence à un « compteur générique » peut faire référence à n'importe quel compteur générique, quels que soient les autres types que ce compteur pourrait avoir.</red></li><li><red>Lorsqu'un compteur générique est déplacé d'une carte à une autre, il perd son type précédent et gagne le type défini sur la nouvelle carte qu'il occupe. Si la nouvelle carte ne définit pas de type, il est considéré uniquement comme un « compteur générique ».</red></li></ul>",
+				"whats_new": "Définit les compteurs/jetons génériques comme des pions pour le jeu et détaille comment ils perdent ou gagnent des types lorsqu'ils sont déplacés."
+			}
 		]
 	},
 	{
 		"id": "alliance",
 		"term": "Alliance",
-		"see_also": [
-			"cost",
-			"initiating_abilities",
-			"keywords"
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lorsqu'un joueur déclare son intention de jouer une carte avec le mot-clé alliance, un ou plusieurs autres joueurs peuvent l'aider à payer les coûts de cette carte.<br><ul><li><red>Seul le joueur jouant la carte avec le mot-clé alliance est considéré comme résolvant cette carte.</red></li></ul>",
+				"whats_new": "Clarification sur le fait que seul le joueur qui joue effectivement la carte alliance est considéré comme la résolvant."
+			}
 		]
 	},
 	{
 		"id": "ally",
-		"term": "Ally",
-		"see_also": [
-			"ally_limit",
-			"consequential_damage",
-			"hit_points"
+		"term": "Allié",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Allié est un type de carte joueur qui représente les amis, soutiens ou compagnons d'une identité.<br><ul><li>Si un allié entre en jeu, il y reste jusqu'à ce qu'une capacité ou un effet de jeu le fasse quitter le jeu. Si ses points de vie tombent à zéro, il est vaincu et défaussé du jeu.</li><li>Pendant son tour, un joueur peut utiliser n'importe quel nombre de ses alliés pour attaquer ou contrer. L'allié doit s'incliner pour cela.</li><li>Après qu'un allié a attaqué ou contré, infligez-lui des dégâts consécutifs égaux au nombre d'icônes de dégâts consécutifs sous son champ ATQ ou CTR. (Si l'allié est sonné/désorienté, l'attaque/contre est annulé et il ne subit pas ces dégâts.)</li><li>Si un joueur est attaqué, tout joueur peut incliner un allié qu'il contrôle pour défendre. Si un allié défend, tous les dégâts de l'attaque lui sont infligés.</li><li>Les attaques, contres, défenses, actions et capacités déclenchées résolues par des alliés ne sont pas considérés comme étant effectués par l'identité du joueur.</li></ul>"
+			}
 		]
 	},
 	{
 		"id": "ally_limit",
-		"term": "Ally Limit",
-		"see_also": [
-			"ally",
-			"discard",
-			"enters_pla"
+		"term": "Limite d'Alliés",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Chaque joueur est autorisé à contrôler un maximum de trois alliés en jeu à un moment donné. C'est ce qu'on appelle la « limite d'alliés ». Un joueur peut jouer ou mettre en jeu des alliés au-delà de cette limite. Cependant, s'il contrôle plus d'alliés que sa limite, il doit immédiatement choisir et défausser des alliés jusqu'à ce qu'il respecte la limite. Cela se produit avant que les capacités liées à l'entrée en jeu ne se résolvent."
+			}
 		]
 	},
 	{
 		"id": "already",
-		"term": "Already",
-		"see_also": [
-			"alteration_effect"
+		"term": "« Déjà »",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Effets d'altération"
+			}
 		]
 	},
 	{
 		"id": "alter_ego",
-		"term": "Alter-Ego",
-		"see_also": [
-			"form",
-			"identity"
-		]
-	},
-	{
-		"id": "alter_ego_form",
-		"term": "Alter-Ego Form",
-		"see_also": [
-			"form",
-			"identity"
+		"term": "Alter ego, forme d'alter ego",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Forme, changer de forme, Identité"
+			}
 		]
 	},
 	{
 		"id": "alteration_effect",
-		"term": "Alteration Effect",
-		"see_also": [
-			"ability",
-			"activation",
-			"modifiers",
-			"replacement_effect",
-			"target"
+		"term": "Effet d'altération",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Un effet d'altération modifie la résolution d'une capacité qui le précède. Les types d'effets d'altération incluent :<br><ul><li><b>Supplémentaire</b> — Indique un modificateur à une capacité ou à un état de jeu. Ce modificateur se résout simultanément avec la capacité qu'il modifie.</li><li><b>Déjà</b> — Indique la résolution d'une capacité alternative si une condition spécifique est remplie. Le jeu vérifie cette condition avant que la capacité précédente ne tente de se résoudre. Si oui, l'effet « déjà » se résout à la place.</li><li><b>Chaque fois</b> — Indique une interruption temporaire à une capacité en cours de résolution. Lorsqu'une condition est remplie, la capacité s'interrompt, l'effet « chaque fois » se résout entièrement, puis la capacité initiale reprend sa résolution.</li><li><b>Cette activation/attaque/manigance/contre</b> — Un effet qui modifie cette activation, attaque ou contre spécifiquement.<ul><li>Si « cette attaque/activation » fait partie d'une condition pour un effet, cela n'en fait pas un effet d'altération.</li></ul></li></ul>"
+			}
 		]
 	},
 	{
 		"id": "amplify_icon",
-		"term": "Amplify Icon",
-		"see_also": [
-			"activation",
-			"boost",
-			"enemy",
-			"icons"
+		"term": "Icône d'Amplification",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "L'icône d'amplification représente diverses forces qui renforcent ou soutiennent le méchant. Lorsqu'une carte <b>boost</b> est retournée face visible lors d'une activation ennemie, ajoutez une icône de <b>boost</b> supplémentaire à cette carte pour chaque icône d'amplification en jeu."
+			}
 		]
 	},
 	{
 		"id": "and",
-		"term": "And",
-		"see_also": [
-			"ability",
-			"cancel",
-			"prevent"
+		"term": "« Et »",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le mot « et » indique que deux effets ou plus dans une capacité se résolvent simultanément.<br><ul><li>Les effets individuels connectés par « et » ne sont pas dépendants les uns des autres. Résolvez chaque effet autant que possible.</li><li>Chaque effet connecté par « et » peut être annulé ou prévenu indépendamment.</li></ul>"
+			}
 		]
 	},
 	{
 		"id": "arrow_icon",
-		"term": "Arrow Icon",
-		"see_also": [
-			"cost_arrow_icon"
+		"term": "Icône de coût en forme de flèche",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Icône de coût en forme de flèche (à C)"
+			}
 		]
 	},
 	{
 		"id": "aspect_card",
-		"term": "Aspect Card",
-		"see_also": [
-			"basic_card",
-			"classifications",
-			"identity_specific_card"
+		"term": "Cartes d'affinité",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les cartes de la classification « affinité » sont toutes les cartes qui appartiennent aux affinités Agressivité, Justice, Commandement et/ou Protection (ou 'Pool).<br><ul><li>Lors de la construction d'un deck, un joueur doit choisir l'une des affinités. Le reste du deck (la partie non allouée aux cartes spécifiques à l'identité) peut ensuite être personnalisé avec des cartes appartenant à l'affinité choisie ou des cartes basiques.</li><li>L'affinité d'une carte est désignée par le nom de l'affinité imprimé au bas de la carte.</li></ul>"
+			}
 		]
 	},
 	{
 		"id": "assault",
-		"term": "Assault",
-		"see_also": [
-			"consequential_damage",
-			"keywords"
+		"term": "Assaut",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lorsqu'un personnage effectue un contre de base contre une manigance avec le mot-clé assaut, ce personnage utilise son ATQ au lieu de son CTR.<br><ul><li>Si le personnage qui contre est un allié, il subit les dégâts consécutifs indiqués sous son ATQ au lieu de son CTR après le contre.</li><li>Les capacités qui augmentent le « pouvoir de base » d'un personnage peuvent être utilisées pour augmenter l'ATQ de ce personnage lorsqu'il contre une manigance avec assaut.</li></ul>"
+			}
 		]
 	},
 	{
 		"id": "atk",
-		"term": "ATK",
-		"see_also": [
-			"attack_player_ability_type",
-			"basic_power"
+		"term": "ATQ",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Attaque (Activation du Joueur), Pouvoir de Base"
+			}
 		]
 	},
 	{
 		"id": "attach_to",
-		"term": "Attach To",
-		"see_also": [
-			"attachment",
-			"game_element",
-			"upgrade"
+		"term": "Attachez cette carte",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Si une carte utilise l'expression « attachez cette carte à », elle doit être attachée à (placée en dessous et légèrement recouverte par) l'élément de jeu spécifié lorsqu'elle entre en jeu.<br><ul><li>Une fois attachée, elle reste en jeu jusqu'à ce que l'élément auquel elle est attachée quitte le jeu (la carte attachée est alors défaussée), ou qu'une capacité la fasse quitter le jeu.</li><li>Une carte attachée s'incline et se redresse indépendamment de l'élément de jeu auquel elle est attachée.</li><li>La phrase « attachez cette carte » est vérifiée au moment où la carte devrait être attachée, mais n'est plus vérifiée ensuite. Si la vérification initiale échoue, la carte ne peut pas être attachée et reste dans son état précédent. Si elle ne peut pas y rester, défaussez-la.<ul><li><red>La phrase « attachez cette carte » d'une carte n'est pas résolue si une autre capacité oblige cette carte à s'attacher à un élément de jeu spécifique.</red></li></ul></li></ul>",
+				"whats_new": "Précise que la phrase d'attachement n'est pas résolue si une autre capacité impose déjà l'attachement de la carte."
+			}
 		]
 	},
 	{
 		"id": "attachment",
-		"term": "Attachment",
-		"see_also": [
-			"attach_to",
-			"dash_value",
-			"encounter_card",
-			"enters_play",
-			"game_element",
-			"permanent"
+		"term": "Attachement",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "L'attachement est un type de carte rencontre. Lorsqu'un attachement entre en jeu, il s'attache à une autre carte ou élément de jeu.<br><ul><li>S'il s'attache à un personnage, il peut modifier ses valeurs d'ATQ, de MNG et/ou de CTR.<ul><li>S'il a un modificateur « MNG/CTR », il modifie la MNG si c'est un méchant/sbire, et le CTR si c'est un héros/allié.</li><li>S'il modifie une valeur que le personnage n'a pas ou qui est un tiret (–), ce modificateur est ignoré.</li></ul></li><li>Lorsqu'un attachement attaché à une carte joueur utilise les mots « vous » ou « votre », cela fait référence au contrôleur de la carte joueur.<ul><li>Seul le joueur qui contrôle la carte à laquelle l'attachement est attaché peut déclencher ses capacités ou payer ses coûts.</li></ul></li></ul>"
+			}
 		]
 	},
 	{
 		"id": "attack_enemy_activation",
-		"term": "Attack (Enemy Activation)",
-		"see_also": [
-			"activation",
-			"ally",
-			"attacks_against_allies",
-			"boost",
-			"damage",
-			"defend",
-			"enemy",
-			"identity",
-			"minion",
-			"modifiers",
-			"retaliate_x",
-			"target",
-			"villain",
-			"villainous"
+		"term": "Attaque (Activation des Ennemis)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une attaque est un type d'activation ennemie. Lorsqu'un ennemi initie une attaque, il cible un joueur spécifique, puis résout cette attaque contre ce joueur.<br><ul><li>Les attaques ennemies sont toujours initiées à la fois contre un joueur et contre un personnage.<ul><li>Normalement, le personnage attaqué est le héros du joueur, mais des capacités peuvent forcer un ennemi à attaquer l'alter ego ou un allié. Dans tous ces cas, le joueur est toujours considéré comme attaqué.</li><li><red>Si un personnage autre que le personnage attaqué défend l'attaque, ce personnage devient la nouvelle cible de cette attaque.</red></li><li>Si un joueur autre que le joueur attaqué défend l'attaque avec un personnage qu'il contrôle, ce joueur devient la nouvelle cible de l'attaque.</li><li>Les capacités « Quand/Après que [ennemi] vous attaque » se résolvent quand/après qu'un joueur est attaqué, peu importe le personnage contrôlé qui a été attaqué.</li></ul></li></ul>Pour résoudre une attaque ennemie, suivez ces étapes :<br><ol><li>Si un méchant (ou un sbire avec <i>vilenie</i>) attaque, donnez-lui une carte boost face cachée.</li><li>Si un joueur souhaite défendre, il incline un héros ou un allié comme défenseur. Si un autre joueur défend, il devient le joueur cible.</li><li>Résolvez chaque carte de boost de l'attaquant : a. Retournez la carte face visible. b. Résolvez les capacités « Boost ». c. Augmentez l'ATQ de l'ennemi. d. Défaussez la carte de boost. e. Répétez s'il en reste.</li><li>Infligez les dégâts de l'attaque égaux à l'ATQ modifiée :<ul><li>Si un héros effectue une défense de base, les dégâts sont réduits par sa valeur de DEF. Le reste lui est infligé. (Si un héros a l'état tenace et fait une défense de base, les dégâts sont d'abord réduits par la DEF. S'ils sont réduits à 0, il garde son état tenace).</li><li>Si un allié défend, tous les dégâts lui sont infligés. <red>Si l'allié défenseur quitte le jeu avant que les dégâts ne soient infligés, l'attaque est considérée comme n'ayant aucun défenseur et l'identité du contrôleur de l'allié devient la cible de l'attaque.</red></li><li>Si aucun personnage ne défend, l'attaque est non défendue. Tous les dégâts sont infligés au personnage ciblé.</li></ul></li><li>L'attaque termine sa résolution et les capacités suivantes se déclenchent dans l'ordre : a. Le mot-clé Riposte X (si le personnage attaqué <red>est encore en jeu</red>). b. Les capacités Forcées (ex: « après que [personnage] attaque... »). c. Les capacités non forcées.</li></ol>Ces règles s'appliquent aussi aux attaques ennemies :<ul><li>Les interruptions « quand [<red>nom de l'ennemi</red>] attaque » ont le même timing que « quand [<red>le méchant/un ennemi</red>] initie une attaque ».</li><li>Si une attaque se termine avant que les dégâts ne soient infligés, les capacités qui se déclenchent après qu'un personnage défend se résolvent, mais celles après qu'un ennemi attaque ne se résolvent pas.</li></ul>",
+				"whats_new": "Clarification sur le changement de cible lors d'une défense, l'allié qui quitte le jeu avant les dégâts, et la condition de survie pour Riposte."
+			}
 		]
 	},
 	{
-		"id": "attack_player_action",
-		"term": "Attack (Player Ability Type)",
-		"see_also": [
-			"ally",
-			"basic_power",
-			"damage",
-			"defend",
-			"enemy",
-			"identity",
-			"labeled_ability",
-			"minion",
-			"modifiers",
-			"retaliate_x",
-			"target",
-			"villain"
+		"id": "attack_player_ability_type",
+		"term": "Attaque (Activation du Joueur)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certains effets de jeu et capacités font référence à une attaque. Cela peut se produire de différentes manières :<br><ul><li>Un héros ou un allié peut utiliser son pouvoir d'attaque de base pour attaquer un ennemi. Le personnage doit s'incliner pour utiliser ce pouvoir, infligeant à l'ennemi des dégâts égaux à son ATQ.<ul><li>Un personnage ne peut initier une attaque de base que s'il y a un ennemi qui peut être attaqué, ou si ce personnage est sonné.</li></ul></li><li>Si une capacité déclenchée est étiquetée comme une attaque (ex: « Action de Héros (attaque) »), sa résolution est considérée comme une attaque de la cible spécifiée. Sauf mention contraire, le héros ne s'incline pas.<ul><li>Une capacité étiquetée comme attaque compte comme une seule attaque, même si elle inflige plusieurs occurrences de dégâts.</li><li>Si une capacité d'attaque voit ses dégâts augmentés par une autre capacité, chaque occurrence de dégâts (ne contenant pas le mot « supplémentaire ») est augmentée.</li></ul></li><li>Si une capacité dit « Effectuez les X attaques suivantes dans l'ordre », suivies d'instances de dégâts, chacune de ces instances est une attaque séparée.<ul><li>Une capacité augmentant les dégâts d'une attaque n'augmentera que l'une de ces instances d'attaque.</li></ul></li><li>Les attaques de héros et d'alliés peuvent cibler n'importe quel ennemi, sauf si une capacité (comme <i>garde</i>) empêche cet ennemi d'être attaqué.</li><li>Lorsqu'une attaque cible plusieurs ennemis, le personnage attaquant est considéré comme ayant attaqué chacun d'eux.<ul><li>Chaque ennemi attaqué avec le mot-clé Riposte X qui <red>est encore en jeu après la résolution de l'attaque</red> inflige ses dégâts de riposte à l'attaquant.</li></ul></li><li>L'ordre de résolution des capacités déclenchées par l'attaque est :<ol><li>Le mot-clé Riposte X (si le personnage attaqué n'a pas été vaincu).</li><li>Capacités Forcées (ex: « après que [personnage] attaque... »).</li><li>Capacités non forcées avec les déclencheurs ci-dessus.</li><li>Dégâts consécutifs (pour les alliés).</li></ol></li></ul>",
+				"whats_new": "Clarification sur la nécessité pour les ennemis de survivre à la résolution de l'attaque pour infliger leurs dégâts de riposte."
+			}
 		]
 	},
 	{
-		"id": "attack_against_allies",
-		"term": "Attack Against Allies",
-		"see_also": [
-			"ally",
-			"attack_enemy_activation",
-			"defend",
-			"target"
+		"id": "attacks_against_allies",
+		"term": "Attaques Contre les Alliés",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certains effets amènent un méchant ou un sbire à attaquer un allié directement. Lorsque cela se produit, tout dégât non défendu de cette attaque est placé sur l'allié attaqué.<br><ul><li>Le joueur qui contrôle l'allié est considéré comme le joueur attaqué.<ul><li>Les capacités qui se résolvent pendant/quand/après que l'ennemi attaquant « vous attaque » se résolvent contre le joueur attaqué.</li><li>Les capacités de boost faisant référence à « vous » font référence au joueur contrôlant l'allié attaqué.</li></ul></li><li>Les joueurs peuvent défendre ces attaques normalement en déclarant un héros ou un allié comme défenseur.</li><li>Si l'attaque a <i>déferlement</i> et vainc un allié (que ce soit l'allié attaqué ou un allié défenseur), tout dégât en excès est infligé à l'identité du joueur qui contrôlait l'allié vaincu.</li></ul>",
+				"whats_new": ""
+			}
 		]
 	}
 ]

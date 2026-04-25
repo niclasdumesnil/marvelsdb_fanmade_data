@@ -2,16 +2,12 @@
 	{
 		"id": "ability",
 		"term": "Ability",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "An ability is game text on a card that explains what the card does (or can do). Several examples can be seen in Appendix III of this Rules Reference.<br><ul><li>Card abilities only interact with cards that are in play, unless the ability specifically refers to an out-of-play area or element.</li><li>Card abilities on hero, alter-ego, ally, upgrade, and support cards may only be used if the card is in play, unless the ability specifically refers to being used from an out-of-play state. Event cards implicitly interact with the game from an out-of-play area, as per the rules of the event card type.</li><li>If an ability specifies one or more targets, that ability can only be initiated if it has at least one valid target. <i>For example, an ability that says “deal 5 damage to a minion” cannot be initiated if there are no minions in play</i>.</li><ul><li><i>Examples of targets include but are not limited to: “the villain,” “a minion,” “an enemy,” “a scheme,” “a hero,” “an ally,” “a character,” “a player,” “you,” “a card.”</i></li></ul><li>When an ability has more than one sentence of text, read the entirety of the ability to check for alteration effects that may change the way the ability resolves. Then, resolve the ability one sentence at a time.</li><li>An ability prefaced by a bold timing trigger followed \nby a colon is referred to as a triggered ability. An \nability without a bold timing trigger is referred to as a \nconstant ability. (See below.)</li><li>Player card abilities cannot resolve during game \n<b>setup</b>, unless prefaced by a “<b>Setup</b>” timing trigger.</li><li>The resolution of the following ability types is \nmandatory: constant abilities, “<b>Setup</b>” abilities, \n“<b>When Revealed</b>” abilities, “<b>When Defeated</b>” \nabilities, <span class=\"red\">“<b>Forced</b> <b>Action</b>” abilities</span>, “<b>Forced</b> \n<b>Interrupt</b>” abilities, “<b>Forced</b> <b>Response</b>” abilities, \n“<b>Boost</b>” abilities, and keywords.</li><ul><li>If one of these ability types uses the word “may”, \nthe part of the ability following “may” is optional.</li></ul><li>The resolution of the following ability types is \noptional: “<b>Action</b>”, “<b>Interrupt</b>”, “<b>Response</b>”, \n“<b>Resource</b>”. The player who controls the card that \nhas an optional ability determines whether or not to \nuse that ability at the appropriate time. Any player \ncan use such an ability on an encounter card, with the \nfollowing exceptions:</li><ul><li>Only the player who controls a player card with an \nattachment that uses the word “you” or “your” can \ntrigger abilities or pay costs on that attachment.</li><li>Only the player with an obligation in their play area \ncan trigger abilities or pay costs on that obligation.&nbsp;</li></ul></ul><b>Constant Abilities</b> — A constant ability is any non-keyword ability whose text contains no bold timing trigger defining its ability type. A constant ability becomes active as soon as its card enters play and remains active while the card is in play.<br><ul><li>Some constant abilities continuously seek a specific condition (denoted by words such as “during”, “if”, or “while”). The effects of such abilities are active anytime the specific condition is met.</li><li>If multiple instances of the same constant ability are in play, each instance affects the game independently.</li></ul><b>Triggered Abilities</b> — A triggered ability is indicated by a bold timing trigger followed by a colon and the rest of the ability text.<br><ul><li>Unless prefaced by the word “<b>Forced</b>”, all <b>interrupt</b> and <b>response</b> abilities are optional.</li><li>“<b>Forced</b>” abilities, “<b>When Revealed</b>” abilities, “<b>When Defeated</b>” abilities, and “When Completed” abilities are triggered by the game at the ability’s appropriate timing point.</li><li>If the bold timing trigger of an ability contains the word “Hero” or “Alter-Ego,” the ability can only be used if the player triggering the ability is in the specified form.</li><li>If quotation marks are used around a timing trigger and colon, the quoted text is not itself a timing trigger, but is instead referring to other abilities with that trigger.</li></ul><b>Simultaneous Timing Priority</b> — Some abilities have timing priority over other abilities. In order, the timing priority of abilities with the same triggering condition is:<br><ol><li> Constant abilities, delayed effects, lasting effects, keywords, and , , ,  icons.</li><li>Status cards.</li><li>“<b>Forced</b> <b>Interrupt</b>” abilities.</li><li>“<b>Interrupt</b>” abilities.</li><li> “<b>Boost</b>,” “<b>When Defeated</b>,” and “<b>When Revealed</b>” abilities.</li><li>“<b>Forced</b> <b>Response</b>” abilities.</li><li> “<b>Response</b>” abilities.</li><li>Consequential damage</li></ol>"
-			}
-		],
-		"whats_new": [
-			{
-				"version": "1.7",
-				"diff": "<ul><li><span class=\"red\">“<b>Forced</b> <b>Action</b>” abilities</span></li></ul>"
+				"content": "An ability is game text on a card that explains what the card does (or can do). Several examples can be seen in Appendix III of this Rules Reference.<br><ul><li>Card abilities only interact with cards that are in play, unless the ability specifically refers to an out-of-play area or element.</li><li>Card abilities on hero, alter-ego, ally, upgrade, and support cards may only be used if the card is in play, unless the ability specifically refers to being used from an out-of-play state. Event cards implicitly interact with the game from an out-of-play area, as per the rules of the event card type.</li><li>If an ability specifies one or more targets, that ability can only be initiated if it has at least one valid target. <i>For example, an ability that says “deal 5 damage to a minion” cannot be initiated if there are no minions in play</i>.</li><ul><li><i>Examples of targets include but are not limited to: “the villain,” “a minion,” “an enemy,” “a scheme,” “a hero,” “an ally,” “a character,” “a player,” “you,” “a card.”</i></li></ul><li>When an ability has more than one sentence of text, read the entirety of the ability to check for alteration effects that may change the way the ability resolves. Then, resolve the ability one sentence at a time.</li><li>An ability prefaced by a bold timing trigger followed by a colon is referred to as a triggered ability. An ability without a bold timing trigger is referred to as a constant ability. (See below.)</li><li>Player card abilities cannot resolve during game <b>setup</b>, unless prefaced by a “<b>Setup</b>” timing trigger.</li><li>The resolution of the following ability types is mandatory: constant abilities, “<b>Setup</b>” abilities, “<b>When Revealed</b>” abilities, “<b>When Defeated</b>” abilities, <red>“<b>Forced</b> <b>Action</b>” abilities</red>, “<b>Forced</b> <b>Interrupt</b>” abilities, “<b>Forced</b> <b>Response</b>” abilities, “<b>Boost</b>” abilities, and keywords.</li><ul><li>If one of these ability types uses the word “may”, the part of the ability following “may” is optional.</li></ul><li>The resolution of the following ability types is optional: “<b>Action</b>”, “<b>Interrupt</b>”, “<b>Response</b>”, “<b>Resource</b>”. The player who controls the card that has an optional ability determines whether or not to use that ability at the appropriate time. Any player can use such an ability on an encounter card, with the following exceptions:</li><ul><li>Only the player who controls a player card with an attachment that uses the word “you” or “your” can trigger abilities or pay costs on that attachment.</li><li>Only the player with an obligation in their play area can trigger abilities or pay costs on that obligation.</li></ul></ul><b>Constant Abilities</b> — A constant ability is any non-keyword ability whose text contains no bold timing trigger defining its ability type. A constant ability becomes active as soon as its card enters play and remains active while the card is in play.<br><ul><li>Some constant abilities continuously seek a specific condition (denoted by words such as “during”, “if”, or “while”). The effects of such abilities are active anytime the specific condition is met.</li><li>If multiple instances of the same constant ability are in play, each instance affects the game independently.</li></ul><b>Triggered Abilities</b> — A triggered ability is indicated by a bold timing trigger followed by a colon and the rest of the ability text.<br><ul><li>Unless prefaced by the word “<b>Forced</b>”, all <b>interrupt</b> and <b>response</b> abilities are optional.</li><li>“<b>Forced</b>” abilities, “<b>When Revealed</b>” abilities, “<b>When Defeated</b>” abilities, and “When Completed” abilities are triggered by the game at the ability’s appropriate timing point.</li><li>If the bold timing trigger of an ability contains the word “Hero” or “Alter-Ego,” the ability can only be used if the player triggering the ability is in the specified form.</li><li>If quotation marks are used around a timing trigger and colon, the quoted text is not itself a timing trigger, but is instead referring to other abilities with that trigger.</li></ul><b>Simultaneous Timing Priority</b> — Some abilities have timing priority over other abilities. In order, the timing priority of abilities with the same triggering condition is:<br><ol><li> Constant abilities, delayed effects, lasting effects, keywords, and , , ,  icons.</li><li>Status cards.</li><li>“<b>Forced</b> <b>Interrupt</b>” abilities.</li><li>“<b>Interrupt</b>” abilities.</li><li> “<b>Boost</b>,” “<b>When Defeated</b>,” and “<b>When Revealed</b>” abilities.</li><li>“<b>Forced</b> <b>Response</b>” abilities.</li><li> “<b>Response</b>” abilities.</li><li>Consequential damage</li></ol>",
+				"whats_new": "<ul><li><red>“<b>Forced</b> <b>Action</b>” abilities</red></li></ul>"
 			}
 		],
 		"see_also": [
@@ -41,11 +37,12 @@
 	},
 	{
 		"id": "acceleration_icon",
-		"term": "Acceleration icon",
+		"term": "Acceleration Icon",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "An acceleration icon represents additional forces that are advancing the villain’s nefarious plans. During step one of the villain phase, place X additional threat on the main scheme, where X is the number of acceleration icons in play.<br><ul><li>An acceleration icon can be removed from play by defeating the encounter card it is printed on.</li><li>Accleration icons are not considered acceleration tokens, and vice versa.</li></ul>"
+				"content": "An acceleration icon represents additional forces that are advancing the villain’s nefarious plans. During step one of the villain phase, place X additional threat on the main scheme, where X is the number of acceleration icons in play.<br><ul><li>An acceleration icon can be removed from play by defeating the encounter card it is printed on.</li><li>Acceleration icons are not considered acceleration tokens, and vice versa.</li></ul>"
 			}
 		],
 		"see_also": [
@@ -58,10 +55,11 @@
 	{
 		"id": "acceleration_token",
 		"term": "Acceleration Token",
+		"type": "official",
 		"versions": [
 			{
-				"version": "",
-				"content": "Acceleration tokens are functionally equivalent to acceleration icons (but are not considered acceleration icons). They are placed next to the main scheme as a reminder to add X additional threat to the main scheme during step one of the villain phase, where X is the number of acceleration tokens in play.<div>Acceleration tokens enter play through one of two effects:<br><ul><li>If the encounter deck is empty, place one acceleration token next to the main scheme.</li><li>Card effects may instruct the players to add an acceleration token to play.</li><ul><li>Acceleration tokens placed on cards other than the main scheme still add threat to the main scheme during step one of the villain phase.</li></ul></ul>Acceleration tokens on the main scheme cannot be removed from play. Unlike other tokens, when a main scheme card leaves play, the acceleration token does not get discarded.<br><ul><li>Acceleration tokens placed on cards other than the main scheme are removed from play when the card they are placed on leaves play.</li><li>Accleration tokens are not considered acceleration icons, and vice versa.</li></ul></div>"
+				"version": "1.7",
+				"content": "Acceleration tokens are functionally equivalent to acceleration icons (but are not considered acceleration icons). They are placed next to the main scheme as a reminder to add X additional threat to the main scheme during step one of the villain phase, where X is the number of acceleration tokens in play.<div>Acceleration tokens enter play through one of two effects:<br><ul><li>If the encounter deck is empty, place one acceleration token next to the main scheme.</li><li>Card effects may instruct the players to add an acceleration token to play.</li><ul><li>Acceleration tokens placed on cards other than the main scheme still add threat to the main scheme during step one of the villain phase.</li></ul></ul>Acceleration tokens on the main scheme cannot be removed from play. Unlike other tokens, when a main scheme card leaves play, the acceleration token does not get discarded.<br><ul><li>Acceleration tokens placed on cards other than the main scheme are removed from play when the card they are placed on leaves play.</li><li>Acceleration tokens are not considered acceleration icons, and vice versa.</li></ul></div>"
 			}
 		],
 		"see_also": [
@@ -74,36 +72,24 @@
 	{
 		"id": "action",
 		"term": "Action",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "“<b>Action</b>” is a type of triggered ability. Players are permitted to trigger <b>action</b> abilities during their turn, or by request during other players’ turns.<br><ul><li>Players can only trigger <b>action</b> abilities on cards they control or on encounter cards. Players cannot trigger <b>action</b> abilities on obligations in other players’ play areas.</li><li><span class=\"red\"><span class=\"red\">Each “<b>Forced</b> <b>Action</b>” ability must be resolved before the player phase can end.&nbsp;</span></span></li><ul><li><span class=\"red\"><span class=\"red\">A <b>forced</b> <b>action</b> ability can be triggered at any time a non-<b>forced</b> <b>action</b> ability could be triggered.<span class=\"red\"></span></span></span></li><li><span class=\"red\"><span class=\"red\">If such an ability has a cost that cannot be paid or requires one or more valid targets and has none, the phase can end without that ability being resolved.</span></span></li></ul></ul>"
-			}
-		],
-		"whats_new": [
-			{
-				"version": "1.7",
-				"diff": "<ul><li><span class=\"red\"><span class=\"red\">Each “<b>Forced</b> <b>Action</b>” ability must be resolved before the player phase can end.&nbsp;</span></span></li><ul><li><span class=\"red\"><span class=\"red\">A <b>forced</b> <b>action</b> ability can be triggered at any time a non-<b>forced</b> <b>action</b> ability could be triggered.<span class=\"red\"></span></span></span></li><li><span class=\"red\"><span class=\"red\">If such an ability has a cost that cannot be paid or requires one or more valid targets and has none, the phase can end without that ability being resolved.</span></span></li></ul></ul>"
+				"content": "“<b>Action</b>” is a type of triggered ability. Players are permitted to trigger <b>action</b> abilities during their turn, or by request during other players’ turns.<br><ul><li>Players can only trigger <b>action</b> abilities on cards they control or on encounter cards. Players cannot trigger <b>action</b> abilities on obligations in other players’ play areas.</li><li><red>Each “<b>Forced</b> <b>Action</b>” ability must be resolved before the player phase can end.</red></li><ul><li><red>A <b>forced</b> <b>action</b> ability can be triggered at any time a non-<b>forced</b> <b>action</b> ability could be triggered.</red></li><li><red>If such an ability has a cost that cannot be paid or requires one or more valid targets and has none, the phase can end without that ability being resolved.</red></li></ul></ul>",
+				"whats_new": "Added clarifications regarding Forced Action abilities and their timing before the player phase ends."
 			}
 		]
 	},
 	{
 		"id": "activation",
 		"term": "Activation",
+		"type": "official",
 		"versions": [
 			{
-				"version": "",
-				"content": "There are two types of enemy activations: an attack activation and a scheme activation. Whenever an enemy attacks or schemes, it is considered to have activated.<br><ul><li>During step two of the villain phase, the villain activates once per player, in player order. If the identity of the player resolving the activation is in hero form, the villain initiates an attack against that player’s identity. If the identity of the player resolving the activation is in alter-ego form, the villain initiates a scheme.</li><li>During step two of the villain phase, each minion engaged with a player activates against that player. If the identity of the engaged player is in hero form, the minion initiates an attack against that player’s identity. If the identity of the engaged player is in alter-ego form, the minion initiates a scheme.</li><li>Each time the villain activates, give the villain one <b>boost</b> card from the encounter deck for that activation.</li><li>Some card abilities can also cause enemies to attack or scheme. These are also considered activations.</li><li>If multiple enemies activate against you simultaneously, resolve the villain’s activation first (if any) in the order of your choice, followed by minion activations in the order of your choice.</li><li>If an activating minion leaves play, that minion’s activation ends immediately and no further steps of that activation resolve.</li><li>An effect that initiates an enemy activation is considered resolved after that activation has fully resolved.</li><li>If an effect initiates an activation during the resolution of another activation, the newly initiated activation resolves after the current activation has f inished resolving.</li><ul><li>If multiple activations are initiated this way, the first player decides the order in which they are resolved.&nbsp;</li><li><span class=\"red\">All abilities triggered by the initial activation resolve before subsequent activations initiate.</span></li></ul></ul>"
-			}
-		],
-		"whats_new": [
-			{
 				"version": "1.7",
-				"diff": "<ul><ul><li><span class=\"red\">All abilities triggered by the initial activation resolve before subsequent activations initiate.</span></li></ul></ul>"
-			},
-			{
-				"version": "",
-				"diff": "<ul><ul><li><span class=\"red\">All abilities triggered by the initial activation resolve before subsequent activations initiate.</span></li></ul></ul>"
+				"content": "There are two types of enemy activations: an attack activation and a scheme activation. Whenever an enemy attacks or schemes, it is considered to have activated.<br><ul><li>During step two of the villain phase, the villain activates once per player, in player order. If the identity of the player resolving the activation is in hero form, the villain initiates an attack against that player’s identity. If the identity of the player resolving the activation is in alter-ego form, the villain initiates a scheme.</li><li>During step two of the villain phase, each minion engaged with a player activates against that player. If the identity of the engaged player is in hero form, the minion initiates an attack against that player’s identity. If the identity of the engaged player is in alter-ego form, the minion initiates a scheme.</li><li>Each time the villain activates, give the villain one <b>boost</b> card from the encounter deck for that activation.</li><li>Some card abilities can also cause enemies to attack or scheme. These are also considered activations.</li><li>If multiple enemies activate against you simultaneously, resolve the villain’s activation first (if any) in the order of your choice, followed by minion activations in the order of your choice.</li><li>If an activating minion leaves play, that minion’s activation ends immediately and no further steps of that activation resolve.</li><li>An effect that initiates an enemy activation is considered resolved after that activation has fully resolved.</li><li>If an effect initiates an activation during the resolution of another activation, the newly initiated activation resolves after the current activation has finished resolving.</li><ul><li>If multiple activations are initiated this way, the first player decides the order in which they are resolved.</li><li><red>All abilities triggered by the initial activation resolve before subsequent activations initiate.</red></li></ul></ul>",
+				"whats_new": "Clarified that all abilities triggered by the initial activation resolve before subsequent activations initiate."
 			}
 		],
 		"see_also": [
@@ -118,6 +104,7 @@
 	{
 		"id": "active_player",
 		"term": "Active Player",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
@@ -131,18 +118,26 @@
 	},
 	{
 		"id": "additional",
-		"term": "Additional",
+		"term": "“Additional”",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Alteration Effect"
+			}
+		],
 		"see_also": [
 			"alteration_effect"
 		]
 	},
 	{
 		"id": "after",
-		"term": "After",
+		"term": "“After”",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "&nbsp;The word “after” refers to a game occurrence that just \nconcluded. Many response abilities use the term “after” to \nspecify the time at which they can be used.&nbsp;&nbsp;"
+				"content": "The word “after” refers to a game occurrence that just concluded. Many response abilities use the term “after” to specify the time at which they can be used."
 			}
 		],
 		"see_also": [
@@ -153,16 +148,12 @@
 	{
 		"id": "all_purpose_counter",
 		"term": "All-Purpose Counter",
+		"type": "official",
 		"versions": [
 			{
-				"version": "",
-				"content": "All-purpose counters can be used to track a variety of different game states and statuses. They have no inherent rules. Card abilities can create and define a number of different counter types, such as “arrow counters” or “web counters.” If a counter is called for, an all-purpose counter is used to track its presence in the game.<br><ul><li><span class=\"red\">All-purpose counters are considered tokens for all game purposes.</span></li><li><span class=\"red\">An ability that refers to an “all-purpose counter” can refer to any all-purpose counter, regardless of what other types that counter might have.</span></li><li><span class=\"red\">When an all-purpose counter is moved from one card to another, it loses any previous type it had and gains the type defined on the new card it occupies. If the new card does not define a type, it is considered only an “all-purpose counter.”</span></li></ul>"
-			}
-		],
-		"whats_new": [
-			{
-				"version": "",
-				"diff": "<ul><li><span class=\"red\">All-purpose counters are considered tokens for all game purposes.</span></li><li><span class=\"red\">An ability that refers to an “all-purpose counter” can refer to any all-purpose counter, regardless of what other types that counter might have.</span></li><li><span class=\"red\">When an all-purpose counter is moved from one card to another, it loses any previous type it had and gains the type defined on the new card it occupies. If the new card does not define a type, it is considered only an “all-purpose counter.”</span></li></ul>"
+				"version": "1.7",
+				"content": "All-purpose counters can be used to track a variety of different game states and statuses. They have no inherent rules. Card abilities can create and define a number of different counter types, such as “arrow counters” or “web counters.” If a counter is called for, an all-purpose counter is used to track its presence in the game.<br><ul><li><red>All-purpose counters are considered tokens for all game purposes.</red></li><li><red>An ability that refers to an “all-purpose counter” can refer to any all-purpose counter, regardless of what other types that counter might have.</red></li><li><red>When an all-purpose counter is moved from one card to another, it loses any previous type it had and gains the type defined on the new card it occupies. If the new card does not define a type, it is considered only an “all-purpose counter.”</red></li></ul>",
+				"whats_new": "Defined all-purpose counters as tokens for all game purposes and detailed how they lose or gain types when moved."
 			}
 		],
 		"see_also": [
@@ -173,16 +164,12 @@
 	{
 		"id": "alliance",
 		"term": "Alliance",
+		"type": "official",
 		"versions": [
 			{
-				"version": "",
-				"content": "When a player declares their intention to play a card with the alliance keyword, any player(s) may help pay the costs for that card.<br><ul><li><span class=\"red\">Only the player playing the card with the alliance keyword is considered to be resolving that card.</span></li></ul>"
-			}
-		],
-		"whats_new": [
-			{
-				"version": "",
-				"diff": "<ul><li><span class=\"red\">Only the player playing the card with the alliance keyword is considered to be resolving that card.</span></li></ul>"
+				"version": "1.7",
+				"content": "When a player declares their intention to play a card with the alliance keyword, any player(s) may help pay the costs for that card.<br><ul><li><red>Only the player playing the card with the alliance keyword is considered to be resolving that card.</red></li></ul>",
+				"whats_new": "Clarified that only the player actually playing the alliance card is considered to be resolving it."
 			}
 		],
 		"see_also": [
@@ -194,63 +181,72 @@
 	{
 		"id": "ally",
 		"term": "Ally",
+		"type": "official",
 		"versions": [
 			{
-				"version": "",
-				"content": "Ally is a player card type that represents an identity’s friends, supporters, or companions.<br><ul><li>If an ally enters play, it remains in play until a card ability or game effect causes it to leave play. If an ally’s remaining hit points are reduced to zero, it is defeated and discarded from play.</li><li>During a player’s turn, they may use any number of allies they control to attack or thwart. An ally must exhaust to attack or thwart.</li><li>After an ally is used to attack or thwart, deal consequential damage to that ally equal to the number of consequential damage icons beneath the ally’s ATK or THW field. (If an ally attempts to attack or thwart while stunned or confused, respectively, that ally will not take consequential damage.)</li><li>If a player is attacked, any player may exhaust an ally they control to defend against the attack. If an ally defends against an attack, all damage from the attack is dealt to the ally.</li><li>Attacks, thwarts, defenses, <b>action</b> abilities, and triggered abilities that resolve from allies in play under a player’s control are not considered to be performed by that player’s identity.</li></ul>"
+				"version": "1.7",
+				"content": "Ally is a player card type that represents an identity’s friends, supporters, or companions.<br><ul><li>If an ally enters play, it remains in play until a card ability or game effect causes it to leave play. If an ally’s remaining hit points are reduced to zero, it is defeated and discarded from play.</li><li>During a player’s turn, they may use any number of allies they control to attack or thwart. An ally must exhaust to attack or thwart.</li><li>After an ally is used to attack or thwart, deal consequential damage to that ally equal to the number of consequential damage icons beneath the ally’s ATK or THW field. (If an ally attempts to attack or thwart while stunned or confused, respectively, that ally will not take consequential damage.)</li><li>If a player is attacked, any player may exhaust an ally they control to defend against the attack. If an ally defends against an attack, all damage from the attack is dealt to the ally.</li><li>Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve from allies in play under a player’s control are not considered to be performed by that player’s identity.</li></ul>"
 			}
 		],
 		"see_also": [
 			"ally_limit",
 			"consequential_damage",
-			"hit_points"
+			"hit_points_hp"
 		]
 	},
 	{
 		"id": "ally_limit",
 		"term": "Ally Limit",
+		"type": "official",
 		"versions": [
 			{
-				"version": "",
-				"content": "Each player is permitted to control a maximum of three allies in play at any given time. This is referred to as the “ally limit.” A player may play or put into play allies beyond their ally limit. However, if a player ever controls a number of allies greater than their ally limit in play, they must immediately choose and discard from play ally cards they control until they have a number of allies in play equal to their ally limit. This occurs before abilities that resolve upon entering play"
+				"version": "1.7",
+				"content": "Each player is permitted to control a maximum of three allies in play at any given time. This is referred to as the “ally limit.” A player may play or put into play allies beyond their ally limit. However, if a player ever controls a number of allies greater than their ally limit in play, they must immediately choose and discard from play ally cards they control until they have a number of allies in play equal to their ally limit. This occurs before abilities that resolve upon entering play."
 			}
 		],
 		"see_also": [
 			"ally",
 			"discard",
-			"enters_pla"
+			"enters_play"
 		]
 	},
 	{
 		"id": "already",
-		"term": "Already",
+		"term": "“Already”",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Alteration Effect"
+			}
+		],
 		"see_also": [
 			"alteration_effect"
 		]
 	},
 	{
 		"id": "alter_ego",
-		"term": "Alter-Ego",
+		"term": "Alter-Ego, Alter-Ego Form",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Form, Identity"
+			}
+		],
 		"see_also": [
-			"form",
-			"identity"
-		]
-	},
-	{
-		"id": "alter_ego_form",
-		"term": "Alter-Ego Form",
-		"see_also": [
-			"form",
+			"form_change_form",
 			"identity"
 		]
 	},
 	{
 		"id": "alteration_effect",
 		"term": "Alteration Effect",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "An alteration effect modifies the resolution of an ability that precedes it. Types of alteration effects include:&nbsp;<div><br><div><b>Additional</b> — The word “additional” denotes a modifier to an ability or game state. The additional modifier is resolved simultaneously with any ability it is modifying and under the same conditions as that ability. (For example, Repulsor Blast reads: “Hero <b>Action</b> (attack): Deal 1 damage to an enemy and discard the top 5 cards of your deck. For each printed [energy]&nbsp;<b>resource</b> discarded this way, deal 2 additional damage to that enemy.”)</div><div><br><div><b>Already</b> — The word “already” denotes the resolution of an alternate ability if a specific condition is met. The “already” effect checks if this condition is met before the preceding ability attempts to resolve. If so, the “already” effect resolves instead. (For example, I’m Tough reads: “When Revealed: Give Rhino a tough status card. If Rhino already has a tough status card, this card gains surge.”)</div><div><br></div><div><b>Each Time</b> — The phrase “each time” denotes a temporary interruption to a resolving ability. When a condition is met that is specified by the “each time” effect, the resolution of the preceding ability halts, the “each time” effect resolves in its entirety, then the preceding ability continues resolving. (For example, “You Dare Oppose Me?“ reads: “<b>When Revealed</b>: Discard the top 5 cards of the encounter deck. Each time a card belonging to the Kree Fanatic set is discarded this way, deal that card to yourself as a facedown encounter card.”)</div><div><br></div><div><b>This/That Activation/Attack/Thwart</b> — Effects that refer to “this” or “that” activation, attack, or thwart denote a modifier to that activation, attack, or thwart. (Examples: “That attack gains overkill.” “Give the villain an additional <b>boost</b> card for this activation.”)<br><ul><li>If “this/that activation/attack/thwart” is part of a condition for an effect, it does not make that effect an alteration effect. (For example, the following is not an alteration effect: “If this attack defeats that enemy, heal 2 damage from your hero.”)</li></ul></div></div></div>"
+				"content": "An alteration effect modifies the resolution of an ability that precedes it. Types of alteration effects include:<br><ul><li><b>Additional</b> — The word “additional” denotes a modifier to an ability or game state. The additional modifier is resolved simultaneously with any ability it is modifying and under the same conditions as that ability.</li><li><b>Already</b> — The word “already” denotes the resolution of an alternate ability if a specific condition is met. The “already” effect checks if this condition is met before the preceding ability attempts to resolve. If so, the “already” effect resolves instead.</li><li><b>Each Time</b> — The phrase “each time” denotes a temporary interruption to a resolving ability. When a condition is met that is specified by the “each time” effect, the resolution of the preceding ability halts, the “each time” effect resolves in its entirety, then the preceding ability continues resolving.</li><li><b>This/That Activation/Attack/Thwart</b> — Effects that refer to “this” or “that” activation, attack, or thwart denote a modifier to that activation, attack, or thwart.<ul><li>If “this/that activation/attack/thwart” is part of a condition for an effect, it does not make that effect an alteration effect.</li></ul></li></ul>"
 			}
 		],
 		"see_also": [
@@ -264,10 +260,11 @@
 	{
 		"id": "amplify_icon",
 		"term": "Amplify Icon",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "The amplify icon represents various forces that are empowering or bolstering the villain. When a <b>boost</b> card is turned faceup during an enemy activation, add one additional <b>boost</b> icon to that card for each amplify icon in play."
+				"content": "The amplify icon represents various forces that are empowering or bolstering the villain. When a boost card is turned faceup during an enemy activation, add one additional boost icon to that card for each amplify icon in play."
 			}
 		],
 		"see_also": [
@@ -279,7 +276,8 @@
 	},
 	{
 		"id": "and",
-		"term": "And",
+		"term": "“And”",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
@@ -295,6 +293,13 @@
 	{
 		"id": "arrow_icon",
 		"term": "Arrow Icon",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Cost Arrow Icon"
+			}
+		],
 		"see_also": [
 			"cost_arrow_icon"
 		]
@@ -302,6 +307,7 @@
 	{
 		"id": "aspect_card",
 		"term": "Aspect Card",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
@@ -317,10 +323,11 @@
 	{
 		"id": "assault",
 		"term": "Assault",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "When a character makes a basic thwart against a scheme with the assault keyword, that character uses its ATK instead of its THW.<br><ul><li>If the thwarting character is an ally, it takes the consequential damage listed under its ATK instead of its THW after the thwart.</li><li>Abilities that increase a character’s “basic power” can be used to increase that character’s ATK when that character thwarts a scheme with assault</li></ul>"
+				"content": "When a character makes a basic thwart against a scheme with the assault keyword, that character uses its ATK instead of its THW.<br><ul><li>If the thwarting character is an ally, it takes the consequential damage listed under its ATK instead of its THW after the thwart.</li><li>Abilities that increase a character’s “basic power” can be used to increase that character’s ATK when that character thwarts a scheme with assault.</li></ul>"
 			}
 		],
 		"see_also": [
@@ -331,6 +338,13 @@
 	{
 		"id": "atk",
 		"term": "ATK",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "See: Attack (Player Ability Type), Basic Power"
+			}
+		],
 		"see_also": [
 			"attack_player_ability_type",
 			"basic_power"
@@ -339,16 +353,12 @@
 	{
 		"id": "attach_to",
 		"term": "Attach To",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "If a card uses the phrase “attach to”, it must be attached to (placed beneath and slightly overlapped by) the specified game element as it enters play.<br><ul><li>Once a card is attached, it remains in play until either the element it is attached to leaves play, in which case the attached card is discarded, or an ability or game effect causes the attached card to leave play.</li><li>An attached card exhausts and readies independently of the game element it is attached to.</li><li>The “attach to” phrase is checked for legality when the card would be attached to a game element, but it is not checked again after it is attached. If the initial “attach to” check does not pass, the card is not able to be attached, so it remains in its prior state or game area. If such a card cannot remain in its prior state or game area, discard it.</li><ul><li><span class=\"red\">The “attach to” phrase on a card is not resolved if another ability causes that card to attach to a specific game element.</span></li></ul></ul>"
-			}
-		],
-		"whats_new": [
-			{
-				"version": "1.7",
-				"diff": "<ul><ul><li><span class=\"red\">The “attach to” phrase on a card is not resolved if another ability causes that card to attach to a specific game element.</span></li></ul></ul>"
+				"content": "If a card uses the phrase “attach to”, it must be attached to (placed beneath and slightly overlapped by) the specified game element as it enters play.<br><ul><li>Once a card is attached, it remains in play until either the element it is attached to leaves play, in which case the attached card is discarded, or an ability or game effect causes the attached card to leave play.</li><li>An attached card exhausts and readies independently of the game element it is attached to.</li><li>The “attach to” phrase is checked for legality when the card would be attached to a game element, but it is not checked again after it is attached. If the initial “attach to” check does not pass, the card is not able to be attached, so it remains in its prior state or game area. If such a card cannot remain in its prior state or game area, discard it.<ul><li><red>The “attach to” phrase on a card is not resolved if another ability causes that card to attach to a specific game element.</red></li></ul></li></ul>",
+				"whats_new": "Clarified that the attach to phrase is not resolved if another ability already dictates the attachment of the card."
 			}
 		],
 		"see_also": [
@@ -360,10 +370,11 @@
 	{
 		"id": "attachment",
 		"term": "Attachment",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Attachment is an encounter card type. When an attachment enters play, it attaches to another card or game element.<br><ul><li>If an attachment attaches to a character, it may modify that character’s ATK, SCH, and/or THW values, as indicated by the values in the associated fields on the attachment card.</li><ul><li>If an attachment has a “SCH/THW” modifier, it modifies the attached character’s SCH if that character is a villain or minion, and modifies the attached character’s THW if that character is a hero or ally.</li><li>If an attachment modifies a value the attached character does not have or for which that character has a dash (–) as a value, that modifier is ignored. (For example, if an attachment gives an alter-ego “+1 ATK,” that alter-ego does not get 1 ATK.)</li></ul><li>When an attachment attached to a player card uses the word “you” or “your,” it refers to the attached player card’s controller</li><ul><li>&nbsp;Only the player who controls the card to which that \nattachment is attached can trigger abilities or pay \ncosts on that attachment.&nbsp;&nbsp;</li></ul></ul>"
+				"content": "Attachment is an encounter card type. When an attachment enters play, it attaches to another card or game element.<br><ul><li>If an attachment attaches to a character, it may modify that character’s ATK, SCH, and/or THW values, as indicated by the values in the associated fields on the attachment card.<ul><li>If an attachment has a “SCH/THW” modifier, it modifies the attached character’s SCH if that character is a villain or minion, and modifies the attached character’s THW if that character is a hero or ally.</li><li>If an attachment modifies a value the attached character does not have or for which that character has a dash (–) as a value, that modifier is ignored.</li></ul></li><li>When an attachment attached to a player card uses the word “you” or “your,” it refers to the attached player card’s controller.<ul><li>Only the player who controls the card to which that attachment is attached can trigger abilities or pay costs on that attachment.</li></ul></li></ul>"
 			}
 		],
 		"see_also": [
@@ -378,16 +389,12 @@
 	{
 		"id": "attack_enemy_activation",
 		"term": "Attack (Enemy Activation)",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "An attack is a type of enemy activation. When an enemy initiates an attack, it targets a specific player, then resolves that attack against that player.<br><ul><li>Enemy attacks are always initiated against both a player and a character.</li><ul><li>Normally the attacked character is the player’s hero, but abilities can instead cause an enemy to attack a player’s alter-ego or an ally that player controls. In all of these cases, the player is still considered attacked.</li><li><span class=\"red\">If a character other than the attacked character defends the attack, that character becomes the new target of that attack.</span></li><li>If a player other than the attacked player defends the attack with a character they control, that player becomes the new target of that attack.</li><li>Abilities that trigger “When/After [enemy] attacks you” are resolved when/after a player is attacked, regardless of which character they control was attacked. (<i>For example, Ultron I reads: “<b>Forced</b> <b>Response</b>: After Ultron attacks you, choose to either place 1 threat on the main scheme or put the top card of your deck into play facedown, engaged with you as a drone minion.” This effect resolves against the attacked player regardless of if that player used an ally to defend the attack.</i>)</li></ul></ul>To resolve an enemy attack, follow these steps:<br><ol><li> If a villain, or a minion with the villainous keyword, is attacking, give it one facedown <b>boost</b> card from the encounter deck. (If a minion without the villainous keyword is attacking, skip this step.)</li><li>If a player wishes to defend, that player exhausts a hero or ally as the defender. If a player other than the target player defends, the defending player becomes the target player for this attack.</li><li>Resolve each of the attacking enemy’s <b>boost</b> cards, one at a time and in the order in which they were dealt, by doing the following:</li></ol><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">a. Flip the <b>boost</b> card faceup.</blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">b. Resolve any “<b>Boost</b>” abilities, indicated by the star icon in the <b>boost</b> area. (All other abilities on the <b>boost</b> card are ignored.)</blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">c. Increase the attacking enemy’s ATK value by one for each <b>boost</b> icon on the card.</blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">d. Discard the <b>boost</b> card.</blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">e. If the enemy has any <b>boost</b> cards remaining, repeat these steps with the next <b>boost</b> card</blockquote>4. Deal damage from the attack equal to the attacking enemy’s modified ATK value, based on the following:<ul><ul><li>If a hero makes a basic defense against the attack, the amount of damage dealt is reduced by that hero’s DEF value, and the remaining damage from the attack is dealt to that hero.</li><ul><li>The defending hero is considered to have been attacked.</li><li>If a hero with a tough status makes a basic defense, the damage is first reduced by that hero’s DEF value. If the damage is reduced to 0, the hero keeps their tough status.</li></ul></ul><li>If an ally defends against the attack, all damage from the attack is dealt to the ally. (If the ally is defeated by the attack, additional damage does not carry over to the identity.)</li><ul><li>The defending ally is considered to have been attacked.</li><li>If the defending ally leaves play prior to damage from the attack being dealt, the attack is considered to have no character defending <span class=\"red\">and the identity of that ally’s controller becomes the target of the attack.</span><br><ul><li><b>If no character defends</b> against the attack, the attack is considered undefended. All damage from the attack is dealt to the character targeted by the attack.&nbsp;</li><ul><li>The targeted character is considered to have been attacke.</li></ul></ul></li></ul></ul>5. The attack finishes resolving and the following types of abilities trigger in order:<blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>a. The retaliate X keyword (if the attacked character<span class=\"red\"> is still in play</span>).</div><div>b. <b>Forced</b> abilities with the following triggers (in any \norder):</div><div><ul><ul><li>“after [character] attacks [and damages/defeats] \n[you/an ally]...”</li><li>“after [character] is attacked...”</li><li>“after [character] defends [and takes no \ndamage]...”</li><li>“after [character] [takes/deals] damage...”</li></ul></ul></div><div>c. \nNon-<b>forced</b> abilities with the triggers listed above.</div></blockquote>These rules also apply to enemy attacks:<br><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><ul><li>&nbsp;Interrupts that trigger “when [<span class=\"red\">enemy</span> name] attacks” \nhave the same timing as interrupts that trigger “when \n[<span class=\"red\">the villain/an enemy</span>] initiates an attack.”</li><li>If an enemy attack ends before damage is dealt, \nabilities that trigger after a character defends an \nattack resolve, but abilities that trigger after an \nenemy attacks do not.&nbsp;&nbsp;</li></ul></blockquote>"
-			}
-		],
-		"whats_new": [
-			{
-				"version": "1.7",
-				"diff": "<ul><ul><li><span class=\"red\">If a character other than the attacked character defends the attack, that character becomes the new target of that attack.</span></li></ul></ul><ul><ul><li><span class=\"red\">and the identity of that ally’s controller becomes the target of the attack.</span></li></ul></ul><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><span class=\"red\"> is still in play</span></div></blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><ul><li><span class=\"red\">enemy</span><span class=\"red\">the villain/an enemy</span></li></ul></blockquote>"
+				"content": "An attack is a type of enemy activation. When an enemy initiates an attack, it targets a specific player, then resolves that attack against that player.<br><ul><li>Enemy attacks are always initiated against both a player and a character.<ul><li>Normally the attacked character is the player’s hero, but abilities can instead cause an enemy to attack a player’s alter-ego or an ally that player controls. In all of these cases, the player is still considered attacked.</li><li><red>If a character other than the attacked character defends the attack, that character becomes the new target of that attack.</red></li><li>If a player other than the attacked player defends the attack with a character they control, that player becomes the new target of that attack.</li><li>Abilities that trigger “When/After [enemy] attacks you” are resolved when/after a player is attacked, regardless of which character they control was attacked.</li></ul></li></ul>To resolve an enemy attack, follow these steps:<br><ol><li>If a villain, or a minion with the villainous keyword, is attacking, give it one facedown boost card from the encounter deck.</li><li>If a player wishes to defend, that player exhausts a hero or ally as the defender. If a player other than the target player defends, the defending player becomes the target player for this attack.</li><li>Resolve each of the attacking enemy’s boost cards, one at a time and in the order in which they were dealt: a. Flip the boost card faceup. b. Resolve any “Boost” abilities. c. Increase the attacking enemy’s ATK value by one for each boost icon. d. Discard the boost card. e. Repeat if there are remaining boost cards.</li><li>Deal damage from the attack equal to the attacking enemy’s modified ATK value, based on the following:<ul><li>If a hero makes a basic defense against the attack, the amount of damage dealt is reduced by that hero’s DEF value, and the remaining damage from the attack is dealt to that hero. (If a hero with a tough status makes a basic defense, the damage is first reduced by that hero’s DEF value. If the damage is reduced to 0, the hero keeps their tough status.)</li><li>If an ally defends against the attack, all damage from the attack is dealt to the ally. (If the ally is defeated by the attack, additional damage does not carry over to the identity.) <red>If the defending ally leaves play prior to damage from the attack being dealt, the attack is considered to have no character defending and the identity of that ally’s controller becomes the target of the attack.</red></li><li>If no character defends against the attack, the attack is considered undefended. All damage from the attack is dealt to the character targeted by the attack.</li></ul></li><li>The attack finishes resolving and the following types of abilities trigger in order: a. The retaliate X keyword (if the attacked character <red>is still in play</red>). b. Forced abilities with triggers like “after [character] attacks...” c. Non-forced abilities with the triggers listed above.</li></ol>These rules also apply to enemy attacks:<ul><li>Interrupts that trigger “when [<red>enemy name</red>] attacks” have the same timing as interrupts that trigger “when [<red>the villain/an enemy</red>] initiates an attack.”</li><li>If an enemy attack ends before damage is dealt, abilities that trigger after a character defends an attack resolve, but abilities that trigger after an enemy attacks do not.</li></ul>",
+				"whats_new": "Clarified that changing the defending character changes the target of the attack. Added rules for when a defending ally leaves play before damage. Clarified that a character must survive to retaliate."
 			}
 		],
 		"see_also": [
@@ -408,18 +415,14 @@
 		]
 	},
 	{
-		"id": "attack_player_action",
+		"id": "attack_player_ability_type",
 		"term": "Attack (Player Ability Type)",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Some game effects and card abilities reference an attack. There are a few different ways an attack can occur:<br><ul><li>A hero or ally can use their basic attack power to attack an enemy. A character must exhaust to use this power. This deals damage equal to the character’s ATK value to the enemy.</li><ul><li>A character can only initiate a basic attack if there is an enemy that can be attacked by that character or if that character is stunned.</li></ul><li>If a triggered ability is labeled as an attack—such as “Hero <b>Action</b> (attack)”—resolving that ability is considered to attack the specified target. Unless specified by the ability’s text, a hero does not exhaust when using such an ability.</li><ul><li>An ability labeled as an attack is considered a single attack, even if that attack deals multiple instances of damage.</li><li>When an attack ability has its damage increased by another ability, each instance of damage in that attack ability that does not use the word “additional” is increased by the specified amount.</li></ul><li>If an ability says “Make the following X attacks in order,” followed by two or more instances of damage, each of those instances is considered a separate attack.</li><ul><li>An ability that increases the damage of an attack only increases the damage of one of that ability’s attacks, though such an ability can be triggered separately for each attack.</li></ul><li>Hero and ally attacks can target any enemy, unless a card ability (such as guard) is preventing that enemy from being attacked.<br><li>When an attack targets multiple enemies, the attacking character is considered to have attacked each of those enemies.</li><ul><li>Each attacked enemy with the retaliate X keyword that <span class=\"red\">is still in play after the attack resolves</span> deals its retaliate damage to the attacking character.</li></ul><li>The order of resolution for abilities triggered by the resolution of an attack is as follows:</li><ol><li> The retaliate X keyword (if the attacked character was not defeated).</li><li><b>Forced</b> abilities with the following triggers (in any order): “after [character] attacks [and damages/defeats] [an enemy/a minion]...” “after [character] is attacked...”</li><li>Non-<b>forced</b> abilities with the triggers listed above.</li><li>Consequential damage (for allies).</li></ol></li></ul>"
-			}
-		],
-		"whats_new": [
-			{
-				"version": "1.7",
-				"diff": "<ul><ul><li><span class=\"red\">is still in play after the attack resolves</span></li></ul></ul>"
+				"content": "Some game effects and card abilities reference an attack. There are a few different ways an attack can occur:<br><ul><li>A hero or ally can use their basic attack power to attack an enemy. A character must exhaust to use this power. This deals damage equal to the character’s ATK value to the enemy.<ul><li>A character can only initiate a basic attack if there is an enemy that can be attacked by that character or if that character is stunned.</li></ul></li><li>If a triggered ability is labeled as an attack—such as “Hero Action (attack)”—resolving that ability is considered to attack the specified target. Unless specified by the ability’s text, a hero does not exhaust when using such an ability.<ul><li>An ability labeled as an attack is considered a single attack, even if that attack deals multiple instances of damage.</li><li>When an attack ability has its damage increased by another ability, each instance of damage in that attack ability that does not use the word “additional” is increased by the specified amount.</li></ul></li><li>If an ability says “Make the following X attacks in order,” followed by two or more instances of damage, each of those instances is considered a separate attack.<ul><li>An ability that increases the damage of an attack only increases the damage of one of that ability’s attacks, though such an ability can be triggered separately for each attack.</li></ul></li><li>Hero and ally attacks can target any enemy, unless a card ability (such as guard) is preventing that enemy from being attacked.</li><li>When an attack targets multiple enemies, the attacking character is considered to have attacked each of those enemies.<ul><li>Each attacked enemy with the retaliate X keyword that <red>is still in play after the attack resolves</red> deals its retaliate damage to the attacking character.</li></ul></li><li>The order of resolution for abilities triggered by the resolution of an attack is as follows:<ol><li>The retaliate X keyword (if the attacked character was not defeated).</li><li>Forced abilities with triggers like “after [character] attacks...”.</li><li>Non-forced abilities with the triggers listed above.</li><li>Consequential damage (for allies).</li></ol></li></ul>",
+				"whats_new": "Clarified that enemies must survive the attack resolution to deal their retaliate damage."
 			}
 		],
 		"see_also": [
@@ -438,12 +441,14 @@
 		]
 	},
 	{
-		"id": "attack_against_allies",
-		"term": "Attack Against Allies",
+		"id": "attacks_against_allies",
+		"term": "Attacks Against Allies",
+		"type": "official",
 		"versions": [
 			{
-				"version": "",
-				"content": "Some effects cause a villain or minion to attack an ally directly. When this occurs, any undefended damage from that attack is placed on the ally that was attacked.<br><ul><li>The player who controls the ally is considered the attacked player.</li><ul><li>Abilities that resolve while/when/after the attacking enemy “attacks you” resolve against the attacked player.</li><li>Any <b>boost</b> abilities that refer to “you” refer to the player who controls the attacked ally.</li></ul><li>Players may defend these attacks as normal by declaring a hero or an ally as the defender.</li><li>If the attack has overkill and defeats an ally (whether that ally was the attacked ally or a defending ally), any excess damage from that attack is dealt to the identity of the player who controlled the defeated ally.</li></ul>"
+				"version": "1.7",
+				"content": "Some effects cause a villain or minion to attack an ally directly. When this occurs, any undefended damage from that attack is placed on the ally that was attacked.<br><ul><li>The player who controls the ally is considered the attacked player.<ul><li>Abilities that resolve while/when/after the attacking enemy “attacks you” resolve against the attacked player.</li><li>Any boost abilities that refer to “you” refer to the player who controls the attacked ally.</li></ul></li><li>Players may defend these attacks as normal by declaring a hero or an ally as the defender.</li><li>If the attack has overkill and defeats an ally (whether that ally was the attacked ally or a defending ally), any excess damage from that attack is dealt to the identity of the player who controlled the defeated ally.</li></ul>",
+				"whats_new": ""
 			}
 		],
 		"see_also": [

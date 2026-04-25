@@ -1,31 +1,197 @@
 [
 	{
 		"id": "main_scheme",
-		"term": "Main Scheme",
+		"term": "Main Scheme, Main Scheme Deck",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "The main scheme is a card type. It represents the villain's primary objective. If the amount of threat on a main scheme is equal to or greater than its target threat value, the scheme advances. If the final stage of the main scheme is completed, the villain wins the game."
+				"content": "Main scheme is an encounter card type. The main scheme represents the villain’s primary objective.<ul><li>During step one of the villain phase, place the amount of threat indicated in the main scheme’s acceleration field (bottom-right corner) on that scheme.</li><li>If the amount of threat on a main scheme is equal to or greater than its target threat value, that main scheme is completed and the main scheme deck advances.</li><li>If the villain completes the final stage of the main scheme deck, the villain wins the game.</li><li>When the main scheme deck advances, excess threat from the previous stage does not carry over to the new stage.</li><li>When the main scheme deck advances, acceleration tokens on it carry over to the new stage.</li><li>Main scheme cards cannot be discarded from play.</li></ul>",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"acceleration_icon",
+			"acceleration_token",
+			"card_types",
+			"encounter_card",
+			"target_threat",
+			"threat",
+			"villain",
+			"villain_phase"
+		]
+	},
+	{
+		"id": "max_maximum",
+		"term": "Max, Maximum",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The words “max” and “maximum” impose a maximum across all copies of a card (by title) for all players.<ul><li>”Max X per [period]” imposes a maximum number of times that copies of that card can be played during the designated time period. If a card with a maximum is canceled, the card is still counted toward the maximum.</li><li>“Max X per deck” restricts the number of copies of that card that may be included in each player deck.</li><li>“Max 1 per player” is player specific, and restricts the number of copies of that card that each player may control in play at a given time.</li><li>“Max 1 per [game element]” restricts the number of copies of that card that can be attached to each indicated game element.</li><li>“Max 1 per [instance]” restricts the number of times an ability can be triggered by a single instance of a triggering effect across all copies of the card with the maximum.</li><li>The parenthetical “(to a maximum of [value])” within an ability imposes a maximum on that ability for the duration of that ability.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"cancel",
+			"limit"
+		]
+	},
+	{
+		"id": "maximum_hit_points",
+		"term": "Maximum Hit Points",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A character’s maximum hit points is their base hit points plus or minus all “gets” hit point modifiers that are active on that character.",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"ally",
+			"base_value",
+			"hit_points_hp",
+			"identity",
+			"minion",
+			"modifiers",
+			"villain"
+		]
+	},
+	{
+		"id": "may",
+		"term": "May",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The word “may” indicates that a specified player has the option to resolve the text that follows. If no player is specified, the option is granted to the controller of the card with the ability in question.",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"player"
+		]
+	},
+	{
+		"id": "mental_resource",
+		"term": "Mental Resource",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A mental resource (<span class=\"icon-mental\"></span>) is one of the four types of resources.<ul><li>Mental resources can be spent to pay the resource cost of cards and abilities.</li><li>Some card abilities specifically require mental resources to be spent in order to resolve their effects.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"ability",
+			"cost",
+			"energy_resource",
+			"icons",
+			"physical_resource",
+			"resource",
+			"wild_resource"
 		]
 	},
 	{
 		"id": "minion",
 		"term": "Minion",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Minion is an encounter card type. When a minion is revealed, it enters play engaged with the player who revealed it. Minions activate against the player they are engaged with during the villain phase."
+				"content": "Minion is an encounter card type. Minions represent supporters of the villain and/or enemies of the heroes. If a minion enters play, it engages the player who is revealing the card from the encounter deck or resolving the ability that put the minion into play, unless an ability specifies otherwise.<ul><li>If a minion enters play, it remains in play until a card ability or game effect causes it to leave play.</li><li>If a minion has zero or fewer remaining hit points, it is defeated and discarded.</li><li>Minions engaged with a player activate (one minion at a time and in an order of the engaged player’s choosing) during step two of the villain phase, after the villain activates. If the engaged player is in hero form, these minions attack. If the engaged player is in alter-ego form, these minions scheme.</li></ul>",
+				"whats_new": ""
 			}
+		],
+		"see_also": [
+			"card_types",
+			"encounter_card",
+			"engage",
+			"enters_play",
+			"form_change_form",
+			"hit_points_hp",
+			"identity",
+			"leaves_play",
+			"player",
+			"villain",
+			"villain_phase"
+		]
+	},
+	{
+		"id": "modes_of_play",
+		"term": "Modes of Play",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Before starting a game of Marvel Champions, players can customize their experience by choosing from or combining different modes of play. The modes of play are:<ul><li><b>Standard Mode:</b> The basic mode of play for all scenarios.</li><li><b>Expert Mode:</b> A modification for advanced players. Adds the Expert encounter set and uses different villain stages.</li><li><b>Heroic Mode:</b> Allows players to scale difficulty by dealing X additional encounter cards during step three of the villain phase (where X is the chosen heroic level).</li><li><b>Skirmish Mode:</b> Also called Rookie Mode. Modifies standard mode to shorten the game by putting only one chosen version of the villain into play.</li><li><b>Campaign Mode:</b> Interconnected scenarios played one after another, utilizing a campaign log.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"campaign_specific_card",
+			"expert_set",
+			"standard_set"
+		]
+	},
+	{
+		"id": "modifiers",
+		"term": "Modifiers",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The game constantly checks and (if necessary) updates the count of any variable quantity that is being modified. Any time a new modifier is applied or removed, the entire quantity is recalculated from the start, considering the unmodified base value and all active modifiers.<ul><li>The “per player” icon (<span class=\"icon-per_player\"></span>) is not considered a modifier and is applied before any modifiers are applied.</li><li>The calculation of a value treats all modifiers as being applied simultaneously. However, while performing the calculation, all additive and subtractive modifiers are calculated before doubling and/or halving modifiers are calculated.</li><li>If a value is “set” to a specific number, the set modifier overrides all non-set modifiers.</li><li>After all active modifiers have been taken into account, if a value is below zero, it is treated as zero.</li><li>Fractional values are rounded up after all modifiers have been applied.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"base_value",
+			"dash_value",
+			"printed"
+		]
+	},
+	{
+		"id": "modular_encounter_set",
+		"term": "Modular Encounter Set",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Cards belonging to a “modular encounter set” (or sometimes “modular set”) are a classification of encounter card that can be added to and/or removed from nearly any scenario.<ul><li>During game setup, many scenarios will instruct the players on how many modular encounter sets must be included.</li><li>If a modular encounter set is added to a scenario, it is done so as an entire set. Unless specific scenario rules state otherwise, individual cards from a modular encounter set cannot be included in a scenario without the rest of that set.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"classifications"
+		]
+	},
+	{
+		"id": "move",
+		"term": "Move",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Some abilities allow players to move game elements, such as cards, damage, or threat.<ul><li>When an element moves, it cannot move to its same (current) placement.</li><li>If there is no valid source or destination for a move, the move cannot be made.</li><li>It is possible for damage to move between dials and cards (and vice versa). If damage is moved from a card to a dial, remove damage from the card and reduce the dial by the same amount.</li><li>If damage is moved off a character, the moved damage is considered to be healed from that character.</li><li>If damage is moved to a character, the moved damage is considered to be dealt to that character.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"game_element"
 		]
 	},
 	{
 		"id": "mulligan",
 		"term": "Mulligan",
+		"type": "official",
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "During setup, after drawing their starting hand, each player has a single opportunity to take a mulligan. To do so, a player discards any number of cards from their hand, and then draws up to their starting hand size."
+				"content": "During the “Resolve Mulligans” step of setup (Step 15), each player may discard any number of cards from their hand, and then draw up to their starting hand size. (Do not shuffle these discarded cards back into their decks at this time.)",
+				"whats_new": ""
 			}
 		]
 	}

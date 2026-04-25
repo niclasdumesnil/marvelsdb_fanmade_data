@@ -1,1 +1,68 @@
-[]
+[
+    {
+        "id": "gains",
+        "term": "Gagner",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Si une carte gagne une caractéristique (comme un trait, un mot-clé ou un texte de capacité), la carte fonctionne comme si elle possédait la caractéristique gagnée. Les caractéristiques gagnées ne sont pas considérées comme étant imprimées sur la carte. [cite: 193]",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "game_element",
+        "term": "Elément de Jeu",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Un élément de jeu est un composant ou une personne impliquée dans une partie de Marvel Champions. Les éléments suivants sont tous des éléments de jeu :<ul><li>Cartes</li><li>Decks</li><li>Piles de défausse</li><li>Mains (de cartes)</li><li>Cadrans de points de vie</li><li>Joueurs</li><li>Jetons et Pions</li></ul> [cite: 193]",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "game_environments",
+        "term": "Environnements de jeu",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Un environnement de jeu établit une réserve de cartes spécifique à partir de laquelle un joueur peut personnaliser son deck. Ce document détaille trois environnements de jeu : l'Environnement Actuel (produits les plus récents), l'Environnement Héritage (utilisant tous les produits de la collection d'un joueur) et l'Environnement Limité (un sous-ensemble restreint composé de la boîte de base, d'un maximum de 3 extensions et d'un maximum de 10 paquets héros). [cite: 514, 515, 517]",
+                "whats_new": "Ajout de l'Appendice VI : Environnements de jeu (Bêta). Cela formalise l'Environnement Héritage standard et introduit un tout nouveau format d'Environnement Limité pour aider à organiser des réserves de cartes plus petites pour la construction de decks. [cite: 42]"
+            }
+        ]
+    },
+    {
+        "id": "golden_rules",
+        "term": "Les règles d'Or",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Si le texte de ce Guide de Référence contredit directement le texte du Livret d'Apprentissage, le texte du Guide de Référence a préséance. [cite: 24] Si le texte d'une carte contredit le texte du Guide de Référence ou du Livret d'Apprentissage, le texte de la carte a préséance. [cite: 25]",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "grim_rule",
+        "term": "La Sombre Règle",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Si les joueurs n'arrivent pas à trouver la réponse à une question de règle ou de conflit de timing dans le Guide de Référence, résolvez le problème de la manière la moins avantageuse possible pour les joueurs (au regard des conditions de victoire du scénario) et continuez la partie. [cite: 26]",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "guard",
+        "term": "Garde",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Garde est un mot-clé. Tant qu'un sbire avec le mot-clé garde est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour attaquer un méchant sans ce mot-clé. [cite: 195]",
+                "whats_new": ""
+            }
+        ]
+    }
+]

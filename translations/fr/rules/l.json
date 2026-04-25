@@ -1,0 +1,79 @@
+[
+	{
+		"id": "labeled_ability",
+		"term": "Capacité étiquetée",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une capacité étiquetée est une capacité déclenchée avec une mention entre parenthèses suivant son texte de déclencheur en gras, qui désigne cette capacité comme une attaque, un contre, et/ou une défense.<ul><li>Lorsqu'un joueur résout une capacité étiquetée « (attaque) », cette capacité est considérée comme une attaque effectuée par l'identité de ce joueur.</li><li>Lorsqu'un joueur résout une capacité étiquetée « (défense) », cette capacité est considérée comme une défense effectuée par l'identité de ce joueur. Lorsqu'une telle capacité est initiée pendant une attaque, l'identité du joueur devient le défenseur de cette attaque.</li><li>Lorsqu'un joueur résout une capacité étiquetée « (contre) », cette capacité est considérée comme un contre effectué par l'identité de ce joueur.</li><li>Lorsqu'un joueur résout une capacité avec plusieurs étiquettes, cette capacité est considérée comme chacun des types de capacité étiquetés, tous effectués par l'identité de ce joueur.</li><li>Si un joueur déclenche une capacité étiquetée alors que son identité possède une ou plusieurs cartes d'état qui annulent l'un des types de capacité étiquetée, la capacité entière (à l'exception de ses coûts) est annulée. Cette identité n'est pas considérée comme ayant attaqué, défendu ou contré. Chaque carte d'état sur l'identité du joueur qui annule l'un des types de la capacité étiquetée est retirée lorsque cette capacité est annulée.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "lasting_effects",
+		"term": "Effets persistants",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certaines capacités de carte créent des effets ou des conditions qui affectent le jeu pendant une durée spécifiée (comme « jusqu'à la fin de la phase » ou « jusqu'à la fin de cette attaque »). De tels effets sont appelés effets persistants.<ul><li>Un effet persistant perdure au-delà de la résolution de la capacité qui l'a créé, pour la durée spécifiée par l'effet. L'effet continue d'affecter le jeu pour la durée spécifiée que la carte qui a créé l'effet persistant soit en jeu ou non.</li><li>Pendant la durée spécifiée d'un effet persistant, il est traité comme s'il s'agissait d'une capacité constante et a la même priorité de timing qu'une capacité constante.</li><li>Les effets persistants se mettent à jour chaque fois que l'état du jeu se met à jour.</li><li>Si une carte entre en jeu (ou change de statut pour répondre aux critères d'un ensemble spécifié de cartes affectées) après la création d'un effet persistant, elle est tout de même affectée par cet effet persistant.</li><li>Un effet persistant expire dès que le moment spécifié par sa durée est atteint. Cela signifie qu'un effet persistant « jusqu'à la fin du round » expire juste avant qu'une capacité ou un effet retardé « à la fin du round » puisse s'initier.</li><li>Un effet persistant qui expire à la fin d'une période spécifiée ne peut être initié que pendant cette période.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "leaves_play",
+		"term": "Quitter le jeu",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "L'expression « quitte le jeu » fait référence à tout moment où une carte passe d'une zone en jeu à une zone hors jeu. Vaincre un personnage, défausser une carte du jeu, placer une carte dans la pile de victoire, ou retirer une carte de la partie sont autant de moyens différents par lesquels une carte peut quitter le jeu.<ul><li>Lorsqu'une carte quitte le jeu, elle perd la mémoire de son état précédent et est considérée comme un nouvel exemplaire de la carte.</li><li>Lorsqu'une carte quitte le jeu : Défaussez chaque carte qui lui est attachée ou glissée en dessous. Défaussez chaque carte de boost donnée à cette carte. Renvoyez chaque jeton et carte d'état sur cette carte dans la réserve.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "limit",
+		"term": "Limite",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "« Limite de X par [période] » est une limite qui apparaît sur certaines cartes joueur. Ces limites sont spécifiques à la carte. Chaque exemplaire d'une capacité avec une telle limite peut être utilisé X fois par la période spécifiée, par instance de cette capacité.<ul><li>Si un effet avec une limite est annulé, la carte est toujours considérée comme ayant été jouée ou la capacité initiée, et elle compte dans la limite.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "linked_card_title",
+		"term": "Liée (Titre de Carte)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les cartes avec le mot-clé liée ne peuvent être incluses dans aucun deck. Au lieu de cela, elles sont mises de côté au début de la partie si n'importe quel deck inclut la carte qui met les cartes liées en jeu (indiquée entre parenthèses après le mot-clé).<ul><li>Les cartes liées ne comptent pas dans la taille minimale ou maximale du deck.</li><li>Le nombre de cartes liées mises de côté pendant la mise en place est égal au nombre de ces cartes incluses dans le produit dont provient la carte liée. Si plusieurs decks contiennent la même carte nommée sur une ou plusieurs cartes liées, mettez de côté le nombre approprié de cartes pour chaque deck contenant la carte nommée.</li><li>Lorsqu'un joueur prend le contrôle d'une carte avec le mot-clé liée, ce joueur devient le propriétaire de cette carte.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "look_looked_at",
+		"term": "Regarder, regardé",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Si une capacité demande à un joueur de regarder des cartes qui sont autrement cachées aux joueurs, seul le joueur qui résout la capacité peut regarder ces cartes. Cependant, ce joueur est autorisé à transmettre toute quantité d'informations relatives à ces cartes aux autres joueurs.<ul><li>Pendant qu'un joueur regarde des cartes dans un deck, ces cartes sont toujours considérées comme faisant partie de ce deck.</li><li>Après avoir regardé des cartes dans un deck, ces cartes sont remises dans ce deck dans le même ordre.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "loses",
+		"term": "Perdre",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Si une carte perd une caractéristique (comme un trait, un mot-clé ou un texte de capacité), la carte fonctionne comme si elle ne possédait pas la caractéristique acquise.<ul><li>Les caractéristiques perdues sont toujours considérées comme imprimées sur la carte.</li><li>Une caractéristique perdue ne peut pas être regagnée tant que la capacité provoquant sa perte est en effet, même si un nouvel effet devrait causer le gain de cette caractéristique.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	}
+]

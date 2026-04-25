@@ -1,1 +1,122 @@
-[]
+[
+    {
+        "id": "icons",
+        "term": "Icône",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Les icônes sont des éléments graphiques qui représentent diverses fonctions dans le jeu.<ul><li>Icône d'énergie (<span class=\"icon-energy\"></span>)</li><li>Icône mentale (<span class=\"icon-mental\"></span>)</li><li>Icône physique (<span class=\"icon-physical\"></span>)</li><li>Icône libre (<span class=\"icon-wild\"></span>)</li><li>Icône d'accélération (<span class=\"icon-acceleration\"></span>)</li><li>Icône d'amplification (<span class=\"icon-amplify\"></span>)</li><li>Icône de crise (<span class=\"icon-crisis\"></span>)</li><li>Icône d'aléas (<span class=\"icon-hazard\"></span>)</li><li>Icône de boost (<span class=\"icon-boost\"></span>)</li><li>Icône d'étoile (<span class=\"icon-star\"></span>)</li><li>Icône de dégâts consécutifs (<span class=\"icon-consequential_damage\"></span>)</li><li>Icône de coût flèche (<span class=\"icon-cost\"></span>)</li><li>Icône par joueur (<span class=\"icon-per_player\"></span>)</li><li>Icône unique (<span class=\"icon-unique\"></span>)</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "identity",
+        "term": "Identité",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "L'identité est un type de carte joueur qui représente le personnage qu'un joueur incarne dans la partie. La carte identité d'un joueur est une carte recto-verso qui représente son héros d'un côté et son alter ego de l'autre. La face visible indique la forme (héros ou alter ego) dans laquelle se trouve actuellement le joueur.<ul><li>Chaque joueur commence la partie sous forme d'alter ego.</li><li>Si une carte fait référence à un héros ou à un alter ego par son titre, elle ne fait référence qu'à l'identité portant ce titre, et non à l'autre côté de la carte.</li><li>Les cartes identité ne peuvent pas être défaussées du jeu.</li><li>La face visible d'une carte identité est considérée comme étant en jeu. La face cachée d'une carte identité est considérée comme étant hors jeu.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "identity_specific_card",
+        "term": "Cartes spécifiques à l'identité",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Les cartes de la classification « spécifique à l'identité » (aussi parfois appelées « spécifiques au héros ») sont des cartes qui appartiennent au set de cartes d'accompagnement d'une identité.<ul><li>Le deck d'un joueur doit inclure chaque carte spécifique à l'identité associée à sa carte identité choisie. La quantité exacte de chaque carte de ce set spécifique à l'identité doit être incluse dans le deck.</li><li>Les cartes spécifiques à l'identité (ainsi que les cartes obligation et les cartes du set de rencontre némésis) ne peuvent être utilisées aux côtés d'une identité que si ces cartes partagent une icône de set avec cette identité.</li><li>Une carte spécifique à l'identité est désignée par l'icône d'identité imprimée dans le coin inférieur droit de la carte.</li><li>Les cartes identité sont des cartes spécifiques à l'identité.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "ignore",
+        "term": "Ignorer",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Une capacité qui ignore une capacité, une icône ou un coût traite cette capacité, cette icône ou ce coût comme n'étant pas en effet ou présent pendant que cette capacité se résout.<ul><li>Lorsqu'une carte est jouée « en ignorant son coût en ressources », aucune ressource n'est payée pour cette carte. Pour ce qui est des effets de carte, cette carte est considérée comme ayant été jouée avec zéro ressource payée pour son coût.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "in_play_and_out_of_play",
+        "term": "En jeu et Hors jeu",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Une carte est considérée comme étant en jeu ou hors jeu en fonction de son état dans la partie. Si une carte est en jeu, son texte est actif et elle peut affecter la partie.<ul><li>Pour les cartes joueur, la face visible de la carte identité d'un joueur est en jeu. Les cartes allié, soutien et amélioration face visible qui sont entrées en jeu sont en jeu.</li><li>Pour les cartes rencontre, la face visible de la carte du dessus du deck méchant et du deck manigance principale sont en jeu. Les cartes attachement, environnement, sbire, obligation et manigance annexe face visible qui sont entrées en jeu sont en jeu.</li><li>Les capacités des cartes n'interagissent qu'avec, et ne peuvent cibler que, les cartes qui sont en jeu (à moins que le texte ne fasse spécifiquement référence à une zone hors jeu).</li><li>Les cartes événement et les cartes traîtrise se résolvent implicitement depuis une zone hors jeu.</li><li>Les cartes dans la main, le deck et la pile de défausse d'un joueur sont hors jeu. Les cartes du deck rencontre, de la défausse rencontre, les cartes non révélées du deck méchant et du deck manigance principale, ainsi que les cartes rencontre distribuées face cachée à un joueur sont hors jeu. Les cartes face cachée attachées à des cartes en jeu sont hors jeu.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "in_player_order",
+        "term": "Dans l'ordre des joueurs",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Si les joueurs reçoivent l'instruction d'effectuer une séquence « dans l'ordre des joueurs », le premier joueur effectue sa partie de la séquence en premier, suivi par les autres joueurs dans le sens des aiguilles d'une montre.<ul><li>Si une séquence effectuée dans l'ordre des joueurs ne se termine pas après que chaque joueur a effectué sa partie une fois, la séquence d'opportunités continue dans le sens horaire jusqu'à ce qu'elle soit terminée.</li><li>L'expression « joueur suivant » fait toujours référence au joueur suivant (dans le sens horaire) dans l'ordre des joueurs.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "incite_x",
+        "term": "Incitation X",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Lorsqu'une carte avec le mot-clé incitation X est révélée, placez X menace sur la manigance principale. (X est la valeur à côté du mot-clé incitation.)"
+            }
+        ]
+    },
+    {
+        "id": "indirect_damage",
+        "term": "Dégâts indirects",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Certaines capacités de cartes peuvent infliger des « dégâts indirects ».<ul><li>Les dégâts indirects infligés à un joueur peuvent être répartis comme ce joueur le souhaite parmi les personnages sous son contrôle.</li><li>Les dégâts indirects infligés à un groupe de joueurs (ou parmi les joueurs) peuvent être répartis comme le groupe le souhaite parmi les personnages amis en jeu.</li><li>Tous les dégâts indirects provenant d'une seule source sont d'abord assignés puis résolus simultanément.</li><li>Lors de l'assignation de dégâts indirects, un personnage ne peut pas se voir assigner plus de dégâts indirects que ce qui causerait sa défaite.</li><li>Si l'attaque d'un ennemi inflige des dégâts indirects, les dégâts indirects sont infligés lors de l'étape quatre de l'activation de l'ennemi (après que les joueurs ont eu l'opportunité de défendre). Seul le personnage défenseur, ou l'identité du joueur attaqué si l'attaque n'était pas défendue, est considéré comme ayant été attaqué.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "infinite_hit_points",
+        "term": "Points de Vie Infini",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Voir : Points de vie"
+            }
+        ]
+    },
+    {
+        "id": "initiating_abilities",
+        "term": "Initier des Capacités, Jouer des cartes",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Lorsqu'un joueur souhaite jouer une carte ou initier une capacité déclenchée, ce joueur déclare d'abord son intention. Ensuite, le joueur vérifie les conditions suivantes dans l'ordre :<ol><li>Vérifier les restrictions de jeu : la carte peut-elle être jouée, ou la capacité initiée, à ce moment ? Vérifiez qu'elle possède au moins une cible valide.</li><li>Déterminer le(s) coût(s) pour jouer la carte ou initier la capacité et la capacité du joueur à les payer, en tenant compte des modificateurs.</li><li>S'il joue une carte, le joueur place cette carte face visible sur la table devant lui.</li><li>Appliquer tout modificateur au(x) coût(s).</li><li>Payer le(s) coût(s). Si cette étape est atteinte et que les coûts ne peuvent pas être payés, annulez ce processus sans payer de coûts.</li><li>La carte commence à être jouée, ou les effets de la capacité tentent de s'initier.</li><li>La carte est jouée ou la capacité (si elle n'est pas annulée à l'étape précédente) se résout. La carte entre en jeu ou, s'il s'agit d'une carte événement, ses effets se résolvent et elle est ensuite placée dans la pile de défausse de son propriétaire.</li></ol>"
+            }
+        ]
+    },
+    {
+        "id": "instead",
+        "term": "« A la place »",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Voir : Effets de remplacement"
+            }
+        ]
+    },
+    {
+        "id": "interrupt",
+        "term": "Interruption",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Une capacité d'interruption est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « Interruption ». Les capacités d'interruption peuvent être exécutées à chaque fois que la condition de déclenchement spécifiée se produit, comme décrit dans le texte de la capacité. La capacité d'interruption interrompt la résolution de la condition de déclenchement spécifiée, et se résout juste avant que cette condition de déclenchement ne se résolve.<ul><li>Les joueurs ne peuvent déclencher des capacités d'interruption que sur les cartes qu'ils contrôlent ou sur les cartes rencontre.</li><li>Plusieurs interruptions peuvent être déclenchées par la même condition de déclenchement, mais chaque interruption ne peut être déclenchée qu'une seule fois par occurrence de la condition.</li><li>Les interruptions qui utilisent le mot « devait » (ou « est censé ») se résolvent avant que sa condition de déclenchement ne s'initie, lorsque cette condition devient imminente.</li><li>Si une interruption modifie (via un effet de remplacement) ou annule une condition de déclenchement imminente, aucune autre interruption à la condition de déclenchement d'origine ne peut être déclenchée.</li></ul>"
+            }
+        ]
+    }
+]

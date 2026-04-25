@@ -1,0 +1,117 @@
+[
+	{
+		"id": "labeled_ability",
+		"term": "Labeled Ability",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "A labeled ability is a triggered ability with a parenthetical following its bold trigger text that designates that ability as an attack, defense, and/or thwart.<ul><li>When a player resolves an ability labeled “(attack),” that ability is considered to be an attack made by that player’s identity.</li><li>When a player resolves an ability labeled “(defense),” that ability is considered to be a defense made by that player’s identity. When such an ability is initiated during an attack, the player’s identity becomes the defender of that attack.</li><li>When a player resolves an ability labeled “(thwart),” that ability is considered to be a thwart made by that player’s identity.</li><li>When a player resolves an ability with multiple labels, that ability is considered to be each of the labeled ability types, all made by that player’s identity.</li><li>If a player triggers a labeled ability while their identity has one or more status cards that cancel any of the labeled ability types, the entire ability (except for its costs) is canceled. That identity is not considered to have attacked, defended, or thwarted. Each status card on the player’s identity that cancels any of the labeled ability’s types is removed when that ability is canceled.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"attack_player_ability_type",
+			"defend",
+			"thwart"
+		]
+	},
+	{
+		"id": "lasting_effects",
+		"term": "Lasting Effects",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Some card abilities create effects or conditions that affect the game for a specified duration (such as “until the end of the phase” or “until the end of this attack”). Such effects are known as lasting effects.<ul><li>A lasting effect persists beyond the resolution of the ability that created it, for the duration specified by the effect. The effect continues to affect the game for the specified duration whether or not the card that created the lasting effect is in play.</li><li>For the specified duration of a lasting effect, it is treated as if it was a constant ability and has the same timing priority as a constant ability.</li><li>Lasting effects update whenever the game state updates.</li><li>If a card enters play (or changes status to meet the criteria of a specified set of affected cards) after the creation of a lasting effect, it is still affected by that lasting effect.</li><li>A lasting effect expires as soon as the timing point specified by its duration is reached. This means that an “until the end of the round” lasting effect expires just before an “at the end of the round” ability or delayed effect may initiate.</li><li>A lasting effect that expires at the end of a specified time period can only be initiated during that time period.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"ability",
+			"enters_play"
+		]
+	},
+	{
+		"id": "leaves_play",
+		"term": "Leaves Play",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "The phrase “leaves play” refers to any time when a card transitions from an in-play area to an out-of-play area. Defeating a character, discarding a card from play, placing a card in the victory display, or removing a card from the game are all different means by which a card can leave play.<ul><li>When a card leaves play, there is no memory of its previous state and it is considered to be a new copy of the card.</li><li>When a card leaves play: Discard each card attached to or tucked under that card. Discard each boost card given to that card. Return each token and status card on that card to the supply.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"defeat",
+			"discard",
+			"discard_pile",
+			"enters_play",
+			"in_play_and_out_of_play",
+			"removed_from_the_game",
+			"victory_display"
+		]
+	},
+	{
+		"id": "limit",
+		"term": "Limit",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "“Limit X per [period]” is a limit that appears on some player cards. These limits are card-specific. Each copy of an ability with such a limit may be used X times per the specified period, per instance of that ability.<ul><li>If an effect with a limit is canceled, the card is still considered to have been played or the ability initiated, and it counts toward the limit.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"player_card"
+		]
+	},
+	{
+		"id": "linked_card_title",
+		"term": "Linked (Card Title)",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Cards with the linked keyword cannot be included in any deck. Instead, they are set aside at the start of the game if any deck includes the card that brings the linked cards into play (indicated in the parentheses following the keyword).<ul><li>Linked cards do not count toward the minimum or maximum deck size.</li><li>The number of linked cards set aside during setup is equal to the number of those cards included in the product from which the linked card came. If multiple decks contain the same card named on one or more linked cards, set aside the appropriate number of cards for each deck that contains the named card.</li><li>When a player takes control of a card with the linked keyword, that player becomes the owner of that card.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"keywords",
+			"ownership_and_control",
+			"set_aside"
+		]
+	},
+	{
+		"id": "look_looked_at",
+		"term": "Look, Looked-At",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If an ability instructs a player to look at cards that are otherwise hidden from the players, only the player who is resolving the ability can look at those cards. However, that player is permitted to convey any amount of information related to those cards to other players.<ul><li>While a player is looking at cards in a deck, those cards are still considered part of that deck.</li><li>After looking at cards in a deck, those cards are returned to that deck in the same order.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "loses",
+		"term": "“Loses”",
+		"type": "official",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "If a card loses a characteristic (such as a trait, keyword, or ability text), the card functions as if it does not possess the gained characteristic.<ul><li>Lost characteristics are still considered to be printed on the card.</li><li>A lost characteristic cannot be regained while the ability causing it to be lost is in effect, even if a new effect would cause the characteristic to be gained.</li></ul>",
+				"whats_new": ""
+			}
+		],
+		"see_also": [
+			"keywords",
+			"printed",
+			"traits"
+		]
+	}
+]

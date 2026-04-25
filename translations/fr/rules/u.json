@@ -1,1 +1,46 @@
-[]
+[
+    {
+        "id": "undefended",
+        "term": "Non défendue",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Voir : Attaque (Activation des Ennemis) [cite: 8]",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "unique_icon",
+        "term": "Icône Unique",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "L'icône unique (<span class=\"icon-unique\"></span>) indique une carte qui représente une personne, un lieu ou une chose singulière dans l'univers Marvel. [cite: 6] <red>Deux cartes uniques sont considérées comme « correspondantes » si l'une des conditions suivantes s'applique : Les deux cartes partagent un titre, et n'ont ni sous-titre ni titre d'alter ego. (Par exemple, deux exemplaires de l'amélioration Jarnbjorn, ou l'alliée Jessica Jones et le sbire Jessica Jones.) Le sous-titre ou le titre d'alter ego de l'une correspond au titre, au sous-titre ou au titre d'alter ego de l'autre. (Par exemple, l'identité avec l'alter ego T'Challa, l'allié T'Challa et l'allié Black Panther avec le sous-titre « T'Challa » sont tous considérés comme correspondants.)</red> [cite: 6]<ul><li>Un joueur ne peut pas inclure plusieurs cartes correspondantes dans son deck. L'identité est incluse dans cette évaluation. [cite: 6]</li><li>Lors du choix des identités pendant la mise en place, les joueurs ne peuvent pas choisir des identités correspondantes. Les joueurs peuvent choisir un scénario même si un ou plusieurs méchants correspondent à une ou plusieurs identités choisies. [cite: 6]</li><li>Une carte non-méchant dans un état hors jeu qui correspond à une carte en jeu ne peut pas entrer en jeu. [cite: 6] Si la carte hors jeu est une carte joueur, elle ne peut pas être jouée ou mise en jeu. Tout effet qui tente de le faire n'a aucun effet. [cite: 6] Si c'est une carte rencontre non-méchant, elle est défaussée et tout effet de son entrée en jeu est ignoré. Si elle était en train d'être révélée, les effets de sa révélation sont ignorés et le joueur qui la révèle reçoit une carte rencontre face cachée. [cite: 6]</li></ul>",
+                "whats_new": "Révision des règles d'unicité. La comparaison se fait désormais strictement entre le titre principal ET l'identité Alter-Ego ou le sous-titre, afin d'éviter définitivement les incohérences thématiques."
+            }
+        ]
+    },
+    {
+        "id": "upgrade",
+        "term": "Amélioration",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Amélioration est un type de carte joueur qui représente des pouvoirs, des attaques, de l'équipement et d'autres atouts qui sont (dans la plupart des cas) à la disposition immédiate d'une identité. [cite: 2]<ul><li>Une amélioration est active tant qu'elle est en jeu, et elle le reste jusqu'à ce qu'une capacité de carte la fasse quitter le jeu. [cite: 2]</li><li>La plupart des cartes amélioration entrent en jeu près de la carte identité d'un joueur, et modifient le héros ou l'alter ego du joueur (ou les deux). [cite: 2]</li><li>Certaines améliorations entrent en jeu et « s'attachent » à une autre carte. Ces améliorations modifient la carte à laquelle elles sont attachées, et non le héros ou l'alter ego du joueur qui a joué l'amélioration. [cite: 2] Un joueur contrôle toute amélioration attachée aux personnages qu'il contrôle, y compris les améliorations appartenant à un autre joueur. [cite: 2]</li><li>À moins d'être attachées à un personnage ami différent, les cartes amélioration sont considérées comme une extension de l'identité du joueur qui les contrôle. [cite: 2] Les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent sur de telles améliorations sont également considérées comme résolues par l'identité de ce joueur. [cite: 2]</li></ul>",
+                "whats_new": ""
+            }
+        ]
+    },
+    {
+        "id": "uses_x_type",
+        "term": "Utilisations (X \"Type\")",
+        "versions": [
+            {
+                "version": "1.7",
+                "content": "Lorsqu'une carte avec ce mot-clé entre en jeu, placez X compteurs génériques de la réserve de jetons sur la carte. [cite: 12] Le mot suivant la valeur établit et identifie le type d'utilisations que la carte contient. [cite: 12] Chaque carte avec ce mot-clé possède également une capacité qui fait référence au type d'utilisation établi par le mot-clé dans le cadre de son coût. [cite: 12] Lorsque le dernier compteur générique est retiré d'une carte avec utilisations, défaussez cette carte. [cite: 12]",
+                "whats_new": ""
+            }
+        ]
+    }
+]
