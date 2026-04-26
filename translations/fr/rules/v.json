@@ -1,101 +1,101 @@
 [
-    {
-        "id": "valid_target",
-        "term": "Cible Valide",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Voir : Cible",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "victory_display",
-        "term": "Pile de victoire",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "La pile de victoire est une zone de jeu hors jeu partagée par tous les joueurs. Les cartes dans la pile de victoire suivent les règles standards des cartes hors jeu.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "victory_x",
-        "term": "Victoire \"X\"",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Lorsqu'une carte avec le mot-clé victoire X quitte le jeu dans les conditions suivantes, placez-la dans la pile de victoire au lieu de la pile de défausse de son propriétaire :<ul><li>Un personnage ou une manigance annexe avec le mot-clé victoire X est placé dans la pile de victoire lorsqu'il est vaincu/déjouée.</li><li>Un attachement ou une amélioration avec le mot-clé victoire X est placé dans la pile de victoire lorsque la carte à laquelle il est attaché est vaincue. (La carte à laquelle l'attachement ou l'amélioration était attaché est défaussée normalement.)</li><li>Une carte avec les mots-clés victoire X et utilisations (X « type ») est placée dans la pile de victoire lorsque son dernier compteur générique en est retiré.</li></ul>Tant qu'elle est dans la pile de victoire, X indique combien de points de victoire cette carte vaut. (X est la valeur à côté du mot-clé victoire.)<ul><li>Certains scénarios ou campagnes peuvent compter le nombre de points de victoire dans la pile de victoire.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "villain",
-        "term": "Méchant, Deck Méchant",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le méchant est un type de carte rencontre qui représente l'ennemi principal que les joueurs tentent de vaincre dans un scénario. Le méchant est représenté par un deck séquentiel d'une ou plusieurs cartes. Les joueurs vainquent le méchant en réduisant les points de vie de chaque stade du deck méchant à zéro.<ul><li>Les cartes méchant ne peuvent pas être défaussées du jeu.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "villain_defeat",
-        "term": "Vaincre le Méchant",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Si le cadran de points de vie du méchant est réduit à zéro, les joueurs ont vaincu ce stade du méchant. Retirez le stade actuel du deck méchant de la partie. Le stade séquentiel suivant du deck méchant est révélé. Réglez le cadran de points de vie du méchant comme indiqué par ce stade. Si le stade final du deck méchant est vaincu, les joueurs gagnent la partie.<ul><li>La révélation d'un méchant ne peut pas être annulée.</li><li>Les dégâts en excès infligés pour vaincre un stade de méchant ne sont pas reportés sur le nouveau stade.</li><li>Si le nouveau stade du méchant a le même titre que le stade précédent : Le nouveau stade du méchant est considéré comme le même personnage que le stade vaincu pour ce qui est des capacités de carte (comme le mot-clé riposte X). Les attachements, améliorations, cartes d'état, compteurs et jetons (autres que les dégâts) sur un méchant sont reportés sur le nouveau stade. Si le méchant a été vaincu lors d'une activation, le méchant reprend cette activation en utilisant le nouveau stade de méchant.</li><li>Si le nouveau stade du méchant a un titre différent du stade précédent : Le nouveau stade du méchant n'est pas considéré comme le même personnage que le stade vaincu pour ce qui est des capacités de carte. Les attachements, améliorations, cartes d'état, compteurs et jetons (autres que les dégâts) ne sont pas reportés sur le nouveau stade. Si le méchant a été vaincu lors d'une activation, l'activation se termine sans se résoudre.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "villain_phase",
-        "term": "Phase du Méchant",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Les étapes de la phase du méchant sont les suivantes :<ol><li><b>Placer la Menace.</b> Placez la quantité de menace indiquée dans le champ d'accélération de la manigance principale sur cette manigance. Si des icônes ou des pions d'accélération sont actifs, une menace supplémentaire égale au nombre de ces icônes et pions est également placée à ce moment-là.</li><li><b>Les Ennemis s'Activent.</b> Dans l'ordre des joueurs, chaque joueur résout ce qui suit : a. Le méchant s'active contre le joueur. b. Chaque sbire engagé avec le joueur s'active contre lui, dans l'ordre du choix de ce joueur.</li><li><b>Distribuer les Cartes Rencontre.</b> Distribuez une carte rencontre à chaque joueur. Distribuez une carte supplémentaire pour chaque icône d'aléas sur une carte en jeu. Ces cartes supplémentaires sont distribuées dans l'ordre des joueurs.</li><li><b>Révéler les Cartes Rencontre.</b> Le premier joueur révèle chacune de ses cartes rencontre, une par une dans l'ordre où elles ont été distribuées, en résolvant chaque carte selon son type. Chaque joueur répète ce processus dans l'ordre des joueurs, jusqu'à ce qu'il ne reste plus aucune carte rencontre distribuée.</li><li><b>Passer le Pion Premier Joueur.</b> Passez le pion premier joueur au joueur suivant dans le sens des aiguilles d'une montre.</li><li><b>Fin de la Phase du Méchant et du Round.</b> a. Tout effet qui dure « jusqu'à la fin de la phase [du méchant] » ou « jusqu'à la fin du round » se termine. b. Résolvez tout effet « quand/après que la phase [du méchant] se termine » ou « quand/après que le round se termine ».</li></ol>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "villain_play_area",
-        "term": "Zone de Jeu du Méchant",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "La zone de jeu du méchant est la zone de jeu où se trouvent le deck méchant, le deck manigance principale, le deck rencontre, la pile de défausse rencontre et le cadran de points de vie du méchant.<ul><li>Les cartes environnement et les cartes manigance annexe sont placées dans la zone de jeu du méchant lorsqu'elles entrent en jeu.</li><li>Les cartes attachement attachées à des cartes dans la zone de jeu du méchant sont dans la zone de jeu du méchant. Les cartes attachement attachées à des cartes dans la zone de jeu d'un joueur ne sont pas dans la zone de jeu du méchant.</li><li>Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</li><li>Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "villainous",
-        "term": "Vilenie",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Lorsqu'un sbire avec le mot-clé vilenie s'active, donnez-lui une carte de boost face cachée du dessus du deck rencontre. Lorsque vous résolvez l'activation de ce sbire, retournez la carte de boost face visible, résolvez toute capacité de boost sur cette carte, et appliquez ses icônes de boost aux statistiques du sbire pour cette activation. Défaussez la carte de boost après sa résolution.<ul><li>Si une capacité de boost sur une carte de boost distribuée à un sbire fait référence « au méchant », cette capacité s'applique tout de même au méchant (même si c'est un sbire qui la résout).</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "vulnerable",
-        "term": "Vulnérable",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Lorsqu'un personnage vulnérable devient désorienté ou sonné, ce personnage est immédiatement défaussé.<ul><li>Si un personnage avec le mot-clé vulnérable devait subir suffisamment de dégâts pour le vaincre et devenir en même temps désorienté ou sonné, il est défaussé avant que les dégâts ne soient appliqués et n'est pas considéré comme vaincu.</li><li>Si un personnage a à la fois les mots-clés solide et vulnérable, le mot-clé vulnérable ne prend pas effet tant que ce personnage n'a pas deux cartes d'état désorienté ou deux cartes d'état sonné.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    }
+	{
+		"id": "valid_target",
+		"term": "Cible Valide",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Cible",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "victory_display",
+		"term": "Pile de victoire",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "La pile de victoire est une zone de jeu hors jeu partagée par tous les joueurs. Les cartes dans la pile de victoire suivent les règles standards des cartes hors jeu.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "victory_x",
+		"term": "Victoire \"X\"",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lorsqu'une carte avec le mot-clé victoire X quitte le jeu dans les conditions suivantes, placez-la dans la pile de victoire au lieu de la pile de défausse de son propriétaire :<ul><li>Un <red>personnage </red>ou une manigance annexe avec le mot-clé victoire X est placé dans la pile de victoire lorsqu'il est vaincu/déjouée.</li><li>Un attachement ou <red>une amélioration</red> avec le mot-clé victoire X est placé dans la pile de victoire lorsque la carte à laquelle il est attaché est vaincue. (La carte à laquelle l'attachement <red>ou l'amélioration</red> était attaché est défaussée normalement.)</li><li>Une carte avec les mots-clés victoire X et utilisations (X « type ») est placée dans la pile de victoire lorsque son dernier compteur générique en est retiré.</li></ul>Tant qu'elle est dans la pile de victoire, X indique combien de points de victoire cette carte vaut. (X est la valeur à côté du mot-clé victoire.)<ul><li>Certains scénarios ou campagnes peuvent compter le nombre de points de victoire dans la pile de victoire.</li></ul>",
+				"whats_new": "Élargissement des conditions du mot-clé Victoire X pour inclure explicitement tout « personnage » (et non plus seulement les sbires) et ajout des « améliorations » au même titre que les attachements."
+			}
+		]
+	},
+	{
+		"id": "villain",
+		"term": "Méchant, Deck Méchant",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le méchant est un type de carte rencontre qui représente l'ennemi principal que les joueurs tentent de vaincre dans un scénario. Le méchant est représenté par un deck séquentiel d'une ou plusieurs cartes. Les joueurs vainquent le méchant en réduisant les points de vie de chaque stade du deck méchant à zéro.<ul><li>Les cartes méchant ne peuvent pas être défaussées du jeu.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "villain_defeat",
+		"term": "Vaincre le Méchant",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Si le cadran de points de vie du méchant est réduit à zéro, les joueurs ont vaincu ce stade du méchant. Retirez le stade actuel du deck méchant de la partie. Le stade séquentiel suivant du deck méchant est révélé. Réglez le cadran de points de vie du méchant comme indiqué par ce stade.<div><b>Si le stade final du deck méchant est vaincu, les joueurs gagnent la partie.</b><ul><li><red>La révélation d'un méchant ne peut pas être annulée.</red></li><li>Les dégâts en excès infligés pour vaincre un stade de méchant ne sont pas reportés sur le nouveau stade.</li><red><li>Si le nouveau stade du méchant a le même titre que le stade précédent :&nbsp;</li><ul><li>Le nouveau stade du méchant est considéré comme le même personnage que le stade vaincu pour ce qui est des capacités de carte (comme le mot-clé riposte X).</li></ul></red><ul><li>Les attachements, améliorations, cartes d'état, compteurs et jetons (autres que les dégâts) sur un méchant sont reportés sur le nouveau stade.</li><li>&nbsp;Si le méchant a été vaincu lors d'une activation, le méchant reprend cette activation en utilisant le nouveau stade de méchant.</li></ul><red><li>Si le nouveau stade du méchant a un titre différent du stade précédent :&nbsp;</li><ul><li>Le nouveau stade du méchant n'est pas considéré comme le même personnage que le stade vaincu pour ce qui est des capacités de carte.</li></ul></red><ul><li>Les attachements, améliorations, cartes d'état, compteurs et jetons (autres que les dégâts) ne sont pas reportés <red>sur le nouveau stade</red>.</li><li><red>Si le méchant a été vaincu lors d'une activation</red>, l'activation se termine sans se résoudre.</li></ul></ul></div>",
+				"whats_new": "Ajout de précisions sur la transition entre les stades du méchant. Il est désormais explicitement indiqué que la révélation d'un méchant ne peut pas être annulée, et des règles détaillées sur la continuité du personnage sont établies selon que le nouveau stade partage ou non le même titre que le précédent (déterminant s'il est considéré comme le même personnage pour les capacités de cartes et les activations en cours)."
+			}
+		]
+	},
+	{
+		"id": "villain_phase",
+		"term": "Phase du Méchant",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les étapes de la phase du méchant sont les suivantes :<ol><li><b><red>Placer la Menace.</red></b> Placez la quantité de menace indiquée dans le champ d'accélération de la manigance principale sur cette manigance. Si des icônes ou des pions d'accélération sont actifs, une menace supplémentaire égale au nombre de ces icônes et pions est également placée à ce moment-là.</li><li><b><red>Les Ennemis s'Activent.</red></b> Dans l'ordre des joueurs, chaque joueur résout ce qui suit :</li><ol><li>Le méchant s'active contre le joueur.</li><li>Chaque sbire engagé avec le joueur s'active contre lui, dans l'ordre du choix de ce joueur.</li></ol><li><b><red>Distribuer les Cartes Rencontre.</red></b> Distribuez une carte rencontre à chaque joueur. Distribuez une carte supplémentaire pour chaque <red>icône</red> d'aléas sur une carte en jeu. Ces cartes supplémentaires sont distribuées dans l'ordre des joueurs.</li><li><b><red>Révéler les Cartes Rencontre.</red></b> Le premier joueur révèle chacune de ses cartes rencontre, une par une dans l'ordre où elles ont été distribuées, en résolvant chaque carte selon son type. Chaque joueur répète ce processus dans l'ordre des joueurs, jusqu'à ce qu'il ne reste plus aucune carte rencontre distribuée.</li><li><b><red>Passer le Pion Premier Joueur.</red></b> Passez le pion premier joueur au joueur suivant dans le sens des aiguilles d'une montre.</li><li><b><red>Fin de la Phase du Méchant et du Roun</red></b><red><b><span class=\"red\">d</span>.</b>&nbsp;</red></li></ol><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><span style=\"font-size: 0.92rem;\">a. Tout effet qui dure « jusqu'à la fin de la phase [du méchant] » ou « jusqu'à la fin du round » se termine.&nbsp;</span></blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><span style=\"font-size: 0.92rem;\">b. Résolvez tout effet « quand/après que la phase [du méchant] se termine » ou « quand/après que le round se termine ».</span></blockquote>",
+				"whats_new": "Reformatage des étapes de la phase du méchant pour plus de clarté, en nommant explicitement chaque étape (Placer la Menace, Les Ennemis s'Activent, Distribuer les Cartes Rencontre, Révéler les Cartes Rencontre, Passer le Pion Premier Joueur, Fin de la Phase du Méchant et du Round)."
+			}
+		]
+	},
+	{
+		"id": "villain_play_area",
+		"term": "Zone de Jeu du Méchant",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "La zone de jeu du méchant est la zone de jeu où se trouvent le deck méchant, le deck manigance principale, le deck rencontre, la pile de défausse rencontre et le cadran de points de vie du méchant.<ul><li>Les cartes environnement et les cartes manigance annexe sont placées dans la zone de jeu du méchant lorsqu'elles entrent en jeu.</li><li>Les cartes attachement attachées à des cartes dans la zone de jeu du méchant sont dans la zone de jeu du méchant. Les cartes attachement attachées à des cartes dans la zone de jeu d'un joueur ne sont pas dans la zone de jeu du méchant.</li><li>Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</li><li>Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "villainous",
+		"term": "Vilenie",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lorsqu'un sbire avec le mot-clé vilenie s'active, donnez-lui une carte de boost face cachée du dessus du deck rencontre. Lorsque vous résolvez l'activation de ce sbire, retournez la carte de boost face visible, résolvez toute capacité de boost sur cette carte, et appliquez ses icônes de boost aux statistiques du sbire pour cette activation. Défaussez la carte de boost <red>après sa résolution</red>.<ul><li>Si une capacité de boost sur une carte de boost distribuée à un sbire fait référence « au méchant », cette capacité s'applique tout de même au méchant (même si c'est un sbire qui la résout).</li></ul>",
+				"whats_new": "Précision ajoutant que la carte de boost attribuée à un sbire avec Vilenie est défaussée après sa résolution."
+			}
+		]
+	},
+	{
+		"id": "vulnerable",
+		"term": "Vulnérable",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<red>Lorsqu'un personnage vulnérable devient désorienté ou sonné, ce personnage est immédiatement défaussé.<ul><li>Si un personnage avec le mot-clé vulnérable devait subir suffisamment de dégâts pour le vaincre et devenir en même temps désorienté ou sonné, il est défaussé avant que les dégâts ne soient appliqués et n'est pas considéré comme vaincu.</li><li>Si un personnage a à la fois les mots-clés solide et vulnérable, le mot-clé vulnérable ne prend pas effet tant que ce personnage n'a pas deux cartes d'état désorienté ou deux cartes d'état sonné.</li></ul></red><ul></ul>",
+				"whats_new": "Ajout de la règle du mot-clé 'Vulnérable', stipulant qu'un personnage avec ce mot-clé est immédiatement défaussé s'il devient désorienté ou sonné, et détaillant les interactions avec les dégâts simultanés et le mot-clé 'solide'."
+			}
+		]
+	}
 ]

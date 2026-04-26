@@ -6,7 +6,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A when completed ability is a type of triggered ability, indicated by the bold “When Completed” timing trigger. When a main scheme is complete, all “When Completed” abilities on the card resolve.",
+				"content": "A when completed ability is a type of triggered ability, indicated by the bold “<b>When Completed</b>” timing trigger. When a main scheme is complete, all “<b>When Completed</b>” abilities on the card resolve.",
 				"whats_new": ""
 			}
 		],
@@ -21,7 +21,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A when defeated ability is a type of triggered ability, indicated by the bold “When Defeated” timing trigger.<ul><li>When a villain stage, side scheme, main scheme stage, ally, or minion is defeated, all “When Defeated” abilities on the card resolve.</li><li>A defeated card leaves play after its “When Defeated” ability is resolved, if any.</li></ul>",
+				"content": "A when defeated ability is a type of triggered ability, indicated by the bold “<b>When Defeated</b>” timing trigger.<ul><li>When a villain stage, side scheme, main scheme stage, ally, or minion is defeated, all “<b>When Defeated</b>” abilities on the card resolve.</li><li>A defeated card leaves play after its “<b>When Defeated</b>” ability is resolved, if any.</li></ul>",
 				"whats_new": ""
 			}
 		],
@@ -42,8 +42,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A when revealed ability is a type of triggered ability, indicated by the bold “When Revealed” timing trigger. When a player reveals a card from the encounter deck, a new scheme stage, or a new villain stage, all “When Revealed” abilities on the card resolve.<ul><li>If an encounter card with a “When Revealed” ability enters play during setup, resolve that ability during the “Resolve Scenario Setup and When Revealed Abilities” step.</li><li>If an encounter card with a “When Revealed” ability is put into play without being revealed, the “When Revealed” ability does not trigger.</li><li>“When Revealed” abilities on villain and main scheme cards cannot be canceled.</li></ul>",
-				"whats_new": ""
+				"content": "A when revealed ability is a type of triggered ability, indicated by the bold “When Revealed” timing trigger. When a player reveals a card from the encounter deck, a new scheme stage, or a new villain stage, all “<b>When Revealed</b>” abilities on the card resolve.<ul><li>If an encounter card with a “<b>When Revealed</b>” ability enters play during setup, resolve that ability during the “Resolve Scenario Setup and When Revealed Abilities” step.</li><li>If an encounter card with a “<b>When Revealed</b>” ability is put into play without being revealed, the “When Revealed” ability does not trigger.</li><li><red>“<b>When Revealed</b>” abilities on villain and main scheme cards cannot be canceled.</red></li></ul>",
+				"whats_new": "Added the rule stating that 'When Revealed' abilities on villain and main scheme cards cannot be canceled."
 			}
 		],
 		"see_also": [
@@ -62,7 +62,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A wild resource (<span class=\"icon-wild\"></span>) is one of the four types of resources.<ul><li>Wild resources can be spent to pay the resource cost of cards and abilities. When a player generates a wild resource, they may specify which resource type (energy, mental, physical, or wild) it is being used as. When a card that generates a wild resource has its resources doubled, each of its wild resources can be declared a different type.</li><li>Some card abilities specifically require wild resources to be spent in order to resolve their effects.</li><li>When resources are not being generated for a cost, a wild resource does not have any characteristic other than “wild resource.” In such contexts, wild resources cannot be interpreted as any of the other resource types.</li></ul>",
+				"content": "A wild resource (<span class=\"icon-wild\"></span>) is one of the four types of resources.<ul><li>Wild resources can be spent to pay the resource cost of cards and abilities. When a player generates a wild resource (<span class=\"icon icon-wild rules-icon\" title=\"wild\" aria-hidden=\"true\">W</span>), they may specify which resource type (energy, mental, physical, or wild) it is being used as.</li><ul><li>When a card that generates a wild resource has its resources doubled, each of its wild resources can be declared a different type.</li></ul><li>Some card abilities specifically require wild resources to be spent in order to resolve their effects.</li><li>When resources are not being generated for a cost, a wild resource does not have any characteristic other than “wild resource.” In such contexts, wild resources cannot be interpreted as any of the other resource types.</li></ul>",
 				"whats_new": ""
 			}
 		],
@@ -83,10 +83,11 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "If the final villain stage is defeated, the players win the game. If the final stage of the main scheme deck is completed, the villain wins the game.<ul><li>Some scenarios have alternate win or loss conditions. If these conditions are met, the players win or lose accordingly. Alternate win or loss conditions cannot be blanked or canceled.</li></ul>",
+				"content": "<span style=\"font-size: 0.92rem;\">If the final villain stage is defeated, the players win the game. If the final stage of the main scheme deck is completed, the villain wins the game.</span><br><ul><li>Some scenarios have alternate win or loss conditions. If these conditions are met, the players win or lose accordingly.&nbsp;</li></ul><ul><ul><li><span style=\"font-size: 0.92rem;\">Alternate win or loss conditions cannot be blanked or canceled.</span></li></ul></ul>",
 				"whats_new": ""
 			}
-		]
+		],
+		"see_also": []
 	},
 	{
 		"id": "would",
@@ -95,7 +96,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "The word “would” is used to define the triggering condition of some interrupt abilities, and establishes a higher timing priority for those abilities than interrupts to the same triggering condition without the word “would.”<ul><li>If an interrupt to a triggering condition that would occur changes the nature of that which is about to occur (such as through a replacement effect), no further interrupts to the original trigger may be used since the resolution of that trigger is no longer valid. For example, an interrupt that states “when a character would be defeated” triggers before an interrupt that states “when a character is defeated.”</li></ul>",
+				"content": "The word “would” is used to define the triggering condition of some interrupt abilities, and establishes a higher timing priority for those abilities than interrupts to the same triggering condition without the word “would.”<ul><li>If an interrupt to a triggering condition that would occur changes the nature of that which is about to occur (<i>such as through a replacement effect</i>), no further interrupts to the original trigger may be used since the resolution of that trigger is no longer valid. For example, an interrupt that states “when a character would be defeated” triggers before an interrupt that states “when a character is defeated.”</li></ul><span style=\"font-size: 0.92rem;\"><i>For example, an interrupt that states “when a character\nwould be defeated” triggers before an interrupt that states\n“when a character is defeated.”&nbsp;</i></span>",
 				"whats_new": ""
 			}
 		],
