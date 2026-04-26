@@ -38,7 +38,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Une manigance est un type d'activation des ennemis. Si un ennemi reçoit l'instruction de manigancer, suivez ces étapes :<ol><li>Si un méchant, ou un sbire avec le mot-clé vilenie, manigance, donnez-lui une carte de boost face cachée du deck rencontre. (Si un sbire sans le mot-clé vilenie manigance, ignorez cette étape.)</li><li>Résolvez chacune des cartes de boost de l'ennemi qui manigance, une par une et dans l'ordre où elles ont été distribuées, en faisant ce qui suit : a. Retournez la carte de boost face visible. b. Résolvez toutes les capacités « Boost », indiquées par l'icône d'étoile dans la zone de boost. c. Augmentez la valeur de MNG de l'ennemi qui manigance de un pour chaque icône de boost sur la carte. d. Défaussez la carte de boost. e. Si l'ennemi a encore des cartes de boost, répétez ces étapes avec la carte de boost suivante.</li><li>Placez une quantité de menace sur la manigance principale égale à la valeur modifiée de MNG de l'ennemi qui manigance.</li></ol>",
+				"content": "Une manigance est un type d'activation des ennemis. Si un ennemi reçoit l'instruction de manigancer, suivez ces étapes :<ol><li>Si un méchant, ou un sbire avec le mot-clé vilenie, manigance, donnez-lui une carte de boost face cachée du deck rencontre. (Si un sbire sans le mot-clé vilenie manigance, ignorez cette étape.)</li><li>Résolvez chacune des cartes de boost de l'ennemi qui manigance, une par une et dans l'ordre où elles ont été distribuées, en faisant ce qui suit :</li><ol><li>Retournez la carte de boost face visible.</li><li>Résolvez toutes les capacités « Boost », indiquées par l'icône d'étoile dans la zone de boost.</li><li>Augmentez la valeur de MNG de l'ennemi qui manigance de un pour chaque icône de boost sur la carte.</li><li>Défaussez la carte de boost.</li><li>Si l'ennemi a encore des cartes de boost, répétez ces étapes avec la carte de boost suivante.</li></ol><li>Placez une quantité de menace sur la manigance principale égale à la valeur modifiée de MNG de l'ennemi qui manigance.</li></ol>",
 				"whats_new": ""
 			}
 		]
@@ -49,7 +49,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Lorsqu'un joueur reçoit l'instruction de chercher une carte, il est autorisé à regarder chacune des cartes dans la zone fouillée.<ul><li>Si le joueur trouve une carte qui satisfait aux critères de la recherche, il ajoute cette carte à la zone de jeu indiquée par les instructions sur l'effet de recherche.</li><li>Si un joueur trouve plusieurs cartes qui satisfont aux critères d'une recherche, le joueur choisit parmi ces options.</li><li>Les cartes fouillées ne sont pas considérées comme quittant la zone fouillée.</li><li>Si une partie quelconque d'un deck est fouillée, à la fin de cette étape de jeu, fonction de jeu ou capacité de carte, mélangez entièrement ce deck.</li><li>Si un joueur reçoit l'instruction de « chercher dans [sa] collection » une carte, le joueur cherche parmi toutes ses cartes Marvel Champions en dehors de la partie en cours la carte spécifiée. Il devient le propriétaire de cette carte jusqu'à la fin de la partie.</li></ul>",
+				"content": "Lorsqu'un joueur reçoit l'instruction de chercher une carte, il est autorisé à regarder chacune des cartes dans la zone fouillée.<ul><li>Si le joueur trouve une carte qui satisfait aux critères de la recherche, il ajoute cette carte à la zone de jeu indiquée par les instructions sur l'effet de recherche.</li><li>Si un joueur trouve plusieurs cartes qui satisfont aux critères d'une recherche, le joueur choisit parmi ces options.</li><li>Les cartes fouillées ne sont pas considérées comme quittant la zone fouillée.</li><li>Si une partie quelconque d'un deck est fouillée, à la fin de cette étape de jeu, fonction de jeu ou capacité de carte, mélangez entièrement ce deck.</li><li>Si un joueur reçoit l'instruction de « chercher dans [sa] collection » une carte, le joueur cherche parmi toutes ses cartes Marvel Champions en dehors de la partie en cours la carte spécifiée.&nbsp;</li><ul><li>Il devient le propriétaire de cette carte jusqu'à la fin de la partie.</li></ul></ul>",
 				"whats_new": ""
 			}
 		]
@@ -82,8 +82,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "L'icône de set est un indicateur sur une carte de l'origine du produit de cette carte, situé dans les informations de collection de la carte au bas de la carte.",
-				"whats_new": ""
+				"content": "<red>L'icône de set est un indicateur sur une carte de l'origine du produit de cette carte, situé dans les informations de collection de la carte au bas de la carte.</red>",
+				"whats_new": "Ajout de la définition pour l''Icône de Set', expliquant qu'il s'agit d'un indicateur de l'origine du produit de la carte, situé en bas de celle-ci."
 			}
 		]
 	},
@@ -170,7 +170,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Une capacité spéciale est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « Spécial ». Les capacités spéciales ne peuvent être exécutées que par l'instruction explicite d'une autre capacité de carte.",
+				"content": "Une capacité spéciale est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « <b>Spécial </b>». Les capacités spéciales ne peuvent être exécutées que par l'instruction explicite d'une autre capacité de carte.",
 				"whats_new": ""
 			}
 		]
@@ -225,7 +225,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Les cartes d'état représentent différents états dans lesquels un personnage peut se trouver pendant la partie. Lorsqu'un personnage reçoit une carte d'état, prenez une carte d'état du type spécifié dans la réserve et placez-la sur ce personnage.<ul><li>Un personnage ne peut pas avoir plus d'une carte d'état de chaque type à la fois. Les personnages avec le mot-clé solide peuvent avoir une carte d'état désorienté supplémentaire et une carte d'état sonné supplémentaire.</li><li>Les capacités des cartes d'état ont priorité sur toutes les capacités déclenchées conflictuelles.</li><li>Les trois types de cartes d'état sont : <b>Désorienté</b> (annule le prochain contre ou la prochaine manigance d'un personnage), <b>Sonné</b> (annule la prochaine attaque d'un personnage), et <b>Tenace</b> (prévient les dégâts que le personnage prend).</li></ul>",
+				"content": "Les cartes d'état représentent différents états dans lesquels un personnage peut se trouver pendant la partie. Lorsqu'un personnage reçoit une carte d'état, prenez une carte d'état du type spécifié dans la réserve et placez-la sur ce personnage.<ul><li>Un personnage ne peut pas avoir plus d'une carte d'état de chaque type à la fois.</li><ul><li>Les personnages avec le mot-clé solide peuvent avoir une carte d'état désorienté supplémentaire et une carte d'état sonné supplémentaire.</li></ul><li>Les capacités des cartes d'état ont priorité sur toutes les capacités déclenchées conflictuelles.</li><li>Les trois types de cartes d'état sont :&nbsp;</li></ul><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><b style=\"font-size: 0.92rem;\">Désorienté</b><span style=\"font-size: 0.92rem;\"> (annule le prochain contre ou la prochaine manigance d'un personnage),&nbsp;</span></blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><b style=\"font-size: 0.92rem;\">Sonné</b><span style=\"font-size: 0.92rem;\"> (annule la prochaine attaque d'un personnage),</span></blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><b style=\"font-size: 0.92rem;\">Tenace</b><span style=\"font-size: 0.92rem;\"> (prévient les dégâts que le personnage prend).</span></blockquote>",
 				"whats_new": ""
 			}
 		]
@@ -236,7 +236,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Un personnage avec le mot-clé solide peut avoir une carte d'état sonné supplémentaire et une carte d'état désorienté supplémentaire. Ce personnage n'est pas sonné à moins qu'il n'ait deux cartes d'état sonné, et n'est pas désorienté à moins qu'il n'ait deux cartes d'état désorienté.<ul><li>Après que l'attaque, la manigance ou le contre de ce personnage est annulé par un effet de carte d'état, retirez toutes les cartes d'état du type correspondant de ce personnage.</li></ul>",
+				"content": "Un personnage avec le mot-clé solide peut avoir une carte d'état sonné supplémentaire et une carte d'état désorienté supplémentaire. Ce personnage n'est pas sonné à moins qu'il n'ait deux cartes d'état sonné, et n'est pas désorienté à moins qu'il n'ait deux cartes d'état désorienté.&nbsp;<span style=\"font-size: 0.92rem;\">Après que l'attaque, la manigance ou le contre de ce personnage est annulé par un effet de carte d'état, retirez toutes les cartes d'état du type correspondant de ce personnage.</span>",
 				"whats_new": ""
 			}
 		]
@@ -247,7 +247,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Sonné est un état qui annule la prochaine attaque d'un personnage.<ul><li>Si une capacité « sonne » un personnage, donnez-lui une carte d'état sonné.</li><li>Un personnage est sonné s'il a une carte d'état sonné. Un personnage avec le mot-clé solide n'est sonné que s'il a deux cartes d'état sonné.</li><li>Si un personnage a une capacité indiquant qu'il « ne peut pas être sonné », les cartes d'état sonné ne peuvent pas être placées sur ce personnage.</li><li>Si une identité ou un allié sonné tente d'attaquer ou d'utiliser une capacité d'attaque, défaussez la carte sonné à la place. Les coûts associés à la tentative d'attaque, y compris l'inclinaison du personnage, doivent tout de même être payés.</li><li>Un personnage sonné peut tenter d'attaquer ou d'utiliser une capacité d'attaque même s'il n'a pas de cible valide pour une attaque.</li><li>Si un méchant ou un sbire sonné devait attaquer, défaussez la carte d'état sonné à la place.</li><li>Comme l'action d'attaque ou l'activation d'attaque a été remplacée par le retrait de la carte d'état sonné, ce personnage n'est pas considéré comme ayant attaqué.</li></ul>",
+				"content": "Sonné est un état qui annule la prochaine attaque d'un personnage.<ul><li>Si une capacité « sonne » un personnage, donnez-lui une carte d'état sonné.</li><li>Un personnage est sonné s'il a une carte d'état sonné. Un personnage avec le mot-clé solide n'est sonné que s'il a deux cartes d'état sonné.</li><li>Si un personnage a une capacité indiquant qu'il « ne peut pas être sonné », les cartes d'état sonné ne peuvent pas être placées sur ce personnage.</li><li>Si une identité ou un allié sonné tente d'attaquer ou d'utiliser une capacité d'attaque, défaussez la carte sonné à la place. Les coûts associés à la tentative d'attaque, y compris l'inclinaison du personnage, doivent tout de même être payés.</li><ul><li>Un personnage sonné peut tenter d'attaquer ou d'utiliser une capacité d'attaque même s'il n'a pas de cible valide pour une attaque.</li></ul><li>Si un méchant ou un sbire sonné devait attaquer, défaussez la carte d'état sonné à la place.</li><li>Comme l'action d'attaque ou l'activation d'attaque a été remplacée par le retrait de la carte d'état sonné, ce personnage n'est pas considéré comme ayant attaqué.</li></ul>",
 				"whats_new": ""
 			}
 		]
@@ -302,8 +302,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Une instruction « d'échanger » deux composants signifie échanger l'emplacement de ces deux composants.<ul><li>Un échange ne peut pas être effectué s'il n'y a pas un composant dans les deux emplacements.</li><li>L'échange d'une carte en main avec la carte du dessus d'un deck n'est pas considéré comme piocher cette carte.</li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes <b>partagent un titre</b>, aucune des cartes n'est considérée comme entrant ou quittant le jeu. Les jetons, cartes attachées, cartes glissées dessous et cartes d'état sur la carte précédemment en jeu sont transférés à l'autre carte, et l'autre carte conserve l'état (redressé ou incliné) de la carte précédemment en jeu. Si la carte échangée a un cadran de points de vie associé, ce cadran reste à la même valeur.</li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes <b>ne partagent pas de titre</b>, la carte en jeu est considérée comme quittant le jeu et la carte hors jeu est considérée comme entrant en jeu. Les jetons, cartes attachées, cartes glissées et cartes d'état sur la carte précédemment en jeu ne sont pas transférés à l'autre carte, et l'autre carte entre en jeu redressée. Si la carte échangée a un cadran de points de vie associé, ce cadran est réinitialisé à la valeur de points de vie imprimée de la nouvelle carte.</li></ul>",
-				"whats_new": ""
+				"content": "Une instruction « d'échanger » deux composants signifie échanger l'emplacement de ces deux composants.<ul><li>Un échange ne peut pas être effectué s'il n'y a pas un composant dans les deux emplacements.</li><li>L'échange d'une carte en main avec la carte du dessus d'un deck n'est pas considéré comme piocher cette carte.</li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes <b>partagent un titre</b>, aucune des cartes n'est considérée comme entrant ou quittant le jeu. Les jetons, <red>cartes attachées, cartes intercalées</red> et cartes d'état sur la carte précédemment en jeu sont transférés à l'autre carte, et l'autre carte conserve l'état (redressé ou incliné) de la carte précédemment en jeu. <red>Si la carte échangée a un cadran de points de vie associé, ce cadran reste à la même valeur.</red></li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes <b>ne partagent pas de titre</b>, la carte en jeu est considérée comme quittant le jeu et la carte hors jeu est considérée comme entrant en jeu. Les jetons, <red>cartes attachées, cartes intercalées&nbsp;</red>et cartes d'état sur la carte précédemment en jeu ne sont pas transférés à l'autre carte, et l'autre carte entre en jeu redressée. <red>Si la carte échangée a un cadran de points de vie associé, ce cadran est réinitialisé à la valeur de points de vie imprimée de la nouvelle carte.</red></li></ul>",
+				"whats_new": "Développement des règles d'échange (swap) pour détailler explicitement la gestion des cartes attachées, des cartes glissées en dessous et des cadrans de points de vie. Si les cartes échangées partagent le même titre, ces éléments sont transférés et les PV sont conservés ; dans le cas contraire, ils ne sont pas transférés et les PV sont réinitialisés."
 			}
 		]
 	}

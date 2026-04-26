@@ -56,7 +56,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A scheme is a type of enemy activation. If an enemy is instructed to scheme, follow these steps:<ol><li>If a villain, or a minion with the villainous keyword, is scheming, give it one facedown boost card from the encounter deck. (If a minion without the villainous keyword is scheming, skip this step.)</li><li>Resolve each of the scheming enemy’s boost cards, one at a time and in the order in which they were dealt, by doing the following: a. Flip the boost card faceup. b. Resolve any “Boost” abilities, indicated by the star icon in the boost area. c. Increase the scheming enemy’s SCH value by one for each boost icon on the card. d. Discard the boost card. e. If the enemy has any boost cards remaining, repeat these steps with the next boost card.</li><li>Place threat on the main scheme equal to the scheming enemy’s modified SCH value.</li></ol>",
+				"content": "A scheme is a type of enemy activation. If an enemy is instructed to scheme, follow these steps:<ol><li>If a villain, or a minion with the villainous keyword, is scheming, give it one facedown boost card from the encounter deck. (If a minion without the villainous keyword is scheming, skip this step.)</li><li>Resolve each of the scheming enemy’s boost cards, one at a time and in the order in which they were dealt, by doing the following:</li><ol><li>Flip the boost card faceup.</li><li>Resolve any “Boost” abilities, indicated by the star icon in the boost area.</li><li>Increase the scheming enemy’s SCH value by one for each boost icon on the card.</li><li>Discard the boost card.</li><li>If the enemy has any boost cards remaining, repeat these steps with the next boost card.</li></ol><li>Place threat on the main scheme equal to the scheming enemy’s modified SCH value.</li></ol>",
 				"whats_new": ""
 			}
 		],
@@ -77,7 +77,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "When a player is instructed to search for a card, the player is permitted to look at each of the cards in the searched area.<ul><li>If the player finds a card that satisfies the criteria of the search, the player adds that card to the game area indicated by the instructions on the search effect.</li><li>If a player finds multiple cards that satisfy the criteria of a search, the player chooses among those options.</li><li>Cards being searched are not considered to leave the searched area.</li><li>If any portion of a deck is searched, upon completion of that game step, game function, or card ability, shuffle that entire deck.</li><li>If a player is instructed to “search [their] collection” for a card, the player looks through all of their Marvel Champions cards outside of the current game for the specified card. They become the owner of that card until the end of the game.</li></ul>",
+				"content": "When a player is instructed to search for a card, the player is permitted to look at each of the cards in the searched area.<ul><li>If the player finds a card that satisfies the criteria of the search, the player adds that card to the game area indicated by the instructions on the search effect.</li><li>If a player finds multiple cards that satisfy the criteria of a search, the player chooses among those options.</li><li>Cards being searched are not considered to leave the searched area.</li><li>If any portion of a deck is searched, upon completion of that game step, game function, or card ability, shuffle that entire deck.</li><li>If a player is instructed to “search [their] collection” for a card, the player looks through all of their Marvel Champions cards outside of the current game for the specified card.</li><ul><li>They become the owner of that card until the end of the game.</li></ul></ul>",
 				"whats_new": ""
 			}
 		],
@@ -126,10 +126,11 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "The set icon is an indicator on a card of that card’s product of origin, located in the card’s collector information at the bottom of the card.",
-				"whats_new": ""
+				"content": "<red>The set icon is an indicator on a card of that card’s product of origin, located in the card’s collector information at the bottom of the card.</red>",
+				"whats_new": "Added the definition for 'Set Icon', explaining that it is an indicator of a card's product of origin located at the bottom of the card."
 			}
-		]
+		],
+		"see_also": []
 	},
 	{
 		"id": "setup",
@@ -255,7 +256,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A special ability is a type of triggered ability, indicated by the bold “Special” timing trigger. Special abilities may only be executed through the explicit instruction of another card ability.",
+				"content": "A special ability is a type of triggered ability, indicated by the bold “<b>Special</b>” timing trigger. Special abilities may only be executed through the explicit instruction of another card ability.",
 				"whats_new": ""
 			}
 		],
@@ -347,7 +348,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Status card represent different states a character may find themselves in during the game. When a character is given a status card, take a status card of the specified type from the pool and place it on that character.<ul><li>A character cannot have more than one status card of each type at a time. Characters with the steady keyword can have one additional confused status card and one additional stunned status card.</li><li>Status card abilities have timing priority over all conflicting triggered abilities.</li><li>The three status card types are: <b>Confused</b> (cancels a character's next scheme or thwart), <b>Stunned</b> (cancels a character's next attack), and <b>Tough</b> (prevents a character from taking damage).</li></ul>",
+				"content": "Status card represent different states a character may find themselves in during the game. When a character is given a status card, take a status card of the specified type from the pool and place it on that character.<ul><li>A character cannot have more than one status card of each type at a time.</li><ul><li>Characters with the steady keyword can have one additional confused status card and one additional stunned status card.</li></ul><li>Status card abilities have timing priority over all conflicting triggered abilities.</li></ul><span style=\"font-size: 0.92rem;\">The three status card types are:</span><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><b style=\"font-size: 0.92rem;\">Confused</b><span style=\"font-size: 0.92rem;\"> (cancels a character's next scheme or thwart),</span></div><div><b style=\"font-size: 0.92rem;\">Stunned</b><span style=\"font-size: 0.92rem;\"> (cancels a character's next attack),</span></div><div><b style=\"font-size: 0.92rem;\">Tough</b><span style=\"font-size: 0.92rem;\"> (prevents a character from taking damage).</span></div></blockquote><div><span style=\"font-size: 0.92rem;\"></span></div>",
 				"whats_new": ""
 			}
 		],
@@ -375,7 +376,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "A character with the steady keyword can have one additional stunned status card and one additional confused status card. That character is not stunned unless they have two stunned status cards, and is not confused unless they have two confused status cards.<ul><li>After that character’s attack, scheme, or thwart is canceled by a status card effect, remove all status cards of the corresponding type from that character.</li></ul>",
+				"content": "A character with the steady keyword can have one additional stunned status card and one additional confused status card. That character is not stunned unless they have two stunned status cards, and is not confused unless they have two confused status cards.&nbsp;<span style=\"font-size: 0.92rem;\">After that character’s attack, scheme, or thwart is canceled by a status card effect, remove all status cards of the corresponding type from that character.</span>",
 				"whats_new": ""
 			}
 		],
@@ -393,7 +394,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Stun is a status that cancels a character’s next attack.<ul><li>If an ability “stuns” a character, give that character a stunned status card.</li><li>A character is stunned if it has a stunned status card. A character with the steady keyword is stunned only if it has two stunned status cards.</li><li>If a character has an ability stating that it “cannot be stunned,” stunned status cards cannot be placed on that character.</li><li>If a stunned identity or ally attempts to attack or use an attack ability, discard the stunned card instead. Costs associated with the attack attempt, including exhausting the character, must still be paid.</li><li>A stunned character can attempt to attack or use an attack ability even if it has no valid target for an attack.</li><li>If a stunned villain or minion would attack, discard the stunned status card instead.</li><li>As the attack action or attack activation was replaced by the removal of the stunned status card, that character is not considered to have attacked.</li></ul>",
+				"content": "Stun is a status that cancels a character’s next attack.<ul><li>If an ability “stuns” a character, give that character a stunned status card.</li><li>A character is stunned if it has a stunned status card. A character with the steady keyword is stunned only if it has two stunned status cards.</li><li>If a character has an ability stating that it “cannot be stunned,” stunned status cards cannot be placed on that character.</li><li>If a stunned identity or ally attempts to attack or use an attack ability, discard the stunned card instead. Costs associated with the attack attempt, including exhausting the character, must still be paid.</li><ul><li>A stunned character can attempt to attack or use an attack ability even if it has no valid target for an attack.</li></ul><li>If a stunned villain or minion would attack, discard the stunned status card instead.</li><li>As the attack action or attack activation was replaced by the removal of the stunned status card, that character is not considered to have attacked.</li></ul>",
 				"whats_new": ""
 			}
 		],
@@ -489,8 +490,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "An instruction to “swap” two components means to exchange the location of those two components.<ul><li>A swap cannot be completed if there is not a component in both locations.</li><li>Swapping a card in hand with the top card of a deck is not considered drawing that card.</li><li>When swapping a card in a play area with a card in an out-of-play area, if those two cards <b>share a title</b>, neither card is considered to enter or leave play. Tokens, attached cards, tucked cards, and status cards on the previously in-play card are transferred to the other card and the other card maintains the state (ready or exhausted) of the previously in-play card. If the swapped card has an associated hit point dial, that dial remains at the same value.</li><li>When swapping a card in a play area with a card in an out-of-play area, if those two cards <b>do not share a title</b>, the in-play card is considered to leave play and the out-of-play card is considered to enter play. Tokens, attached cards, tucked cards, and status cards on the previously in-play card are not transferred to the other card and the other card enters play ready. If the swapped card has an associated hit point dial, that dial is reset to the new card’s printed hit point value.</li></ul>",
-				"whats_new": ""
+				"content": "An instruction to “swap” two components means to\nexchange the location of those two components.<div><ul><li>A swap cannot be completed if there is not a\ncomponent in both locations.</li><ul><li><span style=\"font-size: 0.92rem;\">For example, you cannot “swap a card in your hand\nwith the top card of your deck” if you have no cards\nin hand.&nbsp;</span></li></ul><li><span style=\"font-size: 0.92rem;\">Swapping a card in hand with the top card of a deck\nis not considered drawing that card.</span></li><li>When swapping a card in a play area with a card in an\nout-of-play area, if those two cards:</li><ul><li>Share a title, neither card is considered to enter or\nleave play. Tokens, <red>attached cards, tucked cards</red>,\nand status cards on the previously in-play card are\ntransferred to the other card and the other card\nmaintains the state (ready or exhausted) of the\npreviously in-play card.<red> If the swapped card has an\nassociated hit point dial, that dial remains at the\nsame value.</red></li><li>Do not share a title, the in-play card is considered\nto leave play and the out-of-play card is considered\nto enter play. Tokens,<red> attached cards, tucked cards</red>,\nand status cards on the previously in-play card are\nnot transferred to the other card and the other\ncard enters play ready. <red>If the swapped card has an\nassociated hit point dial, that dial is reset to the\nnew card’s printed hit point value.<span style=\"font-size: 0.92rem;\">&nbsp;</span></red><span style=\"font-size: 0.92rem;\"></span></li></ul></ul></div>",
+				"whats_new": "Expanded the rules for swapping cards to explicitly detail the handling of attached cards, tucked cards, and hit point dials. When swapped cards share a title, these elements transfer and the HP dial remains the same; when they do not share a title, they do not transfer and the HP dial resets."
 			}
 		],
 		"see_also": [

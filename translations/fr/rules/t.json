@@ -1,200 +1,200 @@
 [
-    {
-        "id": "table_talk",
-        "term": "Discussions à la Table",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Les joueurs sont autorisés et encouragés à se parler pendant la partie, et à travailler en équipe pour planifier et exécuter la meilleure stratégie. Les joueurs peuvent discuter de tout ce qu'ils souhaitent, y compris des cartes en jeu et des cartes dans leur main. Les joueurs ne sont pas obligés de divulguer les cartes de leur main s'ils ne le souhaitent pas.<ul><li>Lors de la résolution d'une carte rencontre avec le mot-clé péril, les joueurs ne sont pas autorisés à se concerter.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "target",
-        "term": "Cible",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Si une fonction de jeu ou une capacité de carte est dirigée vers un élément de jeu (comme une attaque qui inflige des dégâts à un ennemi), cet élément de jeu devient la cible de cette fonction ou de cette capacité pour la durée de sa résolution.<ul><li>Exemples de cibles : « le méchant », « un sbire », « un ennemi », « une manigance », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».</li><li>Si une capacité ou une fonction de jeu nécessite une ou plusieurs cibles, elle ne peut être initiée que s'il y a au moins une cible valide.</li><li>Les pouvoirs de base sont des fonctions de jeu qui nécessitent une cible valide. L'expression « choisissez un(e) [élément de jeu] » indique qu'une ou plusieurs cibles doivent être sélectionnées pour initier une capacité.</li><li>Une cible est valide pour une capacité ou fonction de jeu si n'importe quelle partie de cette capacité peut l'affecter.</li><li>Exception : Un personnage avec une ATQ, une MNG ou un CTR de 0 peut effectuer une activation ou un pouvoir de base en utilisant cette valeur contre une cible qui est par ailleurs valide pour cette activation ou ce pouvoir de base.</li><li>Le coût d'une capacité ou fonction n'est pas pris en compte pour déterminer si elle peut affecter une cible.</li><li>Une cible n'est pas valide si la capacité l'obligerait à effectuer une fonction de jeu qu'une autre capacité lui interdit de faire.</li><li>Les dégâts infligés mais non subis (ex. prévenus) sont considérés comme affectant une cible. Une cible qui « ne peut pas subir de dégâts » n'est pas une cible valide pour une capacité dont le seul effet est d'infliger des dégâts.</li><li>Un effet qui utilise « ce/cette [cible] » fait référence à la cible d'un effet précédent et ne peut être résolu que pour une cible valide de l'effet précédent.</li><li>Une capacité qui cible plusieurs éléments d'un type spécifique (ex. « chaque ennemi ») peut être initiée si au moins un des éléments est valide. L'effet ne se résout pas contre les éléments non valides.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "target_threat",
-        "term": "Seuil de Menace",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le seuil de menace est la quantité de menace requise pour que le deck manigance principale avance. Il est situé dans le coin supérieur gauche de la carte, avant le titre.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "team_up",
-        "term": "En équipe",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le mot-clé en équipe nomme deux personnages. Pour qu'un joueur puisse inclure une carte avec le mot-clé en équipe dans son deck, l'identité choisie par ce joueur doit correspondre à l'un des personnages nommés. De plus, une carte avec le mot-clé en équipe ne peut pas être jouée à moins que les deux personnages amis nommés (identité ou allié) ne soient en jeu.<ul><li>Un allié compte comme un personnage nommé si son titre ou son sous-titre correspond au personnage nommé.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "teamwork_trait",
-        "term": "Esprit d'Équipe (Trait)",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Après qu'un sbire avec esprit d'équipe entre en jeu et engage un joueur, s'il y a au moins un autre sbire partageant le trait spécifié en jeu, le sbire qui vient d'entrer en jeu s'active contre le joueur avec lequel il est engagé.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "temporary",
-        "term": "Temporaire",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Une carte avec le mot-clé temporaire doit être défaussée du jeu à la fin du round.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "text_box",
-        "term": "Boîte de texte",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "La boîte de texte d'une carte est la zone d'une carte qui contient les capacités, les traits et le texte d'ambiance (le cas échéant) imprimés de la carte.<ul><li>Si la capacité d'une carte fait référence à la « boîte de texte » d'une carte, cette capacité ne fait référence qu'aux capacités imprimées dans la boîte de texte de cette carte. Les icônes imprimées dans la boîte de texte d'une carte sont considérées comme des capacités dans cette boîte de texte.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "then",
-        "term": "Ensuite",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Si le texte d'effet d'une capacité inclut le mot « ensuite », le texte précédant le mot « ensuite » doit être entièrement vrai ou résolu avant que le reste de l'effet décrit après le mot « ensuite » ne puisse être résolu.<ul><li>Si le texte précédant le « ensuite » est entièrement résolu, le texte suivant le « ensuite » doit également tenter de se résoudre.</li><li>Si le texte précédant le « ensuite » ne se résout pas entièrement, le texte suivant le « ensuite » ne tente pas de se résoudre.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "threat",
-        "term": "Menace",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Les pions menace sont utilisés pour suivre la quantité de menace sur les cartes manigance.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "thw",
-        "term": "CTR",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Voir : Pouvoir de Base, Contre, contrer",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "thwart",
-        "term": "Contre, contrer",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Certains effets de jeu et capacités de cartes font référence à une tentative de contre. Cela peut se produire de différentes manières :<ul><li>Un héros ou un allié peut utiliser son pouvoir de contre de base pour contrer une manigance. Un personnage doit s'incliner pour utiliser ce pouvoir. Cela retire de la menace de la manigance de la valeur de CTR du personnage. Un personnage ne peut initier un contre de base que s'il y a une manigance avec au moins une menace à retirer ou si ce personnage est désorienté.</li><li>Si une capacité déclenchée est étiquetée comme un contre — comme « Action de Héros (contre) » — la résolution de cette capacité est considérée comme un contre de la manigance spécifiée. Sauf indication contraire dans le texte de la capacité, un héros ne s'incline pas lorsqu'il utilise une telle capacité.</li><li>Une capacité étiquetée comme un contre est considérée comme un seul contre, même si ce contre retire plusieurs instances de menace. Si une capacité augmente la quantité de menace qu'une capacité étiquetée comme un contre retire et que cette capacité retire plusieurs instances de menace, chacune de ces instances n'utilisant pas le mot « supplémentaire » est augmentée de la quantité spécifiée.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "tough",
-        "term": "Tenace",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Tenace est un état qui empêche un personnage de subir des dégâts.<ul><li>Si un personnage avec une carte d'état tenace devait subir n'importe quelle quantité de dégâts, prévenez tous ces dégâts et défaussez une carte d'état tenace de ce personnage à la place. Un personnage avec plusieurs cartes d'état tenace ne défausse qu'une seule carte d'état tenace chaque fois qu'il devrait subir des dégâts. Lorsqu'un héros avec une carte d'état tenace défend une attaque, il réduit d'abord les dégâts de l'attaque par sa DEF. Si les dégâts sont réduits à 0, le héros ne perd pas sa carte d'état tenace.</li><li>Lorsqu'un allié ou un sbire avec une carte d'état tenace subit des dégâts en excès par une attaque avec le mot-clé déferlement, les dégâts de déferlement ne sont pas infligés à l'identité du contrôleur de cet allié ni au méchant, respectivement.</li><li>Comme une carte d'état tenace prévient entièrement les dégâts, le personnage qui avait la carte d'état tenace n'est pas considéré comme ayant subi des dégâts.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "toughness",
-        "term": "Ténacité",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Lorsqu'un personnage avec le mot-clé ténacité entre en jeu, placez une carte d'état tenace sur lui.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "traits",
-        "term": "Traits",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "De nombreuses cartes ont un ou plusieurs traits listés en haut de la boîte de texte et imprimés en italique gras.<ul><li>Les traits n'ont pas d'effets inhérents sur le jeu. Au lieu de cela, certaines capacités de carte font référence à des cartes qui possèdent ou non des traits spécifiques.</li><li>Les traits ne sont pas considérés comme faisant partie de la boîte de texte imprimée d'une carte pour ce qui est des capacités de carte.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "treachery",
-        "term": "Traîtrise",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Traîtrise est un type de carte rencontre qui représente des tactiques, des ruses, des catastrophes et d'autres événements immédiats auxquels les joueurs sont confrontés au cours d'un scénario.<ul><li>Si une carte traîtrise est révélée du deck rencontre, le joueur qui révèle la carte doit résoudre ses effets.</li><li>Après avoir résolu les effets d'une carte traîtrise (ou si les effets sont annulés), placez la carte dans la pile de défausse rencontre. Si une traîtrise provoque l'activation d'un ou plusieurs ennemis comme dernier effet, cette carte traîtrise est considérée comme résolue et est défaussée après que toutes ces activations ont été résolues.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "triggered_ability",
-        "term": "Capacité déclenchée",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Une capacité déclenchée est indiquée par un déclencheur de timing en gras suivi de deux points et du reste du texte de la capacité.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "triggering_condition",
-        "term": "Condition de déclenchement",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Une condition de déclenchement est un événement spécifique qui a lieu dans le jeu. Sur les capacités de cartes, la condition de déclenchement est l'élément de la capacité qui fait référence à un tel événement, indiquant le point de timing auquel la capacité peut être utilisée. La description de la condition de déclenchement d'une capacité suit généralement le mot « quand » ou « après que ».<ul><li>Chaque capacité « Interruption » et « Réponse » ne peut être déclenchée qu'une seule fois par occurrence de sa condition de déclenchement. Plusieurs exemplaires d'une carte avec une interruption ou une réponse peuvent chacun être déclenchés par la même condition de déclenchement.</li><li>Si un seul événement de jeu crée plusieurs conditions de déclenchement (comme une seule attaque poussant un personnage à la fois à subir des dégâts et à être vaincu), ces conditions de déclenchement sont gérées avec une seule fenêtre d'interruption et une seule fenêtre de réponse. Pendant chacune de ces fenêtres, les capacités qui font référence à n'importe laquelle des conditions de déclenchement créées par l'événement peuvent être utilisées dans n'importe quel ordre.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "tuck",
-        "term": "Glisser Sous",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Lorsqu'un joueur reçoit l'instruction de glisser une carte sous une autre carte, il place la carte glissée face visible sous l'autre carte.<ul><li>Les cartes glissées ne sont pas en jeu et ne sont pas considérées comme « attachées » à la carte sous laquelle elles sont glissées.</li><li>Lorsqu'une carte quitte le jeu, chaque carte glissée en dessous est défaussée.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    }
+	{
+		"id": "table_talk",
+		"term": "Discussions à la Table",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les joueurs sont autorisés et encouragés à se parler pendant la partie, et à travailler en équipe pour planifier et exécuter la meilleure stratégie. Les joueurs peuvent discuter de tout ce qu'ils souhaitent, y compris des cartes en jeu et des cartes dans leur main. Les joueurs ne sont pas obligés de divulguer les cartes de leur main s'ils ne le souhaitent pas.<ul><li>Lors de la résolution d'une carte rencontre avec le mot-clé péril, les joueurs ne sont pas autorisés à se concerter.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "target",
+		"term": "Cible",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<p style=\"box-sizing: inherit; margin-bottom: 0.35em; color: rgb(0, 0, 0); font-family: Roboto, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; font-size: 14px;\">Si une fonction de jeu ou une capacité de carte est dirigée vers un élément de jeu (par exemple une attaque qui inflige des dégâts à un ennemi), cet élément de jeu devient la cible de cette fonction ou capacité pour la durée de la résolution de cette fonction ou capacité.</p><ul style=\"box-sizing: inherit; margin-top: 1em; margin-left: 0.625em; display: flow-root; color: rgb(0, 0, 0); font-family: Roboto, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; font-size: 14px; margin-bottom: 0.35em !important; list-style: none !important; padding-left: 1.4em !important;\"><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Exemples de cibles : « le méchant », « un sbire », « un ennemi », « une manigance », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».</span></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Si une capacité ou une fonction de jeu exige une ou plusieurs cibles, cette capacité ou fonction de jeu ne peut être initiée que si elle dispose d'au moins une cible valide. Par exemple, une capacité qui dit « infligez 5 dégâts à un sbire » ne peut pas être initiée s'il n'existe aucun sbire en jeu.</span><ul style=\"box-sizing: inherit; margin-bottom: 0.5em; margin-top: 0.5em; margin-left: 0.625em; display: flow-root; list-style: none !important; padding-left: 1.4em !important;\"><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Les pouvoirs de base sont des fonctions de jeu qui exigent une cible valide.</span></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">L'expression « choisissez un [élément de jeu] » indique qu'une ou plusieurs cibles doivent être sélectionnées pour que la capacité puisse être initiée.</span></li><li style=\"box-sizing: inherit; margin-bottom: 0px; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Les capacités qui font piocher un ou plusieurs exemplaires ont toujours une cible valide dès lors que ce joueur a au moins une carte dans son deck.</span></li></ul></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Une cible est valide pour une capacité ou une fonction de jeu si une partie quelconque de cette capacité peut affecter cette cible.</span><ul style=\"box-sizing: inherit; margin-bottom: 0.5em; margin-top: 0.5em; margin-left: 0.625em; display: flow-root; list-style: none !important; padding-left: 1.4em !important;\"><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Exemples d'effets sur une cible : infliger/soigner des dégâts, ajouter/enlever de la menace, donner/enlever une carte d'état, incliner/redresser la cible, vaincre/défausser la cible.</span></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Exception : un personnage ayant une valeur d'ATQ, MNG ou CTR égale à 0 peut effectuer une activation ou un pouvoir de base en utilisant cette valeur contre une cible qui serait autrement valide pour cette activation ou ce pouvoir de base. (Par exemple, un héros avec une MNG de 0 peut effectuer un contre de base contre une manigance qui a de la menace.)</span></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Le coût d'une capacité ou d'une fonction de jeu n'est pas pris en compte pour déterminer si cette capacité ou fonction peut affecter une cible.</span></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Si une capacité ou une fonction de jeu a plusieurs effets sur sa cible, la cible est valide si au moins un de ces effets peut l'affecter.</span></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Une cible n'est pas valide pour une capacité si cette capacité demanderait à la cible d'effectuer une fonction de jeu que d'autres capacités lui interdisent d'effectuer. Par exemple, un personnage portant un attachement qui dit « le personnage attaché ne peut pas se redresser » n'est pas une cible valide pour une carte qui redresse un personnage.</span></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Les dégâts infligés mais non subis (par exemple si les dégâts sont empêchés) sont considérés comme affectant une cible.</span></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Une cible « qui ne peut pas subir de dégâts » n'est pas une cible valide pour une capacité dont le seul effet sur cette cible est de lui infliger des dégâts.</span></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Une cible qui ne peut pas être attaquée n'est pas une cible valide pour une capacité étiquetée « attaque ».</span></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Une cible qui ne peut pas être contrée n'est pas une cible valide pour une capacité étiquetée « contrer ».</span></li><li style=\"box-sizing: inherit; margin-bottom: 0px; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Un effet utilisant « cette [cible] » se réfère à la cible d'un effet précédent et ne peut être résolu que pour une cible valide de l'effet précédent. Par exemple, une capacité qui dit « Infligez 5 dégâts à un ennemi. Sonnez cet ennemi. » ne peut sonner qu'un ennemi qui peut être blessé (et subir des dégâts).</span></li></ul></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Une capacité ou une fonction de jeu qui cible plusieurs éléments de jeu d'un type spécifique (par exemple « chaque ennemi ») peut être initiée tant qu'au moins un de ces éléments est une cible valide.</span><ul style=\"box-sizing: inherit; margin-bottom: 0.5em; margin-top: 0.5em; margin-left: 0.625em; display: flow-root; list-style: none !important; padding-left: 1.4em !important;\"><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Cette capacité ou fonction ne se résout pas à l'encontre des éléments qui ne sont pas des cibles valides.</span></li><li style=\"box-sizing: inherit; margin-bottom: 0px; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Par exemple, l'icône de crise&nbsp;<img alt=\"icone_crise.jpg\" src=\"https://deejimy.github.io/mc-reference/img/icone_crise.jpg\" width=\"15\" style=\"box-sizing: inherit; border-style: none;\">&nbsp;empêche la menace d'être retirée de la manigance principale. Une capacité qui dit « retirez 1 menace de chaque manigance » peut être utilisée tant qu'il existe au moins une manigance dont la menace peut être retirée&nbsp;; dans ce cas, aucune menace ne serait retirée de la manigance principale.</span></li></ul></li><li style=\"box-sizing: inherit; margin-bottom: 0.15em; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Une capacité qui fait référence à une cible future (par ex. « la prochaine carte que vous jouez ») ne requiert pas de cible pour être initiée.</span></li><li style=\"box-sizing: inherit; margin-bottom: 0px; position: relative !important; margin-left: 1.25em;\"><span class=\"new\" style=\"box-sizing: inherit; color: rgb(186, 65, 55) !important;\">Une capacité comportant un effet de recherche nécessite seulement une zone de jeu « recherchable » pour pouvoir être initiée.</span></li></ul>",
+				"whats_new": "Précision indiquant qu'une cible qui « ne peut pas subir de dégâts » n'est une cible invalide pour une capacité que si infliger des dégâts est le seul effet de cette capacité sur cette cible. Ajout d'une règle stipulant qu'une capacité avec un effet de recherche nécessite uniquement une zone de jeu pouvant être cherchée pour être initiée."
+			}
+		]
+	},
+	{
+		"id": "target_threat",
+		"term": "Seuil de Menace",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le seuil de menace est la quantité de menace requise pour que le deck manigance principale avance. Il est situé dans le coin supérieur gauche de la carte, avant le titre.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "team_up",
+		"term": "En équipe",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le mot-clé en équipe nomme deux personnages. Pour qu'un joueur puisse inclure une carte avec le mot-clé en équipe dans son deck, l'identité choisie par ce joueur doit correspondre à l'un des personnages nommés. De plus, une carte avec le mot-clé en équipe ne peut pas être jouée à moins que les deux personnages <red>amis</red> nommés (identité ou allié) ne soient en jeu.<ul><li><red>Un allié compte comme un personnage nommé si son titre ou son sous-titre correspond au personnage nommé.</red></li></ul>",
+				"whats_new": "Précision indiquant que les personnages requis en jeu doivent être des personnages « amis », et ajout d'une règle stipulant qu'un allié compte comme un personnage nommé si son titre ou son sous-titre correspond."
+			}
+		]
+	},
+	{
+		"id": "teamwork_trait",
+		"term": "Esprit d'Équipe (Trait)",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Après qu'un sbire avec esprit d'équipe entre en jeu et engage un joueur, s'il y a au moins un autre sbire partageant le trait spécifié en jeu, le sbire qui vient d'entrer en jeu s'active contre le joueur avec lequel il est engagé.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "temporary",
+		"term": "Temporaire",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une carte avec le mot-clé temporaire doit être défaussée du jeu à la fin du round.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "text_box",
+		"term": "Boîte de texte",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "La boîte de texte d'une carte est la zone d'une carte qui contient les capacités, les traits et le texte d'ambiance (le cas échéant) imprimés de la carte.<ul><li>Si la capacité d'une carte fait référence à la « boîte de texte » d'une carte, cette capacité ne fait référence qu'aux capacités imprimées dans la boîte de texte de cette carte. Les icônes imprimées dans la boîte de texte d'une carte sont considérées comme des capacités dans cette boîte de texte.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "then",
+		"term": "Ensuite",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Si le texte d'effet d'une capacité inclut le mot « ensuite », le texte précédant le mot « ensuite » doit être entièrement vrai ou résolu avant que le reste de l'effet décrit après le mot « ensuite » ne puisse être résolu.<ul><li>Si le texte précédant le « ensuite » est entièrement résolu, le texte suivant le « ensuite » doit également tenter de se résoudre.</li><li>Si le texte précédant le « ensuite » ne se résout pas entièrement, le texte suivant le « ensuite » ne tente pas de se résoudre.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "threat",
+		"term": "Menace",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les pions menace sont utilisés pour suivre la quantité de menace sur les cartes manigance.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "thw",
+		"term": "CTR",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Pouvoir de Base, Contre, contrer",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "thwart",
+		"term": "Contre, contrer",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certains effets de jeu et capacités de cartes font référence à une tentative de contre. Cela peut se produire de différentes manières :<ul><li>Un héros ou un allié peut utiliser son pouvoir de contre de base pour contrer une manigance. Un personnage doit s'incliner pour utiliser ce pouvoir. Cela retire de la menace de la manigance de la valeur de CTR du personnage. Un personnage ne peut initier un contre de base que s'il y a une manigance avec au moins une menace à retirer ou si ce personnage est désorienté.</li><li>Si une capacité déclenchée est étiquetée comme un contre — comme « Action de Héros (contre) » — la résolution de cette capacité est considérée comme un contre de la manigance spécifiée. Sauf indication contraire dans le texte de la capacité, un héros ne s'incline pas lorsqu'il utilise une telle capacité.</li><li>Une capacité étiquetée comme un contre est considérée comme un seul contre, même si ce contre retire plusieurs instances de menace. Si une capacité augmente la quantité de menace qu'une capacité étiquetée comme un contre retire et que cette capacité retire plusieurs instances de menace, chacune de ces instances n'utilisant pas le mot « supplémentaire » est augmentée de la quantité spécifiée.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "tough",
+		"term": "Tenace",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Tenace est un état qui empêche un personnage de subir des dégâts.<ul><li>Si un personnage avec une carte d'état tenace devait subir n'importe quelle quantité de dégâts, prévenez tous ces dégâts et défaussez une carte d'état tenace de ce personnage à la place. Un personnage avec plusieurs cartes d'état tenace ne défausse qu'une seule carte d'état tenace chaque fois qu'il devrait subir des dégâts. Lorsqu'un héros avec une carte d'état tenace défend une attaque, il réduit d'abord les dégâts de l'attaque par sa DEF. Si les dégâts sont réduits à 0, le héros ne perd pas sa carte d'état tenace.</li><li>Lorsqu'un allié ou un sbire avec une carte d'état tenace subit des dégâts en excès par une attaque avec le mot-clé déferlement, les dégâts de déferlement ne sont pas infligés à l'identité du contrôleur de cet allié ni au méchant, respectivement.</li><li>Comme une carte d'état tenace prévient entièrement les dégâts, le personnage qui avait la carte d'état tenace n'est pas considéré comme ayant subi des dégâts.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "toughness",
+		"term": "Ténacité",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lorsqu'un personnage avec le mot-clé ténacité entre en jeu, placez une carte d'état tenace sur lui.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "traits",
+		"term": "Traits",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "De nombreuses cartes ont un ou plusieurs traits listés en haut de la boîte de texte et imprimés en italique gras.<ul><li>Les traits n'ont pas d'effets inhérents sur le jeu. Au lieu de cela, certaines capacités de carte font référence à des cartes qui possèdent ou non des traits spécifiques.</li><li>Les traits ne sont pas considérés comme faisant partie de la boîte de texte imprimée d'une carte pour ce qui est des capacités de carte.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "treachery",
+		"term": "Traîtrise",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Traîtrise est un type de carte rencontre qui représente des tactiques, des ruses, des catastrophes et d'autres événements immédiats auxquels les joueurs sont confrontés au cours d'un scénario.<ul><li>Si une carte traîtrise est révélée du deck rencontre, le joueur qui révèle la carte doit résoudre ses effets.</li><li>Après avoir résolu les effets d'une carte traîtrise (ou si les effets sont annulés), placez la carte dans la pile de défausse rencontre. Si une traîtrise provoque l'activation d'un ou plusieurs ennemis comme dernier effet, cette carte traîtrise est considérée comme résolue et est défaussée après que toutes ces activations ont été résolues.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "triggered_ability",
+		"term": "Capacité déclenchée",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une capacité déclenchée est indiquée par un déclencheur de timing en gras suivi de deux points et du reste du texte de la capacité.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "triggering_condition",
+		"term": "Condition de déclenchement",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une condition de déclenchement est un événement spécifique qui a lieu dans le jeu. Sur les capacités de cartes, la condition de déclenchement est l'élément de la capacité qui fait référence à un tel événement, indiquant le point de timing auquel la capacité peut être utilisée. La description de la condition de déclenchement d'une capacité suit généralement le mot « quand » ou « après que ».<ul><li>Chaque capacité « Interruption » et « Réponse » ne peut être déclenchée qu'une seule fois par occurrence de sa condition de déclenchement. Plusieurs exemplaires d'une carte avec une interruption ou une réponse peuvent chacun être déclenchés par la même condition de déclenchement.</li><li>Si un seul événement de jeu crée plusieurs conditions de déclenchement (comme une seule attaque poussant un personnage à la fois à subir des dégâts et à être vaincu), ces conditions de déclenchement sont gérées avec une seule fenêtre d'interruption et une seule fenêtre de réponse. Pendant chacune de ces fenêtres, les capacités qui font référence à n'importe laquelle des conditions de déclenchement créées par l'événement peuvent être utilisées dans n'importe quel ordre.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "tuck",
+		"term": "Intercaler",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<red>Lorsqu'un joueur reçoit l'instruction d'intercaler une carte sous une autre carte, il place la carte intercalée face visible sous l'autre carte.<ul><li>Les cartes intercalées sont pas en jeu et ne sont pas considérées comme « attachées » à la carte sous laquelle elles sont intercalées.</li><li>Lorsqu'une carte quitte le jeu, chaque carte intercalée en dessous est défaussée.</li></ul></red><ul></ul>",
+				"whats_new": "Ajout de la définition pour 'Intercaler' (Tuck), expliquant que les cartes intercalées sont placées face visible sous une autre carte, sont considérées comme hors jeu (et non 'attachées'), et sont défaussées lorsque la carte hôte quitte le jeu."
+			}
+		]
+	}
 ]
