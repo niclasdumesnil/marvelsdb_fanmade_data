@@ -16,8 +16,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Les cartes entrent en jeu à l'état redressé, positionnées de façon à ce que leur contrôleur puisse lire leur texte de gauche à droite.<ul><li>Si un joueur reçoit l'instruction de redresser une carte inclinée, la carte retourne à son état redressé. S'il y a un coût supplémentaire pour redresser une carte, ce joueur peut choisir de ne pas le payer. S'il ne paie pas le coût, la carte ne se redresse pas.</li></ul>",
-				"whats_new": ""
+				"content": "Les cartes entrent en jeu à l'état redressé, positionnées de façon à ce que leur contrôleur puisse lire leur texte de gauche à droite.<ul><li>Si un joueur reçoit l'instruction de redresser une carte inclinée, la carte retourne à son état redressé.</li><ul><li><red>S'il y a un coût supplémentaire pour redresser une carte, ce joueur peut choisir de ne pas le payer. S'il ne paie pas le coût, la carte ne se redresse pas.</red></li></ul></ul>",
+				"whats_new": "Ajout d'une règle précisant que s'il y a un coût supplémentaire pour redresser une carte, le joueur peut choisir de ne pas payer ce coût, auquel cas la carte ne se redresse pas."
 			}
 		]
 	},
@@ -49,8 +49,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Certaines capacités font référence à des cartes spécifiques par leur nom. Ce sont des capacités référentielles. Si une capacité fait référence à un titre partagé par plusieurs cartes dans le jeu, cette capacité ne fait référence qu'à la ou les cartes qui correspondent aux critères les plus élevés dans cette liste :<red><ol><li>La carte sur laquelle la capacité référentielle est imprimée. Une telle capacité est auto-référentielle.</li><li>Les cartes qui appartiennent à la même identité.</li><li>Les cartes joueur (si la capacité est sur une carte joueur) ou les cartes rencontre (si la capacité est sur une carte rencontre).</li></ol></red>",
-				"whats_new": "Révision complète de l'interprétation des capacités référentielles. Clarification de la distinction entre une carte qui se nomme elle-même (auto-référentielle) et une carte qui cible d'autres exemplaires ayant le même nom."
+				"content": "Certaines capacités font référence à des cartes spécifiques par leur nom. Ce sont des capacités référentielles. Si une capacité fait référence à un titre partagé par plusieurs cartes dans le jeu, cette capacité ne fait référence qu'à la ou les cartes qui correspondent aux critères les plus élevés dans cette liste :<ol><li>La carte sur laquelle la capacité référentielle est imprimée. Une telle capacité est auto-référentielle.</li><li>Les cartes qui appartiennent à la même identité.</li><li><red>Les cartes joueur (si la capacité est sur une carte joueur) ou les cartes rencontre (si la capacité est sur une carte rencontre).</red></li></ol>",
+				"whats_new": "Ajout d'une troisième règle de priorité pour la résolution des capacités référentielles impliquant des titres partagés, spécifiant que la capacité fait référence aux cartes joueur si elle est imprimée sur une carte joueur, ou aux cartes rencontre si elle est imprimée sur une carte rencontre."
 			}
 		]
 	},
@@ -126,7 +126,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Une capacité de ressource est un type de capacité déclenchée, indiquée par le déclencheur « Ressource ».<ul><li>Une capacité de ressource peut être déclenchée chaque fois que le joueur qui la contrôle génère des ressources pour payer un coût. Une capacité qui génère une ressource uniquement pour un type de coût spécifique ne peut pas être déclenchée lors du paiement d'un coût qui n'est pas de ce type.</li></ul>",
+				"content": "Une capacité de ressource est un type de capacité déclenchée, indiquée par le déclencheur « <b>Ressource </b>».<ul><li>Une capacité de ressource peut être déclenchée chaque fois que le joueur qui la contrôle génère des ressources pour payer un coût. Une capacité qui génère une ressource uniquement pour un type de coût spécifique ne peut pas être déclenchée lors du paiement d'un coût qui n'est pas de ce type.</li></ul>",
 				"whats_new": ""
 			}
 		]
@@ -148,8 +148,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Une capacité de réponse est un type de capacité déclenchée, indiquée par le déclencheur en gras « Réponse ». Elles peuvent être exécutées après que la condition de déclenchement spécifiée se produit.<ul><li>Les joueurs ne peuvent déclencher des capacités de réponse que sur les cartes qu'ils contrôlent ou sur les cartes rencontre.</li><li>Plusieurs réponses peuvent être exécutées à partir de la même condition de déclenchement, mais chaque réponse ne peut être déclenchée qu'une seule fois par occurrence.</li><li>Si un seul effet provoque plusieurs conditions de déclenchement, les réponses à chacune de ces conditions peuvent être résolues dans n'importe quel ordre.</li><li>Une fois que tous les joueurs décident de ne plus résoudre de réponses, plus aucune réponse à cette instance ne peut être utilisée.</li></ul>",
-				"whats_new": ""
+				"content": "<div><b><i><red>A reprendre</red></i></b></div>Une capacité de réponse est un type de capacité déclenchée, indiquée par le déclencheur en gras « <b>Réponse </b>». Elles peuvent être exécutées après que la condition de déclenchement spécifiée se produit.<ul><li>Les joueurs ne peuvent déclencher des capacités de réponse que sur les cartes qu'ils contrôlent ou sur les cartes rencontre.</li><li>Plusieurs réponses peuvent être exécutées à partir de la même condition de déclenchement, mais chaque réponse ne peut être déclenchée qu'une seule fois par occurrence.</li><red><li>Si un seul effet provoque plusieurs conditions de déclenchement, les réponses à chacune de ces conditions peuvent être résolues dans n'importe quel ordre.</li><li>Une fois que tous les joueurs décident de ne plus résoudre de réponses, plus aucune réponse à cette instance ne peut être utilisée.</li></red></ul>",
+				"whats_new": "Ajout de règles précisant que si un effet unique provoque plusieurs conditions de déclenchement, les réponses à chacune d'elles peuvent être résolues dans n'importe quel ordre. Il est également spécifié que la fenêtre de réponse se ferme une fois que tous les joueurs ont décidé de ne plus résoudre d'autres réponses pour une condition de déclenchement donnée."
 			}
 		]
 	},
@@ -170,8 +170,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Après qu'un personnage avec le mot-clé riposte X a été attaqué, infligez X dégâts à l'attaquant. (X est la valeur à côté du mot-clé riposte.)<ul><li>Le personnage avec riposte X doit être en jeu après la résolution de l'attaque pour infliger ces dégâts.</li><li>L'ordre de résolution des capacités autour du mot-clé riposte est le suivant : 1. Les capacités qui se déclenchent « après que [personnage] subit des dégâts... » 2. Riposte X 3. Les capacités qui se déclenchent « après que [personnage] est attaqué... » ou « après que [personnage] attaque [et blesse/vainc]... »</li></ul>",
-				"whats_new": ""
+				"content": "Après qu'un personnage avec le mot-clé riposte X a été attaqué, infligez X dégâts à l'attaquant. (X est la valeur à côté du mot-clé riposte.)<ul><li>Le personnage avec riposte X <red>doit être en jeu</red> après la<red> résolution</red> de l'attaque pour infliger ces dégâts.</li><li>L'ordre de résolution des capacités autour du mot-clé riposte est le suivant : 1. Les capacités qui se déclenchent « après que [personnage] subit des dégâts... » 2. Riposte X 3. Les capacités qui se déclenchent « après que [personnage] est attaqué... » ou « après que [personnage] attaque [et blesse/vainc]... »</li></ul>",
+				"whats_new": "Précision indiquant que le personnage possédant le mot-clé Riposte X doit être encore en jeu après la résolution de l'attaque pour pouvoir infliger ses dégâts de riposte."
 			}
 		]
 	},
@@ -181,7 +181,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Pendant l'étape quatre de la phase du méchant, chaque joueur révèle et résout toutes les cartes rencontre face cachée qui lui ont été distribuées, une par une. Pour révéler une carte rencontre, suivez ces étapes :<red><ol><li>Retournez la carte rencontre face visible.</li><li>Selon le type de la carte rencontre :<ul><li>Attachement : Il entre en jeu attaché à l'élément de jeu spécifié.</li><li>Environnement : Il entre en jeu dans la zone de jeu du méchant.</li><li>Sbire : Il entre en jeu dans la zone du joueur qui le révèle, et l'engage.</li><li>Obligation : Elle entre en jeu dans la zone du joueur qui la révèle. Si elle spécifie un joueur, ce joueur est considéré comme la révélant.</li><li>Manigance annexe : Elle entre en jeu dans la zone du méchant.</li><li>Traîtrise : Placez-la sur la table devant le joueur. (Elle n'est pas en jeu.)</li><li>Autre : Placez-la sur la table devant le joueur. (Elle n'est pas en jeu.)</li></ul></li><li>Résolvez chaque capacité « Une fois révélée » (y compris les mots-clés).</li><li>Si c'est une traîtrise, défaussez-la.</li></ol></red>Cette procédure s'applique également si une carte instruit de révéler une carte rencontre du deck.",
+				"content": "Pendant l'étape quatre de la phase du méchant, chaque joueur révèle et résout toutes les cartes rencontre face cachée qui lui ont été distribuées, une par une. Pour révéler une carte rencontre<red>, suivez ces étapes :</red><red><ol><li>Retournez la carte rencontre face visible.</li><li>Selon le type de la carte rencontre :<ul><li>Attachement : Il entre en jeu attaché à l'élément de jeu spécifié.</li><li>Environnement : Il entre en jeu dans la zone de jeu du méchant.</li><li>Sbire : Il entre en jeu dans la zone du joueur qui le révèle, et l'engage.</li><li>Obligation : Elle entre en jeu dans la zone du joueur qui la révèle.</li><ul><li>Si elle spécifie un joueur, ce joueur est considéré comme la révélant.</li></ul><li>Manigance annexe : Elle entre en jeu dans la zone du méchant.</li><li>Traîtrise : Placez-la sur la table devant le joueur. (Elle n'est pas en jeu.)</li><li>Autre : Placez-la sur la table devant le joueur. (Elle n'est pas en jeu.)</li></ul></li><li>Résolvez chaque capacité « Une fois révélée » (y compris les mots-clés).</li><li>Si c'est une traîtrise, défaussez-la.</li></ol></red>Cette procédure s'applique également si une carte instruit de révéler une carte rencontre du deck.",
 				"whats_new": "Ajout d'un processus par étapes strict pour révéler les cartes rencontre afin de résoudre correctement les conflits de timing pour les interruptions et les réponses."
 			}
 		]

@@ -1,266 +1,266 @@
 [
-    {
-        "id": "patrol",
-        "term": "Patrouille",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Tant qu'un sbire avec le mot-clé patrouille est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour contrer la manigance principale.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "pay",
-        "term": "Payer",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Voir : Coût",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "per_player_icon",
-        "term": "Icône Par Joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "L'icône par joueur (<span class=\"icon-per_player\"></span>) à côté d'une valeur multiplie cette valeur par le nombre de joueurs qui ont commencé le scénario.<ul><li>Si un joueur est éliminé, cette valeur ne change pas.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "peril",
-        "term": "Péril",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Tant qu'un joueur résout une carte avec le mot-clé péril, il ne peut pas consulter les autres joueurs, et ces derniers ne peuvent pas jouer de cartes ou déclencher de capacités.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "permanent",
-        "term": "Permanent",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Une carte avec le mot-clé permanent ne peut pas être vaincue, quitter le jeu ou avoir une partie de sa boîte de texte effacée, sauf par des capacités de cartes du même set (set de héros, set de scénario ou set modulaire).<ul><li>Les cartes permanentes sont mises de côté avant l'étape 1 de la mise en place et sont mises en jeu plus tard par des capacités sur d'autres cartes.</li><li>Les cartes permanentes ne comptent pas dans la taille minimale ou maximale du deck d'un joueur.</li><li>Les cartes permanentes ne sont pas des cibles valides pour les effets de carte qui feraient quitter le jeu à la carte permanente. Si une carte permanente devait être ciblée par un tel effet, l'effet cible à la place la carte non permanente qui correspond à ses critères.</li><li>Si la carte à laquelle un attachement permanent était attaché quitte le jeu, résolvez le texte « attachez cette carte » de cet attachement. S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.</li><li>Si un joueur est éliminé de la partie alors qu'une carte permanente (qui n'est pas un attachement) qu'il ne possède pas se trouve dans sa zone de jeu, retirez cette carte permanente de la partie.</li></ul>",
-                "whats_new": "Règles développées concernant les cartes attachées qui quittent le jeu, les cartes permanentes non-attachement, et les restrictions de ciblage."
-            }
-        ]
-    },
-    {
-        "id": "physical_resource",
-        "term": "Ressource physique",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Une ressource physique (<span class=\"icon-physical\"></span>) est l'un des quatre types de ressources.<ul><li>Les ressources physiques peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités nécessitent spécifiquement que des ressources physiques soient dépensées pour résoudre leurs effets.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "piercing",
-        "term": "Perçant",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Une attaque avec le mot-clé perçant défausse toute carte d'état tenace du personnage attaqué avant d'infliger des dégâts.<ul><li>Si une attaque avec le mot-clé perçant ne devait infliger aucun dégât au personnage attaqué, elle ne défausse pas les cartes d'état tenace de ce personnage.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "play_put_into_play",
-        "term": "Jouer, Mettre en Jeu",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Jouer une carte implique de payer le coût de la carte et de la placer dans la zone de jeu. Cela fait entrer la carte en jeu (ou, dans le cas d'une carte événement, de résoudre sa capacité et d'être placée dans la pile de défausse). Les cartes sont jouées depuis la main d'un joueur. Certaines capacités permettent de mettre des cartes en jeu. Cela contourne la nécessité de payer le coût de la carte ainsi que toute restriction ou interdiction concernant le fait de jouer cette carte. Une carte qui est mise en jeu entre en jeu dans la zone de jeu de son contrôleur.<ul><li>Les cartes avec le texte « forme [type] uniquement » ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est dans la forme spécifiée.</li><li>Lorsqu'une carte événement est jouée, placez-la sur la table, résolvez sa capacité et placez la carte dans la pile de défausse de son propriétaire.</li><li>Une carte mise en jeu n'est pas considérée comme ayant été jouée.</li><li>Lorsqu'une carte est mise en jeu, son coût en ressources est ignoré.</li><li>Sauf indication contraire par l'effet « mettre en jeu », les cartes mises en jeu doivent l'être dans une zone de jeu ou un état correspondant aux règles permettant de jouer la carte.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "play_area",
-        "term": "Zone de jeu",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Il y a deux types de zones de jeu : la zone de jeu d'un joueur et la zone de jeu du méchant.<ul><li>La zone de jeu d'un joueur contient l'identité de ce joueur, son deck, sa main, sa pile de défausse, toute carte en jeu sous son contrôle, et toute carte rencontre face visible ou face cachée dans sa zone de jeu (comme les sbires engagés ou les cartes rencontre qui lui ont été distribuées).</li><li>La zone de jeu du méchant contient le deck méchant, le deck manigance principale, le deck rencontre, la pile de défausse rencontre et toute carte rencontre en jeu qui n'est pas entrée dans la zone de jeu d'un joueur (comme les manigances annexes ou les environnements).</li><li>Une carte ne peut pas être dans plus d'une zone de jeu à la fois.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "play_restrictions_and_permissions",
-        "term": "Restrictions et permissions de jeu",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "De nombreuses cartes et capacités contiennent des instructions spécifiques indiquant quand ou comment elles peuvent ou ne peuvent pas être utilisées, ou des conditions spécifiques qui doivent être remplies pour les utiliser.<ul><li>Afin d'utiliser une capacité ou de jouer une carte, toutes ses restrictions de jeu doivent être respectées.</li><li>Une permission est une restriction de jeu optionnelle, qui permet à un joueur de jouer une carte ou d'utiliser une capacité en dehors du timing ou des spécifications prévues par les règles du jeu. Par exemple, une permission peut permettre à une carte allié d'être jouée depuis la pile de défausse d'un joueur.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "player",
-        "term": "Joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Un joueur est une personne qui participe à une partie de Marvel Champions.<ul><li>Chaque joueur dans la partie possède sa propre zone de jeu personnelle contenant sa carte identité, son cadran de points de vie, sa main de cartes, son deck dans lequel il pioche, sa pile de défausse dans laquelle il place ses cartes défaussées, tous les alliés, améliorations ou soutiens qu'il peut avoir en jeu, et tous les attachements, sbires ou obligations qu'il peut avoir dans sa zone de jeu.</li><li>Pendant chaque phase des joueurs de chaque round, chaque joueur joue son propre tour personnel où il peut jouer des cartes, effectuer des actions avec les cartes qu'il contrôle et utiliser diverses capacités.</li><li>Chaque joueur possède les cartes qui étaient contenues dans son deck (y compris sa carte identité) au début de la partie.</li><li>Certaines étapes de jeu, fonctions de jeu ou capacités de carte peuvent faire référence au « premier joueur ». Le premier joueur est le joueur qui possède le pion premier joueur.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "player_card",
-        "term": "Cartes joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Il existe sept types de cartes joueur : les cartes allié, les cartes événement, les cartes identité, les cartes manigance annexe de joueur, les cartes ressource, les cartes soutien et les cartes amélioration.<ul><li>Les cartes joueur peuvent appartenir à diverses classifications, telles que les cartes joueur spécifiques à l'identité ou les cartes joueur d'affinité.</li><li>La plupart des cartes joueur ont un dos de carte bleu.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "player_deck",
-        "term": "Deck joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le deck d'un joueur contient les cartes joueur (alliés, événements, manigances annexes de joueur, ressources, soutiens et améliorations) possédées par le joueur qui a commencé la partie avec ce deck.<ul><li>L'ordre des cartes dans le deck d'un joueur ne peut pas être modifié à moins qu'un joueur n'en reçoive l'instruction par une étape de jeu, une fonction de jeu ou une capacité de carte.</li><li>Si le deck d'un joueur se vide, le joueur mélange sa pile de défausse pour former un nouveau deck. Ce joueur se distribue immédiatement une carte rencontre face cachée du dessus du deck rencontre.</li><li>Si le deck du joueur se vide et est mélangé pendant que le joueur piochait des cartes, il continue de piocher des cartes jusqu'au nombre spécifié.</li><li>Si le deck du joueur se vide pendant que le joueur défaussait des cartes de son deck, aucune autre carte n'est défaussée du deck nouvellement mélangé.</li><li>Si le deck d'un joueur se vide et que le joueur n'a aucune carte dans sa pile de défausse, le deck ne se réinitialise pas tant qu'il n'y a pas au moins une carte dans la pile de défausse du joueur, puis le joueur se distribue une carte rencontre face cachée.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "player_discard_pile",
-        "term": "Pile de défausse Joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Voir : Pile de défausse",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "player_elimination",
-        "term": "Elimination de Joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Un joueur est éliminé de la partie si son identité est vaincue. Cela se produit généralement lorsque les points de vie restants du personnage sont réduits à zéro. Lorsqu'un joueur est éliminé, effectuez les actions suivantes dans l'ordre :<ol><li>Si le joueur éliminé possède le pion premier joueur, il le passe au joueur suivant dans le sens horaire.</li><li>S'il y a des sbires engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens horaire, en conservant tous les jetons, cartes attachées, cartes de boost, cartes glissées et cartes d'état sur eux.</li><li>Pour chaque carte dans la zone de jeu du joueur éliminé qui n'est pas possédée par ce joueur, effectuez ce qui suit : Si cette carte est un attachement avec le mot-clé permanent, résolvez son texte « attachez cette carte ». S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie. Retirez chaque carte non-attachement avec le mot-clé permanent de la partie. Placez chaque autre carte dans la pile de défausse de son propriétaire.</li><li>Placez chaque carte possédée par le joueur éliminé dans la pile de défausse du joueur éliminé.</li><li>Retirez la zone de jeu du joueur éliminé et tout autre élément de jeu s'y trouvant (main, deck, pile de défausse, cartes en jeu, cadran de points de vie, etc.) de la partie.</li></ol>Lorsqu'un joueur est éliminé, les joueurs restants continuent de jouer la partie. Les joueurs éliminés ne participent plus à la partie mais sont considérés comme gagnant ou perdant avec le reste du groupe, selon l'issue de la partie.<ul><li>Si tous les joueurs sont éliminés, la partie se termine et les joueurs perdent.</li><li>Si un joueur est éliminé au cours de la résolution d'une capacité, résolvez l'intégralité de la capacité.</li><li>Les effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, à l'exception de l'icône par joueur (<span class=\"icon-per_player\"></span>).</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "player_phase",
-        "term": "Phase des joueurs",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Pendant la phase des joueurs, chaque joueur (dans l'ordre des joueurs) joue un tour. Après que chaque joueur a joué un tour, les joueurs défaussent ou piochent jusqu'à leur taille de main et redressent chaque carte inclinée.<ul><li>Les effets qui durent « jusqu'à la fin de la phase [des joueurs] » se terminent après que les joueurs ont pioché jusqu'à leur taille de main et que toutes les cartes sont redressées. Ensuite, les effets qui se résolvent « quand/après que la phase des joueurs se termine » sont résolus.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "player_side_scheme",
-        "term": "Manigance Annexe de Joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Les manigances annexes de joueur sont des missions que les héros entreprennent pour faciliter la défaite du méchant. Ce sont l'équivalent en carte joueur des manigances annexes trouvées dans le deck rencontre.<ul><li>Lorsqu'une manigance annexe de joueur entre en jeu, elle est placée à côté de la manigance principale dans la zone de jeu du méchant.</li><li>Chaque manigance annexe de joueur entre en jeu avec une quantité de menace sur elle égale à sa valeur de menace de départ.</li><li>Le nombre de manigances annexes de joueur en jeu à un moment donné est limité par la limite de manigance annexe de joueur.</li><li>Une manigance annexe de joueur reste en jeu jusqu'à ce qu'il n'y ait plus de menace sur elle (ce qui la vainc et la fait être défaussée ou, si elle a le mot-clé Victoire X, ajoutée à la pile de victoire) ou qu'elle soit défaussée parce qu'il y a plus de manigances annexes de joueur en jeu que la limite.</li><li>Toutes les règles ou effets de cartes qui font référence à des « manigances » ou des « manigances annexes » font également référence aux manigances annexes de joueur.</li><li>Les héros et les alliés peuvent retirer de la menace d'une manigance annexe de joueur en effectuant un contre de base. Les capacités qui retirent de la menace d'« une manigance » ou d'« une manigance annexe » peuvent retirer de la menace d'une manigance annexe de joueur.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "player_side_scheme_limit",
-        "term": "Limite de Manigance Annexe de Joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le nombre de manigances annexes de joueur en jeu à un moment donné est limité par la limite de manigance annexe de joueur.<ul><li>Si un ou deux joueurs ont commencé la partie, la limite est de un. Si trois ou quatre joueurs ont commencé la partie, la limite est de deux.</li><li>S'il y a plus de manigances annexes de joueur en jeu que la limite, le premier joueur choisit et défausse des manigances annexes de joueur jusqu'à ce qu'il n'y en ait plus en jeu que la limite.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "player_turn",
-        "term": "Tour de joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Pendant son tour, un joueur peut effectuer les options suivantes, dans n'importe quel ordre. Chaque option, à l'exception de « changer de forme », peut être effectuée autant de fois que le joueur le peut, tant qu'il est capable d'en payer les coûts requis.<ul><li>Changer de forme de héros à alter ego, ou d'alter ego à héros. Cette option ne peut être effectuée qu'une seule fois par tour.</li><li>Jouer une carte allié, amélioration, soutien ou manigance annexe de joueur depuis sa main.</li><li>Utiliser la récupération de base de son alter ego (s'il est sous forme d'alter ego) ou le pouvoir d'attaque ou de contre de base de son héros (s'il est sous forme de héros).</li><li>Utiliser une carte allié qu'il contrôle en jeu pour attaquer un ennemi ou contrer une manigance.</li><li>Déclencher une capacité « Action » sur : a. Une carte en jeu qu'il contrôle. b. Une carte rencontre en jeu. c. Toute carte en jeu avec un texte permettant à ce joueur de déclencher sa capacité d'action. d. Une carte événement dans sa main (en jouant cet événement). Si la capacité d'action est précédée de « Héros » ou « Alter ego », le joueur doit être sous la forme spécifiée pour pouvoir la déclencher.</li><li>Demander à un autre joueur de déclencher n'importe quelle capacité « Action » que ce joueur pourrait déclencher pendant son propre tour. L'autre joueur décide alors de déclencher ou non la capacité. (Un autre joueur peut également proposer d'utiliser une action pendant le tour du joueur actif.)</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "player_play_area",
-        "term": "Zone de jeu d'un joueur",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "La zone de jeu d'un joueur est la zone de jeu où se trouvent la carte identité, le deck, la main, la pile de défausse et le cadran de points de vie d'un joueur. Chaque joueur dans la partie a sa propre zone de jeu.<ul><li>Les cartes allié, soutien et amélioration sont placées dans la zone de jeu d'un joueur lorsqu'elles entrent en jeu.</li><li>Les cartes attachement attachées à des cartes dans la zone de jeu du méchant ne sont pas dans la zone de jeu du joueur.</li><li>Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans celle du méchant.</li><li>Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans celle du méchant.</li><li>Bien que les capacités de carte puissent affecter des cartes dans d'autres zones de jeu, à moins qu'une règle ou une capacité ne stipule le contraire, les cartes ne peuvent pas être jouées dans la zone de jeu d'un autre joueur.</li><li>Si un joueur est éliminé de la partie (parce que son identité est vaincue ou autre), sa zone de jeu est retirée de la partie.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "playing_cards",
-        "term": "Jouer des cartes",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Voir : Initier des Capacités, Jouer des cartes",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "prevent",
-        "term": "Prévenir",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Certaines capacités de carte préviennent les dégâts ou la menace.<ul><li>Lorsque des dégâts sont prévenus, réduisez la quantité de dégâts que la cible subit (c'est-à-dire la quantité de dégâts placée sur la cible). Lorsqu'un effet prévient les dégâts infligés à un personnage, la quantité de dégâts que ce personnage « subit » est réduite, mais la quantité de dégâts « infligés » n'est pas réduite.</li><li>Si un effet prévient tous les dégâts infligés à un personnage, ce personnage n'est pas considéré comme ayant subi des dégâts. Si tous les dégâts d'une attaque sont prévenus, le personnage attaquant est considéré comme ayant infligé des dégâts, mais n'est pas considéré comme ayant « attaqué et blessé » le personnage attaqué.</li><li>Si infliger des dégâts est un coût, ce coût est considéré comme payé même si tout ou partie de ces dégâts est prévenu. Si subir des dégâts est un coût, ce coût n'est pas considéré comme payé à moins que tous ces dégâts n'aient été subis. (Si n'importe quelle quantité des dégâts est prévenue, alors le coût n'a pas été payé.)</li><li>Lorsque de la menace est prévenue, réduisez la quantité de menace assignée avant qu'elle ne soit placée sur la manigance.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "printed",
-        "term": "Imprimé",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le mot « imprimé » fait référence au texte, à la caractéristique ou à la valeur physiquement imprimée sur la carte.<ul><li>Si un joueur doit payer un coût en utilisant des « ressources imprimées », il peut utiliser des ressources générées par la capacité d'une carte, tant que la ou les icônes des ressources générées par cette carte sont imprimées dans sa boîte de texte. Les ressources libres (<span class=\"icon-wild\"></span>) ne peuvent pas être dépensées comme d'autres types de ressources pour un tel coût.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "put_into_play",
-        "term": "Mettre en Jeu",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Voir : Jouer, Mettre en Jeu",
-                "whats_new": ""
-            }
-        ]
-    }
+	{
+		"id": "patrol",
+		"term": "Patrouille",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Tant qu'un sbire avec le mot-clé patrouille est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour contrer la manigance principale.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "pay",
+		"term": "Payer",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Coût",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "per_player_icon",
+		"term": "Icône Par Joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "L'icône par joueur (<span class=\"icon icon-per_hero rules-icon\" title=\"per_hero\" aria-hidden=\"true\">G</span>) à côté d'une valeur multiplie cette valeur par le nombre de joueurs qui ont <b>commencé </b>le scénario.<ul><li>Si un joueur est éliminé, cette valeur ne change pas.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "peril",
+		"term": "Péril",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Tant qu'un joueur résout une carte avec le mot-clé péril, il ne peut pas consulter les autres joueurs, et ces derniers ne peuvent pas jouer de cartes ou déclencher de capacités.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "permanent",
+		"term": "Permanent",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une carte avec le mot-clé permanent ne peut pas être vaincue, quitter le jeu ou avoir une partie de sa boîte de texte effacée, sauf par des capacités de cartes du même set (set de héros, set de scénario ou set modulaire).<ul><li>Les cartes permanentes sont mises de côté <red>avant </red>l'étape 1 de la mise en place <red>et sont mises en jeu plus tard par des capacités sur d'autres cartes.</red></li><li>Les cartes permanentes ne comptent pas dans la taille minimale ou maximale du deck d'un joueur.</li><li>Les cartes permanentes ne sont pas des cibles valides pour les effets de carte qui feraient quitter le jeu à la carte permanente.</li><ul><li>Si une carte permanente devait être ciblée par un tel effet, l'effet cible à la place la carte non permanente qui correspond à ses critères.</li></ul><li><red>Si la carte à laquelle un attachement permanent était attaché quitte le jeu, résolvez le texte « attachez cette carte » de cet attachement. S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.</red></li><li>Si un joueur est éliminé de la partie alors qu'une carte permanente (qui n'est pas un attachement) qu'il ne possède pas se trouve dans sa zone de jeu, <red>retirez cette carte permanente de la partie.</red></li></ul>",
+				"whats_new": "Clarification indiquant que les cartes permanentes sont mises en jeu ultérieurement par les capacités d'autres cartes. Ajout de règles détaillant que si une carte ayant un attachement permanent quitte le jeu, le texte 'attacher à' est résolu ou l'attachement est retiré de la partie. Il est également précisé que les cartes permanentes (qui ne sont pas des attachements) n'appartenant pas au joueur éliminé sont retirées de la partie lors de son élimination."
+			}
+		]
+	},
+	{
+		"id": "physical_resource",
+		"term": "Ressource physique",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une ressource physique (<span class=\"icon-physical\"></span>) est l'un des quatre types de ressources.<ul><li>Les ressources physiques peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités nécessitent spécifiquement que des ressources physiques soient dépensées pour résoudre leurs effets.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "piercing",
+		"term": "Perçant",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une attaque avec le mot-clé perçant défausse toute carte d'état tenace du personnage attaqué avant d'infliger des dégâts.<ul><li><red>Si une attaque avec le mot-clé perçant ne devait infliger aucun dégât au personnage attaqué, elle ne défausse pas les cartes d'état tenace de ce personnage.</red></li></ul>",
+				"whats_new": "Ajout d'une règle stipulant que si une attaque avec le mot-clé perçant ne devait infliger aucun dégât, elle ne défausse pas les cartes d'état tenace du personnage attaqué."
+			}
+		]
+	},
+	{
+		"id": "play_put_into_play",
+		"term": "Jouer, Mettre en Jeu",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Jouer une carte implique de payer le coût de la carte et de la placer dans la zone de jeu. Cela fait entrer la carte en jeu (ou, dans le cas d'une carte événement, de résoudre sa capacité et d'être placée dans la pile de défausse). Les cartes sont jouées depuis la main d'un joueur. Certaines capacités permettent de mettre des cartes en jeu. Cela contourne la nécessité de payer le coût de la carte ainsi que toute restriction ou interdiction concernant le fait de jouer cette carte. Une carte qui est mise en jeu entre en jeu dans la zone de jeu de son contrôleur.<ul><li>Les cartes avec le texte « forme [type] uniquement » ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est dans la forme spécifiée.</li><li>Lorsqu'une carte événement est jouée, placez-la sur la table, résolvez sa capacité et placez la carte dans la pile de défausse de son propriétaire.</li><li>Une carte mise en jeu n'est pas considérée comme ayant été jouée.</li><li>Lorsqu'une carte est mise en jeu, son coût en ressources est ignoré.</li><li>Sauf indication contraire par l'effet « mettre en jeu », les cartes mises en jeu doivent l'être dans une zone de jeu ou un état correspondant aux règles permettant de jouer la carte.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "play_area",
+		"term": "Zone de jeu",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Il y a deux types de zones de jeu : la zone de jeu d'un joueur et la zone de jeu du méchant.<ul><li>La zone de jeu d'un joueur contient l'identité de ce joueur, son deck, sa main, sa pile de défausse, toute carte en jeu sous son contrôle, et toute carte rencontre face visible ou face cachée dans sa zone de jeu (comme les sbires engagés ou les cartes rencontre qui lui ont été distribuées).</li><li>La zone de jeu du méchant contient le deck méchant, le deck manigance principale, le deck rencontre, la pile de défausse rencontre et toute carte rencontre en jeu qui n'est pas entrée dans la zone de jeu d'un joueur (comme les manigances annexes ou les environnements).</li><li>Une carte ne peut pas être dans plus d'une zone de jeu à la fois.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "play_restrictions_and_permissions",
+		"term": "Restrictions et permissions de jeu",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "De nombreuses cartes et capacités contiennent des instructions spécifiques indiquant quand ou comment elles peuvent ou ne peuvent pas être utilisées, ou des conditions spécifiques qui doivent être remplies pour les utiliser.<ul><li>Afin d'utiliser une capacité ou de jouer une carte, toutes ses restrictions de jeu doivent être respectées.</li><li>Une permission est une restriction de jeu optionnelle, qui permet à un joueur de jouer une carte ou d'utiliser une capacité en dehors du timing ou des spécifications prévues par les règles du jeu. Par exemple, une permission peut permettre à une carte allié d'être jouée depuis la pile de défausse d'un joueur.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "player",
+		"term": "Joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Un joueur est une personne qui participe à une partie de Marvel Champions.<ul><li>Chaque joueur dans la partie possède sa propre zone de jeu personnelle contenant sa carte identité, son cadran de points de vie, sa main de cartes, son deck dans lequel il pioche, sa pile de défausse dans laquelle il place ses cartes défaussées, tous les alliés, améliorations ou soutiens qu'il peut avoir en jeu, et tous les attachements, sbires ou obligations qu'il peut avoir dans sa zone de jeu.</li><li>Pendant chaque phase des joueurs de chaque round, chaque joueur joue son propre tour personnel où il peut jouer des cartes, effectuer des actions avec les cartes qu'il contrôle et utiliser diverses capacités.</li><li>Chaque joueur possède les cartes qui étaient contenues dans son deck (y compris sa carte identité) au début de la partie.</li><li>Certaines étapes de jeu, fonctions de jeu ou capacités de carte peuvent faire référence au « premier joueur ». Le premier joueur est le joueur qui possède le pion premier joueur.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "player_card",
+		"term": "Cartes joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Il existe sept types de cartes joueur : les cartes allié, les cartes événement, les cartes identité, les cartes manigance annexe de joueur, les cartes ressource, les cartes soutien et les cartes amélioration.<ul><li>Les cartes joueur peuvent appartenir à diverses classifications, telles que les cartes joueur spécifiques à l'identité ou les cartes joueur d'affinité.</li><li>La plupart des cartes joueur ont un dos de carte bleu.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "player_deck",
+		"term": "Deck joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le deck d'un joueur contient les cartes joueur (alliés, événements, manigances annexes de joueur, ressources, soutiens et améliorations) possédées par le joueur qui a commencé la partie avec ce deck.<ul><li>L'ordre des cartes dans le deck d'un joueur ne peut pas être modifié à moins qu'un joueur n'en reçoive l'instruction par une étape de jeu, une fonction de jeu ou une capacité de carte.</li></ul><span style=\"font-size: 0.92rem;\">Si le deck d'un joueur se vide, le joueur mélange sa pile de défausse pour former un nouveau deck. Ce joueur se distribue immédiatement une carte rencontre face cachée du dessus du deck rencontre.</span><br><ul><li>Si le deck du joueur se vide et est mélangé pendant que le joueur piochait des cartes, il continue de piocher des cartes jusqu'au nombre spécifié.</li><li>Si le deck du joueur se vide pendant que le joueur défaussait des cartes de son deck, aucune autre carte n'est défaussée du deck nouvellement mélangé.</li><li>Si le deck d'un joueur se vide et que le joueur n'a aucune carte dans sa pile de défausse, le deck ne se réinitialise pas tant qu'il n'y a pas au moins une carte dans la pile de défausse du joueur, puis le joueur se distribue une carte rencontre face cachée.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "player_discard_pile",
+		"term": "Pile de défausse Joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Pile de défausse",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "player_elimination",
+		"term": "Elimination de Joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Un joueur est éliminé de la partie si son identité est vaincue. Cela se produit généralement lorsque les points de vie restants du personnage sont réduits à zéro. Lorsqu'un joueur est éliminé, effectuez les actions suivantes dans l'ordre :<ol><li>Si le joueur éliminé possède le pion premier joueur, il le passe au joueur suivant dans le sens horaire.</li><li>S'il y a des sbires engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens horaire, en conservant tous <red>les jetons, cartes attachées, cartes de boost, cartes intercalées&nbsp;</red>et cartes d'état sur eux.</li><li>Pour chaque carte dans la zone de jeu du joueur éliminé qui n'est pas possédée par ce joueur, effectuez ce qui suit : Si cette carte est un attachement avec le mot-clé permanent, résolvez son texte « attachez cette carte ». S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie. Retirez chaque carte non-attachement avec le mot-clé permanent de la partie. Placez chaque autre carte dans la pile de défausse de son propriétaire.</li><li>Placez chaque carte possédée par le joueur éliminé dans la pile de défausse du joueur éliminé.</li><li>Retirez la zone de jeu du joueur éliminé et tout autre élément de jeu s'y trouvant (main, deck, pile de défausse, cartes en jeu, cadran de points de vie, etc.) de la partie.</li></ol>Lorsqu'un joueur est éliminé, les joueurs restants continuent de jouer la partie. Les joueurs éliminés ne participent plus à la partie mais sont considérés comme gagnant ou perdant avec le reste du groupe, selon l'issue de la partie.<ul><li>Si tous les joueurs sont éliminés, la partie se termine et les joueurs perdent.</li><li>Si un joueur est éliminé au cours de la résolution d'une capacité, résolvez l'intégralité de la capacité.</li><li>L<red>es effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, à l'exception de l'icône par joueur (<span class=\"icon icon-per_hero rules-icon\" title=\"per_hero\" aria-hidden=\"true\">G</span>).</red></li></ul>",
+				"whats_new": "Précision indiquant que lorsque les sbires engagent le joueur suivant, ils conservent tous les jetons, cartes attachées, cartes de boost et cartes glissées en dessous d'eux. Ajout également d'une règle stipulant que les effets se référant aux joueurs dans la partie ignorent les joueurs éliminés, à l'exception de l'icône « par joueur »."
+			}
+		]
+	},
+	{
+		"id": "player_phase",
+		"term": "Phase des joueurs",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Pendant la phase des joueurs, chaque joueur (dans l'ordre des joueurs) joue un tour. Après que chaque joueur a joué un tour, les joueurs défaussent ou piochent jusqu'à leur taille de main et <red>redressent chaque carte inclinée</red>.<ul><li>Les effets qui durent « jusqu'à la fin de la phase [des joueurs] » se terminent après que les joueurs ont pioché jusqu'à leur taille de main et que <red>toutes les cartes sont redressées.</red> Ensuite, les effets qui se résolvent « quand/après que la phase des joueurs se termine » sont résolus.</li></ul>",
+				"whats_new": "Mise à jour de la formulation pour préciser que les joueurs redressent « chaque carte inclinée » à la fin de la phase, et clarification sur le fait que les effets durant « jusqu'à la fin de la phase » expirent après que toutes les cartes ont été redressées."
+			}
+		]
+	},
+	{
+		"id": "player_side_scheme",
+		"term": "Manigance Annexe de Joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les manigances annexes de joueur sont des missions que les héros entreprennent pour faciliter la défaite du méchant. Ce sont l'équivalent en carte joueur des manigances annexes trouvées dans le deck rencontre.<ul><li>Lorsqu'une manigance annexe de joueur entre en jeu, elle est placée à côté de la manigance principale dans la zone de jeu du méchant.</li><li>Chaque manigance annexe de joueur entre en jeu avec une quantité de menace sur elle égale à sa valeur de menace de départ.</li><li>Le nombre de manigances annexes de joueur en jeu à un moment donné est limité par la limite de manigance annexe de joueur.</li><li>Une manigance annexe de joueur reste en jeu jusqu'à ce qu'il n'y ait plus de menace sur elle (ce qui la vainc et la fait être défaussée ou, si elle a le mot-clé Victoire X, ajoutée à la pile de victoire) ou qu'elle soit défaussée parce qu'il y a plus de manigances annexes de joueur en jeu que la limite.</li><li>Toutes les règles ou effets de cartes qui font référence à des « manigances » ou des « manigances annexes » font également référence aux manigances annexes de joueur.</li><ul><li>Les héros et les alliés peuvent retirer de la menace d'une manigance annexe de joueur en effectuant un contre de base.</li><li>Les capacités qui retirent de la menace d'« une manigance » ou d'« une manigance annexe » peuvent retirer de la menace d'une manigance annexe de joueur.</li></ul></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "player_side_scheme_limit",
+		"term": "Limite de Manigance Annexe de Joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le nombre de manigances annexes de joueur en jeu à un moment donné est limité par la limite de manigance annexe de joueur.<ul><li>Si un ou deux joueurs ont commencé la partie, la limite est de un. Si trois ou quatre joueurs ont commencé la partie, la limite est de deux.</li><li>S'il y a plus de manigances annexes de joueur en jeu que la limite, le premier joueur choisit et défausse des manigances annexes de joueur jusqu'à ce qu'il n'y en ait plus en jeu que la limite.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "player_turn",
+		"term": "Tour de joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Pendant son tour, un joueur peut effectuer les options suivantes, dans n'importe quel ordre. Chaque option, à l'exception de « changer de forme », peut être effectuée autant de fois que le joueur le peut, tant qu'il est capable d'en payer les coûts requis.<ul><li><b>Changer de forme</b> de héros à alter ego, ou d'alter ego à héros. <b>Cette option ne peut être effectuée qu'une seule fois par tour.</b></li><li><span style=\"--tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: bolder; font-size: 14.72px;\">Jouer une carte</span>J&nbsp;allié, amélioration, soutien ou manigance annexe de joueur depuis sa main.</li><li><b>Utiliser</b> la récupération de base de son alter ego (s'il est sous forme d'alter ego) ou le pouvoir d'attaque ou de contre de base de son héros (s'il est sous forme de héros).</li><li><b>Utiliser</b> une carte allié qu'il contrôle en jeu pour attaquer un ennemi ou contrer une manigance.</li><li><b>Déclencher une capacité</b> « <b>Action </b>» sur :</li></ul><ol type=\"a\"><ol><li><span style=\"font-size: 0.92rem;\">Une carte en jeu qu'il contrôle.</span></li><li><span style=\"font-size: 0.92rem;\">Une carte rencontre en jeu.</span></li><li>Toute carte en jeu avec un texte permettant à ce joueur de déclencher sa capacité d'action.</li><li>Une carte événement dans sa main (en jouant cet événement).</li></ol></ol><ul><ul><li><span style=\"font-size: 0.92rem;\">Si la capacité d'action est précédée de « Héros » ou « Alter ego », le joueur doit être sous la forme spécifiée pour pouvoir la déclencher.</span></li></ul><li>Demander à un autre joueur de déclencher n'importe quelle capacité « Action » que ce joueur pourrait déclencher pendant son propre tour. L'autre joueur décide alors de déclencher ou non la capacité. (Un autre joueur peut également proposer d'utiliser une action pendant le tour du joueur actif.)</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "player_play_area",
+		"term": "Zone de jeu d'un joueur",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "La zone de jeu d'un joueur est la zone de jeu où se trouvent la carte identité, le deck, la main, la pile de défausse et le cadran de points de vie d'un joueur. Chaque joueur dans la partie a sa propre zone de jeu.<ul><li>Les cartes allié, soutien et amélioration sont placées dans la zone de jeu d'un joueur lorsqu'elles entrent en jeu.</li><li>Les cartes attachement attachées à des cartes dans la zone de jeu du méchant ne sont pas dans la zone de jeu du joueur.</li><li>Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans celle du méchant.</li><li>Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans celle du méchant.</li><li>Bien que les capacités de carte puissent affecter des cartes dans d'autres zones de jeu, à moins qu'une règle ou une capacité ne stipule le contraire, les cartes ne peuvent pas être jouées dans la zone de jeu d'un autre joueur.</li><li>Si un joueur est éliminé de la partie (parce que son identité est vaincue ou autre), sa zone de jeu est retirée de la partie.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "playing_cards",
+		"term": "Jouer des cartes",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Initier des Capacités, Jouer des cartes",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "prevent",
+		"term": "Prévenir",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certaines capacités de carte préviennent les dégâts ou la menace.<ul><li>Lorsque des dégâts sont prévenus, réduisez la quantité de dégâts que la cible subit (c'est-à-dire la quantité de dégâts placée sur la cible).</li><ul><li>Lorsqu'un effet prévient les dégâts infligés à un personnage, la quantité de dégâts que ce personnage « subit » est réduite, mais la quantité de dégâts « infligés » n'est pas réduite.</li><li>Si un effet prévient tous les dégâts infligés à un personnage, ce personnage n'est pas considéré comme ayant subi des dégâts.</li><li>Si tous les dégâts d'une attaque sont prévenus, le personnage attaquant est considéré comme ayant infligé des dégâts, mais n'est pas considéré comme ayant « attaqué et blessé » le personnage attaqué.</li><li>Si infliger des dégâts est un coût, ce coût est considéré comme payé même si tout ou partie de ces dégâts est prévenu.&nbsp;</li><li>Si subir des dégâts est un coût, ce coût n'est pas considéré comme payé à moins que tous ces dégâts n'aient été subis. (Si n'importe quelle quantité des dégâts est prévenue, alors le coût n'a pas été payé.)</li></ul><li>Lorsque de la menace est prévenue, réduisez la quantité de menace assignée avant qu'elle ne soit placée sur la manigance.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "printed",
+		"term": "Imprimé",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le mot « imprimé » fait référence au texte, à la caractéristique ou à la valeur physiquement imprimée sur la carte.<ul><li>Si un joueur doit payer un coût en utilisant des « ressources imprimées », il peut utiliser des ressources générées par la capacité d'une carte, tant que la ou les icônes des ressources générées par cette carte sont imprimées dans sa boîte de texte.</li><ul><li>Les ressources libres (<span class=\"icon-wild\"></span>) ne peuvent pas être dépensées comme d'autres types de ressources pour un tel coût.</li></ul></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "put_into_play",
+		"term": "Mettre en Jeu",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Voir : Jouer, Mettre en Jeu",
+				"whats_new": ""
+			}
+		]
+	}
 ]
