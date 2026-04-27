@@ -5,8 +5,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Chaque identité dans le jeu est fournie avec un set de rencontre némésis associé. Au début de la partie, chaque joueur met de côté les cartes de son set némésis associé, hors jeu. Les cartes piochées du deck rencontre peuvent indiquer au joueur comment mettre son set némésis en jeu.<ul><li>Un set de rencontre némésis est un sous-ensemble d'un set spécifique à l'identité.</li><li>Les cartes d'un set némésis ne peuvent être utilisées aux côtés d'une identité que si ces cartes partagent une icône de set avec cette identité.</li><li>Le « sbire némésis » d'une identité est le sbire appartenant au set némésis de cette identité. Si un set némésis contient plusieurs sbires, le « sbire némésis » est désigné par un texte entre parenthèses imprimé sur un ou plusieurs de ces sbires.</li><li>La « manigance annexe némésis » d'une identité est la manigance annexe appartenant au set némésis de cette identité.</li></ul>",
-				"whats_new": ""
+				"content": "Chaque identité dans le jeu est fournie avec un set de rencontre némésis associé. Au début de la partie, chaque joueur met de côté les cartes de son set némésis associé, hors jeu. Les cartes piochées du deck rencontre peuvent indiquer au joueur comment mettre son set némésis en jeu.<ul><li>Un set de rencontre némésis est un sous-ensemble d'un set spécifique à l'identité.</li><li>Les cartes d'un set némésis ne peuvent être utilisées aux côtés d'une identité que si ces cartes partagent une icône de set avec cette identité.</li><red><li>Le « sbire némésis » d'une identité est le sbire appartenant au set némésis de cette identité.&nbsp;</li><ul><li>Si un set némésis contient plusieurs sbires, le « sbire némésis » est désigné par un texte entre parenthèses imprimé sur un ou plusieurs de ces sbires.</li></ul><li>La « manigance annexe némésis » d'une identité est la manigance annexe appartenant au set némésis de cette identité.</li></red></ul>",
+				"whats_new": "\"Ajout de définitions explicites pour le « sbire némésis » et la « manigance annexe némésis » d'une identité. Clarification également sur la façon d'identifier le « sbire némésis » spécifique si un set de némésis contient plusieurs sbires (désigné par un texte entre parenthèses).\""
 			}
 		]
 	},
@@ -16,8 +16,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Si une variable non-numérique (comme une lettre ou un autre symbole) est définie pour avoir une valeur numérique (comme une capacité de carte attribuant une valeur à « X »), traitez cette variable comme étant la valeur définie. Si la variable n'est pas définie (par exemple, si la capacité la définissant a été effacée), traitez cette variable comme étant égale à 0.<ul><li>Pour les coûts impliquant la lettre X, la valeur de X est définie par la capacité de la carte ou le choix du joueur, après quoi le montant payé peut être modifié par des effets sans changer la valeur de X.</li></ul>",
-				"whats_new": ""
+				"content": "Si une variable non-numérique (<red><i>comme une lettre ou un autre symbole</i></red>) est définie pour avoir une valeur numérique (comme une capacité de carte attribuant une valeur à « X »), traitez cette variable comme étant la valeur définie. <red>Si la variable n'est pas définie (par exemple, si la capacité la définissant a été effacée), traitez cette variable comme étant égale à 0.</red><ul><li>Pour les coûts impliquant la lettre X, la valeur de X est définie par la capacité de la carte ou le choix du joueur, après quoi le montant payé peut être modifié par des effets sans changer la valeur de X.</li></ul>",
+				"whats_new": "Précision indiquant que les variables non numériques incluent les lettres ou autres symboles, et ajout d'une règle stipulant que si la variable n'est pas définie (par exemple, si la capacité qui la définit a été effacée/rendue vierge), elle est considérée comme étant égale à 0."
 			}
 		]
 	}

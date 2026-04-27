@@ -1,123 +1,123 @@
 [
-    {
-        "id": "main_scheme",
-        "term": "Manigance principale, deck manigance principale",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "La manigance principale est un type de carte rencontre. Elle représente l'objectif principal du méchant.<ul><li>Lors de l'étape un de la phase du méchant, placez sur cette manigance la quantité de menace indiquée dans le champ d'accélération (coin inférieur droit).</li><li>Si la quantité de menace sur une manigance principale est égale ou supérieure à sa valeur de menace cible, cette manigance est achevée et le deck manigance principale avance.</li><li>Si le méchant achève le stade final du deck manigance principale, il gagne la partie.</li><li>Lorsque le deck manigance principale avance, la menace en excès du stade précédent n'est pas reportée sur le nouveau stade.</li><li>Lorsque le deck manigance principale avance, les pions accélération présents sont reportés sur le nouveau stade.</li><li>Les cartes manigance principale ne peuvent pas être défaussées du jeu.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "max_maximum",
-        "term": "Max, Maximum",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Les mots « max » et « maximum » imposent un maximum pour l'ensemble des exemplaires d'une carte (par titre) pour tous les joueurs.<ul><li>« Max X par [période] » impose un nombre maximum de fois où des exemplaires de cette carte peuvent être joués durant la période désignée. Si une carte avec un maximum est annulée, elle compte tout de même dans la limite du maximum.</li><li>« Max X par deck » restreint le nombre d'exemplaires de cette carte pouvant être inclus dans le deck de chaque joueur.</li><li>« Max 1 par joueur » est spécifique au joueur, et limite à un le nombre d'exemplaires qu'un joueur peut contrôler en jeu à un instant donné.</li><li>« Max 1 par [élément de jeu] » limite à un le nombre d'exemplaires pouvant être attachés à cet élément.</li><li>« Max 1 par [instance] » limite le nombre de fois où une capacité peut être déclenchée par une seule instance d'un effet déclencheur.</li><li>La mention « (jusqu'à un maximum de [valeur]) » dans une capacité impose un plafond à cette capacité pour sa durée.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "maximum_hit_points",
-        "term": "Points de vie maximums",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Les points de vie maximums d'un personnage correspondent à ses points de vie de base plus ou moins tous les modificateurs de type « gagne/obtient » actifs sur ce personnage.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "may",
-        "term": "Pouvoir",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le mot « pouvoir » (ou « peut ») indique qu'un joueur spécifié a l'option de résoudre le texte qui suit. Si aucun joueur n'est spécifié, l'option est accordée au contrôleur de la carte possédant la capacité en question.",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "mental_resource",
-        "term": "Ressource mentale",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Une ressource mentale (<span class=\"icon-mental\"></span>) est l'un des quatre types de ressources.<ul><li>Les ressources mentales peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités nécessitent spécifiquement que des ressources mentales soient dépensées pour résoudre leurs effets.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "minion",
-        "term": "Sbire",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Sbire est un type de carte rencontre. Les sbires représentent les partisans du méchant et/ou les ennemis des héros. Si un sbire entre en jeu, il engage le joueur qui révèle la carte du deck rencontre ou qui résout la capacité l'ayant mis en jeu, sauf indication contraire.<ul><li>Si un sbire entre en jeu, il reste en jeu jusqu'à ce qu'une capacité ou un effet de jeu le fasse quitter le jeu.</li><li>Si un sbire a zéro point de vie ou moins, il est vaincu et défaussé.</li><li>Les sbires engagés avec un joueur s'activent (un par un dans l'ordre choisi par le joueur) lors de l'étape deux de la phase du méchant, après l'activation du méchant. Si le joueur est sous forme de héros, ces sbires attaquent. S'il est sous forme d'alter ego, ils manigancent.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "modes_of_play",
-        "term": "Modes de Jeu",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Avant de commencer une partie, les joueurs peuvent personnaliser leur expérience en choisissant ou en combinant différents modes de jeu :<ul><li><b>Mode Standard :</b> Le mode de jeu de base pour tous les scénarios.</li><li><b>Mode Expert :</b> Ajoute le set de rencontre Expert et utilise des stades de méchant différents.</li><li><b>Mode Héroïque :</b> Permet d'augmenter la difficulté en distribuant X cartes rencontre supplémentaires lors de l'étape trois de la phase du méchant (où X est le niveau héroïque choisi).</li><li><b>Mode Escarmouche :</b> (ou Mode Débutant) Raccourcit la partie en ne mettant en jeu qu'une seule version choisie du méchant.</li><li><b>Mode Campagne :</b> Scénarios interconnectés joués les uns après les autres, en utilisant un registre de campagne.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "modifiers",
-        "term": "Modificateurs",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Le jeu vérifie et met constamment à jour le total de toute quantité variable modifiée. Chaque fois qu'un nouveau modificateur est appliqué ou retiré, la quantité entière est recalculée depuis le début, en considérant la valeur de base et tous les modificateurs actifs.<ul><li>L'icône « par joueur » (<span class=\"icon-per_player\"></span>) n'est pas considérée comme un modificateur et est appliquée avant tout modificateur.</li><li>Le calcul d'une valeur traite tous les modificateurs comme étant appliqués simultanément. Cependant, les additions et soustractions sont calculées avant les multiplications et/ou divisions.</li><li>Si une valeur est fixée (« devient ») à un nombre spécifique, ce modificateur l'emporte sur tous les autres.</li><li>Après avoir pris en compte tous les modificateurs, si une valeur est inférieure à zéro, elle est traitée comme étant zéro.</li><li>Les valeurs fractionnaires sont arrondies à l'entier supérieur après application de tous les modificateurs.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "modular_encounter_set",
-        "term": "Set de Rencontre Modulaire",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Les cartes appartenant à un « set de rencontre modulaire » sont une classification de cartes rencontre pouvant être ajoutées ou retirées de presque n'importe quel scénario.<ul><li>Lors de la mise en place, de nombreux scénarios indiquent le nombre de sets modulaires à inclure.</li><li>Si un set modulaire est ajouté à un scénario, il l'est dans son intégralité. Sauf règle spécifique du scénario, les cartes individuelles d'un set modulaire ne peuvent pas être incluses sans le reste du set.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "move",
-        "term": "Déplacer",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Certaines capacités permettent aux joueurs de déplacer des éléments de jeu (cartes, dégâts, menace).<ul><li>Lorsqu'un élément se déplace, il ne peut pas se déplacer vers son même emplacement (actuel).</li><li>S'il n'y a pas de source ou de destination valide, le déplacement ne peut pas être effectué.</li><li>Il est possible de déplacer des dégâts entre les cadrans et les cartes. Si des dégâts sont déplacés d'une carte vers un cadran, retirez les dégâts de la carte et réduisez le cadran de la même valeur.</li><li>Si des dégâts sont retirés d'un personnage lors d'un déplacement, ils sont considérés comme soignés.</li><li>Si des dégâts sont placés sur un personnage lors d'un déplacement, ils sont considérés comme infligés à ce personnage.</li></ul>",
-                "whats_new": ""
-            }
-        ]
-    },
-    {
-        "id": "mulligan",
-        "term": "Mulligan",
-        "versions": [
-            {
-                "version": "1.7",
-                "content": "Lors de l'étape de mise en place « Résoudre les Mulligans » (Étape 15), chaque joueur peut défausser de sa main autant de cartes qu'il le souhaite, puis piocher jusqu'à sa taille de main de départ. (Ne mélangez pas ces cartes défaussées dans le deck à ce moment-là.)",
-                "whats_new": ""
-            }
-        ]
-    }
+	{
+		"id": "main_scheme",
+		"term": "Manigance principale, deck manigance principale",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<div><b><i><red>A modifier</red></i></b></div>La manigance principale est un type de carte rencontre. Elle représente l'objectif principal du méchant.<ul><li>Lors de l'étape un de la phase du méchant, placez sur cette manigance la quantité de menace indiquée dans le champ d'accélération (coin inférieur droit).</li><li>Si la quantité de menace sur une manigance principale est égale ou supérieure à sa valeur de menace cible, cette manigance est achevée et le deck manigance principale avance.</li><li>Si le méchant achève le stade final du deck manigance principale, il gagne la partie.</li><li>Lorsque le deck manigance principale avance, la menace en excès du stade précédent n'est pas reportée sur le nouveau stade.</li><li>Lorsque le deck manigance principale avance, les pions accélération présents sont reportés sur le nouveau stade.</li><li>Les cartes manigance principale ne peuvent pas être défaussées du jeu.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "max_maximum",
+		"term": "Max, Maximum",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<div><b><i><red>A modifier</red></i></b></div>Les mots « max » et « maximum » imposent un maximum pour l'ensemble des exemplaires d'une carte (par titre) pour tous les joueurs.<ul><li>« Max X par [période] » impose un nombre maximum de fois où des exemplaires de cette carte peuvent être joués durant la période désignée. Si une carte avec un maximum est annulée, elle compte tout de même dans la limite du maximum.</li><li>« Max X par deck » restreint le nombre d'exemplaires de cette carte pouvant être inclus dans le deck de chaque joueur.</li><li>« Max 1 par joueur » est spécifique au joueur, et limite à un le nombre d'exemplaires qu'un joueur peut contrôler en jeu à un instant donné.</li><li>« Max 1 par [élément de jeu] » limite à un le nombre d'exemplaires pouvant être attachés à cet élément.</li><li>« Max 1 par [instance] » limite le nombre de fois où une capacité peut être déclenchée par une seule instance d'un effet déclencheur.</li><li>La mention « (jusqu'à un maximum de [valeur]) » dans une capacité impose un plafond à cette capacité pour sa durée.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "maximum_hit_points",
+		"term": "Points de vie maximums",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Les points de vie maximums d'un personnage correspondent à ses points de vie de base plus ou moins tous les modificateurs de type « gagne/obtient » actifs sur ce personnage.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "may",
+		"term": "Pouvoir",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Le mot « pouvoir » (ou « peut ») indique qu'un joueur spécifié a l'option de résoudre le texte qui suit. Si aucun joueur n'est spécifié, l'option est accordée au contrôleur de la carte possédant la capacité en question.",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "mental_resource",
+		"term": "Ressource mentale",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Une ressource mentale (<span class=\"icon-mental\"></span>) est l'un des quatre types de ressources.<ul><li>Les ressources mentales peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités nécessitent spécifiquement que des ressources mentales soient dépensées pour résoudre leurs effets.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "minion",
+		"term": "Sbire",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<div><i><b><red>A reprendre&nbsp;</red></b></i></div>Sbire est un type de carte rencontre. Les sbires représentent les partisans du méchant et/ou les ennemis des héros. Si un sbire entre en jeu, il engage le joueur qui révèle la carte du deck rencontre ou qui résout la capacité l'ayant mis en jeu, sauf indication contraire.<ul><li>Si un sbire entre en jeu, il reste en jeu jusqu'à ce qu'une capacité ou un effet de jeu le fasse quitter le jeu.</li><li>Si un sbire a zéro point de vie ou moins, il est vaincu et défaussé.</li><li>Les sbires engagés avec un joueur s'activent (un par un dans l'ordre choisi par le joueur) lors de l'étape deux de la phase du méchant, après l'activation du méchant. Si le joueur est sous forme de héros, ces sbires attaquent. S'il est sous forme d'alter ego, ils manigancent.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "modes_of_play",
+		"term": "Modes de Jeu",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<div><b><i><red>A compléter.</red></i></b></div>Avant de commencer une partie, les joueurs peuvent personnaliser leur expérience en choisissant ou en combinant différents modes de jeu :<ul><li><b>Mode Standard :</b> Le mode de jeu de base pour tous les scénarios.</li><li><b>Mode Expert :</b> Ajoute le set de rencontre Expert et utilise des stades de méchant différents.</li><li><b>Mode Héroïque :</b> Permet d'augmenter la difficulté en distribuant X cartes rencontre supplémentaires lors de l'étape trois de la phase du méchant (où X est le niveau héroïque choisi).</li><li><b>Mode Escarmouche :</b> (ou Mode Débutant) Raccourcit la partie en ne mettant en jeu qu'une seule version choisie du méchant.</li><li><b>Mode Campagne :</b> Scénarios interconnectés joués les uns après les autres, en utilisant un registre de campagne.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "modifiers",
+		"term": "Modificateurs",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<div><b><i><red>A compléter</red></i></b></div>Le jeu vérifie et met constamment à jour le total de toute quantité variable modifiée. Chaque fois qu'un nouveau modificateur est appliqué ou retiré, la quantité entière est recalculée depuis le début, en considérant la valeur de base et tous les modificateurs actifs.<ul><li>L'icône « par joueur » (<span class=\"icon-per_player\"></span>) n'est pas considérée comme un modificateur et est appliquée avant tout modificateur.</li><li>Le calcul d'une valeur traite tous les modificateurs comme étant appliqués simultanément. Cependant, les additions et soustractions sont calculées avant les multiplications et/ou divisions.</li><li>Si une valeur est fixée (« devient ») à un nombre spécifique, ce modificateur l'emporte sur tous les autres.</li><li>Après avoir pris en compte tous les modificateurs, si une valeur est inférieure à zéro, elle est traitée comme étant zéro.</li><li>Les valeurs fractionnaires sont arrondies à l'entier supérieur après application de tous les modificateurs.</li></ul>",
+				"whats_new": "\"Clarification indiquant que l'icône « par joueur » n'est pas considérée comme un modificateur et s'applique avant tout modificateur. Ajout de règles détaillant que les capacités permettant à un personnage d'« obtenir » une statistique agissent comme des modificateurs tant qu'elles sont actives, et précision stipulant qu'une valeur de tiret (–) ne peut pas être modifiée.\""
+			}
+		]
+	},
+	{
+		"id": "modular_encounter_set",
+		"term": "Set de Rencontre Modulaire",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "<div><b><i><red>A reprendre</red></i></b></div>Les cartes appartenant à un « set de rencontre modulaire » sont une classification de cartes rencontre pouvant être ajoutées ou retirées de presque n'importe quel scénario.<ul><li>Lors de la mise en place, de nombreux scénarios indiquent le nombre de sets modulaires à inclure.</li><li>Si un set modulaire est ajouté à un scénario, il l'est dans son intégralité. Sauf règle spécifique du scénario, les cartes individuelles d'un set modulaire ne peuvent pas être incluses sans le reste du set.</li></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "move",
+		"term": "Déplacer",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Certaines capacités permettent aux joueurs de déplacer des éléments de jeu (cartes, dégâts, menace).<ul><li>Lorsqu'un élément se déplace, il ne peut pas se déplacer vers son même emplacement (actuel).</li><li>S'il n'y a pas de source ou de destination valide, le déplacement ne peut pas être effectué.</li><li>Il est possible de déplacer des dégâts entre les cadrans et les cartes. Si des dégâts sont déplacés d'une carte vers un cadran, retirez les dégâts de la carte et réduisez le cadran de la même valeur.</li><ul><li>Si des dégâts sont retirés d'un personnage lors d'un déplacement, ils sont considérés comme soignés.</li><li>Si des dégâts sont placés sur un personnage lors d'un déplacement, ils sont considérés comme infligés à ce personnage.</li></ul></ul>",
+				"whats_new": ""
+			}
+		]
+	},
+	{
+		"id": "mulligan",
+		"term": "Mulligan",
+		"versions": [
+			{
+				"version": "1.7",
+				"content": "Lors de l'étape de mise en place « Résoudre les Mulligans » (Étape 15), chaque joueur peut défausser de sa main autant de cartes qu'il le souhaite, puis piocher jusqu'à sa taille de main de départ. (Ne mélangez pas ces cartes défaussées dans le deck à ce moment-là.)",
+				"whats_new": ""
+			}
+		]
+	}
 ]

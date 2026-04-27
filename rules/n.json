@@ -6,8 +6,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Each identity in the game comes with an associated nemesis encounter set. At the start of the game, each player sets aside the cards from their associated nemesis set, out of play. Cards drawn from the encounter deck may instruct the player on how to bring their nemesis set into play.<ul><li>A nemesis encounter set is a subset of an identity-specific set.</li><li>A nemesis set cards may only be used alongside an identity if those cards share a set icon with that identity.</li><li>An identity’s “nemesis minion” is the minion belonging to that identity’s nemesis set. If a nemesis set has multiple minions in it, the “nemesis minion” is designated by parenthetical text printed on one or more of those minions.</li><li>An identity’s “nemesis side scheme” is the side scheme belonging to that identity’s nemesis set.</li></ul>",
-				"whats_new": ""
+				"content": "Each identity in the game comes with an associated nemesis encounter set. At the start of the game, each player sets aside the cards from their associated nemesis set, out of play. Cards drawn from the encounter deck may instruct the player on how to bring their nemesis set into play.<ul><li>A nemesis encounter set is a subset of an identity-specific set.</li><li>A nemesis set cards may only be used alongside an identity if those cards share a set icon with that identity.</li><red><li><span style=\"font-size: 0.92rem;\">An identity’s “nemesis minion” is the minion belonging to that identity’s nemesis set.</span></li><ul><li><span style=\"font-size: 0.92rem;\">If a nemesis set has multiple minions in it, the “nemesis minion” is designated by parenthetical text printed on one or more of those minions.</span></li></ul><li>An identity’s “nemesis side scheme” is the side scheme belonging to that identity’s nemesis set.</li></red></ul>",
+				"whats_new": "\"Added explicit definitions for an identity's 'nemesis minion' and 'nemesis side scheme'. Also clarified how to identify the specific 'nemesis minion' if a nemesis set contains multiple minions (designated by parenthetical text).\""
 			}
 		],
 		"see_also": [
@@ -24,8 +24,8 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "If a non-numerical variable (such as a letter or other symbol) is defined to have a numerical value (such as a card ability assigning a value to ‘X’), treat that variable as the defined value. If the variable is not defined (for instance, if the ability defining it has been blanked), treat that variable as being equal to 0.<ul><li>For costs involving the letter X, the value of X is defined by card ability or player choice, after which the amount paid may be modified by effects without changing the value of X.</li></ul>",
-				"whats_new": ""
+				"content": "If a non-numerical variable (<red><i>such as a letter or other symbol</i></red>) is defined to have a numerical value (such as a card ability assigning a value to ‘X’), treat that variable as the defined value. <red>If the variable is not defined (for instance, if the ability defining it has been blanked), treat that variable as being equal to 0.</red><ul><li>For costs involving the letter X, the value of X is defined by card ability or player choice, after which the amount paid may be modified by effects without changing the value of X.</li></ul>",
+				"whats_new": "Clarified that non-numerical variables include letters or other symbols, and added a rule stating that if a variable is not defined (for instance, if the defining ability has been blanked), it is treated as being equal to 0."
 			}
 		],
 		"see_also": [
