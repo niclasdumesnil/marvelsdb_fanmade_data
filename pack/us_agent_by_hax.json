@@ -49,14 +49,14 @@
         },
          "deck_requirements": [
 			{
-				"type_limit": { "ally": 0 }  ,
-                "faction_limit": { "basic": 0 }              
+				"type_limit": { "ally": 0 },
+                "faction_limit": { "basic": 0 }
 			}
     ],
     "deck_options": [
 			{
 				"limit": 35,
-				"aspect_limit" : 4
+				"multi_aspect": true
 			}
 		]
    

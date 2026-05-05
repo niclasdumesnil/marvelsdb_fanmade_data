@@ -45,7 +45,16 @@
         "text": "<i>Chi Mastery</i> \u2014 <b>Response</b>: After you resolve a \"[[Flow]]\" ability, ready Shang-Chi.",
         "thwart": 1,
         "traits": "Avenger. Hero for Hire.",
-        "type_code": "hero"
+        "type_code": "hero",
+        "deck_options": [
+            {
+                "trait": ["Attack"],
+                "type": ["event"],
+                "limit": 3,
+                "name_limit": 1,
+                "per_faction": true
+            }
+        ]
     },
     {
         "code": "205002",

@@ -107,6 +107,12 @@
 						"minimum": 1,
 						"type": "integer"
 					},
+					"per_faction": {
+						"type": "boolean"
+					},
+					"multi_aspect": {
+						"type": "boolean"
+					},
 					"resource": {
 						"items": {
 							"minLength": 1,
