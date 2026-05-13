@@ -1,9 +1,9 @@
 [
 	{
 		"code": "40001a",
-		"flavor": "\"Nous avons peut-être remporté une bataille, mais la guerre est loin d'être terminée.\"",
 		"name": "Cable",
 		"text": "<b>Réponse</b> : après que Cable a déjoué une manigance annexe, redressez-le. (Limite d'une fois par phase.)",
+		"flavor": "\"Nous avons peut-être remporté une bataille, mais la guerre est loin d'être terminée.\"",
 		"traits": "Soldat. X-Force."
 	},
 	{
@@ -14,9 +14,9 @@
 	},
 	{
 		"code": "40002",
-		"flavor": "\"Translation corporelle pour deux.\" — Cable",
 		"name": "Translatation Corporelle",
-		"text": "<b>Action</b> : changez de forme. Chaque autre joueur peut changer de forme pour celle que vous avez."
+		"text": "<b>Action</b> : changez de forme. Chaque autre joueur peut changer de forme pour celle que vous avez.",
+		"flavor": "\"Translation corporelle pour deux.\" — Cable"
 	},
 	{
 		"code": "40003",
@@ -43,16 +43,16 @@
 	},
 	{
 		"code": "40007",
-		"flavor": "La base orbitale de Cable est dirigée par une I.A. consciente connue sous le nom de Professeur.",
 		"name": "Graymalkin",
 		"text": "<b>Réponse</b> : après qu'une manigance annexe a été déjouée, redressez Graymalkin.\n<b>Ressource</b> : inclinez Graymalkin → générez une ressource [energy].",
+		"flavor": "La base orbitale de Cable est dirigée par une I.A. consciente connue sous le nom de Professeur.",
 		"traits": "Lieu."
 	},
 	{
 		"code": "40008",
-		"flavor": "\"Je suis désolé Wade, mais je ne peux pas faire ça.\"",
 		"name": "Professeur",
 		"text": "<b>Action d'alter ego</b> : inclinez Professeur → choisissez : soit vous piochez 1 carte, soit vous cherchez une manigance annexe de Joueur dans votre deck ou votre pile de défausse et l'ajoutez à votre main. <i>(Mélangez.)</i>",
+		"flavor": "\"Je suis désolé Wade, mais je ne peux pas faire ça.\"",
 		"traits": "Individu. Tech."
 	},
 	{
@@ -93,10 +93,10 @@
 	},
 	{
 		"code": "40015",
-		"flavor": "\"E.V.A. est plus qu'un véhicule. Elle est ma partenaire. Elle est ma mutation.\"",
 		"name": "Fantomex",
 		"subname": "Charlie Cluster-7",
 		"text": "<b>Réponse</b> : après que Fantomex est entré en jeu, cherchez E.V.A. dans votre deck ou votre pile de défausse et mettez-la en jeu. <i>(Mélangez.)</i>",
+		"flavor": "\"E.V.A. est plus qu'un véhicule. Elle est ma partenaire. Elle est ma mutation.\"",
 		"traits": "Psionique. X-Force."
 	},
 	{
@@ -113,21 +113,21 @@
 	},
 	{
 		"code": "40018",
-		"flavor": "\"Équipe bleue, rejoignez-moi tout de suite !\" — Bishop",
 		"name": "Appeler des Renforts",
-		"text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut chercher un allié dans son deck ou sa pile défausse et le mettre en jeu. <i>(Mélangez.)</i>"
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut chercher un allié dans son deck ou sa pile défausse et le mettre en jeu. <i>(Mélangez.)</i>",
+		"flavor": "\"Équipe bleue, rejoignez-moi tout de suite !\" — Bishop"
 	},
 	{
 		"code": "40019",
-		"flavor": "\"On va avoir besoin d'armes. Beaucoup d'armes.\" — Cable",
 		"name": "Viser et Tirer",
-		"text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut chercher une amélioration [[ARME]] ayant un coût de 3 ou moins dans son deck ou sa pile de défausse et la mettre en jeu. <i>(Mélangez.)</i>"
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut chercher une amélioration [[ARME]] ayant un coût de 3 ou moins dans son deck ou sa pile de défausse et la mettre en jeu. <i>(Mélangez.)</i>",
+		"flavor": "\"On va avoir besoin d'armes. Beaucoup d'armes.\" — Cable"
 	},
 	{
 		"code": "40020",
-		"flavor": "\"Ne vous inquiétez pas, les enfants. Cela ne peut pas me traverser.\" — Armor",
 		"name": "Établir un Périmètre",
-		"text": "Victoire 0.\n<b>Une fois déjouée</b> : donnez une carte d'état Tenace à chaque identité."
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : donnez une carte d'état Tenace à chaque identité.",
+		"flavor": "\"Ne vous inquiétez pas, les enfants. Cela ne peut pas me traverser.\" — Armor"
 	},
 	{
 		"code": "40021",
@@ -149,10 +149,10 @@
 	},
 	{
 		"code": "40024",
-		"flavor": "\"... Cable ? Je ne suis pas intéressé. Je regarde tout en streaming.\"",
 		"name": "Deadpool",
 		"subname": "Wade Wilson",
 		"text": "<b>Interruption forcée</b> : quand Deadpool est censé être vaincu à cause d'un dégât consécutif, soignez-le de 3 dégâts à la place. Ajouter un pion Accélération à la manigance principale.",
+		"flavor": "\"... Cable ? Je ne suis pas intéressé. Je regarde tout en streaming.\"",
 		"traits": "Mercenaire. X-Force."
 	},
 	{
@@ -170,9 +170,9 @@
 	},
 	{
 		"code": "40027",
-		"flavor": "\"J'ai exactement ce qu'il te faut.\" — Forge",
 		"name": "Construire un Soutien",
-		"text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut chercher un soutien ayant un coût de 3 ou moins dans son deck ou sa pile de défausse et le mettre en jeu. <i>(Mélangez.)</i>"
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut chercher un soutien ayant un coût de 3 ou moins dans son deck ou sa pile de défausse et le mettre en jeu. <i>(Mélangez.)</i>",
+		"flavor": "\"J'ai exactement ce qu'il te faut.\" — Forge"
 	},
 	{
 		"code": "40028",
@@ -187,9 +187,9 @@
 	},
 	{
 		"code": "40030",
-		"flavor": "\"Ce flingue est presque aussi dangeureux que l'homme qui l'utilise.\" — Cable",
 		"name": "Arme de Poing",
 		"text": "Attachez cette carte à un allié. 1 max par allié.\nL'allié attaché gagne +1 ATQ et ses attaques gagnent À Distance.",
+		"flavor": "\"Ce flingue est presque aussi dangeureux que l'homme qui l'utilise.\" — Cable",
 		"traits": "Arme."
 	},
 	{
@@ -200,9 +200,9 @@
 	},
 	{
 		"code": "40037b",
-		"flavor": "\"Suspense... Je gagne encore !\"",
 		"name": "Neena Thurman",
 		"text": "<b>Action</b> : choisissez une carte dans votre main. Échangez cette carte avec la carte du dessus de votre pile de défausse. (Limite d'une fois par round.)",
+		"flavor": "\"Suspense... Je gagne encore !\"",
 		"traits": "Mutant."
 	},
 	{
@@ -244,9 +244,9 @@
 	},
 	{
 		"code": "40044",
-		"flavor": "\"Je rêve ou tu viens de me faire pipi dessus, sale petite saucisse ?\" — Domino",
 		"name": "Pip Le Carlin",
 		"text": "<b>Action d'alter ego</b> : inclinez Pip Le Carlin → placez sur votre deck 1 carte [[POSSE]] ou du set Domino de votre pile de défausse.",
+		"flavor": "\"Je rêve ou tu viens de me faire pipi dessus, sale petite saucisse ?\" — Domino",
 		"traits": "Créature."
 	},
 	{
@@ -281,10 +281,10 @@
 	},
 	{
 		"code": "40050",
-		"flavor": "\"J'ai flairé l'odeur de ma proie.\"",
 		"name": "Féral",
 		"subname": "Maria Callasantos",
 		"text": "[star] <b>Réponse</b> : après que Féral a contré, défaussez la carte du dessus de votre deck. Pour chaque icône de ressource défaussée par cet effet, infligez 1 dégât au méchant.",
+		"flavor": "\"J'ai flairé l'odeur de ma proie.\"",
 		"traits": "X-Force."
 	},
 	{
@@ -296,15 +296,15 @@
 	},
 	{
 		"code": "40053",
-		"flavor": "\"Plusieurs esprits valent mieux qu'un, si vous me permettez cet aphorisme.\" — Le Fauve",
 		"name": "Enquêter en Équipe",
-		"text": "Alliance. <i>(Les joueurs peuvent payer collectivement les coûts de cette carte.)</i>\n<b>Action de héros</b> : retirez 3[per_hero] menaces d'une manigance annexe."
+		"text": "Alliance. <i>(Les joueurs peuvent payer collectivement les coûts de cette carte.)</i>\n<b>Action de héros</b> : retirez 3[per_hero] menaces d'une manigance annexe.",
+		"flavor": "\"Plusieurs esprits valent mieux qu'un, si vous me permettez cet aphorisme.\" — Le Fauve"
 	},
 	{
 		"code": "40054",
-		"flavor": "\"Bonne nuit, mon pote.\" — Wolverine",
 		"name": "Assommer les Gardes",
-		"text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut défausser un sbire non-[[ÉLITE]] en jeu."
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut défausser un sbire non-[[ÉLITE]] en jeu.",
+		"flavor": "\"Bonne nuit, mon pote.\" — Wolverine"
 	},
 	{
 		"code": "40056",
@@ -315,10 +315,10 @@
 	},
 	{
 		"code": "40057",
-		"flavor": "\"Je suis la dernière de mon espèce.Je suis la dernière kumiho !\"",
 		"name": "La Renarde Blanche",
 		"subname": "Ami Han",
 		"text": "<b>Réponse</b> : après que La Renarde Blanche a été défaussée du dessus de votre deck, mettez-la en jeu sous votre contrôle.",
+		"flavor": "\"Je suis la dernière de mon espèce.Je suis la dernière kumiho !\"",
 		"traits": "Posse."
 	},
 	{
@@ -329,9 +329,9 @@
 	},
 	{
 		"code": "40059",
-		"flavor": "\"Le cours a commencé\" — Charles Xavier",
 		"name": "Entraînement aux Superpouvoirs",
-		"text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut chercher dans son deck ou sa pile de défausse une amélioration spécifique à son identité et la mettre en jeu. <i>(Mélangez.)</i>"
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut chercher dans son deck ou sa pile de défausse une amélioration spécifique à son identité et la mettre en jeu. <i>(Mélangez.)</i>",
+		"flavor": "\"Le cours a commencé\" — Charles Xavier"
 	},
 	{
 		"code": "40060",
@@ -391,9 +391,9 @@
 	},
 	{
 		"code": "40194b",
-		"flavor": "\"Le dernier arrivé fait la lessive pendant un mois !\" — Sunspot",
 		"name": "Manœuvres Maîtrisées",
-		"text": "Réduisez de 1 le coût pour jouer chaque événement ayant un coût imprimé supérieur ou égal à 3."
+		"text": "Réduisez de 1 le coût pour jouer chaque événement ayant un coût imprimé supérieur ou égal à 3.",
+		"flavor": "\"Le dernier arrivé fait la lessive pendant un mois !\" — Sunspot"
 	},
 	{
 		"code": "40195a",
@@ -402,14 +402,14 @@
 	},
 	{
 		"code": "40195b",
-		"flavor": "\"Attention, ils arrivent !\"\n\"Ils vont tâter de mes éclats de diamant supersoniques.\" — Rockslide et Bling !",
 		"name": "Défenses en Place",
-		"text": "Chaque héros gagne +1 DEF et Riposte 1."
+		"text": "Chaque héros gagne +1 DEF et Riposte 1.",
+		"flavor": "\"Attention, ils arrivent !\"\n\"Ils vont tâter de mes éclats de diamant supersoniques.\" — Rockslide et Bling !"
 	},
 	{
 		"code": "40196",
-		"flavor": "\"Je n'arrive jamais à me souvenir où je mets mes affaires.\" — Deadpool",
-		"name": "Pochettes"
+		"name": "Pochettes",
+		"flavor": "\"Je n'arrive jamais à me souvenir où je mets mes affaires.\" — Deadpool"
 	},
 	{
 		"code": "40197",

@@ -6,9 +6,9 @@
 	},
 	{
 		"code": "40032",
-		"flavor": "\"Qu'importe qui est le clone, Cable. Mon pouvoir est le plus puissant !\"",
 		"name": "Stryfe",
 		"text": "Vilenie.\n<b>Interruption forcée</b> : quand un joueur joue un événement [[PSIONIQUE]], annulez les effets de cet événement et infligez 1 dégât à Stryfe.",
+		"flavor": "\"Qu'importe qui est le clone, Cable. Mon pouvoir est le plus puissant !\"",
 		"traits": "Front de Libération des Mutants. Psionique."
 	},
 	{
@@ -36,28 +36,28 @@
 	},
 	{
 		"code": "40065",
-		"flavor": "Lorsqu'elle était enfant, Neena a servi de cobaye dans un programme connu sous le nom Projet Armageddon, visant à créer des super-soldats.",
 		"name": "Souvenirs de l'Armageddon",
-		"text": "<b><i>Donnez cette carte au joueur de Neena Thurman.</b></i>\nVotre identité perd le texte imprimé dans sa boîte de texte <i>(sauf les [[TRAITS]])</i>.\n<b>Action d'alter ego</b> : inclinez votre identité → défaussez Souvenirs de l'Armageddon."
+		"text": "<b><i>Donnez cette carte au joueur de Neena Thurman.</b></i>\nVotre identité perd le texte imprimé dans sa boîte de texte <i>(sauf les [[TRAITS]])</i>.\n<b>Action d'alter ego</b> : inclinez votre identité → défaussez Souvenirs de l'Armageddon.",
+		"flavor": "Lorsqu'elle était enfant, Neena a servi de cobaye dans un programme connu sous le nom Projet Armageddon, visant à créer des super-soldats."
 	},
 	{
 		"code": "40066",
-		"flavor": "Topaz est capable d'affecter les capacités des autres mutants. Elle peut soit les amplifier, soit les annuler.",
 		"name": "Topaz",
 		"text": "<b>Une fois révélée</b> : cherchez 1 exemplaire de Super Retour de Flamme dans le deck Rencontre, la pile de défausse Rencontre et la zone \"mise de côté\", et attachez-le à votre identité. <i>(Mélangez.)</i>\n<i>(Sbire némésis de Domino.)</i>",
+		"flavor": "Topaz est capable d'affecter les capacités des autres mutants. Elle peut soit les amplifier, soit les annuler.",
 		"traits": "Mutant."
 	},
 	{
 		"code": "40067",
-		"flavor": "Domino passe une journée déplaisante. Pas cool. Pas sympa. Et même, très mauvaise.",
 		"name": "Pas Mon Jour de Chance",
-		"text": "<b>Une fois révélée</b> : chaque joueur doit soit subir 1 dégât, soit placer 2 menaces sur cette manigance annexe."
+		"text": "<b>Une fois révélée</b> : chaque joueur doit soit subir 1 dégât, soit placer 2 menaces sur cette manigance annexe.",
+		"flavor": "Domino passe une journée déplaisante. Pas cool. Pas sympa. Et même, très mauvaise."
 	},
 	{
 		"code": "40068",
-		"flavor": "La chance de Domino fait le malheur de Prototype. Et lorsqu'elle souffre, lui se renforce.",
 		"name": "Prototype",
 		"text": "[star] Prototype gagne +1 point de vie pour chaque jeton Chance sur lui.\n<b>Une fois révélée</b> : placez sur Prototype une nombre de jetons Chance égal à la quantité de dégâts que votre identité a subie.",
+		"flavor": "La chance de Domino fait le malheur de Prototype. Et lorsqu'elle souffre, lui se renforce.",
 		"traits": "Mutant."
 	},
 	{
@@ -253,9 +253,9 @@
 	},
 	{
 		"code": "40093",
-		"flavor": "Ce genre de matériel ne se trouve pas au marché noir. Quelqu'un de haut placé au gouvernement américain doit être impliqué.",
 		"name": "Le Soutien du Sénateur",
-		"text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : le premier joueur défausse des cartes du dessus du deck Rencontre jusqu'à ce qu'un attachement soit défaussé, puis il le révèle."
+		"text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : le premier joueur défausse des cartes du dessus du deck Rencontre jusqu'à ce qu'un attachement soit défaussé, puis il le révèle.",
+		"flavor": "Ce genre de matériel ne se trouve pas au marché noir. Quelqu'un de haut placé au gouvernement américain doit être impliqué."
 	},
 	{
 		"code": "40094",
@@ -321,9 +321,9 @@
 	},
 	{
 		"code": "40104a",
-		"flavor": "Après avoir pris une bonne correction, les Marauders redoublent d'efforts pour s'échapper avec leur captive.",
 		"name": "En Fuite avec Hope",
-		"text": "<b>Une fois révélée</b> : chaque joueur cherche un sbire [[MARAUDER]] dans le deck Rencontre ou la pile de défausse Rencontre et le met en jeu engagé avec lui. <i>(Mélangez.)</i> Donnez une carte d'état Tenace à chaque ennemi [[MARAUDER]]."
+		"text": "<b>Une fois révélée</b> : chaque joueur cherche un sbire [[MARAUDER]] dans le deck Rencontre ou la pile de défausse Rencontre et le met en jeu engagé avec lui. <i>(Mélangez.)</i> Donnez une carte d'état Tenace à chaque ennemi [[MARAUDER]].",
+		"flavor": "Après avoir pris une bonne correction, les Marauders redoublent d'efforts pour s'échapper avec leur captive."
 	},
 	{
 		"code": "40104b",
@@ -411,9 +411,9 @@
 	},
 	{
 		"code": "40118",
-		"flavor": "\"Personne - mais personne - ne peut me vaincre !\"",
 		"name": "Le Fléau",
 		"text": "[star] Le Fléau gagne +1 ATQ pour chaque jeton Inertie.\n<b>Une fois révélée</b> : placez 1 jeton Inertie sur cette carte. Donnez une carte d'état Tenace au Fléau.",
+		"flavor": "\"Personne - mais personne - ne peut me vaincre !\"",
 		"traits": "Brute."
 	},
 	{
@@ -461,9 +461,9 @@
 	},
 	{
 		"code": "40125",
-		"flavor": "\"Oh, yeah !\" — Le Fléau",
 		"name": "Percée",
-		"text": "<b>Une fois révélée</b> : choisissez :\n- Subissez un nombre de dégâts égal à l'ATQ du Fléau.\n- Défaussez l'amélioration ou le soutien que vous contrôlez ayant le coût le plus élevé."
+		"text": "<b>Une fois révélée</b> : choisissez :\n- Subissez un nombre de dégâts égal à l'ATQ du Fléau.\n- Défaussez l'amélioration ou le soutien que vous contrôlez ayant le coût le plus élevé.",
+		"flavor": "\"Oh, yeah !\" — Le Fléau"
 	},
 	{
 		"code": "40126",
@@ -493,9 +493,9 @@
 	},
 	{
 		"code": "40131",
-		"flavor": "\"Oui, oui. Je sais ce que j'ai à faire\", marmonne Hope à son ravisseur.\"Ce n'est pas la première fois que je me fais capturer, vous savez.\"",
 		"name": "Hope Captive",
-		"text": "Hope Summers ne peut pas se redresser.\n<b>Une fois révélée (héros)</b> : inclinez Hope Summers."
+		"text": "Hope Summers ne peut pas se redresser.\n<b>Une fois révélée (héros)</b> : inclinez Hope Summers.",
+		"flavor": "\"Oui, oui. Je sais ce que j'ai à faire\", marmonne Hope à son ravisseur.\"Ce n'est pas la première fois que je me fais capturer, vous savez.\""
 	},
 	{
 		"code": "40132",
@@ -521,9 +521,9 @@
 	},
 	{
 		"code": "40136",
-		"flavor": "\"Visionnaire, messie, aliéné, qu'importe. Je suis SINISTRE.\"",
 		"name": "Mister Sinistre",
 		"text": "<b>Réponse forcée</b> : après qu'une carte d'état a été placée sur Mister Sinistre, placez 1 menace sur la menace principale.",
+		"flavor": "\"Visionnaire, messie, aliéné, qu'importe. Je suis SINISTRE.\"",
 		"traits": "Génie."
 	},
 	{
@@ -545,14 +545,14 @@
 	},
 	{
 		"code": "40139b",
-		"flavor": "Le laboratoire secret dissimulé dans les profondeurs de l'orphelinat abandonné est rempli de cuves dans lesquelles sont plongées d'innocents mutants. Autant de cobayes pour les expérimentations de Sinistre.",
 		"name": "Sinistre Dessein",
-		"text": "<b>Une fois révélée</b> : retirez de la partie un stade 2 sélectionné au hasard. Ensuite, avancez à un stade 2A sélectionné au hasard."
+		"text": "<b>Une fois révélée</b> : retirez de la partie un stade 2 sélectionné au hasard. Ensuite, avancez à un stade 2A sélectionné au hasard.",
+		"flavor": "Le laboratoire secret dissimulé dans les profondeurs de l'orphelinat abandonné est rempli de cuves dans lesquelles sont plongées d'innocents mutants. Autant de cobayes pour les expérimentations de Sinistre."
 	},
 	{
 		"code": "40140a",
-		"flavor": "Mister Sinistre tente d'incorporer l'ADN d'autres mutants dans son propre génome.",
-		"name": "Sinistres Expérimentations"
+		"name": "Sinistres Expérimentations",
+		"flavor": "Mister Sinistre tente d'incorporer l'ADN d'autres mutants dans son propre génome."
 	},
 	{
 		"code": "40140b",
@@ -561,8 +561,8 @@
 	},
 	{
 		"code": "40141a",
-		"flavor": "Mister Sinistre tente d'incorporer l'ADN d'autres mutants dans son propre génome.",
-		"name": "Sinistres Expérimentations"
+		"name": "Sinistres Expérimentations",
+		"flavor": "Mister Sinistre tente d'incorporer l'ADN d'autres mutants dans son propre génome."
 	},
 	{
 		"code": "40141b",
@@ -571,8 +571,8 @@
 	},
 	{
 		"code": "40142a",
-		"flavor": "Mister Sinistre tente d'incorporer l'ADN d'autres mutants dans son propre génome.",
-		"name": "Sinistres Expérimentations"
+		"name": "Sinistres Expérimentations",
+		"flavor": "Mister Sinistre tente d'incorporer l'ADN d'autres mutants dans son propre génome."
 	},
 	{
 		"code": "40142b",
@@ -581,15 +581,15 @@
 	},
 	{
 		"code": "40143a",
-		"flavor": "\"Contemplez ma puissance et tremblez de désespoir !\" glousse Sinistre. \"Une fois que j'aurais la mutation de Hope dans mon code génétique, je serai capable d'imiter le pouvoir de n'importe quel mutant et là... j'atteindrai la perfection !\"",
 		"name": "Sinistres Fins",
-		"text": "<b>Une fois révélée</b> : attribuez 1 carte Rencontre face cachée à chaque joueur."
+		"text": "<b>Une fois révélée</b> : attribuez 1 carte Rencontre face cachée à chaque joueur.",
+		"flavor": "\"Contemplez ma puissance et tremblez de désespoir !\" glousse Sinistre. \"Une fois que j'aurais la mutation de Hope dans mon code génétique, je serai capable d'imiter le pouvoir de n'importe quel mutant et là... j'atteindrai la perfection !\""
 	},
 	{
 		"code": "40143b",
-		"flavor": "\"Je devrais vous remercier\", ricane Sinistre. \"Vous avez fait ce dont mes larbins empotés ont toujours été incapables : vous m'avez apporté de l'espoir avec Hope.\"",
 		"name": "Sinistres Fins",
-		"text": "<b>Interruption forcée</b> : quand Mister Sinistre attaque, il attaque Hope Summers à la place. <i>(D'autres peuvent défendre l'attaque.)</i>\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+		"text": "<b>Interruption forcée</b> : quand Mister Sinistre attaque, il attaque Hope Summers à la place. <i>(D'autres peuvent défendre l'attaque.)</i>\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>",
+		"flavor": "\"Je devrais vous remercier\", ricane Sinistre. \"Vous avez fait ce dont mes larbins empotés ont toujours été incapables : vous m'avez apporté de l'espoir avec Hope.\""
 	},
 	{
 		"code": "40144",
@@ -686,9 +686,9 @@
 	},
 	{
 		"code": "40161",
-		"flavor": "\"Essaye encore de m'appeler \"poupée\" pour voir !\" — Domino",
 		"name": "Semer la Zizanie",
-		"text": "Les alliés que vous contrôlez ne peuvent pas se redresser.\n<b>Une fois révélée</b> : inclinez chaque allié que vous contrôlez. Si aucun allié n'a été incliné par cet effet, cette carte gagne Renfort.\n<b>Action d'alter ego</b> : dépensez les ressources suivantes : [mental][mental] → défaussez cette obligation."
+		"text": "Les alliés que vous contrôlez ne peuvent pas se redresser.\n<b>Une fois révélée</b> : inclinez chaque allié que vous contrôlez. Si aucun allié n'a été incliné par cet effet, cette carte gagne Renfort.\n<b>Action d'alter ego</b> : dépensez les ressources suivantes : [mental][mental] → défaussez cette obligation.",
+		"flavor": "\"Essaye encore de m'appeler \"poupée\" pour voir !\" — Domino"
 	},
 	{
 		"code": "40162",
@@ -697,9 +697,9 @@
 	},
 	{
 		"code": "40163",
-		"flavor": "\"Incline toi devant qui te domine !\"",
 		"name": "Stryfe",
 		"text": "[star] Tant que Stryfe vous attaque, il gagne +X ATQ, X étant le nombre de cartes dans votre main du type le plus courant.",
+		"flavor": "\"Incline toi devant qui te domine !\"",
 		"traits": "Front de Libération des Mutants. Psionique."
 	},
 	{
@@ -721,20 +721,20 @@
 	},
 	{
 		"code": "40166b",
-		"flavor": "Hope tries to mimic Stryfe's abilities, but is quickly overwhelmed by the power.",
 		"name": "Puissance Incontrôlable",
-		"text": "<b>Contenu</b> : Stryfe (I) et Stryfe (II) <i>(Stryfe (II) et Stryfe (III) à la place en mode expert)</i>. Les sets de rencontre Stryfe, Hope Summers et Standard. Deux sets de rencontre modulaires <i>(Mesures Extrêmes et Insurrection de Mutants)</i>.\n<b>Mise en place</b> : mettez en jeu Hope Summers sous le contrôle du premier joueur. Révélez Dans les Griffres de Stryfe."
+		"text": "<b>Contenu</b> : Stryfe (I) et Stryfe (II) <i>(Stryfe (II) et Stryfe (III) à la place en mode expert)</i>. Les sets de rencontre Stryfe, Hope Summers et Standard. Deux sets de rencontre modulaires <i>(Mesures Extrêmes et Insurrection de Mutants)</i>.\n<b>Mise en place</b> : mettez en jeu Hope Summers sous le contrôle du premier joueur. Révélez Dans les Griffres de Stryfe.",
+		"flavor": "Hope tries to mimic Stryfe's abilities, but is quickly overwhelmed by the power."
 	},
 	{
 		"code": "40167a",
-		"flavor": "Stryfe essaye de s'échapper dans le passé. Qui sait quel désastre il peut provoquer ?",
-		"name": "Laissé à Votre Sort"
+		"name": "Laissé à Votre Sort",
+		"flavor": "Stryfe essaye de s'échapper dans le passé. Qui sait quel désastre il peut provoquer ?"
 	},
 	{
 		"code": "40167b",
-		"flavor": "Hope parvient à se libérer des griffes de Stryfe, mais elle peine à contenir son immense pouvoir psionique.\n\"Je vais laisser Hope vous tuer jusqu'au dernier\", dit Stryfe en riant.\"J'ai du travail qui m'attend pour déclencher l'Apocalypse !\"",
 		"name": "Laissé à Votre Sort",
-		"text": "Stryfe gains stalwart.\nEach identity gets +2 hand size. Increase the resource cost to play each player card by 1.\n<b>If this stage is completed, the players lose the game.</b>"
+		"text": "Stryfe gains stalwart.\nEach identity gets +2 hand size. Increase the resource cost to play each player card by 1.\n<b>If this stage is completed, the players lose the game.</b>",
+		"flavor": "Hope parvient à se libérer des griffes de Stryfe, mais elle peine à contenir son immense pouvoir psionique.\n\"Je vais laisser Hope vous tuer jusqu'au dernier\", dit Stryfe en riant.\"J'ai du travail qui m'attend pour déclencher l'Apocalypse !\""
 	},
 	{
 		"code": "40168a",
@@ -743,9 +743,9 @@
 	},
 	{
 		"code": "40168b",
-		"flavor": "Hope tente d'imiter les pouvoirs de Stryfe, mais leur intensité est trop importante pour qu'elle parvienne à les contrôler totalement. Si elle se laisse submerger... les conséquences seront désastreuses !",
 		"name": "Bombe Ambulante",
-		"text": "Victoire 1.\nStryfe ne peut pas être vaincu.\n<b>Une fois révélée</b> : avancez la manigance principale au stade 2A. Cet effet ne peut pas être annulé."
+		"text": "Victoire 1.\nStryfe ne peut pas être vaincu.\n<b>Une fois révélée</b> : avancez la manigance principale au stade 2A. Cet effet ne peut pas être annulé.",
+		"flavor": "Hope tente d'imiter les pouvoirs de Stryfe, mais leur intensité est trop importante pour qu'elle parvienne à les contrôler totalement. Si elle se laisse submerger... les conséquences seront désastreuses !"
 	},
 	{
 		"code": "40169",
@@ -773,9 +773,9 @@
 	},
 	{
 		"code": "40173",
-		"flavor": "\"C'est... comme si... quelque chose... retenait... Caliban !\" — Caliban",
 		"name": "Inertie Psychique",
 		"text": "Attachez cette carte à votre identité.\n<b>Action de héros</b> : si votre héros a attaqué et contré à cette phase → défaussez cette carte.",
+		"flavor": "\"C'est... comme si... quelque chose... retenait... Caliban !\" — Caliban",
 		"traits": "Condition. Psionique."
 	},
 	{
@@ -849,9 +849,9 @@
 	},
 	{
 		"code": "40186",
-		"flavor": "\"On m'appelle Quatre-Bras parce que je suis fort en massages.\"",
 		"name": "Quatre-Bras",
 		"text": "[star] <b>Réponse forcée</b> : après que Quatre-Bras vous a attaqué, défaussez X cartes du dessus de votre deck, X étant le nombre de ressources [physical] dans votre main.",
+		"flavor": "\"On m'appelle Quatre-Bras parce que je suis fort en massages.\"",
 		"traits": "Front de Libération des Mutants."
 	},
 	{
@@ -885,9 +885,9 @@
 	},
 	{
 		"code": "40200",
-		"flavor": "\"Tu fais moins le malin sans tes pouvoirs, pas vrai ?\"",
 		"name": "Scrambler",
 		"text": "Renfort.\n<b>Une fois révélée</b> : défaussez une amélioration que vous contrôlez.",
+		"flavor": "\"Tu fais moins le malin sans tes pouvoirs, pas vrai ?\"",
 		"traits": "Maraudeur."
 	},
 	{
