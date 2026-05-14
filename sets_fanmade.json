@@ -1424,5 +1424,15 @@
     "code": "thor_narrative",
     "name": "Thor Narrative",
     "parent_code": "thor"
+  },
+  {
+    "code": "hulk_by_rainy",
+    "name": "Hulk",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "hulk_by_rainy_nemesis",
+    "name": "Hulk Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]

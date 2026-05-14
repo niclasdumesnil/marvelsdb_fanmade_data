@@ -1,51 +1,51 @@
 [
 	{
 		"code": "10001a",
-		"flavor": "\"Hulk est pas désolé. Hulk est Hulk.\"",
 		"name": "Hulk",
 		"text": "<i>Enragé</i> — <b>Interruption forcée</b> : quand votre tour se termine, défaussez votre main.",
+		"flavor": "\"Hulk est pas désolé. Hulk est Hulk.\"",
 		"traits": "Avenger. Gamma."
 	},
 	{
 		"code": "10001b",
-		"flavor": "\"Ne me mettez pas en colère. Vous n'aimeriez pas me voir en colère.\"",
 		"name": "Bruce Banner",
 		"text": "<i>Recherche Expérimentale</i> — <b>Action</b> : piochez 1 carte. Choisissez et défaussez 1 carte de votre main (Limite d'une fois par round)",
+		"flavor": "\"Ne me mettez pas en colère. Vous n'aimeriez pas me voir en colère.\"",
 		"traits": "Génie. Scientifique."
 	},
 	{
 		"code": "10002",
-		"flavor": "\"Piètre monstre.\" — Hulk",
 		"name": "Coup fracassant",
 		"text": "Vous ne pouvez dépenser que des ressources [physical] pour payer cette carte.\n <b>Action de héros</b> <i>(attaque)</i> : infligez des dégâts égaux à votre ATQ à une ennemi.",
+		"flavor": "\"Piètre monstre.\" — Hulk",
 		"traits": "Attaque."
 	},
 	{
 		"code": "10003",
-		"flavor": "\"Quand Hulk casser quelque chose, ça rester cassé !!\" — Hulk",
 		"name": "Hulk tout casser",
 		"text": "<b>Interruption de héros</b> : quand vous effectuez une attaque de abse, vous gagnez +10 ATQ pour cette attaque. Si vous n'avez utilisé que des ressources [physical] pour payer cette carte, cette attaque gagne Déferlement.",
+		"flavor": "\"Quand Hulk casser quelque chose, ça rester cassé !!\" — Hulk",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "10004",
-		"flavor": "\"Laissez Hulk tranquille !\" — Hulk",
 		"name": "Bond Suborbital",
 		"text": "<b>Action de héros</b> <i>(contre)</i> : retirez 3 menaces d'une manigance (5 menaces à la place si vous n'avez utilisé que des ressources [physical] pour payer cette carte).",
+		"flavor": "\"Laissez Hulk tranquille !\" — Hulk",
 		"traits": "Super-Pouvoir. Contre."
 	},
 	{
 		"code": "10005",
-		"flavor": "\"Avez-vous peur du petit vent que fait Hulk ?\" — Hulk",
 		"name": "Onde de choc",
 		"text": "<b>Action de héros</b> : choisissez jusqu'à 3 ennemis différents. Infligez 3 dégâts à chacun d'entre eux.",
+		"flavor": "\"Avez-vous peur du petit vent que fait Hulk ?\" — Hulk",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "10006",
-		"flavor": "\"Personne arrêter Hulk !\" — Hulk",
 		"name": "Puissance Inarrêtable",
-		"text": "<b>Action de héros</b> : redressez Hulk. Si vous n'avez utilisé que des ressources [physical] pour payer cette carte, piocher 1 carte."
+		"text": "<b>Action de héros</b> : redressez Hulk. Si vous n'avez utilisé que des ressources [physical] pour payer cette carte, piocher 1 carte.",
+		"flavor": "\"Personne arrêter Hulk !\" — Hulk"
 	},
 	{
 		"code": "10007",
@@ -54,61 +54,61 @@
 	},
 	{
 		"code": "10008",
-		"flavor": "\"Ce que je préfère dans mon laboratoire, c'est que personne ne vient me déranger ici.\" — Bruce Banner",
 		"name": "Laboratoire de Banner",
 		"text": "Bruce Banner gagne +2 REC.\n<b>Ressource d'alter ego</b> : inclinez le Laboratoire de Banner → générez une ressource [mental].",
+		"flavor": "\"Ce que je préfère dans mon laboratoire, c'est que personne ne vient me déranger ici.\" — Bruce Banner",
 		"traits": "Lieu."
 	},
 	{
 		"code": "10009",
-		"flavor": "\"Plus je suis en colère, plus je deviens fort.\" — Bruce Banner",
 		"name": "Rage sans limites",
 		"text": "Sous forme de héros uniquement. Hulk gagne +1 ATQ.\n<b>Réponse forcée</b> : après avoir changé de forme, défaussez cette carte.",
+		"flavor": "\"Plus je suis en colère, plus je deviens fort.\" — Bruce Banner",
 		"traits": "Condition. Gamma."
 	},
 	{
 		"code": "10010",
-		"flavor": "\"Hulk abandonne jamais. Se rend jamais.\" — Hulk",
 		"name": "Corps Inébranlable",
 		"text": "Vous gagnez +4 points de vie.\nHulk gagne Riposte 1.",
+		"flavor": "\"Hulk abandonne jamais. Se rend jamais.\" — Hulk",
 		"traits": "Condition."
 	},
 	{
 		"code": "10011",
-		"flavor": "\"Je suis le plus fort ici présent. Et aussi le plus intelligent. C'est toute l'autorité dont j'ai besoin.\"",
 		"name": "Brawn",
 		"subname": "Amadeus Cho",
 		"text": "<b>Réponse</b> : après que Brawn a attaqué, retirez 1 menace d'une manigance.",
+		"flavor": "\"Je suis le plus fort ici présent. Et aussi le plus intelligent. C'est toute l'autorité dont j'ai besoin.\"",
 		"traits": "Champion. Gamma."
 	},
 	{
 		"code": "10012",
-		"flavor": "\"Quand j'utilise ma puissance d'un million de soleils explosant, je libère le Void. Il attaque la Terre chaque fois que j'essaye de la sauver.\"",
 		"name": "Sentry",
 		"subname": "Robery Reynolds",
 		"text": "<b>Réponse forcée</b> : après que Sentry est entré en jeu sous votre contrôle, attribuez-vous 1 carte Rencontre.",
+		"flavor": "\"Quand j'utilise ma puissance d'un million de soleils explosant, je libère le Void. Il attaque la Terre chaque fois que j'essaye de la sauver.\"",
 		"traits": "Avenger."
 	},
 	{
 		"code": "10013",
-		"flavor": "\"Je vous demanderais bien de vous rendre... mais j'espère vraiment que vous préférerez combattre.\"",
 		"name": "Miss Hulk",
 		"subname": "Jennifer Walters",
 		"text": "[star] Miss Hulk gagne +1 ATQ pour chaque pion Dégât sur elle.",
+		"flavor": "\"Je vous demanderais bien de vous rendre... mais j'espère vraiment que vous préférerez combattre.\"",
 		"traits": "Avenger. Gamma."
 	},
 	{
 		"code": "10014",
-		"flavor": "\"Tout casser est ce que Hulk fait le mieux !\" — Hulk",
 		"name": "Coup de Pied Tombé",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 4 dégâts à un ennemi. Si vous n'avez utilisé que des ressources [physical] pour payer cette carte, sonnez cet ennemi et piochez une carte.",
+		"flavor": "\"Tout casser est ce que Hulk fait le mieux !\" — Hulk",
 		"traits": "Attaque."
 	},
 	{
 		"code": "10015",
-		"flavor": "\"Et si je te rendais la monnaie de ta pièce ?\" — Captain Marvel",
 		"name": "Face à face",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : choisissez un ennemi. Cet ennemi vous attaque. Infligez 5 dégâts à cet ennemi.",
+		"flavor": "\"Et si je te rendais la monnaie de ta pièce ?\" — Captain Marvel",
 		"traits": "Attaque."
 	},
 	{
@@ -137,9 +137,9 @@
 	},
 	{
 		"code": "10030",
-		"flavor": "\"Enhardissez-vous car le Puissant Thor se tient à vos côtés !\" — Thor",
 		"name": "Présence Inspirante",
-		"text": "Jouez cette carte uniquement si votre identité a le trait [[Avenger]].\n <b>Action de héros</b> : soignez 1 dégât d'un allié et redressez-le."
+		"text": "Jouez cette carte uniquement si votre identité a le trait [[Avenger]].\n <b>Action de héros</b> : soignez 1 dégât d'un allié et redressez-le.",
+		"flavor": "\"Enhardissez-vous car le Puissant Thor se tient à vos côtés !\" — Thor"
 	},
 	{
 		"code": "10031",
@@ -149,9 +149,9 @@
 	},
 	{
 		"code": "10032",
-		"flavor": "\"L'innovation est l'arme ultime.\" — Vision",
 		"name": "Ingéniosité",
 		"text": "<b>Ressource</b> : défaussez Ingéniosité → générez une ressource [wild].",
+		"flavor": "\"L'innovation est l'arme ultime.\" — Vision",
 		"traits": "Compétence."
 	}
 ]

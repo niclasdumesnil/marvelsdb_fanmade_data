@@ -65,7 +65,7 @@ with open('./packs_fanmade.json', encoding="utf-8-sig") as json_file:
     pack_octgn_id = ""
     pack_id = ""
     for item in updated_data:
-        if item['code'] == pack_code:
+        if item.get('code') == pack_code:
             try:
                 if 'octgn_id' not in item.keys():
                     item['octgn_id'] = str(uuid.uuid4())

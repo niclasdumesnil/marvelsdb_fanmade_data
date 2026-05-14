@@ -6,9 +6,9 @@
 	},
 	{
 		"code": "10026",
-		"flavor": "\"Bande d'idiot ! Votre misérable étalage de force n'est rien comparé à mes nouveaux pouvoirs !\"",
 		"name": "L'Abomination",
 		"text": "[star] <b>Réponse forcée</b> : après que l'Abomination vous a attaqué, défaussez la carte du dessus de votre deck. Si une ressource [physical] est défaussée par cet effet, subissez 2 dégâts.",
+		"flavor": "\"Bande d'idiot ! Votre misérable étalage de force n'est rien comparé à mes nouveaux pouvoirs !\"",
 		"traits": "Élite. Gamma."
 	},
 	{
@@ -18,8 +18,8 @@
 	},
 	{
 		"code": "10028",
-		"flavor": "\"Vous m'êtes tous inférieurs !\" — L'Abomination",
 		"name": "Le Choc des Titans",
-		"text": "<b>Une fois révélée</b> : l'ennemi avec l'ATQ la plus élevée attaque le héros ou l'allié avec l'ATQ la plus élevée <i>(le premier joueur décide en cas d'égalités).</i> Si aucune attaque n'est effectuée par cet effet, cette carte gagne Renfort."
+		"text": "<b>Une fois révélée</b> : l'ennemi avec l'ATQ la plus élevée attaque le héros ou l'allié avec l'ATQ la plus élevée <i>(le premier joueur décide en cas d'égalités).</i> Si aucune attaque n'est effectuée par cet effet, cette carte gagne Renfort.",
+		"flavor": "\"Vous m'êtes tous inférieurs !\" — L'Abomination"
 	}
 ]

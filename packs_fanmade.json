@@ -685,7 +685,7 @@
 		"size": 22,
 		"status": "sealed",
 		"theme": "Marvel",
-		"visibility": "false"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 2051,
@@ -1180,5 +1180,19 @@
 		"position": 16000,
 		"size": 255,
 		"status": "released"
+	},
+	{
+		"cgdb_id": 2067,
+		"code": "hulk_by_rainy",
+		"creator": "Rainy",
+		"date_release": "2026-05-13",
+		"name": "Hulk",
+		"octgn_id": "8d6832af-b2ed-47c7-8938-5a700ca5d8a9",
+		"pack_type_code": "hero_fanmade",
+		"position": 2067,
+		"size": 18,
+		"status": "beta",
+		"theme": "Marvel",
+		"visibility": "false"
 	}
 ]
