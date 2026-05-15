@@ -26,7 +26,7 @@
         "position": 14,
         "quantity": 1,
         "scheme_acceleration": 1,
-        "set_code": "iron_man_nemesis_by_rainy",
+        "set_code": "iron_man_model_42_by_rainy_nemesis",
         "set_position": 1,
         "text": "<b>When Revealed:</b> Place an additional 1 [per_hero] threat here.",
         "type_code": "side_scheme"
@@ -44,7 +44,7 @@
         "pack_code": "iron_man_model_42_by_rainy",
         "position": 15,
         "quantity": 1,
-        "set_code": "iron_man_nemesis_by_rainy",
+        "set_code": "iron_man_model_42_by_rainy_nemesis",
         "set_position": 2,
         "text": "Retaliate 1. (<i>After this character is attacked, deal 1 damage to the attacking character.</i>)",
         "thwart": 2,
@@ -61,7 +61,7 @@
         "pack_code": "iron_man_model_42_by_rainy",
         "position": 16,
         "quantity": 2,
-        "set_code": "iron_man_nemesis_by_rainy",
+        "set_code": "iron_man_model_42_by_rainy_nemesis",
         "set_position": 3,
         "text": "<b>When Revealed:</b> Choose to either deal 1 damage to your hero for each upgrade you control or choose and discard an upgrade you control. <hr>\n[star] <b>Boost</b>: If the villain is making an undefended attack, choose and discard an upgrade you control.",
         "type_code": "treachery"
@@ -77,7 +77,7 @@
         "pack_code": "iron_man_model_42_by_rainy",
         "position": 17,
         "quantity": 1,
-        "set_code": "iron_man_nemesis_by_rainy",
+        "set_code": "iron_man_model_42_by_rainy_nemesis",
         "set_position": 5,
         "text": "<b>When Revealed:</b> Each player discards the top 5 cards of their deck. For each printed [energy] resource a player discards this way, that player takes 1 damage.",
         "type_code": "treachery"
