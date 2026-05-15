@@ -11,7 +11,7 @@
         "quantity": 1,
         "set_code": "white_queen_by_proust_&_merlin",
         "set_position": 1,
-        "text": "Donnez cette carte au joueur d'Emma Frost.\nCherchez Esm\u00e9 dans votre deck, main, pile de d\u00e9fausse ou zone de jeu et mettez-la de c\u00f4t\u00e9. Attachez-lui cette obligation. Tous les personnages deviennent robuste.\n<b>Action d'alter ego</b>: d\u00e9pensez 3 ressources de n'importe quel type et retirez cette obligation de la partie \u2192 mettez Esm\u00e9 en jeu sous le contr\u00f4le de son propri\u00e9taire",
+        "text": "Donnez cette carte au joueur d'Emma Frost.\nCherchez Esmé dans votre deck, main, pile de défausse ou zone de jeu et mettez-la de côté. Attachez-lui cette obligation. Tous les personnages deviennent robuste.\n<b>Action d'alter ego</b>: dépensez 3 ressources de n'importe quel type et retirez cette obligation de la partie → mettez Esmé en jeu sous le contrôle de son propriétaire",
         "type_code": "obligation"
     },
     {
@@ -29,7 +29,7 @@
         "scheme": 1,
         "set_code": "white_queen_by_proust_&_merlin_nemesis",
         "set_position": 2,
-        "text": "Robuste. Vilenie.\n<b>R\u00e9ponse forc\u00e9e</b>: apr\u00e8s que Feilong est entr\u00e9 en jeu, d\u00e9faussez tout alli\u00e9 Iron Man en jeu.\n(<i>Sbire N\u00e9m\u00e9sis de la Reine Blanche</i>.)",
+        "text": "Robuste. Vilenie.\n<b>Réponse forcée</b>: après que Feilong est entré en jeu, défaussez tout allié Iron Man en jeu.\n(<i>Sbire Némésis de la Reine Blanche</i>.)",
         "traits": "Orchis. Elite.",
         "type_code": "minion"
     },
@@ -46,7 +46,7 @@
         "quantity": 1,
         "set_code": "white_queen_by_proust_&_merlin_nemesis",
         "set_position": 1,
-        "text": "Aucune menace ne peut \u00eatre retir\u00e9 de cette manigance tant que Feilong est en jeu.\nToutes les attaques enemies gagnent per\u00e7ant",
+        "text": "Aucune menace ne peut être retiré de cette manigance tant que Feilong est en jeu.\nToutes les attaques enemies gagnent perçant",
         "type_code": "side_scheme"
     },
     {
@@ -64,7 +64,7 @@
         "scheme": 3,
         "set_code": "white_queen_by_proust_&_merlin_nemesis",
         "set_position": 3,
-        "text": "T\u00e9nacit\u00e9. Vuln\u00e9rable.\n[star] <b>Boost </b>: attribuez-vous cette carte de boost en tant que carte Rencontre face cach\u00e9e.",
+        "text": "Ténacité. Vulnérable.\n[star] <b>Boost </b>: attribuez-vous cette carte de boost en tant que carte Rencontre face cachée.",
         "traits": "Sentinelle. Orchis.",
         "type_code": "minion"
     }

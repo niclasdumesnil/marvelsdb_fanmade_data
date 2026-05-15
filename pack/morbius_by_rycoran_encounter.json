@@ -9,7 +9,7 @@
         "position": 13,
         "quantity": 1,
         "set_code": "morbius_by_rycoran",
-        "text": "You may flip to alter-ego form. Choose:\nExhaust Michael Morbius \u2192 remove Uncurable from the game.\nRemove 3 blood counters from Bloodlust. You cannot change form until your next turn ends. Discard this obligation.",
+        "text": "You may flip to alter-ego form. Choose:\nExhaust Michael Morbius → remove Uncurable from the game.\nRemove 3 blood counters from Bloodlust. You cannot change form until your next turn ends. Discard this obligation.",
         "type_code": "obligation"
     },
     {
@@ -60,7 +60,7 @@
         "quantity": 1,
         "set_code": "morbius_by_rycoran_nemesis",
         "set_position": 3,
-        "text": "Attach to your identity.\nAttached character gets -1 THW, -1 ATK, and -1 DEF.\n<b>Hero Action</b>: Take 1 damage and spend [energy][physical] resources \u2192 discard this card.",
+        "text": "Attach to your identity.\nAttached character gets -1 THW, -1 ATK, and -1 DEF.\n<b>Hero Action</b>: Take 1 damage and spend [energy][physical] resources → discard this card.",
         "traits": "Condition.",
         "type_code": "attachment"
     },
@@ -75,7 +75,7 @@
         "quantity": 1,
         "set_code": "morbius_by_rycoran_nemesis",
         "set_position": 4,
-        "text": "Peril. <i>(While you are resolving this card, other players cannot help you.)</i><b>\nWhen Revealed</b>: Choose:\n\u2022 Discard an ally or support you control. If you cannot, this card gains surge.\n\u2022 The villain attacks you.",
+        "text": "Peril. <i>(While you are resolving this card, other players cannot help you.)</i><b>\nWhen Revealed</b>: Choose:\n• Discard an ally or support you control. If you cannot, this card gains surge.\n• The villain attacks you.",
         "type_code": "treachery"
     },
     {
@@ -89,7 +89,7 @@
         "quantity": 1,
         "set_code": "morbius_by_rycoran_nemesis",
         "set_position": 5,
-        "text": "<b>When Revealed</b>: Give the villain a tough status card, take 1 damage and place 1 threat on the main scheme.\n<i>\"Morbius, Please..Let me help you...Before it's too late.\" \u2014Spider-Man</i>",
+        "text": "<b>When Revealed</b>: Give the villain a tough status card, take 1 damage and place 1 threat on the main scheme.\n<i>\"Morbius, Please..Let me help you...Before it's too late.\" —Spider-Man</i>",
         "type_code": "treachery"
     }
 ]

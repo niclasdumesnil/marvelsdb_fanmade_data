@@ -23,7 +23,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "red_guardian_by_kajislav",
-        "text": "<i>Shield Launch </i>\u2014 <b>Action </b><i>(attack/thwart)</i>: Attach Red Guardian's Shield from your hand to an enemy or a scheme \u2192 deal 2 damage to that enemy or remove 2 threat from that scheme.<i>\n\"I had no expectations. Only dreams.\"</i>",
+        "text": "<i>Shield Launch </i>— <b>Action </b><i>(attack/thwart)</i>: Attach Red Guardian's Shield from your hand to an enemy or a scheme → deal 2 damage to that enemy or remove 2 threat from that scheme.<i>\n\"I had no expectations. Only dreams.\"</i>",
         "thwart": 2,
         "traits": "Soldier. Thunderbolt.",
         "type_code": "hero"
@@ -42,7 +42,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "red_guardian_by_kajislav",
-        "text": "<i>Rescue the Shield</i> \u2014 <b>Action</b>: Spend 1 resource of any type \u2192 search your deck and discard pile for Red Guardian's Shield and add it to your hand. (Limit once per round).\n<i>\"There's no place like home.\"</i>",
+        "text": "<i>Rescue the Shield</i> — <b>Action</b>: Spend 1 resource of any type → search your deck and discard pile for Red Guardian's Shield and add it to your hand. (Limit once per round).\n<i>\"There's no place like home.\"</i>",
         "traits": "Soldier.",
         "type_code": "alter_ego"
     },
@@ -52,6 +52,7 @@
         "attack_star": true,
         "code": "202603",
         "cost": 3,
+        "deck_limit": 1,
         "faction_code": "hero",
         "health": 3,
         "is_unique": true,
@@ -68,8 +69,7 @@
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Spy. Thunderbolt.",
-        "type_code": "ally",
-        "deck_limit": 1
+        "type_code": "ally"
     },
     {
         "attack": 2,
@@ -77,6 +77,7 @@
         "attack_star": true,
         "code": "202602",
         "cost": 3,
+        "deck_limit": 1,
         "faction_code": "hero",
         "health": 3,
         "is_unique": true,
@@ -93,12 +94,12 @@
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Spy. Thunderbolt.",
-        "type_code": "ally",
-        "deck_limit": 1
+        "type_code": "ally"
     },
     {
         "code": "202604",
         "cost": 0,
+        "deck_limit": 2,
         "faction_code": "hero",
         "name": "Shield Block",
         "octgn_id": "7bdcef20-83cc-47aa-a505-c601f5026004",
@@ -108,14 +109,14 @@
         "resource_mental": 1,
         "set_code": "red_guardian_by_kajislav",
         "set_position": 3,
-        "text": "Play only if Red Guardian's Shield is in your hand.\n<b>Interrupt</b><i> (defense)</i>: When you would take any amount of damage, prevent all of that damage.[[\n]]<i>\"I've come too far to give up now.\" \u2014Red Guardian</i>",
+        "text": "Play only if Red Guardian's Shield is in your hand.\n<b>Interrupt</b><i> (defense)</i>: When you would take any amount of damage, prevent all of that damage.[[\n]]<i>\"I've come too far to give up now.\" —Red Guardian</i>",
         "traits": "Defense.",
-        "type_code": "event",
-        "deck_limit": 2
+        "type_code": "event"
     },
     {
         "code": "202606",
         "cost": 2,
+        "deck_limit": 2,
         "faction_code": "hero",
         "name": "Shielded Drop",
         "octgn_id": "7bdcef20-83cc-47aa-a505-c601f5026006",
@@ -125,14 +126,14 @@
         "resource_mental": 1,
         "set_code": "red_guardian_by_kajislav",
         "set_position": 5,
-        "text": "Play only if Red Guardian's Shield is in your hand.\n<b>Hero Action</b><i> (thwart)</i>: Remove 5 threat from a scheme.[[\n]]<i>\"If there is backup here, it is all of you! This operation is mine.\" \u2014Red Guardian</i>",
+        "text": "Play only if Red Guardian's Shield is in your hand.\n<b>Hero Action</b><i> (thwart)</i>: Remove 5 threat from a scheme.[[\n]]<i>\"If there is backup here, it is all of you! This operation is mine.\" —Red Guardian</i>",
         "traits": "Aerial. Thwart.",
-        "type_code": "event",
-        "deck_limit": 2
+        "type_code": "event"
     },
     {
         "code": "202608",
         "cost": -1,
+        "deck_limit": 3,
         "faction_code": "hero",
         "name": "Shield Ricochet",
         "octgn_id": "7bdcef20-83cc-47aa-a505-c601f5026008",
@@ -142,14 +143,14 @@
         "resource_energy": 1,
         "set_code": "red_guardian_by_kajislav",
         "set_position": 7,
-        "text": "Play only if Red Guardian's Shield is attached to an enemy or a scheme.\n<b>Hero Action</b>: Move Red Guardian's Shield to an enemy or a scheme X times \u2192 deal 3 damage to each enemy and remove 3 threat from each scheme Red Guardian's Shield was moved to.[[\n]]<i>\u201cAren't you all regretting that you neglected to practice speed reloading?\u201d \u2014Albert</i>",
+        "text": "Play only if Red Guardian's Shield is attached to an enemy or a scheme.\n<b>Hero Action</b>: Move Red Guardian's Shield to an enemy or a scheme X times → deal 3 damage to each enemy and remove 3 threat from each scheme Red Guardian's Shield was moved to.[[\n]]<i>“Aren't you all regretting that you neglected to practice speed reloading?” —Albert</i>",
         "traits": "Tactic.",
-        "type_code": "event",
-        "deck_limit": 3
+        "type_code": "event"
     },
     {
         "code": "202611",
         "cost": 2,
+        "deck_limit": 2,
         "faction_code": "hero",
         "name": "Shield Strike",
         "octgn_id": "7bdcef20-83cc-47aa-a505-c601f5026011",
@@ -159,14 +160,14 @@
         "resource_physical": 1,
         "set_code": "red_guardian_by_kajislav",
         "set_position": 10,
-        "text": "Play only if Red Guardian's Shield is in your hand.\n<b>Hero Action</b><i> (attack)</i>: Deal 5 damage to an enemy. This attack gains piercing.[[\n]]<i>\"Don't kill anything until you know who is hunting who. And why.\" \u2014Red Guardian</i>",
+        "text": "Play only if Red Guardian's Shield is in your hand.\n<b>Hero Action</b><i> (attack)</i>: Deal 5 damage to an enemy. This attack gains piercing.[[\n]]<i>\"Don't kill anything until you know who is hunting who. And why.\" —Red Guardian</i>",
         "traits": "Attack.",
-        "type_code": "event",
-        "deck_limit": 2
+        "type_code": "event"
     },
     {
         "code": "202613",
         "cost": null,
+        "deck_limit": 1,
         "faction_code": "hero",
         "is_unique": true,
         "name": "Red Guardian's Shield",
@@ -179,12 +180,12 @@
         "set_position": 12,
         "text": "Temporary.\nWhile this card is in your hand, you can control 1 fewer restricted card.\n<b>Hero Interrupt</b>: When your turn ends, return this card from play to your hand.",
         "traits": "Weapon.",
-        "type_code": "upgrade",
-        "deck_limit": 1
+        "type_code": "upgrade"
     },
     {
         "code": "202614",
         "cost": 2,
+        "deck_limit": 1,
         "faction_code": "hero",
         "name": "Shield Arts",
         "octgn_id": "7bdcef20-83cc-47aa-a505-c601f5026014",
@@ -194,14 +195,14 @@
         "resource_energy": 1,
         "set_code": "red_guardian_by_kajislav",
         "set_position": 13,
-        "text": "<b>Hero Interrupt</b>: When Red Guardian uses a basic power against an enemy or a scheme with Red Guardian's Shield attached, exhaust Shield Arts \u2192 choose to either return Red Guardian's Shield to your hand or ready Red Guardian.",
+        "text": "<b>Hero Interrupt</b>: When Red Guardian uses a basic power against an enemy or a scheme with Red Guardian's Shield attached, exhaust Shield Arts → choose to either return Red Guardian's Shield to your hand or ready Red Guardian.",
         "traits": "Skill.",
-        "type_code": "upgrade", 
-        "deck_limit": 1
+        "type_code": "upgrade"
     },
     {
         "code": "202615",
         "cost": 2,
+        "deck_limit": 1,
         "faction_code": "hero",
         "name": "Shield Harness",
         "octgn_id": "7bdcef20-83cc-47aa-a505-c601f5026015",
@@ -211,14 +212,14 @@
         "resource_physical": 1,
         "set_code": "red_guardian_by_kajislav",
         "set_position": 14,
-        "text": "Red Guardian's Shield does not count toward your hand size.\n<b>Hero Response</b>: After Red Guardian's Shield is discarded from play, exhaust Shield Harness \u2192 return Red Guardian's Shield to your hand.<i></i>",
+        "text": "Red Guardian's Shield does not count toward your hand size.\n<b>Hero Response</b>: After Red Guardian's Shield is discarded from play, exhaust Shield Harness → return Red Guardian's Shield to your hand.<i></i>",
         "traits": "Item.",
-        "type_code": "upgrade",
-        "deck_limit": 1
+        "type_code": "upgrade"
     },
     {
         "code": "202616",
         "cost": 3,
+        "deck_limit": 1,
         "faction_code": "hero",
         "name": "Soviet Super-Soldier",
         "octgn_id": "7bdcef20-83cc-47aa-a505-c601f5026016",
@@ -228,9 +229,8 @@
         "resource_physical": 1,
         "set_code": "red_guardian_by_kajislav",
         "set_position": 15,
-        "text": "Red Guardian gains steady.<b>\nResource</b>: Exhaust Soviet Super- Soldier \u2192 generate a [wild] resource.<i>\n\"Today, I save a village, but soon... I save a dream!\" \u2014Red Guardian</i>",
+        "text": "Red Guardian gains steady.<b>\nResource</b>: Exhaust Soviet Super- Soldier → generate a [wild] resource.<i>\n\"Today, I save a village, but soon... I save a dream!\" —Red Guardian</i>",
         "traits": "Title.",
-        "type_code": "upgrade",
-        "deck_limit": 1
+        "type_code": "upgrade"
     }
 ]

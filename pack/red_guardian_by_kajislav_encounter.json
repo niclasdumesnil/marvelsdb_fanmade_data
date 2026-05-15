@@ -9,7 +9,7 @@
         "position": 17,
         "quantity": 1,
         "set_code": "red_guardian_by_kajislav",
-        "text": "<b>When Revealed</b>: Find Red Guardian's Shield and tuck it under here.<b>\nAlter-Ego Action</b>: Exhaust Alexei Shostakov \u2192 remove this card from the game.",
+        "text": "<b>When Revealed</b>: Find Red Guardian's Shield and tuck it under here.<b>\nAlter-Ego Action</b>: Exhaust Alexei Shostakov → remove this card from the game.",
         "type_code": "obligation"
     },
     {
@@ -44,7 +44,7 @@
         "quantity": 1,
         "set_code": "red_guardian_by_kajislav_nemesis",
         "set_position": 2,
-        "text": "<i>\"If I am to accomplish my purpose\u2026 by destroying Captain America\u2026 I must surpass him in every way!\" \u2014Red Guardian</i>\nThe Red Guardian player cannot change to alter-ego form.<b>\nWhen Revealed</b>: The Red Guardian player changes to hero form. [hazard]",
+        "text": "<i>\"If I am to accomplish my purpose… by destroying Captain America… I must surpass him in every way!\" —Red Guardian</i>\nThe Red Guardian player cannot change to alter-ego form.<b>\nWhen Revealed</b>: The Red Guardian player changes to hero form. [hazard]",
         "type_code": "side_scheme"
     },
     {
@@ -58,7 +58,7 @@
         "quantity": 1,
         "set_code": "red_guardian_by_kajislav_nemesis",
         "set_position": 3,
-        "text": "<b>When Revealed</b>: Choose to either exhaust your identity or discard 1 random card from your hand.\n<i>\"What kind of super serum did you get?\" \u2014Red Guardian</i>\n<i></i>",
+        "text": "<b>When Revealed</b>: Choose to either exhaust your identity or discard 1 random card from your hand.\n<i>\"What kind of super serum did you get?\" —Red Guardian</i>\n<i></i>",
         "type_code": "treachery"
     },
     {
@@ -72,7 +72,7 @@
         "quantity": 1,
         "set_code": "red_guardian_by_kajislav_nemesis",
         "set_position": 4,
-        "text": "<b>When Revealed</b>: Choose to either spend a [physical] resource or discard 1 random card from your hand.\n<i>\"Red Guardian was loyal to a fault.\" \u2014Red Guardian</i>",
+        "text": "<b>When Revealed</b>: Choose to either spend a [physical] resource or discard 1 random card from your hand.\n<i>\"Red Guardian was loyal to a fault.\" —Red Guardian</i>",
         "type_code": "treachery"
     },
     {
@@ -86,7 +86,7 @@
         "quantity": 1,
         "set_code": "red_guardian_by_kajislav_nemesis",
         "set_position": 5,
-        "text": "<b>When Revealed</b>: Choose to either discard a card you control or a discard 1 random card from your hand.\n<i>\"Who would suspect this symbol\u2026their falsehood\u2026of failure?\" \u2014Red Guardian</i>",
+        "text": "<b>When Revealed</b>: Choose to either discard a card you control or a discard 1 random card from your hand.\n<i>\"Who would suspect this symbol…their falsehood…of failure?\" —Red Guardian</i>",
         "type_code": "treachery"
     }
 ]

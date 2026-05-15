@@ -9,7 +9,7 @@
         "position": 10,
         "quantity": 1,
         "set_code": "angela_by_odysseus",
-        "text": "You may flip to alter-ego form. Choose:\nExhaust Aldrif Odinsdottir \u2192 remove Banished from Asgard from the game.\nDiscard 1 [[asgard]] card you control. You are stunned. If no card was discarded this way, this card gains surge. Discard this obligation.",
+        "text": "You may flip to alter-ego form. Choose:\nExhaust Aldrif Odinsdottir → remove Banished from Asgard from the game.\nDiscard 1 [[asgard]] card you control. You are stunned. If no card was discarded this way, this card gains surge. Discard this obligation.",
         "type_code": "obligation"
     },
     {
@@ -24,7 +24,7 @@
         "quantity": 1,
         "set_code": "angela_by_odysseus_nemesis",
         "set_position": 1,
-        "text": "<i>\u201cHela has come to settle her score with the Asgardian usurper.\u201d\n</i><b>When Revealed</b>: Discard cards from the top of your deck equal to the number of [[asgard]] cards in play.\n[hazard]",
+        "text": "<i>“Hela has come to settle her score with the Asgardian usurper.”\n</i><b>When Revealed</b>: Discard cards from the top of your deck equal to the number of [[asgard]] cards in play.\n[hazard]",
         "type_code": "side_scheme"
     },
     {

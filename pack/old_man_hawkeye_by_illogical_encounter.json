@@ -9,7 +9,7 @@
         "position": 12,
         "quantity": 1,
         "set_code": "old_man_hawkeye_by_illogical",
-        "text": "<b>Give to the Old Man Hawkeye player.</b>\nAttach to the minion with the most remaining hit points. If you cannot, discard cards from the top of the encounter deck until a minion is discarded, put that minion into play with you, and attach Hunted to it.\nAttached minion cannot be defeated.\n<b>Alter-Ego Action</b>: Exhaust Old Man Hawkeye \u2192 Discard Hunted.",
+        "text": "<b>Give to the Old Man Hawkeye player.</b>\nAttach to the minion with the most remaining hit points. If you cannot, discard cards from the top of the encounter deck until a minion is discarded, put that minion into play with you, and attach Hunted to it.\nAttached minion cannot be defeated.\n<b>Alter-Ego Action</b>: Exhaust Old Man Hawkeye → Discard Hunted.",
         "type_code": "obligation"
     },
     {
@@ -38,7 +38,7 @@
         "boost": 3,
         "code": "205414",
         "faction_code": "encounter",
-        "flavor": "\"I have waited 41 years, 7 months and 27 days for the chance to kill another super hero. Please have the courtesy not to make me wait any longer.\" \u2014Marshall Bullseye",
+        "flavor": "\"I have waited 41 years, 7 months and 27 days for the chance to kill another super hero. Please have the courtesy not to make me wait any longer.\" —Marshall Bullseye",
         "name": "Worthy of Killing",
         "octgn_id": "761b938d-d5c8-4606-84a6-9400d6054014",
         "pack_code": "old_man_hawkeye_by_illogical",
@@ -67,7 +67,7 @@
         "boost": 2,
         "code": "205416",
         "faction_code": "encounter",
-        "flavor": "\"You're just one big, pathetic disappointment. The last Avenger's going to die alone.\" \u2014Marshall Bullseye",
+        "flavor": "\"You're just one big, pathetic disappointment. The last Avenger's going to die alone.\" —Marshall Bullseye",
         "name": "Blindsided",
         "octgn_id": "761b938d-d5c8-4606-84a6-9400d6054016",
         "pack_code": "old_man_hawkeye_by_illogical",

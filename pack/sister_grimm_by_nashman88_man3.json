@@ -2,7 +2,7 @@
     {
         "code": "204601b",
         "faction_code": "hero",
-        "flavor": "\u201cWe need to take care of each other now.\u201d",
+        "flavor": "“We need to take care of each other now.”",
         "hand_size": 6,
         "health": 9,
         "hidden": true,
@@ -22,22 +22,19 @@
         "attack": 1,
         "back_link": "204601b",
         "code": "204601a",
+        "deck_options": [
+            {
+                "trait": [
+                    "spell"
+                ]
+            }
+        ],
         "defense": 1,
         "faction_code": "hero",
-        "flavor": "\u201cTake my advice. When the world goes crazy you run... you runaway.\u201d -Nico Minoru",
+        "flavor": "“Take my advice. When the world goes crazy you run... you runaway.” -Nico Minoru",
         "hand_size": 5,
         "health": 9,
         "is_unique": true,
-        "name": "Sister Grimm",
-        "octgn_id": "f9e02f2d-7506-48d4-aa64-65e059046001",
-        "pack_code": "sister_grimm_by_nashman88_man3",
-        "position": 1,
-        "quantity": 1,
-        "set_code": "sister_grimm_by_nashman88_man3",
-        "text": "<i>Blood Magic</i> \u2014 <b>Action</b>: Exhaust Staff of One, choose a [[Spell]] event in your hand, and discard cards from the top of your deck equal to that event's printed cost \u2192 play that event, ignoring its resource cost.",
-        "thwart": 1,
-        "traits": "Midnight Sun. Mystic.",
-        "type_code": "hero",
         "meta": {
             "colors": [
                 "#271e1f",
@@ -47,21 +44,23 @@
             ],
             "offset": "-38px -33px"
         },
-        "deck_options": [
-			{
-		"trait": [
-					"spell"
-				]
-       
-  			}
-		]
+        "name": "Sister Grimm",
+        "octgn_id": "f9e02f2d-7506-48d4-aa64-65e059046001",
+        "pack_code": "sister_grimm_by_nashman88_man3",
+        "position": 1,
+        "quantity": 1,
+        "set_code": "sister_grimm_by_nashman88_man3",
+        "text": "<i>Blood Magic</i> — <b>Action</b>: Exhaust Staff of One, choose a [[Spell]] event in your hand, and discard cards from the top of your deck equal to that event's printed cost → play that event, ignoring its resource cost.",
+        "thwart": 1,
+        "traits": "Midnight Sun. Mystic.",
+        "type_code": "hero"
     },
     {
         "code": "204602",
         "cost": null,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\u201cWhen blood is shed... Let The Staff of One emerge!\u201d -Nico Minoru",
+        "flavor": "“When blood is shed... Let The Staff of One emerge!” -Nico Minoru",
         "is_unique": true,
         "name": "Staff of One",
         "octgn_id": "f9e02f2d-7506-48d4-aa64-65e059046002",
@@ -82,7 +81,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\u201cWe always go to Plan B! Next time, we should just make that Plan A!\u201d -Karolina Dean",
+        "flavor": "“We always go to Plan B! Next time, we should just make that Plan A!” -Karolina Dean",
         "health": 3,
         "is_unique": true,
         "name": "Princess Justice",
@@ -104,7 +103,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "hero",
-        "flavor": "\u201cWith a little creativity you can...\u201d",
+        "flavor": "“With a little creativity you can...”",
         "name": "Cheat the System",
         "octgn_id": "f9e02f2d-7506-48d4-aa64-65e059046004",
         "pack_code": "sister_grimm_by_nashman88_man3",
@@ -113,7 +112,7 @@
         "resource_mental": 1,
         "set_code": "sister_grimm_by_nashman88_man3",
         "set_position": 3,
-        "text": "<b>Action</b>: Choose:\n\u2022 Add a [[Spell]] event from the victory display to your hand.\n\u2022 Shuffle up to 2 [[Spell]] events from the victory display into your deck.",
+        "text": "<b>Action</b>: Choose:\n• Add a [[Spell]] event from the victory display to your hand.\n• Shuffle up to 2 [[Spell]] events from the victory display into your deck.",
         "traits": "Skill.",
         "type_code": "event"
     },
@@ -155,7 +154,7 @@
         "code": "204607",
         "deck_limit": 2,
         "faction_code": "hero",
-        "flavor": "\u201cYou are the only other person in the world that staff will work for. Other than me.\u201d -Tina Minoru",
+        "flavor": "“You are the only other person in the world that staff will work for. Other than me.” -Tina Minoru",
         "name": "Magical Aptitude",
         "octgn_id": "f9e02f2d-7506-48d4-aa64-65e059046007",
         "pack_code": "sister_grimm_by_nashman88_man3",
@@ -180,7 +179,7 @@
         "resource_energy": 1,
         "set_code": "sister_grimm_by_nashman88_man3",
         "set_position": 13,
-        "text": "<b>Alter-Ego Action</b>: Exhaust The Hostel and shuffle a [[Spell]] event from the victory display into its owner's deck \u2192 heal damage from your identity equal to that event's printed cost. Any player may trigger this ability.",
+        "text": "<b>Alter-Ego Action</b>: Exhaust The Hostel and shuffle a [[Spell]] event from the victory display into its owner's deck → heal damage from your identity equal to that event's printed cost. Any player may trigger this ability.",
         "traits": "Location.",
         "type_code": "support"
     },
@@ -241,7 +240,7 @@
         "cost": 4,
         "deck_limit": 1,
         "faction_code": "protection",
-        "flavor": "\u201cThe magics are being abused.\u201d -Doctor Strange",
+        "flavor": "“The magics are being abused.” -Doctor Strange",
         "health": 3,
         "is_unique": true,
         "name": "Doctor Strange",
@@ -250,7 +249,6 @@
         "position": 12,
         "quantity": 1,
         "resource_mental": 1,
-       
         "subname": "Stephen Strange",
         "text": "<b>Interrupt</b>: When Doctor Strange uses a basic power, if you have at least 2 [[Spell]] events in your hand, he takes -1 consequential damage ([consequential]) for that use.",
         "thwart": 2,
@@ -263,7 +261,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "protection",
-        "flavor": "\u201cThanks, you've really cleared that up.\u201d",
+        "flavor": "“Thanks, you've really cleared that up.”",
         "health": 3,
         "is_unique": true,
         "name": "Jinx",
@@ -272,7 +270,6 @@
         "position": 13,
         "quantity": 1,
         "resource_mental": 1,
-       
         "subname": "William Hastings",
         "text": "<b>Response</b>: After you play a [[Spell]] event, heal 1 damage from Jinx.",
         "thwart": 1,
@@ -291,7 +288,7 @@
         "position": 14,
         "quantity": 1,
         "resource_mental": 1,
-        "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b>: Take X damage \u2192 heal X damage from a friendly character.",
+        "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b>: Take X damage → heal X damage from a friendly character.",
         "traits": "Spell.",
         "type_code": "event"
     },
@@ -306,8 +303,8 @@
         "pack_code": "sister_grimm_by_nashman88_man3",
         "position": 15,
         "quantity": 1,
-        "resource_physical": 1,        
-        "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b> <i>(attack)</i>: Take X damage \u2192 deal X damage to 3 different enemies.",
+        "resource_physical": 1,
+        "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b> <i>(attack)</i>: Take X damage → deal X damage to 3 different enemies.",
         "traits": "Attack. Spell.",
         "type_code": "event"
     },
@@ -323,8 +320,7 @@
         "position": 16,
         "quantity": 1,
         "resource_mental": 1,
-       
-        "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b> <i>(thwart)</i>: Take X damage \u2192 remove X threat from 2 different schemes.",
+        "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b> <i>(thwart)</i>: Take X damage → remove X threat from 2 different schemes.",
         "traits": "Spell. Thwart.",
         "type_code": "event"
     },
@@ -340,8 +336,7 @@
         "position": 17,
         "quantity": 1,
         "resource_wild": 1,
-       
-        "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b>: Take X damage \u2192 search your deck and discard pile for an ally with printed cost X or less and put that ally into play.",
+        "text": "Play only if your identity has the [[Mystic]] trait. Max 1 per deck.\n<b>Hero Action</b>: Take X damage → search your deck and discard pile for an ally with printed cost X or less and put that ally into play.",
         "traits": "Spell.",
         "type_code": "event"
     },
@@ -351,7 +346,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "basic",
-        "flavor": "\u201cI did not break the rules. They simply bent to my power.\u201d -Agatha Harkness",
+        "flavor": "“I did not break the rules. They simply bent to my power.” -Agatha Harkness",
         "health": 3,
         "is_unique": true,
         "name": "Agatha Harkness",
@@ -360,7 +355,6 @@
         "position": 18,
         "quantity": 1,
         "resource_wild": 1,
-       
         "text": "Play only if your identity has the [[Mystic]] trait.\n<b>Response</b>: After you play Agatha Harkness from your hand, choose a [[Spell]] event in your discard pile and shuffle it into your deck.",
         "thwart": 2,
         "traits": "Midnight Sun. Mystic.",
@@ -372,7 +366,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "basic",
-        "flavor": "\u201cWhat did you think when you decided to go after an angel? That it'd be easy?\u201d",
+        "flavor": "“What did you think when you decided to go after an angel? That it'd be easy?”",
         "health": 3,
         "is_unique": true,
         "name": "Caretaker",
@@ -381,7 +375,6 @@
         "position": 19,
         "quantity": 1,
         "resource_energy": 1,
-      
         "subname": "Sara",
         "text": "Play only if your identity has the [[Midnight Sun]] or [[Strange Academy]] trait.\n<b>Response</b>: After a player uses the ability on Strange Academy, heal 1 damage from Caretaker.",
         "thwart": 1,
@@ -399,7 +392,6 @@
         "position": 20,
         "quantity": 1,
         "resource_wild": 1,
-       
         "text": "Team-Up (2 [[Mystic]] characters). Max 1 per deck.\n<b>Hero Action</b>: Search your deck and discard pile for a [[Spell]] event and add it to your hand.",
         "traits": "Spell.",
         "type_code": "event"
@@ -414,7 +406,6 @@
         "position": 21,
         "quantity": 2,
         "resource_wild": 1,
-       
         "text": "Max 2 per deck.\nDouble the number of resources this card generates while paying for a [[Spell]] event or a [[Mystic]] card.",
         "type_code": "resource"
     },
@@ -423,7 +414,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "basic",
-        "flavor": "\u201cHow does all this even...?\u201d \"Um. Yeah... right. Magic.\"",
+        "flavor": "“How does all this even...?” \"Um. Yeah... right. Magic.\"",
         "is_unique": true,
         "name": "Strange Academy",
         "octgn_id": "f9e02f2d-7506-48d4-aa64-65e059046022",
@@ -431,8 +422,7 @@
         "position": 22,
         "quantity": 1,
         "resource_mental": 1,
-      
-        "text": "Ignore this card's resource cost if your identity has the [[Midnight Sun]] or [[Strange Academy]] trait.\n<b>Hero Action</b>: Exhaust Strange Academy \u2192 generate a [wild] resource for an ally.",
+        "text": "Ignore this card's resource cost if your identity has the [[Midnight Sun]] or [[Strange Academy]] trait.\n<b>Hero Action</b>: Exhaust Strange Academy → generate a [wild] resource for an ally.",
         "traits": "Location.",
         "type_code": "support"
     }

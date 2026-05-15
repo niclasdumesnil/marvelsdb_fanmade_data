@@ -2,6 +2,7 @@
     {
         "code": "203101b",
         "faction_code": "hero",
+        "flavor": "<i>“For too long, we have been underestimated and seen as trifling and insignificant, my friends. Cute beasts playing pretend champions. But we are true heroes.”</i>",
         "hand_size": 6,
         "health": 12,
         "hidden": true,
@@ -13,8 +14,7 @@
         "quantity": 1,
         "recover": 4,
         "set_code": "throg_by_rainy",
-        "text": "<i>Worthy</i> \u2014 <b>Action</b>: Find Frogjolnir and add it to your hand. (Limit once per round.)",
-        "flavor" : "<i>\u201cFor too long, we have been underestimated and seen as trifling and insignificant, my friends. Cute beasts playing pretend champions. But we are true heroes.\u201d</i>",
+        "text": "<i>Worthy</i> — <b>Action</b>: Find Frogjolnir and add it to your hand. (Limit once per round.)",
         "traits": "Asgard. Creature.",
         "type_code": "alter_ego"
     },
@@ -44,7 +44,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "throg_by_rainy",
-        "text": "[star]<i> Froglike Stamina</i> \u2014 <b>Response</b>: After Throg uses a basic power, return Frogjolnir to your hand \u2192 ready Throg. (Limit once per phase.)\n<i>\u201cThere is justice to be done, so let us hop to it!\u201d</i>",
+        "text": "[star]<i> Froglike Stamina</i> — <b>Response</b>: After Throg uses a basic power, return Frogjolnir to your hand → ready Throg. (Limit once per phase.)\n<i>“There is justice to be done, so let us hop to it!”</i>",
         "thwart": 1,
         "thwart_star": true,
         "traits": "Asgard. Guardian.",
@@ -63,7 +63,7 @@
         "resource_physical": 1,
         "set_code": "throg_by_rainy",
         "set_position": 1,
-        "text": "<b>Hero Action</b>: Ready Throg and Frogjolnir. You may choose a minion engaged with another player and engage it to draw 1 card.\n<i>\"Back, vile fiend! Throg the Thunder Frog defends these lands!\" \u2014Throg</i>",
+        "text": "<b>Hero Action</b>: Ready Throg and Frogjolnir. You may choose a minion engaged with another player and engage it to draw 1 card.\n<i>\"Back, vile fiend! Throg the Thunder Frog defends these lands!\" —Throg</i>",
         "traits": "Aerial. Superpower.",
         "type_code": "event"
     },
@@ -80,7 +80,7 @@
         "resource_mental": 1,
         "set_code": "throg_by_rainy",
         "set_position": 4,
-        "text": "<b>Hero Action </b><i>(thwart)</i>: Remove 2 threat from a scheme. Engage any number of minions in play. For each minion engaged with you (to a maximum of 3), remove 2 threat from a scheme.\n<i>\"Though my size is small, my courage is not!\" \u2014Throg</i>",
+        "text": "<b>Hero Action </b><i>(thwart)</i>: Remove 2 threat from a scheme. Engage any number of minions in play. For each minion engaged with you (to a maximum of 3), remove 2 threat from a scheme.\n<i>\"Though my size is small, my courage is not!\" —Throg</i>",
         "traits": "Thwart.",
         "type_code": "event"
     },
@@ -97,7 +97,7 @@
         "resource_physical": 1,
         "set_code": "throg_by_rainy",
         "set_position": 6,
-        "text": "<b>Hero Action </b><i>(attack)</i>: Exhaust Frogjolnir and return it to your hand \u2192 deal 6 damage to an enemy. This attack gains overkill.\n<i>\"I have no more words for thee, villain. So now we let Frogjolnir do the talking.\" \u2014Throg</i>",
+        "text": "<b>Hero Action </b><i>(attack)</i>: Exhaust Frogjolnir and return it to your hand → deal 6 damage to an enemy. This attack gains overkill.\n<i>\"I have no more words for thee, villain. So now we let Frogjolnir do the talking.\" —Throg</i>",
         "traits": "Attack. Superpower.",
         "type_code": "event"
     },
@@ -114,7 +114,7 @@
         "resource_energy": 1,
         "set_code": "throg_by_rainy",
         "set_position": 8,
-        "text": "<b>Hero Interrupt</b>: When you make a basic attack against a minion engaged with a player, resolve that attack against the villain and each minion engaged with that player instead, ignoring the guard keyword.\n<i>\"Have at thee! And at thee! And thee!\" \u2014Throg</i>",
+        "text": "<b>Hero Interrupt</b>: When you make a basic attack against a minion engaged with a player, resolve that attack against the villain and each minion engaged with that player instead, ignoring the guard keyword.\n<i>\"Have at thee! And at thee! And thee!\" —Throg</i>",
         "traits": "Superpower.",
         "type_code": "event"
     },
@@ -131,7 +131,7 @@
         "resource_mental": 1,
         "set_code": "throg_by_rainy",
         "set_position": 10,
-        "text": "<b>Hero Interrupt</b>: When you make a basic thwart against a scheme, resolve that thwart against each scheme in play instead, ignoring the crisis icon (<i>in the order of your choice, including any bonuses to your THW for that thwart</i>).\n<i>\"Fear not my friends, I will save you!\" \u2014Throg</i>",
+        "text": "<b>Hero Interrupt</b>: When you make a basic thwart against a scheme, resolve that thwart against each scheme in play instead, ignoring the crisis icon (<i>in the order of your choice, including any bonuses to your THW for that thwart</i>).\n<i>\"Fear not my friends, I will save you!\" —Throg</i>",
         "traits": "Superpower.",
         "type_code": "event"
     },
@@ -149,7 +149,7 @@
         "resource_wild": 1,
         "set_code": "throg_by_rainy",
         "set_position": 12,
-        "text": "<b>Alter-Ego Response</b>: After you make a basic recovery, exhaust Foreverglade \u2192 ready Puddlegulp and draw 1 card.\n<i>A kingdom in the marshland of Midgard where the razor-sharp songs of the cicadas melt against the bellowing of the toads and sing of glory.</i>",
+        "text": "<b>Alter-Ego Response</b>: After you make a basic recovery, exhaust Foreverglade → ready Puddlegulp and draw 1 card.\n<i>A kingdom in the marshland of Midgard where the razor-sharp songs of the cicadas melt against the bellowing of the toads and sing of glory.</i>",
         "traits": "Location.",
         "type_code": "support"
     },
@@ -166,7 +166,7 @@
         "resource_energy": 1,
         "set_code": "throg_by_rainy",
         "set_position": 13,
-        "text": "<b>Hero Resource</b>: Exhaust Frog of Thunder \u2192 generate a [energy] resource. If you paid for a Throg card this way, deal 1 damage to an enemy.\n<i>\u201cI am the Frog of Thunder. The very skies must tremble when croaks the Mighty Throg!\u201d \u2014Throg</i>",
+        "text": "<b>Hero Resource</b>: Exhaust Frog of Thunder → generate a [energy] resource. If you paid for a Throg card this way, deal 1 damage to an enemy.\n<i>“I am the Frog of Thunder. The very skies must tremble when croaks the Mighty Throg!” —Throg</i>",
         "traits": "Asgard. Title.",
         "type_code": "upgrade"
     },
@@ -184,7 +184,7 @@
         "resource_energy": 1,
         "set_code": "throg_by_rainy",
         "set_position": 14,
-        "text": "Restricted.\nThrog gains the [[aerial]] trait.\n<b>Hero Interrupt</b>: When Throg uses a basic power, exhaust Frogjolnir \u2192 Throg gets +1 to that power for this use.\n<i>\u201cEMBIGGEN!\u201d \u2014Ms. Marvel</i>",
+        "text": "Restricted.\nThrog gains the [[aerial]] trait.\n<b>Hero Interrupt</b>: When Throg uses a basic power, exhaust Frogjolnir → Throg gets +1 to that power for this use.\n<i>“EMBIGGEN!” —Ms. Marvel</i>",
         "traits": "Asgard. Weapon.",
         "type_code": "upgrade"
     },
@@ -202,7 +202,7 @@
         "resource_physical": 1,
         "set_code": "throg_by_rainy",
         "set_position": 15,
-        "text": "You get +2 hit points.\n<b>Hero Response</b>: After you engage a minion, give Throg a tough status card. If you cannot, draw 1 card. (Limit once per phase.)\n<i>\u201cHave at thee, scoundrel!\u201d \u2014Throg</i>",
+        "text": "You get +2 hit points.\n<b>Hero Response</b>: After you engage a minion, give Throg a tough status card. If you cannot, draw 1 card. (Limit once per phase.)\n<i>“Have at thee, scoundrel!” —Throg</i>",
         "traits": "Armor. Asgard.",
         "type_code": "upgrade"
     }

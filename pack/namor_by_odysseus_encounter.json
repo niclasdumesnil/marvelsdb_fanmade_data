@@ -9,7 +9,7 @@
         "position": 10,
         "quantity": 1,
         "set_code": "namor_by_odysseus",
-        "text": "You may flip to alter-ego form. Choose:\nExhaust Namor McKenzie \u2192 remove Atlantis in Peril from the game.\nShuffle your discard pile into your deck. Deal an encounter card to you. Discard this obligation.",
+        "text": "You may flip to alter-ego form. Choose:\nExhaust Namor McKenzie → remove Atlantis in Peril from the game.\nShuffle your discard pile into your deck. Deal an encounter card to you. Discard this obligation.",
         "type_code": "obligation"
     },
     {
@@ -63,7 +63,7 @@
         "scheme": 1,
         "set_code": "namor_by_odysseus_nemesis",
         "set_position": 3,
-        "text": "<b>When Revealed:</b> Discard the top 3 cards of your deck.\n[star]<b>Boost:</b> Discard the top 3 cards of your deck.\n<i>\u201cDo you know who I am?!?\u201d -Namor</i>",
+        "text": "<b>When Revealed:</b> Discard the top 3 cards of your deck.\n[star]<b>Boost:</b> Discard the top 3 cards of your deck.\n<i>“Do you know who I am?!?” -Namor</i>",
         "traits": "Atlantis.",
         "type_code": "minion"
     },

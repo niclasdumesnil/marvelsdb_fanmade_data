@@ -13,7 +13,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "Karnak_by_1-2-punchboard",
-        "text": "<i>Meditation</i> \u2014 <b>Response</b>: After Karnak recovers, search your deck and discard pile for an [[ATTACK]], [[THWART]], or [[DEFENSE]] event. Add that card to your hand. If you searched your deck, shuffle it. (Limit once per phase.)",
+        "text": "<i>Meditation</i> — <b>Response</b>: After Karnak recovers, search your deck and discard pile for an [[ATTACK]], [[THWART]], or [[DEFENSE]] event. Add that card to your hand. If you searched your deck, shuffle it. (Limit once per phase.)",
         "traits": "Inhuman.",
         "type_code": "alter_ego"
     },
@@ -26,16 +26,6 @@
         "hand_size": 5,
         "health": 10,
         "is_unique": true,
-        "name": "Karnak",
-        "octgn_id": "7f9b9b69-72b7-477d-9891-b4856c040001",
-        "pack_code": "Karnak_by_1-2-punchboard",
-        "position": 1,
-        "quantity": 1,
-        "set_code": "Karnak_by_1-2-punchboard",
-        "text": "<i>Flaw in All Things</i> \u2014 <b>Response</b>: After Karnak attacks or thwarts and defeats an enemy or side scheme without dealing excess damage or removing excess threat, deal 1 damage to an enemy and ready Karnak. (Limit twice per round.)",
-        "thwart": 2,
-        "traits": "Inhuman.",
-        "type_code": "hero",
         "meta": {
             "colors": [
                 "#03a81d",
@@ -44,7 +34,17 @@
                 "#fffffd"
             ],
             "offset": "-38px -33px"
-        }
+        },
+        "name": "Karnak",
+        "octgn_id": "7f9b9b69-72b7-477d-9891-b4856c040001",
+        "pack_code": "Karnak_by_1-2-punchboard",
+        "position": 1,
+        "quantity": 1,
+        "set_code": "Karnak_by_1-2-punchboard",
+        "text": "<i>Flaw in All Things</i> — <b>Response</b>: After Karnak attacks or thwarts and defeats an enemy or side scheme without dealing excess damage or removing excess threat, deal 1 damage to an enemy and ready Karnak. (Limit twice per round.)",
+        "thwart": 2,
+        "traits": "Inhuman.",
+        "type_code": "hero"
     },
     {
         "attack": 2,
@@ -63,7 +63,7 @@
         "resource_energy": 1,
         "set_code": "Karnak_by_1-2-punchboard",
         "set_position": 1,
-        "text": "<b>Response</b>: After Gorgon Petragon attacks, deal 1 damage to each enemy.\n<i>\u201cI have devoted my entire life to honing the warrior's craft. I have sacrificed everything fighting for my people's future!\u201d</i>",
+        "text": "<b>Response</b>: After Gorgon Petragon attacks, deal 1 damage to each enemy.\n<i>“I have devoted my entire life to honing the warrior's craft. I have sacrificed everything fighting for my people's future!”</i>",
         "thwart": 1,
         "thwart_cost": 1,
         "traits": "Inhuman.",
@@ -99,7 +99,7 @@
         "resource_mental": 1,
         "set_code": "Karnak_by_1-2-punchboard",
         "set_position": 6,
-        "text": "<b>Hero Action</b> <i>(thwart)</i>: Remove 3 threat from a scheme and discard an [[ARMOR]], [[TECH]], or [[WEAPON]] attachment from an enemy. If no attachment was discarded this way, confuse the villain instead.\n<i>\u201cIn time, all we rely on will shatter and fall.\u201d</i>",
+        "text": "<b>Hero Action</b> <i>(thwart)</i>: Remove 3 threat from a scheme and discard an [[ARMOR]], [[TECH]], or [[WEAPON]] attachment from an enemy. If no attachment was discarded this way, confuse the villain instead.\n<i>“In time, all we rely on will shatter and fall.”</i>",
         "traits": "Skill. Thwart.",
         "type_code": "event"
     },
@@ -116,7 +116,7 @@
         "resource_mental": 1,
         "set_code": "Karnak_by_1-2-punchboard",
         "set_position": 8,
-        "text": "<b>Hero Interrupt</b> <i>(thwart)</i>: When you would take any amount of damage, discard Peerless Defense \u2192 prevent up to 3 of that damage. Remove threat from a scheme equal to the amount of damage prevented this way.",
+        "text": "<b>Hero Interrupt</b> <i>(thwart)</i>: When you would take any amount of damage, discard Peerless Defense → prevent up to 3 of that damage. Remove threat from a scheme equal to the amount of damage prevented this way.",
         "traits": "Preparation. Skill. Thwart.",
         "type_code": "upgrade"
     },
@@ -133,7 +133,7 @@
         "resource_energy": 1,
         "set_code": "Karnak_by_1-2-punchboard",
         "set_position": 10,
-        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal 1 damage to an enemy. This attack gains piercing. If this attack discarded a tough status card, deal another 3 damage to that enemy.\n<i>\u201cWhere is the flaw?\u201d</i>",
+        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal 1 damage to an enemy. This attack gains piercing. If this attack discarded a tough status card, deal another 3 damage to that enemy.\n<i>“Where is the flaw?”</i>",
         "traits": "Attack. Skill.",
         "type_code": "event"
     },
@@ -165,7 +165,7 @@
         "resource_wild": 1,
         "set_code": "Karnak_by_1-2-punchboard",
         "set_position": 14,
-        "text": "Karnak Mander-Azur gets +2 REC.\n<b>Alter-Ego Action</b>: Exhaust Tower of Wisdom \u2192 remove 1 threat from a scheme.",
+        "text": "Karnak Mander-Azur gets +2 REC.\n<b>Alter-Ego Action</b>: Exhaust Tower of Wisdom → remove 1 threat from a scheme.",
         "traits": "Inhuman. Location.",
         "type_code": "support"
     },
@@ -182,7 +182,7 @@
         "resource_physical": 1,
         "set_code": "Karnak_by_1-2-punchboard",
         "set_position": 15,
-        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal between 1 and 6 damage to an enemy. If you defeat a minion engaged with a player, stun the villain and each minion engaged with that player.\n<i>\u201cIt is my discipline to be able to sense the weakest spot in any object -- And my power to shatter it.\u201d</i>",
+        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal between 1 and 6 damage to an enemy. If you defeat a minion engaged with a player, stun the villain and each minion engaged with that player.\n<i>“It is my discipline to be able to sense the weakest spot in any object -- And my power to shatter it.”</i>",
         "traits": "Attack. Skill.",
         "type_code": "event"
     }

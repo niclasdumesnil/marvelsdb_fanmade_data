@@ -3,14 +3,14 @@
         "boost": 2,
         "code": "203111",
         "faction_code": "encounter",
+        "flavor": "<i>\"I have neglected my people. They have suffered.\" —Throg</i>",
         "name": "Trouble in Central Park",
         "octgn_id": "2ede8afd-13d6-42ae-b6a4-df1336031011",
         "pack_code": "throg_by_rainy",
         "position": 11,
         "quantity": 1,
         "set_code": "throg_by_rainy",
-        "text": "Uses (3 foe counters). Victory 0.\n<b>Forced Action</b>: Seek a minion from the encounter deck and put it into play engaged with you \u2192 remove 1 foe counter from here. That enemy attacks you. (Limit once per round.)",
-        "flavor" : "<i>\"I have neglected my people. They have suffered.\" \u2014Throg</i>",
+        "text": "Uses (3 foe counters). Victory 0.\n<b>Forced Action</b>: Seek a minion from the encounter deck and put it into play engaged with you → remove 1 foe counter from here. That enemy attacks you. (Limit once per round.)",
         "type_code": "obligation"
     },
     {
@@ -18,6 +18,7 @@
         "boost": 3,
         "code": "203112",
         "faction_code": "encounter",
+        "flavor": "<i>Alligator Loki is distracting everybody with his cuteness. Somebody, pet him so we can get back to saving the day!\n</i>",
         "name": "Adorable Distraction",
         "octgn_id": "2ede8afd-13d6-42ae-b6a4-df1336031012",
         "pack_code": "throg_by_rainy",
@@ -26,7 +27,6 @@
         "set_code": "throg_by_rainy_nemesis",
         "set_position": 1,
         "text": "Hinder 1[per_hero].\nAlligator Loki cannot be attacked.\n<i>(Throg's nemesis side scheme.)</i>\n[crisis] <i></i>",
-        "flavor": "<i>Alligator Loki is distracting everybody with his cuteness. Somebody, pet him so we can get back to saving the day!\n</i>",
         "type_code": "side_scheme"
     },
     {
@@ -55,6 +55,7 @@
         "boost": 2,
         "code": "203114",
         "faction_code": "encounter",
+        "flavor": "<i>Alligator Loki is making a scene and causing havoc! Somebody catch him before he makes an even bigger mess!\n</i>",
         "name": "Causing a Commotion",
         "octgn_id": "2ede8afd-13d6-42ae-b6a4-df1336031014",
         "pack_code": "throg_by_rainy",
@@ -63,14 +64,14 @@
         "set_code": "throg_by_rainy_nemesis",
         "set_position": 3,
         "text": "<b>When Revealed</b>: Each player discards the top 3 cards of their deck and places 1 threat here for each different card type they discarded this way.\n[hazard]",
-        "type_code": "side_scheme",
-        "flavor" : "<i>Alligator Loki is making a scene and causing havoc! Somebody catch him before he makes an even bigger mess!\n</i>"
+        "type_code": "side_scheme"
     },
     {
         "base_threat": 3,
         "boost": 1,
         "code": "203115",
         "faction_code": "encounter",
+        "flavor": "<i>That scamp took our stuff! Catch him and get it back, no matter how cute he looks with it!\n</i>",
         "name": "\"Lost\" Property",
         "octgn_id": "2ede8afd-13d6-42ae-b6a4-df1336031015",
         "pack_code": "throg_by_rainy",
@@ -79,8 +80,7 @@
         "set_code": "throg_by_rainy_nemesis",
         "set_position": 4,
         "text": "<b>When Revealed</b>: Each player tucks an identity-specific upgrade they control under this card. It cannot be found while under here.\n<b>When Defeated</b>: Add each card under here to its owner's hand.\n<i></i>",
-        "type_code": "side_scheme",
-        "flavor" : "<i>That scamp took our stuff! Catch him and get it back, no matter how cute he looks with it!\n</i>"
+        "type_code": "side_scheme"
     },
     {
         "boost_star": true,

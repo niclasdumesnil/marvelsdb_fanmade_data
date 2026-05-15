@@ -4,6 +4,11 @@
         "back_link": "999901b",
         "code": "999901a",
         "deck_limit": 1,
+        "deck_options": [
+            {
+                "aspect_limit": 6
+            }
+        ],
         "defense": null,
         "faction_code": "hero",
         "hand_size": 5,
@@ -26,12 +31,7 @@
         "text": "Stan Lee can be used to create any character's deck.",
         "thwart": null,
         "traits": "True beliver.",
-        "type_code": "hero",
-        "deck_options": [
-			{
-				"aspect_limit" : 6
-			}
-        ]
+        "type_code": "hero"
     },
     {
         "code": "999901b",
@@ -45,25 +45,24 @@
         "position": 1,
         "quantity": 1,
         "recover": 3,
-       "set_code": "stanlee_by_mc4db",
+        "set_code": "stanlee_by_mc4db",
         "text": "Stan Lee can be used to create any character's deck.",
         "traits": "Civilian.",
         "type_code": "alter_ego"
     },
     {
-        "name": "Creating a new card",
-        "text": "replace that card.",
-        "type_code": "event",
-        "faction_code": "hero",
-        "set_code": "stanlee_by_mc4db",
-        "pack_code": "stan_lee_by_mc4db",
         "code": "999902",
         "cost": -1,
+        "deck_limit": 15,
+        "faction_code": "hero",
+        "name": "Creating a new card",
+        "pack_code": "stan_lee_by_mc4db",
         "position": 2,
         "quantity": 15,
-        "traits": "Drawing.",
+        "set_code": "stanlee_by_mc4db",
         "set_position": 2,
-        "deck_limit": 15
+        "text": "replace that card.",
+        "traits": "Drawing.",
+        "type_code": "event"
     }
-    
 ]

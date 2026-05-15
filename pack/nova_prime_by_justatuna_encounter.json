@@ -9,7 +9,7 @@
         "position": 13,
         "quantity": 1,
         "set_code": "nova_prime_by_justatuna",
-        "text": "<b>Give to the Richard Rider player.</b>\nYou may flip to alter-ego form. Choose:\n* Exhaust Richard Rider \u2192 remove War Weary from the game.\n* Discard half the cards in your hand rounded down. Discard War Weary.",
+        "text": "<b>Give to the Richard Rider player.</b>\nYou may flip to alter-ego form. Choose:\n* Exhaust Richard Rider → remove War Weary from the game.\n* Discard half the cards in your hand rounded down. Discard War Weary.",
         "type_code": "obligation"
     },
     {
@@ -18,7 +18,7 @@
         "boost": 3,
         "code": "502014",
         "faction_code": "encounter",
-        "flavor": "\u201cAll serve Annihilus! Annihilus is the will and the way and he WILL NOT BE DENIED!\u201d",
+        "flavor": "“All serve Annihilus! Annihilus is the will and the way and he WILL NOT BE DENIED!”",
         "health": 7,
         "is_unique": true,
         "name": "Annihilus",
@@ -64,7 +64,6 @@
         "type_code": "environment"
     },
     {
-       
         "boost_star": true,
         "code": "502017",
         "faction_code": "encounter",

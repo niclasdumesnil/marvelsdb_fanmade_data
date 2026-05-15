@@ -16,7 +16,6 @@
                 "#274977",
                 "#f1ab4c",
                 "#f1ab4c"
-                            
             ],
             "offset": "-35px -33px"
         },
@@ -27,7 +26,7 @@
         "quantity": 1,
         "set_code": "beast_by_proust",
         "set_position": 1,
-        "text": "<i>R\u00e9exploitation g\u00e9niale</i> - <b>Action</b> : intercalez sous le <i>\"Laboratoire du Fauve\"</i> une am\u00e9lioration <b><i>TECH</i></b> que vous contr\u00f4lez \u2192redressez votre h\u00e9ros et choisissez CTR, ATQ ou DEF. Jusqu'\u00e0 la fin du round, votre h\u00e9ros gagne +X au pouvoir choisi, X \u00e9tant \u00e9gal au co\u00fbt imprim\u00e9 de cette am\u00e9lioration. (Limite une fois par phase).",
+        "text": "<i>Réexploitation géniale</i> - <b>Action</b> : intercalez sous le <i>\"Laboratoire du Fauve\"</i> une amélioration <b><i>TECH</i></b> que vous contrôlez →redressez votre héros et choisissez CTR, ATQ ou DEF. Jusqu'à la fin du round, votre héros gagne +X au pouvoir choisi, X étant égal au coût imprimé de cette amélioration. (Limite une fois par phase).",
         "thwart": 1,
         "traits": "Avenger. X-men.",
         "type_code": "hero"
@@ -49,8 +48,8 @@
         "recover": 4,
         "set_code": "beast_by_proust",
         "set_position": 1,
-        "text": "<b>Mise en place</b> : Cherchez le <i>\"Laboratoire du Fauve\"</i> et mettez-le en jeu sous votre contr\u00f4le.\n<i>Ressourc\u00e9</i> \u2014 <b>Action</b>: cherchez dans votre deck ou votre pile de d\u00e9fausse une carte ressource et ajoutez la \u00e0 votre main. (Limite une fois par phase).",
-        "traits": "G\u00e9nie. Mutant.",
+        "text": "<b>Mise en place</b> : Cherchez le <i>\"Laboratoire du Fauve\"</i> et mettez-le en jeu sous votre contrôle.\n<i>Ressourcé</i> — <b>Action</b>: cherchez dans votre deck ou votre pile de défausse une carte ressource et ajoutez la à votre main. (Limite une fois par phase).",
+        "traits": "Génie. Mutant.",
         "type_code": "alter_ego"
     },
     {
@@ -67,7 +66,7 @@
         "resource_wild": 1,
         "set_code": "beast_by_proust",
         "set_position": 2,
-        "text": "Mise en Place. Permanent.\nLes am\u00e9liorations intercal\u00e9es sous cette carte peuvent \u00eatre jou\u00e9es comme si elles \u00e9taient dans votre main.\nS'il y a plus de 3 cartes intercal\u00e9es sous cette carte, d\u00e9faussez-en pour n'en laisser que 3.",
+        "text": "Mise en Place. Permanent.\nLes améliorations intercalées sous cette carte peuvent être jouées comme si elles étaient dans votre main.\nS'il y a plus de 3 cartes intercalées sous cette carte, défaussez-en pour n'en laisser que 3.",
         "traits": "Lieu. X-men.",
         "type_code": "support"
     },
@@ -76,7 +75,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "<i>\"Peut-\u00eatre que le monde ne vaut plus la peine d'\u00eatre sauv\u00e9.\" \u2014 Le Fauve</i>",
+        "flavor": "<i>\"Peut-être que le monde ne vaut plus la peine d'être sauvé.\" — Le Fauve</i>",
         "name": "Ultime Mutation",
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2007003",
         "pack_code": "beast_by_proust",
@@ -85,7 +84,7 @@
         "resource_physical": 1,
         "set_code": "beast_by_proust",
         "set_position": 3,
-        "text": "Le Fauve gagne +1 DEF, +4 points de vie et ses attaques de base gagnent Per\u00e7ant.",
+        "text": "Le Fauve gagne +1 DEF, +4 points de vie et ses attaques de base gagnent Perçant.",
         "traits": "Condition.",
         "type_code": "upgrade"
     },
@@ -95,7 +94,7 @@
         "deck_limit": 1,
         "faction_code": "hero",
         "flavor": "<i>\"Ca ne marche plus Hank !\" - Simon Williams</i>",
-        "name": "Gants de Pouvoir Pirat\u00e9s",
+        "name": "Gants de Pouvoir Piratés",
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2007004",
         "pack_code": "beast_by_proust",
         "position": 4,
@@ -103,7 +102,7 @@
         "resource_energy": 1,
         "set_code": "beast_by_proust",
         "set_position": 4,
-        "text": "Diminuez de 1 le co\u00fbt de cette carte si vous contr\u00f4lez une am\u00e9lioration avec le trait <b><i>TECH</i></b>.\n<b>Interruption de h\u00e9ros</b> : quand le Fauve utilise un pouvoir de base choisissez :\n. infligez 1 d\u00e9g\u00e2t \u00e0 un ennemi\n. retirez 1 menace d'une manigance",
+        "text": "Diminuez de 1 le coût de cette carte si vous contrôlez une amélioration avec le trait <b><i>TECH</i></b>.\n<b>Interruption de héros</b> : quand le Fauve utilise un pouvoir de base choisissez :\n. infligez 1 dégât à un ennemi\n. retirez 1 menace d'une manigance",
         "traits": "Objet. Tech.",
         "type_code": "upgrade"
     },
@@ -120,7 +119,7 @@
         "resource_energy": 1,
         "set_code": "beast_by_proust",
         "set_position": 5,
-        "text": "Cette carte entre en jeu avec 4 jetons traceur sur elle. Diminuez de 1 le co\u00fbt de cette carte si vous contr\u00f4lez une am\u00e9lioration avec le trait <b><i>TECH</i></b>.\n<b>Ressource</b> : retirez 1 jeton traceur de cette carte \u2192 g\u00e9n\u00e9rez 1 ressource [mental] pour une carte <b><i>TECH</i></b>. (Limite d'une fois par carte).",
+        "text": "Cette carte entre en jeu avec 4 jetons traceur sur elle. Diminuez de 1 le coût de cette carte si vous contrôlez une amélioration avec le trait <b><i>TECH</i></b>.\n<b>Ressource</b> : retirez 1 jeton traceur de cette carte → générez 1 ressource [mental] pour une carte <b><i>TECH</i></b>. (Limite d'une fois par carte).",
         "traits": "Tech.",
         "type_code": "upgrade"
     },
@@ -129,7 +128,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\"Tu es un roc, Hank. Tu l'as toujours \u00e9t\u00e9.\" \u2014 Bobby Drake",
+        "flavor": "\"Tu es un roc, Hank. Tu l'as toujours été.\" — Bobby Drake",
         "name": "Ceinture de Bobby",
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2007006",
         "pack_code": "beast_by_proust",
@@ -138,7 +137,7 @@
         "resource_energy": 1,
         "set_code": "beast_by_proust",
         "set_position": 6,
-        "text": "Diminuez de 1 le co\u00fbt de cette carte si vous contr\u00f4lez une am\u00e9lioration avec le trait <b><i>TECH</i></b>.\nDiminuez de 1 les d\u00e9gats subis par le Fauve.",
+        "text": "Diminuez de 1 le coût de cette carte si vous contrôlez une amélioration avec le trait <b><i>TECH</i></b>.\nDiminuez de 1 les dégats subis par le Fauve.",
         "traits": "Objet. Tech.",
         "type_code": "upgrade"
     },
@@ -147,7 +146,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "hero",
-        "name": "R\u00e9acteur Arc de Tony",
+        "name": "Réacteur Arc de Tony",
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2007007",
         "pack_code": "beast_by_proust",
         "position": 7,
@@ -155,7 +154,7 @@
         "resource_energy": 1,
         "set_code": "beast_by_proust",
         "set_position": 7,
-        "text": "Diminuez de 1 le co\u00fbt de cette carte si vous contr\u00f4lez une am\u00e9lioration avec le trait <b><i>TECH</i></b>.\nVotre taille de main augmente de +1 tant que vous \u00eates sous forme de h\u00e9ros.",
+        "text": "Diminuez de 1 le coût de cette carte si vous contrôlez une amélioration avec le trait <b><i>TECH</i></b>.\nVotre taille de main augmente de +1 tant que vous êtes sous forme de héros.",
         "traits": "Objet. Tech.",
         "type_code": "upgrade"
     },
@@ -165,7 +164,7 @@
         "deck_limit": 1,
         "faction_code": "hero",
         "is_unique": true,
-        "name": "C\u00e9r\u00e9bro de Xavier",
+        "name": "Cérébro de Xavier",
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2007008",
         "pack_code": "beast_by_proust",
         "position": 8,
@@ -173,7 +172,7 @@
         "resource_mental": 1,
         "set_code": "beast_by_proust",
         "set_position": 8,
-        "text": "Cette carte entre en jeu avec 2 jetons Psy sur elle. Diminuez de 1 le co\u00fbt de cette carte si vous contr\u00f4lez une am\u00e9lioration avec le trait TECH.\n<b>Action de h\u00e9ros</b> : retirez 1 jeton Psy du C\u00e9r\u00e9bro de Xavier et inclinez-le \u2192 infligez 3 d\u00e9g\u00e2ts \u00e0 chacun des ennemis en jeu.",
+        "text": "Cette carte entre en jeu avec 2 jetons Psy sur elle. Diminuez de 1 le coût de cette carte si vous contrôlez une amélioration avec le trait TECH.\n<b>Action de héros</b> : retirez 1 jeton Psy du Cérébro de Xavier et inclinez-le → infligez 3 dégâts à chacun des ennemis en jeu.",
         "traits": "Objet. Tech.",
         "type_code": "upgrade"
     },
@@ -190,7 +189,7 @@
         "resource_energy": 1,
         "set_code": "beast_by_proust",
         "set_position": 9,
-        "text": "<b>Action de h\u00e9ros</b>: inclinez le <i>\"Laboratoire du Fauve\"</i> puis choisissez:\n. d\u00e9faussez une carte intercal\u00e9e sous le<i> \"Laboratoire du Fauve\"</i> puis redressez votre h\u00e9ros.\n. cherchez dans votre deck ou pile d\u00e9fausse une am\u00e9lioration avec le trait <b><i>TECH</i></b> puis intercalez-la sous le <i>\"Laboratoire du Fauve\"</i>.",
+        "text": "<b>Action de héros</b>: inclinez le <i>\"Laboratoire du Fauve\"</i> puis choisissez:\n. défaussez une carte intercalée sous le<i> \"Laboratoire du Fauve\"</i> puis redressez votre héros.\n. cherchez dans votre deck ou pile défausse une amélioration avec le trait <b><i>TECH</i></b> puis intercalez-la sous le <i>\"Laboratoire du Fauve\"</i>.",
         "traits": "Tactique.",
         "type_code": "event"
     },
@@ -207,7 +206,7 @@
         "resource_physical": 1,
         "set_code": "beast_by_proust",
         "set_position": 12,
-        "text": "<b>Action de h\u00e9ros</b>: infligez 6 d\u00e9g\u00e2ts \u00e0 un ennemi. Vous avez le droit d'incliner le <i>\"Laboratoire du Fauve\"</i> et de d\u00e9fausser 1 carte intercal\u00e9e dessous. Si vous le faites cette attaque gagne d\u00e9ferlement et inflige X d\u00e9g\u00e2ts suppl\u00e9mentaires X \u00e9tant \u00e9gal au co\u00fbt imprim\u00e9 de la carte ainsi d\u00e9fauss\u00e9e.",
+        "text": "<b>Action de héros</b>: infligez 6 dégâts à un ennemi. Vous avez le droit d'incliner le <i>\"Laboratoire du Fauve\"</i> et de défausser 1 carte intercalée dessous. Si vous le faites cette attaque gagne déferlement et inflige X dégâts supplémentaires X étant égal au coût imprimé de la carte ainsi défaussée.",
         "traits": "Attaque.",
         "type_code": "event"
     },
@@ -216,8 +215,8 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "hero",
-        "flavor": "<i>\"Plut\u00f4t que de l'argent ou des objets, donne-moi la v\u00e9rit\u00e9.\" \u2014 Le Fauve</i>",
-        "name": "G\u00e9nie Civil",
+        "flavor": "<i>\"Plutôt que de l'argent ou des objets, donne-moi la vérité.\" — Le Fauve</i>",
+        "name": "Génie Civil",
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2007011",
         "pack_code": "beast_by_proust",
         "position": 11,
@@ -225,7 +224,7 @@
         "resource_mental": 1,
         "set_code": "beast_by_proust",
         "set_position": 14,
-        "text": "<b>Action de h\u00e9ros</b>: retirez 3 menaces d'une manigance. Vous pouvez incliner le \"<i>Laboratoire du Fauve\"</i> et d\u00e9faussez une carte intercal\u00e9e dessous pour passer sous forme d'alter \u00e9go.",
+        "text": "<b>Action de héros</b>: retirez 3 menaces d'une manigance. Vous pouvez incliner le \"<i>Laboratoire du Fauve\"</i> et défaussez une carte intercalée dessous pour passer sous forme d'alter égo.",
         "traits": "Contre.",
         "type_code": "event"
     },
@@ -233,8 +232,8 @@
         "code": "800712",
         "deck_limit": 2,
         "faction_code": "hero",
-        "flavor": "<i>\"Avenger une fois, etc...\" \u2014 Le Fauve</i>",
-        "name": "G\u00e9nie de la Tech",
+        "flavor": "<i>\"Avenger une fois, etc...\" — Le Fauve</i>",
+        "name": "Génie de la Tech",
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2007012",
         "pack_code": "beast_by_proust",
         "position": 12,
@@ -242,7 +241,7 @@
         "resource_wild": 1,
         "set_code": "beast_by_proust",
         "set_position": 16,
-        "text": "<b>R\u00e9ponse de H\u00e9ros</b> : apr\u00e8s avoir d\u00e9pens\u00e9 cette carte, cherchez dans votre deck ou pile de d\u00e9fausse une am\u00e9lioration <b><i>TECH</i></b> et intercalez la sous le <i>\"Laboratoire du Fauve\"</i>.",
+        "text": "<b>Réponse de Héros</b> : après avoir dépensé cette carte, cherchez dans votre deck ou pile de défausse une amélioration <b><i>TECH</i></b> et intercalez la sous le <i>\"Laboratoire du Fauve\"</i>.",
         "type_code": "resource"
     }
 ]

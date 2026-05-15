@@ -23,7 +23,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "sabretooth_by_rycoran",
-        "text": "<i>Hunter's Instinct</i> \u2014 <b>Action</b>: Look at \tthe top 3 cards of the encounter deck. Put them back in any order. (Limit once per round).\n<i>\"I'm the best there is at what I do...just like Logan. Difference is, I do it with a smile.\"</i>",
+        "text": "<i>Hunter's Instinct</i> — <b>Action</b>: Look at \tthe top 3 cards of the encounter deck. Put them back in any order. (Limit once per round).\n<i>\"I'm the best there is at what I do...just like Logan. Difference is, I do it with a smile.\"</i>",
         "thwart": 1,
         "traits": "X-Men.",
         "type_code": "hero"
@@ -42,7 +42,7 @@
         "quantity": 1,
         "recover": 5,
         "set_code": "sabretooth_by_rycoran",
-        "text": "<i>Apex Predator</i> \u2014 <b>Setup</b>: Find the Sabretooth's Claws upgrade and \t\t\tadd it to your hand.\n<b>Action</b>: Search your discard pile for \t\t\ta Sabretooth card and add it to \t\t\tyour hand. (Limit once per round.)<i></i>",
+        "text": "<i>Apex Predator</i> — <b>Setup</b>: Find the Sabretooth's Claws upgrade and \t\t\tadd it to your hand.\n<b>Action</b>: Search your discard pile for \t\t\ta Sabretooth card and add it to \t\t\tyour hand. (Limit once per round.)<i></i>",
         "traits": "Mutant.",
         "type_code": "alter_ego"
     },
@@ -83,7 +83,7 @@
         "resource_physical": 1,
         "set_code": "sabretooth_by_rycoran",
         "set_position": 2,
-        "text": "<b>Hero Action</b><i> (attack)</i>: Deal 4 damage to an enemy and discard the top card of the encounter deck. For each icon <i>(</i>[star] <i>and </i>[boost]<i>)</i> discarded this way, deal 1 additional damage to that enemy. This attack gains piercing.\n<i>\u201cReady to die?\u201d</i>",
+        "text": "<b>Hero Action</b><i> (attack)</i>: Deal 4 damage to an enemy and discard the top card of the encounter deck. For each icon <i>(</i>[star] <i>and </i>[boost]<i>)</i> discarded this way, deal 1 additional damage to that enemy. This attack gains piercing.\n<i>“Ready to die?”</i>",
         "traits": "Attack.",
         "type_code": "event"
     },
@@ -100,7 +100,7 @@
         "resource_mental": 1,
         "set_code": "sabretooth_by_rycoran",
         "set_position": 4,
-        "text": "<b>Hero Action</b><i> (thwart)</i>: Remove 4 threat from a scheme and discard the top card of the encounter deck. For each icon <i>(</i>[star] <i>and </i>[boost]<i>)</i> discarded this way, remove 1 additional threat from that scheme.\n<i>\u201cNo cage, no plan, no chance. Not against me.\u201d</i>",
+        "text": "<b>Hero Action</b><i> (thwart)</i>: Remove 4 threat from a scheme and discard the top card of the encounter deck. For each icon <i>(</i>[star] <i>and </i>[boost]<i>)</i> discarded this way, remove 1 additional threat from that scheme.\n<i>“No cage, no plan, no chance. Not against me.”</i>",
         "traits": "Thwart.",
         "type_code": "event"
     },
@@ -134,7 +134,7 @@
         "resource_physical": 1,
         "set_code": "sabretooth_by_rycoran",
         "set_position": 8,
-        "text": "<b>Hero Action</b> <i>(attack)</i>: Exhaust Sabretooth's Claws \u2192 deal 8 damage to an enemy. This attack gains overkill.\n<i>\"Never met anyone who pushed me like the little guy. I want him dead, and I never want this fun to end. Wolverine. Can't live with him, can't live without him.\"</i>",
+        "text": "<b>Hero Action</b> <i>(attack)</i>: Exhaust Sabretooth's Claws → deal 8 damage to an enemy. This attack gains overkill.\n<i>\"Never met anyone who pushed me like the little guy. I want him dead, and I never want this fun to end. Wolverine. Can't live with him, can't live without him.\"</i>",
         "traits": "Attack.",
         "type_code": "event"
     },
@@ -151,7 +151,7 @@
         "resource_energy": 1,
         "set_code": "sabretooth_by_rycoran",
         "set_position": 9,
-        "text": "<b>Action</b>: Choose a player. Give that player 1 facedown encounter card \u2192 ready your identity and draw 1 card \t\t(2 cards instead if another player was chosen).\n<i>\"So you're still alive. Good. I wanna kill you slow and painful.\"</i>",
+        "text": "<b>Action</b>: Choose a player. Give that player 1 facedown encounter card → ready your identity and draw 1 card \t\t(2 cards instead if another player was chosen).\n<i>\"So you're still alive. Good. I wanna kill you slow and painful.\"</i>",
         "traits": "Skill.",
         "type_code": "event"
     },
@@ -168,7 +168,7 @@
         "resource_mental": 1,
         "set_code": "sabretooth_by_rycoran",
         "set_position": 11,
-        "text": "<b>Action</b>: Exhaust Feral Vitality and discard the top card of\t the encounter deck \u2192 heal damage from Sabretooth equal\t to the number of icons <i>(</i>[star] <i>and </i>[boost]<i>) </i>discarded this way.",
+        "text": "<b>Action</b>: Exhaust Feral Vitality and discard the top card of\t the encounter deck → heal damage from Sabretooth equal\t to the number of icons <i>(</i>[star] <i>and </i>[boost]<i>) </i>discarded this way.",
         "traits": "Condition.",
         "type_code": "upgrade"
     },
@@ -219,7 +219,7 @@
         "resource_mental": 1,
         "set_code": "sabretooth_by_rycoran",
         "set_position": 14,
-        "text": "Sabretooth gains steady.<b>\nResource</b>: Exhaust Razor Focus \u2192 generate a [wild]<i> </i>resource for an event.\n<i>\"Try to touch my head...I'll touch your guts!\"</i>",
+        "text": "Sabretooth gains steady.<b>\nResource</b>: Exhaust Razor Focus → generate a [wild]<i> </i>resource for an event.\n<i>\"Try to touch my head...I'll touch your guts!\"</i>",
         "traits": "Condition.",
         "type_code": "upgrade"
     },
@@ -237,7 +237,7 @@
         "resource_physical": 1,
         "set_code": "sabretooth_by_rycoran",
         "set_position": 15,
-        "text": "<b>Hero Action</b>: Discard the top card of the encounter deck \u2192 take damage equal to the number of icons on that card. Reduce the cost of the next event you play \tthis round by the damage taken. (Limit once per round.)",
+        "text": "<b>Hero Action</b>: Discard the top card of the encounter deck → take damage equal to the number of icons on that card. Reduce the cost of the next event you play \tthis round by the damage taken. (Limit once per round.)",
         "traits": "Weapon.",
         "type_code": "upgrade"
     },

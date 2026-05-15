@@ -9,13 +9,13 @@
         "position": 12,
         "quantity": 1,
         "set_code": "Gwenpool_by_ekAugust",
-        "text": "<b><i>Give to the Gwendolyn Poole player.</i></b>\nYou cannot use speech bubbles from Gwenpool cards.\n<b>Alter-Ego Action</b>: Exhaust Gwendolyn Poole and discard Unbelievable Gwenpool \u2192 remove THE END from the game.",
+        "text": "<b><i>Give to the Gwendolyn Poole player.</i></b>\nYou cannot use speech bubbles from Gwenpool cards.\n<b>Alter-Ego Action</b>: Exhaust Gwendolyn Poole and discard Unbelievable Gwenpool → remove THE END from the game.",
         "type_code": "obligation"
     },
     {
-        "boost": 3,
         "acceleration": true,
         "base_threat": 3,
+        "boost": 3,
         "code": "204413",
         "faction_code": "encounter",
         "name": "Rules of the Universe",

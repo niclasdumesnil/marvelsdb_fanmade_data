@@ -13,7 +13,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "havok_by_rainy",
-        "text": "<i>Rest & Recharge</i> \u2014 <b>Action</b>: Remove 1 plasma counter from here \u2192 heal 2 damage from Alex Summers. Search your deck and discard pile for a Cosmic Energy resource and add it to your hand. (Limit once per round.)",
+        "text": "<i>Rest & Recharge</i> — <b>Action</b>: Remove 1 plasma counter from here → heal 2 damage from Alex Summers. Search your deck and discard pile for a Cosmic Energy resource and add it to your hand. (Limit once per round.)",
         "traits": "Mutant.",
         "type_code": "alter_ego"
     },
@@ -41,7 +41,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "havok_by_rainy",
-        "text": "<i>Plasma Generation</i> \u2014 <b>Response</b>: After you pay for a card using only [energy] resources, place 1 plasma counter on Havok (to a maximum of 3).\n<i>\u201cYou keep this up and soon...you'll cry Havok!\u201d</i>",
+        "text": "<i>Plasma Generation</i> — <b>Response</b>: After you pay for a card using only [energy] resources, place 1 plasma counter on Havok (to a maximum of 3).\n<i>“You keep this up and soon...you'll cry Havok!”</i>",
         "thwart": 2,
         "traits": "X-Men.",
         "type_code": "hero"
@@ -83,7 +83,7 @@
         "resource_energy": 1,
         "set_code": "havok_by_rainy",
         "set_position": 2,
-        "text": "<b>Hero Interrupt </b><i>(defense)</i>:<b> </b>When you would take any amount of damage from an attack, prevent up to 4 of that damage. Then, if you took no damage from that attack, you may place a plasma counter on Havok (to a maximum of 3).\n<i>\u201cC'mon, give me all you've got!\u201d \u2014Havok</i>",
+        "text": "<b>Hero Interrupt </b><i>(defense)</i>:<b> </b>When you would take any amount of damage from an attack, prevent up to 4 of that damage. Then, if you took no damage from that attack, you may place a plasma counter on Havok (to a maximum of 3).\n<i>“C'mon, give me all you've got!” —Havok</i>",
         "traits": "Defense. Superpower.",
         "type_code": "event"
     },
@@ -100,7 +100,7 @@
         "resource_energy": 1,
         "set_code": "havok_by_rainy",
         "set_position": 4,
-        "text": "<b>Hero Action </b><i>(attack)</i>:<b> </b>Deal 3 damage to an enemy, plus 2 additional damage for each plasma counter on Havok. This attack gains overkill.\n<i>\u201cI've been afraid of letting loose ever since I first manifested my powers. But here goes!\u201d \u2014Havok</i>",
+        "text": "<b>Hero Action </b><i>(attack)</i>:<b> </b>Deal 3 damage to an enemy, plus 2 additional damage for each plasma counter on Havok. This attack gains overkill.\n<i>“I've been afraid of letting loose ever since I first manifested my powers. But here goes!” —Havok</i>",
         "traits": "Attack. Superpower.",
         "type_code": "event"
     },
@@ -117,7 +117,7 @@
         "resource_energy": 1,
         "set_code": "havok_by_rainy",
         "set_position": 6,
-        "text": "<b>Hero Action</b>:<b> </b>Resolve the \"<b>Special</b>\" ability on Plasma Discharge.\n<i>\u201cWith everything that's been happening, I actually find this pretty cathartic.\u201d \u2014Havok</i>",
+        "text": "<b>Hero Action</b>:<b> </b>Resolve the \"<b>Special</b>\" ability on Plasma Discharge.\n<i>“With everything that's been happening, I actually find this pretty cathartic.” —Havok</i>",
         "traits": "Superpower.",
         "type_code": "event"
     },
@@ -166,7 +166,7 @@
         "resource_physical": 1,
         "set_code": "havok_by_rainy",
         "set_position": 14,
-        "text": "<b>Hero Interrupt</b>: When you would resolve the \"<b>Special</b>\" ability on Plasma Discharge, exhaust Containment Suit and choose a player \u2192 deal 3 damage to the villain and each minion engaged with that player instead.",
+        "text": "<b>Hero Interrupt</b>: When you would resolve the \"<b>Special</b>\" ability on Plasma Discharge, exhaust Containment Suit and choose a player → deal 3 damage to the villain and each minion engaged with that player instead.",
         "traits": "Item.",
         "type_code": "upgrade"
     },
@@ -183,7 +183,7 @@
         "resource_mental": 1,
         "set_code": "havok_by_rainy",
         "set_position": 15,
-        "text": "<b>Hero Interrupt</b>: When you would resolve the \"<b>Special</b>\" ability on Plasma Discharge, remove 1 threat from each scheme instead.\n<i>\u201cYou'd be surprised how many problems you can solve with a controlled plasma blast.\u201d \u2014Havok</i>",
+        "text": "<b>Hero Interrupt</b>: When you would resolve the \"<b>Special</b>\" ability on Plasma Discharge, remove 1 threat from each scheme instead.\n<i>“You'd be surprised how many problems you can solve with a controlled plasma blast.” —Havok</i>",
         "traits": "Superpower.",
         "type_code": "upgrade"
     },
@@ -201,7 +201,7 @@
         "resource_energy": 1,
         "set_code": "havok_by_rainy",
         "set_position": 16,
-        "text": "Permanent. Setup.\n<b>Forced Response</b>: After you place a third plasma counter on Havok, remove all plasma counters on him. Resolve this card's \"<b>Special</b>\" ability.\n<b>Special</b>: Deal 1 damage to each enemy.\n<i>\u201cYou keep this up and soon...you'll cry Havok!\u201d \u2014Havok</i>",
+        "text": "Permanent. Setup.\n<b>Forced Response</b>: After you place a third plasma counter on Havok, remove all plasma counters on him. Resolve this card's \"<b>Special</b>\" ability.\n<b>Special</b>: Deal 1 damage to each enemy.\n<i>“You keep this up and soon...you'll cry Havok!” —Havok</i>",
         "traits": "Superpower.",
         "type_code": "upgrade"
     },
@@ -216,7 +216,7 @@
         "position": 11,
         "quantity": 1,
         "resource_energy": 1,
-        "text": "Team-Up (Cyclops and Havok). Max 1 per deck.<b>\nHero Action</b> <i>(attack)</i>: Deal 3 damage to an enemy. Deal 1 damage to each other enemy. This attack gains ranged.\n<i>\u201cJust like old times, eh Alex?\u201d \u2014Cyclops</i>",
+        "text": "Team-Up (Cyclops and Havok). Max 1 per deck.<b>\nHero Action</b> <i>(attack)</i>: Deal 3 damage to an enemy. Deal 1 damage to each other enemy. This attack gains ranged.\n<i>“Just like old times, eh Alex?” —Cyclops</i>",
         "traits": "Attack. Superpower.",
         "type_code": "event"
     }

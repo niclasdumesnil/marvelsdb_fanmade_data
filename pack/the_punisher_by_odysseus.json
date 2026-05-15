@@ -6,14 +6,14 @@
         "health": 10,
         "hidden": true,
         "is_unique": true,
-         "name": "Frank Castle",
+        "name": "Frank Castle",
         "octgn_id": "f909454d-57e7-4b92-b698-4eb768053001",
         "pack_code": "the_punisher_by_odysseus",
         "position": 1,
         "quantity": 1,
         "recover": 3,
         "set_code": "the_punisher",
-        "text": "<i>Setup</i>: Put The Skull upgrade into play.\nYou may include [[ATTACK]] events from any aspect in your deck.\n<i>Punisher's Arsenal</i> \u2014 <b>Action</b>: Discard cards from your deck until you discard an [[ATTACK]] event. Add it to your hand.",
+        "text": "<i>Setup</i>: Put The Skull upgrade into play.\nYou may include [[ATTACK]] events from any aspect in your deck.\n<i>Punisher's Arsenal</i> — <b>Action</b>: Discard cards from your deck until you discard an [[ATTACK]] event. Add it to your hand.",
         "traits": "Soldier.",
         "type_code": "alter_ego"
     },
@@ -21,17 +21,22 @@
         "attack": 2,
         "back_link": "205301b",
         "code": "205301a",
+        "deck_options": [
+            {
+                "trait": [
+                    "attack"
+                ],
+                "type": [
+                    "event"
+                ]
+            }
+        ],
         "defense": 2,
         "faction_code": "hero",
         "flavor": "\"I'm the last thing you're ever gonna see.\"",
         "hand_size": 5,
         "health": 10,
         "is_unique": true,
-        "name": "The Punisher",
-        "octgn_id": "f909454d-57e7-4b92-b698-4eb768053001",
-        "pack_code": "the_punisher_by_odysseus",
-        "position": 1,
-        "quantity": 1,
         "meta": {
             "colors": [
                 "#939598",
@@ -41,20 +46,13 @@
             ],
             "offset": "-35px -33px"
         },
-        "deck_options": [
-			{
-				
-				"trait": [
-					"attack"
-					
-				],
-				"type": [
-					"event"
-				]
-			}
-		],
+        "name": "The Punisher",
+        "octgn_id": "f909454d-57e7-4b92-b698-4eb768053001",
+        "pack_code": "the_punisher_by_odysseus",
+        "position": 1,
+        "quantity": 1,
         "set_code": "the_punisher",
-        "text": "<i>Vigilante Justice</i> \u2014 <b>Resource</b>: Generate a [wild] resource for an [[ATTACK]] event. (Limit once per phase.)",
+        "text": "<i>Vigilante Justice</i> — <b>Resource</b>: Generate a [wild] resource for an [[ATTACK]] event. (Limit once per phase.)",
         "thwart": 1,
         "traits": "Defender. Soldier.",
         "type_code": "hero"
@@ -68,6 +66,7 @@
         "name": "The Skull",
         "octgn_id": "f909454d-57e7-4b92-b698-4eb768053002",
         "pack_code": "the_punisher_by_odysseus",
+        "permanent": true,
         "position": 2,
         "quantity": 1,
         "resource_mental": 1,
@@ -75,15 +74,14 @@
         "set_position": 1,
         "text": "Permanent.\n<b>Hero Response</b>: After you play an [[ATTACK]] event, remove 1 threat from a scheme.",
         "traits": "Symbol.",
-        "type_code": "upgrade",
-        "permanent": true
+        "type_code": "upgrade"
     },
     {
         "code": "205303",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "hero",
-        "flavor": "\"Scum.\" \u2014Punisher",
+        "flavor": "\"Scum.\" —Punisher",
         "name": "Cleaning the Streets",
         "octgn_id": "f909454d-57e7-4b92-b698-4eb768053003",
         "pack_code": "the_punisher_by_odysseus",
@@ -101,7 +99,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "hero",
-        "flavor": "\"Knock-knock... time to die.\" \u2014Punisher",
+        "flavor": "\"Knock-knock... time to die.\" —Punisher",
         "name": "Dramatic Entrance",
         "octgn_id": "f909454d-57e7-4b92-b698-4eb768053004",
         "pack_code": "the_punisher_by_odysseus",
@@ -128,7 +126,7 @@
         "resource_energy": 1,
         "set_code": "the_punisher",
         "set_position": 7,
-        "text": "<b>Hero Action</b> <i>(attack)</i>: Make the following three attacks in order:\n\u2022 Deal 1 damage to an enemy.\n\u2022 Deal 1 damage to an enemy.\n\u2022 Deal 1 damage to an enemy.",
+        "text": "<b>Hero Action</b> <i>(attack)</i>: Make the following three attacks in order:\n• Deal 1 damage to an enemy.\n• Deal 1 damage to an enemy.\n• Deal 1 damage to an enemy.",
         "traits": "Attack.",
         "type_code": "event"
     },
@@ -154,7 +152,7 @@
         "cost": null,
         "deck_limit": 2,
         "faction_code": "hero",
-        "flavor": "\"Don't worry. I've enough for everyone.\" \u2014Punisher",
+        "flavor": "\"Don't worry. I've enough for everyone.\" —Punisher",
         "name": "Spare Ammo",
         "octgn_id": "f909454d-57e7-4b92-b698-4eb768053007",
         "pack_code": "the_punisher_by_odysseus",
@@ -188,7 +186,7 @@
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\"He's still comin! How's dat possible? He's not human!!!\" \u2014Random Mook",
+        "flavor": "\"He's still comin! How's dat possible? He's not human!!!\" —Random Mook",
         "name": "Body Armor",
         "octgn_id": "f909454d-57e7-4b92-b698-4eb768053009",
         "pack_code": "the_punisher_by_odysseus",
@@ -206,7 +204,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\"He's the second best at what he does.\" \u2014Wolverine",
+        "flavor": "\"He's the second best at what he does.\" —Wolverine",
         "name": "Combat Specialist",
         "octgn_id": "f909454d-57e7-4b92-b698-4eb768053010",
         "pack_code": "the_punisher_by_odysseus",
@@ -224,7 +222,7 @@
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\"He just keeps coming! He's not human!\" \u2014Maggia Goon",
+        "flavor": "\"He just keeps coming! He's not human!\" —Maggia Goon",
         "name": "Unstoppable",
         "octgn_id": "f909454d-57e7-4b92-b698-4eb768053011",
         "pack_code": "the_punisher_by_odysseus",
@@ -233,7 +231,7 @@
         "resource_physical": 1,
         "set_code": "the_punisher",
         "set_position": 16,
-        "text": "You cannot be stunned.\n<b>Action</b>: Discard this card \u2192 heal damage from your identity equal to [[ATTACK]] events in your discard pile.",
+        "text": "You cannot be stunned.\n<b>Action</b>: Discard this card → heal damage from your identity equal to [[ATTACK]] events in your discard pile.",
         "traits": "Skill.",
         "type_code": "upgrade"
     }

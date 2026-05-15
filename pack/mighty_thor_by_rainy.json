@@ -13,7 +13,7 @@
         "quantity": 1,
         "recover": 2,
         "set_code": "mighty_thor_by_rainy",
-        "text": "<i>Survivor</i> \u2014 Jane Foster gets +1 hand size while her Chemotherapy obligation is set aside or removed from the game.\n<i>Physician</i> \u2014 <b>Action</b>: Heal 1 damage from another friendly character. (Limit once per round.)<i></i>",
+        "text": "<i>Survivor</i> — Jane Foster gets +1 hand size while her Chemotherapy obligation is set aside or removed from the game.\n<i>Physician</i> — <b>Action</b>: Heal 1 damage from another friendly character. (Limit once per round.)<i></i>",
         "traits": "Civilian. Doctor.",
         "type_code": "alter_ego"
     },
@@ -41,7 +41,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "mighty_thor_by_rainy",
-        "text": "<i>Worthy</i> \u2014 <b>Action</b>: Search your deck and discard pile for the Mjolnir upgrade and add it to your hand. Shuffle your deck. (Limit once per round.)\n<i>\u201cThere must always be a Thor.\u201d</i>",
+        "text": "<i>Worthy</i> — <b>Action</b>: Search your deck and discard pile for the Mjolnir upgrade and add it to your hand. Shuffle your deck. (Limit once per round.)\n<i>“There must always be a Thor.”</i>",
         "thwart": 1,
         "traits": "Asgard. Avenger.",
         "type_code": "hero"
@@ -63,7 +63,7 @@
         "resource_wild": 1,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 1,
-        "text": "[star]<b> Interrupt</b>: When Roz Solomon thwarts, exhaust Congress of Worlds or a [[s.h.i.e.l.d.]] card you control \u2192 she gets +2 THW for that use.\n<i>\u201cLet's all remember the most important objective here... nobody break my earpieces. Those things aren't cheap.\u201d</i>",
+        "text": "[star]<b> Interrupt</b>: When Roz Solomon thwarts, exhaust Congress of Worlds or a [[s.h.i.e.l.d.]] card you control → she gets +2 THW for that use.\n<i>“Let's all remember the most important objective here... nobody break my earpieces. Those things aren't cheap.”</i>",
         "thwart": 2,
         "thwart_cost": 1,
         "thwart_star": true,
@@ -83,7 +83,7 @@
         "resource_physical": 1,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 2,
-        "text": "<b>Hero Action </b><i>(attack)</i>: Exhaust Mjolnir and spend 1 resource of any type \u2192 deal 4 damage to an enemy.\n<b>Hero Interrupt</b><i> (defense)</i>: When you would take any amount of damage, exhaust Mjolnir \u2192 prevent all of that damage.",
+        "text": "<b>Hero Action </b><i>(attack)</i>: Exhaust Mjolnir and spend 1 resource of any type → deal 4 damage to an enemy.\n<b>Hero Interrupt</b><i> (defense)</i>: When you would take any amount of damage, exhaust Mjolnir → prevent all of that damage.",
         "traits": "Attack. Defense.",
         "type_code": "event"
     },
@@ -100,7 +100,7 @@
         "resource_energy": 1,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 5,
-        "text": "<b>Hero Action </b><i>(attack)</i>: Deal 6 damage to an enemy and 1 damage to each enemy engaged with you. If you paid for this card using only [energy] resources, stun an enemy.\n<i>\u201cI command the lightning and the thunder!\u201d \u2014Thor</i>",
+        "text": "<b>Hero Action </b><i>(attack)</i>: Deal 6 damage to an enemy and 1 damage to each enemy engaged with you. If you paid for this card using only [energy] resources, stun an enemy.\n<i>“I command the lightning and the thunder!” —Thor</i>",
         "traits": "Attack. Superpower.",
         "type_code": "event"
     },
@@ -117,7 +117,7 @@
         "resource_energy": 1,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 7,
-        "text": "<b>Hero Action</b>: Ready Thor and Mjolnir. If you paid for this card using only [energy] resources, give Thor a tough status card.\n<i>\u201cYou shall not take this city! Not while Thor yet lives!\u201d</i>",
+        "text": "<b>Hero Action</b>: Ready Thor and Mjolnir. If you paid for this card using only [energy] resources, give Thor a tough status card.\n<i>“You shall not take this city! Not while Thor yet lives!”</i>",
         "traits": "Skill.",
         "type_code": "event"
     },
@@ -134,7 +134,7 @@
         "resource_mental": 1,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 9,
-        "text": "<b>Alter-Ego Action</b>: Exhaust Congress of Worlds and spend 1 resource of any type \u2192 remove 2 threat from the main scheme or 3 threat from a side scheme.\n<i>\u201cIs this the congress of worlds, or a confederation of cowards?\u201d \u2014Senator from Alfheim</i>",
+        "text": "<b>Alter-Ego Action</b>: Exhaust Congress of Worlds and spend 1 resource of any type → remove 2 threat from the main scheme or 3 threat from a side scheme.\n<i>“Is this the congress of worlds, or a confederation of cowards?” —Senator from Alfheim</i>",
         "traits": "Asgard. Location.",
         "type_code": "support"
     },
@@ -151,7 +151,7 @@
         "resource_physical": 1,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 10,
-        "text": "Jane Foster gets +2 REC.<b>\nAlter-Ego Action</b>: Exhaust Medical Clinic and spend 1 resource \u2192 heal 3 damage from an identity.\n<i>\u201cLet </i>us<i> worry about the other patients, doctor.\u201d</i>",
+        "text": "Jane Foster gets +2 REC.<b>\nAlter-Ego Action</b>: Exhaust Medical Clinic and spend 1 resource → heal 3 damage from an identity.\n<i>“Let </i>us<i> worry about the other patients, doctor.”</i>",
         "traits": "Location.",
         "type_code": "support"
     },
@@ -168,7 +168,7 @@
         "resource_mental": 1,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 11,
-        "text": "<b>Hero Action</b>: Exhaust Scrying Pool \u2192 look at the top card of a deck. You may discard that card. If a treachery was looked at this way, remove 1 threat from a scheme. If an event was looked at from a player deck this way, that player draws 1 card.",
+        "text": "<b>Hero Action</b>: Exhaust Scrying Pool → look at the top card of a deck. You may discard that card. If a treachery was looked at this way, remove 1 threat from a scheme. If an event was looked at from a player deck this way, that player draws 1 card.",
         "traits": "Asgard. Location.",
         "type_code": "support"
     },
@@ -185,7 +185,7 @@
         "resource_energy": 1,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 12,
-        "text": "<b>Hero Resource</b>: Exhaust Goddess of Thunder \u2192 generate a [energy] resource, or [energy][energy] resources instead for a Thor card.\n<i>\u201cStand down, or you too will know the wrath of the goddess of thunder!\u201d \u2014Thor</i>",
+        "text": "<b>Hero Resource</b>: Exhaust Goddess of Thunder → generate a [energy] resource, or [energy][energy] resources instead for a Thor card.\n<i>“Stand down, or you too will know the wrath of the goddess of thunder!” —Thor</i>",
         "traits": "Asgard. Title.",
         "type_code": "upgrade"
     },
@@ -202,7 +202,7 @@
         "resource_physical": 1,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 13,
-        "text": "You get +2 hit points.\nThor gets +1 DEF and gains retaliate 1.\n<i>\u201cYou came here seeking battle. Battle you have found!\u201d \u2014Thor</i>",
+        "text": "You get +2 hit points.\nThor gets +1 DEF and gains retaliate 1.\n<i>“You came here seeking battle. Battle you have found!” —Thor</i>",
         "traits": "Condition. Superpower.",
         "type_code": "upgrade"
     },
@@ -220,7 +220,7 @@
         "resource_energy": 2,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 14,
-        "text": "Restricted.\nThor gets +1 ATK and gains the [[aerial]] trait.\n<b>Hero Action</b> <i>(attack)</i>: Discard Mjolnir \u2192 deal 2 damage to an enemy. This attack gains ranged.",
+        "text": "Restricted.\nThor gets +1 ATK and gains the [[aerial]] trait.\n<b>Hero Action</b> <i>(attack)</i>: Discard Mjolnir → deal 2 damage to an enemy. This attack gains ranged.",
         "traits": "Asgard. Weapon.",
         "type_code": "upgrade"
     },
@@ -229,6 +229,7 @@
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "hero",
+        "flavor": "“It will take more than bullets to defeat me.”",
         "name": "Unyielding",
         "octgn_id": "a9f65411-f86b-48a8-bcac-0564be021012",
         "pack_code": "mighty_thor_by_rainy",
@@ -237,9 +238,8 @@
         "resource_physical": 1,
         "set_code": "mighty_thor_by_rainy",
         "set_position": 15,
-        "text": "<b>Hero Response</b> <i>(thwart)</i>: After you are attacked and take no damage, exhaust Unyielding \u2192 remove 2 threat from a scheme. You may spend 1 resource of any type to ready your hero.",
+        "text": "<b>Hero Response</b> <i>(thwart)</i>: After you are attacked and take no damage, exhaust Unyielding → remove 2 threat from a scheme. You may spend 1 resource of any type to ready your hero.",
         "traits": "Condition.",
-        "flavor": "\u201cIt will take more than bullets to defeat me.\u201d",
         "type_code": "upgrade"
     }
 ]

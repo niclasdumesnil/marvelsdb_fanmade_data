@@ -13,7 +13,7 @@
         "quantity": 1,
         "recover": 2,
         "set_code": "alligator_loki_by_ripper3",
-        "text": "<b>Setup</b>:<i> </i>Find Throg and add him to your hand.<i>\nNap Time</i> \u2014 <b>Forced Response</b>: After you switch to this form, detach Alligator Loki. You may make a basic recovery without exhausting.",
+        "text": "<b>Setup</b>:<i> </i>Find Throg and add him to your hand.<i>\nNap Time</i> — <b>Forced Response</b>: After you switch to this form, detach Alligator Loki. You may make a basic recovery without exhausting.",
         "traits": "Asgard. Creature.",
         "type_code": "alter_ego"
     },
@@ -41,7 +41,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "alligator_loki_by_ripper3",
-        "text": "Attached enemy gets -1 SCH and -1 ATK.\n<i>Lock Jaws</i> \u2014 <b>Interrupt</b>: When Alligator Loki makes a basic attack or defense against an enemy, attach Alligator Loki to that enemy.\n<b>Forced Response:</b> After attached enemy activates, detach Alligator Loki.",
+        "text": "Attached enemy gets -1 SCH and -1 ATK.\n<i>Lock Jaws</i> — <b>Interrupt</b>: When Alligator Loki makes a basic attack or defense against an enemy, attach Alligator Loki to that enemy.\n<b>Forced Response:</b> After attached enemy activates, detach Alligator Loki.",
         "thwart": 2,
         "traits": "Asgard. Creature.",
         "type_code": "hero"
@@ -63,7 +63,7 @@
         "scheme": 0,
         "set_code": "alligator_loki_by_ripper3",
         "set_position": 1,
-        "text": "Patrol.\n<b>Interrupt:</b> When Alligator Loki attacks Throg, that attack gains overkill.\n<b>When Defeated</b>: Remove 3 threat from a scheme. Shuffle Throg into the Alligator Loki player's deck.\n<i>\u201cI am neither god, man, nor frog.\u201d</i>",
+        "text": "Patrol.\n<b>Interrupt:</b> When Alligator Loki attacks Throg, that attack gains overkill.\n<b>When Defeated</b>: Remove 3 threat from a scheme. Shuffle Throg into the Alligator Loki player's deck.\n<i>“I am neither god, man, nor frog.”</i>",
         "traits": "Asgard. Creature.",
         "type_code": "player_minion"
     },
@@ -114,7 +114,7 @@
         "resource_wild": 1,
         "set_code": "alligator_loki_by_ripper3",
         "set_position": 8,
-        "text": "<b>Action</b>: Ready your identity. Search any deck and discard pile for the Throg minion and put him into play. Search the set-aside area, encounter deck and discard pile area for an attachment that can be attached to a minion and attach it to Throg.\n\u2022 Find a minion and put it into play engaged with you \u2192 draw 2 cards.",
+        "text": "<b>Action</b>: Ready your identity. Search any deck and discard pile for the Throg minion and put him into play. Search the set-aside area, encounter deck and discard pile area for an attachment that can be attached to a minion and attach it to Throg.\n• Find a minion and put it into play engaged with you → draw 2 cards.",
         "type_code": "event"
     },
     {
@@ -131,7 +131,7 @@
         "resource_energy": 1,
         "set_code": "alligator_loki_by_ripper3",
         "set_position": 9,
-        "text": "Alligator Loki gains the [[mystic ]]trait.\nWhile in hero form, Alligator Loki gets +1 THW.\n<b>Alter-Ego Resource:</b> Exhaust Loki \u2192 generate a [wild] resource.",
+        "text": "Alligator Loki gains the [[mystic ]]trait.\nWhile in hero form, Alligator Loki gets +1 THW.\n<b>Alter-Ego Resource:</b> Exhaust Loki → generate a [wild] resource.",
         "traits": "Asgard. Persona.",
         "type_code": "support"
     },
@@ -149,7 +149,7 @@
         "resource_mental": 1,
         "set_code": "alligator_loki_by_ripper3",
         "set_position": 10,
-        "text": "While in alter-ego form, Alligator Loki gets +1 REC.\n<b>Alter-Ego Action:</b> Exhaust Butterfly Swamp \u2192 shuffle 1 [[preparation ]]card from your discard pile into your deck. Draw 1 card.",
+        "text": "While in alter-ego form, Alligator Loki gets +1 REC.\n<b>Alter-Ego Action:</b> Exhaust Butterfly Swamp → shuffle 1 [[preparation ]]card from your discard pile into your deck. Draw 1 card.",
         "traits": "Location.",
         "type_code": "support"
     },
@@ -166,7 +166,7 @@
         "resource_energy": 1,
         "set_code": "alligator_loki_by_ripper3",
         "set_position": 11,
-        "text": "<b>Interrupt</b>: When attached character uses a basic power, exhaust Gator Aid \u2192 that character gets +1 to that power for this use. After this use, you may attach this to another friendly character.",
+        "text": "<b>Interrupt</b>: When attached character uses a basic power, exhaust Gator Aid → that character gets +1 to that power for this use. After this use, you may attach this to another friendly character.",
         "traits": "Skill.",
         "type_code": "upgrade"
     },
@@ -200,9 +200,8 @@
         "resource_physical": 1,
         "set_code": "alligator_loki_by_ripper3",
         "set_position": 13,
-        "text": "Max 1 per player.\n<b>Hero Response</b>: After a minion enters play, discard Lurking \u2192 Alligator Loki makes a basic attack against that minion without exhausting. Alligator Loki gets +1 ATK for this attack.",
+        "text": "Max 1 per player.\n<b>Hero Response</b>: After a minion enters play, discard Lurking → Alligator Loki makes a basic attack against that minion without exhausting. Alligator Loki gets +1 ATK for this attack.",
         "traits": "Preparation.",
         "type_code": "upgrade"
     }
-   
 ]

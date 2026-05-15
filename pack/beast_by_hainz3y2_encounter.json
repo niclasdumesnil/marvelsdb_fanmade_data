@@ -9,7 +9,7 @@
         "position": 12,
         "quantity": 1,
         "set_code": "beast_by_hainz3y2",
-        "text": "You may flip to alter-ego form. Choose:\nExhaust any 2 of your alter-ego, your hero-specific ally, or Beast's Lab \u2192 remove Mutation Degeneration from the game.\nExhaust your identity and take 2 damage. Discard this obligation.",
+        "text": "You may flip to alter-ego form. Choose:\nExhaust any 2 of your alter-ego, your hero-specific ally, or Beast's Lab → remove Mutation Degeneration from the game.\nExhaust your identity and take 2 damage. Discard this obligation.",
         "type_code": "obligation"
     },
     {
@@ -86,7 +86,7 @@
         "quantity": 1,
         "set_code": "beast_by_hainz3y2_nemesis",
         "set_position": 5,
-        "text": "Attach to your identity.\nTreat the text boxes of your hero and any [[superpower]] upgrades you control as if they were blank <i>(except for </i>[[traits]]<i>)</i>.\nYou cannnot play [[superpower ]]cards.\n<b>Alter-Ego Action</b>: Spend a [mental] resource and exhaust your identity \u2192 discard this card.",
+        "text": "Attach to your identity.\nTreat the text boxes of your hero and any [[superpower]] upgrades you control as if they were blank <i>(except for </i>[[traits]]<i>)</i>.\nYou cannnot play [[superpower ]]cards.\n<b>Alter-Ego Action</b>: Spend a [mental] resource and exhaust your identity → discard this card.",
         "traits": "Chemical.",
         "type_code": "attachment"
     }

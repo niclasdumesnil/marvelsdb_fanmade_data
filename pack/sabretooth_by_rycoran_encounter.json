@@ -9,7 +9,7 @@
         "position": 13,
         "quantity": 1,
         "set_code": "sabretooth_by_rycoran",
-        "text": "You may flip to alter-ego form. Choose:\n\u2022 Exhaust Victor Creed \u2192 remove Primal Impulses from the game.\n\u2022 Deal damage to another player equal to your ATK. If you cannot, place 3 threat on the main scheme instead. Discard this obligation.",
+        "text": "You may flip to alter-ego form. Choose:\n• Exhaust Victor Creed → remove Primal Impulses from the game.\n• Deal damage to another player equal to your ATK. If you cannot, place 3 threat on the main scheme instead. Discard this obligation.",
         "type_code": "obligation"
     },
     {
@@ -38,7 +38,7 @@
         "quantity": 1,
         "set_code": "sabretooth_by_rycoran_nemesis",
         "set_position": 1,
-        "text": "Linked (You've Taken Your Shot).\nAttach to your identity.\nYou get -2 REC.\n<b>Forced Response</b>: After your \tturn ends, take 1 damage.\n<b>Hero Action</b>: Spend [physical][energy] resources \u2192 discard this card.",
+        "text": "Linked (You've Taken Your Shot).\nAttach to your identity.\nYou get -2 REC.\n<b>Forced Response</b>: After your \tturn ends, take 1 damage.\n<b>Hero Action</b>: Spend [physical][energy] resources → discard this card.",
         "traits": "Condition.",
         "type_code": "attachment"
     },
@@ -72,7 +72,7 @@
         "quantity": 1,
         "set_code": "sabretooth_by_rycoran_nemesis",
         "set_position": 3,
-        "text": "Attach to the minion with\t\t\t\t\t\t the highest printed ATK. Otherwise, attach to the villain.\n[star] Attached enemy's attacks gain overkill and piercing.\n<b>Hero Action</b>: Spend [physical][energy] resources \u2192 discard this card.",
+        "text": "Attach to the minion with\t\t\t\t\t\t the highest printed ATK. Otherwise, attach to the villain.\n[star] Attached enemy's attacks gain overkill and piercing.\n<b>Hero Action</b>: Spend [physical][energy] resources → discard this card.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },
@@ -101,7 +101,7 @@
         "quantity": 1,
         "set_code": "sabretooth_by_rycoran_nemesis",
         "set_position": 5,
-        "text": "Attach to your identity.\nAttached identity cannot ready.\n<b>When Revealed</b>: You are stunned. If you are already stunned, this card gains surge. \t\t\t\t\t\t\n<b>Hero Action</b>: Spend [physical][mental] resources \u2192 discard this card.\n<i>\"You are exiled.\" \u2014Professor X</i>",
+        "text": "Attach to your identity.\nAttached identity cannot ready.\n<b>When Revealed</b>: You are stunned. If you are already stunned, this card gains surge. \t\t\t\t\t\t\n<b>Hero Action</b>: Spend [physical][mental] resources → discard this card.\n<i>\"You are exiled.\" —Professor X</i>",
         "traits": "Condition.",
         "type_code": "attachment"
     }

@@ -9,7 +9,7 @@
         "position": 12,
         "quantity": 1,
         "set_code": "Black_Bolt_by_1-2-punchboard",
-        "text": "<b><i>Give to the Blackagar Boltagon player.</i></b>\nYou may flip to alter-ego form. Choose:\n. Exhaust Blackagar Boltagon \u2192 remove Muzzled from the game.\n. Remove all electron counters from Black Bolt or Blackagar Boltagon. If no counters were removed, this card gains surge. Discard this obligation.",
+        "text": "<b><i>Give to the Blackagar Boltagon player.</i></b>\nYou may flip to alter-ego form. Choose:\n. Exhaust Blackagar Boltagon → remove Muzzled from the game.\n. Remove all electron counters from Black Bolt or Blackagar Boltagon. If no counters were removed, this card gains surge. Discard this obligation.",
         "type_code": "obligation"
     },
     {
@@ -28,7 +28,7 @@
         "scheme": 3,
         "set_code": "Black_Bolt_by_1-2-punchboard_nemesis",
         "set_position": 1,
-        "text": "[star] <b>Forced Response</b>: After Maximus the Mad attacks, remove 1 electron counter from Black Bolt.\n<i>\u201cI am my brother's keeper -- because that's what they made me to be.\u201d</i>",
+        "text": "[star] <b>Forced Response</b>: After Maximus the Mad attacks, remove 1 electron counter from Black Bolt.\n<i>“I am my brother's keeper -- because that's what they made me to be.”</i>",
         "traits": "Genius. Inhuman.",
         "type_code": "minion"
     },
@@ -44,7 +44,7 @@
         "quantity": 1,
         "set_code": "Black_Bolt_by_1-2-punchboard_nemesis",
         "set_position": 2,
-        "text": "<i>\u201cOh my brothers. It is our time to rejoice. We have been meek and downtrodden for too long.\u201d \u2014 Maximus the Mad</i>\n[hazard]",
+        "text": "<i>“Oh my brothers. It is our time to rejoice. We have been meek and downtrodden for too long.” — Maximus the Mad</i>\n[hazard]",
         "type_code": "side_scheme"
     },
     {
@@ -73,7 +73,7 @@
         "quantity": 1,
         "set_code": "Black_Bolt_by_1-2-punchboard_nemesis",
         "set_position": 5,
-        "text": "Attach to the villain.\n[star] <b>Forced Interrupt</b>: When the villain attacks you, give them 1 additional boost card for this activation. Discard the boost card with the least boost icons ([boost]) before resolving the attack.\n<b>Hero Action</b>: Spend [mental] [mental] resources \u2192 discard this card.",
+        "text": "Attach to the villain.\n[star] <b>Forced Interrupt</b>: When the villain attacks you, give them 1 additional boost card for this activation. Discard the boost card with the least boost icons ([boost]) before resolving the attack.\n<b>Hero Action</b>: Spend [mental] [mental] resources → discard this card.",
         "traits": "Experimental. Weapon.",
         "type_code": "attachment"
     }

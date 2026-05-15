@@ -9,7 +9,7 @@
         "position": 11,
         "quantity": 1,
         "set_code": "nightwing_by_ripper3",
-        "text": "You may flip to alter-ego form. Choose:\nExhaust Dick Grayson \u2192 remove Orphaned from the game.\nDiscard each card tucked beneath your identity. If no cards were discarded this way, this card gains surge. Discard this obligation.",
+        "text": "You may flip to alter-ego form. Choose:\nExhaust Dick Grayson → remove Orphaned from the game.\nDiscard each card tucked beneath your identity. If no cards were discarded this way, this card gains surge. Discard this obligation.",
         "type_code": "obligation"
     },
     {
@@ -24,7 +24,7 @@
         "quantity": 1,
         "set_code": "nightwing_by_ripper3_nemesis",
         "set_position": 1,
-        "text": "<i>\u201cI want this city to feel hope. Then I want to take that all away.\u201d\n</i><b>When Revealed</b>: Each player places a card with a printed [physical] resource from their hand facedown here. If they cannot, they place 1 threat here.\n [acceleration]\n <i>\n</i>",
+        "text": "<i>“I want this city to feel hope. Then I want to take that all away.”\n</i><b>When Revealed</b>: Each player places a card with a printed [physical] resource from their hand facedown here. If they cannot, they place 1 threat here.\n [acceleration]\n <i>\n</i>",
         "type_code": "side_scheme"
     },
     {
@@ -42,7 +42,7 @@
         "scheme": 1,
         "set_code": "nightwing_by_ripper3_nemesis",
         "set_position": 2,
-        "text": "Heartless gets +2 hit points for each printed [physical] resource tucked under him.\n<b>When Revealed:</b><i> </i>Discard cards from the top of your deck until you discard a printed [physical] resource. Tuck that card under Heartless.\n<i>(Nightwing's nemesis minion.)\n\u201cIs there someone who will miss you? ...Good\u201d</i>",
+        "text": "Heartless gets +2 hit points for each printed [physical] resource tucked under him.\n<b>When Revealed:</b><i> </i>Discard cards from the top of your deck until you discard a printed [physical] resource. Tuck that card under Heartless.\n<i>(Nightwing's nemesis minion.)\n“Is there someone who will miss you? ...Good”</i>",
         "traits": "Criminal.",
         "type_code": "minion"
     },

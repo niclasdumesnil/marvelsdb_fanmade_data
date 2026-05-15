@@ -13,7 +13,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "Captain_Britain_by_Hitch",
-        "text": "You may play cards attached to your identity as if they were in your hand. Max 1 attached card.\n<i>Telekinesis</i> \u2014 <b>Action</b>: Search your deck for a [[PSIONIC]] card and attach it faceup to your identity. (Limit once per round.)",
+        "text": "You may play cards attached to your identity as if they were in your hand. Max 1 attached card.\n<i>Telekinesis</i> — <b>Action</b>: Search your deck for a [[PSIONIC]] card and attach it faceup to your identity. (Limit once per round.)",
         "traits": "Psionic. Mutant.",
         "type_code": "alter_ego"
     },
@@ -40,15 +40,18 @@
         "position": 1,
         "quantity": 1,
         "set_code": "Captain_Britain_by_Hitch",
-        "text": "You may play cards attached to your identity as if they were in your hand.\n<i>Counter-attack</i> \u2014 <b>Response</b> <i>(attack)</i>: After you defend against an enemy attack and take no damage, deal damage to that enemy equal to your ATK.",
+        "text": "You may play cards attached to your identity as if they were in your hand.\n<i>Counter-attack</i> — <b>Response</b> <i>(attack)</i>: After you defend against an enemy attack and take no damage, deal damage to that enemy equal to your ATK.",
         "thwart": 2,
         "traits": "Excalibur. Psionic.",
         "type_code": "hero"
     },
     {
         "attack": 2,
+        "attack_cost": 1,
+        "attack_star": true,
         "code": "204202",
         "cost": 3,
+        "deck_limit": 1,
         "faction_code": "hero",
         "health": 3,
         "is_unique": true,
@@ -63,16 +66,14 @@
         "subname": "Brian Braddock",
         "text": "Toughness.\n[star] Captain Avalon's basic attack gains piercing. <i>(Discard any tough status cards from the target before dealing damage.)</i>",
         "thwart": 2,
-        "traits": "Otherworld.",
-        "type_code": "ally",
         "thwart_cost": 2,
-        "attack_cost": 1,
-        "attack_star": true,
-        "deck_limit": 1
+        "traits": "Otherworld.",
+        "type_code": "ally"
     },
     {
         "code": "204203",
         "cost": 1,
+        "deck_limit": 1,
         "faction_code": "hero",
         "name": "Telekinetic Sword",
         "octgn_id": "b7546cdd-468b-4441-b605-a8ec1b042003",
@@ -82,14 +83,14 @@
         "resource_energy": 1,
         "set_code": "Captain_Britain_by_Hitch",
         "set_position": 2,
-        "text": "Restricted.\nCaptain Britain gets +1 ATK.\n<b>Hero Interrupt</b>: When you make an attack, exhaust Telekinetic Sword \u2192 that attack gains piercing.",
+        "text": "Restricted.\nCaptain Britain gets +1 ATK.\n<b>Hero Interrupt</b>: When you make an attack, exhaust Telekinetic Sword → that attack gains piercing.",
         "traits": "Weapon. Psionic.",
-        "type_code": "upgrade",
-        "deck_limit": 1
+        "type_code": "upgrade"
     },
     {
         "code": "204204",
         "cost": 2,
+        "deck_limit": 1,
         "faction_code": "hero",
         "name": "Telekinetic Shield",
         "octgn_id": "b7546cdd-468b-4441-b605-a8ec1b042004",
@@ -99,14 +100,14 @@
         "resource_energy": 1,
         "set_code": "Captain_Britain_by_Hitch",
         "set_position": 3,
-        "text": "Restricted.\nCaptain Britain gets +1 DEF.\n<b>Hero Response</b>: After you defend against an attack, exhaust Telekinetic Shield \u2192 ready Captain Britain.",
+        "text": "Restricted.\nCaptain Britain gets +1 DEF.\n<b>Hero Response</b>: After you defend against an attack, exhaust Telekinetic Shield → ready Captain Britain.",
         "traits": "Weapon. Psionic.",
-        "type_code": "upgrade",
-        "deck_limit": 1
+        "type_code": "upgrade"
     },
     {
         "code": "204205",
         "cost": 2,
+        "deck_limit": 1,
         "faction_code": "hero",
         "name": "Amulet of Right",
         "octgn_id": "b7546cdd-468b-4441-b605-a8ec1b042005",
@@ -116,15 +117,16 @@
         "resource_mental": 1,
         "set_code": "Captain_Britain_by_Hitch",
         "set_position": 4,
-        "text": "You get +2 hit points.\n<b>Resource</b>: Exhaust Amulet of Right \u2192 generate a [wild] resource.",
+        "text": "You get +2 hit points.\n<b>Resource</b>: Exhaust Amulet of Right → generate a [wild] resource.",
         "traits": "Otherworld.",
-        "type_code": "upgrade",
-        "deck_limit": 1
+        "type_code": "upgrade"
     },
     {
         "code": "204206",
         "cost": 2,
+        "deck_limit": 1,
         "faction_code": "hero",
+        "flavor": "It was the seat of power of Excalibur for so long--it seems right to set up a gate there.",
         "name": "Braddock Lighthouse",
         "octgn_id": "b7546cdd-468b-4441-b605-a8ec1b042006",
         "pack_code": "Captain_Britain_by_Hitch",
@@ -133,16 +135,16 @@
         "resource_physical": 1,
         "set_code": "Captain_Britain_by_Hitch",
         "set_position": 5,
-        "text": "Betsy Braddock gets +2 REC.\n<b>Alter-Ego Action</b>: Exhaust Braddock Lighthouse \u2192 shuffle up to 2 events from the discard pile into your deck.",
+        "text": "Betsy Braddock gets +2 REC.\n<b>Alter-Ego Action</b>: Exhaust Braddock Lighthouse → shuffle up to 2 events from the discard pile into your deck.",
         "traits": "Location.",
-        "type_code": "support",
-        "flavor": "It was the seat of power of Excalibur for so long--it seems right to set up a gate there.",
-        "deck_limit": 1
+        "type_code": "support"
     },
     {
         "code": "204207",
         "cost": 2,
+        "deck_limit": 2,
         "faction_code": "hero",
+        "flavor": "I can't leave this place undefended!",
         "name": "Shield Bash",
         "octgn_id": "b7546cdd-468b-4441-b605-a8ec1b042007",
         "pack_code": "Captain_Britain_by_Hitch",
@@ -153,14 +155,14 @@
         "set_position": 6,
         "text": "<b>Hero Action</b> <i>(attack)</i>: Confuse an enemy. If you paid for this card using a [physical] resource, deal 4 damage to that enemy.",
         "traits": "Attack. Psionic.",
-        "type_code": "event",
-        "flavor": "I can't leave this place undefended!",
-        "deck_limit": 2
+        "type_code": "event"
     },
     {
         "code": "204208",
         "cost": 0,
+        "deck_limit": 2,
         "faction_code": "hero",
+        "flavor": "I'm sorry, I'm doing my best to settle this issue on the front lawn, but I'm being distracted by a nagging voice in my head--",
         "name": "Against the Tides",
         "octgn_id": "b7546cdd-468b-4441-b605-a8ec1b042008",
         "pack_code": "Captain_Britain_by_Hitch",
@@ -171,13 +173,12 @@
         "set_position": 8,
         "text": "<b>Hero Response</b>: After you defeat an enemy, ready Captain Britain.",
         "traits": "Skill.",
-        "type_code": "event",
-        "flavor" : "I'm sorry, I'm doing my best to settle this issue on the front lawn, but I'm being distracted by a nagging voice in my head--",
-        "deck_limit": 2
+        "type_code": "event"
     },
     {
         "code": "204209",
         "cost": 0,
+        "deck_limit": 2,
         "faction_code": "hero",
         "name": "Psionic Defense",
         "octgn_id": "b7546cdd-468b-4441-b605-a8ec1b042009",
@@ -189,12 +190,12 @@
         "set_position": 10,
         "text": "<b>Hero Interrupt</b> <i>(defense)</i>: When you defend against an attack, you get +3 DEF for that attack. If you take no damage from that attack, heal 1 damage for each point of excess damage blocked.",
         "traits": "Defense. Psionic.",
-        "type_code": "event",
-        "deck_limit": 2
+        "type_code": "event"
     },
     {
         "code": "204210",
         "cost": 2,
+        "deck_limit": 2,
         "faction_code": "hero",
         "name": "Psionic Blast",
         "octgn_id": "b7546cdd-468b-4441-b605-a8ec1b042010",
@@ -206,12 +207,12 @@
         "set_position": 12,
         "text": "<b>Hero Action</b> <i>(attack)</i>: Choose one:\n. Deal 1 damage to each enemy.\n. Deal 5 damage to an enemy.",
         "traits": "Attack. Psionic.",
-        "type_code": "event",
-        "deck_limit": 2        
+        "type_code": "event"
     },
     {
         "code": "204211",
         "cost": 0,
+        "deck_limit": 2,
         "faction_code": "hero",
         "name": "Provoke",
         "octgn_id": "b7546cdd-468b-4441-b605-a8ec1b042011",
@@ -223,7 +224,6 @@
         "set_position": 14,
         "text": "<b>Hero Action</b> <i>(thwart)</i>: Choose an enemy. That enemy attacks you. Remove threat from a scheme equal to your DEF.",
         "traits": "Tactic. Thwart.",
-        "type_code": "event",
-        "deck_limit": 2
+        "type_code": "event"
     }
 ]

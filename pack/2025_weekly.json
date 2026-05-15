@@ -1,147 +1,134 @@
 [
     {
-        "name": "Irresistible Charm",
-        "text": "Defeat the Enchantress scenario as any hero(es). After setup, place 5 charm counters on the [[Enchantment]] card in each player’s play area.",
+        "code": "999101",
         "expansions_needed": "Trickster Takeover Scenario Pack",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "Irresistible Charm",
+        "pack_code": "2025_weekly",
         "position": 1,
         "quantity": 1,
-        "code": "999101",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat the Enchantress scenario as any hero(es). After setup, place 5 charm counters on the [[Enchantment]] card in each player's play area.",
+        "type_code": "challenge"
     },
     {
-        "name": "Strength in Diversity",
-        "text": "Defeat any scenario as any hero(es). For this scenario, each player must adhere to the following deckbuilding restriction: no two allies in your deck can have any of the same printed traits, including identity-specific allies.",
+        "code": "999102",
         "expansions_needed": "Any",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "Strength in Diversity",
+        "pack_code": "2025_weekly",
         "position": 2,
         "quantity": 1,
-        "code": "999102",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat any scenario as any hero(es). For this scenario, each player must adhere to the following deckbuilding restriction: no two allies in your deck can have any of the same printed traits, including identity-specific allies.",
+        "type_code": "challenge"
     },
     {
-        "name": "The Futurist",
-        "text": "Defeat the Iron Man leader as any hero(es). During this scenario, whenever a Tech attachment is revealed, deal 2 indirect damage to each player, and whenever the Stark Tower side scheme is defeated, deal it to the first player as a facedown encounter card.",
+        "code": "999103",
         "expansions_needed": "Civil War",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "The Futurist",
+        "pack_code": "2025_weekly",
         "position": 3,
         "quantity": 1,
-        "code": "999103",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat the Iron Man leader as any hero(es). During this scenario, whenever a Tech attachment is revealed, deal 2 indirect damage to each player, and whenever the Stark Tower side scheme is defeated, deal it to the first player as a facedown encounter card.",
+        "type_code": "challenge"
     },
-     {
-        "name": "He Can Do This All Day",
-        "text": "Defeat the Captain America leader as any hero(es). During this scenario, after Cap’s Shield is attached to a hero, that hero’s player must choose either heal 6 damage from Captain America or Captain America attacks their hero.",
+    {
+        "code": "999104",
         "expansions_needed": "Civil War",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "He Can Do This All Day",
+        "pack_code": "2025_weekly",
         "position": 4,
         "quantity": 1,
-        "code": "999104",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat the Captain America leader as any hero(es). During this scenario, after Cap's Shield is attached to a hero, that hero's player must choose either heal 6 damage from Captain America or Captain America attacks their hero.",
+        "type_code": "challenge"
     },
     {
-        "name": "Infamous Antiheroes",
-        "text": "Defeat the Hood scenario as any hero(es). All 7 modular encounter sets used for this scenario must be Thunderbolt modular sets (see below for a list of legal encounter sets). During this scenario, all Thunderbolt minions lose the Victory keyword.\nThunderbolt modular sets: Gravitational Pull, Hard Sound, Pale Little Spider, Power of the Atom, Supersonic, The Leaper, Extreme Risk, Growing Strong, Techno, and Whiteout ",
+        "code": "999105",
         "expansions_needed": "The Hood Scenario Pack. Agents of S.H.I.E.L.D. At least one of the following: Black Panther Hero Pack, Silk Hero Pack, Falcon Hero Pack, Winter Soldier Hero Pack. ",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "Infamous Antiheroes",
+        "pack_code": "2025_weekly",
         "position": 5,
         "quantity": 1,
-        "code": "999105",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat the Hood scenario as any hero(es). All 7 modular encounter sets used for this scenario must be Thunderbolt modular sets (see below for a list of legal encounter sets). During this scenario, all Thunderbolt minions lose the Victory keyword.\nThunderbolt modular sets: Gravitational Pull, Hard Sound, Pale Little Spider, Power of the Atom, Supersonic, The Leaper, Extreme Risk, Growing Strong, Techno, and Whiteout ",
+        "type_code": "challenge"
     },
     {
-        "name": "Stealth Mission",
-        "text": "Defeat the Batroc scenario as any hero(es) using modular encounter sets that have at least 2 minions each.\nDuring this scenario, each minion gains the vulnerable keyword and the text: “<b>When Defeated</b>: The players lose the game.“",
+        "code": "999106",
         "expansions_needed": "Agents of S.H.I.E.L.D.",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "Stealth Mission",
+        "pack_code": "2025_weekly",
         "position": 6,
         "quantity": 1,
-        "code": "999106",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat the Batroc scenario as any hero(es) using modular encounter sets that have at least 2 minions each.\nDuring this scenario, each minion gains the vulnerable keyword and the text: “<b>When Defeated</b>: The players lose the game.“",
+        "type_code": "challenge"
     },
     {
-        "name": "Xavier’s Final Exam",
-        "text": "Defeat the Mansion Attack scenario as any hero(es). During this scenario, there is no ally limit, and only allies can attack the villain or thwart the main scheme.",
+        "code": "999107",
         "expansions_needed": "Mutant Genesis.",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "Xavier's Final Exam",
+        "pack_code": "2025_weekly",
         "position": 7,
         "quantity": 1,
-        "code": "999107",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat the Mansion Attack scenario as any hero(es). During this scenario, there is no ally limit, and only allies can attack the villain or thwart the main scheme.",
+        "type_code": "challenge"
     },
-     {
-        "name": "Unstoppable Momentum",
-        "text": "Defeat the Juggernaut scenario as any hero(es). During this scenario, momentum counters cannot be removed from Juggernaut.",
+    {
+        "code": "999108",
         "expansions_needed": "NeXt Evolution.",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "Unstoppable Momentum",
+        "pack_code": "2025_weekly",
         "position": 8,
         "quantity": 1,
-        "code": "999108",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat the Juggernaut scenario as any hero(es). During this scenario, momentum counters cannot be removed from Juggernaut.",
+        "type_code": "challenge"
     },
     {
-        "name": "Tag Team",
-        "text": "Defeat Unus using only heroes that have at least one identity-specific ally. After setup, each player finds their identity-specific ally and puts it into play. For this scenario, identity-specific allies do not take consequential damage, and if one of those allies ever leaves play, the players lose the game.",
+        "code": "999109",
         "expansions_needed": "Age of Apocalypse.",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "Tag Team",
+        "pack_code": "2025_weekly",
         "position": 9,
         "quantity": 1,
-        "code": "999109",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat Unus using only heroes that have at least one identity-specific ally. After setup, each player finds their identity-specific ally and puts it into play. For this scenario, identity-specific allies do not take consequential damage, and if one of those allies ever leaves play, the players lose the game.",
+        "type_code": "challenge"
     },
     {
-        "name": "Keep Them in the Air",
-        "text": "Defeat the Baron Zemo villain. One player must use the Maria Hill hero and include each of the following cards in their deck: The Circe, The Bellerophon, The Douglass, and The Pericles.\nAt the end of setup, the Maria Hill player searches their deck and discard pile for each S.H.I.E.L.D. support with a printed cost of 6 and puts them into play. During this scenario, if any of those supports ever leaves play, the players lose the game.",
+        "code": "999110",
         "expansions_needed": "Agents of S.H.I.E.L.D.",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "Keep Them in the Air",
+        "pack_code": "2025_weekly",
         "position": 10,
         "quantity": 1,
-        "code": "999110",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat the Baron Zemo villain. One player must use the Maria Hill hero and include each of the following cards in their deck: The Circe, The Bellerophon, The Douglass, and The Pericles.\nAt the end of setup, the Maria Hill player searches their deck and discard pile for each S.H.I.E.L.D. support with a printed cost of 6 and puts them into play. During this scenario, if any of those supports ever leaves play, the players lose the game.",
+        "type_code": "challenge"
     },
     {
-        "name": "Mojo’s Major Movie Mayhem",
-        "text": "Defeat the Mojo scenario as any hero(es). After setup, search the encounter deck for Major Domo and reveal him. During this scenario, Major Domo gains permanent and loses his Hero Action ability.",
+        "code": "999111",
         "expansions_needed": "MojoMania.",
-        "type_code": "challenge",
+        "faction_code": "game_module",
+        "name": "Mojo's Major Movie Mayhem",
+        "pack_code": "2025_weekly",
         "position": 11,
         "quantity": 1,
-        "code": "999111",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat the Mojo scenario as any hero(es). After setup, search the encounter deck for Major Domo and reveal him. During this scenario, Major Domo gains permanent and loses his Hero Action ability.",
+        "type_code": "challenge"
     },
     {
+        "code": "999112",
+        "expansions_needed": "Marvel Champions Core Set. Rise of Red Skull. Galaxy's Most Wanted. Mad Titan's Shadow. Sinister Motives. Mutant Genesis. NeXt Evolution. Age of Apocalypse. Agents of S.H.I.E.L.D.",
+        "faction_code": "game_module",
         "name": "A Close Call",
-        "text": "Defeat one of the following scenarios as any hero(es): Ultron, Red Skull, Ronan the Accuser, Thanos, Venom, Magneto, Stryfe, En Sabah Nur, or Baron Zemo.<br>During this scenario, the villain cannot be defeated unless either A) each identity has only 1 hit point remaining or B) the final stage of the main scheme is only 1 threat away from being completed. (For an even harder challenge, do both A and B at the same time.)",
-        "expansions_needed": "Marvel Champions Core Set. Rise of Red Skull. Galaxy’s Most Wanted. Mad Titan’s Shadow. Sinister Motives. Mutant Genesis. NeXt Evolution. Age of Apocalypse. Agents of S.H.I.E.L.D.",
-        "type_code": "challenge",
+        "pack_code": "2025_weekly",
         "position": 12,
         "quantity": 1,
-        "code": "999112",
-        "faction_code": "game_module",
-        "pack_code": "2025_weekly"
-				
+        "text": "Defeat one of the following scenarios as any hero(es): Ultron, Red Skull, Ronan the Accuser, Thanos, Venom, Magneto, Stryfe, En Sabah Nur, or Baron Zemo.<br>During this scenario, the villain cannot be defeated unless either A) each identity has only 1 hit point remaining or B) the final stage of the main scheme is only 1 threat away from being completed. (For an even harder challenge, do both A and B at the same time.)",
+        "type_code": "challenge"
     }
-     
 ]

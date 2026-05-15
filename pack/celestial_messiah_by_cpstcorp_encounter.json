@@ -173,7 +173,7 @@
         "quantity": 4,
         "set_code": "celestial_messiah_by_cpstcorp",
         "set_position": 6,
-        "text": "Permanent.\n<b>Forced Interrupt:</b> At the end of the player phase, take 1 indirect damage per vine counter here.\n<b>Action:</b> Spend 1 resource of any type \u2192 remove all vine counters here.",
+        "text": "Permanent.\n<b>Forced Interrupt:</b> At the end of the player phase, take 1 indirect damage per vine counter here.\n<b>Action:</b> Spend 1 resource of any type → remove all vine counters here.",
         "type_code": "attachment"
     },
     {
@@ -208,7 +208,7 @@
         "quantity": 2,
         "set_code": "celestial_messiah_by_cpstcorp",
         "set_position": 11,
-        "text": "Attach to Quoi. [star] Quoi's attacks gain piercing. If another Quoi's Golden Sword attachment is attached to Quoi, his attacks also gain overkill.\n<b>Hero Response:</b> After Quoi attacks you, spend a [physical] resource and place 1 vine counter on the Deadly Vines attached to you \u2192 discard this card.",
+        "text": "Attach to Quoi. [star] Quoi's attacks gain piercing. If another Quoi's Golden Sword attachment is attached to Quoi, his attacks also gain overkill.\n<b>Hero Response:</b> After Quoi attacks you, spend a [physical] resource and place 1 vine counter on the Deadly Vines attached to you → discard this card.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },

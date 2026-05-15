@@ -13,7 +13,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "spider_man_noir_by_matty",
-        "text": "<i>Great Depression</i> \u2014 During deck-building, your deck may not include any basic or aspect resource cards.\n<i>Brooding Detective</i> \u2014 <b>Action</b>: Seek 1 [[CLUE]] card from your deck and add it to your hand. (Limit once per round.)",
+        "text": "<i>Great Depression</i> — During deck-building, your deck may not include any basic or aspect resource cards.\n<i>Brooding Detective</i> — <b>Action</b>: Seek 1 [[CLUE]] card from your deck and add it to your hand. (Limit once per round.)",
         "traits": "Civilian. Detective.",
         "type_code": "alter_ego"
     },
@@ -21,9 +21,16 @@
         "attack": 1,
         "back_link": "204701b",
         "code": "204701a",
+        "deck_requirements": [
+            {
+                "type_limit": {
+                    "resource": 4
+                }
+            }
+        ],
         "defense": 3,
         "faction_code": "hero",
-        "flavor": "\u201cI collect facts, and when I determine who the bad guys are, I punish them.\u201d",
+        "flavor": "“I collect facts, and when I determine who the bad guys are, I punish them.”",
         "hand_size": 5,
         "health": 10,
         "is_unique": true,
@@ -42,15 +49,10 @@
         "position": 1,
         "quantity": 1,
         "set_code": "spider_man_noir_by_matty",
-        "text": "<i>Vigilante Justice</i> \u2014 <b>Response</b>: After you set 1 [[CLUE]] card aside, deal 1 damage to an enemy or remove 1 threat from a scheme. (Limit once per phase.)",
+        "text": "<i>Vigilante Justice</i> — <b>Response</b>: After you set 1 [[CLUE]] card aside, deal 1 damage to an enemy or remove 1 threat from a scheme. (Limit once per phase.)",
         "thwart": 2,
         "traits": "Detective. Noir. Web-Warrior.",
-        "type_code": "hero",
-        "deck_requirements": [
-			{
-				"type_limit": { "resource": 4 }
-			}
-    ]
+        "type_code": "hero"
     },
     {
         "code": "204702",
@@ -94,7 +96,7 @@
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "hero",
-        "flavor": "\u201cYou and me have some unfinished business.\u201d",
+        "flavor": "“You and me have some unfinished business.”",
         "name": "Thwip!",
         "octgn_id": "cd4be2b6-ce23-48c1-be04-17bab8047004",
         "pack_code": "spider_man_noir_by_matty",
@@ -112,7 +114,7 @@
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "hero",
-        "flavor": "\u201cWherever I go, the wind follows.\u201d",
+        "flavor": "“Wherever I go, the wind follows.”",
         "name": "With The Wind",
         "octgn_id": "cd4be2b6-ce23-48c1-be04-17bab8047005",
         "pack_code": "spider_man_noir_by_matty",
@@ -130,7 +132,7 @@
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "hero",
-        "name": "\u201cIt's Curtains For You!\u201d",
+        "name": "“It's Curtains For You!”",
         "octgn_id": "cd4be2b6-ce23-48c1-be04-17bab8047006",
         "pack_code": "spider_man_noir_by_matty",
         "position": 6,
@@ -147,7 +149,7 @@
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "hero",
-        "name": "\u201cThe Jig Is Up!\u201d",
+        "name": "“The Jig Is Up!”",
         "octgn_id": "cd4be2b6-ce23-48c1-be04-17bab8047007",
         "pack_code": "spider_man_noir_by_matty",
         "position": 7,
@@ -164,7 +166,7 @@
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "hero",
-        "flavor": "\u201cAPPLESAUCE!\u201d",
+        "flavor": "“APPLESAUCE!”",
         "name": "Knuckle Sandwich",
         "octgn_id": "cd4be2b6-ce23-48c1-be04-17bab8047008",
         "pack_code": "spider_man_noir_by_matty",
@@ -173,7 +175,7 @@
         "resource_physical": 1,
         "set_code": "spider_man_noir_by_matty",
         "set_position": 10,
-        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal 5 damage to an enemy. If your case's strength is at least:\n1 or 2 \u2014 Stun or confuse an enemy.\n3 or 4 \u2014 Deal 2 damage to an enemy.\n5 \u2014 Heal 2 damage.",
+        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal 5 damage to an enemy. If your case's strength is at least:\n1 or 2 — Stun or confuse an enemy.\n3 or 4 — Deal 2 damage to an enemy.\n5 — Heal 2 damage.",
         "traits": "Attack.",
         "type_code": "event"
     },
@@ -182,7 +184,7 @@
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\u201cYou really are the cat's meow!\u201d - Peter Parker",
+        "flavor": "“You really are the cat's meow!” - Peter Parker",
         "is_unique": true,
         "name": "Felicia's Apartment",
         "octgn_id": "cd4be2b6-ce23-48c1-be04-17bab8047009",
@@ -192,7 +194,7 @@
         "resource_energy": 1,
         "set_code": "spider_man_noir_by_matty",
         "set_position": 12,
-        "text": "<b>Alter-Ego Action</b>: Exhaust Felicia's Apartment \u2192 discard up to 3 cards from your deck. Heal 1 damage from Peter Parker for each card discarded this way.",
+        "text": "<b>Alter-Ego Action</b>: Exhaust Felicia's Apartment → discard up to 3 cards from your deck. Heal 1 damage from Peter Parker for each card discarded this way.",
         "traits": "Location.",
         "type_code": "support"
     },
@@ -209,7 +211,7 @@
         "resource_wild": 1,
         "set_code": "spider_man_noir_by_matty",
         "set_position": 13,
-        "text": "<b>Alter-Ego Action</b>: Exhaust Spider-Totem \u2192 shuffle 1 Spider-Man Noir or [[CLUE]] card from your discard pile into your deck. You may not resolve Peter Parker's \u201cBrooding Detective\u201d ability again this round. Draw 1 card.",
+        "text": "<b>Alter-Ego Action</b>: Exhaust Spider-Totem → shuffle 1 Spider-Man Noir or [[CLUE]] card from your discard pile into your deck. You may not resolve Peter Parker's “Brooding Detective” ability again this round. Draw 1 card.",
         "traits": "Artifact. Item.",
         "type_code": "upgrade"
     },
@@ -218,7 +220,7 @@
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\u201cIf you want to end something fast, you can't be afraid to get your hands dirty.\u201d",
+        "flavor": "“If you want to end something fast, you can't be afraid to get your hands dirty.”",
         "is_unique": true,
         "name": "Spider-Man Noir's Gun",
         "octgn_id": "cd4be2b6-ce23-48c1-be04-17bab8047011",
@@ -228,7 +230,7 @@
         "resource_energy": 1,
         "set_code": "spider_man_noir_by_matty",
         "set_position": 14,
-        "text": "<b>Hero Response</b>: After you play an [[ATTACK]] or [[THWART]] event, exhaust Spider-Man Noir's Gun \u2192 discard cards from the top of your deck equal to that event's printed cost.",
+        "text": "<b>Hero Response</b>: After you play an [[ATTACK]] or [[THWART]] event, exhaust Spider-Man Noir's Gun → discard cards from the top of your deck equal to that event's printed cost.",
         "traits": "Weapon.",
         "type_code": "upgrade"
     },
@@ -237,7 +239,7 @@
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\u201cSpider-senses, tingling!\u201d",
+        "flavor": "“Spider-senses, tingling!”",
         "name": "Spider-Sense",
         "octgn_id": "cd4be2b6-ce23-48c1-be04-17bab8047012",
         "pack_code": "spider_man_noir_by_matty",
@@ -263,7 +265,7 @@
         "resource_mental": 1,
         "set_code": "spider_man_noir_by_matty",
         "set_position": 16,
-        "text": "<b>Action</b>: Exhaust Inner Monologue \u2192 discard up to X cards from your deck, where X is equal to your case's strength. Reduce the cost of the next card you play this phase by the number of printed resource types discarded this way.",
+        "text": "<b>Action</b>: Exhaust Inner Monologue → discard up to X cards from your deck, where X is equal to your case's strength. Reduce the cost of the next card you play this phase by the number of printed resource types discarded this way.",
         "traits": "Skill.",
         "type_code": "upgrade"
     },

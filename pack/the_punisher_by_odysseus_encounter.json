@@ -9,7 +9,7 @@
         "position": 12,
         "quantity": 1,
         "set_code": "the_punisher",
-        "text": "<b>Give to the Frank Castle player.</b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust Frank Castle \u2192 remove Dealing with the Law from the game.\n\u2022 Discard all [[ATTACK]] cards from your hand. If no [[ATTACK]] cards were discarded this way, this obligation gains surge. Discard this obligation.",
+        "text": "<b>Give to the Frank Castle player.</b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Frank Castle → remove Dealing with the Law from the game.\n• Discard all [[ATTACK]] cards from your hand. If no [[ATTACK]] cards were discarded this way, this obligation gains surge. Discard this obligation.",
         "type_code": "obligation"
     },
     {
@@ -96,7 +96,7 @@
         "quantity": 1,
         "set_code": "the_punisher_nemesis",
         "set_position": 5,
-        "text": "Attach to your identity card.\nYour hero may not attack, thwart or defend.\n<b>Alter Ego Action</b>: Discard an event card \u2192 discard this attachment.",
+        "text": "Attach to your identity card.\nYour hero may not attack, thwart or defend.\n<b>Alter Ego Action</b>: Discard an event card → discard this attachment.",
         "type_code": "attachment"
     }
 ]

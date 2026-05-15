@@ -13,7 +13,7 @@
         "quantity": 1,
         "recover": 4,
         "set_code": "blue_marvel_by_rainy",
-        "text": "<b>Setup</b>: Put the Matter Manipulation upgrade into play.<i>\nPrepared</i> \u2014 <b>Action</b>: Choose a Blue Marvel card in your discard pile and place it on the top of your deck. (Limit once per round.)",
+        "text": "<b>Setup</b>: Put the Matter Manipulation upgrade into play.<i>\nPrepared</i> — <b>Action</b>: Choose a Blue Marvel card in your discard pile and place it on the top of your deck. (Limit once per round.)",
         "traits": "Genius. Scientist. Soldier.",
         "type_code": "alter_ego"
     },
@@ -41,7 +41,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "blue_marvel_by_rainy",
-        "text": "<i>Living Antimatter Reactor</i> \u2014 <b>Resource</b>: Generate a [energy] resource. (Limit once per phase).\n<i>\u201cI'd do whatever is right, wherever and whenever it needs to be done - and I wouldn't care what anyone thinks. Not anymore.\u201d</i>",
+        "text": "<i>Living Antimatter Reactor</i> — <b>Resource</b>: Generate a [energy] resource. (Limit once per phase).\n<i>“I'd do whatever is right, wherever and whenever it needs to be done - and I wouldn't care what anyone thinks. Not anymore.”</i>",
         "thwart": 2,
         "traits": "Aerial. Avenger. Soldier.",
         "type_code": "hero"
@@ -82,7 +82,7 @@
         "set_code": "blue_marvel_by_rainy",
         "set_position": 2,
         "subname": "Monica Rambeau",
-        "text": "[star] Spectrum gets +1 hit point for each energy counter on her.\n<b>Interrupt</b>: When Spectrum enters play, place 1 energy counter on her (to a maximum of 3) for each resource you overpaid for Spectrum's cost.\n<i>\u201cThe name is Monica, or Spectrum if you're nasty.\u201d</i>",
+        "text": "[star] Spectrum gets +1 hit point for each energy counter on her.\n<b>Interrupt</b>: When Spectrum enters play, place 1 energy counter on her (to a maximum of 3) for each resource you overpaid for Spectrum's cost.\n<i>“The name is Monica, or Spectrum if you're nasty.”</i>",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Aerial. Avenger.",
@@ -101,7 +101,7 @@
         "resource_energy": 1,
         "set_code": "blue_marvel_by_rainy",
         "set_position": 3,
-        "text": "<b>Hero Interrupt </b><i>(defense)</i>: When you would take damage from an enemy attack, prevent all of that damage. If you overpaid for this card, deal that much damage to your attacker.\n<i>\u201cDon't try it!\u201d</i>",
+        "text": "<b>Hero Interrupt </b><i>(defense)</i>: When you would take damage from an enemy attack, prevent all of that damage. If you overpaid for this card, deal that much damage to your attacker.\n<i>“Don't try it!”</i>",
         "traits": "Defense. Superpower.",
         "type_code": "event"
     },
@@ -118,7 +118,7 @@
         "resource_mental": 1,
         "set_code": "blue_marvel_by_rainy",
         "set_position": 6,
-        "text": "<b>Hero Action </b><i>(thwart)</i>: Remove 3 threat from a scheme. If you overpaid for this card, remove 2 additional threat and this thwart ignores the crisis icon ([crisis]).\n<i>\u201cMy greatest power cannot be measured in feats of strength or cosmic awareness, but in possibilities.\u201d</i>",
+        "text": "<b>Hero Action </b><i>(thwart)</i>: Remove 3 threat from a scheme. If you overpaid for this card, remove 2 additional threat and this thwart ignores the crisis icon ([crisis]).\n<i>“My greatest power cannot be measured in feats of strength or cosmic awareness, but in possibilities.”</i>",
         "traits": "Superpower. Thwart.",
         "type_code": "event"
     },
@@ -153,7 +153,7 @@
         "resource_physical": 1,
         "set_code": "blue_marvel_by_rainy",
         "set_position": 11,
-        "text": "<b>Action</b>: Exhaust Kadesh Base \u2192 draw 1 card (2 cards instead if you are in alter-ego), then choose 1 card in your hand and shuffle it into your deck.\n<i>The undersea home of Dr. Adam Brashear, located at the bottom of the Marianas Trench.</i>",
+        "text": "<b>Action</b>: Exhaust Kadesh Base → draw 1 card (2 cards instead if you are in alter-ego), then choose 1 card in your hand and shuffle it into your deck.\n<i>The undersea home of Dr. Adam Brashear, located at the bottom of the Marianas Trench.</i>",
         "traits": "Location.",
         "type_code": "support"
     },
@@ -171,7 +171,7 @@
         "resource_mental": 1,
         "set_code": "blue_marvel_by_rainy",
         "set_position": 12,
-        "text": "<b>Action</b>: Exhaust Uatu the Watcher \u2192 search the top 3 cards of your deck for a card and add it to your hand. Shuffle your deck.\n<i>\"Uatu, if you pull your \"I cannot interfere\" face any harder, you're going to prolapse.\u201d \u2014Blue Marvel</i>",
+        "text": "<b>Action</b>: Exhaust Uatu the Watcher → search the top 3 cards of your deck for a card and add it to your hand. Shuffle your deck.\n<i>\"Uatu, if you pull your \"I cannot interfere\" face any harder, you're going to prolapse.” —Blue Marvel</i>",
         "traits": "Cosmic Entity. Persona.",
         "type_code": "support"
     },
@@ -188,7 +188,7 @@
         "resource_energy": 1,
         "set_code": "blue_marvel_by_rainy",
         "set_position": 13,
-        "text": "<b>Resource</b>: Spend a [energy] resource \u2192 generate [energy][energy] resources. (Limit once per phase).\n<i>\u201cShield your eyes, I'm going to unleash my full power!\u201d \u2014Blue Marvel</i>",
+        "text": "<b>Resource</b>: Spend a [energy] resource → generate [energy][energy] resources. (Limit once per phase).\n<i>“Shield your eyes, I'm going to unleash my full power!” —Blue Marvel</i>",
         "traits": "Superpower.",
         "type_code": "upgrade"
     },
@@ -206,7 +206,7 @@
         "resource_physical": 1,
         "set_code": "blue_marvel_by_rainy",
         "set_position": 14,
-        "text": "You get +2 hit points.<b>\nHero Response</b>:<b> </b>After you overpay for a card, deal 1 damage to an enemy for each resource you overpaid for that card's cost.\n<i>\u201cActually, it's one of my late wife's designs.\" \u2014Blue Marvel</i>",
+        "text": "You get +2 hit points.<b>\nHero Response</b>:<b> </b>After you overpay for a card, deal 1 damage to an enemy for each resource you overpaid for that card's cost.\n<i>“Actually, it's one of my late wife's designs.\" —Blue Marvel</i>",
         "traits": "Armor.",
         "type_code": "upgrade"
     },
@@ -223,7 +223,7 @@
         "resource_mental": 1,
         "set_code": "blue_marvel_by_rainy",
         "set_position": 15,
-        "text": "<b>Interrupt</b>: When you reveal an encounter card or your obligation is revealed, ready your hero (you may change to hero form first). If you cannot, remove 2 threat from a scheme. (Limit once per phase).\n<i>\u201cComputer, monitor emergency traffic.\" </i>",
+        "text": "<b>Interrupt</b>: When you reveal an encounter card or your obligation is revealed, ready your hero (you may change to hero form first). If you cannot, remove 2 threat from a scheme. (Limit once per phase).\n<i>“Computer, monitor emergency traffic.\" </i>",
         "traits": "Tech.",
         "type_code": "upgrade"
     },

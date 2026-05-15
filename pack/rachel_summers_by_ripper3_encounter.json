@@ -9,7 +9,7 @@
         "position": 11,
         "quantity": 1,
         "set_code": "rachel_summers_by_ripper3",
-        "text": "Rachel Summers gets +2 ATK and -2 THW.\n<b>Hero Response</b>: After Rachel Summers attacks, discard this card \u2192 resolve her \u201c<i>Mind Burn</i>\u201d ability.\n [acceleration]",
+        "text": "Rachel Summers gets +2 ATK and -2 THW.\n<b>Hero Response</b>: After Rachel Summers attacks, discard this card → resolve her “<i>Mind Burn</i>” ability.\n [acceleration]",
         "type_code": "obligation"
     },
     {
@@ -43,7 +43,7 @@
         "scheme": 2,
         "set_code": "rachel_summers_by_ripper3_nemesis",
         "set_position": 2,
-        "text": "Toughness.\n<i>(Rachel Summer's nemesis minion.)\n\u201cTime to go, then. Hounds, HEEL! That includes you, Rachel...\u201d</i>",
+        "text": "Toughness.\n<i>(Rachel Summer's nemesis minion.)\n“Time to go, then. Hounds, HEEL! That includes you, Rachel...”</i>",
         "traits": "Cyborg. Tracker.",
         "type_code": "minion"
     },
@@ -78,7 +78,7 @@
         "quantity": 1,
         "set_code": "rachel_summers_tribulation_by_ripper3",
         "set_position": 1,
-        "text": "Victory 1.\nEach enemy gets +1 SCH (+2 SCH if that enemy is [[psionic]]).\n<b>When Defeated:</b> Resolve Rachel Summer's <i>\u201cMind Burn\u201d</i> ability against each enemy in play. <i>(Rachel Summer's Tribulation.)\n</i>",
+        "text": "Victory 1.\nEach enemy gets +1 SCH (+2 SCH if that enemy is [[psionic]]).\n<b>When Defeated:</b> Resolve Rachel Summer's <i>“Mind Burn”</i> ability against each enemy in play. <i>(Rachel Summer's Tribulation.)\n</i>",
         "type_code": "side_scheme"
     },
     {

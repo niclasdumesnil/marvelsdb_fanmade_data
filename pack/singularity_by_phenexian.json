@@ -36,7 +36,7 @@
         "quantity": 1,
         "set_code": "singularity_by_phenexian",
         "set_position": 1,
-        "text": "<i>Pocket Universe</i> \u2014 <b>Action</b>: Place an ally in play facedown under Singularity. (Max 3 cards. Limit once per phase.)\n<b>Action</b>: Play an ally under Singularity as if they were in you hand, or put a minion under Singularity into play engaged with any player.",
+        "text": "<i>Pocket Universe</i> — <b>Action</b>: Place an ally in play facedown under Singularity. (Max 3 cards. Limit once per phase.)\n<b>Action</b>: Play an ally under Singularity as if they were in you hand, or put a minion under Singularity into play engaged with any player.",
         "thwart": 2,
         "traits": "A-Force. Aerial. Cosmic Entity.",
         "type_code": "hero"
@@ -59,7 +59,7 @@
         "recover": 3,
         "set_code": "singularity_by_phenexian",
         "set_position": 1,
-        "text": "Memories from Arcadia's effect applies during deck building.\n<i>Childlike Curiosity</i> \u2014 <b>Action</b>: Discard a card from your hand \u2192 draw a card. (Limit once per round.)",
+        "text": "Memories from Arcadia's effect applies during deck building.\n<i>Childlike Curiosity</i> — <b>Action</b>: Discard a card from your hand → draw a card. (Limit once per round.)",
         "traits": "Cosmic Entity.",
         "type_code": "alter_ego"
     },
@@ -88,7 +88,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\"Nico. Who showed me what love means. And heartbreak.\" \u2014Singularity",
+        "flavor": "\"Nico. Who showed me what love means. And heartbreak.\" —Singularity",
         "health": 2,
         "is_unique": true,
         "name": "Sister Grimm",
@@ -121,7 +121,7 @@
         "resource_mental": 1,
         "set_code": "singularity_by_phenexian",
         "set_position": 4,
-        "text": "<b>Resource</b>: Exhaust Smile \u2192 generate a [wild] resource for an ally or ally ability.",
+        "text": "<b>Resource</b>: Exhaust Smile → generate a [wild] resource for an ally or ally ability.",
         "traits": "Memory.",
         "type_code": "upgrade"
     },
@@ -140,7 +140,7 @@
         "resource_mental": 1,
         "set_code": "singularity_by_phenexian",
         "set_position": 5,
-        "text": "<b>Interrupt</b>: When an ally attacks, exhaust Fight \u2192 give that ally +2 ATK for that attack.",
+        "text": "<b>Interrupt</b>: When an ally attacks, exhaust Fight → give that ally +2 ATK for that attack.",
         "traits": "Memory.",
         "type_code": "upgrade"
     },
@@ -159,7 +159,7 @@
         "resource_mental": 1,
         "set_code": "singularity_by_phenexian",
         "set_position": 6,
-        "text": "<b>Interrupt</b>: When an ally thwarts, exhaust Give \u2192 give that ally +2 THW for that thwart.",
+        "text": "<b>Interrupt</b>: When an ally thwarts, exhaust Give → give that ally +2 THW for that thwart.",
         "traits": "Memory.",
         "type_code": "upgrade"
     },
@@ -178,7 +178,7 @@
         "resource_mental": 1,
         "set_code": "singularity_by_phenexian",
         "set_position": 7,
-        "text": "<b>Response</b>: After an ally is defeated by consequential damage, exhaust Feel \u2192 place that ally facedown under Singularity (max 3 cards).",
+        "text": "<b>Response</b>: After an ally is defeated by consequential damage, exhaust Feel → place that ally facedown under Singularity (max 3 cards).",
         "traits": "Memory.",
         "type_code": "upgrade"
     },
@@ -197,7 +197,7 @@
         "resource_mental": 1,
         "set_code": "singularity_by_phenexian",
         "set_position": 8,
-        "text": "<b>Action</b>: Exhaust Arcadia \u2192 ready a <b><i>MEMORY</i></b><i> </i>upgrade.",
+        "text": "<b>Action</b>: Exhaust Arcadia → ready a <b><i>MEMORY</i></b><i> </i>upgrade.",
         "traits": "Memory.",
         "type_code": "support"
     },
@@ -232,7 +232,7 @@
         "resource_energy": 1,
         "set_code": "singularity_by_phenexian",
         "set_position": 11,
-        "text": "<b>Hero Action</b>: Choose one:\n\u2022 Deal 3 damage to an enemy.\n\u2022 Remove 2 threat from a scheme ignoring [crisis] icons and the patrol keyword.\n\u2022 Search your deck for an ally and put it under Singularity.",
+        "text": "<b>Hero Action</b>: Choose one:\n• Deal 3 damage to an enemy.\n• Remove 2 threat from a scheme ignoring [crisis] icons and the patrol keyword.\n• Search your deck for an ally and put it under Singularity.",
         "traits": "Superpower.",
         "type_code": "event"
     },
@@ -277,7 +277,7 @@
         "cost": 4,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\"Oh, you're going to be seeing more than <b>stars</b>.\" \u2014Captain Marvel",
+        "flavor": "\"Oh, you're going to be seeing more than <b>stars</b>.\" —Captain Marvel",
         "name": "Cosmic Expansion",
         "octgn_id": "670dd6af-ef0f-4494-b1ec-4a405b619013",
         "pack_code": "singularity_by_phenexian",
@@ -304,7 +304,7 @@
         "resource_mental": 1,
         "set_code": "singularity_by_phenexian",
         "set_position": 17,
-        "text": "<b>Hero Action</b> <i>(attack/thwart)</i>: For each <b><i>MEMORY</i></b><i> </i>and ally you control choose one:\n\u2022 Deal 1 damage to an enemy.\n\u2022 Remove 1 threat from a scheme.",
+        "text": "<b>Hero Action</b> <i>(attack/thwart)</i>: For each <b><i>MEMORY</i></b><i> </i>and ally you control choose one:\n• Deal 1 damage to an enemy.\n• Remove 1 threat from a scheme.",
         "traits": "Attack. Thwart.",
         "type_code": "event"
     },
@@ -361,7 +361,7 @@
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "basic",
-        "flavor": "\"I think that might be trademarked.\" \u2014She-Hulk",
+        "flavor": "\"I think that might be trademarked.\" —She-Hulk",
         "name": "A-Force Assemble!",
         "octgn_id": "670dd6af-ef0f-4494-b1ec-4a405b619017",
         "pack_code": "singularity_by_phenexian",

@@ -2,7 +2,7 @@
     {
         "code": "205801b",
         "faction_code": "hero",
-        "flavor": "\u201cI'm going to stand side by side with you to protect our right to live in this world.\u201d",
+        "flavor": "“I'm going to stand side by side with you to protect our right to live in this world.”",
         "hand_size": 6,
         "health": 10,
         "hidden": true,
@@ -14,7 +14,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "firestar_by_bluehg",
-        "text": "<i>Schooling for the Gifted</i> \u2014 <b>Action</b>: Put a card from your discard pile on top of your deck. (Limit once per round.)",
+        "text": "<i>Schooling for the Gifted</i> — <b>Action</b>: Put a card from your discard pile on top of your deck. (Limit once per round.)",
         "traits": "Mutant.",
         "type_code": "alter_ego"
     },
@@ -43,7 +43,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "firestar_by_bluehg",
-        "text": "[star] <i>Supercharge</i> \u2014 <b>Interrupt</b>: When you use a basic power, discard up to 4 cards from the top of your deck \u2192 if at least 1 [energy] or [wild] resource was discarded this way, you get +1 to that basic power for this use. (Limit once per phase.)",
+        "text": "[star] <i>Supercharge</i> — <b>Interrupt</b>: When you use a basic power, discard up to 4 cards from the top of your deck → if at least 1 [energy] or [wild] resource was discarded this way, you get +1 to that basic power for this use. (Limit once per phase.)",
         "thwart": 1,
         "thwart_star": true,
         "traits": "X-Men.",
@@ -57,7 +57,7 @@
         "cost": 3,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "\u201cI'm not giving up, Angelica.\u201d",
+        "flavor": "“I'm not giving up, Angelica.”",
         "health": 3,
         "is_unique": true,
         "name": "Justice",
@@ -97,7 +97,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "hero",
-        "flavor": "\u201cI got this.\u201d",
+        "flavor": "“I got this.”",
         "name": "Radiative Vision",
         "octgn_id": "616b40dd-052c-455d-a2bd-fc8b47058004",
         "pack_code": "firestar_by_bluehg",
@@ -155,7 +155,7 @@
         "resource_energy": 1,
         "set_code": "firestar_by_bluehg",
         "set_position": 12,
-        "text": "Firestar gains the [[AVENGER]] trait.\n<b>Hero Interrupt</b>: After you defeat an enemy or a scheme, exhaust Once an Avenger... \u2192 put a resource card from your discard pile on top of your deck.",
+        "text": "Firestar gains the [[AVENGER]] trait.\n<b>Hero Interrupt</b>: After you defeat an enemy or a scheme, exhaust Once an Avenger... → put a resource card from your discard pile on top of your deck.",
         "traits": "Title.",
         "type_code": "upgrade"
     },
@@ -172,7 +172,7 @@
         "resource_physical": 1,
         "set_code": "firestar_by_bluehg",
         "set_position": 13,
-        "text": "Firestar gets +1 DEF and gains retaliate 1 and the [[AERIAL]] trait.\n<b>Hero Interrupt</b>: When you would discard cards from the top of your deck, exhaust Plasma Propulsion \u2192 you may discard up to 2 additional cards from the top of your deck.",
+        "text": "Firestar gets +1 DEF and gains retaliate 1 and the [[AERIAL]] trait.\n<b>Hero Interrupt</b>: When you would discard cards from the top of your deck, exhaust Plasma Propulsion → you may discard up to 2 additional cards from the top of your deck.",
         "traits": "Superpower.",
         "type_code": "upgrade"
     },
@@ -206,7 +206,7 @@
         "resource_mental": 1,
         "set_code": "firestar_by_bluehg",
         "set_position": 15,
-        "text": "<b>Hero Resource</b>: Exhaust Stellar Aura \u2192 generate the resources of the top resource card in your discard pile. Then, put that resource card on the bottom of your deck.",
+        "text": "<b>Hero Resource</b>: Exhaust Stellar Aura → generate the resources of the top resource card in your discard pile. Then, put that resource card on the bottom of your deck.",
         "traits": "Superpower.",
         "type_code": "upgrade"
     }

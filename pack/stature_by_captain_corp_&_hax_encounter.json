@@ -10,13 +10,12 @@
         "position": 12,
         "quantity": 1,
         "set_code": "stature_by_captain_corp_&_hax_nemesis",
-        "text": "<b>Give to the Cassie Lang player.</b>\nYou may flip to alter-ego form.\nChoose:\n\u2022 Summon Iron Lad \u2192 remove him and this obligation from the game.\n\u2022 You cannot be in [[Giant]] or [[Tiny]] hero form until the next villain phase. Discard this card.",
+        "text": "<b>Give to the Cassie Lang player.</b>\nYou may flip to alter-ego form.\nChoose:\n• Summon Iron Lad → remove him and this obligation from the game.\n• You cannot be in [[Giant]] or [[Tiny]] hero form until the next villain phase. Discard this card.",
         "type_code": "obligation"
     },
     {
         "attack": null,
         "attack_star": true,
-     
         "code": "202213",
         "deck_limit": 1,
         "faction_code": "encounter",
@@ -37,7 +36,6 @@
     {
         "base_threat": -1,
         "base_threat_fixed": true,
-        
         "code": "202214",
         "deck_limit": 1,
         "faction_code": "encounter",
@@ -54,7 +52,6 @@
     {
         "attack": null,
         "attack_star": true,
-       
         "code": "202215",
         "deck_limit": 3,
         "faction_code": "encounter",

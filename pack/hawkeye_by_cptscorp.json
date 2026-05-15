@@ -13,7 +13,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "hawkeye_by_cptscorp",
-        "text": "<i>Skillful</i> \u2014 During deck building you may include [[skill]] cards from any aspect.\n<b>Action:</b> Search your deck and discard pile for Kate's Bow and put it into play. (Limit once per round.)",
+        "text": "<i>Skillful</i> — During deck building you may include [[skill]] cards from any aspect.\n<b>Action:</b> Search your deck and discard pile for Kate's Bow and put it into play. (Limit once per round.)",
         "traits": "Private Investigator.",
         "type_code": "alter_ego"
     },
@@ -21,9 +21,16 @@
         "attack": 2,
         "back_link": "204801b",
         "code": "204801a",
+        "deck_options": [
+            {
+                "trait": [
+                    "skill"
+                ]
+            }
+        ],
         "defense": 1,
         "faction_code": "hero",
-        "flavor": "<i>\u201cI aim to please.\u201d</i>",
+        "flavor": "<i>“I aim to please.”</i>",
         "hand_size": 5,
         "health": 9,
         "is_unique": true,
@@ -42,18 +49,10 @@
         "position": 1,
         "quantity": 1,
         "set_code": "hawkeye_by_cptscorp",
-        "text": "<i>Master Archer</i> \u2014 <b>Interrupt </b><i>(attack)</i>: When an enemy initiates an attack, remove up to 3 arrow counters from Kate's Bow \u2192 deal 1 damage to that enemy for each arrow counter removed.",
+        "text": "<i>Master Archer</i> — <b>Interrupt </b><i>(attack)</i>: When an enemy initiates an attack, remove up to 3 arrow counters from Kate's Bow → deal 1 damage to that enemy for each arrow counter removed.",
         "thwart": 2,
         "traits": "Young Avenger.",
-        "type_code": "hero",
-        "deck_options": [
-			{
-	    			"trait": [
-					"skill"
-				]
-               
-			}
-		]
+        "type_code": "hero"
     },
     {
         "attack": 2,
@@ -62,11 +61,10 @@
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "<i>\u201cWhat am I doing, Katie? I'm rescuing you, of course.\u201d</i>",
+        "flavor": "<i>“What am I doing, Katie? I'm rescuing you, of course.”</i>",
         "health": 2,
         "is_unique": true,
         "name": "Hawkeye",
-        "subtitle": "Clint Barton",
         "octgn_id": "733d90e1-16db-4601-8e3f-cd0706048002",
         "pack_code": "hawkeye_by_cptscorp",
         "position": 2,
@@ -74,6 +72,7 @@
         "resource_wild": 1,
         "set_code": "hawkeye_by_cptscorp",
         "set_position": 1,
+        "subtitle": "Clint Barton",
         "text": "<b>Interrupt:</b> When Hawkeye would be defeated by consequential damage, shuffle him into your deck and place 1 arrow counter on Kate's Bow.",
         "thwart": 1,
         "thwart_cost": 1,
@@ -85,7 +84,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "hero",
-        "flavor": "<i>\u201cBack off, minions.\u201d - Kate Bishop</i>",
+        "flavor": "<i>“Back off, minions.” - Kate Bishop</i>",
         "name": "Evasive Shot",
         "octgn_id": "733d90e1-16db-4601-8e3f-cd0706048003",
         "pack_code": "hawkeye_by_cptscorp",
@@ -103,7 +102,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "hero",
-        "flavor": "<i>\u201cOof, this is tight. Imma have to stop eating those delicious mini-donuts.\u201d - Kate Bishop</i>",
+        "flavor": "<i>“Oof, this is tight. Imma have to stop eating those delicious mini-donuts.” - Kate Bishop</i>",
         "name": "Infiltrate",
         "octgn_id": "733d90e1-16db-4601-8e3f-cd0706048004",
         "pack_code": "hawkeye_by_cptscorp",
@@ -121,7 +120,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "hero",
-        "flavor": "<i>\u201cWhatcha boys say we even up these odds?\u201d\n- Kate Bishop</i>",
+        "flavor": "<i>“Whatcha boys say we even up these odds?”\n- Kate Bishop</i>",
         "name": "Quick Draw",
         "octgn_id": "733d90e1-16db-4601-8e3f-cd0706048005",
         "pack_code": "hawkeye_by_cptscorp",
@@ -139,7 +138,7 @@
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "<i>\u201cSometimes Clint's right and a trick arrow really is the way to go.\u201d - Kate Bishop</i>",
+        "flavor": "<i>“Sometimes Clint's right and a trick arrow really is the way to go.” - Kate Bishop</i>",
         "name": "Smoke Arrow",
         "octgn_id": "733d90e1-16db-4601-8e3f-cd0706048006",
         "pack_code": "hawkeye_by_cptscorp",
@@ -148,7 +147,7 @@
         "resource_mental": 1,
         "set_code": "hawkeye_by_cptscorp",
         "set_position": 8,
-        "text": "<b>Hero Interrupt:</b> When an enemy initiates an activation, remove 1 arrow counter from Kate's Bow \u2192 cancel that activation. You may spend a resource to flip to alter-ego form or ready your hero.",
+        "text": "<b>Hero Interrupt:</b> When an enemy initiates an activation, remove 1 arrow counter from Kate's Bow → cancel that activation. You may spend a resource to flip to alter-ego form or ready your hero.",
         "traits": "Arrow.",
         "type_code": "event"
     },
@@ -157,7 +156,7 @@
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "<i>\u201cWe archers have \"anchor points\". A set place that your draw hand returns to... A place that brings stability and consistency.\u201d - Kate Bishop</i>",
+        "flavor": "<i>“We archers have \"anchor points\". A set place that your draw hand returns to... A place that brings stability and consistency.” - Kate Bishop</i>",
         "name": "Anchor Points",
         "octgn_id": "733d90e1-16db-4601-8e3f-cd0706048007",
         "pack_code": "hawkeye_by_cptscorp",
@@ -166,7 +165,7 @@
         "resource_energy": 1,
         "set_code": "hawkeye_by_cptscorp",
         "set_position": 9,
-        "text": "<b>Resource:</b> Exhaust Anchor Points \u2192 generate a [wild] resource for a [[skill]] card.",
+        "text": "<b>Resource:</b> Exhaust Anchor Points → generate a [wild] resource for a [[skill]] card.",
         "traits": "Persona.",
         "type_code": "support"
     },
@@ -193,7 +192,7 @@
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "<i>\u201cWoof!\u201d - Lucky</i>",
+        "flavor": "<i>“Woof!” - Lucky</i>",
         "is_unique": true,
         "name": "Lucky",
         "octgn_id": "733d90e1-16db-4601-8e3f-cd0706048009",
@@ -203,7 +202,7 @@
         "resource_energy": 1,
         "set_code": "hawkeye_by_cptscorp",
         "set_position": 11,
-        "text": "<b>Alter-Ego Action:</b> Exhaust Lucky \u2192 heal 2 damage from Kate Bishop and place 1 arrow counter on Kate's Bow.",
+        "text": "<b>Alter-Ego Action:</b> Exhaust Lucky → heal 2 damage from Kate Bishop and place 1 arrow counter on Kate's Bow.",
         "traits": "Good Boy.",
         "type_code": "support"
     },
@@ -230,7 +229,7 @@
         "cost": 0,
         "deck_limit": 1,
         "faction_code": "hero",
-        "flavor": "<i>\u201cAviators rule.\u201d - Kate Bishop</i>",
+        "flavor": "<i>“Aviators rule.” - Kate Bishop</i>",
         "is_unique": true,
         "name": "Kate's Aviators",
         "octgn_id": "733d90e1-16db-4601-8e3f-cd0706048011",
@@ -240,7 +239,7 @@
         "resource_wild": 1,
         "set_code": "hawkeye_by_cptscorp",
         "set_position": 13,
-        "text": "Uses (2 style counter).\n<b>Hero Action:</b> Exhaust Kate's Aviators and remove 1 style counter from it \u2192 draw 1 card.",
+        "text": "Uses (2 style counter).\n<b>Hero Action:</b> Exhaust Kate's Aviators and remove 1 style counter from it → draw 1 card.",
         "traits": "Item.",
         "type_code": "upgrade"
     },
@@ -276,7 +275,7 @@
         "resource_physical": 1,
         "set_code": "hawkeye_by_cptscorp",
         "set_position": 15,
-        "text": "You may remove up to 5 arrow counters with your <i>Master Archer</i> <b>Interrupt </b>instead.\n<b>Resource:</b> Exhaust Kate's Quiver \u2192 generate a [wild] resource and place 1 arrow counter on Kate's Bow.",
+        "text": "You may remove up to 5 arrow counters with your <i>Master Archer</i> <b>Interrupt </b>instead.\n<b>Resource:</b> Exhaust Kate's Quiver → generate a [wild] resource and place 1 arrow counter on Kate's Bow.",
         "traits": "Item.",
         "type_code": "upgrade"
     },

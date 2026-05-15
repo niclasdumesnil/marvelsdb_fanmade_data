@@ -23,7 +23,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "rachel_summers_by_ripper3",
-        "text": "<i>Mind Burn</i> \u2014 <b>Special:</b> Deal 1 damage to an enemy. Remove threat from a scheme equal to that enemy's SCH.\n<i>Firebird </i>\u2014 <b>Response</b>: After you play a [[psionic ]]card, draw 1 card. (Limit once per phase.)\n<i>\u201cWe should all live for the moment. It could be our last.\u201d</i>",
+        "text": "<i>Mind Burn</i> — <b>Special:</b> Deal 1 damage to an enemy. Remove threat from a scheme equal to that enemy's SCH.\n<i>Firebird </i>— <b>Response</b>: After you play a [[psionic ]]card, draw 1 card. (Limit once per phase.)\n<i>“We should all live for the moment. It could be our last.”</i>",
         "thwart": 3,
         "traits": "Psionic. X-Men.",
         "type_code": "hero"
@@ -42,7 +42,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "rachel_summers_by_ripper3",
-        "text": "<i>Current Codename</i><b> </b>\u2014<b> Setup</b>: Search your deck and discard pile for a [[title ]]upgrade and add it to your hand.\n<i>Firebird </i>\u2014 <b>Response</b>: After you play a [[psionic ]]card, draw 1 card. (Limit once per phase.)",
+        "text": "<i>Current Codename</i><b> </b>—<b> Setup</b>: Search your deck and discard pile for a [[title ]]upgrade and add it to your hand.\n<i>Firebird </i>— <b>Response</b>: After you play a [[psionic ]]card, draw 1 card. (Limit once per phase.)",
         "traits": "Mutant. Psionic. Temporal.",
         "type_code": "alter_ego"
     },
@@ -65,7 +65,7 @@
         "set_code": "rachel_summers_by_ripper3",
         "set_position": 1,
         "subname": "betsy braddock",
-        "text": "[star]<b> Response</b>: After Captain Britain uses a basic power, shuffle 1 [[psionic ]]event from your discard pile into your deck.\n<i>\u201cThe multiverse needs us!\u201d</i>",
+        "text": "[star]<b> Response</b>: After Captain Britain uses a basic power, shuffle 1 [[psionic ]]event from your discard pile into your deck.\n<i>“The multiverse needs us!”</i>",
         "thwart": 2,
         "thwart_cost": 1,
         "thwart_star": true,
@@ -86,7 +86,7 @@
         "resource_energy": 1,
         "set_code": "rachel_summers_by_ripper3",
         "set_position": 2,
-        "text": "<b>Forced Interrupt: </b>When Rachel Summers would take damage from an enemy attack, place that damage here instead. Then, if there is at least 6 damage here, discard this card and resolve Rachel Summer's \u201c<i>Mind Burn</i>\u201d ability.",
+        "text": "<b>Forced Interrupt: </b>When Rachel Summers would take damage from an enemy attack, place that damage here instead. Then, if there is at least 6 damage here, discard this card and resolve Rachel Summer's “<i>Mind Burn</i>” ability.",
         "traits": "Cosmic Entity. Title.",
         "type_code": "upgrade"
     },
@@ -104,7 +104,7 @@
         "resource_mental": 1,
         "set_code": "rachel_summers_by_ripper3",
         "set_position": 3,
-        "text": "While in hero form, Rachel Summers gains the [[aerial]] trait.\n<b>Hero Resource</b>: Exhaust Prestige \u2192 generate a [mental] resource.\n<i>\u201cI took the name \"Prestige\" to put the past behind me.\u201d</i>",
+        "text": "While in hero form, Rachel Summers gains the [[aerial]] trait.\n<b>Hero Resource</b>: Exhaust Prestige → generate a [mental] resource.\n<i>“I took the name \"Prestige\" to put the past behind me.”</i>",
         "traits": "Title.",
         "type_code": "upgrade"
     },
@@ -122,7 +122,7 @@
         "resource_mental": 1,
         "set_code": "rachel_summers_by_ripper3",
         "set_position": 4,
-        "text": "<b>Hero Action </b><i>(thwart)</i><b>:</b> After you defend against an enemy attack, exhaust Askani and spend a [mental] resource \u2192 resolve Rachel Summer's \u201c<i>Mind Burn</i>\u201d ability against that enemy.",
+        "text": "<b>Hero Action </b><i>(thwart)</i><b>:</b> After you defend against an enemy attack, exhaust Askani and spend a [mental] resource → resolve Rachel Summer's “<i>Mind Burn</i>” ability against that enemy.",
         "traits": "Title.",
         "type_code": "upgrade"
     },
@@ -139,7 +139,7 @@
         "resource_mental": 1,
         "set_code": "rachel_summers_by_ripper3",
         "set_position": 5,
-        "text": "<b>Hero Action</b>: Resolve Rachel Summer's \u201c<i>Mind Burn</i>\u201d ability. If this effect removes less than 2 threat from a scheme, draw 1 card.\n<i>\u201cNo... It took to me... The Phoenix knows me, remember? It likes me.\u201d</i>",
+        "text": "<b>Hero Action</b>: Resolve Rachel Summer's “<i>Mind Burn</i>” ability. If this effect removes less than 2 threat from a scheme, draw 1 card.\n<i>“No... It took to me... The Phoenix knows me, remember? It likes me.”</i>",
         "traits": "Psionic.",
         "type_code": "event"
     },
@@ -156,7 +156,7 @@
         "resource_mental": 1,
         "set_code": "rachel_summers_by_ripper3",
         "set_position": 8,
-        "text": "<b>Action</b> <i>(thwart)</i>: Remove 3 threat from a scheme. If this thwart removes the last threat from that scheme, return an ally from your discard pile to your hand.\n<i>\u201cEveryone always forgets about my chrono-skimming...\u201d</i>",
+        "text": "<b>Action</b> <i>(thwart)</i>: Remove 3 threat from a scheme. If this thwart removes the last threat from that scheme, return an ally from your discard pile to your hand.\n<i>“Everyone always forgets about my chrono-skimming...”</i>",
         "traits": "Psionic. Thwart.",
         "type_code": "event"
     },
@@ -173,7 +173,7 @@
         "resource_mental": 1,
         "set_code": "rachel_summers_by_ripper3",
         "set_position": 11,
-        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal 3 damage to an enemy. Choose:\n\u2022 Resolve Rachel Summer's \u201c<i>Mind Burn\u201d</i> ability.\n\u2022 <i>(attack)</i> Deal 3 damage to an enemy.",
+        "text": "<b>Hero Action</b> <i>(attack)</i>: Deal 3 damage to an enemy. Choose:\n• Resolve Rachel Summer's “<i>Mind Burn”</i> ability.\n• <i>(attack)</i> Deal 3 damage to an enemy.",
         "traits": "Attack. Psionic.",
         "type_code": "event"
     },
@@ -208,7 +208,7 @@
         "resource_mental": 1,
         "set_code": "rachel_summers_by_ripper3",
         "set_position": 15,
-        "text": "<b>Action</b>: Exhaust The Boneyard \u2192 shuffle 1 [[psionic]] card from your discard pile into your deck. If you are in alter-ego form, draw 1 card.\n<i>The Boneyard is living, sentient, and can grow as needed.</i>",
+        "text": "<b>Action</b>: Exhaust The Boneyard → shuffle 1 [[psionic]] card from your discard pile into your deck. If you are in alter-ego form, draw 1 card.\n<i>The Boneyard is living, sentient, and can grow as needed.</i>",
         "traits": "Location. X-Factor.",
         "type_code": "support"
     },
@@ -227,7 +227,7 @@
         "traits": "Psionic.",
         "type_code": "event"
     },
-     {
+    {
         "code": "205718",
         "cost": 0,
         "deck_limit": 1,

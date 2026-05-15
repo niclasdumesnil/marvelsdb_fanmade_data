@@ -23,7 +23,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "nightwing_by_ripper3",
-        "text": "If there are more than 4 tucked cards here, discard all but 4 of those cards.\n<i>Master Detective</i> \u2014 <b>Response:</b> After you cancel any effects of a revealed encounter card, tuck that card under here from the encounter discard pile and draw 2 cards.\n<i>\u201cWe should all live for the moment. It could be our last.\u201d</i>",
+        "text": "If there are more than 4 tucked cards here, discard all but 4 of those cards.\n<i>Master Detective</i> — <b>Response:</b> After you cancel any effects of a revealed encounter card, tuck that card under here from the encounter discard pile and draw 2 cards.\n<i>“We should all live for the moment. It could be our last.”</i>",
         "thwart": 1,
         "traits": "Bat-Family. Titan.",
         "type_code": "hero"
@@ -42,7 +42,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "nightwing_by_ripper3",
-        "text": "If there are more than 4 tucked cards here, discard all but 4 of those cards.\n<b>Setup:</b> Search your deck and discard pile for the Escrima Sticks upgrade and add it to your hand.\n<i>\u201cA pupil is only as good as his teacher... and I had the best there is.\u201d</i>",
+        "text": "If there are more than 4 tucked cards here, discard all but 4 of those cards.\n<b>Setup:</b> Search your deck and discard pile for the Escrima Sticks upgrade and add it to your hand.\n<i>“A pupil is only as good as his teacher... and I had the best there is.”</i>",
         "traits": "Civilian.",
         "type_code": "alter_ego"
     },
@@ -84,7 +84,7 @@
         "resource_energy": 1,
         "set_code": "nightwing_by_ripper3",
         "set_position": 2,
-        "text": "Restricted.\n<b>Response</b>: After you cancel the boost icons or a \u201c<b>Boost</b>\u201d ability on a boost card, tuck that card under your identity from the encounter discard pile and deal 2 damage to an enemy.",
+        "text": "Restricted.\n<b>Response</b>: After you cancel the boost icons or a “<b>Boost</b>” ability on a boost card, tuck that card under your identity from the encounter discard pile and deal 2 damage to an enemy.",
         "traits": "Tech. Weapon.",
         "type_code": "upgrade"
     },
@@ -102,7 +102,7 @@
         "resource_mental": 1,
         "set_code": "nightwing_by_ripper3",
         "set_position": 3,
-        "text": "Nightwing gets +1 THW and gains the [[aerial]] trait.\n<b>Hero Response:</b> After you tuck a card under Nightwing, ready him.\n<i>\u201cHe'd fly through the air with the greatest of ease...\u201d</i>",
+        "text": "Nightwing gets +1 THW and gains the [[aerial]] trait.\n<b>Hero Response:</b> After you tuck a card under Nightwing, ready him.\n<i>“He'd fly through the air with the greatest of ease...”</i>",
         "traits": "Aerial. Tech.",
         "type_code": "upgrade"
     },
@@ -119,7 +119,7 @@
         "resource_energy": 1,
         "set_code": "nightwing_by_ripper3",
         "set_position": 4,
-        "text": "<b>Hero Interrupt </b><i>(attack)</i>: When a boost card is turned faceup, discard Attacrobatics \u2192 cancel the boost icons on that card. Deal 1 damage to the villain for each boost icon canceled this way.\n<i>\u201cYou think I'm letting you walk away?\u201d</i>",
+        "text": "<b>Hero Interrupt </b><i>(attack)</i>: When a boost card is turned faceup, discard Attacrobatics → cancel the boost icons on that card. Deal 1 damage to the villain for each boost icon canceled this way.\n<i>“You think I'm letting you walk away?”</i>",
         "traits": "Attack. Preparation. Skill.",
         "type_code": "upgrade"
     },
@@ -136,7 +136,7 @@
         "resource_mental": 1,
         "set_code": "nightwing_by_ripper3",
         "set_position": 6,
-        "text": "<b>Hero Interrupt</b>: When you reveal a treachery, discard Grappling Hook \u2192 cancel the effects of that treachery and discard it.\n<i>\u201cWhenever someone asked what power they wish they had, flying is always at the top of my list... but I have to admit, I've learned to love falling too.\u201d</i>",
+        "text": "<b>Hero Interrupt</b>: When you reveal a treachery, discard Grappling Hook → cancel the effects of that treachery and discard it.\n<i>“Whenever someone asked what power they wish they had, flying is always at the top of my list... but I have to admit, I've learned to love falling too.”</i>",
         "traits": "Preparation. Tech.",
         "type_code": "upgrade"
     },
@@ -153,7 +153,7 @@
         "resource_wild": 1,
         "set_code": "nightwing_by_ripper3",
         "set_position": 8,
-        "text": "<b>Hero Interrupt</b>: When you reveal a card from the encounter deck, cancel all of its effects and discard it.\n<b>Hero Action:</b> Ready Nightwing.\n<i>\u201cHuh, I'm just too damn good at this.\u201d</i>",
+        "text": "<b>Hero Interrupt</b>: When you reveal a card from the encounter deck, cancel all of its effects and discard it.\n<b>Hero Action:</b> Ready Nightwing.\n<i>“Huh, I'm just too damn good at this.”</i>",
         "traits": "Skill.",
         "type_code": "event"
     },
@@ -170,7 +170,7 @@
         "resource_energy": 1,
         "set_code": "nightwing_by_ripper3",
         "set_position": 10,
-        "text": "<b>Hero Interrupt </b><i>(defense/thwart)</i>: When a boost card is turned face up while an enemy attacks, cancel all icons ([star] and [boost]) on that card (including any \u201c<b>Boost</b>\u201d effects). Then, remove 1 threat from among schemes in play for each icon canceled this way.",
+        "text": "<b>Hero Interrupt </b><i>(defense/thwart)</i>: When a boost card is turned face up while an enemy attacks, cancel all icons ([star] and [boost]) on that card (including any “<b>Boost</b>” effects). Then, remove 1 threat from among schemes in play for each icon canceled this way.",
         "traits": "Defense. Thwart.",
         "type_code": "event"
     },
@@ -187,7 +187,7 @@
         "resource_physical": 1,
         "set_code": "nightwing_by_ripper3",
         "set_position": 12,
-        "text": "<b>Hero Action </b><i>(attack)</i>: Exhaust Escrima Sticks \u2192 deal 4 damage among enemies in play and discard up to 4 cards tucked under Nightwing. This attack deals 1 additional damage for each icon ([boost] or [star]) discarded this way.",
+        "text": "<b>Hero Action </b><i>(attack)</i>: Exhaust Escrima Sticks → deal 4 damage among enemies in play and discard up to 4 cards tucked under Nightwing. This attack deals 1 additional damage for each icon ([boost] or [star]) discarded this way.",
         "traits": "Attack.",
         "type_code": "event"
     },
@@ -206,7 +206,7 @@
         "set_code": "nightwing_by_ripper3",
         "set_position": 15,
         "subname": "barbara Gordon",
-        "text": "Your identity gains the [[spy ]]trait.\n<b>Alter-Ego Action</b>: Exhaust Oracle\u2192 tuck the top card of the encounter deck under Dick Grayson. Heal 1 damage from Dick Grayson.\n<i>\u201cOracle and Nightwing. Batgirl and Robin. Dick and Babs. Forever.\u201d\n</i>",
+        "text": "Your identity gains the [[spy ]]trait.\n<b>Alter-Ego Action</b>: Exhaust Oracle→ tuck the top card of the encounter deck under Dick Grayson. Heal 1 damage from Dick Grayson.\n<i>“Oracle and Nightwing. Batgirl and Robin. Dick and Babs. Forever.”\n</i>",
         "traits": "Genius. Persona.",
         "type_code": "support"
     }

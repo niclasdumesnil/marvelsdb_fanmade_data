@@ -4,14 +4,14 @@
         "code": "800713",
         "deck_limit": 1,
         "faction_code": "encounter",
-        "name": "Surexploit\u00e9",
+        "name": "Surexploité",
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2007013",
         "pack_code": "beast_by_proust",
         "position": 13,
         "quantity": 1,
         "set_code": "beast_by_proust_nemesis",
         "set_position": 1,
-        "text": "<b>Donnez cette carte au joueur de Hank McCoy</b>\nD\u00e9faussez toutes les cartes intercal\u00e9es sous le <i>\"Laboratoire du Fauve\",</i> d\u00e9faussez ensuite Surexploit\u00e9. Si aucune am\u00e9lioration <b><i>TECH</i></b><b> </b>n'est d\u00e9ffauss\u00e9es par cet effet, attribuez-vous 1 carte Rencontre face cach\u00e9e, m\u00e9langez ensuite Surexploit\u00e9 dans le deck Rencontre.",
+        "text": "<b>Donnez cette carte au joueur de Hank McCoy</b>\nDéfaussez toutes les cartes intercalées sous le <i>\"Laboratoire du Fauve\",</i> défaussez ensuite Surexploité. Si aucune amélioration <b><i>TECH</i></b><b> </b>n'est déffaussées par cet effet, attribuez-vous 1 carte Rencontre face cachée, mélangez ensuite Surexploité dans le deck Rencontre.",
         "type_code": "obligation"
     },
     {
@@ -20,15 +20,15 @@
         "code": "800714",
         "deck_limit": 1,
         "faction_code": "encounter",
-        "flavor": "<i>\"Ainsi la conscience fait de nous tous des l\u00e2ches\" - W. Shakespeare & le Fauve Noir</i>",
-        "name": "Probl\u00e8mes Techniques",
+        "flavor": "<i>\"Ainsi la conscience fait de nous tous des lâches\" - W. Shakespeare & le Fauve Noir</i>",
+        "name": "Problèmes Techniques",
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2007014",
         "pack_code": "beast_by_proust",
         "position": 14,
         "quantity": 1,
         "set_code": "beast_by_proust_nemesis",
         "set_position": 2,
-        "text": "<b>Une fois r\u00e9v\u00e9l\u00e9e</b>: placez 1 menace sur cette carte pour chaque am\u00e9lioration en jeu.\n[amplify]",
+        "text": "<b>Une fois révélée</b>: placez 1 menace sur cette carte pour chaque amélioration en jeu.\n[amplify]",
         "type_code": "side_scheme"
     },
     {
@@ -47,7 +47,7 @@
         "scheme": 2,
         "set_code": "beast_by_proust_nemesis",
         "set_position": 3,
-        "text": "[star] Le Fauve Noir gagne +X ATQ, X \u00e9tant le co\u00fbt en ressources imprim\u00e9 de la carte intercal\u00e9e sous lui.\n<b>Une fois r\u00e9v\u00e9l\u00e9e</b> : intercalez sous le Fauve Noir l'am\u00e9lioration <b><i>TECH</i></b> que vous controlez ayant le co\u00fbt le plus \u00e9lev\u00e9. Sinon, intercalez sous le Fauve Noir la carte du dessus de votre deck.\n(Sbire N\u00e9m\u00e9sis du Fauve.)",
+        "text": "[star] Le Fauve Noir gagne +X ATQ, X étant le coût en ressources imprimé de la carte intercalée sous lui.\n<b>Une fois révélée</b> : intercalez sous le Fauve Noir l'amélioration <b><i>TECH</i></b> que vous controlez ayant le coût le plus élevé. Sinon, intercalez sous le Fauve Noir la carte du dessus de votre deck.\n(Sbire Némésis du Fauve.)",
         "traits": "Elite. Mutant.",
         "type_code": "minion"
     },
@@ -56,14 +56,14 @@
         "code": "800716",
         "deck_limit": 2,
         "faction_code": "encounter",
-        "name": "G\u00e9nie Mal\u00e9fique",
+        "name": "Génie Maléfique",
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2007016",
         "pack_code": "beast_by_proust",
         "position": 16,
         "quantity": 2,
         "set_code": "beast_by_proust_nemesis",
         "set_position": 4,
-        "text": "<b>Une fois r\u00e9v\u00e9l\u00e9e </b>: d\u00e9faussez une am\u00e9lioration <b><i>TECH</i></b><i> </i>que vous contr\u00f4lez et infligez \u00e0 votre identit\u00e9 X d\u00e9g\u00e2ts indirects, X \u00e9tant \u00e9gal au co\u00fbt imprim\u00e9 de cette am\u00e9lioration. Si aucune am\u00e9lioration n'est d\u00e9fauss\u00e9e par cette effet, cette carte gagne Renfort.",
+        "text": "<b>Une fois révélée </b>: défaussez une amélioration <b><i>TECH</i></b><i> </i>que vous contrôlez et infligez à votre identité X dégâts indirects, X étant égal au coût imprimé de cette amélioration. Si aucune amélioration n'est défaussée par cette effet, cette carte gagne Renfort.",
         "type_code": "treachery"
     },
     {
@@ -80,7 +80,7 @@
         "scheme_star": false,
         "set_code": "beast_by_proust_nemesis",
         "set_position": 6,
-        "text": "Attachez cette carte au Fauve Noir, si vous ne pouvez pas attachez-la au M\u00e9chant.\n<b>Action de h\u00e9ros : </b>d\u00e9faussez une am\u00e9lioration que vous contr\u00f4lez \u2192 d\u00e9faussez cet attachement.",
+        "text": "Attachez cette carte au Fauve Noir, si vous ne pouvez pas attachez-la au Méchant.\n<b>Action de héros : </b>défaussez une amélioration que vous contrôlez → défaussez cet attachement.",
         "type_code": "attachment"
     }
 ]

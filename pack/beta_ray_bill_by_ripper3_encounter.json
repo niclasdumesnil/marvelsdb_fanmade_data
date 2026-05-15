@@ -9,7 +9,7 @@
         "position": 26,
         "quantity": 1,
         "set_code": "beta_ray_bill_by_ripper3",
-        "text": "You may flip to alter-ego form. Choose:\nExhaust your alter-ego \u2192 remove Unattractive Appearance from the game.\nChoose and discard 1 [[attack ]]event from your hand. Discard this obligation.",
+        "text": "You may flip to alter-ego form. Choose:\nExhaust your alter-ego → remove Unattractive Appearance from the game.\nChoose and discard 1 [[attack ]]event from your hand. Discard this obligation.",
         "type_code": "obligation"
     },
     {
@@ -43,7 +43,7 @@
         "scheme": 1,
         "set_code": "beta_ray_bill_by_ripper3_nemesis",
         "set_position": 2,
-        "text": "Double the amount of damage this minion takes from [[attack ]]events.\n<i>(Beta Ray Bill's nemesis minion.)\n\u201cI come from a shape-changing cosmic race known as the Makluan... some call Space Dragons!\u201d\n</i>",
+        "text": "Double the amount of damage this minion takes from [[attack ]]events.\n<i>(Beta Ray Bill's nemesis minion.)\n“I come from a shape-changing cosmic race known as the Makluan... some call Space Dragons!”\n</i>",
         "traits": "Dragon. Elite.",
         "type_code": "minion"
     },

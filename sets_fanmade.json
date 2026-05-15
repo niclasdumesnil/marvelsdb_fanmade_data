@@ -1434,5 +1434,15 @@
     "code": "hulk_by_rainy_nemesis",
     "name": "Hulk Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "iron_man_model_42_by_rainy",
+    "name": "Iron Man Model 42",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "iron_man_nemesis_by_rainy",
+    "name": "Iron Man Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]

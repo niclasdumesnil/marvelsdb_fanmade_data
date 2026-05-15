@@ -9,7 +9,7 @@
         "position": 12,
         "quantity": 1,
         "set_code": "Captain_Britain_by_Hitch",
-        "text": "<b><i>Give to the Betsy Braddock player.</i></b>\nYou may flip to alter-ego form. Choose:\n* Exhaust Betsy Braddock \u2192 remove Sibling Rivalry from the game.\n* Discard each event from your hand. If no cards are discarded this way, this card gains surge. Discard this obligation.",
+        "text": "<b><i>Give to the Betsy Braddock player.</i></b>\nYou may flip to alter-ego form. Choose:\n* Exhaust Betsy Braddock → remove Sibling Rivalry from the game.\n* Discard each event from your hand. If no cards are discarded this way, this card gains surge. Discard this obligation.",
         "type_code": "obligation"
     },
     {
@@ -57,7 +57,7 @@
         "quantity": 1,
         "set_code": "Captain_Britain_by_Hitch_nemesis",
         "set_position": 3,
-        "text": "Attach to King Jamie Braddock. Otherwise, attach to the villain. Uses (3 teleport counters).\n<b>Forced Interrupt</b>: When attached enemy would take any amount of damage, remove 1 teleport counter from this card \u2192 prevent all of that damage.",
+        "text": "Attach to King Jamie Braddock. Otherwise, attach to the villain. Uses (3 teleport counters).\n<b>Forced Interrupt</b>: When attached enemy would take any amount of damage, remove 1 teleport counter from this card → prevent all of that damage.",
         "traits": "Superpower.",
         "type_code": "attachment"
     },
