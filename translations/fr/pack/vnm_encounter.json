@@ -6,15 +6,15 @@
 	},
 	{
 		"code": "20024",
-		"flavor": "Le symbiote Venom n'est pas dans son état normal. Il se lie avec toutes les personnes qu'il touche, les plongeant dans un état de folie furieuse.",
 		"name": "Frénésie Klyntar",
-		"text": "Les menaces sur cette manigance ne peuvent pas être retirées tant qu'il y a un ennemi [[SYMBIOTE]] en jeu."
+		"text": "Les menaces sur cette manigance ne peuvent pas être retirées tant qu'il y a un ennemi [[SYMBIOTE]] en jeu.",
+		"flavor": "Le symbiote Venom n'est pas dans son état normal. Il se lie avec toutes les personnes qu'il touche, les plongeant dans un état de folie furieuse."
 	},
 	{
 		"code": "20025",
-		"flavor": "\"You will kneel before the true Destroyer!\"",
 		"name": "Symbiote Enragé",
 		"text": "Garde. Patrouille. <i>(Tant que ce sbire est engagé avec vous, vous ne pouvez pas contrer la manigance principale.)</i>\n<i>(Sbire Némésis de Venom.)</i>\n<hr />\n[star] <b>Boost</b>: mettez en jeu le Symbiote Enragé engagé avec vous.",
+		"flavor": "\"You will kneel before the true Destroyer!\"",
 		"traits": "Symbiote."
 	}
 ]

@@ -13,9 +13,9 @@
 	},
 	{
 		"code": "20002",
-		"flavor": "\"Oui monsieur, je comprends. Les intérêts du pays passent avant tout .\" - Venom",
 		"name": "Derrière les Lignes Ennemies",
 		"text": "<b>Action de héros</b> <i>(contre)</i> : retirez 3 menaces d'une manigance. Si vous n'avez utilisé que des ressources [mental] pour payer cette carte, désorientez un ennemi.",
+		"flavor": "\"Oui monsieur, je comprends. Les intérêts du pays passent avant tout .\" - Venom",
 		"traits": "Contre."
 	},
 	{
@@ -26,31 +26,29 @@
 	},
 	{
 		"code": "20004",
-		"flavor": "\"Depuis le temps que j'attends ça !\" - Venom",
 		"name": "Paré à Tirer",
 		"text": "<b>Action</b> : cherchez une amélioration [[ARME]] dans votre deck et ajoutez-la à votre main. Mélangez votre deck.",
-		"traits": ""
+		"flavor": "\"Depuis le temps que j'attends ça !\" - Venom"
 	},
 	{
 		"code": "20005",
-		"flavor": "\"Tant pis pour la manière douce\" - Venom",
 		"name": "Courir et Tirer",
 		"text": "<b>Action de héros</b> : redressez Venom et chaque amélioration [[ARME]] que vous contrôlez.",
+		"flavor": "\"Tant pis pour la manière douce\" - Venom",
 		"traits": "Compétence."
 	},
 	{
 		"code": "20006",
-		"flavor": "\"La rage nourrit mon symbiote, elle le rend plus fort.\" - Flash Thompson",
 		"name": "Attaque Sauvage",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 5 dégâts à un ennemi. Si vous n'avez utilisé que des ressources [energy] pour payer cette carte, cette attaque gagne Déferlement.",
+		"flavor": "\"La rage nourrit mon symbiote, elle le rend plus fort.\" - Flash Thompson",
 		"traits": "Attaque."
 	},
 	{
 		"code": "20007",
-		"flavor": "Le deuxième projet de super-soldat du gouvernement américain consiste à lier des symbiotes à des vétérans talentueux.",
 		"name": "Projet Renaissance 2.0",
 		"text": "<b>Action d'alter ego</b> : inclinez le Projet Renaissance 2.0 → choisissez : soit vous piochez 1 carte, soit vous soignez 3 dégâts de Flash Thompson.",
-		"traits": ""
+		"flavor": "Le deuxième projet de super-soldat du gouvernement américain consiste à lier des symbiotes à des vétérans talentueux."
 	},
 	{
 		"code": "20008",
@@ -60,9 +58,9 @@
 	},
 	{
 		"code": "20009",
-		"flavor": "\"Je ressens... comme un picotement.\" - Venom",
 		"name": "Sens d'Araignée",
 		"text": "<b>Interruption de héros</b> : quand le méchant initie une attaque contre vous, piochez 1 carte.",
+		"flavor": "\"Je ressens... comme un picotement.\" - Venom",
 		"traits": "Super-pouvoir."
 	},
 	{
@@ -73,7 +71,6 @@
 	},
 	{
 		"code": "20011",
-		"flavor": "",
 		"name": "Jack Flag",
 		"subname": "Jack Harrison",
 		"text": "<b>Réponse</b> : après que Jack Flag a contré, placez 1 jeton Munition sur lui.\n<b>Action de héros</b> : retirez 1 jeton Munition de Jack Flag et inclinez-le → infligez 2 dégâts à un ennemi.",
@@ -81,14 +78,13 @@
 	},
 	{
 		"code": "20012",
-		"flavor": "\"Bouh !\"",
 		"name": "Effrayer l'Ennemi",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 3 dégâts à un ennemi désorienté.",
+		"flavor": "\"Bouh !\"",
 		"traits": "Attaque."
 	},
 	{
 		"code": "20013",
-		"flavor": "",
 		"name": "Soigner son Entrée",
 		"text": "<b>Interruption de héros</b> : quand votre héros effectue un contre de base, il gagne +2 CTR pour ce contre. Après la fin de ce contre, si votre héros a ainsi retiré toute la menace d'une manigance, soignez-le de 2 dégâts.",
 		"traits": "Compétence."
@@ -101,10 +97,10 @@
 	},
 	{
 		"code": "20016",
-		"flavor": "\"Il faut savoir prendre des risques.\"",
 		"name": "Star-Lord",
 		"subname": "Peter Quill",
 		"text": "[star] Les attaques de Star-Lord gagnent À Distance.\n<b>Réponse forcée</b> : après que Star-Lord est entré en jeu sous votre contrôle, attribuez-vous 1 carte Rencontre face cachée.",
+		"flavor": "\"Il faut savoir prendre des risques.\"",
 		"traits": "Gardien."
 	},
 	{
@@ -121,29 +117,28 @@
 	},
 	{
 		"code": "20026",
-		"flavor": "\"Donnez-moi un truc à flinguer.\" - Venom",
 		"name": "Fusillade",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : inclinez une amélioration [[ARME]] que vous contrôlez → infligez 5 dégâts à un ennemi.",
+		"flavor": "\"Donnez-moi un truc à flinguer.\" - Venom",
 		"traits": "Attaque."
 	},
 	{
 		"code": "20027",
-		"flavor": "\"Gardiens, rassemblement ? Regroupement ? Mouais, je ne sais pas trop.\" - Peter Quill",
 		"name": "\"Bienvenue à Bord\"",
-		"text": "Jouez cette carte uniquement si votre identité a le trait [[GARDIEN]].\n 1 max par round.\n<b>Action de héros</b> : réduisez de 2 le coût en ressources du prochain allié joué à cette phase."
+		"text": "Jouez cette carte uniquement si votre identité a le trait [[GARDIEN]].\n 1 max par round.\n<b>Action de héros</b> : réduisez de 2 le coût en ressources du prochain allié joué à cette phase.",
+		"flavor": "\"Gardiens, rassemblement ? Regroupement ? Mouais, je ne sais pas trop.\" - Peter Quill"
 	},
 	{
 		"code": "20028",
-		"flavor": "\"Groot,mon pote, je sais que tu peux repousser et tout, mais tu dois quand même être plus prudent.\" - Rocket Raccoon",
 		"name": "Se Ressaisir",
 		"text": "<b>Réponse de héros</b> : après qu'un personnage [[GARDIEN]] a subi n'importe quelle quantité de dégâts d'une attaque, donnez-lui une carte d'état Tenace.",
+		"flavor": "\"Groot,mon pote, je sais que tu peux repousser et tout, mais tu dois quand même être plus prudent.\" - Rocket Raccoon",
 		"traits": "Compétence."
 	},
 	{
 		"code": "20029",
-		"flavor": "",
 		"name": "Quartiers de l'Équipage",
-		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur.\n1 max par joueur.\n<b>Action de héros</b> : inclinez les Quartiers de l'Équipage → soignez 1 dégât d'un alter ego.",
+		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur.\n1 max par joueur.\n<b>Action d'alter ego</b> : inclinez les Quartiers de l'Équipage → soignez 1 dégât d'un alter ego.",
 		"traits": "Lieu."
 	}
 ]
