@@ -10,23 +10,23 @@
 			},
 			{
 				"code": "501260",
-				"prepend_text": "Setup. ",
-				"comment": "Super-Skrull — Ajouter 'Setup. ' au début du texte"
+				"default_setup_pile": "Special",
+				"comment": "Super-Skrull — Mettre dans la pile Special"
 			},
 			{
 				"code": "501261",
-				"prepend_text": "Setup. ",
-				"comment": "Super-Skrull — Ajouter 'Setup. ' au début du texte"
+				"default_setup_pile": "Special",
+				"comment": "Super-Skrull — Mettre dans la pile Special"
 			},
 			{
 				"code": "501262",
-				"prepend_text": "Setup. ",
-				"comment": "Super-Skrull — Ajouter 'Setup. ' au début du texte"
+				"default_setup_pile": "Special",
+				"comment": "Super-Skrull — Mettre dans la pile Special"
 			},
 			{
 				"code": "501263",
-				"prepend_text": "Setup. ",
-				"comment": "Super-Skrull — Ajouter 'Setup. ' au début du texte"
+				"default_setup_pile": "Special",
+				"comment": "Super-Skrull — Mettre dans la pile Special"
 			},
 			{
 				"code": "501290",
@@ -157,9 +157,93 @@
 				"code": "503071",
 				"prepend_text": "Setup. ",
 				"comment": "The Long Night — Ajouter 'Setup. ' au début du texte (side scheme révélée lors du setup)"
+			},
+			{
+				"code": "503061",
+				"prepend_text": "Setup. ",
+				"comment": "Vibro-Shock Gauntlets — Ajouter 'Setup. ' au début du texte (attachment révélé lors du setup)"
+			},
+			{
+				"code": "503082",
+				"prepend_text": "Setup. ",
+				"comment": "Electricity Clones — Ajouter 'Setup. ' au début du texte (mis en jeu lors du setup)"
+			},
+			{
+				"code": "503083",
+				"prepend_text": "Setup. ",
+				"comment": "Grounded — Ajouter 'Setup. ' au début du texte (mis en jeu lors du setup)"
+			},
+			{
+				"code": "503099",
+				"prepend_text": "Setup. ",
+				"comment": "Lizard Brain — Ajouter 'Setup. ' au début du texte (mis en jeu lors du setup)"
+			},
+			{
+				"code": "503133",
+				"default_setup_pile": "Setup",
+				"comment": "Wingsuit — Mettre dans la pile Setup"
+			},
+			{
+				"code": "503129",
+				"prepend_text": "Setup. ",
+				"comment": "Aerial Advantage — Ajouter 'Setup. ' au début du texte (mis en jeu lors du setup)"
+			},
+			{
+				"code": "503138",
+				"prepend_text": "Setup. ",
+				"comment": "Fisk Tower — Mettre le mot clé Setup"
+			},
+			{
+				"code": "503148",
+				"default_setup_pile": "Encounter",
+				"comment": "FBI Investigation — Éviter le crash KeyError nemesis (c'est une obligation du deck de rencontre de Kingpin)"
 			}
 		],
 		"scenario_overrides": [
+			{
+				"set_code": "electro_by_ripper3",
+				"ignore_main_scheme_text": true,
+				"nb_modular": 1,
+				"recommended_modulars": {
+					"sinister_assault": [
+						"Sinister Assault",
+						"Encounter",
+						true
+					]
+				},
+				"comment": "Electro — 1 modulaire recommandé: Sinister Assault (officiel)."
+			},
+			{
+				"set_code": "the_lizard_by_ripper3",
+				"ignore_main_scheme_text": true,
+				"nb_modular": 2,
+				"recommended_modulars": {
+					"city_sewers_by_ripper3": [
+						"City Sewers",
+						"Encounter",
+						true
+					],
+					"down_to_earth": [
+						"Down to Earth",
+						"Encounter",
+						true
+					]
+				},
+				"comment": "The Lizard — 2 modulaires recommandés: City Sewers (fanmade) et Down to Earth (officiel)."
+			},
+			{
+				"set_code": "vulture_by_ripper3",
+				"ignore_main_scheme_text": true,
+				"nb_modular": 1,
+				"recommended_modulars": {
+					"a.i.m._abduction": [
+						"A.I.M. Abduction",
+						"Encounter",
+						true
+					]
+				},
+				"comment": "Vulture — 1 modulaire recommandé (corrige le crash int('') car le texte 'One modular' est mal parsé)."
+			},
 			{
 				"set_code": "shocker_by_ripper3",
 				"ignore_main_scheme_text": true,
