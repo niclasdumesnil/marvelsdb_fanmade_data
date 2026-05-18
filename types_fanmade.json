@@ -1,14 +1,14 @@
 [
-	{
-		"code": "challenge",
-		"name": "Challenge"
-	},
-	{
-		"code": "player_minion",
-		"name": "Player Minion"
-	},
-	{
-		"code": "narrative",
-		"name": "Narrative"
-	}
+    {
+        "code": "challenge",
+        "name": "Challenge"
+    },
+    {
+        "code": "player_minion",
+        "name": "Player Minion"
+    },
+    {
+        "code": "narrative",
+        "name": "Narrative"
+    }
 ]

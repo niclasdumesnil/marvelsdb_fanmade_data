@@ -1444,5 +1444,15 @@
     "code": "iron_man_model_42_by_rainy_nemesis",
     "name": "Iron Man Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "dazzler_by_lord_havok",
+    "name": "Dazzler",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "dazzler_s_nemesis_by_lord_havok",
+    "name": "Dazzler's Nemesis",
+    "card_set_type_code": "nemesis"
   }
 ]

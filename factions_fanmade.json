@@ -1,14 +1,14 @@
 [
-	{
-		"code": "determination",
-		"is_primary": true,
-		"name": "Determination",
-		"octgn_id": null
-	},
-	{
-		"code": "game_module",
-		"is_primary": false,
-		"name": "Game Module",
-		"octgn_id": null
-	}
+    {
+        "code": "determination",
+        "is_primary": true,
+        "name": "Determination",
+        "octgn_id": null
+    },
+    {
+        "code": "game_module",
+        "is_primary": false,
+        "name": "Game Module",
+        "octgn_id": null
+    }
 ]
