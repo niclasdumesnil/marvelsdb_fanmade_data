@@ -1,0 +1,186 @@
+{
+	"fantastic_four_by_hax": {
+		"card_overrides": [
+			{
+				"code": "501189",
+				"ignore_fields": [
+					"text"
+				],
+				"comment": "Imperius Rex! — Le texte OCTGN ne doit pas être généré pour cette carte (side_scheme Namor)"
+			},
+			{
+				"code": "501260",
+				"prepend_text": "Setup. ",
+				"comment": "Super-Skrull — Ajouter 'Setup. ' au début du texte"
+			},
+			{
+				"code": "501261",
+				"prepend_text": "Setup. ",
+				"comment": "Super-Skrull — Ajouter 'Setup. ' au début du texte"
+			},
+			{
+				"code": "501262",
+				"prepend_text": "Setup. ",
+				"comment": "Super-Skrull — Ajouter 'Setup. ' au début du texte"
+			},
+			{
+				"code": "501263",
+				"prepend_text": "Setup. ",
+				"comment": "Super-Skrull — Ajouter 'Setup. ' au début du texte"
+			},
+			{
+				"code": "501290",
+				"prepend_text": "Setup. ",
+				"comment": "Leyline Network — Ajouter 'Setup. ' au début du texte (mis en jeu lors du setup)"
+			},
+			{
+				"code": "501305",
+				"prepend_text": "Setup. ",
+				"comment": "Demoralized — Ajouter 'Setup. ' au début du texte (mis de côté lors du setup)"
+			},
+			{
+				"code": "501300",
+				"default_setup_pile": "Special",
+				"comment": "Latveria — Environnement Portal, va dans la pile Special (PORTAL deck)"
+			},
+			{
+				"code": "501302",
+				"default_setup_pile": "Special",
+				"comment": "Wakanda — Environnement Portal, va dans la pile Special (PORTAL deck)"
+			},
+			{
+				"code": "501304",
+				"default_setup_pile": "Special",
+				"comment": "Hell — Environnement Portal, va dans la pile Special (PORTAL deck)"
+			},
+			{
+				"code": "501307",
+				"default_setup_pile": "Special",
+				"comment": "Nuclear Facility — Environnement Portal, va dans la pile Special (PORTAL deck)"
+			},
+			{
+				"code": "501309",
+				"default_setup_pile": "Special",
+				"comment": "New York — Environnement Portal, va dans la pile Special (PORTAL deck)"
+			},
+			{
+				"code": "501311",
+				"default_setup_pile": "Special",
+				"comment": "Hydra Base — Environnement Portal, va dans la pile Special (PORTAL deck)"
+			},
+			{
+				"code": "501313",
+				"default_setup_pile": "Special",
+				"comment": "Space Portal — Environnement Portal, va dans la pile Special (PORTAL deck)"
+			},
+			{
+				"code": "501315",
+				"default_setup_pile": "Special",
+				"comment": "Big House — Environnement Portal, va dans la pile Special (PORTAL deck)"
+			},
+			{
+				"code": "501317",
+				"default_setup_pile": "Special",
+				"comment": "Limitless Library — Environnement Portal, va dans la pile Special (PORTAL deck)"
+			},
+			{
+				"code": "501231",
+				"prepend_text": "Setup. ",
+				"comment": "Annihilus — Ajouter 'Setup. ' au début du texte"
+			}
+		],
+		"scenario_overrides": [
+			{
+				"set_code": "doctor_doom_by_hax",
+				"ignore_main_scheme_text": true,
+				"nb_modular": 0,
+				"mandatory_modulars": {
+					"armies_of_titan": [
+						"Armies of Titan",
+						"Setup",
+						false
+					],
+					"doombot_factory_by_hax": [
+						"Doombot Factory",
+						"Setup",
+						false
+					],
+					"exper_weapon": [
+						"Experimental Weapons",
+						"Setup",
+						false
+					],
+					"weap_master": [
+						"Weapon Master",
+						"Setup",
+						false
+					],
+					"hydra_assault": [
+						"Hydra Assault",
+						"Setup",
+						false
+					],
+					"nuclear_threat_by_hax": [
+						"Nuclear Threat",
+						"Setup",
+						false
+					],
+					"possession_by_hax": [
+						"Possession",
+						"Setup",
+						false
+					],
+					"running_interference": [
+						"Running Interference",
+						"Setup",
+						false
+					],
+					"sinister_syndicate": [
+						"Sinister Syndicate",
+						"Setup",
+						false
+					],
+					"vibranium_heist_by_hax": [
+						"Vibranium Heist",
+						"Setup",
+						false
+					]
+				},
+				"comment": "Doctor Doom — 9 modulaires obligatoires mis de côté dans la pile Setup (non mélangés). Les 9 environnements Portal vont dans la pile Special via card_overrides."
+			}
+		]
+	},
+	"web_of_deceit_by_ripper3": {
+		"ignore_heroes": true,
+		"card_overrides": [
+			{
+				"code": "503071",
+				"prepend_text": "Setup. ",
+				"comment": "The Long Night — Ajouter 'Setup. ' au début du texte (side scheme révélée lors du setup)"
+			}
+		],
+		"scenario_overrides": [
+			{
+				"set_code": "shocker_by_ripper3",
+				"ignore_main_scheme_text": true,
+				"nb_modular": 1,
+				"mandatory_modulars": {
+					"power_drain_ii_by_ripper3": [
+						"Power Drain II",
+						"Encounter",
+						true
+					]
+				},
+				"recommended_modulars": {
+					"crime_wave_by_ripper3": [
+						"Crime Wave",
+						"Encounter",
+						true
+					]
+				},
+				"comment": "Shocker — Power Drain II est le modulaire fanmade du pack, pas l'officiel Power Drain. 1 modulaire au choix (recommandé: Crime Wave)."
+			}
+		],
+		"comment": "Web of Deceit — Ignorer les héros (déjà générés) pour ne générer que les scénarios"
+	}
+}
