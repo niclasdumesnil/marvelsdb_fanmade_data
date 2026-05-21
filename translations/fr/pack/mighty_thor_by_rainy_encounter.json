@@ -1,0 +1,38 @@
+[
+	{
+		"code": "202113",
+		"name": "Chimiothérapie",
+		"text": "Passez sous forme d'alter ego. Choisissez:\n• inclinez Jane Foster et Clinique Médicale → retirez Chimiothérapie du jeu.\n• défaussez 2 cartes de votre main ou subissez 2 dégâts. Défaussez cette obligation.",
+		"flavor": "« À part le fait d'en mourir, avoir un cancer, c'est du gâteau comparé au fait de s'en débarrasser. »"
+	},
+	{
+		"code": "202114",
+		"name": "La Guerre des Royaumes",
+		"text": "<b>Une fois révélée</b> : chaque joueur subit 1 dégât indirect pour chaque personnage sous son contrôle.",
+		"flavor": "« Les machinations et les manipulations de Malekith ont propagé la guerre à tous les royaumes connus. Ses armées doivent être anéanties, mais le tribut sera lourd. »"
+	},
+	{
+		"code": "202115",
+		"name": "Malekith",
+		"text": "[star]<b>Réponse forcée</b> : après que Malekith s'est activé, chaque joueur subit 1 dégât indirect.\n<i>(Sbire Nemesis de Thor.)</i>",
+		"flavor": "« Bienvenue dans la Guerre des Royaumes, bande d'imbéciles. Et sachez que... votre supplice ne fait que commencer. »",
+		"traits": "Elfe Noir. Mystique."
+	},
+	{
+		"code": "202116",
+		"name": "Sorcières de Guerre",
+		"text": "[star] <b>Interruption forcée</b> : quand les Sorcières de Guerre devraient attaquer, elles manigancent à la place.\n<b>Réponse forcée</b> : après que de la menace a été placée sur la manigance principale, le joueur engagé avec ce sbire subit 1 dégât indirect.",
+		"flavor": "« Nous flairons la noirceur de ton âme... et nous en ferons un brasier ! »",
+		"traits": "Elfe Noir. Mystique."
+	},
+	{
+		"code": "202117",
+		"name": "Executer",
+		"text": "<b>Une fois révélée</b>: Vainquez l'allié en jeu avec le plus de points de vie restant. Si aucun allié n'est vaincu par cette effet, cette carte gagne Renfort."
+	},
+	{
+		"code": "202118",
+		"name": "Prise de contrôle hostile",
+		"text": "<b>Une fois révélée</b> : choisissez de défausser le soutien avec le coût le plus élevé que vous contrôlez ou subissez des dégâts égaux à son coût (ces dommages ignorent les cartes d'état Tenace). Si aucun effet ne s'est produit, cette carte gagne Renfort."
+	}
+]
