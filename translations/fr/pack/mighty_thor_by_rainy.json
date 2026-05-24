@@ -15,14 +15,14 @@
 	{
 		"code": "202102",
 		"name": "Roz Solomon",
-		"text": "[star]<b> Interruption</b> : quand Roz Solomon contre, inclinez le Congrès des Mondes ou une une carte  [[s.h.i.e.l.d.]] que vous contrôlez → elle gagne +2 CTR pour cette utilisation.",
-		"flavor": "\"Bon, il faut se rappeler l'objectif prioritaire... Personne ne casse mes boucles d'oreille. Ces trucs coûtent une blinde.\"",
+		"text": "[star]<b> Interruption</b> : quand Roz Solomon contre, inclinez le Congrès des Mondes ou une carte  [[s.h.i.e.l.d.]] que vous contrôlez → elle gagne +2 CTR pour cette utilisation.",
+		"flavor": "\"Bon, il faut se rappeler l'objectif prioritaire... Personne ne casse mes oreillettes. Ces trucs coûtent une blinde.\"",
 		"traits": "S.H.I.E.L.D. Espion."
 	},
 	{
 		"code": "202103",
 		"name": "Marteau en Balancier",
-		"text": "<b>Action de héros </b>(<i>attaque</i>) : inclinez Mjlonir et dépensez une ressource de n'importe quel type → infligez 4 dégâts à un ennemi.\n<b>Interruption de héros</b><i> (défense)</i>: quand vous êtes censé subir n'importe quelle quantité de dégâts, inclinez Mjolnir → prévenez tous ces dégâts.",
+		"text": "<b>Action de héros </b>(<i>attaque</i>) : inclinez Mjolnir et dépensez une ressource de n'importe quel type → infligez 4 dégâts à un ennemi.\n<b>Interruption de héros</b><i> (défense)</i>: quand vous êtes censé subir n'importe quelle quantité de dégâts, inclinez Mjolnir → prévenez tous ces dégâts.",
 		"traits": "Attaque. Défense."
 	},
 	{
@@ -36,27 +36,27 @@
 		"code": "202105",
 		"name": "Se relever Prestement",
 		"text": "<b>Action de héros</b> : redressez Thor et Mjolnir. Si vous avez payé cette carte uniquement avec des ressources [energy], donnez à Thor une carte d'état tenace.",
-		"flavor": "« Vous ne prendrez pas cette ville ! Pas tant que Thor vivra ! »",
+		"flavor": "« Vous ne prendrez pas cette ville ! Pas tant que Thor vivra ! » —Thor",
 		"traits": "Compétence."
 	},
 	{
 		"code": "202106",
-		"name": "Le Congrès des mondes",
-		"text": "<b>Action d'alter ego</b> : inclinez le Congrès des Mondes et dépensez une ressource de n'importe quel type → retirez 2 menaces de la manigance principale ou 3 menaces d'une manigance annexe.",
+		"name": "Le Congrès des Mondes",
+		"text": "<b>Action d'alter ego</b> : inclinez le Congrès des Mondes et dépensez 1 ressource de n'importe quel type → retirez 2 menaces de la manigance principale ou 3 menaces d'une manigance annexe.",
 		"flavor": "« S'agit-il du Congrès des Mondes, ou d'une confédération de couards ? » —Le sénateur d'Alfheim",
 		"traits": "Asgard. Lieu."
 	},
 	{
 		"code": "202107",
 		"name": "Clinique Médicale",
-		"text": "Jane Foster gagne+2 REC.\n<b>Action d'alter ego</b> : inclinez la Clinique Médicale et dépensez 1 ressource de n'importe quel type → soignez 3 dégâts d'une identité.",
-		"flavor": "\"Occupons-nous des autres patients\" -infirmière",
+		"text": "Jane Foster gagne +2 REC.\n<b>Action d'alter ego</b> : inclinez la Clinique Médicale et dépensez 1 ressource de n'importe quel type → soignez 3 dégâts d'une identité.",
+		"flavor": "\"laissez-nous nous inquiétez des autres patients\" -infirmière",
 		"traits": "Lieu."
 	},
 	{
 		"code": "202108",
 		"name": "Bassin de Divination",
-		"text": "<b>Action de héros</b> : inclinez le Bassin de Méditation → regardez la carte du dessus d'un deck. Vous pouvez défaussez cette carte. Si une traîtrise a été regardé ainsi, retirez 1 menace d'une manigance. Si un évènement a été regardé du deck d'un joueur ainsi, ce joueur pioche 1 carte.",
+		"text": "<b>Action de héros</b> : inclinez le Bassin de Divination → regardez la carte du dessus d'un deck. Vous pouvez défaussez cette carte. Si une traîtrise a été regardé ainsi, retirez 1 menace d'une manigance. Si un évènement a été regardé du deck d'un joueur ainsi, ce joueur pioche 1 carte.",
 		"traits": "Asgard. Lieu."
 	},
 	{
@@ -76,7 +76,7 @@
 	{
 		"code": "202111",
 		"name": "Mjolnir",
-		"text": "Restreint.\nThor gagne +1 ATK et le  trait [[aérien]].\n<b>Action de héros</b> <i>(attaque)</i> : défaussez Mjolnir → infligez 2 dégâts à un ennemi. Cette attaque gagne A distance.",
+		"text": "Restreint.\nThor gagne +1 ATK et le  trait [[aérien]].\n<b>Action de héros</b> <i>(attaque)</i> : défaussez Mjolnir → infligez 2 dégâts à un ennemi. Cette attaque gagne À distance.",
 		"traits": "Asgard. Arme."
 	},
 	{

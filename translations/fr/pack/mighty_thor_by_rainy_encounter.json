@@ -2,7 +2,7 @@
 	{
 		"code": "202113",
 		"name": "Chimiothérapie",
-		"text": "Passez sous forme d'alter ego. Choisissez:\n• inclinez Jane Foster et Clinique Médicale → retirez Chimiothérapie du jeu.\n• défaussez 2 cartes de votre main ou subissez 2 dégâts. Défaussez cette obligation.",
+		"text": "<b><i>Donnez cette carte au joueur de Jane Foster</i></b>\nPassez sous forme d'alter ego. Choisissez:\n• inclinez Jane Foster et Clinique Médicale → retirez Chimiothérapie du jeu.\n• défaussez 2 cartes de votre main ou subissez 2 dégâts. Défaussez cette obligation.",
 		"flavor": "« À part le fait d'en mourir, avoir un cancer, c'est du gâteau comparé au fait de s'en débarrasser. »"
 	},
 	{
@@ -27,7 +27,7 @@
 	},
 	{
 		"code": "202117",
-		"name": "Executer",
+		"name": "Exécuter",
 		"text": "<b>Une fois révélée</b>: Vainquez l'allié en jeu avec le plus de points de vie restant. Si aucun allié n'est vaincu par cette effet, cette carte gagne Renfort."
 	},
 	{
