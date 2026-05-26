@@ -1454,5 +1454,15 @@
     "code": "dazzler_s_nemesis_by_lord_havok",
     "name": "Dazzler's Nemesis",
     "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "festin_totemique_by_merlin",
+    "name": "Festin Totemique by Merlin",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "pouvoir_totemique_by_merlin",
+    "name": "Pouvoir Totemique by Merlin",
+    "card_set_type_code": "modular"
   }
 ]

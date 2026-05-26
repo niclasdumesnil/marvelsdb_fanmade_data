@@ -244,6 +244,10 @@
 		"name": "Rom"
 	},
 	{
+		"code": "iron_fist_by_merlin",
+		"name": "Iron Fist"
+	},
+	{
 		"code": "mystique_by_merlin",
 		"name": "Mystique"
 	},
@@ -258,6 +262,10 @@
 	{
 		"code": "joe_fixit_by_merlin",
 		"name": "Joe Fixit"
+	},
+	{
+		"code": "superior_iron_man_by_merlin",
+		"name": "Superior Iron Man"
 	},
 	{
 		"code": "red_hulk_by_merlin",
@@ -292,8 +300,20 @@
 		"name": "Heimdall"
 	},
 	{
+		"code": "blink_by_kajislav",
+		"name": "Blink"
+	},
+	{
 		"code": "yondu_by_hax",
 		"name": "Yondu"
+	},
+	{
+		"code": "ser_reddwyn_by_justatuna",
+		"name": "Ser Reddwyn"
+	},
+	{
+		"code": "ms_marvel_by_cptscorp_&_rycoran",
+		"name": "Miss Marvel"
 	},
 	{
 		"code": "manifold_by_bluehg",
@@ -320,6 +340,10 @@
 		"name": "Red Guardian"
 	},
 	{
+		"code": "beta_ray_bill_by_ripper3",
+		"name": "Beta Ray Bill"
+	},
+	{
 		"code": "beast_by_hainz3y2",
 		"name": "Le Fauve"
 	},
@@ -340,19 +364,59 @@
 		"name": "Luke Cage"
 	},
 	{
+		"code": "sabretooth_by_rycoran",
+		"name": "Dent de Sabre"
+	},
+	{
 		"code": "Karnak_by_1-2-punchboard",
 		"name": "Karnak"
+	},
+	{
+		"code": "Captain_Britain_by_Hitch",
+		"name": "Captain Britain"
 	},
 	{
 		"code": "Gwenpool_by_ekAugust",
 		"name": "Gwenpool"
 	},
 	{
+		"code": "hawkeye_by_cptscorp",
+		"name": "Hawkeye"
+	},
+	{
+		"code": "iron_lad_by_cptscorp",
+		"name": "Iron Lad"
+	},
+	{
 		"code": "shang_chi_by_hax",
 		"name": "Shang-Chi"
 	},
 	{
+		"code": "rachel_summers_by_ripper3",
+		"name": "Rachel Summers"
+	},
+	{
+		"code": "morbius_by_rycoran",
+		"name": "Morbius"
+	},
+	{
+		"code": "graviton_by_xb",
+		"name": "Graviton"
+	},
+	{
 		"code": "skrull_menace_by_kajislav",
 		"name": "Menace Skrull"
+	},
+	{
+		"code": "dtm",
+		"name": "Détermination"
+	},
+	{
+		"code": "hulk_by_rainy",
+		"name": "Hulk"
+	},
+	{
+		"code": "inheritors_by_merlin",
+		"name": "Les Héritiers"
 	}
 ]
