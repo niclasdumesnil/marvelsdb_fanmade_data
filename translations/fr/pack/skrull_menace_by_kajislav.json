@@ -1,1 +1,439 @@
-[]
+[
+	{
+		"code": "500701a",
+		"name": "Hulkling",
+		"text": "<i>Descendant of Both Races</i> — <b>Réponse</b>: After you play a card with the [[kree]] or [[skrull]] trait from your hand, if you share that trait, draw 1 card. (Limit once per round.)\n<i>\"I am Hulkling, the Young Avengers' resident shape- changer.\"</i>\n<i></i>",
+		"traits": "Avenger."
+	},
+	{
+		"code": "500701b",
+		"name": "Teddy Altman",
+		"text": "<i>Kree/Skrull Hybrid</i><b> </b>—<b> Setup</b>: Put your origin form upgrade into play, Skrull Origin side faceup.\n<b>Réponse</b>: After you change origin form, heal 1 damage from Teddy Altman.\n<i>\"So I'm half-Kree, half-Skrull?\" </i>",
+		"traits": "Hybrid."
+	},
+	{
+		"code": "500702a",
+		"name": "Kree Origin",
+		"text": "Origin form. Permanent.\nHulkling gains the [[kree]] trait.\n<b>Action</b>: Exhaust this card → flip this card.\n<b>Réponse</b>: After you spend a [[skrull]] card, exhaust this card → draw 1 card."
+	},
+	{
+		"code": "500702b",
+		"name": "Skrull Origin",
+		"text": "Origin form. Permanent.\nHulkling gains the [[skrull]] trait.\n<b>Action</b>: Exhaust this card →<b> </b>flip this card.\n<b>Réponse</b>: After you spend a card with the [[kree]] trait, exhaust this card → draw 1 card. <i></i>"
+	},
+	{
+		"code": "500703",
+		"name": "Wiccan",
+		"subname": "William Kaplan",
+		"text": "While you have the [[kree]] trait, Wiccan gets +1 ATK.\nWhile you have the [[skrull]] trait, Wiccan gets +1 THW.\n<i>“You picked the wrong gays to mess with!”</i>",
+		"traits": "Avenger."
+	},
+	{
+		"code": "500704",
+		"name": "Kree Durability",
+		"text": "<b>Réponse de héros</b>: After you change form, ready Hulkling and give him a tough status card.\n<i>\"Yeah, these guys aren't as scary without their guns.\" —Hulkling</i>",
+		"traits": "Kree. Superpower."
+	},
+	{
+		"code": "500705",
+		"name": "Kree Ferocity",
+		"text": "<b>Interruption de héros</b>: When you make a basic attack, you get +6 ATK for that attack. You may take 2 indirect damage → that attack gains overkill.\n<i>\"I dont Hulk-out, if that's what you mean. At least not any more than most sixteen-year-olds.\" —Hulkling</i>",
+		"traits": "Kree. Superpower."
+	},
+	{
+		"code": "500706",
+		"name": "Shift and Strike",
+		"text": "<b>Hero Response </b><i>(attack)</i>: After you change form, deal 4 damage to an enemy. If you have the [[skrull]] trait, confuse that enemy. If you have the [[kree]] trait, stun that enemy.\n<i>\"Wow...it worked. I can't believe it.\" —Hulkling</i>",
+		"traits": "Attack. Skrull."
+	},
+	{
+		"code": "500707",
+		"name": "Skrull Infiltration",
+		"text": "<b>Hero Action </b><i>(thwart)</i>: Remove 4 threat from a scheme. You may take 2 indirect damage → this thwart ignores the patrol keyword and the crisis icon ([crisis]).\n<i>\"I guess it's the Skrull part of me.\" —Hulkling</i>",
+		"traits": "Skrull. Thwart."
+	},
+	{
+		"code": "500708",
+		"name": "Skrull Regeneration",
+		"text": "<b>Action de héros</b>: Ready Hulkling. Heal 2 damage from Hulkling for each resource you overpaid for this card.\n<i>\"Almost healed...that doesn't mean it doesn't hurt.\" —Hulkling</i>",
+		"traits": "Skrull. Superpower."
+	},
+	{
+		"code": "500709",
+		"name": "Alliance",
+		"text": "<b>Réponse</b>: After you play a card with the [[kree]] trait from your hand, deal 1 damage to an enemy.\n<b>Réponse</b>: After you play a card with the [[skrull]] trait from your hand, remove 1 threat from the main scheme.\n<i>“Male Kree children are conscripted at age nine. Taken and trained to be the best soldiers in all the universe.\"</i>",
+		"traits": "Kree. Skrull."
+	},
+	{
+		"code": "500710",
+		"name": "Ancestors",
+		"text": "Uses (2 individual counters).\n<b>Action</b>: Exhaust this card and remove 1 individual counter from it → choose 1 card in your hand or in play. That card gains the [[kree]] or [[skrull]] trait until the end of the round.\n<i>“She would have been a powerful leader...might well have brought peace to our warring races.\" —Mar-Vell</i>",
+		"traits": "Kree. Skrull."
+	},
+	{
+		"code": "500711",
+		"name": "Changeling",
+		"text": "Hulkling gains the [[aerial]] trait.\n<b>Interruption</b>: When you use a basic power, exhaust Changeling → you get +1 to that power for this use.\n<i>\"What else do you call a kid who's half-Hulk, half-changeling?\" —Kate Bishop</i>",
+		"traits": "Skrull. Superpower."
+	},
+	{
+		"code": "500712",
+		"name": "Emperor Dorrek-Vell",
+		"text": "While you have the [[kree]] trait, each ally you control gets +1 ATK.\nWhile you have the [[skrull]] trait, each ally you control gets +1 THW.\n<i>\"I am Dorrek VIII, the once and future King of Space!\" —Hulkling</i>",
+		"traits": "Kree. Skrull. Title."
+	},
+	{
+		"code": "500713",
+		"name": "Excelsior",
+		"text": "Restricted. <i>(Max 2 restricted cards per player.)</i>\nWhile Excelsior is ready, Hulkling's basic attacks gain piercing.\n<b>Ressource</b>: Exhaust Excelsior → generate a [energy] resource.\n<i>\"I found this in there. Looks like a sword\" —Hulkling</i>",
+		"traits": "Kree. Skrull. Weapon."
+	},
+	{
+		"code": "500714",
+		"name": "Nega Rings",
+		"text": "<b>Action de héros</b>: Exhaust Nega Rings and spend a [energy] resource → choose a card in your hand and swap that card with a card of your choice in your discard pile.\n<i>\"...these are what is left of Captain Marvel's legacy. All I have of him.\" —Hulkling</i>",
+		"traits": "Item. Kree."
+	},
+	{
+		"code": "500721",
+		"name": "Deflect the Blow",
+		"text": "<b>Hero Interrupt </b><i>(defense)</i>: When you would take any amount of damage from an attack, discard Deflect the Blow and exhaust your hero, prevent all of that damage.\n<i>\"Wow...it worked. I can't believe it.\" —Hulkling</i>",
+		"traits": "Preparation."
+	},
+	{
+		"code": "500724",
+		"name": "Drunk in Love",
+		"text": "<b>Action</b>: Confuse your identity → heal 4 damage from it.\n<i>\"I could wish for anything in any world, I could bend reality to all my whims, and when I wake up alone and scared...I only want you.\" —Wiccan</i>"
+	},
+	{
+		"code": "500729",
+		"name": "Glorious Flight",
+		"text": "Play only if you have an [[aerial]] trait.\n<b>Réponse de héros</b>: After you defeat an enemy or a side scheme, discard Glorious Flight → ready your hero.",
+		"traits": "Preparation."
+	},
+	{
+		"code": "500715",
+		"name": "Lauri-Ell",
+		"text": "<b>Réponse</b>: After Lauri-Ell takes any amount of damage from an attack, give her a tough status card.\n<i>“Though I was born and bred for war, I have no taste for violance.\"</i>",
+		"traits": "Kree. Soldier."
+	},
+	{
+		"code": "500716",
+		"name": "Mur-G'nn",
+		"text": "<b>Action</b>: Exhaust Mur-G'nn and deal 1 damage to her → discard the top card of your deck. If that card's printed resource has: [physical] - Ready a card your control. [energy] - Give an identity a tough status card. [mental] - Heal 3 damage from a character. Mur-G'nn to your hand. [wild] - Choose one of the above.",
+		"traits": "Kree. Skrull."
+	},
+	{
+		"code": "500730",
+		"name": "Pride",
+		"text": "Max 1 per player.<b>\nAction</b>: Exhaust Pride → discard the top card of your deck. If that card is an identity-specific card, add it to your hand.\n<i>\"I am gay. \" —Jean-Paul Beaubier</i>",
+		"traits": "Condition. Superpower."
+	},
+	{
+		"code": "500719",
+		"name": "Provoked!",
+		"text": "<b>Réponse de héros</b>: After you defend against an attack and take at least 1 damage, ready your hero.\n<i>\"Someone is either breaking in or shooting a music video in my apartment.\" —Hulkling</i>"
+	},
+	{
+		"code": "500725",
+		"name": "Strength in Otherness",
+		"text": "Team-Up (Hulkling and Wiccan). Max 1 per deck.\n<b>Hero Action </b><i>(attack/thwart)</i>: Remove 1 threat from the main scheme and deal 1 damage to the villain for each different card type in your discard pile.",
+		"traits": "Attack. Thwart."
+	},
+	{
+		"code": "500723",
+		"name": "Talos",
+		"text": "<b>Interruption</b>: When Talos would take any amount of consequential damage, deal that damage to another character you control.\n<i>“I may be dishonored, but you are in no way honorable enough to fight against me.\"</i>",
+		"traits": "Skrull."
+	},
+	{
+		"code": "500737b",
+		"name": "Laura Green",
+		"text": "<i>Playing Along</i><b> </b>—<b> Action</b>: Search your deck for a [[treachery]] card, shuffle your deck and place that card on the top of your deck. (Limit once per round.)\n<i>\"Out of all the planets in the universe… How is it I keep winding up on this one?\"</i>",
+		"traits": "Skrull. Spy."
+	},
+	{
+		"code": "500737a",
+		"name": "Lyja",
+		"text": "<i>Skrull Spy</i> — <b>Action</b>: Spend up to 1[per_hero] resources of any type → search the encounter deck for a [[treachery]] card for each resource spent this way, shuffle the encounter deck, and place those cards on the top of the encounter deck in any order.\n<i>\"I am now Lyja… The Lazerfist!!\"</i>\n<i></i>",
+		"traits": "Fantastic Four. Skrull."
+	},
+	{
+		"code": "500738",
+		"name": "Human Torch",
+		"subname": "Johnny Storm",
+		"text": "<b>Réponse</b>: After Human Torch leaves play, search the encounter deck for a [[treachery]] card, shuffle the encounter deck, and place that card on the top of the encounter deck.\n<i>“Man, this has to be my third-worst breakup ever!”</i>",
+		"traits": "Fantastic Four."
+	},
+	{
+		"code": "500739",
+		"name": "Faking Death",
+		"text": "<b>Action de héros</b>: Shuffle this card into the encounter deck.\n<b>Une fois révélée</b>: Choose to either stun or confuse an enemy.\n [star] <b>Boost</b>: The activating enemy gets -2 SCH and -2 ATK for this activation.",
+		"traits": "Treachery."
+	},
+	{
+		"code": "500740",
+		"name": "Feign Loyalty",
+		"text": "<b>Action de héros</b>: Shuffle this card into the encounter deck.\n<b>Une fois révélée</b>: Discard an attachment with the uses keyword or the text \"<b>Hero Action</b>\" or \"<b>Hero</b> <b>Response</b>\" from play.\n [star] <b>Boost</b>: Draw 2 cards.",
+		"traits": "Treachery."
+	},
+	{
+		"code": "500741",
+		"name": "Hero Appearance",
+		"text": "<b>Action de héros</b>: Shuffle this card into the encounter deck.\n<b>Une fois révélée</b>: The Lyja player deals 4 damage among enemies in play.\n [star] <b>Boost</b>: The Lyja player deals 3 damage to an enemy.",
+		"traits": "Treachery."
+	},
+	{
+		"code": "500742",
+		"name": "Posing as a Civilian",
+		"text": "<b>Action de héros</b>: Shuffle this card into the encounter deck.\n<b>Une fois révélée</b>: The Lyja player removes 3 threat from among schemes in play.\n [star] <b>Boost</b>: The Lyja player removes 2 threat from a scheme.",
+		"traits": "Treachery."
+	},
+	{
+		"code": "500743",
+		"name": "New York Bookstore",
+		"text": "Laura Green gets +2 REC.\n<b>Alter-Ego Response</b>: After you make a basic recovery, draw 1 card.\n<i>“Try thinking about your life instead of your image!\" —Lyja</i>",
+		"traits": "Location."
+	},
+	{
+		"code": "500744",
+		"name": "Lazerfist",
+		"text": "Lyja gets +1 ATK.<b>\nHero Resource</b>: Exhaust Lazerfist → generate a [energy] resource.\n<i>\"Remember how I lost my ability to fire energy blasts? Well, I got it back…\" —Lyja</i>",
+		"traits": "Superpower."
+	},
+	{
+		"code": "500745",
+		"name": "Ministerial Tiara",
+		"text": "<b>Interruption</b>: When a boost card is turned faceup, if that card has a star icon ([star]) in the boost area, exhaust this card → draw 1 card.\n<i>\"﻿They restored power to my hands… Insulated me against heat and fire… And gave me my old ministerial post back.\" —Lyja</i>",
+		"traits": "Item."
+	},
+	{
+		"code": "500746",
+		"name": "Mole",
+		"text": "<b>Interruption de héros</b>: When a [[treachery]] card is discarded from the top of the encounter deck, exhaust Mole → resolve that card's \"<b>When Revealed</b>\" ability.\n<i>\"I am Skrull in body… and human in soul!\" —Lyja</i>",
+		"traits": "Title."
+	},
+	{
+		"code": "500747",
+		"name": "Shapeshifter",
+		"text": "Lyja gets +1 THW.\n<b>Réponse de héros</b>: After you play a [[treachery]] event, exhaust Shapeshifter → ready Lyja.\n<i>\"No mere flame cage can hold me! I am now Lyja… The Lazerfist!!\" —Lyja</i>",
+		"traits": "Superpower."
+	},
+	{
+		"code": "500762",
+		"name": "Baxter Building",
+		"text": "Reduce the cost to play this card by 1 if you control a [[fantastic four]] character.<b>\nResource</b>: Exhaust Baxter Building → generate a [wild] resource for any player.\n<i>The Baxter Building is located in Manhattan. It has been home to the Fantastic Four.</i>",
+		"traits": "Fantastic Four. Location."
+	},
+	{
+		"code": "500763",
+		"name": "Fantasti-Car",
+		"text": "<b>Réponse</b>: After Fantasti-Car enters play, ready a [[fantastic four]] card.<b>\nAlter-Ego Action</b>: Exhaust Fantasti- Car → choose a player. That player may shuffle 1 card from their discard pile into their deck.",
+		"traits": "Fantastic Four. Vehicle."
+	},
+	{
+		"code": "500764",
+		"name": "Fantastic Four Member",
+		"text": "Play only if your identity has the [[fantastic four]] trait.\nAttach to a friendly character. Max 1 per character.\nAttached character gets +1 hit point and gains the [[fantastic four ]]trait.",
+		"traits": "Title."
+	},
+	{
+		"code": "500752",
+		"name": "Going Ballistic",
+		"text": "<b>Hero Action</b> <i>(attack)</i>: Discard your hand. Deal 2 damage to an enemy (to a maximum of 6) for each card discarded this way.\n<i>“This is how I want you, unfaithful wretch, on your knees!” —Lyja</i>",
+		"traits": "Attack."
+	},
+	{
+		"code": "500753",
+		"name": "Hit the Weak Spot",
+		"text": "<b>Hero Action</b> <i>(attack)</i>: Deal 2 damage to a minion for each icon <i>(</i>[star]<i> and </i>[boost]<i>)</i> in that minion's boost area. This attack gains piercing.\n<i>“Thank me later! Go!” —Lyja</i>",
+		"traits": "Attack."
+	},
+	{
+		"code": "500756",
+		"name": "Invisible Woman",
+		"subname": "sue storm",
+		"text": "Invisible Woman takes +1 consequential damage for each revelation counter on the target of her basic power.\n<b>Réponse forcée</b>: After Invisible Woman uses a basic power, place 1 revelation counter on the target of that power. <i></i>",
+		"traits": "Fantastic Four."
+	},
+	{
+		"code": "500758",
+		"name": "Laser Tag",
+		"text": "Team-Up (Human Torch and Lyja). Max 1 per deck.\n<b>Action de héros</b>: Ready Human Torch, Lyja, and each [[superpower]] upgrade you control."
+	},
+	{
+		"code": "500757",
+		"name": "Mister Fantastic",
+		"subname": "Reed Richards",
+		"text": "<b>Ressource</b>: Exhaust Mister Fantastic and deal 1 damage to him → generate a [mental] resource.\n<i>“Nothing is ever what it appears... it's the mysteries and the unknown that make life interesting.\"</i>",
+		"traits": "Fantastic Four."
+	},
+	{
+		"code": "500749",
+		"name": "The Thing",
+		"subname": "Ben Grimm",
+		"text": "Toughness.\n<b>Action</b>: Discard a tough status card from The Thing and choose up to 2 enemies → deal 2 damage to each of them.\n<i>“It's clobberin' time!\"</i>",
+		"traits": "Fantastic Four."
+	},
+	{
+		"code": "500963",
+		"name": "Mockingbird",
+		"text": "<b>Réponse</b> : après que Crusader est entré en jeu, choisissez un joueur → infligez 1 dégât au méchant et à chaque sbire engagé avec ce joueur. Piochez une carte pour chaque ennemi vaincu ainsi.",
+		"flavor": "<i>\"Veux-tu toujours être un super-héros ?\"</i>",
+		"traits": "INITIATIVE. SKRULL."
+	},
+	{
+		"code": "500964",
+		"name": "Mockingbird",
+		"text": "Jazinda ne compte pas dans votre limite d’alliés.\nTant que Jazinda est inclinée, votre héros gagne +1 CTR.",
+		"flavor": "<i>\"Je ne le nie pas, je le déteste, c'est tout.\"</i>",
+		"traits": "SKRULL."
+	},
+	{
+		"code": "500965",
+		"name": "Super-Skrull",
+		"text": "Tenacité.\n[star] Paibok gagne +1 CTR et +1 ATQ pour chaque carte traîtrise qui lui est attachée.\n<b>Réponse</b> : après qu’une carte traîtrise a été défaussée, subissez 1 dégât → attachez ici cette carte, face cachée (pour un maximum de 2).",
+		"traits": "SKRULL. S.W.O.R.D."
+	},
+	{
+		"code": "500966",
+		"name": "Lyja",
+		"text": "<b>Réponse</b> : quand Skymax entre en jeu, mélangez tous les alliés de votre pile de défausse dans votre deck.",
+		"flavor": "<i>\"J’ai déjà perdu mon monde natal. Je ne perdrai pas la Terre face à votre minable révolte.\"</i>",
+		"traits": "ESCADRON SUPRÊME. SKRULL."
+	},
+	{
+		"code": "500967",
+		"name": "Super-Skrull",
+		"subname": "Kl'rt",
+		"text": "[star] Super-Skrull gagne +1 CTR et +1 ATQ pour chaque carte [[super-pouvoir]] différente qui lui est attachée.\n<b>Réponse</b> : après qu’une carte [[super-pouvoir]] a été placée dans une pile de défausse, attachez ici cette carte, face cachée (pour un maximum de 4).",
+		"traits": "GARDIEN. SKRULL."
+	},
+	{
+		"code": "500968",
+		"name": "Lyja",
+		"text": "[star] <b>Réponse</b> : après que \"Chilly McHotPants” vous a attaqué, piochez une carte. Si vous n’avez subi aucun dégât de cette attaque, piochez une carte.",
+		"flavor": "“Je vais congeler ton misérable petit corps, puis je vais le concasser en petits morceaux que j’utiliserai pour garder mes boissons au frais.\"</i>",
+		"traits": "SKRULL."
+	},
+	{
+		"code": "500969",
+		"name": "Lyja",
+		"text": "<b>Interruption</b> : quand Xavin entre en jeu, défaussez des cartes du dessus de votre deck jusqu’à ce qu’un évènement avec une capacité",
+		"flavor": "<i>\"Action de héros\" soit défaussé. Vous pouvez résoudre cette capacité \"Action de héros\".\n“Mon nom est Xavin, apprenti Super-Skrull.\"</i>",
+		"traits": "FUGITIF. SKRULL."
+	},
+	{
+		"code": "500970",
+		"name": "Entrainement Amical",
+		"text": "Victoire 0.\nX est égal au numéro du stade du méchant.\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance peut donner une carte d’état Tenace à X personnages amis."
+	},
+	{
+		"code": "500971",
+		"name": "Clonage Programmé",
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance peut infliger jusqu’à 3 dégâts à chaque sbire [[skrull]] engagé avec lui."
+	},
+	{
+		"code": "500972",
+		"name": "Alliance Fragile",
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance peut chercher dans le deck Rencontre un sbire non-É[[lite]] et le mettre en jeu sous son contrôle. (Mélangez.) Considérez ce sbire comme un allié avec une boîte de texte vide (<i>sauf les [[traits]]</i>). Son CTR est égal à sa MNG imprimée et il subit 1 dégât consécutif après avoir contré ou      attaqué."
+	},
+	{
+		"code": "500973",
+		"name": "Entraînement de Néophyte",
+		"text": "Victoire 0\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance peut vaincre un sbire [[skrull]] non-É[[lite]] et piocher une carte."
+	},
+	{
+		"code": "500974",
+		"name": "Rechercher des Pouvoirs",
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance peut chercher dans son deck et sa pile de défausse une carte avec le trait [[super-pouvoir]] et la jouer en ignorant son coût en ressources. (Mélangez.)"
+	},
+	{
+		"code": "500975",
+		"name": "Entraînement Skrull",
+		"text": "Victoire 0.\nLes menaces ne peuvent pas être retirées de cette carte sauf si elle est contrée par un allié [[skrull]].\nTant que cette carte est dans la pile de victoire, le héros de son propriétaire gagne +1 CTR, +1 ATQ et +1 DEF."
+	},
+	{
+		"code": "500976",
+		"name": "Voler Pour la Justice",
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance peut chercher un attachement dans son deck ou sa pile de défausse et l’ajouter à sa main. (Mélangez.) Puis, il retire d’une manigance un nombre de menaces égal au coût imprimé de cet attachement."
+	},
+	{
+		"code": "500977",
+		"name": "Antalya",
+		"text": "<b>Action</b> : inclinez Antalya → soignez 1 dégât d’un personnage ami.",
+		"flavor": "<i>\"Nous ne pouvons pas laisser la peur nous empêcher de vivre.\"</i>",
+		"traits": "Persona. Skrull."
+	},
+	{
+		"code": "500978",
+		"name": "Cadre K",
+		"text": "<b>Action</b> : inclinez le Cadre K → retirez 1 menace d’une manigance.\n“C’est le Cadre K. Ils sont une… fraction impure de la population Skrull. Comme les X-Men de la Terre, ils sont nés avec des pouvoirs et des compétences au-delà des espèces Skrull.” → K’thron",
+		"traits": "SKRULL."
+	},
+	{
+		"code": "500979",
+		"name": "Point de Vue",
+		"text": "<b>Réponse de héros</b> : après qu’un sbire [[skrull]] a été vaincu, inclinez le Point de Vue → piochez une carte (pour un maximum de 3) pour chaque  [crisis],[acceleration],[amplify], et [hazard] en jeu.",
+		"flavor": "“Donc tu disais que \"P.D.V.\" signifie ”point de vue” ? Habituellement. Mais dans mon cas, cela signifie “Pool-De-Vision”. - Deadpool",
+		"traits": "METAGAME."
+	},
+	{
+		"code": "500980",
+		"name": "Princesse Anelle",
+		"text": "Alliance.\nX est égal au nombre total de joueurs et d’ennemis [[skrull]] en jeu.\n<b>Réponse</b> : après la fin de la phase joueur, retirez Princesse Anelle de la partie → passez la phase du méchant.",
+		"traits": "INDIVIDU. SKRULL."
+	},
+	{
+		"code": "500981",
+		"name": "Vaisseau de Guerre Skrull",
+		"text": "Jouez cette carte uniquement si vous contrôlez un allié [[skrull]].\nRessource de héros : inclinez le Vaisseau de Guerre Skrull → générez une ressource w pour n’importe quel joueur.",
+		"flavor": "“Vous savez qui je suis. Vous avez vu ce que je peux faire. Je veux être du côté Skrull.” - Deadpool",
+		"traits": "SKRULL. VÉHICULE."
+	},
+	{
+		"code": "500982",
+		"name": "Kreveurs de Skrulls",
+		"text": "<b>Action de héros</b> : inclinez les Kreveurs de Skrulls → infligez 1 dégât à un sbire [[skrull]]. Si ce sbire est vaincu par cet effet, redressez les Kreveurs de Skrulls.",
+		"flavor": "“Nous sommes les Kreveurs de Skrulls. C’est notre façon de faire.” - Ryder",
+		"traits": "CLAN."
+	},
+	{
+		"code": "500983",
+		"name": "Lunettes de 3-D Man",
+		"text": "Attachez cette carte à un allié non-[[skrull]].\n<b>Interruption</b> : quand l’allié attaché attaque un ennemi [[skrull]], cet allié ne subit pas de dégâts consécutifs.",
+		"traits": "OBJET. TECH."
+	},
+	{
+		"code": "500984",
+		"name": "Masque Inhibiteur",
+		"text": "Attachez cette carte à un ennemi [[skrull]].\nTemporaire.\nConsidérez la boîte de texte de l’ennemi attaché comme étant vide.",
+		"flavor": "“Le masque Inhibiteur, il est verrouillé. Je, je ne peux plus changer.” - Impératrice R’Klll",
+		"traits": "OBJET."
+	},
+	{
+		"code": "500985",
+		"name": "Ultime Annulateur",
+		"text": "Attachez cette carte à un ennemi [[skrull]].\nTemporaire.\nL’ennemi attaché ne peut pas s’activer.\nTant que l’Annulateur est attaché au méchant, il gagne 1[per_hero] icône d’aléas ([hazard]).",
+		"traits": "OBJET. TECH."
+	},
+	{
+		"code": "500986",
+		"name": "Appareil de Réversion",
+		"text": "Jouez cette carte sous le contrôle de n’importe quel joueur.\nChaque sbire [[skrull]] engagé avec vous gagne -1 MNG.",
+		"flavor": "“Je vais le prouver... en rétablissant ta forme initiale” → Super-Skrull",
+		"traits": "OBJET. TECH."
+	},
+	{
+		"code": "500987",
+		"name": "Métamorphe Skrull",
+		"text": "Jouez cette carte sous le contrôle de n’importe quel joueur.\nVotre identité gagne le trait [[skrull]].\n<b>Interruption</b> : quand vous êtes censé être vaincu, fixez votre compteur de points de vie à 1 à la place. Ensuite, défaussez cette carte.",
+		"traits": "CONDITION."
+	},
+	{
+		"code": "500988",
+		"name": "Gemme Sy-Torak",
+		"text": "Jouez cette carte sous le contrôle de n’importe quel joueur.\nVous gagnez +3 points de vie.\nVotre héros gagne +1 ATQ.\n<b>Interruption Forcée</b> : quand votre deck est vide, dépensez une ressource [energy] . Sinon, défaussez la Gemme Sy-Torak.",
+		"traits": "ARTEFACT."
+	}
+]
