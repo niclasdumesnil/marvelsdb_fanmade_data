@@ -356,7 +356,8 @@
 	{
 		"code": "500976",
 		"name": "Voler Pour la Justice",
-		"text": "Victoire 0.\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance peut chercher un attachement dans son deck ou sa pile de défausse et l’ajouter à sa main. (Mélangez.) Puis, il retire d’une manigance un nombre de menaces égal au coût imprimé de cet attachement."
+		"text": "Victoire 0.\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance peut chercher une amélioration dans son deck ou sa pile de défausse et l’ajouter à sa main. (Mélangez.) Puis, il retire d’une manigance un nombre de menaces égal au coût imprimé de cet attachement.",
+		"errata": "Remplacement de \"attachement\" par \"amélioration\"  (CDC)"
 	},
 	{
 		"code": "500977",
