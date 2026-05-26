@@ -241,6 +241,7 @@
 		"name": "Skrullos",
 		"text": "Chaque manigance annexe gagne une icône de crise ([crisis]).",
 		"flavor": "<i>\"Au départ, il y avait trois groupes de Skrulls sur Skrullos : les Éternels immortels, les Latents à évolution rapide, et les Déviants métamorphes.\"</i>",
+		"errata": "A l'exception des manigances permanentes. (CDC)",
 		"traits": "Lieu. Planète."
 	},
 	{
@@ -255,7 +256,6 @@
 		"name": "Tarnax IV",
 		"text": "Tant qu’une manigance annexe est en jeu, cette carte gagne une icône d’amplification ([amplify]).",
 		"flavor": "<i>\"Il y a environ 100 000 ans, le Monde du Trône Skrull fut déplacé vers Tarnax IV. Il resta le centre de l’empire jusqu’à sa destruction par Galactus.\"</i>",
-		"errata": "Tant qu’une manigance annexe non permanente est en jeu [CDC]",
 		"traits": "Lieu. Planète."
 	},
 	{
