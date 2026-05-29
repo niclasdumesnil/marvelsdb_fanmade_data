@@ -1,0 +1,115 @@
+{
+  "code": "next_evolution_by_fantasy_flight_games",
+  "name": "NeXt Evolution",
+  "creator": "Fantasy Flight Games",
+  "type": "official",
+  "position": 7,
+  "description": "Welcome to the NeXt Evolution campaign expansion! This expansion features five new scenarios that tell the story of X-Force, a team of battle-hardened mutants that fights for the survival of mutantkind. X-Force leaps into action to defend the Morlocks under siege by the Marauders. But this rescue mission is just the beginning of a larger threat, as they pursue the mercenaries to rescue Hope Summers from the clutches of the mutant mastermind, Mister Sinister, and the time-traveling clone, Stryfe!",
+  "epilogue": "<b>Victory!</b><br>With Stryfe defeated once again, Hope is safe and the timeline is preserved. X-Force stands ready to defend mutants from any threats—past, present, or future!",
+  "image": "next_evolution.png",
+  "visibility": "true",
+  "metadata": {
+    "layout": "next_evolution",
+    "trackers": [
+      "Maraudeurs Vaincus (Marauders Defeated)",
+      "Notes de Campagne (Campaign Notes)"
+    ],
+    "counters": [
+      "Morlocks Sauvés (Morlocks Saved)",
+      "Dégâts sur Hope Summers (Hope Summers Damage)"
+    ],
+    "checkboxes": [
+      "Sécuriser le Refuge (Establish Safehouse) - Recompense: Refuge Sécurisé (Safehouse Established)",
+      "Préparation de Mission (Mission Prep) - Recompense: Mission Préparée (Mission Prepped)",
+      "Rassembler l'Équipe (Assemble the Team) - Recompense: Équipe Rassemblée (Team Assembled)",
+      "S'Équiper (Gear Up) - Recompense: Équipé (Geared Up)",
+      "Répéter les Manœuvres (Practice Maneuvers) - Recompense: Manœuvres Répétées (Practiced Maneuvers)",
+      "Préparer les Défenses (Prepare Defenses) - Recompense: Défenses Préparées (Prepared Defenses)"
+    ]
+  },
+  "scenarios": [
+    {
+      "position": 1,
+      "scenario_uuid": "cffad2342bcd",
+      "narrative": {
+        "title": "Scenario #1 - Morlock Siege",
+        "description": "The Morlocks, a group of shunned mutants living in exile in forgotten tunnels beneath New York City, are under siege by the mutant mercenary group known as the Marauders. Hope Summers, member of the X-Men and adopted daughter of Cable, was checking on the Morlocks in the wake of recent Sentinel attacks when the Marauders came knocking. You leap into action to help Hope fend off the Marauders and save the Morlocks!",
+        "introduction": "<ul><li>Each player records their identity in the campaign log.</li><li>The players as a group choose 1 player side scheme listed in the campaign log. Put the chosen player side scheme into play. Mark the player side scheme as chosen for scenario #1 in the campaign log. Take the encounter card listed in the campaign log in the same row as the chosen player side scheme and shuffle it into the encounter deck.</li></ul>",
+        "resolution": "<b>Victory:</b><br><ul><li>Record the title of each villain under Routed in the campaign log under “Marauders Defeated.”</li><li>Record the number of Morlock allies still in play in the campaign log under “Morlocks Saved.”</li><li>If there is a campaign environment card in play, mark it as “Earned” in the campaign log.</li><li><b>Expert Campaign Only:</b> Record each identity’s remaining hit points in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "40070a",
+          "40071a",
+          "40072a",
+          "40073a",
+          "40074a",
+          "40075a",
+          "40076a"
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "scenario_uuid": "6e008ef46c8b",
+      "narrative": {
+        "title": "Scenario #2 - On the Run",
+        "description": "You turned back the Marauders’ attack and saved many Morlock lives, but in their retreat, the Marauders captured Hope Summers. You get the feeling that she was the real reason for the attack. You pursue the Marauders to an abandoned construction site on the surface. You crash their attempt to hand Hope over to the Nasty Boys, known henchmen of the mutant mastermind, Mister Sinister. The Marauder holding Hope captive tries to escape while the combined forces of the Nasty Boys and the other Marauders cover their retreat.",
+        "introduction": "<ul><li>Before resolving the “Setup” text on Gotta Get Away, remove each villain card recorded in the campaign log under “Marauders Defeated” from the game.</li><li>For each Morlock saved in the previous scenario, choose a player to search their deck for one card, add that card to their hand, and shuffle their deck.</li><li>If there is a campaign environment marked as “Earned” in the campaign log, put that environment into play and give each enemy a tough status card.</li><li>The players as a group choose one player side scheme listed in the campaign log that has not been chosen previously. Put the chosen player side scheme into play. Mark the player side scheme as chosen for scenario #2 in the campaign log. Take each encounter card that corresponds to a player side scheme marked as chosen in the campaign log and shuffle them into the encounter deck.</li></ul>",
+        "resolution": "<b>Victory:</b><br><ul><li>Mark each campaign environment in play as “Earned” in the campaign log (if it is not already).</li><li><b>Expert Campaign Only:</b> Set each player’s hit points to their remaining hit point value recorded in the campaign log for the previous scenario. Each player may place one acceleration token on the main scheme to heal their identity to its full hit point value.</li><li><b>Expert Campaign Only:</b> Record each identity’s remaining hit points in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "40070a",
+          "40071a",
+          "40072a",
+          "40073a",
+          "40074a",
+          "40075a",
+          "40076a"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "scenario_uuid": "560d6723a540",
+      "narrative": {
+        "title": "Scenario #3 - Juggernaut",
+        "description": "After freeing Hope from the Marauders, she helps you interrogate her captor to discover the location where they were to deliver her: the State Home for Foundlings in Omaha, Nebraska. You try to convince Hope to return to the X-Mansion while you check out the location, but she insists she is going to Omaha with or without you. You have no choice but to bring her with you in order to ensure her safety. You travel to Omaha with Hope at your side to discover the State Home for Foundlings is a run-down, seemingly-abandoned orphanage. You are just about to enter the orphanage when the doors explode outward, sending you flying. When the dust clears, you see the doorway guarded by a hulking man in a red helmet, the Juggernaut!",
+        "introduction": "<ul><li>Gather each campaign environment marked as “Earned” in the campaign log. Put those environments into play in any order.</li><li>Place 1 momentum counter on Juggernaut for each campaign environment in play.</li><li>Shuffle Black Tom Cassidy and 1 Creeping Willow minion together and deal one of these cards to each player as a facedown encounter card. Shuffle the remaining card into the encounter deck.</li><li>The players as a group choose 1 player side scheme listed in the campaign log that has not been chosen previously. Put the chosen player side scheme into play. Mark the player side scheme as chosen for scenario #3 in the campaign log. Take each encounter card that corresponds to a player side scheme marked as chosen in the campaign log and shuffle them into the encounter deck.</li></ul>",
+        "resolution": "<b>Victory:</b><br><ul><li>Record the amount of damage on Hope Summers in the campaign log.</li><li>Mark each campaign environment in play as “Earned” in the campaign log (if it is not already).</li><li><b>Expert Campaign Only:</b> Set each player’s hit points to their remaining hit point value recorded in the campaign log for the previous scenario. Each player may deal themself 1 facedown encounter card to heal their identity to its full hit point value.</li><li><b>Expert Campaign Only:</b> Record each identity’s remaining hit points in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "40118",
+          "40119",
+          "40120"
+        ]
+      }
+    },
+    {
+      "position": 4,
+      "scenario_uuid": "49a2c5cd8084",
+      "narrative": {
+        "title": "Scenario #4 - Mister Sinister",
+        "description": "After battling your way past the Juggernaut, you search the abandoned orphanage and discover a hidden elevator in the basement. You take the elevator down deep into the ground before it finally stops. The doors open to reveal a vast cavern system filled with high-tech equipment, glistening medical instruments, and, most disturbing, dozens of vats holding unconscious people suspended in glowing fluid. Standing in the middle of this sprawling laboratory is a grinning Mister Sinister.",
+        "introduction": "<ul><li>Gather each campaign environment marked as “Earned” in the campaign log. Put those environments into play in any order.</li><li>Put the Teleported Away side scheme into play. Place an additional 1 threat on it for each campaign environment in play.</li><li>The players choose to either place damage on Hope Summers equal to the damage recorded for her from the previous scenario in the campaign log, or place that much threat on Teleported Away.</li><li>The players as a group choose 1 player side scheme listed in the campaign log that has not been chosen previously. Put the chosen player side scheme into play. Mark the player side scheme as chosen for scenario #4 in the campaign log. Take each encounter card that corresponds to a player side scheme marked as chosen in the campaign log and shuffle them into the encounter deck.</li></ul>",
+        "resolution": "<b>Victory:</b><br><ul><li>Record the amount of damage on Hope Summers in the campaign log.</li><li>Mark each campaign environment in play as “Earned” in the campaign log (if it is not already).</li><li><b>Expert Campaign Only:</b> Set each player’s hit points to their remaining hit point value recorded in the campaign log for the previous scenario. Each player may place one acceleration token on the main scheme to heal their identity to its full hit point value.</li><li><b>Expert Campaign Only:</b> Record each identity’s remaining hit points in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "40136",
+          "40137",
+          "40138"
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "scenario_uuid": "26735973dc2c",
+      "narrative": {
+        "title": "Scenario #5 - Stryfe",
+        "description": "Just as you are ready to take Mister Sinister into custody, a time portal opens to allow the evil genius to escape. Hope pursues Sinister through the portal, intent on putting an end to his diabolical schemes. Uncertain of what dangers await Hope on the other side of the portal, you have no choice but to follow her. On the other side of the portal, you find an unconscious Sinister lying at the feet of the mutant Stryfe, a clone of Cable. Hope tries to mimic Stryfe’s telepathic powers to free herself from his grasp, but his power is too great and threatens to overwhelm her...with explosive results!",
+        "introduction": "<ul><li>Gather each campaign environment marked as “Earned” in the campaign log. Put those environments into play in any order.</li><li>Place 1 threat on Stryfe’s Grasp for each campaign environment in play.</li><li>The players choose to either place damage on Hope Summers equal to the damage recorded for her from the previous scenario in the campaign log, or place that much threat on Stryfe’s Grasp.</li><li>In player order, each player discards cards from the encounter deck until they discard a minion or a Psionic attachment and reveal that card. Shuffle the encounter discard pile into the encounter deck.</li><li>The players as a group choose 1 player side scheme listed in the campaign log that has not been chosen previously. Put the chosen player side scheme into play. Mark the player side scheme as chosen for scenario #5 in the campaign log. Take each encounter card that corresponds to a player side scheme marked as chosen in the campaign log and shuffle them into the encounter deck.</li></ul>",
+        "resolution": "<b>Victory:</b><br>Stryfe is defeated and the players win the campaign! Read the conclusion.",
+        "illustration_codes": [
+          "40163",
+          "40164",
+          "40165"
+        ]
+      }
+    }
+  ]
+}

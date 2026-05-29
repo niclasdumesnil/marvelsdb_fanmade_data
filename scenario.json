@@ -7815,5 +7815,1298 @@
     "text": "Bonuses for multiple enemies. Side schemes. Thematic.",
     "creator": "villain theory",
     "scenario_id": 614
+  },
+  {
+    "villain_set_code": "thunderbolts",
+    "title": "Thunderbolts Recommended",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "the_leaper",
+      "supersonic"
+    ],
+    "difficulty": 0,
+    "text": "The FFG Recommended Scenario for Thunderbolts from the Agents of S.H.I.E.L.D. expansion.",
+    "creator": "FFG",
+    "scenario_id": 697,
+    "visibility": true
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Scenario #1 - Rhino (AKA Fight at the Facility)",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "weap_master"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Christian Fecteau",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 615
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "Scenario #2 - Sentinel (AKA Brawl at the Mall)",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "masters_of_evil",
+      "legions_of_hydra",
+      "mystique"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Christian Fecteau",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 616
+  },
+  {
+    "villain_set_code": "the_kidnapper_aka_the_final_battle",
+    "title": "Scenario #3 - The Kidnapper (AKA The Final Battle)",
+    "nbmodular": 5,
+    "modular_set_codes": [
+      "hydra_patrol",
+      "sentinels",
+      "masters_of_evil",
+      "legions_of_hydra",
+      "mystique"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Christian Fecteau",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 617
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "Scenario #1 - Moonage Daydream",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "the_doomsday_chair",
+      "power_stone",
+      "ship_command"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Steele Hull",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 618
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Scenario #2 - Ain't No Mountain High Enough",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "frost_giants"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Steele Hull",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 619
+  },
+  {
+    "villain_set_code": "wrecking_crew",
+    "title": "Scenario #3 - Escape",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "exper_weapon"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Steele Hull",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 620
+  },
+  {
+    "villain_set_code": "red_skull",
+    "title": "Scenario #4 - Cherry Bomb",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "wrecking_crew_modular",
+      "children_of_thanos"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Steele Hull",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 621
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Scenario #5 - Spirit in the Sky",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "infinity_gauntlet",
+      "kree_fanatic",
+      "the_doomsday_chair"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Steele Hull",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 622
+  },
+  {
+    "villain_set_code": "batroc",
+    "title": "Scenario #1 - Batroc Hijacks the Lemurian Star",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "space_pirates",
+      "batrocs_brigade"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Yazan Kawar",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 623
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Scenario #2 - Crossbones Shares an Elevator",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "exper_weapon",
+      "hydra_patrol",
+      "s.h.i.e.l.d."
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Yazan Kawar",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 624
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Scenario #3 - Zola's Hydra Legacy",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "hydra_assault",
+      "s.h.i.e.l.d._executive_board"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Yazan Kawar",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 625
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Scenario #1 - Crossbones",
+    "nbmodular": 4,
+    "modular_set_codes": [
+      "exper_weapon",
+      "brothers_grimm",
+      "beasty_boys",
+      "crossfire_crew"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kurt Hake",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 626
+  },
+  {
+    "villain_set_code": "absorbing_man",
+    "title": "Scenario #3 - Absorbing Man",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "mister_hyde"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kurt Hake",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 627
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Scenario #5 - Ultron",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "masters_of_evil"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kurt Hake",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 628
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Scenario #1 - Taskmaster",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "hydra_patrol",
+      "running_interference",
+      "power_drain"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Karl Resch",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 629
+  },
+  {
+    "villain_set_code": "rhino",
+    "title": "Scenario #2A - Rhino",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "ransacked_armory",
+      "exper_weapon"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Karl Resch",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 630
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Scenario #2B - Mysterio",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "personal_nightmare",
+      "city_in_chaos",
+      "down_to_earth"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Karl Resch",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 631
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Scenario #3 - Klaw",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "crossfire_crew",
+      "ironspider_sinister",
+      "sinister_syndicate"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Karl Resch",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 632
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Scenario #4 - The Hood",
+    "nbmodular": 13,
+    "modular_set_codes": [
+      "zzzax",
+      "sinister_assault",
+      "whispers_of_paranoia",
+      "wrecking_crew_modular",
+      "under_attack",
+      "ransacked_armory",
+      "armadillo",
+      "down_to_earth",
+      "city_in_chaos",
+      "osborn_tech",
+      "symbiotic_strength",
+      "sinister_syndicate",
+      "beasty_boys"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Karl Resch",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 633
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Scenario #1 - Brotherhood of Badoon",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "band_of_badoon",
+      "ship_command",
+      "badoon_headhunter"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 634
+  },
+  {
+    "villain_set_code": "infiltrate_the_museum",
+    "title": "Scenario #2 - Infiltrate the Museum",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "galactic_artifacts",
+      "menagerie_medley",
+      "badoon_headhunter"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 635
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Scenario #3 - Escape the Museum",
+    "nbmodular": 4,
+    "modular_set_codes": [
+      "galactic_artifacts",
+      "menagerie_medley",
+      "ship_command",
+      "badoon_headhunter"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 636
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "Scenario #4 - Nebula",
+    "nbmodular": 4,
+    "modular_set_codes": [
+      "power_stone",
+      "ship_command",
+      "space_pirates",
+      "badoon_headhunter"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 637
+  },
+  {
+    "villain_set_code": "ronan",
+    "title": "Scenario #5 - Ronan the Accuser",
+    "nbmodular": 4,
+    "modular_set_codes": [
+      "kree_militant",
+      "power_stone",
+      "ship_command",
+      "badoon_headhunter"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 638
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Scenario #1 - Taskmaster",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "batrocs_brigade",
+      "goblin_gimmicks",
+      "exper_weapon"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "8-Bit Quill",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 639
+  },
+  {
+    "villain_set_code": "on_the_run",
+    "title": "Scenario #2 - On the Run",
+    "nbmodular": 4,
+    "modular_set_codes": [
+      "jubilee_nemesis",
+      "extreme_measures",
+      "mutant_insurrection",
+      "next_evol_campaign"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "8-Bit Quill",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 640
+  },
+  {
+    "villain_set_code": "mister_sinister",
+    "title": "Scenario #3 - Mr. Sinister",
+    "nbmodular": 4,
+    "modular_set_codes": [
+      "hounds",
+      "flight",
+      "super_strength",
+      "telepathy"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "8-Bit Quill",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 641
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Scenario #1 - Taskmaster",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "hydra_patrol"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Henry Borkgren",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 642
+  },
+  {
+    "villain_set_code": "zola",
+    "title": "Scenario #2A - Zola",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "ransacked_armory",
+      "the_doomsday_chair"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Henry Borkgren",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 643
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "Scenario #2B - Sinister Six",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "guerrilla_tactics",
+      "osborn_tech"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Henry Borkgren",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 644
+  },
+  {
+    "villain_set_code": "nebula",
+    "title": "Scenario #2C - Nebula",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "power_stone",
+      "exper_weapon",
+      "ship_command"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Henry Borkgren",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 645
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Scenario #1 - Training for the End of the World",
+    "nbmodular": 5,
+    "modular_set_codes": [
+      "clan_akkaba",
+      "super_strength",
+      "telepathy",
+      "flight",
+      "hellfire"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Amanda Shagoury",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 646
+  },
+  {
+    "villain_set_code": "magneto_villain",
+    "title": "Scenario #2 - Wanda’s Vision",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "savage_land",
+      "sauron"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Amanda Shagoury",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 647
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Scenario #3 - Balance Will Be Restored",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "infinity_gauntlet",
+      "legions_of_hydra",
+      "hydra_assault"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Amanda Shagoury",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 648
+  },
+  {
+    "villain_set_code": "project_wideawake",
+    "title": "Scenario #4 - Saving Grace",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "zero_tolerance",
+      "dystopian_nightmare",
+      "genosha"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Amanda Shagoury",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 649
+  },
+  {
+    "villain_set_code": "mojo",
+    "title": "Scenario #5 - Mojo All Along",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "sitcom",
+      "arcade"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Amanda Shagoury",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 650
+  },
+  {
+    "villain_set_code": "vermin_by_nugget",
+    "title": "Scenario #1 - Vermin",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "feral_instincts_by_nugget"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Nugget",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 651
+  },
+  {
+    "villain_set_code": "scorpion_by_nugget",
+    "title": "Scenario #2 - Scorpion",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "feral_instincts_by_nugget"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Nugget",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 652
+  },
+  {
+    "villain_set_code": "lizard_by_nugget",
+    "title": "Scenario #3 - Lizard",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "lizard_thralls_by_nugget"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Nugget",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 653
+  },
+  {
+    "villain_set_code": "vulture_by_nugget",
+    "title": "Scenario #4 - Vulture",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "red_vulture_by_nugget"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Nugget",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 654
+  },
+  {
+    "villain_set_code": "kraven_by_nugget",
+    "title": "Scenario #5 - Kraven the Hunter",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "savage_six_by_nugget"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Nugget",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 655
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Scenario #1 - Crossbones",
+    "nbmodular": 4,
+    "modular_set_codes": [
+      "exper_weapon",
+      "weap_master",
+      "sinister_syndicate",
+      "black_tom_cassidy"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Evan Southwell",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 656
+  },
+  {
+    "villain_set_code": "klaw",
+    "title": "Scenario #2 - Klaw",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "sentinels",
+      "weap_master"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Evan Southwell",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 657
+  },
+  {
+    "villain_set_code": "kang",
+    "title": "Scenario #3 - Kang",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "sentinels",
+      "weap_master",
+      "ironspider_sinister"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Evan Southwell",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 658
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Scenario #1 - Ebony Maw",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "black_order",
+      "armies_of_titan"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 659
+  },
+  {
+    "villain_set_code": "thanos",
+    "title": "Scenario #3 - Thanos",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "infinity_gauntlet",
+      "black_order",
+      "children_of_thanos"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 660
+  },
+  {
+    "villain_set_code": "loki",
+    "title": "Scenario #5 - Loki",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "infinity_gauntlet",
+      "enchantress",
+      "frost_giants"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 661
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Scenario #1A - Krazy Klyntar (First Response)",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "symbiotic_strength",
+      "black_order"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Karl Resch",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 662
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "Scenario #1B - Defend It and Hope (Spec Ops)",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "streets_of_mayhem"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Karl Resch",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 663
+  },
+  {
+    "villain_set_code": "magog",
+    "title": "Scenario #1C - Who Will Fight Me? (Direct Assault)",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "band_of_badoon",
+      "longshot"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Karl Resch",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 664
+  },
+  {
+    "villain_set_code": "brotherhood_of_badoon",
+    "title": "Scenario #2 - Badoon Bombardment",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "flight",
+      "kree_militant",
+      "blue_moon"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Karl Resch",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 665
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Scenario #3 - Mysteries and Magic",
+    "nbmodular": 5,
+    "modular_set_codes": [
+      "sitcom",
+      "telepathy",
+      "legions_of_hel",
+      "menagerie_medley",
+      "symbiotic_strength"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Karl Resch",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 666
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Scenario #1 - Superhuman Registration Act",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "hydra_patrol",
+      "s.h.i.e.l.d."
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Marvin P. (Relaxingglitch)",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 667
+  },
+  {
+    "villain_set_code": "baron_zemo",
+    "title": "Scenario #2 - Hydra Uprising",
+    "nbmodular": 4,
+    "modular_set_codes": [
+      "s.h.i.e.l.d._executive_board",
+      "executive_board_evidence",
+      "military_grade",
+      "legions_of_hydra"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Marvin P. (Relaxingglitch)",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 668
+  },
+  {
+    "villain_set_code": "red_skull",
+    "title": "Scenario #3 - Red Dawn",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "hydra_assault",
+      "captain_america_nemesis",
+      "winter_soldier_nemesis"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Marvin P. (Relaxingglitch)",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 669
+  },
+  {
+    "villain_set_code": "red_skull",
+    "title": "Scenario #1 - Game Night Begins",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "deathstrike",
+      "reavers"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kurt Hake",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 670
+  },
+  {
+    "villain_set_code": "four_horsemen",
+    "title": "Scenario #2 - The Lord of the Wings",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "sauron",
+      "fantasy"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kurt Hake",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 671
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Scenario #3 - Android Web-Hacker",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "sci-fi"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kurt Hake",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 672
+  },
+  {
+    "villain_set_code": "en_sabah_nur",
+    "title": "Scenario #4 - Akkaba Horror",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "clan_akkaba",
+      "horror"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kurt Hake",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 673
+  },
+  {
+    "villain_set_code": "escape_the_museum",
+    "title": "Scenario #5 - The Game Collection",
+    "nbmodular": 6,
+    "modular_set_codes": [
+      "galactic_artifacts",
+      "ship_command",
+      "western",
+      "flight",
+      "telepathy",
+      "super_strength"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kurt Hake",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 674
+  },
+  {
+    "villain_set_code": "sandman",
+    "title": "Scenario #1 - Sandman",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "city_in_chaos"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 675
+  },
+  {
+    "villain_set_code": "venom",
+    "title": "Scenario #2 - Venom",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "symbiotic_strength"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 676
+  },
+  {
+    "villain_set_code": "mysterio",
+    "title": "Scenario #3 - Mysterio",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "personal_nightmare",
+      "whispers_of_paranoia"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 677
+  },
+  {
+    "villain_set_code": "sinister_six",
+    "title": "Scenario #4 - The Sinister Six",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "guerrilla_tactics"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 678
+  },
+  {
+    "villain_set_code": "venom_goblin",
+    "title": "Scenario #5 - Venom Goblin",
+    "nbmodular": 4,
+    "modular_set_codes": [
+      "goblin_gear",
+      "guerrilla_tactics",
+      "osborn_tech",
+      "symbiotic_strength"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 679
+  },
+  {
+    "villain_set_code": "skrull_empire_by_kajislav",
+    "title": "Scenario #1 - Skrull Empire",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "army_of_skrulls_by_kajislav",
+      "skrull_society_by_kajislav"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kajislav",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 680
+  },
+  {
+    "villain_set_code": "super-skrull_by_kajislav",
+    "title": "Scenario #2 - Super-Skrull",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "army_of_skrulls_by_kajislav",
+      "kree-skrull_war_by_kajislav"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kajislav",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 681
+  },
+  {
+    "villain_set_code": "paibok_by_kajislav",
+    "title": "Scenario #3 - Paibok",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "new_revengers_by_kajislav"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kajislav",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 682
+  },
+  {
+    "villain_set_code": "skrull_pantheon_by_kajislav",
+    "title": "Scenario #4 - Skrull Pantheon",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "dard'van_sect_by_kajislav",
+      "skrull_society_by_kajislav"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kajislav",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 683
+  },
+  {
+    "villain_set_code": "secret_invasion_by_kajislav",
+    "title": "Scenario #5 - Secret Invasion",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "army_of_skrulls_by_kajislav"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Kajislav",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 684
+  },
+  {
+    "villain_set_code": "crossbones",
+    "title": "Scenario #1 - Crossbones",
+    "nbmodular": 4,
+    "modular_set_codes": [
+      "experimental_weapons",
+      "hydra_assault",
+      "weap_master",
+      "legions_of_hydra"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 685
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Scenario #3 - Taskmaster",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "hydra_patrol",
+      "weap_master"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 686
+  },
+  {
+    "villain_set_code": "red_skull",
+    "title": "Scenario #5 - Red Skull",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "hydra_assault",
+      "hydra_patrol"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Fantasy Flight Games",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 687
+  },
+  {
+    "villain_set_code": "ebony_maw",
+    "title": "Scenario #1 - Iron Man: Trapped In Time",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "fantasy",
+      "frost_giants"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Zach Goscha",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 688
+  },
+  {
+    "villain_set_code": "stryfe",
+    "title": "Scenario #2 - Spider-Man: The Sorcerer Supreme",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "hope_summers",
+      "horror",
+      "black_tom_cassidy"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Zach Goscha",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 689
+  },
+  {
+    "villain_set_code": "hela",
+    "title": "Scenario #3 - Rogue And The Power Of Thor",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "legions_of_hel",
+      "enchantress"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Zach Goscha",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 690
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Scenario #4 - Captain America: Vigilante Justice",
+    "nbmodular": 7,
+    "modular_set_codes": [
+      "streets_of_mayhem",
+      "zzzax",
+      "ransacked_armory",
+      "running_interference",
+      "down_to_earth",
+      "weap_master",
+      "ironspider_sinister"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Zach Goscha",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 691
+  },
+  {
+    "villain_set_code": "ultron",
+    "title": "Scenario #5 - The Watcher’s Team",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "infinity_gauntlet"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Zach Goscha",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 692
+  },
+  {
+    "villain_set_code": "risky_business",
+    "title": "Scenario #1 - Risky Business Is An Everyday Occurrence",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "down_to_earth"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Amanda Shagoury",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 693
+  },
+  {
+    "villain_set_code": "tower_defense",
+    "title": "Scenario #2 - I Feel Like We've Defended This Tower Before",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "goblin_gimmicks",
+      "legions_of_hydra"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Amanda Shagoury",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 694
+  },
+  {
+    "villain_set_code": "taskmaster",
+    "title": "Scenario #3 - Coworker Confinement",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "hydra_patrol",
+      "beasty_boys"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Amanda Shagoury",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 695
+  },
+  {
+    "villain_set_code": "the_hood",
+    "title": "Scenario #4 - The Hood, Leader of Hydra and Many Others",
+    "nbmodular": 3,
+    "modular_set_codes": [
+      "osborn_tech",
+      "temporal",
+      "wrecking_crew_modular"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Amanda Shagoury",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 696
   }
 ]

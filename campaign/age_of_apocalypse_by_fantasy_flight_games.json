@@ -1,0 +1,98 @@
+{
+  "code": "age_of_apocalypse_by_fantasy_flight_games",
+  "name": "Age of Apocalypse",
+  "creator": "Fantasy Flight Games",
+  "type": "official",
+  "position": 8,
+  "description": "Welcome to the Age of Apocalypse campaign expansion! Traversing back in time to prevent a temporal catastrophe, X-Force finds themselves trapped in a dystopian alternate timeline ruled by the ancient mutant tyrant Apocalypse. Together with Magneto's X-Men, they must wage a desperate war across North America to overthrow his despotic rule and rescue a grievously wounded Professor X before the timeline is fractured forever!",
+  "epilogue": "<b>Victory!</b><br>With En Sabah Nur's pyramid shattered and his celestial technology sabotaged, Apocalypse's rule collapses into history. Professor X is cured of the techno-organic virus and the timeline begins to stabilize. The heroes of the X-Men and X-Force stand as protectors of a restored tomorrow, having saved the future by conquering the past.",
+  "image": "apocalypse_horror.jpg",
+  "visibility": "true",
+  "metadata": {
+    "layout": "age_of_apocalypse",
+    "trackers": [
+      "Améliorations & Notes (HQ Upgrades & Notes)"
+    ],
+    "counters": [],
+    "checkboxes": []
+  },
+  "scenarios": [
+    {
+      "position": 1,
+      "scenario_uuid": "1dd1cfa769ed",
+      "narrative": {
+        "title": "Scenario #1 - Unus",
+        "description": "X-Force traveled to the future to rescue Hope Summers from Stryfe, but something happened while they were displaced in time. Now they find themselves trapped in an alternate timeline ruled by the genocidal Apocalypse, and they are under attack from one of his prelates: Unus!",
+        "introduction": "<ul><li>Each player records their identity in the campaign log.</li><li>Shuffle the Age of Apocalypse modular set into the encounter deck.</li><li>Randomly select one of the available MISSION side schemes and follow its Setup directions in the campaign log.</li><li>Randomly select one of the available OVERSEER minions and add it to the mission area. Put the double-sided Mission Rules card into play next to it.</li><li>The first player takes control of the Mission Team (171A) support card, MISSION side faceup.</li><li>Each player searches their deck for an ally and adds it to their hand.</li></ul>",
+        "resolution": "<b>Victory:</b><br><ul><li>Strike the MISSION side scheme from the campaign log.</li><li>If the MISSION side scheme was defeated, follow the \"Defeated\" instructions for that side scheme in the campaign log.</li><li>If the MISSION side scheme was not defeated, follow the \"Not Defeated\" instructions for that side scheme in the campaign log.</li><li>If the OVERSEER minion was defeated, strike its name from the campaign log.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "45059",
+          "45060",
+          "45061"
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "scenario_uuid": "e3a48deb78e5",
+      "narrative": {
+        "title": "Scenario #2 - Four Horsemen",
+        "description": "X-Force is rescued from the endless ranks of Infinites by the timely arrival of Magik and Bishop. Magik uses her power to teleport them out of danger and into the secret headquarters of the X-Men. Magneto explains the long war of attrition they have been waging, but before he can detail his plan, the walls are violently blown open: Apocalypse has ordered his Four Horsemen to destroy the X-Men once and for all!",
+        "introduction": "<ul><li>Shuffle the Age of Apocalypse modular set into the encounter deck.</li><li>Randomly select one of the available MISSION side schemes and follow its Setup directions.</li><li>Randomly select one of the available OVERSEER minions and add it to the mission area.</li><li>The first player takes control of the Mission Team (171A) support card, MISSION side faceup.</li><li>Each player searches their deck for an ally and adds it to their hand.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining value recorded in the campaign log. Each player may place 3 threat on the MISSION side scheme to heal their identity to full.</li></ul>",
+        "resolution": "<b>Victory:</b><br><ul><li>Strike the MISSION side scheme from the campaign log.</li><li>If the MISSION side scheme was defeated, follow the \"Defeated\" instructions. Otherwise, follow the \"Not Defeated\" instructions.</li><li>If the OVERSEER minion was defeated, strike its name from the campaign log.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "45081a",
+          "45082a",
+          "45083a",
+          "45084a"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "scenario_uuid": "909c56acb828",
+      "narrative": {
+        "title": "Scenario #3 - Apocalypse",
+        "description": "Having defeated the Four Horsemen, Magneto leads his X-Men and X-Force in a direct assault on the tyrant himself. But before they can overthrow the ancient despot, they must fight their way through the heart of his empire in old New York City and breach the gates of his towering citadel.",
+        "introduction": "<ul><li>Shuffle the Age of Apocalypse modular set into the encounter deck.</li><li>Randomly select one of the available MISSION side schemes and follow its Setup directions.</li><li>Randomly select one of the available OVERSEER minions and add it to the mission area.</li><li>The first player takes control of the Mission Team (171A) support card, MISSION side faceup.</li><li>Each player searches their deck for an ally and adds it to their hand.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
+        "resolution": "<b>Victory:</b><br><ul><li>Strike the MISSION side scheme from the campaign log.</li><li>If the MISSION side scheme was defeated, follow the \"Defeated\" instructions. Otherwise, follow the \"Not Defeated\" instructions.</li><li>If the OVERSEER minion was defeated, strike its name from the campaign log.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "45101a",
+          "45101b",
+          "45102a",
+          "45102b"
+        ]
+      }
+    },
+    {
+      "position": 4,
+      "scenario_uuid": "b9987d77e339",
+      "narrative": {
+        "title": "Scenario #4 - Dark Beast",
+        "description": "Apocalypse has been defeated and his rule ended, but his vast empire is thrown into chaos. In the midst of this upheaval, the heroes search for a way to undo the harm. When they reach a time portal installed beneath the citadel, Beast mockingly reveals he is not their Hank McCoy, but the Dark Beast! X-Force tackles him through the portal, casting all of them adrift through time and space.",
+        "introduction": "<ul><li>Shuffle the Age of Apocalypse modular set into the encounter deck.</li><li>Randomly select one of the available MISSION side schemes and follow its Setup directions.</li><li>Randomly select one of the available OVERSEER minions and add it to the mission area.</li><li>The first player takes control of the Mission Team (171A) support card, MISSION side faceup.</li><li>Each player searches their deck for an ally and adds it to their hand.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
+        "resolution": "<b>Victory:</b><br><ul><li>Strike the MISSION side scheme from the campaign log.</li><li>If the MISSION side scheme was defeated, follow the \"Defeated\" instructions. Otherwise, follow the \"Not Defeated\" instructions.</li><li>If the OVERSEER minion was defeated, strike its name from the campaign log.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "45118",
+          "45119",
+          "45120"
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "scenario_uuid": "f06b8b680563",
+      "narrative": {
+        "title": "Scenario #5 - En Sabah Nur",
+        "description": "Upon defeating Dark Beast, X-Force recalibrates his time machine to return to the past, but they arrive just in time to witness Professor X being shot. Infected with a techno-organic virus, Xavier is dying. Cable knows only Apocalypse has the antidote, so he leads a direct assault on the pyramid of En Sabah Nur.",
+        "introduction": "<ul><li>Shuffle the Age of Apocalypse modular set into the encounter deck.</li><li>Reveal the Protect the Professor MISSION side scheme and put it into play.</li><li>Randomly select one of the available OVERSEER minions and add it to the mission area.</li><li>The first player takes control of the Mission Team (171A) support card, MISSION side faceup.</li><li>Each player searches their deck for an ally and adds it to their hand (if playing expert, must share a trait with your hero).</li><li>Professor X cannot enter play during this game.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
+        "resolution": "<b>Victory:</b><br><ul><li>If the Protect the Professor MISSION side scheme was defeated, the players saved Professor X and win the campaign!</li><li>If the Protect the Professor MISSION side scheme was not defeated, the players failed to save Professor X and lose the campaign.</li></ul>",
+        "illustration_codes": [
+          "45184a",
+          "45184b",
+          "45184c"
+        ]
+      }
+    }
+  ]
+}
