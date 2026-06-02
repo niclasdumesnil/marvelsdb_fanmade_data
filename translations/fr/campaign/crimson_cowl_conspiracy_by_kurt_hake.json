@@ -1,0 +1,54 @@
+{
+	"code": "crimson_cowl_conspiracy_by_kurt_hake",
+	"name": "The Crimson Cowl Conspiracy",
+	"creator": "Kurt Hake",
+	"type": "custom",
+	"position": 102,
+	"description": "The Crimson Cowl Conspiracy campaign represents a struggle between the Avengers and their classic foes, the Masters of Evil. As such, each player must select an identity which has the AVENGER trait in hero form. In addition, each player must select a different aspect to use with their deck.",
+	"epilogue": "",
+	"metadata": {
+		"trackers": [
+			"Tech Proficiencies",
+			"Assembled Avengers",
+			"Escaped Minions",
+			"Caught Minions"
+		],
+		"counters": [
+			"Intel Level",
+			"Final Score"
+		],
+		"checkboxes": []
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Crossbones"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Klaw"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Absorbing Man"
+			}
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - Wrecking Crew"
+			}
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - Ultron"
+			}
+		}
+	]
+}

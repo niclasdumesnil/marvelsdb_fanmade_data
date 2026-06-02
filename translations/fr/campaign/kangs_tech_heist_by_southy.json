@@ -1,0 +1,39 @@
+{
+	"code": "kangs_tech_heist_by_southy",
+	"name": "Kang's Tech Heist",
+	"creator": "Evan Southwell",
+	"type": "custom",
+	"position": 152,
+	"description": "During this campaign, you will need to create the Tech deck. The Tech deck consists of encounter cards that are all attachments with the Tech trait. They represent weapons, armor, salvaged body enhancements, and items that S.H.I.E.L.D. has acquired from the various villains in the world.<br><br><b>The Tech Deck:</b><br>You may add or remove these or other Tech attachments for your Tech deck, but make sure that the deck has at least 20 cards.<br>In an Expert campaign playthrough, add all 6 cards from the Osborn Tech set (Sinister Motives Expansion) to the Tech deck (they do not count towards the 20 card minimum).<br><br><b>Campaign-Specific Cards:</b><br>This campaign utilizes upgrades from the Hydra Campaign set (The Rise of Red Skull Expansion) and Campaign - S.H.I.E.L.D. Tech set (Sinister Motives Expansion). They can only be earned by winning a scenario.",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [
+			"S.H.I.E.L.D. Tech Upgrade",
+			"Hydra Campaign Upgrade",
+			"Tech Deck Cards Added Into Encounter Deck",
+			"Experimental Weapons Added Into Encounter Deck"
+		],
+		"counters": [],
+		"checkboxes": []
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Crossbones"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Klaw"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Kang"
+			}
+		}
+	]
+}

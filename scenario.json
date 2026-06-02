@@ -9108,5 +9108,47 @@
     "visibility": false,
     "campaign_only": true,
     "scenario_id": 696
+  },
+  {
+    "villain_set_code": "roxxon_by_jammydude44",
+    "title": "Scenario #1 - Roxxon",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "corporate_meddling_by_jammydude44"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Jammydude44",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 697
+  },
+  {
+    "villain_set_code": "laufey_by_jammydude44",
+    "title": "Scenario #2 - Laufey",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "uncharted_territory_by_jammydude44"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Jammydude44",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 698
+  },
+  {
+    "villain_set_code": "malekith_by_jammydude44",
+    "title": "Scenario #3 - Malekith",
+    "nbmodular": 1,
+    "modular_set_codes": [
+      "svartalfheim_by_jammydude44"
+    ],
+    "difficulty": null,
+    "text": null,
+    "creator": "Jammydude44",
+    "visibility": false,
+    "campaign_only": true,
+    "scenario_id": 699
   }
 ]

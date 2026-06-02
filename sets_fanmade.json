@@ -1464,5 +1464,73 @@
     "code": "pouvoir_totemique_by_merlin",
     "name": "Pouvoir Totemique by Merlin",
     "card_set_type_code": "modular"
+  },
+  {
+    "code": "roxxon_by_jammydude44",
+    "name": "Roxxon",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "corporate_meddling_by_jammydude44",
+    "name": "Corporate Meddling",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "laufey_by_jammydude44",
+    "name": "Laufey",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "war_of_the_realms_by_jammydude44",
+    "name": "War of the Realms",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "uncharted_territory_by_jammydude44",
+    "name": "Uncharted Territory",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "malekith_by_jammydude44",
+    "name": "Malekith",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "svartalfheim_by_jammydude44",
+    "name": "Svartalfheim",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "realms_campaign_by_jammydude44",
+    "name": "Realms Campaign",
+    "card_set_type_code": "campaign"
+  },
+  {
+    "code": "daredevil_by_ffg",
+    "name": "Daredevil",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "echo_by_ffg",
+    "name": "Echo",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "daredevil_nemesis_by_ffg",
+    "name": "Daredevil Nemesis",
+    "card_set_type_code": "nemesis",
+    "parent_code": "daredevil_by_ffg"
+  },
+  {
+    "code": "echo_nemesis_by_ffg",
+    "name": "Echo Nemesis",
+    "card_set_type_code": "nemesis",
+    "parent_code": "echo_by_ffg"
+  },
+  {
+    "code": "daredevil_sense_deck",
+    "name": "Sense Deck",
+    "card_set_type_code": "hero_special",
+    "parent_code": "daredevil_by_ffg"
   }
 ]

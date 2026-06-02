@@ -1,0 +1,57 @@
+{
+	"code": "what_if_by_amanda_shagoury",
+	"name": "What If...?",
+	"creator": "Amanda Shagoury",
+	"type": "custom",
+	"position": 105,
+	"description": "Reality has been manipulated and everything has changed. What if you had joined another team, learned the mystic arts, or became a god?",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [
+			"\"What If...?\" Trait",
+			"Trait Ally",
+			"Card Rewards",
+			"Service Communautaire"
+		],
+		"counters": [],
+		"checkboxes": [
+			"Shawarma ajouté à la réserve de campagne ?",
+			"Tour des Avengers endommagée ?",
+			"Alliés avec trait sauvés ?",
+			"Le crime a pris le dessus ?",
+			"Dinosaures en liberté ?"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Risky Business Is An Everyday Occurrence"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - I Feel Like We've Defended This Tower Before"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Coworker Confinement"
+			}
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - The Hood, Leader of Hydra and Many Others"
+			}
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - Ultron in Infinity... Assembled!"
+			}
+		}
+	]
+}

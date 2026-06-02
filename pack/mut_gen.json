@@ -26,7 +26,8 @@
 		"text": "Colossus can have 1 additional tough status card.\n<i>Steel Skin</i> - <b>Response</b>: After you change to this form, give Colossus a tough status card.",
 		"thwart": 1,
 		"traits": "X-Men.",
-		"type_code": "hero"
+		"type_code": "hero",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32001b",
@@ -44,7 +45,8 @@
 		"set_code": "colossus",
 		"text": "<b>Setup</b>: Search your deck for a copy of Organic Steel and add it to your hand.\n<i>Aspiring Artist</i> - <b>Response</b>: After you change to this form, shuffle a Colossus card from your discard pile into your deck.",
 		"traits": "Mutant.",
-		"type_code": "alter_ego"
+		"type_code": "alter_ego",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 2,
@@ -68,7 +70,8 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32003",
@@ -86,7 +89,8 @@
 		"set_position": 2,
 		"text": "<b>Alter-Ego Action</b>: Exhaust Piotr's Studio → discard cards from your deck until you discard a Colossus card. Add that card to your hand.",
 		"traits": "Location.",
-		"type_code": "support"
+		"type_code": "support",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32004",
@@ -103,7 +107,8 @@
 		"set_position": 3,
 		"text": "Colossus gets +1 THW.\n<b>Response</b>: After a tough status card is discarded from Colossus, draw 1 card.",
 		"traits": "Superpower.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32005",
@@ -120,7 +125,8 @@
 		"set_position": 4,
 		"text": "Colossus gets +1 ATK.\n<b>Hero Resource</b>: Exhaust this card → generate a [physical] resource for each tough status card on Colossus.",
 		"traits": "Superpower.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32006",
@@ -137,7 +143,8 @@
 		"set_position": 5,
 		"text": "Uses (2 steel counters).\n<b>Hero Response</b>: After a tough status card is discarded from Colossus, exhaust this card and remove 1 steel counter from it → give Colossus a tough status card.",
 		"traits": "Superpower.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32007",
@@ -154,7 +161,8 @@
 		"set_position": 7,
 		"text": "<b>Hero Interrupt</b>: When you make a basic attack, discard a tough status card from your hero → you get +6 ATK for that attack. That attack gains overkill.",
 		"traits": "Superpower.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32008",
@@ -172,7 +180,8 @@
 		"set_position": 9,
 		"text": "<b>Hero Action</b>: Deal 5 damage to an enemy. You may discard a tough status card from your hero to stun and confuse that enemy.",
 		"traits": "Attack. Superpower.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32009",
@@ -189,7 +198,8 @@
 		"set_position": 12,
 		"text": "<b>Hero Action</b>: Discard a tough status card from your hero → choose:\n• Give your hero 2 tough status cards.\n• Ready your hero.",
 		"traits": "Superpower.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32010",
@@ -207,7 +217,8 @@
 		"set_position": 14,
 		"text": "<b>Alter-Ego Interrupt</b>: When the villain would activate, change to hero form.",
 		"traits": "Superpower.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 2,
@@ -229,7 +240,8 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 2,
@@ -251,7 +263,8 @@
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32013",
@@ -266,7 +279,8 @@
 		"resource_mental": 1,
 		"text": "Attach to an [[X-MEN]] ally. Max 1 [[Training]] upgrade per ally.\nAttached ally gets +3 hit points.",
 		"traits": "Training.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32014",
@@ -281,7 +295,8 @@
 		"resource_physical": 1,
 		"text": "<b>Hero Interrupt</b> <i>(attack/defense)</i>: When an enemy initiates an attack, deal 4 damage to that enemy.",
 		"traits": "Attack. Defense.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32015",
@@ -290,7 +305,8 @@
 		"pack_code": "mut_gen",
 		"position": 15,
 		"quantity": 3,
-		"alt_art": true
+		"alt_art": true,
+		"duplicate_of_name": "Bait and Switch"
 	},
 	{
 		"code": "32016",
@@ -299,7 +315,8 @@
 		"pack_code": "mut_gen",
 		"position": 16,
 		"quantity": 3,
-		"alt_art": true
+		"alt_art": true,
+		"duplicate_of_name": "Perseverance"
 	},
 	{
 		"code": "32017",
@@ -314,7 +331,8 @@
 		"resource_energy": 1,
 		"text": "Play only if your identity has the [[X-MEN]] trait.\n<b>Hero Interrupt</b> <i>(defense)</i>: When an enemy attacks, put an [[X-MEN]] ally into play from your hand. Exhaust it and declare it the defender for this attack.",
 		"traits": "Defense.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32018",
@@ -327,7 +345,8 @@
 		"quantity": 2,
 		"resource_wild": 1,
 		"text": "Max 2 per deck.\n<b>Hero Interrupt</b>: When you spend this card to play a [[Defense]] event, draw 1 card.",
-		"type_code": "resource"
+		"type_code": "resource",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 0,
@@ -349,7 +368,8 @@
 		"thwart": 3,
 		"thwart_cost": 1,
 		"traits": "Psionic. X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32020",
@@ -365,7 +385,8 @@
 		"resource_energy": 1,
 		"text": "<b>Resource</b>: Exhaust The X-Jet → generate a [wild] resource for a player whose identity has the [[X-MEN]] trait.",
 		"traits": "Vehicle. X-Men.",
-		"type_code": "support"
+		"type_code": "support",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32021",
@@ -380,7 +401,8 @@
 		"resource_physical": 1,
 		"text": "Team-Up (Colossus and Shadowcat).\nMax 1 per deck.\n<b>Hero Interrupt</b> <i>(attack/defense)</i>: When an enemy attacks, prevent all damage from that attack and deal 4 damage to the attacking enemy.",
 		"traits": "Attack. Defense.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32022",
@@ -389,7 +411,8 @@
 		"pack_code": "mut_gen",
 		"position": 22,
 		"quantity": 1,
-		"alt_art": true
+		"alt_art": true,
+		"duplicate_of_name": "Energy"
 	},
 	{
 		"code": "32023",
@@ -398,7 +421,8 @@
 		"pack_code": "mut_gen",
 		"position": 23,
 		"quantity": 1,
-		"alt_art": true
+		"alt_art": true,
+		"duplicate_of_name": "Genius"
 	},
 	{
 		"code": "32024",
@@ -407,7 +431,8 @@
 		"pack_code": "mut_gen",
 		"position": 24,
 		"quantity": 1,
-		"alt_art": true
+		"alt_art": true,
+		"duplicate_of_name": "Strength"
 	},
 	{
 		"attack": 2,
@@ -436,7 +461,8 @@
 		"text": "<i>Selective Intangibility</i> - While you are in Phased mass form, Shadowcat ignores the guard and patrol keywords, and any crisis icons ([crisis]) in play.",
 		"thwart": 2,
 		"traits": "X-Men.",
-		"type_code": "hero"
+		"type_code": "hero",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32030b",
@@ -454,7 +480,8 @@
 		"set_code": "shadowcat",
 		"text": "<b>Setup</b>: Put your mass form upgrade into play, Solid side faceup.\n<i>Phase Control</i> - <b>Action</b>: Flip your mass form upgrade. (Limit once per round.)",
 		"traits": "Mutant.",
-		"type_code": "alter_ego"
+		"type_code": "alter_ego",
+		"duplicate_of_name": ""
 	},
 	{
 		"back_link": "32031b",
@@ -471,7 +498,8 @@
 		"set_code": "shadowcat",
 		"set_position": 1,
 		"text": "Mass form. Permanent.\n<b>Hero Resource</b>: Exhaust this card → generate a [physical] resource for an [[attack]] or [[defense]] event.\n<b>Response</b>: After you attack or defend in Solid mass form, flip this card.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32031b",
@@ -488,7 +516,8 @@
 		"set_code": "shadowcat",
 		"set_position": 1,
 		"text": "Mass form. Permanent.\nWhile Shadowcat is defending, she cannot take damage.\n<b>Forced Response</b>: After you attack or defend in Phased mass form, flip this card.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 1,
@@ -511,7 +540,8 @@
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "Dragon. X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32033",
@@ -529,7 +559,8 @@
 		"set_position": 3,
 		"text": "<b>Alter-Ego Action</b>: Exhaust Kitty's Room → if you are in:\n• Solid mass form, heal 2 damage from Kitty Pryde.\n• Phased mass form, draw 1 card.",
 		"traits": "Location.",
-		"type_code": "support"
+		"type_code": "support",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32034",
@@ -546,7 +577,8 @@
 		"set_position": 4,
 		"text": "<b>Hero Response</b>: After you ignore the guard or patrol keyword on a minion, exhaust Acute Control → deal 2 damage to that minion.",
 		"traits": "Superpower.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32035",
@@ -563,7 +595,8 @@
 		"set_position": 5,
 		"text": "<b>Hero Response</b>: After you ignore the crisis icon ([crisis]) on a scheme, exhaust Intangible Interference → remove 2 threat from that scheme.",
 		"traits": "Superpower.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32036",
@@ -580,7 +613,8 @@
 		"set_position": 6,
 		"text": "Hero form only. Attach to an enemy. Max 1 per enemy.\n<b>Forced Interrupt</b>: When attached enemy would attack, discard this card instead. Then, confuse that enemy.",
 		"traits": "Condition.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32037",
@@ -597,14 +631,15 @@
 		"set_position": 8,
 		"text": "<b>Hero Action</b> <i>(attack)</i>: Deal 3 damage to an enemy. Ready your hero.",
 		"traits": "Attack. Superpower.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32038",
 		"cost": 3,
 		"deck_limit": 2,
 		"faction_code": "hero",
-		"name": "Phase Strike",
+		"name": "Phased Strike",
 		"octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975032038",
 		"pack_code": "mut_gen",
 		"position": 38,
@@ -614,7 +649,8 @@
 		"set_position": 11,
 		"text": "<b>Hero Action</b> <i>(attack)</i>: Deal 6 damage to an enemy. If you are in Phased mass form, you may discard an attachment with the text \"<b>Hero Action</b>\" or \"<b>Hero Response</b>\" from that enemy.",
 		"traits": "Attack. Superpower.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32039",
@@ -631,7 +667,8 @@
 		"set_position": 13,
 		"text": "<b>Hero Action</b> <i>(thwart)</i>: Remove 2 threat from a scheme (4 threat instead if you are in Phased mass form).",
 		"traits": "Superpower. Thwart.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32040",
@@ -648,7 +685,8 @@
 		"set_position": 15,
 		"text": "<b>Hero Interrupt</b> <i>(defense)</i>: When an enemy attacks, if you are in:\n• Solid mass form, change to Phased mass form.\n• Phased mass form, draw 2 cards.",
 		"traits": "Defense. Superpower.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 3,
@@ -671,7 +709,8 @@
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 2,
@@ -693,7 +732,8 @@
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "Mystic. X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32043",
@@ -708,7 +748,8 @@
 		"resource_physical": 1,
 		"text": "Attach to an [[X-MEN]] ally. Max 1 [[Training]] upgrade per ally.\nAttached ally gets +1 ATK and +2 hit points.",
 		"traits": "Training.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32044",
@@ -723,7 +764,8 @@
 		"resource_mental": 1,
 		"text": "Attach to a minion.\nAttached minion gets +2 hit points and gains patrol.\n<b>Interrupt</b>: When attached minion is defeated, remove 4 threat from the main scheme.",
 		"traits": "Condition.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32045",
@@ -738,7 +780,8 @@
 		"resource_energy": 1,
 		"text": "Play only if your identity has the [[X-MEN]] trait.\n<b>Hero Action</b> <i>(attack)</i>: Exhaust your hero and any number of [[X-MEN]] allies → deal X damage among enemies in play, where X is the total ATK of the characters you exhausted this way.",
 		"traits": "Attack.",
-		"type_code": "event"
+		"type_code": "event",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32046",
@@ -746,7 +789,8 @@
 		"octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975032046",
 		"pack_code": "mut_gen",
 		"position": 46,
-		"quantity": 3
+		"quantity": 3,
+		"duplicate_of_name": "Toe to Toe"
 	},
 	{
 		"code": "32047",
@@ -759,7 +803,8 @@
 		"quantity": 2,
 		"resource_wild": 1,
 		"text": "Max 2 per deck.\n<b>Hero Interrupt</b>: When you spend this card to play a [[Attack]] event, that event deals 1 additional damage.",
-		"type_code": "resource"
+		"type_code": "resource",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 3,
@@ -780,7 +825,8 @@
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "X-Men.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32049",
@@ -796,14 +842,16 @@
 		"resource_mental": 1,
 		"text": "<b>Alter-Ego Action</b>: Exhaust X-Mansion → heal 1 damage from a [[MUTANT]] or [[X-MEN]] character. Any player whose alter-ego has the [[MUTANT]] trait may trigger this ability.",
 		"traits": "Location. X-Men.",
-		"type_code": "support"
+		"type_code": "support",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32050",
 		"duplicate_of": "32021",
 		"pack_code": "mut_gen",
 		"position": 50,
-		"quantity": 1
+		"quantity": 1,
+		"duplicate_of_name": "Shadow and Steel"
 	},
 	{
 		"code": "32051",
@@ -811,28 +859,32 @@
 		"octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975032051",
 		"pack_code": "mut_gen",
 		"position": 51,
-		"quantity": 3
+		"quantity": 3,
+		"duplicate_of_name": "Ready to Rumble"
 	},
 	{
 		"code": "32052",
 		"duplicate_of": "01088",
 		"pack_code": "mut_gen",
 		"position": 52,
-		"quantity": 1
+		"quantity": 1,
+		"duplicate_of_name": "Energy"
 	},
 	{
 		"code": "32053",
 		"duplicate_of": "01089",
 		"pack_code": "mut_gen",
 		"position": 53,
-		"quantity": 1
+		"quantity": 1,
+		"duplicate_of_name": "Genius"
 	},
 	{
 		"code": "32054",
 		"duplicate_of": "01090",
 		"pack_code": "mut_gen",
 		"position": 54,
-		"quantity": 1
+		"quantity": 1,
+		"duplicate_of_name": "Strength"
 	},
 	{
 		"back_link": "32171b",
@@ -850,7 +902,8 @@
 		"set_code": "mut_gen_campaign",
 		"set_position": 1,
 		"text": "<b>When Defeated</b>: Shuffle the top card of the Future Past deck into the encounter deck. Flip this card and put Metro P.D. into play.",
-		"type_code": "side_scheme"
+		"type_code": "side_scheme",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32171b",
@@ -865,9 +918,10 @@
 		"resource_mental": 1,
 		"set_code": "mut_gen_campaign",
 		"set_position": 1,
-		"text": "Permanent.\nThe first player controls Metro P.D.\n<b>Action</b>: Exhaust Metro P.D. \u2192 choose to either deal 1 damage to an enemy or remove 1 threat from a scheme.",
+		"text": "Permanent.\nThe first player controls Metro P.D.\n<b>Action</b>: Exhaust Metro P.D. → choose to either deal 1 damage to an enemy or remove 1 threat from a scheme.",
 		"traits": "Persona.",
-		"type_code": "support"
+		"type_code": "support",
+		"duplicate_of_name": ""
 	},
 	{
 		"back_link": "32172b",
@@ -884,7 +938,8 @@
 		"set_code": "mut_gen_campaign",
 		"set_position": 2,
 		"text": "<b>When Defeated</b>: Shuffle the top card of the Future Past deck into the encounter deck. Flip this card and put Magneto into play under the first player's control.",
-		"type_code": "side_scheme"
+		"type_code": "side_scheme",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 3,
@@ -908,7 +963,8 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "Brotherhood of Mutants.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"back_link": "32173b",
@@ -924,7 +980,8 @@
 		"set_code": "mut_gen_campaign",
 		"set_position": 3,
 		"text": "<b>When Revealed</b>: Each player searches their deck for an ally and places it facedown under here.\n<b>When Defeated</b>: Shuffle the top card of the Future Past deck into the encounter deck. Flip this card and reveal Rescue Captives. <i>(Keep facedown cards under Rescue Captives.)</i>",
-		"type_code": "side_scheme"
+		"type_code": "side_scheme",
+		"duplicate_of_name": ""
 	},
 	{
 		"boost": 2,
@@ -939,9 +996,10 @@
 		"quantity": 1,
 		"set_code": "mut_gen_campaign",
 		"set_position": 3,
-		"text": "<b>Response</b>: After you defeat a [[Sentinel]] minion, spend 1 resource of any type \u2192 choose a facedown ally under this card and put it into play under your control. <i>(Any player may trigger this ability.)</i>",
+		"text": "<b>Response</b>: After you defeat a [[Sentinel]] minion, spend 1 resource of any type → choose a facedown ally under this card and put it into play under your control. <i>(Any player may trigger this ability.)</i>",
 		"traits": "Mission.",
-		"type_code": "environment"
+		"type_code": "environment",
+		"duplicate_of_name": ""
 	},
 	{
 		"back_link": "32174b",
@@ -958,7 +1016,8 @@
 		"set_code": "mut_gen_campaign",
 		"set_position": 4,
 		"text": "<b>When Defeated</b>: Shuffle the top card of the Future Past deck into the encounter deck. The player who defeated this scheme flips this card and puts Reactivate Defenses into their play area.",
-		"type_code": "side_scheme"
+		"type_code": "side_scheme",
+		"duplicate_of_name": ""
 	},
 	{
 		"boost": 2,
@@ -973,8 +1032,9 @@
 		"quantity": 1,
 		"set_code": "mut_gen_campaign",
 		"set_position": 4,
-		"text": "<b>Alter-Ego Action</b>: Spend [energy] [mental] [physical] resources \u2192 deal 5 damage to each enemy in play. Remove this card from the game.",
-		"type_code": "obligation"
+		"text": "<b>Alter-Ego Action</b>: Spend [energy] [mental] [physical] resources → deal 5 damage to each enemy in play. Remove this card from the game.",
+		"type_code": "obligation",
+		"duplicate_of_name": ""
 	},
 	{
 		"back_link": "32175b",
@@ -992,7 +1052,8 @@
 		"set_code": "mut_gen_campaign",
 		"set_position": 5,
 		"text": "<b>When Defeated</b>: Shuffle the top card of the Future Past deck into the encounter deck. Flip this card.",
-		"type_code": "side_scheme"
+		"type_code": "side_scheme",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 1,
@@ -1011,7 +1072,8 @@
 		"set_position": 5,
 		"text": "Attach to Magneto.\nPermanent.",
 		"traits": "Condition.",
-		"type_code": "attachment"
+		"type_code": "attachment",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32176",
@@ -1029,7 +1091,8 @@
 		"set_position": 1,
 		"text": "<b>Hero Interrupt</b>: When you attack, this attack deals 3 additional damage and gains overkill. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32177",
@@ -1047,7 +1110,8 @@
 		"set_position": 2,
 		"text": "<b>Hero Interrupt</b> <i>(defense)</i>: When you make a basic defense, you get +3 DEF. Ready your hero. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32178",
@@ -1062,9 +1126,10 @@
 		"resource_wild": 1,
 		"set_code": "brawler",
 		"set_position": 3,
-		"text": "<b>Hero Interrupt</b> <i>(attack/defense)</i>: When an enemy attacks, spend 1 resource of any type \u2192 prevent 3 damage from this attack and deal 3 damage to that enemy. Remove this card from the game and the campaign pool.",
+		"text": "<b>Hero Interrupt</b> <i>(attack/defense)</i>: When an enemy attacks, spend 1 resource of any type → prevent 3 damage from this attack and deal 3 damage to that enemy. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32179",
@@ -1079,9 +1144,10 @@
 		"resource_wild": 1,
 		"set_code": "brawler",
 		"set_position": 4,
-		"text": "<b>Hero Action</b> <i>(attack)</i>: Spend 3 resources of any type \u2192 deal 6 damage to an enemy and ready your hero. Remove this card from the game and the campaign pool.",
+		"text": "<b>Hero Action</b> <i>(attack)</i>: Spend 3 resources of any type → deal 6 damage to an enemy and ready your hero. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32180",
@@ -1099,7 +1165,8 @@
 		"set_position": 5,
 		"text": "<b>Hero Resource</b>: Generate [wild][wild] resources for an [[Attack]] or [[Defense]] event. Gain a tough status card. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32181",
@@ -1117,7 +1184,8 @@
 		"deck_limit": 1,
 		"text": "<b>Hero Interrupt</b>: When you attack, this attack deals 3 additional damage and gains overkill. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32182",
@@ -1135,7 +1203,8 @@
 		"set_position": 2,
 		"text": "<b>Alter-Ego Response</b>: After you recover, heal 3 damage from among characters you control and draw 1 card. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32183",
@@ -1152,7 +1221,8 @@
 		"set_position": 3,
 		"text": "<b>Hero Action</b>: Until the end of the phase, prevent all consequential damage each ally would take from attacking. Remove this card from the game and the campaign pool.",
 		"traits": "Skill. Tactic.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32184",
@@ -1167,9 +1237,10 @@
 		"resource_wild": 1,
 		"set_code": "commander",
 		"set_position": 4,
-		"text": "<b>Hero Action</b> <i>(attack)</i>: Spend 3 resources of any type \u2192 deal 6 damage to an enemy and ready each ally you control. Remove this card from the game and the campaign pool.",
+		"text": "<b>Hero Action</b> <i>(attack)</i>: Spend 3 resources of any type → deal 6 damage to an enemy and ready each ally you control. Remove this card from the game and the campaign pool.",
 		"traits": "Skill. Tactic.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32185",
@@ -1186,7 +1257,8 @@
 		"set_position": 5,
 		"text": "<b>Hero Resource</b>: Generate [wild][wild] resources for an [[Attack]] or [[Tactic]] event. Ready an ally and heal 2 damage from it. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32186",
@@ -1204,7 +1276,8 @@
 		"set_position": 1,
 		"text": "<b>Hero Interrupt</b> <i>(defense)</i>: When you make a basic defense, you get +3 DEF. Ready your hero. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32187",
@@ -1222,7 +1295,8 @@
 		"set_position": 2,
 		"text": "<b>Hero Reponse</b>: After you thwart, remove 3 threat from among schemes in play. Confuse an enemy. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32188",
@@ -1237,9 +1311,10 @@
 		"resource_wild": 1,
 		"set_code": "defender",
 		"set_position": 3,
-		"text": "<b>Hero Action</b> <i>(thwart)</i>: Spend 3 resources of any type \u2192 remove 5 threat from among schemes in play. You gain a tough status card. Remove this card from the game and the campaign pool.",
+		"text": "<b>Hero Action</b> <i>(thwart)</i>: Spend 3 resources of any type → remove 5 threat from among schemes in play. You gain a tough status card. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32189",
@@ -1254,9 +1329,10 @@
 		"resource_wild": 1,
 		"set_code": "defender",
 		"set_position": 4,
-		"text": "<b>Hero Interrupt</b> <i>(defense/thwart)</i>: When you defend against an attack, spend 2 resources of any type \u2192 that attack removes threat from the main scheme instead of dealing damage. Remove this card from the game and the campaign pool.",
+		"text": "<b>Hero Interrupt</b> <i>(defense/thwart)</i>: When you defend against an attack, spend 2 resources of any type → that attack removes threat from the main scheme instead of dealing damage. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32190",
@@ -1274,7 +1350,8 @@
 		"set_position": 5,
 		"text": "<b>Hero Resource</b>: Generate [wild][wild] resources for a [[Defense]] or [[Thwart]] event. Draw 1 card. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32191",
@@ -1292,7 +1369,8 @@
 		"set_position": 1,
 		"text": "<b>Hero Reponse</b>: After you thwart, remove 3 threat from among schemes in play. Confuse an enemy. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32192",
@@ -1310,7 +1388,8 @@
 		"set_position": 2,
 		"text": "<b>Alter-Ego Response</b>: After you recover, heal 3 damage from among characters you control and draw 1 card. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32193",
@@ -1327,7 +1406,8 @@
 		"set_position": 3,
 		"text": "<b>Hero Action</b>: Until the end of the phase, prevent all consequential damage each ally would take from thwarting. Remove this card from the game and the campaign pool.",
 		"traits": "Skill. Tactic.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32194",
@@ -1342,9 +1422,10 @@
 		"resource_wild": 1,
 		"set_code": "peacekeeper",
 		"set_position": 4,
-		"text": "<b>Hero Action</b> <i>(thwart)</i>: Spend 3 resources of any type \u2192 remove 5 threat from among schemes in play. Ready each ally you control. Remove this card from the game and the campaign pool.",
+		"text": "<b>Hero Action</b> <i>(thwart)</i>: Spend 3 resources of any type → remove 5 threat from among schemes in play. Ready each ally you control. Remove this card from the game and the campaign pool.",
 		"traits": "Skill. Tactic.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	},
 	{
 		"code": "32195",
@@ -1362,6 +1443,7 @@
 		"set_position": 5,
 		"text": "<b>Hero Resource</b>: Generate [wild][wild] resources for a [[Tactic]] or [[Thwart]] event. Stun an enemy. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"duplicate_of_name": ""
 	}
 ]

@@ -13,24 +13,24 @@
 	},
 	{
 		"code": "32002",
-		"flavor": "\"Vraiment Peter, tu n'es qu'un grand balourd ! Ton corps est fait de métal, mais tu n'as pas de plomb dans la tête !\"",
 		"name": "Shadowcat",
 		"subname": "Kitty Pryde",
 		"text": "Shadowcat ignore les mots-clés Garde et Patrouille, ainsi que les icônes de crise ([crisis]) en jeu.",
+		"flavor": "\"Vraiment Peter, tu n'es qu'un grand balourd ! Ton corps est fait de métal, mais tu n'as pas de plomb dans la tête !\"",
 		"traits": "X-Men."
 	},
 	{
 		"code": "32003",
-		"flavor": "\"Sous cette peau d'acier bat le cœur d'un artiste qui préfèrerait peindre plutôt que se battre.\"",
 		"name": "Atelier de Piotr",
 		"text": "<b>Action d'alter ego</b> : inclinez L'Atelier de Piotr → défaussez des cartes de votre deck jusqu'à ce qu'une carte du set Colossus soit défaussée. Ajoutez cette carte à votre main.",
+		"flavor": "\"Sous cette peau d'acier bat le cœur d'un artiste qui préfèrerait peindre plutôt que se battre.\"",
 		"traits": "Lieu."
 	},
 	{
 		"code": "32004",
-		"flavor": "\"La volonté de Pete est tout aussi inébranlable que son armure. Il n'abandonne jamais.\" — Wolverine",
 		"name": "Volonté de Fer",
 		"text": "Colossus gagne +1 CTR.\n<b>Réponse de héros</b> : après qu'une carte d'état Tenace a été défaussée de Colossus, piochez 1 carte.",
+		"flavor": "\"La volonté de Pete est tout aussi inébranlable que son armure. Il n'abandonne jamais.\" — Wolverine",
 		"traits": "Super-pouvoir."
 	},
 	{
@@ -47,16 +47,16 @@
 	},
 	{
 		"code": "32007",
-		"flavor": "\"Aaarrrrrhhhhhh !!\" — Colossus",
 		"name": "La Rage au Ventre",
 		"text": "<b>Interruption de héros</b> : quand vous effectuez une attaque de base, défaussez une carte d'état Tenace de votre héros → vous avez +6 ATQ pour cette attaque. Elle gagne Déferlement.",
+		"flavor": "\"Aaarrrrrhhhhhh !!\" — Colossus",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "32008",
-		"flavor": "\"Camarades, mettons-fin à ce combat une bonne fois pour toutes !\" — Colossus",
 		"name": "Poing d'Acier",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 5 dégâts à un ennemi. Vous pouvez défausser une carte d'état Tenace de votre héros → sonnez et désorientez cet ennemi.",
+		"flavor": "\"Camarades, mettons-fin à ce combat une bonne fois pour toutes !\" — Colossus",
 		"traits": "Attaque. Super-pouvoir."
 	},
 	{
@@ -67,9 +67,9 @@
 	},
 	{
 		"code": "32010",
-		"flavor": "\"Tu as joué avec moi, mais tu aurais dû m'achever quand tu en avais l'opportunité ! J'étais Piotr Rasputin. À présent je suis... Colossus !\" — Colossus",
 		"name": "S'Armurer",
 		"text": "<b>Interruption d'alter ego</b> : quand le méchant s'active, passez en forme de héros.",
+		"flavor": "\"Tu as joué avec moi, mais tu aurais dû m'achever quand tu en avais l'opportunité ! J'étais Piotr Rasputin. À présent je suis... Colossus !\" — Colossus",
 		"traits": "Super-pouvoir."
 	},
 	{
@@ -81,38 +81,38 @@
 	},
 	{
 		"code": "32012",
-		"flavor": "\"J'aime mon père. Mais nous sommes différents : il veut dominer les autres. Moi je me bats pour les protéger.\"",
 		"name": "Polaris",
 		"subname": "Lorna Dane",
 		"text": "<b>Réponse</b> : après que Polaris est entrée en jeu, donnez une carte d'état Tenace à un personnage [[X-MEN]].",
+		"flavor": "\"J'aime mon père. Mais nous sommes différents : il veut dominer les autres. Moi je me bats pour les protéger.\"",
 		"traits": "X-Men."
 	},
 	{
 		"code": "32013",
-		"flavor": "Pour protéger un monde qui les craint et les rejette, les X-Men s'entraînent sans relâche.",
 		"name": "Entraînement Protecteur",
 		"text": "Attachez cette carte à un allié [[X-MEN]]. 1 amélioration [[ENTRAÎNEMENT]] max par allié.\nL'allié attaché gagne +3 points de vie.",
+		"flavor": "Pour protéger un monde qui les craint et les rejette, les X-Men s'entraînent sans relâche.",
 		"traits": "Entraînement."
 	},
 	{
 		"code": "32014",
-		"flavor": "\"Et un kilo de bidoche ! Il y en a un peu plus, je vous le mets quand même ?\" — Shadowcat",
 		"name": "Coup de Poing Puissant",
 		"text": "<b>Interruption de héros</b> <i>(attaque/défense)</i> : quand un ennemi initie une attaque, infligez 4 dégâts à cet ennemi.",
+		"flavor": "\"Et un kilo de bidoche ! Il y en a un peu plus, je vous le mets quand même ?\" — Shadowcat",
 		"traits": "Attaque. Défense."
 	},
 	{
 		"code": "32015",
-		"flavor": "\"Je ne l'avais pas vue venir celle-là. Et toi Sugah ?\" — Malicia",
 		"name": "Servir d'Appât",
 		"text": "<b>Action de héros</b> <i>(contre)</i> : le méchant vous attaque. Retirez 4 menaces de la manigance principale.",
+		"flavor": "\"Je ne l'avais pas vue venir celle-là. Et toi Sugah ?\" — Malicia",
 		"traits": "Contre."
 	},
 	{
 		"code": "32016",
-		"flavor": "\"Arrête de te plaindre ! Tu es vivant, oui ou non ?\" — Wolverine",
 		"name": "Obstination",
 		"text": "<b>Réponse de héros</b> : après que vous avez changé de forme, donnez une carte d'état Tenace à votre héros.",
+		"flavor": "\"Arrête de te plaindre ! Tu es vivant, oui ou non ?\" — Wolverine",
 		"traits": "Tactique."
 	},
 	{
@@ -135,9 +135,9 @@
 	},
 	{
 		"code": "32020",
-		"flavor": "\"Forge s'est vraiment dépassé en créant ce chef-d'œuvre !\" — Le Fauve",
 		"name": "Le X-Jet",
 		"text": "<b>Ressource</b> : inclinez le X-Jet → générez une ressource [wild] pour un joueur dont l'identité à le trait [[X-MEN]].",
+		"flavor": "\"Forge s'est vraiment dépassé en créant ce chef-d'œuvre !\" — Le Fauve",
 		"traits": "Véhicule. X-Men."
 	},
 	{
@@ -148,9 +148,9 @@
 	},
 	{
 		"code": "32030a",
-		"flavor": "\"On ne peut pas arrêter ce qu'on ne peut pas toucher !\"",
 		"name": "Shadowcat",
 		"text": "<i>Intangibilité Sélective</i> — Tant que vous êtes dans la forme de masse Incorporelle, Shadowcat ignore les mots-clés Garde et Patrouille, ainsi que les icônes de crise ([crisis]) en jeu.",
+		"flavor": "\"On ne peut pas arrêter ce qu'on ne peut pas toucher !\"",
 		"traits": "X-Men."
 	},
 	{
@@ -183,16 +183,16 @@
 	},
 	{
 		"code": "32034",
-		"flavor": "\"Tu sais à quel point je dois me concentrer pour ne rendre solide que mon pied ?\" — Shadowcat",
 		"name": "Parfaite Précision",
 		"text": "<b>Réponse de héros</b> : après avoir ignoré le mot-clé Garde ou Patrouille sur un sbire, inclinez Parfaite Précision → infligez 2 dégâts à ce sbire.",
+		"flavor": "\"Tu sais à quel point je dois me concentrer pour ne rendre solide que mon pied ?\" — Shadowcat",
 		"traits": "Super-pouvoir."
 	},
 	{
 		"code": "32035",
-		"flavor": "La capacité de déphasage de Shadowcat a tendance à perturber les appareils électroniques.",
 		"name": "Interférence Intangible",
 		"text": "<b>Réponse de héros</b> : après avoir ignoré l'icône de crise ([crisis]) sur une manigance, inclinez Interférence Intangible → retirez 2 menaces de cette manigance.",
+		"flavor": "La capacité de déphasage de Shadowcat a tendance à perturber les appareils électroniques.",
 		"traits": "Super-pouvoir."
 	},
 	{
@@ -203,9 +203,9 @@
 	},
 	{
 		"code": "32037",
-		"flavor": "\"Tu es sur le point de voir un truc que tu aurais préféré ne pas voir.\" — Shadowcat",
 		"name": "Surprise de Shadowcat",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 3 dégâts à un ennemi. Redressez votre héros.",
+		"flavor": "\"Tu es sur le point de voir un truc que tu aurais préféré ne pas voir.\" — Shadowcat",
 		"traits": "Attaque. Super-pouvoir."
 	},
 	{
@@ -216,9 +216,9 @@
 	},
 	{
 		"code": "32039",
-		"flavor": "\"Toucher l'horizon, comme dirait le rappeur.'\" — Shadowcat",
 		"name": "Marche Éthérée",
 		"text": "<b>Action de héros</b> <i>(contre)</i> : retirez 2 menaces d'une manigance (4 menaces à la place si vous êtes sous forme de masse Incorporelle).",
+		"flavor": "\"Toucher l'horizon, comme dirait le rappeur.'\" — Shadowcat",
 		"traits": "Contre. Super-pouvoir."
 	},
 	{
@@ -229,10 +229,10 @@
 	},
 	{
 		"code": "32041",
-		"flavor": "\"Tu te sens en veine, mon pote ?\"",
 		"name": "Wolverine",
 		"subname": "Logan",
 		"text": "[star] L'attaque de Wolverine gagne Perçant.\n<b>Réponse</b> : après le début de votre tour, soignez 1 dégât de Wolverine.",
+		"flavor": "\"Tu te sens en veine, mon pote ?\"",
 		"traits": "X-Men."
 	},
 	{
@@ -262,9 +262,9 @@
 	},
 	{
 		"code": "32046",
-		"flavor": "\"Tu es le meilleur dans ton domaine ? Sache que tu n'es pas le seul, Wolverine.\" — Psylocke",
 		"name": "Face à Face",
 		"text": "<b>Action de héros</b> <i>(attaque)</i> : choisissez un ennemi. Cet ennemi vous attaque. Infligez 5 dégâts à cet ennemi.",
+		"flavor": "\"Tu es le meilleur dans ton domaine ? Sache que tu n'es pas le seul, Wolverine.\" — Psylocke",
 		"traits": "Attaque."
 	},
 	{
@@ -274,10 +274,10 @@
 	},
 	{
 		"code": "32048",
-		"flavor": "\"Reste derrière moi, tovarich !\"",
 		"name": "Colossus",
 		"subname": "Piotr Rasputin",
 		"text": "Réduisez de 1 le coût pour jouer Colossus si votre identité a le trait [[MUTANT]] ou [[X-MEN]].\nTénacité.",
+		"flavor": "\"Reste derrière moi, tovarich !\"",
 		"traits": "X-Men."
 	},
 	{
@@ -294,9 +294,9 @@
 	},
 	{
 		"code": "32171a",
-		"flavor": "Au milieu de tout ce chaos, la police a confondu les X-Men avec leurs ennemis.",
 		"name": "Policiers Apeurés",
-		"text": "<b>Une fois déjouée</b> : mélangez dans le deck Rencontre la carte du dessus du deck Avenir Passé. Retournez cette manigance et mettez en jeu l'Agent de Police sous le contrôle du premier joueur."
+		"text": "<b>Une fois déjouée</b> : mélangez dans le deck Rencontre la carte du dessus du deck Avenir Passé. Retournez cette manigance et mettez en jeu l'Agent de Police sous le contrôle du premier joueur.",
+		"flavor": "Au milieu de tout ce chaos, la police a confondu les X-Men avec leurs ennemis."
 	},
 	{
 		"code": "32171b",
@@ -306,9 +306,9 @@
 	},
 	{
 		"code": "32172a",
-		"flavor": "Magneto se bat également pour protéger les mutants vulnérables contre les Sentinelles.",
 		"name": "L'Ennemi de mon Ennemi",
-		"text": "<b>Une fois déjouée</b> : mélangez dans le deck Rencontre la carte du dessus du deck Avenir Passé. Retournez cette manigance et mettez en jeu Magnéto sous le contrôle du premier joueur."
+		"text": "<b>Une fois déjouée</b> : mélangez dans le deck Rencontre la carte du dessus du deck Avenir Passé. Retournez cette manigance et mettez en jeu Magnéto sous le contrôle du premier joueur.",
+		"flavor": "Magneto se bat également pour protéger les mutants vulnérables contre les Sentinelles."
 	},
 	{
 		"code": "32172b",
@@ -324,9 +324,9 @@
 	},
 	{
 		"code": "32173b",
-		"flavor": "Les mutants capturés par les Sentinelles ont été localisés à l'intérieur du complexe du Moule Initial.",
 		"name": "Secourir les Captifs",
 		"text": "<b>Réponse</b> : après que vous avez vaincu un sbire [[SENTINELLE]], dépensez 1 ressource de n'importe quel type → choisissez un allié face cachée sous cette carte et mettez-le en jeu sous votre contrôle. <i>(N'importe quel joueur peut déclencher cette capacité.)</i>",
+		"flavor": "Les mutants capturés par les Sentinelles ont été localisés à l'intérieur du complexe du Moule Initial.",
 		"traits": "Mission."
 	},
 	{
@@ -336,35 +336,35 @@
 	},
 	{
 		"code": "32174b",
-		"flavor": "L'attaque de la Confrérie vous a pris par surprise, mais si vous réussissez à activer les systèmes de défense du Manoir X, vous pourriez renverser le cours de la bataille.",
 		"name": "Réactiver les Défenses",
-		"text": "<b>Action d'alter ego</b> : dépensez les ressources suivantes : [energy][mental][physical] → infligez 5 dégâts à chaque ennemi en jeu. Retirez cette carte de la partie."
+		"text": "<b>Action d'alter ego</b> : dépensez les ressources suivantes : [energy][mental][physical] → infligez 5 dégâts à chaque ennemi en jeu. Retirez cette carte de la partie.",
+		"flavor": "L'attaque de la Confrérie vous a pris par surprise, mais si vous réussissez à activer les systèmes de défense du Manoir X, vous pourriez renverser le cours de la bataille."
 	},
 	{
 		"code": "32175a",
-		"flavor": "Magneto a fortifié son sanctuaire spatial dans l'éventualité de votre assaut.",
 		"name": "La Forteresse de Magnéto",
-		"text": "<b>Une fois déjouée</b> : mélangez dans le deck Rencontre la carte du dessus du deck Avenir Passé. Retournez cette manigance."
+		"text": "<b>Une fois déjouée</b> : mélangez dans le deck Rencontre la carte du dessus du deck Avenir Passé. Retournez cette manigance.",
+		"flavor": "Magneto a fortifié son sanctuaire spatial dans l'éventualité de votre assaut."
 	},
 	{
 		"code": "32175b",
-		"flavor": "\"J'ai le pouvoir de détruire. Et de refaçonner le monde à mon image !\" — Magnéto",
 		"name": "Le Pouvoir de Magnéto",
 		"text": "Attachez cette carte à Magnéto.\\nPermanent.",
+		"flavor": "\"J'ai le pouvoir de détruire. Et de refaçonner le monde à mon image !\" — Magnéto",
 		"traits": "Condition."
 	},
 	{
 		"code": "32176",
-		"flavor": "\"Sus à l'ennemi !\" — Diablo",
 		"name": "Coup de Grâce",
 		"text": "<b>Interruption de héros</b> : quand vous attaquez, cette attaque inflige 3 dégâts supplémentaires et gagne Déferlement. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"Sus à l'ennemi !\" — Diablo",
 		"traits": "Compétence."
 	},
 	{
 		"code": "32177",
-		"flavor": "\"Vas-y continue, mon gars. Donne-nous une raison de nous faire plaisir !\" — Wolverine",
 		"name": "Sang-Froid",
 		"text": "<b>Interruption de héros</b> <i>(défense)</i> : quand vous effectuez une défense de base, vous gagnez +3 DEF. Redressez votre héros. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"Vas-y continue, mon gars. Donne-nous une raison de nous faire plaisir !\" — Wolverine",
 		"traits": "Compétence."
 	},
 	{
@@ -381,23 +381,23 @@
 	},
 	{
 		"code": "32180",
-		"flavor": "\"Rrrrrrraaaaargh !\" — Wolverine",
 		"name": "Cri de Guerre",
 		"text": "<b>Ressource de héros</b> : générez les ressources [wild][wild] pour un événement [[ATTAQUE]] ou [[DÉFENSE]]. Gagnez une carte d'état Tenace. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"Rrrrrrraaaaargh !\" — Wolverine",
 		"traits": "Compétence."
 	},
 	{
 		"code": "32181",
-		"flavor": "\"Sus à l'ennemi !\" — Diablo",
 		"name": "Coup de Grâce",
 		"text": "<b>Interruption de héros</b> : quand vous attaquez, cette attaque inflige 3 dégâts supplémentaires et gagne Déferlement. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"Sus à l'ennemi !\" — Diablo",
 		"traits": "Compétence."
 	},
 	{
 		"code": "32182",
-		"flavor": "\"On est tous passé par là, mon gars.\" — Cyclope",
 		"name": "Compassion",
 		"text": "<b>Réponse d'alter ego</b> : après avoir récupéré, soignez un total de 3 dégâts parmi des personnages que vous contrôlez et piochez 1 carte. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"On est tous passé par là, mon gars.\" — Cyclope",
 		"traits": "Compétence."
 	},
 	{
@@ -420,16 +420,16 @@
 	},
 	{
 		"code": "32186",
-		"flavor": "\"Vas-y continue, mon gars. Donne-nous une raison de nous faire plaisir !\" — Wolverine",
 		"name": "Sang-Froid",
 		"text": "<b>Interruption de héros</b> <i>(défense)</i> : quand vous effectuez une défense de base, vous gagnez +3 DEF. Redressez votre héros. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"Vas-y continue, mon gars. Donne-nous une raison de nous faire plaisir !\" — Wolverine",
 		"traits": "Compétence."
 	},
 	{
 		"code": "32187",
-		"flavor": "\"Guten Tag !\" — Diablo",
 		"name": "Surprise !",
 		"text": "<b>Réponse de héros</b> : après que vous avez contré, retirez un total de 3 menaces parmi les manigances en jeu. Désorientez un ennemi. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"Guten Tag !\" — Diablo",
 		"traits": "Compétence."
 	},
 	{
@@ -446,23 +446,23 @@
 	},
 	{
 		"code": "32190",
-		"flavor": "\"Hors de ma vue !\" — Cyclope",
 		"name": "Garde du Corps",
 		"text": "<b>Ressource de héros</b> : générez les ressources [wild][wild] pour un événement [[DÉFENSE]] ou [[CONTRE]]. Piochez 1 carte. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"Hors de ma vue !\" — Cyclope",
 		"traits": "Compétence."
 	},
 	{
 		"code": "32191",
-		"flavor": "\"Guten Tag !\" — Diablo",
 		"name": "Surprise !",
 		"text": "<b>Réponse de héros</b> : après que vous avez contré, retirez un total de 3 menaces parmi les manigances en jeu. Désorientez un ennemi. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"Guten Tag !\" — Diablo",
 		"traits": "Compétence."
 	},
 	{
 		"code": "32192",
-		"flavor": "\"On est tous passé par là, mon gars.\" — Cyclope",
 		"name": "Compassion",
 		"text": "<b>Réponse d'alter ego</b> : après avoir récupéré, soignez un total de 3 dégâts parmi des personnages que vous contrôlez et piochez 1 carte. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"On est tous passé par là, mon gars.\" — Cyclope",
 		"traits": "Compétence."
 	},
 	{
@@ -479,9 +479,9 @@
 	},
 	{
 		"code": "32195",
-		"flavor": "\"Bozhe-moi !\" — Colossus",
 		"name": "Force d'Âme",
 		"text": "<b>Ressource de héros</b> : générez les ressources [wild][wild] pour un événement [[TACTIQUE]] ou [[CONTRE]]. Sonnez un ennemi. Retirez cette carte de la partie et de la réserve de campagne.",
+		"flavor": "\"Bozhe-moi !\" — Colossus",
 		"traits": "Compétence."
 	}
 ]

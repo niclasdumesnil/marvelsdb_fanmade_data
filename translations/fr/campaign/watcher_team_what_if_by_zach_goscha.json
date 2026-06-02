@@ -1,0 +1,51 @@
+{
+	"code": "watcher_team_what_if_by_zach_goscha",
+	"name": "The Watcher’s Team: What If...?",
+	"creator": "Zach Goscha",
+	"type": "custom",
+	"position": 114,
+	"description": "I am The Watcher. I observe many realities beyond the one you know. In this campaign, we explore unique stories where heroes are not who they seem. You will be forced to change identities to witness these vast changes across the multiverse.",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [],
+		"counters": [],
+		"checkboxes": [
+			"Possibilités infinies",
+			"Vision cosmique",
+			"Un portail en cas de besoin",
+			"Je suis intervenu"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Iron Man: Trapped In Time"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Spider-Man: The Sorcerer Supreme"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Rogue And The Power Of Thor"
+			}
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - Captain America: Vigilante Justice"
+			}
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - The Watcher’s Team"
+			}
+		}
+	]
+}

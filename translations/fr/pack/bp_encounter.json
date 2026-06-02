@@ -26,7 +26,7 @@
 	{
 		"code": "51035",
 		"name": "Le Cri",
-		"text": "<b>Une fois révélée</b> : sonnez chaque personnage que vous contrôlez. Infligez 1 dégât à chacun de ces personnages qui était déjà sonné\n[star] <b>Boost</b> : vous êtes sonné. Si vous étiez déjà sonné, subissez 1 dégât."
+		"text": "<b>Une fois révélée</b> : sonnez chaque personnage que vous contrôlez. Infligez 1 dégât à chacun de ces personnages qui était déjà sonné\n<hr>[star] <b>Boost</b> : vous êtes sonné. Si vous étiez déjà sonné, subissez 1 dégât."
 	},
 	{
 		"code": "51039",
@@ -49,6 +49,6 @@
 	{
 		"code": "51042",
 		"name": "Risque Extrême",
-		"text": "<b>Une fois révélée</b> : trouvez Joystick et révélez-la (si elle est déjà en jeu, elle vous engage.) Joystick s'active contre vous. Si aucun ennemi n'a été activé par cet effet, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : vous pouvez donner une carte de boost supplémentaire à l'ennemi en cours d'activation. Si vous le faites, piochez 1 carte."
+		"text": "<b>Une fois révélée</b> : trouvez Joystick et révélez-la (si elle est déjà en jeu, elle vous engage.) Joystick s'active contre vous. Si aucun ennemi n'a été activé par cet effet, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b> : vous pouvez donner une carte de boost supplémentaire à l'ennemi en cours d'activation. Si vous le faites, piochez 1 carte."
 	}
 ]

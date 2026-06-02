@@ -1,0 +1,34 @@
+{
+	"code": "genetic_manipulation_by_8_bit_quill",
+	"name": "Genetic Manipulation",
+	"creator": "8-Bit Quill",
+	"type": "custom",
+	"position": 153,
+	"description": "It's been a hell of a day. Or is it week? You're not entirely sure how long you were out, but however long it was seems to have been enough to strap you to a table and inject you with something. Groggy or not, the restraints aren't something that are going to hold you for more than a few passing seconds. Sitting up, you see the familiar faces of your team going through the same process.<br><br>The last thing you remember was sharing a drink at the annual Krakoan Independence celebration. Xavier announced the new X-Men teams, showed us new technology for portals, all the usual stuff. When you stepped away for a breather, Greycrow approached you with drinks in hand. And now you're here. He's going to have some questions to answer later, but for now you prioritize freeing the civilians in the lab that are having more trouble with their restraints before trying the door.<br><br>It opens smoothly. Seems like whoever wanted you in here didn't expect you to be awake so quickly. Motioning the other captives to follow along, you make your way down the hallway to a large room full of people milling around. The mess hall would be much less intimidating if it wasn't full of mercenaries armed with a surprising arsenal of swords, grenades and... is that a glider?! There's no other way out, so you make yourself seen and prepare for battle as a mercenary in white shouts: \"Remember, take hostages if you need to! Overwhelm and lock them down!\"",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [],
+		"counters": [],
+		"checkboxes": []
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Taskmaster"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - On the Run"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Mr. Sinister"
+			}
+		}
+	]
+}

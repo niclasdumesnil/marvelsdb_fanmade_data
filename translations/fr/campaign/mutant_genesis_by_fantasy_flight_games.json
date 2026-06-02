@@ -1,0 +1,63 @@
+{
+	"code": "mutant_genesis_by_fantasy_flight_games",
+	"name": "Genèse des Mutants",
+	"creator": "Fantasy Flight Games",
+	"type": "official",
+	"position": 6,
+	"description": "Défendez les droits des mutants face à l'hystérie anti-mutant croissante en Amérique, en affrontant Magneto, Sabretooth et les Sentinelles !",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [
+			"Future Past Cards in the Victory Display",
+			"Future Past Cards in the Encounter Deck",
+			"Role Upgrades in Play",
+			"Jubilee State",
+			"Allies from Abduction Protocols",
+			"Allies under Rescue Captives or Find the Prisoners"
+		],
+		"counters": [],
+		"checkboxes": [
+			"Frightened Police Defeated",
+			"Enemy of my Enemy Defeated",
+			"Find the Prisoners Defeated",
+			"Surprise Attack Defeated"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Sabretooth"
+			},
+			"scenario_uuid": "1bc1e7aea171"
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Project Wideawake"
+			},
+			"scenario_uuid": "a2d103f2f3c4"
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Master Mold"
+			},
+			"scenario_uuid": "05d446312d00"
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - Mansion Attack"
+			},
+			"scenario_uuid": "9a8c26216170"
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - Magneto"
+			},
+			"scenario_uuid": "1f12109590be"
+		}
+	]
+}

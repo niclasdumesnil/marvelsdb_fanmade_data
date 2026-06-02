@@ -1,0 +1,105 @@
+{
+  "code": "fantastic_four_by_hax",
+  "name": "Fantastic Four",
+  "creator": "Hax",
+  "type": "custom",
+  "position": 202,
+  "description": "Ben Grimm's peaceful date is cut short when alerts of Giganto emerge off the New York coast, leading the Fantastic Four on a quest from the ocean depths to the center of the Earth, the Negative Zone, and eventually Latveria to stop Doctor Doom's cosmic machinations.",
+  "epilogue": "For heroes who've been everywhere, seen everything, and saved the cosmos more times than they can count, they were being rewarded with the rarest element in the universe. A moment of quiet.",
+  "image": "fantastic_four.jpg",
+  "visibility": "true",
+  "metadata": {
+    "layout": "fantastic_four",
+    "trackers": [
+      "Notes de Campagne (Campaign Notes)",
+      "Moloids alliés libérés (Moloid Allies Freed)"
+    ],
+    "counters": [
+      "Dégâts sur Hope Summers (Hope Summers Damage)"
+    ],
+    "checkboxes": [
+      "Expert Mode",
+      "Namor hero switch chosen",
+      "Gigantos defeated >= 2"
+    ]
+  },
+  "scenarios": [
+    {
+      "position": 1,
+      "scenario_uuid": "73da853b2d21",
+      "narrative": {
+        "title": "Scenario #1 - Namor",
+        "description": "Namor, King of Atlantis, turns his oceanic ambitions to the surface world. Defeat him to defend the coast and clear up the misunderstanding.",
+        "introduction": "Each player records their identity. Put the 'Atlantis' environment into play. Discard the top 4 cards of the encounter deck (8 cards instead for expert). Distribute all copies of 'Piranha Guards' discarded this way evenly among players, in player order.",
+        "resolution": "Namor is defeated and claims he has not attacked New York. The heroes realize they have been deceived. Add the Namor ally to the campaign pool.",
+        "illustration_codes": [
+          "501183",
+          "501184",
+          "501185"
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "scenario_uuid": "23264723463d",
+      "narrative": {
+        "title": "Scenario #2 - Mole Man",
+        "description": "Mole Man has launched an attack from beneath the sea. Prevent his Subterranean Moloids from overwhelming the surface.",
+        "introduction": "If there is no Namor player, the player with the fewest remaining hit points begins the game with the Namor ally in hand. In standard mode, when he is defeated, place him on top of the next player's discard pile. Reveal the 'Mole Man's Stave' attachment. Place 1 Moloid counter on each 'Subterranean Exit'.",
+        "resolution": "Mole Man escapes down a hidden passageway. If there are 2 or more copies of Giganto in the victory display, add Turg, Tong, Mik, and Korr to the campaign pool.",
+        "illustration_codes": [
+          "501199",
+          "501200",
+          "501201"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "scenario_uuid": "7f7891fa7b96",
+      "narrative": {
+        "title": "Scenario #3 - Annihilus",
+        "description": "Reed flips the switch on a device powered by the Negative Zone, only to summon Annihilus! Defeat him to close the portal and secure the Cosmic Control Rod.",
+        "introduction": "If there is no Namor player, the player with the fewest remaining hit points begins the game with the Namor ally in their hand. If Turg, Tong, Mik, and Korr are in the campaign pool, each player chooses one and puts it into play under their control. Put Eradica into play engaged with the first player.",
+        "resolution": "Annihilus is defeated and the Cosmic Control Rod upgrade is added to the campaign pool.",
+        "illustration_codes": [
+          "501225",
+          "501226",
+          "501227",
+          "501228",
+          "501229"
+        ]
+      }
+    },
+    {
+      "position": 4,
+      "scenario_uuid": "248acfc83c09",
+      "narrative": {
+        "title": "Scenario #4 - Super-Skrull",
+        "description": "Super-Skrull has escaped his containment cell using partial powers. Contain him before he disables the laboratory systems.",
+        "introduction": "If Turg, Tong, Mik, and Korr are in the campaign pool, each player chooses one and puts it into play under their control. Put the Cosmic Control Rod upgrade into play. Discard cards from the encounter deck until an attachment is discarded. Reveal that attachment.",
+        "resolution": "Super-Skrull is contained. Check the attachments he had when defeated to determine which double-sided obligations (Extinguish Fires, Find Invisible Components, Repair Security System, Fix H.E.R.B.I.E.) are added to the campaign pool.",
+        "illustration_codes": [
+          "501254",
+          "501255",
+          "501256"
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "scenario_uuid": "7ea646610960",
+      "narrative": {
+        "title": "Scenario #5 - Doctor Doom",
+        "description": "Doctor Doom attempts to siphon Negative Zone energies to fuse science and magic. Stop him before he dominates the Earth!",
+        "introduction": "If there is no Namor player, the player with the fewest remaining hit points begins the game with the Namor ally in their hand. If Turg, Tong, Mik, and Korr are in the campaign pool, each player chooses one and puts it into play under their control. Put the 'Cosmic Control Rod' upgrade into play. If the 'Extinguish Fires', 'Find Invisible Components', 'Repair Security System', or 'Fix H.E.R.B.I.E.' obligations are in the campaign pool, put each into play in the villain's game area.",
+        "resolution": "Doctor Doom is defeated and the players win the campaign! Read the conclusion on the last page.",
+        "illustration_codes": [
+          "501286",
+          "501287",
+          "501288"
+        ]
+      }
+    }
+  ]
+}

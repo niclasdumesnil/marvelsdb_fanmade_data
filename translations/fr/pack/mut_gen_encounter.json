@@ -6,16 +6,16 @@
 	},
 	{
 		"code": "32026",
-		"flavor": "\"Rien n'arrête le Fléau !\"",
 		"name": "Le Fléau",
 		"text": "Robuste. Tenacité.\n<hr />\n[star] <b>Boost</b>: si cette activation est une attaque, elle gagne Déferlement et Perçant.",
+		"flavor": "\"Rien n'arrête le Fléau !\"",
 		"traits": "Brute. Élite."
 	},
 	{
 		"code": "32027",
-		"flavor": "Le Fléau possède le pouvoir du Cyttorak, mais cette force le rend fou.",
 		"name": "Le Fléau Saccage Tout !",
-		"text": "<b>Une fois révélée</b> : défaussez chaque carte d'état Tenace de chaque personnage ami. Placez 2 menaces sur cette manigance pour chaque carte d'état Tenace ainsi défaussée."
+		"text": "<b>Une fois révélée</b> : défaussez chaque carte d'état Tenace de chaque personnage ami. Placez 2 menaces sur cette manigance pour chaque carte d'état Tenace ainsi défaussée.",
+		"flavor": "Le Fléau possède le pouvoir du Cyttorak, mais cette force le rend fou."
 	},
 	{
 		"code": "32028",
@@ -24,9 +24,9 @@
 	},
 	{
 		"code": "32029",
-		"flavor": "\"Ignores-tu qui je suis ?\" — Le Fléau",
 		"name": "Écrasé",
-		"text": "<b>Une fois révélée</b> : vous êtes sonné. Si vous êtes déjà sonné, subissez 2 dégâts.\n<hr />\n[star] <b>Boost</b>: révélez cette carte."
+		"text": "<b>Une fois révélée</b> : vous êtes sonné. Si vous êtes déjà sonné, subissez 2 dégâts.\n<hr />\n[star] <b>Boost</b>: révélez cette carte.",
+		"flavor": "\"Ignores-tu qui je suis ?\" — Le Fléau"
 	},
 	{
 		"code": "32055",
@@ -52,16 +52,16 @@
 	},
 	{
 		"code": "32059",
-		"flavor": "\"Sois mignon, arrête de bouger... et de parler. Voilà. C'est mieux comme ça.\" — La Reine Blanche",
 		"name": "Entrave Télépathique",
 		"text": "Attachez cette carte à votre identité.\nTant que l'Entrave Télépathique est attachée à votre identité, vous êtes sonné.\n<b>Action</b> : dépensez les ressources suivantes : [mental][mental] → défaussez cette carte.",
+		"flavor": "\"Sois mignon, arrête de bouger... et de parler. Voilà. C'est mieux comme ça.\" — La Reine Blanche",
 		"traits": "Condition."
 	},
 	{
 		"code": "32060",
-		"flavor": "\"Je vais t'arracher les tripes !\"",
 		"name": "Dents-de-Sabre",
 		"text": "[star] <b>Réponse forcée</b> : après que Dents-de-Sabre s'est activé contre vous, défaussez la carte du dessus du deck Rencontre. Soignez un nombre de dégâts de Dents-de-Sabre égal au nombre d'icônes de boost ([boost]) ainsi défaussées.",
+		"flavor": "\"Je vais t'arracher les tripes !\"",
 		"traits": "Confrérie des Mutants."
 	},
 	{
@@ -88,15 +88,15 @@
 	},
 	{
 		"code": "32064a",
-		"flavor": "Dents-de-Sabre a blessé le Sénateur Kelly et continue de le pourchasser !",
 		"name": "Le Sénateur Blessé",
-		"text": "<b>Une fois révélée</b> : attribuez 1 carte rencontre face cachée à chaque joueur."
+		"text": "<b>Une fois révélée</b> : attribuez 1 carte rencontre face cachée à chaque joueur.",
+		"flavor": "Dents-de-Sabre a blessé le Sénateur Kelly et continue de le pourchasser !"
 	},
 	{
 		"code": "32064b",
-		"flavor": "Mettez Robert Kelly à l'abri avant que Dents-de-Sabre ne termine le travail.",
 		"name": "Le Sénateur Blessé",
-		"text": "<b>Une fois achevé</b> : vainquez Robert Kelly.\n<b>Si Robert Kelly quitte la partie, les joueurs perdent la partie.</b>"
+		"text": "<b>Une fois achevé</b> : vainquez Robert Kelly.\n<b>Si Robert Kelly quitte la partie, les joueurs perdent la partie.</b>",
+		"flavor": "Mettez Robert Kelly à l'abri avant que Dents-de-Sabre ne termine le travail."
 	},
 	{
 		"code": "32065a",
@@ -144,9 +144,9 @@
 	},
 	{
 		"code": "32072",
-		"flavor": "Dents-de-Sabre poursuit sa traque frénétique à la recherche de Kelly. Vous allez devoir détournez son attention du sénateur !",
 		"name": "Rage Férale",
-		"text": "<b>Une fois déjouée</b> : Dents-de-Sabre attaque le joueur qui a déjoué cette manigance <i>(même si ce joueur est sous sa forme d'alter ego)</i>."
+		"text": "<b>Une fois déjouée</b> : Dents-de-Sabre attaque le joueur qui a déjoué cette manigance <i>(même si ce joueur est sous sa forme d'alter ego)</i>.",
+		"flavor": "Dents-de-Sabre poursuit sa traque frénétique à la recherche de Kelly. Vous allez devoir détournez son attention du sénateur !"
 	},
 	{
 		"code": "32073",
@@ -156,16 +156,16 @@
 	},
 	{
 		"code": "32074",
-		"flavor": "\"Rien ne peut ébranler Le Colosse !\"",
 		"name": "Le Colosse",
 		"text": "Garde.\n[star] <b>Réponse forcée</b> : après que Le Colosse a attaqué et blessé un personnage, sonnez ce personnage.",
+		"flavor": "\"Rien ne peut ébranler Le Colosse !\"",
 		"traits": "Confrérie des Mutants."
 	},
 	{
 		"code": "32075",
-		"flavor": "\"Je joue toujours avec le feu. Et je ne me brûle jamais !\"",
 		"name": "Pyro",
 		"text": "[star] <b>Réponse forcée</b> : après que Pyro vous a attaqué, défaussez les 2 cartes du dessus de votre deck. Subissez 1 dégât indirect pour chaque icône de ressource imprimée ainsi défaussée.",
+		"flavor": "\"Je joue toujours avec le feu. Et je ne me brûle jamais !\"",
 		"traits": "Confrérie des Mutants."
 	},
 	{
@@ -187,22 +187,22 @@
 	},
 	{
 		"code": "32079",
-		"flavor": "Magnéto a créé sa Confrérie des Mutants pour réaliser ses ambitions de domination des mutants sur les humains.",
 		"name": "La Confrérie",
-		"text": "Entrave 2[per_hero]. <i>(Quand cette carte est révélée, placez 2[per_hero] menaces dessus.)</i>\nChaque sbire [[CONFRÉRIE DES MUTANTS]] gagne Coup Rapide."
+		"text": "Entrave 2[per_hero]. <i>(Quand cette carte est révélée, placez 2[per_hero] menaces dessus.)</i>\nChaque sbire [[CONFRÉRIE DES MUTANTS]] gagne Coup Rapide.",
+		"flavor": "Magnéto a créé sa Confrérie des Mutants pour réaliser ses ambitions de domination des mutants sur les humains."
 	},
 	{
 		"code": "32080",
-		"flavor": "\"Je ne suis pas une femme à sous-estimer.\"",
 		"name": "Mystique",
 		"text": "Ténacité.\nLes joueurs ne peuvant pas attaquer le méchant.\n[star] La MNG de Mystique est égale à celle du méchant. L'ATQ de Mystique est égale à celle du méchant.",
+		"flavor": "\"Je ne suis pas une femme à sous-estimer.\"",
 		"traits": "Confrérie des Mutants. Élite."
 	},
 	{
 		"code": "32081",
-		"flavor": "Les pouvoirs métamorphiques de Mystique sont une grande source de chaos.",
 		"name": "La Métamorphe Sème le Chaos",
-		"text": "<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance mélange dans son deck chaque carte [[MÉTAMORPHE]] de la pile de défausse Rencontre."
+		"text": "<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance mélange dans son deck chaque carte [[MÉTAMORPHE]] de la pile de défausse Rencontre.",
+		"flavor": "Les pouvoirs métamorphiques de Mystique sont une grande source de chaos."
 	},
 	{
 		"code": "32082",
@@ -218,9 +218,9 @@
 	},
 	{
 		"code": "32084",
-		"flavor": "\"MUTANT DÉTECTÉ. INITIATION DE LA SÉQUENCE DE CAPTURE.\"",
 		"name": "Sentinelle",
 		"text": "Ténacité.\n<b>Une fois révélée</b> : le premier joueur cherche dans le deck Rencontre ou la pile de défausse Rencontre un exemplaire de la manigance annexe Protocoles d'Enlèvement et la révèle. <i>(Mélangez.)</i>",
+		"flavor": "\"MUTANT DÉTECTÉ. INITIATION DE LA SÉQUENCE DE CAPTURE.\"",
 		"traits": "Sentinelle."
 	},
 	{
@@ -259,10 +259,10 @@
 	},
 	{
 		"code": "32089",
-		"flavor": "\"Toi ... il va t'arriver des bricoles.\"",
 		"name": "Rictor",
 		"subname": "Julio Richter",
 		"text": "[star] <b>Réponse</b> : après que Rictor a attaqué, infligez 1 dégât au méchant et à chaque sbire engagé avec vous.",
+		"flavor": "\"Toi ... il va t'arriver des bricoles.\"",
 		"traits": "Captif. X-Men."
 	},
 	{
@@ -274,18 +274,18 @@
 	},
 	{
 		"code": "32091",
-		"flavor": "\"Je suis quasiment invulnérable sous cette forme.\"",
 		"name": "Rocket",
 		"subname": "Sam Guthrie",
 		"text": "[star] Après avoir attaqué et vaincu un sbire, Rocket subit 1 dégât consécutif de moins.",
+		"flavor": "\"Je suis quasiment invulnérable sous cette forme.\"",
 		"traits": "Captif. X-Men."
 	},
 	{
 		"code": "32092",
-		"flavor": "\"Je ne sais pas pourquoi vous faîtes ça. Mais si vous blessez mes amis, alors je vous promets que vous allez souffrir.\"",
 		"name": "Félina",
 		"subname": "Rahne Sinclair",
 		"text": "[star] Les attaques de Félina gagnent Perçant.",
+		"flavor": "\"Je ne sais pas pourquoi vous faîtes ça. Mais si vous blessez mes amis, alors je vous promets que vous allez souffrir.\"",
 		"traits": "Captif. X-Men."
 	},
 	{
@@ -324,9 +324,9 @@
 	},
 	{
 		"code": "32099",
-		"flavor": "\"Si nous n'allons pas chercher nos amis, ils seront capturés, c'est certain !\" — Iceberg",
 		"name": "Prévenir les Autres",
-		"text": "<b>Réponse forcée</b> : après la fin de votre tour, placez cette carte, face cachée sous Opération Tolérance Zéro\n<b>Action d'alter ego</b> : inclinez votre identité → défaussez cette carte."
+		"text": "<b>Réponse forcée</b> : après la fin de votre tour, placez cette carte, face cachée sous Opération Tolérance Zéro\n<b>Action d'alter ego</b> : inclinez votre identité → défaussez cette carte.",
+		"flavor": "\"Si nous n'allons pas chercher nos amis, ils seront capturés, c'est certain !\" — Iceberg"
 	},
 	{
 		"code": "32100",
@@ -375,9 +375,9 @@
 	},
 	{
 		"code": "32108",
-		"flavor": "Les Sentinelles ont été construites dans un seul but : traquer les mutants. Elles sont infatigables. Elles ne s'arrêtent pas tant qu'elles n'ont pas capturé leur cible.",
 		"name": "Robots Infatigables",
-		"text": "Aucun joueur engagé avec un sbire [[SENTINELLE]] ne peut pas contrer cette menace."
+		"text": "Aucun joueur engagé avec un sbire [[SENTINELLE]] ne peut pas contrer cette menace.",
+		"flavor": "Les Sentinelles ont été construites dans un seul but : traquer les mutants. Elles sont infatigables. Elles ne s'arrêtent pas tant qu'elles n'ont pas capturé leur cible."
 	},
 	{
 		"code": "32109",
@@ -414,15 +414,15 @@
 	},
 	{
 		"code": "32113b",
-		"flavor": "La programmation du Moule Initial s'est retournée contre ses créateurs ! La Sentinelle géante est arrivée à la conclusion que les mutants descendent des humains et programme ses rejetons afin qu'ils détruisent toute personne sur Terre !",
 		"name": "Les Desseins du Moule Initial",
-		"text": "Chaque sbire [[SENTINELLE]] gagne Garde.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+		"text": "Chaque sbire [[SENTINELLE]] gagne Garde.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>",
+		"flavor": "La programmation du Moule Initial s'est retournée contre ses créateurs ! La Sentinelle géante est arrivée à la conclusion que les mutants descendent des humains et programme ses rejetons afin qu'ils détruisent toute personne sur Terre !"
 	},
 	{
 		"code": "32114",
-		"flavor": "\"Ils ont amélioré leurs armures !\" — Cyclope",
 		"name": "Sentinel Mark VIII",
 		"text": "<b>Réponse forcée</b> : après que ce sbire vous a engagé, attachez-lui l'attachement [[SENTINELLE]] le plus proche du dessus de la pile de défausse.",
+		"flavor": "\"Ils ont amélioré leurs armures !\" — Cyclope",
 		"traits": "Sentinelle."
 	},
 	{
@@ -454,36 +454,36 @@
 	},
 	{
 		"code": "32120",
-		"flavor": "Si vous pouviez introduire un virus informatique dans le noyau du Moule Initial, vous pourriez l'affaiblir de l'intérieur.",
 		"name": "Inoculer un Virus Informatique",
-		"text": "Entrave 2[per_hero]. Victoire 1.\n<b>Une fois déjouée</b> : infligez 2 dégâts à chaque ennemi [[SENTINELLE]]."
+		"text": "Entrave 2[per_hero]. Victoire 1.\n<b>Une fois déjouée</b> : infligez 2 dégâts à chaque ennemi [[SENTINELLE]].",
+		"flavor": "Si vous pouviez introduire un virus informatique dans le noyau du Moule Initial, vous pourriez l'affaiblir de l'intérieur."
 	},
 	{
 		"code": "32121a",
-		"flavor": "\"Sortez et venez vous battre, ou je fais s'effronder tout le bâtiment !\"",
 		"name": "Avalanche",
 		"text": "Ténacité. Victoire 2.\n[star] <b>Réponse de héros</b> : après qu'Avalanche vous a attaqué, inclinez un allié que vous contrôlez.",
+		"flavor": "\"Sortez et venez vous battre, ou je fais s'effronder tout le bâtiment !\"",
 		"traits": "Confrérie des Mutants."
 	},
 	{
 		"code": "32121b",
-		"flavor": "\"Sortez et venez vous battre, ou je fais s'effronder tout le bâtiment !\"",
 		"name": "Avalanche",
 		"text": "Ténacité. Victoire 2.\n[star] <b>Réponse de héros</b> : après qu'Avalanche vous a attaqué, inclinez un allié que vous contrôlez.",
+		"flavor": "\"Sortez et venez vous battre, ou je fais s'effronder tout le bâtiment !\"",
 		"traits": "Confrérie des Mutants."
 	},
 	{
 		"code": "32122a",
-		"flavor": "\"D'abord, je te casse la figure ! Ensuite, je vide ton frigo !\"",
 		"name": "Le Colosse",
 		"text": "Ténacité. Victoire 2.\n[star] <b>Réponse de héros</b> : après que Le Colosse a attaqué et blessé un personnage, sonnez ce personnage.",
+		"flavor": "\"D'abord, je te casse la figure ! Ensuite, je vide ton frigo !\"",
 		"traits": "Confrérie des Mutants."
 	},
 	{
 		"code": "32122b",
-		"flavor": "\"D'abord, je te casse la figure ! Ensuite, je vide ton frigo !\"",
 		"name": "Le Colosse",
 		"text": "Ténacité. Victoire 2.\n[star] <b>Réponse de héros</b> : après que Le Colosse a attaqué et blessé un personnage, sonnez ce personnage.",
+		"flavor": "\"D'abord, je te casse la figure ! Ensuite, je vide ton frigo !\"",
 		"traits": "Confrérie des Mutants."
 	},
 	{
@@ -500,16 +500,16 @@
 	},
 	{
 		"code": "32124a",
-		"flavor": "\"Ah, les X-Men... vous pensez que vous êtes bien meilleurs que moi ? Je vais vous prouver le contraire !\"",
 		"name": "Le Crapaud",
 		"text": "Ténacité. Victoire 2.\n[star] <b>Réponse de héros</b> : après que Le Crapaud a attaqué et blessé un personnage que vous contrôlez, défausser 1 carte au hasard dans votre main.",
+		"flavor": "\"Ah, les X-Men... vous pensez que vous êtes bien meilleurs que moi ? Je vais vous prouver le contraire !\"",
 		"traits": "Confrérie des Mutants."
 	},
 	{
 		"code": "32124b",
-		"flavor": "\"Ah, les X-Men... vous pensez que vous êtes bien meilleurs que moi ? Je vais vous prouver le contraire !\"",
 		"name": "Le Crapaud",
 		"text": "Ténacité. Victoire 2.\n[star] <b>Réponse de héros</b> : après que Le Crapaud a attaqué et blessé un personnage que vous contrôlez, défausser 1 carte au hasard dans votre main.",
+		"flavor": "\"Ah, les X-Men... vous pensez que vous êtes bien meilleurs que moi ? Je vais vous prouver le contraire !\"",
 		"traits": "Confrérie des Mutants."
 	},
 	{
@@ -519,15 +519,15 @@
 	},
 	{
 		"code": "32125b",
-		"flavor": "L'institut Xavier est attaqué par la Confrérie des Mutants !",
 		"name": "La Confrérie Attaque !",
-		"text": "<b>Une fois révélée</b> : attribuez 1 carte de rencontre face cachée à chaque joueur. Avancez à la carte suivante du deck Manigance Principale. Ajoutez La Confrérie Attaque ! à la pile de victoire."
+		"text": "<b>Une fois révélée</b> : attribuez 1 carte de rencontre face cachée à chaque joueur. Avancez à la carte suivante du deck Manigance Principale. Ajoutez La Confrérie Attaque ! à la pile de victoire.",
+		"flavor": "L'institut Xavier est attaqué par la Confrérie des Mutants !"
 	},
 	{
 		"code": "32126a",
-		"flavor": "La Confrérie se regroupe et concentre ses attaques sur ...",
 		"name": "Le Manoir est Envahi",
-		"text": "<b>Une fois révélée</b> : retournez cette carte."
+		"text": "<b>Une fois révélée</b> : retournez cette carte.",
+		"flavor": "La Confrérie se regroupe et concentre ses attaques sur ..."
 	},
 	{
 		"code": "32126b",
@@ -536,9 +536,9 @@
 	},
 	{
 		"code": "32127a",
-		"flavor": "La Confrérie se regroupe et concentre ses attaques sur ...",
 		"name": "Le Manoir est Envahi",
-		"text": "<b>Une fois révélée</b> : retournez cette carte."
+		"text": "<b>Une fois révélée</b> : retournez cette carte.",
+		"flavor": "La Confrérie se regroupe et concentre ses attaques sur ..."
 	},
 	{
 		"code": "32127b",
@@ -547,9 +547,9 @@
 	},
 	{
 		"code": "32128a",
-		"flavor": "La Confrérie se regroupe et concentre ses attaques sur ...",
 		"name": "Le Manoir est Envahi",
-		"text": "<b>Une fois révélée</b> : retournez cette carte."
+		"text": "<b>Une fois révélée</b> : retournez cette carte.",
+		"flavor": "La Confrérie se regroupe et concentre ses attaques sur ..."
 	},
 	{
 		"code": "32128b",
@@ -558,9 +558,9 @@
 	},
 	{
 		"code": "32129a",
-		"flavor": "La Confrérie se regroupe et concentre ses attaques sur ...",
 		"name": "Le Manoir est Envahi",
-		"text": "<b>Une fois révélée</b> : retournez cette carte."
+		"text": "<b>Une fois révélée</b> : retournez cette carte.",
+		"flavor": "La Confrérie se regroupe et concentre ses attaques sur ..."
 	},
 	{
 		"code": "32129b",
@@ -609,9 +609,9 @@
 	},
 	{
 		"code": "32138",
-		"flavor": "\"Vous opposer au Maître du Magnétisme ne peut mener qu'à votre propre destruction !\"",
 		"name": "Magnéto",
 		"text": "Solide. Ténacité.\n[star] <b>Réponse forcée</b> : après que Magnéto vous a attaqué, placé 1 jeton Aimant sur la manigance principale.",
+		"flavor": "\"Vous opposer au Maître du Magnétisme ne peut mener qu'à votre propre destruction !\"",
 		"traits": "Confrérie des Mutants."
 	},
 	{
@@ -628,9 +628,9 @@
 	},
 	{
 		"code": "32141a",
-		"flavor": "Magnéto réside en orbite autour de la Terre dans son sanctuaire spatial.",
 		"name": "Astéroïde M",
-		"text": "<b>Contenu</b> : Magnéto (I) et Magnéto (II). <i>(Magnéto (II) et Magnéto (III) à la place en mode expert)</i>. Les sets de rencontre Magnéto et Standard. Un set de rencontre <i>(Acolytes)</i>.\n<b>Mise en place</b> : mettez de côté la manigance annexe Dérive Orbitale. Révélez la manigance annexe À l'Abordage !"
+		"text": "<b>Contenu</b> : Magnéto (I) et Magnéto (II). <i>(Magnéto (II) et Magnéto (III) à la place en mode expert)</i>. Les sets de rencontre Magnéto et Standard. Un set de rencontre <i>(Acolytes)</i>.\n<b>Mise en place</b> : mettez de côté la manigance annexe Dérive Orbitale. Révélez la manigance annexe À l'Abordage !",
+		"flavor": "Magnéto réside en orbite autour de la Terre dans son sanctuaire spatial."
 	},
 	{
 		"code": "32141b",
@@ -659,27 +659,27 @@
 	},
 	{
 		"code": "32144a",
-		"flavor": "Pour mettre un terme aux sombres machinations de Magnéto, vous devez d'abord vous poser sur l'Astéroïde M.",
 		"name": "À l'Abordage !",
-		"text": "La valeur de \"dégâts subits\" de Magnéto ne peut pas être supérieure à 6[per_hero].\n<b>Une fois déjouée</b> : retournez cette carte et révélez Saboter Le Moule Initial."
+		"text": "La valeur de \"dégâts subits\" de Magnéto ne peut pas être supérieure à 6[per_hero].\n<b>Une fois déjouée</b> : retournez cette carte et révélez Saboter Le Moule Initial.",
+		"flavor": "Pour mettre un terme aux sombres machinations de Magnéto, vous devez d'abord vous poser sur l'Astéroïde M."
 	},
 	{
 		"code": "32144b",
-		"flavor": "Le Moule Initial a été reprogrammé. Vous devez le désactiver avant qu'il ne crée des Sentinelles spécialisées dans la chasse aux humains !",
 		"name": "Saboter Le Moule Initial",
-		"text": "La valeur de \"dégâts subits\" de Magnéto ne peut pas être supérieure à 12[per_hero].\n<b>Une fois déjouée</b> : Révélez la manigance annexe mise de côté Dérive Orbitale. Ajoutez Saboter Le Moule Initial à la pile de victoire."
+		"text": "La valeur de \"dégâts subits\" de Magnéto ne peut pas être supérieure à 12[per_hero].\n<b>Une fois déjouée</b> : Révélez la manigance annexe mise de côté Dérive Orbitale. Ajoutez Saboter Le Moule Initial à la pile de victoire.",
+		"flavor": "Le Moule Initial a été reprogrammé. Vous devez le désactiver avant qu'il ne crée des Sentinelles spécialisées dans la chasse aux humains !"
 	},
 	{
 		"code": "32145a",
-		"flavor": "Magnéto est un ennemi invincible. Le seul moyen de le vaincre est de détruire sa base orbitale en la faisant s'écraser sur la Terre.",
 		"name": "Dérive Orbitale",
-		"text": "La valeur de \"dégâts subits\" de Magnéto ne peut pas être supérieure à 18[per_hero].\n<b>Une fois déjouée</b> : retournez cette carte et révélez Contrainte Physique."
+		"text": "La valeur de \"dégâts subits\" de Magnéto ne peut pas être supérieure à 18[per_hero].\n<b>Une fois déjouée</b> : retournez cette carte et révélez Contrainte Physique.",
+		"flavor": "Magnéto est un ennemi invincible. Le seul moyen de le vaincre est de détruire sa base orbitale en la faisant s'écraser sur la Terre."
 	},
 	{
 		"code": "32145b",
-		"flavor": "Alors que l'Astéroïde M amorce sa chute incontrôlée, Magnéto se sert de son pouvoir pour l'empêcher de se désagréger tout en se battant avec vous !",
 		"name": "Contrainte Physique",
 		"text": "Attachez cette carte à Magnéto.\nPermanent.\nMagnéto perd Solide.",
+		"flavor": "Alors que l'Astéroïde M amorce sa chute incontrôlée, Magnéto se sert de son pouvoir pour l'empêcher de se désagréger tout en se battant avec vous !",
 		"traits": "Condition."
 	},
 	{
@@ -690,16 +690,16 @@
 	},
 	{
 		"code": "32147",
-		"flavor": "Magnéto a conçu ce casque pour qu'il le protège des pouvoirs télépathiques de Charles Xavier.",
 		"name": "Casque de Magnéto",
 		"text": "Attachez cette carte à Magnéto.\nMagnéto ne peut pas être désorienté.\n<b>Réponse de héros</b> : après que votre héros a effectué une attaque de base contre Magnéto, dépensez les ressources suivantes : [energy][mental][physical] → défaussez cette carte.",
+		"flavor": "Magnéto a conçu ce casque pour qu'il le protège des pouvoirs télépathiques de Charles Xavier.",
 		"traits": "Armure. Magnétique."
 	},
 	{
 		"code": "32148",
-		"flavor": "L'armure de Magnéto est suffisamment résistante pour survivre au rayon d'un gantelet énergétique des Sentinelles.",
 		"name": "Armure de Magnéto",
 		"text": "Attachez cette carte à Magnéto.\nMagnéto ne peut pas être sonné.\n<b>Réponse de héros</b> : après que votre héros a effectué une attaque de base contre Magnéto, dépensez les ressources suivantes : [energy][mental][physical] → défaussez cette carte.",
+		"flavor": "L'armure de Magnéto est suffisamment résistante pour survivre au rayon d'un gantelet énergétique des Sentinelles.",
 		"traits": "Armure. Magnétique."
 	},
 	{
@@ -710,16 +710,16 @@
 	},
 	{
 		"code": "32150",
-		"flavor": "\"Aïe, ça craint.\" — Archangel",
 		"name": "Enveloppé de Métal",
 		"text": "Attachez cette carte à votre identité. 1 max par identité.\nML'identité attaché ne peut ni contrer, ni attaquer, ni défendre, ni récupérer.\n<b>Action</b> : inclinez votre identité et dépensez 1 ressource [physical] → défaussez cette carte.",
+		"flavor": "\"Aïe, ça craint.\" — Archangel",
 		"traits": "Magnétique."
 	},
 	{
 		"code": "32151",
-		"flavor": "\"Ni vos pouvoirs ni aucun de vos talents ne pourront vous sauver de ma colère !\" — Magnéto",
 		"name": "Maître du Magnétisme",
-		"text": "<b>Une fois révélée</b> : prenez la carte [[MAGNÉTIQUE]] la plus proche du dessus de la pile de défausse Rencontre et donnez-la à Magnéto en tant que carte de boost face cachée. Magnéto s'active contre vous."
+		"text": "<b>Une fois révélée</b> : prenez la carte [[MAGNÉTIQUE]] la plus proche du dessus de la pile de défausse Rencontre et donnez-la à Magnéto en tant que carte de boost face cachée. Magnéto s'active contre vous.",
+		"flavor": "\"Ni vos pouvoirs ni aucun de vos talents ne pourront vous sauver de ma colère !\" — Magnéto"
 	},
 	{
 		"code": "32152",
@@ -741,9 +741,9 @@
 	},
 	{
 		"code": "32155",
-		"flavor": "\"J'aurais dû le voir venir !\" — Cyclope",
 		"name": "Projectile Magnétique",
 		"text": "Renfort.\n<b>Une fois révélée</b> : vainquez un sbire [[SENTINELLE]] en jeu. Ensuite, subissez 5 dégâts. Vous pouvez défausse X cartes de votre main pour prévenir X de ces dégâts.",
+		"flavor": "\"J'aurais dû le voir venir !\" — Cyclope",
 		"traits": "Magnétique."
 	},
 	{
@@ -806,16 +806,16 @@
 	},
 	{
 		"code": "32166",
-		"flavor": "\"Je suis de retour.\"",
 		"name": "Nemrod",
 		"text": "Robuste. Victoire 1.\nNemrod ne peut pas subir plus de 3 dégâts à chaque phase.",
+		"flavor": "\"Je suis de retour.\"",
 		"traits": "Élite. Sentinelle."
 	},
 	{
 		"code": "32167",
-		"flavor": "\"Pour assurer l'avenir de l'humanité, je dois détruire la race des mutants.\"",
 		"name": "Bastion",
 		"text": "Ténacité. Vilénie. Victoire 1.\n<hr />\n[star] <b>Boost</b>: attribuez-vous cette carte en tant que carte Rencontre face cachée.",
+		"flavor": "\"Pour assurer l'avenir de l'humanité, je dois détruire la race des mutants.\"",
 		"traits": "Élite. Sentinelle."
 	},
 	{
@@ -825,9 +825,9 @@
 	},
 	{
 		"code": "32169",
-		"flavor": "Bastion manipule les événements présents pour faire advenir le futur d'où il vient.",
 		"name": "Les Machinations de Bastion",
-		"text": "Victoire 1.\n<b>Une fois révélée</b> : chaque joueur place les 9 cartes du dessus de son deck, face cachée, sous cette manigance."
+		"text": "Victoire 1.\n<b>Une fois révélée</b> : chaque joueur place les 9 cartes du dessus de son deck, face cachée, sous cette manigance.",
+		"flavor": "Bastion manipule les événements présents pour faire advenir le futur d'où il vient."
 	},
 	{
 		"code": "32170",

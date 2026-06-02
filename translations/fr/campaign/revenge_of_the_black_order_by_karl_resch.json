@@ -1,0 +1,63 @@
+{
+	"code": "revenge_of_the_black_order_by_karl_resch",
+	"name": "Revenge of the Black Order",
+	"creator": "Karl Resch",
+	"type": "custom",
+	"position": 112,
+	"description": "The Revenge of the Black Order campaign is made up of three scenarios, all dependent on how the heroes are spending their downtime during a surprise invasion. As the assault intensifies, each group has to tackle different challenges in order to turn the tide of battle and save the day.<br><br><b>Choose your Path:</b><br><ul><li><b>First Response:</b> Identities must possess either the Attorney, Civilian, Genius, Mystic, or Scientist trait.</li><li><b>Spec Ops:</b> Identities must possess either the Android, King, Mercenary, S.H.I.E.L.D., Soldier, Spy, or Wakanda trait.</li><li><b>Direct Assault:</b> Identities must possess either the Asgard, Inhuman, Mutant, or Outlaw trait.</li></ul>",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [
+			"Story Path",
+			"Gear Up",
+			"Obligations",
+			"Narrative Campaign Restrictions"
+		],
+		"counters": [],
+		"checkboxes": [
+			"Black Dwarf",
+			"Supergiant",
+			"Black Swan",
+			"Proxima Midnight",
+			"Corvus Glaive",
+			"Shawarma",
+			"Tower Damaged",
+			"Safehouse Secured",
+			"Security Breach",
+			"Scenario #2 - Longshot Ally",
+			"Scenario #3 - Longshot Ally"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1A - Krazy Klyntar (First Response)"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #1B - Defend It and Hope (Spec Ops)"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #1C - Who Will Fight Me? (Direct Assault)"
+			}
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #2 - Badoon Bombardment"
+			}
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #3 - Mysteries and Magic"
+			}
+		}
+	]
+}

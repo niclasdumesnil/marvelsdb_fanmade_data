@@ -1,0 +1,78 @@
+{
+	"code": "the_rise_of_red_skull_by_fantasy_flight_games",
+	"name": "L'Avènement de Crâne Rouge",
+	"creator": "Fantasy Flight Games",
+	"type": "official",
+	"position": 2,
+	"description": "Bienvenue dans L'Ascension du Crâne Rouge ! Cette extension de campagne contient cinq nouveaux scénarios qui racontent l'histoire de la montée en puissance d'Hydra, ainsi que deux nouveaux héros qui se battent pour restaurer la liberté des opprimés. Les joueurs doivent vaincre cinq méchants dans l'ordre : Crossbones, l'Homme-Absorbant, Taskmaster, Zola et Crâne Rouge.",
+	"epilogue": "Cap, j'ai trouvé la Pierre ! Je pense pouvoir l'utiliser pour annuler la réalité d'Hydra. Fais-le, Tony ! ... C'est bon d'être à la maison ! En vérité, une autre glorieuse victoire à célébrer. Qu'est-ce qui te tracasse, Tony ? Hydra a failli conquérir le monde avec cette pierre. Et s'il y avait d'autres pierres là-bas ?",
+	"metadata": {
+		"trackers": [
+			"Amélioration Tech",
+			"Amélioration d'Aptitude",
+			"Alliés Secourus",
+			"Armes Expérimentales en jeu",
+			"Jetons Accélération (Délai) restants",
+			"Joueurs engagés avec des sbires",
+			"Alliés retirés de la campagne"
+		],
+		"counters": [],
+		"checkboxes": [
+			"Mode Expert",
+			"Hydra s'est échappée (Scénario 1)",
+			"Pierre de la Réalité Sécurisée"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Crossbones",
+				"description": "Crossbones attaque les installations du Projet P.E.G.A.S.U.S. dans les montagnes des Adirondacks avec une petite armée de troupes d'Hydra. Les soldats du S.H.I.E.L.D. stationnés sur place se battent désespérément pour protéger le complexe, mais ils sont submergés par l'assaut blitzkrieg d'Hydra. Ils ont besoin de votre aide pour empêcher Crossbones de s'emparer des armes expérimentales développées dans les laboratoires de P.E.G.A.S.U.S.",
+				"introduction": "Chaque joueur inscrit son identité dans le journal de campagne figurant sur la couverture arrière de ce livret de règles. Les joueurs ne peuvent pas changer d'identité au cours d'une campagne.\n<b>Mode Expert uniquement :</b> retirez Crossbones (I) et ajoutez Crossbones (III). Mettez en place le scénario en utilisant les cartes de méchant expert et le set de rencontre expert.",
+				"resolution": "<b>Victoire :</b> chaque joueur choisit l'une des améliorations TECH du set de campagne Hydra et l'ajoute à son deck. Notez le nom de chaque attachement EXPÉRIMENTAL entré en jeu dans le journal de campagne.\n<b>Mode Expert uniquement :</b> notez les points de vie restants de chaque identité dans le journal de campagne, ainsi que toutes les cartes ajoutées à leur deck."
+			},
+			"scenario_uuid": "997a52942e5b"
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - L'Homme-Absorbant",
+				"description": "Le cours de la bataille s'est retourné contre Hydra après votre arrivée pour prêter main-forte aux soldats assiégés du S.H.I.E.L.D. au Projet P.E.G.A.S.U.S. Crossbones a été capturé et son armée a été défaite, mais Madame Hydra s'est échappée du complexe avec une Gemme de l'Infini. Vous la poursuivez dehors, mais vous êtes arrêté net par la silhouette imposante de l'Homme-Absorbant. Ce redoutable méchant a été engagé par Crâne Rouge pour retarder votre poursuite. Vous devrez le vaincre avant de pouvoir récupérer la Gemme de l'Infini.",
+				"introduction": "Chaque joueur cherche dans son deck toutes les cartes avec le mot-clé mise en place (setup) et les met en jeu. Mélangez chaque attachement Expérimental noté dans le journal de campagne dans le deck de rencontre.\n<b>Mode Expert uniquement :</b> fixez les points de vie de chaque joueur à la valeur de points de vie restants notée dans le journal de campagne pour le scénario précédent. Chaque joueur peut ajouter 1 obligation aléatoire de son set de campagne expert à son deck pour soigner son identité à sa valeur maximale de points de vie.",
+				"resolution": "<b>Victoire :</b> notez le nombre de jetons délai sur la manigance principale dans le journal de campagne. Chaque joueur peut choisir l'une des améliorations d'état \"Basiques\" du set de Campagne, l'attacher à son identité et l'ajouter à son deck dans le journal de campagne.\n<b>Mode Expert uniquement :</b> notez les points de vie restants de chaque identité dans le journal de campagne, ainsi que toutes les cartes ajoutées à leur deck."
+			},
+			"scenario_uuid": "4104df464d1c"
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Taskmaster",
+				"description": "Alors que l'Homme-Absorbant est sous la garde du S.H.I.E.L.D. et que Madame Hydra a disparu, vous volez en direction de la Tour des Avengers pour planifier votre prochain coup lorsque toute la réalité est altérée dans un flash de lumière jaune. En arrivant à New York, vous êtes sous le choc de découvrir la Tour des Avengers arborant la bannière d'Hydra. Mais avant même de réaliser ce qui se passe, une explosion secoue votre Quinjet et vous vous écrasez en ville. Au sol, vous constatez que tout New York est sous le joug d'Hydra. De la propagande anti-héros est placardée à chaque coin de rue, et des escouades de soldats d'Hydra patrouillent. Ils sont menés par le célèbre Taskmaster, le nouveau chef de la police d'Hydra. Il va de porte en porte pour traquer les héros et les enfermer. C'est lui qui a tiré le missile sol-air qui vous a abattu, et il est maintenant à votre recherche.",
+				"introduction": "Chaque joueur cherche dans son deck toutes les cartes avec le mot-clé mise en place (setup) et les met en jeu. Mélangez chaque attachement Expérimental noté dans le journal de campagne dans le deck de rencontre.\n<b>Mode Expert uniquement :</b> fixez les points de vie de chaque joueur à la valeur de points de vie restants notée dans le journal de campagne pour le scénario précédent. Chaque joueur peut ajouter 1 obligation aléatoire de son set de campagne expert à son deck pour soigner son identité à sa valeur maximale de points de vie.",
+				"resolution": "<b>Victoire :</b> chaque joueur ayant secouru un ou plusieurs alliés du set de rencontre Taskmaster ajoute ces alliés à son deck et note leurs noms dans le journal de campagne.\n<b>Mode Expert uniquement :</b> notez les points de vie restants de chaque identité dans le journal de campagne, ainsi que toutes les cartes ajoutées à leur deck."
+			},
+			"scenario_uuid": "4fdc725bb13e"
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - Arnim Zola",
+				"description": "Après avoir vaincu Taskmaster, vous prenez conscience qu'Hydra a non seulement capturé New York mais aussi l'ensemble des États-Unis. C'est le savant fou Arnim Zola qui a construit une machine pour canaliser le pouvoir de la Gemme de la Réalité et faire pencher la balance du pouvoir en faveur d'Hydra. Il a établi une station de recherche sur Ellis Island et transformé ce port historique en une prison cauchemardesque pour ses malheureux sujets d'expérience. Taskmaster avait reçu l'ordre d'y amener les héros capturés pour ses expériences. Dans cette Amérique sens dessus dessous, vous êtes le seul espoir pour les captifs d'échapper à un destin horrible.",
+				"introduction": "Chaque joueur cherche dans son deck toutes les cartes avec le mot-clé mise en place (setup) et les met en jeu. Mélangez chaque attachement Expérimental noté dans le journal de campagne dans le deck de rencontre.\n<b>Mode Expert uniquement :</b> fixez les points de vie de chaque joueur à la valeur de points de vie restants notée dans le journal de campagne pour le scénario précédent. Chaque joueur peut ajouter 1 obligation aléatoire de son set de campagne expert à son deck pour soigner son identité à sa valeur maximale de points de vie.",
+				"resolution": "<b>Victoire :</b> chaque joueur engagé avec un ennemi note qu'il est engagé avec un ennemi dans le journal de campagne. Si la manigance annexe Prison d'Hydra est toujours en jeu, notez le nom de chaque allié sous celle-ci dans le journal de campagne. Si la manigance annexe Prison d'Hydra n'est pas en jeu, chaque joueur sous forme de héros peut remplacer son amélioration d'état \"Basique\" par sa face \"Améliorée\".\n<b>Mode Expert uniquement :</b> notez les points de vie restants de chaque identité dans le journal de campagne, ainsi que toutes les cartes ajoutées à leur deck."
+			},
+			"scenario_uuid": "0ca1d2266ac6"
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - Crâne Rouge",
+				"description": "Vous avez libéré l'île de Zola et désarmé le docteur fou, mais la Gemme de la Réalité vous échappe encore. Zola vous révèle qu'elle se trouve entre les mains du véritable cerveau derrière l'ascension d'Hydra : le brillant et infâme Crâne Rouge. Le méchant s'est installé à Washington, D.C. et a transformé la Maison Blanche en sa forteresse personnelle. Mais l'ambition de conquête de Crâne Rouge ne s'arrête pas aux États-Unis — il prévoit d'asservir chaque nation sous le règne d'Hydra grâce au pouvoir de la Gemme de la Réalité. Ses scientifiques travaillent 24 heures sur 24 pour apporter les modifications nécessaires à la machine de Zola. Une fois terminée, Crâne Rouge utilisera la Gemme de la Réalité pour conquérir le monde entier. Si cela se produit, personne ne sera à l'abri des types d'atrocités dont vous avez été témoin dans les laboratoires de Zola. Vous ne pouvez pas permettre cela. Vous devez vaincre Crâne Rouge et utiliser la Gemme de la Réalité pour rétablir les choses.",
+				"introduction": "Chaque joueur cherche dans son deck toutes les cartes avec le mot-clé mise en place (setup) et les met en jeu. Mélangez chaque attachement Expérimental noté dans le journal de campagne dans le deck de rencontre. Placez X jetons menace sur la manigance principale, où X est le nombre de jetons délai noté dans le journal de campagne.\n<b>Mode Expert uniquement :</b> (placez X*2 jetons menace à la place). Fixez les points de vie de chaque joueur à la valeur de points de vie restants notée dans le journal de campagne pour le scénario précédent. Chaque joueur peut ajouter 1 obligation aléatoire de son set de campagne expert à son deck. Chaque joueur qui a été noté comme étant engagé avec un ennemi se distribue une carte de rencontre. Si les joueurs perdent cette partie, les joueurs perdent la campagne.",
+				"resolution": "<b>Victoire :</b> Hydra est vaincue et les joueurs remportent la campagne !"
+			},
+			"scenario_uuid": "9170a0c808c5"
+		}
+	]
+}

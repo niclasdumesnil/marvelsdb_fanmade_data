@@ -1,0 +1,59 @@
+{
+	"code": "age_of_apocalypse_by_fantasy_flight_games",
+	"name": "L'Ère d'Apocalypse",
+	"creator": "Fantasy Flight Games",
+	"type": "official",
+	"position": 8,
+	"description": "<i>Bienvenue dans l'extension de campagne L'Ère d'Apocalypse ! En voyageant dans le passé pour empêcher une catastrophe temporelle, X-Force se retrouve piégée dans une ligne temporelle alternative dystopique sous le joug de l'antique tyran mutant, Apocalypse. Aux côtés des X-Men de Magnéto, ils doivent livrer une guerre désespérée à travers l'Amérique du Nord pour renverser son règne despotique et secourir un Professeur X gravement blessé avant que la ligne temporelle ne soit fracturée à jamais !</i>",
+	"epilogue": "<b>Victoire !</b>\n<i>Avec la pyramide d'En Sabah Nur en ruines et sa technologie Céleste sabotée, le règne d'Apocalypse s'effondre pour n'être plus que de l'histoire ancienne. Le Professeur X est guéri du virus techno-organique et la ligne temporelle commence à se stabiliser. Les héros des X-Men et d'X-Force se dressent en protecteurs d'un avenir restauré, ayant sauvé le futur en triomphant du passé.</i>",
+	"metadata": {
+		"trackers": [
+			"Améliorations & Notes (HQ Upgrades & Notes)"
+		],
+		"counters": [],
+		"checkboxes": []
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Unus",
+				"description": "<i>X-Force s'est rendue dans le futur pour sauver Hope Summers des griffes de Stryfe, mais un incident est survenu durant leur déplacement temporel. À présent, ils se retrouvent piégés dans une ligne temporelle alternative sous le joug du génocidaire Apocalypse, et subissent l'assaut de l'un de ses prélats : Unus !</i>",
+				"resolution": ""
+			},
+			"scenario_uuid": "1dd1cfa769ed"
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Four Horsemen",
+				"description": "<i>X-Force est secourue des rangs interminables des Infinis grâce à l'arrivée opportune de Magik et Bishop. Magik utilise ses pouvoirs pour les téléporter hors de danger jusque dans le quartier général secret des X-Men. Magnéto leur explique la longue guerre d'usure qu'ils mènent, mais avant qu'il ne puisse détailler son plan, les murs explosent violemment : Apocalypse a ordonné à ses Quatre Cavaliers d'anéantir les X-Men une bonne fois pour toutes !</i>"
+			},
+			"scenario_uuid": "e3a48deb78e5"
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Apocalypse",
+				"description": "<i>Ayant vaincu les Quatre Cavaliers, Magnéto mène ses X-Men et X-Force dans un assaut direct contre le tyran lui-même. Mais avant de pouvoir renverser l'antique despote, ils doivent se frayer un chemin à travers le cœur de son empire dans l'ancienne New York et forcer les portes de sa gigantesque citadelle.</i>"
+			},
+			"scenario_uuid": "909c56acb828"
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - Dark Beast",
+				"description": "<i>Apocalypse a été vaincu et son règne a pris fin, mais son vaste empire est plongé dans le chaos. Au cœur de ce tumulte, les héros cherchent un moyen de réparer les dégâts. Lorsqu'ils atteignent un portail temporel installé sous la citadelle, le Fauve révèle avec moquerie qu'il n'est pas leur Hank McCoy, mais le Fauve Noir ! X-Force le plaque à travers le portail, les projetant tous à la dérive à travers l'espace et le temps.</i>"
+			},
+			"scenario_uuid": "b9987d77e339"
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - En Sabah Nur",
+				"description": "<i>Après avoir vaincu le Fauve Noir, X-Force recalibre sa machine temporelle pour retourner dans le passé, mais arrive juste à temps pour voir le Professeur X se faire abattre. Infecté par un virus techno-organique, Xavier est mourant. Cable sait que seul Apocalypse possède l'antidote, il mène donc un assaut direct sur la pyramide d'En Sabah Nur.</i>"
+			},
+			"scenario_uuid": "f06b8b680563"
+		}
+	]
+}

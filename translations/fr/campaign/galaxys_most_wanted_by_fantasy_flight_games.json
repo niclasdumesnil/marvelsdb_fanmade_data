@@ -1,0 +1,64 @@
+{
+	"code": "galaxys_most_wanted_by_fantasy_flight_games",
+	"name": "Convoitise Galactique",
+	"creator": "Fantasy Flight Games",
+	"type": "official",
+	"position": 3,
+	"description": "Embarquez dans une aventure spatiale palpitante face à des adversaires redoutables , incluant Drang, le Collectionneur, Nebula et Ronan l'Accusateur !",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [
+			"Cartes du Marché dans le deck du joueur",
+			"Cartes dans la Collection (Scénario #2)",
+			"Manigances annexes d'artéfacts galactiques dans la pile de victoire",
+			"Contrôle de la Pierre du Pouvoir (Scénario #4)"
+		],
+		"counters": [
+			"Crédits non dépensées",
+			"Compteurs d'Évasion (Scénario #4)"
+		],
+		"checkboxes": [
+			"Headhunter Defeated: Scenario #1",
+			"Headhunter Defeated: Scenario #2",
+			"Headhunter Defeated: Scenario #3",
+			"Headhunter Defeated: Scenario #4"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Brotherhood of Badoon"
+			},
+			"scenario_uuid": "7cc58d4aa902"
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Infiltrate the Museum"
+			},
+			"scenario_uuid": "bb7ac4933e84"
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Escape the Museum"
+			},
+			"scenario_uuid": "3363e78b75d9"
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - Nebula"
+			},
+			"scenario_uuid": "3c86ed008984"
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - Ronan the Accuser"
+			},
+			"scenario_uuid": "3d66b506976f"
+		}
+	]
+}

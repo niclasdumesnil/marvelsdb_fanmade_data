@@ -1,0 +1,59 @@
+{
+	"code": "next_evolution_by_fantasy_flight_games",
+	"name": "NeXt Evolution",
+	"creator": "Fantasy Flight Games",
+	"type": "official",
+	"position": 7,
+	"description": "Rejoignez la X-Force et combattez pour l'avenir de l'humanité mutante dans des scénarios captivants contre les Purificateurs et Stryfe !",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [
+			"Maraudeurs Vaincus (Marauders Defeated)",
+			"Notes de Campagne (Campaign Notes)"
+		],
+		"counters": [
+			"Morlocks Sauvés (Morlocks Saved)",
+			"Dégâts sur Hope Summers (Hope Summers Damage)"
+		],
+		"checkboxes": [
+			"Sécuriser le Refuge (Establish Safehouse) - Recompense: Refuge Sécurisé (Safehouse Established)",
+			"Préparation de Mission (Mission Prep) - Recompense: Mission Préparée (Mission Prepped)",
+			"Rassembler l'Équipe (Assemble the Team) - Recompense: Équipe Rassemblée (Team Assembled)",
+			"S'Équiper (Gear Up) - Recompense: Équipé (Geared Up)",
+			"Répéter les Manœuvres (Practice Maneuvers) - Recompense: Manœuvres Répétées (Practiced Maneuvers)",
+			"Préparer les Défenses (Prepare Defenses) - Recompense: Défenses Préparées (Prepared Defenses)"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Morlock Siege"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - On the Run"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Juggernaut"
+			}
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - Mister Sinister"
+			}
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - Stryfe"
+			}
+		}
+	]
+}

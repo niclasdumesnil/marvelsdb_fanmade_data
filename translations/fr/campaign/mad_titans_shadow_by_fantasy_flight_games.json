@@ -1,0 +1,63 @@
+{
+	"code": "mad_titans_shadow_by_fantasy_flight_games",
+	"name": "l'Ombre du Titan Fou",
+	"creator": "Fantasy Flight Games",
+	"type": "official",
+	"position": 4,
+	"description": "Affrontez Thanos et l'Ordre Noir dans une quête épique pour sécuriser les six Gemmes de l'Infini et sauver l'univers de l'anéantissement !",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [
+			"Notes"
+		],
+		"counters": [],
+		"checkboxes": [
+			"Cosmo ajouté à la réserve de campagne",
+			"Brèche de sécurité ajoutée à la réserve de campagne",
+			"Shawarma ajouté à la réserve de campagne",
+			"Cygne Noir ajouté à la réserve de campagne",
+			"La Tour des Avengers a le trait Endommagé",
+			"Panne du système ajoutée à la réserve de campagne",
+			"Les Pierres d'Infinité 1B ont été complétées",
+			"Pierre des Nornes ajoutée à la réserve de campagne",
+			"Odin ajouté à la réserve de campagne"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Ebony Maw"
+			},
+			"scenario_uuid": "359c5ccfc83e"
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Tower Defense"
+			},
+			"scenario_uuid": "feae7a4ab122"
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Thanos"
+			},
+			"scenario_uuid": "d38dba5b8584"
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - Hela"
+			},
+			"scenario_uuid": "0ba87fd4d675"
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - Loki"
+			},
+			"scenario_uuid": "eae2f0588097"
+		}
+	]
+}

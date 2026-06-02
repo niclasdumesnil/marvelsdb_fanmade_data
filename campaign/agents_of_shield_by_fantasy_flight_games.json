@@ -1,90 +1,90 @@
 {
-  "code": "agents_of_shield_by_fantasy_flight_games",
-  "name": "Agents of S.H.I.E.L.D.",
-  "creator": "Fantasy Flight Games",
-  "type": "official",
-  "position": 9,
-  "description": "Welcome to the Agents of S.H.I.E.L.D. campaign expansion! S.H.I.E.L.D. computer specialist Sarah Garza has gone missing, and a potential mole on the S.H.I.E.L.D. Executive Board threatens to destroy the organization from within. Investigate her disappearance across five distinct scenarios, gather evidence about Means, Motive, and Opportunity, and unmask the traitor before they deliver S.H.I.E.L.D. into the hands of Baron Zemo and Hydra!",
-  "epilogue": "<b>Victory!</b><br>With Baron Zemo unmasked and his Masters of Evil defeated, the mole is exposed and S.H.I.E.L.D. is saved! The Executive Board has been exonerated, your team has been completely vindicated, and the organization is once again ready to keep the planet safe. S.H.I.E.L.D. stands strong!",
-  "image": "agents_of_shield.jpg",
-  "visibility": "true",
-  "metadata": {
-    "layout": "agents_of_shield",
-    "trackers": [
-      "Remaining Secret Counters",
-      "Evidence Combinations",
-      "Scenario Stats"
-    ],
-    "counters": [],
-    "checkboxes": []
-  },
-  "scenarios": [
-    {
-      "position": 1,
-      "scenario_uuid": "ae9f8011d04e",
-      "narrative": {
-        "title": "Scenario #1 - Black Widow",
-        "description": "S.H.I.E.L.D. computer specialist Sarah Garza is missing. A search of her Brooklyn apartment turned up an Inhuman cocoon, indicating her Inhuman genes have become active. Investigate her disappearance and look into a disturbing rumor of a mole sitting on the S.H.I.E.L.D. Executive Board.",
-        "introduction": "<ul><li>Each player records their identity in the campaign log.</li><li>Prepare the S.H.I.E.L.D. Executive Board set: Put the three Board Member environments (181A–183A) into play, with two secret counters on each.</li><li>Shuffle the three copies of the A.I.M. Interference treachery into the encounter deck.</li></ul>",
-        "resolution": "<b>Victory:</b><br><ul><li>Record the total number of minions and side schemes in play in the campaign log.</li><li>Record the number of secret counters on each Board Member card.</li><li>If at least one Board Member environment in play has no secret counters on it, gain one evidence card from the S.H.I.E.L.D. envelope and cross out each combination in the campaign log that includes the icon on the evidence card.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
-        "illustration_codes": [
-          "50064",
-          "50065",
-          "50066"
-        ]
-      }
-    },
-    {
-      "position": 2,
-      "scenario_uuid": "9690b0ccfbb6",
-      "narrative": {
-        "title": "Scenario #2 - Batroc",
-        "description": "Yelena Belova refuses to talk, but A.I.M. accomplices point to a large-scale kidnapping ring all over the U.S. smuggling Inhumans out through the A.I.M. Island embassy in Washington, D.C. Infiltrate the embassy without board approval to locate and extract the captives!",
-        "introduction": "<ul><li>Place threat on the Alert Level environment equal to the number of minions and side schemes recorded for scenario #1.</li><li>Prepare the Board Member set: Put them in play and place secret counters equal to the number recorded in scenario #1.</li><li>Shuffle the three copies of A.I.M. Interference into the encounter deck.</li><li>After resolving mulligans, resolve the Setup ability of each evidence card gained.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining value recorded. Each player may place one secret counter on a Board Member environment to heal damage equal to their REC.</li></ul>",
-        "resolution": "<b>Victory:</b><br><ul><li>Record the number of Rescued Captive allies in play.</li><li>Record the number of secret counters on each Board Member card.</li><li>If at least one Board Member environment in play has no secret counters on it, gain one evidence card from the S.H.I.E.L.D. envelope and cross out each combination in the campaign log that includes the icon on the evidence card.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
-        "illustration_codes": [
-          "50086a"
-        ]
-      }
-    },
-    {
-      "position": 3,
-      "scenario_uuid": "d2b6690c9366",
-      "narrative": {
-        "title": "Scenario #3 - M.O.D.O.K.",
-        "description": "You extracted the captives, but Sarah Garza was not among them. They have been shipped to A.I.M. Island to be used as genetic templates for Adaptoids under the research of M.O.D.O.K. Launch a covert rescue mission to A.I.M. Island!",
-        "introduction": "<ul><li>Place 3 additional lock counters on the top card of the Holding Cell deck, then remove lock counters equal to the number of Rescued Captives recorded in scenario #2.</li><li>Prepare the Board Member set: Place secret counters equal to the number recorded in scenario #2.</li><li>Shuffle three copies of A.I.M. Interference into the encounter deck.</li><li>After resolving mulligans, resolve the Setup ability of each evidence card gained.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
-        "resolution": "<b>Victory:</b><br><ul><li>Mark each Adaptoid environment in play in the campaign log.</li><li>Record the number of secret counters on each Board Member card.</li><li>If at least one Board Member environment has no secret counters, gain an evidence card and cross out its combinations.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
-        "illustration_codes": [
-          "50103a"
-        ]
-      }
-    },
-    {
-      "position": 4,
-      "scenario_uuid": "0ab419eb03e1",
-      "narrative": {
-        "title": "Scenario #4 - Thunderbolts",
-        "description": "You defeated M.O.D.O.K. and rescued the kidnapped Inhumans, but upon returning to D.C., you are met by a group calling themselves the Thunderbolts. Led by Citizen V, they state the Executive Board has charged you with unauthorized covert operations and has granted them authority to arrest you!",
-        "introduction": "<ul><li>Set the A.I.M. and S.H.I.E.L.D. envelopes aside.</li><li>Prepare the Board Member set: Place secret counters equal to the number recorded in scenario #3.</li><li>Shuffle three copies of A.I.M. Interference into the encounter deck.</li><li>After resolving mulligans, resolve the Setup ability of each evidence card gained.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
-        "resolution": "<b>Victory:</b><br><ul><li>If there are any Thunderbolt minions in play, record their names in the campaign log (Surviving Thunderbolts).</li><li>Record the number of secret counters on each Board Member card.</li><li>If at least one Board Member environment has no secret counters, gain an evidence card and cross out its combinations.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
-        "illustration_codes": [
-          "50129a"
-        ]
-      }
-    },
-    {
-      "position": 5,
-      "scenario_uuid": "d168a46baa0c",
-      "narrative": {
-        "title": "Scenario #5 - Baron Zemo",
-        "description": "You defeat Citizen V only to learn he is Baron Zemo, and the Thunderbolts are his Masters of Evil! You are brought before the Executive Board for questioning. With a timely assist from Agent Coulson, escape your holding cell, uncover the mole, and defeat Baron Zemo before he turns the board members against you!",
-        "introduction": "<ul><li>Put into play each Adaptoid environment marked as \"in play\" in the campaign log.</li><li>Shuffle each copy of the Adaptoid minion into the encounter deck.</li><li>If you recorded any \"Surviving Thunderbolts\", shuffle those minions and their sets (except Jolt's) into the encounter deck.</li><li>Set the envelopes aside. Place secret counters on each Board Member equal to the number recorded in scenario #4.</li><li>After resolving mulligans, resolve the Setup ability of each evidence card gained.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
-        "resolution": "<b>Victory:</b><br><ul><li>Baron Zemo is defeated, the mole is exposed, the heroes are exonerated, and the players win the campaign!</li></ul>",
-        "illustration_codes": [
-          "50165a"
-        ]
-      }
-    }
-  ]
+	"code": "agents_of_shield_by_fantasy_flight_games",
+	"name": "Agents of S.H.I.E.L.D.",
+	"creator": "Fantasy Flight Games",
+	"type": "official",
+	"position": 9,
+	"description": "Welcome to the Agents of S.H.I.E.L.D. campaign expansion! S.H.I.E.L.D. computer specialist Sarah Garza has gone missing, and a potential mole on the S.H.I.E.L.D. Executive Board threatens to destroy the organization from within. Investigate her disappearance across five distinct scenarios, gather evidence about Means, Motive, and Opportunity, and unmask the traitor before they deliver S.H.I.E.L.D. into the hands of Baron Zemo and Hydra!",
+	"epilogue": "<b>Victory!</b><br>With Baron Zemo unmasked and his Masters of Evil defeated, the mole is exposed and S.H.I.E.L.D. is saved! The Executive Board has been exonerated, your team has been completely vindicated, and the organization is once again ready to keep the planet safe. S.H.I.E.L.D. stands strong!",
+	"image": "agents_of_shield.jpg",
+	"visibility": "true",
+	"metadata": {
+		"layout": "agents_of_shield",
+		"trackers": [
+			"Remaining Secret Counters",
+			"Evidence Combinations",
+			"Scenario Stats"
+		],
+		"counters": [],
+		"checkboxes": []
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"scenario_uuid": "ae9f8011d04e",
+			"narrative": {
+				"title": "Scenario #1 - Black Widow",
+				"description": "S.H.I.E.L.D. computer specialist Sarah Garza is missing. A search of her Brooklyn apartment turned up an Inhuman cocoon, indicating her Inhuman genes have become active. Investigate her disappearance and look into a disturbing rumor of a mole sitting on the S.H.I.E.L.D. Executive Board.",
+				"introduction": "<ul><li>Each player records their identity in the campaign log.</li><li>Prepare the S.H.I.E.L.D. Executive Board set: Put the three Board Member environments (181A–183A) into play, with two secret counters on each.</li><li>Shuffle the three copies of the A.I.M. Interference treachery into the encounter deck.</li></ul>",
+				"resolution": "<b>Victory:</b><br><ul><li>Record the total number of minions and side schemes in play in the campaign log.</li><li>Record the number of secret counters on each Board Member card.</li><li>If at least one Board Member environment in play has no secret counters on it, gain one evidence card from the S.H.I.E.L.D. envelope and cross out each combination in the campaign log that includes the icon on the evidence card.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points in the campaign log.</li></ul>",
+				"illustration_codes": [
+					"50064",
+					"50065",
+					"50066"
+				]
+			}
+		},
+		{
+			"position": 2,
+			"scenario_uuid": "9690b0ccfbb6",
+			"narrative": {
+				"title": "Scenario #2 - Batroc",
+				"description": "Yelena Belova refuses to talk, but A.I.M. accomplices point to a large-scale kidnapping ring all over the U.S. smuggling Inhumans out through the A.I.M. Island embassy in Washington, D.C. Infiltrate the embassy without board approval to locate and extract the captives!",
+				"introduction": "<ul><li>Place threat on the Alert Level environment equal to the number of minions and side schemes recorded for scenario #1.</li><li>Prepare the Board Member set: Put them in play and place secret counters equal to the number recorded in scenario #1.</li><li>Shuffle the three copies of A.I.M. Interference into the encounter deck.</li><li>After resolving mulligans, resolve the Setup ability of each evidence card gained.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining value recorded. Each player may place one secret counter on a Board Member environment to heal damage equal to their REC.</li></ul>",
+				"resolution": "<b>Victory:</b><br><ul><li>Record the number of Rescued Captive allies in play.</li><li>Record the number of secret counters on each Board Member card.</li><li>If at least one Board Member environment in play has no secret counters on it, gain one evidence card from the S.H.I.E.L.D. envelope and cross out each combination in the campaign log that includes the icon on the evidence card.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
+				"illustration_codes": [
+					"50086a"
+				]
+			}
+		},
+		{
+			"position": 3,
+			"scenario_uuid": "d2b6690c9366",
+			"narrative": {
+				"title": "Scenario #3 - M.O.D.O.K.",
+				"description": "You extracted the captives, but Sarah Garza was not among them. They have been shipped to A.I.M. Island to be used as genetic templates for Adaptoids under the research of M.O.D.O.K. Launch a covert rescue mission to A.I.M. Island!",
+				"introduction": "<ul><li>Place 3 additional lock counters on the top card of the Holding Cell deck, then remove lock counters equal to the number of Rescued Captives recorded in scenario #2.</li><li>Prepare the Board Member set: Place secret counters equal to the number recorded in scenario #2.</li><li>Shuffle three copies of A.I.M. Interference into the encounter deck.</li><li>After resolving mulligans, resolve the Setup ability of each evidence card gained.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
+				"resolution": "<b>Victory:</b><br><ul><li>Mark each Adaptoid environment in play in the campaign log.</li><li>Record the number of secret counters on each Board Member card.</li><li>If at least one Board Member environment has no secret counters, gain an evidence card and cross out its combinations.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
+				"illustration_codes": [
+					"50103a"
+				]
+			}
+		},
+		{
+			"position": 4,
+			"scenario_uuid": "0ab419eb03e1",
+			"narrative": {
+				"title": "Scenario #4 - Thunderbolts",
+				"description": "<i>You defeated M.O.D.O.K. and rescued the kidnapped Inhumans, but upon returning to D.C., you are met by a group calling themselves the Thunderbolts. Led by Citizen V, they state the Executive Board has charged you with unauthorized covert operations and has granted them authority to arrest you!</i>",
+				"introduction": "<ul><li>Set the A.I.M. and S.H.I.E.L.D. envelopes aside.</li><li>Prepare the Board Member set: Place secret counters equal to the number recorded in scenario #3.</li><li>Shuffle three copies of A.I.M. Interference into the encounter deck.</li><li>After resolving mulligans, resolve the Setup ability of each evidence card gained.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
+				"resolution": "<b>Victory:</b><br><ul><li>If there are any Thunderbolt minions in play, record their names in the campaign log (Surviving Thunderbolts).</li><li>Record the number of secret counters on each Board Member card.</li><li>If at least one Board Member environment has no secret counters, gain an evidence card and cross out its combinations.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
+				"illustration_codes": [
+					"50129a"
+				]
+			}
+		},
+		{
+			"position": 5,
+			"scenario_uuid": "d168a46baa0c",
+			"narrative": {
+				"title": "Scenario #5 - Baron Zemo",
+				"description": "You defeat Citizen V only to learn he is Baron Zemo, and the Thunderbolts are his Masters of Evil! You are brought before the Executive Board for questioning. With a timely assist from Agent Coulson, escape your holding cell, uncover the mole, and defeat Baron Zemo before he turns the board members against you!",
+				"introduction": "<ul><li>Put into play each Adaptoid environment marked as \"in play\" in the campaign log.</li><li>Shuffle each copy of the Adaptoid minion into the encounter deck.</li><li>If you recorded any \"Surviving Thunderbolts\", shuffle those minions and their sets (except Jolt's) into the encounter deck.</li><li>Set the envelopes aside. Place secret counters on each Board Member equal to the number recorded in scenario #4.</li><li>After resolving mulligans, resolve the Setup ability of each evidence card gained.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
+				"resolution": "<b>Victory:</b><br>\nBaron Zemo is defeated, the mole is exposed, the heroes are exonerated, and the players win the campaign!",
+				"illustration_codes": [
+					"50165a"
+				]
+			}
+		}
+	]
 }

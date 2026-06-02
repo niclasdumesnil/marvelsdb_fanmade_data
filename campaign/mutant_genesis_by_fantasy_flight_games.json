@@ -1,105 +1,105 @@
 {
-    "code": "mutant_genesis_by_fantasy_flight_games",
-    "name": "Mutant Genesis",
-    "creator": "Fantasy Flight Games",
-    "type": "official",
-    "position": 6,
-    "description": "Welcome to Mutant Genesis! This campaign expansion comes with five new scenarios that tell of anti-mutant hysteria sweeping across America, mutant-hunting Sentinels, a rogue Sentinel factory, and Magneto's master plan to conquer the world from his orbital fortress Asteroid M.<br><br>To complete the campaign, the players must win all five scenarios in numerical order, starting with scenario #1 (Sabretooth) and ending with scenario #5 (Magneto).",
-    "epilogue": "<b>Victory at Asteroid M!</b><br>With Magneto defeated, the X-Men sabotage the controls of Asteroid M, sending the orbital fortress plunging back down toward the Earth's atmosphere where it is completely incinerated. Forge lands the X-Jet safely in the X-Mansion hangar, and the mutant heroes are welcomed home by Professor X. Together, they have saved both human and mutant kind from Magneto's dominion.",
-    "image": "mutant_genesis_campaign.jpg",
-    "metadata": {
-        "trackers": [
-            "Future Past Cards in the Victory Display",
-            "Future Past Cards in the Encounter Deck",
-            "Role Upgrades in Play",
-            "Jubilee State",
-            "Allies from Abduction Protocols",
-            "Allies under Rescue Captives or Find the Prisoners"
-        ],
-        "counters": [],
-        "checkboxes": [
-            "Frightened Police Defeated",
-            "Enemy of my Enemy Defeated",
-            "Find the Prisoners Defeated",
-            "Surprise Attack Defeated"
-        ]
-    },
-    "scenarios": [
-        {
-            "position": 1,
-            "scenario_uuid": "1bc1e7aea171",
-            "narrative": {
-                "title": "Scenario #1 - Sabretooth",
-                "description": "Anti-mutant hysteria is sweeping across America. The public lives in fear that their neighbor or child could be a mutant. Senator Robert Kelly has seized the spotlight by spouting pro-human rhetoric and advocating for the Mutant Registration Act. His public address draws the attention of both the X-Men and the Brotherhood of Mutants.",
-                "introduction": "<ul><li>Each player records their identity and role in the campaign log.</li><li>Shuffle the cards from the Future Past modular set and set them aside as the Future Past deck.</li><li>Reveal the Frightened Police (32171a) side scheme.</li><li><b>Expert Campaign Only:</b> Place 2 damage on Robert Kelly during setup.</li></ul>",
-                "resolution": "<b>Victory:</b><br><ul><li>If the Frightened Police (32171a) side scheme was defeated, record it in the campaign log.</li><li>Remove each Future Past card in the victory display from the campaign. Add each Future Past card found in the encounter deck, discard pile, and in play to the campaign log.</li><li>Remove each role upgrade that began the game in play from the campaign.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
-                "illustration_codes": [
-                    "32060",
-                    "32061",
-                    "32062"
-                ]
-            }
-        },
-        {
-            "position": 2,
-            "scenario_uuid": "a2d103f2f3c4",
-            "narrative": {
-                "title": "Scenario #2 - Project Wideawake",
-                "description": "Even though the X-Men rescued Robert Kelly from Sabretooth's attack, the Senator's prejudice against mutants is only intensified by the attempt on his life. He contacts Henry Gyrich, head of the top-secret commission \"Project Wideawake,\" to discuss their response to the escalating conflict. The two men agree that the mutant menace is out of control and they can no longer afford to wait for legislation to pass—they need to activate the Sentinels immediately.",
-                "introduction": "<ul><li>Shuffle each Future Past card recorded in the campaign log into the encounter deck. Shuffle the remaining cards from the Future Past deck and set them aside.</li><li>If Frightened Police Defeated is checked, each player takes 1 random upgrade from their role's set of cards and puts it into play. Each player may role-build.</li><li>Reveal the Enemy of My Enemy (32172a) side scheme.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining value recorded in the previous scenario. Each player may place 1 acceleration token on the main scheme to heal their identity to full.</li></ul>",
-                "resolution": "<b>Victory:</b><br><ul><li>If the Enemy of My Enemy (32172a) side scheme was defeated, record it in the campaign log.</li><li>Remove each Future Past card in the victory display from the campaign. Add each Future Past card found in the encounter deck, discard pile, and in play to the campaign log.</li><li>Remove each role upgrade that began the game in play from the campaign.</li><li>If Jubilee (32088b) is in play, record that in the campaign log.</li><li>Record the name of each CAPTIVE ally that entered play in the campaign log.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
-                "illustration_codes": [
-                    "32084",
-                    "32085",
-                    "32086"
-                ]
-            }
-        },
-        {
-            "position": 3,
-            "scenario_uuid": "05d446312d00",
-            "narrative": {
-                "title": "Scenario #3 - Master Mold",
-                "description": "The marauding Sentinels have been destroyed thanks in part to Magneto’s surprise assistance. The Master of Magnetism reveals that he has discovered the secret location of the Sentinel factory, and suggests he and the X-Men join forces to defeat their common foe. Angered and dismayed by the brazen attack against their fellow mutants, the X-Men agree and follow Magneto to the factory.",
-                "introduction": "<ul><li>Shuffle each Future Past card recorded in the campaign log into the encounter deck.</li><li>If Jubilee (32088b) is in the campaign log, put her into play.</li><li>Each CAPTIVE ally recorded in the campaign log may be shuffled into any player's deck.</li><li>If Enemy of My Enemy Defeated is checked, each player takes 1 random upgrade from their role's set of cards and puts it into play under their control. Each player may role-build.</li><li>Reveal the Find the Prisoners (32173a) side scheme.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
-                "resolution": "<b>Victory:</b><br><ul><li>If the Find the Prisoners (32173a) side scheme was defeated, record it in the campaign log.</li><li>Remove each Future Past card in the victory display from the campaign. Add each Future Past card found in the encounter deck, discard pile, and in play to the campaign log.</li><li>Remove each role upgrade that began the game in play from the campaign.</li><li>If Jubilee (32088b) is in play, record that in the campaign log. Otherwise, remove her.</li><li>Record the name of each ally that ended the game under Find the Prisoners or Rescue Captives. These allies cannot be used for the rest of the campaign.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
-                "illustration_codes": [
-                    "32109",
-                    "32110",
-                    "32111"
-                ]
-            }
-        },
-        {
-            "position": 4,
-            "scenario_uuid": "9a8c26216170",
-            "narrative": {
-                "title": "Scenario #4 - Mansion Attack",
-                "description": "The combined powers of Magneto and the X-Men prove too much for Master Mold and its army of Sentinels to withstand, and the mutants triumph over the machines. But instead of destroying the Sentinel factory as agreed, Magneto used his power of magnetism to lift Master Mold out of its subterranean facility and fly it to his orbital fortress, Asteroid M. The X-Men try to prevent Magneto from escaping, but they are summoned back to the X-Mansion by a telepathic distress call from Professor X. The Xavier Institute is under attack! Magneto has ordered his Brotherhood to assault the school in order to draw off his pursuers and buy him time to reprogram Master Mold. The X-Men give up their pursuit and race back to the X-Mansion to confront the Brotherhood of Mutants.",
-                "introduction": "<ul><li>Shuffle each Future Past card recorded in the campaign log into the encounter deck.</li><li>If Jubilee (32088b) is in the campaign log, put her into play.</li><li>Each CAPTIVE ally recorded in the campaign log may be shuffled into any player's deck.</li><li>If Find the Prisoners Defeated is checked, each player takes 1 random upgrade from their role's set of cards and puts it into play. Each player may role-build.</li><li>Reveal the Surprise Attack (32174a) side scheme.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
-                "resolution": "<b>Victory:</b><br><ul><li>If the Surprise Attack (32174a) side scheme was defeated, record it in the campaign log.</li><li>Remove each Future Past card in the victory display from the campaign. Add each Future Past card found in the encounter deck, discard pile, and in play to the campaign log.</li><li>Remove each role upgrade that began the game in play from the campaign.</li><li>If Jubilee (32088b) is in play, record that in the campaign log. Otherwise, remove her.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
-                "illustration_codes": [
-                    "32121a",
-                    "32122a",
-                    "32123a",
-                    "32124a"
-                ]
-            }
-        },
-        {
-            "position": 5,
-            "scenario_uuid": "1f12109590be",
-            "narrative": {
-                "title": "Scenario #5 - Magneto",
-                "description": "Magneto sent his Brotherhood of Mutants against Xavier's school in order to draw the X-Men away while he escaped with Master Mold. The Master of Magnetism used that time to install Master Mold into his orbital fortress, Asteroid M. Now safely out of reach of the world's governments, Magneto begins reprogramming the Sentinel factory to create new M-Type Sentinels: human-hunting robots. Once complete, he will drop his Sentinels onto the planet below, clearing away human resistance and bringing about his dream of mutant dominion over the world. Back at the X-Mansion, the mutant Forge finishes making upgrades to the X-Men's supersonic jet, the X-Jet, enabling it to escape Earth's gravity and reach Asteroid M. Professor X wishes his team luck as they blast off to confront his old friend and deadliest foe.",
-                "introduction": "<ul><li>Shuffle each Future Past card recorded in the campaign log into the encounter deck.</li><li>If Jubilee (32088b) is in the campaign log, put her into play.</li><li>Each CAPTIVE ally recorded in the campaign log may be shuffled into any player's deck.</li><li>If Surprise Attack Defeated is checked, each player takes 1 random upgrade from their role's set of cards and puts it into play. Each player may role-build.</li><li>Reveal the Magneto's Fortress (32175a) side scheme.</li><li><b>Expert Campaign Only:</b> Set player hit points, and players may heal by placing 1 acceleration token on the main scheme. If the players lose this game, Magneto rules the world with an iron fist and the players lose the campaign.</li></ul>",
-                "resolution": "<b>Victory:</b> Magneto is defeated and the players win the campaign! Turn the page to read the conclusion.",
-                "illustration_codes": [
-                    "32138",
-                    "32139",
-                    "32140"
-                ]
-            }
-        }
-    ]
+	"code": "mutant_genesis_by_fantasy_flight_games",
+	"name": "Mutant Genesis",
+	"creator": "Fantasy Flight Games",
+	"type": "official",
+	"position": 6,
+	"description": "Welcome to Mutant Genesis! This campaign expansion comes with five new scenarios that tell of anti-mutant hysteria sweeping across America, mutant-hunting Sentinels, a rogue Sentinel factory, and Magneto's master plan to conquer the world from his orbital fortress Asteroid M.<br><br>To complete the campaign, the players must win all five scenarios in numerical order, starting with scenario #1 (Sabretooth) and ending with scenario #5 (Magneto).",
+	"epilogue": "<b>Victory at Asteroid M!</b><br>With Magneto defeated, the X-Men sabotage the controls of Asteroid M, sending the orbital fortress plunging back down toward the Earth's atmosphere where it is completely incinerated. Forge lands the X-Jet safely in the X-Mansion hangar, and the mutant heroes are welcomed home by Professor X. Together, they have saved both human and mutant kind from Magneto's dominion.",
+	"image": "mutant_genesis_campaign.jpg",
+	"metadata": {
+		"trackers": [
+			"Future Past Cards in the Victory Display",
+			"Future Past Cards in the Encounter Deck",
+			"Role Upgrades in Play",
+			"Jubilee State",
+			"Allies from Abduction Protocols",
+			"Allies under Rescue Captives or Find the Prisoners"
+		],
+		"counters": [],
+		"checkboxes": [
+			"Frightened Police Defeated",
+			"Enemy of my Enemy Defeated",
+			"Find the Prisoners Defeated",
+			"Surprise Attack Defeated"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"scenario_uuid": "1bc1e7aea171",
+			"narrative": {
+				"title": "Scenario #1 - Sabretooth",
+				"description": "Anti-mutant hysteria is sweeping across America. The public lives in fear that their neighbor or child could be a mutant. Senator Robert Kelly has seized the spotlight by spouting pro-human rhetoric and advocating for the Mutant Registration Act. His public address draws the attention of both the X-Men and the Brotherhood of Mutants.",
+				"introduction": "<ul><li>Each player records their identity and role in the campaign log.</li><li>Shuffle the cards from the Future Past modular set and set them aside as the Future Past deck.</li><li>Reveal the Frightened Police (32171a) side scheme.</li><li><b>Expert Campaign Only:</b> Place 2 damage on Robert Kelly during setup.</li></ul>",
+				"resolution": "<b>Victory:</b><br><ul><li>If the Frightened Police (32171a) side scheme was defeated, record it in the campaign log.</li><li>Remove each Future Past card in the victory display from the campaign. Add each Future Past card found in the encounter deck, discard pile, and in play to the campaign log.</li><li>Remove each role upgrade that began the game in play from the campaign.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
+				"illustration_codes": [
+					"32060",
+					"32061",
+					"32062"
+				]
+			}
+		},
+		{
+			"position": 2,
+			"scenario_uuid": "a2d103f2f3c4",
+			"narrative": {
+				"title": "Scenario #2 - Project Wideawake",
+				"description": "Even though the X-Men rescued Robert Kelly from Sabretooth's attack, the Senator's prejudice against mutants is only intensified by the attempt on his life. He contacts Henry Gyrich, head of the top-secret commission \"Project Wideawake,\" to discuss their response to the escalating conflict. The two men agree that the mutant menace is out of control and they can no longer afford to wait for legislation to pass—they need to activate the Sentinels immediately.",
+				"introduction": "<ul><li>Shuffle each Future Past card recorded in the campaign log into the encounter deck. Shuffle the remaining cards from the Future Past deck and set them aside.</li><li>If Frightened Police Defeated is checked, each player takes 1 random upgrade from their role's set of cards and puts it into play. Each player may role-build.</li><li>Reveal the Enemy of My Enemy (32172a) side scheme.</li><li><b>Expert Campaign Only:</b> Set each player's hit points to their remaining value recorded in the previous scenario. Each player may place 1 acceleration token on the main scheme to heal their identity to full.</li></ul>",
+				"resolution": "<b>Victory:</b><br><ul><li>If the Enemy of My Enemy (32172a) side scheme was defeated, record it in the campaign log.</li><li>Remove each Future Past card in the victory display from the campaign. Add each Future Past card found in the encounter deck, discard pile, and in play to the campaign log.</li><li>Remove each role upgrade that began the game in play from the campaign.</li><li>If Jubilee (32088b) is in play, record that in the campaign log.</li><li>Record the name of each CAPTIVE ally that entered play in the campaign log.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
+				"illustration_codes": [
+					"32084",
+					"32085",
+					"32086"
+				]
+			}
+		},
+		{
+			"position": 3,
+			"scenario_uuid": "05d446312d00",
+			"narrative": {
+				"title": "Scenario #3 - Master Mold",
+				"description": "The marauding Sentinels have been destroyed thanks in part to Magneto’s surprise assistance. The Master of Magnetism reveals that he has discovered the secret location of the Sentinel factory, and suggests he and the X-Men join forces to defeat their common foe. Angered and dismayed by the brazen attack against their fellow mutants, the X-Men agree and follow Magneto to the factory.",
+				"introduction": "<ul><li>Shuffle each Future Past card recorded in the campaign log into the encounter deck.</li><li>If Jubilee (32088b) is in the campaign log, put her into play.</li><li>Each CAPTIVE ally recorded in the campaign log may be shuffled into any player's deck.</li><li>If Enemy of My Enemy Defeated is checked, each player takes 1 random upgrade from their role's set of cards and puts it into play under their control. Each player may role-build.</li><li>Reveal the Find the Prisoners (32173a) side scheme.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
+				"resolution": "<b>Victory:</b><br><ul><li>If the Find the Prisoners (32173a) side scheme was defeated, record it in the campaign log.</li><li>Remove each Future Past card in the victory display from the campaign. Add each Future Past card found in the encounter deck, discard pile, and in play to the campaign log.</li><li>Remove each role upgrade that began the game in play from the campaign.</li><li>If Jubilee (32088b) is in play, record that in the campaign log. Otherwise, remove her.</li><li>Record the name of each ally that ended the game under Find the Prisoners or Rescue Captives. These allies cannot be used for the rest of the campaign.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
+				"illustration_codes": [
+					"32109",
+					"32110",
+					"32111"
+				]
+			}
+		},
+		{
+			"position": 4,
+			"scenario_uuid": "9a8c26216170",
+			"narrative": {
+				"title": "Scenario #4 - Mansion Attack",
+				"description": "The combined powers of Magneto and the X-Men prove too much for Master Mold and its army of Sentinels to withstand, and the mutants triumph over the machines. But instead of destroying the Sentinel factory as agreed, Magneto used his power of magnetism to lift Master Mold out of its subterranean facility and fly it to his orbital fortress, Asteroid M. The X-Men try to prevent Magneto from escaping, but they are summoned back to the X-Mansion by a telepathic distress call from Professor X. The Xavier Institute is under attack! Magneto has ordered his Brotherhood to assault the school in order to draw off his pursuers and buy him time to reprogram Master Mold. The X-Men give up their pursuit and race back to the X-Mansion to confront the Brotherhood of Mutants.",
+				"introduction": "<ul><li>Shuffle each Future Past card recorded in the campaign log into the encounter deck.</li><li>If Jubilee (32088b) is in the campaign log, put her into play.</li><li>Each CAPTIVE ally recorded in the campaign log may be shuffled into any player's deck.</li><li>If Find the Prisoners Defeated is checked, each player takes 1 random upgrade from their role's set of cards and puts it into play. Each player may role-build.</li><li>Reveal the Surprise Attack (32174a) side scheme.</li><li><b>Expert Campaign Only:</b> Apply hit point and healing rules as in previous scenarios.</li></ul>",
+				"resolution": "<b>Victory:</b><br><ul><li>If the Surprise Attack (32174a) side scheme was defeated, record it in the campaign log.</li><li>Remove each Future Past card in the victory display from the campaign. Add each Future Past card found in the encounter deck, discard pile, and in play to the campaign log.</li><li>Remove each role upgrade that began the game in play from the campaign.</li><li>If Jubilee (32088b) is in play, record that in the campaign log. Otherwise, remove her.</li><li><b>Expert Campaign Only:</b> Record each identity's remaining hit points.</li></ul>",
+				"illustration_codes": [
+					"32121a",
+					"32122a",
+					"32123a",
+					"32124a"
+				]
+			}
+		},
+		{
+			"position": 5,
+			"scenario_uuid": "1f12109590be",
+			"narrative": {
+				"title": "Scenario #5 - Magneto",
+				"description": "Magneto sent his Brotherhood of Mutants against Xavier's school in order to draw the X-Men away while he escaped with Master Mold. The Master of Magnetism used that time to install Master Mold into his orbital fortress, Asteroid M. Now safely out of reach of the world's governments, Magneto begins reprogramming the Sentinel factory to create new M-Type Sentinels: human-hunting robots. Once complete, he will drop his Sentinels onto the planet below, clearing away human resistance and bringing about his dream of mutant dominion over the world. Back at the X-Mansion, the mutant Forge finishes making upgrades to the X-Men's supersonic jet, the X-Jet, enabling it to escape Earth's gravity and reach Asteroid M. Professor X wishes his team luck as they blast off to confront his old friend and deadliest foe.",
+				"introduction": "<ul><li>Shuffle each Future Past card recorded in the campaign log into the encounter deck.</li><li>If Jubilee (32088b) is in the campaign log, put her into play.</li><li>Each CAPTIVE ally recorded in the campaign log may be shuffled into any player's deck.</li><li>If Surprise Attack Defeated is checked, each player takes 1 random upgrade from their role's set of cards and puts it into play. Each player may role-build.</li><li>Reveal the Magneto's Fortress (32175a) side scheme.</li><li><b>Expert Campaign Only:</b> Set player hit points, and players may heal by placing 1 acceleration token on the main scheme. If the players lose this game, Magneto rules the world with an iron fist and the players lose the campaign.</li></ul>",
+				"resolution": "<b>Victory:</b> Magneto is defeated and the players win the campaign! Turn the page to read the conclusion.",
+				"illustration_codes": [
+					"32138",
+					"32139",
+					"32140"
+				]
+			}
+		}
+	]
 }

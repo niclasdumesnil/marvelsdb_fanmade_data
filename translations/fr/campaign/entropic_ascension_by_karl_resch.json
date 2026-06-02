@@ -1,0 +1,69 @@
+{
+	"code": "entropic_ascension_by_karl_resch",
+	"name": "Entropic Ascension",
+	"creator": "Karl Resch",
+	"type": "custom",
+	"position": 103,
+	"description": "The Entropic Ascension campaign is made up of four scenarios, all of which force the heroes to make choices and decisions that will ultimately affect their final encounter. While chaos descends upon New York City, the heroes are unable to deal with all of the endless threats at once, creating civilian outcries for those who cannot be saved.",
+	"epilogue": "",
+	"metadata": {
+		"trackers": [
+			"Alliés Secourus",
+			"S.H.I.E.L.D. Tech",
+			"Aspect Advantage",
+			"Service Communautaire",
+			"Planning Ahead",
+			"State of Emergency"
+		],
+		"counters": [
+			"Reputation Track"
+		],
+		"checkboxes": [
+			"Charge Complete - Zzzax",
+			"Superior Foes - Sinister Assault",
+			"Fears & Doubts - Whispers of Paranoia",
+			"Brute Force - Wrecking Crew",
+			"Raft Weapons - Under Attack",
+			"Contraband - Ransacked Armory",
+			"On A Roll - Armadillo",
+			"Loved Ones in Peril - Down to Earth",
+			"City Cries for a Savior - City in Chaos",
+			"Oscorp R&D Raided - Osborn Tech",
+			"Oscorp Biolab Raided - Symbiotic Strength",
+			"Criminal Empire - Sinister Syndicate",
+			"Unleash the Beast! - Beasty Boys"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Taskmaster"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2A - Rhino"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #2B - Mysterio"
+			}
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #3 - Klaw"
+			}
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #4 - The Hood"
+			}
+		}
+	]
+}

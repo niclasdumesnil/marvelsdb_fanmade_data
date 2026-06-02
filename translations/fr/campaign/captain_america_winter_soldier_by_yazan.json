@@ -1,0 +1,37 @@
+{
+	"code": "captain_america_winter_soldier_by_yazan",
+	"name": "Captain America: The Winter Soldier: The Card Game",
+	"creator": "Yazan Kawar",
+	"type": "custom",
+	"position": 151,
+	"description": "This is my tribute to one of my favourite M.C.U. movies, Captain America: The Winter Soldier. Each scenario captures an iconic battle in the movie in the best way I was able to, using existing Marvel Champions cards.<br><br>In the final scenario, Alexander Pierce, the Secretary of the World Security Council, is represented by one overturned S.H.I.E.L.D. board member. The villain that puts everything in motion in the movie is Arnim Zola, but by the time the final act takes place, he is no more. In my campaign, we will fight Zola symbolically, as we are trying to take down his legacy - Hydra's rebirth.",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [
+			"Support/Upgrade #1",
+			"Support/Upgrade #2"
+		],
+		"counters": [],
+		"checkboxes": []
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Batroc Hijacks the Lemurian Star"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Crossbones Shares an Elevator"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Zola's Hydra Legacy"
+			}
+		}
+	]
+}

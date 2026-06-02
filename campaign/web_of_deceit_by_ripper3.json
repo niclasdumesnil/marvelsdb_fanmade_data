@@ -1,0 +1,110 @@
+{
+  "code": "web_of_deceit_by_ripper3",
+  "name": "Web of Deceit",
+  "creator": "Ripper3",
+  "type": "custom",
+  "position": 203,
+  "description": "The Kingpin has woven a vast criminal web across New York City, orchestrating a conspiracy that reaches from the streets to the mayor's office. He has enlisted a roster of Spider-Man's deadliest foes — Shocker, Electro, the Lizard, and Vulture — each unleashed to weaken and distract the Web-Warriors. As the city plunges into chaos, a team of spider-powered heroes must unite and fight their way through the escalating criminal syndicate to unravel the web of deceit and bring Fisk to justice.",
+  "epilogue": "With the Kingpin defeated and his criminal empire exposed, the Web-Warriors stand victorious in the ruins of Fisk Tower. The Great Web shimmers across the multiverse as spider-heroes from countless realities celebrate together. New York City is safe — for now. But somewhere in the shadows, a new threat is already spinning its next trap.",
+  "image": "web_of_deceit.jpg",
+  "visibility": "true",
+  "metadata": {
+    "layout": "web_of_deceit",
+    "trackers": [
+      "Notes de Campagne (Campaign Notes)",
+      "Récompenses Radioactives Débloquées (Radioactive Rewards Unlocked)"
+    ],
+    "counters": [
+      "Jetons de Poursuites (Pursuit Counters)"
+    ],
+    "checkboxes": [
+      "Toile du Grand Tisseur active (Great Web Active)",
+      "Mode Expert (Expert Mode)",
+      "Gobelin Vert vaincu (Scénario 1)",
+      "Hoboblin vaincu (Scénario 2)",
+      "Récompense Radioactive débloquée (Scénario 3)",
+      "Récompense Sens de l'Araignée débloquée (Scénario 4)",
+      "Récompense Toile débloquée (Scénario 5)"
+    ]
+  },
+  "scenarios": [
+    {
+      "position": 1,
+      "scenario_uuid": "1f9b541a1cb4",
+      "narrative": {
+        "title": "Scenario #1 — Shocker: Shock Party",
+        "description": "Shocker has been hired by Kingpin to plunge New York into darkness. He and his criminal allies are lighting up Times Square in a blackout-fueled rampage. The Web-Warriors must survive the long night and stop Shocker's gang before the city is lost to chaos.",
+        "introduction": "New York City goes dark. Shocker stands in Times Square, bathed in neon flickering from emergency generators, his vibro-shock gauntlets humming with deadly energy. He's gathered every street criminal he could hire. 'It's only gonna get worse, Spiders. I get paid by the job — and tonight, the job is YOU.' The Great Web shimmers as spider-heroes arrive from across the multiverse to answer the call. Put the 'Vote for Fisk' environment and 'The Great Web' environment into play. Each player puts a Great Web Strand from the campaign pool into their hand.",
+        "resolution": "Shocker is defeated! The blackout ends as he collapses, his vibro-shock gauntlets destroyed. But as the Web-Warriors catch their breath, they find a dossier on Shocker's person — payment orders signed by Wilson Fisk, the Kingpin. And something else: schematics for a device that could amplify Electro's power to city-destroying levels. Add the Great Web Strand campaign rewards to the campaign pool. If the Green Goblin minion was defeated during this scenario, record it in the campaign log.",
+        "epilogue": "The heroes regroup. The conspiracy runs deeper than they thought. Fisk Tower looms on the skyline — every criminal in the city seems to be answering to the same shadow. The Web-Warriors will need every ally they can find.",
+        "illustration_codes": [
+          "503057a",
+          "503057b"
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "scenario_uuid": "2c17f67de168",
+      "narrative": {
+        "title": "Scenario #2 — Electro: Energized!",
+        "description": "Electro has teamed up with A.I.M. scientists and Kingpin's funding to amplify his already deadly electrical abilities using dark matter technology. With electricity clones and a quantum field generator, Electro is on the verge of unlimited power. The heroes must shut down the experiment before the city grid collapses entirely.",
+        "introduction": "The dossier from Shocker pointed here: a secret A.I.M. lab buried beneath an industrial district. Inside, Max Dillon crackles with energy, surrounded by flickering electrical clones of himself. 'I'm a living force of nature! Nobody — not even the Spiders — can stop me now!' The Grounded and Electricity Clones environments come into play. A.I.M. scientists swarm the floor. The Web-Warriors must spend enough resources on upgrades and supports to disable Electro's grounding field before they can defeat him. If any Radioactive Rewards were earned from Scenario 1, distribute them to players now.",
+        "resolution": "The quantum field generator explodes and Electro's clones vanish. Drained and defeated, Electro drops to his knees. As he's secured, A.I.M. data drives are recovered — they reveal Kingpin has been manipulating the city's surveillance infrastructure using A.I.M.'s technology to ensure his election as mayor goes unchallenged. The Hobgoblin minion's appearance during this scenario is noted in the campaign log.",
+        "epilogue": "The heroes have exposed the Kingpin's connections to A.I.M. But Fisk's plan is still in motion. Somewhere in the sewers of New York, another of his agents is on the move.",
+        "illustration_codes": [
+          "503078",
+          "503079",
+          "503080"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "scenario_uuid": "77f65c9f4812",
+      "narrative": {
+        "title": "Scenario #3 — The Lizard: Chasing Down the Lizard",
+        "description": "After tampering by Kingpin and A.I.M., the Lizard is rampaging through the city sewers and streets. Dr. Curt Connors is losing his battle with the beast within. The heroes must lure the Lizard back to his lab, synthesize a cure, and neutralize the threat — without losing Connors entirely to the reptilian brain.",
+        "introduction": "The sewers rumble with prehistoric fury. The Lizard — Dr. Curt Connors lost to his reptilian alter-ego — tears through tunnels and emerges onto the streets. A.I.M. has been injecting him with enhanced formulas to make him more dangerous, and Kingpin's men are using the chaos as cover for their operations. The heroes must first find the Lizard (Stage 1: Chasing Down the Lizard), then synthesize a cure in his lab (Stage 2: The Cure). Place the Lizard Brain environment into play and add 1 formula counter to The Lizard. In Expert mode, add 1 additional formula counter.",
+        "resolution": "The cure is administered and Curt Connors emerges from the Lizard's form, exhausted but himself. He thanks the heroes, whispering a name: 'Fisk... Fisk paid A.I.M. to enhance me. He wanted to use me as a weapon.' The Radioactive Reward set is unlocked for the campaign pool. Each player may select one Radioactive Reward card to add to their campaign deck for the remainder of the campaign.",
+        "epilogue": "Dr. Connors is taken to safety. The formula data is recovered. But the sky above the city is filled with wings — Vulture has been dispatched to silence the witnesses.",
+        "illustration_codes": [
+          "503096a",
+          "503096b"
+        ]
+      }
+    },
+    {
+      "position": 4,
+      "scenario_uuid": "a445a4a23eca",
+      "narrative": {
+        "title": "Scenario #4 — Vulture: Surveillance Pigeons",
+        "description": "The Vulture has been deployed to eliminate the heroes — and to maintain Kingpin's surveillance network of camera-equipped pigeons across the city. With aerial advantage and Fisk's resources, Vulture is nearly untouchable. Each player receives a Wingsuit upgrade to level the aerial playing field.",
+        "introduction": "Adrian Toomes swoops over the Manhattan skyline, his upgraded wings gleaming with Fisk Tech enhancements. Surveillance pigeons flutter in formation — each one a camera feeding directly to Fisk Tower. 'You interfered with my employer's plans for the last time, Spiders!' Each player puts a Wingsuit upgrade into play under their control. Both copies of the Aerial Advantage attachment come into play attached to Vulture. The Spider-Sense campaign reward set is unlocked — each player selects one Spider-Sense reward for their deck.",
+        "resolution": "Vulture is grounded. The pigeon network collapses as his neural link to the surveillance system is severed. As the heroes stand over him, Toomes laughs bitterly: 'You think taking me down matters? Fisk has already won. He's the mayor. He's untouchable.' The Web-Warriors know better. They have enough evidence now. Time to take it to Fisk Tower.",
+        "epilogue": "The heroes gather their evidence: A.I.M. contracts, Fisk payment orders, Electro's data drives, Dr. Connors' testimony. It's time to end this.",
+        "illustration_codes": [
+          "503116",
+          "503117",
+          "503118"
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "scenario_uuid": "a4f19fbfefe5",
+      "narrative": {
+        "title": "Scenario #5 — Kingpin: Shadow of the Kingpin",
+        "description": "Wilson Fisk — the Kingpin, mayor of New York City — sits atop Fisk Tower with his entire criminal empire as a shield. Thanks to A.I.M. media manipulation, he is beloved by the public. The heroes must storm the tower, fight through his most dangerous guards, and expose the truth before his corrupt side schemes overwhelm the city forever.",
+        "introduction": "Fisk Tower pierces the Manhattan skyline like a monument to corruption. Wilson Fisk stands at the pinnacle, flanked by Lady Bullseye and Typhoid Mary, his armored suit gleaming. 'I won't stand for it.' The Great Web glows across dimensions as spider-heroes make their final stand. Put Fisk Tower into play. Place pursuit counters on Pursued by the Past equal to 1 per player. Each active campaign reward remains in play. The 'Vote for Fisk' environment is in play — in standard mode on its A side, in expert mode on its B side.",
+        "resolution": "Kingpin falls. With Fisk Tower crumbling around him, Wilson Fisk is taken into custody. The A.I.M. media manipulation network is shut down, and the truth spreads across every screen in New York City. The Web-Warriors have won.",
+        "epilogue": "The Great Web shimmers one last time as the spider-heroes from across the multiverse celebrate in the ruins of Fisk Tower. New York is free. The Web of Deceit has been unraveled — but the multiverse is vast, and there will always be another villain waiting in the shadows.",
+        "illustration_codes": [
+          "503134",
+          "503135",
+          "503136"
+        ]
+      }
+    }
+  ]
+}

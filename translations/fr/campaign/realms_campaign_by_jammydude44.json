@@ -1,0 +1,61 @@
+{
+	"code": "realms_campaign_by_jammydude44",
+	"name": "La Guerre des Royaumes",
+	"creator": "Jammydude44",
+	"type": "custom",
+	"position": 5035,
+	"description": "Bienvenue dans la Guerre des Royaumes, une extension de campagne en trois scénarios pour Marvel Champions le Jeu de Cartes ! Cette extension raconte l'histoire de Malekith le Maudit et de son Conseil Noir alors qu'ils tentent de conquérir les Dix Royaumes.",
+	"epilogue": "Si les joueurs ont gagné le scénario, ils ont réussi à vaincre Malekith ! Grâce aux efforts des héros, les dix royaumes commencent à se reconstruire, le Conseil Noir se disperse et la bravoure de Thor est reconnue alors que son père lui accorde le titre de Roi d'Asgard.\n<br><hr>\nSi les joueurs ont perdu le scénario, Malekith réussit à vaincre ses plus grands ennemis et regarde avec joie la Maison d'Odin s'effondrer ainsi que les dix autres royaumes. Le Conseil Noir règne sur la Terre, avec Malekith lui-même comme Roi des Royaumes.",
+	"metadata": {
+		"trackers": [
+			"Notes de Campagne (Campaign Notes)"
+		],
+		"counters": [],
+		"checkboxes": [
+			"Usines de Roxxon Détruites (Roxxon Factories Destroyed)",
+			"Asgard Secouru (Assisted Asgard)",
+			"Blessures Soignées (Healed Our Wounds)",
+			"Retour Précipité (Rushed Back)",
+			"Monture Joueur 1 Rescapée (Player 1 Steed Survived)",
+			"Monture Joueur 2 Rescapée (Player 2 Steed Survived)",
+			"Monture Joueur 3 Rescapée (Player 3 Steed Survived)",
+			"Monture Joueur 4 Rescapée (Player 4 Steed Survived)",
+			"Mode Expert (Expert Mode)",
+			"Roxxon Résolu (Roxxon Resolved)",
+			"Laufey Résolu (Laufey Resolved)",
+			"Malekith Résolu (Malekith Resolved)"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Roxxon",
+				"description": "<i>Dario Agger a repris Roxxon Energy en tant que nouveau PDG. Grâce aux efforts inlassables de l'agent du S.H.I.E.L.D Roz Solomon, de nouvelles informations ont été mises au jour sur l'expansion rapide de Roxxon. En particulier, Dario semble avoir conclu des accords avec une cabale d'individus dangereux, mais dans quel but ? Comme si cela ne suffisait pas, des témoins ont vu en quoi Dario peut se transformer lorsqu'il est attaqué : un Minotaure vicieux !</i>",
+				"introduction": "<b>Mettez en place le scénario normalement.</b> Ensuite, faites ce qui suit :\n1 - Attachez l'attachement 'Roxxon Factories' (Usines de Roxxon) à l'environnement Roxxon Energy.\n2 - Mettez l'alliée Agent Solomon en jeu sous le contrôle du premier joueur.\nUne fois le scénario terminé, que vous ayez gagné ou perdu, passez à la Résolution de la Campagne.",
+				"resolution": "<i>La guerre approche ! Grâce à votre mission pour en savoir plus sur Roxxon et le Conseil Noir, vous avez rapidement appris l'existence de l'Elfe Noir Malekith le Maudit et son complot pour conquérir les dix royaumes.\nAu cours de vos batailles avec Roxxon, vous avez pu identifier l'emplacement d'usines Roxxon cachées dans l'Antarctique. Mais avant de pouvoir enquêter, une communication urgente arrive du Conseil Galactique : le redoutable Mangog a été invoqué par Malekith et il a l'intention de détruire les derniers vestiges d'Asgard.</i>\n<br><hr>\nLes joueurs doivent choisir collectivement soit de 'Détruire les usines de Roxxon' soit de 'Secourir Asgard' et inscrire leur choix dans le Journal de Campagne."
+			},
+			"scenario_uuid": "f89d42f8c5b1"
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Laufey",
+				"description": "<i>Reconnaissant que le seul héros qui pourrait se dresser sur son chemin est son vieil ennemi, Thor Odinson, Malekith piège Thor dans une embuscade au pays des Géants du Givre, Jotunheim ! Alors que la plupart des héros de la Terre restent en arrière pour se défendre contre l'invasion de Malekith, vous avez été chargé de secourir Thor et de le ramener pour la bataille décisive.</i>",
+				"introduction": "Mettez en place le scénario normalement. Ensuite, faites ce qui suit :\n1 - Mettez un soutien 'Valkyrior Steed' (Monture Valkyrior) en jeu sous le contrôle de chaque joueur.\n2 - Si 'Secourir Asgard' n'est pas dans le journal de campagne, révélez la manigance annexe 'Mangog Rampage' (Le Déchaînement de Mangog) et mettez-la en jeu.\nUne fois le scénario terminé, que vous ayez gagné ou perdu, passez à la Résolution de la Campagne.",
+				"resolution": "<i>La bataille à Jotunheim vous a laissé épuisé, mais vous êtes conscient de la nécessité urgente de retourner sur Terre pour repousser les forces de Malekith.</i>\nChaque joueur qui a au moins 1 compteur de vol sur un soutien Monture Valkyrior note sa 'Monture rescapée' dans le journal de campagne.\nLes joueurs doivent choisir soit de 'Soigner leurs blessures' soit de 'Se hâter vers la Terre' et inscrire leur choix dans le journal de campagne."
+			},
+			"scenario_uuid": "a7c2b4e9f1a8"
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Malekith",
+				"description": "<i>Malekith a conquis neuf des dix royaumes, et la Terre s'incline sous son contrôle. Tous les chemins mènent en Angleterre pour un ultime combat mené par les héros.</i>",
+				"introduction": "Mettez en place le scénario normalement. Ensuite, faites ce qui suit :\n1 - Chaque joueur dont la 'Monture a rescapée' met un soutien Monture Valkyrior en jeu sous son contrôle.\n2 - Si 'Détruire les usines de Roxxon' n'est pas dans le journal de campagne, mélangez 1 copie d' 'Air Support' (Soutien Aérien) dans le deck de rencontre. Si les joueurs ont perdu l'un des deux scénarios précédents, mélangez deux copies à la place.\n3 - Recherchez l'attachement Ebony Sword (Épée d'Ébène) dans le deck de rencontre et retirez-le du jeu.\n4 - Mélangez 'Malekith's Venom Blade', 'Butcher of Thors' and 'Power of the Symbiote' dans le deck de rencontre.\n5 - Si 'Blessures soignées' est dans le journal de campagne, placez 1 menace sur chaque manigance annexe Territoire Conquis ('Conquered Territory').\n6 - Si 'Se hâter vers la Terre' est dans le journal de campagne, chaque joueur mélange une obligation 'Frostbite' (Engelures) dans son deck.\n7 - Mettez l'allié 'Iron Odinson' en jeu sous le contrôle du premier joueur.\nUne fois le scénario terminé, que vous ayez gagné ou perdu, passez à la Résolution de la Campagne.",
+				"resolution": "<b>Si les joueurs ont gagné le scénario, ils ont réussi à vaincre Malekith !</b>\nGrâce aux efforts des héros, les dix royaumes commencent à se reconstruire, le Conseil Noir se disperse et la bravoure de Thor est reconnue alors que son père lui accorde le titre de Roi d'Asgard.\n<br><hr>\n<b>Si les joueurs ont perdu le scénario</b>, Malekith réussit à vaincre ses plus grands ennemis et regarde avec joie la Maison d'Odin s'effondrer ainsi que les dix autres royaumes. Le Conseil Noir règne sur la Terre, avec Malekith lui-même comme Roi des Royaumes."
+			},
+			"scenario_uuid": "c4d9e8b1a3d2"
+		}
+	]
+}

@@ -14,8 +14,8 @@
         "set_code": "festin_totemique_by_merlin",
         "set_position": 1,
         "stage": "A",
-        "text": "Vitalit\u00e9 1. (<i>apr\u00e8s avoir bless\u00e9 un personnage, Morlun se soigne de 1 d\u00e9g\u00e2t</i>).\n<b>Quand Morlun est vaincu, vous gagnez la partie.\n</b><i>\u201cLa chasse peut commencer ! J'ai faim !\u201d </i>\u2014<i>Morlun</i>",
-        "traits": "H\u00e9ritier.",
+        "text": "Vitalité 1. (<i>après avoir blessé un personnage, Morlun se soigne de 1 dégât</i>).\n<b>Quand Morlun est vaincu, vous gagnez la partie.\n</b><i>“La chasse peut commencer ! J'ai faim !” </i>—<i>Morlun</i>",
+        "traits": "Héritier.",
         "type_code": "villain"
     },
     {
@@ -33,8 +33,8 @@
         "set_code": "festin_totemique_by_merlin",
         "set_position": 2,
         "stage": "B",
-        "text": "Solide. Vitalit\u00e9 1. (<i>apr\u00e8s avoir bless\u00e9 un personnage, Morlun se soigne de 1 d\u00e9g\u00e2t</i>).\n<b>Quand Morlun est vaincu, vous gagnez la partie.\n</b><i>\u201cLa chasse peut commencer ! J'ai faim !\u201d </i>\u2014<i>Morlun\n</i>",
-        "traits": "H\u00e9ritier.",
+        "text": "Solide. Vitalité 1. (<i>après avoir blessé un personnage, Morlun se soigne de 1 dégât</i>).\n<b>Quand Morlun est vaincu, vous gagnez la partie.\n</b><i>“La chasse peut commencer ! J'ai faim !” </i>—<i>Morlun\n</i>",
+        "traits": "Héritier.",
         "type_code": "villain"
     },
     {
@@ -49,7 +49,7 @@
         "set_code": "festin_totemique_by_merlin",
         "set_position": 3,
         "stage": "1A",
-        "text": "<b>Contenu </b>: Morlun (I) et Morlun (II). (<i>Morlun (II) et Morlun (III) \u00e0 la place en mode expert.</i>) Les sets de rencontre Festin Totemique, Spider-Totem et Standard. Un set de rencontre modulaire (recommand\u00e9 : Pouvoir Totemique).\n<b>Mise en place </b>: mettez en jeu l'environnement Usine \u00e0 R\u00e9incarnation face intacte et l'environnement Spider-Verse.\nAvancez au stade 1B.",
+        "text": "<b>Contenu </b>: Morlun (I) et Morlun (II). (<i>Morlun (II) et Morlun (III) à la place en mode expert.</i>) Les sets de rencontre Festin Totemique, Spider-Totem et Standard. Un set de rencontre modulaire (recommandé : Pouvoir Totemique).\n<b>Mise en place </b>: mettez en jeu l'environnement Usine à Réincarnation face intacte et l'environnement Spider-Verse.\nAvancez au stade 1B.",
         "type_code": "main_scheme"
     },
     {
@@ -67,7 +67,7 @@
         "set_code": "festin_totemique_by_merlin",
         "set_position": 3,
         "stage": "1B",
-        "text": "Tant que l'usine \u00e0 r\u00e9incarnation est sur sa face intacte, Morlun ne peut pas \u00eatre vaincu.\n<b>R\u00e9ponse forc\u00e9e</b> : apr\u00e8s l'\u00e9tape une de la phase du M\u00e9chant, le premier joueur doit d\u00e9fausser 5 cartes du deck Rencontre et mettre en jeu, engag\u00e9 avec lui, le premier sbire [[h\u00e9ritier ]]ainsi d\u00e9fauss\u00e9.\n<b>Si ce stade est achev\u00e9, les joueurs perdent la partie.</b>",
+        "text": "Tant que l'usine à réincarnation est sur sa face intacte, Morlun ne peut pas être vaincu.\n<b>Réponse forcée</b> : après l'étape une de la phase du Méchant, le premier joueur doit défausser 5 cartes du deck Rencontre et mettre en jeu, engagé avec lui, le premier sbire [[héritier ]]ainsi défaussé.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>",
         "threat": 12,
         "type_code": "main_scheme"
     },
@@ -76,7 +76,7 @@
         "code": "210304a",
         "faction_code": "encounter",
         "is_unique": true,
-        "name": "Usine \u00e0 R\u00e9incarnation",
+        "name": "Usine à Réincarnation",
         "octgn_id": "4bce472d-462d-4a4d-aeb2-90a2ce103004",
         "pack_code": "inheritors_by_merlin",
         "permanent": true,
@@ -84,7 +84,7 @@
         "quantity": 1,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 4,
-        "text": "Permanent. Mise en place.\nVous pouvez attaquer cet environnement comme s'il s'agissait d'un ennemi.\n<b>Interruption forc\u00e9e </b>: quand un sbire [[h\u00e9ritier]] est vaincu, infligez 1 d\u00e9g\u00e2t \u00e0 cette carte et m\u00e9langez-le dans le deck de Rencontre.\n<b>R\u00e9ponse forc\u00e9e</b> : apr\u00e8s avoir plac\u00e9 un jeton dommage sur cette carte, s'il y a au moins 12[per_hero] jetons d\u00e9g\u00e2ts, retournez-l\u00e0.",
+        "text": "Permanent. Mise en place.\nVous pouvez attaquer cet environnement comme s'il s'agissait d'un ennemi.\n<b>Interruption forcée </b>: quand un sbire [[héritier]] est vaincu, infligez 1 dégât à cette carte et mélangez-le dans le deck de Rencontre.\n<b>Réponse forcée</b> : après avoir placé un jeton dommage sur cette carte, s'il y a au moins 12[per_hero] jetons dégâts, retournez-là.",
         "traits": "Lieu. Intact.",
         "type_code": "environment"
     },
@@ -93,7 +93,7 @@
         "faction_code": "encounter",
         "hidden": true,
         "is_unique": true,
-        "name": "Usine \u00e0 R\u00e9incarnation",
+        "name": "Usine à Réincarnation",
         "octgn_id": "4bce472d-462d-4a4d-aeb2-90a2ce103004",
         "pack_code": "inheritors_by_merlin",
         "permanent": true,
@@ -101,7 +101,7 @@
         "quantity": 1,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 4,
-        "text": "Permanent.\nMorlun (I) (Morlun (II) en mode expert) ne peut pas \u00eatre vaincu tant qu'un sbire [[h\u00e9ritier ]]est en jeu.\n<b>Interruption forc\u00e9e </b>: quand un sbire [[h\u00e9ritier]] est vaincu, retirez-le de la partie puis retirez 2 menaces d'une manigance (1 menace en mode expert).",
+        "text": "Permanent.\nMorlun (I) (Morlun (II) en mode expert) ne peut pas être vaincu tant qu'un sbire [[héritier ]]est en jeu.\n<b>Interruption forcée </b>: quand un sbire [[héritier]] est vaincu, retirez-le de la partie puis retirez 2 menaces d'une manigance (1 menace en mode expert).",
         "traits": "Lieu. Detruit.",
         "type_code": "environment"
     },
@@ -119,7 +119,7 @@
         "set_code": "festin_totemique_by_merlin",
         "set_position": 5,
         "stage": "A",
-        "text": "Permanent. Mise en place.\n<b>R\u00e9ponse</b> : apr\u00e8s avoir mis en jeu un alli\u00e9 [[web-warrior]], infligez 2 d\u00e9g\u00e2ts \u00e0 un ennemi [[h\u00e9ritier]].\n<b>R\u00e9ponse forc\u00e9e</b> : apr\u00e8s qu'un alli\u00e9 [[web-warrior]] a quitt\u00e9 le jeu, placez 1 menace sur la manigance principale.",
+        "text": "Permanent. Mise en place.\n<b>Réponse</b> : après avoir mis en jeu un allié [[web-warrior]], infligez 2 dégâts à un ennemi [[héritier]].\n<b>Réponse forcée</b> : après qu'un allié [[web-warrior]] a quitté le jeu, placez 1 menace sur la manigance principale.",
         "traits": "Lieu.",
         "type_code": "environment"
     },
@@ -137,7 +137,7 @@
         "set_code": "festin_totemique_by_merlin",
         "set_position": 5,
         "stage": "B",
-        "text": "Permanent. Mise en place.\n<b>R\u00e9ponse</b> : apr\u00e8s avoir mis en jeu un alli\u00e9 [[web-warrior]], infligez 2 d\u00e9g\u00e2ts \u00e0 un ennemi [[h\u00e9ritier]].\n<b>R\u00e9ponse forc\u00e9e</b> : apr\u00e8s qu'un alli\u00e9 [[web-warrior]] a quitt\u00e9 le jeu, placez 2 menaces sur la manigance principale.",
+        "text": "Permanent. Mise en place.\n<b>Réponse</b> : après avoir mis en jeu un allié [[web-warrior]], infligez 2 dégâts à un ennemi [[héritier]].\n<b>Réponse forcée</b> : après qu'un allié [[web-warrior]] a quitté le jeu, placez 2 menaces sur la manigance principale.",
         "traits": "Lieu.",
         "type_code": "environment"
     },
@@ -157,8 +157,8 @@
         "scheme": 1,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 6,
-        "text": "Patrouille. Vitalit\u00e9 1.\n<b>Interruption forc\u00e9e</b> : quand Bora vous attaque, elle attaque si possible un personnage [[web-warrior]] \u00e0 la place.<i>\n</i>\n [star] <b>Boost </b>: si cette activation est une attaque, cette attaque gagne Per\u00e7ant.",
-        "traits": "H\u00e9ritier.",
+        "text": "Patrouille. Vitalité 1.\n<b>Interruption forcée</b> : quand Bora vous attaque, elle attaque si possible un personnage [[web-warrior]] à la place.<i>\n</i>\n [star] <b>Boost </b>: si cette activation est une attaque, cette attaque gagne Perçant.",
+        "traits": "Héritier.",
         "type_code": "minion"
     },
     {
@@ -177,8 +177,8 @@
         "scheme": 3,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 7,
-        "text": "Vitalit\u00e9 1.\n<b>R\u00e9ponse forc\u00e9e</b> : apr\u00e8s que Jennix s'est activ\u00e9, soignez 3 d\u00e9g\u00e2ts de Usine \u00e0 R\u00e9incarnation. Si vous ne pouvez pas, donnez 1 carte de boost face cach\u00e9e au m\u00e9chant.\n [star] <b>Boost </b>: apr\u00e8s la fin de cette activation, m\u00e9langez cette carte dans le deck Rencontre.",
-        "traits": "H\u00e9ritier.",
+        "text": "Vitalité 1.\n<b>Réponse forcée</b> : après que Jennix s'est activé, soignez 3 dégâts de Usine à Réincarnation. Si vous ne pouvez pas, donnez 1 carte de boost face cachée au méchant.\n [star] <b>Boost </b>: après la fin de cette activation, mélangez cette carte dans le deck Rencontre.",
+        "traits": "Héritier.",
         "type_code": "minion"
     },
     {
@@ -197,8 +197,8 @@
         "scheme": 1,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 8,
-        "text": "Solide. Vitalit\u00e9 1.\n<b>Interruption forc\u00e9e</b> : quand Daemos vous attaque, il attaque si possible un personnage [[web-warrior]] \u00e0 la place.\n [star] <b>Boost </b>: si le m\u00e9chant est en train d'attaquer, cette attaque gagne D\u00e9ferlement.",
-        "traits": "H\u00e9ritier.",
+        "text": "Solide. Vitalité 1.\n<b>Interruption forcée</b> : quand Daemos vous attaque, il attaque si possible un personnage [[web-warrior]] à la place.\n [star] <b>Boost </b>: si le méchant est en train d'attaquer, cette attaque gagne Déferlement.",
+        "traits": "Héritier.",
         "type_code": "minion"
     },
     {
@@ -216,8 +216,8 @@
         "scheme": 2,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 9,
-        "text": "T\u00e9nacit\u00e9. Vitalit\u00e9 2.\n<b>Une fois r\u00e9v\u00e9l\u00e9e</b> : cherchez dans votre deck ou le deck Rencontre un alli\u00e9 [[web-warrior]] et mettez-le en jeu sous votre contr\u00f4le. Ensuite Karn attaque cet alli\u00e9. Si vous ne pouvez pas, cette carte gagne Renfort.\n [star] <b>Boost </b>: apr\u00e8s cette activation, attribuez-vous Karn en tant que carte Rencontre face cach\u00e9e.",
-        "traits": "H\u00e9ritier.",
+        "text": "Ténacité. Vitalité 2.\n<b>Une fois révélée</b> : cherchez dans votre deck ou le deck Rencontre un allié [[web-warrior]] et mettez-le en jeu sous votre contrôle. Ensuite Karn attaque cet allié. Si vous ne pouvez pas, cette carte gagne Renfort.\n [star] <b>Boost </b>: après cette activation, attribuez-vous Karn en tant que carte Rencontre face cachée.",
+        "traits": "Héritier.",
         "type_code": "minion"
     },
     {
@@ -236,8 +236,8 @@
         "scheme": 1,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 10,
-        "text": "Garde. Vitalit\u00e9 1.\n<b>Interruption forc\u00e9e</b> : quand Brix vous attaque, il attaque si possible un personnage [[web-warrior]] \u00e0 la place.\n [star] <b>Boost </b>: apr\u00e8s cette activation, attribuez-vous Brix en tant que carte Rencontre face cach\u00e9e.",
-        "traits": "H\u00e9ritier.",
+        "text": "Garde. Vitalité 1.\n<b>Interruption forcée</b> : quand Brix vous attaque, il attaque si possible un personnage [[web-warrior]] à la place.\n [star] <b>Boost </b>: après cette activation, attribuez-vous Brix en tant que carte Rencontre face cachée.",
+        "traits": "Héritier.",
         "type_code": "minion"
     },
     {
@@ -256,8 +256,8 @@
         "scheme": 2,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 11,
-        "text": "Incitation 2. Vitalit\u00e9 1.\n<b>Interruption forc\u00e9e</b> : quand Verna vous attaque, elle attaque si possible un personnage [[web-warrior]] \u00e0 la place.<i>\n</i>\n [star] <b>Boost </b>: si cette activation est une attaque, cette attaque gagne Per\u00e7ant.",
-        "traits": "H\u00e9ritier.",
+        "text": "Incitation 2. Vitalité 1.\n<b>Interruption forcée</b> : quand Verna vous attaque, elle attaque si possible un personnage [[web-warrior]] à la place.<i>\n</i>\n [star] <b>Boost </b>: si cette activation est une attaque, cette attaque gagne Perçant.",
+        "traits": "Héritier.",
         "type_code": "minion"
     },
     {
@@ -276,8 +276,8 @@
         "scheme": 2,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 12,
-        "text": "Robuste. Vitalit\u00e9 2.\n<b>Interruption forc\u00e9e</b> : quand Solus vous attaque, il attaque si possible un personnage [[web-warrior]] \u00e0 la place.\n [star] <b>Boost </b>: si cette activation est une attaque, cette attaque gagne D\u00e9ferlement.",
-        "traits": " \u00c9lite. H\u00e9ritier.",
+        "text": "Robuste. Vitalité 2.\n<b>Interruption forcée</b> : quand Solus vous attaque, il attaque si possible un personnage [[web-warrior]] à la place.\n [star] <b>Boost </b>: si cette activation est une attaque, cette attaque gagne Déferlement.",
+        "traits": " Élite. Héritier.",
         "type_code": "minion"
     },
     {
@@ -291,7 +291,7 @@
         "quantity": 2,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 13,
-        "text": "<b>Une fois r\u00e9v\u00e9l\u00e9e </b>: pour chaque ennemi [[h\u00e9ritier ]]en jeu choisissez : soit vous placez 1 menace sur la manigance principale (2 menaces en mode expert), soit vous subissez 2 d\u00e9g\u00e2ts indirects.",
+        "text": "<b>Une fois révélée </b>: pour chaque ennemi [[héritier ]]en jeu choisissez : soit vous placez 1 menace sur la manigance principale (2 menaces en mode expert), soit vous subissez 2 dégâts indirects.",
         "type_code": "treachery"
     },
     {
@@ -305,35 +305,35 @@
         "quantity": 2,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 15,
-        "text": "<b>Une fois r\u00e9v\u00e9l\u00e9e </b>: cherchez dans votre deck ou dans le deck Rencontre un alli\u00e9 [[web-warrior]] et mettez-le en jeu sous votre contr\u00f4le. Le m\u00e9chant attaque cet alli\u00e9. (<i>Cette attaque peut-\u00eatre d\u00e9fendue par un personnage ami</i>). Si aucun alli\u00e9 n'est mis en jeu de cette fa\u00e7on placez 2 menaces sur la manigance principale.",
+        "text": "<b>Une fois révélée </b>: cherchez dans votre deck ou dans le deck Rencontre un allié [[web-warrior]] et mettez-le en jeu sous votre contrôle. Le méchant attaque cet allié. (<i>Cette attaque peut-être défendue par un personnage ami</i>). Si aucun allié n'est mis en jeu de cette façon placez 2 menaces sur la manigance principale.",
         "type_code": "treachery"
     },
     {
         "boost": 2,
         "code": "210315",
         "faction_code": "encounter",
-        "name": "Revigor\u00e9s",
+        "name": "Revigorés",
         "octgn_id": "4bce472d-462d-4a4d-aeb2-90a2ce103015",
         "pack_code": "inheritors_by_merlin",
         "position": 15,
         "quantity": 2,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 17,
-        "text": "<b>Une fois r\u00e9v\u00e9l\u00e9e </b>: donnez une carte d'\u00e9tat tenace \u00e0 chaque ennemi [[h\u00e9ritier]] en jeu. Morlun s'active contre vous.\n<i>\u201cTu ne fais pas le poids, Petit Totem.\u201d</i>",
+        "text": "<b>Une fois révélée </b>: donnez une carte d'état tenace à chaque ennemi [[héritier]] en jeu. Morlun s'active contre vous.\n<i>“Tu ne fais pas le poids, Petit Totem.”</i>",
         "type_code": "treachery"
     },
     {
         "boost": 3,
         "code": "210316",
         "faction_code": "encounter",
-        "name": "D\u00e9vorer l'Essence",
+        "name": "Dévorer l'Essence",
         "octgn_id": "4bce472d-462d-4a4d-aeb2-90a2ce103016",
         "pack_code": "inheritors_by_merlin",
         "position": 16,
         "quantity": 3,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 19,
-        "text": "<b>Une fois r\u00e9v\u00e9l\u00e9e </b>: infligez 2 d\u00e9g\u00e2ts \u00e0 un alli\u00e9 [[web-warrior]] que vous contr\u00f4lez. Si vous ne pouvez pas subissez 2 d\u00e9gats indirects (3 d\u00e9g\u00e2ts en mode expert). Soignez 2 d\u00e9g\u00e2ts de Morlun.",
+        "text": "<b>Une fois révélée </b>: infligez 2 dégâts à un allié [[web-warrior]] que vous contrôlez. Si vous ne pouvez pas subissez 2 dégats indirects (3 dégâts en mode expert). Soignez 2 dégâts de Morlun.",
         "type_code": "treachery"
     },
     {
@@ -348,7 +348,7 @@
         "quantity": 1,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 22,
-        "text": "<i>Les h\u00e9ritiers recherchent l'Enfant de la proph\u00e9tie.\n</i><b>R\u00e9ponse forc\u00e9e</b> : apr\u00e8s le d\u00e9but de la phase du m\u00e9chant, d\u00e9placez 1 menace de cette manigance vers la manigance principale.\n<b>Une fois d\u00e9jou\u00e9e</b> : chaque joueur d\u00e9fausse une carte de sa main.\n[crisis]",
+        "text": "<i>Les héritiers recherchent l'Enfant de la prophétie.\n</i><b>Réponse forcée</b> : après le début de la phase du méchant, déplacez 1 menace de cette manigance vers la manigance principale.\n<b>Une fois déjouée</b> : chaque joueur défausse une carte de sa main.\n[crisis]",
         "type_code": "side_scheme"
     },
     {
@@ -363,7 +363,7 @@
         "quantity": 1,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 23,
-        "text": "<i>Les h\u00e9ritiers pourchassent Silk \u00e0 travers le multivers.\n</i><b>R\u00e9ponse forc\u00e9e</b> : apr\u00e8s le d\u00e9but de la phase du m\u00e9chant, d\u00e9placez 1 menace de cette manigance vers la manigance principale.\n<b>Une fois d\u00e9jou\u00e9e</b> : chaque joueur inflige 2 d\u00e9g\u00e2ts \u00e0 l'un de ses alli\u00e9s.\n[amplify]",
+        "text": "<i>Les héritiers pourchassent Silk à travers le multivers.\n</i><b>Réponse forcée</b> : après le début de la phase du méchant, déplacez 1 menace de cette manigance vers la manigance principale.\n<b>Une fois déjouée</b> : chaque joueur inflige 2 dégâts à l'un de ses alliés.\n[amplify]",
         "type_code": "side_scheme"
     },
     {
@@ -378,7 +378,7 @@
         "quantity": 1,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 24,
-        "text": "<i>\u201cJe dois finir cela ! ici et maintenant.\u201d\n</i><b>R\u00e9ponse forc\u00e9e</b> : apr\u00e8s le d\u00e9but de la phase du m\u00e9chant, d\u00e9placez 1 menace de cette manigance vers la manigance principale.\n<b>Une fois d\u00e9jou\u00e9e</b> : chaque joueur d\u00e9fausse 3 cartes du dessus de son deck.\n[hazard]",
+        "text": "<i>“Je dois finir cela ! ici et maintenant.”\n</i><b>Réponse forcée</b> : après le début de la phase du méchant, déplacez 1 menace de cette manigance vers la manigance principale.\n<b>Une fois déjouée</b> : chaque joueur défausse 3 cartes du dessus de son deck.\n[hazard]",
         "type_code": "side_scheme"
     },
     {
@@ -397,7 +397,7 @@
         "set_code": "festin_totemique_by_merlin",
         "set_position": 25,
         "subname": "norman osborn",
-        "text": "Renfort.\n<b>Une fois r\u00e9v\u00e9l\u00e9e </b>:<b> </b>mettez en jeu Spider-Man sous votre contr\u00f4le.\n<b>R\u00e9ponse </b>: apr\u00e8s que Spider-Man a attaqu\u00e9, redressez-le (limite d'une fois par round).\n [star] <b>Boost </b>: mettez en jeu Spider-Man sous votre contr\u00f4le. Donnez une autre carte de boost \u00e0 cet ennemi.",
+        "text": "Renfort.\n<b>Une fois révélée </b>:<b> </b>mettez en jeu Spider-Man sous votre contrôle.\n<b>Réponse </b>: après que Spider-Man a attaqué, redressez-le (limite d'une fois par round).\n [star] <b>Boost </b>: mettez en jeu Spider-Man sous votre contrôle. Donnez une autre carte de boost à cet ennemi.",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
@@ -419,7 +419,7 @@
         "set_code": "festin_totemique_by_merlin",
         "set_position": 26,
         "subname": "May Parker",
-        "text": "Renfort.\n<b>Une fois r\u00e9v\u00e9l\u00e9e </b>:<b> </b>mettez en jeu Spider-Woman sous votre contr\u00f4le.\n<b>Interruption de h\u00e9ros </b>: quand vous utilisez un pouvoir de base, inclinez Spider-Woman \u2192 vous gagnez +1 \u00e0 ce pouvoir pour cette utilisation.\n [star] <b>Boost </b>: mettez en jeu Spider-Woman sous votre contr\u00f4le. Donnez une autre carte de boost \u00e0 cet ennemi.\n<i>Terre-982.\n</i>",
+        "text": "Renfort.\n<b>Une fois révélée </b>:<b> </b>mettez en jeu Spider-Woman sous votre contrôle.\n<b>Interruption de héros </b>: quand vous utilisez un pouvoir de base, inclinez Spider-Woman → vous gagnez +1 à ce pouvoir pour cette utilisation.\n [star] <b>Boost </b>: mettez en jeu Spider-Woman sous votre contrôle. Donnez une autre carte de boost à cet ennemi.\n<i>Terre-982.\n</i>",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
@@ -441,8 +441,8 @@
         "quantity": 1,
         "set_code": "festin_totemique_by_merlin",
         "set_position": 27,
-        "subname": "alli\u00e9 de la toile",
-        "text": "Renfort.\n<b>Une fois r\u00e9v\u00e9l\u00e9e </b>:<b> </b>mettez en jeu Spiders-Man sous votre contr\u00f4le.\n[star]<b> Interruption </b>: quand Spiders-man attaque, il attaque chaque ennemi en jeu.\n [star] <b>Boost </b>: mettez en jeu Spiders-Man sous votre contr\u00f4le. Donnez une autre carte de boost \u00e0 cet ennemi.",
+        "subname": "allié de la toile",
+        "text": "Renfort.\n<b>Une fois révélée </b>:<b> </b>mettez en jeu Spiders-Man sous votre contrôle.\n[star]<b> Interruption </b>: quand Spiders-man attaque, il attaque chaque ennemi en jeu.\n [star] <b>Boost </b>: mettez en jeu Spiders-Man sous votre contrôle. Donnez une autre carte de boost à cet ennemi.",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
@@ -464,7 +464,7 @@
         "set_code": "festin_totemique_by_merlin",
         "set_position": 28,
         "subname": "jessica Drew",
-        "text": "Renfort.\n<b>Une fois r\u00e9v\u00e9l\u00e9e </b>:<b> </b>mettez en jeu Black Widow sous votre contr\u00f4le.\n<b>Action </b>: inclinez Black Widow \u2192 regarder la carte du dessus du deck Rencontre.\n [star] <b>Boost </b>: mettez en jeu Black Widow sous votre contr\u00f4le. Donnez une autre carte de boost \u00e0 cet ennemi.",
+        "text": "Renfort.\n<b>Une fois révélée </b>:<b> </b>mettez en jeu Black Widow sous votre contrôle.\n<b>Action </b>: inclinez Black Widow → regarder la carte du dessus du deck Rencontre.\n [star] <b>Boost </b>: mettez en jeu Black Widow sous votre contrôle. Donnez une autre carte de boost à cet ennemi.",
         "thwart": 2,
         "thwart_cost": 1,
         "traits": "Web-Warrior.",
@@ -475,14 +475,14 @@
         "boost": 2,
         "code": "210324",
         "faction_code": "encounter",
-        "name": "Enlev\u00e9.e et S\u00e9questr\u00e9.e",
+        "name": "Enlevé.e et Séquestré.e",
         "octgn_id": "4bce472d-462d-4a4d-aeb2-90a2ce103024",
         "pack_code": "inheritors_by_merlin",
         "position": 24,
         "quantity": 1,
         "set_code": "pouvoir_totemique_by_merlin",
         "set_position": 1,
-        "text": "<i>Qui a disparu.e ?\n</i><b>Une fois r\u00e9v\u00e9l\u00e9e</b> : chaque joueur incline un personnage qu'il contr\u00f4le. Pour chaque joueur qui ne peut pas faire cet effet, placez 3 menaces sur cette manigance.\n[crisis]",
+        "text": "<i>Qui a disparu.e ?\n</i><b>Une fois révélée</b> : chaque joueur incline un personnage qu'il contrôle. Pour chaque joueur qui ne peut pas faire cet effet, placez 3 menaces sur cette manigance.\n[crisis]",
         "type_code": "side_scheme"
     },
     {
@@ -500,7 +500,7 @@
         "scheme": 2,
         "set_code": "pouvoir_totemique_by_merlin",
         "set_position": 2,
-        "text": "Garde. Vil\u00e9nie.\n<b>Une fois r\u00e9v\u00e9l\u00e9e</b> : vous \u00eates d\u00e9sorient\u00e9.\n<i>\u201cTon destin est d'\u00eatre d'une proie.\u201d</i>",
+        "text": "Garde. Vilénie.\n<b>Une fois révélée</b> : vous êtes désorienté.\n<i>“Ton destin est d'être d'une proie.”</i>",
         "traits": "Totem.",
         "type_code": "minion"
     },
@@ -508,14 +508,14 @@
         "boost": 1,
         "code": "210326",
         "faction_code": "encounter",
-        "name": "D\u00e9dale du Multivers",
+        "name": "Dédale du Multivers",
         "octgn_id": "4bce472d-462d-4a4d-aeb2-90a2ce103026",
         "pack_code": "inheritors_by_merlin",
         "position": 26,
         "quantity": 1,
         "set_code": "pouvoir_totemique_by_merlin",
         "set_position": 4,
-        "text": "<b>Une fois r\u00e9v\u00e9l\u00e9e (alter ego) </b>: subissez 1 d\u00e9g\u00e2t indirect. Si vous ne contr\u00f4lez pas un personnage [[web-warrior]], vous \u00eates d\u00e9sorient\u00e9.\n<b>Une fois r\u00e9v\u00e9l\u00e9e (h\u00e9ros) </b>: subissez 1 d\u00e9g\u00e2t indirect. Si vous ne contr\u00f4lez pas un personnage [[web-warrior]], vous \u00eates sonn\u00e9.",
+        "text": "<b>Une fois révélée (alter ego) </b>: subissez 1 dégât indirect. Si vous ne contrôlez pas un personnage [[web-warrior]], vous êtes désorienté.\n<b>Une fois révélée (héros) </b>: subissez 1 dégât indirect. Si vous ne contrôlez pas un personnage [[web-warrior]], vous êtes sonné.",
         "traits": "Totem.",
         "type_code": "treachery"
     },
@@ -523,14 +523,14 @@
         "boost": 1,
         "code": "210327",
         "faction_code": "encounter",
-        "name": "D\u00e9dale du Multivers",
+        "name": "Dédale du Multivers",
         "octgn_id": "4bce472d-462d-4a4d-aeb2-90a2ce103027",
         "pack_code": "inheritors_by_merlin",
         "position": 27,
         "quantity": 1,
         "set_code": "pouvoir_totemique_by_merlin",
         "set_position": 3,
-        "text": "<b>Une fois r\u00e9v\u00e9l\u00e9e (alter ego) </b>: subissez 1 d\u00e9g\u00e2t indirect. Si vous ne contr\u00f4lez pas un personnage [[web-warrior]], vous \u00eates d\u00e9sorient\u00e9.\n<b>Une fois r\u00e9v\u00e9l\u00e9e (h\u00e9ros) </b>: subissez 1 d\u00e9g\u00e2t indirect. Si vous ne contr\u00f4lez pas un personnage [[web-warrior]], vous \u00eates sonn\u00e9.",
+        "text": "<b>Une fois révélée (alter ego) </b>: subissez 1 dégât indirect. Si vous ne contrôlez pas un personnage [[web-warrior]], vous êtes désorienté.\n<b>Une fois révélée (héros) </b>: subissez 1 dégât indirect. Si vous ne contrôlez pas un personnage [[web-warrior]], vous êtes sonné.",
         "traits": "Totem.",
         "type_code": "treachery"
     },
@@ -545,7 +545,7 @@
         "quantity": 2,
         "set_code": "pouvoir_totemique_by_merlin",
         "set_position": 5,
-        "text": "<b>Une fois r\u00e9v\u00e9l\u00e9e</b> : infligez 1 d\u00e9g\u00e2t \u00e0 chaque personnage [[web-warrior]] que vous contr\u00f4lez. Si aucun d\u00e9g\u00e2t n'est inflig\u00e9 par cet effet, subissez 3 d\u00e9g\u00e2ts indirects et vous \u00eates sonn\u00e9.",
+        "text": "<b>Une fois révélée</b> : infligez 1 dégât à chaque personnage [[web-warrior]] que vous contrôlez. Si aucun dégât n'est infligé par cet effet, subissez 3 dégâts indirects et vous êtes sonné.",
         "traits": "Totem.",
         "type_code": "treachery"
     }

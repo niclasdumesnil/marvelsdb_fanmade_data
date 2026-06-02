@@ -1,0 +1,55 @@
+{
+	"code": "awesome_campaign_volume_1_by_steele_hull",
+	"name": "Awesome Campaign Volume 1",
+	"creator": "Steele Hull",
+	"type": "custom",
+	"position": 101,
+	"description": "Campaign mode combines five scenarios into an epic experience where the outcome of each game impacts the next scenario. To complete the campaign, the players must win all five scenarios in numerical order, starting with scenario #1 ('Moonage Daydream') and ending with scenario #5 ('Spirit in the Sky').<br><br><b>Hero Selection:</b> Hero selection is restricted to identities that do NOT have the Guardian trait on any of their forms.<br><br><b>Guardian Influence:</b> The Guardians take what they do very seriously. If you want their respect, you gotta impress. After each scenario in the campaign, players will record in their campaign log the amount of influence each player earned and add it to their total. During Setup of the final mission, players will have an opportunity turn those influence points in for their choice of a variety of rewards.",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [
+			"Guardian Ally",
+			"Last Villain Defeated"
+		],
+		"counters": [
+			"Guardian Influence",
+			"Number of Delay Counters"
+		],
+		"checkboxes": [
+			"M.O.D.O.K. In Play?",
+			"The Sleeper Active?"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Moonage Daydream"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Ain't No Mountain High Enough"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Escape"
+			}
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - Cherry Bomb"
+			}
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - Spirit in the Sky"
+			}
+		}
+	]
+}

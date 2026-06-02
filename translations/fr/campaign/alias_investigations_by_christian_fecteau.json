@@ -1,0 +1,41 @@
+{
+	"code": "alias_investigations_by_christian_fecteau",
+	"name": "Alias Investigations",
+	"creator": "Christian Fecteau",
+	"type": "custom",
+	"position": 110,
+	"description": "Incarnez Jessica Jones et résolvez des enquêtes complexes à New York contre les pires menaces de la pègre criminelle.",
+	"epilogue": "Victoire !",
+	"metadata": {
+		"trackers": [
+			"Leads Pursued",
+			"Evidence Collected",
+			"Victims Rescued"
+		],
+		"counters": [
+			"Jessica Wounds",
+			"Victory Points"
+		],
+		"checkboxes": []
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Rhino (AKA Fight at the Facility)"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Sentinel (AKA Brawl at the Mall)"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - The Kidnapper (AKA The Final Battle)"
+			}
+		}
+	]
+}

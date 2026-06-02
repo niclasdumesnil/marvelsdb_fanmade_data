@@ -1,0 +1,61 @@
+{
+	"code": "house_of_mojo_by_amanda_shagoury",
+	"name": "House of Mojo",
+	"creator": "Amanda Shagoury",
+	"type": "custom",
+	"position": 111,
+	"description": "<i>This winter the hit TV show everyone has been talking about returns after 20 years. With five years and eight seasons of content to reference, what twists and turns will happen this season on House of Mojo?</i><br><br>This campaign is a celebration of Marvel Champions: The Card Game's 5-year anniversary. Players will take on a specific role within the team. This role will determine what upgrades can be unlocked by that player.",
+	"epilogue": "",
+	"metadata": {
+		"trackers": [
+			"Role",
+			"Market or Shawarma",
+			"Player Side Scheme"
+		],
+		"counters": [],
+		"checkboxes": [
+			"Flight",
+			"Super Strength",
+			"Telepathy",
+			"Training Side Scheme Thwarted",
+			"Hellfire Club Disbanded",
+			"Sauron Encountered",
+			"Advanced 1",
+			"Advanced 2",
+			"The Team Has Gotten Stronger",
+			"Escaped Genosha"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"narrative": {
+				"title": "Scénario #1 - Training for the End of the World"
+			}
+		},
+		{
+			"position": 2,
+			"narrative": {
+				"title": "Scénario #2 - Wanda’s Vision"
+			}
+		},
+		{
+			"position": 3,
+			"narrative": {
+				"title": "Scénario #3 - Balance Will Be Restored"
+			}
+		},
+		{
+			"position": 4,
+			"narrative": {
+				"title": "Scénario #4 - Saving Grace"
+			}
+		},
+		{
+			"position": 5,
+			"narrative": {
+				"title": "Scénario #5 - Mojo All Along"
+			}
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"code": "realms_campaign_by_jammydude44",
+	"name": "War of the Realms",
+	"creator": "Jammydude44",
+	"type": "custom",
+	"position": 5035,
+	"description": "Welcome to the War of the Realms, a three-scenario campaign expansion for Marvel Champions The Card Game! Everything you need to play the campaign is in this deck of cards. This expansion tells the story of Malekith the Accursed and his Dark Council as they attempt to conquer the Ten Realms.",
+	"epilogue": "If the players won the scenario, they have succeeded in defeating Malekith! Thanks to the efforts of the heroes, the ten realms begin to rebuild, the Dark Council scatters and Thor's bravery is recognised as his father grants him the title King of Asgard.\n<br><hr>\nIf the players lost the scenario, Malekith succeeds in defeating his greatest enemies and watches in glee as the House of Odin crumbles along with the other ten realms. The Dark Council rule over Earth, with Malekith himself as King of the Realms.",
+	"image": "war_of_the_realms.jpg",
+	"visibility": "false",
+	"metadata": {
+		"layout": "realms_campaign",
+		"trackers": [
+			"Notes de Campagne (Campaign Notes)"
+		],
+		"counters": [],
+		"checkboxes": [
+			"Usines de Roxxon Détruites (Roxxon Factories Destroyed)",
+			"Asgard Secouru (Assisted Asgard)",
+			"Blessures Soignées (Healed Our Wounds)",
+			"Retour Précipité (Rushed Back)",
+			"Monture Joueur 1 Rescapée (Player 1 Steed Survived)",
+			"Monture Joueur 2 Rescapée (Player 2 Steed Survived)",
+			"Monture Joueur 3 Rescapée (Player 3 Steed Survived)",
+			"Monture Joueur 4 Rescapée (Player 4 Steed Survived)",
+			"Mode Expert (Expert Mode)",
+			"Roxxon Résolu (Roxxon Resolved)",
+			"Laufey Résolu (Laufey Resolved)",
+			"Malekith Résolu (Malekith Resolved)"
+		]
+	},
+	"scenarios": [
+		{
+			"position": 1,
+			"scenario_uuid": "f89d42f8c5b1",
+			"narrative": {
+				"title": "Scenario #1 - Roxxon",
+				"description": "Dario Agger has taken over Roxxon Energy as it's new CEO. Thanks to the tireless efforts of S.H.I.E.L.D agent Roz Solomon, new information has come to light about Roxxon's rapid expansion. In particular, Dario appears to have struck some deals with a cabal of dangerous individuals, but to what end? If that wasn't enough, witnesses have seen what Dario can turn into when attacked - a vicious Minotaur!",
+				"introduction": "Set up the scenario as normal. Then, do the following:\n1 - Attach the 'Roxxon Factories' attachment to the Roxxon Energy environment.\n2 - Put the Agent Solomon ally into play under the first player's control.\nOnce you have completed the scenario, win or lose, follow the Campaign Resolution steps.",
+				"resolution": "<i>War is coming! Thanks to your mission to find out more about Roxxon and the Dark Council, you've quickly learned of the Dark Elf Malekith the Accursed and his plot to conquer the ten realms.\nDuring your battles with Roxxon, you've been able identify the location of some hidden Roxxon factories in the Antarctic. But before you can investigate, an urgent communication comes through from the Galactic Council - the vicious Mangog has been summoned by Malekith and he is intent on destroying the last remnants of Asgard.</i>\n<br><hr>\nPlayers as a group must choose to either 'Destroy Roxxon's factories' or 'Assist Asgard' and write their choice in the Campaign Log.",
+				"illustration_codes": [
+					"503501",
+					"503502",
+					"503503"
+				]
+			}
+		},
+		{
+			"position": 2,
+			"scenario_uuid": "a7c2b4e9f1a8",
+			"narrative": {
+				"title": "Scenario #2 - Laufey",
+				"description": "<i>Recognising the one hero who could get in his way is his old foe, Thor Odinson, Malekith tricks Thor into an ambush in the land of the Frost Giants, Jotunheim! While most of the heroes of Earth stay back to defend against Malekith's invasion, you've been tasked with rescuing Thor and bringing him back for the decisive battle.</i>",
+				"introduction": "Set up the scenario as normal. Then, do the following:\n1 - Put a 'Valkyrior Steed' support into play under the control of each player.\n2 - If 'Assist Asgard' is not in the campaign log, reveal the 'Mangog Rampage' side scheme and put it into play.\nOnce you have completed the scenario, win or lose, follow the Campaign Resolution steps.",
+				"resolution": "<i>The battle in Jotunheim has left you exhausted, but you are aware of the pressing need to return to Earth to repel Malekith's forces.</i>\nEach player who has at least 1 flight counter on a Valkyrior Steed support notes their 'Steed Survived' in the campaign log.\nPlayers must choose to either 'Heal our wounds' or 'Rush back to Earth' and write their choice in the campaign log.",
+				"illustration_codes": [
+					"503528",
+					"503529",
+					"503530"
+				]
+			}
+		},
+		{
+			"position": 3,
+			"scenario_uuid": "c4d9e8b1a3d2",
+			"narrative": {
+				"title": "Scenario #3 - Malekith",
+				"description": "<i>Malekith has conquered nine of the ten realms, and Earth is bowing to his control. All roads lead to England in a final stand by the heroes.</i>",
+				"introduction": "Set up the scenario as normal. Then, do the following:\n1 - Each player whose 'Steed Survived' puts a Valkyrior Steed support into play under their control.\n2 - If 'Destroy Roxxon's Factories' is not in the campaign log, shuffle in 1 copy of 'Air Support' into the encounter deck. If the players have lost either of the previous two scenarios, shuffle two copies in instead.\n3 - Search for the encounter deck for the Ebony Sword attachment and remove it from the game.\n4 - Shuffle 'Malekith's Venom Blade', 'Butcher of Thors' and 'Power of the Symbiote' into the encounter deck.\n5 - If 'Heal their Wounds' is in the campaign log, place 1 threat on each Conquered Territory side scheme.\n6 - If 'Rush Back to Earth' is in the campaign log, each player shuffles in a 'Frostbite' obligation into their deck.\n7 - Put the 'Iron Odinson' ally into play under the control of the first player.\nOnce you have completed the scenario, win or lose, follow the Campaign Resolution steps.",
+				"resolution": "<b>If the players won the scenario, they have succeeded in defeating Malekith!</b>\nThanks to the efforts of the heroes, the ten realms begin to rebuild, the Dark Council scatters and Thor's bravery is recognised as his father grants him the title King of Asgard.\n<br><hr>\nIf the players lost the scenario, Malekith succeeds in defeating his greatest enemies and watches in glee as the House of Odin crumbles along with the other ten realms. The Dark Council rule over Earth, with Malekith himself as King of the Realms.",
+				"illustration_codes": [
+					"503557a",
+					"503557b",
+					"503558a",
+					"503558b"
+				]
+			}
+		}
+	]
+}
