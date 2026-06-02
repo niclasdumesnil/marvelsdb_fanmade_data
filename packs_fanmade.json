@@ -1265,5 +1265,19 @@
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
+    },
+    {
+        "cgdb_id": 61,
+        "code": "jessica_jones_by_ffg",
+        "creator": "FFG",
+        "date_release": "2026-06-02",
+        "name": "Jessica Jones",
+        "octgn_id": "7f19133c-13a9-4b3e-a364-bf17416b5119",
+        "pack_type_code": "hero_fanmade",
+        "position": 61,
+        "size": 35,
+        "status": "sealed",
+        "theme": "Marvel",
+        "visibility": "false"
     }
 ]

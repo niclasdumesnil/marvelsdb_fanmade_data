@@ -1532,5 +1532,10 @@
     "name": "Sense Deck",
     "card_set_type_code": "hero_special",
     "parent_code": "daredevil_by_ffg"
+  },
+  {
+    "code": "jessica_jones_by_ffg",
+    "name": "Jessica Jones",
+    "card_set_type_code": "hero"
   }
 ]
