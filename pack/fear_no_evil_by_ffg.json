@@ -1002,7 +1002,7 @@
 		"resource_energy": 2,
 		"text": "Max 1 per deck.",
 		"traits": "Resource.",
-		"type_code": "upgrade",
+		"type_code": "resource",
 		"duplicate_of_name": "",
 		"alt_art": true
 	},
@@ -1019,7 +1019,7 @@
 		"quantity": 1,
 		"resource_mental": 2,
 		"text": "Max 1 per deck.",
-		"type_code": "upgrade",
+		"type_code": "resource",
 		"duplicate_of_name": "",
 		"alt_art": true
 	},
