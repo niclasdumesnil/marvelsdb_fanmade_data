@@ -17,7 +17,7 @@
 		"position": 1,
 		"quantity": 1,
 		"set_code": "jessica_jones_by_ffg",
-		"text": "[star] [[Gather Evidence]] — <b>Response</b>: After you use a basic power, place 1 evidence counter on Alias Investigations.",
+		"text": "[star] <i>Gather Evidence</i> — <b>Response</b>: After you use a basic power, place 1 evidence counter on Alias Investigations.",
 		"thwart": 3,
 		"traits": "Defender.",
 		"type_code": "hero",
@@ -40,7 +40,7 @@
 		"quantity": 1,
 		"recover": 4,
 		"set_code": "jessica_jones_by_ffg",
-		"text": "Incognito Mode — <b>Action</b>: Change to hero form. You cannot change back to alter-ego form this phase.\n<b>Setup:</b> Put the Alias Investigations support into play.",
+		"text": "<i>Incognito Mode</i> — <b>Action</b>: Change to hero form. You cannot change back to alter-ego form this phase.\n<b>Setup:</b> Put the Alias Investigations support into play.",
 		"traits": "Civilian.",
 		"type_code": "alter_ego",
 		"duplicate_of_name": ""
@@ -108,7 +108,7 @@
 		"resource_physical": 1,
 		"set_code": "jessica_jones_by_ffg",
 		"set_position": 3,
-		"text": "Hero Action (attack): Deal 3 damage to an enemy. You may remove 1 evidence counter from Alias Investigations to deal 2 additional damage and for this attack to gain either overkill or piercing.",
+		"text": "<b>Hero Action</b> (<i>attack</i>): Deal 3 damage to an enemy. You may remove 1 evidence counter from Alias Investigations to deal 2 additional damage and for this attack to gain either overkill or piercing.",
 		"traits": "ATTACK.",
 		"type_code": "event",
 		"duplicate_of_name": ""
@@ -146,7 +146,7 @@
 		"resource_energy": 1,
 		"set_code": "jessica_jones_by_ffg",
 		"set_position": 6,
-		"text": "<b>Alter-Ego Action</b> (thwart): Remove 4 threat from a scheme and place 2 evidence counters on Alias Investigations. Discard the top card of the encounter deck. If that card is a minion or side scheme, reveal it.",
+		"text": "<b>Alter-Ego Action</b> (<i>thwart</i>): Remove 4 threat from a scheme and place 2 evidence counters on Alias Investigations. Discard the top card of the encounter deck. If that card is a minion or side scheme, reveal it.",
 		"traits": "THWART.",
 		"type_code": "event",
 		"duplicate_of_name": ""
@@ -165,7 +165,7 @@
 		"resource_mental": 1,
 		"set_code": "jessica_jones_by_ffg",
 		"set_position": 10,
-		"text": "<b>Alter-Ego <b>Action</b>:</b> Remove 2 evidence counters from Alias Investigations and exhaust Calling in Favors → search your deck for an ally and play it as if it were in your hand, reducing its resource cost by 2. (Shuffle.)",
+		"text": "<b>Alter-Ego Action</b>: Remove 2 evidence counters from Alias Investigations and exhaust Calling in Favors → search your deck for an ally and play it as if it were in your hand, reducing its resource cost by 2. (<i>Shuffle</i>.)",
 		"type_code": "support",
 		"duplicate_of_name": ""
 	},
@@ -244,7 +244,7 @@
 		"resource_physical": 1,
 		"set_code": "jessica_jones_by_ffg",
 		"set_position": 14,
-		"text": "<b>Forced Response (attack):</b> After the villain activates against a player, if you are in alter-ego form, change to hero form. Deal 5 damage to the villain and each minion engaged with that player. Discard this card.",
+		"text": "<b>Forced Response</b> (<i>attack</i>): After the villain activates against a player, if you are in alter-ego form, change to hero form. Deal 5 damage to the villain and each minion engaged with that player. Discard this card.",
 		"traits": "Condition.",
 		"type_code": "upgrade",
 		"duplicate_of_name": ""
@@ -264,7 +264,7 @@
 		"resource_energy": 1,
 		"set_code": "jessica_jones_by_ffg",
 		"set_position": 15,
-		"text": "<b>Hero Interrupt</b> (defense): When you would take at least 3 damage from an attack, discard this card → prevent all of that attack's damage. Take 1 damage.",
+		"text": "<b>Hero Interrupt</b> (<i>defense</i>): When you would take at least 3 damage from an attack, discard this card → prevent all of that attack's damage. Take 1 damage.",
 		"traits": "Aerial. Preparation.",
 		"type_code": "upgrade",
 		"duplicate_of_name": ""
@@ -283,7 +283,7 @@
 		"resource_wild": 1,
 		"set_code": "jessica_jones_by_ffg",
 		"set_position": 16,
-		"text": "[[TACTIC.]]\n<b>Action</b>: If this card is in your play area, attach it to a non-permanent encounter side scheme.\n<b>Interrupt</b>: When a character thwarts attached scheme, that thwart removes 2 additional threat. If that thwart defeats attached scheme, place 2 evidence counters on Alias Investigations.",
+		"text": "<b>Action</b>: If this card is in your play area, attach it to a non-permanent encounter side scheme.\n<b>Interrupt</b>: When a character thwarts attached scheme, that thwart removes 2 additional threat. If that thwart defeats attached scheme, place 2 evidence counters on Alias Investigations.",
 		"traits": "Tactic.",
 		"type_code": "upgrade",
 		"duplicate_of_name": ""
@@ -365,7 +365,7 @@
 		"position": 19,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "Restricted.\n<b>Hero Action</b>: Discard this card → make a basic thwart without exhausting <i>(even if you are exhausted</i>). For this thwart, your hero gets +1 THW and ignores the patrol keyword and any [crisis] icons in play.",
+		"text": "Restricted.\n<b>Hero Action</b>: Discard this card → make a basic thwart without exhausting (<i>even if you are exhausted</i>). For this thwart, your hero gets +1 THW and ignores the patrol keyword and any [crisis] icons in play.",
 		"traits": "Item.",
 		"type_code": "upgrade",
 		"duplicate_of_name": ""
@@ -416,7 +416,7 @@
 		"position": 22,
 		"quantity": 1,
 		"resource_physical": 1,
-		"text": "\nTeam-Up (Jessica Jones and Luke Cage). Max 1 per deck.\n<b>Hero Action</b>: (<i>thwart</i>): Remove 3 threat from a scheme. Heal a total of 3 damage from among Jessica Jones and Luke Cage.",
+		"text": "\nTeam-Up (<i>Jessica Jones and Luke Cage</i>). Max 1 per deck.\n<b>Hero Action</b>: (<i>thwart</i>): Remove 3 threat from a scheme. Heal a total of 3 damage from among Jessica Jones and Luke Cage.",
 		"type_code": "event",
 		"duplicate_of_name": "",
 		"traits": "THWART."
