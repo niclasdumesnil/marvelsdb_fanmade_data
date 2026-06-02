@@ -10,7 +10,7 @@
 		"code": "44102",
 		"name": "Moon Knight",
 		"subname": "Marc Spector",
-		"text": "<b>Réponse forcée</b>: près que Moon Knight est entré en jeu, défaussez une carte de votre main. Si cette carte a comme ressource imprimée : \n[energy] - Piochez une carte.\n[mental] - Désorientez un ennemi.\n[physical] - Sonnez un ennemi\n[wild] - Choisissez 2 des options ci-dessus.",
+		"text": "<b>Réponse forcée</b>: après que Moon Knight est entré en jeu, défaussez une carte de votre main. Si cette carte a comme ressource imprimée : \n[energy] - Piochez une carte.\n[mental] - Désorientez un ennemi.\n[physical] - Sonnez un ennemi.\n[wild] - Choisissez 2 des options ci-dessus.",
 		"traits": "Avenger. Héros à Louer."
 	},
 	{
@@ -54,7 +54,7 @@
 	{
 		"code": "44109",
 		"name": "Syndrome du Héros",
-		"text": "<b>Interruption de héros</b> : quand un allié que vous contrôlez est censé subir des dégâts consécutifs, inclinez le Complexe du Sauveur → infligez ces dégâts à votre héros à la place.",
+		"text": "<b>Interruption de héros</b> : quand un allié que vous contrôlez est censé subir des dégâts consécutifs, inclinez le Syndrome du Héros → infligez ces dégâts à votre héros à la place.",
 		"flavor": "\"... Je les sauverai\" - Angel",
 		"traits": "Condition."
 	},
@@ -85,7 +85,7 @@
 	{
 		"code": "44114",
 		"name": "Contre-Offensive",
-		"text": "1 max par joueur.\n<b>Réponse de héros</b> : après qu'une attaque avec déferlement a vaincu un allié que vous contrôlez et vous a blessé, défaussez Contre-Attaque → infligez X dégâts à un ennemi, où X est la somme des ATQ de cet allié et de votre héros.",
+		"text": "1 max par joueur.\n<b>Réponse de héros</b> : après qu'une attaque avec déferlement a vaincu un allié que vous contrôlez et vous a blessé, défaussez Contre-Offensive → infligez X dégâts à un ennemi, où X est la somme des ATQ de cet allié et de votre héros.",
 		"traits": "Préparation."
 	},
 	{
@@ -107,6 +107,7 @@
 		"code": "44117",
 		"name": "Masochisme",
 		"text": "<b>Réponse de héros</b> : après que vous avez subi plus de 3 dégâts, piochez X cartes où X est la quantité de dégâts que vous avez subi au-delà de 3.",
+		"flavor": "\"À chaque respiration la douleur s'intensifie. Elle alimente mon pouvoir.\"",
 		"traits": "Tactique."
 	},
 	{
@@ -132,14 +133,15 @@
 	{
 		"code": "44121",
 		"name": "Spontanéité",
-		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur.\n1 max par joueur.\n<b>Ressource</b> : inclinez Spontanéité et subissez 1 dégât → générez une ressource [wild] pour un événement Détermination (<i>violette</i>).",
+		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur.\n1 max par joueur.\n<b>Ressource</b> : inclinez Spontanéité et subissez 1 dégât → générez une ressource [wild] pour un événement Détermination.",
 		"traits": "Compétence."
 	},
 	{
 		"code": "44122",
 		"name": "La Cape",
 		"subname": "Tyrone Johnson",
-		"text": "Vous pouvez jouer les cartes attachées à La Cape comme si elles étaient dans votre main.\n<b>Action de héros</b> : inclinez La Cape → choisissez un allié ou une amélioration de votre main et attachez à cette carte à La Cape face cachée.",
+		"text": "Vous pouvez jouer les cartes attachées à La Cape comme si elles étaient dans votre main.\n<b>Action de héros</b> : inclinez La Cape → choisissez un allié ou une amélioration de votre main et attachez cette carte à La Cape face cachée.",
+		"flavor": "\"Toute l'éternité est contenue dans ma cape des ténèbres !\"",
 		"traits": "Avenger. X-Men."
 	},
 	{
@@ -168,7 +170,7 @@
 		"code": "44126",
 		"name": "The Punisher",
 		"subname": "Frank Castle",
-		"text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nLes attaques du Punisher gagnent Perçant et A Distance.",
+		"text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n[star] Les attaques du Punisher gagnent Perçant et À Distance.",
 		"flavor": "\"4 morts et je parie que mon rythme cardiaque est toujours en dessous de 80. Pas mal pour un échauffement.\"",
 		"traits": "Avenger. Héros à Louer."
 	},
@@ -176,6 +178,7 @@
 		"code": "44127",
 		"name": "Coup Bas",
 		"text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 2 dégâts à un ennemi (4 dégâts à la place si cet ennemi est sonné ou désorienté). Cette attaque gagne Perçant.",
+		"flavor": "\"Tu as des couilles finalement !\"",
 		"traits": "Attaque."
 	},
 	{
@@ -194,7 +197,7 @@
 	{
 		"code": "44130",
 		"name": "Shot d'Adrénaline",
-		"text": "Utilisation (3 jetons Adrénaline).\n<b>Action</b> : retirez 1 jeton adrénaline du Shot d’Adrénaline et inclinez-le → choisissez un allié. La prochaine attaque de cet allié inflige 2 dégâts supplémentaires et il subit 1 dégât consécutif supplémentaire.",
+		"text": "Utilisation (3 jetons Adrénaline).\n<b>Action</b> : retirez 1 jeton Adrénaline du Shot d’Adrénaline et inclinez-le → choisissez un allié. La prochaine attaque de cet allié inflige 2 dégâts supplémentaires et il subit 1 dégât consécutif supplémentaire.",
 		"traits": "Objet."
 	},
 	{
@@ -207,7 +210,7 @@
 	{
 		"code": "44132",
 		"name": "Dernier Rire",
-		"text": "Vous ne pouvez jouer cette carte que si les points de vie restant de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> : Subissez 1 dégat et infligez 6 dégats au vilain. Puis, changez de forme.",
+		"text": "Vous ne pouvez jouer cette carte que si les points de vie restant de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> : subissez 1 dégât et infligez 6 dégâts au méchant puis changez de forme.",
 		"traits": "Attaque."
 	},
 	{
@@ -220,7 +223,7 @@
 		"code": "44134",
 		"name": "Téléportation Improvisée",
 		"text": "<b>Action de héros</b> : donnez au méchant une carte de boost face cachée → changez de forme, puis redressez votre identité.",
-		"flavor": "\"Gueule d'or, nous devons y aller. Genre, MAINTENANT!\" -Ms. Marvel",
+		"flavor": "\"Gueule d'Or, nous devons y aller. Genre, MAINTENANT!\" -Ms. Marvel",
 		"traits": "Tactique."
 	},
 	{
@@ -244,18 +247,20 @@
 		"name": "Star-Lord",
 		"subname": "Kitty Pryde",
 		"text": "[star] <b>Réponse</b> : après que Star-Lord a contré, infligez 1 dégât à un ennemi.",
+		"flavor": "\"Je me suis occupée du sas, Lockheed. Tu t'occupes du garde là bas.\"",
 		"traits": "Gardien. X-Men."
 	},
 	{
 		"code": "44138",
 		"name": "Détoner",
-		"text": "<b>Action de héros</b> (<i>attaque</i>) : défaussez une amélioration que vous contrôlez avec des jetons dessus, puis infligez X dégât au méchant et à chaque sbire engagé avec vous, où X est le nombre de jetons ainsi défaussés.",
+		"text": "<b>Action de héros</b> (<i>attaque</i>) : défaussez une amélioration que vous contrôlez avec des jetons dessus, puis infligez X dégâts au méchant et à chaque sbire engagé avec vous, où X est le nombre de jetons ainsi défaussés.",
 		"traits": "Attaque."
 	},
 	{
 		"code": "44139",
 		"name": "Entrer et Sortir",
 		"text": "<b>Action de héros</b> (<i>contre</i>) : retirez 2 menaces d’une manigance. Si cette carte est la première que vous jouez lors de ce round, vous pouvez subir 1 dégât pour la renvoyer dans votre main.",
+		"flavor": "\"Voilà !\" ~ Vif-Argent",
 		"traits": "Contre."
 	},
 	{
