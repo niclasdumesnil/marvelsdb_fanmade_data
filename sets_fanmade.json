@@ -1516,13 +1516,13 @@
     "card_set_type_code": "hero"
   },
   {
-    "code": "daredevil_nemesis_by_ffg",
+    "code": "daredevil_by_ffg_nemesis",
     "name": "Daredevil Nemesis",
     "card_set_type_code": "nemesis",
     "parent_code": "daredevil_by_ffg"
   },
   {
-    "code": "echo_nemesis_by_ffg",
+    "code": "echo_by_ffg_nemesis",
     "name": "Echo Nemesis",
     "card_set_type_code": "nemesis",
     "parent_code": "echo_by_ffg"

@@ -266,5 +266,34 @@
 			}
 		],
 		"comment": "Web of Deceit — Ignorer les héros (déjà générés) pour ne générer que les scénarios"
+	},
+	"fear_no_evil_by_ffg": {
+		"card_overrides": [
+			{
+				"code": "60002",
+				"default_setup_pile": "Special",
+				"comment": "Acute Tactility — Mettre dans la pile Special (Sense Deck)"
+			},
+			{
+				"code": "60003",
+				"default_setup_pile": "Special",
+				"comment": "Enhanced Olfaction — Mettre dans la pile Special (Sense Deck)"
+			},
+			{
+				"code": "60004",
+				"default_setup_pile": "Special",
+				"comment": "Heightened Hearing — Mettre dans la pile Special (Sense Deck)"
+			},
+			{
+				"code": "60005",
+				"default_setup_pile": "Special",
+				"comment": "Radar Sense — Mettre dans la pile Special (Sense Deck)"
+			},
+			{
+				"code": "60006",
+				"default_setup_pile": "Special",
+				"comment": "Superior Taste — Mettre dans la pile Special (Sense Deck)"
+			}
+		]
 	}
 }
