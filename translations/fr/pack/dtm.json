@@ -48,7 +48,7 @@
 	{
 		"code": "44108",
 		"name": "Escouade de Mercenaires",
-		"text": "Utilisations (3 jetons Tactique). <b>Action</b> : retirez 1 jeton Tactique de l'Escouade de Mercenaires et inclinez-la → infligez 1 dégât à un ennemi et retirez 1 menace de la manigance principale.",
+		"text": "Utilisations (3 jetons Tactique).\n<b>Action</b> : retirez 1 jeton Tactique de l'Escouade de Mercenaires et inclinez-la → infligez 1 dégât à un ennemi et retirez 1 menace de la manigance principale.",
 		"traits": "Mercenaires à Payer"
 	},
 	{
@@ -299,7 +299,7 @@
 	{
 		"code": "44145",
 		"name": "Vol",
-		"text": "Jouez cette carte uniquement si votre identité a le trait Aérien. <b>Action de héros</b> : placez 2 menaces sur la manigance principale → sonnez et désorientez le méchant.",
+		"text": "Jouez cette carte uniquement si votre identité a le trait Aérien. \nb>Action de héros</b> : placez 2 menaces sur la manigance principale → sonnez et désorientez le méchant.",
 		"flavor": "\"Que diable ? Où est-il passé ?\"",
 		"traits": "Aérien. Tactique."
 	},
@@ -466,7 +466,7 @@
 	{
 		"code": "44171",
 		"name": "Se déchainer",
-		"text": "Exigence ([wild] [physical]).\n2 max par deck. <b>Action de héros</b> (<i>attaque</i>) : subissez 2 dégâts → piochez 3 cartes et infligez X dégâts à un ennemi, où X est le coût en ressources imprimé combiné de ces cartes",
+		"text": "Exigence ([wild] [physical]). 2 max par deck.\n<b>Action de héros</b> (<i>attaque</i>) : subissez 2 dégâts → piochez 3 cartes et infligez X dégâts à un ennemi, où X est le coût en ressources imprimé combiné de ces cartes",
 		"flavor": "\"GGRRNNYYEEARGH!\" -Wild Child",
 		"traits": "Attaque."
 	},
@@ -683,7 +683,7 @@
 		"code": "44205",
 		"name": "Venompool",
 		"subname": "Wade Wilson",
-		"text": "Alias <i>(Si vous contrôlez une carte avec un sous-titre correspondant, défaussez-la et jouez cette carte gratuitement.</i>)\nVenompool gagne +1 ATQ pour chaque carte Rencontre face cachée devant vous (pour un maximum de +3 ATQ).\n<b>Réponse forcée</b> : après que Venompool est entré en jeu, choisissez : soit vous placez 2 menaces sur la manigance principale, soit vous vous attribuez 1 carte Rencontre face cachée.",
+		"text": "Alias. Venompool gagne +1 ATQ pour chaque carte Rencontre face cachée devant vous (pour un maximum de +3 ATQ).\n<b>Réponse forcée</b> : après que Venompool est entré en jeu, choisissez : soit vous placez 2 menaces sur la manigance principale, soit vous vous attribuez 1 carte Rencontre face cachée.",
 		"traits": "Symbiote. X-Force."
 	},
 	{

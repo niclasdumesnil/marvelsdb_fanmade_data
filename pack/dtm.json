@@ -2296,7 +2296,8 @@
 		"text": "Uses (5 spider counters). Fragile.\n[star] Spiders-man cannot leave play while he has 1 or more spiders counters on him.\n<b>Forced Interrupt</b>: When Spiders-man uses a basic power, remove 1 or more spider counters from here → deal 1 damage to an enemy for each counter removed this way.",
 		"thwart": 1,
 		"traits": "Spiders. Web-Warrior.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"health_star": true
 	},
 	{
 		"attack": 1,
