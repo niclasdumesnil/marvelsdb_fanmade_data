@@ -105,19 +105,19 @@
 	{
 		"code": "55012",
 		"name": "L'Appel de la Séduction",
-		"text": "Attachez cette carte à votre identité.\n<b>Action forcée</b> : inclinez cette carte → placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu. Jouez une carte de votre main, en réduisant de 1 son coût en ressources.\n<b>Action d'alter ego</b> : inclinez cette carte → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : révélez cette carte.",
+		"text": "Attachez cette carte à votre identité.\n<b>Action forcée</b> : inclinez cette carte → placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu. Jouez une carte de votre main, en réduisant de 1 son coût en ressources.\n<b>Action d'alter ego</b> : inclinez cette carte → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : révélez cette carte.",
 		"traits": "Tentation."
 	},
 	{
 		"code": "55013",
 		"name": "Baiser de la Tentation",
-		"text": "Attachez cette carte à votre identité.\n<b>Action forcée</b> : inclinez cette carte → placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu. Piochez 1 carte, puis défaussez 1 carte de votre main.\n<b>Action d'alter ego</b> : inclinez cette carte → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : révélez cette carte.",
+		"text": "Attachez cette carte à votre identité.\n<b>Action forcée</b> : inclinez cette carte → placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu. Piochez 1 carte, puis défaussez 1 carte de votre main.\n<b>Action d'alter ego</b> : inclinez cette carte → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : révélez cette carte.",
 		"traits": "Tentation."
 	},
 	{
 		"code": "55014",
 		"name": "Philtre d'Amour",
-		"text": "Attachez cette carte à votre identité.\n<b>Action forcée</b> : inclinez cette carte → placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu. Redressez votre identité.\n<b>Action d'alter ego</b> : inclinez cette carte → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : révélez cette carte.",
+		"text": "Attachez cette carte à votre identité.\n<b>Action forcée</b> : inclinez cette carte → placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu. Redressez votre identité.\n<b>Action d'alter ego</b> : inclinez cette carte → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : révélez cette carte.",
 		"traits": "Objet. Tentation."
 	},
 	{
@@ -136,13 +136,13 @@
 	{
 		"code": "55017",
 		"name": "Laquais Envoûté",
-		"text": "Coup Rapide.\n[star] <b>Réponse forcée</b> : après que ce sbire vous a attaqué, placez 1 jeton Charme sur la carte Enchantement de votre zone de jeu.\n<hr>\n[star] <b>Boost</b> : choisissez : soit vous placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu, soit vous désorientez votre identité.",
+		"text": "Coup Rapide.\n[star] <b>Réponse forcée</b> : après que ce sbire vous a attaqué, placez 1 jeton Charme sur la carte Enchantement de votre zone de jeu.\n<hr>\n<hr>[star] <b>Boost</b> : choisissez : soit vous placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu, soit vous désorientez votre identité.",
 		"traits": "Envouté."
 	},
 	{
 		"code": "55018",
 		"name": "Brute Envoûté",
-		"text": "Garde.\n[star] Ce sbire gagne +3 points de vie tant qu'il est engagé avec un joueur dont l'identité a le trait Envoûté.\n<hr>\n[star] <b>Boost</b> : choisissez : soit vous placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu, soit vous inclinez votre identité.",
+		"text": "Garde.\n[star] Ce sbire gagne +3 points de vie tant qu'il est engagé avec un joueur dont l'identité a le trait Envoûté.\n<hr>\n<hr>[star] <b>Boost</b> : choisissez : soit vous placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu, soit vous inclinez votre identité.",
 		"traits": "Brute. Envouté."
 	},
 	{
@@ -160,11 +160,112 @@
 	{
 		"code": "55021",
 		"name": "Loi de l'Attraction",
-		"text": "<b>Une fois révélée</b> : défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire [[Envoûté]] soit défaussé. Révélez ce sbire.\n<hr>\n[star] <b>Boost</b> : placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu."
+		"text": "<b>Une fois révélée</b> : défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire [[Envoûté]] soit défaussé. Révélez ce sbire.\n<hr>\n<hr>[star] <b>Boost</b> : placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu."
+	},
+	{
+		"code": "55022",
+		"name": "Captivé",
+		"text": "<b>Une fois déjouée</b> : chaque joueur dont l'identité a le trait [[Provocateur]] place 1 jeton Charme sur la carte [[Enchantement]] de sa zone de jeu. Chaque joueur dont l'identité a le trait [[Envoûté]] défausse une carte qu'il contrôle."
 	},
 	{
 		"code": "55023",
 		"name": "\"Obéis à mes Ordres",
 		"text": "<b>Une fois révélée</b> : si votre identité a le trait [[Provocateur]], choisissez l'une des options suivantes. Si votre identité a le trait [[Envoûté]] appliquez les deux options dans n'importe quel ordre :   \n• Cherchez un sbire dans le deck Rencontre ou la pile de défausse Rencontre et révélez-le. (<i>Mélangez</i>.)\n•  Cherchez une manigance annexe dans le deck Rencontre ou la pile de défausse Rencontre et révélez-la. (<i>Mélangez</i>.)"
+	},
+	{
+		"code": "55024",
+		"name": "Entraves Magiques",
+		"text": "<b>Une fois révélée</b> : si votre identité a le trait [[Provocateur]], choisissez l'une des options suivantes. Si votre identité a le trait [[Envoûté]] appliquez les deux options dans n'importe quel ordre :\n• Vous êtes sonné. Placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu.\n• Vous êtes désorienté. Placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu."
+	},
+	{
+		"code": "55025",
+		"name": "Déflagration Magique",
+		"text": "<b>Une fois révélée</b> : si votre identité a le trait [[Provocateur]], choisissez l'une des options suivantes. Si votre identité a le trait [[Envoûté]], appliquez les deux options dans n'importe quel ordre :\n• L'Enchanteresse manigance (avec +1 MNG en mode Expert).\n• L'Enchanteresse vous attaque (avec +1 ATQ en mode Expert)."
+	},
+	{
+		"code": "55026",
+		"name": "Eclats Magiques",
+		"text": "<b>Une fois révélée</b> : subissez 3 dégâts indirects. Si votre identité a subi n'importe quelle quantité de dégâts par cet effet, placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu.\n<hr>[star] <b>Boost</b> : placez 1 jeton Charme sur la carte [[Enchantement]] de votre zone de jeu."
+	},
+	{
+		"code": "55027a",
+		"name": "Loki, Dieux des Mensonges",
+		"text": "Si Loki, Dieu des Mensonges a 10[per_hero] points de vie restants ou moins, retournez cette carte.",
+		"flavor": "« À genoux ».",
+		"traits": "Asgard. Mystique."
+	},
+	{
+		"code": "55027b",
+		"name": "Loki, Dieux des Mensonges",
+		"text": "<b>Une fois révélée</b> : chaque groupe en mode Standard attache sa Concentration Intense mise de côté au méchant [[Avatar de Loki]] de son aire de jeu. Chaque groupe en mode Expert retourne son attachement Concentration Intense pour afficher sa face Concentration Totale.\n<b>Si Loki, Dieu des Mensonges est vaincu, tous les joueurs de tous les groupes gagnent la partie.</b>",
+		"traits": "Asgard. Mystique."
+	},
+	{
+		"code": "55028a",
+		"name": "La Guerre des Mondes",
+		"text": "<b>Contenu</b> : Loki, Dieu des Mensonges (1). Les sets de rencontre Dieu des Mensonges et Standard. Un set de rencontre modulaire (Magie du Filou).\n<b>Mise en place</b> : créez une aire de jeu séparée pour chaque groupe de joueurs (voir page 9 du livret de règles). Chaque groupe suit les instructions de Nuisance et Discorde (1A)."
+	},
+	{
+		"code": "55028b",
+		"name": "La Guerre des Mondes",
+		"text": "Chaque icône [per_hero] sur Loki, Dieu des Mensonges prend en compte le nombre total de joueurs dans toutes les aires de jeu.\nChaque icône [per_group] sur cette manigance prend en compte le nombre total de groupes dans toutes les assemblées.\nLes cartes ne peuvent affecter ni cette manigance ni Loki, Dieu des Mensonges, sauf si elles font référence aux titres de ces cartes.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+	},
+	{
+		"code": "55029a",
+		"name": "Loki le Vaurien",
+		"text": "[star] <b>Réponse forcée</b> : après que vous avez résolu une carte de boost lors d'une activation de Loki le Vaurien, si cette carte est une traîtrise, soit vous vous l'attribuez en tant que carte Rencontre face cachée, soit vous dépensez 1 ressource de n'importe quel type.\n<b>Interruption forcée</b> : quand ce méchant est censé être vaincu, placez 5[per_hero] jetons Brisure sur cette carte et retournez-la à la place.",
+		"traits": "Avatar de Loki."
+	},
+	{
+		"code": "55029b",
+		"name": "Incarnation Déclinante",
+		"text": "<b>Une fois révélée</b> : brisez l'illusion (<i>voir la carte Briser l'Illusion mise de côté</i>). Choisissez un groupe dans votre assemblée, ensuite placez sur son environnement Front Uni un nombre de jetons Synergie égal au nombre de joueurs dans ce groupe.",
+		"traits": "Illusion."
+	},
+	{
+		"code": "55030a",
+		"name": "Loki le Mécreant",
+		"text": "<b>Réponse forcée</b> : après que vous avez résolu une traîtrise, placez 1 menace sur la manigance principale et 1 menace sur une manigance annexe.\n<b>Interruption forcée</b> : quand ce méchant est censé être vaincu, placez 5[per_hero] jetons Brisure sur cette carte et retournez-la à la place",
+		"traits": "Avatar de Loki."
+	},
+	{
+		"code": "55030b",
+		"name": "Incarnation Déclinante",
+		"text": "<b>Une fois révélée</b> : brisez l'illusion (<i>voir la carte Briser l'Illusion mise de côté</i>). Choisissez un groupe dans votre assemblée, ensuite placez sur son environnement Renfort de Cavalerie un nombre de jetons Synergie égal au nombre de joueurs dans ce groupe.",
+		"traits": "Illusion."
+	},
+	{
+		"code": "55031a",
+		"name": "Loki le Valet",
+		"text": "<b>Réponse forcée</b> : après que vous avez résolu une traîtrise, infligez 1 dégât à votre identité et 1 dégât à un allié que vous contrôlez.\n<b>Interruption forcée</b> : quand ce méchant est censé être vaincu, placez 5[per_hero] jetons Brisure sur cette carte et retournez-la à la place.",
+		"traits": "Avatar de Loki."
+	},
+	{
+		"code": "55031b",
+		"name": "Incarnation Déclinante",
+		"text": "<b>Une fois révélée</b> : brisez l'illusion (<i>voir la carte Briser l'Illusion mise de côté</i>). Choisissez un groupe dans votre assemblée, ensuite placez sur son environnement Force Dominatrice un nombre de jetons Synergie égal au nombre de joueurs dans ce groupe.",
+		"traits": "Illusion."
+	},
+	{
+		"code": "55032a",
+		"name": "Lokie le Misérable",
+		"text": "[star] <b>Interruption forcée</b> : quand Loki le Misérable s'active contre vous, défaussez la carte du dessus du deck Rencontre. Si une traîtrise a été défaussée par cet effet, Loki le Misérable gagne +1 MNG et +1 ATQ pour cette activation.\n<b>Interruption forcée</b> : quand ce méchant est censé être vaincu, placez 5[per_hero] jetons Brisure sur cette carte et retournez-la à la place.",
+		"traits": "Avatar de Loki."
+	},
+	{
+		"code": "55032b",
+		"name": "Incarnation Déclinante",
+		"text": "<b>Une fois révélée</b> : brisez l'illusion (<i>voir la carte Briser l'illusion mise de côté</i>). Choisissez un groupe dans votre assemblée, ensuite placez sur son environnement Feindre la Retraite un nombre de jetons Synergie égal au nombre de joueurs dans ce groupe.",
+		"traits": "Illusion."
+	},
+	{
+		"code": "55033a",
+		"name": "Nuisance et Discorde",
+		"text": "<b>Mise en place</b> : après avoir résolu La Guerre des Mondes (A), faites ce qui suit :\nMettez en jeu un méchant [[Avatar de Loki]] pris au hasard. Mettez de côté chaque autre méchant [[Avatar de Loki]] ainsi que la carte Briser I'Illusion.\nMettez en jeu chaque environnement Synergie.\nEn mode standard, mettez de côté l'attachement Concentration Intense. En mode Expert, attachez-le au méchant Avatar de Loki qui est en jeu."
+	},
+	{
+		"code": "55033b",
+		"name": "Nuisance et Discorde",
+		"text": "<b>Interruption forcée</b> : quand cette manigance est censée être achevée, retirez toutes les menaces qui sont dessus et placez 1 menace sur La Guerre des Mondes à la place.\n<b>Interruption forcée</b> : quand une identité est censée être vaincue, passez cette identité sous forme d'alter ego, fixez son compteur de points de vie à 1 et placez 1 menace sur La Guerre des Mondes à la place."
 	}
 ]

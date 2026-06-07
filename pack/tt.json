@@ -23,7 +23,8 @@
 		"thwart_cost": 2,
 		"thwart_star": true,
 		"traits": "Defiant.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 3,
@@ -48,7 +49,8 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "Defiant.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 0,
@@ -73,7 +75,8 @@
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "Defiant.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	},
 	{
 		"attack": 1,
@@ -96,6 +99,7 @@
 		"thwart": 3,
 		"thwart_cost": 2,
 		"traits": "Defiant.",
-		"type_code": "ally"
+		"type_code": "ally",
+		"duplicate_of_name": ""
 	}
 ]

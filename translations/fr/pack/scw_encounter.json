@@ -6,20 +6,20 @@
 	},
 	{
 		"code": "15024",
-		"flavor": "\"Le Maître de l'Évolution tente de créer un dieu digne du vingt-et-unième siècle !\" — Le Maître de l'Évolution",
 		"name": "La Prochaine Évolution",
-		"text": "Augmentez de 1 le nombre d'icônes de boost sur chaque carte Rencontre."
+		"text": "Augmentez de 1 le nombre d'icônes de boost sur chaque carte Rencontre.",
+		"flavor": "\"Le Maître de l'Évolution tente de créer un dieu digne du vingt-et-unième siècle !\" — Le Maître de l'Évolution"
 	},
 	{
 		"code": "15025",
 		"name": "Luminous",
-		"text": "<b>Réponse forcée</b> : après que Luminous s'est activée contre vous, défaussez la carte du dessus du deck Rencontre. Si au moins 2 icônes de boost sont ainsi défaussées, attribuez-vous 1 carte Recontre.\n<i>Sbire Némésis de La Sorcière Rouge)</i>",
+		"text": "<b>Réponse forcée</b> : après que Luminous s'est activée contre vous, défaussez la carte du dessus du deck Rencontre. Si au moins 2 icônes de boost sont ainsi défaussées, attribuez-vous 1 carte Rencontre.\n(<i>Sbire Némésis de La Sorcière Rouge</i>)",
 		"traits": "Élite."
 	},
 	{
 		"code": "15026",
 		"name": "Suspension Magique",
-		"text": "Attachez cette carte à votre identité.\n. Chaque carte que vous jouez coûte 1 ressource supplémentaire.\n<b>Action de héros</b> : inclinez votre héros → défaussez cette carte.",
+		"text": "Attachez cette carte à votre identité.\nChaque carte que vous jouez coûte 1 ressource supplémentaire.\n<b>Action de héros</b> : inclinez votre héros → défaussez cette carte.",
 		"traits": "Sort."
 	},
 	{

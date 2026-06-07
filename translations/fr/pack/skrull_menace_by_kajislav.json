@@ -95,23 +95,6 @@
 		"traits": "Item. Kree."
 	},
 	{
-		"code": "500721",
-		"name": "Deflect the Blow",
-		"text": "<b>Hero Interrupt </b><i>(defense)</i>: When you would take any amount of damage from an attack, discard Deflect the Blow and exhaust your hero, prevent all of that damage.\n<i>\"Wow...it worked. I can't believe it.\" —Hulkling</i>",
-		"traits": "Preparation."
-	},
-	{
-		"code": "500724",
-		"name": "Drunk in Love",
-		"text": "<b>Action</b>: Confuse your identity → heal 4 damage from it.\n<i>\"I could wish for anything in any world, I could bend reality to all my whims, and when I wake up alone and scared...I only want you.\" —Wiccan</i>"
-	},
-	{
-		"code": "500729",
-		"name": "Glorious Flight",
-		"text": "Play only if you have an [[aerial]] trait.\n<b>Réponse de héros</b>: After you defeat an enemy or a side scheme, discard Glorious Flight → ready your hero.",
-		"traits": "Preparation."
-	},
-	{
 		"code": "500715",
 		"name": "Lauri-Ell",
 		"text": "<b>Réponse</b>: After Lauri-Ell takes any amount of damage from an attack, give her a tough status card.\n<i>“Though I was born and bred for war, I have no taste for violance.\"</i>",
@@ -124,21 +107,15 @@
 		"traits": "Kree. Skrull."
 	},
 	{
-		"code": "500730",
-		"name": "Pride",
-		"text": "Max 1 per player.<b>\nAction</b>: Exhaust Pride → discard the top card of your deck. If that card is an identity-specific card, add it to your hand.\n<i>\"I am gay. \" —Jean-Paul Beaubier</i>",
-		"traits": "Condition. Superpower."
-	},
-	{
 		"code": "500719",
 		"name": "Provoked!",
 		"text": "<b>Réponse de héros</b>: After you defend against an attack and take at least 1 damage, ready your hero.\n<i>\"Someone is either breaking in or shooting a music video in my apartment.\" —Hulkling</i>"
 	},
 	{
-		"code": "500725",
-		"name": "Strength in Otherness",
-		"text": "Team-Up (Hulkling and Wiccan). Max 1 per deck.\n<b>Hero Action </b><i>(attack/thwart)</i>: Remove 1 threat from the main scheme and deal 1 damage to the villain for each different card type in your discard pile.",
-		"traits": "Attack. Thwart."
+		"code": "500721",
+		"name": "Deflect the Blow",
+		"text": "<b>Hero Interrupt </b><i>(defense)</i>: When you would take any amount of damage from an attack, discard Deflect the Blow and exhaust your hero, prevent all of that damage.\n<i>\"Wow...it worked. I can't believe it.\" —Hulkling</i>",
+		"traits": "Preparation."
 	},
 	{
 		"code": "500723",
@@ -147,16 +124,39 @@
 		"traits": "Skrull."
 	},
 	{
-		"code": "500737b",
-		"name": "Laura Green",
-		"text": "<i>Playing Along</i><b> </b>—<b> Action</b>: Search your deck for a [[treachery]] card, shuffle your deck and place that card on the top of your deck. (Limit once per round.)\n<i>\"Out of all the planets in the universe… How is it I keep winding up on this one?\"</i>",
-		"traits": "Skrull. Spy."
+		"code": "500724",
+		"name": "Drunk in Love",
+		"text": "<b>Action</b>: Confuse your identity → heal 4 damage from it.\n<i>\"I could wish for anything in any world, I could bend reality to all my whims, and when I wake up alone and scared...I only want you.\" —Wiccan</i>"
+	},
+	{
+		"code": "500725",
+		"name": "Strength in Otherness",
+		"text": "Team-Up (Hulkling and Wiccan). Max 1 per deck.\n<b>Hero Action </b><i>(attack/thwart)</i>: Remove 1 threat from the main scheme and deal 1 damage to the villain for each different card type in your discard pile.",
+		"traits": "Attack. Thwart."
+	},
+	{
+		"code": "500729",
+		"name": "Glorious Flight",
+		"text": "Play only if you have an [[aerial]] trait.\n<b>Réponse de héros</b>: After you defeat an enemy or a side scheme, discard Glorious Flight → ready your hero.",
+		"traits": "Preparation."
+	},
+	{
+		"code": "500730",
+		"name": "Pride",
+		"text": "Max 1 per player.<b>\nAction</b>: Exhaust Pride → discard the top card of your deck. If that card is an identity-specific card, add it to your hand.\n<i>\"I am gay. \" —Jean-Paul Beaubier</i>",
+		"traits": "Condition. Superpower."
 	},
 	{
 		"code": "500737a",
 		"name": "Lyja",
 		"text": "<i>Skrull Spy</i> — <b>Action</b>: Spend up to 1[per_hero] resources of any type → search the encounter deck for a [[treachery]] card for each resource spent this way, shuffle the encounter deck, and place those cards on the top of the encounter deck in any order.\n<i>\"I am now Lyja… The Lazerfist!!\"</i>\n<i></i>",
 		"traits": "Fantastic Four. Skrull."
+	},
+	{
+		"code": "500737b",
+		"name": "Laura Green",
+		"text": "<i>Playing Along</i><b> </b>—<b> Action</b>: Search your deck for a [[treachery]] card, shuffle your deck and place that card on the top of your deck. (Limit once per round.)\n<i>\"Out of all the planets in the universe… How is it I keep winding up on this one?\"</i>",
+		"traits": "Skrull. Spy."
 	},
 	{
 		"code": "500738",
@@ -220,22 +220,11 @@
 		"traits": "Superpower."
 	},
 	{
-		"code": "500762",
-		"name": "Baxter Building",
-		"text": "Reduce the cost to play this card by 1 if you control a [[fantastic four]] character.<b>\nResource</b>: Exhaust Baxter Building → generate a [wild] resource for any player.\n<i>The Baxter Building is located in Manhattan. It has been home to the Fantastic Four.</i>",
-		"traits": "Fantastic Four. Location."
-	},
-	{
-		"code": "500763",
-		"name": "Fantasti-Car",
-		"text": "<b>Réponse</b>: After Fantasti-Car enters play, ready a [[fantastic four]] card.<b>\nAlter-Ego Action</b>: Exhaust Fantasti- Car → choose a player. That player may shuffle 1 card from their discard pile into their deck.",
-		"traits": "Fantastic Four. Vehicle."
-	},
-	{
-		"code": "500764",
-		"name": "Fantastic Four Member",
-		"text": "Play only if your identity has the [[fantastic four]] trait.\nAttach to a friendly character. Max 1 per character.\nAttached character gets +1 hit point and gains the [[fantastic four ]]trait.",
-		"traits": "Title."
+		"code": "500749",
+		"name": "The Thing",
+		"subname": "Ben Grimm",
+		"text": "Toughness.\n<b>Action</b>: Discard a tough status card from The Thing and choose up to 2 enemies → deal 2 damage to each of them.\n<i>“It's clobberin' time!\"</i>",
+		"traits": "Fantastic Four."
 	},
 	{
 		"code": "500752",
@@ -257,11 +246,6 @@
 		"traits": "Fantastic Four."
 	},
 	{
-		"code": "500758",
-		"name": "Laser Tag",
-		"text": "Team-Up (Human Torch and Lyja). Max 1 per deck.\n<b>Action de héros</b>: Ready Human Torch, Lyja, and each [[superpower]] upgrade you control."
-	},
-	{
 		"code": "500757",
 		"name": "Mister Fantastic",
 		"subname": "Reed Richards",
@@ -269,11 +253,27 @@
 		"traits": "Fantastic Four."
 	},
 	{
-		"code": "500749",
-		"name": "The Thing",
-		"subname": "Ben Grimm",
-		"text": "Toughness.\n<b>Action</b>: Discard a tough status card from The Thing and choose up to 2 enemies → deal 2 damage to each of them.\n<i>“It's clobberin' time!\"</i>",
-		"traits": "Fantastic Four."
+		"code": "500758",
+		"name": "Laser Tag",
+		"text": "Team-Up (Human Torch and Lyja). Max 1 per deck.\n<b>Action de héros</b>: Ready Human Torch, Lyja, and each [[superpower]] upgrade you control."
+	},
+	{
+		"code": "500762",
+		"name": "Baxter Building",
+		"text": "Reduce the cost to play this card by 1 if you control a [[fantastic four]] character.<b>\nResource</b>: Exhaust Baxter Building → generate a [wild] resource for any player.\n<i>The Baxter Building is located in Manhattan. It has been home to the Fantastic Four.</i>",
+		"traits": "Fantastic Four. Location."
+	},
+	{
+		"code": "500763",
+		"name": "Fantasti-Car",
+		"text": "<b>Réponse</b>: After Fantasti-Car enters play, ready a [[fantastic four]] card.<b>\nAlter-Ego Action</b>: Exhaust Fantasti- Car → choose a player. That player may shuffle 1 card from their discard pile into their deck.",
+		"traits": "Fantastic Four. Vehicle."
+	},
+	{
+		"code": "500764",
+		"name": "Fantastic Four Member",
+		"text": "Play only if your identity has the [[fantastic four]] trait.\nAttach to a friendly character. Max 1 per character.\nAttached character gets +1 hit point and gains the [[fantastic four ]]trait.",
+		"traits": "Title."
 	},
 	{
 		"code": "500963",
@@ -374,10 +374,9 @@
 	},
 	{
 		"code": "500979",
-		"name": "Point de Vue",
+		"name": "Pool-de-Vision",
 		"text": "<b>Réponse de héros</b> : après qu’un sbire [[skrull]] a été vaincu, inclinez le Point de Vue → piochez une carte (pour un maximum de 3) pour chaque  [crisis],[acceleration],[amplify], et [hazard] en jeu.",
-		"flavor": "“Donc tu disais que \"P.D.V.\" signifie ”point de vue” ? Habituellement. Mais dans mon cas, cela signifie “Pool-De-Vision”. - Deadpool",
-		"traits": "METAGAME."
+		"flavor": "“Donc tu disais que \"P.D.V.\" signifie ”point de vue” ? Habituellement. Mais dans mon cas, cela signifie “Pool-De-Vision”. - Deadpool"
 	},
 	{
 		"code": "500980",

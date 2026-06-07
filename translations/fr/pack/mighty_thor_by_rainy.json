@@ -1,16 +1,16 @@
 [
 	{
-		"code": "202101b",
-		"name": "Jane Foster",
-		"text": "<i>Survivante</i> — Jane Foster gagne +1 de taille de main tant que son obligation Chimiothérapie est mise de coté ou retirée du jeu.\n<i>Médecin</i> — <b>Action</b> : soignez 1 dégât d'un autre personnage ami. (Limite d'une fois par round.)",
-		"traits": "Civil. Docteur."
-	},
-	{
 		"code": "202101a",
 		"name": "Thor",
 		"text": "<i>Digne</i> — <b>Action</b> : cherchez l'amélioration Mjolnir dans votre deck ou votre pile de défausse et ajoutez-la à votre main. Mélangez votre deck. (Limite d'une fois par round.)",
 		"flavor": "\"Il doit toujours y avoir un Thor.\"",
 		"traits": "Asgard. Avenger."
+	},
+	{
+		"code": "202101b",
+		"name": "Jane Foster",
+		"text": "<i>Survivante</i> — Jane Foster gagne +1 de taille de main tant que son obligation Chimiothérapie est mise de coté ou retirée du jeu.\n<i>Médecin</i> — <b>Action</b> : soignez 1 dégât d'un autre personnage ami. (Limite d'une fois par round.)",
+		"traits": "Civil. Docteur."
 	},
 	{
 		"code": "202102",
@@ -68,7 +68,7 @@
 	},
 	{
 		"code": "202110",
-		"name": "Puissante",
+		"name": "Mighty",
 		"text": "You gagnez +2 points de vie.\nThor gagne +1 DEF et riposte 1.",
 		"flavor": "« Vous cherchiez l'affrontement en venant ici. L'affrontement, vous l'avez trouvé ! » —Thor",
 		"traits": "Condition. Super-Pouvoir."

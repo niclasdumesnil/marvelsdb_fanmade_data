@@ -311,41 +311,41 @@
 	{
 		"code": "500804",
 		"name": "Longue Vie à l’Empire",
-		"text": "<b>Une fois révélée</b> : soignez 2 dégâts de l’environnement Empire Skrull pour chaque ennemi [[skrull]] en jeu. Si aucun dégât n’est soigné par cet effet, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : soignez 1 dégât de l’environnement Empire Skrull pour chaque ennemi [[skrull]] en jeu."
+		"text": "<b>Une fois révélée</b> : soignez 2 dégâts de l’environnement Empire Skrull pour chaque ennemi [[skrull]] en jeu. Si aucun dégât n’est soigné par cet effet, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b> : soignez 1 dégât de l’environnement Empire Skrull pour chaque ennemi [[skrull]] en jeu."
 	},
 	{
 		"code": "500805",
 		"name": "Coup d’État",
-		"text": "<b>Une fois révélée</b> : retirez le méchant actuel de la partie et révélez la carte du dessus du deck Méchant. Ensuite, mettez Coup d’État de côté, hors jeu.\n<hr>\n[star] <b>Boost</b> : choisissez : attribuez-vous cette carte comme carte Rencontre face cachée ou défaussez deux cartes de votre main."
+		"text": "<b>Une fois révélée</b> : retirez le méchant actuel de la partie et révélez la carte du dessus du deck Méchant. Ensuite, mettez Coup d’État de côté, hors jeu.\n<hr>\n<hr>[star] <b>Boost</b> : choisissez : attribuez-vous cette carte comme carte Rencontre face cachée ou défaussez deux cartes de votre main."
 	},
 	{
 		"code": "500806",
 		"name": "La Colère de l’Empire",
-		"text": "<b>Une fois révélée</b> : défaussez les deux premières cartes du deck Rencontre pour chaque environnement [[planète]] en jeu. Placez un jeton d’accélération sur la manigance principale si une carte avec une icône d’accélération ([acceleration]) a été défaussée par cet effet.\n<hr>\n[star] <b>Boost</b> : cette carte gagne +1 icône de boost (b) pour chaque environnement [[planète]] en jeu."
+		"text": "<b>Une fois révélée</b> : défaussez les deux premières cartes du deck Rencontre pour chaque environnement [[planète]] en jeu. Placez un jeton d’accélération sur la manigance principale si une carte avec une icône d’accélération ([acceleration]) a été défaussée par cet effet.\n<hr>\n<hr>[star] <b>Boost</b> : cette carte gagne +1 icône de boost (b) pour chaque environnement [[planète]] en jeu."
 	},
 	{
 		"code": "500807",
 		"name": "Scientifique Skrull",
-		"text": "[acceleration]\n<hr>\n[star] <b>Boost</b> : soignez 2 dégâts du méchant à la fin de cette activation.",
+		"text": "[acceleration]\n<hr>\n<hr>[star] <b>Boost</b> : soignez 2 dégâts du méchant à la fin de cette activation.",
 		"flavor": "“Il nous aime vraiment. L’Empire vivra.” — Dro’ge",
 		"traits": "GÉNIE. SKRULL."
 	},
 	{
 		"code": "500808",
 		"name": "Espion Skrull",
-		"text": "<b>Une fois révélée</b> : défaussez 1 carte prise au hasard dans votre main.\n<hr>\n[star] <b>Boost</b> : défaussez 1 carte prise au hasard dans votre main.",
+		"text": "<b>Une fois révélée</b> : défaussez 1 carte prise au hasard dans votre main.\n<hr>\n<hr>[star] <b>Boost</b> : défaussez 1 carte prise au hasard dans votre main.",
 		"traits": "ESPION. SKRULL."
 	},
 	{
 		"code": "500809",
 		"name": "Télépathe Skrull",
-		"text": "[star] <b>Interruption forcée</b> : quand le Télépathe Skrull est censé attaquer, il manigance à la place.\n<hr>\n[star] <b>Boost</b> : si cette activation est une manigance, révélez cette carte.",
+		"text": "[star] <b>Interruption forcée</b> : quand le Télépathe Skrull est censé attaquer, il manigance à la place.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une manigance, révélez cette carte.",
 		"traits": "PSIONIQUE. SKRULL."
 	},
 	{
 		"code": "500810",
 		"name": "Guerrier Skrull",
-		"text": "Garde.\n<hr>\n[star] <b>Boost</b> : si cette attaque est non défendue, vous êtes sonné.",
+		"text": "Garde.\n<hr>\n<hr>[star] <b>Boost</b> : si cette attaque est non défendue, vous êtes sonné.",
 		"flavor": "“Vous n’auriez pas dû oublier que je suis une Skrull.” — M’lanz",
 		"traits": "SKRULL."
 	},
@@ -358,31 +358,31 @@
 	{
 		"code": "500812",
 		"name": "En Infériorité Numérique",
-		"text": "<b>Une fois révélée</b> : engagez chaque sbire [[skrull]] en jeu. Puis cherchez dans le deck Rencontre ou la pile de défausse Rencontre un sbire [[skrull]] et engagez-le.\n<hr>\n[star] <b>Boost</b> : cette carte gagne +1 icône de boost (B) pour chaque ennemi [[skrull]] en jeu (pour un maximum de +4) pour cette activation."
+		"text": "<b>Une fois révélée</b> : engagez chaque sbire [[skrull]] en jeu. Puis cherchez dans le deck Rencontre ou la pile de défausse Rencontre un sbire [[skrull]] et engagez-le.\n<hr>\n<hr>[star] <b>Boost</b> : cette carte gagne +1 icône de boost (B) pour chaque ennemi [[skrull]] en jeu (pour un maximum de +4) pour cette activation."
 	},
 	{
 		"code": "500813",
 		"name": "Commandant Skrull",
-		"text": "Chaque autre sbire [[skrull]] gagne +1 ATQ.\n<hr>\n[star] <b>Boost</b> : si cette activation est une attaque, cette carte gagne +2 icônes de boost ([boost][boost]) pour cette attaque.",
+		"text": "Chaque autre sbire [[skrull]] gagne +1 ATQ.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, cette carte gagne +2 icônes de boost ([boost][boost]) pour cette attaque.",
 		"flavor": "“S’il était une véritable menace, nous saurions qui il est” - Commandant Ak’strk",
 		"traits": "SKRULL. SOLDAT."
 	},
 	{
 		"code": "500814",
 		"name": "Soldat Skrull",
-		"text": "<b>Une fois révélée</b> : placez 2 menaces sur chaque manigance annexe en jeu.\n<hr>\n[star] <b>Boost</b> : défaussez les 2 cartes du dessus de votre deck.",
+		"text": "<b>Une fois révélée</b> : placez 2 menaces sur chaque manigance annexe en jeu.\n<hr>\n<hr>[star] <b>Boost</b> : défaussez les 2 cartes du dessus de votre deck.",
 		"flavor": "<i>\"Il vous aime ...\"</i>",
 		"traits": "SKRULL. SOLDAT."
 	},
 	{
 		"code": "500815",
 		"name": "Kidnappé",
-		"text": "Entrave 2[per_hero].\n<b>Une fois révélée</b> : cherchez un allié dans votre deck, votre pile de défausse ou votre main et intercalez-le sous cette manigance.\n<b>Une fois déjouée</b> : mettez en jeu l’allié intercalé sous cette manigance sous le contrôle de son propriétaire.\n<hr>\n[star] <b>Boost</b> : révélez cette carte."
+		"text": "Entrave 2[per_hero].\n<b>Une fois révélée</b> : cherchez un allié dans votre deck, votre pile de défausse ou votre main et intercalez-le sous cette manigance.\n<b>Une fois déjouée</b> : mettez en jeu l’allié intercalé sous cette manigance sous le contrôle de son propriétaire.\n<hr>\n<hr>[star] <b>Boost</b> : révélez cette carte."
 	},
 	{
 		"code": "500816",
 		"name": "Assaut Skrull",
-		"text": "<b>Une fois révélée</b> : chaque sbire [[skrull]] attaque le héros avec lequel il est engagé. Si aucune attaque n’a été effectuée de cette manière, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : cette carte gagne +1 icône de boost (b) pour chaque ennemi [[skrull]] en jeu (pour un maximum de +4) pour cette activation."
+		"text": "<b>Une fois révélée</b> : chaque sbire [[skrull]] attaque le héros avec lequel il est engagé. Si aucune attaque n’a été effectuée de cette manière, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b> : cette carte gagne +1 icône de boost (b) pour chaque ennemi [[skrull]] en jeu (pour un maximum de +4) pour cette activation."
 	},
 	{
 		"code": "500817",
@@ -464,7 +464,7 @@
 	{
 		"code": "500827",
 		"name": "Seigneur Kl’rt",
-		"text": "Attachez cette carte à Super-Skrull.\n[amplify]\n<b>Action de héros</b> : révélez la carte du dessus du deck [[super-pouvoir]] → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : révélez cette carte.",
+		"text": "Attachez cette carte à Super-Skrull.\n[amplify]\n<b>Action de héros</b> : révélez la carte du dessus du deck [[super-pouvoir]] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : révélez cette carte.",
 		"traits": "tiTRE."
 	},
 	{
@@ -509,7 +509,7 @@
 	{
 		"code": "500834",
 		"name": "Pouvoir Décuplé",
-		"text": "<b>Une fois révélée</b> : révélez la carte du dessus du deck [[super-pouvoir]]. Si vous ne pouvez pas, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : Cette carte gagne +1 icône de boost (B) pour chaque attachement [[super-pouvoir]] attaché à Super-Skrull.",
+		"text": "<b>Une fois révélée</b> : révélez la carte du dessus du deck [[super-pouvoir]]. Si vous ne pouvez pas, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b> : Cette carte gagne +1 icône de boost (B) pour chaque attachement [[super-pouvoir]] attaché à Super-Skrull.",
 		"flavor": "“Imbéciles, vous auriez dû partir pendant que vous en aviez l’occasion !” — Super-Skrull"
 	},
 	{
@@ -540,12 +540,12 @@
 	{
 		"code": "500839",
 		"name": "Armée Impériale Kree",
-		"text": "<b>Une fois révélée</b> : défaussez la première carte du deck Recontre. infligez 1 dégât à chaque personnage que vous contrôlez pour chaque icône de boost ([boost]) ainsi défaussé.\n<hr>\n[star] <b>Boost</b> : placez 2 menaces sur Implication Terrienne."
+		"text": "<b>Une fois révélée</b> : défaussez la première carte du deck Recontre. infligez 1 dégât à chaque personnage que vous contrôlez pour chaque icône de boost ([boost]) ainsi défaussé.\n<hr>\n<hr>[star] <b>Boost</b> : placez 2 menaces sur Implication Terrienne."
 	},
 	{
 		"code": "500840",
 		"name": "Flotte Impériale Skrull",
-		"text": "<b>Une fois révélée</b> : défaussez la première carte du deck Rencontre. placez 1 menace sur chaque manigance en jeu chaque icône de boost ([boost]) ainsi défaussé.\n<hr>\n[star] Boost : placez 2 menaces sur Implication Terrienne."
+		"text": "<b>Une fois révélée</b> : défaussez la première carte du deck Rencontre. placez 1 menace sur chaque manigance en jeu chaque icône de boost ([boost]) ainsi défaussé.\n<hr>\n<hr>[star] <b>Boost</b> : placez 2 menaces sur Implication Terrienne."
 	},
 	{
 		"code": "500841",
@@ -592,52 +592,52 @@
 	{
 		"code": "500846",
 		"name": "Capitaine Paibok",
-		"text": "Attachez cette carte à Paibok.\n<b>Action de héros</b> : résolvez la capacité « Boost » de chaque attachement en jeu qui appartient au set de rencontre Paibok → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : soignez 2 dégâts de Paibok.",
+		"text": "Attachez cette carte à Paibok.\n<b>Action de héros</b> : résolvez la capacité « Boost » de chaque attachement en jeu qui appartient au set de rencontre Paibok → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : soignez 2 dégâts de Paibok.",
 		"flavor": "Agenouillez-vous et suppliez les Skrulls ! — Paibok",
 		"traits": "TITRE."
 	},
 	{
 		"code": "500847",
 		"name": "Distrait",
-		"text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand vous contrez, réduisez de 1 la quantité de menaces retirée par ce contre.\n<b>Action de héros</b> : dépensez les ressources suivantes : [[mm]] → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : placez 1 menace sur la manigance principale.",
+		"text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand vous contrez, réduisez de 1 la quantité de menaces retirée par ce contre.\n<b>Action de héros</b> : dépensez les ressources suivantes : [[mm]] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : placez 1 menace sur la manigance principale.",
 		"traits": "CONDITION."
 	},
 	{
 		"code": "500848",
 		"name": "Projection d’Électricité",
-		"text": "Attachez cette carte à Paibok.\nPaibok gagne Riposte 1.\n<b>Action de héros</b> : dépensez les ressources suivantes  [[mp]] → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : sonnez un personnage que vous contrôlez.",
+		"text": "Attachez cette carte à Paibok.\nPaibok gagne Riposte 1.\n<b>Action de héros</b> : dépensez les ressources suivantes  [[mp]] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : sonnez un personnage que vous contrôlez.",
 		"flavor": "Imbécile ! Tu n’étais pas de taille face à mes pouvoirs génétiquement modifiés ! — Paibok",
 		"traits": "POWER SKRULL."
 	},
 	{
 		"code": "500849",
 		"name": "Hypnotisé",
-		"text": "Attachez cette carte à votre identité.\nComme coût supplémentaire pour changer de forme, vous devez dépenser 1 ressource de n’importe quel type.\n<b>Action de héros</b> : dépensez les ressources suivantes : [energy][energy] → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : défaussez 1 carte de votre main.",
+		"text": "Attachez cette carte à votre identité.\nComme coût supplémentaire pour changer de forme, vous devez dépenser 1 ressource de n’importe quel type.\n<b>Action de héros</b> : dépensez les ressources suivantes : [energy][energy] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : défaussez 1 carte de votre main.",
 		"traits": "CONDITION."
 	},
 	{
 		"code": "500850",
 		"name": "Contrôle de la Glace",
-		"text": "Attachez cette carte à Paibok.\n[star] <b>Réponse forcée</b> : après que Paibok vous a attaqué, inclinez un personnage que vous contrôlez.\n<b>Action de héros</b> : dépensez 3 ressources de n’importe quel type → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : inclinez un personnage que vous contrôlez.",
+		"text": "Attachez cette carte à Paibok.\n[star] <b>Réponse forcée</b> : après que Paibok vous a attaqué, inclinez un personnage que vous contrôlez.\n<b>Action de héros</b> : dépensez 3 ressources de n’importe quel type → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : inclinez un personnage que vous contrôlez.",
 		"traits": "POWER SKRULL."
 	},
 	{
 		"code": "500851",
 		"name": "Peau Métallique",
-		"text": "Attachez cette carte à Paibok et donnez-lui 1G carte d’état Tenace.\nPaibok peut avoir 1per_hero] carte d’état Tenace supplémentaire et les attaques contre Paibok perdent Perçant.\n<b>Action de héros</b> : dépensez les ressources suivantes : [energy][mental] → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : donnez à Paibok une carte d’état Tenace",
+		"text": "Attachez cette carte à Paibok et donnez-lui 1G carte d’état Tenace.\nPaibok peut avoir 1per_hero] carte d’état Tenace supplémentaire et les attaques contre Paibok perdent Perçant.\n<b>Action de héros</b> : dépensez les ressources suivantes : [energy][mental] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : donnez à Paibok une carte d’état Tenace",
 		"traits": "POWER SKRULL."
 	},
 	{
 		"code": "500852",
 		"name": "Métamorphose",
-		"text": "Attachez cette carte à Paibok.\nPaibok gagne Robuste et le trait [[aérien]].\n<b>Action de héros</b> : dépensez les ressources suivantes [energy][physical] → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : désorientez un personnage que vous contrôlez.",
+		"text": "Attachez cette carte à Paibok.\nPaibok gagne Robuste et le trait [[aérien]].\n<b>Action de héros</b> : dépensez les ressources suivantes [energy][physical] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : désorientez un personnage que vous contrôlez.",
 		"flavor": "“Nous les Skrulls sommes des métamorphes.” - Paibok",
 		"traits": "POWER SKRULL."
 	},
 	{
 		"code": "500853",
 		"name": "Piégé dans la Glace",
-		"text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand vous attaquez, diminuez de 1 la quantité de dégâts infligée par cette attaque.\n<b>Action de héros</b> : dépensez les ressources suivantes : [physical][physical] → défaussez cette carte.\n<hr>\n[star] <b>Boost</b> : subissez 1 dégât.",
+		"text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand vous attaquez, diminuez de 1 la quantité de dégâts infligée par cette attaque.\n<b>Action de héros</b> : dépensez les ressources suivantes : [physical][physical] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : subissez 1 dégât.",
 		"flavor": "“Bienvenue dans ta tombe glaciale !” — Paibok",
 		"traits": "CONDITION."
 	},
@@ -721,7 +721,7 @@
 	{
 		"code": "500866",
 		"name": "Vermine",
-		"text": "[star] Les attaques de Vermine infligent des dégâts indirects.\n<hr>\n[star] <b>Boost</b> : si cette activation est une attaque, elle inflige des dégâts indirects.",
+		"text": "[star] Les attaques de Vermine infligent des dégâts indirects.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, elle inflige des dégâts indirects.",
 		"flavor": "<i>\"FFFILONS, MES AMISSS ! FFFILONS ET GROUILLONS ! MORDONS ET GRIFFFONS ! LA VICTOIRE PEUT ENCORE ÊTRE À NOUSSS !\"</i>",
 		"traits": "revenger."
 	},
@@ -818,19 +818,19 @@
 	{
 		"code": "500876",
 		"name": "Béni par Kly’bn",
-		"text": "Attachez cette carte au sbire avec la MNG la plus faible. Si vous ne pouvez pas, cette carte gagne Renfort.\nX est égal au nombre de jetons Foi sur le méchant.\n<hr>\n[star] <b>Boost</b> : si cette activation est une manigance, cette carte gagne +2 icônes de boost ([boost]) pour cette  activation.",
+		"text": "Attachez cette carte au sbire avec la MNG la plus faible. Si vous ne pouvez pas, cette carte gagne Renfort.\nX est égal au nombre de jetons Foi sur le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une manigance, cette carte gagne +2 icônes de boost ([boost]) pour cette  activation.",
 		"traits": "CONDITION."
 	},
 	{
 		"code": "500877",
 		"name": "Béni par Sl’gur’t",
-		"text": "Attachez cette carte au sbire avec l’ATQ la plus faible. Si vous ne pouvez pas, cette carte gagne Renfort.\nX est égal au nombre de jetons Foi sur le méchant.\n<hr>\n[star] <b>Boost</b> : si cette activation est une attaque, cette carte gagne +2 icônes de boost ( [boost]) pour cette  activation.",
+		"text": "Attachez cette carte au sbire avec l’ATQ la plus faible. Si vous ne pouvez pas, cette carte gagne Renfort.\nX est égal au nombre de jetons Foi sur le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, cette carte gagne +2 icônes de boost ( [boost]) pour cette  activation.",
 		"traits": "CONDITION."
 	},
 	{
 		"code": "500878",
 		"name": "Nogor",
-		"text": "[star] Nogor gagne +1 MNG, +1 ATQ et +1 point de vie pour chaque jeton Foi sur le méchant.\n<b>Une fois révélée</b> : retournez le méchant.\n<hr>\n[star] <b>Boost</b> : après la résolution de cette activation, retournez le méchant.",
+		"text": "[star] Nogor gagne +1 MNG, +1 ATQ et +1 point de vie pour chaque jeton Foi sur le méchant.\n<b>Une fois révélée</b> : retournez le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : après la résolution de cette activation, retournez le méchant.",
 		"flavor": "<i>\"Je suis le harnais vivant du pouvoir des Dieux.\"</i>",
 		"traits": "ÉLITE. SKRULL."
 	},
@@ -843,19 +843,19 @@
 	{
 		"code": "500880",
 		"name": "Renforcer la Foi",
-		"text": "<b>Réponse forcée</b> : après qu’un sbire [[skrull]] est entré en jeu, placez 1 jeton Foi sur le méchant.\n<hr>\n[star] <b>Boost</b> : placez 1 jeton Foi sur le méchant.",
+		"text": "<b>Réponse forcée</b> : après qu’un sbire [[skrull]] est entré en jeu, placez 1 jeton Foi sur le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : placez 1 jeton Foi sur le méchant.",
 		"flavor": "<i>\"La plupart des Skrulls vénèrent Kly’bn, le Skrull Éternel, et Sl’gur’t aux Noms Infinis. Ils sont les seuls véritables Dieux de l’Empire Skrull.\"</i>"
 	},
 	{
 		"code": "500881",
 		"name": "Prière à Kly’bn",
-		"text": "<b>Une fois révélée</b> : si Kly’bn est en jeu, il s’active contre vous. Sinon retournez le méchant.\n<hr>\n[star] <b>Boost</b> : après la résolution de cette activation, si Kly’bn n’est pas en jeu, retournez le méchant.",
+		"text": "<b>Une fois révélée</b> : si Kly’bn est en jeu, il s’active contre vous. Sinon retournez le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : après la résolution de cette activation, si Kly’bn n’est pas en jeu, retournez le méchant.",
 		"flavor": "“Car je suis Kly’bn. Je suis le Skrull Éternel. Et je vous aime.” —Kly’bn"
 	},
 	{
 		"code": "500882",
 		"name": "Prière à Sl’gur’t",
-		"text": "<b>Une fois révélée</b> : si Sl’gur’t est en jeu, elle s’active contre vous. Sinon retournez le méchant.\n<hr>\n[star] <b>Boost</b> : après la résolution de cette activation, si Sl’gur’t n’est pas en jeu, retournez le méchant.",
+		"text": "<b>Une fois révélée</b> : si Sl’gur’t est en jeu, elle s’active contre vous. Sinon retournez le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : après la résolution de cette activation, si Sl’gur’t n’est pas en jeu, retournez le méchant.",
 		"flavor": "“Comment vous appellent-ils ? Je vous en prie, dites le nous...” —Sl’gur’t"
 	},
 	{
@@ -971,19 +971,19 @@
 	{
 		"code": "500896",
 		"name": "Amélioration Super-Skrull",
-		"text": "Attachez cette carte au sbire [[skrull]] avec le plus de points de vie restants qui n’a pas déjà un autre exemplaire d’Amélioration Super-Skrull attaché. Si vous ne pouvez pas, choisissez un allié [[camouflé]], retournez-le et attachez-lui cette carte. Sinon, cette carte gagne Renfort.\nLe sbire attaché gagne +2 points de vie.\n<hr>\n[star] <b>Boost</b> : à la fin de cette activation, révélez cette carte.",
+		"text": "Attachez cette carte au sbire [[skrull]] avec le plus de points de vie restants qui n’a pas déjà un autre exemplaire d’Amélioration Super-Skrull attaché. Si vous ne pouvez pas, choisissez un allié [[camouflé]], retournez-le et attachez-lui cette carte. Sinon, cette carte gagne Renfort.\nLe sbire attaché gagne +2 points de vie.\n<hr>\n<hr>[star] <b>Boost</b> : à la fin de cette activation, révélez cette carte.",
 		"traits": "CONDITION."
 	},
 	{
 		"code": "500897",
 		"name": "Amélioration Super-Skrull",
-		"text": "Attachez cette carte au sbire [[skrull]] avec le plus de points de vie restants qui n’a pas déjà un autre exemplaire d’Amélioration Super-Skrull attaché. Si vous ne pouvez pas, choisissez un allié [[camouflé]], retournez-le et attachez-lui cette carte. Sinon, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : à la fin de cette activation, révélez cette carte.",
+		"text": "Attachez cette carte au sbire [[skrull]] avec le plus de points de vie restants qui n’a pas déjà un autre exemplaire d’Amélioration Super-Skrull attaché. Si vous ne pouvez pas, choisissez un allié [[camouflé]], retournez-le et attachez-lui cette carte. Sinon, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b> : à la fin de cette activation, révélez cette carte.",
 		"traits": "CONDITION."
 	},
 	{
 		"code": "500898",
 		"name": "Amélioration Super-Skrull",
-		"text": "Attachez cette carte au sbire [[skrull]] avec le plus de points de vie restants qui n’a pas déjà un autre exemplaire d’Amélioration Super-Skrull attaché. Si vous ne pouvez pas, choisissez un allié [[camouflé]], retournez-le et attachez-lui cette carte. Sinon, cette carte gagne Renfort.\nLe sbire attaché gagne Riposte 1.\n<hr>\n[star] <b>Boost</b> : à la fin de cette activation, révélez cette carte.",
+		"text": "Attachez cette carte au sbire [[skrull]] avec le plus de points de vie restants qui n’a pas déjà un autre exemplaire d’Amélioration Super-Skrull attaché. Si vous ne pouvez pas, choisissez un allié [[camouflé]], retournez-le et attachez-lui cette carte. Sinon, cette carte gagne Renfort.\nLe sbire attaché gagne Riposte 1.\n<hr>\n<hr>[star] <b>Boost</b> : à la fin de cette activation, révélez cette carte.",
 		"traits": "CONDITION."
 	},
 	{
@@ -1006,33 +1006,33 @@
 	{
 		"code": "500902",
 		"name": "L’Arrivée des Imposteurs",
-		"text": "<b>Une fois révélée</b> : chaque joueur met en jeu un allié [[camouflé]] pris au hasard dans le deck [[imposteur]], sous son contrôle.\n<hr>\n[star] <b>Boost</b> : mettez en jeu un allié [[camouflé]] pris au hasard du deck [[imposteur]], sous votre contrôle."
+		"text": "<b>Une fois révélée</b> : chaque joueur met en jeu un allié [[camouflé]] pris au hasard dans le deck [[imposteur]], sous son contrôle.\n<hr>\n<hr>[star] <b>Boost</b> : mettez en jeu un allié [[camouflé]] pris au hasard du deck [[imposteur]], sous votre contrôle."
 	},
 	{
 		"code": "500903",
 		"name": "Camouflage",
-		"text": "<b>Une fois révélée</b> (Reine Veranke) : retournez la Reine Veranke. Retirez 3 jetons Suspicion de \"En Qui Avez Vous Confiance ?\".\n<b>Une fois révélée</b> (Spider Woman) : Spider-Woman manigance.\n<hr>\n[star] <b>Boost</b> : après la fin de cette activation, retournez la Reine Veranke."
+		"text": "<b>Une fois révélée</b> (Reine Veranke) : retournez la Reine Veranke. Retirez 3 jetons Suspicion de \"En Qui Avez Vous Confiance ?\".\n<b>Une fois révélée</b> (Spider Woman) : Spider-Woman manigance.\n<hr>\n<hr>[star] <b>Boost</b> : après la fin de cette activation, retournez la Reine Veranke."
 	},
 	{
 		"code": "500904",
 		"name": "Gloire à l’Empire Skrull",
-		"text": "<b>Une fois révélée</b> : donnez au méchant et à chaque sbire [[skrull]] engagé avec vous une carte d’état Tenace. Si le méchant a déjà une carte d’état Tenace, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : donnez au méchant une carte d’état Tenace."
+		"text": "<b>Une fois révélée</b> : donnez au méchant et à chaque sbire [[skrull]] engagé avec vous une carte d’état Tenace. Si le méchant a déjà une carte d’état Tenace, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b> : donnez au méchant une carte d’état Tenace."
 	},
 	{
 		"code": "500905",
 		"name": "Rituel d’Infiltration",
-		"text": "<b>Une fois révélée</b> : mettez en jeu un allié [[camoufl]]É pris au hasard dans le deck [[imposteur]], sous le contrôle de n’importe quel joueur. Sinon, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : retirez 3 jetons Suspicion de",
+		"text": "<b>Une fois révélée</b> : mettez en jeu un allié [[camoufl]]É pris au hasard dans le deck [[imposteur]], sous le contrôle de n’importe quel joueur. Sinon, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b> : retirez 3 jetons Suspicion de",
 		"flavor": "<i>\"En Qui Avez Vous Confiance ?\"</i>"
 	},
 	{
 		"code": "500906",
 		"name": "Flotte d’Invasion",
-		"text": "<b>Une fois révélée</b> : chaque joueur met en jeu un sbire [[demasqu]]É pris au hasard dans le deck [[imposteur]], engagé avec lui.\n<hr>\n[star] <b>Boost</b> : mettez en jeu un sbire [[demasqu]]É pris au hasard dans le deck [[imposteur]], engagé avec vous."
+		"text": "<b>Une fois révélée</b> : chaque joueur met en jeu un sbire [[demasqu]]É pris au hasard dans le deck [[imposteur]], engagé avec lui.\n<hr>\n<hr>[star] <b>Boost</b> : mettez en jeu un sbire [[demasqu]]É pris au hasard dans le deck [[imposteur]], engagé avec vous."
 	},
 	{
 		"code": "500907",
 		"name": "Révélation",
-		"text": "<b>Une fois révélée</b> : retournez l’allié [[camouflé]] avec le plus de points de vie restants. Si vous ne pouvez pas, mettez en jeu un sbire [[demasqué]] pris au hasard dans le deck [[imposteur]], engagé avec vous.\n<hr>\n[star] <b>Boost</b> : à la fin de cette activation, retournez 1 allié [[camouflé]] que vous contrôlez."
+		"text": "<b>Une fois révélée</b> : retournez l’allié [[camouflé]] avec le plus de points de vie restants. Si vous ne pouvez pas, mettez en jeu un sbire [[demasqué]] pris au hasard dans le deck [[imposteur]], engagé avec vous.\n<hr>\n<hr>[star] <b>Boost</b> : à la fin de cette activation, retournez 1 allié [[camouflé]] que vous contrôlez."
 	},
 	{
 		"code": "500908a",
@@ -1328,7 +1328,7 @@
 	{
 		"code": "500931",
 		"name": "Crusader",
-		"text": "Victoire 1.\n<b>Une fois révélée</b> : infligez 1 dégat à chaque personnage que vous contrôlez. Donnez au méchant une carte de boost face cachée pour chaque personnage vaincu de cette façon.\n<hr>\n[star] <b>Boost</b> : mettez en jeu Crusader, engagé avec vous.",
+		"text": "Victoire 1.\n<b>Une fois révélée</b> : infligez 1 dégat à chaque personnage que vous contrôlez. Donnez au méchant une carte de boost face cachée pour chaque personnage vaincu de cette façon.\n<hr>\n<hr>[star] <b>Boost</b> : mettez en jeu Crusader, engagé avec vous.",
 		"traits": "ÉLITE. SKRULL"
 	},
 	{
@@ -1358,7 +1358,7 @@
 	{
 		"code": "500936",
 		"name": "Jazinda",
-		"text": "Victoire 1.\nLe méchant gagne +1 MNG.\n<hr>\n[star] <b>Boost</b> : mettez Jazinda en jeu engagée avec vous.",
+		"text": "Victoire 1.\nLe méchant gagne +1 MNG.\n<hr>\n<hr>[star] <b>Boost</b> : mettez Jazinda en jeu engagée avec vous.",
 		"flavor": "<i>\"Prétendre être humaine est amusant. Particulièrement quand je le fais bien mieux que vous.\"</i>",
 		"traits": "ÉLITE. SKRULL."
 	},
@@ -1388,7 +1388,7 @@
 	{
 		"code": "500941",
 		"name": "Skymax",
-		"text": "Victoire 1.\n<b>Une fois révélée</b> : mélangez tous les sbires de la pile de défausse Rencontre dans le deck Rencontre.\n<hr>\n[star] <b>Boost</b> : mettez Skymax en jeu, engagé avec vous.",
+		"text": "Victoire 1.\n<b>Une fois révélée</b> : mélangez tous les sbires de la pile de défausse Rencontre dans le deck Rencontre.\n<hr>\n<hr>[star] <b>Boost</b> : mettez Skymax en jeu, engagé avec vous.",
 		"traits": "ÉLITE. SKRULL."
 	},
 	{
@@ -1407,12 +1407,12 @@
 	{
 		"code": "500944",
 		"name": "Altération de Forme",
-		"text": "<b>Une fois révélée</b> : pour chaque ennemi [[skrull]] en jeu, retirez-lui chaque carte d’état Sonné et Désorienté et donnez-lui une carte d'état Tenace. Si aucun ennemi [[skrull]] n’est en jeu, cette carte gagne Renfort.\n<hr>\n[star] <b>Boost</b> : donnez une carte d’état Tenace à un ennemi [[skrull]]."
+		"text": "<b>Une fois révélée</b> : pour chaque ennemi [[skrull]] en jeu, retirez-lui chaque carte d’état Sonné et Désorienté et donnez-lui une carte d'état Tenace. Si aucun ennemi [[skrull]] n’est en jeu, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b> : donnez une carte d’état Tenace à un ennemi [[skrull]]."
 	},
 	{
 		"code": "500945",
 		"name": "War Skrull",
-		"text": "Victoire 1.\n[star] <b>Réponse forcée</b> : après que War Skrull vous a attaqué, défaussez les deux cartes du dessus de votre deck.\n<hr>\n[star] <b>Boost</b> : mettez War Skrull en jeu, engagé avec vous.",
+		"text": "Victoire 1.\n[star] <b>Réponse forcée</b> : après que War Skrull vous a attaqué, défaussez les deux cartes du dessus de votre deck.\n<hr>\n<hr>[star] <b>Boost</b> : mettez War Skrull en jeu, engagé avec vous.",
 		"traits": "ÉLITE. SKRULL."
 	},
 	{
@@ -1424,13 +1424,13 @@
 	{
 		"code": "500947",
 		"name": "Commandant Skrull",
-		"text": "Chaque autre sbire [[skrull]] gagne +1 ATQ.\n<hr>\n[star] <b>Boost</b> : si cette activation est une attaque, cette carte gagne +2 icônes de boost ([[bb]]) pour cette attaque.\n“S’il était une véritable menace, nous saurions qui il est.” → Commandant Ak’strk",
+		"text": "Chaque autre sbire [[skrull]] gagne +1 ATQ.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, cette carte gagne +2 icônes de boost ([[bb]]) pour cette attaque.\n“S’il était une véritable menace, nous saurions qui il est.” → Commandant Ak’strk",
 		"traits": "SKRULL. SOLDAT."
 	},
 	{
 		"code": "500948",
 		"name": "Généticien Skrull",
-		"text": "[star] <b>Boost</b> : attribuez-vous une carte Rencontre face cachée.",
+		"text": "<hr>[star] <b>Boost</b> : attribuez-vous une carte Rencontre face cachée.",
 		"flavor": "<i>\"Ces résultats sont fascinants.\"</i>",
 		"traits": "GÉNIE. SKRULL."
 	},
@@ -1443,7 +1443,7 @@
 	{
 		"code": "500950",
 		"name": "Xavin",
-		"text": "Victoire 1.\n<b>Une fois révélée</b> : défaussez des cartes du dessus du deck Rencontre jusqu’à ce qu’une traîtrise soit défaussée. Révélez cette traîtrise.\n<hr>\n[star] <b>Boost</b> : mettez Xavin en jeu, engagé avec vous.",
+		"text": "Victoire 1.\n<b>Une fois révélée</b> : défaussez des cartes du dessus du deck Rencontre jusqu’à ce qu’une traîtrise soit défaussée. Révélez cette traîtrise.\n<hr>\n<hr>[star] <b>Boost</b> : mettez Xavin en jeu, engagé avec vous.",
 		"traits": "ÉLITE. SKRULL."
 	},
 	{
@@ -1462,11 +1462,6 @@
 		"name": "Implosion Nova",
 		"text": "<b>Une fois révélée</b> : Infligez 2[per_hero] dégâts indirects parmi les joueurs.",
 		"flavor": "“Damnation. J’oublie toujours à quel point vous êtes fragiles.” - Xavin"
-	},
-	{
-		"code": "500962",
-		"name": "Assaut Vicieux",
-		"text": "<b>Une fois révélée</b> : passez sous forme de héros. Le méchant vous attaque. Si l’attaque n’est pas défendue, le méchant manigance.\n“Nous sommes prêts à accepter votre reddition.” → Skrull Inconnu"
 	},
 	{
 		"code": "500954",
@@ -1514,5 +1509,10 @@
 		"name": "Attention Concentrée",
 		"text": "Renfort.\n<b>Une fois révélée</b> : attribuez au méchant une carte de boost face cachée.",
 		"flavor": "“La Terre doit payer pour ce qui a été fait à mon peuple !” - Super-Skrull"
+	},
+	{
+		"code": "500962",
+		"name": "Assaut Vicieux",
+		"text": "<b>Une fois révélée</b> : passez sous forme de héros. Le méchant vous attaque. Si l’attaque n’est pas défendue, le méchant manigance.\n“Nous sommes prêts à accepter votre reddition.” → Skrull Inconnu"
 	}
 ]

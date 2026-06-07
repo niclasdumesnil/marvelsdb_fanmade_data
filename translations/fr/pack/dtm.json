@@ -3,7 +3,7 @@
 		"code": "44101",
 		"name": "Cable",
 		"subname": "Nathaniel Summers",
-		"text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>) <b>Interruption</b> : quand Cable attaque, défaussez n'importe quel nombre de cartes de votre main → pour chaque carte ainsi défaussée, Cable gagne +1 ATQ pour cette attaque.",
+		"text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>) \n<b>Interruption</b> : quand Cable attaque, défaussez n'importe quel nombre de cartes de votre main → pour chaque carte ainsi défaussée, Cable gagne +1 ATQ pour cette attaque.",
 		"traits": "X-Force. X-Men."
 	},
 	{
@@ -43,7 +43,7 @@
 	{
 		"code": "44107",
 		"name": "Le Pouvoir de la Détermination",
-		"text": "2 max par deck.\nDoublez le nombre de ressources générées par cette carte lorsque vous payez une carte Détermination (<i>violette</i>)."
+		"text": "2 max par deck.\nDoublez le nombre de ressources générées par cette carte lorsque vous payez une carte Détermination."
 	},
 	{
 		"code": "44108",
@@ -120,7 +120,7 @@
 	{
 		"code": "44119",
 		"name": "Galvaniser",
-		"text": "Jouez cette carte uniquement si les points de vie maximum de votre héros sont de 12 ou plus. <b>Action de héros</b> : inclinez Galvaniser et subissez 3 dégâts → redressez votre héros ou piochez 1 carte.",
+		"text": "Jouez cette carte uniquement si les points de vie maximum de votre héros sont de 12 ou plus.\n<b>Action de héros</b> : inclinez Galvaniser et subissez 3 dégâts → redressez votre héros ou piochez 1 carte.",
 		"flavor": "\"Si tout échoue, alors botte moi le cul !\" - Amadeus Cho",
 		"traits": "Tactique."
 	},
@@ -286,6 +286,7 @@
 		"name": "La Chose",
 		"subname": "Ben Grimm",
 		"text": "Tenacité.\n<b>Interruption forcée</b> : quand votre héros devrait subir n'importe quelle quantité de dégâts, infligez ces dégâts à La Chose à la place.",
+		"flavor": "\"Tu sais quelle heure il est.\"",
 		"traits": "Fantastic Four. Gardien."
 	},
 	{
@@ -384,14 +385,14 @@
 	{
 		"code": "44158",
 		"name": "Héros à Louer",
-		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 carte Équipe max par joueur.\nSi chacun de vos alliés a le trait [[Héros à Louer]], cette carte gagne : \"<b>Réponse</b>\" : après qu'un allié que vous contrôlez a vaincu un ennemi, piochez une carte.",
+		"text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 carte Équipe max par joueur.\nSi chacun de vos alliés a le trait [[Héros à Louer]], cette carte gagne : \"<b>Réponse</b> : après qu'un allié que vous contrôlez a vaincu un ennemi, piochez une carte.\"",
 		"traits": "Equipe."
 	},
 	{
 		"code": "44159",
 		"name": "Entraînement de l’Arme X",
 		"text": "1 max par joueur.\nLes alliés que vous contrôlez avec 1 point de vie restant gagnent +2 ATQ et subissent 2 dégâts consécutifs additionnels.",
-		"flavor": "\"Ce qu'ils font n'est pas très beau.\"  --Wolverine",
+		"flavor": "\"Ce qu'ils font n'est pas très beau.\"  -Wolverine",
 		"traits": "Compétence."
 	},
 	{
@@ -498,7 +499,7 @@
 		"code": "44176",
 		"name": "Gorilla-Man",
 		"subname": "Kenneth Hale",
-		"text": "L'Homme-Gorille ignore le texte \"1 max par allié\" sur les améliorations qui lui sont attachées.",
+		"text": "Gorilla-Man ignore le texte \"1 max par allié\" sur les améliorations qui lui sont attachées.",
 		"flavor": "\"Puis-je dire que nous sommes... des gorilleros?\" -Deadpool",
 		"traits": "Héros à Louer."
 	},
@@ -517,7 +518,7 @@
 	{
 		"code": "44179",
 		"name": "Equipement Emprunté",
-		"text": "Attachez cette carte à un allié. 1 max par deck.\nL'allié attaché gagne +1 point de vie pour chaque amélioration qui lui est attachée (jusqu'à un maximum de +4 points de vie).\n<b>Réponse forcée</b> :Après que Équipement Emprunté est entré en jeu, attachez-lui un allié de votre pile de défausse face cachée→ l'allié attaché gagne les [[traits]] de l'allié face caché."
+		"text": "Attachez cette carte à un allié. 1 max par deck.\nL'allié attaché gagne +1 point de vie pour chaque amélioration qui lui est attachée (jusqu'à un maximum de +4 points de vie).\n<b>Réponse forcée</b> : après que Équipement Emprunté est entré en jeu, attachez-lui un allié de votre pile de défausse face cachée→ l'allié attaché gagne les [[traits]] de l'allié face caché."
 	},
 	{
 		"code": "44180",
@@ -535,6 +536,7 @@
 		"code": "44182",
 		"name": "Décision Difficile",
 		"text": "<b>Action de héros</b> : subissez 2 dégâts → donnez une carte d’état Tenace à un personnage. Si une carte d'état Tenace est donnée à un ennemi de cette manière, soignez 4 dégâts de votre héros.",
+		"flavor": "\"Cette erreur sera ta dernière !\" – Colossus",
 		"traits": "Tactique."
 	},
 	{
@@ -558,7 +560,7 @@
 	},
 	{
 		"code": "44186",
-		"name": "Coûter un bras",
+		"name": "Ça M’a Coûté un Bras",
 		"text": "Jouez cette carte sous le contrôle de n’importe quel joueur.\n1 max par joueur.\nTant que les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie de départ, votre héros a une taille de main de -1 et +2 ATQ",
 		"traits": "Condition."
 	},
@@ -584,7 +586,7 @@
 	{
 		"code": "44190",
 		"name": "Contrôle Psychique de Foule",
-		"text": "Jouez cette carte uniquement si votre identité a le trait [[Psionique]].\n<b>Action de héros</b> : inclinez votre identité →choisissez soit de désorienter chaque ennemi engagé avec vous, soit d’infliger 2 dégâts à chaque ennemi désorienté.",
+		"text": "Jouez cette carte uniquement si votre identité a le trait [[Psionique]].\n<b>Action de héros</b> : inclinez votre identité → choisissez soit de désorienter chaque ennemi engagé avec vous, soit d’infliger 2 dégâts à chaque ennemi désorienté.",
 		"traits": "Psionique."
 	},
 	{
@@ -633,7 +635,7 @@
 		"code": "44198",
 		"name": "Bedlam",
 		"subname": "Jesse Aaronson",
-		"text": "Victoire 0\nRessource de héros : Vainquez Beldam →  générez les ressources suivantes: [energy] [mental] [physical].",
+		"text": "Victoire 0.\nRessource de héros : Vainquez Beldam →  générez les ressources suivantes: [energy] [mental] [physical].",
 		"flavor": "\"Cet EMP ne fonctionne qu'en se rapprochant... vraiment très près\"",
 		"traits": "X-Force."
 	},
@@ -778,7 +780,7 @@
 	{
 		"code": "44220",
 		"name": "Technologie Improvisée",
-		"text": "<b>Interruption</b> : quand une carte de boost est retournée face visible, défaussez Technologie Improvisée et la carte du dessus de votre deck → si le coût de cette carte est supérieur à X, où X est le nombre d'icones ([étoile] et [boost]) de la carte de boost, placez X jetons génériques sur des cartes que vous contrôlez. Ensuite, défaussez la carte de boost.",
+		"text": "<b>Interruption</b> : quand une carte de boost est retournée face visible, défaussez Technologie Improvisée et la carte du dessus de votre deck → si le coût de cette carte est supérieur à X, où X est le nombre d'icones ([star] et [boost]) de la carte de boost, placez X jetons génériques sur des cartes que vous contrôlez. Ensuite, défaussez la carte de boost.",
 		"traits": "Préparation. Tech."
 	},
 	{
@@ -791,7 +793,7 @@
 		"code": "44222",
 		"name": "Spiders-Man",
 		"subname": "Peter Parker",
-		"text": "Utilisations (5 jetons Araignée). Fragile.\n[[star]] Spiders-Man ne peut pas quitter le jeu tant qu'il a au moins un jeton Araignée sur lui.\n<b>Interruption forcée</b> : quand Spiders-Man utilise un pouvoir de base, retirez 1 ou plusieurs jetons Araignée de sa carte → infligez 1 dommage à un ennemi pour chaque jeton retiré.",
+		"text": "Utilisations (5 jetons Araignée). Fragile.\n[star] Spiders-Man ne peut pas quitter le jeu tant qu'il a au moins un jeton Araignée sur lui.\n<b>Interruption forcée</b> : quand Spiders-Man utilise un pouvoir de base, retirez 1 ou plusieurs jetons Araignée de sa carte → infligez 1 dommage à un ennemi pour chaque jeton retiré.",
 		"traits": "Spiders. Web-Warrior."
 	},
 	{
