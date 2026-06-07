@@ -1279,5 +1279,19 @@
         "status": "sealed",
         "theme": "Marvel",
         "visibility": "false"
+    },
+    {
+        "cgdb_id": 2070,
+        "code": "universal_church_of_truth_by_bluehg",
+        "creator": "BlueHG",
+        "date_release": "2026-06-07",
+        "name": "Universal Church of Truth",
+        "octgn_id": "a7eb4ebd-4425-4183-9ff2-3d231e9d003e",
+        "pack_type_code": "scenar_fanmade",
+        "position": 2070,
+        "size": 50,
+        "status": "beta",
+        "theme": "Marvel",
+        "visibility": "false"
     }
 ]

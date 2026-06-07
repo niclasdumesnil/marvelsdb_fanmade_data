@@ -403,11 +403,12 @@
 		"quantity": 1,
 		"resource_mental": 1,
 		"subname": "Tyrone Johnson",
-		"text": "<b>Action</b>: Exhaust Cloak and spend [energy][energy] resources → find Dagger and put her into play.\n[acceleration]",
+		"text": "<b>Action</b>: Exhaust Cloak and spend [energy][energy] resources → find Dagger and put her into play.",
 		"thwart": 2,
 		"thwart_cost": 0,
 		"traits": "defender?",
-		"type_code": "ally"
+		"type_code": "ally",
+		"scheme_acceleration": 1
 	},
 	{
 		"attack": 2,
@@ -483,7 +484,8 @@
 		"resource_mental": 1,
 		"text": "\n[star] Discount 1 ([[MARTIAL ARTIST]]).\n<b>Hero Action</b> (thwart): Remove 1 threat from a scheme. Remove 1 threat from a scheme.",
 		"traits": "THWART.",
-		"type_code": "event"
+		"type_code": "event",
+		"cost_star": true
 	},
 	{
 		"code": "60025",
@@ -509,7 +511,8 @@
 		"resource_mental": 1,
 		"text": "[star] Discount 1 ([[ATTORNEY]] or [[POLICE]]).\nAttach to a minion. Max 1 per minion.\nAttached minion gets -2 SCH.",
 		"traits": "CONDITION.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"cost_star": true
 	},
 	{
 		"code": "60027",
@@ -524,9 +527,10 @@
 		"position": 27,
 		"quantity": 3,
 		"resource_energy": 1,
-		"text": "Discount 1 ([[MARTIAL ARTIST]] or [[SPY]]).\nTemporary. Max 1 per player.\n<b>Response</b> (<i>thwart</i>): After you play a card (including this one), remove 1 threat from a scheme.",
+		"text": "[star] Discount 1 ([[MARTIAL ARTIST]] or [[SPY]]).\nTemporary. Max 1 per player.\n<b>Response</b> (<i>thwart</i>): After you play a card (including this one), remove 1 threat from a scheme.",
 		"traits": "SKILL.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"cost_star": true
 	},
 	{
 		"code": "60028",
@@ -594,7 +598,9 @@
 		"resource_wild": 1,
 		"text": "Team-Up (Daredevil and Elektra).\nMax 1 per deck.\n Attach to an enemy.\n<b>Hero Action</b> (<i>attack</i>): Discard this card → deal 3 damage to attached enemy.",
 		"traits": "Dance.",
-		"type_code": "upgrade"
+		"type_code": "upgrade",
+		"scheme_acceleration": null,
+		"scheme_amplify": 1
 	},
 	{
 		"attack": 2,
@@ -613,7 +619,7 @@
 		"position": 37,
 		"quantity": 1,
 		"set_code": "echo_by_ffg",
-		"text": "Watch and Learn — <b>Response</b>: After a player plays an aspect or basic event, tuck that event under here from that player's discard pile. Then, if there are more than 3 tucked cards here, discard all but 3 of those cards.",
+		"text": "<i>Watch and Learn</i> — <b>Response</b>: After a player plays an aspect or basic event, tuck that event under here from that player's discard pile. Then, if there are more than 3 tucked cards here, discard all but 3 of those cards.",
 		"thwart": 2,
 		"traits": "Defender. Martial Artist.",
 		"type_code": "hero"
@@ -635,7 +641,7 @@
 		"quantity": 1,
 		"recover": 3,
 		"set_code": "echo_by_ffg",
-		"text": "Practice Makes Perfect — <b>Interrupt</b>: When you change to hero form, search your deck for an aspect or basic event and add it to your hand. (<i>Shuffle</i>.)",
+		"text": "<i>Practice Makes Perfect</i> — <b>Interrupt</b>: When you change to hero form, search your deck for an aspect or basic event and add it to your hand. (<i>Shuffle</i>.)",
 		"traits": "Civilian.",
 		"type_code": "alter_ego"
 	},
@@ -652,7 +658,7 @@
 		"pack_code": "fear_no_evil_by_ffg",
 		"position": 38,
 		"quantity": 1,
-		"text": "Starting. (You may add this card to your hand before drawing your starting hand.)\nYour hero gets +1 DEF.",
+		"text": "Starting. (<i>You may add this card to your hand before drawing your starting hand.</i>)\nYour hero gets +1 DEF.",
 		"traits": "Condition.",
 		"type_code": "upgrade"
 	},
@@ -687,6 +693,7 @@
 	{
 		"code": "60040",
 		"cost": null,
+		"cost_star": true,
 		"deck_limit": 6,
 		"duplicate_of_name": "",
 		"faction_code": "hero",
@@ -854,7 +861,8 @@
 		"quantity": 3,
 		"resource_energy": 1,
 		"text": "[star] Increase the cost to play this card by 1 for each ally you control.\n<b>Hero Action</b>: Ready your hero.",
-		"type_code": "event"
+		"type_code": "event",
+		"cost_star": true
 	},
 	{
 		"code": "60049",
@@ -889,7 +897,8 @@
 		"resource_physical": 1,
 		"text": "[star] Increase the cost to play this card by 1 for each ally you control.\nHero Action (<i>attack/thwart</i>): Deal X damage to an enemy and remove X threat from a scheme, where X is your DEF.",
 		"traits": "ATTACK. THWART.",
-		"type_code": "event"
+		"type_code": "event",
+		"cost_star": true
 	},
 	{
 		"alt_art": true,

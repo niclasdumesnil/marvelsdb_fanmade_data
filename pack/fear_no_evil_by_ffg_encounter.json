@@ -30,7 +30,8 @@
 		"position": 24,
 		"quantity": 1,
 		"text": "Victory 0.\n<b>When Defeated</b>: Remove an acceleration token from play.",
-		"type_code": "player_side_scheme"
+		"type_code": "player_side_scheme",
+		"cost": 0
 	},
 	{
 		"boost": 2,
@@ -139,7 +140,8 @@
 		"position": 56,
 		"quantity": 1,
 		"text": "Victory 0.\n<b>When Defeated</b>: Each player may search their deck and discard pile for an identity-specific upgrade and put it into play. (<i>Shuffle</i>.)",
-		"type_code": "player_side_scheme"
+		"type_code": "player_side_scheme",
+		"cost": 1
 	},
 	{
 		"boost": 2,
