@@ -663,7 +663,7 @@
 	{
 		"code": "44202",
 		"name": "Un Jeu Dangereux",
-		"text": "Vous ne pouvez pas déplacer plus de 4 menaces vers cette carte par tour. \n<b>Action de héros</b> : subissez jusqu'à 4 dégats →  déplacez un montant équivalent de menace d'une autre manigance vers cette carte. \n<b>Réponse forcée</b> : après qu'une manigance a été placée sur cette carte, s'il y a au moins 16[per_hero] menaces sur cette carte, infligez 16[par_héro] dégâts au méchant et retirez Un Jeu Dangereux de la partie."
+		"text": "Vous ne pouvez pas déplacer plus de 4 menaces vers cette carte par tour. \n<b>Action de héros</b> : subissez jusqu'à 4 dégats →  déplacez un montant équivalent de menace d'une autre manigance vers cette carte. \n<b>Réponse forcée</b> : après qu'une manigance a été placée sur cette carte, s'il y a au moins 16[per_hero] menaces sur cette carte, infligez 16[per_hero] dégâts au méchant et retirez Un Jeu Dangereux de la partie."
 	},
 	{
 		"code": "44203",
