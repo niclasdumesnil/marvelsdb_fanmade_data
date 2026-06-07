@@ -616,7 +616,7 @@
 	{
 		"code": "44195",
 		"name": "À l'Article de la Mort",
-		"text": "Jouez cette carte uniquement si votre identité a le trait[[ X-Men]].\n<b>Action de héros</b> (<i>attaque/contre</i>) : défaussez chaque allié X-Men que vous contrôlez → retirez un total de X menaces parmi les manigances en jeu et infligez un total de X dégâts parmi les ennemis en jeu, où X est égal à la somme des points de vie restants des alliés défaussés de cette manière.",
+		"text": "Jouez cette carte uniquement si votre identité a le trait[[ X-Men]].\n<b>Action de héros</b> (<i>attaque/contre</i>) : défaussez chaque allié [[X-Men]] que vous contrôlez → retirez un total de X menaces parmi les manigances en jeu et infligez un total de X dégâts parmi les ennemis en jeu, où X est égal à la somme des points de vie restants des alliés défaussés de cette manière.",
 		"traits": "Attaque. Contre."
 	},
 	{
@@ -663,7 +663,7 @@
 	{
 		"code": "44202",
 		"name": "Un Jeu Dangereux",
-		"text": "Vous ne pouvez pas déplacer plus de 4 menaces vers cette carte par tour. \n<b>Action de héros</b> : subissez jusqu'à 4 dégats →  déplacez un montant équivalent de menace d'une autre manigance vers cette carte. \n<b>Réponse forcée</b> : après qu'une manigance a été placée sur cette carte, s'il y a au moins 16[par_héro] menaces sur cette carte, infligez 16[par_héro] dégâts au méchant et retirez Un Jeu Dangereux de la partie."
+		"text": "Vous ne pouvez pas déplacer plus de 4 menaces vers cette carte par tour. \n<b>Action de héros</b> : subissez jusqu'à 4 dégats →  déplacez un montant équivalent de menace d'une autre manigance vers cette carte. \n<b>Réponse forcée</b> : après qu'une manigance a été placée sur cette carte, s'il y a au moins 16[per_hero] menaces sur cette carte, infligez 16[par_héro] dégâts au méchant et retirez Un Jeu Dangereux de la partie."
 	},
 	{
 		"code": "44203",
@@ -763,6 +763,7 @@
 		"code": "44217",
 		"name": "Le Béhémoth",
 		"text": "Utilisations (2 jetons Déploiement).\n<b>Action</b> : retirez 1 jeton Déploiement du Béhémoth, inclinez-le et défaussez un allié que vous contrôlez → cherchez dans votre collection ou votre deck un allié [[S.H.I.E.L.D.]] et mettez le en jeu.",
+		"flavor": "\"Vous êtes relevés.\" -- Maria Hill",
 		"traits": "S.H.I.E.L.D. véhicule."
 	},
 	{
@@ -774,13 +775,14 @@
 	{
 		"code": "44219",
 		"name": "Assistance Technique",
-		"text": "Utilisations (2 jetons Stimulant). \n<b>Réponse</b> : après avoir retiré un jeton générique d'une carte que vous contrôlez, inclinez Assistance Technique et retirez-en 1 jeton Stimulant → Redressez un personnage [[S.H.I.E.L.D]] ou un support [[INDIVIDU]]",
+		"text": "Utilisations (2 jetons Stimulant). \n<b>Réponse</b> :après avoir retiré un jeton générique d'une carte que vous contrôlez, retirez 1 jeton Stimulant d’Assistance Technique et inclinez-la → Redressez un personnage [[S.H.I.E.L.D]] ou un support [[INDIVIDU]]",
+		"flavor": "\"Fitz a conçu l'injecteur.\" -- Jemma Simmons",
 		"traits": "S.H.I.E.L.D. tech."
 	},
 	{
 		"code": "44220",
 		"name": "Technologie Improvisée",
-		"text": "<b>Interruption</b> : quand une carte de boost est retournée face visible, défaussez Technologie Improvisée et la carte du dessus de votre deck → si le coût de cette carte est supérieur à X, où X est le nombre d'icones ([star] et [boost]) de la carte de boost, placez X jetons génériques sur des cartes que vous contrôlez. Ensuite, défaussez la carte de boost.",
+		"text": "<b>Interruption</b> : quand une carte de boost est retournée face visible, défaussez Technologie Improvisée et la carte du dessus de votre deck → si le coût de cette carte est supérieur à X, où X est le nombre d'icônes ([star] et [boost]) de la carte de boost, placez X jetons génériques sur des cartes que vous contrôlez. Ensuite, défaussez la carte de boost.",
 		"traits": "Préparation. Tech."
 	},
 	{
@@ -799,7 +801,7 @@
 	{
 		"code": "44223",
 		"name": "Ralph",
-		"text": "<b>Interruption de héros</b> : quand votre héros attaque un ennemi, attachez Ralph à cet ennemi et regardez 2 cartes parmi celles du dessus du deck Rencontre et les cartes Rencontre attribuées aux joueurs → cette attaque gagne perçant et inflige X dommages à cet ennemi et à Ralph, X étant le nombre d'icones de boost des cartes Rencontre révélées.",
+		"text": "<b>Interruption de héros</b> : quand votre héros attaque un ennemi, attachez Ralph à cet ennemi et regardez 2 cartes parmi celles du dessus du deck Rencontre et les cartes Rencontre attribuées aux joueurs → cette attaque gagne perçant et inflige X dommages à cet ennemi et à Ralph, X étant le nombre d'icônes de boost des cartes Rencontre révélées.",
 		"traits": "Aérien. Oiseau."
 	},
 	{
@@ -855,5 +857,11 @@
 		"subname": "Robbie Baldwin",
 		"text": "Speedball entre en jeu incliné.\n<b>Réponse</b> : après que avez redressé Speedball, placez un jeton Bulle sur lui (pour un maximum de 2 jetons). Réduisez la quantité de dégâts que Speedball subit des attaques ennemies de 1 pour chaque jeton Bulle sur lui.",
 		"traits": "Avenger. New Warrior."
+	},
+	{
+		"code": "44232",
+		"name": "Énergie Enragée",
+		"text": "Doublez le nombre de ressources générées par cette carte lorsque les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie de départ.",
+		"flavor": "Même les pacifistes ont un point de rupture."
 	}
 ]
