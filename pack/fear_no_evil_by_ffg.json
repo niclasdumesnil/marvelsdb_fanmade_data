@@ -402,13 +402,13 @@
 		"position": 20,
 		"quantity": 1,
 		"resource_mental": 1,
+		"scheme_acceleration": 1,
 		"subname": "Tyrone Johnson",
 		"text": "<b>Action</b>: Exhaust Cloak and spend [energy][energy] resources → find Dagger and put her into play.",
 		"thwart": 2,
 		"thwart_cost": 0,
 		"traits": "defender?",
-		"type_code": "ally",
-		"scheme_acceleration": 1
+		"type_code": "ally"
 	},
 	{
 		"attack": 2,
@@ -471,6 +471,7 @@
 	{
 		"code": "60023",
 		"cost": 1,
+		"cost_star": true,
 		"deck_limit": 3,
 		"duplicate_of_name": "",
 		"faction_code": "justice",
@@ -484,8 +485,7 @@
 		"resource_mental": 1,
 		"text": "\n[star] Discount 1 ([[MARTIAL ARTIST]]).\n<b>Hero Action</b> (thwart): Remove 1 threat from a scheme. Remove 1 threat from a scheme.",
 		"traits": "THWART.",
-		"type_code": "event",
-		"cost_star": true
+		"type_code": "event"
 	},
 	{
 		"code": "60025",
@@ -498,6 +498,7 @@
 	{
 		"code": "60026",
 		"cost": 1,
+		"cost_star": true,
 		"deck_limit": 3,
 		"duplicate_of_name": "",
 		"faction_code": "justice",
@@ -511,12 +512,12 @@
 		"resource_mental": 1,
 		"text": "[star] Discount 1 ([[ATTORNEY]] or [[POLICE]]).\nAttach to a minion. Max 1 per minion.\nAttached minion gets -2 SCH.",
 		"traits": "CONDITION.",
-		"type_code": "upgrade",
-		"cost_star": true
+		"type_code": "upgrade"
 	},
 	{
 		"code": "60027",
 		"cost": 2,
+		"cost_star": true,
 		"deck_limit": 3,
 		"duplicate_of_name": "",
 		"faction_code": "justice",
@@ -529,8 +530,7 @@
 		"resource_energy": 1,
 		"text": "[star] Discount 1 ([[MARTIAL ARTIST]] or [[SPY]]).\nTemporary. Max 1 per player.\n<b>Response</b> (<i>thwart</i>): After you play a card (including this one), remove 1 threat from a scheme.",
 		"traits": "SKILL.",
-		"type_code": "upgrade",
-		"cost_star": true
+		"type_code": "upgrade"
 	},
 	{
 		"code": "60028",
@@ -596,11 +596,11 @@
 		"position": 31,
 		"quantity": 1,
 		"resource_wild": 1,
+		"scheme_acceleration": null,
+		"scheme_amplify": 1,
 		"text": "Team-Up (Daredevil and Elektra).\nMax 1 per deck.\n Attach to an enemy.\n<b>Hero Action</b> (<i>attack</i>): Discard this card → deal 3 damage to attached enemy.",
 		"traits": "Dance.",
-		"type_code": "upgrade",
-		"scheme_acceleration": null,
-		"scheme_amplify": 1
+		"type_code": "upgrade"
 	},
 	{
 		"attack": 2,
@@ -849,6 +849,7 @@
 	{
 		"code": "60048",
 		"cost": 1,
+		"cost_star": true,
 		"deck_limit": 3,
 		"duplicate_of_name": "",
 		"faction_code": "protection",
@@ -861,8 +862,7 @@
 		"quantity": 3,
 		"resource_energy": 1,
 		"text": "[star] Increase the cost to play this card by 1 for each ally you control.\n<b>Hero Action</b>: Ready your hero.",
-		"type_code": "event",
-		"cost_star": true
+		"type_code": "event"
 	},
 	{
 		"code": "60049",
@@ -885,6 +885,7 @@
 	{
 		"code": "60050",
 		"cost": 3,
+		"cost_star": true,
 		"deck_limit": 3,
 		"duplicate_of_name": "",
 		"faction_code": "protection",
@@ -897,8 +898,7 @@
 		"resource_physical": 1,
 		"text": "[star] Increase the cost to play this card by 1 for each ally you control.\nHero Action (<i>attack/thwart</i>): Deal X damage to an enemy and remove X threat from a scheme, where X is your DEF.",
 		"traits": "ATTACK. THWART.",
-		"type_code": "event",
-		"cost_star": true
+		"type_code": "event"
 	},
 	{
 		"alt_art": true,
@@ -973,7 +973,7 @@
 		"octgn_id": "6c90b19c-4641-46f6-9989-7aa33d060055",
 		"pack_code": "fear_no_evil_by_ffg",
 		"position": 55,
-		"quantity": 2,
+		"quantity": 1,
 		"resource_wild": 1,
 		"text": "Team-Up (Daredevil and Echo). Max 1 per deck.\n<b>Hero Action</b> (<i>attack/thwart</i>): Choose 2 of the following (you may choose the same option twice):\n• Deal 3 damage to an enemy.\n• Remove 3 threat from a scheme.",
 		"traits": "Attack. Thwart.",

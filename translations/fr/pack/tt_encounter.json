@@ -267,5 +267,171 @@
 		"code": "55033b",
 		"name": "Nuisance et Discorde",
 		"text": "<b>Interruption forcée</b> : quand cette manigance est censée être achevée, retirez toutes les menaces qui sont dessus et placez 1 menace sur La Guerre des Mondes à la place.\n<b>Interruption forcée</b> : quand une identité est censée être vaincue, passez cette identité sous forme d'alter ego, fixez son compteur de points de vie à 1 et placez 1 menace sur La Guerre des Mondes à la place."
+	},
+	{
+		"code": "55034a",
+		"name": "Concentration Intense",
+		"text": "Permanent.\nLe méchant [[Avatar de Loki]] gagne +2[per_hero] points de vie et Solide.\n<b>Une fois révélée</b> : en mode Standard, défaussez les 2[per_hero] cartes du dessus du deck Rencontre et les 5 cartes du dessus de chaque deck Joueur.",
+		"traits": "Condition."
+	},
+	{
+		"code": "55034b",
+		"name": "Concentration Totale",
+		"text": "Permanent.\nLe méchant [[Avatar de Loki]] gagne +3[per_hero] points de vie et Solide.\n<b>Une fois révélée</b> : défaussez les 2[per_hero] cartes du dessus du deck Rencontre et les 5 cartes du dessus de chaque deck Joueur. Trouvez le Sceptre Noir et révélez-le. Si le Sceptre Noir n'est pas entré en jeu par cet effet, donnez une carte d'état Tenace au méchant [[Avatar de Loki]].",
+		"traits": "Condition."
+	},
+	{
+		"code": "55035",
+		"name": "Couvert de Chaînes",
+		"text": "Attachez cette carte à votre identité.\nL'identité attachée ne peut pas se redresser.\n<b>Une fois révélée</b> : inclinez votre identité.\n<b>Action de héros</b> : dépensez 2 ressources du même type → défaussez cet attachement. Placez 1 jeton Brisure sur le méchant [[Avatar de Loki.]]",
+		"traits": "Condition."
+	},
+	{
+		"code": "55036",
+		"name": "Sceptre Noir",
+		"text": "Attachez cette carte au méchant [[Avatar de Loki]].\nLe méchant [[Avatar de Loki]] gagne Robuste.\nLes traîtrises ne peuvent pas être annulées.\n<b>Réponse de héros</b> : après que vous avez résolu une traîtrise, dépensez 2 ressources du même type → défaussez cet attachement."
+	},
+	{
+		"code": "55037",
+		"name": "Compère Daugr",
+		"text": "Garde.\n<b>Une fois vaincu</b> : le joueur qui a vaincu ce sbire défausse la carte du dessus du deck Rencontre. Si c'est une traîtrise, attribuez le Compère Draugr à ce joueur en tant que carte Rencontre face cachée.",
+		"traits": "Mort-Vivant."
+	},
+	{
+		"code": "55038",
+		"name": "Grendell",
+		"text": "Garde.\n[star] <b>Interruption forcée</b> : quand Grendell attaque, défaussez les 3 cartes du dessus du deck Rencontre. Pour chaque traîtrise défaussée par cet effet, Grendell gagne +1 ATQ pour cette attaque.\n<b>Une fois vaincu</b> : placez 3 jetons Brisure sur le méchant [[Avatar de Loki.]]",
+		"traits": "Brute. Elfe Noir."
+	},
+	{
+		"code": "55039",
+		"name": "Malekith",
+		"text": "Riposte 1.\n[star]<b>Réponse forcée</b> : après que Malekith vous a attaqué, défaussez la carte du dessus du deck Rencontre. Si c'est une traîtrise, attribuez-la vous en tant que carte Rencontre face cachée.\n<b>Une fois vaincu</b> : placez 2 jetons Brisure sur le méchant [[Avatar de Loki]].",
+		"traits": "Elfe Noir."
+	},
+	{
+		"code": "55040",
+		"name": "Le Minotaure",
+		"text": "Ténacité.\n<b>Une fois révélée</b> : s'il y a au moins 5 traîtrises dans la pile de défausse Rencontre, le Minotaure s'active contre vous.\n<b>Une fois vaincu</b> : placez 2 jetons Brisure sur le méchant [[Avatar de Loki]].",
+		"traits": "Brute. Créature."
+	},
+	{
+		"code": "55041",
+		"name": "Le Mangog",
+		"text": "Victoire 1.\nN'importe quel joueur dans votre assemblée peut attaquer Le Mangog comme s'il était dans son aire de jeu.\n<b>Une fois vaincu</b> : chaque groupe dans votre assemblée place 3 jetons Brisure sur son méchant [[Avatar de Loki]] et 1 jeton Synergie sur un de ses environnement [[Synergie]].",
+		"traits": "Brute. Créature. Elite."
+	},
+	{
+		"code": "55042",
+		"name": "Loup Fenris",
+		"text": "Garde. Patrouille.\n<b>Une fois vaincu</b> : placez 3 jetons Brisure sur le méchant [[Avatar de Loki]].\nChoisissez un groupe dans votre assemblée, puis placez 1 jeton Synergie sur son environnement Renfort de Cavalerie.",
+		"traits": "Créature. Elite."
+	},
+	{
+		"code": "55043",
+		"name": "Hraesvelgr",
+		"text": "<b>Une fois révélée</b> : défaussez les 3 cartes du dessus du deck Rencontre. Si une traîtrise a été défaussée par cet effet, subissez 2 dégâts indirects.\n<b>Une fois vaincu</b> : placez 3 jetons Brisure sur le méchant [[Avatar de Loki]]. Choisissez un groupe dans votre assemblée, puis placez 1 jeton Synergie sur son environnement Force Dominatrice.",
+		"traits": "Créature. Elite."
+	},
+	{
+		"code": "55044",
+		"name": "Laufey",
+		"text": "<b>Réponse forcée</b> : après qu'un personnage a attaqué Laufey, défaussez la carte du dessus du deck Rencontre. Si c'est une traîtrise, sonnez l'attaquant.\n<b>Une fois vaincu</b> : placez 3 jetons Brisure sur le méchant [[Avatar de Loki]]. Choisissez un groupe dans votre assemblée, puis placez 1 jeton Synergie sur son environnement Front Uni.",
+		"traits": "Elite. Géant."
+	},
+	{
+		"code": "55045",
+		"name": "Aura de Stase",
+		"text": "<b>Une fois révélée</b> : défaussez es 2 cartes du dessus du deck Rencontre (les 3 cartes du dessus en mode Expert). Si une traîtrise a été défaussée par cet effet, inclinez votre identité."
+	},
+	{
+		"code": "55046",
+		"name": "Porte Entre les Mondes",
+		"text": "Victoire 1\nN'importe quel joueur dans votre assemblée peut contrer Porte Entre les Mondes comme si elle était dans son aire de jeu.\n<b>Une fois déjouée</b> : chaque groupe dans votre assemblée place 3 jetons Brisure sur son méchant [[Avatar de Loki]] et 1 jeton Synergie sur un de ses environnements [[Synergie]]."
+	},
+	{
+		"code": "55047",
+		"name": "Frandes Ambitions",
+		"text": "<b>Une fois déjouée</b> : placez 2 jetons Brisure sur le méchant [[Avatar de Loki]].\n<hr>[star] <b>Boost</b> : subissez 1 dégât indirect pour chaque personnage que vous contrôlez."
+	},
+	{
+		"code": "55048",
+		"name": "Nouveau Jotunheim",
+		"text": "<b>Une fois déjouée</b> : placez 3 jetons Brisure sur le méchant [[Avatar de Loki]]. Choisissez un groupe dans votre assemblée, puis placez 1 jeton Synergie sur son environnement Feindre la Retraite."
+	},
+	{
+		"code": "55049",
+		"name": "Arts Occultes",
+		"text": "En mode Expert, cette carte gagne Incitation 1.\n<b>Une fois révélée</b> : cherchez un sbire dans la pile de défausse Rencontre et révélez-le. Sinon, placez 3 menaces sur la manigance principale.\n<hr>[star] <b>Boost</b> : placez 1 menace sur la manigance principale pour chaque personnage que vous contrôlez."
+	},
+	{
+		"code": "55050",
+		"name": "Mauvais tour",
+		"text": "<b>Une fois révélée</b> : retirez 1 jeton Brisure du méchant [[Avatar de Loki]]. Subissez 2 dégâts (3 dégâts à la place en mode Expert).\n<hr>[star] <b>Boost</b> : subissez 1 dégât indirect pour chaque personnage que vous contrôlez."
+	},
+	{
+		"code": "55051",
+		"name": "Mensonses et Légendes",
+		"text": "<b>Une fois révélée</b> : échangez le méchant[[ Avatar de Loki]] en jeu avec un méchant [[Avatar de Loki]] mis de côté, pris au hasard. Ensuite :\n• Si Loki le Valet ou Loki le Mécréant est en jeu, il manigance (avec +1 MNG en mode Expert).\n• Si Loki le Vaurien ou Loki le Misérable est en jeu, il vous attaque (avec +1 ATO en mode Expert)."
+	},
+	{
+		"code": "55052",
+		"name": "Force Dominatrice",
+		"text": "Permanent.\n1[per_hero] jeton Synergie max sur cette carte.\n<b>Interruption</b> : quand un personnage ami attaque, retirez 1 jeton Synergie de cet environnement → cette attaque inflige 4 dégâts supplémentaires.",
+		"traits": "Synergie."
+	},
+	{
+		"code": "55053",
+		"name": "Feindre la Retraite",
+		"text": "Permanent.\n1[per_hero] jeton Synergie max sur cette carte.\n<b>Interruption</b> : quand une identité est censée subir n'importe quelle quantité de dégâts, retirez 1 jeton Synergie de cet environnement → prévenez 4 de ces dégâts.",
+		"traits": "Synergie."
+	},
+	{
+		"code": "55054",
+		"name": "Renfort de Cavalerie",
+		"text": "Permanent.\n1[per_hero] jeton Synergie max sur cette carte.\n<b>Interruption</b> : quand un personnage ami contre, retirez 1 jeton Synergie de cet environnement → ce contre retire 4 menaces supplémentaires."
+	},
+	{
+		"code": "55055",
+		"name": "Front Uni",
+		"text": "Permanent.\n1joueur jeton Synergie max sur cette carte.\n<b>Ressource</b> : retirez 1 jeton Synergie de cet environnement → générez les ressources suivantes : [wild][wild]."
+	},
+	{
+		"code": "55056",
+		"name": "L'Homme Absorbant",
+		"text": "Garde. Victoire 1.\n[star] Tant que L'Homme Absorbant est engagé avec vous, il gagne +X ATQ, X étant le coût imprimé de la carte que vous contrôlez ayant le coût le plus élevé.\n<b>Une fois vaincu</b> : le joueur qui a vaincu ce sbire met en jeu sous son contrôle l'allié L'Homme Absorbant mis de côté.",
+		"traits": "Brute. Elite. Envouté."
+	},
+	{
+		"code": "55057",
+		"name": "Titania",
+		"text": "Solide. Victoire 1.\n[star] Les attaques de Titania gagnent Déferlement.\n<b>Une fois vaincu</b> : le joueur qui a vaincu ce sbire met en jeu sous son contrôle l'allié Titania mis de côté.",
+		"traits": "Brute. Elite. Envouté."
+	},
+	{
+		"code": "55058",
+		"name": "Le Tourbillon",
+		"text": "Coup Rapide. Victoire 1.\n[star] <b>Réponse forcée</b> : après que Le Tourbillon vous a attaqué, subissez 1 dégât indirect pour chaque manigance annexe en jeu.\n<b>Une fois vaincu</b> : le joueur qui a vaincu ce sbire met en jeu sous son contrôle l'allié Le Tourbillon mis de côté."
+	},
+	{
+		"code": "55059",
+		"name": "Zzzax",
+		"text": "Riposte 1. Victoire 1.\n<b>Une fois révélée</b> : défaussez les 4 cartes du dessus de votre deck. Pour chaque ressource [energy] imprimée ainsi défaussée, subissez 1 dégât indirect.\n<b>Une fois vaincu</b> : le joueur qui a vaincu ce sbire met en jeu sous son contrôle l'allié Zzzax mis de côté.",
+		"traits": "Elite. Envouté."
+	},
+	{
+		"code": "55060",
+		"name": "Le Tango du Filou",
+		"text": "Le méchant gagne Robuste. <i>(Il ne peut être ni sonné ni désorienté</i>.)\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, elle gagne Déferlement."
+	},
+	{
+		"code": "55061",
+		"name": "Le Maître des Marionnettes",
+		"text": "En mode Expert, cette manigance gagne Entrave 1[per_hero].\nLes alliés ne peuvent ni contrer cette manigance, ni défendre contre les attaques du méchant."
+	},
+	{
+		"code": "55062",
+		"name": "Triangle Amoureux",
+		"text": "Attachez cette carte à un allié que vous contrôlez. Sinon, cette carte gagne Renfort.\nL'allié attaché ne peut pas attaquer le méchant ou défendre contre les attaques du méchant.\n<b>Action d'alter ego</b> : inclinez l'allié attaché et dépensez une ressource [mental] → défaussez cet attachement."
 	}
 ]

@@ -1552,5 +1552,30 @@
     "code": "you_must_have_faith_by_bluehg",
     "name": "You Must Have Faith",
     "card_set_type_code": "modular"
-  }
-]
+  },
+  {
+    "code": "steel_by_supertnt73_nemesis",
+    "name": "Steel by Supertnt73 Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "steel_by_supertnt73",
+    "name": "Steel by Supertnt73",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "judge_dredd_by_misssugarpink",
+    "name": "Judge Dredd",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "judge_dredd_by_misssugarpink_nemesis",
+    "name": "Judge Dredd Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "judge_dredd_judgment_by_misssugarpink",
+    "name": "Judgment Deck",
+    "card_set_type_code": "hero_special",
+    "parent_code": "judge_dredd_by_misssugarpink"
+  }]
