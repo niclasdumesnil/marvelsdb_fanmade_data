@@ -1578,4 +1578,35 @@
     "name": "Judgment Deck",
     "card_set_type_code": "hero_special",
     "parent_code": "judge_dredd_by_misssugarpink"
-  }]
+  },
+  {
+    "code": "night_thrasher_by_designhacker",
+    "name": "Night Thrasher",
+    "card_set_type_code": "hero"
+  },
+  {
+    "code": "night_thrasher_by_designhacker_nemesis",
+    "name": "Night Thrasher Nemesis",
+    "card_set_type_code": "nemesis"
+  },
+  {
+    "code": "gorr_the_god_butcher_by_bluehg",
+    "name": "Gorr The God Butcher",
+    "card_set_type_code": "villain"
+  },
+  {
+    "code": "bluehg_by_bluehg",
+    "name": "Bluehg",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "necroverse_by_bluehg",
+    "name": "Necroverse",
+    "card_set_type_code": "modular"
+  },
+  {
+    "code": "intergalactic_hazards_by_bluehg",
+    "name": "Intergalactic Hazards",
+    "card_set_type_code": "modular"
+  }
+]
