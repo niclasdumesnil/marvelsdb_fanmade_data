@@ -129,7 +129,7 @@
         "code": "57020",
         "flavor": "\"Todos somos culpables. ¡Esto es justicia!\" \u2014Penitencia",
         "name": "La justicia, como el rayo",
-        "text": "<b>Cuando se muestre esta carta</b>: cada Esbirro contra el jugador al que esté enfrentado. De no ser posible, el Líder enemigo se activa contra ti. No le des una carta de aumento para esta activación."
+        "text": "<b>Cuando se muestre esta carta</b>: cada Esbirro se activa contra el jugador al que esté enfrentado. De no ser posible, el Líder enemigo se activa contra ti. No le des una carta de aumento para esta activación."
     },
     {
         "code": "57021",
@@ -346,7 +346,7 @@
     {
         "code": "57053",
         "flavor": "\"Objetivo neutralizado.\" \u2014La Visión",
-        "name": "Disruupción de fase",
+        "name": "Disrupción de fase",
         "text": "<b>Cuando se muestre esta carta</b>: el equipo enemigo agota una Mejora que controles. Si está en juego el Accesorio de identidad de masa Intangible, en vez de eso descarta esa Mejora. Si está en juego el Accesorio de identidad de masa Denso, dale la vuelta a ese Accesorio."
     },
     {

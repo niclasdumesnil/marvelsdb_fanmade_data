@@ -21,7 +21,7 @@
     {
         "code": "59003",
         "name": "Servir de ejemplo",
-        "text": "Victoria 0.\nEl Plan secundario vinculado gana Asalto. Sólo puede quitarse Amenaza del Plan vinculado mediante intervenciones de Hércules.\n<b>Cuando se muestre esta carta</b>: localiza un Plan secundario del mazo de Encuentros que no esté en juego y muéstralo, tratando cada [per_hero] que tenga como un 1, y vincúlale esta carta. Coloca 6 de Amenaza adicional sobre este Plan.",
+        "text": "Victoria 0.\nEl Plan secundario vinculado gana Asalto. Sólo puede quitarse Amenaza del Plan vinculado mediante intervenciones de Hércules.\n<b>Cuando se muestre esta carta</b>: localiza un Plan secundario de Encuentro que no esté en juego y muéstralo, tratando cada [per_hero] que tenga como un 1, y vincúlale esta carta. Coloca 6 de Amenaza adicional sobre este Plan.",
         "traits": "Trabajo."
     },
     {
