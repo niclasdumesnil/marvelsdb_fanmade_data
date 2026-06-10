@@ -1,13 +1,13 @@
 {
 	"$schema": "http://json-schema.org/draft-04/schema#",
 	"additionalProperties": true,
-	"description": "JSON Schema for a Marvel Champions card — derived from Card.orm.yml",
 	"dependencies": {
 		"name": [
 			"faction_code",
 			"type_code"
 		]
 	},
+	"description": "JSON Schema for a Marvel Champions card — derived from Card.orm.yml",
 	"properties": {
 		"alt_art": {
 			"type": "boolean"
@@ -35,8 +35,8 @@
 			"type": "string"
 		},
 		"back_link": {
-			"type": "string",
-			"minLength": 1
+			"minLength": 1,
+			"type": "string"
 		},
 		"back_name": {
 			"minLength": 1,
@@ -103,14 +103,14 @@
 						"minimum": 1,
 						"type": "integer"
 					},
+					"multi_aspect": {
+						"type": "boolean"
+					},
 					"name_limit": {
 						"minimum": 1,
 						"type": "integer"
 					},
 					"per_faction": {
-						"type": "boolean"
-					},
-					"multi_aspect": {
 						"type": "boolean"
 					},
 					"resource": {
@@ -209,11 +209,11 @@
 			"minLength": 1,
 			"type": "string"
 		},
-		"faction_code": {
+		"faction2_code": {
 			"minLength": 1,
 			"type": "string"
 		},
-		"faction2_code": {
+		"faction_code": {
 			"minLength": 1,
 			"type": "string"
 		},
@@ -264,6 +264,10 @@
 		},
 		"meta": {
 			"type": "object"
+		},
+		"multiverse_of": {
+			"pattern": "^[0-9]{5,6}[a-z]?$",
+			"type": "string"
 		},
 		"name": {
 			"minLength": 1,

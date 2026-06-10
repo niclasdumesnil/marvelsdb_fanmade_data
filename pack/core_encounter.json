@@ -1195,7 +1195,7 @@
 		"position": 155,
 		"quantity": 1,
 		"set_code": "black_panther",
-		"text": "<b><i>Give to the T'Challa player.</i></b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust T'Challa → remove Affairs of State from the game.\n\u2022 Choose and discard a [[Black Panther]] upgrade you control. Discard this obligation.",
+		"text": "<b><i>Give to the T'Challa player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust T'Challa → remove Affairs of State from the game.\n• Choose and discard a [[Black Panther]] upgrade you control. Discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -1274,7 +1274,7 @@
 		"position": 160,
 		"quantity": 1,
 		"set_code": "she_hulk",
-		"text": "<b><i>Give to the Jennifer Walters player.</i></b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust Jennifer Walters → remove Legal Work from the game.\n\u2022 Give the main scheme 1 acceleration token. Discard this obligation.",
+		"text": "<b><i>Give to the Jennifer Walters player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Jennifer Walters → remove Legal Work from the game.\n• Give the main scheme 1 acceleration token. Discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -1355,7 +1355,7 @@
 		"position": 165,
 		"quantity": 1,
 		"set_code": "spider_man",
-		"text": "<b><i>Give to the Peter Parker player.</i></b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust Peter Parker → remove Eviction Notice from the game.\n\u2022 Discard 1 card at random from your hand. This card gains surge. Discard this obligation.",
+		"text": "<b><i>Give to the Peter Parker player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Peter Parker → remove Eviction Notice from the game.\n• Discard 1 card at random from your hand. This card gains surge. Discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -1433,7 +1433,7 @@
 		"position": 170,
 		"quantity": 1,
 		"set_code": "iron_man",
-		"text": "<b><i>Give to the Tony Stark player.</i></b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust Tony Stark → remove Business Problems from the game.\n\u2022 Exhaust each upgrade you control. Discard this obligation.",
+		"text": "<b><i>Give to the Tony Stark player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Tony Stark → remove Business Problems from the game.\n• Exhaust each upgrade you control. Discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -1512,7 +1512,7 @@
 		"position": 175,
 		"quantity": 1,
 		"set_code": "captain_marvel",
-		"text": "<b><i>Give to the Carol Danvers player.</i></b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust Carol Danvers → remove Family Emergency from the game.\n\u2022 You are stunned. This card gains surge. Discard this obligation.",
+		"text": "<b><i>Give to the Carol Danvers player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Carol Danvers → remove Family Emergency from the game.\n• You are stunned. This card gains surge. Discard this obligation.",
 		"type_code": "obligation"
 	},
 	{

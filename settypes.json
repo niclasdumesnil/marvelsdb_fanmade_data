@@ -38,5 +38,9 @@
 	{
 		"code": "hero_special",
 		"name": "Hero Special"
+	},
+	{
+		"code": "hero_additional",
+		"name": "Hero Additional"
 	}
 ]

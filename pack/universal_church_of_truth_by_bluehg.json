@@ -1,21 +1,21 @@
 [
-    {
-        "code": "207009b",
-        "cost": null,
-        "deck_limit": 1,
-        "duplicate_of_name": "",
-        "faction_code": "hero",
-        "hidden": true,
-        "is_unique": false,
-        "name": "Nova Corps",
-        "octgn_id": "a7eb4ebd-4425-4183-9ff2-3d231e070009",
-        "pack_code": "universal_church_of_truth_by_bluehg",
-        "position": 9,
-        "quantity": 1,
-        "set_code": "universal_church_of_truth_by_bluehg",
-        "set_position": 9,
-        "text": "Permanent.\nThe first player gains control of Nova Corps.\n<b>Action</b>: Remove 1 corps counter from here → deal 1 damage to an enemy.\n<b>Interrupt</b>: When the player phase ends, place corps counters here until there are 1 plus 1 [per_hero] corps counters here.",
-        "traits": "Nova Corps.",
-        "type_code": "support"
-    }
+	{
+		"code": "207009b",
+		"cost": null,
+		"deck_limit": 1,
+		"duplicate_of_name": "",
+		"faction_code": "hero",
+		"hidden": true,
+		"is_unique": false,
+		"name": "Nova Corps",
+		"octgn_id": "a7eb4ebd-4425-4183-9ff2-3d231e070009",
+		"pack_code": "universal_church_of_truth_by_bluehg",
+		"position": 9,
+		"quantity": 1,
+		"set_code": "universal_church_of_truth_by_bluehg",
+		"set_position": 9,
+		"text": "Permanent.\nThe first player gains control of Nova Corps.\n<b>Action</b>: Remove 1 corps counter from here → deal 1 damage to an enemy.\n<b>Interrupt</b>: When the player phase ends, place corps counters here until there are 1 plus 1 [per_hero] corps counters here.",
+		"traits": "Nova Corps.",
+		"type_code": "support"
+	}
 ]

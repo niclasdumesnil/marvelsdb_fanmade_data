@@ -5,6 +5,7 @@
 		"attack_star": true,
 		"code": "55063",
 		"cost": 3,
+		"duplicate_of_name": "",
 		"faction_code": "basic",
 		"health": 3,
 		"illustrator": "Facundo Moyano",
@@ -23,8 +24,7 @@
 		"thwart_cost": 2,
 		"thwart_star": true,
 		"traits": "Defiant.",
-		"type_code": "ally",
-		"duplicate_of_name": ""
+		"type_code": "ally"
 	},
 	{
 		"attack": 3,
@@ -32,6 +32,7 @@
 		"attack_star": true,
 		"code": "55064",
 		"cost": 4,
+		"duplicate_of_name": "",
 		"faction_code": "basic",
 		"health": 5,
 		"illustrator": "Andrea Di Vito & Laura Villari",
@@ -49,8 +50,7 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "Defiant.",
-		"type_code": "ally",
-		"duplicate_of_name": ""
+		"type_code": "ally"
 	},
 	{
 		"attack": 0,
@@ -58,6 +58,7 @@
 		"attack_star": true,
 		"code": "55065",
 		"cost": 4,
+		"duplicate_of_name": "",
 		"faction_code": "basic",
 		"health": 3,
 		"illustrator": "Sebastián Guidobono",
@@ -75,14 +76,14 @@
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "Defiant.",
-		"type_code": "ally",
-		"duplicate_of_name": ""
+		"type_code": "ally"
 	},
 	{
 		"attack": 1,
 		"attack_cost": 1,
 		"code": "55066",
 		"cost": 3,
+		"duplicate_of_name": "",
 		"faction_code": "basic",
 		"health": 4,
 		"illustrator": "Sebastián Guidobono",
@@ -99,7 +100,6 @@
 		"thwart": 3,
 		"thwart_cost": 2,
 		"traits": "Defiant.",
-		"type_code": "ally",
-		"duplicate_of_name": ""
+		"type_code": "ally"
 	}
 ]

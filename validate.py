@@ -39,7 +39,7 @@ def check_json_schema(args, data, path):
         verbose_print(args, "%s\n" % e, 0)
         return False
 
-def custom_card_check(args, card, pack_code, factions_data, types_data):
+def custom_card_check(args, card, pack_code, factions_data, types_data, sets_map):
     "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
     if card["pack_code"] != pack_code:
         raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the pack code '%s' of the file it appears in." % (card["pack_code"], card["code"], pack_code))
@@ -50,6 +50,11 @@ def custom_card_check(args, card, pack_code, factions_data, types_data):
     # Ajout du ? dans la validation des traits
     if card.get("traits") and not re.search(r"[\.!\?\d]$", card["traits"]):
         raise jsonschema.ValidationError("The traits list \"%s\" on card %s does not end with a period (.), exclamation point (!), question mark (?), or number (0-9)." % (card["traits"], card["code"]))
+    if "multiverse_of" in card:
+        set_code = card.get("set_code")
+        set_type = sets_map.get(set_code) if set_code else None
+        if set_type != "hero_additional":
+            raise jsonschema.ValidationError("Card %s: 'multiverse_of' is only allowed for cards in a set of type 'hero_additional' (got set '%s' of type '%s')." % (card["code"], set_code, set_type))
 
 def format_json(json_data):
     formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
@@ -95,6 +100,23 @@ def load_json_file(args, path):
                 verbose_print(args, "%s: Cannot open file to write.\n" % path, 0)
                 print(e)
     return json_data
+
+def load_sets_map(args):
+    sets_data = []
+    sets_path = os.path.join(args.base_path, "sets.json")
+    if os.path.isfile(sets_path):
+        sets_data.extend(load_json_file(args, sets_path) or [])
+    sets_fanmade_path = os.path.join(args.base_path, "sets_fanmade.json")
+    if os.path.isfile(sets_fanmade_path):
+        sets_fanmade_data = load_json_file(args, sets_fanmade_path)
+        if sets_fanmade_data:
+            sets_data.extend(sets_fanmade_data)
+    
+    sets_map = {}
+    for s in sets_data:
+        if s.get("code"):
+            sets_map[s["code"]] = s.get("card_set_type_code")
+    return sets_map
 
 def load_packs(args):
     verbose_print(args, "Loading pack index file...\n", 1)
@@ -207,13 +229,13 @@ def parse_commandline():
 
     return args
 
-def validate_card(args, card, card_schema, pack_code, factions_data, types_data):
+def validate_card(args, card, card_schema, pack_code, factions_data, types_data, sets_map):
     global validation_errors
 
     try:
         verbose_print(args, "Validating card %s... " % card["code"], 2)
         jsonschema.validate(card, card_schema)
-        custom_card_check(args, card, pack_code, factions_data, types_data)
+        custom_card_check(args, card, pack_code, factions_data, types_data, sets_map)
         verbose_print(args, "OK\n", 2)
     except jsonschema.ValidationError as e:
         verbose_print(args, "ERROR\n",2)
@@ -221,7 +243,7 @@ def validate_card(args, card, card_schema, pack_code, factions_data, types_data)
         validation_errors += 1
         verbose_print(args, "%s\n" % e, 0)
 
-def validate_cards(args, packs_data, factions_data, types_data):
+def validate_cards(args, packs_data, factions_data, types_data, sets_map):
     global validation_errors
 
     card_schema_path = os.path.join(args.schema_path, "card_schema.json")
@@ -242,14 +264,14 @@ def validate_cards(args, packs_data, factions_data, types_data):
             pack_data = load_json_file(args, pack_path)
             if pack_data:
                 for card in pack_data:
-                    validate_card(args, card, CARD_SCHEMA, p["code"], factions_data, types_data)
+                    validate_card(args, card, CARD_SCHEMA, p["code"], factions_data, types_data, sets_map)
         if (p['encounter']):
             verbose_print(args, "Validating encounter cards...\n", 1)
             pack_path = os.path.join(args.pack_path, "{}_encounter.json".format(p["code"]))
             pack_data = load_json_file(args, pack_path)
             if pack_data:
                 for card in pack_data:
-                    validate_card(args, card, CARD_SCHEMA, p["code"], factions_data, types_data)
+                    validate_card(args, card, CARD_SCHEMA, p["code"], factions_data, types_data, sets_map)
 
 def validate_packs(args, packs_data):
     global validation_errors
@@ -423,9 +445,10 @@ def main():
     packs = load_packs(args)
     factions = load_factions(args)
     types = load_types(args)
+    sets_map = load_sets_map(args)
 
     if packs and factions and types:
-        validate_cards(args, packs, factions, types)
+        validate_cards(args, packs, factions, types, sets_map)
         # Validation des traductions uniquement si l'argument -t/--translations est présent
         if args.translations:
             # Cette étape vérifie tous les fichiers de traduction présents dans le dossier translations

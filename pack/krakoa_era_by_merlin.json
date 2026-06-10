@@ -1,23 +1,23 @@
 [
-    {
-        "attack": 3,
-        "attack_cost": 1,
-        "code": "400201",
-        "cost": 4,
-        "deck_limit": 1,
-        "faction_code": "protection",
-        "health": 4,
-        "is_unique": true,
-        "name": "Magneto",
-        "pack_code": "krakoa_era_by_merlin",
-        "position": 1,
-        "quantity": 1,
-        "resource_wild": 1,
-        "subname": "Erik Lehnsherr",
-        "text": "Play only if your identity has the [[mutant]] trait.\n<b>Interrupt</b>: When Magneto defends against an attack, deal damage to the attacking enemy equal to the number of [[x-men]], [[x-force]] and [[x-factor]] cards you control.\n<i>Protect MutantKind is the way</i>",
-        "thwart": 2,
-        "thwart_cost": 1,
-        "traits": "X-Men.",
-        "type_code": "ally"
-    }
+	{
+		"attack": 3,
+		"attack_cost": 1,
+		"code": "400201",
+		"cost": 4,
+		"deck_limit": 1,
+		"faction_code": "protection",
+		"health": 4,
+		"is_unique": true,
+		"name": "Magneto",
+		"pack_code": "krakoa_era_by_merlin",
+		"position": 1,
+		"quantity": 1,
+		"resource_wild": 1,
+		"subname": "Erik Lehnsherr",
+		"text": "Play only if your identity has the [[mutant]] trait.\n<b>Interrupt</b>: When Magneto defends against an attack, deal damage to the attacking enemy equal to the number of [[x-men]], [[x-force]] and [[x-factor]] cards you control.\n<i>Protect MutantKind is the way</i>",
+		"thwart": 2,
+		"thwart_cost": 1,
+		"traits": "X-Men.",
+		"type_code": "ally"
+	}
 ]

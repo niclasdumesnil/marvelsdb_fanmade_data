@@ -487,7 +487,7 @@
 		"quantity": 2,
 		"set_code": "spiral",
 		"set_position": 7,
-		"text": "Attach to Spiral.\nUses (3 sword counters).\n[star] Spiral gets +1 ATK for each sword counter on this card.\n<b>Hero Action</b>: If Spiral is on her [[Cornered]] side, spend [physical] [physical] resources \u2192 remove 1 sword counter from this card.",
+		"text": "Attach to Spiral.\nUses (3 sword counters).\n[star] Spiral gets +1 ATK for each sword counter on this card.\n<b>Hero Action</b>: If Spiral is on her [[Cornered]] side, spend [physical] [physical] resources → remove 1 sword counter from this card.",
 		"traits": "Weapon.",
 		"type_code": "attachment"
 	},
@@ -781,7 +781,7 @@
 		"quantity": 2,
 		"set_code": "mojo",
 		"set_position": 14,
-		"text": "<b>When Revealed</b>: Choose one:\n\u2022 Spend 2 different resources.\n\u2022 Mojo schemes.\n\u2022 Take 1 damage for each threat on your identity. If you take less than 2 damage this way, this card gains surge.",
+		"text": "<b>When Revealed</b>: Choose one:\n• Spend 2 different resources.\n• Mojo schemes.\n• Take 1 damage for each threat on your identity. If you take less than 2 damage this way, this card gains surge.",
 		"type_code": "treachery"
 	},
 	{
@@ -845,7 +845,7 @@
 		"quantity": 1,
 		"set_code": "crime",
 		"set_position": 3,
-		"text": "Hinder 1[per_hero]. <i>(When revealed, place 1[per_hero] threat here.)</i>\nThreat cannot be removed from other schemes.\n<b>Hero Action</b>: Spend X [mental] resources \u2192 remove X threat from this scheme.",
+		"text": "Hinder 1[per_hero]. <i>(When revealed, place 1[per_hero] threat here.)</i>\nThreat cannot be removed from other schemes.\n<b>Hero Action</b>: Spend X [mental] resources → remove X threat from this scheme.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -863,7 +863,7 @@
 		"quantity": 1,
 		"set_code": "crime",
 		"set_position": 4,
-		"text": "Hinder 1[per_hero]. <i>(When revealed, place 1[per_hero] threat here.)</i>\nEach friendly character gets -2 ATK.\n<b>Hero Action</b>: Spend X [energy] resources \u2192 remove X threat from this scheme.",
+		"text": "Hinder 1[per_hero]. <i>(When revealed, place 1[per_hero] threat here.)</i>\nEach friendly character gets -2 ATK.\n<b>Hero Action</b>: Spend X [energy] resources → remove X threat from this scheme.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -881,7 +881,7 @@
 		"quantity": 1,
 		"set_code": "crime",
 		"set_position": 5,
-		"text": "Hinder 1[per_hero]. <i>(When revealed, place 1[per_hero] threat here.)</i>\nThe villain cannot take damage.\n<b>Hero Action</b>: Spend X [physical] resources \u2192 remove X threat from this scheme.",
+		"text": "Hinder 1[per_hero]. <i>(When revealed, place 1[per_hero] threat here.)</i>\nThe villain cannot take damage.\n<b>Hero Action</b>: Spend X [physical] resources → remove X threat from this scheme.",
 		"type_code": "side_scheme"
 	},
 	{
@@ -895,7 +895,7 @@
 		"quantity": 1,
 		"set_code": "crime",
 		"set_position": 6,
-		"text": "<b>When Revealed</b>: Choose one:\n\u2022 Move all threat from a side scheme to the main scheme.<i>(That side scheme is defeated.)</i>\n\u2022 Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that card.",
+		"text": "<b>When Revealed</b>: Choose one:\n• Move all threat from a side scheme to the main scheme.<i>(That side scheme is defeated.)</i>\n• Discard cards from the top of the encounter deck until a side scheme is discarded. Reveal that card.",
 		"type_code": "treachery"
 	},
 	{
@@ -1027,7 +1027,7 @@
 		"quantity": 1,
 		"set_code": "horror",
 		"set_position": 2,
-		"text": "Surge. Uses (3 stake counters).<b>When Revealed</b>: You may spend 1 resource of any type to attach this card to your identity. Otherwise, discard this card.\n<b>Hero Interrupt</b>: When your hero makes a basic attack, remove 1 stake counter from here \u2192 your hero gets +1 ATK for that attack and that attack gains piercing.",
+		"text": "Surge. Uses (3 stake counters).<b>When Revealed</b>: You may spend 1 resource of any type to attach this card to your identity. Otherwise, discard this card.\n<b>Hero Interrupt</b>: When your hero makes a basic attack, remove 1 stake counter from here → your hero gets +1 ATK for that attack and that attack gains piercing.",
 		"traits": "Item.",
 		"type_code": "attachment"
 	},
@@ -1279,7 +1279,7 @@
 		"quantity": 1,
 		"set_code": "sitcom",
 		"set_position": 2,
-		"text": "Treat the printed text box of each support you control as if it were blank <i>(except for [[Traits]])</i>.\n<b>Alter-Ego Action</b>: Exhaust your identity and each support you control \u2192 discard this obligation.",
+		"text": "Treat the printed text box of each support you control as if it were blank <i>(except for [[Traits]])</i>.\n<b>Alter-Ego Action</b>: Exhaust your identity and each support you control → discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -1310,7 +1310,7 @@
 		"quantity": 1,
 		"set_code": "sitcom",
 		"set_position": 4,
-		"text": "Reduce your ally limit by 2.\n<b>Alter-Ego Action</b>: Exhaust 2 characters you control \u2192 shuffle an ally from your discard pile into your deck and discard this obligation.",
+		"text": "Reduce your ally limit by 2.\n<b>Alter-Ego Action</b>: Exhaust 2 characters you control → shuffle an ally from your discard pile into your deck and discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -1326,7 +1326,7 @@
 		"scheme_hazard": 1,
 		"set_code": "sitcom",
 		"set_position": 5,
-		"text": "Each encounter card gains peril.\n<b>Alter-Ego Action</b>: Discard 3 cards from your hand and choose a player \u2192 the chosen player draws 1 card and you discard this obligation.",
+		"text": "Each encounter card gains peril.\n<b>Alter-Ego Action</b>: Discard 3 cards from your hand and choose a player → the chosen player draws 1 card and you discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -1342,7 +1342,7 @@
 		"quantity": 1,
 		"set_code": "sitcom",
 		"set_position": 6,
-		"text": "Incite 3. Peril.\n<b>Forced Interrupt</b>: When you look up a rule, you are confused.\n<b>Alter-Ego Action</b>: Exhaust your identity and discard a confused status card from it \u2192 discard this obligation.",
+		"text": "Incite 3. Peril.\n<b>Forced Interrupt</b>: When you look up a rule, you are confused.\n<b>Alter-Ego Action</b>: Exhaust your identity and discard a confused status card from it → discard this obligation.",
 		"type_code": "obligation"
 	},
 	{
@@ -1357,8 +1357,8 @@
 		"quantity": 1,
 		"set_code": "western",
 		"set_position": 1,
-		"traits": "Setting. Show.",
 		"text": "Each enemy attack gains overkill.\n<b>Forced Interrupt</b>: When a character takes damage, increase that damage by 1.\n<b>When Revealed</b>: Discard each other [[Setting]] environment in play. If this card was revealed from the encounter deck, it gains surge.",
+		"traits": "Setting. Show.",
 		"type_code": "environment"
 	},
 	{
@@ -1451,9 +1451,9 @@
 		"set_code": "longshot",
 		"set_position": 1,
 		"text": "[star] Longshot's attacks gain piercing.\nLongshot does not count against your ally limit.\n<b>When Revealed</b>: Put Longshot into play under your control. This card gains surge. This effect cannot be canceled.",
-		"traits": "X-Men.",
 		"thwart": 2,
 		"thwart_cost": 1,
+		"traits": "X-Men.",
 		"type_code": "ally"
 	}
 ]

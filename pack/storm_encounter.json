@@ -105,9 +105,9 @@
 		"type_code": "minion"
 	},
 	{
-		"boost_star": true,
 		"base_threat": 6,
 		"base_threat_fixed": true,
+		"boost_star": true,
 		"code": "36037",
 		"faction_code": "encounter",
 		"name": "Ruler of the Astral Plane",

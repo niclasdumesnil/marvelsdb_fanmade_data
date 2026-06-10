@@ -482,33 +482,33 @@
 		"type_code": "upgrade"
 	},
 	{
-		"code": "06035a",
-		"name": "If He Be Worthy",
 		"back_link": "06035b",
-		"type_code": "narrative",
+		"code": "06035a",
+		"creator": "Merlin",
 		"faction_code": "hero",
+		"flavor": "Thor is considered \"unworthy\" after a battle on the Moon where Nick Fury whispered something to him, causing Thor's hammer, Mjolnir, to fall to the Moon's surface, leaving Thor weakened.",
+		"name": "If He Be Worthy",
 		"pack_code": "thor",
 		"position": 35,
-		"text": "You cannot include Thor:Jane Foster ally in your deck.\n<b>Setup</b>: Find and tuck Mjolnir here. Find and put Asgard into play.\n<b>Alter-Ego Action</b>: Exhaust your identity and discard 6 cards from your hand → flip this card.",
-		"flavor": "Thor is considered \"unworthy\" after a battle on the Moon where Nick Fury whispered something to him, causing Thor's hammer, Mjolnir, to fall to the Moon's surface, leaving Thor weakened.",
 		"quantity": 1,
 		"set_code": "thor_narrative",
-		"creator" : "Merlin",
-		"set_position": 1
+		"set_position": 1,
+		"text": "You cannot include Thor:Jane Foster ally in your deck.\n<b>Setup</b>: Find and tuck Mjolnir here. Find and put Asgard into play.\n<b>Alter-Ego Action</b>: Exhaust your identity and discard 6 cards from your hand → flip this card.",
+		"type_code": "narrative"
 	},
 	{
 		"code": "06035b",
-		"name": "If He Be Worthy",
-		"type_code": "narrative",
+		"creator": "Merlin",
 		"faction_code": "hero",
+		"flavor": "Whosoever holds this hammer if she be worthy shall possess the power of THOR",
+		"hidden": true,
+		"name": "If He Be Worthy",
 		"pack_code": "thor",
 		"position": 35,
-		"text": "<b>When Revealed</b>: Search your collection for Thor:Jane Foster and put her into play. Then attach Mjolnir to her. While attached to her, treat Thor on Mjolnir as this ally.\n<b>Forced Interrupt</b>: When Thor:Jane Foster leaves play, do not discard Mjolnir.",
-		"hidden": true,
-		"flavor": "Whosoever holds this hammer if she be worthy shall possess the power of THOR",
 		"quantity": 1,
 		"set_code": "thor_narrative",
-		"creator" : "Merlin",
-		"set_position": 1
+		"set_position": 1,
+		"text": "<b>When Revealed</b>: Search your collection for Thor:Jane Foster and put her into play. Then attach Mjolnir to her. While attached to her, treat Thor on Mjolnir as this ally.\n<b>Forced Interrupt</b>: When Thor:Jane Foster leaves play, do not discard Mjolnir.",
+		"type_code": "narrative"
 	}
 ]

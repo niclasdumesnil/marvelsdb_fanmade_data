@@ -807,8 +807,8 @@
 	{
 		"code": "16085b",
 		"faction_code": "encounter",
-		"is_unique": true,
 		"hidden": true,
+		"is_unique": true,
 		"name": "Museum Ship",
 		"octgn_id": "89bde368-ab43-4b9b-bd51-48246ee85c5d",
 		"pack_code": "gmw",

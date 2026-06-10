@@ -290,13 +290,13 @@
 		"type_code": "ally"
 	},
 	{
+		"alt_art": true,
 		"code": "52015",
 		"duplicate_of": "38016",
+		"octgn_id": "25cf07ae-e8ab-4443-8040-672bd2052015",
 		"pack_code": "silk",
 		"position": 15,
-		"quantity": 3,
-		"octgn_id": "25cf07ae-e8ab-4443-8040-672bd2052015",
-		"alt_art": true
+		"quantity": 3
 	},
 	{
 		"code": "52016",

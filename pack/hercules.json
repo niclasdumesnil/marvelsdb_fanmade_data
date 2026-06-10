@@ -408,13 +408,13 @@
 		"quantity": 3
 	},
 	{
+		"alt_art": true,
 		"code": "59022",
 		"duplicate_of": "40018",
 		"flavor": "\"I already regret this.\" —Rocket Raccoon",
 		"pack_code": "hercules",
 		"position": 22,
-		"quantity": 1,
-		"alt_art": true
+		"quantity": 1
 	},
 	{
 		"code": "59023",

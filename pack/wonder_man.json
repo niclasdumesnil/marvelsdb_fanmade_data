@@ -61,6 +61,7 @@
 	{
 		"code": "58002",
 		"deck_limit": 1,
+		"errata": "Ionic Physiology's cost arrow should instead be replaced with “Then” - Alex Werner, FFG Game Rules Specialist",
 		"faction_code": "hero",
 		"name": "Ionic Physiology",
 		"octgn_id": "7eb46497-8915-4be9-b31d-7bee67058002",
@@ -73,8 +74,7 @@
 		"set_position": 1,
 		"text": "Permanent. Max 3 cards tucked here.\n<b>Response</b>: After you play an event with a printed [energy] resource, tuck that event from your discard pile under this card → heal 1 damage from your identity.",
 		"traits": "Superpower.",
-		"type_code": "upgrade",
-		"errata": "Ionic Physiology’s cost arrow should instead be replaced with “Then” - Alex Werner, FFG Game Rules Specialist"
+		"type_code": "upgrade"
 	},
 	{
 		"code": "58003",
@@ -341,12 +341,12 @@
 		"type_code": "event"
 	},
 	{
+		"alt_art": true,
 		"code": "58017",
 		"duplicate_of": "42029",
 		"pack_code": "wonder_man",
 		"position": 17,
-		"quantity": 3,
-		"alt_art": true
+		"quantity": 3
 	},
 	{
 		"code": "58018",

@@ -442,12 +442,12 @@
 		"type_code": "event"
 	},
 	{
+		"alt_art": true,
 		"code": "49023",
 		"duplicate_of": "16024",
 		"pack_code": "magneto",
 		"position": 23,
-		"quantity": 3,
-		"alt_art": true
+		"quantity": 3
 	},
 	{
 		"code": "49024",
@@ -475,6 +475,7 @@
 		"attack_cost": 1,
 		"code": "49033",
 		"cost": 2,
+		"deck_limit": 1,
 		"faction_code": "basic",
 		"flavor": "\"Touch my friends and you get 10,000 volts!\"",
 		"health": 2,
@@ -490,14 +491,14 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "New. X-Men.",
-		"type_code": "ally",
-		"deck_limit": 1
+		"type_code": "ally"
 	},
 	{
 		"attack": 2,
 		"attack_cost": 1,
 		"code": "49034",
 		"cost": 2,
+		"deck_limit": 1,
 		"faction_code": "basic",
 		"flavor": "\"It's hard to be a kid when you look like a monster.\"",
 		"health": 2,
@@ -513,14 +514,14 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "New. X-Men.",
-		"type_code": "ally",
-		"deck_limit": 1
+		"type_code": "ally"
 	},
 	{
 		"attack": 2,
 		"attack_cost": 1,
 		"code": "49035",
 		"cost": 2,
+		"deck_limit": 1,
 		"faction_code": "basic",
 		"flavor": "\"This school sucks!\"",
 		"health": 2,
@@ -536,14 +537,14 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "New. X-Men.",
-		"type_code": "ally",
-		"deck_limit": 1
+		"type_code": "ally"
 	},
 	{
 		"attack": 2,
 		"attack_cost": 1,
 		"code": "49036",
 		"cost": 2,
+		"deck_limit": 1,
 		"faction_code": "basic",
 		"flavor": "\"I have seen atrocities done to mutants. No more!\"",
 		"health": 2,
@@ -559,8 +560,7 @@
 		"thwart": 2,
 		"thwart_cost": 1,
 		"traits": "New. X-Men.",
-		"type_code": "ally",
-		"deck_limit": 1
+		"type_code": "ally"
 	},
 	{
 		"code": "49037",

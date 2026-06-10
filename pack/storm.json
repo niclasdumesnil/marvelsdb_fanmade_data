@@ -453,13 +453,13 @@
 		"quantity": 1
 	},
 	{
+		"alt_art": true,
 		"code": "36026",
 		"duplicate_of": "05023",
 		"octgn_id": "775cc394-70e0-4a37-bb3b-5a13b4036026",
 		"pack_code": "storm",
 		"position": 26,
-		"quantity": 3,
-		"alt_art": true
+		"quantity": 3
 	},
 	{
 		"code": "36027",

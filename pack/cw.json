@@ -281,7 +281,7 @@
 		"cost": 2,
 		"deck_limit": 3,
 		"faction_code": "aggression",
-		"flavor": "\"I'm putting an end to this – right now!\" —Black Knight",
+		"flavor": "\"I'm putting an end to this - right now!\" —Black Knight",
 		"name": "Coup de Grâce",
 		"octgn_id": "e4e959c3-c409-44ea-8bba-46addf056016",
 		"pack_code": "cw",
@@ -339,31 +339,31 @@
 		"type_code": "ally"
 	},
 	{
+		"alt_art": true,
 		"code": "56020",
 		"duplicate_of": "01088",
+		"octgn_id": "e4e959c3-c409-44ea-8bba-46addf056020",
 		"pack_code": "cw",
 		"position": 20,
-		"quantity": 1,
-		"octgn_id": "e4e959c3-c409-44ea-8bba-46addf056020",
-		"alt_art": true
+		"quantity": 1
 	},
 	{
+		"alt_art": true,
 		"code": "56021",
 		"duplicate_of": "01089",
+		"octgn_id": "e4e959c3-c409-44ea-8bba-46addf056021",
 		"pack_code": "cw",
 		"position": 21,
-		"quantity": 1,
-		"octgn_id": "e4e959c3-c409-44ea-8bba-46addf056021",
-		"alt_art": true
+		"quantity": 1
 	},
 	{
+		"alt_art": true,
 		"code": "56022",
 		"duplicate_of": "01090",
+		"octgn_id": "e4e959c3-c409-44ea-8bba-46addf056022",
 		"pack_code": "cw",
 		"position": 22,
-		"quantity": 1,
-		"octgn_id": "e4e959c3-c409-44ea-8bba-46addf056022",
-		"alt_art": true
+		"quantity": 1
 	},
 	{
 		"attack": 1,
@@ -717,13 +717,13 @@
 		"type_code": "event"
 	},
 	{
+		"alt_art": true,
 		"code": "56048",
 		"duplicate_of": "42016",
 		"flavor": "\"Is that all you got?\" —Captain America",
 		"pack_code": "cw",
 		"position": 48,
-		"quantity": 3,
-		"alt_art": true
+		"quantity": 3
 	},
 	{
 		"code": "56049",

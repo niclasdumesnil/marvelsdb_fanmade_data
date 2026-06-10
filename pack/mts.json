@@ -424,6 +424,11 @@
 		"back_link": "21031b",
 		"code": "21031a",
 		"deck_limit": 1,
+		"deck_options": [
+			{
+				"multi_aspect": true
+			}
+		],
 		"deck_requirements": [
 			{
 				"aspects": 4,
@@ -453,12 +458,7 @@
 		"text": "<i>Battle Mage</i> - <b>Action</b>: Discard 1 card from your hand. Limit once per phase. If that card is:\n- Aggression - Deal 2 damage to an enemy.\n- Justice - Remove 2 threat from a scheme.\n- Protection - Heal 1 damage from an ally.\n- Leadership - Give a hero +1 THW, +1 ATK and +1 DEF this round.",
 		"thwart": 1,
 		"traits": "Guardian. Mystic.",
-		"type_code": "hero",
-		"deck_options": [
-			{
-				"multi_aspect": true
-			}
-		]
+		"type_code": "hero"
 	},
 	{
 		"code": "21031b",
@@ -1017,9 +1017,9 @@
 		"resource_mental": 1,
 		"set_code": "mts_campaign",
 		"set_position": 1,
+		"text": "The first player gains control of Cosmo.\nCosmo does not count against the ally limit.\n<b>Forced Interrupt</b>: When Cosmo leaves play, remove him from the game.",
 		"thwart": 2,
 		"thwart_cost": 1,
-		"text": "The first player gains control of Cosmo.\nCosmo does not count against the ally limit.\n<b>Forced Interrupt</b>: When Cosmo leaves play, remove him from the game.",
 		"traits": "Guardian.",
 		"type_code": "ally"
 	},
@@ -1346,7 +1346,7 @@
 		"resource_wild": 1,
 		"set_code": "mts_campaign",
 		"set_position": 23,
-		"text": "Retaliate 1. <i>(After this character is attacked, deal 1 damage to the attacking character.)</i> \nToughness. <i>(This character enters play with a tough status card.)</i>",
+		"text": "Retaliate 1. <i>(After this character is attacked, deal 1 damage to the attacking character.)</i>\nToughness. <i>(This character enters play with a tough status card.)</i>",
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "Asgard. Captive.",

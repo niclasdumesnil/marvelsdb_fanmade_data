@@ -438,12 +438,12 @@
 		"type_code": "player_side_scheme"
 	},
 	{
+		"alt_art": true,
 		"code": "47017",
 		"duplicate_of": "01062",
 		"pack_code": "jubilee",
 		"position": 17,
-		"quantity": 2,
-		"alt_art": true
+		"quantity": 2
 	},
 	{
 		"attack": 1,

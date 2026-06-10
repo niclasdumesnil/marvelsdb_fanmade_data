@@ -83,8 +83,8 @@
 		"base_threat_fixed": true,
 		"boost": 3,
 		"code": "29036",
-		"flavor": "Zzzax controls the city's power supply and is causing havoc within the system!",
 		"faction_code": "encounter",
+		"flavor": "Zzzax controls the city's power supply and is causing havoc within the system!",
 		"name": "Feedback Loop",
 		"octgn_id": "f0244c72-6c3e-4f1e-aaff-30b81661f88e",
 		"pack_code": "ironheart",
@@ -127,7 +127,7 @@
 		"quantity": 2,
 		"set_code": "zzzax",
 		"set_position": 3,
-		"text": "Attach to your identity.\nTreat the printed resource of each card in your hand as if it were [energy].\n<b>Hero Action</b>: Choose to either discard a card you control with a printed [energy] resource or take 2 indirect damage \u2192 discard this card.",
+		"text": "Attach to your identity.\nTreat the printed resource of each card in your hand as if it were [energy].\n<b>Hero Action</b>: Choose to either discard a card you control with a printed [energy] resource or take 2 indirect damage → discard this card.",
 		"type_code": "attachment"
 	},
 	{
@@ -141,7 +141,7 @@
 		"quantity": 1,
 		"set_code": "zzzax",
 		"set_position": 5,
-		"text": "<b>Forced Interrupt</b>: When the villain phase begins, deal 2 indirect damage to each player with a [energy] resource in their hand and/or on a card they control.\n<b>Hero Action</b>: Choose to either discard a card you control with a printed [energy] resource or take 2 indirect damage \u2192 discard this card.",
+		"text": "<b>Forced Interrupt</b>: When the villain phase begins, deal 2 indirect damage to each player with a [energy] resource in their hand and/or on a card they control.\n<b>Hero Action</b>: Choose to either discard a card you control with a printed [energy] resource or take 2 indirect damage → discard this card.",
 		"traits": "Condition.",
 		"type_code": "environment"
 	},

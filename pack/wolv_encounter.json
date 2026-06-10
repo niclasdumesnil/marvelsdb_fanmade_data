@@ -10,7 +10,7 @@
 		"position": 27,
 		"quantity": 1,
 		"set_code": "wolverine",
-		"text": "<b><i>Give to the Logan player</i></b>\nYou may flip to alter-ego form. Choose:\n\u2022 Exhaust Logan → remove Past Demons from the game.\n\u2022 You are stunned and confused. Discard this card.",
+		"text": "<b><i>Give to the Logan player</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Logan → remove Past Demons from the game.\n• You are stunned and confused. Discard this card.",
 		"type_code": "obligation"
 	},
 	{
@@ -133,7 +133,7 @@
 		"quantity": 2,
 		"set_code": "deathstrike",
 		"set_position": 3,
-		"text": "Attach to an enemy without a copy of Adamantium Upgrades attached. Otherwise, this card gains surge.\n[star] Attached enemy's attacks gain piercing.\n<b>Hero Action</b>: Spend [energy] [mental] [physical] resources \u2192 discard this card.",
+		"text": "Attach to an enemy without a copy of Adamantium Upgrades attached. Otherwise, this card gains surge.\n[star] Attached enemy's attacks gain piercing.\n<b>Hero Action</b>: Spend [energy] [mental] [physical] resources → discard this card.",
 		"traits": "Tech.",
 		"type_code": "attachment"
 	},

@@ -3,12 +3,12 @@
 		"cgdb_id": 1,
 		"code": "core",
 		"date_release": "2019-11-01",
+		"environment": "current",
 		"name": "Core Set",
 		"octgn_id": "dea583bf-554b-43c8-a6ed-a44782094ad1",
 		"pack_type_code": "core",
 		"position": 1,
-		"size": 355,
-		"environment" : "current"
+		"size": 355
 	},
 	{
 		"cgdb_id": 2,
@@ -453,173 +453,170 @@
 		"cgdb_id": 45,
 		"code": "aoa",
 		"date_release": "2024-03-29",
+		"environment": "current",
 		"name": "Age of Apocalypse",
 		"octgn_id": "1ab538aa-6ad1-4d9d-83a6-3ebc3aa25a34",
 		"pack_type_code": "story",
 		"position": 45,
-		"size": 271,
-		"environment" : "current"
+		"size": 271
 	},
 	{
 		"cgdb_id": 46,
 		"code": "iceman",
 		"date_release": "2024-05-17",
+		"environment": "current",
 		"name": "Iceman",
 		"octgn_id": "9612581e-ee76-46fb-89b7-71ae7aac08d7",
 		"pack_type_code": "hero",
 		"position": 46,
-		"size": 60,
-		"environment" : "current"
+		"size": 60
 	},
 	{
 		"cgdb_id": 47,
 		"code": "jubilee",
 		"date_release": "2024-07-19",
+		"environment": "current",
 		"name": "Jubilee",
 		"octgn_id": "2bb9367c-944e-4475-b643-6a84c3214443",
 		"pack_type_code": "hero",
 		"position": 47,
-		"size": 60,
-		"environment" : "current"
+		"size": 60
 	},
 	{
 		"cgdb_id": 48,
 		"code": "ncrawler",
 		"date_release": "2024-09-20",
+		"environment": "current",
 		"name": "Nightcrawler",
 		"octgn_id": "65f91d01-99db-4c7e-814f-28ddf0e91d6d",
 		"pack_type_code": "hero",
 		"position": 48,
-		"size": 60,
-		"environment" : "current"
+		"size": 60
 	},
 	{
 		"cgdb_id": 49,
 		"code": "magneto",
 		"date_release": "2024-11-15",
+		"environment": "current",
 		"name": "Magneto",
 		"octgn_id": "0035c164-5de7-4b2e-bb80-d49e4b2e67d0",
 		"pack_type_code": "hero",
 		"position": 49,
-		"size": 60,
-		"environment" : "current"
+		"size": 60
 	},
 	{
 		"cgdb_id": 50,
 		"code": "aos",
 		"date_release": "2025-02-20",
+		"environment": "current",
 		"name": "Agents of S.H.I.E.L.D.",
 		"octgn_id": "bddee479-23cf-4576-b33c-c95ee9f3cc96",
 		"pack_type_code": "story",
 		"position": 50,
-		"size": 273,
-		"environment" : "current"
+		"size": 273
 	},
 	{
 		"cgdb_id": 51,
 		"code": "bp",
 		"date_release": "2025-04-18",
+		"environment": "current",
 		"name": "Black Panther",
 		"octgn_id": "4010e194-df1c-477e-852e-3a2adf07ea10",
 		"pack_type_code": "hero",
 		"position": 51,
-		"size": 60,
-		"environment" : "current"
+		"size": 60
 	},
 	{
 		"cgdb_id": 52,
 		"code": "silk",
 		"date_release": "2025-04-18",
+		"environment": "current",
 		"name": "Silk",
 		"octgn_id": "25cf07ae-e8ab-4443-8040-672bd25d635a",
 		"pack_type_code": "hero",
 		"position": 52,
-		"size": 60,
-		"environment" : "current"
+		"size": 60
 	},
 	{
 		"cgdb_id": 53,
 		"code": "falcon",
 		"date_release": "2025-06-20",
+		"environment": "current",
 		"name": "Falcon",
 		"octgn_id": "dc47d9b6-c518-4972-b8bf-a1e1ab9d9f23",
 		"pack_type_code": "hero",
 		"position": 53,
-		"size": 60,
-		"environment" : "current"
+		"size": 60
 	},
 	{
 		"cgdb_id": 54,
 		"code": "winter",
 		"date_release": "2025-06-20",
+		"environment": "current",
 		"name": "Winter Soldier",
 		"octgn_id": "8e74fa84-01d6-42e0-8b7d-b02638e96f5c",
 		"pack_type_code": "hero",
 		"position": 54,
-		"size": 60,
-		"environment" : "current"
+		"size": 60
 	},
 	{
 		"cgdb_id": 55,
 		"code": "tt",
 		"date_release": "2025-08-15",
+		"environment": "current",
 		"name": "Trickster Takeover",
 		"octgn_id": "e1ad8fbe-b7e2-48f0-96ea-40362c3184da",
 		"pack_type_code": "scenario",
 		"position": 55,
-		"size": 78,
-		"environment" : "current"
+		"size": 78
 	},
 	{
 		"cgdb_id": 56,
 		"code": "cw",
 		"date_release": "2025-10-17",
+		"environment": "current",
 		"name": "Civil War",
 		"octgn_id": "e4e959c3-c409-44ea-8bba-46addf9c4b4b",
 		"pack_type_code": "story",
 		"position": 56,
-		"size": 274,
-		"environment" : "current"
+		"size": 274
 	},
-  	{
+	{
 		"cgdb_id": 57,
 		"code": "synthezoid",
 		"date_release": "2025-12-05",
+		"environment": "current",
 		"name": "Synthezoid Smackdown",
 		"octgn_id": "2b778323-b4d9-4567-999d-42e7def75dde",
 		"pack_type_code": "scenario",
 		"position": 57,
 		"size": 90,
-		"environment" : "current",
-		"visibility": "true",
-		"pack_type_code": "scenario"
-		
-
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 58,
 		"code": "wonder_man",
 		"date_release": "2026-02-20",
+		"environment": "current",
 		"name": "Wonder Man",
 		"octgn_id": "7eb46497-8915-4be9-b31d-7bee67842bce",
-		"environment" : "current",
+		"pack_type_code": "hero",
 		"position": 58,
 		"size": 60,
 		"theme": "Marvel",
-		"visibility": "true",
-		"pack_type_code": "hero"
+		"visibility": "true"
 	},
 	{
 		"cgdb_id": 59,
 		"code": "hercules",
 		"date_release": "2026-02-20",
+		"environment": "current",
 		"name": "Hercules",
 		"octgn_id": "01625c2e-06c7-4321-bfd4-9abdc6877046",
+		"pack_type_code": "hero",
 		"position": 59,
 		"size": 60,
-		"environment" : "current",
 		"theme": "Marvel",
-		"visibility": "true",
-		"pack_type_code": "hero"
+		"visibility": "true"
 	}
 ]

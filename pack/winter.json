@@ -466,6 +466,7 @@
 		"code": "54033",
 		"cost": 0,
 		"deck_limit": 3,
+		"errata": "Max 1 per character (french version and FFG stream)",
 		"faction_code": "basic",
 		"name": "S.H.I.E.L.D. Deputy",
 		"octgn_id": "8e74fa84-01d6-42e0-8b7d-b02638054033",
@@ -475,7 +476,6 @@
 		"resource_mental": 1,
 		"text": "Play only if your identity has the [[S.H.I.E.L.D.]] trait.\nAttach to a friendly character.\nAttached character gets +1 hit point and gains the [[S.H.I.E.L.D.]] trait.",
 		"traits": "Title.",
-		"type_code": "upgrade",
-		"errata": "Max 1 per character (french version and FFG stream)"
+		"type_code": "upgrade"
 	}
 ]

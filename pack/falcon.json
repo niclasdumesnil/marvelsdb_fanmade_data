@@ -287,12 +287,12 @@
 		"position": 15,
 		"quantity": 1,
 		"resource_energy": 1,
+		"subname": "Lei Ling",
 		"text": "<b>Hero Action</b>: Exhaust Aero → choose a player. Until the end of the phase, each [[Aerial]] character that player controls gets +1 ATK.",
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "Aerial. Agent of Atlas.",
-		"type_code": "ally",
-		"subname": "Lei Ling"
+		"type_code": "ally"
 	},
 	{
 		"code": "53016",
@@ -338,7 +338,7 @@
 		"quantity": 1,
 		"resource_energy": 1,
 		"subname": "Monica Rambeau",
-		"text": "<b>Response</b>: After you play Spectrum, tuck 1 card used to pay for her under her. If that card's printed resource has:\n[mental] – Spectrum gets +2 THW.\n[physical] – Spectrum gets +2 ATK.\n[energy] – Spectrum gets +2 hit points.\n[wild] – All of the above.",
+		"text": "<b>Response</b>: After you play Spectrum, tuck 1 card used to pay for her under her. If that card's printed resource has:\n[mental] - Spectrum gets +2 THW.\n[physical] - Spectrum gets +2 ATK.\n[energy] - Spectrum gets +2 hit points.\n[wild] - All of the above.",
 		"thwart": 1,
 		"thwart_cost": 1,
 		"traits": "Aerial. Avenger.",
@@ -450,12 +450,12 @@
 		"quantity": 1
 	},
 	{
+		"alt_art": true,
 		"code": "53028",
 		"duplicate_of": "42022",
 		"pack_code": "falcon",
 		"position": 28,
-		"quantity": 3,
-		"alt_art": true
+		"quantity": 3
 	},
 	{
 		"code": "53034",

@@ -2032,6 +2032,7 @@
 	},
 	{
 		"base_threat_fixed": false,
+		"boost": 1,
 		"code": "04150",
 		"faction_code": "encounter",
 		"illustrator": "Patrick McEvoy",
@@ -2043,8 +2044,7 @@
 		"set_code": "weap_master",
 		"set_position": 3,
 		"text": "<b>When Revealed (Alter-Ego)</b>: The villain schemes. If they have a [[Weapon]] attachment, this card gains surge.\n<b>When Revealed (Hero)</b>: the villain attacks you. If they have a [[Weapon]] attachment, this card gains surge.",
-		"type_code": "treachery",
-		"boost": 1
+		"type_code": "treachery"
 	},
 	{
 		"boost": 1,
