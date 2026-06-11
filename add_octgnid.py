@@ -29,7 +29,13 @@ with open('./pack/' + runFile) as json_file:
     updated_data = data.copy()
     for item in updated_data:
         try:
-            if 'duplicate_of' not in item.keys():
+            if 'duplicate_of' in item.keys():
+                if not item.get('alt_art'):
+                    if 'octgn_id' in item:
+                        item.pop('octgn_id')
+                else:
+                    item['octgn_id'] = pack_octgn_id + pack_id + str('00' + str(item['position']))[-3:]
+            else:
                 item['octgn_id'] = pack_octgn_id + pack_id + str('00' + str(item['position']))[-3:]
         except KeyError:
             print("An exception occurred: " + item['name'])
@@ -39,7 +45,8 @@ with open('./pack/' + runFile) as json_file:
             if len(item['code']) > 5 and str(item['code'])[4:5] != 'a':
                 for items in updated_data:
                     if items['code'] == str(item['code'])[0:5] + 'a':
-                        item['octgn_id'] = items['octgn_id']
+                        if 'octgn_id' in items:
+                            item['octgn_id'] = items['octgn_id']
         except KeyError:
             print("An exception occurred: " + item['name'])
 

@@ -384,10 +384,6 @@
 		"name": "Gigantes de hielo"
 	},
 	{
-		"code": "frostbite",
-		"name": "Congelación"
-	},
-	{
 		"code": "future_past",
 		"name": "Futuro pasado"
 	},
@@ -526,10 +522,6 @@
 	{
 		"code": "inheritors",
 		"name": "Los herederos"
-	},
-	{
-		"code": "invocation",
-		"name": "Invocación"
 	},
 	{
 		"code": "iron_man",
@@ -1202,10 +1194,6 @@
 	{
 		"code": "weap_master",
 		"name": "Maestro de armas"
-	},
-	{
-		"code": "weather",
-		"name": "Clima"
 	},
 	{
 		"code": "western",

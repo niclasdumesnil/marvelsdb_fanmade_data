@@ -392,10 +392,6 @@
 		"name": "Giganti di Ghiaccio"
 	},
 	{
-		"code": "frostbite",
-		"name": "Frostbite"
-	},
-	{
 		"code": "future_past",
 		"name": "Futuro Passato"
 	},
@@ -534,10 +530,6 @@
 	{
 		"code": "inheritors",
 		"name": "Eredi"
-	},
-	{
-		"code": "invocation",
-		"name": "Mazzo Invocazione"
 	},
 	{
 		"code": "iron_man",
@@ -1202,10 +1194,6 @@
 	{
 		"code": "weap_master",
 		"name": "Maestro d'Armi"
-	},
-	{
-		"code": "weather",
-		"name": "Tempo"
 	},
 	{
 		"code": "western",

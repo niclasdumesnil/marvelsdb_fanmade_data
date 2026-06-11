@@ -392,10 +392,6 @@
 		"name": "Frost Giants"
 	},
 	{
-		"code": "frostbite",
-		"name": "Frostbite"
-	},
-	{
 		"code": "future_past",
 		"name": "Future Past"
 	},
@@ -534,10 +530,6 @@
 	{
 		"code": "inheritors",
 		"name": "The Inheritors"
-	},
-	{
-		"code": "invocation",
-		"name": "Invocation"
 	},
 	{
 		"code": "iron_man",
@@ -1202,10 +1194,6 @@
 	{
 		"code": "weap_master",
 		"name": "Weapon Master"
-	},
-	{
-		"code": "weather",
-		"name": "Weather"
 	},
 	{
 		"code": "western",

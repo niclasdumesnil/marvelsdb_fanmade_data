@@ -10,7 +10,7 @@
 		"position": 12,
 		"quantity": 1,
 		"set_code": "moon_knight_by_hax_nemesis",
-		"text": "<b>Give to the Marc Spector player.</b>\nYou may flip to Marc Spector. Choose:\n. Discard Steven Grant and Jake Lockley from the [[IDENTITY]] stack → remove Seek Help from the game.\n	. Take 2 indirect damage → discard this obligation.",
+		"text": "<b>Give to the Marc Spector player.</b>\nYou may flip to Marc Spector. Choose:\n. Discard Steven Grant and Jake Lockley from the [[IDENTITY]] stack → remove Seek Help from the game.\n\t. Take 2 indirect damage → discard this obligation.",
 		"type_code": "obligation"
 	},
 	{

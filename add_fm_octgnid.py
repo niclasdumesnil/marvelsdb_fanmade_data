@@ -28,7 +28,7 @@ pack_file = f'{pack_code}.json'
 pack_encounter_file = f'{pack_code}_encounter.json'  # fichier encounter associé
 
 
-def update_cards_file(file_path, pack_octgn_id, pack_id):
+def update_cards_file(file_path, pack_octgn_id, pack_id, set_type_map):
     """Met à jour les octgn_id dans un fichier de cartes et écrit le résultat."""
     if not os.path.exists(file_path):
         print(f"Fichier {file_path} non trouvé, passage au suivant.")  # TRACE
@@ -39,9 +39,23 @@ def update_cards_file(file_path, pack_octgn_id, pack_id):
         updated_data = data.copy()
         for item in updated_data:
             try:
-                if 'duplicate_of' not in item.keys():
+                if 'duplicate_of' in item.keys():
+                    card_set_code = item.get('set_code', '')
+                    card_set_type = set_type_map.get(card_set_code, '')
+                    is_hero_set = card_set_type in ('hero', 'hero_special')
+                    if item.get('alt_art') or is_hero_set:
+                        # Alt-art duplicates and hero set duplicates get their own octgn_id
+                        item['octgn_id'] = pack_octgn_id + pack_id + str('00' + str(item['position']))[-3:]
+                        reason = "alt_art" if item.get('alt_art') else f"hero set ({card_set_code})"
+                        print(f"Ajout/Mise à jour octgn_id {item['octgn_id']} pour duplicate {reason} : {item.get('name', item.get('code', '???'))}")
+                    else:
+                        # Standard aspect/basic duplicates: strip octgn_id
+                        if 'octgn_id' in item:
+                            item.pop('octgn_id')
+                            print(f"Suppression octgn_id de la carte duplicate sans alt_art : {item.get('name', item.get('code', '???'))}")
+                else:
                     item['octgn_id'] = pack_octgn_id + pack_id + str('00' + str(item['position']))[-3:]
-                    print(f"Ajout octgn_id {item['octgn_id']} à la carte {item.get('name', item.get('code', '???'))}")  # TRACE
+                    print(f"Ajout/Mise à jour octgn_id {item['octgn_id']} à la carte : {item.get('name', item.get('code', '???'))}")  # TRACE
             except KeyError:
                 print("An exception occurred: " + item.get('name', item.get('code', '???')))
         for item in updated_data:
@@ -49,8 +63,9 @@ def update_cards_file(file_path, pack_octgn_id, pack_id):
                 if len(item['code']) > 5 and str(item['code'])[4:5] != 'a':
                     for items in updated_data:
                         if items['code'] == str(item['code'])[0:5] + 'a':
-                            item['octgn_id'] = items['octgn_id']
-                            print(f"Copie octgn_id {items['octgn_id']} de {items.get('name', items.get('code', '???'))} vers {item.get('name', item.get('code', '???'))}")  # TRACE
+                            if 'octgn_id' in items:
+                                item['octgn_id'] = items['octgn_id']
+                                print(f"Copie octgn_id {items['octgn_id']} de {items.get('name', items.get('code', '???'))} vers {item.get('name', item.get('code', '???'))}")  # TRACE
             except KeyError:
                 print("An exception occurred: " + item.get('name', item.get('code', '???')))
     print(f"Écriture du fichier {file_path}")  # TRACE
@@ -82,8 +97,17 @@ print(f"Écriture du fichier packs_fanmade.json")  # TRACE
 with open('./packs_fanmade.json', 'w', encoding="utf-8") as outfile:
     json.dump(updated_data, outfile, indent='\t', sort_keys=True)
 
+# Charger la carte set_code -> card_set_type_code pour détecter les sets héros
+set_type_map = {}
+for sets_filename in ['sets_fanmade.json', 'sets.json']:
+    if os.path.exists(f'./{sets_filename}'):
+        with open(f'./{sets_filename}', encoding='utf-8-sig') as sf:
+            for s in json.load(sf):
+                set_type_map[s.get('code', '')] = s.get('card_set_type_code', '')
+print(f"Chargement de {len(set_type_map)} types de sets")  # TRACE
+
 # Mise à jour des deux fichiers de cartes associés au pack
-update_cards_file(f'./pack/{pack_file}', pack_octgn_id, pack_id)
-update_cards_file(f'./pack/{pack_encounter_file}', pack_octgn_id, pack_id)
+update_cards_file(f'./pack/{pack_file}', pack_octgn_id, pack_id, set_type_map)
+update_cards_file(f'./pack/{pack_encounter_file}', pack_octgn_id, pack_id, set_type_map)
 
 

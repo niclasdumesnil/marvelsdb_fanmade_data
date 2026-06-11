@@ -2,5 +2,9 @@
 	{
 		"code": "game_module",
 		"name": "Game Module"
+	},
+	{
+		"code": "campaign",
+		"name": "Campaign"
 	}
 ]

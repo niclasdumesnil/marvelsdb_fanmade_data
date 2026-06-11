@@ -42,5 +42,9 @@
 	{
 		"code": "game_module",
 		"name": "Module de jeu"
+	},
+	{
+		"code": "custom",
+		"name": "Personnalisé"
 	}
 ]

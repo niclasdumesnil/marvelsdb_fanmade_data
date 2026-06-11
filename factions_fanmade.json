@@ -10,5 +10,11 @@
 		"is_primary": false,
 		"name": "Game Module",
 		"octgn_id": null
+	},
+	{
+		"code": "custom",
+		"is_primary": false,
+		"name": "Custom",
+		"octgn_id": null
 	}
 ]

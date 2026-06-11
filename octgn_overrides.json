@@ -295,5 +295,41 @@
 				"comment": "Superior Taste — Mettre dans la pile Special (Sense Deck)"
 			}
 		]
+	},
+	"king_in_black_by_ekaugust": {
+		"card_overrides": [
+			{"code": "500337", "default_setup_pile": "Special", "comment": "Migré depuis SETUP_EXCEPTIONS dans set_builder.py"},
+			{"code": "500338", "default_setup_pile": "Special", "comment": "Migré depuis SETUP_EXCEPTIONS dans set_builder.py"},
+			{"code": "500339", "default_setup_pile": "Special", "comment": "Migré depuis SETUP_EXCEPTIONS dans set_builder.py"},
+			{"code": "500340", "default_setup_pile": "Special", "comment": "Migré depuis SETUP_EXCEPTIONS dans set_builder.py"}
+		]
+	},
+	"skrull_menace_by_kajislav": {
+		"card_overrides": [
+			{"code": "500770", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500771", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500772", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500773", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500774", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500775", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500776", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500777", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500778", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500779", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500780", "health_override": 0, "comment": "Activation Order — health forcé à 0"},
+			{"code": "500781", "health_override": 0, "comment": "Activation Order — health forcé à 0"}
+		]
+	},
+	"eternals_by_bluehg": {
+		"owner_overrides": ["eternal_allies_by_bluehg", "jack_of_knives_physicality_by_bluehg", "kingo_projection_by_bluehg", "eros_projection_by_bluehg"],
+		"comment": "Sets dont l'Owner doit être vide (cartes traitées comme aspect/basic). Migré depuis OWNER_EXCEPTIONS."
+	},
+	"agent_of_shield_by_merlin": {
+		"owner_overrides": ["asset_of_shield_by_merlin"],
+		"comment": "Sets dont l'Owner doit être vide. Migré depuis OWNER_EXCEPTIONS."
+	},
+	"mighty_thor_by_rainy": {
+		"owner_overrides": ["mighty_thor_additional_by_rainy"],
+		"comment": "Sets dont l'Owner doit être vide. Migré depuis OWNER_EXCEPTIONS."
 	}
 }
