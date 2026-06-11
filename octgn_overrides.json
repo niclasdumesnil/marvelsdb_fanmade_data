@@ -331,5 +331,86 @@
 	"mighty_thor_by_rainy": {
 		"owner_overrides": ["mighty_thor_additional_by_rainy"],
 		"comment": "Sets dont l'Owner doit être vide. Migré depuis OWNER_EXCEPTIONS."
+	},
+	"gorr_the_butcher_by_bluehg": {
+		"card_overrides": [
+			{
+				"code": "207423",
+				"default_setup_pile": "Special",
+				"comment": "Shadow Serpent — Necroverse modular set, set aside in Special"
+			},
+			{
+				"code": "207424",
+				"default_setup_pile": "Special",
+				"comment": "Annihilablade — Necroverse modular set, set aside in Special"
+			},
+			{
+				"code": "207425",
+				"default_setup_pile": "Special",
+				"comment": "Dark Apotheosis — Necroverse modular set, set aside in Special"
+			},
+			{
+				"code": "207426",
+				"default_setup_pile": "Special",
+				"comment": "Manifest Will — Necroverse modular set, set aside in Special"
+			},
+			{
+				"code": "207427",
+				"default_setup_pile": "Special",
+				"comment": "The Ingenuity Of Hatred — Necroverse modular set, set aside in Special"
+			},
+			{
+				"code": "207428",
+				"default_setup_pile": "Special",
+				"comment": "The Planet Cleaver — Necroverse modular set, set aside in Special"
+			},
+			{
+				"code": "207408",
+				"default_setup_pile": "Special",
+				"comment": "Necro-Raven Gestalt — Set aside in Special"
+			},
+			{
+				"code": "207407a",
+				"default_setup_pile": "Special",
+				"comment": "Godbomb — Double-sided environment, set aside in Special"
+			},
+			{
+				"code": "207407b",
+				"default_setup_pile": "Special",
+				"comment": "All-black Necroverse — Double-sided environment back, set aside in Special"
+			},
+			{
+				"code": "207421",
+				"default_setup_pile": "Special",
+				"comment": "Heroes' Labor — Set aside in Special"
+			},
+			{
+				"code": "207422",
+				"default_setup_pile": "Special",
+				"comment": "Stalking Berserker — Set aside in Special"
+			}
+		],
+		"scenario_overrides": [
+			{
+				"set_code": "gorr_the_god_butcher_by_bluehg",
+				"ignore_main_scheme_text": true,
+				"nb_modular": 1,
+				"mandatory_modulars": {
+					"necroverse_by_bluehg": [
+						"Necroverse",
+						"Special",
+						false
+					]
+				},
+				"recommended_modulars": {
+					"intergalactic_hazards_by_bluehg": [
+						"Intergalactic Hazards",
+						"Encounter",
+						true
+					]
+				},
+				"comment": "Gorr the God Butcher — Necroverse est obligatoire et mis de côté dans la pile Special. Standard est géré d'office. 1 modulaire recommandé : Intergalactic Hazards."
+			}
+		]
 	}
 }
