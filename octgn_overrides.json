@@ -412,5 +412,61 @@
 				"comment": "Gorr the God Butcher — Necroverse est obligatoire et mis de côté dans la pile Special. Standard est géré d'office. 1 modulaire recommandé : Intergalactic Hazards."
 			}
 		]
+	},
+	"universal_church_of_truth_by_bluehg": {
+		"card_overrides": [
+			{
+				"code": "207008a",
+				"default_setup_pile": "Special",
+				"comment": "Spartax — Environnement, mis de côté lors du setup"
+			},
+			{
+				"code": "207008b",
+				"default_setup_pile": "Special",
+				"comment": "Spartax Damaged — Environnement, mis de côté lors du setup"
+			},
+			{
+				"code": "207009a",
+				"default_setup_pile": "Special",
+				"comment": "Phone For Help — Manigance annexe, mise de côté lors du setup"
+			},
+			{
+				"code": "207009b",
+				"default_setup_pile": "Special",
+				"comment": "Nova Corps — Allié de soutien, mis de côté lors du setup"
+			},
+			{
+				"code": "207016",
+				"default_setup_pile": "Special",
+				"comment": "Faithful Zealot — Sbire, mis de côté lors du setup"
+			}
+		],
+		"scenario_overrides": [
+			{
+				"set_code": "universal_church_of_truth_by_bluehg",
+				"ignore_main_scheme_text": true,
+				"nb_modular": 1,
+				"mandatory_modulars": {
+					"ship_command": [
+						"Ship Command",
+						"Encounter",
+						true
+					],
+					"you_must_have_faith_by_bluehg": [
+						"You Must Have Faith",
+						"Encounter",
+						true
+					]
+				},
+				"recommended_modulars": {
+					"drax_clones_by_bluehg": [
+						"Drax Clones",
+						"Encounter",
+						true
+					]
+				},
+				"comment": "Matriarch — Ship Command et You Must Have Faith sont obligatoires. 1 modulaire recommandé (Drax Clones)."
+			}
+		]
 	}
 }
