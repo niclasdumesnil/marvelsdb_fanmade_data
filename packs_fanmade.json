@@ -1298,7 +1298,7 @@
         "cgdb_id": 2071,
         "code": "steel_by_supertnt73",
         "creator": "Supertnt73",
-        "date_release": "2026-06-08",
+        "date_release": "2026-06-15",
         "name": "Steel",
         "octgn_id": "005843b4-261a-4e3f-a384-874bed3ea2dd",
         "pack_type_code": "hero_fanmade",
@@ -1306,7 +1306,7 @@
         "size": 24,
         "status": "sealed",
         "theme": "DC",
-        "visibility": "false"
+        "visibility": "true"
     },
     {
         "cgdb_id": 2072,
@@ -1360,6 +1360,20 @@
         "pack_type_code": "hero_fanmade",
         "position": 5040,
         "size": 78,
+        "status": "released",
+        "theme": "Marvel",
+        "visibility": "false"
+    },
+    {
+        "cgdb_id": 62,
+        "code": "luke_cage_by_ffg",
+        "creator": "FFG",
+        "date_release": "2026-06-15",
+        "name": "Luke Cage",
+        "octgn_id": "e7da07d7-400b-4710-8d02-e5356255ac60",
+        "pack_type_code": "hero_fanmade",
+        "position": 62,
+        "size": 31,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"

@@ -3,3 +3,6 @@ node_modules/
 package-lock.json
 venv
 .vscode
+/rules
+/rules
+/translations/fr/rules

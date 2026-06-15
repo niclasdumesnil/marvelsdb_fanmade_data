@@ -1740,5 +1740,10 @@
         "code": "kingo_by_bluehg_nemesis",
         "name": "Kingo Nemesis",
         "parent_code": "kingo_by_bluehg"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "luke_cage_by_ffg",
+        "name": "Luke Cage"
     }
 ]
