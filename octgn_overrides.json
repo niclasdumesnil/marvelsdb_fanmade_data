@@ -416,23 +416,28 @@
 	"universal_church_of_truth_by_bluehg": {
 		"card_overrides": [
 			{
+				"code": "207007a",
+				"prepend_text": "Setup. ",
+				"comment": "Templeship — Ajouter 'Setup. ' au début du texte pour la mise en place"
+			},
+			{
 				"code": "207008a",
-				"default_setup_pile": "Special",
+				"default_setup_pile": "Setup",
 				"comment": "Spartax — Environnement, mis de côté lors du setup"
 			},
 			{
 				"code": "207008b",
-				"default_setup_pile": "Special",
+				"default_setup_pile": "Setup",
 				"comment": "Spartax Damaged — Environnement, mis de côté lors du setup"
 			},
 			{
 				"code": "207009a",
-				"default_setup_pile": "Special",
+				"default_setup_pile": "Setup",
 				"comment": "Phone For Help — Manigance annexe, mise de côté lors du setup"
 			},
 			{
 				"code": "207009b",
-				"default_setup_pile": "Special",
+				"default_setup_pile": "Setup",
 				"comment": "Nova Corps — Allié de soutien, mis de côté lors du setup"
 			},
 			{
