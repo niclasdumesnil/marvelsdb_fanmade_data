@@ -81,7 +81,7 @@
         "set_code": "universal_church_of_truth_by_bluehg",
         "set_position": 4,
         "stage": "1A",
-        "text": "<b>Contents</b>: Matriarch (I) and Matriarch (II). (Matriarch (II) and Matriarch (III) instead for expert mode.) Universal Church of Truth, Ship Command, You Must Have Faith, and Standard encounter sets. One modular encounter set (Drax Clones).\n<b>Setup:</b> Set aside the Spartax environment, the Phone for Help side scheme, and the 10 copies of Faithful Zealot. Put the Templeship environment into play.",
+        "text": "<b>Contents</b>: Matriarch (I) and Matriarch (II). (Matriarch (II) and Matriarch (III) instead for expert mode.) Universal Church of Truth, Ship Command, You Must Have Faith, and Standard encounter sets. One modular encounter set (Drax Clones).\n<b>Setup</b>: </b> Set aside the Spartax environment, the Phone for Help side scheme, and the 10 copies of Faithful Zealot. Put the Templeship environment into play.",
         "type_code": "main_scheme"
     },
     {
@@ -124,10 +124,10 @@
         "type_code": "main_scheme"
     },
     {
+        "base_threat": 1,
         "code": "207005b",
         "duplicate_of_name": "",
         "escalation_threat": 1,
-        "escalation_threat_fixed": true,
         "faction_code": "encounter",
         "hidden": true,
         "is_unique": false,
@@ -141,7 +141,6 @@
         "stage": "2B",
         "text": "<b>When Revealed</b>: If the Templeship environment is in play, place 3 [per_hero] threat here.\n<b>Forced Response</b>: After Matriarch takes damage from an attack, shuffle the bottommost [[RESERVES]] card from the encounter discard pile into the encounter deck. (Limit once per round per player.)",
         "threat": 8,
-        "threat_fixed": true,
         "type_code": "main_scheme"
     },
     {
@@ -272,7 +271,7 @@
         "quantity": 1,
         "set_code": "universal_church_of_truth_by_bluehg",
         "set_position": 9,
-        "text": "Hinder 3 [per_hero].\n<b>Alter-Ego <b>Action</b>:</b> Exhaust your identity → remove threat from this scheme equal to your REC.\n<b>When Defeated</b>: Flip this card over.",
+        "text": "Hinder 3 [per_hero].\n<b>Alter-Ego <b>Action</b>: </b> Exhaust your identity → remove threat from this scheme equal to your REC.\n<b>When Defeated</b>: Flip this card over.",
         "type_code": "side_scheme"
     },
     {
@@ -353,7 +352,7 @@
         "scheme": 0,
         "set_code": "drax_clones_by_bluehg",
         "set_position": 1,
-        "text": "[star] If Drax Clone is a minion, he gets +1 ATK for each point of damage he has.\n<b>Alter-Ego <b>Action</b>:</b> Spend [wild][wild][wild] resources → take control of Drax Clone, treating him as an ally. Drax Clone loses the [[FAITHFUL]] trait, his THW is equal to his printed SCH, and he takes 1 consequential damage for thwarting or attacking. (His printed resource cost is considered to be 0.)",
+        "text": "[star] If Drax Clone is a minion, he gets +1 ATK for each point of damage he has.\n<b>Alter-Ego <b>Action</b>: </b> Spend [wild][wild][wild] resources → take control of Drax Clone, treating him as an ally. Drax Clone loses the [[FAITHFUL]] trait, his THW is equal to his printed SCH, and he takes 1 consequential damage for thwarting or attacking. (His printed resource cost is considered to be 0.)",
         "thwart": 0,
         "traits": "Clone. Faithful.",
         "type_code": "minion"
@@ -371,7 +370,7 @@
         "quantity": 2,
         "set_code": "drax_clones_by_bluehg",
         "set_position": 4,
-        "text": "Peril.\nChoose one:\n• Search the encounter deck and discard pile for a Drax Clone minion and put him into play engaged with you.\n• Shuffle all copies of Drax Clone from the encounter discard pile into the encounter deck. This card gains surge.",
+        "text": "Peril.\nChoose one: • Search the encounter deck and discard pile for a Drax Clone minion and put him into play engaged with you.\n• Shuffle all copies of Drax Clone from the encounter discard pile into the encounter deck. This card gains surge.",
         "type_code": "treachery"
     },
     {
@@ -468,7 +467,7 @@
         "quantity": 3,
         "set_code": "you_must_have_faith_by_bluehg",
         "set_position": 4,
-        "text": "<b>When Revealed</b>: Create 2 Faithful Zealot minions and put them into play engaged with you. If no enemies are put into play this way, this card gains surge.\n* <b>Boost:</b> Create 1 Faithful Zealot minion and put it into play engaged with you.",
+        "text": "<b>When Revealed</b>: Create 2 Faithful Zealot minions and put them into play engaged with you. If no enemies are put into play this way, this card gains surge.\n* <b>Boost: </b> Create 1 Faithful Zealot minion and put it into play engaged with you.",
         "traits": "Reserves.",
         "type_code": "treachery"
     },
