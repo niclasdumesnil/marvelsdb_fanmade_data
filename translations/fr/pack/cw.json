@@ -21,7 +21,7 @@
     },
     {
         "code": "56003",
-        "flavor": "« Épargnez-moi vos menaces, monsieur. Mes amis sont bien plus effrayants que les vôtres. » - Greer Nelson",
+        "flavor": "« Épargnez-moi vos menaces, monsieur. Mes amis sont bien plus effrayants que les vôtres. » – Greer Nelson",
         "name": "Commissariat",
         "text": "<b>Action d'alter ego</b> : inclinez le Commissariat → retirez 1 menace d'une manigance. Retirez 1 menace supplémentaire pour chaque sbire engagé avec vous.",
         "traits": "Lieu."
@@ -59,7 +59,7 @@
     },
     {
         "code": "56009",
-        "flavor": "« C'est mon instinct. Je suis un chat, alors je chasse. » - Tigra",
+        "flavor": "« C'est mon instinct. Je suis un chat, alors je chasse. » – Tigra",
         "name": "Sens de Félin",
         "text": "<b>Action de héros</b> (<i>contre</i>) : Retirez 3 menaces d'une manigance. Si cet effet retire la dernière menace de cette manigance, sonnez un sbire.",
         "traits": "Super-Pouvoir. Contre."
@@ -85,7 +85,7 @@
     },
     {
         "code": "56016",
-        "flavor": "« ﻿﻿Cela se termine ici ... et maintenant ! » - ﻿﻿Le Chevalier Noir",
+        "flavor": "« ﻿﻿Cela se termine ici ... et maintenant ! » – ﻿﻿Le Chevalier Noir",
         "name": "Coup de Grâce",
         "text": "<b>Action de héros</b> (<i>attaque</i>) : vainquez un sbire non-[[Élite]] ayant une amélioration attachée. Ignorez toute capacité « <b>Une fois vaincu </b>» sur ce sbire.",
         "traits": "Attaque."
@@ -163,7 +163,7 @@
     },
     {
         "code": "56037",
-        "flavor": "« Ne touche pas à mes amis ! » - Hulkling",
+        "flavor": "« Ne touche pas à mes amis ! » – Hulkling",
         "name": "Frappe de Métamorphose",
         "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 5 dégâts à un ennemi. Redressez votre amélioration Métamorphose.",
         "traits": "Attaque. Super-Pouvoir."
@@ -176,14 +176,14 @@
     },
     {
         "code": "56039",
-        "flavor": "« Je suis le métamorphe de service des Young Avengers. » - Hulkling",
+        "flavor": "« Je suis le métamorphe de service des Young Avengers. » – Hulkling",
         "name": "Imitation",
         "text": "<b>Action de héros</b> (<i>contre</i>) : retirez 4 menaces d'une manigance. Si cela retire la dernière menace de cette manigance, vous pouvez passer sous forme d'alter ego.",
         "traits": "Super-Pouvoir. Contre."
     },
     {
         "code": "56040",
-        "flavor": "« Tu l'avais pas vu venir, celle-là, pas vrai ? » - Huikling",
+        "flavor": "« Tu l'avais pas vu venir, celle-là, pas vrai ? » – Huikling",
         "name": "Métamorphe",
         "text": "<b>Action de héros</b> : cherchez dans votre deck ou votre pile de défausse une amélioration Métamorphose et ajoutez-la à votre main. (Mélangez.)",
         "traits": "Super-Pouvoir."
@@ -222,7 +222,7 @@
     },
     {
         "code": "56050",
-        "flavor": "« C'est un jeu qui se joue à deux ! » - Wiccan",
+        "flavor": "« C'est un jeu qui se joue à deux ! » – Wiccan",
         "name": "A Double Tranchant",
         "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand un ennemi attaque, vous gagnez Riposte 1 jusqu'à la fin de la phase.",
         "traits": "Défense."

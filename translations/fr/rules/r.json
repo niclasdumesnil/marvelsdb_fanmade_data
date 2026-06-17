@@ -5,7 +5,7 @@
 		"versions": [
 			{
 				"version": "1.7",
-				"content": "Une attaque avec le mot-clé à distance ignore le mot-clé riposte X.",
+				"content": "<div>Une attaque avec le mot-clé à distance ignore le mot-clé riposte X.</div><div>test</div>",
 				"whats_new": ""
 			}
 		]

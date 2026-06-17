@@ -1,7 +1,7 @@
 [
     {
         "code": "202101a",
-        "flavor": "\"Il doit toujours y avoir un Thor.\"",
+        "flavor": "« Il doit toujours y avoir un Thor. »",
         "name": "Thor",
         "text": "<i>Digne</i> — <b>Action</b> : cherchez l'amélioration Mjolnir dans votre deck ou votre pile de défausse et ajoutez-la à votre main. Mélangez votre deck. (Limite d'une fois par round.)",
         "traits": "Asgard. Avenger."
@@ -14,7 +14,7 @@
     },
     {
         "code": "202102",
-        "flavor": "\"Bon, il faut se rappeler l'objectif prioritaire... Personne ne casse mes oreillettes. Ces trucs coûtent une blinde.\"",
+        "flavor": "« Bon, il faut se rappeler l'objectif prioritaire... Personne ne casse mes oreillettes. Ces trucs coûtent une blinde. »",
         "name": "Roz Solomon",
         "text": "[star]<b> Interruption</b> : quand Roz Solomon contre, inclinez le Congrès des Mondes ou une carte  [[s.h.i.e.l.d.]] que vous contrôlez → elle gagne +2 CTR pour cette utilisation.",
         "traits": "S.H.I.E.L.D. Espion."
@@ -22,33 +22,33 @@
     {
         "code": "202103",
         "name": "Marteau en Balancier",
-        "text": "<b>Action de héros </b>(<i>attaque</i>) : inclinez Mjolnir et dépensez une ressource de n'importe quel type → infligez 4 dégâts à un ennemi.\n<b>Interruption de héros</b><i> (défense)</i>: quand vous êtes censé subir n'importe quelle quantité de dégâts, inclinez Mjolnir → prévenez tous ces dégâts.",
+        "text": "<b>Action de héros </b>(<i>attaque</i>) : inclinez Mjolnir et dépensez une ressource de n'importe quel type → infligez 4 dégâts à un ennemi.\n<b>Interruption de héros</b><i> (défense)</i> : quand vous êtes censé subir n'importe quelle quantité de dégâts, inclinez Mjolnir → prévenez tous ces dégâts.",
         "traits": "Attaque. Défense."
     },
     {
         "code": "202104",
-        "flavor": "JE commande à la foudre et au tonnerre !\" —Thor",
+        "flavor": "« JE commande à la foudre et au tonnerre ! » – Thor",
         "name": "Frappe Foudroyante",
-        "text": "<b>Action de héros</b> <i>(attaque)</i>: infligez 6 dégâts à un ennemi et 1 dégât à chaque ennemi engagé avec vous. Si vous avez uniquement payé avec des ressources [energy], sonnez un ennemi.",
+        "text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 6 dégâts à un ennemi et 1 dégât à chaque ennemi engagé avec vous. Si vous avez uniquement payé avec des ressources [energy], sonnez un ennemi.",
         "traits": "Attaque. Super-Pouvoir."
     },
     {
         "code": "202105",
-        "flavor": "« Vous ne prendrez pas cette ville ! Pas tant que Thor vivra ! » —Thor",
+        "flavor": "« Vous ne prendrez pas cette ville ! Pas tant que Thor vivra ! » – Thor",
         "name": "Se relever Prestement",
         "text": "<b>Action de héros</b> : redressez Thor et Mjolnir. Si vous avez payé cette carte uniquement avec des ressources [energy], donnez à Thor une carte d'état tenace.",
         "traits": "Compétence."
     },
     {
         "code": "202106",
-        "flavor": "« S'agit-il du Congrès des Mondes, ou d'une confédération de couards ? » —Le sénateur d'Alfheim",
+        "flavor": "« S'agit-il du Congrès des Mondes, ou d'une confédération de couards ? » – Le sénateur d'Alfheim",
         "name": "Le Congrès des Mondes",
         "text": "<b>Action d'alter ego</b> : inclinez le Congrès des Mondes et dépensez 1 ressource de n'importe quel type → retirez 2 menaces de la manigance principale ou 3 menaces d'une manigance annexe.",
         "traits": "Asgard. Lieu."
     },
     {
         "code": "202107",
-        "flavor": "\"laissez-nous nous inquiétez des autres patients\" -infirmière",
+        "flavor": "« laissez-nous nous inquiétez des autres patients » – Infirmière",
         "name": "Clinique Médicale",
         "text": "Jane Foster gagne +2 REC.\n<b>Action d'alter ego</b> : inclinez la Clinique Médicale et dépensez 1 ressource de n'importe quel type → soignez 3 dégâts d'une identité.",
         "traits": "Lieu."
@@ -56,19 +56,19 @@
     {
         "code": "202108",
         "name": "Bassin de Divination",
-        "text": "<b>Action de héros</b> : inclinez le Bassin de Divination → regardez la carte du dessus d'un deck. Vous pouvez défaussez cette carte. Si une traîtrise a été regardé ainsi, retirez 1 menace d'une manigance. Si un évènement a été regardé du deck d'un joueur ainsi, ce joueur pioche 1 carte.",
+        "text": "<b>Action de héros</b> :  inclinez le Bassin de Divination → regardez la carte du dessus d'un deck. Vous pouvez défaussez cette carte. Si une traîtrise a été regardé ainsi, retirez 1 menace d'une manigance. Si un évènement a été regardé du deck d'un joueur ainsi, ce joueur pioche 1 carte.",
         "traits": "Asgard. Lieu."
     },
     {
         "code": "202109",
-        "flavor": "« Retirez-vous, ou vous connaîtrez vous aussi le courroux de la déesse du tonnerre ! » —Thor",
+        "flavor": "« Retirez-vous, ou vous connaîtrez vous aussi le courroux de la déesse du tonnerre ! » –Thor",
         "name": "Déesse du Tonnerre",
         "text": "<b>Ressource de héros</b> : inclinez Déesse du Tonnerre → générez 1 ressource [energy] resource. Générez 1 ressource [energy] supplémentaire pour une carte du set de Thor.",
         "traits": "Asgard. Titre."
     },
     {
         "code": "202110",
-        "flavor": "« Vous cherchiez l'affrontement en venant ici. L'affrontement, vous l'avez trouvé ! » —Thor",
+        "flavor": "« Vous cherchiez l'affrontement en venant ici. L'affrontement, vous l'avez trouvé ! » – Thor",
         "name": "Mighty",
         "text": "You gagnez +2 points de vie.\nThor gagne +1 DEF et riposte 1.",
         "traits": "Condition. Super-Pouvoir."
@@ -84,5 +84,12 @@
         "name": "Inflexible",
         "text": "<b>Réponse de héros</b> <i>(contre)</i> : après avoir été attaqué sans subir de dégâts, inclinez Inflexible → retirez 2 menaces d'une manigance. Vous pouvez dépenser 1 ressource de n'importe quel type pour redresser votre héros.",
         "traits": "Condition."
+    },
+    {
+        "code": "202119",
+        "flavor": "« Elle est digne. C'est tout ce que je sais »",
+        "name": "Odinson",
+        "text": "Multivers.\n[star] <b>Réponse</b> : après que Odinson a attaqué, choisissez un joueur. infligez 1 dégât à chaque sbire engagé avec ce joueur.",
+        "traits": "Asgard. Avenger."
     }
 ]

@@ -1,1 +1,66 @@
-[]
+[
+    {
+        "code": "56023",
+        "name": "Trop Impliquée",
+        "text": "<b><i>Donnez cette carte au joueur de Greer Nelson.</i></b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• ﻿Inclinez Greer Nelson → retirez Trop Impliquée de la partie.\n﻿﻿• Chaque sbire engagé avec vous s'active contre vous. Si aucun sbire ne s'active par cet effet, Trop Impliquée gagne Renfort. Défaussez cette obligation."
+    },
+    {
+        "code": "56024",
+        "name": "The Hood",
+        "text": "Solide. Vilenie.\n[star] <b>Réponse forcée</b> : après que The Hood vous a attaqué, placez 1 menace sur la manigance annexe Le Monde de la Pègre.\n<i>(Sbire Némésis de Tigra)</i>",
+        "traits": "Criminel."
+    },
+    {
+        "code": "56025",
+        "flavor": "The Hood a fédéré les divers éléments du monde de la pègre pour en faire un gang uni.",
+        "name": "Le Monde de la Pègre",
+        "text": "Aucun sbire Criminel ne peut subir de dégâts."
+    },
+    {
+        "code": "56026",
+        "name": "La Cape de the Hood",
+        "text": "Attachez cette carte à The Hood. Sinon, attachez-la au méchant.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre l'ennemi attaché, dépensez les ressources suivantes : [energy][physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : attachez cette carte à The Hood. Sinon, attachez cette carte au méchant.",
+        "traits": "Armure."
+    },
+    {
+        "code": "56027",
+        "name": "Madame Masque",
+        "text": "<b>Une fois révélée</b> : placez 2 menaces sur la manigance annexe Le Monde de la Pègre. Sinon, trouvez Le Monde de la Pègre et révélez-la.\n<hr>[star] <b>Boost</b> : placez 2 menaces sur la manigance annexe Le Monde de la Pègre. Sinon, cette carte gagne [boost][boost].",
+        "traits": "Criminel."
+    },
+    {
+        "code": "56028",
+        "flavor": "« Vilain chat ! »",
+        "name": "Jigsaw",
+        "text": "Coup Rapide.\n[star] <b>Réponse forcée</b> : après que Jigsaw a attaqué et blessé un personnage, placez 2 menaces sur la manigance annexe Le Monde de la Pègre.",
+        "traits": "Criminel."
+    },
+    {
+        "code": "56054",
+        "name": "Ascendance Problématique",
+        "text": "<b><i>Donnez cette carte au joueur de Teddy Altman.</i></b>\nVous avez le droit de passer sous forme d'alter ego. Choisissez :\n• ﻿﻿Inclinez Teddy Altman → retirez Ascendance Problématique de la partie.\n• ﻿﻿Défaussez chaque amélioration [[Métamorphose]] que vous contrôlez. Défaussez cette obligation."
+    },
+    {
+        "code": "56055",
+        "name": "Super Skrull",
+        "text": "[star] <b>Interruption forcée</b> : quand Super Skrull vous attaque, défaussez la carte du dessus de votre deck. Si la ressource imprimée de cette carte a :\n[energy] - Super Skrull gagne +2 ATQ pour cette attaque.\n[mental] - défaussez 1 carte de votre main.\n[physical] - donnez une carte d'état Tenace à Super Skrull.\n[wild] - défaussez une amélioration que vous contrôlez.",
+        "traits": "Elite. Skrull."
+    },
+    {
+        "code": "56056",
+        "flavor": "La mission de Super Skrull est d'enlever Hulkling depuis que sa véritable ascendance a été révélée.",
+        "name": "Problème de Skrull",
+        "text": "<b>Réponse forcée</b> : après que n'importe quel nombre de cartes a été défaussé du dessus du deck d'un joueur, placez ces cartes face cachée sous cette manigance."
+    },
+    {
+        "code": "56057",
+        "name": "Pouvoirs Fantastiques",
+        "text": "Le sbire attaché gagne +3 points de vie et Riposte 1.\n<b>Une fois révélée</b> : trouvez Super Skrull. Mettez-le en jeu engagé avec vous et attachez-lui Pouvoirs Fantastiques. Si vous êtes sous forme de héros, Super Skrull vous attaque.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "56058",
+        "name": "Tu Pars Avec Moi !",
+        "text": "<b>Une fois révélée (alter ego)</b> : défaussez les 3 cartes du dessus de votre deck. Placez 1 menace sur la manigance principale pour chaque icône de ressource différente sur les cartes défaussées.\n<b>Une fois révélée (héros)</b> : défaussez les 3 cartes du dessus de votre deck. Subissez 1 dégât pour chaque icône de ressource différente sur les cartes défaussées ([energy], [mental], [physical] ou [wild])."
+    }
+]
