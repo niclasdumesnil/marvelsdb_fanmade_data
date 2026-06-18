@@ -374,7 +374,7 @@
         "traits": "Tactic. Thwart.",
         "type_code": "event"
     },
-     {
+    {
         "base_threat": 4,
         "code": "61020",
         "cost": 0,
@@ -393,7 +393,7 @@
         "threat": null,
         "type_code": "player_side_scheme"
     },
-     {
+    {
         "code": "61023",
         "cost": 2,
         "deck_limit": 3,
@@ -410,7 +410,7 @@
         "traits": "Item.",
         "type_code": "upgrade"
     },
-      {
+    {
         "code": "61024",
         "cost": 1,
         "deck_limit": 3,
@@ -461,7 +461,7 @@
         "traits": "THWART.",
         "type_code": "event"
     },
-       {
+    {
         "base_threat": 3,
         "code": "61029",
         "duplicate_of_name": "",
@@ -475,5 +475,4 @@
         "text": "Hinder 1[per_hero].\nPrerequisite ([[DEFENDER]]). Victory 0.\n<b>When Defeated</b>: Each player may search their deck and discard pile for a Team-Up card and add it to their hand. Until the end of the phase, reduce the cost to play each Team-Up card by 1.",
         "type_code": "player_side_scheme"
     }
-    
 ]

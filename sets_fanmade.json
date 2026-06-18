@@ -1031,86 +1031,6 @@
     },
     {
         "card_set_type_code": "villain",
-        "code": "the_gardener_by_justatuna",
-        "name": "The Gardener"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "groot_by_justatuna",
-        "name": "Groot"
-    },
-    {
-        "card_set_type_code": "villain",
-        "code": "warbringer_by_justatuna",
-        "name": "Warbringer"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "milano_mods_by_justatuna",
-        "name": "Milano Mods"
-    },
-    {
-        "card_set_type_code": "villain",
-        "code": "escape_the_church_by_justatuna",
-        "name": "Escape the Church"
-    },
-    {
-        "card_set_type_code": "villain",
-        "code": "high_evolutionary_by_justatuna",
-        "name": "High Evolutionary"
-    },
-    {
-        "card_set_type_code": "villain",
-        "code": "the_magus_by_justatuna",
-        "name": "The Magus"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "ship_command_ii_by_justatuna",
-        "name": "Ship Command II"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "growing_pain_by_justatuna",
-        "name": "Growing Pain"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "mercenary_fleet_by_justatuna",
-        "name": "Mercenary Fleet"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "fetters_of_faith_by_justatuna",
-        "name": "Fetters of Faith"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "order_in_entropy_by_justatuna",
-        "name": "Order in Entropy"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "cosmic_sorcery_by_justatuna",
-        "name": "Cosmic Sorcery"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "new_men_by_justatuna",
-        "name": "New Men"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "powers_cosmic_by_justatuna",
-        "name": "Powers Cosmic"
-    },
-    {
-        "card_set_type_code": "modular",
-        "code": "whispers_of_paranoia_by_justatuna",
-        "name": "Whispers of Paranoia"
-    },
-    {
-        "card_set_type_code": "villain",
         "code": "mister_negative_by_andyn",
         "name": "Mister Negative"
     },
@@ -1141,17 +1061,6 @@
         "card_set_type_code": "hero",
         "code": "firestar_by_bluehg",
         "name": "Firestar by blueHG"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "nova_prime_by_justatuna",
-        "name": "Nova Prime"
-    },
-    {
-        "card_set_type_code": "nemesis",
-        "code": "nova_prime_by_justatuna_nemesis",
-        "name": "Nova Prime Nemesis",
-        "parent_code": "nova_prime_by_justatuna"
     },
     {
         "card_set_type_code": "nemesis",
@@ -1745,5 +1654,100 @@
         "card_set_type_code": "hero",
         "code": "luke_cage_by_ffg",
         "name": "Luke Cage"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "the_gardener_by_justatuna",
+        "name": "The Gardener"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "groot_by_justatuna",
+        "name": "Groot"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "warbringer_by_justatuna",
+        "name": "Warbringer"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "milano_mods_by_justatuna",
+        "name": "Milano Mods"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "escape_the_church_by_justatuna",
+        "name": "Escape the Church"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "high_evolutionary_by_justatuna",
+        "name": "High Evolutionary"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "the_magus_by_justatuna",
+        "name": "The Magus"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "ship_command_ii_by_justatuna",
+        "name": "Ship Command II"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "growing_pain_by_justatuna",
+        "name": "Growing Pain"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "mercenary_fleet_by_justatuna",
+        "name": "Mercenary Fleet"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "fetters_of_faith_by_justatuna",
+        "name": "Fetters of Faith"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "order_in_entropy_by_justatuna",
+        "name": "Order in Entropy"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "cosmic_sorcery_by_justatuna",
+        "name": "Cosmic Sorcery"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "new_men_by_justatuna",
+        "name": "New Men"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "powers_cosmic_by_justatuna",
+        "name": "Powers Cosmic"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "whispers_of_paranoia_by_justatuna",
+        "name": "Whispers of Paranoia"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "nova_prime_by_justatuna",
+        "name": "Nova Prime"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "nova_prime_by_justatuna_nemesis",
+        "name": "Nova Prime Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "guardians_of_the_flarking_galaxy_by_justatuna",
+        "name": "Guardians of The Flarking Galaxy"
     }
 ]
