@@ -3,22 +3,22 @@
         "code": "60301",
         "flavor": "« Inclinez vous devant le divin Gorgon. »",
         "name": "Gorgon",
-        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez la carte du dessus du deck Rencontre carte et mettez la en jeu s'il s'agit d'un sbire [[hand]]. (limite d'une fois par phase par joueur.)",
-        "traits": "Hand."
+        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez la carte du dessus du deck Rencontre carte et mettez la en jeu s'il s'agit d'un sbire [[Main]]. (limite d'une fois par phase par joueur.)",
+        "traits": "Main."
     },
     {
         "code": "60302",
         "flavor": "« Inclinez vous devant le divin Gorgon. »",
         "name": "Gorgon",
-        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez les 2 cartes du dessus du deck Rencontre et mettez en jeu chaque sbire [[hand]] ainsi défaussé. (limite d'une fois par phase par joueur.)",
-        "traits": "Hand."
+        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez les 2 cartes du dessus du deck Rencontre et mettez en jeu chaque sbire [[Main]] ainsi défaussé. (limite d'une fois par phase par joueur.)",
+        "traits": "Main."
     },
     {
         "code": "60303",
         "flavor": "« Inclinez vous devant le divin Gorgon. »",
         "name": "Gorgon",
-        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez les 3 cartes du dessus du deck Rencontre et mettez en jeu chaque sbire [[hand]] ainsi défaussé. (limite d'une fois par phase par joueur.)",
-        "traits": "Hand."
+        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez les 3 cartes du dessus du deck Rencontre et mettez en jeu chaque sbire [[Main]] ainsi défaussé. (limite d'une fois par phase par joueur.)",
+        "traits": "Main."
     },
     {
         "code": "60304a",
@@ -30,7 +30,7 @@
         "code": "60304b",
         "flavor": "Il semble impossible de contenir toutes les émeutes. La Main est partout.",
         "name": "Madripoor en Flamme",
-        "text": "<b>Réponse forcée</b> : après qu'un sbire [[hand]] a été vaincu, placez 1 menace sur cette manigance."
+        "text": "<b>Réponse forcée</b> : après qu'un sbire [[Main]] a été vaincu, placez 1 menace sur cette manigance."
     },
     {
         "code": "60305a",
@@ -59,13 +59,13 @@
         "code": "60308",
         "name": "Soldat de la Main",
         "text": "<b>Réponse forcée</b> : après que le Soldat de la Main vous a engagé, subissez 1 dégât indirect.\n<hr>[star] <b>Boost</b> : attribuez vous cette carte en carte rencontre face cachée.",
-        "traits": "Hand."
+        "traits": "Main."
     },
     {
         "code": "60313",
-        "name": "Dragon de la Main",
-        "text": "Garde.\n[star] <b>Réponse forcée</b> : après que Le Dragon Monté vous a attaqué, défaussez 1 carte du deck Rencontre. Si cette carte est un sbire [[hand]], mettez-le en jeu engagé avec vous.",
-        "traits": "Dragon. élite. Hand."
+        "name": "Dragon Monté",
+        "text": "Garde.\n[star] <b>Réponse forcée</b> : après que Le Dragon Monté vous a attaqué, défaussez 1 carte du deck Rencontre. Si cette carte est un sbire [[Main]], mettez-le en jeu engagé avec vous.",
+        "traits": "Dragon. élite. Main."
     },
     {
         "code": "60316",
@@ -77,13 +77,13 @@
         "code": "60317",
         "flavor": "Les Soldats de la Main sont partout.",
         "name": "Innombrables",
-        "text": "Entrave 2[per_hero].\n<b>Une fois révélée</b> : le premier joueur cherche un sbire [[hand]] dans le deck Rencontre ou la pile de défausse Rencontre et le met en jeu, engagé avec lui. Ensuite, mélangez le deck Rencontre."
+        "text": "Entrave 2[per_hero].\n<b>Une fois révélée</b> : le premier joueur cherche un sbire [[Main]] dans le deck Rencontre ou la pile de défausse Rencontre et le met en jeu, engagé avec lui. Ensuite, mélangez le deck Rencontre."
     },
     {
         "code": "60319",
         "flavor": "Le Cercle est le quartier général du S.P.E.A.R.",
         "name": "Attaque du S.P.E.A.R.",
-        "text": "Chaque sbire hand gagne +1 ATQ.\n<hr>[star] <b>Boost</b> : mettez Attaque du S.P.E.A.R. en jeu."
+        "text": "Chaque sbire [[Main]] gagne +1 ATQ.\n<hr>[star] <b>Boost</b> : mettez Attaque du S.P.E.A.R. en jeu."
     },
     {
         "code": "60320",
@@ -97,7 +97,7 @@
     },
     {
         "code": "60324",
-        "name": "La Main est Innombrable.",
-        "text": "<b>Une fois révélée</b> : défaussez 3 cartes du dessus du deck Rencontre. Mettez en jeu, engagé avec vous, chaque sbire [[hand]] ainsi défaussé."
+        "name": "Les Renforts de la Main",
+        "text": "<b>Une fois révélée</b> : défaussez 3 cartes du dessus du deck Rencontre. Mettez en jeu, engagé avec vous, chaque sbire [[Main]] ainsi défaussé."
     }
 ]
