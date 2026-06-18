@@ -62,5 +62,77 @@
         "code": "56058",
         "name": "Tu Pars Avec Moi !",
         "text": "<b>Une fois révélée (alter ego)</b> : défaussez les 3 cartes du dessus de votre deck. Placez 1 menace sur la manigance principale pour chaque icône de ressource différente sur les cartes défaussées.\n<b>Une fois révélée (héros)</b> : défaussez les 3 cartes du dessus de votre deck. Subissez 1 dégât pour chaque icône de ressource différente sur les cartes défaussées ([energy], [mental], [physical] ou [wild])."
+    },
+    {
+        "code": "56059",
+        "name": "Iron Man",
+        "text": "[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Mise en place</b> : l'équipe ennemie cherche un attachement Iron Man dans le deck Rencontre et votre équipe le révèle.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56060",
+        "name": "Iron Man",
+        "text": "Solide.\n[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Iron Man ne peut pas subir de dégâts pendant cette phase.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56061",
+        "text": "[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Mise en place</b> : l'équipe ennemie cherche un attachement Iron Man dans le deck Rencontre et votre équipe le révèle."
+    },
+    {
+        "code": "56062",
+        "name": "Iron Man",
+        "text": "Solide.\n[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Iron Man ne peut pas subir de dégâts pendant cette phase.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56063a",
+        "name": "Loi d'Enregistrement des Super-Héros",
+        "text": "<b>Contenu</b> : le leader choisi l et Il (IIIl et IV en mode Expert). Le set du leader choisi, le set standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
+    },
+    {
+        "code": "56063b",
+        "flavor": "« La société ne tolèrera plus que des super-héros agissent dans le mépris de la loi. » – Miss Hulk",
+        "name": "Couper les Renforts",
+        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\n<b>Interruption forcée</b> : quand un joueur révèle une traîtrise, placez 1 menace sur cette manigance principale. (Limite d'une fois par phase et par joueur.)"
+    },
+    {
+        "code": "56064a",
+        "flavor": "Iron Man et ses Avengers ont pour ordre d'appréhender tout individu surhumain qui refuse de s'enregistrer auprès du S.H.I.E.L.D.. Cela inclut d'anciens coéquipiers comme Captain America et Spider-Woman.",
+        "name": "Tactiques Pro-Enregistrement"
+    },
+    {
+        "code": "56064b",
+        "text": "[star] Réduisez de 1 le seuil de menace de cette manigance pour chaque carte face cachée placée dessous.\n<b>Réponse forcée</b> : après qu'un allié a été vaincu par une attaque ennemie, placez cet allié face cachée sous cette manigance.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "56065",
+        "name": "Gantelets énergétiques",
+        "text": "Attachez cette carte à Iron Man.\n[star] Les attaques d'Iron Man gagnent À Distance.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez les ressources suivantes : [energy][physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Armure. Tech."
+    },
+    {
+        "code": "56066",
+        "name": "Bottes-Fusée",
+        "text": "Attachez cette carte à Iron Man.\nIron Man gagne le trait Aérien.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez les ressources suivantes [energy][physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Armure. Tech."
+    },
+    {
+        "code": "56067",
+        "name": "Casque Mark V",
+        "text": "Attachez cette carte à Iron Man et donnez-lui une carte d'état Tenace.\nIron Man gagne Robuste.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez les ressources suivantes : [mental][physical]→ défaussez cette carte.",
+        "traits": "Armure. Tech."
+    },
+    {
+        "code": "56068",
+        "name": "Réacteur Arc",
+        "text": "Attachez cette carte à Iron Man et donnez-lui une carte d'état Tenace.\nIron Man gagne Riposte 1.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez es ressources suivantes : [mental][physical]→ défaussez cette carte.",
+        "traits": "Armure. Tech."
+    },
+    {
+        "code": "56069",
+        "name": "Armure Mark V",
+        "text": "Attachez cette carte à Iron Man.\n<b>Interruption forcée</b> : quand Iron Man est censé subir n'importe quelle quantité de dégâts, placez-les ici à la place. Ensuite, s'il y a au moins 5 dégâts sur cette carte, défaussez-la.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Armure. Tech."
     }
 ]
