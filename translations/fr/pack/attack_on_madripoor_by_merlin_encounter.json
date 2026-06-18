@@ -10,14 +10,14 @@
         "code": "60302",
         "flavor": "« Inclinez vous devant le divin Gorgon. »",
         "name": "Gorgon",
-        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez les 2 cartes du dessus du deck Rencontre et mettez en jeu les sbires [[hand]] ainsi défaussés. (limite d'une fois par phase par joueur.)",
+        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez les 2 cartes du dessus du deck Rencontre et mettez en jeu chaque sbire [[hand]] ainsi défaussé. (limite d'une fois par phase par joueur.)",
         "traits": "Hand."
     },
     {
         "code": "60303",
         "flavor": "« Inclinez vous devant le divin Gorgon. »",
         "name": "Gorgon",
-        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez les 3 cartes du dessus du deck Rencontre et mettez en jeu les sbires [[hand]] ainsi défaussés. (limite d'une fois par phase par joueur.)",
+        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez les 3 cartes du dessus du deck Rencontre et mettez en jeu chaque sbire [[hand]] ainsi défaussé. (limite d'une fois par phase par joueur.)",
         "traits": "Hand."
     },
     {
