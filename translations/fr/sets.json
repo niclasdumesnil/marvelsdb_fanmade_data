@@ -1264,6 +1264,18 @@
 		"name": "Deck Don"
 	},
 	{
+		"code": "madripoor's_dragon_by_merlin",
+		"name": "Dragon de Madripoor"
+	},
+	{
+		"code": "mystique_by_merlin_nemesis",
+		"name": "Némésis de Mystique"
+	},
+	{
+		"code": "mystique_by_merlin",
+		"name": "Mystique"
+	},
+	{
 		"code": "agent_of_shield_by_merlin",
 		"name": "Agent du S.H.I.E.L.D."
 	},
@@ -1280,6 +1292,10 @@
 		"name": "Pouvoir Totémique"
 	},
 	{
+		"code": "ajak_by_bluehg",
+		"name": "Ajak"
+	},
+	{
 		"code": "druig_by_bluehg",
 		"name": "Druig"
 	},
@@ -1294,10 +1310,6 @@
 	{
 		"code": "makkari_by_bluehg",
 		"name": "Makkari"
-	},
-	{
-		"code": "ajak_by_bluehg",
-		"name": "Ajak"
 	},
 	{
 		"code": "phastos_by_bluehg",
