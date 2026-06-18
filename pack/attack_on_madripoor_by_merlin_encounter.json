@@ -15,6 +15,7 @@
         "scheme": 1,
         "set_code": "madripoor's_dragon_by_merlin",
         "set_position": 1,
+        "stage": "I",
         "text": "<b>Forced Response</b>: After Gorgon takes damage from an attack, discard 1 card from the encounter deck. If a [[hand]] minion is discarded this way, put that minion into play engaged with you. (Limit once per phase per player.)",
         "traits": "Hand.",
         "type_code": "villain"
@@ -35,6 +36,7 @@
         "scheme": 2,
         "set_code": "madripoor's_dragon_by_merlin",
         "set_position": 2,
+        "stage": "II",
         "text": "<b>Forced Response</b>: After Gorgon takes damage from an attack, discard 2 cards from the encounter deck. Each time a [[hand ]]minion is discarded this way, put that minion into play engaged with you. (limit once per phase per player.)",
         "traits": "Hand.",
         "type_code": "villain"
@@ -55,6 +57,7 @@
         "scheme": 2,
         "set_code": "madripoor's_dragon_by_merlin",
         "set_position": 3,
+        "stage": "III",
         "text": "<b>Forced Response</b>: After Gorgon takes damage from an attack, discard 3 cards from the encounter deck. Each time a [[hand]] minion is discarded this way, put that minion into play engaged with you. (limite once per phase per player.)",
         "traits": "Hand.",
         "type_code": "villain"
@@ -72,6 +75,7 @@
         "quantity": 1,
         "set_code": "madripoor's_dragon_by_merlin",
         "set_position": 4,
+        "stage": "1A",
         "text": "<b>Contents</b>: <b> </b>Gorgon (I) and Gorgon (II). (Gorgon (II) and Gorgon (III) instead for expert mode.) Madripoor's Dragon and Standard encounter sets. One modular encounter set <i>(recommended: Streets of Mayhem).</i><b>Setup</b>: Put a Hand Soldier minion into play engaged with each player. Shuffle the encounter deck. Advance to stage 1B.",
         "type_code": "main_scheme"
     },
@@ -90,6 +94,7 @@
         "quantity": 1,
         "set_code": "madripoor's_dragon_by_merlin",
         "set_position": 4,
+        "stage": "1B",
         "text": "<b>Forced Response</b>: After a [[hand]] minion is defeated, place 1 threat on Madripoor is Burning\n",
         "threat": 7,
         "type_code": "main_scheme"
@@ -107,6 +112,7 @@
         "quantity": 1,
         "set_code": "madripoor's_dragon_by_merlin",
         "set_position": 5,
+        "stage": "2A",
         "text": "<b>When Revealed</b>: Advance to stage 2B.",
         "type_code": "main_scheme"
     },
@@ -124,6 +130,7 @@
         "quantity": 1,
         "set_code": "madripoor's_dragon_by_merlin",
         "set_position": 5,
+        "stage": "2B",
         "text": "Each [[hand]] minion gains quickstrike.\n<b>Forced Interrupt</b>: When the villain phase ends, the first player must choose: Deal 1 indirect damage to the first player or place 1 threat on the main scheme.\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 10,
         "type_code": "main_scheme"
