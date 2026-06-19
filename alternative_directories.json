@@ -1,13 +1,13 @@
 [
-  { "code": "en", "name": "English", "dir": "EN", "lang": "en", "type": "language" },
-  { "code": "fr", "name": "French", "dir": "FR", "lang": "fr", "type": "language" },
-  { "code": "it", "name": "Italian", "dir": "IT", "lang": "it", "type": "language" },
-  { "code": "promo-en", "name": "Promo (EN)", "dir": "promo-EN", "lang": "en", "type": "variant", "label_en": "PROMO", "label_fr": "PROMO" },
-  { "code": "promo-fr", "name": "Promo (FR)", "dir": "promo-FR", "lang": "fr", "type": "variant", "label_en": "PROMO", "label_fr": "PROMO" },
-  { "code": "errata-en", "name": "Errata (EN)", "dir": "errata-EN", "lang": "en", "type": "variant", "label_en": "ERRATA", "label_fr": "ERRATA" },
-  { "code": "errata-fr", "name": "Errata (FR)", "dir": "errata-FR", "lang": "fr", "type": "variant", "label_en": "ERRATA", "label_fr": "ERRATA" },
-  { "code": "alt-ffg-en", "name": "FFG-Rework (EN)", "dir": "alt-FFG-EN", "lang": "en", "type": "variant", "label_en": "FFG-Rework", "label_fr": "FFG-Rework" },
-  { "code": "alt-ffg-fr", "name": "FFG-Rework (FR)", "dir": "alt-FFG-FR", "lang": "fr", "type": "variant", "label_en": "FFG-Rework", "label_fr": "FFG-Rework" },
-  { "code": "custom-art-en", "name": "Custom Art (EN)", "dir": "custom-art-EN", "lang": "en", "type": "variant", "label_en": "Custom Art", "label_fr": "Illustration alternative" },
-  { "code": "custom-art-fr", "name": "Custom Art (FR)", "dir": "custom-art-FR", "lang": "fr", "type": "variant", "label_en": "Custom Art", "label_fr": "Illustration alternative" }
+  { "code": "en", "name": "english", "dir": "EN", "lang": "en", "type": "language" },
+  { "code": "fr", "name": "french", "dir": "FR", "lang": "fr", "type": "language" },
+  { "code": "it", "name": "italian", "dir": "IT", "lang": "it", "type": "language" },
+  { "code": "promo-en", "name": "promo (en)", "dir": "promo-EN", "lang": "en", "type": "variant", "label_en": "promo", "label_fr": "promo" },
+  { "code": "promo-fr", "name": "promo (fr)", "dir": "promo-FR", "lang": "fr", "type": "variant", "label_en": "promo", "label_fr": "promo" },
+  { "code": "errata-en", "name": "errata (en)", "dir": "errata-EN", "lang": "en", "type": "variant", "label_en": "errata", "label_fr": "errata" },
+  { "code": "errata-fr", "name": "errata (fr)", "dir": "errata-FR", "lang": "fr", "type": "variant", "label_en": "errata", "label_fr": "errata" },
+  { "code": "alt-ffg-en", "name": "ffg-rework (en)", "dir": "alt-FFG-EN", "lang": "en", "type": "variant", "label_en": "ffg-rework", "label_fr": "ffg-rework" },
+  { "code": "alt-ffg-fr", "name": "ffg-rework (fr)", "dir": "alt-FFG-FR", "lang": "fr", "type": "variant", "label_en": "ffg-rework", "label_fr": "ffg-rework" },
+  { "code": "custom-art-en", "name": "custom art (en)", "dir": "custom-art-EN", "lang": "en", "type": "variant", "label_en": "custom art", "label_fr": "illustration alternative" },
+  { "code": "custom-art-fr", "name": "custom art (fr)", "dir": "custom-art-FR", "lang": "fr", "type": "variant", "label_en": "custom art", "label_fr": "illustration alternative" }
 ]
