@@ -44,10 +44,9 @@
         "pack_code": "Captain_Britain_by_Hitch",
         "position": 14,
         "quantity": 1,
-        "scheme_crisis": 1,
         "set_code": "Captain_Britain_by_Hitch_nemesis",
         "set_position": 2,
-        "text": "The villain cannot take damage.\n<b>Forced Interrupt</b>: When the villain would attack, put 1 threat on the main scheme instead.\n[crisis]",
+        "text": "The villain cannot take damage.\n<b>Forced Interrupt</b>: When the villain would attack, put 1 threat on the main scheme instead.",
         "type_code": "side_scheme"
     },
     {
