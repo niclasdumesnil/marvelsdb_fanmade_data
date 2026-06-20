@@ -1,69 +1,74 @@
 [
-	{
-		"code": "20301a",
-		"flavor": "<i>“Knowledge is power. And you have much to learn.”</i>",
-		"name": "Mantis",
-		"text": "<i>Empathetic Advantage </i>— <b>Resource</b>: Discard a confused status card from an enemy or character you control → generate a [mental] resource. (Generate [wild][mental] resources instead if you discarded a confused status card from an enemy. Limit once per round.)",
-		"traits": "Guardian. Psionic."
-	},
-	{
-		"code": "20301b",
-		"name": "Mantis",
-		"text": "[star]<i> Empathic Leveling </i>— <b>Response</b>: After you use your REC, confuse a character you control.\n<i>“This one lives to illuminate.”</i>",
-		"traits": "Outlaw. Psionic."
-	},
-	{
-		"code": "20302",
-		"name": "Drax",
-		"text": "Drax cannot attack minions.\n[star] While Drax is confused, add his THW to his ATK and his basic attacks gain piercing and ignore the guard keyword.\n<i>“Give me something worthwhile to do.” —Drax</i>",
-		"traits": "Guardian."
-	},
-	{
-		"code": "20303",
-		"name": "Precognition",
-		"text": "<b>Hero Action </b><i>(thwart)</i>: Remove 2 threat from a scheme. Search the top 3 cards of your deck for a card and add it to your hand. If it is a Mantis card, remove 1 threat from a scheme.\n<i>“A welcome and a warning in a single breath.” —Mantis</i>",
-		"traits": "Psionic. Thwart."
-	},
-	{
-		"code": "20305",
-		"name": "Pressure Point Strike",
-		"text": "<b>Hero Action </b><i>(attack)</i>: Deal 4 damage to an enemy. If that enemy is confused, you may either deal 1 additional damage to that enemy, or discard a confused status card from that enemy to draw 1 card.",
-		"traits": "Attack."
-	},
-	{
-		"code": "20307",
-		"name": "Psychic Feat",
-		"text": "<b>Hero Action</b>: Confuse a character you control. Then, confuse an enemy.\n<i>“No! Get out of my head!”\n“This one is the Celestial Madonna. I go where I wish.”</i>",
-		"traits": "Psionic."
-	},
-	{
-		"code": "20310",
-		"flavor": "<i>“She can do that? And she tells us now?” —Bug</i>",
-		"name": "Biopathy",
-		"text": "<b>Response</b>: After you spend this card, heal 1 damage from a friendly character. You may confuse a character you control to draw 1 card."
-	},
-	{
-		"code": "20312",
-		"name": "Meditation Atrium",
-		"text": "<b>Alter-Ego Action</b>: Exhaust Meditation Atrium → search the top 3 cards of your deck for a card and add it to your hand. If it is a Mantis card, heal 1 damage from a friendly character. Shuffle your deck.",
-		"traits": "Location."
-	},
-	{
-		"code": "20313",
-		"name": "Fortified Mind",
-		"text": "Attach to an ally. Limit 1 per ally.\n<b>Interrupt</b>: When attached ally attacks or thwarts, discard Fortified Mind → that ally gets +1 THW and +1 ATK and takes no consequential damage for this activation. Then, confuse that ally.",
-		"traits": "Condition. Psionic."
-	},
-	{
-		"code": "20315",
-		"name": "Psionic Mindlock",
-		"text": "Attach to an enemy. If attached enemy has stalwart, it loses stalwart and gains steady.\n<b>Hero Response</b>: After attached enemy activates, discard Psionic Mindlock → deal 3 damage to that enemy and confuse it.",
-		"traits": "Condition. Psionic."
-	},
-	{
-		"code": "20316",
-		"name": "The Celestial Madonna",
-		"text": "<b>Hero Resource</b>: Exhaust The Celestial Madonna → Use Mantis' <i>“Empathetic Advantage”</i> ability. This use does not count against that ability's limit.\n<i>“She's trained since birth by priests from another world to represent all of humanity.” —Thor</i>",
-		"traits": "Title."
-	}
+    {
+        "code": "20301a",
+        "flavor": "« Le savoir est le pouvoir. Et vous avez beaucoup à apprendre. »",
+        "name": "Mantis",
+        "text": "<i>Avantage Empathique</i> — <b>Ressource</b> : défaussez une carte d'état Désorienté d'un ennemi ou d'un personnage que vous contrôlez → générez une ressource [mental]. (Générez les ressources [wild][mental] à la place si vous avez défaussé une carte d'état Désorienté d'un ennemi. Limite d'une fois par round.)",
+        "traits": "Gardien. Psionique."
+    },
+    {
+        "code": "20301b",
+        "flavor": "« Celle-ci vit pour illuminer. »",
+        "name": "Mantis",
+        "text": "[star] <i>Nivellement Empathique</i> — <b>Réponse</b> : après avoir utilisé votre RÉC, désorientez un personnage que vous contrôlez.",
+        "traits": "Hors-la-loi. Psionique."
+    },
+    {
+        "code": "20302",
+        "flavor": "« Donnez-moi quelque chose d'utile à faire. » — Drax",
+        "name": "Drax",
+        "text": "Drax ne peut pas attaquer de sbires.\n[star] Tant que Drax est désorienté, ajoutez son CTR à son ATQ et ses attaques de base gagnent Perçant et ignorent le mot-clé Garde.",
+        "traits": "Gardien."
+    },
+    {
+        "code": "20303",
+        "flavor": "« Un accueil et un avertissement dans un même souffle. » — Mantis",
+        "name": "Précognition",
+        "text": "<b>Action de héros</b> <i>(contre)</i> : retirez 2 menaces d'une manigance. Cherchez une carte parmi les 3 cartes du dessus de votre deck et ajoutez-la à votre main. Si c'est une carte Mantis, retirez 1 menace d'une manigance.",
+        "traits": "Psionique. Contre."
+    },
+    {
+        "code": "20305",
+        "name": "Frappe des Points de Pression",
+        "text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 4 dégâts à un ennemi. Si cet ennemi est désorienté, vous pouvez soit infliger 1 dégât supplémentaire à cet ennemi, soit défausser une carte d'état Désorienté de cet ennemi pour piocher 1 carte.",
+        "traits": "Attaque."
+    },
+    {
+        "code": "20307",
+        "flavor": "« Non ! Sors de ma tête ! »\n« Celle-ci est la Madone Céleste. Je vais où je le souhaite. »",
+        "name": "Prouesse Psychique",
+        "text": "<b>Action de héros</b> : désorientez un personnage que vous contrôlez. Ensuite, désorientez un ennemi.",
+        "traits": "Psionique."
+    },
+    {
+        "code": "20310",
+        "flavor": "« Elle peut faire ça ? Et elle nous le dit seulement maintenant ? » — Bug",
+        "name": "Biopathie",
+        "text": "<b>Réponse</b> : après avoir dépensé cette carte, soignez 1 dégât d'un personnage ami. Vous pouvez désorienter un personnage que vous contrôlez pour piocher 1 carte."
+    },
+    {
+        "code": "20312",
+        "name": "Atrium de Méditation",
+        "text": "<b>Action d'alter ego</b> : inclinez l'Atrium de Méditation → cherchez une carte parmi les 3 cartes du dessus de votre deck et ajoutez-la à votre main. Si c'est une carte Mantis, soignez 1 dégât d'un personnage ami. Mélangez votre deck.",
+        "traits": "Lieu."
+    },
+    {
+        "code": "20313",
+        "name": "Esprit Fortifié",
+        "text": "Attachez cette carte à un allié. 1 max par allié.\n<b>Interruption</b> : quand l'allié attaché attaque ou contre, défaussez l'Esprit Fortifié → cet allié gagne +1 CTR et +1 ATQ et ne subit aucun dégât consécutif pour cette activation. Ensuite, désorientez cet allié.",
+        "traits": "Condition. Psionique."
+    },
+    {
+        "code": "20315",
+        "name": "Verrouillage Mental Psionique",
+        "text": "Attachez cette carte à un ennemi. Si l'ennemi attaché a le mot-clé Solide, il perd Solide et gagne Indéfectible.\n<b>Réponse de héros</b> : après que l'ennemi attaché s'est activé, défaussez le Verrouillage Mental Psionique → infligez 3 dégâts à cet ennemi et désorientez-le.",
+        "traits": "Condition. Psionique."
+    },
+    {
+        "code": "20316",
+        "flavor": "« Elle a été entraînée depuis sa naissance par des prêtres d'un autre monde pour représenter toute l'humanité. » — Thor",
+        "name": "La Madone Céleste",
+        "text": "<b>Ressource de héros</b> : inclinez La Madone Céleste → utilisez la capacité <i>« Avantage Empathique »</i> de Mantis. Cette utilisation ne compte pas dans la limite de cette capacité.",
+        "traits": "Titre."
+    }
 ]
