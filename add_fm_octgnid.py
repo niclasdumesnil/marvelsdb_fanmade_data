@@ -15,6 +15,7 @@ import argparse
 # Ajout de l'argument --packcode pour spécifier le code du pack à traiter
 parser = argparse.ArgumentParser(description="Ajoute les octgn_id aux fichiers d'un pack fanmade Marvel Champions.")
 parser.add_argument('--packcode', type=str, required=True, help="Code du pack à traiter (ex: snowbird_by_hax)")
+parser.add_argument('--pack-dir', type=str, default='./pack', help="Répertoire contenant les fichiers du pack")
 args = parser.parse_args()
 
 # Vérifie la présence de l'argument --packcode
@@ -107,7 +108,7 @@ for sets_filename in ['sets_fanmade.json', 'sets.json']:
 print(f"Chargement de {len(set_type_map)} types de sets")  # TRACE
 
 # Mise à jour des deux fichiers de cartes associés au pack
-update_cards_file(f'./pack/{pack_file}', pack_octgn_id, pack_id, set_type_map)
-update_cards_file(f'./pack/{pack_encounter_file}', pack_octgn_id, pack_id, set_type_map)
+update_cards_file(os.path.join(args.pack_dir, pack_file), pack_octgn_id, pack_id, set_type_map)
+update_cards_file(os.path.join(args.pack_dir, pack_encounter_file), pack_octgn_id, pack_id, set_type_map)
 
 
