@@ -15,14 +15,14 @@
     },
     {
         "code": "20302",
-        "flavor": "« Donnez-moi quelque chose d'utile à faire. » — Drax",
+        "flavor": "« Donnez-moi quelque chose d'utile à faire. » – Drax",
         "name": "Drax",
         "text": "Drax ne peut pas attaquer de sbires.\n[star] Tant que Drax est désorienté, ajoutez son CTR à son ATQ et ses attaques de base gagnent Perçant et ignorent le mot-clé Garde.",
         "traits": "Gardien."
     },
     {
         "code": "20303",
-        "flavor": "« Un accueil et un avertissement dans un même souffle. » — Mantis",
+        "flavor": "« Un accueil et un avertissement dans un même souffle. » – Mantis",
         "name": "Précognition",
         "text": "<b>Action de héros</b> <i>(contre)</i> : retirez 2 menaces d'une manigance. Cherchez une carte parmi les 3 cartes du dessus de votre deck et ajoutez-la à votre main. Si c'est une carte Mantis, retirez 1 menace d'une manigance.",
         "traits": "Psionique. Contre."
@@ -42,7 +42,7 @@
     },
     {
         "code": "20310",
-        "flavor": "« Elle peut faire ça ? Et elle nous le dit seulement maintenant ? » — Bug",
+        "flavor": "« Elle peut faire ça ? Et elle nous le dit seulement maintenant ? » – Bug",
         "name": "Biopathie",
         "text": "<b>Réponse</b> : après avoir dépensé cette carte, soignez 1 dégât d'un personnage ami. Vous pouvez désorienter un personnage que vous contrôlez pour piocher 1 carte."
     },
@@ -60,13 +60,13 @@
     },
     {
         "code": "20315",
-        "name": "Verrouillage Mental Psionique",
-        "text": "Attachez cette carte à un ennemi. Si l'ennemi attaché a le mot-clé Solide, il perd Solide et gagne Indéfectible.\n<b>Réponse de héros</b> : après que l'ennemi attaché s'est activé, défaussez le Verrouillage Mental Psionique → infligez 3 dégâts à cet ennemi et désorientez-le.",
+        "name": "Verrouillage Mental",
+        "text": "Attachez cette carte à un ennemi. Si l'ennemi attaché a le mot-clé Robuste, il perd Robuste et gagne Solide.\n<b>Réponse de héros</b> : après que l'ennemi attaché s'est activé, défaussez le Verrouillage Mental Psionique → infligez 3 dégâts à cet ennemi et désorientez-le.",
         "traits": "Condition. Psionique."
     },
     {
         "code": "20316",
-        "flavor": "« Elle a été entraînée depuis sa naissance par des prêtres d'un autre monde pour représenter toute l'humanité. » — Thor",
+        "flavor": "« Elle a été entraînée depuis sa naissance par des prêtres d'un autre monde pour représenter toute l'humanité. » – Thor",
         "name": "La Madone Céleste",
         "text": "<b>Ressource de héros</b> : inclinez La Madone Céleste → utilisez la capacité <i>« Avantage Empathique »</i> de Mantis. Cette utilisation ne compte pas dans la limite de cette capacité.",
         "traits": "Titre."
