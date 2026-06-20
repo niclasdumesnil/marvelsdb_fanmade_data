@@ -1,0 +1,29 @@
+[
+    {
+        "code": "204212",
+        "name": "Rivalité Fraternelle",
+        "text": "<b><i>Donnez cette carte au joueur de Betsy Braddock.</i></b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n* Inclinez Betsy Braddock → retirez Rivalité Fraternelle de la partie.\n* Défaussez chaque événement de votre main. Si aucune carte n'est défaussée de cette façon, cette carte gagne Renfort. Défaussez cette obligation."
+    },
+    {
+        "code": "204213",
+        "name": "Roi Jamie Braddock",
+        "text": "Vilenie.\n[star] <b>Interruption forcée</b> : quand le Roi Jamie Braddock manigance, si la manigance annexe Réalités Fracturées est en jeu, placez la menace sur celle-ci à la place.\n<b>Une fois révélé</b> : cherchez la manigance annexe Réalités Fracturées dans le deck Rencontre et la pile de défausse et mettez-la en jeu.",
+        "traits": "Avalon. Mutant."
+    },
+    {
+        "code": "204214",
+        "name": "Réalités Fracturées",
+        "text": "Le méchant ne peut pas subir de dégâts.\n<b>Interruption forcée</b> : quand le méchant est censé attaquer, placez 1 menace sur la manigance principale à la place.\n[crisis]"
+    },
+    {
+        "code": "204215",
+        "name": "Téléportation Quantique",
+        "text": "Attachez cette carte au Roi Jamie Braddock. Sinon, attachez-la au méchant. Utilisations (3 jetons Téléportation).\n<b>Interruption forcée</b> : quand l'ennemi attaché est censé subir n'importe quelle quantité de dégâts, retirez 1 jeton Téléportation de cette carte → prévenez tous ces dégâts.",
+        "traits": "Super-pouvoir."
+    },
+    {
+        "code": "204216",
+        "name": "Contrecoup",
+        "text": "<b>Une fois révélée</b> : défaussez les 5 cartes du dessus de votre deck. Pour chaque événement défaussé de cette façon, subissez 1 dégât indirect.\n[star] <b>Boost</b> : pour chaque événement dans votre main, cette carte gagne 1 icône de boost (jusqu'à un maximum de 4)."
+    }
+]
