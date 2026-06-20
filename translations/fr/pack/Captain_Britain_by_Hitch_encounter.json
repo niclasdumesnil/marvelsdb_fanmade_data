@@ -2,7 +2,7 @@
     {
         "code": "204212",
         "name": "Rivalité Fraternelle",
-        "text": "<b><i>Donnez cette carte au joueur de Betsy Braddock.</i></b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n* Inclinez Betsy Braddock → retirez Rivalité Fraternelle de la partie.\n* Défaussez chaque événement de votre main. Si aucune carte n'est défaussée de cette façon, cette carte gagne Renfort. Défaussez cette obligation."
+        "text": "<b><i>Donnez cette carte au joueur de Betsy Braddock.</i></b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• Inclinez Betsy Braddock → retirez Rivalité Fraternelle de la partie.\n• Défaussez chaque événement de votre main. Si aucune carte n'est défaussée de cette façon, cette carte gagne Renfort. Défaussez cette obligation."
     },
     {
         "code": "204213",
@@ -24,6 +24,6 @@
     {
         "code": "204216",
         "name": "Contrecoup",
-        "text": "<b>Une fois révélée</b> : défaussez les 5 cartes du dessus de votre deck. Pour chaque événement défaussé de cette façon, subissez 1 dégât indirect.\n[star] <b>Boost</b> : pour chaque événement dans votre main, cette carte gagne 1 icône de boost (jusqu'à un maximum de 4)."
+        "text": "<b>Une fois révélée</b> : défaussez les 5 cartes du dessus de votre deck. Pour chaque événement défaussé de cette façon, subissez 1 dégât indirect.\n<hr>[star] <b>Boost</b> : pour chaque événement dans votre main, cette carte gagne 1 icône de boost (jusqu'à un maximum de 4)."
     }
 ]
