@@ -304,21 +304,6 @@
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
-    },
-    {
-        "cgdb_id": 2016,
-        "code": "alpha_flight_by_hax",
-        "creator": "Designhacker",
-        "date_release": "2026-02-01",
-        "name": "Alpha Flight",
-        "octgn_id": "68071830-cf71-4497-a47d-19c19f5fb6fc",
-        "pack_type_code": "hero_fanmade",
-        "position": 2016,
-        "size": 132,
-        "status": "beta",
-        "theme": "Marvel",
-        "visibility": "false"
-    },
     {
         "cgdb_id": 2017,
         "code": "manifold_by_bluehg",

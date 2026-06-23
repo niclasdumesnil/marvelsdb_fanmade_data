@@ -1064,53 +1064,6 @@
     },
     {
         "card_set_type_code": "nemesis",
-        "code": "alpha_flight_by_hax_nemesis",
-        "name": "Alpha Flight Nemesis",
-        "parent_code": "alpha_flight_by_hax"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "snowbird_by_hax",
-        "name": "Snowbird"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "shaman_by_designhacker",
-        "name": "Shaman"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "sasquatch_by_designhacker",
-        "name": "Sasquatch"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "puck_by_designhacker",
-        "name": "Puck"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "vindicator_by_designhacker",
-        "name": "Vindicator"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "guardian_by_designhacker",
-        "name": "Guardian"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "aurora_northstar_by_designhacker",
-        "name": "Northstar & Aurora"
-    },
-    {
-        "card_set_type_code": "hero_special",
-        "code": "aurora_northstar_special_by_designhacker",
-        "name": "Aurora/Jeane Beauvier Set-aside",
-        "parent_code": "aurora_northstar_by_designhacker"
-    },
-    {
-        "card_set_type_code": "nemesis",
         "code": "morbius_by_rycoran_nemesis",
         "name": "Morbius Nemesis",
         "parent_code": "morbius_by_rycoran"
