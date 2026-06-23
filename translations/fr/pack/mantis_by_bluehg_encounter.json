@@ -2,17 +2,17 @@
     {
         "code": "20317",
         "name": "Tremblement Psychique",
-        "text": "<b><i>Donnez cette carte au joueur de Mantis.</i></b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• Inclinez votre alter ego → retirez Tremblement Psychique de la partie.\n• Défaussez 1 carte de votre main pour chaque personnage désorienté que vous contrôlez et chaque ennemi désorienté. Si aucune carte n'est défaussée de cette façon, cette carte gagne Renfort. Défaussez cette obligation."
+        "text": "<b><i>Donnez cette carte au joueur de Mantis.</i></b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• Inclinez votre alter ego → retirez Tremblement Psychique de la partie.\n• Défaussez 1 carte de votre main pour chaque personnage désorienté que vous contrôlez et chaque ennemi désorienté. Si aucune carte n'est défaussée de cette façon, cette carte gagne Renfort. Défaussez cette obligation."
     },
     {
         "code": "20318",
-        "flavor": "« Le Swordman tente de dominer la planète pour les Cotati. Cela renforcera les Cotati dans leur mission d'éradiquer toute forme de vie non végétale. »",
+        "flavor": "« Le Swordman tente de dominer la planète pour les Cotati. Cela renforcera les Cotati dans leur mission d'éradiquer toute forme de vie non végétale. »",
         "name": "Éclosion de la Fleur de la Mort",
         "text": "Incitation 1.\nLes ennemis ne peuvent pas être désorientés."
     },
     {
         "code": "20319",
-        "flavor": "« Son cœur s'emballe au nom de “Jacques” — le Swordman qui est mort en s'interposant entre elle et la méchanceté d'un tyran, puis se serre lorsqu'elle revit le moment où le Prime Cotati a réanimé son cadavre pour porter un visage qu'elle ne pouvait s'empêcher d'aimer. »",
+        "flavor": "« Son cœur s'emballe au nom de « Jacques » – le Swordman qui est mort en s'interposant entre elle et la méchanceté d'un tyran, puis se serre lorsqu'elle revit le moment où le Prime Cotati a réanimé son cadavre pour porter un visage qu'elle ne pouvait s'empêcher d'aimer. »",
         "name": "Swordman",
         "text": "Coup Rapide. Robuste.\n[star] Les attaques du Swordman gagnent Perçant.\n<i>(Sbire Némésis de Mantis.)</i>",
         "traits": "Cotati. Élite."
@@ -20,13 +20,13 @@
     {
         "code": "20320",
         "name": "Plantman",
-        "text": "Solide. Ténacité.\n[star] <b>Interruption forcée</b> : quand Plantman attaque, ses attaques gagnent Déferlement.\n<b>Interruption forcée</b> : une fois Plantman vaincu, donnez une carte d'état Tenace au méchant.",
+        "text": "Solide. Ténacité.\n[star] <b>Interruption forcée </b> : quand Plantman attaque, ses attaques gagnent Déferlement.\n<b>Interruption forcée </b> : une fois Plantman vaincu, donnez une carte d'état Tenace au méchant.",
         "traits": "Criminel. Élite."
     },
     {
         "code": "20321",
         "name": "Résilience Cotati",
-        "text": "Attachez cette carte à l'ennemi ayant le plus de points de vie imprimés et n'ayant pas le mot-clé Solide. Si vous ne le pouvez pas, cette carte gagne Renfort.\nL'ennemi attaché gagne Solide.\n<b>Action de héros</b> : dépensez les ressources [mental][physical] → défaussez cette carte.",
+        "text": "Attachez cette carte à l'ennemi ayant le plus de points de vie imprimés et n'ayant pas le mot-clé Solide. Si vous ne le pouvez pas, cette carte gagne Renfort.\nL'ennemi attaché gagne Solide.\n<b>Action de héros </b> : dépensez les ressources [mental][physical] → défaussez cette carte.",
         "traits": "Condition."
     }
 ]
