@@ -2,8 +2,8 @@
     {
         "code": "204201b",
         "name": "Betsy Braddock",
-        "text": "Vous pouvez jouer les cartes attachées à votre identité comme si elles étaient dans votre main. 1 carte attachée max.\n<i>Télékinésie</i> — <b>Action</b> : cherchez une carte [[PSIONIQUE]] dans votre deck et attachez-la face visible à votre identité. (Limite d'une fois par round.)",
-        "traits": "Psionique. Mutant."
+        "text": "Vous pouvez jouer les cartes attachées à votre identité comme si elles étaient dans votre main. 1 carte attachée max.\n<i>Télékinésie</i> — <b>Action</b> : cherchez une carte [[PSIONIQUE]] dans votre deck et attachez-la face visible à votre identité. (Limite d'une fois par round.)",
+        "traits": "Mutant. Psionique."
     },
     {
         "code": "204201a",
@@ -21,59 +21,59 @@
     {
         "code": "204203",
         "name": "Épée Télékinésique",
-        "text": "Restreint.\nCaptain Britain gagne +1 ATQ.\n<b>Interruption de héros</b> : quand vous effectuez une attaque, inclinez l'Épée Télékinésique → cette attaque gagne Perçant.",
-        "traits": "Arme. Psionique."
+        "text": "Restreint.\nCaptain Britain gagne +1 ATQ.\n<b>Interruption de héros</b> : quand vous effectuez une attaque, inclinez l'Épée Télékinésique → cette attaque gagne Perçant.",
+        "traits": "Psionique. Arme."
     },
     {
         "code": "204204",
         "name": "Bouclier Télékinésique",
-        "text": "Restreint.\nCaptain Britain gagne +1 DEF.\n<b>Réponse de héros</b> : après que vous avez défendu contre une attaque, inclinez le Bouclier Télékinésique → redressez Captain Britain.",
-        "traits": "Arme. Psionique."
+        "text": "Restreint.\nCaptain Britain gagne +1 DEF.\n<b>Réponse de héros</b> : après que vous avez défendu contre une attaque, inclinez le Bouclier Télékinésique → redressez Captain Britain.",
+        "traits": "Psionique. Arme."
     },
     {
         "code": "204205",
-        "flavor": "« En prenant l'amulette à l'heure du besoin, et par ton service envers l'Autremonde, tu as prouvé que tu étais une héroïne... »",
+        "flavor": "« En prenant l'amulette à l'heure du besoin, et par ton service envers l'Autremonde, tu as prouvé que tu étais une héroïne... »",
         "name": "Amulette du Droit",
-        "text": "Vous gagnez +2 points de vie.\n<b>Ressource</b> : inclinez l'Amulette du Droit → générez une ressource [wild].",
+        "text": "Vous gagnez +2 points de vie.\n<b>Ressource</b> : inclinez l'Amulette du Droit → générez une ressource [wild].",
         "traits": "Autremonde."
     },
     {
         "code": "204206",
-        "flavor": "« Il a été le siège d'Excalibur pendant si longtemps... il semble juste d'y établir un portail. »",
+        "flavor": "« Il a été le siège d'Excalibur pendant si longtemps... il semble juste d'y établir un portail. »",
         "name": "Phare de Braddock",
-        "text": "Betsy Braddock gagne +2 RÉC.\n<b>Action d'alter ego</b> : inclinez le Phare de Braddock → mélangez jusqu'à 2 événements de votre pile de défausse dans votre deck.",
+        "text": "Betsy Braddock gagne +2 RÉC.\n<b>Action d'alter ego</b> : inclinez le Phare de Braddock → mélangez jusqu'à 2 événements de votre pile de défausse dans votre deck.",
         "traits": "Lieu."
     },
     {
         "code": "204207",
-        "flavor": "« Je ne peux pas laisser cet endroit sans défense ! »",
+        "flavor": "« Je ne peux pas laisser cet endroit sans défense ! »",
         "name": "Coup de Bouclier",
-        "text": "<b>Action de héros</b> <i>(attaque)</i> : désorientez un ennemi. Si vous avez utilisé une ressource [physical] pour payer cette carte, infligez 4 dégâts à cet ennemi.",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : désorientez un ennemi. Si vous avez utilisé une ressource [physical] pour payer cette carte, infligez 4 dégâts à cet ennemi.",
         "traits": "Attaque. Psionique."
     },
     {
         "code": "204208",
-        "flavor": "« Désolée, je fais de mon mieux pour régler ce problème sur la pelouse, mais je suis distraite par une voix lancinante dans ma tête... »",
+        "flavor": "« Désolée, je fais de mon mieux pour régler ce problème sur la pelouse, mais je suis distraite par une voix lancinante dans ma tête... »",
         "name": "Sous Pression",
-        "text": "<b>Réponse de héros</b> : après que vous avez vaincu un ennemi, redressez Captain Britain.",
+        "text": "<b>Réponse de héros</b> : après que vous avez vaincu un ennemi, redressez Captain Britain.",
         "traits": "Compétence."
     },
     {
         "code": "204209",
         "name": "Défense Psionique",
-        "text": "<b>Interruption de héros</b> <i>(défense)</i> : quand vous défendez contre une attaque, vous gagnez +3 DEF pour cette attaque. Si vous ne subissez aucun dégât de cette attaque, soignez 1 dégât pour chaque point de dégâts excédentaires prévenus.",
+        "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand vous défendez contre une attaque, vous gagnez +3 DEF pour cette attaque. Si vous ne subissez aucun dégât de cette attaque, soignez 1 dégât pour chaque point de dégâts excédentaires prévenus.",
         "traits": "Défense. Psionique."
     },
     {
         "code": "204210",
         "name": "Rafale Psionique",
-        "text": "<b>Action de héros</b> <i>(attaque)</i> : choisissez :\n• Infligez 1 dégât à chaque ennemi.\n• Infligez 5 dégâts à un ennemi.",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : choisissez :\n• Infligez 1 dégât à chaque ennemi.\n• Infligez 5 dégâts à un ennemi.",
         "traits": "Attaque. Psionique."
     },
     {
         "code": "204211",
         "name": "Provocation",
-        "text": "<b>Action de héros</b> <i>(contre)</i> : choisissez un ennemi. Cet ennemi vous attaque. Retirez d'une manigance un nombre de menaces égal à votre DEF.",
-        "traits": "Tactique. Contre."
+        "text": "<b>Action de héros</b> (<i>contre</i>) : choisissez un ennemi. Cet ennemi vous attaque. Retirez d'une manigance un nombre de menaces égal à votre DEF.",
+        "traits": "Contre. Tactique."
     }
 ]
