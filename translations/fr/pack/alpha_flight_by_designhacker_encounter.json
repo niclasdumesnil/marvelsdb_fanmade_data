@@ -1,0 +1,35 @@
+[
+    {
+        "code": "504512",
+        "name": "Département H",
+        "text": "<b><i>Donnez cette carte au joueur de James Hudson.</i></b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• Inclinez James Hudson → retirez le Département H de la partie.\n• Subissez 2 dégâts et retirez chaque jeton Charge sur Guardian. Défaussez cette obligation.",
+        "traits": "Guardian."
+    },
+    {
+        "code": "504513",
+        "name": "Maître Du Monde",
+        "text": "Les sbires [[DRONE]] gagnent +1 MAN et +1 ATQ.\n[star] Le Maître Du Monde gagne +1 ATQ pour chaque jeton Accélération en jeu.\n<b>Interruption forcée</b> : quand le Maître Du Monde attaque, résolvez son attaque contre chaque héros [[ALPHA FLIGHT]].\n<i>(Sbire Némésis de Guardian.)</i>",
+        "traits": "Aérien. Génie."
+    },
+    {
+        "code": "504514",
+        "name": "Maître des Drones",
+        "text": "Permanent. Chaque carte Rencontre face cachée sbire [[DRONE]] a 1 point de vie de base, 0 MAN de base, 0 ATQ de base et gagne le trait [[AÉRIEN]].\n<b>Réponse forcée</b> : après la fin de votre tour, s'il y a 1 menace ou plus ici, résolvez la capacité <i>« Maître des Drones »</i>.\n<i>Maître des Drones</i> — <b>Spécial</b> : défaussez les 2 cartes du dessus du deck Rencontre. Mettez en jeu face cachée, engagée avec vous, chaque traîtrise défaussée de cette façon en tant que sbire [[DRONE]]."
+    },
+    {
+        "code": "504515",
+        "name": "Drone Alpha",
+        "text": "<b>Une fois révélé</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<b>Une fois vaincu</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones."
+    },
+    {
+        "code": "504516",
+        "name": "Gravité Décroissante",
+        "text": "<b>Condition.</b>\nLes personnages [[AÉRIEN]] gagnent +1 ATQ et -1 DEF. <b>Action</b> : défaussez 2 cartes de votre main et les 5 cartes du dessus du deck Rencontre → piochez 2 cartes. Si le coût combiné de ces cartes est de 3 ou plus, défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504517",
+        "name": "Multiplication de Drones",
+        "text": "Les sbires [[DRONE]] gagnent +1 point de vie et +1 ATQ, et gagnent Riposte 1.\n<b>Réponse de héros</b> : après avoir vaincu un sbire [[DRONE]], dépensez 2 ressources → défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones."
+    }
+]

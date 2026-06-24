@@ -304,6 +304,7 @@
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
+    },
     {
         "cgdb_id": 2017,
         "code": "manifold_by_bluehg",
@@ -1022,7 +1023,7 @@
         "cgdb_id": 5020,
         "code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "creator": "JustaTuna",
-        "date_release": "2025-12-08",
+        "date_release": "2026-06-24",
         "name": "Guardians of The Flarking Galaxy",
         "octgn_id": "dd936a4e-a089-44e1-bb57-a4111ecb6fbf",
         "pack_type_code": "fm_story",
@@ -1030,7 +1031,7 @@
         "size": 233,
         "status": "released",
         "theme": "Marvel",
-        "visibility": "false"
+        "visibility": "true"
     },
     {
         "cgdb_id": 5030,
@@ -1346,6 +1347,21 @@
         "pack_type_code": "hero_fanmade",
         "position": 62,
         "size": 31,
+        "status": "released",
+        "theme": "Marvel",
+        "visibility": "false"
+    },
+    {
+        "cgdb_id": 5045,
+        "code": "alpha_flight_by_designhacker",
+        "confidential": "false",
+        "creator": "Designhacker",
+        "date_release": "2026-06-24",
+        "name": "Alpha Flight",
+        "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9f64749",
+        "pack_type_code": "hero_fanmade",
+        "position": 5045,
+        "size": 23,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"

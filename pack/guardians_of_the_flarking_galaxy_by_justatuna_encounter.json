@@ -10,6 +10,7 @@
         "position": 13,
         "quantity": 1,
         "set_code": "nova_prime_by_justatuna",
+        "status": "sealed",
         "text": "<b>Give to the Richard Rider player.</b>\nYou may flip to alter-ego form. Choose: * Exhaust Richard Rider → remove War Weary from the game.\n* Discard half the cards in your hand rounded down. Discard War Weary.",
         "type_code": "obligation"
     },
@@ -32,6 +33,7 @@
         "scheme_star": true,
         "set_code": "nova_prime_by_justatuna_nemesis",
         "set_position": 1,
+        "status": "sealed",
         "text": "[star] <b>Forced Response</b>: After Annihilus activates against you, if Annihilation Wave is in play, put the top card of your deck into play facedown, engaged with you as an [[ARTHROSIAN]] minion.",
         "traits": "Arthrosian. Elite.",
         "type_code": "minion"
@@ -50,6 +52,7 @@
         "scheme_acceleration": 1,
         "set_code": "nova_prime_by_justatuna_nemesis",
         "set_position": 2,
+        "status": "sealed",
         "text": "<b>When Revealed</b>: Search the encounter deck, discard pile, and set-aside area for Annihilation Wave and put it into play. Shuffle the encounter deck. Each player puts the top card of their deck into play facedown, engaged with them as an [[ARTHROSIAN]] minion.",
         "type_code": "side_scheme"
     },
@@ -64,6 +67,7 @@
         "quantity": 1,
         "set_code": "nova_prime_by_justatuna_nemesis",
         "set_position": 3,
+        "status": "sealed",
         "text": "Each facedown [[ARTHROSIAN]] minion engaged with a player has a base SCH of 0, a base ATK of 2, and a base hit points of 1.\n<b>Forced Response</b>: After an [[ARTHROSIAN]] minion is defeated, place that card in it's owners discard pile.",
         "type_code": "environment"
     },
@@ -79,6 +83,7 @@
         "quantity": 2,
         "set_code": "nova_prime_by_justatuna_nemesis",
         "set_position": 4,
+        "status": "sealed",
         "text": "<b>When Revealed</b>: Put the top 2 cards of your deck into play facedown engaged with you as an [[ARTHROSIAN]] minion. If you cannot, this card gains surge.\n<hr>[star] <b>Boost</b>: Put the top card of your deck into play facedown, engaged with you as an [[ARTHROSIAN]] minion.",
         "type_code": "treachery"
     },
@@ -101,6 +106,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 1,
         "stage": "I",
+        "status": "released",
         "text": "<b>Forced Response</b>: After the Gardener attacks you, reveal the top card of the <b><i>GROOT</i></b> deck.",
         "traits": "Elder.",
         "type_code": "villain"
@@ -123,6 +129,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 2,
         "stage": "II",
+        "status": "released",
         "text": "<b>When Revealed</b>: Search the encounter deck and discard pile for the Reclaim the Green side scheme and reveal it. If it is already in play, resolve its \"<b>When Defeated</b>\" effect.\n[star] <b>Forced Response</b>: After the Gardener attacks you, reveal the top card of the <b><i>GROOT</i></b> deck.",
         "traits": "Elder.",
         "type_code": "villain"
@@ -146,6 +153,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 3,
         "stage": "III",
+        "status": "released",
         "text": "[[WOOD]] minions gain toughness.\n[star] <b>Forced Response</b>: After the Gardener activates against you, reveal the top card of the <b><i>GROOT</i></b> deck.",
         "traits": "Elder.",
         "type_code": "villain"
@@ -164,6 +172,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 4,
         "stage": "1A",
+        "status": "released",
         "text": "<b>Contents</b>: The Gardener (I) and The Gardener (II). <i>(The Gardener (II) and The Gardener (III) instead for expert mode.)</i> The Gardener, Ship Command II and Standard encounter sets. One modular encounter set <i>(recommended: Growing Pain)</i>.\n<b>Setup</b>: Set aside each copy of Flora Sapling and shuffle them together into a <b><i>GROOT</i></b> deck.",
         "type_code": "main_scheme"
     },
@@ -186,6 +195,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 4,
         "stage": "1B",
+        "status": "released",
         "text": "<b>When Revealed</b>: Each player reveals the top card of the <b><i>GROOT</i></b> deck.",
         "threat": 5,
         "threat_fixed": false,
@@ -205,6 +215,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 5,
         "stage": "2A",
+        "status": "released",
         "text": "<b>When Revealed</b>: Advance to stage 2B.",
         "type_code": "main_scheme"
     },
@@ -223,6 +234,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 5,
         "stage": "2B",
+        "status": "released",
         "text": "<b>When Revealed</b>: Each player votes to either defend Knowhere, or confront the Gardener. The first player's vote breaks tie-breakers. Then, if there were more votes to defend Knowhere, advance to Leaf No Survivors 3A.\nOtherwise, advance to Confront the Root 3A.",
         "type_code": "main_scheme"
     },
@@ -240,6 +252,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 6,
         "stage": "3A",
+        "status": "released",
         "text": "<b>When Revealed</b>: Each player draws 1 card. (The first player draws 1 additional card.)",
         "type_code": "main_scheme"
     },
@@ -261,6 +274,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 6,
         "stage": "3B",
+        "status": "released",
         "text": "Each character in play gets +1 ATK.\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 7,
         "threat_fixed": false,
@@ -280,6 +294,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 7,
         "stage": "3A",
+        "status": "released",
         "text": "<b>When Revealed</b>: Each player reveals the top card of the <b><i>GROOT</i></b> deck. Each player who cannot deals themselves a facedown encounter card.",
         "type_code": "main_scheme"
     },
@@ -301,6 +316,7 @@
         "set_code": "the_gardener_by_justatuna",
         "set_position": 7,
         "stage": "3B",
+        "status": "released",
         "text": "X is equal to the number of enemies in play (including the Gardener).\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 10,
         "threat_fixed": false,
@@ -322,6 +338,7 @@
         "scheme": 0,
         "set_code": "the_gardener_by_justatuna",
         "set_position": 8,
+        "status": "released",
         "text": "Quickstrike.\n<hr>[star] <b>Boost</b>: After this activation, place Flora Beast at the bottom of the <b><i>GROOT</i></b> deck.",
         "traits": "Wood.",
         "type_code": "minion"
@@ -343,6 +360,7 @@
         "scheme": 2,
         "set_code": "the_gardener_by_justatuna",
         "set_position": 10,
+        "status": "released",
         "text": "<b>When Defeated</b>: The engaged player reveals the top card of the <b><i>GROOT</i></b> deck.\n<hr>[star] <b>Boost</b>: After this activation, place Flora Colossus at the bottom of the <b><i>GROOT</i></b> deck.",
         "traits": "Wood.",
         "type_code": "minion"
@@ -363,6 +381,7 @@
         "scheme": 1,
         "set_code": "the_gardener_by_justatuna",
         "set_position": 13,
+        "status": "released",
         "text": "<b>When Revealed</b>: Defeat the <b><i>WOOD</i></b> minion in play with the lowest ATK → the engaged player reveals the top card of the <b><i>GROOT</i></b> deck.\n<hr>[star] <b>Boost</b>: After this activation, place Flora Consumer at the bottom of the <b><i>GROOT</i></b> deck.",
         "traits": "Wood.",
         "type_code": "minion"
@@ -383,6 +402,7 @@
         "scheme": 2,
         "set_code": "the_gardener_by_justatuna",
         "set_position": 15,
+        "status": "released",
         "text": "Incite 3. Guard.\n<b>When Revealed</b>: If Flora Titan was revealed from the encounter deck, place Flora Titan at the bottom of the <b><i>GROOT</i></b> deck.\n<hr>[star] <b>Boost</b>: After this activation, place Flora Titan at the bottom of the <b><i>GROOT</i></b> deck.",
         "traits": "Elite. Wood.",
         "type_code": "minion"
@@ -403,6 +423,7 @@
         "scheme_hazard": 1,
         "set_code": "the_gardener_by_justatuna",
         "set_position": 16,
+        "status": "released",
         "text": "<b>When Defeated</b>: Each player reveals the top card of the <b><i>GROOT</i></b> deck.",
         "type_code": "side_scheme"
     },
@@ -422,6 +443,7 @@
         "scheme_crisis": 1,
         "set_code": "the_gardener_by_justatuna",
         "set_position": 17,
+        "status": "released",
         "text": "Assault. <i>(Basic thwarts against this scheme use ATK instead of THW.)</i>\nHinder 2[per_hero].\n<b>When Defeated</b>: Defeat a non-<b><i>ELITE WOOD</i></b> minion in play.",
         "type_code": "side_scheme"
     },
@@ -439,6 +461,7 @@
         "quantity": 2,
         "set_code": "the_gardener_by_justatuna",
         "set_position": 19,
+        "status": "released",
         "text": "<b>When Revealed</b>: Each <b><i>WOOD</i></b> minion engaged with your hero attacks you. If no attack was made this way, reveal the top card of the <b><i>GROOT</i></b> deck.\n<hr>[star] <b>Boost</b>: This card gains [boost][boost] if you are engaged with a <b><i>WOOD</i></b> minion.",
         "type_code": "treachery"
     },
@@ -455,6 +478,7 @@
         "quantity": 3,
         "set_code": "the_gardener_by_justatuna",
         "set_position": 21,
+        "status": "released",
         "text": "<b>When Revealed</b>: Reveal the top 2 cards of the <b><i>GROOT</i></b> deck. If less than 2 cards were revealed this way, this card gains surge.",
         "type_code": "treachery"
     },
@@ -471,6 +495,7 @@
         "quantity": 2,
         "set_code": "the_gardener_by_justatuna",
         "set_position": 24,
+        "status": "released",
         "text": "Surge.\n<b>When Revealed</b>: Place the topmost <b><i>WOOD</i></b> minion in the encounter discard pile at the bottom of the <b><i>WOOD</i></b> deck.\n<hr>[star] <b>Boost</b>: Resolve this card's \"<b>When Revealed</b>\" effect. <i>(Does not surge.)</i>",
         "type_code": "treachery"
     },
@@ -489,6 +514,7 @@
         "scheme": 1,
         "set_code": "groot_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "<b>When Defeated</b>: Place Flora Sapling at the bottom of the <b><i>GROOT</i></b> deck.",
         "traits": "Wood.",
         "type_code": "minion"
@@ -513,6 +539,7 @@
         "set_code": "warbringer_by_justatuna",
         "set_position": 1,
         "stage": "I",
+        "status": "released",
         "text": "Steady.\n[star] <b>Forced Interrupt</b>: When Warbringer activates against you, if you control a card with a printed [wild] resource, he gets +1 SCH and +1 ATK for this activation.",
         "traits": "Brute. Chitauri.",
         "type_code": "villain"
@@ -537,6 +564,7 @@
         "set_code": "warbringer_by_justatuna",
         "set_position": 2,
         "stage": "II",
+        "status": "released",
         "text": "Steady. Toughness.\n[star] <b>Forced Interrupt</b>: When Warbringer activates against you, if you control a card with a printed [wild] resource, he gets +1 SCH and +1 ATK for this activation.",
         "traits": "Brute. Chitauri.",
         "type_code": "villain"
@@ -561,6 +589,7 @@
         "set_code": "warbringer_by_justatuna",
         "set_position": 3,
         "stage": "III",
+        "status": "released",
         "text": "Steady. Toughness.\n[star] <b>Forced Interrupt</b>: When Warbringer activates against you, if you control a card with a printed [wild] resource, he gets +2 SCH and +2 ATK for this activation.",
         "traits": "Brute. Chitauri.",
         "type_code": "villain"
@@ -579,6 +608,7 @@
         "set_code": "warbringer_by_justatuna",
         "set_position": 4,
         "stage": "1A",
+        "status": "released",
         "text": "<b>Contents</b>: Warbringer (I) and Warbringer (II). <i>(Warbringer (II) and Warbringer (III) instead for expert mode.)</i> Warbringer, Ship Command II and Standard encounter sets. One modular encounter set <i>(recommended: Mercenary Fleet)</i>.\n<b>Setup</b>: Set aside the Heavy Cannon and Hyper Thrusters upgrades.",
         "type_code": "main_scheme"
     },
@@ -600,6 +630,7 @@
         "set_code": "warbringer_by_justatuna",
         "set_position": 4,
         "stage": "1B",
+        "status": "released",
         "text": "<b>When Revealed</b>: Reveal the Blockade side scheme and exhaust the Milano. In expert mode, deal each player a facedown encounter card and deal 1 damage to the Milano.",
         "threat": 6,
         "threat_fixed": false,
@@ -619,6 +650,7 @@
         "set_code": "warbringer_by_justatuna",
         "set_position": 5,
         "stage": "2A",
+        "status": "released",
         "text": "<b>When Revealed</b>: Advance to stage 2B.",
         "type_code": "main_scheme"
     },
@@ -640,6 +672,7 @@
         "set_code": "warbringer_by_justatuna",
         "set_position": 5,
         "stage": "2B",
+        "status": "released",
         "text": "[star] <b>Forced Response</b>: After resolving step one of the villain phase, place 1 time counter here. If there at least 2 time counters here, advance to stage 3A.",
         "threat": 5,
         "threat_fixed": false,
@@ -659,6 +692,7 @@
         "set_code": "warbringer_by_justatuna",
         "set_position": 6,
         "stage": "3A",
+        "status": "released",
         "text": "<b>When Revealed</b>: If the previous stage was progressed by time counters, each player votes either Thrusters or Weapons. The first player's vote breaks tie-breakers. If thrusters won, put the set aside Hyper Thrusters into play under the first player's control. Otherwise, put the set aside Heavy Cannon into play under the first player's control.",
         "type_code": "main_scheme"
     },
@@ -681,6 +715,7 @@
         "set_code": "warbringer_by_justatuna",
         "set_position": 6,
         "stage": "3B",
+        "status": "released",
         "text": "<b>If this stage is completed, the players lose the game.</b>",
         "threat": 10,
         "threat_fixed": false,
@@ -703,6 +738,7 @@
         "scheme_crisis": 1,
         "set_code": "warbringer_by_justatuna",
         "set_position": 7,
+        "status": "released",
         "text": "Assault.\n<hr>[star] <b>Boost</b>: In expert mode, this card gets +2 boost icons ([boost][boost]) for this activation.",
         "type_code": "side_scheme"
     },
@@ -721,6 +757,7 @@
         "quantity": 1,
         "set_code": "warbringer_by_justatuna",
         "set_position": 8,
+        "status": "released",
         "text": "Assault. Hinder 2[per_hero].\n<b>Forced Response</b>: After a player ends their turn, that player takes 2 indirect damage.\n<hr>[star] <b>Boost</b>: If damage from this attack defeats an ally, the first player takes 2 indirect damage.",
         "type_code": "side_scheme"
     },
@@ -740,6 +777,7 @@
         "scheme_acceleration": 1,
         "set_code": "warbringer_by_justatuna",
         "set_position": 9,
+        "status": "released",
         "text": "Warbringer gains stalwart.\n<hr>[star] <b>Boost</b>: This enemy gains stalwart for this activation.",
         "type_code": "side_scheme"
     },
@@ -758,6 +796,7 @@
         "scheme_acceleration": 1,
         "set_code": "warbringer_by_justatuna",
         "set_position": 10,
+        "status": "released",
         "text": "Hinder 2[per_hero]. Victory 1.\n<b>When Defeated</b>: Heal 2 damage from the Milano.",
         "type_code": "side_scheme"
     },
@@ -776,6 +815,7 @@
         "quantity": 1,
         "set_code": "warbringer_by_justatuna",
         "set_position": 12,
+        "status": "released",
         "text": "Attach to Warbringer.\n[star] Warbringer's attacks gain overkill and piercing.\n<b>Hero Action</b>: Spend [energy][mental][physical] resources → discard this card.\n<hr>[star] <b>Boost</b>: If this activation is an attack, it gains overkill and piercing.",
         "traits": "Weapon.",
         "type_code": "attachment"
@@ -796,6 +836,7 @@
         "scheme_star": true,
         "set_code": "warbringer_by_justatuna",
         "set_position": 13,
+        "status": "released",
         "text": "Attach to Warbringer. Uses (1 fury counter, plus 1[per_hero] additional fury counters.)\n[star] <b>Forced Response</b>: After Warbringer activates, remove 1 fury counter from here. (Remove 1 additional fury counter if this activation was an attack that dealt no damage.)",
         "traits": "Condition.",
         "type_code": "attachment"
@@ -812,6 +853,7 @@
         "quantity": 2,
         "set_code": "warbringer_by_justatuna",
         "set_position": 15,
+        "status": "released",
         "text": "Attach to the Milano.\n<b>Forced Interrupt</b>: At the end of the villain phase, place 1 damage here. If there is 2 or more damage here, move all damage here to attached character or its controller's identity card and discard this card.\n<b>Response</b>: After attached character defends against an attack, attach this card to the attacker.",
         "traits": "Weapon.",
         "type_code": "attachment"
@@ -831,6 +873,7 @@
         "scheme": 1,
         "set_code": "warbringer_by_justatuna",
         "set_position": 17,
+        "status": "released",
         "text": "Quickstrike.\nChitauri Speeder engages the first player.\n[star] <b>Forced Response</b>: After Chitauri Speeder attacks and damages you, spend 1 resource of any type or deal 1 damage to the Milano.",
         "traits": "Aerial. Chitauri. Vehicle.",
         "type_code": "minion"
@@ -847,6 +890,7 @@
         "quantity": 1,
         "set_code": "warbringer_by_justatuna",
         "set_position": 20,
+        "status": "released",
         "text": "<b>When Revealed</b>: Place 4 threat on the main scheme. You may exhaust characters you control to prevent threat equal to the total ATK of those characters. Deal 1 damage to each exhausted character you control.",
         "type_code": "treachery"
     },
@@ -863,6 +907,7 @@
         "quantity": 2,
         "set_code": "warbringer_by_justatuna",
         "set_position": 21,
+        "status": "released",
         "text": "<b>When Revealed</b>: Choose to deal 2 indirect damage to the first player or give the villain 1 facedown boost card.\n<hr>[star] <b>Boost</b>: If damage from this attack defeats an ally, the first player takes 2 indirect damage.",
         "type_code": "treachery"
     },
@@ -878,6 +923,7 @@
         "quantity": 3,
         "set_code": "warbringer_by_justatuna",
         "set_position": 23,
+        "status": "released",
         "text": "<b>When Revealed (Alter-Ego)</b>: The first player deals themself a facedown encounter card.\n<b>When Revealed (Hero)</b>: Warbringer attacks you.",
         "type_code": "treachery"
     },
@@ -894,6 +940,7 @@
         "resource_wild": 1,
         "set_code": "milano_mods_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "<b>Hero Action</b>: Exhaust Heavy Cannon → deal 1 damage to each enemy. If you control the Milano, deal 1 additional damage to the villain.",
         "traits": "Milano Mod. Weapon.",
         "type_code": "upgrade"
@@ -911,6 +958,7 @@
         "resource_wild": 1,
         "set_code": "milano_mods_by_justatuna",
         "set_position": 2,
+        "status": "released",
         "text": "<b>Hero Action</b>: Exhaust Hyper Thrusters → remove 1 threat from each scheme. If you control the Milano, remove 1 additional threat from the main scheme.",
         "traits": "Milano Mod. Tech.",
         "type_code": "upgrade"
@@ -934,6 +982,7 @@
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 1,
         "stage": "A",
+        "status": "released",
         "text": "Retaliate 1.\n<b>Forced Interrupt</b>: When Raker would be defeated, reset his hit points to 8. Then, remove 6 threat from the main scheme (ignoring any ([crisis]) icons).",
         "traits": "Mystic.",
         "type_code": "villain"
@@ -957,6 +1006,7 @@
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 1,
         "stage": "B",
+        "status": "released",
         "text": "Retaliate 1. Steady.\n<b>Forced Interrupt</b>: When Raker would be defeated, reset his hit points to 12. Then, remove 6 threat from the main scheme (ignoring any ([crisis]) icons).",
         "traits": "Mystic.",
         "type_code": "villain"
@@ -975,6 +1025,7 @@
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 2,
         "stage": "1A",
+        "status": "released",
         "text": "<b>Contents</b>: Raker (A). <i>(Raker (B) instead for expert mode.)</i> Escape the Church, Ship Command II and Standard encounter sets. One modular encounter set <i>(recommended: Fetters of Faith)</i>.\n<b>Setup</b>: Each player sets aside each ally, <b><i>ARMOR</i></b>, <b><i>ITEM</i></b>, <b><i>LOCATION</i></b>, <b><i>PERSONA</i></b>, <b><i>TECH</i></b>, <b><i>VEHICLE</i></b> and <b><i>WEAPON</i></b> in their deck into a <b><i>CAPTURED</i></b> deck. Reveal Church Homeworld.",
         "type_code": "main_scheme"
     },
@@ -995,6 +1046,7 @@
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 2,
         "stage": "1B",
+        "status": "released",
         "text": "Assault.\n<b>Forced Interrupt</b>: When the last threat is removed from this scheme, each player searches their <b><i>CAPTURED</i></b> deck for 1 card and adds it to their hand. Then, advance to stage 2A.\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 6,
         "threat_fixed": false,
@@ -1014,6 +1066,7 @@
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 3,
         "stage": "2A",
+        "status": "released",
         "text": "<b>When Revealed</b>: Each player places the top 6 cards of their <b><i>CAPTURED</i></b> deck under here.",
         "type_code": "main_scheme"
     },
@@ -1034,6 +1087,7 @@
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 3,
         "stage": "2B",
+        "status": "released",
         "text": "<b>Forced Interrupt</b>: When the last threat is removed from this scheme, the players as a group return 2[per_hero] facedown cards here into their owner's hands. The players advance to stage 3A if there are no cards here. If they do not advance, place 4[per_hero] threat here.\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 11,
         "threat_fixed": false,
@@ -1053,6 +1107,7 @@
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 4,
         "stage": "3A",
+        "status": "released",
         "text": "<b>When Revealed</b>: Deal each player a facedown encounter card.",
         "type_code": "main_scheme"
     },
@@ -1074,6 +1129,7 @@
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 4,
         "stage": "3B",
+        "status": "released",
         "text": "If there is no threat here, the players win the game.\n<b>If this stage is completed or the Milano is defeated, the players lose the game.</b>",
         "threat": 12,
         "threat_fixed": false,
@@ -1090,6 +1146,7 @@
         "quantity": 1,
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 5,
+        "status": "released",
         "text": "Permanent. Setup.\n<b>Forced Interrupt</b>: When a card makes a player place any number of cards from their <b><i>CAPTURED</i></b> deck under a card, for each card a player couldn't place this way, they place 1 card from the top of their deck instead.",
         "type_code": "environment"
     },
@@ -1109,6 +1166,7 @@
         "scheme": 2,
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 6,
+        "status": "released",
         "text": "Guard. Patrol.\n<b>When Revealed</b>: Place the top card of a <b><i>CAPTURED</i></b> deck facedown here.\n<b>When Defeated</b>: Return each facedown card here to it's owner's hand.",
         "traits": "Mystic.",
         "type_code": "minion"
@@ -1128,6 +1186,7 @@
         "scheme_crisis": 1,
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 10,
+        "status": "released",
         "text": "Assault. Hinder 3[per_hero].\n<b>When Revealed</b>: Each player puts the top card of their <b><i>CAPTURED</i></b> deck facedown here.\n<b>When Defeated</b>: Return each card here to it's owner's hand.",
         "type_code": "side_scheme"
     },
@@ -1146,6 +1205,7 @@
         "scheme_acceleration": 2,
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 11,
+        "status": "released",
         "text": "Assault. Hinder 3[per_hero].\n<b>When Revealed</b>: Each player searches their <b><i>CAPTURED</i></b> deck for an ally or a <b><i>PERSONA</i></b> card and places it facedown here.\n<b>When Defeated</b>: Return each card here to it's owner's hand.",
         "type_code": "side_scheme"
     },
@@ -1164,6 +1224,7 @@
         "scheme_acceleration": 2,
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 12,
+        "status": "released",
         "text": "Assault. Hinder 3[per_hero].\n<b>When Revealed</b>: Each player searches their <b><i>CAPTURED</i></b> deck for an upgrade and places it facedown here.\n<b>When Defeated</b>: Return each card here to it's owner's hand.",
         "type_code": "side_scheme"
     },
@@ -1180,6 +1241,7 @@
         "quantity": 1,
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 14,
+        "status": "released",
         "text": "Incite 1.\n<b>When Revealed</b>: Either spend 2 resources of any type or be confused.\n<hr>[star] <b>Boost</b>: You are confused.",
         "type_code": "treachery"
     },
@@ -1196,6 +1258,7 @@
         "quantity": 1,
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 15,
+        "status": "released",
         "text": "<b>When Revealed</b>: For each character you control, discard the top 8 cards of your deck or exhaust that character.",
         "type_code": "treachery"
     },
@@ -1211,6 +1274,7 @@
         "quantity": 1,
         "set_code": "escape_the_church_by_justatuna",
         "set_position": 17,
+        "status": "released",
         "text": "<b>When Revealed (Alter-Ego)</b>: Discard the top 5 cards of your deck. This card gains surge.\n<b>When Revealed (Hero)</b>: Raker attacks you with +1 ATK. If no damage was dealt this way, add the top card of a <b><i>CAPTURED</i></b> deck to it's owner's hand.",
         "type_code": "treachery"
     },
@@ -1232,6 +1296,7 @@
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 1,
         "stage": "I",
+        "status": "released",
         "text": "Cards with 1 or fewer printed icons ([star] and [boost]) in the card's boost area gain [boost] for each progress counter on the main scheme.\nMinions get +1 hit point for each icons ([star] and [boost]) in their boost area.",
         "trait": "Evolutionary. Genius.",
         "traits": "Evolutionary. Genius.",
@@ -1255,6 +1320,7 @@
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 2,
         "stage": "II",
+        "status": "released",
         "text": "Cards with 1 or fewer printed icons ([star] and [boost]) in the card's boost area gain [boost] for each progress counter on the main scheme.\nMinions get +1 hit point for each icons ([star] and [boost]) in their boost area.",
         "trait": "Evolutionary. Genius.",
         "traits": "Evolutionary. Genius.",
@@ -1278,6 +1344,7 @@
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 3,
         "stage": "III",
+        "status": "released",
         "text": "Cards with 1 or fewer printed icons ([star] and [boost]) in the card's boost area gain [boost] for each progress counter on the main scheme.\nMinions get +1 hit point for each icons ([star] and [boost]) in their boost area.",
         "trait": "Evolutionary. Genius.",
         "traits": "Evolutionary. Genius.",
@@ -1297,6 +1364,7 @@
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 4,
         "stage": "1A",
+        "status": "released",
         "text": "<b>Contents</b>: High Evolutionary (I) and High Evolutionary (II). <i>(High Evolutionary (II) and High Evolutionary (III) instead for expert mode.)</i> High Evolutionary and Standard encounter sets. One modular encounter set <i>(recommended: Order in Entropy)</i>.\n<b>Setup</b>: Place 1 progress counter here.",
         "type_code": "main_scheme"
     },
@@ -1316,6 +1384,7 @@
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 4,
         "stage": "1B",
+        "status": "released",
         "text": "X is 6 plus the number of progress counters here.\n<b>Forced Interrupt</b>: When this scheme would be completed, place 1 progress here. Then, remove all threat from this scheme.\n<b>The players lose the game when there are 3 progress counters here.</b>",
         "threat": null,
         "threat_fixed": false,
@@ -1334,6 +1403,7 @@
         "quantity": 2,
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 5,
+        "status": "released",
         "text": "Attach to High Evolutionary.\n<b>Forced Interrupt</b>: When High Evolutionary would be stunned or confused, discard Backlash → the active player gains that status card instead.\n<hr>[star] <b>Boost</b>: Give this enemy a tough status card.",
         "traits": "Tech.",
         "type_code": "attachment"
@@ -1350,6 +1420,7 @@
         "quantity": 2,
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 7,
+        "status": "released",
         "text": "Attach to the minion with the fewest icons in its boost area. If you cannot, this card gains surge.\nAttached minion is [[EVOLUTIONARY]] trait, gets [boost][boost][boost] and gains retaliate 1.\n<b>When Revealed</b>: Give attached minion a tough status card.\n<hr>[star] <b>Boost</b>: Attach this card to a minion.",
         "traits": "Tech.",
         "type_code": "attachment"
@@ -1367,6 +1438,7 @@
         "quantity": 2,
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 9,
+        "status": "released",
         "text": "Attach to the minion with the fewest icons in its boost area. If you cannot, this card gains surge.\nAttached minion is [[EVOLUTIONARY]] trait and gets [boost].\n<b>When Revealed</b>: Attached minion activates against you.\n<hr>[star] <b>Boost</b>: Attach this card to a minion.",
         "traits": "Tech. Weapon.",
         "type_code": "attachment"
@@ -1385,6 +1457,7 @@
         "scheme": 1,
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 11,
+        "status": "released",
         "text": "Attach to the minion with the fewest icons in its boost area. If you cannot, this card gains surge.\nAttached minion gains [[EVOLUTIONARY]] trait and gets [boost].\n<b>When Revealed</b>: Attached minion activates against you.\n<hr>[star] <b>Boost</b>: Attach this card to a minion.",
         "traits": "Tech.",
         "type_code": "attachment"
@@ -1404,6 +1477,7 @@
         "scheme": 0,
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 14,
+        "status": "released",
         "text": "Guard. Villainous.\n<b>When Revealed</b>: This minion gets [boost][boost][boost].\n<hr>[star] <b>Boost</b>: Put Evolutionary into play engaged with you. It cannot activate this step.",
         "traits": "Evolutionary.",
         "type_code": "minion"
@@ -1423,6 +1497,7 @@
         "scheme": 0,
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 18,
+        "status": "released",
         "text": "Guard. Villainous.\n<b>When Revealed</b>: Deal the topmost <b><i>TECH</i></b> attachment in the encounter discard pile to yourself as a facedown encounter card.\n<hr>[star] <b>Boost</b>: Resolve this card's \"<b>When Revealed</b>\" ability.",
         "traits": "Evolutionary.",
         "type_code": "minion"
@@ -1442,6 +1517,7 @@
         "scheme_crisis": 1,
         "set_code": "high_evolutionary_by_justatuna",
         "set_position": 20,
+        "status": "released",
         "text": "Assault. Hinder 2[per_hero].\n<b>When Defeated</b>: Shuffle each <b><i>EVOLUTIONARY</i></b> minion in the encounter discard pile into the encounter deck.",
         "type_code": "side_scheme"
     },
@@ -1463,6 +1539,7 @@
         "set_code": "the_magus_by_justatuna",
         "set_position": 1,
         "stage": "I",
+        "status": "released",
         "text": "Steady.\n[star] The Magus's attacks deal indirect damage.\n<b>Forced Response</b>: After the encounter deck resets, give The Magus a facedown boost card.",
         "traits": "Mystic.",
         "type_code": "villain"
@@ -1485,6 +1562,7 @@
         "set_code": "the_magus_by_justatuna",
         "set_position": 2,
         "stage": "II",
+        "status": "released",
         "text": "Steady. Toughness.\n[star] The Magus's attacks deal indirect damage.\n<b>Forced Response</b>: After the encounter deck resets, give The Magus a facedown boost card.",
         "traits": "Mystic.",
         "type_code": "villain"
@@ -1506,6 +1584,7 @@
         "set_code": "the_magus_by_justatuna",
         "set_position": 3,
         "stage": "III",
+        "status": "released",
         "text": "Steady. Toughness.\n[star] The Magus's attacks deal indirect damage.\n<b>Forced Response</b>: After the encounter deck resets, give The Magus a facedown boost card and deal the first player 1 facedown encounter card.",
         "traits": "Mystic.",
         "type_code": "villain"
@@ -1523,6 +1602,7 @@
         "set_code": "the_magus_by_justatuna",
         "set_position": 4,
         "stage": "1A",
+        "status": "released",
         "text": "<b>Contents</b>: The Magus (I) and The Magus (II). <i>(The Magus (II) and The Magus (III) instead for expert mode.)</i> The Magus, Ship Command II and Standard encounter sets. Four modular encounter sets <i>(recommended: Cosmic Sorcery, Fetters of Faith, New Men and Powers Cosmic)</i>.\n<b>Setup</b>: Find Cathedral and reveal it. Discard the top 2[per_hero] cards of the encounter deck.",
         "type_code": "main_scheme"
     },
@@ -1541,6 +1621,7 @@
         "set_code": "the_magus_by_justatuna",
         "set_position": 4,
         "stage": "1B",
+        "status": "released",
         "text": "<b>Forced Response</b>: After resolving step one of the villain phase, each player discards 2 cards from the encounter deck. Each player places 1 threat here if the cards they discarded were from different encounter sets.\n<b>Forced Response</b>: After The Magus is defeated, advance to stage 2B. Threat on this stage carries over.\n<b>When this scheme is completed, players lose game.</b>",
         "threat": 9,
         "threat_fixed": false,
@@ -1560,6 +1641,7 @@
         "set_code": "the_magus_by_justatuna",
         "set_position": 5,
         "stage": "2A",
+        "status": "released",
         "text": "<b>When Revealed</b>: Each player discards 4 cards from the encounter deck. Each player deals themself a facedown encounter card if the cards they discarded were from different encounter sets.",
         "type_code": "main_scheme"
     },
@@ -1579,6 +1661,7 @@
         "set_code": "the_magus_by_justatuna",
         "set_position": 5,
         "stage": "2B",
+        "status": "released",
         "text": "<b>Forced Response</b>: After resolving step one of the villain phase, each player discards 2 cards from the encounter deck. Each player places 1 threat here if the cards they discarded were from different encounter sets.\n<b>When this scheme is completed, players lose game.</b>",
         "threat": 10,
         "threat_fixed": false,
@@ -1597,6 +1680,7 @@
         "quantity": 2,
         "set_code": "the_magus_by_justatuna",
         "set_position": 6,
+        "status": "released",
         "text": "Attach to The Magus.\nThe Magus gains retaliate 1.\n<b>Forced Interrupt</b>: When a player plays an event, cancel its effects → discard Cosmic Ward.\n<hr>[star] <b>Boost</b>: Attach Cosmic Ward to The Magus.",
         "traits": "Spell.",
         "type_code": "attachment"
@@ -1614,6 +1698,7 @@
         "quantity": 3,
         "set_code": "the_magus_by_justatuna",
         "set_position": 8,
+        "status": "released",
         "text": "Attach to The Magus. The Magus gets +1 SCH and +1 ATK.\n[star] <b>Forced Response</b>: After The Magus activates, deal the topmost The Magus card in the encounter discard pile to yourself as a facedown encounter card → discard Quantum Magic.",
         "traits": "Spell.",
         "type_code": "attachment"
@@ -1635,6 +1720,7 @@
         "scheme_crisis": 1,
         "set_code": "the_magus_by_justatuna",
         "set_position": 11,
+        "status": "released",
         "text": "Assault.\n<hr>[star] <b>Boost</b>: In expert mode, this card gets +2 boost icons ([boost][boost]) for this activation.",
         "type_code": "side_scheme"
     },
@@ -1654,6 +1740,7 @@
         "quantity": 1,
         "set_code": "the_magus_by_justatuna",
         "set_position": 12,
+        "status": "released",
         "text": "Encounter cards that do not belong to The Magus encounter set gain incite 1.\n<hr>[star] <b>Boost</b>: You are confused. If you are already confused, discard 1 card from your hand.",
         "type_code": "side_scheme"
     },
@@ -1670,6 +1757,7 @@
         "quantity": 2,
         "set_code": "the_magus_by_justatuna",
         "set_position": 13,
+        "status": "released",
         "text": "Surge.\n<b>When Revealed</b>: Discard 4 cards from the encounter deck. If you are in alter-ego form and if each card discarded this way were from different sets, The Magus schemes.",
         "traits": "Spell.",
         "type_code": "treachery"
@@ -1687,6 +1775,7 @@
         "quantity": 3,
         "set_code": "the_magus_by_justatuna",
         "set_position": 15,
+        "status": "released",
         "text": "Surge.\n<b>When Revealed</b>: Discard 4 cards from the encounter deck. If you are in hero form and if each card discarded this way were from different sets, The Magus attacks you.",
         "traits": "Spell.",
         "type_code": "treachery"
@@ -1707,6 +1796,7 @@
         "resource_wild": 1,
         "set_code": "ship_command_ii_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "Setup. The first player controls Milano. It does not count against your ally limit.\nMilano cannot be affected by player cards. It can only attack <b><i>VEHICLE</i></b> enemies.\nIf Milano leaves play, <b>the players lose the game</b>.",
         "thwart": 0,
         "thwart_star": true,
@@ -1729,6 +1819,7 @@
         "scheme_hazard": 1,
         "set_code": "ship_command_ii_by_justatuna",
         "set_position": 2,
+        "status": "released",
         "text": "Assault. <i>(Basic thwarts against this scheme use ATK instead of THW.)</i>\nHinder 2[per_hero].",
         "type_code": "side_scheme"
     },
@@ -1747,6 +1838,7 @@
         "scheme": 2,
         "set_code": "ship_command_ii_by_justatuna",
         "set_position": 3,
+        "status": "released",
         "text": "Rogue Ship engages the first player.\n<b>Forced Interrupt</b>: When Rogue Ship would take 3 or less non-piercing damage, it takes 0 damage instead.\n<hr>[star] <b>Boost</b>: Choose: Either exhaust the Milano, or this card gains [boost][boost].",
         "traits": "Aerial. Vehicle.",
         "type_code": "minion"
@@ -1764,6 +1856,7 @@
         "quantity": 1,
         "set_code": "ship_command_ii_by_justatuna",
         "set_position": 5,
+        "status": "released",
         "text": "<b><i>Give to the first player.</i></b>\n<b>When Revealed</b>: Spend 2 resources of any type. For each [mental] resource spent this way, heal 1 damage from the Milano.",
         "type_code": "treachery"
     },
@@ -1779,6 +1872,7 @@
         "quantity": 1,
         "set_code": "ship_command_ii_by_justatuna",
         "set_position": 6,
+        "status": "released",
         "text": "<b><i>Give to the first player.</i></b>\n<b>When Revealed (Alter-Ego)</b>: The villain schemes. If no threat was placed this way, give the Milano a tough status card.\n<b>When Revealed (Hero)</b>: The villain attacks you. If no damage was dealt this way, give the Milano a tough status card.",
         "type_code": "treachery"
     },
@@ -1795,6 +1889,7 @@
         "quantity": 1,
         "set_code": "ship_command_ii_by_justatuna",
         "set_position": 7,
+        "status": "released",
         "text": "<b><i>Give to the first player.</i></b>\n<b>When Revealed</b>: Take 3 indirect damage. If the Milano took no damage this way, give the Milano a tough status card.",
         "type_code": "treachery"
     },
@@ -1814,6 +1909,7 @@
         "scheme_acceleration": 1,
         "set_code": "growing_pain_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "Assault. <i>(Basic thwarts against this scheme use ATK instead of THW.)</i>\nHinder 2[per_hero].\n<b>When Defeated</b>: Discard 5 cards from the encounter deck.",
         "type_code": "side_scheme"
     },
@@ -1834,6 +1930,7 @@
         "scheme": 1,
         "set_code": "growing_pain_by_justatuna",
         "set_position": 2,
+        "status": "released",
         "text": "Toughness.\n<b>When Defeated</b>: Discard 3 cards from the encounter deck.\n<hr>[star] <b>Boost</b>: Resolve this card's \"<b>When Defeated</b>\" ability.",
         "traits": "Wood.",
         "type_code": "minion"
@@ -1851,6 +1948,7 @@
         "quantity": 2,
         "set_code": "growing_pain_by_justatuna",
         "set_position": 4,
+        "status": "released",
         "text": "<b>When Revealed</b>: Discard 4 cards from the encounter deck. You are stunned. If you are already stunned, this card gains surge.\n<hr>[star] <b>Boost</b>: You are stunned. If you are already stunned, discard 4 cards from the encounter deck.",
         "type_code": "treachery"
     },
@@ -1869,6 +1967,7 @@
         "scheme_crisis": 1,
         "set_code": "mercenary_fleet_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "Assault. <i>(Basic thwarts against this scheme use ATK instead of THW.)</i>\nHinder 2[per_hero].\n<b>When Defeated</b>: Deal 4 damage to a <b><i>VEHICLE</i></b> minion.",
         "type_code": "side_scheme"
     },
@@ -1888,6 +1987,7 @@
         "scheme": 1,
         "set_code": "mercenary_fleet_by_justatuna",
         "set_position": 3,
+        "status": "released",
         "text": "[star] Assault Ship's attacks deal indirect damage.\n<b>Forced Interrupt</b>: When Assault Ship would take 3 or less non-piercing damage, it takes 0 damage instead.\n<hr>[star] <b>Boost</b>: If this activation is an attack, it deals indirect damage.",
         "traits": "Aerial. Vehicle.",
         "type_code": "minion"
@@ -1908,6 +2008,7 @@
         "scheme_hazard": 1,
         "set_code": "mercenary_fleet_by_justatuna",
         "set_position": 5,
+        "status": "released",
         "text": "<b>Forced Interrupt</b>: When Chitauri Leviathan would take 3 or less non-piercing damage, it takes 0 damage instead.",
         "traits": "Chitauri. Elite. Vehicle.",
         "type_code": "minion"
@@ -1927,6 +2028,7 @@
         "scheme": 2,
         "set_code": "mercenary_fleet_by_justatuna",
         "set_position": 6,
+        "status": "released",
         "text": "<b>When Revealed</b>: Warp Ship activates against you.\n<b>Forced Interrupt</b>: When Warp Ship would take 3 or less non-piercing damage, it takes 0 damage instead.\n<hr>[star] <b>Boost</b>: Put Warp Ship into play engaged with you.",
         "traits": "Aerial. Vehicle.",
         "type_code": "minion"
@@ -1948,6 +2050,7 @@
         "scheme": 3,
         "set_code": "fetters_of_faith_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "The Matriarch cannot take damage while Universal Church of Truth is in play.\nThe Universal Church of Truth gains an [amplify] icon.",
         "traits": "Elite. Mystic.",
         "type_code": "minion"
@@ -1966,6 +2069,7 @@
         "scheme_acceleration": 1,
         "set_code": "fetters_of_faith_by_justatuna",
         "set_position": 2,
+        "status": "released",
         "text": "<b>Forced Response</b>: After a player resets their deck, exhaust that player's identity card and stun it.\n<hr>[star] <b>Boost</b>: Reveal this card.",
         "type_code": "side_scheme"
     },
@@ -1984,6 +2088,7 @@
         "scheme": 1,
         "set_code": "fetters_of_faith_by_justatuna",
         "set_position": 3,
+        "status": "released",
         "text": "Guard.\n<b>When Revealed</b>: If Universal Church of Truth is in play, this card gains surge. Otherwise, find Universal Church of Truth and reveal it.\n<hr>[star] <b>Boost</b>: Put Acolyte of Truth into play engaged with you.",
         "traits": "Mystic.",
         "type_code": "minion"
@@ -2006,6 +2111,7 @@
         "scheme_star": true,
         "set_code": "fetters_of_faith_by_justatuna",
         "set_position": 6,
+        "status": "released",
         "text": "Cardinal of Truth cannot take damage while the Universal Church of Truth is in play.\n[star] <b>Forced Response</b>: After Cardinal of Truth activates, place 2 threat on Universal Church of Truth.",
         "traits": "Mystic.",
         "type_code": "minion"
@@ -2023,6 +2129,7 @@
         "quantity": 1,
         "set_code": "fetters_of_faith_by_justatuna",
         "set_position": 8,
+        "status": "released",
         "text": "Surge.\n<b>When Revealed</b>: Each player engaged with a minion discards the top 5 cards of their deck.",
         "type_code": "treachery"
     },
@@ -2042,6 +2149,7 @@
         "scheme": 2,
         "set_code": "order_in_entropy_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "<b>Forced Response</b>: After Luminous activates against you, discard 1 card from the encounter deck. If 3 or more icons ([star] and [boost]) in the card's boost area were discarded this way, deal yourself 1 encounter card.",
         "traits": "Elite. Evolutionary.",
         "type_code": "minion"
@@ -2059,6 +2167,7 @@
         "quantity": 1,
         "set_code": "order_in_entropy_by_justatuna",
         "set_position": 2,
+        "status": "released",
         "text": "Permanent. Setup.\n<b>Forced Response</b>: After cards are discarded from the encounter deck or the surge keyword is resolved, place 1 threat here. Then, if there is 10 or more threat here, find Luminous and put her into play engaged with the first player. Then, remove all but 5 threat.",
         "type_code": "side_scheme"
     },
@@ -2075,6 +2184,7 @@
         "quantity": 2,
         "set_code": "order_in_entropy_by_justatuna",
         "set_position": 3,
+        "status": "released",
         "text": "<b>When Revealed</b>: Find Luminous and reveal her. <i>(If she is already in play, she engages you.)</i> Luminous activates against you. If no enemy activated this way, this card gains surge.\n<hr>[star] <b>Boost</b>: Discard 5 cards from the encounter deck.",
         "type_code": "treachery"
     },
@@ -2089,6 +2199,7 @@
         "quantity": 2,
         "set_code": "order_in_entropy_by_justatuna",
         "set_position": 5,
+        "status": "released",
         "text": "<b>When Revealed</b>: Discard 3 cards from the encounter deck. For each card discarded this way with icons ([star] and [boost]) in the card's boost area equal to: • 0, discard 1 card from your hand.\n• 1, place 1 threat on the main scheme.\n• 2, take 1 indirect damage.\n• 3+, this card gains surge.",
         "traits": "Spell.",
         "type_code": "treachery"
@@ -2108,6 +2219,7 @@
         "scheme_acceleration": 1,
         "set_code": "cosmic_sorcery_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "<b>When Revealed</b>: Discard cards from the encounter deck until you discard a <b><i>SPELL</i></b> → deal it to yourself as a facedown encounter card.\n<hr>[star] <b>Boost</b>: Resolve this card's \"<b>When Revealed</b>\" ability.",
         "type_code": "side_scheme"
     },
@@ -2124,6 +2236,7 @@
         "quantity": 1,
         "set_code": "cosmic_sorcery_by_justatuna",
         "set_position": 2,
+        "status": "released",
         "text": "<b>When Revealed</b>: The players as a group either spends [physical][physical][physical] resources or each hero and ally takes 2 damage.\n<hr>[star] <b>Boost</b>: Your hero and each ally you control takes 1 damage.",
         "traits": "Spell.",
         "type_code": "treachery"
@@ -2142,6 +2255,7 @@
         "quantity": 1,
         "set_code": "cosmic_sorcery_by_justatuna",
         "set_position": 3,
+        "status": "released",
         "text": "<b>When Revealed</b>: The players as a group either spends [energy][energy][energy] resources or each player is stunned and takes 1 damage.\n<hr>[star] <b>Boost</b>: You are stunned.",
         "traits": "Spell.",
         "type_code": "treachery"
@@ -2159,6 +2273,7 @@
         "quantity": 1,
         "set_code": "cosmic_sorcery_by_justatuna",
         "set_position": 4,
+        "status": "released",
         "text": "<b>When Revealed</b>: Discard cards from the encounter deck until you discard a minion → reveal that minion.\n<hr>[star] <b>Boost</b>: Give this enemy 2 more boost cards.",
         "traits": "Spell.",
         "type_code": "treachery"
@@ -2177,6 +2292,7 @@
         "quantity": 1,
         "set_code": "cosmic_sorcery_by_justatuna",
         "set_position": 5,
+        "status": "released",
         "text": "<b>When Revealed</b>: The players as a group either spends [mental][mental][mental] resources or each player is confused and discards 1 card from their hand.\n<hr>[star] <b>Boost</b>: You are confused.",
         "traits": "Spell.",
         "type_code": "treachery"
@@ -2197,6 +2313,7 @@
         "scheme": 1,
         "set_code": "new_men_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "Toughness. Villainous. <i>(When this minion activates, give it a boost card.)</i>\n<hr>[star] <b>Boost</b>: Give this enemy 1 more boost card. If this activation deals damage to you, deal yourself 1 facedown encounter card.",
         "traits": "Elite. Evolutionary.",
         "type_code": "minion"
@@ -2217,6 +2334,7 @@
         "scheme": 2,
         "set_code": "new_men_by_justatuna",
         "set_position": 2,
+        "status": "released",
         "text": "Quickstrike.\n<b>Forced Response</b>: After Dhrovo attacks and deals damage to you, exhaust your hero.\n<hr>[star] <b>Boost</b>: Give this enemy 1 more boost card. If this activation deals damage to you, exhaust your hero.",
         "traits": "Aerial. Evolutionary.",
         "type_code": "minion"
@@ -2238,6 +2356,7 @@
         "scheme_star": true,
         "set_code": "new_men_by_justatuna",
         "set_position": 3,
+        "status": "released",
         "text": "<b>Forced Response</b>: After Evolved Tracker activates against you, discard 1 card from your hand.\n<hr>[star] <b>Boost</b>: Give this enemy 1 more boost card. If this activation deals damage to you, discard 1 card from your hand.",
         "traits": "Evolutionary.",
         "type_code": "minion"
@@ -2258,6 +2377,7 @@
         "scheme": 2,
         "set_code": "new_men_by_justatuna",
         "set_position": 4,
+        "status": "released",
         "text": "Surge.\n[star] Ja'Rou's attacks gain piercing.\n<hr>[star] <b>Boost</b>: Give this enemy 1 more boost card. If this activation deals damage to you, put Ja'Rou into play engaged with you.",
         "traits": "Evolutionary.",
         "type_code": "minion"
@@ -2277,6 +2397,7 @@
         "scheme": 1,
         "set_code": "new_men_by_justatuna",
         "set_position": 5,
+        "status": "released",
         "text": "Guard.\n<b>When Defeated</b>: Give the villain 1 facedown boost card.\n<hr>[star] <b>Boost</b>: Give this enemy 1 boost card. If this activation dealt damage to you, give this enemy 1 facedown boost card.",
         "traits": "Evolutionary.",
         "type_code": "minion"
@@ -2295,6 +2416,7 @@
         "scheme_amplify": 1,
         "set_code": "powers_cosmic_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "<b>When Defeated</b>: Discard cards from the encounter deck until you discard a card which has 3 or more printed icons ([star] and [boost]) in the card's boost area. Deal that card to yourself as a facedown encounter card.",
         "type_code": "side_scheme"
     },
@@ -2312,6 +2434,7 @@
         "quantity": 1,
         "set_code": "powers_cosmic_by_justatuna",
         "set_position": 2,
+        "status": "released",
         "text": "Attach to the villain.\nAttached character gains steady. (In expert mode, they gain stalwart instead.)\n<b>Hero Action</b>: Stun your hero and spend [physical][physical][physical] resources → discard Cosmic Prowess.",
         "traits": "Condition.",
         "type_code": "attachment"
@@ -2329,6 +2452,7 @@
         "quantity": 2,
         "set_code": "powers_cosmic_by_justatuna",
         "set_position": 3,
+        "status": "released",
         "text": "<b>When Revealed</b>: Give the villain 1 facedown boost card. (In expert mode, give the villain 1 additional facedown boost card.)\n<hr>[star] <b>Boost</b>: Give the villain 2 facedown boost cards.",
         "type_code": "treachery"
     },
@@ -2345,6 +2469,7 @@
         "quantity": 2,
         "set_code": "powers_cosmic_by_justatuna",
         "set_position": 5,
+        "status": "released",
         "text": "Surge.\n<b>When Revealed</b>: Remove each status card from the villain. Give the villain a tough status card.\n<hr>[star] <b>Boost</b>: This enemy gains stalwart for this activation.",
         "type_code": "treachery"
     },
@@ -2361,6 +2486,7 @@
         "quantity": 2,
         "set_code": "whispers_of_paranoia_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "Attach to your identity.\nYou cannot ready allies or [[persona]] supports you control.\n<b>Alter-Ego Action</b>: Discard an ally or [[persona]] support you control → discard this card.\n<hr>[star] <b>Boost</b>: If any ally is defeated by this attack, take indirect damage equal to that ally's printed cost.",
         "traits": "Illusion.",
         "type_code": "attachment"
@@ -2377,6 +2503,7 @@
         "quantity": 1,
         "set_code": "whispers_of_paranoia_by_justatuna",
         "set_position": 3,
+        "status": "released",
         "text": "Treat attached ally as a minion with a blank text box (except for [[traits]]). Attached minion's SCH is equal to its printed THW and it does not take consequential damage.\n<b>When Revealed</b>: Attach to the ally you control with the lowest cost. Attached ally engages its controller. Otherwise, this card gains surge.",
         "traits": "Illusion.",
         "type_code": "attachment"
@@ -2395,6 +2522,7 @@
         "quantity": 1,
         "set_code": "whispers_of_paranoia_by_justatuna",
         "set_position": 4,
+        "status": "released",
         "text": "Attached minion gets +1 hit point.\n<b>When Revealed</b>: Search the encounter deck, discard pile, and set-aside area for your nemesis minion, then reveal that minion. Attach Old Grudge to it. (Shuffle.)\n<hr>[star] <b>Boost</b>: Deal 1 damage to each character you control.",
         "traits": "Illusion.",
         "type_code": "attachment"
@@ -2414,6 +2542,7 @@
         "scheme_amplify": 1,
         "set_code": "whispers_of_paranoia_by_justatuna",
         "set_position": 5,
+        "status": "released",
         "text": "<b>When Revealed</b>: Search the encounter deck, discard pile, and set-aside area for your nemesis side scheme, then reveal it. Place X additional threat here, where X is equal to the amount of threat on that side scheme.",
         "type_code": "side_scheme"
     }

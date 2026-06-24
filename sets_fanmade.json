@@ -1611,96 +1611,127 @@
     {
         "card_set_type_code": "villain",
         "code": "the_gardener_by_justatuna",
-        "name": "The Gardener"
+        "name": "The Gardener",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "groot_by_justatuna",
-        "name": "Groot"
+        "name": "Groot",
+        "status": "released"
     },
     {
         "card_set_type_code": "villain",
         "code": "warbringer_by_justatuna",
-        "name": "Warbringer"
+        "name": "Warbringer",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "milano_mods_by_justatuna",
-        "name": "Milano Mods"
+        "name": "Milano Mods",
+        "status": "released"
     },
     {
         "card_set_type_code": "villain",
         "code": "escape_the_church_by_justatuna",
-        "name": "Escape the Church"
+        "name": "Escape the Church",
+        "status": "released"
     },
     {
         "card_set_type_code": "villain",
         "code": "high_evolutionary_by_justatuna",
-        "name": "High Evolutionary"
+        "name": "High Evolutionary",
+        "status": "released"
     },
     {
         "card_set_type_code": "villain",
         "code": "the_magus_by_justatuna",
-        "name": "The Magus"
+        "name": "The Magus",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "ship_command_ii_by_justatuna",
-        "name": "Ship Command II"
+        "name": "Ship Command II",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "growing_pain_by_justatuna",
-        "name": "Growing Pain"
+        "name": "Growing Pain",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "mercenary_fleet_by_justatuna",
-        "name": "Mercenary Fleet"
+        "name": "Mercenary Fleet",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "fetters_of_faith_by_justatuna",
-        "name": "Fetters of Faith"
+        "name": "Fetters of Faith",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "order_in_entropy_by_justatuna",
-        "name": "Order in Entropy"
+        "name": "Order in Entropy",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "cosmic_sorcery_by_justatuna",
-        "name": "Cosmic Sorcery"
+        "name": "Cosmic Sorcery",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "new_men_by_justatuna",
-        "name": "New Men"
+        "name": "New Men",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "powers_cosmic_by_justatuna",
-        "name": "Powers Cosmic"
+        "name": "Powers Cosmic",
+        "status": "released"
     },
     {
         "card_set_type_code": "modular",
         "code": "whispers_of_paranoia_by_justatuna",
-        "name": "Whispers of Paranoia"
+        "name": "Whispers of Paranoia",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero",
         "code": "nova_prime_by_justatuna",
-        "name": "Nova Prime"
+        "name": "Nova Prime",
+        "status": "sealed"
     },
     {
         "card_set_type_code": "nemesis",
         "code": "nova_prime_by_justatuna_nemesis",
-        "name": "Nova Prime Nemesis"
+        "name": "Nova Prime Nemesis",
+        "status": "sealed"
     },
     {
         "card_set_type_code": "hero",
         "code": "guardians_of_the_flarking_galaxy_by_justatuna",
-        "name": "Guardians of The Flarking Galaxy"
+        "name": "Guardians of The Flarking Galaxy",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "guardian_by_designhacker",
+        "name": "Guardian",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "guardian_by_designhacker_nemesis",
+        "name": "Guardian Nemesis",
+        "status": "sealed"
     }
 ]

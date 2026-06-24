@@ -16,6 +16,7 @@
         "recover": 3,
         "recover_star": true,
         "set_code": "nova_prime_by_justatuna",
+        "status": "sealed",
         "text": "<b>Setup</b>: Search your deck and discard pile for Nova Helmet and put it into play.\n[star] You get +1 REC for each card in your hand with a printed [wild] resource.",
         "traits": "Soldier.",
         "type_code": "alter_ego"
@@ -37,6 +38,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "nova_prime_by_justatuna",
+        "status": "sealed",
         "text": "<i>Human Rocket</i> — <b>Resource</b>: Spend [energy] [mental] [physical] resources → generate [wild][wild][wild][wild][wild] resources for a card in your hand.",
         "thwart": 2,
         "traits": "Guardian. Nova Corps.",
@@ -61,6 +63,7 @@
         "resource_wild": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 1,
+        "status": "sealed",
         "subname": "Peter Quill",
         "text": "You cannot play Star-Lord if you have played another card this phase.\n<b>Response</b>: After you play Star-Lord from your hand, discard your hand. Draw up to your hand size.",
         "thwart": 2,
@@ -83,6 +86,7 @@
         "resource_mental": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 2,
+        "status": "sealed",
         "text": "Your hero gains the [[AERIAL]] trait.\n<b>Hero Resource</b>: Exhaust Nova Helmet and discard 1 card from your hand → generate a [star] resource.",
         "traits": "Armor.",
         "type_code": "upgrade"
@@ -103,6 +107,7 @@
         "resource_mental": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 3,
+        "status": "sealed",
         "text": "<b>Response</b>: After a player spends Connection to the Worldmind, exhaust Xandar → that player draws 1 card.",
         "traits": "Location.",
         "type_code": "support"
@@ -122,6 +127,7 @@
         "resource_physical": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 4,
+        "status": "sealed",
         "text": "Requirement ([energy]).\n<b>Hero Action</b>: Ready Nova Prime and draw 1 card.",
         "traits": "Superpower.",
         "type_code": "event"
@@ -141,6 +147,7 @@
         "resource_physical": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 5,
+        "status": "sealed",
         "text": "Requirement ([mental]).\n<b>Hero Action</b>: Ready Nova Prime and draw 1 card.",
         "traits": "Superpower.",
         "type_code": "event"
@@ -160,6 +167,7 @@
         "resource_physical": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 6,
+        "status": "sealed",
         "text": "Requirement ([physical]).\n<b>Hero Action</b>: Ready Nova Prime and draw 1 card.",
         "traits": "Superpower.",
         "type_code": "event"
@@ -179,6 +187,7 @@
         "resource_physical": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 7,
+        "status": "sealed",
         "text": "Requirement ([wild]).\n<b>Hero Action</b>: Ready Nova Prime and draw 1 card.",
         "traits": "Superpower.",
         "type_code": "event"
@@ -198,6 +207,7 @@
         "resource_energy": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 8,
+        "status": "sealed",
         "text": "<b>Hero Action</b>: Ready Nova Prime. Until the end of the round, he gets +4 ATK and his attacks gain overkill and piercing.",
         "traits": "Superpower.",
         "type_code": "event"
@@ -217,6 +227,7 @@
         "resource_mental": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 9,
+        "status": "sealed",
         "text": "<b>Hero Action</b>: Ready Nova Prime. Until the end of the round, he gets +3 THW and threat he removes can be divided among schemes as you choose.",
         "traits": "Superpower.",
         "type_code": "event"
@@ -236,6 +247,7 @@
         "resource_energy": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 10,
+        "status": "sealed",
         "text": "<b>Hero Interrupt</b>: When a minion, treachery or side scheme is revealed from the encounter deck, cancel all of its effects and discard it. Draw 1 card for each icon ([star] and [boost]) in its boost area.",
         "traits": "Superpower.",
         "type_code": "event"
@@ -253,6 +265,7 @@
         "resource_wild": 1,
         "set_code": "nova_prime_by_justatuna",
         "set_position": 11,
+        "status": "sealed",
         "text": "Connection to the Worldmind does not count toward your hand size.",
         "type_code": "resource"
     },
@@ -271,6 +284,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 1,
+        "status": "released",
         "text": "Unit Cost 1.\n<b>Action</b>: Discard the top card of your deck. If that card's printed resource has:\n[physical] - Stun an enemy.\n[energy] - Draw 1 card.\n[mental] - Confuse an enemy.\n[wild] - All of the above.",
         "type_code": "event"
     },
@@ -289,6 +303,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 2,
+        "status": "released",
         "text": "Unit Cost 1.\n<b>Hero Interrupt</b>: When an identity would take any amount of damage, prevent 2 of that damage. Draw 1 card.",
         "type_code": "event"
     },
@@ -307,6 +322,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 3,
+        "status": "released",
         "text": "Unit Cost 1.\n<b>Action</b>: The next card played this round gains alliance. <i>(The players can pay that card's cost as a group.)</i> Draw 1 card.",
         "type_code": "event"
     },
@@ -325,6 +341,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 4,
+        "status": "released",
         "text": "Unit Cost 1.\n<b>Action</b>: Discard 1 card from your hand at random [arrow] draw 2 cards.",
         "type_code": "event"
     },
@@ -343,6 +360,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 5,
+        "status": "released",
         "text": "Unit Cost 2.\n<b>Hero Action</b>: Draw 1 card and choose a player. That player may draw 1 card, then choose and discard 1 card from their hand.",
         "type_code": "event"
     },
@@ -361,6 +379,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 6,
+        "status": "released",
         "text": "Unit Cost 2.\n<b>Hero Action</b>: Draw 1 card and remove a status card from any character. If the status card type removed this way was:\n• Tough - Deal 3 damage to an enemy.\n• Stun - Remove 3 threat from a scheme.\n• Confuse - Heal 3 damage from an identity.",
         "type_code": "event"
     },
@@ -379,6 +398,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 7,
+        "status": "released",
         "text": "Unit Cost 2.\n<b>Action</b>: Choose a player. That player changes form. Draw 1 card.",
         "type_code": "event"
     },
@@ -397,6 +417,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 8,
+        "status": "released",
         "text": "Unit Cost 2.\n<b>Interrupt</b>: When you play a card from your hand, deal yourself 1 facedown encounter card → reduce the cost to play that card by 3.",
         "type_code": "event"
     },
@@ -415,6 +436,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 9,
+        "status": "released",
         "text": "Unit Cost 3.\n<b>Hero Interrupt</b>: When a boost card is turned faceup, cancel that card's \"Boost\" ability and all of its boost icons ([boost]), then discard it. Draw 1 card.",
         "type_code": "event"
     },
@@ -432,6 +454,7 @@
         "quantity": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 10,
+        "status": "released",
         "text": "Unit Cost 3.\n<b>Hero Response</b>: After your hero removes 4 or more threat in a single thwart, draw 2 cards.",
         "type_code": "event"
     },
@@ -450,6 +473,7 @@
         "resource_wild": 11,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 11,
+        "status": "released",
         "text": "Unit Cost 3. <b>Hero Response</b>: After your hero deals 5 or more damage in a single attack, draw 2 cards.",
         "type_code": "event"
     },
@@ -468,6 +492,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 12,
+        "status": "released",
         "text": "Unit Cost 3.\n<b>Hero Response</b>: After 4 or more damage is prevented from an attack against your hero, draw 2 cards.",
         "type_code": "event"
     },
@@ -486,6 +511,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 13,
+        "status": "released",
         "text": "Unit Cost 4.\nThe player who controls the Milano gets +1 hand size.",
         "traits": "Milano Mod.",
         "type_code": "upgrade"
@@ -505,6 +531,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 14,
+        "status": "released",
         "text": "Unit Cost 4.\n<b>Interrupt</b>: When the Milano would take non-consequential damage, prevent 1 of it.",
         "traits": "Location. Milano Mod.",
         "type_code": "support"
@@ -524,6 +551,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 15,
+        "status": "released",
         "text": "Unit Cost 4.\nThe player who controls the Milano ignores crisis icons ([crisis]).\n<b>Response</b>: After the last threat of a scheme is removed, exhaust this card → any player draws 1 card.",
         "traits": "Milano. Mod. Tech.",
         "type_code": "upgrade"
@@ -543,6 +571,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 16,
+        "status": "released",
         "text": "Unit Cost 4.\nThe player who controls the Milano ignores the quickstrike keyword.\n<b>Response</b>: After an enemy is defeated, exhaust this card → any player draws 1 card.",
         "traits": "Milano Mod. Tech.",
         "type_code": "upgrade"
@@ -562,6 +591,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 17,
+        "status": "released",
         "text": "Unit Cost 5.\n<b>Hero Action</b>: Ready a friendly character. Draw 1 card.",
         "type_code": "event"
     },
@@ -580,6 +610,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 18,
+        "status": "released",
         "text": "Unit Cost 5.\n<b>Hero Interrupt</b>: When a card is revealed from the encounter deck, cancel the effects of that card and discard it.",
         "type_code": "event"
     },
@@ -598,6 +629,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 19,
+        "status": "released",
         "text": "Unit Cost 5.\n<b>Hero Action</b>: Give up to 2 friendly characters each a tough status card. Draw 1 card.",
         "type_code": "event"
     },
@@ -623,6 +655,7 @@
         "resource_wild": 11,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 20,
+        "status": "released",
         "text": "Unit Cost 5.\n<b>Hero Action</b>: Reduce the resource cost of the next card played this phase by 3.",
         "threat": 0,
         "thwart": 0,
@@ -644,6 +677,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 21,
+        "status": "released",
         "text": "Unit Cost 6.\n<b>Interrupt</b>: When the player who controls the Milano reveals a treachery card, exhaust this card → cancel its effects. Deal that player a facedown encounter card.",
         "traits": "Milano Mod. Tech.",
         "type_code": "upgrade"
@@ -653,7 +687,7 @@
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
-        "faction_code": "villain",
+        "faction_code": "campaign",
         "is_unique": false,
         "name": "Mounted Laser",
         "octgn_id": "dd936a4e-a089-44e1-bb57-a4111e020232",
@@ -662,6 +696,7 @@
         "quantity": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 22,
+        "status": "released",
         "text": "Unit Cost 6.\n<b>Hero Action</b>: Exhaust Mounted Laser → deal 2 damage to an enemy (3 damage instead if you control the Milano.)",
         "traits": "Milano Mod. Weapon.",
         "type_code": "upgrade"
@@ -681,6 +716,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 23,
+        "status": "released",
         "text": "Unit Cost 6.\n<b>Hero Action</b>: Exhaust Targeting Screen → remove 2 threat from a scheme (3 threat instead if you control the Milano.)",
         "traits": "Milano Mod. Tech.",
         "type_code": "upgrade"
@@ -700,6 +736,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 24,
+        "status": "released",
         "text": "Unit Cost 6.\nYour identity gains steady.\nThe player who controls the Milano gains stalwart. <i>(This character cannot be stunned or confused.)</i>",
         "traits": "Milano Mod. Tech.",
         "type_code": "upgrade"
@@ -719,6 +756,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 25,
+        "status": "released",
         "text": "Unit Cost 7.\n<b>Hero Action</b>: Draw up to your maximum hand size. Remove this card from the game.",
         "type_code": "event"
     },
@@ -738,6 +776,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 26,
+        "status": "released",
         "text": "Unit Cost 7.\n<b>Hero Action</b>: Deal 4 damage to each enemy and remove 4 threat from each scheme. Remove this card from the game.",
         "type_code": "event"
     },
@@ -756,6 +795,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 27,
+        "status": "released",
         "text": "Unit Cost 7.\n<b>Hero Action</b>: Choose a player. That player may add up to 3 cards from their discard pile to their hand. Remove this card from the game.",
         "type_code": "event"
     },
@@ -774,6 +814,7 @@
         "resource_wild": 1,
         "set_code": "guardians_of_the_flarking_galaxy_by_justatuna",
         "set_position": 28,
+        "status": "released",
         "text": "Unit Cost 7.\n<b>Hero Action</b>: Ready up to 3 friendly characters. Remove this card from the game.",
         "type_code": "event"
     }

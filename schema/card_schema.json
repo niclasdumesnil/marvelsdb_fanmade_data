@@ -63,6 +63,9 @@
 		"base_threat_per_group": {
 			"type": "boolean"
 		},
+		"base_threat_star": {
+			"type": "boolean"
+		},
 		"boost": {
 			"minimum": 1,
 			"type": "integer"
