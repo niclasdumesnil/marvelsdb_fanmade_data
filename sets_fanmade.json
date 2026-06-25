@@ -1745,5 +1745,15 @@
         "code": "robocop_by_misssugarpink_nemesis",
         "name": "Robocop Nemesis",
         "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "winter_soldier_by_rainy",
+        "name": "Winter Soldier"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "winter_soldier_by_rainy_nemesis",
+        "name": "Winter Soldier Nemesis"
     }
 ]

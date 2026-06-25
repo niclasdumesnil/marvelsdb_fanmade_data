@@ -1380,5 +1380,20 @@
         "status": "released",
         "theme": "Other",
         "visibility": "false"
+    },
+    {
+        "cgdb_id": 2076,
+        "code": "winter_soldier_by_rainy",
+        "confidential": "false",
+        "creator": "Rainy",
+        "date_release": "2026-06-25",
+        "name": "Winter Soldier",
+        "octgn_id": "3b91b4d9-3a3f-4993-9c7a-efdb221ce220",
+        "pack_type_code": "hero_fanmade",
+        "position": 2076,
+        "size": 26,
+        "status": "sealed",
+        "theme": "Marvel",
+        "visibility": "false"
     }
 ]

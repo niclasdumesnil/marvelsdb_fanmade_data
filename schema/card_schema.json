@@ -102,6 +102,14 @@
 		"deck_options": {
 			"items": {
 				"properties": {
+					"faction": {
+						"items": {
+							"minLength": 1,
+							"type": "string"
+						},
+						"minItems": 1,
+						"type": "array"
+					},
 					"limit": {
 						"minimum": 1,
 						"type": "integer"
