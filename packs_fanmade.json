@@ -1365,5 +1365,20 @@
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
+    },
+    {
+        "cgdb_id": 2075,
+        "code": "robocop_by_misssugarpink",
+        "confidential": "false",
+        "creator": "Misssugarpink",
+        "date_release": "2026-06-25",
+        "name": "Robocop",
+        "octgn_id": "16f339b1-f29c-456e-98bf-a9313065cd53",
+        "pack_type_code": "hero_fanmade",
+        "position": 2075,
+        "size": 23,
+        "status": "released",
+        "theme": "Other",
+        "visibility": "false"
     }
 ]

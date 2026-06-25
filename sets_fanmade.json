@@ -1733,5 +1733,17 @@
         "code": "guardian_by_designhacker_nemesis",
         "name": "Guardian Nemesis",
         "status": "sealed"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "robocop_by_misssugarpink",
+        "name": "Robocop",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "robocop_by_misssugarpink_nemesis",
+        "name": "Robocop Nemesis",
+        "status": "released"
     }
 ]

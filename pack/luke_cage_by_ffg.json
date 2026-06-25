@@ -15,7 +15,7 @@
         "quantity": 1,
         "recover": 4,
         "set_code": "luke_cage_by_ffg",
-        "text": "<i>Unbreakable Skin</i> \u2014 Luke Cage can have any number of tough status cards. Attacks against Luke Cage lose piercing.\n<b>Action</b>: Search your deck and discard pile for the Burstein Process upgrade and add it to your hand. (Limit once per phase.)",
+        "text": "<i>Unbreakable Skin</i> — Luke Cage can have any number of tough status cards. Attacks against Luke Cage lose piercing.\n<b>Action</b>: Search your deck and discard pile for the Burstein Process upgrade and add it to your hand. (Limit once per phase.)",
         "traits": "Civilian.",
         "type_code": "alter_ego"
     },
@@ -36,7 +36,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "luke_cage_by_ffg",
-        "text": "<i>Unbreakable Skin</i> \u2014 Luke Cage can have any number of tough status cards. Attacks against Luke Cage lose piercing.\n<b>Forced Response</b>: After a tough status card is discarded from Luke Cage, he takes 1 unpreventable damage <i>(ignoring tough)</i>.",
+        "text": "<i>Unbreakable Skin</i> — Luke Cage can have any number of tough status cards. Attacks against Luke Cage lose piercing.\n<b>Forced Response</b>: After a tough status card is discarded from Luke Cage, he takes 1 unpreventable damage <i>(ignoring tough)</i>.",
         "thwart": 2,
         "traits": "Defender.",
         "type_code": "hero"
@@ -160,7 +160,7 @@
         "resource_mental": 1,
         "set_code": "luke_cage_by_ffg",
         "set_position": 9,
-        "text": "<b>Response</b>: After a tough status is discarded from a defender character, exhaust Fogwell's Gym \u2192 ready that character.",
+        "text": "<b>Response</b>: After a tough status is discarded from a defender character, exhaust Fogwell's Gym → ready that character.",
         "traits": "Location.",
         "type_code": "support"
     },
@@ -180,7 +180,7 @@
         "resource_mental": 1,
         "set_code": "luke_cage_by_ffg",
         "set_position": 10,
-        "text": "<b>Alter-Ego Action</b>: Exhaust Burstein Process \u2192 give Luke Cage a tough status card (2 tough status cards instead if he has none).",
+        "text": "<b>Alter-Ego Action</b>: Exhaust Burstein Process → give Luke Cage a tough status card (2 tough status cards instead if he has none).",
         "traits": "Condition.",
         "type_code": "upgrade"
     },
@@ -218,7 +218,7 @@
         "resource_mental": 1,
         "set_code": "luke_cage_by_ffg",
         "set_position": 13,
-        "text": "Luke Cage gains retaliate 1.\n<b>Hero Interrupt</b>: When any amount of damage would be dealt to Luke Cage, exhaust Metal Bracer \u2192 reduce that damage by 1.",
+        "text": "Luke Cage gains retaliate 1.\n<b>Hero Interrupt</b>: When any amount of damage would be dealt to Luke Cage, exhaust Metal Bracer → reduce that damage by 1.",
         "traits": "Armor. Item.",
         "type_code": "upgrade"
     },
@@ -238,7 +238,7 @@
         "resource_physical": 1,
         "set_code": "luke_cage_by_ffg",
         "set_position": 15,
-        "text": "<b>Hero Response</b>: After a tough status card is discarded from Luke Cage, exhaust Power Man \u2192 draw a card.",
+        "text": "<b>Hero Response</b>: After a tough status card is discarded from Luke Cage, exhaust Power Man → draw a card.",
         "traits": "Title.",
         "type_code": "upgrade"
     },
@@ -332,7 +332,7 @@
         "position": 18,
         "quantity": 3,
         "resource_energy": 1,
-        "text": "Uses (3 block counters).\n<b>Action</b>: Exhaust this card and remove 1 block counter from it \u2192 give a [[Defender]] ally a tough status card.",
+        "text": "Uses (3 block counters).\n<b>Action</b>: Exhaust this card and remove 1 block counter from it → give a [[Defender]] ally a tough status card.",
         "traits": "Tactic.",
         "type_code": "support"
     },

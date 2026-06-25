@@ -7,7 +7,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "Zebediah Killgrave's chemically \u2013modified pheromones influence everybody in close proximity.",
+        "flavor": "Zebediah Killgrave's chemically -modified pheromones influence everybody in close proximity.",
         "health": 6,
         "is_unique": true,
         "name": "Purple Man",
@@ -49,7 +49,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\u201cDo me a favor...\u201d \u2013Purple Man",
+        "flavor": "“Do me a favor...” -Purple Man",
         "is_unique": false,
         "name": "Suggestion",
         "octgn_id": "7f19133c-13a9-4b3e-a364-bf1741061033",
@@ -58,7 +58,7 @@
         "quantity": 1,
         "set_code": "jessica_jones_nemesis",
         "set_position": 3,
-        "text": "Uses (3 pheromone counters).\n<b>Forced Action</b>: Exhaust this card and remove 1 pheromone counter from it \u2192 choose to either play a card that has a printed [energy] resource icon <i>(paying its costs)</i> or add 2 threat to the main scheme.",
+        "text": "Uses (3 pheromone counters).\n<b>Forced Action</b>: Exhaust this card and remove 1 pheromone counter from it → choose to either play a card that has a printed [energy] resource icon <i>(paying its costs)</i> or add 2 threat to the main scheme.",
         "type_code": "obligation"
     },
     {
@@ -67,7 +67,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\u201cSimon didn't say so.\u201d \u2013Purple Man",
+        "flavor": "“Simon didn't say so.” -Purple Man",
         "is_unique": false,
         "name": "Suggestion",
         "octgn_id": "7f19133c-13a9-4b3e-a364-bf1741061033",
@@ -76,7 +76,7 @@
         "quantity": 1,
         "set_code": "jessica_jones_nemesis",
         "set_position": 4,
-        "text": "Uses (3 pheromone counters).\n<b>Forced Action</b>: Exhaust this card and remove 1 pheromone counter from it \u2192 choose to either play a card that has a printed [mental] resource icon <i>(paying its costs)</i> or add 2 threat to the main scheme.",
+        "text": "Uses (3 pheromone counters).\n<b>Forced Action</b>: Exhaust this card and remove 1 pheromone counter from it → choose to either play a card that has a printed [mental] resource icon <i>(paying its costs)</i> or add 2 threat to the main scheme.",
         "type_code": "obligation"
     },
     {
@@ -85,7 +85,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\u201cNuh-uh-uh.\u201d \u2013Purple Man",
+        "flavor": "“Nuh-uh-uh.” -Purple Man",
         "is_unique": false,
         "name": "Suggestion",
         "octgn_id": "7f19133c-13a9-4b3e-a364-bf1741061033",
@@ -94,7 +94,7 @@
         "quantity": 1,
         "set_code": "jessica_jones_nemesis",
         "set_position": 5,
-        "text": "Uses (3 pheromone counters).\n<b>Forced Action</b>: Exhaust this card and remove 1 pheromone counter from it \u2192 choose to either play a card that has a printed [physical] resource icon <i>(paying its costs)</i> or add 2 threat to the main scheme.",
+        "text": "Uses (3 pheromone counters).\n<b>Forced Action</b>: Exhaust this card and remove 1 pheromone counter from it → choose to either play a card that has a printed [physical] resource icon <i>(paying its costs)</i> or add 2 threat to the main scheme.",
         "type_code": "obligation"
     }
 ]

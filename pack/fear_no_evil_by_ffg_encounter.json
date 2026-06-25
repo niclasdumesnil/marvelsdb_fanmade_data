@@ -66,7 +66,7 @@
         "scheme": 1,
         "set_code": "daredevil_by_ffg_nemesis",
         "set_position": 1,
-        "text": "<b>When Revealed</b>: Choose:\n\u2022 Discard a [[PERSONA]] support you control.\n\u2022 Bullseye attacks you (even in alter-ego form).",
+        "text": "<b>When Revealed</b>: Choose:\n• Discard a [[PERSONA]] support you control.\n• Bullseye attacks you (even in alter-ego form).",
         "thwart": 1,
         "traits": "Assassin.",
         "type_code": "minion"
@@ -105,7 +105,7 @@
         "quantity": 2,
         "set_code": "daredevil_by_ffg_nemesis",
         "set_position": 3,
-        "text": "Attach to the enemy with the highest ATK.\n[star] Attached character's attacks gain piercing.\n<b>Hero Action</b>: Spend [physical] [physical] resources \u2192 choose to either attach this card to Elektra or discard it.\n<hr>[star] <b>Boost</b>:</b> If this activation is an attack, it gains piercing.",
+        "text": "Attach to the enemy with the highest ATK.\n[star] Attached character's attacks gain piercing.\n<b>Hero Action</b>: Spend [physical] [physical] resources → choose to either attach this card to Elektra or discard it.\n<hr>[star] <b>Boost</b>:</b> If this activation is an attack, it gains piercing.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },
@@ -123,7 +123,7 @@
         "quantity": 1,
         "set_code": "daredevil_by_ffg_nemesis",
         "set_position": 5,
-        "text": "<b>When Revealed</b>: Choose:\n\u2022 Remove an ally or [[PERSONA]] support you control from the game.\n\u2022 Bullseye attacks you (even in alter-ego form). If he is not in play, find him and reveal him.",
+        "text": "<b>When Revealed</b>: Choose:\n• Remove an ally or [[PERSONA]] support you control from the game.\n• Bullseye attacks you (even in alter-ego form). If he is not in play, find him and reveal him.",
         "type_code": "treachery"
     },
     {
