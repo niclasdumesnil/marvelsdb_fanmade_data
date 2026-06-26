@@ -16,21 +16,21 @@
     {
         "code": "204402",
         "flavor": "« Déteste le jeu, pas les joueurs ! » – Gwenpool",
-        "name": "\"J'Arrive!\"",
+        "name": "« J'Arrive ! »",
         "text": "<b>Action de héros</b> <i>(attaque)</i>  : infligez 5 dégâts à un ennemi. Cette attaque gagne Déferlement. Si un ennemi est vaincu par cet attaque, _______.",
         "traits": "Attaque."
     },
     {
         "code": "204403",
         "flavor": "« Vous vous demandez sûrement comment je suis arrivée ici... » – Gwenpool",
-        "name": "\"Cela Ne Peut Se Finir Ainsi!\"",
+        "name": "« Cela Ne Peut Se Finir Ainsi ! »",
         "text": "<b>Action de héros</b> <i>(attaque/contre)</i> : infligez 1 dégât au méchant et retirez 1 menace de la manigance principale. Si le méchant a manigancé au tour précédent, _______.",
         "traits": "Attaque. Contre."
     },
     {
         "code": "204405",
         "flavor": "« Je déteste ça ! » – Gwenpool",
-        "name": "« Désolée, J'ai Piscine ! »",
+        "name": "« Désolée, J'ai Piscine ! »",
         "text": "<b>Action de héros</b> (<i>contre</i>) : retirez 2 menaces d'une manigance. Ce contre ignore le mot-clé Patrouille et l'icône de crise ([crisis]). Si ce contre déjoue une manigance, _______.",
         "traits": "Contre."
     },
