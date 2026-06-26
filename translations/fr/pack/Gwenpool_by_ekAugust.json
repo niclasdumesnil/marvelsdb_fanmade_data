@@ -1,0 +1,76 @@
+[
+    {
+        "code": "204401a",
+        "flavor": "« Vous n'êtes tous que des personnages de comics dans mon monde »",
+        "name": "Gwenpool",
+        "text": "<i>Prise de Conscience du Média</i> — <b>Interruption</b> : quand vous résolvez une capacité d'une carte Gwenpool, remplacez « _______ » par une phrase d'une bulle de dialogue. (<i>Utilisez une bulle d'une carte que vous êtes en train de jouer, que vous avez dépensée, ou d'une carte en jeu.</i>) (Limite pour chaque bulle d'une fois par phase.)",
+        "traits": "Avenger."
+    },
+    {
+        "code": "204401b",
+        "flavor": "« Si tu ne portes pas de masque ou de cape, tu n'es rien du tout. »",
+        "name": "Gwendolyn Poole",
+        "text": "<i>« Je ne serais pas une figurante »</i> — <b>Action</b> : trouvez une carte Gwenpool et ajoutez-la à votre main. (Limite d'une fois par phase.)",
+        "traits": "Mutant."
+    },
+    {
+        "code": "204402",
+        "flavor": "« Déteste le jeu, pas les joueurs ! » – Gwenpool",
+        "name": "\"J'Arrive!\"",
+        "text": "<b>Action de héros</b> <i>(attaque)</i>  : infligez 5 dégâts à un ennemi. Cette attaque gagne Déferlement. Si un ennemi est vaincu par cet attaque, _______.",
+        "traits": "Attaque."
+    },
+    {
+        "code": "204403",
+        "flavor": "« Vous vous demandez sûrement comment je suis arrivée ici... » – Gwenpool",
+        "name": "\"Cela Ne Peut Se Finir Ainsi!\"",
+        "text": "<b>Action de héros</b> <i>(attaque/contre)</i> : infligez 1 dégât au méchant et retirez 1 menace de la manigance principale. Si le méchant a manigancé au tour précédent, _______.",
+        "traits": "Attaque. Contre."
+    },
+    {
+        "code": "204405",
+        "flavor": "« Je déteste ça ! » – Gwenpool",
+        "name": "« Désolée, J'ai Piscine ! »",
+        "text": "<b>Action de héros</b> (<i>contre</i>) : retirez 2 menaces d'une manigance. Ce contre ignore le mot-clé Patrouille et l'icône de crise ([crisis]). Si ce contre déjoue une manigance, _______.",
+        "traits": "Contre."
+    },
+    {
+        "code": "204404",
+        "flavor": "« Qu'est ce que j'ai loupé ? » – Gwenpool",
+        "name": "Super Bruit de Fond",
+        "text": "<b>Action de héros</b> : quand une carte traîtrise est révélée du deck Rencontre, annulez ses effets « <b>une fois révélée</b> » et défaussez là. Ensuite, _______."
+    },
+    {
+        "code": "204406",
+        "name": "Scénarii sans Fin",
+        "text": "<b>Réponse de héros</b> : après que vous avez dépensé cette carte, _______ et _______."
+    },
+    {
+        "code": "204409",
+        "name": "Chambre de Gwen",
+        "text": "Vous gagnez +1 REC.\n<b>Action d'alter ego</b> : inclinez la Chambre de Gwen → soignez 1 dégât de Gwendolyne Poole. Ensuite, cherchez L'Incroyable Gwenpool et ajoutez-la à votre main.",
+        "traits": "Lieu."
+    },
+    {
+        "code": "204407",
+        "name": "Scénarii sans Fin",
+        "text": "<b>Réponse de héros</b> : après que vous avez dépensé cette carte, _______ et _______."
+    },
+    {
+        "code": "204408",
+        "name": "Scénarii sans Fin",
+        "text": "<b>Réponse de héros</b> : après que vous avez dépensé cette carte, _______ et _______."
+    },
+    {
+        "code": "204410",
+        "name": "Planches de Comics",
+        "text": "<b>Ressource de héros</b> : inclinez Planches de Comics → générez une ressource [wild] et _______.\n<b>Action de héros</b> : inclinez Planches de Comics et L'Incroyable Gwenpool → _______ et _______.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "204411",
+        "name": "L'Incroyable Gwenpool",
+        "text": "<b>Action d'alter ego</b> : inclinez L'Incroyable Gwenpool → cherchez dans votre deck une carte Gwenpool et attachez-là face visible à cette carte (jusqu'à un maximum de 1). <i>(Mélangez.)</i> Vous pouvez utiliser les bulles de dialogue de la carte attachée.\n<b>Action de héros</b> : piochez 2 cartes et _______. Défaussez L'Incroyable Gwenpool.",
+        "traits": "Objet."
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "code": "204412",
+        "name": "La FIN",
+        "text": "<b><i>Donnez cette carte au joueur de Gwendolyn Poole.</i></b>\nVous ne pouvez pas utiliser les bulles de dialogues des cartes Gwenpool.\n<b>Action d'alter ego</b> : inclinez Gwendolyn Poole et défaussez L'Incroyable Gwenpool → retirez La FIN de la partie."
+    },
+    {
+        "code": "204413",
+        "name": "Règles de l'Univers",
+        "text": "Permanent.\nTant qu'il n'y a pas de menace sur cette manigance, elle perd l'icône [hazard].\n<b>Interruption forcée</b> : quand vous résolvez une capacité sur une carte Gwenpool, remplacez « _______ » par la phrase de la bulle de dialogue de Evil Gwenpool."
+    },
+    {
+        "code": "204414",
+        "name": "Evil Gwenpool",
+        "text": "Solide. Vilénie.\n<b>Une fois vaincue</b> : mélangez Evil Gwenpool dans le deck Rencontre.\n<hr>[star] <b>Boost</b>  : mettez Evil Gwenpool en jeu engagée avec vous.\n<i>(Sbire Némésis de Gwenpool.)</i>",
+        "traits": "Élite. Variant."
+    },
+    {
+        "code": "204415",
+        "name": "Casser la Réalité",
+        "text": "Incitation 1.\n<b>Une fois révélée</b> : cherchez Evil Gwenpool dans le deck Rencontre et révélez-la. <i>(Mélangez.)</i> Si L'Incroyable Gwenpool est en jeu, elle gagne Coup Rapide. Si Evil Gwenpool était déjà en jeu, ajoutez 2[per_hero] menaces sur Règles de l'Univers."
+    },
+    {
+        "code": "204416",
+        "name": "« Mon Futur Moi me Fait Peur  »",
+        "text": "Incitation 0 (Incitation 1 à la place si vous jouez en multijoueur).\nIncitation 1 (Incitation 2 à la place si vous jouez en mode expert).\n<b>Une fois révélée</b> : si Evil Gwenpool est en jeu, ajoutez 2 menaces sur Règles de l'Univers et mélangez cette carte dans le deck Rencontre."
+    }
+]
