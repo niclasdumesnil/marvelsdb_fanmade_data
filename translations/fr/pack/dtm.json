@@ -10,36 +10,36 @@
         "code": "44102",
         "name": "Moon Knight",
         "subname": "Marc Spector",
-        "text": "<b>Réponse forcée</b>: après que Moon Knight est entré en jeu, défaussez une carte de votre main. Si cette carte a comme ressource imprimée :\n[energy] - Piochez une carte.\n[mental] - Désorientez un ennemi.\n[physical] - Sonnez un ennemi.\n[wild] - Choisissez 2 des options ci-dessus.",
+        "text": "<b>Réponse forcée</b> : après que Moon Knight est entré en jeu, défaussez une carte de votre main. Si cette carte a comme ressource imprimée :\n[energy] - Piochez une carte.\n[mental] - Désorientez un ennemi.\n[physical] - Sonnez un ennemi.\n[wild] - Choisissez 2 des options ci-dessus.",
         "traits": "Avenger. Héros à Louer."
     },
     {
         "code": "44103",
-        "flavor": "« Appelez-nous à vos risques et périls. »",
+        "flavor": "« Appelez-nous à vos risques et périls. »",
         "name": "Venom",
         "subname": "Eddie Brock",
-        "text": "<b>Réponse forcée</b> : après que Venom est entré en jeu, placez 2 menaces sur la manigance principale.",
+        "text": "<b>Réponse forcée</b> : après que Venom est entré en jeu, placez 2 menaces sur la manigance principale.",
         "traits": "Symbiote."
     },
     {
         "code": "44104",
-        "flavor": "« Je suis un dur à cuire, mon pote. »",
+        "flavor": "« Je suis un dur à cuire, mon pote. »",
         "name": "Wolverine",
         "subname": "Logan",
-        "text": "<b>Réponse forcée</b> : après que Wolverine a contré, soignez-le de 2 dégâts.",
+        "text": "<b>Réponse forcée</b> : après que Wolverine a contré, soignez-le de 2 dégâts.",
         "traits": "Avenger. X-Men."
     },
     {
         "code": "44105",
-        "flavor": "« Tu ne fais que rendre Hulk plus en COLÈRE. » – HULK",
+        "flavor": "« Tu ne fais que rendre Hulk plus en COLÈRE. » – HULK",
         "name": "Rayon d'Explosion",
-        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez jusqu'à 5 dégâts à votre héros et choisissez jusqu'à 3 ennemis → infligez X dégâts à chaque ennemi choisi, où X est la quantité de dégâts subis par votre héros par cet effet.",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez jusqu'à 5 dégâts à votre héros et choisissez jusqu'à 3 ennemis → infligez X dégâts à chaque ennemi choisi, où X est la quantité de dégâts subis par votre héros par cet effet.",
         "traits": "Attaque."
     },
     {
         "code": "44106",
         "name": "Bouclier Humain",
-        "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand un personnage ami est censé subir n'importe quelle quantité de dégâts d'une attaque, prévenez jusqu'à 3 de ces dégâts. Ensuite, si vous avez subi des dégâts de cette attaque, redressez votre héros.",
+        "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand un personnage ami est censé subir n'importe quelle quantité de dégâts d'une attaque, prévenez jusqu'à 3 de ces dégâts. Ensuite, si vous avez subi des dégâts de cette attaque, redressez votre héros.",
         "traits": "Défense."
     },
     {
@@ -50,100 +50,100 @@
     {
         "code": "44108",
         "name": "Escouade de Mercenaires",
-        "text": "Utilisations (3 jetons Tactique).\n<b>Action</b> : retirez 1 jeton Tactique de l'Escouade de Mercenaires et inclinez-la → infligez 1 dégât à un ennemi et retirez 1 menace de la manigance principale.",
-        "traits": "Mercenaires à Payer"
+        "text": "Utilisations (3 jetons Tactique).\n<b>Action</b> : retirez 1 jeton Tactique de l'Escouade de Mercenaires et inclinez-la → infligez 1 dégât à un ennemi et retirez 1 menace de la manigance principale.",
+        "traits": "Mercenaires à Payer."
     },
     {
         "code": "44109",
-        "flavor": "« ... Je les sauverai » – Angel",
+        "flavor": "« ... Je les sauverai » – Angel",
         "name": "Syndrome du Héros",
-        "text": "<b>Interruption de héros</b> : quand un allié que vous contrôlez est censé subir des dégâts consécutifs, inclinez le Syndrome du Héros → infligez ces dégâts à votre héros à la place.",
+        "text": "<b>Interruption de héros</b> : quand un allié que vous contrôlez est censé subir des dégâts consécutifs, inclinez le Syndrome du Héros → infligez ces dégâts à votre héros à la place.",
         "traits": "Condition."
     },
     {
         "code": "44110",
         "name": "Veste de Combat Héroïque",
-        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 max par joueur.\n<b>Action de héros</b> : subissez 1 dégât → votre héros gagne +1 CTR ou +1 ATQ ou +1 DEF jusqu'à la fin du round. (Limite d'une fois par round.)",
+        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 max par joueur.\n<b>Action de héros</b> : subissez 1 dégât → votre héros gagne +1 CTR ou +1 ATQ ou +1 DEF jusqu'à la fin du round. (Limite d'une fois par round.)",
         "traits": "Armure."
     },
     {
         "code": "44111",
         "name": "Je peux faire ça toute la journée",
-        "text": "1 max par joueur.\n<b>Interruption</b> : quand votre héros est censé être vaincu, placez 1[per_hero] menace sur la manigance principale et fixez votre compteur de points de vie à 1 à la place. Ensuite, retirez cette carte de la partie.",
-        "traits": "Condition"
+        "text": "1 max par joueur.\n<b>Interruption</b> : quand votre héros est censé être vaincu, placez 1[per_hero] menace sur la manigance principale et fixez votre compteur de points de vie à 1 à la place. Ensuite, retirez cette carte de la partie.",
+        "traits": "Condition."
     },
     {
         "code": "44112",
         "name": "Disparu en un Éclair",
-        "text": "Jouez cette carte uniquement si les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> : désorientez un ennemi. Ensuite, changez de forme.",
+        "text": "Jouez cette carte uniquement si les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> : désorientez un ennemi. Ensuite, changez de forme.",
         "traits": "Tactique."
     },
     {
         "code": "44113",
         "name": "Reconnaissance",
-        "text": "<b>Action de héros</b> : dépensez une ressource de n'importe quel type ou inclinez un personnage ami que vous contrôlez → regardez jusqu'à 3 cartes Rencontre face cachée. Si un sbire est regardé de cette manière, mettez-le en jeu engagé avec vous et piochez 2 cartes. (Limite d'une fois par round.)",
+        "text": "<b>Action de héros</b> : dépensez une ressource de n'importe quel type ou inclinez un personnage ami que vous contrôlez → regardez jusqu'à 3 cartes Rencontre face cachée. Si un sbire est regardé de cette manière, mettez-le en jeu engagé avec vous et piochez 2 cartes. (Limite d'une fois par round.)",
         "traits": "Tactique."
     },
     {
         "code": "44114",
         "name": "Contre-Offensive",
-        "text": "1 max par joueur.\n<b>Réponse de héros</b> : après qu'une attaque avec déferlement a vaincu un allié que vous contrôlez et vous a blessé, défaussez Contre-Offensive → infligez X dégâts à un ennemi, où X est la somme des ATQ de cet allié et de votre héros.",
+        "text": "1 max par joueur.\n<b>Réponse de héros</b> : après qu'une attaque avec déferlement a vaincu un allié que vous contrôlez et vous a blessé, défaussez Contre-Offensive → infligez X dégâts à un ennemi, où X est la somme des ATQ de cet allié et de votre héros.",
         "traits": "Préparation."
     },
     {
         "code": "44115",
-        "flavor": "« Ce plan de secours semble bon… Enfin, dans les grandes lignes… »",
+        "flavor": "« Ce plan de secours semble bon… Enfin, dans les grandes lignes… »",
         "name": "Préparation #2",
-        "text": "1 max par joueur.\n<b>Action de héros</b> : infligez 2 dégâts à votre héros et défaussez Préparation #2 → redressez votre héros et infligez 1 dégât à chaque sbire engagé avec vous.",
+        "text": "1 max par joueur.\n<b>Action de héros</b> : infligez 2 dégâts à votre héros et défaussez Préparation #2 → redressez votre héros et infligez 1 dégât à chaque sbire engagé avec vous.",
         "traits": "Préparation."
     },
     {
         "code": "44116",
-        "flavor": "« C'est MOI ! Vous ne savez pas ce que vous allez prendre ! »",
+        "flavor": "« C'est MOI ! Vous ne savez pas ce que vous allez prendre ! »",
         "name": "Deadpool",
         "subname": "Wade Wilson",
-        "text": "<b>Réponse forcée</b> : après que Deadpool est entré en jeu, attribuez-vous une carte Rencontre.",
+        "text": "<b>Réponse forcée</b> : après que Deadpool est entré en jeu, attribuez-vous une carte Rencontre.",
         "traits": "Avenger. Héros à Louer."
     },
     {
         "code": "44117",
-        "flavor": "« À chaque respiration la douleur s'intensifie. Elle alimente mon pouvoir. » – Penance",
+        "flavor": "« À chaque respiration la douleur s'intensifie. Elle alimente mon pouvoir. » – Penance",
         "name": "Masochisme",
-        "text": "<b>Réponse de héros</b> : après que vous avez subi plus de 3 dégâts, piochez X cartes où X est la quantité de dégâts que vous avez subi au-delà de 3.",
+        "text": "<b>Réponse de héros</b> : après que vous avez subi plus de 3 dégâts, piochez X cartes où X est la quantité de dégâts que vous avez subi au-delà de 3.",
         "traits": "Tactique."
     },
     {
         "code": "44118",
-        "flavor": "« Ressens la douleur, assassin !  Ressens sa brûlure ! Ressens ce que tu as infligé aux autres ! » – Daniel Ketch",
+        "flavor": "« Ressens la douleur, assassin !  Ressens sa brûlure ! Ressens ce que tu as infligé aux autres ! » – Daniel Ketch",
         "name": "Ressentir la Douleur",
         "text": "Tant que les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie maximum, votre héros gagne riposte 1.",
         "traits": "Condition."
     },
     {
         "code": "44119",
-        "flavor": "« Si tout échoue, alors botte moi le cul ! » – Amadeus Cho",
+        "flavor": "« Si tout échoue, alors botte moi le cul ! » – Amadeus Cho",
         "name": "Galvaniser",
-        "text": "Jouez cette carte uniquement si les points de vie maximum de votre héros sont de 12 ou plus.\n<b>Action de héros</b> : inclinez Galvaniser et subissez 3 dégâts → redressez votre héros ou piochez 1 carte.",
+        "text": "Jouez cette carte uniquement si les points de vie maximum de votre héros sont de 12 ou plus.\n<b>Action de héros</b> : inclinez Galvaniser et subissez 3 dégâts → redressez votre héros ou piochez 1 carte.",
         "traits": "Tactique."
     },
     {
         "code": "44120",
         "name": "Tenir Bon",
-        "text": "1 max par joueur.\n<b>Action de héros</b> : inclinez Tenir Bon et subissez 2 dégâts → si vous avez moins de la moitié de vos points de vie maximum restants, votre taille de main augmente de +2 jusqu'à la fin de la phase.",
+        "text": "1 max par joueur.\n<b>Action de héros</b> : inclinez Tenir Bon et subissez 2 dégâts → si vous avez moins de la moitié de vos points de vie maximum restants, votre taille de main augmente de +2 jusqu'à la fin de la phase.",
         "traits": "Condition."
     },
     {
         "code": "44121",
         "name": "Spontanéité",
-        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 max par joueur.\n<b>Ressource</b> : inclinez Spontanéité et subissez 1 dégât → générez une ressource [wild] pour un événement Détermination.",
+        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 max par joueur.\n<b>Ressource</b> : inclinez Spontanéité et subissez 1 dégât → générez une ressource [wild] pour un événement Détermination.",
         "traits": "Compétence."
     },
     {
         "code": "44122",
-        "flavor": "« Toute l'éternité est contenue dans ma cape des ténèbres ! »",
+        "flavor": "« Toute l'éternité est contenue dans ma cape des ténèbres ! »",
         "name": "La Cape",
         "subname": "Tyrone Johnson",
-        "text": "Vous pouvez jouer les cartes attachées à La Cape comme si elles étaient dans votre main.\n<b>Action de héros</b> : inclinez La Cape → choisissez un allié ou une amélioration de votre main et attachez cette carte à La Cape face cachée.",
+        "text": "Vous pouvez jouer les cartes attachées à La Cape comme si elles étaient dans votre main.\n<b>Action de héros</b> : inclinez La Cape → choisissez un allié ou une amélioration de votre main et attachez cette carte à La Cape face cachée.",
         "traits": "Avenger. X-Men."
     },
     {
@@ -155,22 +155,22 @@
     },
     {
         "code": "44124",
-        "flavor": "« Je m'ennuyais. Je fais des choses comme ça quand je m'ennuie. »",
+        "flavor": "« Je m'ennuyais. Je fais des choses comme ça quand je m'ennuie. »",
         "name": "Elektra",
         "subname": "Elektra Natchios",
         "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nLes attaques d'Elektra gagnent Perçant et À Distance.",
-        "traits": "S.H.I.E.L.D. Hero à Louer"
+        "traits": "S.H.I.E.L.D. Hero à Louer."
     },
     {
         "code": "44125",
-        "flavor": "« Je ne cherche pas le pouvoir. Je cherche seulement la paix. »",
+        "flavor": "« Je ne cherche pas le pouvoir. Je cherche seulement la paix. »",
         "name": "Shang-Chi",
-        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n<b>Réponse</b> : après que Shang-Chi a retiré la dernière menace d'une manigance ou vaincu un sbire, redressez-le.",
+        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n<b>Réponse</b> : après que Shang-Chi a retiré la dernière menace d'une manigance ou vaincu un sbire, redressez-le.",
         "traits": "Avenger."
     },
     {
         "code": "44126",
-        "flavor": "« 4 morts et je parie que mon rythme cardiaque est toujours en dessous de 80. Pas mal pour un échauffement. »",
+        "flavor": "« 4 morts et je parie que mon rythme cardiaque est toujours en dessous de 80. Pas mal pour un échauffement. »",
         "name": "The Punisher",
         "subname": "Frank Castle",
         "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n[star] Les attaques du Punisher gagnent Perçant et À Distance.",
@@ -178,59 +178,59 @@
     },
     {
         "code": "44127",
-        "flavor": "« Tu as des couilles finalement ! » – Captain America",
+        "flavor": "« Tu as des couilles finalement ! » – Captain America",
         "name": "Coup Bas",
-        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 2 dégâts à un ennemi (4 dégâts à la place si cet ennemi est sonné ou désorienté). Cette attaque gagne Perçant.",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 2 dégâts à un ennemi (4 dégâts à la place si cet ennemi est sonné ou désorienté). Cette attaque gagne Perçant.",
         "traits": "Attaque."
     },
     {
         "code": "44128",
         "name": "A Charge de Revanche",
-        "text": "<b>Action de héros</b> (<i>attaque/contre</i>) : subissez jusqu'à 3 dégâts → infligez X dégât répartis parmi les ennemis de votre choix, puis retirez X menaces réparties parmi les manigances de votre choix, où X est la quantité de dégâts ainsi subi.",
+        "text": "<b>Action de héros</b> (<i>attaque/contre</i>) : subissez jusqu'à 3 dégâts → infligez X dégât répartis parmi les ennemis de votre choix, puis retirez X menaces réparties parmi les manigances de votre choix, où X est la quantité de dégâts ainsi subi.",
         "traits": "Attaque. Contre."
     },
     {
         "code": "44129",
         "flavor": "*BAMF* *BAMF*     *BAMF*",
         "name": "Une Épine dans les Pieds",
-        "text": "<b>Action de héros</b> (<i>contre</i>) : retirez 2 menaces d'une manigance. Ensuite, vous pouvez subir jusqu'à 5 dégâts et retirer 1 menace parmi les manigances de votre choix pour chaque point de dégât que vous avez subi de cette manière.",
+        "text": "<b>Action de héros</b> (<i>contre</i>) : retirez 2 menaces d'une manigance. Ensuite, vous pouvez subir jusqu'à 5 dégâts et retirer 1 menace parmi les manigances de votre choix pour chaque point de dégât que vous avez subi de cette manière.",
         "traits": "Contre."
     },
     {
         "code": "44130",
         "name": "Shot d'Adrénaline",
-        "text": "Utilisation (3 jetons Adrénaline).\n<b>Action</b> : retirez 1 jeton Adrénaline du Shot d'Adrénaline et inclinez-le → choisissez un allié. La prochaine attaque de cet allié inflige 2 dégâts supplémentaires et il subit 1 dégât consécutif supplémentaire.",
+        "text": "Utilisation (3 jetons Adrénaline).\n<b>Action</b> : retirez 1 jeton Adrénaline du Shot d'Adrénaline et inclinez-le → choisissez un allié. La prochaine attaque de cet allié inflige 2 dégâts supplémentaires et il subit 1 dégât consécutif supplémentaire.",
         "traits": "Objet."
     },
     {
         "code": "44131",
-        "flavor": "« Pu#@! de m€&%... nous avons un pouvoir de fou! » – Mr. Knight",
+        "flavor": "« Pu#@ ! de m€&%... nous avons un pouvoir de fou ! » – Mr. Knight",
         "name": "Acte Irréfléchi",
-        "text": "<b>Réponse de héros</b> : après être passé sous forme de héros, donnez une carte d'état à un personnage.",
+        "text": "<b>Réponse de héros</b> : après être passé sous forme de héros, donnez une carte d'état à un personnage.",
         "traits": "Tactique."
     },
     {
         "code": "44132",
         "name": "Dernier Rire",
-        "text": "Vous ne pouvez jouer cette carte que si les points de vie restant de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> : subissez 1 dégât et infligez 6 dégâts au méchant puis changez de forme.",
+        "text": "Vous ne pouvez jouer cette carte que si les points de vie restant de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> : subissez 1 dégât et infligez 6 dégâts au méchant puis changez de forme.",
         "traits": "Attaque."
     },
     {
         "code": "44133",
         "name": "Pause Déjeuner",
-        "text": "Jouez cette carte uniquement si votre identité a le trait [[Avenger]].\n<b>Action de héros</b> : soignez 1 dégât de votre identité. Soignez X dégâts supplémentaires de votre identité où X est égal au numéro du stade du méchant.",
+        "text": "Jouez cette carte uniquement si votre identité a le trait [[Avenger]].\n<b>Action de héros</b> : soignez 1 dégât de votre identité. Soignez X dégâts supplémentaires de votre identité où X est égal au numéro du stade du méchant.",
         "traits": "Tactique."
     },
     {
         "code": "44134",
-        "flavor": "« Gueule d'Or, nous devons y aller. Genre, MAINTENANT! » – Ms. Marvel",
+        "flavor": "« Gueule d'Or, nous devons y aller. Genre, MAINTENANT ! » – Ms. Marvel",
         "name": "Téléportation Improvisée",
-        "text": "<b>Action de héros</b> : donnez au méchant une carte de boost face cachée → changez de forme, puis redressez votre identité.",
+        "text": "<b>Action de héros</b> : donnez au méchant une carte de boost face cachée → changez de forme, puis redressez votre identité.",
         "traits": "Tactique."
     },
     {
         "code": "44135",
-        "flavor": "« Qui je suis... est lié à ce que je suis. Je suis un empire. Et cet empire doit tenir debout à n'importe quel prix. »",
+        "flavor": "« Qui je suis... est lié à ce que je suis. Je suis un empire. Et cet empire doit tenir debout à n'importe quel prix. »",
         "name": "Gladiator",
         "subname": "Kallark",
         "text": "Tant que vos points de vie restants sont inférieurs ou égaux à 5, réduisez de 2 les dégâts consécutifs subis par Gladiator.",
@@ -238,162 +238,162 @@
     },
     {
         "code": "44136",
-        "flavor": "« Je suis aussi la protectrice de l'univers. »",
+        "flavor": "« Je suis aussi la protectrice de l'univers. »",
         "name": "Quasar",
         "subname": "Avril Kincaid",
-        "text": "<b>Réponse</b> : après que Quasar est entré en jeu, infligez 2 dégâts à chaque ennemi engagé avec vous.",
+        "text": "<b>Réponse</b> : après que Quasar est entré en jeu, infligez 2 dégâts à chaque ennemi engagé avec vous.",
         "traits": "Aérien. Gardien."
     },
     {
         "code": "44137",
-        "flavor": "« Je me suis occupée du sas, Lockheed. Tu t'occupes du garde là bas. »",
+        "flavor": "« Je me suis occupée du sas, Lockheed. Tu t'occupes du garde là bas. »",
         "name": "Star-Lord",
         "subname": "Kitty Pryde",
-        "text": "[star] <b>Réponse</b> : après que Star-Lord a contré, infligez 1 dégât à un ennemi.",
+        "text": "[star] <b>Réponse</b> : après que Star-Lord a contré, infligez 1 dégât à un ennemi.",
         "traits": "Gardien. X-Men."
     },
     {
         "code": "44138",
         "name": "Détoner",
-        "text": "<b>Action de héros</b> (<i>attaque</i>) : défaussez une amélioration que vous contrôlez avec des jetons dessus, puis infligez X dégâts au méchant et à chaque sbire engagé avec vous, où X est le nombre de jetons ainsi défaussés.",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : défaussez une amélioration que vous contrôlez avec des jetons dessus, puis infligez X dégâts au méchant et à chaque sbire engagé avec vous, où X est le nombre de jetons ainsi défaussés.",
         "traits": "Attaque."
     },
     {
         "code": "44139",
-        "flavor": "« Voilà ! » – Vif-Argent",
+        "flavor": "« Voilà ! » – Vif-Argent",
         "name": "Entrer et Sortir",
-        "text": "<b>Action de héros</b> (<i>contre</i>) : retirez 2 menaces d'une manigance. Si cette carte est la première que vous jouez lors de ce round, vous pouvez subir 1 dégât pour la renvoyer dans votre main.",
+        "text": "<b>Action de héros</b> (<i>contre</i>) : retirez 2 menaces d'une manigance. Si cette carte est la première que vous jouez lors de ce round, vous pouvez subir 1 dégât pour la renvoyer dans votre main.",
         "traits": "Contre."
     },
     {
         "code": "44140",
         "name": "Coup en Traître",
-        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 2 dégâts à un ennemi. Si cette carte est la première que vous jouez lors de ce round, vous pouvez subir 1 dégât pour la renvoyer dans votre main.",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 2 dégâts à un ennemi. Si cette carte est la première que vous jouez lors de ce round, vous pouvez subir 1 dégât pour la renvoyer dans votre main.",
         "traits": "Attaque."
     },
     {
         "code": "44141",
         "name": "Munitions Illégales",
-        "text": "Restreint. Cette carte ne peut être en jeu tant que vous contrôlez un allié. Vos attaques de base gagnent Déferlement.\n<b>Réponse</b> : après que vous avez attaqué un sbire et infligé au moins 2 dégâts en excès avec Déferlement, sonnez le méchant.",
+        "text": "Restreint. Cette carte ne peut être en jeu tant que vous contrôlez un allié. Vos attaques de base gagnent Déferlement.\n<b>Réponse</b> : après que vous avez attaqué un sbire et infligé au moins 2 dégâts en excès avec Déferlement, sonnez le méchant.",
         "traits": "Tech. Arme."
     },
     {
         "code": "44142",
-        "flavor": "« J'ai triplé le pouvoir d'arrêt. » – Léo Fitz",
+        "flavor": "« J'ai triplé le pouvoir d'arrêt. » – Léo Fitz",
         "name": "I.C.E.R.",
-        "text": "Restreint.\nUtilisations (3 jetons Charge).\n<b>Action de héros</b> : retirez un jeton Charge d'I.C.E.R et inclinez-le → infligez 1 dégât à un sbire et sonnez-le.",
+        "text": "Restreint.\nUtilisations (3 jetons Charge).\n<b>Action de héros</b> : retirez un jeton Charge d'I.C.E.R et inclinez-le → infligez 1 dégât à un sbire et sonnez-le.",
         "traits": "S.H.I.E.L.D. Arme."
     },
     {
         "code": "44143",
-        "flavor": "« Tu sais quelle heure il est. »",
+        "flavor": "« Tu sais quelle heure il est. »",
         "name": "La Chose",
         "subname": "Ben Grimm",
-        "text": "Tenacité.\n<b>Interruption forcée</b> : quand votre héros devrait subir n'importe quelle quantité de dégâts, infligez ces dégâts à La Chose à la place.",
+        "text": "Tenacité.\n<b>Interruption forcée</b> : quand votre héros devrait subir n'importe quelle quantité de dégâts, infligez ces dégâts à La Chose à la place.",
         "traits": "Fantastic Four. Gardien."
     },
     {
         "code": "44144",
-        "flavor": "« Je fais ce que je peux mais l'intensité de la bataille n'est pas le meilleur endroit pour des soins d'urgence. Même pour moi. » – Docteur Strange",
+        "flavor": "« Je fais ce que je peux mais l'intensité de la bataille n'est pas le meilleur endroit pour des soins d'urgence. Même pour moi. » – Docteur Strange",
         "name": "Pansement de Fortune",
-        "text": "<b>Action de héros</b> : attribuez-vous 1 carte Rencontre face cachée, puis soignez 6 dégâts de votre identité.",
+        "text": "<b>Action de héros</b> : attribuez-vous 1 carte Rencontre face cachée, puis soignez 6 dégâts de votre identité.",
         "traits": "Tactique."
     },
     {
         "code": "44145",
-        "flavor": "« Que diable ? Où est-il passé ? »",
+        "flavor": "« Que diable ? Où est-il passé ? »",
         "name": "Vol",
-        "text": "Jouez cette carte uniquement si votre identité a le trait Aérien.\nb>Action de héros</b> : placez 2 menaces sur la manigance principale → sonnez et désorientez le méchant.",
+        "text": "Jouez cette carte uniquement si votre identité a le trait [[Aérien]].\nb>Action de héros</b> : placez 2 menaces sur la manigance principale → sonnez et désorientez le méchant.",
         "traits": "Aérien. Tactique."
     },
     {
         "code": "44146",
-        "flavor": "« Cap ! Attention ! » – Spider-Man",
+        "flavor": "« Cap ! Attention ! » – Spider-Man",
         "name": "Exposé au Danger",
-        "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand un personnage ami devrait subir n'importe quelle quantité de dégâts, attribuez-vous une carte Rencontre face cachée → prévenez jusqu'à 5 de ces dégâts.",
+        "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand un personnage ami devrait subir n'importe quelle quantité de dégâts, attribuez-vous une carte Rencontre face cachée → prévenez jusqu'à 5 de ces dégâts.",
         "traits": "Défense."
     },
     {
         "code": "44147",
         "name": "Abuser de l'Hospitalité",
-        "text": "<b>Action de héros</b> (<i>contre</i>) : attribuez-vous une carte Rencontre face cachée, puis choisissez :\n• Retirez 5 menaces d'une manigance.\n• Retirez 2 menaces de chaque manigance en jeu.",
+        "text": "<b>Action de héros</b> (<i>contre</i>) : attribuez-vous une carte Rencontre face cachée, puis choisissez :\n• Retirez 5 menaces d'une manigance.\n• Retirez 2 menaces de chaque manigance en jeu.",
         "traits": "Contre."
     },
     {
         "code": "44148",
         "name": "En Payer le Prix",
-        "text": "<b>Action de héros</b> : donnez une ou plusieurs cartes Rencontre face cachée de votre zone de jeu au méchant en tant que carte de boost face cachée. Ensuite, le méchant vous attaque. Cette attaque gagne Déferlement et Perçant.",
+        "text": "<b>Action de héros</b> : donnez une ou plusieurs cartes Rencontre face cachée de votre zone de jeu au méchant en tant que carte de boost face cachée. Ensuite, le méchant vous attaque. Cette attaque gagne Déferlement et Perçant.",
         "traits": "Tactique."
     },
     {
         "code": "44149",
         "name": "Tenter le Diable",
-        "text": "<b>Interruption de héros</b> (<i>attaque/défense/contre</i>) : quand un ennemi s'active contre vous, attribuez-vous une carte Rencontre face cachée → annulez cette activation. Si une attaque est annulée de cette manière, infligez 3 dégâts à cet ennemi. Si une manigance est annulée de cette manière, retirez 2 menaces de la manigance principale.",
-        "traits": "Attaque. Défense. Contre."
+        "text": "<b>Interruption de héros</b> (<i>attaque/défense/contre</i>) : quand un ennemi s'active contre vous, attribuez-vous une carte Rencontre face cachée → annulez cette activation. Si une attaque est annulée de cette manière, infligez 3 dégâts à cet ennemi. Si une manigance est annulée de cette manière, retirez 2 menaces de la manigance principale.",
+        "traits": "Attaque. Contre. Défense."
     },
     {
         "code": "44150",
         "name": "Avide de Châtiment",
-        "text": "Jouez cette carte uniquement si les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> (<i>attaque</i>) : subissez 2 dégâts. Ensuite, infligez 8 dégâts au méchant.",
+        "text": "Jouez cette carte uniquement si les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> (<i>attaque</i>) : subissez 2 dégâts. Ensuite, infligez 8 dégâts au méchant.",
         "traits": "Attaque."
     },
     {
         "code": "44151",
-        "flavor": "« JE SUIS VENOM! » – Groot",
+        "flavor": "« JE SUIS VENOM ! » – Groot",
         "name": "Dernier Recours",
-        "text": "<b>Interruption de héros</b> : quand un personnage [[Gardien]] que vous contrôlez devrait subir n'importe quelle quantité de dégâts, placez 2 menaces sur la manigance principale et défaussez Derniers Recours → prévenez 6 de ces dégâts.",
+        "text": "<b>Interruption de héros</b> : quand un personnage [[Gardien]] que vous contrôlez devrait subir n'importe quelle quantité de dégâts, placez 2 menaces sur la manigance principale et défaussez Derniers Recours → prévenez 6 de ces dégâts.",
         "traits": "Préparation."
     },
     {
         "code": "44152",
-        "flavor": "« J'absorbe le pouvoir ! Toutes ces connaissances obscures, tous ces terribles pouvoirs, coulent en moi. »",
+        "flavor": "« J'absorbe le pouvoir ! Toutes ces connaissances obscures, tous ces terribles pouvoirs, coulent en moi. »",
         "name": "Blade",
         "subname": "Eric Brooks",
-        "text": "<b>Réponse</b> : après que Blade a attaqué et vaincu un sbire sans infliger de dégâts en excès, soignez 2 dégâts de Blade.",
+        "text": "<b>Réponse</b> : après que Blade a attaqué et vaincu un sbire sans infliger de dégâts en excès, soignez 2 dégâts de Blade.",
         "traits": "Avenger. Vampire."
     },
     {
         "code": "44153",
-        "flavor": "« J'ai fait un pacte avec le Diable. Je le regrette à présent. »",
+        "flavor": "« J'ai fait un pacte avec le Diable. Je le regrette à présent. »",
         "name": "Ghost Rider",
         "subname": "Johnny Blaze",
-        "text": "<b>Interruption de héros</b> : quand Ghost Rider attaque, infligez jusqu'à 3 dégâts à votre héros. Ghost Rider gagne +1 ATQ pour cette attaque pour chaque dégât ainsi infligé à votre héros par cet effet.",
+        "text": "<b>Interruption de héros</b> : quand Ghost Rider attaque, infligez jusqu'à 3 dégâts à votre héros. Ghost Rider gagne +1 ATQ pour cette attaque pour chaque dégât ainsi infligé à votre héros par cet effet.",
         "traits": "Avenger. Héros à Louer."
     },
     {
         "code": "44154",
-        "flavor": "« Puisque personne d'autre ne suivra cette voie... ces ténèbres, où nous faisons ce qui doit être fait, quel qu'en soit le prix ! »",
+        "flavor": "« Puisque personne d'autre ne suivra cette voie... ces ténèbres, où nous faisons ce qui doit être fait, quel qu'en soit le prix ! »",
         "name": "Morbius",
         "subname": "Dr. Michael Morbius",
-        "text": "<b>Réponse forcée</b> : après que Morbius est entré en jeu, infligez 2 dégâts à votre identité.",
+        "text": "<b>Réponse forcée</b> : après que Morbius est entré en jeu, infligez 2 dégâts à votre identité.",
         "traits": "S.H.I.E.L.D. Vampire."
     },
     {
         "code": "44155",
         "name": "Magie Noire",
-        "text": "Jouez cette carte uniquement si votre identité a le trait Mystique. 1 max par deck.\n<b>Action de héros</b> (<i>attaque</i>) : mélangez votre deck. Choisissez un ennemi et retirez de la partie jusqu'à 3 cartes du dessus de votre deck → drain 2 à cet ennemi pour chaque carte ainsi retirée de la partie.",
+        "text": "Jouez cette carte uniquement si votre identité a le trait Mystique. 1 max par deck.\n<b>Action de héros</b> (<i>attaque</i>) : mélangez votre deck. Choisissez un ennemi et retirez de la partie jusqu'à 3 cartes du dessus de votre deck → drain 2 à cet ennemi pour chaque carte ainsi retirée de la partie.",
         "traits": "Attaque. Sort."
     },
     {
         "code": "44156",
         "name": "Oblivion",
-        "text": "<b>Action</b> : mélangez cette carte dans le deck Rencontre (sans regarder).\n<b>Une fois révélée</b> : le joueur qui a joué cette carte choisit : soit de défausser une carte de sa main, soit d'infliger 5 dégâts à chaque allié qu'il contrôle, au méchant et à chaque sbire engagé avec lui. Retirez cette carte de la partie.",
+        "text": "<b>Action</b> : mélangez cette carte dans le deck Rencontre (sans regarder).\n<b>Une fois révélée</b> : le joueur qui a joué cette carte choisit : soit de défausser une carte de sa main, soit d'infliger 5 dégâts à chaque allié qu'il contrôle, au méchant et à chaque sbire engagé avec lui. Retirez cette carte de la partie.",
         "traits": "Entité Cosmique."
     },
     {
         "code": "44157",
         "name": "Deux fois plus de Détermination",
-        "text": "1 max par deck.\n<b>Réponse de héros</b> : après avoir dépensé cette carte, renvoyez-la dans votre main. (Limite d'une fois par round.)"
+        "text": "1 max par deck.\n<b>Réponse de héros</b> : après avoir dépensé cette carte, renvoyez-la dans votre main. (Limite d'une fois par round.)"
     },
     {
         "code": "44158",
         "name": "Héros à Louer",
-        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 carte [[Équipe]] max par joueur.\nSi chacun de vos alliés a le trait [[Héros à Louer]], cette carte gagne : « <b>Réponse</b> : après qu'un allié que vous contrôlez a vaincu un ennemi, piochez une carte. »",
-        "traits": "Equipe."
+        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 carte [[Équipe]] max par joueur.\nSi chacun de vos alliés a le trait [[Héros à Louer]], cette carte gagne : « <b>Réponse</b> : après qu'un allié que vous contrôlez a vaincu un ennemi, piochez une carte. »",
+        "traits": "Équipe."
     },
     {
         "code": "44159",
-        "flavor": "« Ce qu'ils font n'est pas très beau. » – Wolverine",
+        "flavor": "« Ce qu'ils font n'est pas très beau. » – Wolverine",
         "name": "Entraînement de l'Arme X",
         "text": "1 max par joueur.\nLes alliés que vous contrôlez avec 1 point de vie restant gagnent +2 ATQ et subissent 2 dégâts consécutifs additionnels.",
         "traits": "Compétence."
@@ -401,33 +401,33 @@
     {
         "code": "44160",
         "name": "Entraînement aux Explosifs",
-        "text": "Jouez cette carte uniquement si votre identité a le trait Gardien. 1 max par joueur.\n<b>Réponse</b> : après que vous avez défaussé une amélioration que vous contrôlez, inclinez  Entraînement aux Explosifs → infligez 2 dégâts à un ennemi.",
+        "text": "Jouez cette carte uniquement si votre identité a le trait [[Gardien]]. 1 max par joueur.\n<b>Réponse</b> : après que vous avez défaussé une amélioration que vous contrôlez, inclinez  Entraînement aux Explosifs → infligez 2 dégâts à un ennemi.",
         "traits": "Compétence."
     },
     {
         "code": "44161",
         "name": "Embuscade Galactique",
-        "text": "Alliance.\n<b>Action de héros</b> (<i>attaque</i>) : inclinez un personnage [[Avenger]] et un personnage [[Gardien ]]et infligez 1 dégât à chacun d'eux → infligez un total de 6 dégâts répartis parmi les ennemis de votre choix. Si aucun de ces personnages amis n'est vaincu de cette manière, redressez-les.",
+        "text": "Alliance.\n<b>Action de héros</b> (<i>attaque</i>) : inclinez un personnage [[Avenger]] et un personnage [[Gardien ]]et infligez 1 dégât à chacun d'eux → infligez un total de 6 dégâts répartis parmi les ennemis de votre choix. Si aucun de ces personnages amis n'est vaincu de cette manière, redressez-les.",
         "traits": "Attaque. Tactique."
     },
     {
         "code": "44162",
-        "flavor": "« C'était une question rhétorique ! » – Deadpool",
+        "flavor": "« C'était une question rhétorique ! » – Deadpool",
         "name": "\"C'est Tout ce que t'As ?\"",
-        "text": "1 max par round.\n<b>Action de héros</b> : cherchez un attachement dans le deck Rencontre. Révélez cet attachement → piochez 3 cartes. (<i>Mélangez le deck Rencontre</i>)."
+        "text": "1 max par round.\n<b>Action de héros</b> : cherchez un attachement dans le deck Rencontre. Révélez cet attachement → piochez 3 cartes. (<i>Mélangez le deck Rencontre</i>)."
     },
     {
         "code": "44163",
-        "flavor": "« Oh, c'est sur que ça va chauffer! »",
+        "flavor": "« Oh, c'est sur que ça va chauffer ! »",
         "name": "La Torche Humaine",
         "subname": "Jim Hammond",
-        "text": "<b>Réponse forcée</b> : quand votre tour débute, infligez 1 dégât au méchant, à chaque sbire engagé avec vous, à votre héros ainsi qu'à chaque autre allié que vous contrôlez.",
+        "text": "<b>Réponse forcée</b> : après que votre tour a débuté, infligez 1 dégât au méchant, à chaque sbire engagé avec vous, à votre héros ainsi qu'à chaque autre allié que vous contrôlez.",
         "traits": "Androïde. Héros à Louer."
     },
     {
         "code": "44164",
         "name": "Entraînement à la Résistance",
-        "text": "2 max par deck.\nUtilisations (2 jetons Entraînement).\n<b>Action d'alter-ego</b> : retirez 1 jeton Entraînement de cette carte et inclinez-la → choisissez un événement Détermination (<i>violet</i>) dans votre pile de défausse et mélangez-le dans votre deck.",
+        "text": "2 max par deck.\nUtilisations (2 jetons Entraînement).\n<b>Action d'alter ego</b> : retirez 1 jeton Entraînement de cette carte et inclinez-la → choisissez un événement Détermination (<i>violet</i>) dans votre pile de défausse et mélangez-le dans votre deck.",
         "traits": "Condition."
     },
     {
@@ -439,59 +439,59 @@
     {
         "code": "44166",
         "name": "Misty Knight",
-        "text": "<b>Action</b> : inclinez Misty Knight et infligez-lui 1 dégât → choisissez une option :\n• Cherchez un exemplaire de l'amélioration Prime dans votre deck ou votre pile de défausse et ajoutez-le à votre main.\n• Réduisez de 1 le coût en ressources de la prochaine amélioration Prime que vous jouez lors de ce tour.",
+        "text": "<b>Action</b> : inclinez Misty Knight et infligez-lui 1 dégât → choisissez une option :\n• Cherchez un exemplaire de l'amélioration Prime dans votre deck ou votre pile de défausse et ajoutez-le à votre main.\n• Réduisez de 1 le coût en ressources de la prochaine amélioration Prime que vous jouez lors de ce tour.",
         "traits": "Héros à Louer."
     },
     {
         "code": "44167",
         "name": "Prime",
-        "text": "Attachez cette carte à un sbire avec le trait [[Brute]], [[Criminel]], ou [[Mercenaire]] ou à un ennemi unique ([unique]). 1 max par ennemi.\n<b>Réponse</b> : après que l'ennemi attaché a été attaqué et vaincu, le propriétaire de cette carte pioche 2 cartes. Si le personnage attaquant a le trait [[Héros à Louer]], soignez-le de 1 dégât.",
+        "text": "Attachez cette carte à un sbire avec le trait [[Brute]], [[Criminel]], ou [[Mercenaire]] ou à un ennemi unique ([unique]). 1 max par ennemi.\n<b>Réponse</b> : après que l'ennemi attaché a été attaqué et vaincu, le propriétaire de cette carte pioche 2 cartes. Si le personnage attaquant a le trait [[Héros à Louer]], soignez-le de 1 dégât.",
         "traits": "Condition."
     },
     {
         "code": "44168",
         "name": "Fusil Mixte",
-        "text": "Attachez cette carte à un allié. 1 max par allié.\nUtilisations (1 jeton Munition et 1 jeton Charge.)\n<b>Action</b> : inclinez le Fusil Mixte et choisissez une option :\n• Retirez 1 jeton Munition du Fusil Mixte → la prochaine attaque de l'allié attaché gagne Perçant.\n• Retirez 1 jeton Charge du Fusil Mixte → la prochaine attaque de l'allié attaché gagne Déferlement.",
+        "text": "Attachez cette carte à un allié. 1 max par allié.\nUtilisations (1 jeton Munition et 1 jeton Charge.)\n<b>Action</b> : inclinez le Fusil Mixte et choisissez une option :\n• Retirez 1 jeton Munition du Fusil Mixte → la prochaine attaque de l'allié attaché gagne Perçant.\n• Retirez 1 jeton Charge du Fusil Mixte → la prochaine attaque de l'allié attaché gagne Déferlement.",
         "traits": "Tech. Arme."
     },
     {
         "code": "44169",
-        "flavor": "« Vise le gars avec le plus gros flingue. » – Deadpool",
+        "flavor": "« Vise le gars avec le plus gros flingue. » – Deadpool",
         "name": "Encouragé",
-        "text": "Attachez cette carte à un allié. 1 max par allié.\n<b>Interruption</b> : quand l'allié attaché attaque un ennemi, il gagne +X ATQ pour cette attaque, où X est le nombre de cartes attachées à cet ennemi.",
+        "text": "Attachez cette carte à un allié. 1 max par allié.\n<b>Interruption</b> : quand l'allié attaché attaque un ennemi, il gagne +X ATQ pour cette attaque, où X est le nombre de cartes attachées à cet ennemi.",
         "traits": "Condition."
     },
     {
         "code": "44170",
         "name": "Cache de Munitions",
-        "text": "Cache de Munitions entre en jeu avec 2 jetons Munition et 2 jetons Charge sur elle. 1 max par joueur.\n<b>Action</b> : inclinez la Cache de Munitions → déplacez 1 jeton Munition ou 1 jeton Charge de cette carte vers une autre amélioration que vous contrôlez."
+        "text": "Cache de Munitions entre en jeu avec 2 jetons Munition et 2 jetons Charge sur elle. 1 max par joueur.\n<b>Action</b> : inclinez la Cache de Munitions → déplacez 1 jeton Munition ou 1 jeton Charge de cette carte vers une autre amélioration que vous contrôlez."
     },
     {
         "code": "44171",
-        "flavor": "« GGRRNNYYEEARGH! » – Wild Child",
+        "flavor": "« GGRRNNYYEEARGH ! » – Wild Child",
         "name": "Se déchainer",
-        "text": "Exigence ([wild] [physical]). 2 max par deck.\n<b>Action de héros</b> (<i>attaque</i>) : subissez 2 dégâts → piochez 3 cartes et infligez X dégâts à un ennemi, où X est le coût en ressources imprimé combiné de ces cartes",
+        "text": "Exigence ([wild] [physical]). 2 max par deck.\n<b>Action de héros</b> (<i>attaque</i>) : subissez 2 dégâts → piochez 3 cartes et infligez X dégâts à un ennemi, où X est le coût en ressources imprimé combiné de ces cartes",
         "traits": "Attaque."
     },
     {
         "code": "44172",
-        "flavor": "« Je peux humilier ton ami Hawkeye tous les jours. »",
+        "flavor": "« Je peux humilier ton ami Hawkeye tous les jours. »",
         "name": "Dague Rouge",
-        "text": "<b>Action de héros</b> : placez 1 pion Accélération sur Dague Rouge. (Limite d'une fois par phase.)\n<b>Interruption</b> : quand Dague Rouge attaque, résolvez cette attaque X fois, où X est le nombre de pions Accélération en jeu.",
+        "text": "<b>Action de héros</b> : placez 1 pion Accélération sur Dague Rouge. (Limite d'une fois par phase.)\n<b>Interruption</b> : quand Dague Rouge attaque, résolvez cette attaque X fois, où X est le nombre de pions Accélération en jeu.",
         "traits": "Champion."
     },
     {
         "code": "44173",
-        "flavor": "« Je vais bien. Tu vas finir ça. »",
+        "flavor": "« Je vais bien. Tu vas finir ça. »",
         "name": "Starling",
         "subname": "Tiana Toomes",
-        "text": "Fragile. (<i>Les attaques contre ce personnage gagnent Déferlement</i>.)\n<b>Réponse de héros</b> : après que Starling a subi 5 dégâts ou plus d'une attaque, votre héros gagne +1 ATQ jusqu'à la fin de la partie.",
+        "text": "Fragile. (<i>Les attaques contre ce personnage gagnent Déferlement</i>.)\n<b>Réponse de héros</b> : après que Starling a subi 5 dégâts ou plus d'une attaque, votre héros gagne +1 ATQ jusqu'à la fin de la partie.",
         "traits": "Aérien. Champion."
     },
     {
         "code": "44174",
         "name": "Entrée en Scène Aérienne",
-        "text": "2 max par deck.\n<b>Interruption de héros</b> : quand le méchant attaque, si votre identité a le trait [[Aérien]], donnez une carte de boost supplémentaire au méchant pour cette activation et défaussez cette amélioration → mettez en jeu l'allié le plus proche du dessus de votre pile de défausse. Déclarez-le défenseur pour cette attaque. Ensuite, désorientez le méchant.",
+        "text": "2 max par deck.\n<b>Interruption de héros</b> : quand le méchant attaque, si votre identité a le trait [[Aérien]], donnez une carte de boost supplémentaire au méchant pour cette activation et défaussez cette amélioration → mettez en jeu l'allié le plus proche du dessus de votre pile de défausse. Déclarez-le défenseur pour cette attaque. Ensuite, désorientez le méchant.",
         "traits": "Aérien. Préparation."
     },
     {
@@ -501,66 +501,66 @@
     },
     {
         "code": "44176",
-        "flavor": "« Puis-je dire que nous sommes... des gorilleros? » – Deadpool",
+        "flavor": "« Puis-je dire que nous sommes... des gorilleros ? » – Deadpool",
         "name": "Gorilla-Man",
         "subname": "Kenneth Hale",
-        "text": "Gorilla-Man ignore le texte « 1 max par allié » sur les améliorations qui lui sont attachées.",
+        "text": "Gorilla-Man ignore le texte « 1 max par allié » sur les améliorations qui lui sont attachées.",
         "traits": "Héros à Louer."
     },
     {
         "code": "44177",
         "name": "Hit-Monkey",
-        "text": "<b>Interruption</b> : quand Hit-Monkey devrait subir n'importe quelle quantité de dégâts consécutifs, regardez la carte du dessus du deck Rencontre → prévenez 1 de ces dégâts pour chaque icône de boost ([boost]) et icône d'étoile ([star]) ainsi regardées.",
-        "traits": "Héros à Louer. S.H.I.E.L.D.."
+        "text": "<b>Interruption</b> : quand Hit-Monkey devrait subir n'importe quelle quantité de dégâts consécutifs, regardez la carte du dessus du deck Rencontre → prévenez 1 de ces dégâts pour chaque icône de boost ([boost]) et icône d'étoile ([star]) ainsi regardées.",
+        "traits": "Héros à Louer. S.H.I.E.L.D."
     },
     {
         "code": "44178",
         "name": "Améliorations Encombrantes",
-        "text": "Jouez cette carte seulement si votre héros a une taille de main imprimée de 4 ou moins. 1 max par deck.\nVotre taille de main augmente de +2 tant que vous êtes sous forme de héros.\n<b>Interruption forcée</b> : quand la phase du méchant commence, choisissez soit de défausser cette amélioration soit de placer 1 pion Accélération ici.",
+        "text": "Jouez cette carte seulement si votre héros a une taille de main imprimée de 4 ou moins. 1 max par deck.\nVotre taille de main augmente de +2 tant que vous êtes sous forme de héros.\n<b>Interruption forcée</b> : quand la phase du méchant commence, choisissez soit de défausser cette amélioration soit de placer 1 pion Accélération ici.",
         "traits": "Tech."
     },
     {
         "code": "44179",
         "name": "Equipement Emprunté",
-        "text": "Attachez cette carte à un allié. 1 max par deck. L'allié attaché gagne +1 point de vie pour chaque amélioration qui lui est attachée (jusqu'à un maximum de +4 points de vie).\n<b>Réponse forcée</b> : après que Équipement Emprunté est entré en jeu, attachez-lui un allié de votre pile de défausse face cachée→ l'allié attaché gagne les [[traits]] de l'allié face caché."
+        "text": "Attachez cette carte à un allié. 1 max par deck. L'allié attaché gagne +1 point de vie pour chaque amélioration qui lui est attachée (jusqu'à un maximum de +4 points de vie).\n<b>Réponse forcée</b> : après que Équipement Emprunté est entré en jeu, attachez-lui un allié de votre pile de défausse face cachée → l'allié attaché gagne les [[traits]] de l'allié face caché."
     },
     {
         "code": "44180",
         "name": "Massacre",
-        "text": "<b>Réponse de héros</b> : après que Massacre est entré en jeu, cherchez dans votre deck ou votre pile de défausse un exemplaire du soutien Escouade de Mercenaires et mettez-le en jeu.\n<b>Action de héros</b> : infligez 1 dégât à Massacre → placez 1 jeton Tactique sur chaque Escouade de Mercenaires que vous contrôlez. (Limite d'une fois par round.)",
+        "text": "<b>Réponse de héros</b> : après que Massacre est entré en jeu, cherchez dans votre deck ou votre pile de défausse un exemplaire du soutien Escouade de Mercenaires et mettez-le en jeu.\n<b>Action de héros</b> : infligez 1 dégât à Massacre → placez 1 jeton Tactique sur chaque Escouade de Mercenaires que vous contrôlez. (Limite d'une fois par round.)",
         "traits": "Héros à Louer."
     },
     {
         "code": "44181",
-        "flavor": "« Dégainez, et battez-vous comme des MUTANTS ! » – En Sabah Nur",
+        "flavor": "« Dégainez, et battez-vous comme des MUTANTS ! » – En Sabah Nur",
         "name": "Entraînement à l'épée",
-        "text": "Attachez cette carte à un allié [[X-Men]]. 1 amélioration [[Entraînement]] max par allié.\n<b>Réponse</b> : après que l'allié attaché a effectué une attaque qui a retiré une carte d'état Tenace d'un ennemi, sonnez cet ennemi.",
+        "text": "Attachez cette carte à un allié [[X-Men]]. 1 amélioration [[Entraînement]] max par allié.\n<b>Réponse</b> : après que l'allié attaché a effectué une attaque qui a retiré une carte d'état Tenace d'un ennemi, sonnez cet ennemi.",
         "traits": "Entraînement."
     },
     {
         "code": "44182",
-        "flavor": "« Cette erreur sera ta dernière ! » – Colossus",
+        "flavor": "« Cette erreur sera ta dernière ! » – Colossus",
         "name": "Décision Difficile",
-        "text": "<b>Action de héros</b> : subissez 2 dégâts → donnez une carte d'état Tenace à un personnage. Si une carte d'état Tenace est donnée à un ennemi de cette manière, soignez 4 dégâts de votre héros.",
+        "text": "<b>Action de héros</b> : subissez 2 dégâts → donnez une carte d'état Tenace à un personnage. Si une carte d'état Tenace est donnée à un ennemi de cette manière, soignez 4 dégâts de votre héros.",
         "traits": "Tactique."
     },
     {
         "code": "44183",
         "name": "Force Excessive",
-        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez X dégâts à un ennemi. Cette attaque gagne Perçant. Si cet ennemi est vaincu par cette attaque, piochez X cartes. Ensuite, si cette attaque a défaussé une carte d'état Tenace, piochez 2 cartes.",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez X dégâts à un ennemi. Cette attaque gagne Perçant. Si cet ennemi est vaincu par cette attaque, piochez X cartes. Ensuite, si cette attaque a défaussé une carte d'état Tenace, piochez 2 cartes.",
         "traits": "Attaque."
     },
     {
         "code": "44184",
         "name": "Impromptu",
-        "text": "Exigence ([wild]).\n<b>Action de héros</b> : cherchez dans votre deck, main, et pile de défausse un exemplaire de l'amélioration Spontanéité et mettez-là en jeu.  Si Spontanéité est déjà en jeu, infligez 1 dégât à un personnage. Ensuite, donnez une carte d'état à ce personnage.",
+        "text": "Exigence ([wild]).\n<b>Action de héros</b> : cherchez dans votre deck, main, et pile de défausse un exemplaire de l'amélioration Spontanéité et mettez-là en jeu.  Si Spontanéité est déjà en jeu, infligez 1 dégât à un personnage. Ensuite, donnez une carte d'état à ce personnage.",
         "traits": "Tactique."
     },
     {
         "code": "44185",
         "name": "ForgetMeNot",
         "subname": "Xabi",
-        "text": "ForgetMeNot ne compte pas dans votre limite d'alliés.\n<b>Réponse</b> : après que vous avez subi des dégâts d'une carte Détermination, infligez 1 dégât à ForgetMeNot → soignez 2 dégâts de votre identité.",
+        "text": "ForgetMeNot ne compte pas dans votre limite d'alliés.\n<b>Réponse</b> : après que vous avez subi des dégâts d'une carte Détermination, infligez 1 dégât à ForgetMeNot → soignez 2 dégâts de votre identité.",
         "traits": "X-Force. X-men."
     },
     {
@@ -572,243 +572,243 @@
     {
         "code": "44187",
         "name": "\"Chope-les, Boom-Boom!\"",
-        "text": "Fugace. (<i>cette carte doit être défaussée du jeu à la fin de la phase</i>)\n<b>Réponse de héros</b> : après que vous avez subi des dégâts, attachez cette carte à un ennemi.\n<b>Interruption</b> : quand cette carte devrait être défaussée de l'ennemi attaché, infligez 1 dégât à chaque ennemi en jeu.",
+        "text": "Fugace. (<i>cette carte doit être défaussée du jeu à la fin de la phase</i>)\n<b>Réponse de héros</b> : après que vous avez subi des dégâts, attachez cette carte à un ennemi.\n<b>Interruption</b> : quand cette carte devrait être défaussée de l'ennemi attaché, infligez 1 dégât à chaque ennemi en jeu.",
         "traits": "Super-Pouvoir. Tactique."
     },
     {
         "code": "44188",
-        "flavor": "« Jean? Professeur ?? Un peu d'aide ? » – Cyclope",
+        "flavor": "« Jean ? Professeur ? ? Un peu d'aide ? » – Cyclope",
         "name": "Sentiment de Sécurité",
-        "text": "Attachez cette carte à un sbire et donnez-lui une carte d'état Tenace.\n<b>Réponse forcée</b> : après qu'une carte d'état Tenace a été défaussée du sbire attaché, défaussez Sentiment de Sécurité → redressez un personnage ami.",
+        "text": "Attachez cette carte à un sbire et donnez-lui une carte d'état Tenace.\n<b>Réponse forcée</b> : après qu'une carte d'état Tenace a été défaussée du sbire attaché, défaussez Sentiment de Sécurité → redressez un personnage ami.",
         "traits": "Psionique. Tactique."
     },
     {
         "code": "44189",
         "name": "Concaténer",
-        "text": "Attachez cette carte à un ennemi.\n<b>Interruption de héros</b> (<i>attaque</i>) : quand vous attaquez l'ennemi attaché, défaussez chaque amélioration [[tactique]] qui lui est attachée → infligez 2 dégâts à cet ennemi pour chaque amélioration défaussée de cette manière. Cette attaque gagne Déferlement.",
+        "text": "Attachez cette carte à un ennemi.\n<b>Interruption de héros</b> (<i>attaque</i>) : quand vous attaquez l'ennemi attaché, défaussez chaque amélioration [[tactique]] qui lui est attachée → infligez 2 dégâts à cet ennemi pour chaque amélioration défaussée de cette manière. Cette attaque gagne Déferlement.",
         "traits": "Attaque. Psionique."
     },
     {
         "code": "44190",
         "name": "Contrôle Psychique de Foule",
-        "text": "Jouez cette carte uniquement si votre identité a le trait [[Psionique]].\n<b>Action de héros</b> : inclinez votre identité → choisissez soit de désorienter chaque ennemi engagé avec vous, soit d'infliger 2 dégâts à chaque ennemi désorienté.",
+        "text": "Jouez cette carte uniquement si votre identité a le trait [[Psionique]].\n<b>Action de héros</b> : inclinez votre identité → choisissez soit de désorienter chaque ennemi engagé avec vous, soit d'infliger 2 dégâts à chaque ennemi désorienté.",
         "traits": "Psionique."
     },
     {
         "code": "44191",
         "name": "Energie Déterminée",
-        "text": "2 max par deck.\n<b>Interruption de héros</b> : quand vous dépensez cette carte pour jouer une carte [[Tactique]], donnez à un allié et à un sbire une carte d'état Tenace."
+        "text": "2 max par deck.\n<b>Interruption de héros</b> : quand vous dépensez cette carte pour jouer une carte [[Tactique]], donnez à un allié et à un sbire une carte d'état Tenace."
     },
     {
         "code": "44192",
-        "flavor": "« Je crois. Je... me bats. Je saigne. Pour les autres. »",
+        "flavor": "« Je crois. Je... me bats. Je saigne. Pour les autres. »",
         "name": "X-23",
         "subname": "Laura Kinney",
-        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n[star] <b>Réponse forcée</b> : après que X-23 a contré, soignez-la de 2 dégâts.",
+        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n[star] <b>Réponse forcée</b> : après que X-23 a contré, soignez-la de 2 dégâts.",
         "traits": "X-Force. X-Men."
     },
     {
         "code": "44193",
         "name": "Paratonnerre",
-        "text": "Attachez cette carte à un sbire. 1 max par sbire.\n<b>Interruption forcée</b> : quand une carte du set de rencontre Standard est révélée, défaussez le Paratonnerre → infligez 6 dégâts au sbire attaché. Infligez les dommages en excès de cette capacité au personnage ayant le plus de cartes attachées.",
+        "text": "Attachez cette carte à un sbire. 1 max par sbire.\n<b>Interruption forcée</b> : quand une carte du set de rencontre Standard est révélée, défaussez le Paratonnerre → infligez 6 dégâts au sbire attaché. Infligez les dommages en excès de cette capacité au personnage ayant le plus de cartes attachées.",
         "traits": "Tactique."
     },
     {
         "code": "44194",
         "name": "Tactique de diversion",
-        "text": "Utilisations (3 jetons Diversion). 1 max par joueur.\n<b>Interruption</b> : quand vous subissez des dégâts d'une attaque, subissez 1 dégât supplémentaire et retirez 1 jeton Diversion de cette carte → piochez une carte.",
+        "text": "Utilisations (3 jetons Diversion). 1 max par joueur.\n<b>Interruption</b> : quand vous subissez des dégâts d'une attaque, subissez 1 dégât supplémentaire et retirez 1 jeton Diversion de cette carte → piochez une carte.",
         "traits": "Compétence."
     },
     {
         "code": "44195",
         "name": "À l'Article de la Mort",
-        "text": "Jouez cette carte uniquement si votre identité a le trait[[ X-Men]].\n<b>Action de héros</b> (<i>attaque/contre</i>) : défaussez chaque allié [[X-Men]] que vous contrôlez → retirez un total de X menaces parmi les manigances en jeu et infligez un total de X dégâts parmi les ennemis en jeu, où X est égal à la somme des points de vie restants des alliés défaussés de cette manière.",
+        "text": "Jouez cette carte uniquement si votre identité a le trait[[ X-Men]].\n<b>Action de héros</b> (<i>attaque/contre</i>) : défaussez chaque allié [[X-Men]] que vous contrôlez → retirez un total de X menaces parmi les manigances en jeu et infligez un total de X dégâts parmi les ennemis en jeu, où X est égal à la somme des points de vie restants des alliés défaussés de cette manière.",
         "traits": "Attaque. Contre."
     },
     {
         "code": "44196",
-        "flavor": "« Je m'en charge. » – Captain America",
+        "flavor": "« Je m'en charge. » – Captain America",
         "name": "Péril pourpre",
-        "text": "Victoire 0.\nLes menaces ne peuvent être retirées de cette manigance que par son propriétaire.\n<b>Réponse de héros</b> : après avoir placé Péril Pourpre dans la pile de victoire, défaussez X cartes du dessus de votre deck et ajoutez chaque carte Détermination défaussée de cette manière à votre main (pour un maximum de 5), où X est le nombre de cartes dans la pile de victoire."
+        "text": "Victoire 0.\nLes menaces ne peuvent être retirées de cette manigance que par son propriétaire.\n<b>Réponse de héros</b> : après avoir placé Péril Pourpre dans la pile de victoire, défaussez X cartes du dessus de votre deck et ajoutez chaque carte Détermination défaussée de cette manière à votre main (pour un maximum de 5), où X est le nombre de cartes dans la pile de victoire."
     },
     {
         "code": "44197",
         "name": "Glissement Temporel",
-        "text": "<b>Réponse de héros</b> : après qu'une carte sous votre contrôle a été vaincue choisissez l'une des options suivantes :\n• Mettez cette carte dans la pile de victoire et piochez 1 carte.\n• Jouez gratuitement une carte détermination avec un coût de X depuis votre pile de victoire, où X est inférieur au nombre de cartes \"amies\" dans la pile de victoire.",
+        "text": "<b>Réponse de héros</b> : après qu'une carte sous votre contrôle a été vaincue choisissez l'une des options suivantes :\n• Mettez cette carte dans la pile de victoire et piochez 1 carte.\n• Jouez gratuitement une carte détermination avec un coût de X depuis votre pile de victoire, où X est inférieur au nombre de cartes « amies » dans la pile de victoire.",
         "traits": "Tactique. Tech."
     },
     {
         "code": "44198",
-        "flavor": "« Cet EMP ne fonctionne qu'en se rapprochant... vraiment très près »",
+        "flavor": "« Cet EMP ne fonctionne qu'en se rapprochant... vraiment très près »",
         "name": "Bedlam",
         "subname": "Jesse Aaronson",
-        "text": "Victoire 0.\n<b>Ressource de héros</b> : vainquez Beldam →  générez les ressources suivantes: [energy] [mental] [physical].",
+        "text": "Victoire 0.\n<b>Ressource de héros</b> : vainquez Beldam → générez les ressources suivantes : [energy] [mental] [physical].",
         "traits": "X-Force."
     },
     {
         "code": "44199",
         "name": "Marrow",
         "subname": "Sarah",
-        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n<b>Interruption</b> : quand Marrow attaque, défaussez la carte du dessus de votre deck. Si une ressource [energy] ou [physical] est défaussée par cet effet, cette attaque gagne Perçant et À Distance.",
+        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n<b>Interruption</b> : quand Marrow attaque, défaussez la carte du dessus de votre deck. Si une ressource [energy] ou [physical] est défaussée par cet effet, cette attaque gagne Perçant et À Distance.",
         "traits": "X-Force. X-Men."
     },
     {
         "code": "44200",
         "name": "Archangel",
         "subname": "Warren Worthington III",
-        "text": "Alias (<i>Si vous contrôlez une carte avec un sous-titre correspondant, défaussez-la et jouez cette carte gratuitement.</i>) Téméraire. Riposte 2.\n<b>Réponse</b>: après qu'un personnage [[Aérien]] a utilisé un pouvoir de base, inclinez Archangel et infligez-lui 1 dégat → Redressez ce personnage.",
+        "text": "Alias (<i>Si vous contrôlez une carte avec un sous-titre correspondant, défaussez-la et jouez cette carte gratuitement.</i>) Téméraire. Riposte 2.\n<b>Réponse</b> : après qu'un personnage [[Aérien]] a utilisé un pouvoir de base, inclinez Archangel et infligez-lui 1 dégât → Redressez ce personnage.",
         "traits": "Aérien. X-Force."
     },
     {
         "code": "44201",
         "name": "Darkhawk",
         "subname": "Chris Powell",
-        "text": "[star] Entre en jeu avec un jeton Configuration sur son ATQ. Darkhawk gagne +2 à son pouvoir de base avec un jeton dessus.\n<b>Action</b> : inclinez Darkhawk  →  déplacez le jeton Configuration sur son autre pouvoir de base.",
+        "text": "[star] Entre en jeu avec un jeton Configuration sur son ATQ. Darkhawk gagne +2 à son pouvoir de base avec un jeton dessus.\n<b>Action</b> : inclinez Darkhawk → déplacez le jeton Configuration sur son autre pouvoir de base.",
         "traits": "Aérien. Androïde."
     },
     {
         "code": "44202",
         "name": "Un Jeu Dangereux",
-        "text": "Vous ne pouvez pas déplacer plus de 4 menaces vers cette carte par tour.\n<b>Action de héros</b> : subissez jusqu'à 4 dégats →  déplacez un montant équivalent de menace d'une autre manigance vers cette carte.\n<b>Réponse forcée</b> : après qu'une manigance a été placée sur cette carte, s'il y a au moins 16[per_hero] menaces sur cette carte, infligez 16[per_hero] dégâts au méchant et retirez Un Jeu Dangereux de la partie."
+        "text": "Vous ne pouvez pas déplacer plus de 4 menaces vers cette carte par tour.\n<b>Action de héros</b> : subissez jusqu'à 4 dégâts → déplacez un montant équivalent de menace d'une autre manigance vers cette carte.\n<b>Réponse forcée</b> : après qu'une manigance a été placée sur cette carte, s'il y a au moins 16[per_hero] menaces sur cette carte, infligez 16[per_hero] dégâts au méchant et retirez Un Jeu Dangereux de la partie."
     },
     {
         "code": "44203",
-        "flavor": "« Fais-nous gagner du temps sur la ligne de front, Warren! » – Cyclope",
+        "flavor": "« Fais-nous gagner du temps sur la ligne de front, Warren ! » – Cyclope",
         "name": "Dans la Ligne de Tir",
-        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez un total de 5 dégâts répartis parmi les personnages de votre choix. Ensuite, chaque joueur pioche 1 carte pour chaque personnage [[Aérien]] sous son contrôle blessé de cette manière.",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez un total de 5 dégâts répartis parmi les personnages de votre choix. Ensuite, chaque joueur pioche 1 carte pour chaque personnage [[Aérien]] sous son contrôle blessé de cette manière.",
         "traits": "Aérien. Attaque."
     },
     {
         "code": "44204",
-        "flavor": "« Frappez en premier, posez les questions ensuite. » – X-23",
+        "flavor": "« Frappez en premier, posez les questions ensuite. » – X-23",
         "name": "Détourner l'Attention",
-        "text": "Jouez cette carte uniquement s'il y a une manigance annexe dans la pile de victoire.\n<b>Action de héros</b> : déplacez jusqu'à 6 menaces d'une manigance vers d'autres manigances en jeu de manière aussi équitable que possible.",
+        "text": "Jouez cette carte uniquement s'il y a une manigance annexe dans la pile de victoire.\n<b>Action de héros</b> : déplacez jusqu'à 6 menaces d'une manigance vers d'autres manigances en jeu de manière aussi équitable que possible.",
         "traits": "Tactique."
     },
     {
         "code": "44205",
         "name": "Venompool",
         "subname": "Wade Wilson",
-        "text": "Alias. Venompool gagne +1 ATQ pour chaque carte Rencontre face cachée devant vous (pour un maximum de +3 ATQ).\n<b>Réponse forcée</b> : après que Venompool est entré en jeu, choisissez : soit vous placez 2 menaces sur la manigance principale, soit vous vous attribuez 1 carte Rencontre face cachée.",
+        "text": "Alias. Venompool gagne +1 ATQ pour chaque carte Rencontre face cachée devant vous (pour un maximum de +3 ATQ).\n<b>Réponse forcée</b> : après que Venompool est entré en jeu, choisissez : soit vous placez 2 menaces sur la manigance principale, soit vous vous attribuez 1 carte Rencontre face cachée.",
         "traits": "Symbiote. X-Force."
     },
     {
         "code": "44206",
         "name": "Captain Universe",
         "subname": "Wade Wilson",
-        "text": "Alias (<i>Si vous contrôlez une carte avec un sous-titre correspondant, défaussez-la et jouez cette carte gratuitement.</i>)\n<b>Interruption</b> : quand Captain Universe est censé subir n'importe quelle quantité de dégâts consécutifs, reduisez de X cette quantité, X étant le nombre de cartes Rencontre face cachée devant vous.",
+        "text": "Alias (<i>Si vous contrôlez une carte avec un sous-titre correspondant, défaussez-la et jouez cette carte gratuitement.</i>)\n<b>Interruption</b> : quand Captain Universe est censé subir n'importe quelle quantité de dégâts consécutifs, reduisez de X cette quantité, X étant le nombre de cartes Rencontre face cachée devant vous.",
         "traits": "Aérien. Cosmique."
     },
     {
         "code": "44207",
         "name": "Zenpool",
         "subname": "Wade Wilson",
-        "text": "Alias (<i>Si vous contrôlez une carte avec un sous-titre correspondant, défaussez-la et jouez cette carte gratuitement.</i>)\n<b>Interruption</b> : quand Zenpool entre en jeu, dépensez n'importe quel nombre de ressources. Défaussez une carte Rencontre face cachée devant vous pour chaque ressource ainsi dépensée."
+        "text": "Alias (<i>Si vous contrôlez une carte avec un sous-titre correspondant, défaussez-la et jouez cette carte gratuitement.</i>)\n<b>Interruption</b> : quand Zenpool entre en jeu, dépensez n'importe quel nombre de ressources. Défaussez une carte Rencontre face cachée devant vous pour chaque ressource ainsi dépensée."
     },
     {
         "code": "44208",
         "name": "Défier le Futur",
-        "text": "<b>Action de héros</b> : regardez la carte du dessus du deck Rencontre et chaque carte Rencontre face cachée devant vous. Vous pouvez défausser n'importe quel nombre de cartes regardées de cette manière. Attribuez-vous 1 carte Rencontre face cachée pour chaque carte défaussée par cet effet.",
+        "text": "<b>Action de héros</b> : regardez la carte du dessus du deck Rencontre et chaque carte Rencontre face cachée devant vous. Vous pouvez défausser n'importe quel nombre de cartes regardées de cette manière. Attribuez-vous 1 carte Rencontre face cachée pour chaque carte défaussée par cet effet.",
         "traits": "Tactique. Temporel."
     },
     {
         "code": "44209",
         "name": "Déphasage",
-        "text": "<b>Action de héros</b> : choisissez un personnage ami dans n'importe quelle zone de jeu (incluant la Zone de Mission), deck Joueur, ou main → jusqu'à ce que ce personnage soit retourné ou placé dans une pile de défausse, considérez le comme s'il avait une ressource [wild] imprimée supplémentaire. Il perd le texte imprimé dans sa boîte de texte (<i>sauf les [[Traits]]</i>).",
+        "text": "<b>Action de héros</b> : choisissez un personnage ami dans n'importe quelle zone de jeu (incluant la Zone de Mission), deck Joueur, ou main → jusqu'à ce que ce personnage soit retourné ou placé dans une pile de défausse, considérez le comme s'il avait une ressource [wild] imprimée supplémentaire. Il perd le texte imprimé dans sa boîte de texte (<i>sauf les [[Traits]]</i>).",
         "traits": "Mystique. Tactique."
     },
     {
         "code": "44210",
-        "flavor": "« Dans le temps? Avons – avons nous voyagé dans le temps?? » « D'à peu près une minute » – Morph et Tempus",
+        "flavor": "« Dans le temps ? Avons – avons nous voyagé dans le temps ? ? » « D'à peu près une minute » – Morph et Tempus",
         "name": "Bulle Temporelle",
-        "text": "<b>Action de héros</b> : choisissez soit de défausser X cartes de votre main et subir X dégâts, soit de vous attribuer X cartes Rencontre face cachée → Redressez X cartes que vous contrôlez.",
+        "text": "<b>Action de héros</b> : choisissez soit de défausser X cartes de votre main et subir X dégâts, soit de vous attribuer X cartes Rencontre face cachée → Redressez X cartes que vous contrôlez.",
         "traits": "Tactique. Temporel."
     },
     {
         "code": "44211",
-        "flavor": "« Tu penses pouvoir m'effacer? Je suis déjà vide! »",
+        "flavor": "« Tu penses pouvoir m'effacer ? Je suis déjà vide ! »",
         "name": "Morph",
         "subname": "Kevin Sidney",
-        "text": "<b>Interruption forcée</b> : quand la boite de texte de Morph est considérée étant vide, Morph gagne +2 CTR et +2 ATQ jusqu'à ce qu'il quitte le jeu.",
+        "text": "<b>Interruption forcée</b> : quand la boite de texte de Morph est considérée étant vide, Morph gagne +2 CTR et +2 ATQ jusqu'à ce qu'il quitte le jeu.",
         "traits": "Psionique. X-Men."
     },
     {
         "code": "44212",
         "name": "Spiral",
         "subname": "Rita Wayword",
-        "text": "[star] Spirale gagne +1 ATQ pour chaque carte face cachée devant vous. (Max +6).\n<b>Réponse forcée</b> : quand Spirale entre en jeu, attribuez-vous 2 cartes de rencontre face cachée.",
+        "text": "[star] Spirale gagne +1 ATQ pour chaque carte face cachée devant vous. (Max +6).\n<b>Réponse forcée</b> : après que Spirale est entrée en jeu, attribuez-vous 2 cartes de rencontre face cachée.",
         "traits": "Mystique. X-Force."
     },
     {
         "code": "44213",
-        "flavor": "« Il est différent désormais. Meilleur je pense » – Magik",
+        "flavor": "« Il est différent désormais. Meilleur je pense » – Magik",
         "name": "Tabula Rasa",
-        "text": "Attachez cette carte à un personnage ami dont le texte imprimé dans sa boîte de texte est vide (<i>sauf les [[TRAITS]]</i>).\n<b>Ressource de héros</b> : inclinez le personnage attaché →  générez les ressources imprimées de ce personnage.",
+        "text": "Attachez cette carte à un personnage ami dont le texte imprimé dans sa boîte de texte est vide (<i>sauf les [[TRAITS]]</i>).\n<b>Ressource de héros</b> : inclinez le personnage attaché → générez les ressources imprimées de ce personnage.",
         "traits": "Tactique."
     },
     {
         "code": "44214",
-        "flavor": "« J'ouvrirai un portail vers le manoir. Dépêchez-vous »",
+        "flavor": "« J'ouvrirai un portail vers le manoir. Dépêchez-vous »",
         "name": "Blink",
         "subname": "Clarice Ferguson",
-        "text": "<b>Action</b> : inclinez Blink et infligez-lui ainsi qu'à votre identité 1 dégât chacun → choisissez soit de redresser une carte [[Lieu]] soit de changer de forme.",
+        "text": "<b>Action</b> : inclinez Blink et infligez-lui ainsi qu'à votre identité 1 dégât chacun → choisissez soit de redresser une carte [[Lieu]] soit de changer de forme.",
         "traits": "Psionique. X-Men."
     },
     {
         "code": "44215",
         "name": "Quoi qu'Il en Coûte",
-        "text": "Alliance.\n<b>Action de héros</b> (<i>attaque/contre</i>) : infligez jusqu'à 3 dégâts à un personnage [[X-Men]] et jusqu'à 3 dégâts à un personnage [[X-Force]] → retirez X menaces parmi les manigances en jeu et infligez X dégâts parmi les ennemis en jeu, où X est le total de dégâts subit par cet effet.",
+        "text": "Alliance.\n<b>Action de héros</b> (<i>attaque/contre</i>) : infligez jusqu'à 3 dégâts à un personnage [[X-Men]] et jusqu'à 3 dégâts à un personnage [[X-Force]] → retirez X menaces parmi les manigances en jeu et infligez X dégâts parmi les ennemis en jeu, où X est le total de dégâts subit par cet effet.",
         "traits": "Attaque. Contre."
     },
     {
         "code": "44216",
         "name": "Agent Koenig",
-        "text": "Fragile. Agent Koenig entre en jeu avec 1 jeton LMD sur lui.\n[star] Tant que Agent Koenig a 1 jeton ou plus sur lui, il gagne +1 ATQ.\n<b>Interruption</b> : quand Agent Koenig devrait être vaincu, retirez-lui 1 jeton LMD → retirez lui tous ses dégâts à la place.",
+        "text": "Fragile. Agent Koenig entre en jeu avec 1 jeton LMD sur lui.\n[star] Tant que Agent Koenig a 1 jeton ou plus sur lui, il gagne +1 ATQ.\n<b>Interruption</b> : quand Agent Koenig devrait être vaincu, retirez-lui 1 jeton LMD → retirez lui tous ses dégâts à la place.",
         "traits": "S.H.I.E.L.D."
     },
     {
         "code": "44217",
-        "flavor": "« Vous êtes relevés. » – Maria Hill",
+        "flavor": "« Vous êtes relevés. » – Maria Hill",
         "name": "Le Béhémoth",
-        "text": "Utilisations (2 jetons Déploiement).\n<b>Action</b> : retirez 1 jeton Déploiement du Béhémoth, inclinez-le et défaussez un allié que vous contrôlez → cherchez dans votre collection ou votre deck un allié [[S.H.I.E.L.D.]] et mettez le en jeu.",
+        "text": "Utilisations (2 jetons Déploiement).\n<b>Action</b> : retirez 1 jeton Déploiement du Béhémoth, inclinez-le et défaussez un allié que vous contrôlez → cherchez dans votre collection ou votre deck un allié [[S.H.I.E.L.D.]] et mettez le en jeu.",
         "traits": "S.H.I.E.L.D. véhicule."
     },
     {
         "code": "44218",
         "name": "Le Peak",
-        "text": "<b>Réponse</b> : après avoir retiré un jeton générique d'une carte que vous contrôlez, placez-le sur cette carte (jusqu'à un maximum de 6).\n<b>Action</b> : défaussez cette carte et une carte de votre main → infligez 1 dommage et retirez 1 menace d'une manigance pour chaque jeton ainsi défaussé.",
+        "text": "<b>Réponse</b> : après avoir retiré un jeton générique d'une carte que vous contrôlez, placez-le sur cette carte (jusqu'à un maximum de 6).\n<b>Action</b> : défaussez cette carte et une carte de votre main → infligez 1 dommage et retirez 1 menace d'une manigance pour chaque jeton ainsi défaussé.",
         "traits": "S.W.O.R.D."
     },
     {
         "code": "44219",
-        "flavor": "« Fitz a conçu l'injecteur. » – Jemma Simmons",
+        "flavor": "« Fitz a conçu l'injecteur. » – Jemma Simmons",
         "name": "Assistance Technique",
-        "text": "Utilisations (2 jetons Stimulant).\n<b>Réponse</b> : après avoir retiré un jeton générique d'une carte que vous contrôlez, retirez 1 jeton Stimulant d'Assistance Technique et inclinez-la → Redressez un personnage [[S.H.I.E.L.D]] ou un support [[INDIVIDU]]",
+        "text": "Utilisations (2 jetons Stimulant).\n<b>Réponse</b> : après avoir retiré un jeton générique d'une carte que vous contrôlez, retirez 1 jeton Stimulant d'Assistance Technique et inclinez-la → Redressez un personnage [[S.H.I.E.L.D]] ou un support [[INDIVIDU]]",
         "traits": "S.H.I.E.L.D. tech."
     },
     {
         "code": "44220",
         "name": "Technologie Improvisée",
-        "text": "<b>Interruption</b> : quand une carte de boost est retournée face visible, défaussez Technologie Improvisée et la carte du dessus de votre deck → si le coût de cette carte est supérieur à X, où X est le nombre d'icônes ([star] et [boost]) de la carte de boost, placez X jetons génériques sur des cartes que vous contrôlez. Ensuite, défaussez la carte de boost.",
+        "text": "<b>Interruption</b> : quand une carte de boost est retournée face visible, défaussez Technologie Improvisée et la carte du dessus de votre deck → si le coût de cette carte est supérieur à X, où X est le nombre d'icônes ([star] et [boost]) de la carte de boost, placez X jetons génériques sur des cartes que vous contrôlez. Ensuite, défaussez la carte de boost.",
         "traits": "Préparation. Tech."
     },
     {
         "code": "44221",
         "name": "Sursaut Radioactif",
-        "text": "Vous avez -1 points de vie.\n<b>Réponse de héros</b> : après avoir changé de forme, défaussez Sursaut Radioactif → résolvez la capacité « <b>Spécial</b> » de cette carte.\n<b>Spécial</b> : infligez à un ennemi autant de dégâts que votre ATQ. Si 3 dégâts ou plus ont été infligés de cette manière, sonnez cet ennemi.",
+        "text": "Vous avez -1 points de vie.\n<b>Réponse de héros</b> : après avoir changé de forme, défaussez Sursaut Radioactif → résolvez la capacité « <b>Spécial</b> » de cette carte.\n<b>Spécial</b> : infligez à un ennemi autant de dégâts que votre ATQ. Si 3 dégâts ou plus ont été infligés de cette manière, sonnez cet ennemi.",
         "traits": "Gamma. Préparation. Technique."
     },
     {
         "code": "44222",
         "name": "Spiders-Man",
         "subname": "Peter Parker",
-        "text": "Fragile. Utilisations (5 jetons Araignée).\n[star] Spiders-Man ne peut pas quitter le jeu tant qu'il a au moins un jeton Araignée sur lui.\n<b>Interruption forcée</b> : quand Spiders-Man utilise un pouvoir de base, retirez 1 ou plusieurs jetons Araignée de sa carte → infligez 1 dommage à un ennemi pour chaque jeton retiré.",
+        "text": "Fragile. Utilisations (5 jetons Araignée).\n[star] Spiders-Man ne peut pas quitter le jeu tant qu'il a au moins un jeton Araignée sur lui.\n<b>Interruption forcée</b> : quand Spiders-Man utilise un pouvoir de base, retirez 1 ou plusieurs jetons Araignée de sa carte → infligez 1 dommage à un ennemi pour chaque jeton retiré.",
         "traits": "Spiders. Web-Warrior."
     },
     {
         "code": "44223",
         "name": "Ralph",
-        "text": "<b>Interruption de héros</b> : quand votre héros attaque un ennemi, attachez Ralph à cet ennemi et regardez 2 cartes parmi celles du dessus du deck Rencontre et les cartes Rencontre attribuées aux joueurs → cette attaque gagne perçant et inflige X dommages à cet ennemi et à Ralph, X étant le nombre d'icônes de boost des cartes Rencontre révélées.",
+        "text": "<b>Interruption de héros</b> : quand votre héros attaque un ennemi, attachez Ralph à cet ennemi et regardez 2 cartes parmi celles du dessus du deck Rencontre et les cartes Rencontre attribuées aux joueurs → cette attaque gagne perçant et inflige X dommages à cet ennemi et à Ralph, X étant le nombre d'icônes de boost des cartes Rencontre révélées.",
         "traits": "Aérien. Oiseau."
     },
     {
@@ -818,15 +818,15 @@
     },
     {
         "code": "44225",
-        "flavor": "« Je ne perds pas d'énergie sur ce que pense les autres. »",
+        "flavor": "« Je ne perds pas d'énergie sur ce que pense les autres. »",
         "name": "Night Thrasher",
         "subname": "Dwayne Taylor",
-        "text": "Night Thrasher entre en jeu incliné.\nRiposte 2.\n<b>Réponse</b> : après avoir retourné une carte que vous contrôlez, redressez Night Trasher.",
+        "text": "Night Thrasher entre en jeu incliné.\nRiposte 2.\n<b>Réponse</b> : après avoir retourné une carte que vous contrôlez, redressez Night Trasher.",
         "traits": "Avenger. New Warrior."
     },
     {
         "code": "44226",
-        "flavor": "« Alors ? Vous allez tous vous asseoir et attendre les ordres ? Où allons-nous commencer à agir comme des SUPER HÉROS !? »",
+        "flavor": "« Alors ? Vous allez tous vous asseoir et attendre les ordres ? Où allons-nous commencer à agir comme des SUPER HÉROS ! ? »",
         "name": "Rage",
         "subname": "Elvin Haliday",
         "text": "Rage entre en jeu incliné.\n[star] Rage gagne +X ATQ, X étant égal au numéro du stade du méchant.",
@@ -834,16 +834,16 @@
     },
     {
         "code": "44227",
-        "flavor": "« Tu es chanceux, Doom est clém... » « Tais-toi. » – Docteur Doom & Docteur Strange",
+        "flavor": "« Tu es chanceux, Doom est clém... » « Tais-toi. » – Docteur Doom & Docteur Strange",
         "name": "Répit Collectif",
-        "text": "Max 1 par tour.\n<b>Action de héros</b> : soignez 2 dégâts sur chaque ennemi blessé → redressez un personnage ami pour chaque ennemi soigné de cette manière.",
+        "text": "Max 1 par tour.\n<b>Action de héros</b> : soignez 2 dégâts sur chaque ennemi blessé → redressez un personnage ami pour chaque ennemi soigné de cette manière.",
         "traits": "Tactique."
     },
     {
         "code": "44228",
-        "flavor": "« On dit qu'il penche à gauche. Allons-y. » – Microbe",
+        "flavor": "« On dit qu'il penche à gauche. Allons-y. » – Microbe",
         "name": "Réseau MRVL",
-        "text": "Utilisations (3 jetons Replay).\n<b>Réponse</b> : après qu'un ennemi a subi des dégâts durant la phase du méchant, retirez 1 jeton Replay de cette carte → redressez un personnage que vous contrôlez.",
+        "text": "Utilisations (3 jetons Replay).\n<b>Réponse</b> : après qu'un ennemi a subi des dégâts durant la phase du méchant, retirez 1 jeton Replay de cette carte → redressez un personnage que vous contrôlez.",
         "traits": "Lieu."
     },
     {
@@ -855,14 +855,14 @@
     {
         "code": "44230",
         "name": "Détonation Prévue",
-        "text": "Attachez cette carte à un ennemi. 1 max par ennemi.\n<b>Interruption forcée (héros)</b> (<i>attaque</i>) : quand la phase du méchant se termine, passez sous forme d'alter-ego et retirez Détonation Prévue de la partie → infligez 6 dégâts a l'ennemi attaché. Cette attaque gagne À distance et Déferlement.",
+        "text": "Attachez cette carte à un ennemi. 1 max par ennemi.\n<b>Interruption forcée (héros)</b> (<i>attaque</i>) : quand la phase du méchant se termine, passez sous forme d'alter-ego et retirez Détonation Prévue de la partie → infligez 6 dégâts a l'ennemi attaché. Cette attaque gagne À distance et Déferlement.",
         "traits": "Tactique."
     },
     {
         "code": "44231",
         "name": "Speedball",
         "subname": "Robbie Baldwin",
-        "text": "Speedball entre en jeu incliné.\n<b>Réponse</b> : après que avez redressé Speedball, placez un jeton Bulle sur lui (pour un maximum de 2 jetons). Réduisez la quantité de dégâts que Speedball subit des attaques ennemies de 1 pour chaque jeton Bulle sur lui.",
+        "text": "Speedball entre en jeu incliné.\n<b>Réponse</b> : après que avez redressé Speedball, placez un jeton Bulle sur lui (pour un maximum de 2 jetons). Réduisez la quantité de dégâts que Speedball subit des attaques ennemies de 1 pour chaque jeton Bulle sur lui.",
         "traits": "Avenger. New Warrior."
     },
     {
