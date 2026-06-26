@@ -3,7 +3,7 @@
         "code": "204401a",
         "flavor": "« Vous n'êtes tous que des personnages de comics dans mon monde »",
         "name": "Gwenpool",
-        "text": "<i>Prise de Conscience du Média</i> — <b>Interruption</b> : quand vous résolvez une capacité d'une carte Gwenpool, remplacez « _______ » par une phrase d'une bulle de dialogue. (<i>Utilisez une bulle d'une carte que vous êtes en train de jouer, que vous avez dépensée, ou d'une carte en jeu.</i>) (Limite pour chaque bulle d'une fois par phase.)",
+        "text": "<i>Conscience du Média</i> — <b>Interruption</b> : quand vous résolvez une capacité d'une carte Gwenpool, remplacez « _______ » par une phrase d'une bulle de dialogue. (<i>Utilisez une bulle d'une carte que vous êtes en train de jouer, que vous avez dépensée, ou d'une carte en jeu.</i>) (Limite pour chaque bulle d'une fois par phase.)",
         "traits": "Avenger."
     },
     {
@@ -37,8 +37,8 @@
     {
         "code": "204404",
         "flavor": "« Qu'est ce que j'ai loupé ? » – Gwenpool",
-        "name": "Super Bruit de Fond",
-        "text": "<b>Action de héros</b> : quand une carte traîtrise est révélée du deck Rencontre, annulez ses effets « <b>une fois révélée</b> » et défaussez là. Ensuite, _______."
+        "name": "Ambiance Sympa",
+        "text": "<b>Action de héros</b> : quand une carte traîtrise est révélée du deck Rencontre, annulez ses effets « <bUne fois révélée</b> » et défaussez là. Ensuite, _______."
     },
     {
         "code": "204406",
