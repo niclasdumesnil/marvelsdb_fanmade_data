@@ -1374,7 +1374,8 @@
     {
         "card_set_type_code": "hero",
         "code": "jessica_jones_by_ffg",
-        "name": "Jessica Jones"
+        "name": "Jessica Jones",
+        "status": "sealed"
     },
     {
         "card_set_type_code": "villain",
@@ -1724,18 +1725,6 @@
     },
     {
         "card_set_type_code": "hero",
-        "code": "guardian_by_designhacker",
-        "name": "Guardian",
-        "status": "sealed"
-    },
-    {
-        "card_set_type_code": "nemesis",
-        "code": "guardian_by_designhacker_nemesis",
-        "name": "Guardian Nemesis",
-        "status": "sealed"
-    },
-    {
-        "card_set_type_code": "hero",
         "code": "robocop_by_misssugarpink",
         "name": "Robocop",
         "status": "released"
@@ -1755,5 +1744,65 @@
         "card_set_type_code": "nemesis",
         "code": "winter_soldier_by_rainy_nemesis",
         "name": "Winter Soldier Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "guardian_by_designhacker",
+        "name": "Guardian",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "guardian_by_designhacker_nemesis",
+        "name": "Guardian Nemesis",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "sasquatch_by_designhacker",
+        "name": "Sasquatch",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "sasquatch_by_designhacker_nemesis",
+        "name": "Sasquatch Nemesis",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "puck_by_designhacker",
+        "name": "Puck",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "puck_by_designhacker_nemesis",
+        "name": "Puck Nemesis",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "snowbird_by_designhacker",
+        "name": "Snowbird",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "snowbird_by_designhacker_nemesis",
+        "name": "Snowbird Nemesis",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "shaman_by_designhacker",
+        "name": "Shaman",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "shaman_by_designhacker_nemesis",
+        "name": "Shaman Nemesis",
+        "status": "released"
     }
 ]

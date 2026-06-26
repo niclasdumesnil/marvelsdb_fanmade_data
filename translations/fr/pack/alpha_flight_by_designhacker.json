@@ -8,7 +8,7 @@
     {
         "code": "504501a",
         "name": "Guardian",
-        "text": "<i>Charge</i> — <b>Spécial</b> : défaussez la carte du dessus du deck Rencontre et placez X jetons Charge ici, X étant le nombre d'icônes ([boost] et [star]) dans la zone de boost de cette carte. Ensuite, s'il y a 4 jetons Charge ou plus ici, subissez 1 dégât et retirez 2 jetons Charge d'ici.",
+        "text": "<i>Charge</i> — <b>Spécial</b> : défaussez la carte du dessus du deck Rencontre et placez X jetons Charge ici, X étant le nombre d'icônes ([boost] et [star]) dans la zone de boost de cette carte. Ensuite, s'il y a 4 jetons Charge ou plus ici, subissez 1 dégât et retirez 2 jetons Charge d'ici.",
         "traits": "Aérien. Alpha Flight."
     },
     {
@@ -21,22 +21,22 @@
     {
         "code": "504503",
         "name": "Tous Sous Nos Ordres",
-        "text": "<b>Action de héros</b> : retirez 1 jeton Charge de Guardian ou Vindicator pour chaque personnage [[ALPHA FLIGHT]] en jeu → piochez 1 carte pour chaque jeton Charge retiré de cette façon.",
+        "text": "<b>Action de héros</b> : retirez 1 jeton Charge de Guardian ou Vindicator pour chaque personnage [[ALPHA FLIGHT]] en jeu → piochez 1 carte pour chaque jeton Charge retiré de cette façon.",
         "traits": "Tactique."
     },
     {
         "code": "504504",
-        "flavor": "« Il est temps de saisir notre chance. » — Guardian",
+        "flavor": "« Il est temps de saisir notre chance. » – Guardian",
         "name": "De Partout",
         "subname": "Guardian",
-        "text": "<b>Action de héros</b> <i>(contre)</i> : retirez 3 menaces d'une manigance. Résolvez la capacité <i>« Charge »</i> de Guardian. Ensuite, retirez 1 menace d'une manigance pour chaque jeton Charge sur Guardian.",
+        "text": "<b>Action de héros</b> <i>(contre)</i> : retirez 3 menaces d'une manigance. Résolvez la capacité <i>« Charge »</i> de Guardian. Ensuite, retirez 1 menace d'une manigance pour chaque jeton Charge sur Guardian.",
         "traits": "Contre. Super-pouvoir."
     },
     {
         "code": "504505",
-        "flavor": "« ... En fin de compte, l'important n'est pas d'avoir réussi ou échoué, c'est d'avoir essayé. » — Guardian",
+        "flavor": "« ... En fin de compte, l'important n'est pas d'avoir réussi ou échoué, c'est d'avoir essayé. » – Guardian",
         "name": "Amour Patriotique",
-        "text": "<b>Action</b> : redressez votre identité. Ensuite, si vous êtes sous forme de héros, vous pouvez placer 1 jeton Charge sur Guardian ou Vindicator.",
+        "text": "<b>Action</b> : redressez votre identité. Ensuite, si vous êtes sous forme de héros, vous pouvez placer 1 jeton Charge sur Guardian ou Vindicator.",
         "traits": "Condition."
     },
     {
@@ -48,28 +48,28 @@
     },
     {
         "code": "504507",
-        "flavor": "« Pas cette fois, mon gars. » — Guardian",
+        "flavor": "« Pas cette fois, mon gars. » – Guardian",
         "name": "Monter la Garde",
-        "text": "<b>Interruption de héros</b> <i>(défense)</i> : quand le méchant initie une attaque contre vous, retirez 2 jetons Charge de Guardian → annulez cette attaque et sonnez le méchant.",
+        "text": "<b>Interruption de héros</b> <i>(défense)</i> : quand le méchant initie une attaque contre vous, retirez 2 jetons Charge de Guardian → annulez cette attaque et sonnez le méchant.",
         "traits": "Défense. Super-pouvoir."
     },
     {
         "code": "504508",
         "name": "Cœur Rayonnant",
-        "text": "<b>Réponse de héros</b> : après avoir dépensé cette carte, résolvez la capacité <i>« Charge »</i> de Guardian."
+        "text": "<b>Réponse de héros</b> : après avoir dépensé cette carte, résolvez la capacité <i>« Charge »</i> de Guardian."
     },
     {
         "code": "504509",
-        "flavor": "« C'est moi qui pilote cette fois, Walter. » — Guardian",
+        "flavor": "« C'est moi qui pilote cette fois, Walter. » – Guardian",
         "name": "Omnijet",
-        "text": "<b>Action de héros</b> : inclinez l'Omnijet → résolvez la capacité <i>« Charge »</i> de Guardian ou placez 1 jeton Charge sur Vindicator.",
+        "text": "<b>Action de héros</b> : inclinez l'Omnijet → résolvez la capacité <i>« Charge »</i> de Guardian ou placez 1 jeton Charge sur Vindicator.",
         "traits": "Alpha Flight. Véhicule."
     },
     {
         "code": "504510",
-        "flavor": "« Heather, cette nouvelle source d'énergie est 50 % plus efficace que l'ancien modèle ! » — Guardian",
+        "flavor": "« Heather, cette nouvelle source d'énergie est 50 % plus efficace que l'ancien modèle ! » – Guardian",
         "name": "Cellule d'Énergie Améliorée",
-        "text": "Attachez cette carte à Guardian ou Vindicator.\nTraitez chaque chiffre « 4 » imprimé sur la carte du personnage attaché comme un « 6 » à la place. (Par exemple, 14 serait traité comme 16.)",
+        "text": "Attachez cette carte à Guardian ou Vindicator.\nTraitez chaque chiffre « 4 » imprimé sur la carte du personnage attaché comme un « 6 » à la place. (Par exemple, 14 serait traité comme 16.)",
         "traits": "Objet. Tech."
     },
     {

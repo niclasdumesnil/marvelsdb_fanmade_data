@@ -1249,7 +1249,7 @@
         "pack_type_code": "hero_fanmade",
         "position": 61,
         "size": 35,
-        "status": "sealed",
+        "status": "released",
         "theme": "Marvel",
         "visibility": "false"
     },
@@ -1356,12 +1356,12 @@
         "code": "alpha_flight_by_designhacker",
         "confidential": "false",
         "creator": "Designhacker",
-        "date_release": "2026-06-24",
+        "date_release": "2026-06-25",
         "name": "Alpha Flight",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9f64749",
         "pack_type_code": "hero_fanmade",
         "position": 5045,
-        "size": 23,
+        "size": 118,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
