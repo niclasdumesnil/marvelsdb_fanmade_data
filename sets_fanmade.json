@@ -1804,5 +1804,21 @@
         "code": "shaman_by_designhacker_nemesis",
         "name": "Shaman Nemesis",
         "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "okoye_by_bluehg",
+        "name": "Okoye"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "okoye_by_bluehg_nemesis",
+        "name": "Okoye Nemesis"
+    },
+     {
+        "card_set_type_code": "hero_special",
+        "code": "dora_milaje_allies_by_bluehg",
+        "name": "Dora Milaje Allies",
+        "parent_code": "okoye_by_bluehg"
     }
 ]

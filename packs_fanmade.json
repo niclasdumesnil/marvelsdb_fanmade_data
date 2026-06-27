@@ -1395,5 +1395,20 @@
         "status": "sealed",
         "theme": "Marvel",
         "visibility": "false"
+    },
+    {
+        "cgdb_id": 2077,
+        "code": "okoye_by_bluehg",
+        "confidential": "false",
+        "creator": "BlueHG",
+        "date_release": "2026-06-26",
+        "name": "Okoye",
+        "octgn_id": "607b8c7f-c2ff-4aa5-8f5d-59df6b4ed031",
+        "pack_type_code": "hero_fanmade",
+        "position": 2077,
+        "size": 25,
+        "status": "released",
+        "theme": "Marvel",
+        "visibility": "false"
     }
 ]
