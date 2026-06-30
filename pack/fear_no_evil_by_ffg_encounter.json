@@ -13,6 +13,7 @@
         "quantity": 1,
         "set_code": "daredevil_by_ffg",
         "set_position": 9,
+        "status": "released",
         "text": "Threat cannot be removed from this scheme except by Daredevil or Matt Murdock.\n<b>When Defeated</b>: You may move any number of [[SENSE]] upgrades in play to other cards they can attach to. Choose any number of upgrades from the [[SENSE]] deck and put them into play. (<i>Do not shuffle.</i>)",
         "type_code": "player_side_scheme"
     },
@@ -46,6 +47,7 @@
         "position": 32,
         "quantity": 1,
         "set_code": "daredevil_by_ffg",
+        "status": "released",
         "text": "Give to the Matt Murdock player.\n<b>Forced Response</b>: After a [[SENSE]] upgrade enters play, take 1 damage.\n<b>Alter-Ego Response</b>: After you recover, discard this card.",
         "type_code": "obligation"
     },
@@ -66,6 +68,7 @@
         "scheme": 1,
         "set_code": "daredevil_by_ffg_nemesis",
         "set_position": 1,
+        "status": "released",
         "text": "<b>When Revealed</b>: Choose:\n• Discard a [[PERSONA]] support you control.\n• Bullseye attacks you (even in alter-ego form).",
         "thwart": 1,
         "traits": "Assassin.",
@@ -88,6 +91,7 @@
         "scheme_amplify": 1,
         "set_code": "daredevil_by_ffg_nemesis",
         "set_position": 2,
+        "status": "released",
         "text": "<b>Forced Interrupt</b>: When Bullseye attacks, give him a facedown boost card.",
         "type_code": "side_scheme"
     },
@@ -105,6 +109,7 @@
         "quantity": 2,
         "set_code": "daredevil_by_ffg_nemesis",
         "set_position": 3,
+        "status": "released",
         "text": "Attach to the enemy with the highest ATK.\n[star] Attached character's attacks gain piercing.\n<b>Hero Action</b>: Spend [physical] [physical] resources → choose to either attach this card to Elektra or discard it.\n<hr>[star] <b>Boost</b>:</b> If this activation is an attack, it gains piercing.",
         "traits": "Weapon.",
         "type_code": "attachment"
@@ -123,6 +128,7 @@
         "quantity": 1,
         "set_code": "daredevil_by_ffg_nemesis",
         "set_position": 5,
+        "status": "released",
         "text": "<b>When Revealed</b>: Choose:\n• Remove an ally or [[PERSONA]] support you control from the game.\n• Bullseye attacks you (even in alter-ego form). If he is not in play, find him and reveal him.",
         "type_code": "treachery"
     },
@@ -156,6 +162,7 @@
         "position": 60,
         "quantity": 1,
         "set_code": "echo_by_ffg",
+        "status": "released",
         "text": "<b><i>Give to the Maya Lopez player.</i></b>\nYou cannot deal damage to Kingpin.\n<b>When Revealed</b>: Find Kingpin and put him into play engaged with you.\n<b>Response</b>: After you thwart, place that threat here. If there is 4 or more threat here, remove this card from the game.",
         "type_code": "obligation"
     },
@@ -177,6 +184,7 @@
         "scheme": 3,
         "set_code": "echo_by_ffg_nemesis",
         "set_position": 1,
+        "status": "released",
         "text": "<b>Forced Interrupt</b>: When Kingpin would attack the Maya Lopez player, he schemes instead.\n(<i>Echo's nemesis minion.</i>)",
         "thwart": 3,
         "traits": "Criminal.",
@@ -197,6 +205,7 @@
         "quantity": 1,
         "set_code": "echo_by_ffg_nemesis",
         "set_position": 2,
+        "status": "released",
         "text": "Kingpin cannot take damage.\n<b>When Revealed</b>: Find Kingpin and put him into play engaged with you.\n<hr>[star] <b>Boost</b>: If Kingpin is in play, reveal this scheme.<b></b>",
         "type_code": "side_scheme"
     },
@@ -217,6 +226,7 @@
         "scheme": 1,
         "set_code": "echo_by_ffg_nemesis",
         "set_position": 3,
+        "status": "released",
         "text": "Guard.\nKingpin cannot take damage.",
         "thwart": 1,
         "traits": "Criminal.",
@@ -236,6 +246,7 @@
         "quantity": 1,
         "set_code": "echo_by_ffg_nemesis",
         "set_position": 5,
+        "status": "released",
         "text": "<b>When Revealed (Alter-Ego):</b> If Kingpin is in play, he schemes. Otherwise, this card gains surge.\n<b>When Revealed (Hero):</b> Deal damage to a hero equal to your hero's ATK.",
         "type_code": "treachery"
     }

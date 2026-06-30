@@ -1346,30 +1346,35 @@
     {
         "card_set_type_code": "hero",
         "code": "daredevil_by_ffg",
-        "name": "Daredevil"
+        "name": "Daredevil",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero",
         "code": "echo_by_ffg",
-        "name": "Echo"
+        "name": "Echo",
+        "status": "released"
     },
     {
         "card_set_type_code": "nemesis",
         "code": "daredevil_by_ffg_nemesis",
         "name": "Daredevil Nemesis",
-        "parent_code": "daredevil_by_ffg"
+        "parent_code": "daredevil_by_ffg",
+        "status": "released"
     },
     {
         "card_set_type_code": "nemesis",
         "code": "echo_by_ffg_nemesis",
         "name": "Echo Nemesis",
-        "parent_code": "echo_by_ffg"
+        "parent_code": "echo_by_ffg",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero_special",
         "code": "daredevil_sense_deck",
         "name": "Sense Deck",
-        "parent_code": "daredevil_by_ffg"
+        "parent_code": "daredevil_by_ffg",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero",
@@ -1607,7 +1612,8 @@
     {
         "card_set_type_code": "hero",
         "code": "luke_cage_by_ffg",
-        "name": "Luke Cage"
+        "name": "Luke Cage",
+        "status": "released"
     },
     {
         "card_set_type_code": "villain",
@@ -1747,66 +1753,6 @@
     },
     {
         "card_set_type_code": "hero",
-        "code": "guardian_by_designhacker",
-        "name": "Guardian",
-        "status": "sealed"
-    },
-    {
-        "card_set_type_code": "nemesis",
-        "code": "guardian_by_designhacker_nemesis",
-        "name": "Guardian Nemesis",
-        "status": "sealed"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "sasquatch_by_designhacker",
-        "name": "Sasquatch",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "nemesis",
-        "code": "sasquatch_by_designhacker_nemesis",
-        "name": "Sasquatch Nemesis",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "puck_by_designhacker",
-        "name": "Puck",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "nemesis",
-        "code": "puck_by_designhacker_nemesis",
-        "name": "Puck Nemesis",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "snowbird_by_designhacker",
-        "name": "Snowbird",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "nemesis",
-        "code": "snowbird_by_designhacker_nemesis",
-        "name": "Snowbird Nemesis",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "shaman_by_designhacker",
-        "name": "Shaman",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "nemesis",
-        "code": "shaman_by_designhacker_nemesis",
-        "name": "Shaman Nemesis",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "hero",
         "code": "okoye_by_bluehg",
         "name": "Okoye"
     },
@@ -1820,5 +1766,65 @@
         "code": "dora_milaje_allies_by_bluehg",
         "name": "Dora Milaje Allies",
         "parent_code": "okoye_by_bluehg"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "guardian_by_designhacker",
+        "name": "Guardian"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "guardian_by_designhacker_nemesis",
+        "name": "Guardian Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "sasquatch_by_designhacker",
+        "name": "Sasquatch"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "sasquatch_by_designhacker_nemesis",
+        "name": "Sasquatch Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "puck_by_designhacker",
+        "name": "Puck"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "puck_by_designhacker_nemesis",
+        "name": "Puck Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "snowbird_by_designhacker",
+        "name": "Snowbird"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "snowbird_by_designhacker_nemesis",
+        "name": "Snowbird Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "shaman_by_designhacker",
+        "name": "Shaman"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "shaman_by_designhacker_nemesis",
+        "name": "Shaman Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "alpha_flight_by_designhacker",
+        "name": "Alpha Flight"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "vindicator_by_designhacker_nemesis",
+        "name": "Vindicator Nemesis"
     }
 ]
