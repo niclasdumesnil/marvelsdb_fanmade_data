@@ -792,7 +792,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504549b",
+        "code": "504550b",
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
@@ -803,7 +803,7 @@
         "name": "Narya",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045049",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 49,
+        "position": 50,
         "quantity": 1,
         "recover": 4,
         "set_code": "snowbird_by_designhacker",
@@ -814,8 +814,8 @@
     },
     {
         "attack": 2,
-        "back_link": "504549b",
-        "code": "504549a",
+        "back_link": "504550b",
+        "code": "504550a",
         "deck_limit": 1,
         "defense": 2,
         "duplicate_of_name": "",
@@ -826,7 +826,7 @@
         "name": "Snowbird",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045049",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 49,
+        "position": 50,
         "quantity": 1,
         "set_code": "snowbird_by_designhacker",
         "status": "released",
@@ -838,7 +838,7 @@
     {
         "attack": 2,
         "attack_cost": 1,
-        "code": "504550",
+        "code": "504551",
         "cost": 4,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -849,7 +849,7 @@
         "name": "Shaman",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045050",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 50,
+        "position": 51,
         "quantity": 1,
         "resource_wild": 1,
         "set_code": "snowbird_by_designhacker",
@@ -863,7 +863,7 @@
         "type_code": "ally"
     },
     {
-        "code": "504551",
+        "code": "504552",
         "cost": 3,
         "deck_limit": 2,
         "duplicate_of_name": "",
@@ -873,7 +873,7 @@
         "name": "Arctic Assault",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045051",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 51,
+        "position": 52,
         "quantity": 2,
         "resource_physical": 1,
         "set_code": "snowbird_by_designhacker",
@@ -884,7 +884,7 @@
         "type_code": "event"
     },
     {
-        "code": "504552",
+        "code": "504553",
         "cost": 3,
         "deck_limit": 2,
         "duplicate_of_name": "",
@@ -894,7 +894,7 @@
         "name": "Boreal Boost",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045052",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 52,
+        "position": 53,
         "quantity": 2,
         "resource_mental": 1,
         "set_code": "snowbird_by_designhacker",
@@ -905,7 +905,7 @@
         "type_code": "event"
     },
     {
-        "code": "504553",
+        "code": "504554",
         "cost": 2,
         "deck_limit": 2,
         "duplicate_of_name": "",
@@ -915,7 +915,7 @@
         "name": "Fluid Formation",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045053",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 53,
+        "position": 54,
         "quantity": 2,
         "resource_physical": 1,
         "set_code": "snowbird_by_designhacker",
@@ -926,7 +926,7 @@
         "type_code": "event"
     },
     {
-        "code": "504554",
+        "code": "504555",
         "cost": 2,
         "deck_limit": 2,
         "duplicate_of_name": "",
@@ -935,7 +935,7 @@
         "name": "Heavy Hide",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045054",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 54,
+        "position": 55,
         "quantity": 2,
         "resource_energy": 1,
         "set_code": "snowbird_by_designhacker",
@@ -946,7 +946,7 @@
         "type_code": "event"
     },
     {
-        "code": "504555",
+        "code": "504556",
         "cost": 2,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -956,7 +956,7 @@
         "name": "Great White North",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045055",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 55,
+        "position": 56,
         "quantity": 1,
         "resource_wild": 1,
         "set_code": "snowbird_by_designhacker",
@@ -967,7 +967,7 @@
         "type_code": "support"
     },
     {
-        "code": "504556",
+        "code": "504557",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -976,7 +976,7 @@
         "name": "Bear",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045056",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 56,
+        "position": 57,
         "quantity": 1,
         "resource_energy": 1,
         "set_code": "snowbird_by_designhacker",
@@ -987,7 +987,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504557",
+        "code": "504558",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -996,7 +996,7 @@
         "name": "Dinosaur",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045057",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 57,
+        "position": 58,
         "quantity": 1,
         "resource_physical": 1,
         "set_code": "snowbird_by_designhacker",
@@ -1007,7 +1007,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504558",
+        "code": "504559",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1016,7 +1016,7 @@
         "name": "Snowbird",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045058",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 58,
+        "position": 59,
         "quantity": 1,
         "resource_mental": 1,
         "set_code": "snowbird_by_designhacker",
@@ -1027,7 +1027,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504559",
+        "code": "504560",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1036,7 +1036,7 @@
         "name": "Owl",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045059",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 59,
+        "position": 60,
         "quantity": 1,
         "resource_mental": 1,
         "set_code": "snowbird_by_designhacker",
@@ -1047,7 +1047,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504560",
+        "code": "504561",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1056,7 +1056,7 @@
         "name": "Seal",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045060",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 60,
+        "position": 61,
         "quantity": 1,
         "resource_energy": 1,
         "resource_wild": 1,
@@ -1068,7 +1068,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504561",
+        "code": "504562",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1077,7 +1077,7 @@
         "name": "Wendigo",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045061",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 61,
+        "position": 62,
         "quantity": 1,
         "resource_physical": 1,
         "set_code": "snowbird_by_designhacker",
@@ -1088,8 +1088,8 @@
         "type_code": "upgrade"
     },
     {
-        "back_link": "504562b",
-        "code": "504562a",
+        "back_link": "504563b",
+        "code": "504563a",
         "cost": 0,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1098,7 +1098,7 @@
         "name": "Don't Get Stuck!",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045062",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 62,
+        "position": 63,
         "quantity": 1,
         "set_code": "snowbird_by_designhacker",
         "set_position": 17,
@@ -1107,7 +1107,7 @@
         "type_code": "support"
     },
     {
-        "code": "504562b",
+        "code": "504563b",
         "cost": 0,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1117,7 +1117,7 @@
         "name": "Stuck!",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045062",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 62,
+        "position": 63,
         "quantity": 1,
         "set_code": "snowbird_by_designhacker",
         "set_position": 17,
@@ -1127,7 +1127,7 @@
         "type_code": "support"
     },
     {
-        "code": "504569b",
+        "code": "504570b",
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
@@ -1138,7 +1138,7 @@
         "name": "Michael Twoyoungmen",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045069",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 69,
+        "position": 70,
         "quantity": 1,
         "recover": 4,
         "recover_star": true,
@@ -1150,8 +1150,8 @@
     },
     {
         "attack": 0,
-        "back_link": "504569b",
-        "code": "504569a",
+        "back_link": "504570b",
+        "code": "504570a",
         "deck_limit": 1,
         "defense": 0,
         "duplicate_of_name": "",
@@ -1163,7 +1163,7 @@
         "name": "Shaman",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045069",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 69,
+        "position": 70,
         "quantity": 1,
         "set_code": "shaman_by_designhacker",
         "status": "released",
@@ -1175,7 +1175,7 @@
     {
         "attack": 1,
         "attack_cost": 1,
-        "code": "504570",
+        "code": "504571",
         "cost": 4,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1185,7 +1185,7 @@
         "name": "Snowbird",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045070",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 70,
+        "position": 71,
         "quantity": 1,
         "resource_wild": 1,
         "set_code": "shaman_by_designhacker",
@@ -1199,7 +1199,7 @@
         "type_code": "ally"
     },
     {
-        "code": "504571",
+        "code": "504572",
         "cost": 2,
         "deck_limit": 2,
         "duplicate_of_name": "",
@@ -1209,7 +1209,7 @@
         "name": "Astral Form",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045071",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 71,
+        "position": 72,
         "quantity": 2,
         "resource_energy": 1,
         "resource_wild": 0,
@@ -1221,7 +1221,7 @@
         "type_code": "event"
     },
     {
-        "code": "504572",
+        "code": "504573",
         "cost": 0,
         "deck_limit": 3,
         "duplicate_of_name": "",
@@ -1231,7 +1231,7 @@
         "name": "Commune",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045072",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 72,
+        "position": 73,
         "quantity": 3,
         "resource_mental": 1,
         "set_code": "shaman_by_designhacker",
@@ -1242,7 +1242,7 @@
         "type_code": "event"
     },
     {
-        "code": "504573",
+        "code": "504574",
         "cost": 2,
         "deck_limit": 2,
         "duplicate_of_name": "",
@@ -1252,7 +1252,7 @@
         "name": "Entangle",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045073",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 73,
+        "position": 74,
         "quantity": 2,
         "resource_physical": 1,
         "set_code": "shaman_by_designhacker",
@@ -1263,7 +1263,7 @@
         "type_code": "event"
     },
     {
-        "code": "504574",
+        "code": "504575",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1273,7 +1273,7 @@
         "name": "Mystic Healing",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045074",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 74,
+        "position": 75,
         "quantity": 1,
         "resource_mental": 1,
         "set_code": "shaman_by_designhacker",
@@ -1284,7 +1284,7 @@
         "type_code": "event"
     },
     {
-        "code": "504575",
+        "code": "504576",
         "cost": 0,
         "deck_limit": 2,
         "duplicate_of_name": "",
@@ -1293,7 +1293,7 @@
         "name": "Mystic Dust",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045075",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 75,
+        "position": 76,
         "quantity": 2,
         "resource_wild": 1,
         "set_code": "shaman_by_designhacker",
@@ -1303,7 +1303,7 @@
         "type_code": "resource"
     },
     {
-        "code": "504576",
+        "code": "504577",
         "cost": 2,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1312,7 +1312,7 @@
         "name": "Eaglet",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045076",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 76,
+        "position": 77,
         "quantity": 1,
         "resource_physical": 1,
         "set_code": "shaman_by_designhacker",
@@ -1323,7 +1323,7 @@
         "type_code": "support"
     },
     {
-        "code": "504577",
+        "code": "504578",
         "cost": 2,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1332,7 +1332,7 @@
         "name": "Refreshing Winds",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045077",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 77,
+        "position": 78,
         "quantity": 1,
         "resource_energy": 1,
         "resource_wild": 0,
@@ -1344,7 +1344,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504578",
+        "code": "504579",
         "cost": 2,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1353,7 +1353,7 @@
         "name": "Shaman's Medicine Pouch",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045078",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 78,
+        "position": 79,
         "quantity": 1,
         "resource_wild": 1,
         "set_code": "shaman_by_designhacker",
@@ -1364,7 +1364,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504579",
+        "code": "504580",
         "cost": 2,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1373,7 +1373,7 @@
         "name": "Spirit Staff",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045079",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 79,
+        "position": 80,
         "quantity": 1,
         "resource_mental": 1,
         "set_code": "shaman_by_designhacker",
@@ -1384,7 +1384,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504585b",
+        "code": "504587b",
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
@@ -1395,7 +1395,7 @@
         "name": "Heather Hudson",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045085",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 85,
+        "position": 87,
         "quantity": 1,
         "recover": 3,
         "set_code": "alpha_flight_by_designhacker",
@@ -1405,8 +1405,8 @@
     },
     {
         "attack": 2,
-        "back_link": "504585b",
-        "code": "504585a",
+        "back_link": "504587b",
+        "code": "504587a",
         "deck_limit": 1,
         "defense": 2,
         "duplicate_of_name": "",
@@ -1417,7 +1417,7 @@
         "name": "Vindicator",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045085",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 85,
+        "position": 87,
         "quantity": 1,
         "set_code": "alpha_flight_by_designhacker",
         "text": "Vindicator cannot have more than 4 charge counters here.\n<i>Vindicated</i> — <b>Interrupt</b>: When Vindicator would heal any amount of damage, place that many charge counters on her instead.",
@@ -1428,7 +1428,7 @@
     {
         "attack": 2,
         "attack_cost": 2,
-        "code": "504586",
+        "code": "504588",
         "cost": 3,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1438,7 +1438,7 @@
         "name": "Guardian",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045086",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 86,
+        "position": 88,
         "quantity": 1,
         "resource_wild": 1,
         "set_code": "alpha_flight_by_designhacker",
@@ -1451,7 +1451,7 @@
         "type_code": "ally"
     },
     {
-        "code": "504587",
+        "code": "504589",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1460,7 +1460,7 @@
         "name": "All Of Us Command",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045087",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 87,
+        "position": 89,
         "quantity": 1,
         "resource_mental": 1,
         "set_code": "alpha_flight_by_designhacker",
@@ -1470,7 +1470,7 @@
         "type_code": "event"
     },
     {
-        "code": "504588",
+        "code": "504590",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1480,7 +1480,7 @@
         "name": "Patriot Love",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045088",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 88,
+        "position": 90,
         "quantity": 2,
         "resource_mental": 1,
         "resource_physical": 0,
@@ -1491,7 +1491,7 @@
         "type_code": "event"
     },
     {
-        "code": "504589",
+        "code": "504591",
         "cost": 2,
         "deck_limit": 2,
         "duplicate_of_name": "",
@@ -1501,7 +1501,7 @@
         "name": "Serve And Protect",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045089",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 89,
+        "position": 91,
         "quantity": 2,
         "resource_physical": 1,
         "set_code": "alpha_flight_by_designhacker",
@@ -1511,7 +1511,7 @@
         "type_code": "event"
     },
     {
-        "code": "504590",
+        "code": "504592",
         "cost": 2,
         "deck_limit": 2,
         "duplicate_of_name": "",
@@ -1521,7 +1521,7 @@
         "name": "Unexpected Blast",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045090",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 90,
+        "position": 92,
         "quantity": 2,
         "resource_energy": 1,
         "resource_physical": 0,
@@ -1532,7 +1532,7 @@
         "type_code": "event"
     },
     {
-        "code": "504591",
+        "code": "504593",
         "cost": 0,
         "deck_limit": 2,
         "duplicate_of_name": "",
@@ -1540,7 +1540,7 @@
         "name": "Anti-Gravity Generation",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045091",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 91,
+        "position": 93,
         "quantity": 2,
         "resource_wild": 1,
         "set_code": "alpha_flight_by_designhacker",
@@ -1550,7 +1550,7 @@
         "type_code": "resource"
     },
     {
-        "code": "504592",
+        "code": "504594",
         "cost": 2,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1559,7 +1559,7 @@
         "name": "Department H",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045092",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 92,
+        "position": 94,
         "quantity": 1,
         "resource_mental": 1,
         "set_code": "alpha_flight_by_designhacker",
@@ -1569,7 +1569,7 @@
         "type_code": "support"
     },
     {
-        "code": "504593",
+        "code": "504595",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1578,7 +1578,7 @@
         "name": "Concussive Beams",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045093",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 93,
+        "position": 95,
         "quantity": 1,
         "resource_energy": 1,
         "resource_wild": 0,
@@ -1589,7 +1589,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504594",
+        "code": "504596",
         "cost": 2,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1598,7 +1598,7 @@
         "name": "Energy Redirection",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045094",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 94,
+        "position": 96,
         "quantity": 1,
         "resource_energy": 1,
         "set_code": "alpha_flight_by_designhacker",
@@ -1607,7 +1607,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504595",
+        "code": "504597",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1617,7 +1617,7 @@
         "name": "Improved Power Cell",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045095",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 95,
+        "position": 97,
         "quantity": 1,
         "resource_physical": 1,
         "set_code": "alpha_flight_by_designhacker",
@@ -1627,7 +1627,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "504596",
+        "code": "504598",
         "cost": 1,
         "deck_limit": 1,
         "duplicate_of_name": "",
@@ -1636,7 +1636,7 @@
         "name": "Vindicator's Helmet",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045096",
         "pack_code": "alpha_flight_by_designhacker",
-        "position": 96,
+        "position": 98,
         "quantity": 1,
         "resource_physical": 1,
         "set_code": "alpha_flight_by_designhacker",
