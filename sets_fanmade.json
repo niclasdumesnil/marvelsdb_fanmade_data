@@ -978,13 +978,15 @@
     {
         "card_set_type_code": "hero",
         "code": "totally_awesome_hulk",
-        "name": "Totally Awesome Hulk"
+        "name": "Totally Awesome Hulk",
+        "status": "sealed"
     },
     {
         "card_set_type_code": "nemesis",
         "code": "totally_awesome_hulk_nemesis",
         "name": "Totally Awesome Hulk Nemesis",
-        "parent_code": "totally_awesome_hulk"
+        "parent_code": "totally_awesome_hulk",
+        "status": "sealed"
     },
     {
         "card_set_type_code": "hero",

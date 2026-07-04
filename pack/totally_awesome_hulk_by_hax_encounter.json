@@ -9,6 +9,7 @@
         "position": 13,
         "quantity": 1,
         "set_code": "totally_awesome_hulk",
+        "status": "sealed",
         "text": "<b>Give to the Amadeus Cho player.</b>\nVictory 1. You cannot put allies into play.\n<b>Alter-Ego Action</b>: Treat \"The Trunk's\" printed text box as if it were blank, then remove \"The Trunk\" from the game → remove this obligation from the game.",
         "type_code": "obligation"
     },
@@ -26,6 +27,7 @@
         "scheme": 2,
         "set_code": "totally_awesome_hulk_nemesis",
         "set_position": 1,
+        "status": "sealed",
         "text": "Victory 1.\n<b>Hero Action</b>: Spend [wild] resources equal to Lady Hellbender's remaining hit points → treat Lady Hellbender as an ally you control with THW instead of SCH.\n<i>(Totally Awesome Hulk's nemesis minion.)</i>",
         "traits": "Elite. Monster. Queen.",
         "type_code": "minion"
@@ -43,6 +45,7 @@
         "quantity": 1,
         "set_code": "totally_awesome_hulk_nemesis",
         "set_position": 2,
+        "status": "sealed",
         "text": "Hinder 1[per_hero]. While Lady Hellbender is in play, [[MONSTER]] minions gain villainous.\n[amplify]",
         "type_code": "side_scheme"
     },
@@ -62,6 +65,7 @@
         "scheme": 0,
         "set_code": "totally_awesome_hulk_nemesis",
         "set_position": 3,
+        "status": "sealed",
         "text": "Victory 1.\n<b>When Revealed</b>: Fin Fang Foom gets +2[per_hero] hit points.\n<b>Forced Interrupt</b>: When Fin Fang Foom has 2[per_hero] or fewer hit points remaining, his attacks gain overkill.",
         "traits": "Elite. Monster.",
         "type_code": "minion"
@@ -82,6 +86,7 @@
         "scheme": 0,
         "set_code": "totally_awesome_hulk_nemesis",
         "set_position": 4,
+        "status": "sealed",
         "text": "Victory 1.\n<b>When Revealed</b>: Krackalakassian gets +2[per_hero] hit points.\n<b>Forced Interrupt</b>: When Krackalakassian attacks, take 2 indirect damage.",
         "traits": "Elite. Monster.",
         "type_code": "minion"
@@ -98,6 +103,7 @@
         "quantity": 1,
         "set_code": "totally_awesome_hulk_nemesis",
         "set_position": 5,
+        "status": "sealed",
         "text": "<b>When Revealed</b>: Deal 3 damage to the identity with the most remaining hit points.",
         "type_code": "treachery"
     }
