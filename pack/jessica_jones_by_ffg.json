@@ -503,7 +503,7 @@
         "pack_code": "jessica_jones_by_ffg",
         "position": 34,
         "quantity": 1,
-        "text": "<b>Starting.</b> (<i>You may add this card to your hand before drawing your starting hand.</i>)\nYour hero gets +1 ATK.",
+        "text": "Starting. (<i>You may add this card to your hand before drawing your starting hand.</i>)\nYour hero gets +1 ATK.",
         "traits": "Condition.",
         "type_code": "upgrade"
     },
@@ -530,7 +530,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "leadership",
-        "flavor": "PA-PA-POW!",
+        "flavor": "PA -PA-POW!",
         "is_unique": false,
         "name": "Innate Inspiration",
         "octgn_id": "7f19133c-13a9-4b3e-a364-bf1741061037",

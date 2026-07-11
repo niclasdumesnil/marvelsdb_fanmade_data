@@ -1828,5 +1828,94 @@
         "card_set_type_code": "nemesis",
         "code": "vindicator_by_designhacker_nemesis",
         "name": "Vindicator Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "beast_by_jg",
+        "name": "Beast"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "beast_by_jg_nemesis",
+        "name": "Beast Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "white_queen_by_jg",
+        "name": "White Queen"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "white_queen_by_jg_nemesis",
+        "name": "White Queen Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "batman_66_by_rycoran",
+        "name": "Batman 66",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "hero_additional",
+        "code": "batman_66_additional_by_rycoran",
+        "name": "You don't like Robin",
+        "parent_code": "batman_66_by_rycoran",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "batman_66_by_rycoran_nemesis",
+        "name": "Batman 66 Nemesis",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "batman_66_egghead_by_rycoran_nemesis",
+        "name": "Batman 66 Nemesis-egghead",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "batman_66_joker_by_rycoran_nemesis",
+        "name": "Batman 66 Nemesis-joker",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "batman_66_freeze_by_rycoran_nemesis",
+        "name": "Batman 66 Nemesis-freeze",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "batman_66_penguin_by_rycoran_nemesis",
+        "name": "Batman 66 Nemesis-penguin",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "batman_66_riddle_by_rycoran_nemesis",
+        "name": "Batman 66 Nemesis-riddle",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "punisher_by_misssugarpink",
+        "name": "The Punisher",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "the_punisher_by_misssugarpink_nemesis",
+        "name": "The Punisher Nemesis",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "hero_special",
+        "code": "punisher_loadout_by_misssugarpink",
+        "creator": "MissSugarPink",
+        "name": "The Punisher's Loadout",
+        "parent_code": "punisher_by_misssugarpink",
+        "status": "released"
     }
 ]
