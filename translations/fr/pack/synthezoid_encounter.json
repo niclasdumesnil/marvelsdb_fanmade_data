@@ -1,0 +1,425 @@
+[
+    {
+        "code": "57001",
+        "name": "Miss Hulk",
+        "text": "<b>Mise en place</b> : l'équipe ennemie trouve un exemplaire de Force Surhumaine et l'attache à Miss Hulk.\n<b>Réponse forcée</b> : après qu'un alter ego est passé sous forme de héros, infligez 1 dégât à ce héros.",
+        "traits": "Avenger. Gamma."
+    },
+    {
+        "code": "57002",
+        "name": "Miss Hulk",
+        "text": "Solide.\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Miss Hulk ne peut pas subir de dégât à cette phase.\n<b>Réponse forcée</b> : après qu'un alter ego est passé sous forme de héros, infligez 1 dégât à ce héros.",
+        "traits": "Avenger. Gamma."
+    },
+    {
+        "code": "57003",
+        "name": "Miss Hulk",
+        "text": "<b>Mise en place</b> : l'équipe ennemie trouve un exemplaire de Force Surhumaine et l'attache à Miss Hulk.\n<b>Réponse forcée</b> : après qu'un alter ego est passé sous forme de héros, infligez 1 dégât à ce héros.",
+        "traits": "Avenger. Gamma."
+    },
+    {
+        "code": "57004",
+        "name": "Miss Hulk",
+        "text": "Solide.\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Miss Hulk ne peut pas subir de dégât à cette phase.\n<b>Réponse forcée</b> : après qu'un alter ego est passé sous forme de héros, infligez 1 dégât à ce héros.",
+        "traits": "Avenger. Gamma."
+    },
+    {
+        "code": "57005a",
+        "name": "Loi d'Enregistrement des Super-Héros",
+        "text": "<b>Contenu</b> : le leader choisi I et II <i>(III et IV en mode expert)</i>. Le set du leader choisi, le set standard et 3 à 4 set modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir son Camp et votre équipes la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
+    },
+    {
+        "code": "57005b",
+        "flavor": "« Tout cela pourrait être évité, si seulement vous respectiez la loi ! » – Miss-Hulk",
+        "name": "Faire Respecter la Loi",
+        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\nLe leader ennemi gagne Solide."
+    },
+    {
+        "code": "57006a",
+        "flavor": "Iron Man et ses Avengers ont pour ordre d'appréhender tout individu surhumain qui refuse de s'enregistrer auprès du S.H.I.E.L.D.. Cela inclut d'anciens coéquipiers comme Captain America et Spider-Woman.",
+        "name": "Tactiques Pro-Enregistrement"
+    },
+    {
+        "code": "57006b",
+        "flavor": "Les Avengers d'Iron Man ont tellement foi dans la réforme des super-héros qu'ils n'hésitent pas à s'opposer à leurs anciens coéquipiers.",
+        "name": "Puissants Avengers",
+        "text": "Tant que le leader ennemi attaque, il gagne +1 ATQ (+2 ATQ à la place si l'attaque est non défendue).\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "57007",
+        "name": "Force Surhumaine",
+        "text": "Attachez cette carte à Miss Hulk.\n[star]<b>Interruption forcée </b> : quand Miss Hulk attaque, cette attaque gagne Déferlement. Défaussez cette carte après cette attaque.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "57008",
+        "name": "Rage Contrôlée",
+        "text": "Attachez cette carte à Miss Hulk.\nMiss Hulk gagne Robuste.\n[star]<b>Réponse forcée </b> : après que Miss Hulk a manigancé, défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "57009",
+        "flavor": "« Ne rendez pas les choses plus difficiles qu'elles ne le sont déjà ! » – Miss Hulk",
+        "name": "Droite-Gauche",
+        "text": "<b>Une fois révélée (alter ego)</b> :\nMiss Hulk manigance. Donnez-lui une carte d'état Tenace.\n<b>Une fois révélée (héros)</b> : Miss Hulk vous attaque. Donnez-lui une carte d'état Tenace."
+    },
+    {
+        "code": "57010",
+        "name": "Piétinement",
+        "text": "<b>Une fois révélée</b> : inclinez chaque personnage que vous contrôlez. Si aucun personnage n'a été incliné par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : inclinez un personnage que vous contrôlez."
+    },
+    {
+        "code": "57011",
+        "flavor": "« Tu t'en es pris à la mauvaise femme ! » – Miss Hulk",
+        "name": "Frappe Gamma",
+        "text": "<b>Une fois révélée</b> : défaussez l'allié ou le soutien que vous contrôlez ayant le coût le plus élevé. Placez sur la manigance principale un nombre de menaces égal au coût de cette carte. Si aucune menace n'a été placée par cette effet sur la manigance principale, cette carte gagne Renfort."
+    },
+    {
+        "code": "57012",
+        "name": "Pratique de la Loi",
+        "text": "Les héros et les alliés ne peuvent pas retirer de menace de cette manigance.\n<b>Réponse d'alter ego</b> : après que vous avez changé de forme, inclinez votre identité → retirez 3 menaces de cette manigance."
+    },
+    {
+        "code": "57013",
+        "flavor": "« Super non-enregistré localisé à l'angle de la 43 et de Madison. Mobilisez l'unité douze pour interception. »",
+        "name": "Opérateur du S.H.I.E.L.D.",
+        "text": "Patrouille.\n<b>Une fois révélée</b> : placez 2 menaces sur la manigance principale.",
+        "traits": "S.H.I.E.L.D."
+    },
+    {
+        "code": "57014",
+        "flavor": "« Je savais qu'on ne pouvait pas lui faire confiance. » – Maria Hill",
+        "name": "Observation Stratégique",
+        "text": "<b>Une fois révélée</b> : donnez une carte d'état Tenace au leader ennemi et à chaque sbire.\n<hr>[star] <b>Boost</b> : donnez une carte d'état Tenace à l'ennemi en cours d'activation."
+    },
+    {
+        "code": "57015",
+        "name": "Réponse Rapide",
+        "text": "<b>Une fois révélée</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un sbire soit défaussé. Si vous êtes sous forme :\n• D'alter ego, placez sur la manigance principale un nombre de menaces égal à la MNG de ce sbire.\n• De héros, infligez à votre héros un nombre de dégâts égal à l'ATQ de ce sbire."
+    },
+    {
+        "code": "57016",
+        "flavor": "« Une activité super-humaine illégale a été détectée dans cette zone. Merci de rejoindre vos domiciles et de vous mettre à l'abri ! » – Un officier du S.H.I.E.L.D.",
+        "name": "Sécurité Intérieure",
+        "text": "Entrave 1[per_hero].\nLe premier sbire révélé à chaque round gagne Renfort."
+    },
+    {
+        "code": "57040",
+        "name": "Vision",
+        "text": "<b>Mise en place</b> : l'équipe ennemie trouve l'attachement Forme de Masse de Vision et l'attache à Vision, face Dense visible.\n<b>Réponse forcée</b> : après avoir résolu l'étape 1 de la phase du Méchant, retournez l'attachement Forme de Masse de Vision.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "57041",
+        "name": "Vision",
+        "text": "Solide.\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Vision ne peut pas subir de dégâts à cette phase.\n<b>Réponse forcée</b> : après avoir résolu l'étape 1 de la phase du Méchant, retournez l'attachement Forme de Masse de Vision.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "57042",
+        "name": "Vision",
+        "text": "<b>Mise en place</b> : l'équipe ennemie trouve l'attachement Forme de Masse de Vision et l'attache à Vision, face Dense visible.\n<b>Réponse forcée</b> : après avoir résolu l'étape 1 de la phase du Méchant, retournez l'attachement Forme de Masse de Vision.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "57043",
+        "name": "Vision",
+        "text": "Solide.\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Vision ne peut pas subir de dégâts à cette phase.\n<b>Réponse forcée</b> : après avoir résolu l'étape 1 de la phase du Méchant, retournez l'attachement Forme de Masse de Vision.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "57048",
+        "name": "Cape de Vision",
+        "text": "Attachez cette carte à Vision.\nVision gagne Riposte 1.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Vision, dépensez les ressources suivantes : [energy][mental] → défaussez cette carte et retournez l'attachement Forme de Masse de Vision.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Objet."
+    },
+    {
+        "code": "57044a",
+        "name": "Résistance des Super-Héros",
+        "text": "<b>Contenu</b> : le leader choisi l et Il <i>(III et IV en mode Expert)</i>. Le set du leader choisi, le set Standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir Son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
+    },
+    {
+        "code": "57044b",
+        "flavor": "En faisant tomber le masque, les héros se mettent en danger et leurs proches avec eux.",
+        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\n[star]<b>Réponse forcée</b> : après avoir résolu l'étape 1 de la phase du Méchant, chaque joueur défausse les 3 cartes du dessus de son deck."
+    },
+    {
+        "code": "57045a",
+        "flavor": "Captain America et ses Avengers sont obligés d'œuvrer dans la clandestinité s'ils ne veulent pas être arrêtés en raison de leur refus d'être enregistrés par le S.H.I.E.L.D.. Lorsqu'Iron Man et Captain Marvel commencent à s'entourer de leurs alliés surhumains, la résistance décide de contre-attaquer."
+    },
+    {
+        "code": "57045b",
+        "flavor": "« Si nous révélons l'existence de la prison secrète du S.H.I.E.L.D. au reste du monde, ils perdront le soutien du public. » – Vision",
+        "text": "Les alliés entrent en jeu inclinés.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "57046a",
+        "flavor": "Vision contrôle les molécules de son corps pour se rendre intangible ou tellement dense que les armes se fracassent contre lui.",
+        "name": "Dense",
+        "text": "Permanent. Forme de Masse.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "57046b",
+        "flavor": "« L'innovation est l'arme ultime. » – Vision",
+        "name": "Intangible",
+        "text": "Permanent. Forme de Masse.\n<b>Interruption forcée</b> : quand Vision est censé subir n'importe quelle quantité de dégâts, diminuez de 1 cette quantité.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "57047",
+        "name": "Gemme Solaire",
+        "text": "Attachez cette carte à Vision.\nVision gagne Robuste.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Vision, dépensez les ressources suivantes : [mental][physical] → défaussez cette carte et retournez l'attachement Forme de Masse de Vision.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Objet."
+    },
+    {
+        "code": "57049",
+        "flavor": "« Halte ! » – Vision",
+        "name": "Augmentation de Masse",
+        "text": "Attachez cette carte à Vision.\n<b>Interruption forcée</b> : quand un personnage attaque Vision lorsque l'attachement Dense est en jeu, prévenez tous les dégâts de cette attaque et sonnez le personnage attaquant. Défaussez cette carte.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "57050",
+        "name": "Contrôle de Densité",
+        "text": "Renfort. Attachez cette carte à Vision.\n<b>Interruption forcée</b> : quand Vision s'active, si cette activation est :\n• Une manigance, retournez l'attachement Forme de Masse de Vision pour que la face Intangible soit visible.\n• Une attaque, retournez l'attachement Forme de Masse de Vision pour que la face Dense soit visible.\nEnsuite, si l'attachement Forme de Masse de Vision a été retourné, défaussez cette carte.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "57051",
+        "name": "Faisceau Solaire",
+        "text": "<b>Une fois révélée (alter ego)</b> : Vision manigance. Si l'attachement Intangible est en jeu, Vision gagne +1 MNG pour cette manigance.\n<b>Une fois révélée (héros)</b> : Vision vous attaque. Si l'attachement Dense est en jeu, Vision gagne +1 ATQ pour cette attaque."
+    },
+    {
+        "code": "57052",
+        "flavor": "« Je vous prie de ne pas résister, sinon je serai dans l'obligation de faire usage de plus de force. » – Vision",
+        "name": "Frappe Hyperdense",
+        "text": "<b>Une fois révélée</b> : inclinez un personnage que vous contrôlez. Si l'attachement Dense est en jeu, infligez 2 dégâts à ce personnage. Si l'attachement Intangible est en jeu, retournez cet attachement."
+    },
+    {
+        "code": "57053",
+        "flavor": "« Cible neutralisée. » – Vision",
+        "name": "Disruption de Phase",
+        "text": "<b>Une fois révélée</b> : l'équipe ennemie incline une amélioration que vous contrôlez. Si l'attachement Intangible est en jeu, défaussez cette amélioration à la place. Si l'attachement Dense est en jeu, retournez cet attachement."
+    },
+    {
+        "code": "57054",
+        "flavor": "Le pouvoir de déphasage de Vision fait de lui un ennemi aussi redoutable qu'imprévisible.",
+        "name": "Passer au Travers",
+        "text": "<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance désoriente son identité. Sinon il sonne son identité."
+    },
+    {
+        "code": "57055",
+        "flavor": "« Personne ne leur a dit que NOUS sommes les gentils ? »",
+        "name": "Patriot",
+        "text": "Ténacité.\n<b>Une fois révélée</b> : donnez une carte d'état Tenace au leader ennemi.",
+        "traits": "Young Avenger."
+    },
+    {
+        "code": "57056",
+        "flavor": "« Mange ça, Clint ! »",
+        "name": "Hawkeye",
+        "text": "[star] Les attaques de Hawkeye gagnent Perçant et À Distance.\n<b>Une fois révélée</b> : défaussez une amélioration que vous contrôlez.",
+        "traits": "Young Avenger."
+    },
+    {
+        "code": "57057",
+        "flavor": "« Ne sois pas condescendant lorsque tu t'adresses à une fille qui peut faire la taille d'un immeuble ! »",
+        "name": "Stature",
+        "text": "Garde.\n<b>Une fois révélée</b> : défaussez un soutien que vous contrôlez.",
+        "traits": "Géant. Young Avenger."
+    },
+    {
+        "code": "57058",
+        "flavor": "« Young Avengers, rassemblement ! » – Kate Bishop",
+        "name": "Super-Adolescents",
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b>Une fois révélée</b> » de chaque sbire en jeu. Si aucune capacité « <b>Une fois révélée</b> » n'a été ainsi résolue, cette carte gagne Renfort."
+    },
+    {
+        "code": "57059",
+        "flavor": "La nouvelle génération de super-héros espère être à la hauteur de l'héritage de ses aînés.",
+        "name": "Young Avengers",
+        "text": "Entrave 1[per_hero].\nLe premier sbire révélé à chaque round gagne Renfort."
+    },
+    {
+        "code": "57060",
+        "flavor": "« Hey ! Les vieux croulants ! On se bouge ! »",
+        "name": "Speed",
+        "text": "Coup Rapide.\n<b>Une fois révélée</b> : vous êtes sonné. Sinon, infligez 2 dégâts à votre identité.",
+        "traits": "Young Avenger."
+    },
+    {
+        "code": "57061",
+        "errata": "Suppression du pluriel à désorientez. [Merlin]",
+        "flavor": "« Désolé, vous vous êtes attaqués aux mauvais gamins ! »",
+        "name": "Wiccan",
+        "text": "Incitation 1.\n<b>Une fois révélée</b> : vous êtes désorienté. Sinon, placez 2 menaces sur la manigance principale.",
+        "traits": "Young Avenger."
+    },
+    {
+        "code": "57062",
+        "flavor": "« Tu ne l'avais pas vu venir, pas vrai ? » – Speed",
+        "name": "Super Vitesse",
+        "text": "<b>Une fois révélée</b> : défaussez 1 carte prise au hasard dans votre main. Subissez un nombre de dégâts indirects égal à son coût.\n<hr>[star] <b>Boost</b> : défaussez 1 carte de votre main."
+    },
+    {
+        "code": "57063",
+        "flavor": "« ECLAIRAVEUGLANTECLAIRAVEUGLANT. » – Wiccan",
+        "name": "Invocation",
+        "text": "<b>Interruption forcée</b> : quand vous jouez une carte, annulez ses effets et défaussez-la. Ensuite, défaussez cette obligation."
+    },
+    {
+        "code": "57064",
+        "flavor": "Wiccan et Speed marchent dans les pas de leurs super-parents : vision et la Sorcière Rouge.",
+        "name": "Super-Fratrie",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance défausse 1 carte de sa main."
+    },
+    {
+        "code": "57065",
+        "flavor": "« Te voilà dans un beau pétrin. »",
+        "name": "Moon Knight",
+        "text": "Riposte 2. Ténacité.\n<b>Une fois révélée</b> : résolvez la capacité « <b>Une fois révélée</b> » de la traîtrise la plus proche du dessus de la pile de défausse Rencontre.",
+        "traits": "Defender. Élite."
+    },
+    {
+        "code": "57066",
+        "name": "Projection en Croissant",
+        "text": "Attachez cette carte à Moon Knight. Sinon, attachez-la au leader ennemi.\n[star] <b>Interruption forcée</b> : quand le personnage attaché attaque, cette attaque gagne Perçant et À Distance. Défaussez cet attachement après cette attaque.",
+        "traits": "Arme."
+    },
+    {
+        "code": "57067",
+        "flavor": "« Je suis le poing de Khonshu ! Je suis la vengeance ! » – Moon Knight",
+        "name": "Poing de Khonshu",
+        "text": "<b>Une fois révélée</b> : inclinez votre identité et infligez-lui 2 dégâts.\n<hr>[star] <b>Boost</b> : inclinez votre identité."
+    },
+    {
+        "code": "57068",
+        "name": "Avatar de Khonshu",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'une traîtrise soit défaussée.\nRésolvez la capacité « <b>Une fois révélée</b> » de cette carte."
+    },
+    {
+        "code": "57069",
+        "flavor": "« Personne ne peut échapper à la Garde Royale des Atlantes ! »",
+        "name": "Janus",
+        "text": "<b>Une fois révélée</b> : si vous avez le trait [[Traqué]], Janus s'active contre vous. Sinon, défaussez les 2 cartes du dessus de votre deck.",
+        "traits": "Atlantide."
+    },
+    {
+        "code": "57070",
+        "flavor": "« Mon seigneur Namor a ordonné que vous soyez amené a lui. »",
+        "name": "Amir",
+        "text": "<b>Une fois révélée</b> : si vous avez la trait [[Traqué]], Amir s'active contre vous. Sinon, défaussez les 2 cartes du dessus de votre deck.",
+        "traits": "Atlantide."
+    },
+    {
+        "code": "57071",
+        "errata": "Remplacement de placez par subissez dans le deuxième effet\n• Forme de héros, placez 1 dégât indirect pour chaque type de carte différent défaussé par cet effet.\n• Forme de héros, subissez 1 dégât indirect pour chaque type de carte différent défaussé par cet effet.",
+        "name": "Atlantes",
+        "text": "<b>Une fois révélée</b> : défaussez les 3 cartes du dessus de votre deck. Si vous êtes sous :\n• Forme d'alter ego, placez 1 menace sur la manigance principale pour chaque type de carte différent défaussé par cet effet.\n• Forme de héros, subissez 1 dégât indirect pour chaque type de carte différent défaussé par cet effet."
+    },
+    {
+        "code": "57072",
+        "errata": "suppression du D majuscule après Action d'alter ego\n<b>Action d'alter ego</b> : défaussez les 8 cartes du dessus de votre deck",
+        "name": "Dette de Sang",
+        "text": "Vous gagnez le trait [[Traqué]].\n<b>Action d'alter ego</b> : défaussez les 8 cartes du dessus de votre deck → défaussez cette obligation."
+    },
+    {
+        "code": "57073",
+        "name": "La Garde Royale",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : l'équipe ennemie cherche un exemplaire de Dette de Sang dans le deck Rencontre ou la pile de défausse Rencontre et l'attribue en tant que carte Rencontre face cachée au joueur qui a déjoué cette manigance."
+    },
+    {
+        "code": "57017",
+        "flavor": "« Je vais te faire souffrir, petit homme. »",
+        "name": "Atlas",
+        "text": "<b>Une fois révélée</b> : sonnez votre leader. Sinon, vous êtes sonné.\n<hr>[star] <b>Boost</b> : sonnez votre leader. Sinon, vous êtes sonné.",
+        "traits": "Géant. Thunderbolt."
+    },
+    {
+        "code": "57018",
+        "flavor": "« Ça a mieux marché que prévu. »",
+        "name": "Songbird",
+        "text": "<b>Une fois révélée</b> : désorientez votre leader. Sinon, vous êtes désorienté.\n<hr>[star] <b>Boost</b> : désorientez votre leader. Sinon, vous êtes désorienté.",
+        "traits": "Aérien. Thunderbolt."
+    },
+    {
+        "code": "57019",
+        "name": "Penance",
+        "text": "<b>Une fois révélée</b> : infligez 2 dégâts à votre leader. Sinon, infligez 2 dégâts à un personnage que vous contrôlez.\n<hr>[star] <b>Boost</b> : infligez 2 dégâts à votre leader. Sinon, infligez 1 dégât à un personnage que vous contrôlez.",
+        "traits": "Thunderbolt."
+    },
+    {
+        "code": "57020",
+        "flavor": "« Nous sommes tous coupables. Voilà la justice ! » – Penance",
+        "name": "La Justice Comme la Foudre",
+        "text": "<b>Une fois révélée</b> : chaque sbire s'active contre le joueur avec lequel il est engagé. Sinon, le leader ennemi s'active contre vous. Ne lui donnez pas de carte de boost pour cette activation."
+    },
+    {
+        "code": "57021",
+        "flavor": "Le gouvernement laisse deux options aux super-criminels : moisir en prison ou rejoindre les Thunderbolts.",
+        "name": "Les Thunderbolts",
+        "text": "Entrave 1[per_hero].\nAucune menace ne peut être retirée de cette manigance tant qu'un sbire [[Thunderbolt]] est en jeu."
+    },
+    {
+        "code": "57022",
+        "flavor": "« Je vais demander au S.H.I.E.L.D. de me payer un petit supplément pour ça ! »",
+        "name": "Taskmaster",
+        "text": "Riposte 1. Ténacité. Vilenie.\n<b>Une fois révélée</b> : Taskmaster s'active contre vous.",
+        "traits": "Élite. Thunderbolt."
+    },
+    {
+        "code": "57023",
+        "name": "Épée de Taskmaster",
+        "text": "Attachez cette carte à Taskmaster. Sinon, attachez-la au leader ennemi.\n[star] Les attaques du personnage attaché gagnent Perçant.\n<b>Action de héros</b> : dépensez les ressources suivantes [mental] [physical] → défaussez cette carte.",
+        "traits": "Arme."
+    },
+    {
+        "code": "57024",
+        "name": "Bouclier de Taskmaster",
+        "text": "Attachez cette carte à Taskmaster. Sinon, attachez-là au leader ennemi.\n<b>Interruption forcée</b> : quand le personnage attaché est censé subir n'importe quelle quantité de dégâts, diminuez de 1 cette quantité.\n<b>Action de héros</b> : dépensez les ressources suivantes [mental] [physical] → défaussez cette carte.",
+        "traits": "Armure."
+    },
+    {
+        "code": "57025",
+        "name": "Mouvement Imité",
+        "text": "<b>Une fois révélée</b> : si Taskmaster est en jeu, il attaque votre leader. Sinon, donnez au leader ennemi une carte d'état Tenace et une carte de boost face cachée.\n<hr>[star] <b>Boost</b> : donnez une carte de boost supplémentaire à l'ennemi en cours d'activation."
+    },
+    {
+        "code": "57026",
+        "flavor": "« Tu trouves que je suis méchant ? Attends de te retrouver face à Steve Rogers ! » – Taskmaster",
+        "name": "Académie de Taskmaster",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : donnez au leader ennemi une carte d'état Tenace et une carte de boost face cachée."
+    },
+    {
+        "code": "57027",
+        "flavor": "« Ha ha ! Ça, c'est trop fort ! On nous donne l'ordre d'attaquer des héros ! »",
+        "name": "Le Clown",
+        "text": "<b>Une fois révélée</b> : défaussez les 3 cartes du dessus de votre deck. Subissez 1 dégât indirect pour chaque type de carte différent ainsi défaussé.",
+        "traits": "Thunderbolt."
+    },
+    {
+        "code": "57028",
+        "flavor": "« Dire que je suis payé pour faire ça ! »",
+        "name": "Jack O'Lantern",
+        "text": "<b>Une fois révélée</b> : défaussez les 3 cartes du dessus de votre deck. Placez 1 menace sur la manigance principale pour chaque type de carte différent ainsi défaussé.",
+        "traits": "Thunderbolt."
+    },
+    {
+        "code": "57029",
+        "name": "Plateforme Volante de Mad Jack",
+        "text": "Attachez cette carte à un sbire au choix de l'équipe ennemie. Sinon, cette carte gagne Renfort.\nLe sbire attaché gagne +4 points de vie et Robuste.\n<hr>[star] <b>Boost</b> : attachez cette carte à un sbire engagé avec vous.",
+        "traits": "Tech."
+    },
+    {
+        "code": "57030",
+        "name": "Yo-Yo du Clown",
+        "text": "<b>Une fois révélée</b> : défaussez la carte que vous contrôlez ayant le coût le plus élevé. Sinon, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : défaussez une amélioration que vous contrôlez."
+    },
+    {
+        "code": "57031",
+        "flavor": "Depuis que le S.H.I.E.L.D. leur a demandé de traquer les héros rebelles. Le Clown et Jack O'Lantern sont trop heureux d'obéir aux ordres.",
+        "name": "Duo Mortel",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : chaque joueur défausse les 8 cartes du dessus de son deck."
+    }
+]

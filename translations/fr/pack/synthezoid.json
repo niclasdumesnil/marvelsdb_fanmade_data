@@ -1,0 +1,45 @@
+[
+    {
+        "code": "57032",
+        "name": "Vous Êtes Hors la Loi !",
+        "text": "<b>Interruption</b> : quand n'importe quelle quantité de menaces est censée être placée sur la manigance principale, dites « Objection ! » et prévenez 3 de ces menaces."
+    },
+    {
+        "code": "57033",
+        "flavor": "« Et voilà ! Maintenant je suis folle de rage ! » – – Miss Hulk",
+        "name": "Miss Hulk Tout Casser",
+        "text": "<b>Action</b> : votre leader Miss Hulk attaque le leader ennemi. Si vous avez dépensé une ressource [physical] pour payer cet événement, sonnez le leader ennemi."
+    },
+    {
+        "code": "57034",
+        "name": "Mets-Moi en Colère",
+        "text": "Attachez cette carte à votre leader Miss Hulk.\n<b>Réponse forcée</b> : après qu'un leader ou héros a attaqué Miss Hulk, elle attaque ce personnage. Ensuite, défaussez cette carte."
+    },
+    {
+        "code": "57035",
+        "name": "Conseil Juridique",
+        "text": "<b>Réponse de héros</b> : après que vous avez dépensé cette ressource, déplacez 1 menace de la manigance principale vers la manigance principale de votre leader."
+    },
+    {
+        "code": "57074",
+        "flavor": "« Il n'existe pas de victoire sans prise de risque. » – Vision",
+        "name": "Risque Calculé",
+        "text": "<b>Action</b> : cherchez une carte Rencontre parmi les 5 cartes du dessus du deck Rencontre de votre leader et attribuez-la au premier joueur de l'équipe ennemie en tant que carte Rencontre face cachée."
+    },
+    {
+        "code": "57075",
+        "name": "Frappe de Synthézoïde",
+        "text": "<b>Action</b> : votre leader Vision attaque le leader ennemi. Si l'attachement Forme de Masse de Vision est :\n• Dense, Vision gagne +1 ATQ pour cette attaque et cette attaque gagne Perçant.\n• Intangible, retournez-le sur Dense avant de résoudre cette attaque."
+    },
+    {
+        "code": "57076",
+        "flavor": "« Ma capacité de passer au travers des objets électroniques peut perturber la technologie Stark. » – Vision",
+        "name": "Déphasé",
+        "text": "<b>Action</b> : choisissez un attachement sur le leader ennemi ayant le texte « <b>Réponse de héros</b> » ou « <b>Interruption de héros</b> » et défaussez-le."
+    },
+    {
+        "code": "57077",
+        "name": "Aide d'un Androïde",
+        "text": "<b>Interruption de héros</b> : quand vous dépensez cette ressource, retournez l'attachement Forme de Masse de votre leader Vision."
+    }
+]
