@@ -1,67 +1,67 @@
 [
-	{
-		"code": "49027",
-		"name": "Vieilles Querelles",
-		"text": "<b><i>Donnez cette carte au joueur de Erik Lehnsherr.</i></b>\n<b>Réponse forcée</b> : après avoir utilisé votre capacité « Attraction Magnétique », subissez 1 dégât pour chaque carte qu'elle a défaussée.\n<b>Action d'alter ego</b> : inclinez Erik Lehnsherr → défaussez Vieilles Querelles."
-	},
-	{
-		"code": "49028",
-		"name": "Exodus",
-		"text": "Solide. Ténacité. Vilenie.\netoile <b>Réponse forcée</b> : après qu'Exodus vous a attaqué, défaussez un nombre de cartes du dessus de votre deck égal à son total d'ATQ.\n(<i>Sbire Némésis de Magnéto.</i>)",
-		"traits": "Acolyte. Elite. Psionique."
-	},
-	{
-		"code": "49029",
-		"name": "Le Martyr des Mutants",
-		"text": "<b>Une fois déjouée</b> : le joueur qui a dejoué cette manigance défausse les 9 cartes du dessus de son deck.",
-		"flavor": "Les anciens Acolytes de Magnéto se sont sentis trahis lorsque leur chef a changé d'avis sur la coexistence des humains et des mutants."
-	},
-	{
-		"code": "49030",
-		"name": "Fabian Cortez",
-		"text": "Garde.\nUne fois vaincu : le joueur qui a vaincu ce sbire défausse les 4 cartes du dessus de son deck.\n<hr>\n[star] <b>Boost</b> : défaussez les 4 cartes du dessus de votre deck.",
-		"traits": "Acolyte."
-	},
-	{
-		"code": "49031",
-		"name": "Frenzy",
-		"text": "Coup Rapide.\n[star] ﻿﻿<b>Réponse forcée</b> : après que Frenzy vous a attaqué, défaussez les 2 cartes du dessus de votre deck.\n</hr>\n[star] ﻿﻿<b>Boost </b>: défaussez les 4 cartes du dessus de votre deck.",
-		"traits": "Acolyte."
-	},
-	{
-		"code": "49032",
-		"name": "Acolytes en Colère",
-		"text": "<b>Une fois révélée</b> : chaque sbire [[Acolyte ]]engagé avec un joueur s'active contre ce joueur. Si aucun sbire n'est activé par cet effet, défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire [[Acolyte ]]soit défaussé. Révélez ce sbire."
-	},
-	{
-		"code": "49038",
-		"name": "Sebastian Shaw",
-		"text": "Ténacité. Vilenie.\n<b>Réponse forcée</b> : après que Sebastian Shaw a été attaqué, donnez-lui une carte de boost face cachée. Il ne peut plus être attaqué lors de cette phase.",
-		"flavor": "« Ne lève jamais la main sur tes supérieurs, serf ! »",
-		"traits": "Hellfire."
-	},
-	{
-		"code": "49039",
-		"name": "Sélené",
-		"text": "Coup Rapide. Vilenie.\nLes alliés ne peuvent pas attaquer Séléné.\n</hr>\n[star] <b>Boost </b>: défaussez un allié que vous contrôlez.",
-		"flavor": "« Fol enfant ! On ne compte plus les milliers d'âmes qui ont brûlé en mon nom. »",
-		"traits": "Hellfire."
-	},
-	{
-		"code": "49040",
-		"name": "Pion des Damnés",
-		"text": "Garde. Patrouille. Renfort.\n(<i>Tant qu'un sbire doté du mot-clé Patrouille est engagé avec vous, vous ne pouvez pas contrer la manigance principale</i>.)\n\n[star] <b>Boost </b>: mettez en jeu le Pion des Damnés engagé avec vous.",
-		"traits": "Damnés"
-	},
-	{
-		"code": "49041",
-		"name": "Le Cercle restreint",
-		"text": "<b>Une fois révélée</b> : placez 2 menaces supplémentaires sur cette carte pour chaque carte Damnés en jeu.",
-		"flavor": "Le cercle restreint du Club des Damnés utilise sa fortune et son pouvoir pour manipuler le destin des mutants sous le sceau du secret."
-	},
-	{
-		"code": "49042",
-		"name": "Puissance et Décadence",
-		"text": "<b>Une fois révélée</b> : donnez une carte d'état Tenace au méchant. Donnez cette traîtrise au méchant en tant que carte de boost face cachée.\n<hr>\n[star] <b>Boost </b>: après cette activation, l'ennemi actif s'active à nouveau contre vous. Ne lui donnez pas de carte de boost pour cette activation."
-	}
+    {
+        "code": "49027",
+        "name": "Vieilles Querelles",
+        "text": "<b><i>Donnez cette carte au joueur de Erik Lehnsherr.</i></b>\n<b>Réponse forcée</b> : après avoir utilisé votre capacité « Attraction Magnétique », subissez 1 dégât pour chaque carte qu'elle a défaussée.\n<b>Action d'alter ego</b> : inclinez Erik Lehnsherr → défaussez Vieilles Querelles."
+    },
+    {
+        "code": "49028",
+        "name": "Exodus",
+        "text": "Solide. Ténacité. Vilenie.\netoile <b>Réponse forcée</b> : après qu'Exodus vous a attaqué, défaussez un nombre de cartes du dessus de votre deck égal à son total d'ATQ.\n(<i>Sbire Némésis de Magnéto.</i>)",
+        "traits": "Acolyte. Elite. Psionique."
+    },
+    {
+        "code": "49029",
+        "flavor": "Les anciens Acolytes de Magnéto se sont sentis trahis lorsque leur chef a changé d'avis sur la coexistence des humains et des mutants.",
+        "name": "Le Martyr des Mutants",
+        "text": "<b>Une fois déjouée</b> : le joueur qui a dejoué cette manigance défausse les 9 cartes du dessus de son deck."
+    },
+    {
+        "code": "49030",
+        "name": "Fabian Cortez",
+        "text": "Garde.\n<b>Une fois vaincu</b> : le joueur qui a vaincu ce sbire défausse les 4 cartes du dessus de son deck.\n<hr>\n<hr>[star] <b>Boost</b> : défaussez les 4 cartes du dessus de votre deck.",
+        "traits": "Acolyte."
+    },
+    {
+        "code": "49031",
+        "name": "Frenzy",
+        "text": "Coup Rapide.\n[star] ﻿﻿<b>Réponse forcée</b> : après que Frenzy vous a attaqué, défaussez les 2 cartes du dessus de votre deck.\n</hr>\n<hr>[star] <b>Boost</b> : </b> : défaussez les 4 cartes du dessus de votre deck.",
+        "traits": "Acolyte."
+    },
+    {
+        "code": "49032",
+        "name": "Acolytes en Colère",
+        "text": "<b>Une fois révélée</b> : chaque sbire [[Acolyte ]]engagé avec un joueur s'active contre ce joueur. Si aucun sbire n'est activé par cet effet, défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire [[Acolyte ]]soit défaussé. Révélez ce sbire."
+    },
+    {
+        "code": "49038",
+        "flavor": "« Ne lève jamais la main sur tes supérieurs, serf ! »",
+        "name": "Sebastian Shaw",
+        "text": "Ténacité. Vilenie.\n<b>Réponse forcée</b> : après que Sebastian Shaw a été attaqué, donnez-lui une carte de boost face cachée. Il ne peut plus être attaqué lors de cette phase.",
+        "traits": "Hellfire."
+    },
+    {
+        "code": "49039",
+        "flavor": "« Fol enfant ! On ne compte plus les milliers d'âmes qui ont brûlé en mon nom. »",
+        "name": "Sélené",
+        "text": "Coup Rapide. Vilenie.\nLes alliés ne peuvent pas attaquer Séléné.\n</hr>\n<hr>[star] <b>Boost</b> : </b> : défaussez un allié que vous contrôlez.",
+        "traits": "Hellfire."
+    },
+    {
+        "code": "49040",
+        "name": "Pion des Damnés",
+        "text": "Garde. Patrouille. Renfort.\n(<i>Tant qu'un sbire doté du mot-clé Patrouille est engagé avec vous, vous ne pouvez pas contrer la manigance principale</i>.)\n\n<hr>[star] <b>Boost</b> : </b> : mettez en jeu le Pion des Damnés engagé avec vous.",
+        "traits": "Damnés."
+    },
+    {
+        "code": "49041",
+        "flavor": "Le cercle restreint du Club des Damnés utilise sa fortune et son pouvoir pour manipuler le destin des mutants sous le sceau du secret.",
+        "name": "Le Cercle restreint",
+        "text": "<b>Une fois révélée</b> : placez 2 menaces supplémentaires sur cette carte pour chaque carte Damnés en jeu."
+    },
+    {
+        "code": "49042",
+        "name": "Puissance et Décadence",
+        "text": "<b>Une fois révélée</b> : donnez une carte d'état Tenace au méchant. Donnez cette traîtrise au méchant en tant que carte de boost face cachée.\n<hr>\n<hr>[star] <b>Boost</b> : </b> : après cette activation, l'ennemi actif s'active à nouveau contre vous. Ne lui donnez pas de carte de boost pour cette activation."
+    }
 ]
