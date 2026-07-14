@@ -16,7 +16,7 @@
         "recover": 3,
         "set_code": "punisher_by_misssugarpink",
         "status": "released",
-        "text": "<b>Setup</b>: Choose one [[Loadout]] upgrade and put it into play. Then, remove the remaining [[Loadout]] upgrade cards from the game.\n<i>Rack '<i>em</i> — <b>Action</b>: Place 1 all-purpose counter on an upgrade you control. <i>(Limit once per round.)</i>",
+        "text": "<b>Setup</b>: Choose one [[Loadout]] upgrade and put it into play. Then, remove the remaining [[Loadout]] upgrade cards from the game.\n<i>Rack 'em</i> — <b>Action</b>: Place 1 all-purpose counter on an upgrade you control. Limit once per round.)",
         "traits": "Outlaw. Soldier.",
         "type_code": "alter_ego"
     },
@@ -39,7 +39,7 @@
         "quantity": 1,
         "set_code": "punisher_by_misssugarpink",
         "status": "released",
-        "text": "<i>'<i>Til They Stay Down</i> — <b>Action</b>: Remove 1 all-purpose counter from an upgrade you control → ready that upgrade. <i>(Limit once per round.)</i>",
+        "text": "<i>'Til They Stay Down</i> — <b>Action</b>: Remove 1 all-purpose counter from an upgrade you control → ready that upgrade. (Limit once per round.)",
         "thwart": 2,
         "traits": "Soldier. Vigilante.",
         "type_code": "hero"
