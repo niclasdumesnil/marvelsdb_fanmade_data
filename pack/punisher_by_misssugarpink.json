@@ -347,24 +347,6 @@
         "type_code": "upgrade"
     },
     {
-        "code": "208117",
-        "cost": 0,
-        "deck_limit": 3,
-        "duplicate_of_name": "",
-        "faction_code": "basic",
-        "flavor": "<i>\"You're one bad day away from being me.\"</i>",
-        "is_unique": false,
-        "name": "\"where Are Ya, Red?\"",
-        "octgn_id": "5208bf45-d71f-491e-ae40-132112081017",
-        "pack_code": "punisher_by_misssugarpink",
-        "position": 17,
-        "quantity": 3,
-        "resource_wild": 1,
-        "text": "Play only if your identity has the [[Hero]] or [[Vigilante]] trait. <b>Hero Response</b>: After you defeat an enemy, search your collection for a Daredevil ally and put it into play. Stun your identity.",
-        "traits": "Summoning.",
-        "type_code": "event"
-    },
-    {
         "alt_art": true,
         "code": "208118",
         "deck_limit": 1,
