@@ -1842,12 +1842,14 @@
     {
         "card_set_type_code": "hero",
         "code": "white_queen_by_jg",
-        "name": "White Queen"
+        "name": "White Queen",
+        "status": "released"
     },
     {
         "card_set_type_code": "nemesis",
         "code": "white_queen_by_jg_nemesis",
-        "name": "White Queen Nemesis"
+        "name": "White Queen Nemesis",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero",

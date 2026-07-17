@@ -11,6 +11,7 @@
         "position": 13,
         "quantity": 1,
         "set_code": "white_queen_by_jg",
+        "status": "released",
         "text": "<b><i>Give to the Emma Frost player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Emma Frost and discard 1 card from your hand → remove this card from the game.\n• Discard 2 cards you control from play. If no cards were discarded this way, this card gains surge. Discard this obligation.",
         "type_code": "obligation"
     },
@@ -31,6 +32,7 @@
         "scheme_hazard": 1,
         "set_code": "white_queen_by_jg_nemesis",
         "set_position": 1,
+        "status": "released",
         "text": "<b>When Revealed</b>: Each player exhausts 1 ally or support they control. Find a copy of the Hellfire Pawn minion and reveal it. If X-Mansion is in play, discard it.",
         "type_code": "side_scheme"
     },
@@ -50,6 +52,7 @@
         "scheme": 1,
         "set_code": "white_queen_by_jg_nemesis",
         "set_position": 2,
+        "status": "released",
         "text": "Toughness. Villainous. Sebastian Shaw cannot attack other enemies.\n<b>Forced Interrupt</b>: When Sebastian Shaw would take damage, reduce the amount of damage he takes by 1 and give him a facedown boost card.\n<i>(White Queen's nemesis minion.)</i>",
         "traits": "Hellfire.",
         "type_code": "minion"
@@ -71,6 +74,7 @@
         "scheme": 1,
         "set_code": "white_queen_by_jg_nemesis",
         "set_position": 3,
+        "status": "released",
         "text": "Guard. Patrol. Incite 1.\n<i>(White Queen's nemesis minion.)</i>",
         "traits": "Hellfire.",
         "type_code": "minion"
@@ -89,6 +93,7 @@
         "quantity": 1,
         "set_code": "white_queen_by_jg_nemesis",
         "set_position": 5,
+        "status": "released",
         "text": "<b>When Revealed</b>: The players as a group take indirect damage equal to 1 [per_hero] more than the total number of [[Psionic]] and [[Hellfire]] cards in play.",
         "traits": "Hellfire.",
         "type_code": "treachery"
