@@ -1,103 +1,103 @@
 [
     {
         "code": "60301",
-        "flavor": "« Inclinez vous devant le divin Gorgon. »",
+        "flavor": "« Inclinez vous devant le divin Gorgon. »",
         "name": "Gorgon",
-        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez la carte du dessus du deck Rencontre carte et mettez la en jeu s'il s'agit d'un sbire [[Main]]. (limite d'une fois par phase par joueur.)",
+        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégâts d'une attaque, défaussez la carte du dessus du deck Rencontre carte et mettez-la en jeu s'il s'agit d'un sbire [[Main]]. (limite d'une fois par phase par joueur.)",
         "traits": "Main."
     },
     {
         "code": "60302",
-        "flavor": "« Inclinez vous devant le divin Gorgon. »",
+        "flavor": "« Inclinez vous devant le divin Gorgon. »",
         "name": "Gorgon",
-        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez les 2 cartes du dessus du deck Rencontre et mettez en jeu chaque sbire [[Main]] ainsi défaussé. (limite d'une fois par phase par joueur.)",
+        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégâts d'une attaque, défaussez les 2 cartes du dessus du deck Rencontre et mettez en jeu chaque sbire [[Main]] ainsi défaussé. (limite d'une fois par phase par joueur.)",
         "traits": "Main."
     },
     {
         "code": "60303",
-        "flavor": "« Inclinez vous devant le divin Gorgon. »",
+        "flavor": "« Inclinez vous devant le divin Gorgon. »",
         "name": "Gorgon",
-        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégats d'une attaque, défaussez les 3 cartes du dessus du deck Rencontre et mettez en jeu chaque sbire [[Main]] ainsi défaussé. (limite d'une fois par phase par joueur.)",
+        "text": "<b>Réponse forcée</b> : après que Gorgon a subi n'importe quelle quantité de dégâts d'une attaque, défaussez les 3 cartes du dessus du deck Rencontre et mettez en jeu chaque sbire [[Main]] ainsi défaussé. (limite d'une fois par phase par joueur.)",
         "traits": "Main."
     },
     {
         "code": "60304a",
         "flavor": "De nombreuses émeutes secouent les rues de Madripoor.",
         "name": "Madripoor en Flamme",
-        "text": "<b>Contenu</b> : Gorgon (I) et Gorgon (II). (Gorgon (II) et Gorgon (III) à la place en mode expert.). Les sets de rencontre Dragon de Madripoor et Standard. Un set de rencontre modulaire (recommandé : Rue Malfamées).\n<b>Mise en place</b> : mettez en jeu un sbire Soldat de la Main engagé avec chaque joueur. Mélangez le deck Rencontre. Avancez au stade 1B."
+        "text": "<b>Contenu</b> : Gorgon (I) et Gorgon (II). (Gorgon (II) et Gorgon (III) à la place en mode expert.). Les sets de rencontre Dragon de Madripoor et Standard. Un set de rencontre modulaire (recommandé : Rue Malfamées).\n<b>Mise en place</b> : mettez en jeu un sbire Soldat de la Main engagé avec chaque joueur. Mélangez le deck Rencontre. Avancez au stade 1B."
     },
     {
         "code": "60304b",
         "flavor": "Il semble impossible de contenir toutes les émeutes. La Main est partout.",
         "name": "Madripoor en Flamme",
-        "text": "<b>Réponse forcée</b> : après qu'un sbire [[Main]] a été vaincu, placez 1 menace sur cette manigance."
+        "text": "<b>Réponse forcée</b> : après qu'un sbire [[Main]] a été vaincu, placez 1 menace sur cette manigance."
     },
     {
         "code": "60305a",
-        "flavor": "Le dragon se dirige vers Hong Kong. Quelle est la cible de la Main ?",
+        "flavor": "Le dragon se dirige vers Hong Kong. Quelle est la cible de la Main ?",
         "name": "Attaque sur Hong Kong",
-        "text": "<b>Une fois révélée</b> : avancez au stade 2B."
+        "text": "<b>Une fois révélée</b> : avancez au stade 2B."
     },
     {
         "code": "60305b",
         "name": "Attaque sur Hong Kong",
-        "text": "Chaque ennemi [[main]] gagne Coup Rapide.\n<b>Interruption forcée</b> : quand la phase du Méchant se termine, le premier joueur choisit : soit infligez 1 dégât indirect au premier joueur soit placez 1 menace sur la manigance principale.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+        "text": "Chaque ennemi [[main]] gagne Coup Rapide.\n<b>Interruption forcée</b> : quand la phase du Méchant se termine, le premier joueur choisit : soit infligez 1 dégât indirect au premier joueur soit placez 1 menace sur la manigance principale.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
     },
     {
         "code": "60306",
         "name": "Katana de Gorgon",
-        "text": "Attachez cette carte au méchant.\n[star] L'attaque du méchant gagne Perçant.\n<b>Action de héros</b> : dépensez les ressources suivantes [physical][physical][physical] → défaussez cette carte.",
+        "text": "Attachez cette carte au méchant.\n[star] L'attaque du méchant gagne Perçant.\n<b>Action de héros</b> : dépensez les ressources suivantes [physical][physical][physical] → défaussez cette carte.",
         "traits": "Arme."
     },
     {
         "code": "60307",
         "name": "Transe",
-        "text": "Attachez cette carte au méchant.\n[star] <b>Interruption forcée</b> : quand Gorgon manigance, donnez-lui 1 carte de boost supplémentaire pour cette activation.\n<b>Action de héros</b> : dépensez les ressources suivantes [mental][mental][mental] → défaussez cette carte.",
+        "text": "Attachez cette carte au méchant.\n[star] <b>Interruption forcée</b> : quand Gorgon manigance, donnez-lui 1 carte de boost supplémentaire pour cette activation.\n<b>Action de héros</b> : dépensez les ressources suivantes [mental][mental][mental] → défaussez cette carte.",
         "traits": "Condition."
     },
     {
         "code": "60308",
         "name": "Soldat de la Main",
-        "text": "<b>Réponse forcée</b> : après que le Soldat de la Main vous a engagé, subissez 1 dégât indirect.\n<hr>[star] <b>Boost</b> : attribuez vous cette carte en carte rencontre face cachée.",
+        "text": "<b>Réponse forcée</b> : après que le Soldat de la Main vous a engagé, subissez 1 dégât indirect.\n<hr>[star] <b>Boost</b> : attribuez vous cette carte en carte rencontre face cachée.",
         "traits": "Main."
     },
     {
         "code": "60313",
         "name": "Dragon Monté",
-        "text": "Garde.\n[star] <b>Réponse forcée</b> : après que Le Dragon Monté vous a attaqué, défaussez 1 carte du deck Rencontre. Si cette carte est un sbire [[Main]], mettez-le en jeu engagé avec vous.",
-        "traits": "Dragon. élite. Main."
+        "text": "Garde.\n[star] <b>Réponse forcée</b> : après que Le Dragon Monté vous a attaqué, défaussez 1 carte du deck Rencontre. Si cette carte est un sbire [[Main]], mettez-le en jeu engagé avec vous.",
+        "traits": "Dragon. Élite. Main."
     },
     {
         "code": "60316",
         "flavor": "Le Cercle est attaqué. Il faut le défendre.",
         "name": "Le Cercle",
-        "text": "<b>Une fois révélée</b> : chaque joueur doit choisir : trouvez un allié et placez-le face cachée sous cette manigance ou inclinez votre identité.\n<b>Une fois déjouée</b> : chaque joueur peut mélanger jusqu'à 2 cartes de sa défausse dans son deck. <i>(défaussez chaque carte attachée au Cercle.)</i>"
+        "text": "<b>Une fois révélée</b> : chaque joueur doit choisir : trouvez un allié et placez-le face cachée sous cette manigance ou inclinez votre identité.\n<b>Une fois déjouée</b> : chaque joueur peut mélanger jusqu'à 2 cartes de sa défausse dans son deck. <i>(défaussez chaque carte attachée au Cercle.)</i>"
     },
     {
         "code": "60317",
         "flavor": "Les Soldats de la Main sont partout.",
         "name": "Innombrables",
-        "text": "Entrave 2[per_hero].\n<b>Une fois révélée</b> : le premier joueur cherche un sbire [[Main]] dans le deck Rencontre ou la pile de défausse Rencontre et le met en jeu, engagé avec lui. Ensuite, mélangez le deck Rencontre."
+        "text": "Entrave 2[per_hero].\n<b>Une fois révélée</b> : le premier joueur cherche un sbire [[Main]] dans le deck Rencontre ou la pile de défausse Rencontre et le met en jeu, engagé avec lui. Ensuite, mélangez le deck Rencontre."
     },
     {
         "code": "60319",
         "flavor": "Le Cercle est le quartier général du S.P.E.A.R.",
         "name": "Attaque du S.P.E.A.R.",
-        "text": "Chaque sbire [[Main]] gagne +1 ATQ.\n<hr>[star] <b>Boost</b> : mettez Attaque du S.P.E.A.R. en jeu."
+        "text": "Chaque sbire [[Main]] gagne +1 ATQ.\n<hr>[star] <b>Boost</b> : mettez Attaque du S.P.E.A.R. en jeu."
     },
     {
         "code": "60320",
         "name": "Argh",
-        "text": "<b>Une fois révélée</b> : défaussez un allié ou un soutien [[individu]] que vous contrôlez. Si aucune carte n'est défaussée par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : inclinez un personnage ou soutien [[individu]] que vous contrôlez."
+        "text": "<b>Une fois révélée</b> : défaussez un allié ou un soutien [[individu]] que vous contrôlez. Si aucune carte n'est défaussée par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : inclinez un personnage ou soutien [[individu]] que vous contrôlez."
     },
     {
         "code": "60322",
         "name": "Duel",
-        "text": "<b>Une fois révélée (alter ego)</b> : passez sous forme de héros. Le méchant vous attaque avec +1 ATQ. Ne donnez pas de carte de boost au méchant pour cette activation.\n<b>Une fois révélée (héros)</b> : le méchant vous attaque. Les autres personnages ne peuvent pas défendre contre cette attaque."
+        "text": "<b>Une fois révélée (alter ego)</b> : passez sous forme de héros. Le méchant vous attaque avec +1 ATQ. Ne donnez pas de carte de boost au méchant pour cette activation.\n<b>Une fois révélée (héros)</b> : le méchant vous attaque. Les autres personnages ne peuvent pas défendre contre cette attaque."
     },
     {
         "code": "60324",
         "name": "Les Renforts de la Main",
-        "text": "<b>Une fois révélée</b> : défaussez 3 cartes du dessus du deck Rencontre. Mettez en jeu, engagé avec vous, chaque sbire [[Main]] ainsi défaussé."
+        "text": "<b>Une fois révélée</b> : défaussez 3 cartes du dessus du deck Rencontre. Mettez en jeu, engagé avec vous, chaque sbire [[Main]] ainsi défaussé."
     }
 ]
