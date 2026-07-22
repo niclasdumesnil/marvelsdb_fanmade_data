@@ -58,12 +58,14 @@
         "card_set_type_code": "nemesis",
         "code": "superior_iron_man_by_merlin_nemesis",
         "name": "Superior Iron Man Nemesis",
-        "parent_code": "superior_iron_man_by_merlin"
+        "parent_code": "superior_iron_man_by_merlin",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero",
         "code": "superior_iron_man_by_merlin",
-        "name": "Superior Iron Man"
+        "name": "Superior Iron Man",
+        "status": "released"
     },
     {
         "card_set_type_code": "nemesis",
@@ -212,12 +214,14 @@
         "card_set_type_code": "nemesis",
         "code": "yondu_by_hax_nemesis",
         "name": "Yondu Nemesis",
-        "parent_code": "yondu_by_hax"
+        "parent_code": "yondu_by_hax",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero",
         "code": "yondu_by_hax",
-        "name": "Yondu"
+        "name": "Yondu",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero",
