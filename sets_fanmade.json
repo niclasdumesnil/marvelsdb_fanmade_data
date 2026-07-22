@@ -93,12 +93,14 @@
         "card_set_type_code": "nemesis",
         "code": "red_hulk_by_merlin_nemesis",
         "name": "Red Hulk Nemesis",
-        "parent_code": "red_hulk_by_merlin"
+        "parent_code": "red_hulk_by_merlin",
+        "status": "beta"
     },
     {
         "card_set_type_code": "hero",
         "code": "red_hulk_by_merlin",
-        "name": "Red Hulk"
+        "name": "Red Hulk",
+        "status": "beta"
     },
     {
         "card_set_type_code": "nemesis",

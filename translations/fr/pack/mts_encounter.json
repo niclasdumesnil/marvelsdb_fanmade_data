@@ -55,7 +55,7 @@
     },
     {
         "code": "21071",
-        "flavor": "<b><i>\"Vos pouvoirs sont... amusants. Laissez-moi vous montrer de la vraie magie.\"</i></b>",
+        "flavor": "<b>\"Vos pouvoirs sont... amusants. Laissez-moi vous montrer de la vraie magie.\"</b>",
         "name": "Mâchoire d'Ébène",
         "text": "[star] <b>Interruption forcée</b> : quand Mâchoire d'Ébène s'active contre vous, retirez un jeton Invocation de chaque carte [[SORT]] dans votre zone de jeu.",
         "traits": "Ordre Noir. Mystique."
@@ -74,7 +74,7 @@
     },
     {
         "code": "21074a",
-        "flavor": "<b><i>Mâchoire d'Ébène mène un assaut sur Nulle -Part afin de récupérer la Pierre du Pouvoir qui y est gardée.</i></b>",
+        "flavor": "<b>Mâchoire d'Ébène mène un assaut sur Nulle -Part afin de récupérer la Pierre du Pouvoir qui y est gardée.</b>",
         "name": "Attaque sur Nulle-Part",
         "text": "<b>Contenu</b> : Mâchoire d'Ébène (I) et Mâchoire d'Ébène (II). <i>(Mâchoire d'Ébène (II) et Mâchoire d'Ébène (III) à la place en mode expert.)</i> Les sets de rencontre Mâchoire d'Ébène et Standard. Deux sets de rencontre modulaires (<i>Armées du Titan</i>) et <i>L'Ordre Noir</i>)."
     },
@@ -90,7 +90,7 @@
     },
     {
         "code": "21075b",
-        "flavor": "<b><i>Mâchoire d'Ébène utilise ses pouvoirs magiques pour vous retenir pendant que ses sbires partent à la recherche de la Pierre du Pouvoir.</i></b>",
+        "flavor": "<b>Mâchoire d'Ébène utilise ses pouvoirs magiques pour vous retenir pendant que ses sbires partent à la recherche de la Pierre du Pouvoir.</b>",
         "name": "La Pierre de Pouvoir",
         "text": "<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
     },
@@ -141,7 +141,7 @@
     },
     {
         "code": "21084",
-        "flavor": "<b><i>Les troupe de Mâchoire d'Ébène ont pris d'assaut la salle des machines et la station est en surchauffe.</i></b>",
+        "flavor": "<b>Les troupe de Mâchoire d'Ébène ont pris d'assaut la salle des machines et la station est en surchauffe.</b>",
         "name": "Réacteur en Surchauffe",
         "text": "<b>Une fois révélée</b> : chaque joueur doit choisir : soit subir 2 dégâts, soit placer 2 menaces sur cette carte."
     },

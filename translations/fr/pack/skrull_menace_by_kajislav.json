@@ -279,14 +279,14 @@
 		"code": "500963",
 		"name": "Mockingbird",
 		"text": "<b>Réponse</b> : après que Crusader est entré en jeu, choisissez un joueur → infligez 1 dégât au méchant et à chaque sbire engagé avec ce joueur. Piochez une carte pour chaque ennemi vaincu ainsi.",
-		"flavor": "<i>\"Veux-tu toujours être un super-héros ?\"</i>",
+		"flavor": "\"Veux-tu toujours être un super-héros ?\"",
 		"traits": "Initiative. Skrull."
 	},
 	{
 		"code": "500964",
 		"name": "Mockingbird",
 		"text": "Jazinda ne compte pas dans votre limite d’alliés.\nTant que Jazinda est inclinée, votre héros gagne +1 CTR.",
-		"flavor": "<i>\"Je ne le nie pas, je le déteste, c'est tout.\"</i>",
+		"flavor": "\"Je ne le nie pas, je le déteste, c'est tout.\"",
 		"traits": "Skrull."
 	},
 	{
@@ -299,7 +299,7 @@
 		"code": "500966",
 		"name": "Lyja",
 		"text": "<b>Réponse</b> : quand Skymax entre en jeu, mélangez tous les alliés de votre pile de défausse dans votre deck.",
-		"flavor": "<i>\"J’ai déjà perdu mon monde natal. Je ne perdrai pas la Terre face à votre minable révolte.\"</i>",
+		"flavor": "\"J’ai déjà perdu mon monde natal. Je ne perdrai pas la Terre face à votre minable révolte.\"",
 		"traits": "Escadron Suprême. Skrull."
 	},
 	{
@@ -313,14 +313,14 @@
 		"code": "500968",
 		"name": "Lyja",
 		"text": "[star] <b>Réponse</b> : après que \"Chilly McHotPants” vous a attaqué, piochez une carte. Si vous n’avez subi aucun dégât de cette attaque, piochez une carte.",
-		"flavor": "“Je vais congeler ton misérable petit corps, puis je vais le concasser en petits morceaux que j’utiliserai pour garder mes boissons au frais.\"</i>",
+		"flavor": "“Je vais congeler ton misérable petit corps, puis je vais le concasser en petits morceaux que j’utiliserai pour garder mes boissons au frais.\"",
 		"traits": "Skrull."
 	},
 	{
 		"code": "500969",
 		"name": "Lyja",
 		"text": "<b>Interruption</b> : quand Xavin entre en jeu, défaussez des cartes du dessus de votre deck jusqu’à ce qu’un évènement avec une capacité",
-		"flavor": "<i>\"Action de héros\" soit défaussé. Vous pouvez résoudre cette capacité \"Action de héros\".\n“Mon nom est Xavin, apprenti Super-Skrull.\"</i>",
+		"flavor": "\"Action de héros\" soit défaussé. Vous pouvez résoudre cette capacité \"Action de héros\".\n“Mon nom est Xavin, apprenti Super-Skrull.\"",
 		"traits": "Fugitif. Skrull."
 	},
 	{
@@ -363,7 +363,7 @@
 		"code": "500977",
 		"name": "Antalya",
 		"text": "<b>Action</b> : inclinez Antalya → soignez 1 dégât d’un personnage ami.",
-		"flavor": "<i>\"Nous ne pouvons pas laisser la peur nous empêcher de vivre.\"</i>",
+		"flavor": "\"Nous ne pouvons pas laisser la peur nous empêcher de vivre.\"",
 		"traits": "Persona. Skrull."
 	},
 	{

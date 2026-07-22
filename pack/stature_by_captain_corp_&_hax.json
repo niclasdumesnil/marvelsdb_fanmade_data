@@ -83,7 +83,7 @@
         "deck_limit": 1,
         "defense": 3,
         "faction_code": "hero",
-        "flavor": "\"How 'bout you drop the weapon before I drop <i>you</i>.\"",
+        "flavor": "\"How 'bout you drop the weapon before I drop you.\"",
         "hand_size": 4,
         "health": 10,
         "is_unique": true,

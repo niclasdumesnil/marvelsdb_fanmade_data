@@ -6,14 +6,14 @@
     },
     {
         "code": "500732",
-        "flavor": "« Your empire will shatter, and the last light will dim. » </i>",
+        "flavor": "« Your empire will shatter, and the last light will dim. » ",
         "name": "Empress R'Klll",
         "text": "Vilenie.\n[star] Empress R'Klll's attacks gain Perçant.<b>\nWhen Revealed</b>  : empress R'Klll attacks each player in hero form.\n<i>(Hulkling's némésis minion.)</i>",
         "traits": "Élite. Skrull."
     },
     {
         "code": "500733",
-        "flavor": "<i>« I spent years infiltrating the Kree ! Masking my DNA, risking death at every turn ! All for you… the last of the line ! My grandson ! » – R'Klll</i><b>",
+        "flavor": "« I spent years infiltrating the Kree ! Masking my DNA, risking death at every turn ! All for you… the last of the line ! My grandson ! » – R'Klll<b>",
         "name": "DNA Masking",
         "text": "</b>Minions cannot take damage.\nThreat cannot be removed from DNA Masking while there are no minions in play."
     },
@@ -46,39 +46,39 @@
     },
     {
         "code": "500767",
-        "flavor": "<i>In a battle between the Fantastic Four and her former lover Paibok, Lyja still bore feelings for the Torch and again betrayed Paibok to side with the Fantastic Four.</i>",
+        "flavor": "In a battle between the Fantastic Four and her former lover Paibok, Lyja still bore feelings for the Torch and again betrayed Paibok to side with the Fantastic Four.",
         "name": "Punish the Defector",
         "text": "<b>Une fois révélée</b>  : search the encounter deck for a [[treachery]] card and discard it. Shuffle the encounter deck."
     },
     {
         "code": "500768",
-        "flavor": "<i>« I got real bad news fer ya kid… Yer lovin' wife is a stinkin' Skrull ! ! » – Thing</i>",
+        "flavor": "« I got real bad news fer ya kid… Yer lovin' wife is a stinkin' Skrull ! ! » – Thing",
         "name": "« It's a Stinkin' Skrull ! »",
         "text": "<b>Une fois révélée</b>  : search the encounter deck for a [[treachery]] card and discard it. <i>(Shuffle.)</i> If no [[treachery]] card was discarded this way, this card gains surge."
     },
     {
         "code": "500769",
-        "flavor": "<i>« What have you done to my wife ? ! How long have you been masquerading as her ? ! » – Human Torch</i>",
+        "flavor": "« What have you done to my wife ? ! How long have you been masquerading as her ? ! » – Human Torch",
         "name": "Truth Revealed",
         "text": "<b>Une fois révélée</b>  : search your deck for all identity-specific cards, shuffle your deck and place those cards on the bottom of your deck in any order."
     },
     {
         "code": "500770",
-        "flavor": "<i>« Devant vous se tient Dorrek, empereur d'un monde dont aucun étranger ne saurait prononcer le nom, et d'une race nommée Skrull ! Nous sommes, pour faire simple, un peuple fier ! Certains diraient même, impérieux ! »</i>",
+        "flavor": "« Devant vous se tient Dorrek, empereur d'un monde dont aucun étranger ne saurait prononcer le nom, et d'une race nommée Skrull ! Nous sommes, pour faire simple, un peuple fier ! Certains diraient même, impérieux ! »",
         "name": "Empereur Dorrek I",
         "text": "Riposte 1.\n[star] Les attaques de l'Empereur Dorrek I gagnent À Distance.",
         "traits": "Skrull."
     },
     {
         "code": "500771",
-        "flavor": "<i>« Devant vous se tient Dorrek, empereur d'un monde dont aucun étranger ne saurait prononcer le nom, et d'une race nommée Skrull ! Nous sommes, pour faire simple, un peuple fier ! Certains diraient même, impérieux ! »</i>",
+        "flavor": "« Devant vous se tient Dorrek, empereur d'un monde dont aucun étranger ne saurait prononcer le nom, et d'une race nommée Skrull ! Nous sommes, pour faire simple, un peuple fier ! Certains diraient même, impérieux ! »",
         "name": "Empereur Dorrek I",
         "text": "Riposte 1.\n[star] Les attaques de l'Empereur Dorrek I gagnent À Distance.",
         "traits": "Skrull."
     },
     {
         "code": "500772",
-        "flavor": "<i>« Devant vous se tient Dorrek, empereur d'un monde dont aucun étranger ne saurait prononcer le nom, et d'une race nommée Skrull ! Nous sommes, pour faire simple, un peuple fier ! Certains diraient même, impérieux ! »</i>",
+        "flavor": "« Devant vous se tient Dorrek, empereur d'un monde dont aucun étranger ne saurait prononcer le nom, et d'une race nommée Skrull ! Nous sommes, pour faire simple, un peuple fier ! Certains diraient même, impérieux ! »",
         "name": "Empereur Dorrek I",
         "text": "Riposte 2.\n[star] Les attaques de l'Empereur Dorrek I gagnent À Distance.",
         "traits": "Skrull."
@@ -92,56 +92,56 @@
     },
     {
         "code": "500774",
-        "flavor": "<i>« Sous mon règne, chaque membre de votre espèce périra. Et le sang de vos familles sera le premier que je goûterai. »</i>",
+        "flavor": "« Sous mon règne, chaque membre de votre espèce périra. Et le sang de vos familles sera le premier que je goûterai. »",
         "name": "Empereur Dorrek VII",
         "text": "Incitation 1[per_hero].\n[star] Les attaques de l'Empereur Dorrek VII gagnent Déferlement.",
         "traits": "Skrull."
     },
     {
         "code": "500775",
-        "flavor": "<i>« Sous mon règne, chaque membre de votre espèce périra. Et le sang de vos familles sera le premier que je goûterai. »</i>",
+        "flavor": "« Sous mon règne, chaque membre de votre espèce périra. Et le sang de vos familles sera le premier que je goûterai. »",
         "name": "Empereur Dorrek VII",
         "text": "Incitation 1[per_hero].\n[star] Les attaques de l'Empereur Dorrek VII gagnent Déferlement.",
         "traits": "Skrull."
     },
     {
         "code": "500776",
-        "flavor": "<i>« Je suis bien plus qu'une simple Skrull ! Je suis R'Klll, impératrice des Skrulls ! Survivante de Galactus ! Mère d'Anelle, la sainte martyre ! Grand-mère de Dorrek VIII, le roi de tout l'espace ! »</i>",
+        "flavor": "« Je suis bien plus qu'une simple Skrull ! Je suis R'Klll, impératrice des Skrulls ! Survivante de Galactus ! Mère d'Anelle, la sainte martyre ! Grand-mère de Dorrek VIII, le roi de tout l'espace ! »",
         "name": "Impératrice R'Klll",
         "text": "<b>Une fois révélée</b> : l'Impératrice R'Klll attaque chaque joueur sous forme de héros.\n[star] Les attaques de l'Impératrice R'Klll gagnent Perçant.",
         "traits": "Skrull."
     },
     {
         "code": "500777",
-        "flavor": "<i>« Je suis bien plus qu'une simple Skrull ! Je suis R'Klll, impératrice des Skrulls ! Survivante de Galactus ! Mère d'Anelle, la sainte martyre ! Grand-mère de Dorrek VIII, le roi de tout l'espace ! »</i>",
+        "flavor": "« Je suis bien plus qu'une simple Skrull ! Je suis R'Klll, impératrice des Skrulls ! Survivante de Galactus ! Mère d'Anelle, la sainte martyre ! Grand-mère de Dorrek VIII, le roi de tout l'espace ! »",
         "name": "Impératrice R'Klll",
         "text": "<b>Une fois révélée</b> : l'Impératrice R'Klll attaque chaque joueur sous forme de héros.\n[star] Les attaques de l'Impératrice R'Klll gagnent Perçant.",
         "traits": "Skrull."
     },
     {
         "code": "500778",
-        "flavor": "<i>« Je suis bien plus qu'une simple Skrull ! Je suis R'Klll, impératrice des Skrulls ! Survivante de Galactus ! Mère d'Anelle, la sainte martyre ! Grand-mère de Dorrek VIII, le roi de tout l'espace ! »</i>",
+        "flavor": "« Je suis bien plus qu'une simple Skrull ! Je suis R'Klll, impératrice des Skrulls ! Survivante de Galactus ! Mère d'Anelle, la sainte martyre ! Grand-mère de Dorrek VIII, le roi de tout l'espace ! »",
         "name": "Impératrice R'Klll",
         "text": "<b>Une fois révélée</b> : l'Impératrice R'Klll attaque chaque joueur sous forme de héros.\n[star] Les attaques de l'Impératrice R'Klll gagnent Perçant.",
         "traits": "Skrull."
     },
     {
         "code": "500779",
-        "flavor": "<i>« Tout est lié au triomphe des Skrulls ! »</i>",
+        "flavor": "« Tout est lié au triomphe des Skrulls ! »",
         "name": "Impératrice S'Byll",
         "text": "Solide. Tenace.",
         "traits": "Skrull."
     },
     {
         "code": "500780",
-        "flavor": "<i>« Tout est lié au triomphe des Skrulls ! »</i>",
+        "flavor": "« Tout est lié au triomphe des Skrulls ! »",
         "name": "Impératrice S'Byll",
         "text": "Solide. Tenace.",
         "traits": "Skrull."
     },
     {
         "code": "500781",
-        "flavor": "<i>« Tout est lié au triomphe des Skrulls ! »</i>",
+        "flavor": "« Tout est lié au triomphe des Skrulls ! »",
         "name": "Impératrice S'Byll",
         "text": "Robuste. Tenace.",
         "traits": "Skrull."
@@ -153,43 +153,43 @@
     },
     {
         "code": "500782b",
-        "flavor": "<i>« Les Skrulls sont une race d'humanoïdes à la peau verte originaires de la galaxie d'Andromède. Ce sont des guerriers féroces qui ont bâti le plus ancien empire encore existant dans l'histoire de l'Univers. »</i>",
+        "flavor": "« Les Skrulls sont une race d'humanoïdes à la peau verte originaires de la galaxie d'Andromède. Ce sont des guerriers féroces qui ont bâti le plus ancien empire encore existant dans l'histoire de l'Univers. »",
         "name": "L'Avènement de l'Empire",
         "text": "<b>Une fois révélée</b> : révélez la carte du dessus du deck [[planète]]."
     },
     {
         "code": "500783a",
-        "flavor": "<i>« La galaxie d'Andromède compte des millions de mondes habités. Une majorité de ces mondes abritent un grand nombre d'espèces extraterrestres, parmi lesquelles les Skrulls, qui constituent généralement la force dominante de leur galaxie. »</i>",
+        "flavor": "« La galaxie d'Andromède compte des millions de mondes habités. Une majorité de ces mondes abritent un grand nombre d'espèces extraterrestres, parmi lesquelles les Skrulls, qui constituent généralement la force dominante de leur galaxie. »",
         "name": "Colonisation d'Andromède",
         "text": "<b>Une fois révélée</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un sbire [[skrull]] soit défaussé. Mettez en jeu ce sbire engagé avec le premier joueur."
     },
     {
         "code": "500783b",
-        "flavor": "<i>« Les Skrulls dominent la galaxie d'Andromède depuis des dizaines de millions d'années, bien que leur domination ait fluctué au gré des cycles d'expansion, de déclin et de renaissance de leur empire. »</i>",
+        "flavor": "« Les Skrulls dominent la galaxie d'Andromède depuis des dizaines de millions d'années, bien que leur domination ait fluctué au gré des cycles d'expansion, de déclin et de renaissance de leur empire. »",
         "name": "Colonisation d'Andromède",
         "text": "<b>Une fois révélée</b> : révélez la carte du dessus du deck [[planète]]."
     },
     {
         "code": "500784a",
-        "flavor": "<i>« Les Skrulls ont également étendu leur domination en colonisant des mondes inhabités. Dans la galaxie d'Andromède, ils ont conquis ou colonisé tous les mondes propices. »</i>",
+        "flavor": "« Les Skrulls ont également étendu leur domination en colonisant des mondes inhabités. Dans la galaxie d'Andromède, ils ont conquis ou colonisé tous les mondes propices. »",
         "name": "Expansion de l'Empire",
         "text": "<b>Une fois révélée</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un sbire [[skrull]] soit défaussé. Mettez en jeu ce sbire engagé avec le premier joueur."
     },
     {
         "code": "500784b",
-        "flavor": "<i>« Au fil du temps, les Skrulls étendaient déjà leur influence aux galaxies voisines, devenant ainsi un empire intergalactique. »</i>",
+        "flavor": "« Au fil du temps, les Skrulls étendaient déjà leur influence aux galaxies voisines, devenant ainsi un empire intergalactique. »",
         "name": "Expansion de l'Empire",
         "text": "<b>Une fois révélée</b> : révélez la carte du dessus du deck [[planète]]."
     },
     {
         "code": "500785a",
-        "flavor": "<i>« Les Skrulls considèrent qu'il est de leur devoir d'apporter la paix au cosmos en conquérant et en soumettant tous les mondes habités de l'univers. »</i>",
+        "flavor": "« Les Skrulls considèrent qu'il est de leur devoir d'apporter la paix au cosmos en conquérant et en soumettant tous les mondes habités de l'univers. »",
         "name": "Domination Intégrale de l'Univers",
         "text": "<b>Une fois révélée</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un sbire [[skrull]] soit défaussé. Mettez en jeu ce sbire engagé avec le premier joueur."
     },
     {
         "code": "500785b",
-        "flavor": "<i>« On enseigne aux Skrulls que chaque monde du cosmos est destiné à être un monde Skrull. Ils considèrent cela comme leur destin. »</i>",
+        "flavor": "« On enseigne aux Skrulls que chaque monde du cosmos est destiné à être un monde Skrull. Ils considèrent cela comme leur destin. »",
         "name": "Domination Universelle",
         "text": "<b>Une fois révélée</b> : révélez la carte du dessus du deck [[planète]].\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
     },
@@ -210,28 +210,28 @@
     },
     {
         "code": "500789",
-        "flavor": "<i>« Un joyau dans la couronne de l'Empire Skrull. Autrefois, ce monde reculé était une réserve naturelle. Un jardin à la frontière de l'espace pour que l'impératrice Skrull et ses conseillers les plus dignes de confiance en profitent. »</i>",
+        "flavor": "« Un joyau dans la couronne de l'Empire Skrull. Autrefois, ce monde reculé était une réserve naturelle. Un jardin à la frontière de l'espace pour que l'impératrice Skrull et ses conseillers les plus dignes de confiance en profitent. »",
         "name": "Aks'lo",
         "text": "Chaque sbire [[skrull]] gagne +2 points de vie.",
         "traits": "Lieu. Planète."
     },
     {
         "code": "500790",
-        "flavor": "<i>« Hy'lt Minor était une planète habitée par les Skrulls. Elle fut attaquée par les Bâtisseurs qui envoyèrent une armée d'Alephs pour la détruire. »</i>",
+        "flavor": "« Hy'lt Minor était une planète habitée par les Skrulls. Elle fut attaquée par les Bâtisseurs qui envoyèrent une armée d'Alephs pour la détruire. »",
         "name": "Hy'lt Minor",
         "text": "Chaque identité perd -1 REC.",
         "traits": "Lieu. Planète."
     },
     {
         "code": "500791",
-        "flavor": "<i>« Le troisième monde connu pour être le Monde du Trône de l'Empire Skrull. Un Monde du Trône sous l'Impératrice S'Byll, puis la Reine Veranke. »</i>",
+        "flavor": "« Le troisième monde connu pour être le Monde du Trône de l'Empire Skrull. Un Monde du Trône sous l'Impératrice S'Byll, puis la Reine Veranke. »",
         "name": "Satriani",
         "text": "Chaque sbire [[skrull]] gagne Garde.",
         "traits": "Lieu. Planète."
     },
     {
         "code": "500792",
-        "flavor": "<i>« Skrell, un monde colonial fondé par des scientifiques Skrull, fut largement ignoré par les seigneurs de guerre, qui avaient traditionnellement peu d'égard pour la caste des scientifiques. »</i>",
+        "flavor": "« Skrell, un monde colonial fondé par des scientifiques Skrull, fut largement ignoré par les seigneurs de guerre, qui avaient traditionnellement peu d'égard pour la caste des scientifiques. »",
         "name": "Skrell",
         "text": "Chaque sbire [[skrull]] gagne +1 MNG.",
         "traits": "Lieu. Planète."
@@ -239,35 +239,35 @@
     {
         "code": "500793",
         "errata": "A l'exception des manigances permanentes. (CDC)",
-        "flavor": "<i>« Au départ, il y avait trois groupes de Skrulls sur Skrullos : les Éternels immortels, les Latents à évolution rapide, et les Déviants métamorphes. »</i>",
+        "flavor": "« Au départ, il y avait trois groupes de Skrulls sur Skrullos : les Éternels immortels, les Latents à évolution rapide, et les Déviants métamorphes. »",
         "name": "Skrullos",
         "text": "Chaque manigance annexe gagne une icône de crise ([crisis]).",
         "traits": "Lieu. Planète."
     },
     {
         "code": "500794",
-        "flavor": "<i>« Tarnax II est un monde de caméléons, ou plutôt de métamorphes, qui ne sont pas liés à une forme ou un but précis. Une nouvelle civilisation Skrull fut établie sur cette planète. »</i>",
+        "flavor": "« Tarnax II est un monde de caméléons, ou plutôt de métamorphes, qui ne sont pas liés à une forme ou un but précis. Une nouvelle civilisation Skrull fut établie sur cette planète. »",
         "name": "Tarnax II",
         "text": "Diminuez la valeur du seuil de menace de la manigance principale de 1[per_hero].",
         "traits": "Lieu. Planète."
     },
     {
         "code": "500795",
-        "flavor": "<i>« Il y a environ 100 000 ans, le Monde du Trône Skrull fut déplacé vers Tarnax IV. Il resta le centre de l'empire jusqu'à sa destruction par Galactus. »</i>",
+        "flavor": "« Il y a environ 100 000 ans, le Monde du Trône Skrull fut déplacé vers Tarnax IV. Il resta le centre de l'empire jusqu'à sa destruction par Galactus. »",
         "name": "Tarnax IV",
         "text": "Tant qu'une manigance annexe est en jeu, cette carte gagne une icône d'amplification ([amplify]).",
         "traits": "Lieu. Planète."
     },
     {
         "code": "500796",
-        "flavor": "<i>« Tarnax VII est une autre planète gouvernée par l'Empire Skrull. Elle contient plusieurs centres d'entraînement militaire, spécialisés dans la formation des Super-Skrulls. »</i>",
+        "flavor": "« Tarnax VII est une autre planète gouvernée par l'Empire Skrull. Elle contient plusieurs centres d'entraînement militaire, spécialisés dans la formation des Super-Skrulls. »",
         "name": "Tarnax VII",
         "text": "Chaque sbire [[skrull]] gagne +1 ATQ.",
         "traits": "Lieu. Planète."
     },
     {
         "code": "500797",
-        "flavor": "<i>« Zaragz'na était la maison de la famille de Kl'rt, bien avant qu'il ne devienne le Super-Skrull. Il s'est fiancé à une riche comtesse Skrullienne et a eu deux enfants, un fils, Sarnogg, et une fille, Jazinda. »</i>",
+        "flavor": "« Zaragz'na était la maison de la famille de Kl'rt, bien avant qu'il ne devienne le Super-Skrull. Il s'est fiancé à une riche comtesse Skrullienne et a eu deux enfants, un fils, Sarnogg, et une fille, Jazinda. »",
         "name": "Zaragz'na",
         "text": "Les alliés et soutiens entrent en jeu inclinés.",
         "traits": "Lieu. Planète."
@@ -286,7 +286,7 @@
     },
     {
         "code": "500800",
-        "flavor": "<i>« Comment osez-vous venir ici et me menacer dans ma propre maison ? La planète Terre est à nous ! » – Empereur Dorrek VII\"</i>",
+        "flavor": "« Comment osez-vous venir ici et me menacer dans ma propre maison ? La planète Terre est à nous ! » – Empereur Dorrek VII\"",
         "name": "Le Trône de l'Empereur",
         "text": "<b>Une fois déjouée</b> : le méchant attaque le joueur ayant déjoué cette manigance (même si ce joueur est sous forme d'alter ego). Donnez au méchant 1 carte de boost supplémentaire pour cette activation."
     },
@@ -298,13 +298,13 @@
     },
     {
         "code": "500802",
-        "flavor": "<i>«  »Le chant de guerre des Skrulls résonne en vous. Vous êtes le requiem de l'âme informe !« – Impératrice S'Byll »</i>",
+        "flavor": "«  »Le chant de guerre des Skrulls résonne en vous. Vous êtes le requiem de l'âme informe !« – Impératrice S'Byll »",
         "name": "n Nouveau Skrull est Né",
         "text": "<b>Une fois révélée</b> : défaussez des cartes du deck Rencontre jusqu'à ce que vous défaussiez un sbire [[skrull]] et révélez-le."
     },
     {
         "code": "500803",
-        "flavor": "<i>«  »Guerriers de l'armada Skrull ! Cette base est désormais nôtre !« – Empereur Dorrek VII »</i>",
+        "flavor": "«  »Guerriers de l'armada Skrull ! Cette base est désormais nôtre !« – Empereur Dorrek VII »",
         "name": "Donner des Ordres",
         "text": "<b>Une fois révélée</b> : chaque sbire [[skrull]] engagé avec un joueur s'active contre ce joueur. Si aucun sbire ne s'est activé par cet effet, cette carte gagne Renfort."
     },
@@ -369,7 +369,7 @@
     },
     {
         "code": "500814",
-        "flavor": "<i>« Il vous aime ... »</i>",
+        "flavor": "« Il vous aime ... »",
         "name": "Soldat Skrull",
         "text": "<b>Une fois révélée</b> : placez 2 menaces sur chaque manigance annexe en jeu.\n<hr>\n<hr>[star] <b>Boost</b> : défaussez les 2 cartes du dessus de votre deck.",
         "traits": "Skrull. Soldat."
@@ -386,21 +386,21 @@
     },
     {
         "code": "500817",
-        "flavor": "<i>« Ce n'est pas un vulgaire criminel que vous affrontez. J'ai la puissance combinée des Quatre Fantastiques ! »</i>",
+        "flavor": "« Ce n'est pas un vulgaire criminel que vous affrontez. J'ai la puissance combinée des Quatre Fantastiques ! »",
         "name": "Super-Skrull",
         "text": "<b>Réponse forcée</b> : après la résolution de la deuxième étape de la phase du Méchant, mélangez chaque attachement [[super-pouvoir]] en jeu dans le deck [[super-pouvoir]] et révélez la carte du dessus du deck [[super-pouvoir]].",
         "traits": "Skrull."
     },
     {
         "code": "500818",
-        "flavor": "<i>« Ce n'est pas un vulgaire criminel que vous affrontez. J'ai la puissance combinée des Quatre Fantastiques ! »</i>",
+        "flavor": "« Ce n'est pas un vulgaire criminel que vous affrontez. J'ai la puissance combinée des Quatre Fantastiques ! »",
         "name": "Super-Skrull",
         "text": "<b>Réponse forcée</b> : après la résolution de la deuxième étape de la phase du Méchant, mélangez chaque attachement [[super-pouvoir]] en jeu dans le deck [[super-pouvoir]] et révélez les 2 cartes du dessus du deck [[super-pouvoir]].",
         "traits": "Skrull."
     },
     {
         "code": "500819",
-        "flavor": "<i>« Ce n'est pas un vulgaire criminel que vous affrontez. J'ai la puissance combinée des Quatre Fantastiques ! »</i>",
+        "flavor": "« Ce n'est pas un vulgaire criminel que vous affrontez. J'ai la puissance combinée des Quatre Fantastiques ! »",
         "name": "Super-Skrull",
         "text": "<b>Réponse forcée</b> : après la résolution de la deuxième étape de la phase du Méchant, mélangez chaque attachement [[super-pouvoir]] en jeu dans le deck [[super-pouvoir]] et révélez les 2 cartes du dessus deck [[super-pouvoir]].",
         "traits": "Skrull."
@@ -412,20 +412,20 @@
     },
     {
         "code": "500820b",
-        "flavor": "<i>« Apprenant que la Princesse Anelle avait eu un enfant avec son vieil ennemi, le premier Captain Marvel, et que l'Empire Skrull recherchait cet héritier nommé Dorrek VIII, le Super-Skrull se donna pour mission d'être le premier à retrouver le garçon, caché sur la planète Terre. »</i>",
+        "flavor": "« Apprenant que la Princesse Anelle avait eu un enfant avec son vieil ennemi, le premier Captain Marvel, et que l'Empire Skrull recherchait cet héritier nommé Dorrek VIII, le Super-Skrull se donna pour mission d'être le premier à retrouver le garçon, caché sur la planète Terre. »",
         "name": "À la Recherche de l'Héritier",
         "text": "<b>Une fois révélée</b> : révélez la carte du dessus du deck [[super-pouvoir]]."
     },
     {
         "code": "500821a",
         "errata": "« Lord Kl'rt » à la place de « Seigneur Kl'rt » [CDC]",
-        "flavor": "<i>« Le Super-Skrull a diffusé dans tous les mondes Skrull qu'il avait localisé Dorrek VIII, qui s'avéra être Hulkling, un membre de l'équipe récemment formée des Jeunes Vengeurs. »</i>",
+        "flavor": "« Le Super-Skrull a diffusé dans tous les mondes Skrull qu'il avait localisé Dorrek VIII, qui s'avéra être Hulkling, un membre de l'équipe récemment formée des Jeunes Vengeurs. »",
         "name": "Héritier du Trône",
         "text": "<b>Une fois révélée</b> : si le Seigneur Kl'rt est en jeu, attribuez à chaque joueur une carte Rencontre face cachée. Sinon, cherchez dans le deck Rencontre et la pile de défausse Rencontre le Seigneur Kl'rt et attachez-le au Super-Skrull. Mélangez le deck Rencontre."
     },
     {
         "code": "500821b",
-        "flavor": "<i>« Kl'rt, le Super-Skrull, révéla à Hulkling la vérité sur son passé. Il insista pour qu'il retourne auprès de son peuple afin qu'ils puissent réunifier l'Empire Skrull. »</i>",
+        "flavor": "« Kl'rt, le Super-Skrull, révéla à Hulkling la vérité sur son passé. Il insista pour qu'il retourne auprès de son peuple afin qu'ils puissent réunifier l'Empire Skrull. »",
         "name": "Héritier du Trône",
         "text": "<b>Une fois révélée</b> : révélez la carte du dessus du deck [[super-pouvoir]].\nSi ce stade est terminé, les joueurs perdent la partie."
     },
@@ -477,7 +477,7 @@
     },
     {
         "code": "500829",
-        "flavor": "<i>« Il suffit d'une pensée... d'une simple bascule mentale... et je deviens un compte à rebours vers l'Apocalypse. »</i>",
+        "flavor": "« Il suffit d'une pensée... d'une simple bascule mentale... et je deviens un compte à rebours vers l'Apocalypse. »",
         "name": "Praxagora",
         "text": "[star] Les attaques de Praxagora gagnent Déferlement.",
         "traits": "Élite. Robot."
@@ -491,13 +491,13 @@
     },
     {
         "code": "500831",
-        "flavor": "<i>« Le Conseil Galactique est une organisation intergalactique qui a été créé pour gérer les questions importantes de l'univers. Les races de huit galaxies et d'autres dimensions y sont représentées. »</i>",
+        "flavor": "« Le Conseil Galactique est une organisation intergalactique qui a été créé pour gérer les questions importantes de l'univers. Les races de huit galaxies et d'autres dimensions y sont représentées. »",
         "name": "Adhésion au Conseil Galactique",
         "text": "<b>Réponse forcée</b> : après qu'un joueur a attaqué le Super-Skrull, placez 1 menace sur la manigance principale."
     },
     {
         "code": "500832",
-        "flavor": "<i>« Le Super-Skrull devint l'un des nombreux Seigneurs de Guerre cherchant à réunifier les territoires Skrulls divisés. Il devint l'un des six Seigneurs de Guerre les plus puissants qui s'unirent contre cet ennemi commun. »</i>",
+        "flavor": "« Le Super-Skrull devint l'un des nombreux Seigneurs de Guerre cherchant à réunifier les territoires Skrulls divisés. Il devint l'un des six Seigneurs de Guerre les plus puissants qui s'unirent contre cet ennemi commun. »",
         "name": "Seigneurs de Guerre Skrulls",
         "text": "<b>Réponse forcée</b> : après qu'une carte est entrée en jeu sous le contrôle de n'importe quel joueur, donnez une carte de boost face cachée au Méchant."
     },
@@ -520,21 +520,21 @@
     },
     {
         "code": "500836",
-        "flavor": "<i>« N'importe lequel de ces êtres peut être mon ennemi camouflé. Je ne dois prendre aucun risque… les détruire tous ! »</i>",
+        "flavor": "« N'importe lequel de ces êtres peut être mon ennemi camouflé. Je ne dois prendre aucun risque… les détruire tous ! »",
         "name": "Bel-Dann",
         "text": "<b>Une fois révélée</b> : cherchez Raksor dans le deck Rencontre et la pile de défausse Rencontre et mettez-le en jeu engagé avec vous.",
         "traits": "Élite. Kree."
     },
     {
         "code": "500837",
-        "flavor": "<i>« Jamais de la vie je n'aurais pensé combattre aux côtés d'un... Kree ! »</i>",
+        "flavor": "« Jamais de la vie je n'aurais pensé combattre aux côtés d'un... Kree ! »",
         "name": "Raksor",
         "text": "<b>Une fois révélée</b> : cherchez Bel-Dann dans le deck Rencontre et la pile de défausse Rencontre et mettez-le en jeu engagé avec vous.",
         "traits": "Élite. Skrull."
     },
     {
         "code": "500838",
-        "flavor": "<i>« Les Krees et les Skrulls impliquent la Terre dans leurs plans de cette guerre intergalactique. »</i>",
+        "flavor": "« Les Krees et les Skrulls impliquent la Terre dans leurs plans de cette guerre intergalactique. »",
         "name": "Implication Terrienne",
         "text": "Permanent. Mise en place.\nTant qu'il y a au moins 1 menace sur cette manigance, elle gagne une icône de crise ([crisis]).\n<b>Réponse forcée</b> : après qu'une carte appartenant au set de Rencontre Guerre Kree-Skrull a été révélée, placez 2 menaces sur cette manigance."
     },
@@ -550,7 +550,7 @@
     },
     {
         "code": "500841",
-        "flavor": "<i>« Je peux facilement te tuer à mains nues ! Je suis Paibok, le Power Skrull génétiquement amélioré ! »</i>",
+        "flavor": "« Je peux facilement te tuer à mains nues ! Je suis Paibok, le Power Skrull génétiquement amélioré ! »",
         "name": "Paibok",
         "text": "Ténacité.\nTant que le nombre de cartes [[power]] [[skrull]] attachées à Paibok est égal ou inférieur au nombre de jetons Maîtrise sur lui, les cartes [[power]] [[skrull]] ne peuvent pas être défaussées.",
         "traits": "Skrull."
@@ -569,19 +569,19 @@
     },
     {
         "code": "500844a",
-        "flavor": "<i>« Paibok le Power Skrull. Tous les pouvoirs de certains X-Men. Pas leur sens moral. »</i>",
+        "flavor": "« Paibok le Power Skrull. Tous les pouvoirs de certains X-Men. Pas leur sens moral. »",
         "name": "Bio-ingénierie du Power Skrull",
         "text": "<b>Contenu</b>  : paibok (I) et Paibok (II) (Paibok (II) et Paibok (III) en mode Expert). Les sets de rencontre Paibok et Standard. Un set de rencontre modulaire (Nouveaux Revengers).\n<b>Mise en place</b> : placez 1 jeton Maîtrise sur Paibok."
     },
     {
         "code": "500844b",
-        "flavor": "<i>« Paibok a été entraîné à l'académie militaire Skrullienne et a été modifié biotechniquement pour posséder plus de pouvoirs que les Quatre Fantastiques. C'est ainsi qu'il est devenu le premier Power Skrull. »</i>",
+        "flavor": "« Paibok a été entraîné à l'académie militaire Skrullienne et a été modifié biotechniquement pour posséder plus de pouvoirs que les Quatre Fantastiques. C'est ainsi qu'il est devenu le premier Power Skrull. »",
         "name": "Bio-Ingénierie du Power Skrull",
         "text": "<b>Une fois révélée</b> : défaussez les cartes du dessus du deck Rencontre jusqu'à ce qu'une carte [[power]] [[skrull]] soit défaussée. Révélez cette carte. Mélangez la pile de défausse Rencontre dans le deck Rencontre."
     },
     {
         "code": "500845a",
-        "flavor": "<i>« Paibok veut se venger des super-héros de la Terre et les détruire une fois pour toutes. Pour atteindre son objectif, il doit maîtriser tous ses super-pouvoirs nouvellement acquis. »</i>",
+        "flavor": "« Paibok veut se venger des super-héros de la Terre et les détruire une fois pour toutes. Pour atteindre son objectif, il doit maîtriser tous ses super-pouvoirs nouvellement acquis. »",
         "name": "Maîtriser ses Super-pouvoirs",
         "text": "<b>Une fois révélée</b> : placez 1 jeton Maîtrise sur Paibok. Ensuite, si Capitaine Paibok est en jeu, résolvez sa capacité « Boost ». Sinon, cherchez Capitaine Paibok dans le deck Rencontre et la pile de défausse Rencontre et attachez-le à Paibok. Mélangez le deck Rencontre."
     },
@@ -644,7 +644,7 @@
     },
     {
         "code": "500854",
-        "flavor": "<i>« Tu sembles être le moins intellectuellement doté de tes camarades ! »</i>",
+        "flavor": "« Tu sembles être le moins intellectuellement doté de tes camarades ! »",
         "name": "Devos le Dévastateur",
         "text": "<b>Réponse forcée</b> : après qu'une carte d'état a été placée sur un personnage ami, Devos le Dévastateur s'active contre le joueur qui contrôle ce personnage.",
         "traits": "Élite."
@@ -658,13 +658,13 @@
     },
     {
         "code": "500856",
-        "flavor": "<i>« Paibok le Power Skrull a été assigné au Conseil Galactique comme envoyé diplomatique à temps plein. »</i>",
+        "flavor": "« Paibok le Power Skrull a été assigné au Conseil Galactique comme envoyé diplomatique à temps plein. »",
         "name": "Ambassadeur galactique",
         "text": "<b>Une fois révélée</b> : placez 2 menaces supplémentaires ici pour chaque personnage ami ayant une carte d'état."
     },
     {
         "code": "500857",
-        "flavor": "<i>« La race humaine aura bientôt peur de moi ! Hahahahaha ! » – Paibok\"</i>",
+        "flavor": "« La race humaine aura bientôt peur de moi ! Hahahahaha ! » – Paibok\"",
         "name": "Règlement de Comptes",
         "text": "Entrave 2[per_hero].\nRésolvez la capacité « Boost » de chaque carte de boost 1 fois supplémentaire.\n<b>Une fois révélée</b> : mélangez chaque carte [[power]] [[skrull]] de la pile de défausse Rencontre dans le deck Rencontre."
     },
@@ -687,14 +687,14 @@
     },
     {
         "code": "500861",
-        "flavor": "<i>« Je suis O.M.N.I.T.R.O.N.I.C.U.S. ! Organe Mécanique-Neuronal – Intellect Techno-Révolutionnaire Organisé de Neurones Interconnectés Cybernétiques Universels Synaptiques ! ! ! »</i>",
+        "flavor": "« Je suis O.M.N.I.T.R.O.N.I.C.U.S. ! Organe Mécanique-Neuronal – Intellect Techno-Révolutionnaire Organisé de Neurones Interconnectés Cybernétiques Universels Synaptiques ! ! ! »",
         "name": "O.M.N.I.T.R.O.N.I.C.U.S",
         "text": "Chaque ennemi [[revenger]] gagne Vilénie.\n<b>Action de héros</b> : s'il n'y a pas d'ennemi [[revenger]] en jeu, dépensez les ressources suivantes [energy][energy] → défaussez cette carte.",
         "traits": "Ordinateur. Revenger."
     },
     {
         "code": "500862",
-        "flavor": "<i>« Je suis David Angar – - Je suis sain d'esprit ! Et plus encore – - je suis le Hurleur – - maître de la tempête mentale ! Je suis la puissance incarnée ! »</i>",
+        "flavor": "« Je suis David Angar – - Je suis sain d'esprit ! Et plus encore – - je suis le Hurleur – - maître de la tempête mentale ! Je suis la puissance incarnée ! »",
         "name": "Angar le Hurleur",
         "text": "[star] Les attaques d'Angar le Hurleur gagnent À Distance.\n<b>Interruption forcée</b> : quand Angar le Hurleur vous attaque, résolvez également son attaque contre chaque autre héros.",
         "traits": "Revenger."
@@ -714,14 +714,14 @@
     },
     {
         "code": "500865",
-        "flavor": "<i>« Nous ne devons pas avoir peur de rêver un peu plus grand. »</i>",
+        "flavor": "« Nous ne devons pas avoir peur de rêver un peu plus grand. »",
         "name": "Le Créateur",
         "text": "Le Créateur ne peut pas subir de dégâts tant qu'un autre ennemi [[revenger]] est en jeu.\n<b>Une fois révélée</b> : cherchez dans le deck Rencontre et la pile de défausse Rencontre la manigance annexe L'Heure de la Revanche et révélez-la.",
         "traits": "Élite. Revenger."
     },
     {
         "code": "500866",
-        "flavor": "<i>« FFFILONS, MES AMISSS ! FFFILONS ET GROUILLONS ! MORDONS ET GRIFFFONS ! LA VICTOIRE PEUT ENCORE ÊTRE À NOUSSS ! »</i>",
+        "flavor": "« FFFILONS, MES AMISSS ! FFFILONS ET GROUILLONS ! MORDONS ET GRIFFFONS ! LA VICTOIRE PEUT ENCORE ÊTRE À NOUSSS ! »",
         "name": "Vermine",
         "text": "[star] Les attaques de Vermine infligent des dégâts indirects.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, elle inflige des dégâts indirects.",
         "traits": "Revenger."
@@ -735,7 +735,7 @@
     },
     {
         "code": "500868",
-        "flavor": "<i>« Les Nouveaux Revengers étaient un groupe de méchants rassemblés par le Créateur pour frapper directement les Nouveaux Avengers dans sa tentative de prise de pouvoir. »</i>",
+        "flavor": "« Les Nouveaux Revengers étaient un groupe de méchants rassemblés par le Créateur pour frapper directement les Nouveaux Avengers dans sa tentative de prise de pouvoir. »",
         "name": "L'Heure de la Revanche",
         "text": "Le méchant gagne le trait [[revenger]].\n<b>Une fois révélée</b> : placez 1 menace supplémentaire ici pour chaque ennemi [[revenger]] en jeu."
     },
@@ -793,13 +793,13 @@
     },
     {
         "code": "500874a",
-        "flavor": "<i>« Kly'bn, l'Éternel Skrull, et Sl'gur't aux Noms Infinis sont présentés comme l'empereur et l'impératrice du Panthéon Skrull. »</i>",
+        "flavor": "« Kly'bn, l'Éternel Skrull, et Sl'gur't aux Noms Infinis sont présentés comme l'empereur et l'impératrice du Panthéon Skrull. »",
         "name": "Tuer les Faux Dieux",
         "text": "<b>Une fois révélée</b> : cherchez dans le deck Rencontre et la pile de défausse Rencontre la manigance annexe Renforcer la Foi, révélez-la et placez 2[per_hero] menaces supplémentaires dessus."
     },
     {
         "code": "500874b",
-        "flavor": "<i>« Kly'bn et Sl'gur't ont indirectement soutenu la création et l'expansion de l'Empire Skrull. Ils ont conquis et asservi les divinités des peuples conquis, réduisant près d'un millier de panthéons en esclavage. Maintenant, le duo s'en prend aux dieux de la Terre. »</i>",
+        "flavor": "« Kly'bn et Sl'gur't ont indirectement soutenu la création et l'expansion de l'Empire Skrull. Ils ont conquis et asservi les divinités des peuples conquis, réduisant près d'un millier de panthéons en esclavage. Maintenant, le duo s'en prend aux dieux de la Terre. »",
         "name": "Tuer les Faux Dieux",
         "text": "<b>Une fois révélée</b> : retournez le méchant.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
     },
@@ -811,7 +811,7 @@
     },
     {
         "code": "500875b",
-        "flavor": "<i>« Le Panthéon Skrull a été détruit avec succès et les Divinités Skrulls sont furieuses. »</i>",
+        "flavor": "« Le Panthéon Skrull a été détruit avec succès et les Divinités Skrulls sont furieuses. »",
         "name": "Panthéon Skrull",
         "text": "<b>Action de héros</b> : dépensez 2 ressources du même type → retirez un jeton Foi du méchant.",
         "traits": "Place Forte."
@@ -830,20 +830,20 @@
     },
     {
         "code": "500878",
-        "flavor": "<i>« Je suis le harnais vivant du pouvoir des Dieux. »</i>",
+        "flavor": "« Je suis le harnais vivant du pouvoir des Dieux. »",
         "name": "Nogor",
         "text": "[star] Nogor gagne +1 MNG, +1 ATQ et +1 point de vie pour chaque jeton Foi sur le méchant.\n<b>Une fois révélée</b> : retournez le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : après la résolution de cette activation, retournez le méchant.",
         "traits": "Élite. Skrull."
     },
     {
         "code": "500879",
-        "flavor": "<i>« L'équivalent skrullien des Enfers est connu sous le nom des Désolations Informes. »</i>",
+        "flavor": "« L'équivalent skrullien des Enfers est connu sous le nom des Désolations Informes. »",
         "name": "Désolations Informes",
         "text": "Entrave 2[per_hero].\n<b>Réponse forcée</b> : après qu'un allié ou un sbire a été vaincu, si ce personnage a le trait [[skrull]], retournez le méchant. Sinon, placez 1 jeton Foi sur le méchant."
     },
     {
         "code": "500880",
-        "flavor": "<i>« La plupart des Skrulls vénèrent Kly'bn, le Skrull Éternel, et Sl'gur't aux Noms Infinis. Ils sont les seuls véritables Dieux de l'Empire Skrull. »</i>",
+        "flavor": "« La plupart des Skrulls vénèrent Kly'bn, le Skrull Éternel, et Sl'gur't aux Noms Infinis. Ils sont les seuls véritables Dieux de l'Empire Skrull. »",
         "name": "Renforcer la Foi",
         "text": "<b>Réponse forcée</b> : après qu'un sbire [[skrull]] est entré en jeu, placez 1 jeton Foi sur le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : placez 1 jeton Foi sur le méchant."
     },
@@ -881,7 +881,7 @@
     },
     {
         "code": "500886",
-        "flavor": "<i>« Une secte fanatique de l'Empire Skrull qui suit les prophéties prédisant que la Terre deviendra le nouveau monde natal pour les Skrulls. »</i>",
+        "flavor": "« Une secte fanatique de l'Empire Skrull qui suit les prophéties prédisant que la Terre deviendra le nouveau monde natal pour les Skrulls. »",
         "name": "Secte Dard'van",
         "text": "<b>Une fois révélée</b> : donnez 1 carte de boost face cachée au méchant."
     },
@@ -899,7 +899,7 @@
     },
     {
         "code": "500889a",
-        "flavor": "<i>Vous êtes un Skrull !</i> – <b>Action de héros</b> : inclinez un héros et dépensez 1[per_hero] ressource de n'importe quel type → retournez Spider-Woman (Les joueurs peuvent payer collectivement les coûts de cette  carte.)",
+        "flavor": "Vous êtes un Skrull ! – <b>Action de héros</b> : inclinez un héros et dépensez 1[per_hero] ressource de n'importe quel type → retournez Spider-Woman (Les joueurs peuvent payer collectivement les coûts de cette  carte.)",
         "name": "Spider-Woman (Veranke)",
         "text": "Spider-Woman ne peut pas subir de dégâts.\n[star] <b>Réponse forcée</b> : après que Spider-Woman vous a attaqué, placez 1 jeton Suspicion sur l'environnement « En Qui Avez Vous Confiance ? ».",
         "traits": "Camouflé. Skrull."
@@ -932,7 +932,7 @@
     },
     {
         "code": "500891b",
-        "flavor": "<i>« Je ferai partie de ceux assignés à l'infiltration de la Terre. Je jouerai un rôle dans cette stratégie. »</i>",
+        "flavor": "« Je ferai partie de ceux assignés à l'infiltration de la Terre. Je jouerai un rôle dans cette stratégie. »",
         "name": "Reine Veranke",
         "text": "<b>Réponse forcée</b> : après la fin de la phase du méchant, si un joueur est sous forme d'alter ego, retournez la Reine Veranke. Sinon, défaussez la carte du dessus du deck Rencontre, si c'est une traîtrise, retournez la Reine Veranke.",
         "traits": "Démasqué. Skrull."
@@ -949,7 +949,7 @@
     },
     {
         "code": "500893a",
-        "flavor": "<i>« Les Skrulls, un groupe de violents extra-terrestres métamorphes, ont secrètement remplacé plusieurs héros de la Terre par des imposteurs et sont sur le point d'attaquer. »</i>",
+        "flavor": "« Les Skrulls, un groupe de violents extra-terrestres métamorphes, ont secrètement remplacé plusieurs héros de la Terre par des imposteurs et sont sur le point d'attaquer. »",
         "name": "L'Invasion Skrull",
         "text": "<b>Une fois révélée</b> : si Méfiance et Paranoïa est en jeu, retirez 2[per_hero] jetons Suspicion de « En Qui Avez Vous Confiance ? ». Sinon, cherchez la manigance annexe Méfiance et Paranoïa et révélez-la."
     },
@@ -995,7 +995,7 @@
     },
     {
         "code": "500900",
-        "flavor": "<i>« Le texte sacré du Livre des Mondes fut la raison principale pour laquelle les Skrulls transformèrent l'invasion de la Terre en une guerre sainte. Ils croyaient en être les propriétaires légitimes. »</i>",
+        "flavor": "« Le texte sacré du Livre des Mondes fut la raison principale pour laquelle les Skrulls transformèrent l'invasion de la Terre en une guerre sainte. Ils croyaient en être les propriétaires légitimes. »",
         "name": "Accomplir la Prophétie",
         "text": "Entrave 1[per_hero].\nChaque sbire skrull gagne Garde et Patrouille."
     },
@@ -1021,7 +1021,7 @@
     },
     {
         "code": "500905",
-        "flavor": "<i>« En Qui Avez Vous Confiance ? »</i>",
+        "flavor": "« En Qui Avez Vous Confiance ? »",
         "name": "Rituel d'Infiltration",
         "text": "<b>Une fois révélée</b> : mettez en jeu un allié [[camoufl]]É pris au hasard dans le deck [[imposteur]], sous le contrôle de n'importe quel joueur. Sinon, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b> : retirez 3 jetons Suspicion de"
     },
@@ -1050,7 +1050,7 @@
     },
     {
         "code": "500909a",
-        "flavor": "<i>« Je parle parfaitement le Skrull. »</i>",
+        "flavor": "« Je parle parfaitement le Skrull. »",
         "name": "Captain Marvel (Khn'nr)",
         "text": "<b>Interruption forcée</b> : quand Captain Marvel est censé quitter le jeu, retournez-le à la place.",
         "traits": "Camouflé. Imposteur. Skrull."
@@ -1115,7 +1115,7 @@
     },
     {
         "code": "500914a",
-        "flavor": "<i>« Ne révélez pas votre véritable apparence au grand jour. »</i>",
+        "flavor": "« Ne révélez pas votre véritable apparence au grand jour. »",
         "name": "Dum Dum Dugan (Sn'Tlo)",
         "text": "<b>Interruption forcée</b> : quand Dum Dum Dugan est censé quitter le jeu, retournez-le à la place.",
         "traits": "Camouflé. Imposteur. Skrull."
@@ -1128,7 +1128,7 @@
     },
     {
         "code": "500915a",
-        "flavor": "<i>« Mon identité n'a pas été détectée. »</i>",
+        "flavor": "« Mon identité n'a pas été détectée. »",
         "name": "Elektra (Siri)",
         "text": "<b>Interruption forcée</b> : quand Elektra est censée quitter le jeu, retournez-la à la place.",
         "traits": "Camouflé. Imposteur. Skrull."
@@ -1154,7 +1154,7 @@
     },
     {
         "code": "500917a",
-        "flavor": "<i>« C'est vrai ! Je ne suis pas Susan Richards, je suis un Skrull ! »</i>",
+        "flavor": "« C'est vrai ! Je ne suis pas Susan Richards, je suis un Skrull ! »",
         "name": "La Femme Invisible (De'Lila)",
         "text": "<b>Interruption forcée</b> : quand La Femme Invisible est censée quitter le jeu, retournez-la à la place.",
         "traits": "Camouflé. Imposteur. Skrull."
@@ -1232,7 +1232,7 @@
     },
     {
         "code": "500923a",
-        "flavor": "<i>« Bon, je me déteste, mais je ne sais pas si j'ai envie de me gifler. »</i>",
+        "flavor": "« Bon, je me déteste, mais je ne sais pas si j'ai envie de me gifler. »",
         "name": "Spider-Man (Ch'Gra)",
         "text": "<b>Interruption forcée</b> : quand Spider-Man est censé quitter le jeu, retournez-le à la place.",
         "traits": "Camouflé. Imposteur. Skrull."
@@ -1284,7 +1284,7 @@
     },
     {
         "code": "500927a",
-        "flavor": "<i>« Il ne faudra guère longtemps avant que nous ayons un Skrull dans chaque état. »</i>",
+        "flavor": "« Il ne faudra guère longtemps avant que nous ayons un Skrull dans chaque état. »",
         "name": "Le Frelon (Criti Noll)",
         "text": "<b>Interruption forcée</b> : quand Le Frelon est censé quitter le jeu, retournez-le à la place.",
         "traits": "Camouflé. Imposteur. Skrull."
@@ -1308,22 +1308,22 @@
     },
     {
         "code": "500930",
-        "flavor": "<i>« Un artefact capable de modifier la réalité selon les souhaits de son utilisateur. Les Skrulls furent la première espèce à créer un Cube Cosmique. »</i>",
+        "flavor": "« Un artefact capable de modifier la réalité selon les souhaits de son utilisateur. Les Skrulls furent la première espèce à créer un Cube Cosmique. »",
         "name": "Fragment du Cube Cosmique"
     },
     {
         "code": "500997",
-        "flavor": "<i>« Un artefact capable de modifier la réalité selon les souhaits de son utilisateur. Les Skrulls furent la première espèce à créer un Cube Cosmique. »</i>",
+        "flavor": "« Un artefact capable de modifier la réalité selon les souhaits de son utilisateur. Les Skrulls furent la première espèce à créer un Cube Cosmique. »",
         "name": "Fragment du Cube Cosmique"
     },
     {
         "code": "500998",
-        "flavor": "<i>« Un artefact capable de modifier la réalité selon les souhaits de son utilisateur. Les Skrulls furent la première espèce à créer un Cube Cosmique. »</i>",
+        "flavor": "« Un artefact capable de modifier la réalité selon les souhaits de son utilisateur. Les Skrulls furent la première espèce à créer un Cube Cosmique. »",
         "name": "Fragment du Cube Cosmique"
     },
     {
         "code": "500999",
-        "flavor": "<i>« Un artefact capable de modifier la réalité selon les souhaits de son utilisateur. Les Skrulls furent la première espèce à créer un Cube Cosmique. »</i>",
+        "flavor": "« Un artefact capable de modifier la réalité selon les souhaits de son utilisateur. Les Skrulls furent la première espèce à créer un Cube Cosmique. »",
         "name": "Fragment du Cube Cosmique"
     },
     {
@@ -1346,7 +1346,7 @@
     },
     {
         "code": "500934",
-        "flavor": "<i>« Z'Reg, un agent Skrull défiguré par son camarade d'entrainement K'rtem, a été envoyé espionner les Avengers une fois son entrainement terminé. »</i>",
+        "flavor": "« Z'Reg, un agent Skrull défiguré par son camarade d'entrainement K'rtem, a été envoyé espionner les Avengers une fois son entrainement terminé. »",
         "name": "Entrainement d'Espion",
         "text": "<b>Une fois révélée</b> : vainquez un allié que vous contrôlez et donnez au méchant une carte de boost face cachée."
     },
@@ -1358,7 +1358,7 @@
     },
     {
         "code": "500936",
-        "flavor": "<i>« Prétendre être humaine est amusant. Particulièrement quand je le fais bien mieux que vous. »</i>",
+        "flavor": "« Prétendre être humaine est amusant. Particulièrement quand je le fais bien mieux que vous. »",
         "name": "Jazinda",
         "text": "Victoire 1.\nLe méchant gagne +1 MNG.\n<hr>\n<hr>[star] <b>Boost</b> : mettez Jazinda en jeu engagée avec vous.",
         "traits": "Élite. Skrull."
@@ -1377,7 +1377,7 @@
     },
     {
         "code": "500939",
-        "flavor": "<i>« Un ancien agent de l'Empire Skrull a été envoyé pour récupérer un artefact sacré des Skrulls, volé par les Krees. »</i>",
+        "flavor": "« Un ancien agent de l'Empire Skrull a été envoyé pour récupérer un artefact sacré des Skrulls, volé par les Krees. »",
         "name": "Voler pour l'Empire",
         "text": "<b>Une fois révélée</b> : défaussez des cartes du dessus du deck Rencontre jusqu'à ce que vous défaussiez un attachement. Révélez cet attachement. Puis, placez sur la manigance principale un nombre de menaces égal au nombre d'icônes de boost ([boost]) sur cet attachement.\n[acceleration]"
     },
@@ -1401,7 +1401,7 @@
     },
     {
         "code": "500943",
-        "flavor": "<i>« Je suis le dernier survivant de mon monde. » – Skymax\"</i>",
+        "flavor": "« Je suis le dernier survivant de mon monde. » – Skymax\"",
         "name": "Alliance Surprise",
         "text": "<b>Réponse forcée</b> : quand un joueur défausse un allié de sa main, mettez cet allié en jeu engagé avec lui à la place. Cet allié est considéré comme un sbire ayant une boîte de texte vide. La MNG du sbire attaché est égale à son CTR imprimé et il ne subit pas de dégâts consécutifs."
     },
@@ -1430,14 +1430,14 @@
     },
     {
         "code": "500948",
-        "flavor": "<i>« Ces résultats sont fascinants. »</i>",
+        "flavor": "« Ces résultats sont fascinants. »",
         "name": "Généticien Skrull",
         "text": "<hr>[star] <b>Boost</b> : attribuez-vous une carte Rencontre face cachée.",
         "traits": "Génie. Skrull."
     },
     {
         "code": "500949",
-        "flavor": "<i>« Les scientifiques Skrulls ont cloné des échantillons du sang de Deadpool pour améliorer un escadron de Super-Skrulls. Ils ont aussi chargé Deadpool de l'entraînement de ces Super-Skrulls. »</i>",
+        "flavor": "« Les scientifiques Skrulls ont cloné des échantillons du sang de Deadpool pour améliorer un escadron de Super-Skrulls. Ils ont aussi chargé Deadpool de l'entraînement de ces Super-Skrulls. »",
         "name": "Programme de Clonage",
         "text": "Chaque sbire [[skrull]] s'active une fois supplémentaire durant l'étape 2 du méchant.\nAucune menace ne peut être retirée de cette manigance tant qu'il n'y a pas de sbire [[skrull]] en jeu."
     },
@@ -1454,7 +1454,7 @@
     },
     {
         "code": "500952",
-        "flavor": "<i>« Rappelez vous, lorsque vous faites face à un ennemi supérieur, apprenez ses faiblesses. Exploitez-les. C'est la façon de faire des Skrulls. » – Commandant Chrell\"</i>",
+        "flavor": "« Rappelez vous, lorsque vous faites face à un ennemi supérieur, apprenez ses faiblesses. Exploitez-les. C'est la façon de faire des Skrulls. » – Commandant Chrell\"",
         "name": "Entrainement Super-Skrull",
         "text": "<b>Une fois révélée</b> : donnez une carte d'état Tenace à chaque ennemi [[skrull]]."
     },

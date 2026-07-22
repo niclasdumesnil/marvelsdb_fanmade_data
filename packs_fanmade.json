@@ -117,6 +117,7 @@
         "code": "red_hulk_by_merlin",
         "creator": "Merlin",
         "date_release": "2024-12-31",
+        "date_update": "2026-07-23",
         "name": "Red Hulk",
         "octgn_id": "b1c7df6c-7f34-5ff7-bf32-9c58db219efd",
         "pack_type_code": "hero_fanmade",
@@ -1250,7 +1251,7 @@
         "octgn_id": "7f19133c-13a9-4b3e-a364-bf17416b5119",
         "pack_type_code": "hero_fanmade",
         "position": 61,
-        "size": 35,
+        "size": 40,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
@@ -1348,7 +1349,7 @@
         "octgn_id": "e7da07d7-400b-4710-8d02-e5356255ac60",
         "pack_type_code": "hero_fanmade",
         "position": 62,
-        "size": 31,
+        "size": 37,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
