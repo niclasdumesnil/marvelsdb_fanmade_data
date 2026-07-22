@@ -2,7 +2,7 @@
     {
         "code": "70701a",
         "name": "Superior Iron Man",
-        "text": "« Quoi les autres ? » — <b>Ressource</b> : infligez 1 dégât à un personnage ami → générez une ressource [wild]. (Limite d'une fois par phase.)",
+        "text": "« <i>Quoi les autres ?</i> » — <b>Ressource</b> : infligez 1 dégât à un personnage ami → générez une ressource [wild]. (Limite d'une fois par phase.)",
         "traits": "Aérien. Avenger."
     },
     {
@@ -75,13 +75,14 @@
         "flavor": "« Il suffit ! » – Tony.",
         "name": "Rayon d'Énergie",
         "text": "<b>Action de héros</b> (<i>attaque/contre</i>) : infligez 3 dégâts à un ennemi. Retirez 2 menaces d'une manigance.",
-        "traits": "Attaque. Super-Pouvoir. Contre."
+        "traits": "Attaque. Contre. Super-Pouvoir."
     },
     {
         "code": "70714",
+        "flavor": "« Est ce que vous savez nager... » – Iron Man",
         "name": "Spectacular Save",
-        "text": "<b>Hero Interrupt</b> (<i>défense/contre</i>) : when a friendly character would take any amount of damage, prevent 3 of that damage. Remove 1 threat from a scheme.\n<i>« Do you know how to swim ? » — Iron Man</i>",
-        "traits": "Defense. Superpower. Thwart."
+        "text": "<b>Interruption de héros</b> (<i>contre/défense</i>) : quand un personnage ami est censé subir n'importe quelle quantité de dégâts, prévenez 3 de ces dégâts. Retirez 1 menace d'une manigance.",
+        "traits": "Contre. Défense. Super-Pouvoir."
     },
     {
         "code": "70716",
