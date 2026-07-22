@@ -6,3 +6,7 @@ venv
 /rules
 /rules
 /translations/fr/rules
+
+# Per-environment "not yet promoted" trait translations added via the app UI.
+# The reviewed/canonical dictionary is traits_dict.json (tracked, synced via Git Pull/Push).
+traits_dict_overlay.json
