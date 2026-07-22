@@ -238,7 +238,7 @@
     {
         "code": "21048",
         "name": "Le Tribunal Vivant",
-        "text": "<b>Action</b> : mélangez cette carte dans le deck Rencontre (sans regarder).\n<b>Une vois révélée</b> : retirez 2 menaces de la manigance principale et retirez Le Tribunal Vivant de la partie. Cet effet ne peut pas être annulé.",
+        "text": "<b>Action</b> : mélangez cette carte dans le deck Rencontre (sans regarder).\n<b>Une fois révélée</b> : retirez 2 menaces de la manigance principale et retirez Le Tribunal Vivant de la partie. Cet effet ne peut pas être annulé.",
         "traits": "Entité Cosmique."
     },
     {
@@ -286,7 +286,7 @@
     {
         "code": "21060",
         "name": "Le Jardinier",
-        "text": "<b>Action</b> : mélangez cette carte dans le deck Rencontre (sans regarder).\n<b>Une vois révélée</b> : soignez 2 dégâts de votre identité et retirez Le Jardinier de la partie. Cet effet ne peut pas être annulé.",
+        "text": "<b>Action</b> : mélangez cette carte dans le deck Rencontre (sans regarder).\n<b>Une fois révélée</b> : soignez 2 dégâts de votre identité et retirez Le Jardinier de la partie. Cet effet ne peut pas être annulé.",
         "traits": "Entité Cosmique."
     },
     {

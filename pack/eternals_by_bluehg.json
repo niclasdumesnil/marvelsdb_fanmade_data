@@ -299,7 +299,7 @@
         "position": 13,
         "quantity": 1,
         "set_code": "druig_by_bluehg",
-        "text": "<i>Ulterior Motives</i> — <b>Response</b>: When a side scheme is defeated, place 1 domination counter here (to a maximum of 3).\n<b>Interrupt</b> <i>(defense)</i>: When a non-<b><i>elite</i></b> minion attacks, exhaust Druig, remove 1 domination counter from him, and choose another enemy &rarr; damage from that attack is dealt to the chosen enemy instead.",
+        "text": "<i>Ulterior Motives</i> — <b>Response</b>: When a side scheme is defeated, place 1 domination counter here (to a maximum of 3).\n<b>Interrupt</b> <i>(defense)</i>: When a non-<b><i>elite</i></b> minion attacks, exhaust Druig, remove 1 domination counter from him, and choose another enemy → damage from that attack is dealt to the chosen enemy instead.",
         "thwart": 2,
         "traits": "Eternal. Psionic.",
         "type_code": "hero"
@@ -409,7 +409,7 @@
         "resource_energy": 1,
         "set_code": "druig_by_bluehg",
         "set_position": 1,
-        "text": "<b>Hero Action</b>: Exhaust 2 <b><i>Eternal</i></b> characters you control &rarr; change to your alter-ego. Draw up to your maximum printed hand size. You get +2 REC until the end of the round.\n",
+        "text": "<b>Hero Action</b>: Exhaust 2 <b><i>Eternal</i></b> characters you control → change to your alter-ego. Draw up to your maximum printed hand size. You get +2 REC until the end of the round.\n",
         "traits": "",
         "type_code": "event"
     },
@@ -428,7 +428,7 @@
         "resource_mental": 1,
         "set_code": "druig_by_bluehg",
         "set_position": 2,
-        "text": "<b>Hero Action</b>: Exhaust Ruthless Vision and deal 1 damage to an <b><i>Eternal</i></b> character you control &rarr; draw 1 card.\n",
+        "text": "<b>Hero Action</b>: Exhaust Ruthless Vision and deal 1 damage to an <b><i>Eternal</i></b> character you control → draw 1 card.\n",
         "traits": "Condition.",
         "type_code": "upgrade"
     },
@@ -466,7 +466,7 @@
         "resource_physical": 1,
         "set_code": "druig_by_bluehg",
         "set_position": 2,
-        "text": "Victory 0.\nWhile Byzantine Machinations is in the victory display, Druig gets +1 DEF.\nWhile Byzantine Machinations is in the victory display, Druig gains the text: \"<b>Action</b>: Remove 1 domination counter from Druig &rarr; Choose a minion. That minion attacks an enemy of your choice. (Limit once per round.)\"",
+        "text": "Victory 0.\nWhile Byzantine Machinations is in the victory display, Druig gets +1 DEF.\nWhile Byzantine Machinations is in the victory display, Druig gains the text: \"<b>Action</b>: Remove 1 domination counter from Druig → Choose a minion. That minion attacks an enemy of your choice. (Limit once per round.)\"",
         "traits": "",
         "type_code": "player_side_scheme"
     },
@@ -528,7 +528,7 @@
         "position": 26,
         "quantity": 1,
         "set_code": "gilgamesh_by_bluehg",
-        "text": "<i>Undaunted</i> — <b>Action</b>: Take 2 damage &rarr; ready Gilgamesh. (Limit once per phase.)",
+        "text": "<i>Undaunted</i> — <b>Action</b>: Take 2 damage → ready Gilgamesh. (Limit once per phase.)",
         "thwart": 1,
         "traits": "Eternal.",
         "type_code": "hero"
@@ -674,7 +674,7 @@
         "resource_energy": 1,
         "set_code": "gilgamesh_by_bluehg",
         "set_position": 1,
-        "text": "<b>Hero Action</b> <i>(attack)</i>: Exhaust Gilgamesh &rarr; deal 10 damage to an enemy. This attack gains overkill. This attack does 1 additional damage for each [physical] resource spent to pay for this card (to a maximum of 3).",
+        "text": "<b>Hero Action</b> <i>(attack)</i>: Exhaust Gilgamesh → deal 10 damage to an enemy. This attack gains overkill. This attack does 1 additional damage for each [physical] resource spent to pay for this card (to a maximum of 3).",
         "traits": "Attack. Superpower.",
         "type_code": "event"
     },
@@ -693,7 +693,7 @@
         "resource_mental": 1,
         "set_code": "gilgamesh_by_bluehg",
         "set_position": 3,
-        "text": "Your alter-ego gets +3 REC.\n<b>Hero Resource</b>: Exhaust The Forgotten One and take up to 3 damage &rarr; generate that many [physical] resources.",
+        "text": "Your alter-ego gets +3 REC.\n<b>Hero Resource</b>: Exhaust The Forgotten One and take up to 3 damage → generate that many [physical] resources.",
         "traits": "Title.",
         "type_code": "upgrade"
     },
@@ -840,7 +840,7 @@
         "resource_energy": 1,
         "set_code": "ikaris_by_bluehg",
         "set_position": 3,
-        "text": "<b>Hero Response</b>: After you place any amount of energy counters on your identity, place 1 ingenuity counter here.\n<b>Hero Interrupt</b>: When you attack an enemy, exhaust Eternal Ingenuity and remove 2 ingenuity counters here &rarr; stun or confuse that enemy.",
+        "text": "<b>Hero Response</b>: After you place any amount of energy counters on your identity, place 1 ingenuity counter here.\n<b>Hero Interrupt</b>: When you attack an enemy, exhaust Eternal Ingenuity and remove 2 ingenuity counters here → stun or confuse that enemy.",
         "traits": "Superpower.",
         "type_code": "upgrade"
     },
@@ -936,7 +936,7 @@
         "position": 50,
         "quantity": 1,
         "set_code": "makkari_by_bluehg",
-        "text": "<i>Outrun and Outmaneuver</i> — <b>Action</b>: Spend 2 resources of any type &rarr; ready Makkari and choose a basic power. Makkari gets +1 to that basic power until the end of the round. (Limit once per round.)",
+        "text": "<i>Outrun and Outmaneuver</i> — <b>Action</b>: Spend 2 resources of any type → ready Makkari and choose a basic power. Makkari gets +1 to that basic power until the end of the round. (Limit once per round.)",
         "thwart": 1,
         "traits": "Eternal.",
         "type_code": "hero"
@@ -1141,7 +1141,7 @@
         "position": 62,
         "quantity": 1,
         "set_code": "phastos_by_bluehg",
-        "text": "<b>Response</b>: When your turn begins, place 1 energy counter here (to a maximum of 3).\n<i>Forgemaster</i> — <b>Response</b>: After you play an upgrade, remove 2 energy counters here &rarr; you may play another upgrade from your hand, reducing its cost by 2.",
+        "text": "<b>Response</b>: When your turn begins, place 1 energy counter here (to a maximum of 3).\n<i>Forgemaster</i> — <b>Response</b>: After you play an upgrade, remove 2 energy counters here → you may play another upgrade from your hand, reducing its cost by 2.",
         "thwart": 1,
         "traits": "Eternal. Genius.",
         "type_code": "hero"
@@ -1270,7 +1270,7 @@
         "resource_energy": 1,
         "set_code": "phastos_by_bluehg",
         "set_position": 1,
-        "text": "<b>Hero Action</b>: Exhaust Phastos and discard an upgrade you control &rarr; play an upgrade from your hand or discard pile, reducing its cost by the cost of the discarded upgrade.",
+        "text": "<b>Hero Action</b>: Exhaust Phastos and discard an upgrade you control → play an upgrade from your hand or discard pile, reducing its cost by the cost of the discarded upgrade.",
         "traits": "Skill. Superpower.",
         "type_code": "event"
     },
@@ -1290,7 +1290,7 @@
         "resource_mental": 1,
         "set_code": "phastos_by_bluehg",
         "set_position": 3,
-        "text": "<b>Hero Response</b>: After your turn begins, discard an upgrade you control &rarr; draw 2 cards.",
+        "text": "<b>Hero Response</b>: After your turn begins, discard an upgrade you control → draw 2 cards.",
         "traits": "Location.",
         "type_code": "support"
     },
@@ -1459,7 +1459,7 @@
         "resource_wild": 1,
         "set_code": "sersi_by_bluehg",
         "set_position": 1,
-        "text": "<b>Interrupt</b>: When you spend this card, exhaust Sersi or two other <b><i>Eternal</i></b> characters you control &rarr; this card generates an additional [wild] [wild].",
+        "text": "<b>Interrupt</b>: When you spend this card, exhaust Sersi or two other <b><i>Eternal</i></b> characters you control → this card generates an additional [wild] [wild].",
         "type_code": "resource"
     },
     {
@@ -1477,7 +1477,7 @@
         "resource_wild": 1,
         "set_code": "sersi_by_bluehg",
         "set_position": 3,
-        "text": "Requirement ([wild]).\n<b>Hero Action</b>: Exhaust Ever Adaptable and spend up to 3 [wild] resources &rarr; draw 1 card for each resource spent.",
+        "text": "Requirement ([wild]).\n<b>Hero Action</b>: Exhaust Ever Adaptable and spend up to 3 [wild] resources → draw 1 card for each resource spent.",
         "traits": "Skill.",
         "type_code": "upgrade"
     },
@@ -1517,7 +1517,7 @@
         "position": 86,
         "quantity": 1,
         "set_code": "sprite_by_bluehg",
-        "text": "<i>Immaterial Illusions</i> — <b>Interrupt</b>: When the villain phase begins, place 1 energy counter here (to a maximum of 3).\n<b>Interrupt</b>: When a boost card is turned faceup, remove 1 energy counter here &rarr; cancel all icons ([boost] and [star]) on that card, discard it, and draw a new boost card.",
+        "text": "<i>Immaterial Illusions</i> — <b>Interrupt</b>: When the villain phase begins, place 1 energy counter here (to a maximum of 3).\n<b>Interrupt</b>: When a boost card is turned faceup, remove 1 energy counter here → cancel all icons ([boost] and [star]) on that card, discard it, and draw a new boost card.",
         "thwart": 2,
         "traits": "Eternal.",
         "type_code": "hero"
@@ -1646,7 +1646,7 @@
         "resource_energy": 1,
         "set_code": "sprite_by_bluehg",
         "set_position": 1,
-        "text": "<b>Hero Interrupt</b> <i>(attack/thwart)</i>: When a boost card is turned faceup, discard Illusion Casting &rarr; cancel that card's \"Boost\" ability and all of its boost icons ([boost]), then discard it. Deal X damage to an enemy or remove X threat from a scheme, where X is equal to the amount of boost icons canceled.",
+        "text": "<b>Hero Interrupt</b> <i>(attack/thwart)</i>: When a boost card is turned faceup, discard Illusion Casting → cancel that card's \"Boost\" ability and all of its boost icons ([boost]), then discard it. Deal X damage to an enemy or remove X threat from a scheme, where X is equal to the amount of boost icons canceled.",
         "traits": "Attack. Preparation. Thwart.",
         "type_code": "upgrade"
     },
@@ -1664,7 +1664,7 @@
         "resource_mental": 1,
         "set_code": "sprite_by_bluehg",
         "set_position": 3,
-        "text": "<b>Hero Response</b>: After you cancel an activation, boost icons ([boost]), or a card effect or ability, place 1 energy counter on Sprite.\n<b>Hero Action</b>: Remove 3 energy counters from Sprite and exhaust Master Storyteller &rarr; shuffle 1 card from your discard pile into your deck.",
+        "text": "<b>Hero Response</b>: After you cancel an activation, boost icons ([boost]), or a card effect or ability, place 1 energy counter on Sprite.\n<b>Hero Action</b>: Remove 3 energy counters from Sprite and exhaust Master Storyteller → shuffle 1 card from your discard pile into your deck.",
         "traits": "Skill.",
         "type_code": "upgrade"
     },
@@ -1704,7 +1704,7 @@
         "position": 98,
         "quantity": 1,
         "set_code": "thena_by_bluehg",
-        "text": "<i>Armory of Idea</i> — <b>Action</b>: Discard a restricted upgrade you control &rarr; play another restricted upgrade from your discard pile, reducing its cost by the printed cost of the discarded card. (Limit once per round.)",
+        "text": "<i>Armory of Idea</i> — <b>Action</b>: Discard a restricted upgrade you control → play another restricted upgrade from your discard pile, reducing its cost by the printed cost of the discarded card. (Limit once per round.)",
         "thwart": 1,
         "traits": "Eternal. Soldier.",
         "type_code": "hero"
@@ -1833,7 +1833,7 @@
         "resource_mental": 1,
         "set_code": "thena_by_bluehg",
         "set_position": 1,
-        "text": "Restricted.\n<b>Hero Response</b> <i>(thwart)</i>: After your hero attacks and defeats an enemy, exhaust Transformed Halberd &rarr; remove 2 threat from a scheme.",
+        "text": "Restricted.\n<b>Hero Response</b> <i>(thwart)</i>: After your hero attacks and defeats an enemy, exhaust Transformed Halberd → remove 2 threat from a scheme.",
         "traits": "Superpower. Weapon.",
         "type_code": "upgrade"
     },
@@ -1852,7 +1852,7 @@
         "resource_energy": 1,
         "set_code": "thena_by_bluehg",
         "set_position": 2,
-        "text": "Restricted.\n<b>Hero Response</b> <i>(attack)</i>: After your hero defends against an enemy attack, exhaust Transformed Spear &rarr; deal 3 damage to an enemy.",
+        "text": "Restricted.\n<b>Hero Response</b> <i>(attack)</i>: After your hero defends against an enemy attack, exhaust Transformed Spear → deal 3 damage to an enemy.",
         "traits": "Superpower. Weapon.",
         "type_code": "upgrade"
     },
@@ -1871,7 +1871,7 @@
         "resource_physical": 1,
         "set_code": "thena_by_bluehg",
         "set_position": 3,
-        "text": "Restricted.\n<b>Hero Response</b>: After your hero attacks and defeats an enemy, exhaust Transformed Sword &rarr; ready your hero or draw 1 card.",
+        "text": "Restricted.\n<b>Hero Response</b>: After your hero attacks and defeats an enemy, exhaust Transformed Sword → ready your hero or draw 1 card.",
         "traits": "Superpower. Weapon.",
         "type_code": "upgrade"
     },
@@ -1911,7 +1911,7 @@
         "position": 111,
         "quantity": 1,
         "set_code": "eros_by_bluehg",
-        "text": "<i>Basic Instincts</i> — <b>Action</b>: Spend [mental][mental] resources &rarr; place 1 energy counter here. (Limit once per round.)\n<b>Interrupt</b>: When Eros thwarts, remove 1 energy counter here &rarr; confuse a minion. You may remove 1 additional energy counter to confuse the villain, instead.",
+        "text": "<i>Basic Instincts</i> — <b>Action</b>: Spend [mental][mental] resources → place 1 energy counter here. (Limit once per round.)\n<b>Interrupt</b>: When Eros thwarts, remove 1 energy counter here → confuse a minion. You may remove 1 additional energy counter to confuse the villain, instead.",
         "thwart": 2,
         "traits": "Eternal. Guardian.",
         "type_code": "hero"
@@ -2080,7 +2080,7 @@
         "resource_physical": 1,
         "set_code": "eros_by_bluehg",
         "set_position": 3,
-        "text": "Eros gains the [[AVENGER]] trait.\n<b>Hero Response</b>: When you deal damage to a confused enemy, that attack deals +1 damage.\n<b>Hero Action</b>: Discard a confused status card from an enemy and exhaust The Starfox &rarr; ready Eros and draw 1 card.",
+        "text": "Eros gains the [[AVENGER]] trait.\n<b>Hero Response</b>: When you deal damage to a confused enemy, that attack deals +1 damage.\n<b>Hero Action</b>: Discard a confused status card from an enemy and exhaust The Starfox → ready Eros and draw 1 card.",
         "traits": "Title.",
         "type_code": "upgrade"
     },
@@ -2290,7 +2290,7 @@
         "resource_physical": 1,
         "set_code": "jack_of_knives_by_bluehg",
         "set_position": 2,
-        "text": "<b>Hero Interrupt</b>: When you defeat an enemy or a side scheme, discard Assassin's Quarry &rarr; remove threat from a scheme equal to the number of boost icons ([boost]) on the defeated card, or attach it to Hall of Blades instead of discarding it. Ready Jack of Blades.",
+        "text": "<b>Hero Interrupt</b>: When you defeat an enemy or a side scheme, discard Assassin's Quarry → remove threat from a scheme equal to the number of boost icons ([boost]) on the defeated card, or attach it to Hall of Blades instead of discarding it. Ready Jack of Blades.",
         "traits": "Tactic.",
         "type_code": "upgrade"
     },
@@ -2330,7 +2330,7 @@
         "position": 139,
         "quantity": 1,
         "set_code": "kingo_by_bluehg",
-        "text": "<b>Response</b>: When your turn begins, place 1 energy counter here (to a maximum of 6).\n<b>Interrupt</b>: When you attack an enemy, remove any number of energy counters here &rarr; that attack deals +1 damage to that enemy for each energy counter removed this way.",
+        "text": "<b>Response</b>: When your turn begins, place 1 energy counter here (to a maximum of 6).\n<b>Interrupt</b>: When you attack an enemy, remove any number of energy counters here → that attack deals +1 damage to that enemy for each energy counter removed this way.",
         "thwart": 1,
         "traits": "Eternal.",
         "type_code": "hero"
@@ -2480,7 +2480,7 @@
         "resource_physical": 1,
         "set_code": "kingo_by_bluehg",
         "set_position": 1,
-        "text": "<b>Hero Action</b> <i>(attack)</i>: Exhaust Kingo &rarr; deal 9 damage to an enemy. This attack gains overkill. Place 1 energy counter on Kingo (to a maximum of 6) for each [physical] resource spent to play this card.",
+        "text": "<b>Hero Action</b> <i>(attack)</i>: Exhaust Kingo → deal 9 damage to an enemy. This attack gains overkill. Place 1 energy counter on Kingo (to a maximum of 6) for each [physical] resource spent to play this card.",
         "traits": "Attack. Superpower.",
         "type_code": "event"
     },
@@ -2544,7 +2544,7 @@
         "quantity": 1,
         "set_code": "eternal_allies_by_bluehg",
         "set_position": 2,
-        "text": "Immortal. Setup. Signature (Snakelike Cunning).\n<b>Response</b>: After a player side scheme is defeated, exhaust Druig and deal him 1 damage &rarr; draw 1 card. Draw 1 additional card if there are 3 or more player side schemes in the victory display.",
+        "text": "Immortal. Setup. Signature (Snakelike Cunning).\n<b>Response</b>: After a player side scheme is defeated, exhaust Druig and deal him 1 damage → draw 1 card. Draw 1 additional card if there are 3 or more player side schemes in the victory display.",
         "thwart": 1,
         "thwart_cost": 1,
         "traits": "Eternal.",
@@ -2568,7 +2568,7 @@
         "quantity": 1,
         "set_code": "eternal_allies_by_bluehg",
         "set_position": 3,
-        "text": "Immortal. Setup. Signature (Stellar Shot).\n[star] <b>Response</b>: After Eros attacks and damages an enemy, spend [mental][mental][mental] or [wild][wild] resources &rarr; confuse that enemy. (Limit once per round.)",
+        "text": "Immortal. Setup. Signature (Stellar Shot).\n[star] <b>Response</b>: After Eros attacks and damages an enemy, spend [mental][mental][mental] or [wild][wild] resources → confuse that enemy. (Limit once per round.)",
         "thwart": 0,
         "thwart_cost": 1,
         "traits": "Eternal. Guardian.",
@@ -2591,7 +2591,7 @@
         "quantity": 1,
         "set_code": "eternal_allies_by_bluehg",
         "set_position": 4,
-        "text": "Immortal. Setup. Signature (Gigaton Blow).\n<b>Hero Action</b>: Exhaust Gilgamesh and spend [physical][physical] resources &rarr; ready an [[ETERNAL]] character.",
+        "text": "Immortal. Setup. Signature (Gigaton Blow).\n<b>Hero Action</b>: Exhaust Gilgamesh and spend [physical][physical] resources → ready an [[ETERNAL]] character.",
         "thwart": 0,
         "thwart_cost": 1,
         "traits": "Eternal.",
@@ -2664,7 +2664,7 @@
         "quantity": 1,
         "set_code": "eternal_allies_by_bluehg",
         "set_position": 7,
-        "text": "Immortal. Setup. Signature (Riposte).\n<b>Response</b>: When your turn begins, place 1 energy counter here (to a maximum of 6).\n<b>Interrupt</b>: When Kingo attacks, remove 3 charge counters from Kingo &rarr; he gets +1 ATK for this attack.",
+        "text": "Immortal. Setup. Signature (Riposte).\n<b>Response</b>: When your turn begins, place 1 energy counter here (to a maximum of 6).\n<b>Interrupt</b>: When Kingo attacks, remove 3 charge counters from Kingo → he gets +1 ATK for this attack.",
         "thwart": 0,
         "thwart_cost": 1,
         "traits": "Eternal.",
@@ -2687,7 +2687,7 @@
         "quantity": 1,
         "set_code": "eternal_allies_by_bluehg",
         "set_position": 8,
-        "text": "Immortal. Setup. Signature (Thousand Strikes).\n<b>Response</b>: After Makkari readies during your turn &rarr; heal 1 damage from her. (Limit thrice per round.)",
+        "text": "Immortal. Setup. Signature (Thousand Strikes).\n<b>Response</b>: After Makkari readies during your turn → heal 1 damage from her. (Limit thrice per round.)",
         "thwart": 1,
         "thwart_cost": 1,
         "traits": "Eternal.",
@@ -2734,7 +2734,7 @@
         "quantity": 1,
         "set_code": "eternal_allies_by_bluehg",
         "set_position": 10,
-        "text": "Immortal. Setup. Signature (Matter Manipulation).\n<b>Resource</b>: When you generate a [star] resource, exhaust Sersi and deal 1 damage to her &rarr; generate an additional [star] resource.",
+        "text": "Immortal. Setup. Signature (Matter Manipulation).\n<b>Resource</b>: When you generate a [star] resource, exhaust Sersi and deal 1 damage to her → generate an additional [star] resource.",
         "thwart": 1,
         "thwart_cost": 1,
         "traits": "Avenger. Eternal.",
@@ -2780,7 +2780,7 @@
         "quantity": 1,
         "set_code": "eternal_allies_by_bluehg",
         "set_position": 12,
-        "text": "Immortal. Setup. Signature (Transformed Halberd, Transformed Spear, or Tranformed Sword).\n<b>Action</b>: Exhaust Thena &rarr; ready a restricted upgrade.",
+        "text": "Immortal. Setup. Signature (Transformed Halberd, Transformed Spear, or Tranformed Sword).\n<b>Action</b>: Exhaust Thena → ready a restricted upgrade.",
         "thwart": 0,
         "thwart_cost": 1,
         "traits": "Eternal. Soldier.",

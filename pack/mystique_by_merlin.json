@@ -301,7 +301,7 @@
         "resource_energy": 1,
         "set_code": "mystique_by_merlin",
         "set_position": 15,
-        "text": "<b>Hero interrupt</b> (<i>defense</i>): When you would take any amount of damage, prevent 3 of that damage. If the Friend shapeshift form upgrade is faceup, draw 1 card.\n<i>“Surprise!”</i>",
+        "text": "<b>Hero Interrupt</b> (<i>defense</i>): When you would take any amount of damage, prevent 3 of that damage. If the Friend shapeshift form upgrade is faceup, draw 1 card.\n<i>“Surprise!”</i>",
         "traits": "Defense. Shapeshifter.",
         "type_code": "event"
     },

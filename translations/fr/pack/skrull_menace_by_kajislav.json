@@ -433,7 +433,7 @@
 	{
 		"code": "500988",
 		"name": "Gemme Sy-Torak",
-		"text": "Jouez cette carte sous le contrôle de n’importe quel joueur.\nVous gagnez +3 points de vie.\nVotre héros gagne +1 ATQ.\n<b>Interruption Forcée</b> : quand votre deck est vide, dépensez une ressource [energy] . Sinon, défaussez la Gemme Sy-Torak.",
+		"text": "Jouez cette carte sous le contrôle de n’importe quel joueur.\nVous gagnez +3 points de vie.\nVotre héros gagne +1 ATQ.\n<b>Interruption forcée</b> : quand votre deck est vide, dépensez une ressource [energy] . Sinon, défaussez la Gemme Sy-Torak.",
 		"traits": "Artefact."
 	}
 ]

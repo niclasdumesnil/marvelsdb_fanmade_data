@@ -254,7 +254,7 @@
         "resource_physical": 1,
         "set_code": "red_hulk_by_merlin",
         "set_position": 17,
-        "text": "You get +4 health points.\n<b>Hero interrupt</b>: When you would take any amount of damage, exhaust Enhanced Stamina → prevent 1 of that damage.",
+        "text": "You get +4 health points.\n<b>Hero Interrupt</b>: When you would take any amount of damage, exhaust Enhanced Stamina → prevent 1 of that damage.",
         "traits": "Condition. Gamma.",
         "type_code": "upgrade"
     },

@@ -23,7 +23,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "sentry_by_transience",
-        "text": "<i>L'explosion d'un million de soleils</i> &mdash; <b>Ressource</b> : ajoutez X jetons Ombre sur l'Ennemi int&#233;rieur (jusqu'à un maximum de 3) → piochez X carte. (Limite d'une fois par round.)",
+        "text": "<i>L'explosion d'un million de soleils</i> — <b>Ressource</b> : ajoutez X jetons Ombre sur l'Ennemi intérieur (jusqu'à un maximum de 3) → piochez X carte. (Limite d'une fois par round.)",
         "thwart": 1,
         "traits": "Avenger.",
         "type_code": "hero"
@@ -42,7 +42,7 @@
         "quantity": 1,
         "recover": 5,
         "set_code": "sentry_by_transience",
-        "text": "<b>Mise en place</b> : mettez en jeu l'Ennemi int&#233;rieur. Cherchez Lindy Reynolds dans votre deck ou votre pile de défausse et ajoutez-la à votre main.<i> (mélangez votre deck)</i>\n<i>Reprendre le contr&#244;le</i> &mdash; <b>Action</b>: inclinez Robert Reynolds, retirez 3 jetons Ombre de l'Ennemi Int&#233;rieur. (Limite d'une fois par round.)",
+        "text": "<b>Mise en place</b> : mettez en jeu l'Ennemi intérieur. Cherchez Lindy Reynolds dans votre deck ou votre pile de défausse et ajoutez-la à votre main.<i> (mélangez votre deck)</i>\n<i>Reprendre le contrôle</i> — <b>Action</b>: inclinez Robert Reynolds, retirez 3 jetons Ombre de l'Ennemi Intérieur. (Limite d'une fois par round.)",
         "traits": "Civil.",
         "type_code": "alter_ego"
     },
@@ -58,7 +58,7 @@
         "quantity": 1,
         "set_code": "sentry_by_transience",
         "set_position": 1,
-        "text": "Permanent.<br><b>R&#233;ponse forc&#233;e</b> : apr&#232;s avoir plac&#233; un jeton Ombre ici, si le nombre de jetons Ombre est au moins &#233;gal &#224; 10 et si Voïd n'est pas en jeu  → cherchez la manigance annexe L'arrivée des Ténèbres dans la zone &quot;mis de c&#244;t&#233;&quot; et r&#233;v&#233;lez-la. M&#233;langez dans le deck Rencontre les cartes restantes de votre set de rencontre N&#233;m&#233;sis mis de c&#244;t&#233;.",
+        "text": "Permanent.<br><b>Réponse forcée</b> : après avoir placé un jeton Ombre ici, si le nombre de jetons Ombre est au moins égal à 10 et si Voïd n'est pas en jeu  → cherchez la manigance annexe L'arrivée des Ténèbres dans la zone \"mis de côté\" et révélez-la. Mélangez dans le deck Rencontre les cartes restantes de votre set de rencontre Némésis mis de côté.",
         "type_code": "upgrade"
     },
     {
@@ -74,7 +74,7 @@
         "resource_physical": 1,
         "set_code": "sentry_by_transience",
         "set_position": 2,
-        "text": "<b>Action de h&#233;ros</b> <i>(attaque)</i> : ajoutez X jetons Ombre sur Ennemi int&#233;rieur (jusqu'&#224; un maximum de 3). Infligez &#224; un ennemi<br>3 d&#233;g&#226;ts pour chaque jeton ainsi ajout&#233;. Cette attaque gagne D&#233;ferlement et Per&#231;ant.",
+        "text": "<b>Action de héros</b> <i>(attaque)</i> : ajoutez X jetons Ombre sur Ennemi intérieur (jusqu'à un maximum de 3). Infligez à un ennemi<br>3 dégâts pour chaque jeton ainsi ajouté. Cette attaque gagne Déferlement et Perçant.",
         "traits": "Attaque. Super-pouvoir.",
         "type_code": "event"
     },
@@ -91,7 +91,7 @@
         "resource_physical": 1,
         "set_code": "sentry_by_transience",
         "set_position": 4,
-        "text": "<b>Action de h&#233;ros</b> <i>(attaque)</i> : ajoutez X jetons Ombre sur Ennemi int&#233;rieur (jusqu'&#224; un maximum de 3). Vainquez X sbires non-[[&#233;lite]] en jeu de votre choix.",
+        "text": "<b>Action de héros</b> <i>(attaque)</i> : ajoutez X jetons Ombre sur Ennemi intérieur (jusqu'à un maximum de 3). Vainquez X sbires non-[[élite]] en jeu de votre choix.",
         "traits": "Super-pouvoir.",
         "type_code": "event"
     },
@@ -108,7 +108,7 @@
         "resource_wild": 1,
         "set_code": "sentry_by_transience",
         "set_position": 6,
-        "text": "<b>Action</b> : soignez un nombre de points de vie de votre identit&#233; &#233;gal au nombre de jetons Ombre sur Ennemi int&#233;rieur.",
+        "text": "<b>Action</b> : soignez un nombre de points de vie de votre identité égal au nombre de jetons Ombre sur Ennemi intérieur.",
         "type_code": "event"
     },
     {
@@ -124,7 +124,7 @@
         "resource_mental": 1,
         "set_code": "sentry_by_transience",
         "set_position": 7,
-        "text": "<b>Action</b> : retirez jusqu'&#224; 3 jetons Ombre de Ennemi int&#233;rieur.",
+        "text": "<b>Action</b> : retirez jusqu'à 3 jetons Ombre de Ennemi intérieur.",
         "type_code": "event"
     },
     {
@@ -140,7 +140,7 @@
         "resource_energy": 1,
         "set_code": "sentry_by_transience",
         "set_position": 9,
-        "text": "<b>Action de h&#233;ros</b> <i>(contre)</i> : ajoutez X jetons Ombre sur Ennemi int&#233;rieur (jusqu'&#224; un maximum de 3). Retirez 2 menaces parmi les manigances de votre choix en ignorant les icônes de Crise ([crisis]) pour chaque jeton ainsi ajout&#233;.",
+        "text": "<b>Action de héros</b> <i>(contre)</i> : ajoutez X jetons Ombre sur Ennemi intérieur (jusqu'à un maximum de 3). Retirez 2 menaces parmi les manigances de votre choix en ignorant les icônes de Crise ([crisis]) pour chaque jeton ainsi ajouté.",
         "traits": "Contre. Super-pouvoir.",
         "type_code": "event"
     },
@@ -157,7 +157,7 @@
         "resource_wild": 1,
         "set_code": "sentry_by_transience",
         "set_position": 11,
-        "text": "<b>Interruption</b> <i>(d&#233;fense)</i> : Quand un alli&#233; est cens&#233; subir n'importe quelle quantit&#233; de d&#233;g&#226;ts, inclinez Sentry ou ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur → pr&#233;venez tous les d&#233;g&#226;ts inflig&#233;s &#224; cet alli&#233;.",
+        "text": "<b>Interruption</b> <i>(défense)</i> : Quand un allié est censé subir n'importe quelle quantité de dégâts, inclinez Sentry ou ajoutez 1 jeton Ombre sur Ennemi intérieur → prévenez tous les dégâts infligés à cet allié.",
         "traits": "Super-pouvoir.",
         "type_code": "event"
     },
@@ -175,7 +175,7 @@
         "resource_mental": 1,
         "set_code": "sentry_by_transience",
         "set_position": 12,
-        "text": "Vous pouvez jouer les cartes attach&#233;es &#224; La Tour de guet comme si elles &#233;taient dans votre main.\n<b>Action</b> : inclinez La Tour de guet → attachez une carte événement de votre main à la tour de guet. (jusqu'&#224; 2 cartes maximum peuvent &#234;tre attach&#233;es &#224; La Tour de guet.)",
+        "text": "Vous pouvez jouer les cartes attachées à La Tour de guet comme si elles étaient dans votre main.\n<b>Action</b> : inclinez La Tour de guet → attachez une carte événement de votre main à la tour de guet. (jusqu'à 2 cartes maximum peuvent être attachées à La Tour de guet.)",
         "traits": "Lieu.",
         "type_code": "support"
     },
@@ -196,7 +196,7 @@
         "resource_mental": 1,
         "set_code": "sentry_by_transience",
         "set_position": 13,
-        "text": "<b>Action</b> : inclinez Lindy Reynolds  → retirez 1 jeton Ombre de Ennemi int&#233;rieur.<br>\n<b>R&#233;ponse forc&#233;e</b> : après que Lindy Reynolds a été vaincue, ajoutez 6 jetons Ombre sur Ennemi int&#233;rieur.",
+        "text": "<b>Action</b> : inclinez Lindy Reynolds  → retirez 1 jeton Ombre de Ennemi intérieur.<br>\n<b>Réponse forcée</b> : après que Lindy Reynolds a été vaincue, ajoutez 6 jetons Ombre sur Ennemi intérieur.",
         "thwart": 0,
         "thwart_cost": 0,
         "traits": "Civil.",
@@ -215,7 +215,7 @@
         "resource_physical": 1,
         "set_code": "sentry_by_transience",
         "set_position": 14,
-        "text": "Sentry gagne +1 ATQ et le trait [[aérien]].\nVous gagnez + 4 points de vie.\n<b>R&#233;ponse forc&#233;e</b> : apr&#232;s avoir jou&#233; cette carte, ajoutez 2 jetons Ombre sur Ennemi int&#233;rieur.<br>",
+        "text": "Sentry gagne +1 ATQ et le trait [[aérien]].\nVous gagnez + 4 points de vie.\n<b>Réponse forcée</b> : après avoir joué cette carte, ajoutez 2 jetons Ombre sur Ennemi intérieur.<br>",
         "traits": "Super-pouvoir. Compétence.",
         "type_code": "upgrade"
     },
@@ -232,7 +232,7 @@
         "resource_energy": 1,
         "set_code": "sentry_by_transience",
         "set_position": 15,
-        "text": "<b>Interruption</b> : quand une carte Tra&#238;trise est r&#233;v&#233;l&#233;e du deck Rencontre, annulez ses effets \"<b>Une fois r&#233;v&#233;l&#233;e</b>\". Si vous &#234;tes sous forme d'alter ego, passez sous forme de h&#233;ros. Ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur.",
+        "text": "<b>Interruption</b> : quand une carte Traîtrise est révélée du deck Rencontre, annulez ses effets \"<b>Une fois révélée</b>\". Si vous êtes sous forme d'alter ego, passez sous forme de héros. Ajoutez 1 jeton Ombre sur Ennemi intérieur.",
         "traits": "Super-pouvoir.",
         "type_code": "event"
     },
@@ -249,7 +249,7 @@
         "resource_energy": 2,
         "set_code": "sentry_by_transience",
         "set_position": 16,
-        "text": "<b>Action</b> : Choisissez une option parmi les suivantes :\n - redressez votre identit&#233; → Ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur.\n - retirez 2 jetons Ombre sur Ennemi intérieur.\n\nEnsuite, m&#233;langez cette carte dans votre deck.\n\n<b>R&#233;ponse forc&#233;e</b> : Quand cette carte entre dans votre pile de d&#233;fausse → ajoutez 1 jeton Ombre sur Ennemi int&#233;rieur.",
+        "text": "<b>Action</b> : Choisissez une option parmi les suivantes :\n - redressez votre identité → Ajoutez 1 jeton Ombre sur Ennemi intérieur.\n - retirez 2 jetons Ombre sur Ennemi intérieur.\n\nEnsuite, mélangez cette carte dans votre deck.\n\n<b>Réponse forcée</b> : Quand cette carte entre dans votre pile de défausse → ajoutez 1 jeton Ombre sur Ennemi intérieur.",
         "type_code": "event"
     }
 ]

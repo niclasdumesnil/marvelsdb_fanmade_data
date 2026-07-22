@@ -108,7 +108,7 @@
         "set_code": "vermin_by_nugget",
         "set_position": 4,
         "stage": "1B",
-        "text": "[star] <b>Forced Reponse</b>: After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"<b>Special</b>\" effect on Even More Rats.",
+        "text": "[star] <b>Forced Response</b>: After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"<b>Special</b>\" effect on Even More Rats.",
         "threat": 6,
         "type_code": "main_scheme"
     },
@@ -150,7 +150,7 @@
         "set_code": "vermin_by_nugget",
         "set_position": 5,
         "stage": "2B",
-        "text": "[star] <b>Forced Reponse</b>: After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"Special\" effect on Even More Rats.\n<b>If this scheme is completed, rats have invaded the city and the players lose the game.</b>",
+        "text": "[star] <b>Forced Response</b>: After step one of the villain phase, place 1 threat of each <b><i>RAT</i></b> minion. Resolve the \"Special\" effect on Even More Rats.\n<b>If this scheme is completed, rats have invaded the city and the players lose the game.</b>",
         "threat": 8,
         "type_code": "main_scheme"
     },

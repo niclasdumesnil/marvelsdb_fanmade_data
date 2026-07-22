@@ -1294,7 +1294,7 @@
 		"resource_wild": 1,
 		"set_code": "defender",
 		"set_position": 2,
-		"text": "<b>Hero Reponse</b>: After you thwart, remove 3 threat from among schemes in play. Confuse an enemy. Remove this card from the game and the campaign pool.",
+		"text": "<b>Hero Response</b>: After you thwart, remove 3 threat from among schemes in play. Confuse an enemy. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
 		"type_code": "upgrade"
 	},
@@ -1368,7 +1368,7 @@
 		"resource_wild": 1,
 		"set_code": "peacekeeper",
 		"set_position": 1,
-		"text": "<b>Hero Reponse</b>: After you thwart, remove 3 threat from among schemes in play. Confuse an enemy. Remove this card from the game and the campaign pool.",
+		"text": "<b>Hero Response</b>: After you thwart, remove 3 threat from among schemes in play. Confuse an enemy. Remove this card from the game and the campaign pool.",
 		"traits": "Skill.",
 		"type_code": "upgrade"
 	},
