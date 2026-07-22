@@ -68,7 +68,7 @@
     },
     {
         "code": "44111",
-        "name": "Je peux faire ça toute la journée",
+        "name": "Je peux faire Ça toute la journée",
         "text": "1 max par joueur.\n<b>Interruption</b> : quand votre héros est censé être vaincu, placez 1[per_hero] menace sur la manigance principale et fixez votre compteur de points de vie à 1 à la place. Ensuite, retirez cette carte de la partie.",
         "traits": "Condition."
     },
@@ -159,7 +159,7 @@
         "name": "Elektra",
         "subname": "Elektra Natchios",
         "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nLes attaques d'Elektra gagnent Perçant et À Distance.",
-        "traits": "S.H.I.E.L.D. Hero à Louer."
+        "traits": "Hero à Louer. S.H.I.E.L.D."
     },
     {
         "code": "44125",
@@ -413,7 +413,7 @@
     {
         "code": "44162",
         "flavor": "« C'était une question rhétorique ! » – Deadpool",
-        "name": "\"C'est Tout ce que t'As ?\"",
+        "name": "« C'est Tout ce que t'As ? »",
         "text": "1 max par round.\n<b>Action de héros</b> : cherchez un attachement dans le deck Rencontre. Révélez cet attachement → piochez 3 cartes. (<i>Mélangez le deck Rencontre</i>)."
     },
     {
@@ -497,7 +497,7 @@
     {
         "code": "44175",
         "name": "Manipulations du Multivers",
-        "text": "Mise en place. 1 max par deck.\n<b>Interruption forcée</b> : Quand la partie commence, choisissez 3 cartes différentes, appartenant à une affinité autre que Détermination de votre collection et mettez-les de côté.\n<b>Action</b> : inclinez cette carte et attribuez-vous une carte de rencontre face cachée → cherchez une de ces cartes dans la zone « mis de côté » et ajoutez-la à votre main."
+        "text": "Mise en place. 1 max par deck.\n<b>Interruption forcée</b>  : quand la partie commence, choisissez 3 cartes différentes, appartenant à une affinité autre que Détermination de votre collection et mettez-les de côté.\n<b>Action</b> : inclinez cette carte et attribuez-vous une carte de rencontre face cachée → cherchez une de ces cartes dans la zone « mis de côté » et ajoutez-la à votre main."
     },
     {
         "code": "44176",
@@ -533,7 +533,7 @@
     {
         "code": "44181",
         "flavor": "« Dégainez, et battez-vous comme des MUTANTS ! » – En Sabah Nur",
-        "name": "Entraînement à l'épée",
+        "name": "Entraînement à l'Épée",
         "text": "Attachez cette carte à un allié [[X-Men]]. 1 amélioration [[Entraînement]] max par allié.\n<b>Réponse</b> : après que l'allié attaché a effectué une attaque qui a retiré une carte d'état Tenace d'un ennemi, sonnez cet ennemi.",
         "traits": "Entraînement."
     },
@@ -571,7 +571,7 @@
     },
     {
         "code": "44187",
-        "name": "\"Chope-les, Boom-Boom!\"",
+        "name": "« Chope-les, Boom-Boom ! »",
         "text": "Fugace. (<i>cette carte doit être défaussée du jeu à la fin de la phase</i>)\n<b>Réponse de héros</b> : après que vous avez subi des dégâts, attachez cette carte à un ennemi.\n<b>Interruption</b> : quand cette carte devrait être défaussée de l'ennemi attaché, infligez 1 dégât à chaque ennemi en jeu.",
         "traits": "Super-Pouvoir. Tactique."
     },

@@ -2,7 +2,7 @@
     {
         "code": "70701a",
         "name": "Superior Iron Man",
-        "text": "<i>Selfish Guy </i> — <b>Ressource</b> : deal 1 damage to a friendly character → generate a [wild] resource. (Limit once per phase).",
+        "text": "« Quoi les autres ? » — <b>Ressource</b> : infligez 1 dégât à un personnage ami → générez une ressource [wild]. (Limite d'une fois par phase.)",
         "traits": "Aérien. Avenger."
     },
     {
@@ -20,57 +20,62 @@
     {
         "code": "70703",
         "name": "Teen Abomination",
-        "subname": "jamie",
-        "text": "Teen Abomination enters play with 4 rage counters on him.\n<b>Réponse forcée</b> : After Teen Abomination attacks, remove 1 rage counter from him.\n[star] Teen Abomination gets +1 ATK for each rage counter token here.",
+        "subname": "Jamie",
+        "text": "Teen Abomination entre en jeu avec 4 jetons Rage sur lui.\n<b>Réponse forcée</b> : après que Teen Abomination a attaqué, retirez lui 1 jeton Rage.\n[star] Teen Abomination gagne +1 ATQ pour chaque jeton Rage sur lui.",
         "traits": "Gamma."
     },
     {
         "code": "70704",
         "name": "Daniel Hall",
-        "text": "Utilisations (3 money counters).\n<b>Ressource</b> : remove 1 money counter from Daniel Hall and exhaust him → generate a [wild] resource.\n<b>Interruption forcée</b> : when you would remove the last counter from here, discard 1 card from your hand.",
-        "traits": "Persona."
+        "text": "Utilisation (3 jetons Flouze).\n<b>Ressource</b> : retirez 1 jeton Flouze de Daniel Halls et inclinez-le → générez une ressource [wild].\n<b>Interruption forcée</b> : quand vous êtes censé retirer le dernier jeton de cette carte, choisissez une carte de votre main et défaussez-la.",
+        "traits": "Individu."
     },
     {
         "code": "70705",
         "name": "Claire Mooney",
-        "text": "Utilisations (3 money counters).\n<b>Ressource</b> : remove 1 money counter from Claire Mooney and exhaust her → generate a [wild] resource.\n<b>Interruption forcée</b> : when you would remove the last counter from here, discard 1 card from your hand.",
-        "traits": "Persona."
+        "text": "Utilisation (3 jetons Flouze).\n<b>Ressource</b> : retirez 1 jeton Flouze de Claire Mooney et inclinez-la → générez une ressource [wild].\n<b>Interruption forcée</b> : quand vous êtes censé retirer le dernier jeton de cette carte, choisissez une carte de votre main et défaussez-la.",
+        "traits": "Individu."
     },
     {
         "code": "70706",
         "name": "Mason Thomas",
-        "text": "Utilisations (3 money counters).<b>\nResource</b> : remove 1 money counter from Mason Thomas and exhaust him → generate a [wild] resource.<b>\nForced Interrupt</b> : when you would remove the last counter from here, discard 1 card from your hand.",
-        "traits": "Persona."
+        "text": "Utilisation (3 jetons Flouze).\n<b>Ressource</b> : retirez 1 jeton Flouze de Mason Thomas et inclinez-le → générez une ressource [wild].\n<b>Interruption forcée</b> : quand vous êtes censé retirer le dernier jeton de cette carte, choisissez une carte de votre main et défaussez-la.",
+        "traits": "Individu."
     },
     {
         "code": "70707",
+        "flavor": "« Tony, je crains que cette idée ne soit pas compatible des droits humains. » – Pepper",
         "name": "Pepper Potts",
-        "text": "<b>Action</b> : Exhaust Pepper Potts → remove 1 threat from a scheme ignoring the crisis icon ([crisis]<b>)</b>.\n<i>« I can see some pretty big basic-human-rights-sized holes in this idea. » — Pepper</i>",
-        "traits": "Persona."
+        "text": "<b>Action</b> : inclinez Pepper Pots → Retirez 1 menace d'une manigance en ignorant l'icône de crise ([crisis]).",
+        "traits": "Individu."
     },
     {
         "code": "70708",
+        "flavor": "« Bienvenue à la fête ! »",
         "name": "Stark Island",
-        "text": "<b>Action d'alter ego</b> : Exhaust Stark Island → search your deck and discard pile for a [[persona]] support and put it into play paying its cost. (Shuffle your deck.)\n<i>« It is built on the old Alcatraz Island. »</i>",
-        "traits": "Location."
+        "text": "<b>Action d'alter ego</b> : incliner Stark Island → recherchez dans votre deck et dans votre pile de défausse un soutien [[individu]] et mettez-le en jeu sous votre contrôle en payant son coût (<i>mélangez votre deck</i>).",
+        "traits": "Lieu."
     },
     {
         "code": "70709",
+        "flavor": "« Le réseau anti-crime du futur ! » – Tony",
         "name": "Iron Sight",
-        "text": "Utilisations (2[per_hero] spy counters).<b>\nInterrupt</b> : when a boost card is turned faceup, exhaust Iron Sight and remove 1 spy counter → cancel the boost icons on that card.\n<i>« A network of drone cameras, designed to protect all of you, »</i>",
-        "traits": "Item. Tech."
+        "text": "Utilisation (2[per_hero] jetons Observation).\n<b>Interruption</b> : quand une carte de boost est retournée face visible lors d'une activation, retirez 1 jeton Observation de Iron Sight et inclinez-la → annulez les icônes de boost de cette carte.",
+        "traits": "Objet. Tech."
     },
     {
         "code": "70710",
-        "name": "Endo-Sym Spare",
-        "text": "<b>Action</b> : Exhaust Endo-Sym Spare → search your discard pile for an Endo-Sym Matter resource card and shuffle it into your deck.\n<i>« The Endo-Sym armor is made of liquid smart metal that hardens instantly ! » — Tony.</i>",
-        "traits": "Psionic. Tech."
+        "flavor": "Métal liquide à durcissement instantané.",
+        "name": "Réserve Endo-Sym",
+        "text": "<b>Action d'alter ego</b> : inclinez Réserve Endo-Sym → recherchez dans votre pile de défausse une carte ressource Matière Endo-Sym et mélangez-la dans votre deck.",
+        "traits": "Psionique. Tech."
     },
     {
         "code": "70711",
-        "name": "Spectacular Blast",
-        "text": "<b>Action</b> (<i>attaque/contre</i>) : deal 3 damage to an enemy. Remove 2 threat from a scheme.\n<i>« I won't hold this little outburst against you. »\n— Tony.</i>",
-        "traits": "Attack. Superpower. Thwart."
+        "flavor": "« Il suffit ! » – Tony.",
+        "name": "Rayon d'Énergie",
+        "text": "<b>Action de héros</b> (<i>attaque/contre</i>) : infligez 3 dégâts à un ennemi. Retirez 2 menaces d'une manigance.",
+        "traits": "Attaque. Super-Pouvoir. Contre."
     },
     {
         "code": "70714",
@@ -80,7 +85,7 @@
     },
     {
         "code": "70716",
-        "name": "Endo-Sym Matter",
-        "text": "Double the number of resources this card generates when paying for an identity card. <i>(including for capacities on those cards.)</i>"
+        "name": "Matière Endo-Sym",
+        "text": "Doublez le nombre de ressources générées par cette carte lorsque vous payez pour les cartes spécifiques à votre identité (<i>y compris pour le coût des capacités sur ces cartes</i>)."
     }
 ]
