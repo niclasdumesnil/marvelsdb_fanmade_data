@@ -280,48 +280,48 @@
 		"name": "Mockingbird",
 		"text": "<b>Réponse</b> : après que Crusader est entré en jeu, choisissez un joueur → infligez 1 dégât au méchant et à chaque sbire engagé avec ce joueur. Piochez une carte pour chaque ennemi vaincu ainsi.",
 		"flavor": "<i>\"Veux-tu toujours être un super-héros ?\"</i>",
-		"traits": "INITIATIVE. SKRULL."
+		"traits": "Initiative. Skrull."
 	},
 	{
 		"code": "500964",
 		"name": "Mockingbird",
 		"text": "Jazinda ne compte pas dans votre limite d’alliés.\nTant que Jazinda est inclinée, votre héros gagne +1 CTR.",
 		"flavor": "<i>\"Je ne le nie pas, je le déteste, c'est tout.\"</i>",
-		"traits": "SKRULL."
+		"traits": "Skrull."
 	},
 	{
 		"code": "500965",
 		"name": "Super-Skrull",
 		"text": "Tenacité.\n[star] Paibok gagne +1 CTR et +1 ATQ pour chaque carte traîtrise qui lui est attachée.\n<b>Réponse</b> : après qu’une carte traîtrise a été défaussée, subissez 1 dégât → attachez ici cette carte, face cachée (pour un maximum de 2).",
-		"traits": "SKRULL. S.W.O.R.D."
+		"traits": "Skrull. S.W.O.R.D."
 	},
 	{
 		"code": "500966",
 		"name": "Lyja",
 		"text": "<b>Réponse</b> : quand Skymax entre en jeu, mélangez tous les alliés de votre pile de défausse dans votre deck.",
 		"flavor": "<i>\"J’ai déjà perdu mon monde natal. Je ne perdrai pas la Terre face à votre minable révolte.\"</i>",
-		"traits": "ESCADRON SUPRÊME. SKRULL."
+		"traits": "Escadron Suprême. Skrull."
 	},
 	{
 		"code": "500967",
 		"name": "Super-Skrull",
 		"subname": "Kl'rt",
 		"text": "[star] Super-Skrull gagne +1 CTR et +1 ATQ pour chaque carte [[super-pouvoir]] différente qui lui est attachée.\n<b>Réponse</b> : après qu’une carte [[super-pouvoir]] a été placée dans une pile de défausse, attachez ici cette carte, face cachée (pour un maximum de 4).",
-		"traits": "GARDIEN. SKRULL."
+		"traits": "Gardien. Skrull."
 	},
 	{
 		"code": "500968",
 		"name": "Lyja",
 		"text": "[star] <b>Réponse</b> : après que \"Chilly McHotPants” vous a attaqué, piochez une carte. Si vous n’avez subi aucun dégât de cette attaque, piochez une carte.",
 		"flavor": "“Je vais congeler ton misérable petit corps, puis je vais le concasser en petits morceaux que j’utiliserai pour garder mes boissons au frais.\"</i>",
-		"traits": "SKRULL."
+		"traits": "Skrull."
 	},
 	{
 		"code": "500969",
 		"name": "Lyja",
 		"text": "<b>Interruption</b> : quand Xavin entre en jeu, défaussez des cartes du dessus de votre deck jusqu’à ce qu’un évènement avec une capacité",
 		"flavor": "<i>\"Action de héros\" soit défaussé. Vous pouvez résoudre cette capacité \"Action de héros\".\n“Mon nom est Xavin, apprenti Super-Skrull.\"</i>",
-		"traits": "FUGITIF. SKRULL."
+		"traits": "Fugitif. Skrull."
 	},
 	{
 		"code": "500970",
@@ -370,7 +370,7 @@
 		"code": "500978",
 		"name": "Cadre K",
 		"text": "<b>Action</b> : inclinez le Cadre K → retirez 1 menace d’une manigance.\n“C’est le Cadre K. Ils sont une… fraction impure de la population Skrull. Comme les X-Men de la Terre, ils sont nés avec des pouvoirs et des compétences au-delà des espèces Skrull.” → K’thron",
-		"traits": "SKRULL."
+		"traits": "Skrull."
 	},
 	{
 		"code": "500979",
@@ -382,58 +382,58 @@
 		"code": "500980",
 		"name": "Princesse Anelle",
 		"text": "Alliance.\nX est égal au nombre total de joueurs et d’ennemis [[skrull]] en jeu.\n<b>Réponse</b> : après la fin de la phase joueur, retirez Princesse Anelle de la partie → passez la phase du méchant.",
-		"traits": "INDIVIDU. SKRULL."
+		"traits": "Individu. Skrull."
 	},
 	{
 		"code": "500981",
 		"name": "Vaisseau de Guerre Skrull",
 		"text": "Jouez cette carte uniquement si vous contrôlez un allié [[skrull]].\nRessource de héros : inclinez le Vaisseau de Guerre Skrull → générez une ressource w pour n’importe quel joueur.",
 		"flavor": "“Vous savez qui je suis. Vous avez vu ce que je peux faire. Je veux être du côté Skrull.” - Deadpool",
-		"traits": "SKRULL. VÉHICULE."
+		"traits": "Skrull. Véhicule."
 	},
 	{
 		"code": "500982",
 		"name": "Kreveurs de Skrulls",
 		"text": "<b>Action de héros</b> : inclinez les Kreveurs de Skrulls → infligez 1 dégât à un sbire [[skrull]]. Si ce sbire est vaincu par cet effet, redressez les Kreveurs de Skrulls.",
 		"flavor": "“Nous sommes les Kreveurs de Skrulls. C’est notre façon de faire.” - Ryder",
-		"traits": "CLAN."
+		"traits": "Clan."
 	},
 	{
 		"code": "500983",
 		"name": "Lunettes de 3-D Man",
 		"text": "Attachez cette carte à un allié non-[[skrull]].\n<b>Interruption</b> : quand l’allié attaché attaque un ennemi [[skrull]], cet allié ne subit pas de dégâts consécutifs.",
-		"traits": "OBJET. TECH."
+		"traits": "Objet. Tech."
 	},
 	{
 		"code": "500984",
 		"name": "Masque Inhibiteur",
 		"text": "Attachez cette carte à un ennemi [[skrull]].\nTemporaire.\nConsidérez la boîte de texte de l’ennemi attaché comme étant vide.",
 		"flavor": "“Le masque Inhibiteur, il est verrouillé. Je, je ne peux plus changer.” - Impératrice R’Klll",
-		"traits": "OBJET."
+		"traits": "Objet."
 	},
 	{
 		"code": "500985",
 		"name": "Ultime Annulateur",
 		"text": "Attachez cette carte à un ennemi [[skrull]].\nTemporaire.\nL’ennemi attaché ne peut pas s’activer.\nTant que l’Annulateur est attaché au méchant, il gagne 1[per_hero] icône d’aléas ([hazard]).",
-		"traits": "OBJET. TECH."
+		"traits": "Objet. Tech."
 	},
 	{
 		"code": "500986",
 		"name": "Appareil de Réversion",
 		"text": "Jouez cette carte sous le contrôle de n’importe quel joueur.\nChaque sbire [[skrull]] engagé avec vous gagne -1 MNG.",
 		"flavor": "“Je vais le prouver... en rétablissant ta forme initiale” → Super-Skrull",
-		"traits": "OBJET. TECH."
+		"traits": "Objet. Tech."
 	},
 	{
 		"code": "500987",
 		"name": "Métamorphe Skrull",
 		"text": "Jouez cette carte sous le contrôle de n’importe quel joueur.\nVotre identité gagne le trait [[skrull]].\n<b>Interruption</b> : quand vous êtes censé être vaincu, fixez votre compteur de points de vie à 1 à la place. Ensuite, défaussez cette carte.",
-		"traits": "CONDITION."
+		"traits": "Condition."
 	},
 	{
 		"code": "500988",
 		"name": "Gemme Sy-Torak",
 		"text": "Jouez cette carte sous le contrôle de n’importe quel joueur.\nVous gagnez +3 points de vie.\nVotre héros gagne +1 ATQ.\n<b>Interruption Forcée</b> : quand votre deck est vide, dépensez une ressource [energy] . Sinon, défaussez la Gemme Sy-Torak.",
-		"traits": "ARTEFACT."
+		"traits": "Artefact."
 	}
 ]

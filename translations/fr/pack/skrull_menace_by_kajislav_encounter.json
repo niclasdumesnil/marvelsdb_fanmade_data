@@ -9,7 +9,7 @@
         "flavor": "« Your empire will shatter, and the last light will dim. » </i>",
         "name": "Empress R'Klll",
         "text": "Vilenie.\n[star] Empress R'Klll's attacks gain Perçant.<b>\nWhen Revealed</b>  : empress R'Klll attacks each player in hero form.\n<i>(Hulkling's némésis minion.)</i>",
-        "traits": "Elite. Skrull."
+        "traits": "Élite. Skrull."
     },
     {
         "code": "500733",
@@ -42,7 +42,7 @@
         "code": "500766",
         "name": "Paibok",
         "text": "Ténacité.\n[star] Paibok gets +1 SCH and +1 ATK for each [[treachery]] card attached to him.<b>\nForced Interrupt</b>  : when a [[treachery]] card would be discarded, attach it facedown to Paibok instead.\n<i>(Lyja's némésis minion.)</i>",
-        "traits": "Elite. Skrull."
+        "traits": "Élite. Skrull."
     },
     {
         "code": "500767",
@@ -282,7 +282,7 @@
         "code": "500799",
         "name": "Intelligentsia",
         "text": "Chaque autre ennemi [[skrull]] gagne +1 MNG.\n[star] <b>Interruption forcée</b> : quand Intelligentsia devrait attaquer, elle manigance à la place.\n[acceleration]",
-        "traits": "SKRULL."
+        "traits": "Skrull."
     },
     {
         "code": "500800",
@@ -328,26 +328,26 @@
         "flavor": "« Il nous aime vraiment. L'Empire vivra. » – Dro'ge",
         "name": "Scientifique Skrull",
         "text": "[acceleration]\n<hr>\n<hr>[star] <b>Boost</b> : soignez 2 dégâts du méchant à la fin de cette activation.",
-        "traits": "GÉNIE. SKRULL."
+        "traits": "Génie. Skrull."
     },
     {
         "code": "500808",
         "name": "Espion Skrull",
         "text": "<b>Une fois révélée</b> : défaussez 1 carte prise au hasard dans votre main.\n<hr>\n<hr>[star] <b>Boost</b> : défaussez 1 carte prise au hasard dans votre main.",
-        "traits": "ESPION. SKRULL."
+        "traits": "Espion. Skrull."
     },
     {
         "code": "500809",
         "name": "Télépathe Skrull",
         "text": "[star] <b>Interruption forcée</b> : quand le Télépathe Skrull est censé attaquer, il manigance à la place.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une manigance, révélez cette carte.",
-        "traits": "PSIONIQUE. SKRULL."
+        "traits": "Psionique. Skrull."
     },
     {
         "code": "500810",
         "flavor": "« Vous n'auriez pas dû oublier que je suis une Skrull. » – M'lanz",
         "name": "Guerrier Skrull",
         "text": "Garde.\n<hr>\n<hr>[star] <b>Boost</b> : si cette attaque est non défendue, vous êtes sonné.",
-        "traits": "SKRULL."
+        "traits": "Skrull."
     },
     {
         "code": "500811",
@@ -365,14 +365,14 @@
         "flavor": "« S'il était une véritable menace, nous saurions qui il est » – Commandant Ak'strk",
         "name": "Commandant Skrull",
         "text": "Chaque autre sbire [[skrull]] gagne +1 ATQ.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, cette carte gagne +2 icônes de boost ([boost][boost]) pour cette attaque.",
-        "traits": "SKRULL. SOLDAT."
+        "traits": "Skrull. Soldat."
     },
     {
         "code": "500814",
         "flavor": "<i>« Il vous aime ... »</i>",
         "name": "Soldat Skrull",
         "text": "<b>Une fois révélée</b> : placez 2 menaces sur chaque manigance annexe en jeu.\n<hr>\n<hr>[star] <b>Boost</b> : défaussez les 2 cartes du dessus de votre deck.",
-        "traits": "SKRULL. SOLDAT."
+        "traits": "Skrull. Soldat."
     },
     {
         "code": "500815",
@@ -389,21 +389,21 @@
         "flavor": "<i>« Ce n'est pas un vulgaire criminel que vous affrontez. J'ai la puissance combinée des Quatre Fantastiques ! »</i>",
         "name": "Super-Skrull",
         "text": "<b>Réponse forcée</b> : après la résolution de la deuxième étape de la phase du Méchant, mélangez chaque attachement [[super-pouvoir]] en jeu dans le deck [[super-pouvoir]] et révélez la carte du dessus du deck [[super-pouvoir]].",
-        "traits": "SKRULL."
+        "traits": "Skrull."
     },
     {
         "code": "500818",
         "flavor": "<i>« Ce n'est pas un vulgaire criminel que vous affrontez. J'ai la puissance combinée des Quatre Fantastiques ! »</i>",
         "name": "Super-Skrull",
         "text": "<b>Réponse forcée</b> : après la résolution de la deuxième étape de la phase du Méchant, mélangez chaque attachement [[super-pouvoir]] en jeu dans le deck [[super-pouvoir]] et révélez les 2 cartes du dessus du deck [[super-pouvoir]].",
-        "traits": "SKRULL."
+        "traits": "Skrull."
     },
     {
         "code": "500819",
         "flavor": "<i>« Ce n'est pas un vulgaire criminel que vous affrontez. J'ai la puissance combinée des Quatre Fantastiques ! »</i>",
         "name": "Super-Skrull",
         "text": "<b>Réponse forcée</b> : après la résolution de la deuxième étape de la phase du Méchant, mélangez chaque attachement [[super-pouvoir]] en jeu dans le deck [[super-pouvoir]] et révélez les 2 cartes du dessus deck [[super-pouvoir]].",
-        "traits": "SKRULL."
+        "traits": "Skrull."
     },
     {
         "code": "500820a",
@@ -434,28 +434,28 @@
         "flavor": "« Vous n'êtes rien comparé à moi. J'ai plus de pouvoir que vous quatre réunis » – Super-Skrull",
         "name": "Flexibilité",
         "text": "Attachez cette carte à Super-Skrull.\nSuper-Skrull gagne Robuste et ses attaques gagnent À Distance.",
-        "traits": "SUPER-POUVOIR."
+        "traits": "Super-pouvoir."
     },
     {
         "code": "500823",
         "flavor": "« L'invisibilité est l'un des pouvoirs que je possède en tant que Super-Skrull. Un effet secondaire de ce pouvoir me permet de voir ce qui est caché à la vue... » – Super-Skrull",
         "name": "Invisibilité",
         "text": "Attachez cette carte à Super-Skrull.\nEn tant que coût supplémentaire pour attaquer Super-Skrull, vous devez dépenser 1 ressource de n'importe quel type.",
-        "traits": "SUPER-POUVOIR."
+        "traits": "Super-pouvoir."
     },
     {
         "code": "500824",
         "flavor": "« Imbéciles, vous auriez dû fuir pendant que vous en aviez l'occasion ! » – Super-Skrull",
         "name": "Pyrokinésie",
         "text": "Attachez cette carte à Super-Skrull.\n<b>Réponse forcée</b> : après qu'un personnage ami a contré la manigance principale, infligez-lui 1 dégât.\n[star] Les attaques de Super-Skrull gagnent Perçant.",
-        "traits": "SUPER-POUVOIR."
+        "traits": "Super-pouvoir."
     },
     {
         "code": "500825",
         "flavor": "« Avant que j'en finisse, humain, tu me supplieras de te donner une mort rapide et certaine ! » – Super-Skrull",
         "name": "Mimétisme Rocheux",
         "text": "Attachez cette carte à Super-Skrull.\n[star] <b>Interruption forcée</b> : quand Super-Skrull attaque, donnez-lui 1 carte de boost supplémentaire pour cette activation.\n[star] Les attaques de Super-Skrull gagnent Déferlement.",
-        "traits": "SUPER-POUVOIR."
+        "traits": "Super-pouvoir."
     },
     {
         "code": "500826",
@@ -466,28 +466,28 @@
         "code": "500827",
         "name": "Seigneur Kl'rt",
         "text": "Attachez cette carte à Super-Skrull.\n[amplify]\n<b>Action de héros</b> : révélez la carte du dessus du deck [[super-pouvoir]] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : révélez cette carte.",
-        "traits": "tiTRE."
+        "traits": "Titre."
     },
     {
         "code": "500828",
         "errata": "[energy] → sonné au lieu de désorienté. [mental] → désorienté au lieu de sonné [CDC]",
         "name": "Mt'nox",
         "text": "[star] <b>Réponse forcée</b> : après que Mt'nox a effectué une attaque non défendue contre vous, défaussez la carte du dessus de votre deck. Si la ressource imprimée de cette carte est :\n[physical] - Donnez au méchant une carte d'état Tenace.\n[energy] - Vous êtes sonné.\n[mental] - Vous êtes désorienté.\n[wild] - Tous les effets ci-dessus.",
-        "traits": "ÉLITE. MYSTIQUE. SKRULL."
+        "traits": "Élite. Mystique. Skrull."
     },
     {
         "code": "500829",
         "flavor": "<i>« Il suffit d'une pensée... d'une simple bascule mentale... et je deviens un compte à rebours vers l'Apocalypse. »</i>",
         "name": "Praxagora",
         "text": "[star] Les attaques de Praxagora gagnent Déferlement.",
-        "traits": "ÉLITE. ROBOT."
+        "traits": "Élite. Robot."
     },
     {
         "code": "500830",
         "flavor": "« J'espère que tu es prêt à être un héros, R'Kin. Car nous reviendrons en héros ou ne reviendrons pas. » – Super-Skrull",
         "name": "R'kin",
         "text": "<b>Une fois vaincu</b> : défaussez les cartes du dessus du deck Rencontre jusqu'à ce qu'un attachement soit défaussé. Révélez cette carte.",
-        "traits": "GÉNIE. SKRULL."
+        "traits": "Génie. Skrull."
     },
     {
         "code": "500831",
@@ -523,14 +523,14 @@
         "flavor": "<i>« N'importe lequel de ces êtres peut être mon ennemi camouflé. Je ne dois prendre aucun risque… les détruire tous ! »</i>",
         "name": "Bel-Dann",
         "text": "<b>Une fois révélée</b> : cherchez Raksor dans le deck Rencontre et la pile de défausse Rencontre et mettez-le en jeu engagé avec vous.",
-        "traits": "ÉLITE. KREE."
+        "traits": "Élite. Kree."
     },
     {
         "code": "500837",
         "flavor": "<i>« Jamais de la vie je n'aurais pensé combattre aux côtés d'un... Kree ! »</i>",
         "name": "Raksor",
         "text": "<b>Une fois révélée</b> : cherchez Bel-Dann dans le deck Rencontre et la pile de défausse Rencontre et mettez-le en jeu engagé avec vous.",
-        "traits": "ÉLITE. SKRULL."
+        "traits": "Élite. Skrull."
     },
     {
         "code": "500838",
@@ -553,19 +553,19 @@
         "flavor": "<i>« Je peux facilement te tuer à mains nues ! Je suis Paibok, le Power Skrull génétiquement amélioré ! »</i>",
         "name": "Paibok",
         "text": "Ténacité.\nTant que le nombre de cartes [[power]] [[skrull]] attachées à Paibok est égal ou inférieur au nombre de jetons Maîtrise sur lui, les cartes [[power]] [[skrull]] ne peuvent pas être défaussées.",
-        "traits": "SKRULL."
+        "traits": "Skrull."
     },
     {
         "code": "500842",
         "name": "Paibok",
         "text": "Ténacité.\nTant que le nombre de cartes [[power]] [[skrull]] attachées à Paibok est égal ou inférieur au nombre de jetons Maîtrise sur lui, les cartes [[power]] [[skrull]] ne peuvent pas être défaussées.\n<b>Une fois révélée</b> : cherchez dans le deck Rencontre et la pile de défausse Rencontre une carte [[power]] [[skrull]] et révélez-la.",
-        "traits": "SKRULL."
+        "traits": "Skrull."
     },
     {
         "code": "500843",
         "name": "Paibok",
         "text": "Ténacité.\nTant que le nombre de cartes [[power]] [[skrull]] attachées à Paibok est égal ou inférieur au nombre de jetons Maîtrise sur lui, les cartes [[power]] [[skrull]] ne peuvent pas être défaussées.\n<b>Une fois révélée</b> : cherchez dans le deck Rencontre et la pile de défausse Rencontre une carte [[power]] [[skrull]] et révélez-la.",
-        "traits": "SKRULL."
+        "traits": "Skrull."
     },
     {
         "code": "500844a",
@@ -595,66 +595,66 @@
         "flavor": "Agenouillez-vous et suppliez les Skrulls ! – Paibok",
         "name": "Capitaine Paibok",
         "text": "Attachez cette carte à Paibok.\n<b>Action de héros</b> : résolvez la capacité « Boost » de chaque attachement en jeu qui appartient au set de rencontre Paibok → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : soignez 2 dégâts de Paibok.",
-        "traits": "TITRE."
+        "traits": "Titre."
     },
     {
         "code": "500847",
         "name": "Distrait",
         "text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand vous contrez, réduisez de 1 la quantité de menaces retirée par ce contre.\n<b>Action de héros</b> : dépensez les ressources suivantes : [[mm]] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : placez 1 menace sur la manigance principale.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500848",
         "flavor": "Imbécile ! Tu n'étais pas de taille face à mes pouvoirs génétiquement modifiés ! – Paibok",
         "name": "Projection d'Électricité",
         "text": "Attachez cette carte à Paibok.\nPaibok gagne Riposte 1.\n<b>Action de héros</b> : dépensez les ressources suivantes  [[mp]] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : sonnez un personnage que vous contrôlez.",
-        "traits": "POWER SKRULL."
+        "traits": "Power Skrull."
     },
     {
         "code": "500849",
         "name": "Hypnotisé",
         "text": "Attachez cette carte à votre identité.\nComme coût supplémentaire pour changer de forme, vous devez dépenser 1 ressource de n'importe quel type.\n<b>Action de héros</b> : dépensez les ressources suivantes : [energy][energy] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : défaussez 1 carte de votre main.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500850",
         "name": "Contrôle de la Glace",
         "text": "Attachez cette carte à Paibok.\n[star] <b>Réponse forcée</b> : après que Paibok vous a attaqué, inclinez un personnage que vous contrôlez.\n<b>Action de héros</b> : dépensez 3 ressources de n'importe quel type → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : inclinez un personnage que vous contrôlez.",
-        "traits": "POWER SKRULL."
+        "traits": "Power Skrull."
     },
     {
         "code": "500851",
         "name": "Peau Métallique",
         "text": "Attachez cette carte à Paibok et donnez-lui 1G carte d'état Tenace.\nPaibok peut avoir 1per_hero] carte d'état Tenace supplémentaire et les attaques contre Paibok perdent Perçant.\n<b>Action de héros</b> : dépensez les ressources suivantes : [energy][mental] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : donnez à Paibok une carte d'état Tenace",
-        "traits": "POWER SKRULL."
+        "traits": "Power Skrull."
     },
     {
         "code": "500852",
         "flavor": "« Nous les Skrulls sommes des métamorphes. » – Paibok",
         "name": "Métamorphose",
         "text": "Attachez cette carte à Paibok.\nPaibok gagne Robuste et le trait [[aérien]].\n<b>Action de héros</b> : dépensez les ressources suivantes [energy][physical] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : désorientez un personnage que vous contrôlez.",
-        "traits": "POWER SKRULL."
+        "traits": "Power Skrull."
     },
     {
         "code": "500853",
         "flavor": "« Bienvenue dans ta tombe glaciale ! » – Paibok",
         "name": "Piégé dans la Glace",
         "text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand vous attaquez, diminuez de 1 la quantité de dégâts infligée par cette attaque.\n<b>Action de héros</b> : dépensez les ressources suivantes : [physical][physical] → défaussez cette carte.\n<hr>\n<hr>[star] <b>Boost</b> : subissez 1 dégât.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500854",
         "flavor": "<i>« Tu sembles être le moins intellectuellement doté de tes camarades ! »</i>",
         "name": "Devos le Dévastateur",
         "text": "<b>Réponse forcée</b> : après qu'une carte d'état a été placée sur un personnage ami, Devos le Dévastateur s'active contre le joueur qui contrôle ce personnage.",
-        "traits": "ÉLITE."
+        "traits": "Élite."
     },
     {
         "code": "500855",
         "flavor": "« Notre digne objectif ne peut être atteint que si nous conquérons et asservissons tous les autres mondes habités ! »",
         "name": "Général Kalamari",
         "text": "<b>Une fois vaincu</b> : le joueur qui a vaincu le Général Kalamari résout la capacité « <b>Boost</b> » de chaque attachement en jeu qui appartient au set de Rencontre Paibok.",
-        "traits": "ÉLITE. SKRULL. SOLDAT."
+        "traits": "Élite. Skrull. Soldat."
     },
     {
         "code": "500856",
@@ -690,48 +690,48 @@
         "flavor": "<i>« Je suis O.M.N.I.T.R.O.N.I.C.U.S. ! Organe Mécanique-Neuronal – Intellect Techno-Révolutionnaire Organisé de Neurones Interconnectés Cybernétiques Universels Synaptiques ! ! ! »</i>",
         "name": "O.M.N.I.T.R.O.N.I.C.U.S",
         "text": "Chaque ennemi [[revenger]] gagne Vilénie.\n<b>Action de héros</b> : s'il n'y a pas d'ennemi [[revenger]] en jeu, dépensez les ressources suivantes [energy][energy] → défaussez cette carte.",
-        "traits": "ORDINATEUR. REVENGER."
+        "traits": "Ordinateur. Revenger."
     },
     {
         "code": "500862",
         "flavor": "<i>« Je suis David Angar – - Je suis sain d'esprit ! Et plus encore – - je suis le Hurleur – - maître de la tempête mentale ! Je suis la puissance incarnée ! »</i>",
         "name": "Angar le Hurleur",
         "text": "[star] Les attaques d'Angar le Hurleur gagnent À Distance.\n<b>Interruption forcée</b> : quand Angar le Hurleur vous attaque, résolvez également son attaque contre chaque autre héros.",
-        "traits": "REVENGER."
+        "traits": "Revenger."
     },
     {
         "code": "500863",
         "name": "Asti l'Omniscient",
         "text": "<b>Interruption forcée</b> : quand Asti l'Omniscient subit n'importe quelle quantité de dégâts, placez 1 jeton Absorption sur lui.\n<b>Une fois vaincu</b> : assignez 2 dégâts indirects parmi les joueurs pour chaque jeton Absorption sur Asti l'Omniscient.",
-        "traits": "REVENGER."
+        "traits": "Revenger."
     },
     {
         "code": "500864",
         "flavor": "« Je l'ai récupéré d'un univers alternatif où Mars est la planète dominante de ce système solaire. » – Le Créateur",
         "name": "Skar",
         "text": "[star] Les attaques de Skar gagnent Déferlement.\n<b>Une fois révélée</b> : inclinez un personnage que vous contrôlez.",
-        "traits": "REVENGER."
+        "traits": "Revenger."
     },
     {
         "code": "500865",
         "flavor": "<i>« Nous ne devons pas avoir peur de rêver un peu plus grand. »</i>",
         "name": "Le Créateur",
         "text": "Le Créateur ne peut pas subir de dégâts tant qu'un autre ennemi [[revenger]] est en jeu.\n<b>Une fois révélée</b> : cherchez dans le deck Rencontre et la pile de défausse Rencontre la manigance annexe L'Heure de la Revanche et révélez-la.",
-        "traits": "ÉLITE. REVENGER."
+        "traits": "Élite. Revenger."
     },
     {
         "code": "500866",
         "flavor": "<i>« FFFILONS, MES AMISSS ! FFFILONS ET GROUILLONS ! MORDONS ET GRIFFFONS ! LA VICTOIRE PEUT ENCORE ÊTRE À NOUSSS ! »</i>",
         "name": "Vermine",
         "text": "[star] Les attaques de Vermine infligent des dégâts indirects.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, elle inflige des dégâts indirects.",
-        "traits": "revenger."
+        "traits": "Revenger."
     },
     {
         "code": "500867",
         "flavor": "« Votre équipe est divisée, affaiblie, démoralisée. De la chair à canon pour nos Nouveaux Revengers. »",
         "name": "Tigre Blanc",
         "text": "Coup Rapide. (<i>Après que ce sbire a engagé votre héros, il vous attaque</i>.)\n<b>Une fois vaincu</b> : donnez au méchant 1 carte de boost face cachée.",
-        "traits": "REVENGER."
+        "traits": "Revenger."
     },
     {
         "code": "500868",
@@ -749,37 +749,37 @@
         "code": "500870a",
         "name": "Kly'bn",
         "text": "<b>Une fois révélée</b> : placez 1 jeton Foi sur Kly'bn.\n<b>Réponse forcée</b> : après la résolution de l'étape 1 de la phase du méchant, défaussez les X cartes du dessus du deck Rencontre, X étant égal au nombre de jetons Foi sur Kly'bn. Distribuez aux joueurs chaque carte non traîtrise défaussée de cette manière comme une carte Rencontre face cachée, dans l'ordre des joueurs.",
-        "traits": "DIEU. SKRULL."
+        "traits": "Dieu. Skrull."
     },
     {
         "code": "500870b",
         "name": "Sl'gur't",
         "text": "<b>Une fois révélée</b> : placez 1 jeton Foi sur Sl'gur't.\n<b>Réponse forcée</b> : après la résolution de l'étape 1 de la phase du méchant, défaussez les X cartes du dessus du deck Rencontre, X étant égal au nombre de jetons Foi sur Sl'gur't. Distribuez aux joueurs chaque carte traîtrise défaussée de cette manière comme une carte Rencontre face cachée dans l'ordre des joueurs.",
-        "traits": "DIEU. SKRULL."
+        "traits": "Dieu. Skrull."
     },
     {
         "code": "500871a",
         "name": "Kly'bn",
         "text": "<b>Une fois révélée</b> : placez 1 jeton Foi sur Kly'bn.\n<b>Réponse forcée</b> : après la résolution de l'étape 1 de la phase du méchant, défaussez les X cartes du dessus du deck Rencontre, X étant égal au nombre de jetons Foi sur Kly'bn. Distribuez aux joueurs chaque carte non traîtrise défaussée de cette manière comme une carte Rencontre face cachée, dans l'ordre des joueurs.",
-        "traits": "DIEU. SKRULL."
+        "traits": "Dieu. Skrull."
     },
     {
         "code": "500871b",
         "name": "Sl'gur't",
         "text": "<b>Une fois révélée</b> : placez 1 jeton Foi sur Sl'gur't.\n<b>Réponse forcée</b> : après la résolution de l'étape 1 de la phase du méchant, défaussez les X cartes du dessus du deck Rencontre, X étant égal au nombre de jetons Foi sur Sl'gur't. Distribuez aux joueurs chaque carte traîtrise défaussée de cette manière comme une carte Rencontre face cachée dans l'ordre des joueurs.",
-        "traits": "DIEU. SKRULL."
+        "traits": "Dieu. Skrull."
     },
     {
         "code": "500872a",
         "name": "Kly'bn",
         "text": "<b>Une fois révélée</b> : placez 1 jeton Foi sur Kly'bn et donnez-lui une carte d'état Tenace.\n<b>Réponse forcée</b> : après la résolution de l'étape 1 de la phase du méchant, défaussez les X cartes du dessus du deck Rencontre, X étant égal au nombre de jetons Foi sur Kly'bn. Distribuez aux joueurs chaque carte non traîtrise défaussée de cette manière comme une carte Rencontre face cachée, dans l'ordre des joueurs.",
-        "traits": "DIEU. SKRULL."
+        "traits": "Dieu. Skrull."
     },
     {
         "code": "500872b",
         "name": "Sl'gur't",
         "text": "<b>Une fois révélée</b> : placez 1 jeton Foi sur Sl'gur't et donnez lui une carte d'état Tenace.\n<b>Réponse forcée</b> : après la résolution de l'étape 1 de la phase du méchant, défaussez les X cartes du dessus du deck Rencontre, X étant égal au nombre de jetons Foi sur Sl'gur't. Distribuez aux joueurs chaque carte traîtrise défaussée de cette manière comme une carte Rencontre face cachée dans l'ordre des joueurs.",
-        "traits": "DIEU. SKRULL."
+        "traits": "Dieu. Skrull."
     },
     {
         "code": "500873a",
@@ -807,33 +807,33 @@
         "code": "500875a",
         "name": "Panthéon Skrull",
         "text": "<b>Action de héros</b> : dépensez 2 ressources de n'importe quel type → retirez un jeton Foi du méchant.",
-        "traits": "BASTION."
+        "traits": "Détruit."
     },
     {
         "code": "500875b",
         "flavor": "<i>« Le Panthéon Skrull a été détruit avec succès et les Divinités Skrulls sont furieuses. »</i>",
         "name": "Panthéon Skrull",
         "text": "<b>Action de héros</b> : dépensez 2 ressources du même type → retirez un jeton Foi du méchant.",
-        "traits": "DÉTRUIT."
+        "traits": "Place Forte."
     },
     {
         "code": "500876",
         "name": "Béni par Kly'bn",
         "text": "Attachez cette carte au sbire avec la MNG la plus faible. Si vous ne pouvez pas, cette carte gagne Renfort.\nX est égal au nombre de jetons Foi sur le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une manigance, cette carte gagne +2 icônes de boost ([boost]) pour cette  activation.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500877",
         "name": "Béni par Sl'gur't",
         "text": "Attachez cette carte au sbire avec l'ATQ la plus faible. Si vous ne pouvez pas, cette carte gagne Renfort.\nX est égal au nombre de jetons Foi sur le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, cette carte gagne +2 icônes de boost ( [boost]) pour cette  activation.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500878",
         "flavor": "<i>« Je suis le harnais vivant du pouvoir des Dieux. »</i>",
         "name": "Nogor",
         "text": "[star] Nogor gagne +1 MNG, +1 ATQ et +1 point de vie pour chaque jeton Foi sur le méchant.\n<b>Une fois révélée</b> : retournez le méchant.\n<hr>\n<hr>[star] <b>Boost</b> : après la résolution de cette activation, retournez le méchant.",
-        "traits": "ÉLITE. SKRULL."
+        "traits": "Élite. Skrull."
     },
     {
         "code": "500879",
@@ -870,14 +870,14 @@
         "flavor": "« J'appartiens à la secte Dard'van. Considérée comme extrémiste par certains. » – Grri",
         "name": "Fanatique Dard'van",
         "text": "<b>Une fois révélée</b> : choisissez : soit vous infligez 1 point de dégâts à chaque personnage que vous contrôlez, soit vous placez 1 menace sur chaque manigance en jeu.",
-        "traits": "SKRULL."
+        "traits": "Skrull."
     },
     {
         "code": "500885",
         "flavor": "« Il vous aime. »",
         "name": "Prêtre Dard'van",
         "text": "<b>Une fois révélée</b> : le Prêtre Dard'van manigance.\n[star] <b>Interruption forcée</b> : quand le Prêtre Dard'van devrait attaquer, choisissez une carte en jeu avec un effet « <b>Une fois révélée</b> » et résolvez cette capacité à la place.",
-        "traits": "MYSTIQUE. SKRULL."
+        "traits": "Mystique. Skrull."
     },
     {
         "code": "500886",
@@ -902,40 +902,40 @@
         "flavor": "<i>Vous êtes un Skrull !</i> – <b>Action de héros</b> : inclinez un héros et dépensez 1[per_hero] ressource de n'importe quel type → retournez Spider-Woman (Les joueurs peuvent payer collectivement les coûts de cette  carte.)",
         "name": "Spider-Woman (Veranke)",
         "text": "Spider-Woman ne peut pas subir de dégâts.\n[star] <b>Réponse forcée</b> : après que Spider-Woman vous a attaqué, placez 1 jeton Suspicion sur l'environnement « En Qui Avez Vous Confiance ? ».",
-        "traits": "CAMOUFLÉ. SKRULL."
+        "traits": "Camouflé. Skrull."
     },
     {
         "code": "500889b",
         "flavor": "« Je ferai partie de ceux assignés à l'infiltration de la Terre. Je jouerai un rôle dans cette stratégie. »",
         "name": "Reine Veranke",
         "text": "<b>Réponse forcée</b> : après la fin de la phase du méchant, si un joueur est sous forme d'alter ego, retournez la Reine Veranke.\n<b>Une fois vaincu</b> : retirez tous les jetons Suspicion sur « En Qui Avez Vous Confiance ? ».",
-        "traits": "DÉMASQUÉ. SKRULL."
+        "traits": "Démasqué. Skrull."
     },
     {
         "code": "500890a",
         "name": "Spider-Woman (Veranke)",
         "text": "Spider-Woman ne peut pas subir de dégâts.\n[star] <b>Réponse forcée</b> : après que Spider-Woman vous a attaqué, placez 1 jeton Suspicion sur l'environnement « En Qui Avez Vous Confiance ? ».\n<i>Vous êtes un Skrull !</i> — <b>Action de héros</b> : inclinez un héros et dépensez 1[per_hero] ressource de n'importe quel type → retournez Spider-Woman (Les joueurs peuvent payer collectivement les coûts de cette  carte.)",
-        "traits": "CAMOUFLÉ. SKRULL."
+        "traits": "Camouflé. Skrull."
     },
     {
         "code": "500890b",
         "flavor": "« Je ferai partie de ceux assignés à l'infiltration de la Terre. Je jouerai un rôle dans cette stratégie. »",
         "name": "Reine Veranke",
         "text": "<b>Réponse forcée</b> : après la fin de la phase du méchant, si un joueur est sous forme d'alter ego, retournez la Reine Veranke.\n<b>Une fois vaincu</b> : retirez tous les jetons Suspicion sur « En Qui Avez Vous Confiance ? ».",
-        "traits": "DÉMASQUÉ. SKRULL."
+        "traits": "Démasqué. Skrull."
     },
     {
         "code": "500891a",
         "name": "Spider-Woman (Veranke)",
         "text": "Spider-Woman ne peut pas subir de dégâts.\n[star] <b>Réponse forcée</b> : après que Spider-Woman vous a attaqué, placez 1 jeton Suspicion sur l'environnement « En Qui Avez Vous Confiance ? ».\n<i>Vous êtes un Skrull !</i> — <b>Action de héros</b> : inclinez un héros et dépensez 1[per_hero] ressource de n'importe quel type → retournez Spider-Woman (Les joueurs peuvent payer collectivement les coûts de cette  carte.)",
-        "traits": "CAMOUFLÉ. SKRULL."
+        "traits": "Camouflé. Skrull."
     },
     {
         "code": "500891b",
         "flavor": "<i>« Je ferai partie de ceux assignés à l'infiltration de la Terre. Je jouerai un rôle dans cette stratégie. »</i>",
         "name": "Reine Veranke",
         "text": "<b>Réponse forcée</b> : après la fin de la phase du méchant, si un joueur est sous forme d'alter ego, retournez la Reine Veranke. Sinon, défaussez la carte du dessus du deck Rencontre, si c'est une traîtrise, retournez la Reine Veranke.",
-        "traits": "DÉMASQUÉ. SKRULL."
+        "traits": "Démasqué. Skrull."
     },
     {
         "code": "500892a",
@@ -967,25 +967,25 @@
         "code": "500895",
         "name": "Imposteur",
         "text": "L'allié attaché est considéré comme un sbire [[skrull]] ayant une boîte de texte vide. La MNG du sbire attaché est égale à son CTR imprimé et il ne subit pas de dégâts consécutifs.\n<b>Une fois révélée</b> : attachez cette carte à l'allié non-[[skrull]] avec le plus de points de vie restants qui n'a pas déjà un autre exemplaire d'Imposteur attaché. Cet allié engage le joueur qui le contrôle. Sinon, le méchant manigance.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500896",
         "name": "Amélioration Super-Skrull",
         "text": "Attachez cette carte au sbire [[skrull]] avec le plus de points de vie restants qui n'a pas déjà un autre exemplaire d'Amélioration Super-Skrull attaché. Si vous ne pouvez pas, choisissez un allié [[camouflé]], retournez-le et attachez-lui cette carte. Sinon, cette carte gagne Renfort.\nLe sbire attaché gagne +2 points de vie.\n<hr>\n<hr>[star] <b>Boost</b> : à la fin de cette activation, révélez cette carte.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500897",
         "name": "Amélioration Super-Skrull",
         "text": "Attachez cette carte au sbire [[skrull]] avec le plus de points de vie restants qui n'a pas déjà un autre exemplaire d'Amélioration Super-Skrull attaché. Si vous ne pouvez pas, choisissez un allié [[camouflé]], retournez-le et attachez-lui cette carte. Sinon, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b> : à la fin de cette activation, révélez cette carte.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500898",
         "name": "Amélioration Super-Skrull",
         "text": "Attachez cette carte au sbire [[skrull]] avec le plus de points de vie restants qui n'a pas déjà un autre exemplaire d'Amélioration Super-Skrull attaché. Si vous ne pouvez pas, choisissez un allié [[camouflé]], retournez-le et attachez-lui cette carte. Sinon, cette carte gagne Renfort.\nLe sbire attaché gagne Riposte 1.\n<hr>\n<hr>[star] <b>Boost</b> : à la fin de cette activation, révélez cette carte.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500899",
@@ -1040,266 +1040,266 @@
         "flavor": "« Votre mort mettra les héros de la Terre à genoux. Votre mort donnera vie aux écrits. » – Reine Veranke",
         "name": "Captain America (Pitt'o Nili)",
         "text": "<b>Interruption forcée</b> : quand Captain America est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500908b",
         "name": "Pitt'o Nili",
         "text": "Garde.\n<b>Une fois révélée</b> : soignez Pitt'o Nili de tous ses dégâts et mettez-le en jeu engagé avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500909a",
         "flavor": "<i>« Je parle parfaitement le Skrull. »</i>",
         "name": "Captain Marvel (Khn'nr)",
         "text": "<b>Interruption forcée</b> : quand Captain Marvel est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500909b",
         "name": "Khn'nr",
         "text": "<b>Une fois révélée</b> : soignez Khn'nr de tous ses dégâts et mettez-le en jeu engagé avec vous.\n<b>Une fois vaincu</b> : retirez tous les jetons Suspicion de « En Qui Avez Vous Confiance ? ».",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500910a",
         "flavor": "« Il était écrit qu'un monde de bleu deviendrait le domaine de tous les croyants » – Reine Veranke",
         "name": "Captain Marvel (M'Lanz)",
         "text": "<b>Interruption forcée</b> : quand Captain Marvel est censée quitter le jeu, retournez-la à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500910b",
         "name": "M'lanz",
         "text": "<b>Une fois révélée</b> : soignez M'lanz de tous ses dégâts et mettez-la en jeu engagée avec vous.\n[star] <b>Interruption forcée</b> : quand M'lanz vous attaque, résolvez également son attaque contre chaque autre héros.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500911a",
         "flavor": "« C'était écrit, et cela est advenu. » – Reine Veranke",
         "name": "Carnage (Zr'x)",
         "text": "<b>Interruption forcée</b> : quand Carnage est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500911b",
         "name": "Zr'x",
         "text": "Ténacité. (<i>Ce personnage entre en jeu avec une carte d'état Tenace.</i>)\n<b>Une fois révélée</b> : soignez Zr'x de tous ses dégâts et mettez-le en jeu engagé avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500912a",
         "flavor": "« Ainsi que les prophètes écrivirent à propos de nos ancêtres. » – Reine Veranke",
         "name": "Daredevil (Trl'k)",
         "text": "<b>Interruption forcée</b> : quand Daredevil est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500912b",
         "name": "Trl'k",
         "text": "Tant que le joueur engagé avec Trl'k est engagé avec un autre sbire [[skrull]], Trl'k ne peut pas subir de dégâts.\n<b>Une fois révélée</b> : soignez Trl'k de tous ses dégâts et mettez-le en jeu engagé avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500913a",
         "flavor": "« Cela ne sera pas facile. La plupart d'entre nous mourrons avant que tout ne soit terminé. » – Reine Veranke",
         "name": "Deathlok (Fry'lu)",
         "text": "<b>Interruption forcée</b> : quand Deathlock est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500913b",
         "name": "Fry'lu",
         "text": "<b>Une fois révélée</b> : soignez Fry'lu de tous ses dégâts et mettez-la en jeu engagée avec vous.\n<b>Une fois vaincue</b> : attribuez une carte Rencontre face cachée au joueur qui a vaincu Fry'lu.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500914a",
         "flavor": "<i>« Ne révélez pas votre véritable apparence au grand jour. »</i>",
         "name": "Dum Dum Dugan (Sn'Tlo)",
         "text": "<b>Interruption forcée</b> : quand Dum Dum Dugan est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500914b",
         "name": "Sn'Tlo",
         "text": "Réduisez de 1 la quantité de dégâts que subit Sn'Tlo de chaque attaque.\n<b>Une fois révélée</b> : soignez Sn'Tlo de tous ses dégâts et mettez-le en jeu engagé avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500915a",
         "flavor": "<i>« Mon identité n'a pas été détectée. »</i>",
         "name": "Elektra (Siri)",
         "text": "<b>Interruption forcée</b> : quand Elektra est censée quitter le jeu, retournez-la à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500915b",
         "name": "Siri",
         "text": "Patrouille.\n<b>Une fois révélée</b> : soignez Siri de tous ses dégâts et mettez-la en jeu engagée avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500916a",
         "flavor": "« C'était écrit dans notre Livre des Mondes » – Reine Veranke",
         "name": "Giant-Man (D'lutz)",
         "text": "<b>Interruption forcée</b> : quand Giant-Man est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500916b",
         "name": "D'lutz",
         "text": "Riposte 1.\n<b>Une fois révélée</b> : soignez D'lutz de tous ses dégâts et mettez-le en jeu engagé avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500917a",
         "flavor": "<i>« C'est vrai ! Je ne suis pas Susan Richards, je suis un Skrull ! »</i>",
         "name": "La Femme Invisible (De'Lila)",
         "text": "<b>Interruption forcée</b> : quand La Femme Invisible est censée quitter le jeu, retournez-la à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500917b",
         "name": "De'Lila",
         "text": "En tant que coût supplémentaire pour attaquer De'Lila, vous devez dépenser 1 ressource de n'importe quel type.\n<b>Une fois révélée</b> : soignez De'Lila de tous ses dégâts et mettez-la en jeu engagée avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500918a",
         "flavor": "« Il m'aime ... Il m'aime ... Il m'aime ... » – Reine Veranke",
         "name": "Iron Fist (Grrix)",
         "text": "<b>Interruption forcée</b> : quand Iron Fist est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500918b",
         "name": "Grrix",
         "text": "Ténacité.\n<b>Une fois révélée</b> : soignez Grrix de tous ses dégâts et mettez-le en jeu engagé avec vous.\n<b>Une fois vaincu</b> : le méchant attaque le joueur qui a vaincu Grrix (même si ce joueur est sous forme d'alter ego).",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500919a",
         "flavor": "« Malgré tout ce que vous avez fait à notre Empire, il vous aime. » – Reine Veranke",
         "name": "Iron Man (Ssrov)",
         "text": "<b>Interruption forcée</b> : quand Iron Man est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500919b",
         "name": "Ssrov",
         "text": "[star] Tant que le méchant a le trait [[demasqué]], Ssrov gagne +1 MNG et +1 ATQ.\n<b>Une fois révélée</b> : soignez Ssrov de tous ses dégâts et mettez-le en jeu engagé avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500920a",
         "flavor": "« Un milliard de Skrulls sont morts pour prouver la véracité des écrits. » – Reine Veranke",
         "name": "Moon Knight (Hs'fld)",
         "text": "<b>Interruption forcée</b> : quand Moon Knight est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500920b",
         "name": "Hs'fld",
         "text": "<b>Une fois révélée</b> : soignez Hs'fld de tous ses dégâts et mettez-le en jeu engagé avec vous.\n<b>Une fois vaincu</b> : le joueur qui a vaincu Hs'fld met aléatoirement en jeu un allié [[camoufl]]É du deck [[imposteur]] sous son contrôle.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500921a",
         "flavor": "« Il était écrit qu'une vague arriverait. » – Reine Veranke",
         "name": "Nick Fury (H'kurrek)",
         "text": "<b>Interruption forcée</b> : quand Nick Fury est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500921b",
         "name": "H'kurrek",
         "text": "[star] Les attaques de H'kurrek gagnent Déferlement, Perçant et À Distance.\n<b>Une fois révélée</b> : soignez H'kurrek de tous ses dégâts et mettez-le en jeu engagé avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500922a",
         "flavor": "« Vous la tuerez. Après que nous vous ayons interchangés. » – Reine Veranke",
         "name": "Phénix (Korya)",
         "text": "<b>Interruption forcée</b> : quand Phénix est censée quitter le jeu, retournez-la à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500922b",
         "name": "Korya",
         "text": "<b>Une fois révélée</b> : soignez Korya de tous ses dégâts et mettez-la en jeu engagée avec vous.\n[star] <b>Réponse forcée</b> : après que Korya vous a attaqué, défaussez la carte du dessus du deck de chaque joueur.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500923a",
         "flavor": "<i>« Bon, je me déteste, mais je ne sais pas si j'ai envie de me gifler. »</i>",
         "name": "Spider-Man (Ch'Gra)",
         "text": "<b>Interruption forcée</b> : quand Spider-Man est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500923b",
         "name": "Ch'Gra",
         "text": "<b>Une fois révélée</b> : soignez Ch'Gra de tous ses dégâts et mettez-le en jeu engagé avec vous.\n<b>Une fois vaincu</b> : retournez la Reine Veranke.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500924a",
         "flavor": "« Même toi, il t'aime. » – Criti Noll",
         "name": "Thor (Hagar)",
         "text": "<b>Interruption forcée</b> : quand Thor est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500924b",
         "name": "Hagar",
         "text": "[star] Les attaques d'Hagar infligent des dégâts indirects.\n<b>Une fois révélée</b> : soignez Hagar de tous ses dégâts et mettez-le en jeu engagé avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500925a",
         "flavor": "« Nous savons désormais que les mots tels qu'ils sont écrits, sont vrais. » – Reine Veranke",
         "name": "Venom (Dharr)",
         "text": "<b>Interruption forcée</b> : quand Venom est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500925b",
         "name": "Dharr",
         "text": "Vilénie.\n<b>Une fois révélée</b> : soignez Dharr de tous ses dégâts et mettez-le en jeu engagé avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500926a",
         "flavor": "« C'est tel qu'il était écrit. Et ni un Skrull, ni un homme ne peut changer ça. » – Commander Chrell",
         "name": "Wolverine (V'lrym)",
         "text": "<b>Interruption forcée</b> : quand Wolverine est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500926b",
         "name": "V'lrym",
         "text": "Coup Rapide.\n<b>Une fois révélée</b> : soignez V'lrym de tous ses dégâts et mettez-le en jeu engagé avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500927a",
         "flavor": "<i>« Il ne faudra guère longtemps avant que nous ayons un Skrull dans chaque état. »</i>",
         "name": "Le Frelon (Criti Noll)",
         "text": "<b>Interruption forcée</b> : quand Le Frelon est censé quitter le jeu, retournez-le à la place.",
-        "traits": "CAMOUFLÉ. IMPOSTEUR. SKRULL."
+        "traits": "Camouflé. Imposteur. Skrull."
     },
     {
         "code": "500927b",
         "name": "Criti Noll",
         "text": "Incitation 3.\n<b>Une fois révélée</b> : soignez Criti Noll de tous ses dégâts et mettez-la en jeu engagée avec vous.",
-        "traits": "DÉMASQUÉ. IMPOSTEUR. SKRULL."
+        "traits": "Démasqué. Imposteur. Skrull."
     },
     {
         "code": "500928",
         "name": "Le Façonneur de Mondes",
         "text": "<b>Interruption forcée</b> : après qu'un joueur a attaqué Le Façonneur de Mondes, mélangez-le dans le deck de ce joueur.\n<b>Interruption forcée</b> : après que Le Façonneur de Mondes est entré dans votre main, défaussez les 4 cartes du dessus du deck Rencontre. Mettez le Façonneur de Mondes en jeu, engagé avec vous.",
-        "traits": "ÉLITE. ENTITÉ COSMIQUE. SKRULL."
+        "traits": "Élite. Entité Cosmique. Skrull."
     },
     {
         "code": "500929",
@@ -1330,19 +1330,19 @@
         "code": "500931",
         "name": "Crusader",
         "text": "Victoire 1.\n<b>Une fois révélée</b> : infligez 1 dégât à chaque personnage que vous contrôlez. Donnez au méchant une carte de boost face cachée pour chaque personnage vaincu de cette façon.\n<hr>\n<hr>[star] <b>Boost</b> : mettez en jeu Crusader, engagé avec vous.",
-        "traits": "ÉLITE. SKRULL"
+        "traits": "Élite. Skrull."
     },
     {
         "code": "500932",
         "name": "Adaptation à l'Ennemi",
         "text": "Attachez cette carte à un sbire [[skrull]]. Sinon attachez-la au méchant.\nVous ne pouvez pas défendre contre les attaques de l'ennemi attaché.\n<b>Action de héros</b> : donnez au méchant une carte de boost face cachée → défaussez Risposte Adaptée.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500933",
         "name": "(U)Anneau de Liberté",
         "text": "Attachez cette carte à Crusader. Si Crusader n'est pas en jeu, défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire soit défaussé. Mettez en jeu ce sbire engagé avec vous et attachez-lui cette carte. Sinon donnez au méchant une carte de boost face cachée.\nLe sbire attaché gagne Vilénie.",
-        "traits": "OBJET."
+        "traits": "Objet."
     },
     {
         "code": "500934",
@@ -1361,19 +1361,19 @@
         "flavor": "<i>« Prétendre être humaine est amusant. Particulièrement quand je le fais bien mieux que vous. »</i>",
         "name": "Jazinda",
         "text": "Victoire 1.\nLe méchant gagne +1 MNG.\n<hr>\n<hr>[star] <b>Boost</b> : mettez Jazinda en jeu engagée avec vous.",
-        "traits": "ÉLITE. SKRULL."
+        "traits": "Élite. Skrull."
     },
     {
         "code": "500937",
         "name": "Pistolet Énergétique Skrull",
         "text": "Attachez cette carte à un sbire [[skrull]]. Sinon, attachez cette carte au méchant.\nLorsque cette carte est attachée à un ennemi [[skrull]], les attaques de cet ennemi gagnent Déferlement, Perçant et À Distance.\n<b>Action de héros</b> : dépensez une ressource [physical] → attachez cette carte à un autre ennemi.",
-        "traits": "arme."
+        "traits": "Arme."
     },
     {
         "code": "500938",
         "name": "Gemme de Sy-Torak",
         "text": "Attachez cette carte à Jazinda. Sinon, attachez cette carte au méchant.\nL'ennemi attaché gagne +3 points de vie.\n<b>Action de héros</b> : donnez au méchant 1 carte de boost face cachée et dépensez 1 ressource  E → défaussez la Gemme de  Sy-Torak.",
-        "traits": "ARTEFACT."
+        "traits": "Artefact."
     },
     {
         "code": "500939",
@@ -1390,7 +1390,7 @@
         "code": "500941",
         "name": "Skymax",
         "text": "Victoire 1.\n<b>Une fois révélée</b> : mélangez tous les sbires de la pile de défausse Rencontre dans le deck Rencontre.\n<hr>\n<hr>[star] <b>Boost</b> : mettez Skymax en jeu, engagé avec vous.",
-        "traits": "ÉLITE. SKRULL."
+        "traits": "Élite. Skrull."
     },
     {
         "code": "500942",
@@ -1414,26 +1414,26 @@
         "code": "500945",
         "name": "War Skrull",
         "text": "Victoire 1.\n[star] <b>Réponse forcée</b> : après que War Skrull vous a attaqué, défaussez les deux cartes du dessus de votre deck.\n<hr>\n<hr>[star] <b>Boost</b> : mettez War Skrull en jeu, engagé avec vous.",
-        "traits": "ÉLITE. SKRULL."
+        "traits": "Élite. Skrull."
     },
     {
         "code": "500946",
         "name": "Imposteur",
         "text": "L'allié attaché est considéré comme un sbire [[skrull]] ayant une boîte de texte vide. La MNG du sbire attaché est égale à son CTR imprimé et il ne subit pas de dégâts consécutifs.\n<b>Une fois révélée</b> : attachez cette carte à l'allié non-[[skrull]] avec le plus de points de vie restants qui n'a pas déjà un autre exemplaire de Imposteur attaché. Cet allié engage le joueur qui le contrôle. Sinon, le méchant manigance.",
-        "traits": "CONDITION."
+        "traits": "Condition."
     },
     {
         "code": "500947",
         "name": "Commandant Skrull",
         "text": "Chaque autre sbire [[skrull]] gagne +1 ATQ.\n<hr>\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, cette carte gagne +2 icônes de boost ([[bb]]) pour cette attaque.\n« S'il était une véritable menace, nous saurions qui il est. » → Commandant Ak'strk",
-        "traits": "SKRULL. SOLDAT."
+        "traits": "Skrull. Soldat."
     },
     {
         "code": "500948",
         "flavor": "<i>« Ces résultats sont fascinants. »</i>",
         "name": "Généticien Skrull",
         "text": "<hr>[star] <b>Boost</b> : attribuez-vous une carte Rencontre face cachée.",
-        "traits": "GÉNIE. SKRULL."
+        "traits": "Génie. Skrull."
     },
     {
         "code": "500949",
@@ -1445,7 +1445,7 @@
         "code": "500950",
         "name": "Xavin",
         "text": "Victoire 1.\n<b>Une fois révélée</b> : défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'une traîtrise soit défaussée. Révélez cette traîtrise.\n<hr>\n<hr>[star] <b>Boost</b> : mettez Xavin en jeu, engagé avec vous.",
-        "traits": "ÉLITE. SKRULL."
+        "traits": "Élite. Skrull."
     },
     {
         "code": "500951",
