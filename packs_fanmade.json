@@ -1229,21 +1229,6 @@
         "visibility": "false"
     },
     {
-        "cgdb_id": 60,
-        "code": "fear_no_evil_by_ffg",
-        "creator": "FFG",
-        "date_release": "2026-07-24",
-        "environment": "current",
-        "name": "Fear no Evil",
-        "octgn_id": "6c90b19c-4641-46f6-9989-7aa33d8c9eb5",
-        "pack_type_code": "fm_story",
-        "position": 60,
-        "size": 100,
-        "status": "released",
-        "theme": "Marvel",
-        "visibility": "true"
-    },
-    {
         "cgdb_id": 61,
         "code": "jessica_jones_by_ffg",
         "creator": "FFG",

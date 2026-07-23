@@ -1352,18 +1352,6 @@
         "name": "Realms Campaign"
     },
     {
-        "card_set_type_code": "hero",
-        "code": "daredevil_by_ffg",
-        "name": "Daredevil",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "echo_by_ffg",
-        "name": "Echo",
-        "status": "released"
-    },
-    {
         "card_set_type_code": "nemesis",
         "code": "daredevil_by_ffg_nemesis",
         "name": "Daredevil Nemesis",
@@ -1375,13 +1363,6 @@
         "code": "echo_by_ffg_nemesis",
         "name": "Echo Nemesis",
         "parent_code": "echo_by_ffg",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "hero_special",
-        "code": "daredevil_sense_deck",
-        "name": "Sense Deck",
-        "parent_code": "daredevil_by_ffg",
         "status": "released"
     },
     {

@@ -1848,5 +1848,24 @@
         "card_set_type_code": "modular",
         "code": "all_versus_all",
         "name": "All Versus All"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "daredevil_by_ffg",
+        "name": "Daredevil",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "echo_by_ffg",
+        "name": "Echo",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "hero_special",
+        "code": "daredevil_sense_deck",
+        "name": "Sense Deck",
+        "parent_code": "daredevil_by_ffg",
+        "status": "released"
     }
 ]
