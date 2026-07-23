@@ -25,21 +25,47 @@
 		]
 	},
 	{
-		"id": "deal",
-		"term": "Attribuer, Attribuer une Carte Rencontre",
+		"id": "deal_deal_an_encounter_card",
+		"term": "Attribuer, Attribuer une carte rencontre",
 		"type": "official",
-		"content": "Pendant l'étape trois de la phase du méchant, chaque joueur se voit attribuer une carte rencontre face cachée. Si une capacité de carte demande à un joueur de se voir attribuer une carte rencontre, le joueur prend la carte du dessus du deck rencontre et la place face cachée devant lui. Cette carte n'est pas révélée à ce moment-là. Elle est ajoutée à la file d'attente des cartes que ce joueur résout pendant la phase du méchant."
+		"content": "<p>Pendant l'étape trois de la phase du méchant, chaque joueur se voit attribuer une carte rencontre face cachée.</p><p>Si une capacité de carte demande à un joueur de se voir attribuer une carte rencontre, le joueur prend la carte du dessus du deck rencontre et la place face cachée devant lui. Cette carte n'est pas révélée à ce moment-là. Cette carte est ajoutée à la file d'attente des cartes que ce joueur résout pendant la phase du méchant.</p><ul><li>Si un joueur se voit attribuer une carte rencontre pendant l'étape trois ou quatre de la phase du méchant, la carte rencontre supplémentaire est ajoutée à la file d'attente des cartes attribuées et révélées lors de ces mêmes étapes.</li></ul>",
+		"see_also": [
+			"ability",
+			"encounter_card",
+			"encounter_deck",
+			"player",
+			"villain_phase"
+		]
 	},
 	{
 		"id": "deck",
 		"term": "Deck",
 		"type": "official",
-		"content": "Il y a quatre types principaux de decks qui apparaissent dans une partie : le deck joueur, le deck rencontre, le deck méchant et le deck manigance principale. Certaines identités ou scénarios peuvent ajouter d'autres decks à la partie.<ul><li>L'ordre des cartes dans un deck ne peut pas être modifié à moins qu'un joueur ne soit invité à le faire par une étape de jeu, une fonction de jeu ou une capacité de carte.</li></ul>",
+		"content": "<p>Il y a quatre types principaux de decks qui apparaissent dans une partie : le deck joueur, le deck rencontre, le deck méchant et le deck manigance principale. Certaines identités ou scénarios peuvent ajouter d'autres decks à la partie.</p><ul><li>L'ordre des cartes dans un deck ne peut pas être modifié à moins qu'un joueur ne soit invité à le faire par une étape de jeu, une fonction de jeu ou une capacité de carte.</li></ul>",
 		"see_also": [
 			"encounter_deck",
 			"main_scheme",
 			"player_deck",
 			"villain"
+		]
+	},
+	{
+		"id": "deck_customization",
+		"term": "Personnalisation de Deck",
+		"type": "official",
+		"content": "Voir : Annexe I : Personnalisation de Deck.",
+		"see_also": [
+			"appendix_i_deck_customization"
+		]
+	},
+	{
+		"id": "def",
+		"term": "DEF",
+		"type": "official",
+		"content": "Voir : Pouvoir de Base, Défendre.",
+		"see_also": [
+			"basic_power",
+			"defend_defense"
 		]
 	},
 	{
@@ -60,10 +86,20 @@
 		]
 	},
 	{
-		"id": "defend",
+		"id": "defend_defense",
 		"term": "Défendre, Défense",
 		"type": "official",
-		"content": "Lorsqu'un ennemi attaque, les joueurs peuvent se défendre contre cette attaque. Un joueur peut incliner un héros ou un allié pour défendre. Si un personnage défend contre une attaque, les dégâts de l'attaque sont infligés à ce personnage au lieu de la cible d'origine."
+		"content": "Lorsqu'un ennemi attaque, les joueurs peuvent se défendre contre cette attaque. Un joueur peut incliner un héros ou un allié pour défendre. Si un personnage défend contre une attaque, les dégâts de l'attaque sont infligés à ce personnage au lieu de la cible d'origine.",
+		"see_also": [
+			"ability",
+			"ally",
+			"attack_enemy_activation",
+			"damage",
+			"friendly",
+			"identity",
+			"labeled_ability",
+			"player"
+		]
 	},
 	{
 		"id": "delayed_effect",
@@ -115,9 +151,17 @@
 		]
 	},
 	{
-		"id": "draw",
+		"id": "draw_drawing_cards",
 		"term": "Piocher, Piocher des Cartes",
 		"type": "official",
-		"content": "Si un joueur reçoit l'instruction de piocher une ou plusieurs cartes, ces cartes sont piochées sur le dessus de son deck, une par une.<ul><li>Les cartes piochées sont ajoutées à la main du joueur.</li><li>La taille de la main de chaque joueur est vérifiée à la fin de la phase des joueurs. Si un joueur a plus de cartes en main que sa valeur de taille de main à ce moment-là, il doit choisir et défausser des cartes de sa main jusqu'à ce qu'il atteigne sa taille de main.</li></ul>"
+		"content": "Si un joueur reçoit l'instruction de piocher une ou plusieurs cartes, ces cartes sont piochées sur le dessus de son deck, une par une.<ul><li>Les cartes piochées sont ajoutées à la main du joueur.</li><li>La taille de la main de chaque joueur est vérifiée à la fin de la phase des joueurs. Si un joueur a plus de cartes en main que sa valeur de taille de main à ce moment-là, il doit choisir et défausser des cartes de sa main jusqu'à ce qu'il atteigne sa taille de main.</li></ul>",
+		"see_also": [
+			"discard",
+			"in_play_and_out_of_play",
+			"ownership_and_control",
+			"player",
+			"player_deck",
+			"player_phase"
+		]
 	}
 ]
