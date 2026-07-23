@@ -3,7 +3,7 @@
 		"id": "patrol",
 		"term": "Patrouille",
 		"type": "official",
-		"content": "Tant qu'un sbire avec le mot-clé patrouille est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour contrer la manigance principale.",
+		"content": "<p>Tant qu'un sbire avec le mot-clé patrouille est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour contrer la manigance principale.</p><ul><li><mark class=\"new\">Le mot-clé patrouille est équivalent à la capacité constante suivante : « Le joueur engagé ne peut pas contrer la manigance principale. »</mark></li></ul>",
 		"see_also": [
 			"engage",
 			"keywords",
@@ -24,9 +24,9 @@
 	},
 	{
 		"id": "per_player_icon",
-		"term": "Icône Par Joueur",
+		"term": "Icône par joueur (<span class=\"icon icon-per_player\"></span>)",
 		"type": "official",
-		"content": "L'icône par joueur (<span class=\"icon icon-per_hero rules-icon\" title=\"per_hero\" aria-hidden=\"true\">G</span>) à côté d'une valeur multiplie cette valeur par le nombre de joueurs qui ont <b>commencé </b>le scénario.<ul><li>Si un joueur est éliminé, cette valeur ne change pas.</li></ul>",
+		"content": "<p>L'icône <span class=\"icon icon-per_player\"></span> à côté d'une valeur multiplie cette valeur par le nombre de joueurs qui ont <b>commencé</b> le scénario.</p><ul><li>Si un joueur est éliminé, cette valeur ne change pas.</li></ul>",
 		"see_also": [
 			"icons",
 			"modifiers",
@@ -37,7 +37,7 @@
 		"id": "peril",
 		"term": "Péril",
 		"type": "official",
-		"content": "Tant qu'un joueur résout une carte avec le mot-clé péril, il ne peut pas consulter les autres joueurs, et ces derniers ne peuvent pas jouer de cartes ou déclencher de capacités.",
+		"content": "<p>Tant qu'un joueur résout une carte avec le mot-clé péril, ce joueur ne peut pas consulter les autres joueurs, et les autres joueurs ne peuvent pas jouer de cartes ni déclencher de capacités.</p><ul><li><mark class=\"new\">Le mot-clé péril est équivalent à la capacité constante suivante : « Tant qu'un joueur résout cette carte, ce joueur ne peut pas consulter d'autres joueurs, et les autres joueurs ne peuvent pas déclencher de capacités. Tant que cette carte est dans la zone de jeu d'un joueur, les autres joueurs ne peuvent pas déclencher de capacités sur cette carte. »</mark></li></ul>",
 		"see_also": [
 			"ability",
 			"keywords",
@@ -51,8 +51,7 @@
 		"id": "permanent",
 		"term": "Permanent",
 		"type": "official",
-		"content": "Une carte avec le mot-clé permanent ne peut pas être vaincue, quitter le jeu ou avoir une partie de sa boîte de texte effacée, sauf par des capacités de cartes du même set (set de héros, set de scénario ou set modulaire).<ul><li>Les cartes permanentes sont mises de côté <red>avant </red>l'étape 1 de la mise en place <red>et sont mises en jeu plus tard par des capacités sur d'autres cartes.</red></li><li>Les cartes permanentes ne comptent pas dans la taille minimale ou maximale du deck d'un joueur.</li><li>Les cartes permanentes ne sont pas des cibles valides pour les effets de carte qui feraient quitter le jeu à la carte permanente.</li><ul><li>Si une carte permanente devait être ciblée par un tel effet, l'effet cible à la place la carte non permanente qui correspond à ses critères.</li></ul><li><red>Si la carte à laquelle un attachement permanent était attaché quitte le jeu, résolvez le texte « attachez cette carte » de cet attachement. S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.</red></li><li>Si un joueur est éliminé de la partie alors qu'une carte permanente (qui n'est pas un attachement) qu'il ne possède pas se trouve dans sa zone de jeu, <red>retirez cette carte permanente de la partie.</red></li></ul>",
-		"whats_new": "Clarification indiquant que les cartes permanentes sont mises en jeu ultérieurement par les capacités d'autres cartes. Ajout de règles détaillant que si une carte ayant un attachement permanent quitte le jeu, le texte 'attacher à' est résolu ou l'attachement est retiré de la partie. Il est également précisé que les cartes permanentes (qui ne sont pas des attachements) n'appartenant pas au joueur éliminé sont retirées de la partie lors de son élimination.",
+		"content": "<p>Une carte avec le mot-clé permanent ne peut pas être vaincue, quitter le jeu ou avoir une partie quelconque de sa boîte de texte effacée, sauf par des capacités de cartes du même set <em>(set de héros, set de scénario ou set modulaire)</em>. <em>(Par exemple, une capacité sur une carte de héros peut faire quitter le jeu à une carte permanente du set de ce héros.)</em></p><ul><li><mark class=\"new\">Le mot-clé permanent est équivalent à la capacité constante suivante : « Mettez cette carte de côté pendant la mise en place. Les effets des cartes ne provenant pas du set de cette carte ne peuvent pas vaincre cette carte, la retirer du jeu ou effacer une partie quelconque de sa boîte de texte. »</mark></li><li>Les cartes permanentes sont mises de côté avant l'étape 1 de la mise en place et sont mises en jeu plus tard par des capacités sur d'autres cartes.</li><li>Les cartes permanentes ne comptent pas dans la taille minimale ou maximale du deck d'un joueur.</li><li>Les cartes permanentes ne sont pas des cibles valides pour les effets de cartes qui feraient quitter le jeu à la carte permanente.<ul><li>Si une carte permanente devait être ciblée par un tel effet <em>(par exemple, « défaussez le soutien au plus bas coût que vous contrôlez »)</em>, cet effet cible à la place la carte non permanente qui correspond à ses critères.</li></ul></li><li>Si la carte à laquelle un attachement permanent était attaché quitte le jeu, résolvez le texte « attachez à » de cet attachement. S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.</li><li>Si un joueur est éliminé de la partie alors qu'une carte permanente <em>(qui n'est pas un attachement)</em> qu'il ne possède pas se trouve dans sa zone de jeu, retirez cette carte permanente de la partie.</li></ul>",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"keywords",
@@ -63,9 +62,9 @@
 	},
 	{
 		"id": "physical_resource",
-		"term": "Ressource physique",
+		"term": "Ressource physique (<span class=\"icon icon-physical\"></span>)",
 		"type": "official",
-		"content": "Une ressource physique (<span class=\"icon-physical\"></span>) est l'un des quatre types de ressources.<ul><li>Les ressources physiques peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités nécessitent spécifiquement que des ressources physiques soient dépensées pour résoudre leurs effets.</li></ul>",
+		"content": "<p>Une ressource physique (<span class=\"icon icon-physical\"></span>) est l'un des quatre types de ressources.</p><ul><li>Les ressources physiques peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités de cartes nécessitent spécifiquement que des ressources physiques soient dépensées pour résoudre leurs effets.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -80,8 +79,7 @@
 		"id": "piercing",
 		"term": "Perçant",
 		"type": "official",
-		"content": "Une attaque avec le mot-clé perçant défausse toute carte d'état tenace du personnage attaqué avant d'infliger des dégâts.<ul><li><red>Si une attaque avec le mot-clé perçant ne devait infliger aucun dégât au personnage attaqué, elle ne défausse pas les cartes d'état tenace de ce personnage.</red></li></ul>",
-		"whats_new": "Ajout d'une règle stipulant que si une attaque avec le mot-clé perçant ne devait infliger aucun dégât, elle ne défausse pas les cartes d'état tenace du personnage attaqué.",
+		"content": "<p>Une attaque avec le mot-clé perçant défausse toute carte d'état tenace du personnage attaqué avant d'infliger des dégâts.</p><ul><li><mark class=\"new\">Le mot-clé perçant est équivalent à la capacité suivante : « Avant que cette attaque n'inflige des dégâts à un personnage, défaussez chaque carte d'état tenace de ce personnage. »</mark></li><li>Si une attaque avec le mot-clé perçant ne devait infliger aucun dégât au personnage attaqué, elle ne défausse pas les cartes d'état tenace de ce personnage.</li></ul>",
 		"see_also": [
 			"attack_enemy_activation",
 			"attack_player_ability_type",
@@ -190,8 +188,7 @@
 		"id": "player_elimination",
 		"term": "Elimination de Joueur",
 		"type": "official",
-		"content": "Un joueur est éliminé de la partie si son identité est vaincue. Cela se produit généralement lorsque les points de vie restants du personnage sont réduits à zéro. Lorsqu'un joueur est éliminé, effectuez les actions suivantes dans l'ordre :<ol><li>Si le joueur éliminé possède le pion premier joueur, il le passe au joueur suivant dans le sens horaire.</li><li>S'il y a des sbires engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens horaire, en conservant tous <red>les jetons, cartes attachées, cartes de boost, cartes intercalées&nbsp;</red>et cartes d'état sur eux.</li><li>Pour chaque carte dans la zone de jeu du joueur éliminé qui n'est pas possédée par ce joueur, effectuez ce qui suit : Si cette carte est un attachement avec le mot-clé permanent, résolvez son texte « attachez cette carte ». S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie. Retirez chaque carte non-attachement avec le mot-clé permanent de la partie. Placez chaque autre carte dans la pile de défausse de son propriétaire.</li><li>Placez chaque carte possédée par le joueur éliminé dans la pile de défausse du joueur éliminé.</li><li>Retirez la zone de jeu du joueur éliminé et tout autre élément de jeu s'y trouvant (main, deck, pile de défausse, cartes en jeu, cadran de points de vie, etc.) de la partie.</li></ol>Lorsqu'un joueur est éliminé, les joueurs restants continuent de jouer la partie. Les joueurs éliminés ne participent plus à la partie mais sont considérés comme gagnant ou perdant avec le reste du groupe, selon l'issue de la partie.<ul><li>Si tous les joueurs sont éliminés, la partie se termine et les joueurs perdent.</li><li>Si un joueur est éliminé au cours de la résolution d'une capacité, résolvez l'intégralité de la capacité.</li><li>L<red>es effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, à l'exception de l'icône par joueur (<span class=\"icon icon-per_hero rules-icon\" title=\"per_hero\" aria-hidden=\"true\">G</span>).</red></li></ul>",
-		"whats_new": "Précision indiquant que lorsque les sbires engagent le joueur suivant, ils conservent tous les jetons, cartes attachées, cartes de boost et cartes glissées en dessous d'eux. Ajout également d'une règle stipulant que les effets se référant aux joueurs dans la partie ignorent les joueurs éliminés, à l'exception de l'icône « par joueur ».",
+		"content": "Un joueur est éliminé de la partie si son identité est vaincue. Cela se produit généralement lorsque les points de vie restants du personnage sont réduits à zéro. Lorsqu'un joueur est éliminé, effectuez les actions suivantes dans l'ordre :<ol><li>Si le joueur éliminé possède le pion premier joueur, il le passe au joueur suivant dans le sens horaire.</li><li>S'il y a des sbires engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens horaire, en conservant tous les jetons, cartes attachées, cartes de boost, cartes intercalées&nbsp;et cartes d'état sur eux.</li><li>Pour chaque carte dans la zone de jeu du joueur éliminé qui n'est pas possédée par ce joueur, effectuez ce qui suit : Si cette carte est un attachement avec le mot-clé permanent, résolvez son texte « attachez cette carte ». S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie. Retirez chaque carte non-attachement avec le mot-clé permanent de la partie. Placez chaque autre carte dans la pile de défausse de son propriétaire.</li><li>Placez chaque carte possédée par le joueur éliminé dans la pile de défausse du joueur éliminé.</li><li>Retirez la zone de jeu du joueur éliminé et tout autre élément de jeu s'y trouvant (main, deck, pile de défausse, cartes en jeu, cadran de points de vie, etc.) de la partie.</li></ol>Lorsqu'un joueur est éliminé, les joueurs restants continuent de jouer la partie. Les joueurs éliminés ne participent plus à la partie mais sont considérés comme gagnant ou perdant avec le reste du groupe, selon l'issue de la partie.<ul><li>Si tous les joueurs sont éliminés, la partie se termine et les joueurs perdent.</li><li>Si un joueur est éliminé au cours de la résolution d'une capacité, résolvez l'intégralité de la capacité.</li><li>Les effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, à l'exception de l'icône par joueur (<span class=\"icon icon-per_hero rules-icon\" title=\"per_hero\" aria-hidden=\"true\">G</span>).</li></ul>",
 		"see_also": [
 			"ability",
 			"deal_deal_an_encounter_card",
@@ -212,8 +209,7 @@
 		"id": "player_phase",
 		"term": "Phase des joueurs",
 		"type": "official",
-		"content": "Pendant la phase des joueurs, chaque joueur (dans l'ordre des joueurs) joue un tour. Après que chaque joueur a joué un tour, les joueurs défaussent ou piochent jusqu'à leur taille de main et <red>redressent chaque carte inclinée</red>.<ul><li>Les effets qui durent « jusqu'à la fin de la phase [des joueurs] » se terminent après que les joueurs ont pioché jusqu'à leur taille de main et que <red>toutes les cartes sont redressées.</red> Ensuite, les effets qui se résolvent « quand/après que la phase des joueurs se termine » sont résolus.</li></ul>",
-		"whats_new": "Mise à jour de la formulation pour préciser que les joueurs redressent « chaque carte inclinée » à la fin de la phase, et clarification sur le fait que les effets durant « jusqu'à la fin de la phase » expirent après que toutes les cartes ont été redressées.",
+		"content": "Pendant la phase des joueurs, chaque joueur (dans l'ordre des joueurs) joue un tour. Après que chaque joueur a joué un tour, les joueurs défaussent ou piochent jusqu'à leur taille de main et redressent chaque carte inclinée.<ul><li>Les effets qui durent « jusqu'à la fin de la phase [des joueurs] » se terminent après que les joueurs ont pioché jusqu'à leur taille de main et que toutes les cartes sont redressées. Ensuite, les effets qui se résolvent « quand/après que la phase des joueurs se termine » sont résolus.</li></ul>",
 		"see_also": [
 			"end_of_player_phase",
 			"in_player_order",
@@ -261,6 +257,24 @@
 			"player_phase",
 			"support",
 			"triggered_ability",
+			"upgrade"
+		]
+	},
+	{
+		"id": "players_play_area",
+		"term": "Zone de jeu du joueur",
+		"type": "official",
+		"content": "<ul><li>La zone de jeu d'un joueur (aussi appelée « aire de jeu du joueur ») est l'endroit où se trouvent sa carte identité, son deck, sa main, sa pile de défausse et son cadran de points de vie. Les cartes allié, soutien et amélioration y sont placées lorsqu'elles entrent en jeu. Les cartes attachement attachées à des cartes dans la zone de jeu du méchant ne sont pas dans la zone de jeu du joueur. Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur, pas dans celle du méchant. Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur.</li><li>Si un joueur est éliminé, sa zone de jeu est retirée de la partie.</li></ul>",
+		"see_also": [
+			"ally",
+			"discard_pile",
+			"identity",
+			"in_play_and_out_of_play",
+			"minion",
+			"obligation",
+			"player_deck",
+			"player_elimination",
+			"support",
 			"upgrade"
 		]
 	},

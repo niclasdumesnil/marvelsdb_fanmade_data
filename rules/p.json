@@ -3,7 +3,7 @@
 		"id": "patrol",
 		"term": "Patrol",
 		"type": "official",
-		"content": "<p>While a minion with the patrol keyword is engaged with a player, that player cannot use cards they control to thwart the main scheme.</p>\n<ul><li>Equivalent to:<blockquote>The engaged player cannot thwart the main scheme.</blockquote></li></ul>",
+		"content": "<p>While a minion with the patrol keyword is engaged with a player, that player cannot use cards they control to thwart the main scheme.</p><ul><li><mark class=\"new\">The patrol keyword is equivalent to the following constant ability: “The engaged player cannot thwart the main scheme.”</mark></li></ul>",
 		"see_also": [
 			"engage",
 			"keywords",
@@ -15,7 +15,7 @@
 	},
 	{
 		"id": "pay",
-		"term": "\"Pay\"",
+		"term": "“Pay”",
 		"type": "official",
 		"content": "<p>See: Cost.</p>",
 		"see_also": [
@@ -24,9 +24,9 @@
 	},
 	{
 		"id": "per_player_icon",
-		"term": "Per Player Icon",
+		"term": "Per Player Icon (<span class=\"icon icon-per_player\"></span>)",
 		"type": "official",
-		"content": "<p>The per-player icon next to a value multiplies that value by the number of players who started the scenario. If a player is eliminated, this value does not change.</p>",
+		"content": "<p>The <span class=\"icon icon-per_player\"></span> icon next to a value multiplies that value by the number of players who <b>started</b> the scenario.</p><ul><li>If a player is eliminated, this value does not change.</li></ul>",
 		"see_also": [
 			"icons",
 			"modifiers",
@@ -37,7 +37,7 @@
 		"id": "peril",
 		"term": "Peril",
 		"type": "official",
-		"content": "<p>While a player is resolving a card with the peril keyword, that player cannot consult other players, and other players cannot play cards or trigger abilities. Equivalent to: 'While a player is resolving this card, that player cannot consult other players, and other players cannot trigger abilities.</p>\n<p>While this card is in a player's play area, other players cannot trigger abilities on this card.'</p>",
+		"content": "<p>While a player is resolving a card with the peril keyword, that player cannot consult other players, and other players cannot play cards or trigger abilities.</p><ul><li><mark class=\"new\">The peril keyword is equivalent to the following constant ability: “While a player is resolving this card, that player cannot consult other players, and other players cannot trigger abilities. While this card is in a player’s play area, other players cannot trigger abilities on this card.”</mark></li></ul>",
 		"see_also": [
 			"ability",
 			"keywords",
@@ -51,7 +51,7 @@
 		"id": "permanent",
 		"term": "Permanent",
 		"type": "official",
-		"content": "<ul><li>A card with the permanent keyword cannot be defeated, leave play, or have any part of its text box blanked, except by card abilities in the same set (hero set, scenario set, or modular set). Equivalent to: 'Set this card aside during setup.</li><li>Effects on cards not from this card's set cannot defeat this card, remove this card from play, or blank any part of its text box.' Permanent cards are set aside before step 1 of setup and put into play later. They do not count toward deck size, and are not valid targets for effects causing them to leave play (such effects instead target the non-permanent card fitting the criteria).</li><li>If a card to which a permanent attachment was attached leaves play, resolve its 'attach to' text (or remove it from the game).</li><li>If a player is eliminated while a non-attachment permanent card they don't own is in their play area, remove that card from the game.</li></ul>",
+		"content": "<p>A card with the permanent keyword cannot be defeated, leave play, or have any part of its text box blanked, except by card abilities in the same set <em>(hero set, scenario set, or modular set)</em>. <em>(For example, an ability on a hero card can cause a permanent card within that hero’s set to leave play.)</em></p><ul><li><mark class=\"new\">The permanent keyword is equivalent to the following constant ability: “Set this card aside during setup. Effects on cards not from this card’s set cannot defeat this card, remove this card from play, or blank any part of its text box.”</mark></li><li>Permanent cards are set aside before step 1 of setup and are put into play later by abilities on other cards.</li><li>Permanent cards do not count towards a player’s minimum or maximum deck size.</li><li>Permanent cards are not valid targets for card effects that would cause the permanent card to leave play.<ul><li>If a permanent card would be targeted by such an effect <em>(for example, “discard the lowest-cost support you control”)</em>, that effect instead targets the non-permanent card that fits its criteria.</li></ul></li><li>If the card to which a permanent attachment was attached leaves play, resolve that attachment’s “attach to” text. If it has none or that text does not have a valid target, remove the attachment from the game.</li><li>If a player is eliminated from the game while a non-attachment permanent card they do not own is in their play area, remove that permanent card from the game.</li></ul>",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"keywords",
@@ -62,9 +62,9 @@
 	},
 	{
 		"id": "physical_resource",
-		"term": "Physical Resource",
+		"term": "Physical Resource (<span class=\"icon icon-physical\"></span>)",
 		"type": "official",
-		"content": "<p>A physical resource is one of the four types of resources. Physical resources can be spent to pay resource costs; some abilities specifically require them.</p>",
+		"content": "<p>A physical resource (<span class=\"icon icon-physical\"></span>) is one of the four types of resources.</p><ul><li>Physical resources can be spent to pay the resource cost of cards and abilities.</li><li>Some card abilities specifically require physical resources to be spent in order to resolve their effects.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -79,7 +79,7 @@
 		"id": "piercing",
 		"term": "Piercing",
 		"type": "official",
-		"content": "<p>An attack with the piercing keyword discards any tough status cards from the attacked character before dealing damage.</p>\n<ul><li>Equivalent to:<blockquote>Before this attack deals damage to a character, discard each tough status card from that character.</blockquote></li><li>If an attack with piercing would deal no damage, it does not discard tough status cards.</li></ul>",
+		"content": "<p>An attack with the piercing keyword discards any tough status cards from the attacked character before dealing damage.</p><ul><li><mark class=\"new\">The piercing keyword is equivalent to the following ability: “Before this attack deals damage to a character, discard each tough status card from that character.”</mark></li><li>If an attack with the piercing keyword would deal no damage to the attacked character, it does not discard tough status cards from that character.</li></ul>",
 		"see_also": [
 			"attack_enemy_activation",
 			"attack_player_ability_type",
