@@ -34,12 +34,6 @@
 		]
 	},
 	{
-		"id": "recover",
-		"term": "Récupération, récupérer",
-		"type": "official",
-		"content": "La récupération est un pouvoir de base qu'un joueur peut utiliser sous forme d'alter ego. Pour récupérer, le joueur incline son alter ego et soigne un nombre de points de vie égal à sa valeur de REC.<ul><li>Une identité qui n'a aucun dégât à soigner ne peut pas effectuer une récupération de base.</li></ul>"
-	},
-	{
 		"id": "referential_ability",
 		"term": "Capacité référentielle",
 		"type": "official",
@@ -227,12 +221,6 @@
 		"see_also": [
 			"modes_of_play"
 		]
-	},
-	{
-		"id": "round_overview",
-		"term": "Déroulement d'un Round",
-		"type": "official",
-		"content": "Voir : Déroulement d'un Round"
 	},
 	{
 		"id": "running_out_of_cards",

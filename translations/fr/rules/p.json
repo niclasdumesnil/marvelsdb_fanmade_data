@@ -222,12 +222,6 @@
 		]
 	},
 	{
-		"id": "player_play_area",
-		"term": "Zone de jeu d'un joueur",
-		"type": "official",
-		"content": "La zone de jeu d'un joueur est la zone de jeu où se trouvent la carte identité, le deck, la main, la pile de défausse et le cadran de points de vie d'un joueur. Chaque joueur dans la partie a sa propre zone de jeu.<ul><li>Les cartes allié, soutien et amélioration sont placées dans la zone de jeu d'un joueur lorsqu'elles entrent en jeu.</li><li>Les cartes attachement attachées à des cartes dans la zone de jeu du méchant ne sont pas dans la zone de jeu du joueur.</li><li>Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans celle du méchant.</li><li>Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans celle du méchant.</li><li>Bien que les capacités de carte puissent affecter des cartes dans d'autres zones de jeu, à moins qu'une règle ou une capacité ne stipule le contraire, les cartes ne peuvent pas être jouées dans la zone de jeu d'un autre joueur.</li><li>Si un joueur est éliminé de la partie (parce que son identité est vaincue ou autre), sa zone de jeu est retirée de la partie.</li></ul>"
-	},
-	{
 		"id": "player_side_scheme",
 		"term": "Manigance Annexe de Joueur",
 		"type": "official",
@@ -302,11 +296,5 @@
 			"base_value",
 			"modifiers"
 		]
-	},
-	{
-		"id": "put_into_play",
-		"term": "Mettre en Jeu",
-		"type": "official",
-		"content": "Voir : Jouer, Mettre en Jeu"
 	}
 ]

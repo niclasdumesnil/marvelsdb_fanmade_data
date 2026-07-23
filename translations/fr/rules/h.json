@@ -51,11 +51,5 @@
 			"reveal",
 			"threat"
 		]
-	},
-	{
-		"id": "hit_points_hp",
-		"term": "Points de vie",
-		"type": "official",
-		"content": "Chaque personnage (identité, allié, sbire et méchant) a une valeur de points de vie. Les points de vie représentent la résistance de ce personnage. Lorsque des dégâts sont infligés à un personnage, cela réduit ses points de vie restants (la quantité de dégâts que ce personnage peut subir avant d'atteindre zéro point de vie).<ul><li>L'expression « points de vie de départ » fait référence à la valeur imprimée des points de vie d'une identité.</li><li>Le cadran de points de vie d'une identité ou d'un méchant représente ses points de vie restants. Si une identité ou un méchant subit des dégâts, appliquez-les en réduisant son cadran de points de vie du montant spécifié. Si le cadran d'un joueur est réduit à zéro, ce joueur est vaincu et éliminé de la partie. Si le cadran d'un méchant est réduit à zéro, ce stade du méchant est vaincu. Lorsqu'une capacité qui indique qu'une identité ou un méchant « gagne +X points de vie » prend effet, augmentez le cadran de X. Si cette capacité cesse de faire effet, réduisez le cadran de X.</li><li>Si un allié ou un sbire subit des dégâts, suivez ces dégâts en plaçant des jetons dégât sur ce personnage. Ces jetons réduisent ses points de vie restants de la valeur totale des jetons. Un allié ou un sbire avec zéro point de vie restant (ou moins) est vaincu et défaussé. Si une capacité donnant « +X points de vie » à un allié ou un sbire cesse de s'appliquer et fait que ses dégâts égalent ou dépassent ses points de vie, il est vaincu.</li><li>Certains personnages peuvent avoir un nombre infini de points de vie. Un personnage avec des points de vie infinis ne peut pas être vaincu en subissant des dégâts, car la quantité de dégâts qu'il subit ne fera jamais tomber ses points de vie restants à zéro. Toutefois, des dégâts peuvent toujours lui être infligés via des attaques ou des capacités de carte.</li></ul>"
 	}
 ]

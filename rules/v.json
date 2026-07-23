@@ -73,18 +73,6 @@
 		]
 	},
 	{
-		"id": "villain_villain_deck",
-		"term": "Villain, Villain Deck",
-		"type": "official",
-		"content": "<p>Villain is an encounter card type representing the primary enemy the players are attempting to defeat. The villain is represented by a sequential deck of one or more cards; players defeat it by reducing the hit points of each stage to zero.</p>\n<p>Villain cards cannot be discarded from play.</p>",
-		"see_also": [
-			"activation",
-			"attack_enemy_activation",
-			"scheme_enemy_activation",
-			"villain_defeat"
-		]
-	},
-	{
 		"id": "villainous",
 		"term": "Villainous",
 		"type": "official",

@@ -115,12 +115,6 @@
 		]
 	},
 	{
-		"id": "drain",
-		"term": "Drain",
-		"type": "official",
-		"content": "Drain X est un mot-clé. Lorsque ce mot-clé est déclenché par un personnage, infligez X dégâts à la cible de ce personnage. Ensuite, si la cible a subi ces dégâts, soignez X dégâts du personnage qui a déclenché le drain."
-	},
-	{
 		"id": "draw",
 		"term": "Piocher, Piocher des Cartes",
 		"type": "official",

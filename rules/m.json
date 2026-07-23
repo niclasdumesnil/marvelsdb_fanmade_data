@@ -1,22 +1,5 @@
 [
 	{
-		"id": "main_scheme_main_scheme_deck",
-		"term": "Main Scheme, Main Scheme Deck",
-		"type": "official",
-		"content": "<p>Main scheme is an encounter card type representing the villain's primary objective. During step one of the villain phase, place threat indicated in the main scheme's acceleration field (modified by active acceleration tokens/icons). If threat equals or exceeds target threat value, the main scheme is completed and the deck advances; if the villain completes the final stage, the villain wins the game. When the main scheme deck advances:</p>\n<ol><li>Remove the top card from the game (return tokens except acceleration to pool, discard attached cards).</li><li>Resolve 'When Revealed' on the 'A' side of the new top card.</li><li>Flip to 'B' side, place threat equal to starting threat, resolve 'When Revealed' on that side. Excess threat does not carry over to the new stage; acceleration tokens on it do carry over. Main scheme cards cannot be discarded from play.</li></ol>",
-		"see_also": [
-			"acceleration_icon",
-			"acceleration_token",
-			"card_types",
-			"encounter_card",
-			"removed_from_the_game",
-			"target_threat",
-			"threat",
-			"villain",
-			"villain_phase"
-		]
-	},
-	{
 		"id": "max_maximum",
 		"term": "Max, Maximum",
 		"type": "official",

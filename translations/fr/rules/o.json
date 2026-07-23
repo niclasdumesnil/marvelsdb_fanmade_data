@@ -29,12 +29,6 @@
 		]
 	},
 	{
-		"id": "out_of_play",
-		"term": "Hors jeu",
-		"type": "official",
-		"content": "Voir : En jeu et Hors jeu"
-	},
-	{
 		"id": "overkill",
 		"term": "Déferlement",
 		"type": "official",

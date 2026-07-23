@@ -116,11 +116,5 @@
 		"see_also": [
 			"game_element"
 		]
-	},
-	{
-		"id": "mulligan",
-		"term": "Mulligan",
-		"type": "official",
-		"content": "Lors de l'étape de mise en place « Résoudre les Mulligans » (Étape 15), chaque joueur peut défausser de sa main autant de cartes qu'il le souhaite, puis piocher jusqu'à sa taille de main de départ. (Ne mélangez pas ces cartes défaussées dans le deck à ce moment-là.)"
 	}
 ]

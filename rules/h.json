@@ -34,16 +34,6 @@
 		]
 	},
 	{
-		"id": "hero_hero_form",
-		"term": "Hero, Hero Form",
-		"type": "official",
-		"content": "<p>See: Form, Identity.</p>",
-		"see_also": [
-			"form",
-			"identity"
-		]
-	},
-	{
 		"id": "heroic_mode",
 		"term": "Heroic Mode",
 		"type": "official",

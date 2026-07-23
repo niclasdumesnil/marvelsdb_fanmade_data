@@ -79,13 +79,6 @@
 		]
 	},
 	{
-		"id": "choosing_an_option",
-		"term": "Choisir (Option)",
-		"type": "official",
-		"content": "<red>Lorsqu'une capacité demande à un joueur de choisir entre plusieurs options, ce joueur doit choisir une option dont la résolution pourrait modifier l'état du jeu, quel que soit le coût pour déclencher cette capacité. Si aucune option ne peut modifier l'état du jeu, la capacité ne peut pas être déclenchée.</red>",
-		"whats_new": "Ajout de la règle exigeant qu'un joueur DOIT choisir une option qui modifie effectivement l'état du jeu (il n'est plus possible de choisir une option qui n'aurait aucun effet juste pour payer un coût ou défausser une carte)."
-	},
-	{
 		"id": "classifications",
 		"term": "Classifications",
 		"type": "official",

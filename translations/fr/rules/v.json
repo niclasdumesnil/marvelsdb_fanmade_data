@@ -82,13 +82,6 @@
 		]
 	},
 	{
-		"id": "villain_play_area",
-		"term": "Zone de Jeu du Méchant",
-		"type": "official",
-		"content": "La zone de jeu du méchant est la zone de jeu où se trouvent le deck méchant, le deck manigance principale, le deck rencontre, la pile de défausse rencontre et le cadran de points de vie du méchant.<ul><li>Les cartes environnement et les cartes manigance annexe sont placées dans la zone de jeu du méchant lorsqu'elles entrent en jeu.</li><li>Les cartes attachement attachées à des cartes dans la zone de jeu du méchant sont dans la zone de jeu du méchant. Les cartes attachement attachées à des cartes dans la zone de jeu d'un joueur ne sont pas dans la zone de jeu du méchant.</li><li>Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</li><li>Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</li></ul>",
-		"whats_new": "test"
-	},
-	{
 		"id": "villainous",
 		"term": "Vilenie",
 		"type": "official",

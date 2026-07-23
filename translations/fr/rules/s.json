@@ -90,12 +90,6 @@
 		]
 	},
 	{
-		"id": "setup",
-		"term": "Mise en place",
-		"type": "official",
-		"content": "La mise en place est le processus de préparation de la partie avant que le premier round ne commence. Il comprend la sélection des identités, le réglage des points de vie, le choix du premier joueur, la mise de côté des obligations et des sets némésis, le mélange des decks joueurs, la collecte des jetons/cartes d'état, la sélection du scénario, le réglage des points de vie du méchant, la création du deck rencontre, la mise en jeu des cartes de mise en place, la résolution de la mise en place du scénario et des capacités « une fois révélées », la mise en place de la campagne, la pioche des cartes, la résolution des mulligans, et la résolution des capacités de mise en place des personnages."
-	},
-	{
 		"id": "setup_keyword",
 		"term": "Mise en Place (Mot-Clé)",
 		"type": "official",
