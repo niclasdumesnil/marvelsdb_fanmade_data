@@ -259,7 +259,7 @@
 		"id": "expert_set",
 		"term": "Expert Set",
 		"type": "official",
-		"content": "<p>The expert set is added to scenarios during expert mode. It is not a modular encounter set and cannot be selected when a scenario requires choosing a modular set.</p>\n<p>Cards in the 'Expert' classification have 'Expert' printed at the bottom of the card.</p>",
+		"content": "<p>The expert set is an encounter set that is added to scenarios during expert mode.</p><ul><li>The expert set is not a modular encounter set and cannot be selected <em>(by the players or randomly)</em> when a scenario requires players to choose a modular encounter set to include in that scenario.</li><li>Cards in the “Expert” classification are any cards that have the word “Expert” printed by the bottom of the card in its encounter set name area.</li></ul>",
 		"see_also": [
 			"classifications",
 			"modes_of_play",
