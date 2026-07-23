@@ -3,7 +3,7 @@
 		"id": "hand_size",
 		"term": "Taille de main",
 		"type": "official",
-		"content": "Chaque joueur vérifie sa taille de main à la fin de la phase des joueurs, en se défaussant ou en piochant jusqu'au nombre de cartes indiqué par sa valeur de taille de main.<ul><li>Lorsqu'il pioche jusqu'à sa taille de main, un joueur pioche les cartes une par une, en vérifiant après chaque carte piochée s'il a atteint sa taille de main.</li></ul>",
+		"content": "<p>Chaque joueur vérifie sa taille de main à la fin de la phase des joueurs, en se défaussant ou en piochant jusqu'au nombre de cartes indiqué par la valeur de sa taille de main.</p><ul><li>Lorsqu'il pioche jusqu'à sa taille de main, un joueur pioche les cartes une par une, en vérifiant après chaque carte piochée s'il a atteint sa taille de main.</li></ul>",
 		"see_also": [
 			"end_of_player_phase",
 			"modifiers"
@@ -11,9 +11,9 @@
 	},
 	{
 		"id": "hazard_icon",
-		"term": "Icône d'aléas",
+		"term": "Icône d'aléas (<span class=\"icon icon-hazard\"></span>)",
 		"type": "official",
-		"content": "Pendant l'étape de distribution des cartes rencontre de la phase du méchant, pour chaque icône d'aléas (<span class=\"icon-hazard\"></span>) sur les cartes en jeu, distribuez une carte supplémentaire à un joueur (et non une carte par joueur). Les cartes supplémentaires sont distribuées dans l'ordre des joueurs (la première au premier joueur, la deuxième au deuxième, etc.).",
+		"content": "<p>Pendant l'étape d'attribution des cartes rencontre de la phase du méchant, pour chaque icône d'aléas (<span class=\"icon icon-hazard\"></span>) sur les cartes en jeu, attribuez une carte supplémentaire à un joueur <em>(pas une carte par joueur)</em>. Les cartes supplémentaires sont attribuées dans l'ordre des joueurs <em>(première carte supplémentaire au premier joueur, deuxième au deuxième joueur, etc.)</em>.</p><ul><li><mark class=\"new\">Chaque icône d'aléas est équivalente à la capacité constante suivante : « Pendant l'étape d'attribution des cartes rencontre de la phase du méchant, attribuez 1 carte rencontre supplémentaire. Les cartes supplémentaires issues des icônes d'aléas sont attribuées dans l'ordre des joueurs. »</mark></li></ul>",
 		"see_also": [
 			"deal_deal_an_encounter_card",
 			"in_player_order",
@@ -40,6 +40,15 @@
 		"content": "Voir : Forme, changer de forme, Identité"
 	},
 	{
+		"id": "heroic_mode",
+		"term": "Mode Héroïque",
+		"type": "official",
+		"content": "Voir : Modes de Jeu.",
+		"see_also": [
+			"modes_of_play"
+		]
+	},
+	{
 		"id": "hinder_x",
 		"term": "Entrave X",
 		"type": "official",
@@ -50,6 +59,27 @@
 			"reminder_text",
 			"reveal",
 			"threat"
+		]
+	},
+	{
+		"id": "hit_points",
+		"term": "Points de Vie",
+		"type": "official",
+		"content": "<ul><li>Chaque personnage possède une valeur de points de vie représentant sa robustesse. Les « points de vie de départ » font référence à la valeur imprimée d'une identité.</li><li>Le cadran de points de vie d'une identité ou d'un méchant représente ses points de vie restants ; s'ils sont réduits à zéro, le joueur est vaincu et éliminé, ou ce stade du méchant est vaincu.</li><li>Lorsqu'une capacité donne « +X points de vie » à une identité ou à un méchant, augmentez le cadran de X (et réduisez-le de X lorsque l'effet cesse).</li><li>Les dégâts sur un allié ou un sbire sont suivis à l'aide de pions dégât ; s'il ne lui reste plus aucun point de vie (zéro ou moins), il est vaincu et défaussé.</li><li>Si la fin d'un effet « gagne +X points de vie » provoque des dégâts égaux ou supérieurs aux points de vie, cet allié ou ce sbire est vaincu.</li><li>Certains personnages peuvent avoir des points de vie infinis et ne peuvent pas être vaincus par les dégâts, même si des dégâts peuvent tout de même leur être infligés.</li></ul>",
+		"see_also": [
+			"ally",
+			"damage",
+			"defeat",
+			"heal",
+			"identity",
+			"maximum_hit_points",
+			"minion",
+			"modifiers",
+			"player_elimination",
+			"remaining_hit_points",
+			"sustained_damage",
+			"villain",
+			"villain_defeat"
 		]
 	}
 ]

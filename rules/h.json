@@ -3,7 +3,7 @@
 		"id": "hand_size",
 		"term": "Hand Size",
 		"type": "official",
-		"content": "<p>Each player checks their hand size at the end of the player phase, discarding down to or drawing up to their hand size value.</p>",
+		"content": "<p>Each player checks their hand size at the end of the player phase, either discarding down to or drawing up to the number of cards indicated by their hand size value.</p><ul><li>When drawing up to their hand size, a player draws cards one at a time, checking after each card is drawn whether they are at their hand size.</li></ul>",
 		"see_also": [
 			"end_of_player_phase",
 			"modifiers"
@@ -11,9 +11,9 @@
 	},
 	{
 		"id": "hazard_icon",
-		"term": "Hazard Icon",
+		"term": "Hazard Icon (<span class=\"icon icon-hazard\"></span>)",
 		"type": "official",
-		"content": "<p>During the Deal Encounter Cards step of the villain phase, for each hazard icon on cards in play, deal one player one additional card (not one per player); additional cards are dealt in player order. Each hazard icon is equivalent to: 'During the Deal Encounter Cards step of the villain phase, deal 1 additional encounter card.</p>\n<p>Additional cards from hazard icons are dealt in player order.'</p>",
+		"content": "<p>During the Deal Encounter Cards step of the villain phase, for each hazard icon on cards in play, deal one player one additional card <em>(not one card per player)</em>. Additional cards are dealt in player order <em>(first additional card to the first player, the second to the second player, etc.)</em>.</p><ul><li><mark class=\"new\">Each hazard icon is equivalent to the following constant ability: “During the Deal Encounter Cards step of the villain phase, deal 1 additional encounter card. Additional cards from hazard icons are dealt in player order.”</mark></li></ul>",
 		"see_also": [
 			"deal_deal_an_encounter_card",
 			"in_player_order",
@@ -32,6 +32,12 @@
 			"minion",
 			"villain"
 		]
+	},
+	{
+		"id": "hero",
+		"term": "",
+		"type": "official",
+		"content": ""
 	},
 	{
 		"id": "heroic_mode",
