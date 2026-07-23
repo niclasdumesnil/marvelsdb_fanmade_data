@@ -151,7 +151,7 @@
 		"id": "skirmish_mode",
 		"term": "Mode Escarmouche",
 		"type": "official",
-		"content": "Voir : Modes de Jeu",
+		"content": "<p>Voir : Modes de jeu.</p>",
 		"see_also": [
 			"modes_of_play"
 		]
@@ -160,7 +160,7 @@
 		"id": "special",
 		"term": "Spécial",
 		"type": "official",
-		"content": "Une capacité spéciale est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « <b>Spécial </b>». Les capacités spéciales ne peuvent être exécutées que par l'instruction explicite d'une autre capacité de carte.",
+		"content": "<p>Une capacité spéciale est un type de capacité déclenchée, indiquée par le déclencheur « <b>Spécial</b> » en gras. Les capacités spéciales ne peuvent être <mark class=\"new\">résolues</mark> que par l'instruction explicite d'une autre capacité de carte.</p>",
 		"see_also": [
 			"triggered_ability"
 		]
@@ -169,7 +169,7 @@
 		"id": "stalwart",
 		"term": "Robuste",
 		"type": "official",
-		"content": "Un personnage qui possède le mot-clé robuste ne peut pas être sonné ni désorienté.<ul><li>Si un personnage gagne le mot-clé robuste alors qu'il possède une carte d'état sonné et/ou désorienté, chaque carte d'état sonné et/ou désorienté est retirée de ce personnage.</li></ul>",
+		"content": "<p>Un personnage qui possède le mot-clé robuste ne peut pas être sonné ni désorienté.</p><ul><li><mark class=\"new\">Le mot-clé robuste est équivalent à la capacité constante suivante : « Ce personnage ne peut pas avoir de cartes d'état désorienté ou sonné. »</mark></li><li>Si un personnage gagne le mot-clé robuste alors qu'il possède une carte d'état sonné et/ou désorienté, chaque carte d'état sonné et/ou désorienté est retirée de ce personnage.</li></ul>",
 		"see_also": [
 			"ally",
 			"confuse_confused",
@@ -187,7 +187,7 @@
 		"id": "standard_mode",
 		"term": "Mode Standard",
 		"type": "official",
-		"content": "Voir : Modes de Jeu",
+		"content": "<p>Voir : Modes de jeu.</p>",
 		"see_also": [
 			"modes_of_play"
 		]
@@ -196,7 +196,7 @@
 		"id": "standard_set",
 		"term": "Set standard",
 		"type": "official",
-		"content": "Le set standard est un set de rencontre qui est ajouté à la plupart des scénarios.<ul><li>Le set standard n'est pas un set de rencontre modulaire et ne peut pas être sélectionné (par les joueurs ou au hasard) lorsqu'un scénario demande aux joueurs de choisir un set de rencontre modulaire à inclure dans ce scénario.</li><li>Les cartes de la classification « Standard » sont toutes les cartes qui ont le mot « Standard » imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
+		"content": "<p>Le set standard est un set de rencontre qui est ajouté à la plupart des scénarios.</p><ul><li>Le set standard n'est pas un set de rencontre modulaire et ne peut pas être sélectionné <em>(par les joueurs ou au hasard)</em> lorsqu'un scénario demande aux joueurs de choisir un set de rencontre modulaire à inclure dans ce scénario.</li><li>Les cartes de la classification « Standard » sont toutes les cartes qui ont le mot « Standard » imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
 		"see_also": [
 			"classifications",
 			"appendix_i_deck_customization"
@@ -204,9 +204,9 @@
 	},
 	{
 		"id": "star_icon",
-		"term": "Icône d'Étoile",
+		"term": "Icône d'étoile (⭐)",
 		"type": "official",
-		"content": "Une icône d'étoile (<span class=\"icon-star\"></span>) est utilisée conjointement avec la statistique d'une carte ou la zone de boost pour indiquer qu'il y a une capacité obligatoire dans la boîte de texte qui correspond à ce champ. En soi, l'icône d'étoile n'a aucun effet ; c'est simplement un rappel de vérifier la boîte de texte de la carte à chaque fois que ce champ est utilisé.<ul><li>Si une icône d'étoile est située à côté de la valeur ATQ ou MNG d'un ennemi, l'icône sert de rappel pour vérifier la boîte de texte de cet ennemi à chaque fois que cet ennemi utilise cette valeur pour attaquer ou manigancer.</li><li>Si une icône d'étoile est située dans le champ ATQ ou MNG d'un attachement, l'icône sert de rappel pour vérifier la boîte de texte de cet attachement à chaque fois que l'ennemi attaché utilise la valeur modifiée par ce champ pour attaquer ou manigancer.</li><li>Si une icône d'étoile est située à côté de la valeur ATQ ou CTR d'un allié, l'icône sert de rappel pour vérifier la boîte de texte de cet allié à chaque fois qu'il utilise cette valeur pour attaquer ou contrer.</li><li>Si une icône d'étoile est située à côté de la valeur ATQ, CTR ou DEF d'un héros, ou à côté de la valeur REC d'un alter ego, l'icône sert de rappel pour vérifier la boîte de texte de ce personnage à chaque fois qu'il utilise cette valeur.</li><li>Si une étape de jeu ou une capacité fait référence à un pouvoir avec la valeur étoile (<span class=\"icon-star\"></span>), cette valeur est traitée comme étant 0.</li><li>Si une icône d'étoile est située dans la zone de boost d'une carte rencontre, l'icône sert de rappel pour vérifier la boîte de texte de cette carte à chaque fois que cette carte est retournée face visible comme carte de boost pendant l'activation du méchant.</li></ul>",
+		"content": "<p>Une icône d'étoile (<span class=\"icon icon-star\"></span>) est utilisée conjointement avec la statistique d'une carte ou sa zone de boost pour indiquer qu'il y a une capacité obligatoire dans la boîte de texte qui correspond à ce champ. En soi, l'icône d'étoile n'a aucun effet ; c'est simplement un rappel de vérifier la boîte de texte de la carte à chaque fois que ce champ est utilisé.</p><ul><li>Si une icône d'étoile est située à côté de la valeur ATQ ou MNG d'un ennemi, l'icône sert de rappel pour vérifier la boîte de texte de cet ennemi à chaque fois que cet ennemi utilise cette valeur pour attaquer ou manigancer.</li><li>Si une icône d'étoile est située dans le champ ATQ ou MNG d'un attachement, l'icône sert de rappel pour vérifier la boîte de texte de cet attachement à chaque fois que l'ennemi attaché utilise la valeur modifiée par ce champ pour attaquer ou manigancer.</li><li>Si une icône d'étoile est située à côté de la valeur ATQ ou CTR d'un allié, l'icône sert de rappel pour vérifier la boîte de texte de cet allié à chaque fois qu'il utilise cette valeur pour attaquer ou contrer.</li><li>Si une icône d'étoile est située à côté de la valeur ATQ, CTR ou DEF d'un héros, ou à côté de la valeur RÉC d'un alter ego, l'icône sert de rappel pour vérifier la boîte de texte de ce personnage à chaque fois qu'il utilise cette valeur pour attaquer, contrer, défendre ou récupérer.</li><li><mark class=\"new\">Si une étape de jeu ou une capacité fait référence à un pouvoir avec la valeur étoile (<span class=\"icon icon-star\"></span>), cette valeur est définie dans le texte de cette carte. Si elle n'est pas définie (par exemple, si le texte de la carte est annulé), cette valeur est traitée comme étant 0.</mark></li><li>Si une icône d'étoile est située dans la zone de boost d'une carte rencontre, l'icône sert de rappel pour vérifier la boîte de texte de cette carte à chaque fois que cette carte est retournée face visible comme carte de boost pendant l'activation du méchant.</li></ul>",
 		"see_also": [
 			"activation",
 			"ally",
@@ -223,7 +223,7 @@
 		"id": "status_cards",
 		"term": "Cartes d'état",
 		"type": "official",
-		"content": "Les cartes d'état représentent différents états dans lesquels un personnage peut se trouver pendant la partie. Lorsqu'un personnage reçoit une carte d'état, prenez une carte d'état du type spécifié dans la réserve et placez-la sur ce personnage.<ul><li>Un personnage ne peut pas avoir plus d'une carte d'état de chaque type à la fois.</li><ul><li>Les personnages avec le mot-clé solide peuvent avoir une carte d'état désorienté supplémentaire et une carte d'état sonné supplémentaire.</li></ul><li>Les capacités des cartes d'état ont priorité sur toutes les capacités déclenchées conflictuelles.</li><li>Les trois types de cartes d'état sont :&nbsp;</li></ul><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><b style=\"font-size: 0.92rem;\">Désorienté</b><span style=\"font-size: 0.92rem;\"> (annule le prochain contre ou la prochaine manigance d'un personnage),&nbsp;</span></blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><b style=\"font-size: 0.92rem;\">Sonné</b><span style=\"font-size: 0.92rem;\"> (annule la prochaine attaque d'un personnage),</span></blockquote><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><b style=\"font-size: 0.92rem;\">Tenace</b><span style=\"font-size: 0.92rem;\"> (prévient les dégâts que le personnage prend).</span></blockquote>",
+		"content": "<p>Les cartes d'état représentent différents états dans lesquels un personnage peut se trouver pendant la partie.</p><p>Les cartes d'état suivantes sont utilisées dans le jeu. Lorsqu'un personnage reçoit une carte d'état, prenez une carte d'état du type spécifié dans la réserve et placez-la sur ce personnage.</p><ul><li>Un personnage ne peut pas avoir plus d'une carte d'état de chaque type à la fois.<ul><li>Les personnages avec le mot-clé solide peuvent avoir une carte d'état désorienté supplémentaire et une carte d'état sonné supplémentaire.</li></ul></li><li>Les capacités des cartes d'état ont une priorité de timing sur toutes les capacités déclenchées conflictuelles.</li></ul><p>Les trois types de cartes d'état sont :</p><ul><li><b>Désorienté</b> — Une carte d'état désorienté annule la prochaine manigance ou le prochain contre d'un personnage. Voir : Désorienter, Désorienté.</li><li><b>Sonné</b> — Une carte d'état sonné annule la prochaine attaque d'un personnage. Voir : Sonner, Sonné.</li><li><b>Tenace</b> — Une carte d'état tenace prévient les dégâts subis par un personnage. Voir : Tenace.</li></ul>",
 		"see_also": [
 			"ally",
 			"attack_enemy_activation",

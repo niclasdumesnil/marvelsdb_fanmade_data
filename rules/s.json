@@ -160,7 +160,7 @@
 		"id": "special",
 		"term": "Special",
 		"type": "official",
-		"content": "<p>A special ability is a triggered ability indicated by the bold 'Special' timing trigger, resolved only through the explicit instruction of another card ability.</p>",
+		"content": "<p>A special ability is a type of triggered ability, indicated by the bold “<b>Special</b>” timing trigger. Special abilities may only be <mark class=\"new\">resolved</mark> through the explicit instruction of another card ability.</p>",
 		"see_also": [
 			"triggered_ability"
 		]
@@ -169,7 +169,7 @@
 		"id": "stalwart",
 		"term": "Stalwart",
 		"type": "official",
-		"content": "<p>A character with the stalwart keyword cannot be stunned or confused.</p>\n<ul><li>Equivalent to:<blockquote>This character cannot have confused or stunned status cards.</blockquote></li><li>If a character gains stalwart while it has a stunned/confused status card, that status card is removed.</li></ul>",
+		"content": "<p>A character that has the stalwart keyword cannot be stunned or confused.</p><ul><li><mark class=\"new\">The stalwart keyword is equivalent to the following constant ability: “This character cannot have confused or stunned status cards.”</mark></li><li>If a character gains the stalwart keyword while they have a stunned and/or confused status card, each stunned and/or confused status card is removed from that character.</li></ul>",
 		"see_also": [
 			"ally",
 			"confuse_confused",
@@ -196,7 +196,7 @@
 		"id": "standard_set",
 		"term": "Standard Set",
 		"type": "official",
-		"content": "<p>The standard set is an encounter set added to most scenarios. It is not a modular encounter set and cannot be selected when a scenario requires choosing a modular set.</p>\n<p>Cards in the 'Standard' classification have 'Standard' printed at the bottom of the card.</p>",
+		"content": "<p>The standard set is an encounter set that is added to most scenarios.</p><ul><li>The standard set is not a modular encounter set and cannot be selected <em>(by the players or randomly)</em> when a scenario requires players to choose a modular encounter set to include in that scenario.</li><li>Cards in the “Standard” classification are any cards that have the word “Standard” printed by the bottom of the card in its encounter set name area.</li></ul>",
 		"see_also": [
 			"classifications",
 			"appendix_i_deck_customization"
@@ -204,9 +204,9 @@
 	},
 	{
 		"id": "star_icon",
-		"term": "Star Icon",
+		"term": "Star Icon (⭐)",
 		"type": "official",
-		"content": "<p>A star icon is used with a card's stat or boost field to indicate a mandatory ability in the text box corresponding to that field; in itself it has no effect, serving as a reminder to check the text box whenever that field is used (for ATK/SCH on an enemy or attachment, ATK/THW on an ally, ATK/THW/DEF on a hero, REC on an alter-ego, or an encounter card's boost field). If a game step/ability references a power with the value of star, that value is defined in that card's text (0 if undefined).</p>",
+		"content": "<p>A star icon is used in conjunction with a card’s stat or boost field to indicate that there is a mandatory ability in the text box that corresponds to that field. In and of itself, the star icon has no effect; it is merely a reminder to check the card’s text box whenever that field is used.</p><ul><li>If a star icon is located next to an enemy’s ATK or SCH value, the icon serves as a reminder to check that enemy’s text box whenever that enemy uses that value to attack or scheme.</li><li>If a star icon is located in the ATK or SCH field of an attachment, the icon serves as a reminder to check that attachment’s text box whenever the attached enemy uses the value that field is modifying to attack or scheme.</li><li>If a star icon is located next to an ally’s ATK or THW value, the icon serves as a reminder to check that ally’s text box whenever that ally uses that value to attack or thwart.</li><li>If a star icon is located next to a hero’s ATK, THW, or DEF, or next to an alter-ego’s REC value, the icon serves as a reminder to check that character’s text box whenever they use that value to attack, thwart, defend, or recover.</li><li><mark class=\"new\">If a game step or ability references a power with the value of star (<span class=\"icon icon-star\"></span>), that value is defined in that card’s text. If it is not defined (for instance, if the card’s text is blanked), that value is treated as 0.</mark></li><li>If a star icon is located in an encounter card’s boost field, the icon serves as a reminder to check that card’s text box whenever that card is turned face up as a boost card during the villain’s activation.</li></ul>",
 		"see_also": [
 			"activation",
 			"ally",
@@ -223,7 +223,7 @@
 		"id": "status_cards",
 		"term": "Status Cards",
 		"type": "official",
-		"content": "<p>Status cards represent different states a character may find themselves in during the game.</p>\n<ul><li>When given a status card, take one of the specified type from the pool.</li><li>A character cannot have more than one status card of each type at a time (steady characters can have one additional confused and one additional stunned). Status card abilities have timing priority over all conflicting triggered abilities. Three types: Confused (cancels next scheme/thwart), Stunned (cancels next attack), Tough (prevents a character from taking damage).</li></ul>",
+		"content": "<p>Status card represent different states a character may find themselves in during the game.</p><p>The following status cards are used in the game. When a character is given a status card, take a status card of the specified type from the pool and place it on that character.</p><ul><li>A character cannot have more than one status card of each type at a time.<ul><li>Characters with the steady keyword can have one additional confused status card and one additional stunned status card.</li></ul></li><li>Status card abilities have timing priority over all conflicting triggered abilities.</li></ul><p>The three status card types are:</p><ul><li><b>Confused</b> — A confused status card cancels a character’s next scheme or thwart. See: Confuse, Confused.</li><li><b>Stunned</b> — A stunned status card cancels a character’s next attack. See: Stun, Stunned.</li><li><b>Tough</b> — A tough status card prevents a character from taking damage. See: Tough.</li></ul>",
 		"see_also": [
 			"ally",
 			"attack_enemy_activation",
