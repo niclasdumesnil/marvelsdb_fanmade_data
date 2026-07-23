@@ -85,26 +85,10 @@
 		]
 	},
 	{
-		"id": "villainous",
-		"term": "Villainous",
-		"type": "official",
-		"content": "<p>When a character with the villainous keyword uses a basic power, give it a facedown boost card from the top of the encounter deck. When resolving that basic power, turn the boost card faceup, resolve any boost ability on it, and apply its boost icons to the character's stats for this use; discard the boost card after.</p>\n<ul><li>Equivalent to:<blockquote>Forced Interrupt: When this character uses a basic power, give it a boost card.</blockquote></li><li>If a boost ability on a boost card dealt to a character refers to 'the villain,' that ability still applies to the villain even if another type of character is resolving it.</li></ul>",
-		"see_also": [
-			"activation",
-			"attack_enemy_activation",
-			"boost_boost_icon",
-			"discard",
-			"keywords",
-			"minion",
-			"reminder_text",
-			"scheme_enemy_activation"
-		]
-	},
-	{
 		"id": "villains_play_area",
-		"term": "Villain's Play Area",
+		"term": "Villain’s Play Area",
 		"type": "official",
-		"content": "<p>The villain's play area (also 'villain's game area') is where the villain deck, main scheme deck, encounter deck, encounter discard pile, and villain's hit point dial are located. Environment and side scheme cards are placed here when entering play.</p>\n<p>Attachment cards attached to cards in the villain's play area are in the villain's play area (those attached to a player's cards are not). Minion cards engaged with a player and obligation cards given to a player are in that player's play area, not the villain's.</p>",
+		"content": "<p>The villain’s play area <em>(also sometimes referred to as the “villain’s game area”)</em> is the area of play where the villain deck, the main scheme deck, the encounter deck, the encounter discard pile, and the villain’s hit point dial are located.</p><ul><li>Environment cards and side scheme cards are placed in the villain’s play area when they enter play.</li><li>Attachment cards attached to cards in the villain’s play area are in the villain’s play area. Attachment cards attached to cards in a player’s play area are not in the villain’s play area.</li><li>Minion cards engaged with a player are in that player’s play area and not in the villain’s play area.</li><li>Obligation cards given to a player are in that player’s play area and not in the villain’s play area.</li></ul>",
 		"see_also": [
 			"attachment",
 			"discard_pile",
@@ -118,10 +102,26 @@
 		]
 	},
 	{
+		"id": "villainous",
+		"term": "Villainous",
+		"type": "official",
+		"content": "<p>When a <mark class=\"new\">character</mark> with the villainous keyword <mark class=\"new\">uses a basic power</mark>, give it a facedown boost card from the top of the encounter deck. When <mark class=\"new\">resolving that basic power</mark>, turn the boost card faceup, resolve any boost ability on that card, and apply its boost icons to the <mark class=\"new\">character</mark>’s stats for this <mark class=\"new\">use</mark>. Discard the boost card after it is resolved.</p><ul><li><mark class=\"new\">The villainous keyword is equivalent to the following triggered ability: “<b>Forced Interrupt</b>: When this character uses a basic power, give it a boost card.”</mark></li><li>If a boost ability on a boost card dealt to a <mark class=\"new\">character</mark> refers to “the villain,” that ability still applies to the villain <em>(even if another type of character is resolving it)</em>.</li></ul>",
+		"see_also": [
+			"activation",
+			"attack_enemy_activation",
+			"boost_boost_icon",
+			"discard",
+			"keywords",
+			"minion",
+			"reminder_text",
+			"scheme_enemy_activation"
+		]
+	},
+	{
 		"id": "vulnerable",
 		"term": "Vulnerable",
 		"type": "official",
-		"content": "<p>When a character with vulnerable becomes confused or stunned, that character is immediately discarded (without being defeated).</p>\n<ul><li>Equivalent to:<blockquote>Forced Interrupt: When this character becomes confused or stunned, discard it.</blockquote></li><li>If a character with vulnerable would simultaneously take enough damage to defeat it and become confused/stunned, it is discarded before the damage is applied and is not considered defeated.</li><li>If a character has both steady and vulnerable, vulnerable does not take effect until the character has two confused or two stunned status cards.</li></ul>",
+		"content": "<p>When a character with vulnerable becomes confused or stunned, that character is immediately discarded <em>(without being defeated)</em>.</p><ul><li><mark class=\"new\">The vulnerable keyword is equivalent to the following triggered ability: “<b>Forced Interrupt</b>: When this character becomes confused or stunned, discard it.”</mark></li><li>If a character with the vulnerable keyword would simultaneously take enough damage to defeat it and become either confused or stunned, it is discarded before the damage is applied and is not considered defeated.</li><li>If a character has both the steady and vulnerable keywords, the vulnerable keyword does not take effect until that character has two confused or two stunned status cards.</li></ul>",
 		"see_also": [
 			"confuse_confused",
 			"steady",

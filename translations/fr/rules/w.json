@@ -1,9 +1,9 @@
 [
 	{
 		"id": "when_completed_abilities",
-		"term": "Capacité \"une fois achevée\"",
+		"term": "Capacité une fois achevée",
 		"type": "official",
-		"content": "Une capacité \"une fois achevée\" est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « Une fois achevée ». Lorsqu'une manigance principale est achevée, toutes les capacités « Une fois achevée » sur la carte se résolvent.",
+		"content": "<p>Une capacité une fois achevée est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « <b>Une fois achevée</b> ».</p><p>Lorsqu'une manigance principale est achevée, toutes les capacités « <b>Une fois achevée</b> » sur la carte se résolvent.</p><ul><li><mark class=\"new\">Le déclencheur de timing « <b>Une fois achevée</b> » est équivalent au déclencheur suivant : « <b>Interruption forcée</b> : Quand cette manigance est achevée... »</mark></li></ul>",
 		"see_also": [
 			"main_scheme_main_scheme_deck"
 		]
@@ -12,7 +12,7 @@
 		"id": "when_defeated_abilities",
 		"term": "Capacité une fois vaincu, déjouée",
 		"type": "official",
-		"content": "Une capacité une fois vaincu/déjouée est un type de capacité déclenchée, indiquée par le déclencheur en gras « Une fois vaincu » ou « Une fois déjouée ».<ul><li>Lorsqu'un stade de méchant, une manigance annexe, un stade de manigance principale, un allié ou un sbire est vaincu ou déjoué, toutes les capacités « Une fois vaincu/déjouée » sur la carte se résolvent.</li><li>Une carte vaincue quitte le jeu après la résolution de sa capacité « Une fois vaincu/déjouée », le cas échéant.</li></ul>",
+		"content": "<p>Une capacité une fois vaincu/déjouée est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « <b>Une fois vaincu</b> » ou « <b>Une fois déjouée</b> ».</p><ul><li><mark class=\"new\">Le déclencheur de timing « <b>Une fois vaincu</b> » est équivalent au déclencheur suivant : « <b>Interruption forcée</b> : Quand cette carte est vaincue... »</mark></li><li>Lorsqu'un stade de méchant, une manigance annexe, un stade de manigance principale, un allié ou un sbire est vaincu ou déjoué, toutes les capacités « <b>Une fois vaincu/déjouée</b> » sur la carte se résolvent.<ul><li>Une carte vaincue quitte le jeu après la résolution de sa capacité « <b>Une fois vaincu/déjouée</b> », le cas échéant.</li></ul></li></ul>",
 		"see_also": [
 			"ally",
 			"defeat",
@@ -27,8 +27,7 @@
 		"id": "when_revealed_abilities",
 		"term": "Capacité une fois révélée",
 		"type": "official",
-		"content": "Une capacité une fois révélée est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « Une fois révélée ». Lorsqu'un joueur révèle une carte du deck rencontre, un nouveau stade de manigance ou un nouveau stade de méchant, toutes les capacités « Une fois révélée » sur la carte se résolvent.<ul><li>Si une carte rencontre avec une capacité « Une fois révélée » entre en jeu pendant la mise en place, résolvez cette capacité pendant l'étape « Résoudre la Mise en Place du Scénario et les Capacités Une Fois Révélées ».</li><li>Si une carte rencontre avec une capacité « Une fois révélée » est mise en jeu sans être révélée, la capacité « Une fois révélée » ne se déclenche pas.</li><li><red>Les capacités « Une fois révélée » sur les cartes méchant et manigance principale ne peuvent pas être annulées.</red></li></ul>",
-		"whats_new": "Ajout de la règle stipulant que les capacités « Une fois révélée » sur les cartes méchant et manigance principale ne peuvent pas être annulées.",
+		"content": "<p>Une capacité une fois révélée est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « <b>Une fois révélée</b> ».</p><p>Lorsqu'un joueur révèle une carte du deck rencontre, un nouveau stade de manigance ou un nouveau stade de méchant, toutes les capacités « <b>Une fois révélée</b> » sur la carte se résolvent.</p><ul><li>Si une carte rencontre avec une capacité « <b>Une fois révélée</b> » entre en jeu pendant la mise en place, résolvez cette capacité pendant l'étape « Résoudre la mise en place du scénario et les capacités une fois révélées ».</li><li>Si une carte rencontre avec une capacité « <b>Une fois révélée</b> » est mise en jeu sans être révélée, la capacité « <b>Une fois révélée</b> » ne se déclenche pas.</li><li>Les capacités « <b>Une fois révélée</b> » sur les cartes méchant et manigance principale ne peuvent pas être annulées.</li></ul>",
 		"see_also": [
 			"choose_game_element",
 			"encounter_card",
