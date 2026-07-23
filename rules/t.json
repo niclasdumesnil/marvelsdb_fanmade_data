@@ -3,7 +3,7 @@
 		"id": "table_talk",
 		"term": "Table Talk",
 		"type": "official",
-		"content": "<p>Players are permitted and encouraged to talk to one another during play, and to work as a team to plan and execute the best course of action, including discussing cards in play and in hand. Players are not obligated to disclose the cards in their hand.</p>\n<p>While resolving an encounter card with the peril keyword, players are not permitted to consult with one another.</p>",
+		"content": "<p>Players are permitted and encouraged to talk to one another during play, and to work as a team to plan and execute the best course of action. Players can discuss anything they would like, including cards in play and cards in their hand. Players are not obligated to disclose the cards in their hand if they do not wish to do so.</p><ul><li>While resolving an encounter card with the peril keyword, players are not permitted to consult with one another.</li></ul>",
 		"see_also": [
 			"keywords",
 			"peril",
@@ -14,7 +14,7 @@
 		"id": "target",
 		"term": "Target",
 		"type": "official",
-		"content": "<ul><li>If a game function or card ability is directed toward a game element, that element becomes the target of that function/ability for the duration of its resolution. Examples: the villain, a minion, an enemy, a scheme, a hero, an ally, a character, a player, you, a card.</li><li>If an ability/game function requires one or more targets, it can only be initiated if it has at least one valid target.</li><li>A target is valid if any part of that ability can affect that target; the cost of an ability is not considered when determining validity.</li><li>A target is not valid if the ability would cause the target to perform a game function another ability says it cannot perform.</li><li>Damage dealt but not taken (e.g. prevented) is still considered to affect a target.</li><li>A target 'cannot take damage' is not valid for an ability whose only effect is dealing it damage.</li><li>A target that cannot be attacked/thwarted is not valid for an attack/thwart-labeled ability.</li><li>An ability/game function targeting multiple elements of a type can be initiated as long as at least one is valid (it does not resolve against invalid ones).</li><li>An ability referring to a future target does not require a target to initiate; a search effect requires only a searchable game area.</li></ul>",
+		"content": "<p>If a game function or card ability is directed toward a game element <em>(such as an attack that deals damage to an enemy)</em>, that game element becomes the target of that function or ability for the duration of that function’s or ability’s resolution.</p><ul><li>Examples of targets include but are not limited to: “the villain,” “a minion,” “an enemy,” “a scheme,” “a hero,” “an ally,” “a character,” “a player,” “you,” “a card.”</li><li>If an ability or game function requires one or more targets, that ability or game function can only be initiated if it has at least one valid target. For example, an ability that says “deal 5 damage to a minion” cannot be initiated if there are no minions in play.<ul><li>Basic powers are game functions that require a valid target.</li><li>The phrase “choose a [game element]” indicates that one or more targets must be selected in order for an ability to initiate.</li><li>Abilities that cause a player to draw one or more cards always have a valid target so long as that player has at least one card in their deck.</li></ul></li><li>A target is valid for an ability or game function if any part of that ability can affect that target.<ul><li>Examples of effects on a target include but are not limited to: dealing/healing damage, adding/removing threat, giving/removing a status card, exhausting/readying the target, defeating/discarding the target.</li><li>Exception: A character with an ATK, SCH, or THW of 0 can perform an activation or basic power using that value against a target that is otherwise valid for that activation or basic power. <em>(For example, a hero with a THW of 0 can perform a basic thwart against a scheme with threat on it.)</em></li><li>The cost of an ability or game function is not considered when determining if that ability or game function can affect a target.</li><li>If an ability or game function has multiple effects on its target, the target is valid if at least one of those effects can affect the target.</li><li>A target is not valid for an ability if that ability would cause the target to perform a game function that another ability says the target cannot perform. For example, a character with an attachment that says “attached character cannot ready” is not a valid target for a card that readies a character.</li><li>Damage that is dealt but not taken <em>(for example, if the damage is prevented)</em> is considered to affect a target.</li><li>A target that “cannot take damage” is not a valid target for an ability <mark class=\"new\">or game function</mark> whose only effect on that target is to deal it damage.</li><li>A target that cannot be attacked is not a valid target for an attack-labeled ability.</li><li>A target that cannot be thwarted is not a valid target for a thwart-labeled ability.</li></ul></li><li>An ability or game function that targets multiple game elements of a specific type <em>(for example, “each enemy”)</em> can be initiated as long as at least one of those game elements is a valid target.<ul><li>That ability or game function does not resolve against any of those game elements that is not a valid target.</li><li>For example, the crisis (<span class=\"icon icon-crisis\"></span>) icon prevents threat from being removed from the main scheme. An ability that says “remove 1 threat from each scheme” can be used while there is a crisis icon in play if there is at least 1 scheme from which threat can be removed. In this case, no threat would be removed from the main scheme.</li></ul></li><li>An ability that refers to a future target <em>(i.e. “the next card you play”)</em> does not require a target to initiate.</li><li>An ability with a search effect requires only a searchable game area in order to initiate.</li></ul>",
 		"see_also": [
 			"ability",
 			"choose_game_element",
@@ -37,7 +37,7 @@
 		"id": "team_up",
 		"term": "Team-Up",
 		"type": "official",
-		"content": "<ul><li>The team-up keyword names two characters.</li><li>A player's chosen identity must match one of the named characters for a team-up card to be included in their deck.</li><li>A card with team-up cannot be played unless both named friendly characters (identity or ally) are in play. Equivalent constant ability restricts deckbuilding and play accordingly.</li><li>An ally counts as a named character if either its title or subtitle matches.</li></ul>",
+		"content": "<p>The team-up keyword names two characters. In order for a player to include a card with the team-up keyword in their deck, that player’s chosen identity must match one of the named characters. Additionally, a card with the team-up keyword cannot be played unless both of the named friendly characters <em>(identity or ally)</em> are in play.</p><ul><li><mark class=\"new\">The team-up (name 1 and name 2) keyword is equivalent to the following constant ability: “You cannot include this card in your deck unless your alter-ego or hero title matches name 1 or name 2. You cannot play this card unless there is a friendly character in play whose title or subtitle matches name 1 and a friendly character in play whose title or subtitle matches name 2.”</mark></li><li>An ally counts as a named character if either its title or subtitle matches the named character.</li></ul>",
 		"see_also": [
 			"ally",
 			"identity",
@@ -52,7 +52,7 @@
 		"id": "teamwork_trait",
 		"term": "Teamwork (Trait)",
 		"type": "official",
-		"content": "<p>After a minion with teamwork enters play and engages a player, if there is at least one other minion sharing the specified trait in play, the minion that just entered play activates against the player it's engaged with.</p>\n<ul><li>Equivalent to:<blockquote>Forced Response: After this minion enters play, if there is another [Trait] minion in play, this minion activates against the engaged player.</blockquote></li><li>If being revealed, teamwork resolves after any 'When Revealed' abilities.</li></ul>",
+		"content": "<p>After a minion with teamwork enters play and engages a player, if there is at least one other minion that shares the specified trait in play, the minion that just entered play activates against the player it is engaged with.</p><ul><li><mark class=\"new\">The teamwork (TRAIT) keyword is equivalent to the following triggered ability: “<b>Forced Response</b>: After this minion enters play, if there is another TRAIT minion in play, this minion activates against the engaged player.”</mark></li><li>If a minion with the teamwork keyword is being revealed, the teamwork keyword resolves after any “<b>When Revealed</b>” abilities on that minion are resolved.</li></ul>",
 		"see_also": [
 			"activation",
 			"engage",
@@ -63,7 +63,7 @@
 		"id": "temporary",
 		"term": "Temporary",
 		"type": "official",
-		"content": "<p>A card with temporary must be discarded from play at the end of the round.</p>\n<ul><li>Equivalent to:<blockquote>Forced Interrupt: When the round ends, discard this card from play.</blockquote></li></ul>",
+		"content": "<p>A card with temporary must be discarded from play at the end of the round.</p><ul><li><mark class=\"new\">The temporary keyword is equivalent to the following triggered ability: “<b>Forced Interrupt</b>: When the round ends, discard this card from play.”</mark></li></ul>",
 		"see_also": [
 			"keywords"
 		]
@@ -72,7 +72,7 @@
 		"id": "text_box",
 		"term": "Text Box",
 		"type": "official",
-		"content": "<p>The text box of a card is the area containing the card's printed abilities, traits, and flavor text (if any). If a card ability references a card's 'text box,' that ability only references the printed abilities within it; icons printed within a card's text box are considered abilities within that text box.</p>",
+		"content": "<p>The text box of a card is the area of a card that contains the card’s printed abilities, traits, and flavor text <em>(if any)</em>.</p><ul><li>If a card ability references a card’s “text box,” that ability only references the printed abilities within that card’s text box.<ul><li>Icons printed within a card’s text box are considered abilities within that text box.</li></ul></li></ul>",
 		"see_also": [
 			"ability",
 			"printed",
@@ -82,7 +82,7 @@
 	},
 	{
 		"id": "that",
-		"term": "\"That\"",
+		"term": "“That”",
 		"type": "official",
 		"content": "<p>See: Alteration Effect, Target.</p>",
 		"see_also": [
@@ -92,13 +92,13 @@
 	},
 	{
 		"id": "then",
-		"term": "\"Then\"",
+		"term": "“Then”",
 		"type": "official",
-		"content": "<p>If the effect text of an ability includes 'then', the text preceding 'then' must be fully true or resolved before the remainder can resolve. If the pre-'then' text fully resolves, the post-'then' text must also attempt to resolve; if it does not fully resolve, the post-'then' text does not attempt to resolve.</p>"
+		"content": "<p>If the effect text of an ability includes the word “then”, the text preceding the word “then” must be fully true or resolved before the remainder of the effect described after the word “then” can be resolved.</p><ul><li>If the pre-“then” text of an effect fully resolves, the post-“then” text of the effect must also attempt to resolve.</li><li>If the pre-“then” text of an effect does not fully resolve, the post-“then” text does not attempt to resolve.</li></ul>"
 	},
 	{
 		"id": "this",
-		"term": "\"This\"",
+		"term": "“This”",
 		"type": "official",
 		"content": "<p>See: Alteration Effect.</p>",
 		"see_also": [
@@ -134,7 +134,7 @@
 		"id": "thwart",
 		"term": "Thwart",
 		"type": "official",
-		"content": "<ul><li>A hero or ally can use their basic thwart power to thwart a scheme (must exhaust; removes threat equal to THW value).</li><li>A character can only initiate a basic thwart if there is a scheme with at least one threat to remove or the character is confused.</li><li>If a triggered ability is labeled as a thwart (e.g. 'Hero Action (thwart)'), resolving it is considered to thwart the specified scheme; a hero does not exhaust unless specified.</li><li>An ability labeled as a thwart is a single thwart even removing multiple instances of threat.</li></ul>",
+		"content": "<p>Some game effects and card abilities reference a thwart attempt. There are a few different ways this can occur:</p><ul><li>A hero or ally can use their basic thwart power to thwart a scheme. A character must exhaust to use this power. This removes threat equal to the character’s THW value from the scheme.<ul><li>A character can only initiate a basic thwart if there is a scheme with at least one threat for the character to remove or if that character is confused.</li><li><mark class=\"new\">An ability that allows a hero or ally to “make a basic thwart without exhausting” can allow an exhausted character to make a thwart attempt.</mark></li></ul></li><li>If a triggered ability is labeled as a thwart—such as “<b>Hero Action</b> <em>(thwart)</em>”—resolving that ability is considered to thwart the specified scheme. Unless specified by the ability’s text, a hero does not exhaust when using such an ability.<ul><li>An ability labeled as a thwart is considered a single thwart, even if that thwart removes multiple instances of threat.</li><li>If an ability increases the amount of threat an ability labeled as a thwart removes and that ability removes multiple instances of threat, each of those instances that does not use the word “additional” is increased by the specified amount.</li></ul></li></ul>",
 		"see_also": [
 			"ally",
 			"basic_power",
@@ -151,7 +151,7 @@
 		"id": "timing",
 		"term": "Timing",
 		"type": "official",
-		"content": "<p>See: Ability, Interrupt, Response, \"Would\".</p>",
+		"content": "<p>See: Ability, Interrupt, Response, “Would”.</p>",
 		"see_also": [
 			"ability",
 			"interrupt",
@@ -163,7 +163,7 @@
 		"id": "tough",
 		"term": "Tough",
 		"type": "official",
-		"content": "<p>Tough is a status that prevents a character from taking damage.</p>\n<ul><li>A tough status card resolves like:<blockquote>Forced Interrupt: When this character would take damage, remove a tough status card from it instead.</blockquote></li><li>If a character with a tough status card would take any damage, prevent all of it and discard a tough status card instead (only one discarded per instance, even with multiple tough cards).</li><li>When a hero with a tough status card defends an attack, reduce damage by DEF first; if reduced to 0, the hero does not lose the tough status card.</li><li>A character prevented from taking damage by a tough status card is not considered to have taken damage.</li></ul>",
+		"content": "<p>Tough is a status that prevents a character from taking damage.</p><ul><li><mark class=\"new\">A tough status card resolves like the triggered ability: “<b>Forced Interrupt</b>: When this character would take damage, remove a tough status card from it instead.”</mark></li><li>If a character with a tough status card would take any amount of damage, prevent all of that damage and discard a tough status card from that character instead.<ul><li>A character with multiple tough status cards discards only one tough status card each time it would take damage.</li><li>When a hero with a tough status card defends an attack, they reduce the damage from the attack by their DEF first. If the damage is reduced to 0, the hero does not lose their tough status card.</li></ul></li><li>As a tough status card prevents damage fully, the character who had the tough status card is not considered to have taken damage.</li></ul>",
 		"see_also": [
 			"damage",
 			"overkill",
