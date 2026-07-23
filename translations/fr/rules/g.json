@@ -12,9 +12,9 @@
 	},
 	{
 		"id": "game_element",
-		"term": "Elément de Jeu",
+		"term": "Élément de jeu",
 		"type": "official",
-		"content": "Un élément de jeu est un composant ou une personne impliquée dans une partie de Marvel Champions. Les éléments suivants sont tous des éléments de jeu :<ul><li>Cartes</li><li>Decks</li><li>Piles de défausse</li><li>Mains (de cartes)</li><li>Cadrans de points de vie</li><li>Joueurs</li><li>Jetons et Pions</li></ul>",
+		"content": "<p>Un élément de jeu est un composant ou une personne impliquée dans une partie de <b>Marvel Champions</b>. Les éléments suivants sont tous des éléments de jeu :</p><ul><li>Cartes</li><li>Decks</li><li>Piles de défausse</li><li>Mains <em>(de cartes)</em></li><li>Cadrans de points de vie</li><li>Joueurs</li><li>Jetons</li></ul>",
 		"see_also": [
 			"card_types",
 			"deck",
@@ -27,8 +27,26 @@
 		"id": "game_environments",
 		"term": "Environnements de jeu",
 		"type": "official",
-		"content": "Un environnement de jeu établit une réserve de cartes spécifique à partir de laquelle un joueur peut personnaliser son deck. Ce document détaille trois environnements de jeu : l'Environnement Actuel (produits les plus récents), l'Environnement Héritage (utilisant tous les produits de la collection d'un joueur) et l'Environnement Limité (un sous-ensemble restreint composé de la boîte de base, d'un maximum de 3 extensions et d'un maximum de 10 paquets héros). [cite: 514, 515, 517]",
-		"whats_new": "Ajout de l'Appendice VI : Environnements de jeu (Bêta). Cela formalise l'Environnement Héritage standard et introduit un tout nouveau format d'Environnement Limité pour aider à organiser des réserves de cartes plus petites pour la construction de decks."
+		"content": "Un environnement de jeu établit une réserve de cartes spécifique à partir de laquelle un joueur peut personnaliser son deck. Ce document détaille trois environnements de jeu : l'Environnement Actuel (produits les plus récents), l'Environnement Héritage (utilisant tous les produits de la collection d'un joueur) et l'Environnement Limité (un sous-ensemble restreint composé de la boîte de base, d'un maximum de 3 extensions et d'un maximum de 10 paquets héros). [cite: 514, 515, 517]"
+	},
+	{
+		"id": "generate",
+		"term": "Générer",
+		"type": "official",
+		"content": "Voir : Ressource.",
+		"see_also": [
+			"resource"
+		]
+	},
+	{
+		"id": "gets",
+		"term": "« Gagne »",
+		"type": "official",
+		"content": "Voir : Points de Vie, Modificateurs.",
+		"see_also": [
+			"hit_points",
+			"modifiers"
+		]
 	},
 	{
 		"id": "golden_rules",
@@ -46,7 +64,7 @@
 		"id": "guard",
 		"term": "Garde",
 		"type": "official",
-		"content": "Garde est un mot-clé. Tant qu'un sbire avec le mot-clé garde est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour attaquer un méchant sans ce mot-clé.",
+		"content": "<p>Tant qu'un sbire avec le mot-clé garde est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour attaquer un méchant sans ce mot-clé.</p><ul><li><mark class=\"new\">Le mot-clé garde est équivalent à la capacité constante suivante : « Le joueur engagé ne peut attaquer aucun méchant. »</mark></li></ul>",
 		"see_also": [
 			"attack_player_ability_type",
 			"engage",
@@ -55,5 +73,5 @@
 			"reminder_text",
 			"villain"
 		]
-	}
+	},
 ]

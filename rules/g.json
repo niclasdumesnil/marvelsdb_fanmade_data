@@ -14,7 +14,7 @@
 		"id": "game_element",
 		"term": "Game Element",
 		"type": "official",
-		"content": "<p>A game element is a component or person involved in playing Marvel Champions: Cards, Decks, Discard Piles, Hands (of cards), Hit Point Dials, Players, Tokens.</p>",
+		"content": "<p>A game element is a component or person involved in playing a game of <b>Marvel Champions</b>. All of the following are game elements:</p><ul><li>Cards</li><li>Decks</li><li>Discard Piles</li><li>Hands <em>(of cards)</em></li><li>Hit Point Dials</li><li>Players</li><li>Tokens</li></ul>",
 		"see_also": [
 			"card_types",
 			"deck",
@@ -22,6 +22,12 @@
 			"player",
 			"target"
 		]
+	},
+	{
+		"id": "game_environments",
+		"term": "",
+		"type": "official",
+		"content": ""
 	},
 	{
 		"id": "generate",
@@ -43,10 +49,22 @@
 		]
 	},
 	{
+		"id": "golden_rules",
+		"term": "",
+		"type": "official",
+		"content": ""
+	},
+	{
+		"id": "grim_rule",
+		"term": "",
+		"type": "official",
+		"content": ""
+	},
+	{
 		"id": "guard",
 		"term": "Guard",
 		"type": "official",
-		"content": "<p>While a minion with the guard keyword is engaged with a player, that player cannot use cards they control to attack a villain without this keyword.</p>\n<ul><li>The guard keyword is equivalent to:<blockquote>The engaged player cannot attack any villain.</blockquote></li></ul>",
+		"content": "<p>While a minion with the guard keyword is engaged with a player, that player cannot use cards they control to attack a villain without this keyword.</p><ul><li><mark class=\"new\">The guard keyword is equivalent to the following constant ability: “The engaged player cannot attack any villain.”</mark></li></ul>",
 		"see_also": [
 			"attack_player_ability_type",
 			"engage",
@@ -55,5 +73,5 @@
 			"reminder_text",
 			"villain"
 		]
-	}
+	},
 ]
