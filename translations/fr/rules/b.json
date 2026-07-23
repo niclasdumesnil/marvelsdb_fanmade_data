@@ -13,7 +13,7 @@
 		"id": "basic_card",
 		"term": "Cartes basiques",
 		"type": "official",
-		"content": "Les cartes de la classification « basique » sont des cartes qui ne sont pas associées à une identité ou une affinité spécifique.<ul><li>Lors de la construction d'un deck, un joueur peut personnaliser le reste de son deck (la partie non allouée à ses cartes spécifiques à l'identité) en utilisant des cartes basiques.</li><li>Une carte est désignée comme basique si elle porte le mot « Basique » imprimé au bas de la carte dans sa zone de classification de construction de deck.</li><li>Les cartes basiques ne sont pas des cartes d'affinité.</li></ul>",
+		"content": "<p>Les cartes de la classification « Basique » sont des cartes qui ne sont pas associées à une identité ou une affinité spécifique.</p><ul><li>Lors de la construction d'un deck, un joueur peut personnaliser le reste de son deck <em>(la partie non allouée à ses cartes spécifiques d'identité)</em> en utilisant des cartes basiques.</li><li>Une carte est désignée comme basique si elle porte le mot « Basique » imprimé au bas de la carte dans sa zone de classification de construction de deck.</li><li>Les cartes basiques ne sont pas des cartes d'affinité.</li></ul>",
 		"see_also": [
 			"aspect_card",
 			"classifications",

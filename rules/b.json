@@ -13,7 +13,7 @@
 		"id": "basic_card",
 		"term": "Basic Card",
 		"type": "official",
-		"content": "<ul><li>Cards in the 'Basic' classification are cards not associated with a specific identity or aspect.</li><li>A player may customize the remainder of their deck using basic cards. Basic cards are designated by 'Basic' printed at the bottom of the card. Basic cards are not aspect cards.</li></ul>",
+		"content": "<p>Cards in the “Basic” classification are cards that are not associated with a specific identity or aspect.</p><ul><li>When building a deck, a player may customize the remainder of their deck <em>(the portion not allocated to their identity-specific cards)</em> using basic cards.</li><li>A card is designated as basic if it has the word “Basic” printed at the bottom of the card in its deckbuilding classification area.</li><li>Basic cards are not aspect cards.</li></ul>",
 		"see_also": [
 			"aspect_card",
 			"classifications",
