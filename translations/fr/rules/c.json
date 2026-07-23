@@ -205,9 +205,9 @@
 	},
 	{
 		"id": "cost_arrow_icon",
-		"term": "Icône de coût en forme de flèche",
+		"term": "Icône de coût en forme de flèche (→)",
 		"type": "official",
-		"content": "Une icône de coût en forme de flèche (→)&nbsp;dans le texte d'une capacité distingue un coût d'un effet, dans un format « payer le coût →&nbsp;résoudre l'effet ». Le texte non gras précédant l'icône de coût en forme de flèche doit être payé et/ou résolu en totalité avant que le texte suivant l'icône de coût en forme de flèche ne puisse être résolu.<ul><li>Les réponses au texte précédant l'icône de coût en forme de flèche se résolvent avant que le texte suivant l'icône ne se résolve.</li></ul>",
+		"content": "<p>Une icône de coût en forme de flèche (&#8594;) dans le texte d'une capacité distingue un coût d'un effet, dans un format « payer le coût &#8594; résoudre l'effet ». Le texte non gras précédant l'icône de coût en forme de flèche doit être payé et/ou résolu en totalité avant que le texte suivant l'icône de coût en forme de flèche ne puisse être résolu.</p><ul><li>Les réponses au texte précédant l'icône de coût en forme de flèche se résolvent avant que le texte suivant l'icône ne se résolve.</li></ul>",
 		"see_also": [
 			"cost",
 			"icons"

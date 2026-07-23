@@ -205,9 +205,9 @@
 	},
 	{
 		"id": "cost_arrow_icon",
-		"term": "Cost Arrow Icon",
+		"term": "Cost Arrow Icon (→)",
 		"type": "official",
-		"content": "<p>A cost arrow icon in ability text distinguishes a cost from an effect, in a 'pay cost → resolve effect' format. Non-bolded text before the arrow must be paid/resolved in full before text after the arrow can resolve.</p>\n<p>Responses to text preceding the arrow resolve before text following it.</p>",
+		"content": "<p>A cost arrow icon (&#8594;) in ability text distinguishes a cost from an effect, in a “pay cost &#8594; resolve effect” format. Non-bolded text before the cost arrow icon must be paid and/or resolved in full before the text after the cost arrow icon can be resolved.</p><ul><li>Responses to the text preceding the cost arrow icon resolve before the text following the icon resolves.</li></ul>",
 		"see_also": [
 			"cost",
 			"icons"
