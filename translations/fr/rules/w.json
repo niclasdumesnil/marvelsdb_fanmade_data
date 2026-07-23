@@ -39,9 +39,9 @@
 	},
 	{
 		"id": "wild_resource",
-		"term": "Ressource Libre",
+		"term": "Ressource libre (<span class=\"icon icon-wild\"></span>)",
 		"type": "official",
-		"content": "Une ressource libre (<span class=\"icon-wild\"></span>) est l'un des quatre types de ressources.<ul><li>Les ressources libres peuvent être dépensées pour payer le coût en ressources des cartes et des capacités. Lorsqu'un joueur génère une ressource (<span class=\"icon icon-wild rules-icon\" title=\"wild\" aria-hidden=\"true\">W)</span>&nbsp;, il peut spécifier comme quel type de ressource (énergie, mentale, physique ou libre) elle est utilisée. Lorsqu'une carte qui génère une ressource libre voit ses ressources doublées, chacune de ses ressources libres peut être déclarée comme un type différent.</li><li>Certaines capacités de carte nécessitent spécifiquement que des ressources libres soient dépensées pour résoudre leurs effets.</li><li>Lorsque les ressources ne sont pas générées pour un coût, une ressource libre n'a aucune caractéristique autre que « ressource libre ». Dans de tels contextes, les ressources libres ne peuvent être interprétées comme aucun des autres types de ressources.</li></ul>",
+		"content": "<p>Une ressource libre (<span class=\"icon icon-wild\"></span>) est l'un des quatre types de ressources.</p><ul><li>Les ressources libres peuvent être dépensées pour payer le coût en ressources des cartes et des capacités. Lorsqu'un joueur génère une ressource libre (<span class=\"icon icon-wild\"></span>), il peut spécifier comme quel type de ressource <em>(énergie, mentale, physique ou libre)</em> elle est utilisée.<ul><li>Lorsqu'une carte qui génère une ressource libre voit ses ressources doublées, chacune de ses ressources libres peut être déclarée comme un type différent.</li></ul></li><li>Certaines capacités de carte nécessitent spécifiquement que des ressources libres soient dépensées pour résoudre leurs effets.</li><li>Lorsque les ressources ne sont pas générées pour un coût, une ressource libre n'a aucune caractéristique autre que « ressource libre ». Dans de tels contextes, les ressources libres ne peuvent pas être interprétées comme aucun des autres types de ressources.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -54,15 +54,15 @@
 	},
 	{
 		"id": "winning_the_game",
-		"term": "Gagner la Partie",
+		"term": "Gagner la partie",
 		"type": "official",
-		"content": "Si le stade final du méchant est vaincu, les joueurs gagnent la partie. Si le stade final du deck manigance principale est achevé, le méchant gagne la partie.<ul><li>Certains scénarios ont des conditions de victoire ou de défaite alternatives. Si ces conditions sont remplies, les joueurs gagnent ou perdent en conséquence. Les conditions de victoire ou de défaite alternatives ne peuvent pas être effacées ou annulées.</li></ul>"
+		"content": "<p>Si le stade final du méchant est vaincu, les joueurs gagnent la partie. Si le stade final du deck manigance principale est achevé, le méchant gagne la partie.</p><ul><li>Certains scénarios ont des conditions de victoire ou de défaite alternatives. Si ces conditions sont remplies, les joueurs gagnent ou perdent en conséquence.<ul><li>Les conditions de victoire ou de défaite alternatives ne peuvent pas être effacées ni annulées.</li></ul></li></ul>"
 	},
 	{
 		"id": "would",
-		"term": "\"Est censé\"",
+		"term": "« Est censé »",
 		"type": "official",
-		"content": "L'expression « est censé » (ou « devrait ») est utilisée pour définir la condition de déclenchement de certaines capacités d'interruption, et établit une priorité de timing plus élevée pour ces capacités par rapport aux interruptions pour la même condition de déclenchement sans cette expression.<ul><li>Si une interruption à une condition de déclenchement qui devrait se produire modifie la nature de ce qui est sur le point de se produire (comme par un effet de remplacement), aucune autre interruption au déclencheur d'origine ne peut être utilisée puisque la résolution de ce déclencheur n'est plus valide. Par exemple, une interruption qui stipule « quand un personnage est censé être vaincu » se déclenche avant une interruption qui stipule « quand un personnage est vaincu ».</li></ul>",
+		"content": "<p>L'expression « est censé » <em>(ou « devrait »)</em> est utilisée pour définir la condition de déclenchement de certaines capacités d'interruption, et établit une priorité de timing plus élevée pour ces capacités par rapport aux interruptions pour la même condition de déclenchement sans cette expression.</p><ul><li>Si une interruption à une condition de déclenchement qui devrait se produire modifie la nature de ce qui est sur le point de se produire <em>(comme par un effet de remplacement)</em>, aucune autre interruption au déclencheur d'origine ne peut être utilisée puisque la résolution de ce déclencheur n'est plus valide.</li></ul><p><em>Par exemple, une interruption qui stipule « quand un personnage est censé être vaincu » se déclenche avant une interruption qui stipule « quand un personnage est vaincu ».</em></p>",
 		"see_also": [
 			"interrupt",
 			"replacement_effect",

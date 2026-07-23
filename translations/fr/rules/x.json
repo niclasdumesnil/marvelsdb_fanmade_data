@@ -3,7 +3,7 @@
 		"id": "x_value",
 		"term": "« X » (valeur)",
 		"type": "official",
-		"content": "Voir : Variable Non-Numérique",
+		"content": "<p>Voir : Variable non-numérique.</p>",
 		"see_also": [
 			"non_numerical_variable"
 		]

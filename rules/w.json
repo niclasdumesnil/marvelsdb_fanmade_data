@@ -39,9 +39,9 @@
 	},
 	{
 		"id": "wild_resource",
-		"term": "Wild Resource",
+		"term": "Wild Resource (<span class=\"icon icon-wild\"></span>)",
 		"type": "official",
-		"content": "<ul><li>A wild resource is one of the four types of resources. Wild resources can be spent to pay resource costs of cards and abilities; when a player generates a wild resource, they may specify which resource type (energy, mental, physical, or wild) it is being used as.</li><li>When a card that generates a wild resource has its resources doubled, each wild resource can be declared a different type.</li><li>When resources are not being generated for a cost, a wild resource has no characteristic other than 'wild resource' and cannot be interpreted as any other type.</li></ul>",
+		"content": "<p>A wild resource (<span class=\"icon icon-wild\"></span>) is one of the four types of resources.</p><ul><li>Wild resources can be spent to pay the resource cost of cards and abilities. When a player generates a wild resource (<span class=\"icon icon-wild\"></span>), they may specify which resource type <em>(energy, mental, physical, or wild)</em> it is being used as.<ul><li>When a card that generates a wild resource has its resources doubled, each of its wild resources can be declared a different type.</li></ul></li><li>Some card abilities specifically require wild resources to be spent in order to resolve their effects.</li><li>When resources are not being generated for a cost, a wild resource does not have any characteristic other than “wild resource.” In such contexts, wild resources cannot be interpreted as any of the other resource types.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -56,13 +56,13 @@
 		"id": "winning_the_game",
 		"term": "Winning the Game",
 		"type": "official",
-		"content": "<ul><li>If the final villain stage is defeated, the players win the game.</li><li>If the final stage of the main scheme deck is completed, the villain wins the game.</li><li>Some scenarios have alternate win or loss conditions; if met, the players win or lose accordingly. Alternate win or loss conditions cannot be blanked or canceled.</li></ul>"
+		"content": "<p>If the final villain stage is defeated, the players win the game. If the final stage of the main scheme deck is completed, the villain wins the game.</p><ul><li>Some scenarios have alternate win or loss conditions. If these conditions are met, the players win or lose accordingly.<ul><li>Alternate win or loss conditions cannot be blanked or canceled.</li></ul></li></ul>"
 	},
 	{
 		"id": "would",
-		"term": "\"Would\"",
+		"term": "“Would”",
 		"type": "official",
-		"content": "<p>The word 'would' is used to define the triggering condition of some interrupt abilities, establishing a higher timing priority than interrupts to the same triggering condition without 'would.' If an interrupt to a triggering condition that would occur changes the nature of what is about to occur (via a replacement effect), no further interrupts to the original trigger may be used since its resolution is no longer valid.</p>",
+		"content": "<p>The word “would” is used to define the triggering condition of some interrupt abilities, and establishes a higher timing priority for those abilities than interrupts to the same triggering condition without the word “would.”</p><ul><li>If an interrupt to a triggering condition that would occur changes the nature of that which is about to occur <em>(such as through a replacement effect)</em>, no further interrupts to the original trigger may be used since the resolution of that trigger is no longer valid.</li></ul><p><em>For example, an interrupt that states “when a character would be defeated” triggers before an interrupt that states “when a character is defeated.”</em></p>",
 		"see_also": [
 			"interrupt",
 			"replacement_effect",
