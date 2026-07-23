@@ -3,13 +3,7 @@
 		"id": "table_talk",
 		"term": "Table Talk",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "Players are permitted and encouraged to talk to one another during play, and to work as a team to plan and execute the best course of action. Players can discuss anything they would like, including cards in play and cards in their hand. Players are not obligated to disclose the cards in their hand if they do not wish to do so.<ul><li>While resolving an encounter card with the peril keyword, players are not permitted to consult with one another.</li></ul>",
-				"whats_new": ""
-			}
-		],
+		"content": "Players are permitted and encouraged to talk to one another during play, and to work as a team to plan and execute the best course of action. Players can discuss anything they would like, including cards in play and cards in their hand. Players are not obligated to disclose the cards in their hand if they do not wish to do so.<ul><li>While resolving an encounter card with the peril keyword, players are not permitted to consult with one another.</li></ul>",
 		"see_also": [
 			"keywords",
 			"peril",
@@ -20,13 +14,8 @@
 		"id": "target",
 		"term": "Target",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "If a game function or card ability is directed toward a game\nelement (such as an attack that deals damage to an enemy),\nthat game element becomes the target of that function\nor ability for the duration of that function’s or ability’s\nresolution.&nbsp;<div><ul><li><i>Examples of targets include but are not limited to: “the villain,” “a minion,” “an enemy,” “a scheme,”\n“a hero,” “an ally,” “a character,” “a player,” “you,”\n“a card.”</i></li><li>If an ability or game function requires one or more\ntargets, that ability or game function can only\nbe initiated if it has at least one valid target. <i>For\nexample, an ability that says “deal 5 damage to a\nminion” cannot be initiated if there are no minions in\nplay.</i></li><ul><li>Basic powers are game functions that require a\nvalid target.</li><li>The phrase “choose a [game element]” indicates\nthat one or more targets must be selected in order\nfor an ability to initiate.</li><li>Abilities that cause a player to draw one or more\ncards always have a valid target so long as that\nplayer has at least one card in their deck.</li></ul><li><span style=\"font-size: 0.92rem;\">A target is valid for an ability or game function if any\npart of that ability can affect that target.</span></li><ul><li><span style=\"font-size: 0.92rem;\"><i>Examples of effects on a target include but are\nnot limited to: dealing/healing damage, adding/\nremoving threat, giving/removing a status card,\nexhausting/readying the target, defeating/\ndiscarding the target.</i></span></li><li><span style=\"font-size: 0.92rem;\">Exception: A character with an ATK, SCH, or THW\nof 0 can perform an activation or basic power using\nthat value against a target that is otherwise valid for\nthat activation or basic power. (For example, a hero\nwith a THW of 0 can perform a basic thwart against\na scheme with threat on it.)</span></li><li><span style=\"font-size: 0.92rem;\">The cost of an ability or game function is not\nconsidered when determining if that ability or\ngame function can affect a target.</span></li><li><span style=\"font-size: 0.92rem;\">If an ability or game function has multiple effects\non its target, the target is valid if at least one of\nthose effects can affect the target.&nbsp;</span></li><li><span style=\"font-size: 0.92rem;\">A target is not valid for an ability if that ability\nwould cause the target to perform a game function\nthat another ability says the target cannot perform.\n<i>For example, a character with an attachment that\nsays “attached character cannot ready” is not a\nvalid target for a card that readies a character.&nbsp;</i></span></li><li><span style=\"font-size: 0.92rem;\">Damage that is dealt but not taken (for example, if\nthe damage is prevented) is considered to affect a\ntarget.</span></li><li><span style=\"font-size: 0.92rem;\">A target that “cannot take damage” is not a valid\ntarget for an ability <red>whose only affect on that target\nis to deal it damage.</red></span></li><li><span style=\"font-size: 0.92rem;\">A target that cannot be attacked is not a valid\ntarget for an attack-labeled ability.</span></li><li><span style=\"font-size: 0.92rem;\">A target that cannot be thwarted is not a valid\ntarget for a thwart-labeled ability.</span></li><li><span style=\"font-size: 0.92rem;\">An effect that uses “that [target]” refers to the\ntarget of a previous effect and can only be resolved\nfor a valid target of the previous effect. <i>For\nexample, an ability that says “Deal 5 damage to an\nenemy. Stun that enemy.” can only be used to stun\nan enemy that can be dealt (and take) damage.</i></span></li></ul><li><span style=\"font-size: 0.92rem;\">An ability or game function that targets multiple\ngame elements of a specific type (for example, “each\nenemy”) can be initiated as along as at least one of\nthose game elements is a valid target.</span></li><ul><li><span style=\"font-size: 0.92rem;\">That ability or game function does not resolve\nagainst any of those game elements that is not a\nvalid target.</span></li><li><span style=\"font-size: 0.92rem;\"><i>For example, the crisis (<span class=\"icon icon-crisis rules-icon\" title=\"crisis\" aria-hidden=\"true\">C</span>&nbsp;) icon prevents threat\nfrom being removed from the main scheme.\nAn ability that says “remove 1 threat from each\nscheme” can be used while there is a crisis icon in\nplay if there is at least 1 scheme from which threat\ncan be removed. In this case, no threat would be\nremoved from the main scheme.</i></span></li></ul><li><span style=\"font-size: 0.92rem;\">An ability that refers to a future target (i.e. “the next\ncard you play”) does not require a target to initiate.</span></li><li><span style=\"font-size: 0.92rem;\"><red>&nbsp;An ability with a search effect requires only a\nsearchable game area in order to initiate.</red></span></li></ul></div>",
-				"whats_new": "\"Clarified that a target that 'cannot take damage' is not a valid target for an ability only if dealing damage is that ability's sole effect on that target. Also added a rule stating that an ability with a search effect requires only a searchable game area in order to initiate.\""
-			}
-		],
+		"content": "If a game function or card ability is directed toward a game\nelement (such as an attack that deals damage to an enemy),\nthat game element becomes the target of that function\nor ability for the duration of that function’s or ability’s\nresolution.&nbsp;<div><ul><li><i>Examples of targets include but are not limited to: “the villain,” “a minion,” “an enemy,” “a scheme,”\n“a hero,” “an ally,” “a character,” “a player,” “you,”\n“a card.”</i></li><li>If an ability or game function requires one or more\ntargets, that ability or game function can only\nbe initiated if it has at least one valid target. <i>For\nexample, an ability that says “deal 5 damage to a\nminion” cannot be initiated if there are no minions in\nplay.</i></li><ul><li>Basic powers are game functions that require a\nvalid target.</li><li>The phrase “choose a [game element]” indicates\nthat one or more targets must be selected in order\nfor an ability to initiate.</li><li>Abilities that cause a player to draw one or more\ncards always have a valid target so long as that\nplayer has at least one card in their deck.</li></ul><li><span style=\"font-size: 0.92rem;\">A target is valid for an ability or game function if any\npart of that ability can affect that target.</span></li><ul><li><span style=\"font-size: 0.92rem;\"><i>Examples of effects on a target include but are\nnot limited to: dealing/healing damage, adding/\nremoving threat, giving/removing a status card,\nexhausting/readying the target, defeating/\ndiscarding the target.</i></span></li><li><span style=\"font-size: 0.92rem;\">Exception: A character with an ATK, SCH, or THW\nof 0 can perform an activation or basic power using\nthat value against a target that is otherwise valid for\nthat activation or basic power. (For example, a hero\nwith a THW of 0 can perform a basic thwart against\na scheme with threat on it.)</span></li><li><span style=\"font-size: 0.92rem;\">The cost of an ability or game function is not\nconsidered when determining if that ability or\ngame function can affect a target.</span></li><li><span style=\"font-size: 0.92rem;\">If an ability or game function has multiple effects\non its target, the target is valid if at least one of\nthose effects can affect the target.&nbsp;</span></li><li><span style=\"font-size: 0.92rem;\">A target is not valid for an ability if that ability\nwould cause the target to perform a game function\nthat another ability says the target cannot perform.\n<i>For example, a character with an attachment that\nsays “attached character cannot ready” is not a\nvalid target for a card that readies a character.&nbsp;</i></span></li><li><span style=\"font-size: 0.92rem;\">Damage that is dealt but not taken (for example, if\nthe damage is prevented) is considered to affect a\ntarget.</span></li><li><span style=\"font-size: 0.92rem;\">A target that “cannot take damage” is not a valid\ntarget for an ability <red>whose only affect on that target\nis to deal it damage.</red></span></li><li><span style=\"font-size: 0.92rem;\">A target that cannot be attacked is not a valid\ntarget for an attack-labeled ability.</span></li><li><span style=\"font-size: 0.92rem;\">A target that cannot be thwarted is not a valid\ntarget for a thwart-labeled ability.</span></li><li><span style=\"font-size: 0.92rem;\">An effect that uses “that [target]” refers to the\ntarget of a previous effect and can only be resolved\nfor a valid target of the previous effect. <i>For\nexample, an ability that says “Deal 5 damage to an\nenemy. Stun that enemy.” can only be used to stun\nan enemy that can be dealt (and take) damage.</i></span></li></ul><li><span style=\"font-size: 0.92rem;\">An ability or game function that targets multiple\ngame elements of a specific type (for example, “each\nenemy”) can be initiated as along as at least one of\nthose game elements is a valid target.</span></li><ul><li><span style=\"font-size: 0.92rem;\">That ability or game function does not resolve\nagainst any of those game elements that is not a\nvalid target.</span></li><li><span style=\"font-size: 0.92rem;\"><i>For example, the crisis (<span class=\"icon icon-crisis rules-icon\" title=\"crisis\" aria-hidden=\"true\">C</span>&nbsp;) icon prevents threat\nfrom being removed from the main scheme.\nAn ability that says “remove 1 threat from each\nscheme” can be used while there is a crisis icon in\nplay if there is at least 1 scheme from which threat\ncan be removed. In this case, no threat would be\nremoved from the main scheme.</i></span></li></ul><li><span style=\"font-size: 0.92rem;\">An ability that refers to a future target (i.e. “the next\ncard you play”) does not require a target to initiate.</span></li><li><span style=\"font-size: 0.92rem;\"><red>&nbsp;An ability with a search effect requires only a\nsearchable game area in order to initiate.</red></span></li></ul></div>",
+		"whats_new": "\"Clarified that a target that 'cannot take damage' is not a valid target for an ability only if dealing damage is that ability's sole effect on that target. Also added a rule stating that an ability with a search effect requires only a searchable game area in order to initiate.\"",
 		"see_also": [
 			"ability",
 			"choose_game_element",
@@ -39,13 +28,7 @@
 		"id": "target_threat",
 		"term": "Target Threat",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "Target threat is the amount of threat required for the main scheme deck to advance. It is located in the upper left corner of the card, before the title.",
-				"whats_new": ""
-			}
-		],
+		"content": "Target threat is the amount of threat required for the main scheme deck to advance. It is located in the upper left corner of the card, before the title.",
 		"see_also": [
 			"main_scheme",
 			"threat"
@@ -55,13 +38,8 @@
 		"id": "team_up",
 		"term": "Team-Up",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "The team-up keyword names two characters. In order for a player to include a card with the team-up keyword in their deck, that player’s chosen identity must match one of the named characters. Additionally, a card with the team-up keyword cannot be played unless both of the named <red>friendly</red> characters (identity or ally) are in play.<ul><li><red>An ally counts as a named character if either its title or subtitle matches the named character.</red></li></ul>",
-				"whats_new": "Clarified that the required characters in play must be 'friendly' characters, and added a rule stating that an ally counts as a named character if either its title or subtitle matches."
-			}
-		],
+		"content": "The team-up keyword names two characters. In order for a player to include a card with the team-up keyword in their deck, that player’s chosen identity must match one of the named characters. Additionally, a card with the team-up keyword cannot be played unless both of the named <red>friendly</red> characters (identity or ally) are in play.<ul><li><red>An ally counts as a named character if either its title or subtitle matches the named character.</red></li></ul>",
+		"whats_new": "Clarified that the required characters in play must be 'friendly' characters, and added a rule stating that an ally counts as a named character if either its title or subtitle matches.",
 		"see_also": [
 			"ally",
 			"identity",
@@ -75,13 +53,7 @@
 		"id": "teamwork_trait",
 		"term": "Teamwork (Trait)",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "After a minion with teamwork enters play and engages a player, if there is at least one other minion that shares the specified trait in play, the minion that just entered play activates against the player it is engaged with.",
-				"whats_new": ""
-			}
-		],
+		"content": "After a minion with teamwork enters play and engages a player, if there is at least one other minion that shares the specified trait in play, the minion that just entered play activates against the player it is engaged with.",
 		"see_also": [
 			"activation",
 			"engage",
@@ -92,13 +64,7 @@
 		"id": "temporary",
 		"term": "Temporary",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "A card with temporary must be discarded from play at the end of the round.",
-				"whats_new": ""
-			}
-		],
+		"content": "A card with temporary must be discarded from play at the end of the round.",
 		"see_also": [
 			"keywords"
 		]
@@ -107,13 +73,7 @@
 		"id": "text_box",
 		"term": "Text Box",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "The text box of a card is the area of a card that contains the card’s printed abilities, traits, and flavor text (if any).<ul><li>If a card ability references a card’s “text box,” that ability only references the printed abilities within that card’s text box. Icons printed within a card’s text box are considered abilities within that text box.</li></ul>",
-				"whats_new": ""
-			}
-		],
+		"content": "The text box of a card is the area of a card that contains the card’s printed abilities, traits, and flavor text (if any).<ul><li>If a card ability references a card’s “text box,” that ability only references the printed abilities within that card’s text box. Icons printed within a card’s text box are considered abilities within that text box.</li></ul>",
 		"see_also": [
 			"ability",
 			"printed",
@@ -124,25 +84,13 @@
 		"id": "then",
 		"term": "“Then”",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "If the effect text of an ability includes the word “then”, the text preceding the word “then” must be fully true or resolved before the remainder of the effect described after the word “then” can be resolved.<ul><li>If the pre-”then” text of an effect fully resolves, the post-”then” text of the effect must also attempt to resolve.</li><li>If the pre-”then” text of an effect does not fully resolve, the post-”then” text does not attempt to resolve.</li></ul>",
-				"whats_new": ""
-			}
-		]
+		"content": "If the effect text of an ability includes the word “then”, the text preceding the word “then” must be fully true or resolved before the remainder of the effect described after the word “then” can be resolved.<ul><li>If the pre-”then” text of an effect fully resolves, the post-”then” text of the effect must also attempt to resolve.</li><li>If the pre-”then” text of an effect does not fully resolve, the post-”then” text does not attempt to resolve.</li></ul>"
 	},
 	{
 		"id": "threat",
 		"term": "Threat",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "Threat tokens are used to track the amount of threat on scheme cards.",
-				"whats_new": ""
-			}
-		],
+		"content": "Threat tokens are used to track the amount of threat on scheme cards.",
 		"see_also": [
 			"main_scheme",
 			"prevent",
@@ -156,13 +104,7 @@
 		"id": "thw",
 		"term": "THW",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "See: Basic Power, Thwart",
-				"whats_new": ""
-			}
-		],
+		"content": "See: Basic Power, Thwart",
 		"see_also": [
 			"basic_power",
 			"thwart"
@@ -172,13 +114,7 @@
 		"id": "thwart",
 		"term": "Thwart",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "Some game effects and card abilities reference a thwart attempt. There are a few different ways this can occur:<ul><li>A hero or ally can use their basic thwart power to thwart a scheme. A character must exhaust to use this power. This removes threat equal to the character’s THW value from the scheme. A character can only initiate a basic thwart if there is a scheme with at least one threat for the character to remove or if that character is confused.</li><li>If a triggered ability is labeled as a thwart—such as “Hero Action (thwart)”—resolving that ability is considered to thwart the specified scheme. Unless specified by the ability’s text, a hero does not exhaust when using such an ability.</li><li>An ability labeled as a thwart is considered a single thwart, even if that thwart removes multiple instances of threat. If an ability increases the amount of threat an ability labeled as a thwart removes and that ability removes multiple instances of threat, each of those instances that does not use the word “additional” is increased by the specified amount.</li></ul>",
-				"whats_new": ""
-			}
-		],
+		"content": "Some game effects and card abilities reference a thwart attempt. There are a few different ways this can occur:<ul><li>A hero or ally can use their basic thwart power to thwart a scheme. A character must exhaust to use this power. This removes threat equal to the character’s THW value from the scheme. A character can only initiate a basic thwart if there is a scheme with at least one threat for the character to remove or if that character is confused.</li><li>If a triggered ability is labeled as a thwart—such as “Hero Action (thwart)”—resolving that ability is considered to thwart the specified scheme. Unless specified by the ability’s text, a hero does not exhaust when using such an ability.</li><li>An ability labeled as a thwart is considered a single thwart, even if that thwart removes multiple instances of threat. If an ability increases the amount of threat an ability labeled as a thwart removes and that ability removes multiple instances of threat, each of those instances that does not use the word “additional” is increased by the specified amount.</li></ul>",
 		"see_also": [
 			"ally",
 			"basic_power",
@@ -195,13 +131,7 @@
 		"id": "tough",
 		"term": "Tough",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "Tough is a status that prevents a character from taking damage.<ul><li>If a character with a tough status card would take any amount of damage, prevent all of that damage and discard a tough status card from that character instead. A character with multiple tough status cards discards only one tough status card each time it would take damage. When a hero with a tough status card defends an attack, they reduce the damage from the attack by their DEF first. If the damage is reduced to 0, the hero does not lose their tough status card.</li><li>When an ally or minion with a tough status card is dealt excess damage by an attack with the overkill keyword, overkill damage is not dealt to the identity of that ally’s controller or to the villain, respectively.</li><li>As a tough status card prevents damage fully, the character who had the tough status card is not considered to have taken damage.</li></ul>",
-				"whats_new": ""
-			}
-		],
+		"content": "Tough is a status that prevents a character from taking damage.<ul><li>If a character with a tough status card would take any amount of damage, prevent all of that damage and discard a tough status card from that character instead. A character with multiple tough status cards discards only one tough status card each time it would take damage. When a hero with a tough status card defends an attack, they reduce the damage from the attack by their DEF first. If the damage is reduced to 0, the hero does not lose their tough status card.</li><li>When an ally or minion with a tough status card is dealt excess damage by an attack with the overkill keyword, overkill damage is not dealt to the identity of that ally’s controller or to the villain, respectively.</li><li>As a tough status card prevents damage fully, the character who had the tough status card is not considered to have taken damage.</li></ul>",
 		"see_also": [
 			"damage",
 			"overkill",
@@ -213,13 +143,7 @@
 		"id": "toughness",
 		"term": "Toughness",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "When a character with the toughness keyword enters play, place a tough status card on it.",
-				"whats_new": ""
-			}
-		],
+		"content": "When a character with the toughness keyword enters play, place a tough status card on it.",
 		"see_also": [
 			"ally",
 			"enters_play",
@@ -235,13 +159,7 @@
 		"id": "traits",
 		"term": "Traits",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "Many cards have one or more traits listed at the top of the text box and printed in bold italics.<ul><li>Traits have no inherent effects on the game. Instead, some card abilities reference cards that possess or lack specific traits.</li><li>Traits are not considered to be part of a card’s printed text box for the purpose of card abilities.</li></ul>",
-				"whats_new": ""
-			}
-		],
+		"content": "Many cards have one or more traits listed at the top of the text box and printed in bold italics.<ul><li>Traits have no inherent effects on the game. Instead, some card abilities reference cards that possess or lack specific traits.</li><li>Traits are not considered to be part of a card’s printed text box for the purpose of card abilities.</li></ul>",
 		"see_also": [
 			"printed"
 		]
@@ -250,13 +168,7 @@
 		"id": "treachery",
 		"term": "Treachery",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "Treachery is an encounter card type that represent tactics, tricks, disasters, and other immediate occurrences that confront players during a scenario.<ul><li>If a treachery card is revealed from the encounter deck, the player revealing the card must resolve its effects.</li><li>After resolving the effects of a treachery card (or the effects are canceled), place the card in the encounter discard pile. If a treachery causes one or more enemies to activate as its last effect, that treachery card is considered resolved and is discarded after all of those activations have resolved.</li></ul>",
-				"whats_new": ""
-			}
-		],
+		"content": "Treachery is an encounter card type that represent tactics, tricks, disasters, and other immediate occurrences that confront players during a scenario.<ul><li>If a treachery card is revealed from the encounter deck, the player revealing the card must resolve its effects.</li><li>After resolving the effects of a treachery card (or the effects are canceled), place the card in the encounter discard pile. If a treachery causes one or more enemies to activate as its last effect, that treachery card is considered resolved and is discarded after all of those activations have resolved.</li></ul>",
 		"see_also": [
 			"card_types",
 			"discard",
@@ -270,13 +182,7 @@
 		"id": "triggered_ability",
 		"term": "Triggered Ability",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "A triggered ability is indicated by a bold timing trigger followed by a colon and the rest of the ability text.",
-				"whats_new": ""
-			}
-		],
+		"content": "A triggered ability is indicated by a bold timing trigger followed by a colon and the rest of the ability text.",
 		"see_also": [
 			"ability",
 			"action",
@@ -294,13 +200,7 @@
 		"id": "triggering_condition",
 		"term": "Triggering Condition",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "A triggering condition is a specific occurrence that takes place in the game. On card abilities, the triggering condition is the element of the ability that references such an occurrence, indicating the timing point at which the ability may be used. The description of an ability’s triggering condition usually follows the word “when” or “after.”<ul><li>Each “Interrupt“ and “Response” ability can only be triggered once per occurrence of its triggering condition. Multiple copies of a card with an interrupt or response can each be triggered by the same triggering condition.</li><li>If a single game occurrence creates multiple triggering conditions (such as a single attack causing a character to both take damage and be defeated), those triggering conditions are handled with a single interrupt window and a single response window. During each of these windows, abilities that refer to any of the triggering conditions created by the occurrence may be used in any order.</li></ul>",
-				"whats_new": ""
-			}
-		],
+		"content": "A triggering condition is a specific occurrence that takes place in the game. On card abilities, the triggering condition is the element of the ability that references such an occurrence, indicating the timing point at which the ability may be used. The description of an ability’s triggering condition usually follows the word “when” or “after.”<ul><li>Each “Interrupt“ and “Response” ability can only be triggered once per occurrence of its triggering condition. Multiple copies of a card with an interrupt or response can each be triggered by the same triggering condition.</li><li>If a single game occurrence creates multiple triggering conditions (such as a single attack causing a character to both take damage and be defeated), those triggering conditions are handled with a single interrupt window and a single response window. During each of these windows, abilities that refer to any of the triggering conditions created by the occurrence may be used in any order.</li></ul>",
 		"see_also": [
 			"interrupt",
 			"response"
@@ -310,13 +210,8 @@
 		"id": "tuck",
 		"term": "Tuck",
 		"type": "official",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "<red>When a player is instructed to tuck a card under another card, they place the tucked card faceup under the other card.<ul><li>Tucked cards are not in play and are not considered “attached” to the card under which they are tucked.</li><li>When a card leaves play, each card tucked under it is discarded.</li></ul></red><ul></ul>",
-				"whats_new": "Added the definition for 'Tuck', explaining that tucked cards are placed faceup under another card, are considered out of play (not 'attached'), and are discarded when the host card leaves play."
-			}
-		],
+		"content": "<red>When a player is instructed to tuck a card under another card, they place the tucked card faceup under the other card.<ul><li>Tucked cards are not in play and are not considered “attached” to the card under which they are tucked.</li><li>When a card leaves play, each card tucked under it is discarded.</li></ul></red><ul></ul>",
+		"whats_new": "Added the definition for 'Tuck', explaining that tucked cards are placed faceup under another card, are considered out of play (not 'attached'), and are discarded when the host card leaves play.",
 		"see_also": [
 			"in_play_and_out_of_play"
 		]

@@ -2,12 +2,6 @@
 	{
 		"id": "x_value",
 		"term": "« X » (valeur)",
-		"versions": [
-			{
-				"version": "1.7",
-				"content": "Voir : Variable Non-Numérique",
-				"whats_new": ""
-			}
-		]
+		"content": "Voir : Variable Non-Numérique"
 	}
 ]
