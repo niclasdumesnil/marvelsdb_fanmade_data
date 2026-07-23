@@ -115,7 +115,7 @@
 		"id": "discard",
 		"term": "Défausser",
 		"type": "official",
-		"content": "Défausser est l'action de tenter de déplacer une carte depuis une zone de jeu (autre qu'une pile de défausse) vers une pile de défausse.<ul><li>Si une carte joueur est défaussée, elle est placée face visible sur le dessus de la pile de défausse du joueur qui la possède.</li><li>Si une carte rencontre est défaussée, elle est placée face visible sur le dessus de la pile de défausse rencontre.</li><li>Si plusieurs cartes sont défaussées de la main d'un joueur ou du jeu par un seul effet, placez ces cartes dans la pile de défausse appropriée dans n'importe quel ordre.</li><li>Si plusieurs cartes sont défaussées d'un deck par un seul effet, placez ces cartes dans la pile de défausse appropriée une par une (sans en changer l'ordre). Ces défausses sont considérées comme simultanées.</li></ul>",
+		"content": "<p>Défausser est l'action de tenter de déplacer une carte d'une zone de jeu autre qu'une pile de défausse vers une pile de défausse.</p><ul><li>Si une carte joueur est défaussée, elle est placée face visible sur le dessus de la pile de défausse du joueur propriétaire.</li><li>Si une carte rencontre est défaussée, elle est placée face visible sur le dessus de la pile de défausse rencontre.</li><li>Si plusieurs cartes sont défaussées de la main d'un joueur ou du jeu par un seul effet, placez ces cartes dans la pile de défausse appropriée dans n'importe quel ordre.</li><li>Si plusieurs cartes sont défaussées d'un deck par un seul effet, placez ces cartes dans la pile de défausse appropriée une par une <em>(sans en changer l'ordre)</em>.<ul><li>Ces défausses sont considérées comme simultanées.</li><li>Les réponses à la défausse de l'une de ces cartes sont résolues après que toutes les défausses ont été effectuées.</li></ul></li><li>Si un joueur regarde un certain nombre de cartes du dessus d'un deck et défausse une ou plusieurs de ces cartes, ces cartes sont considérées comme ayant été défaussées du dessus de ce deck.</li></ul>",
 		"see_also": [
 			"discard_pile",
 			"encounter_card",
@@ -129,7 +129,7 @@
 		"id": "discard_pile",
 		"term": "Pile de défausse",
 		"type": "official",
-		"content": "Une pile de défausse est une zone hors jeu qui contient les cartes qui ont été défaussées tout au long de la partie.<ul><li>Chaque joueur a sa propre pile de défausse, et le deck rencontre a sa propre pile de défausse.</li><li>Chaque pile de défausse est une information ouverte, et peut être consultée par n'importe quel joueur à tout moment.</li><li>L'ordre des cartes dans une pile de défausse ne peut pas être modifié à moins qu'un joueur n'y soit invité par une capacité de carte.</li><li>Toute capacité qui demanderait de mélanger une pile de défausse de zéro carte dans un deck ne mélange pas le deck.</li></ul>",
+		"content": "<p>Une pile de défausse est une zone hors jeu qui contient des cartes qui ont été défaussées tout au long de la partie.</p><ul><li>Chaque joueur a sa propre pile de défausse, et le deck rencontre a sa propre pile de défausse.</li><li>Chaque pile de défausse est une information ouverte, et peut être consultée par n'importe quel joueur à tout moment.</li><li>L'ordre des cartes dans une pile de défausse ne peut pas être modifié à moins qu'un joueur ne soit invité à le faire par une capacité de carte.</li><li>Toute capacité qui mélangerait une pile de défausse de zéro carte dans un deck ne mélange pas le deck.</li></ul>",
 		"see_also": [
 			"discard",
 			"in_play_and_out_of_play",

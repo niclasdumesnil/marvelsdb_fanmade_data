@@ -115,7 +115,7 @@
 		"id": "discard",
 		"term": "Discard",
 		"type": "official",
-		"content": "<p>Discarding is attempting to move a card from a non-discard-pile play area to a discard pile. Player cards discarded go faceup on top of the owning player's discard pile; encounter cards go faceup on top of the encounter discard pile.</p>\n<ul><li>If multiple cards are discarded from hand/play by a singular effect, order is any; from a deck, one at a time without changing order (considered simultaneous, responses resolve after all discards).</li><li>If a player looks at cards from the top of a deck and discards some, those are considered discarded from the top of that deck.</li></ul>",
+		"content": "<p>Discarding is the act of attempting to move a card from a non-discard-pile play area to a discard pile.</p><ul><li>If a player card is discarded, it is placed faceup on top of the owning player’s discard pile.</li><li>If an encounter card is discarded, it is placed faceup on top of the encounter discard pile.</li><li>If multiple cards are discarded from a player’s hand or from play by a singular effect, place those cards in the appropriate discard pile in any order.</li><li>If multiple cards are discarded from a deck by a singular effect, place those cards in the appropriate discard pile one at a time <em>(without changing the order)</em>.<ul><li>These discards are considered simultaneous.</li><li>Responses to the discarding of any of those cards are resolved after all discards are made.</li></ul></li><li>If a player looks at a number of cards from the top of a deck and discards one or more of those cards, those cards are considered to have been discarded from the top of that deck.</li></ul>",
 		"see_also": [
 			"discard_pile",
 			"encounter_card",
@@ -129,7 +129,7 @@
 		"id": "discard_pile",
 		"term": "Discard Pile",
 		"type": "official",
-		"content": "<ul><li>A discard pile is an out-of-play area containing discarded cards.</li><li>Each player has their own discard pile; the encounter deck has its own.</li><li>Each discard pile is open information viewable at any time. Order cannot be changed unless instructed by a card ability. Shuffling a discard pile of zero cards back into a deck does not shuffle the deck.</li></ul>",
+		"content": "<p>A discard pile is an out-of-play area that contains cards that have been discarded throughout the game.</p><ul><li>Each player has their own discard pile, and the encounter deck has its own discard pile.</li><li>Each discard pile is open information, and may be looked at by any player at any time.</li><li>The order of cards in a discard pile may not be changed unless a player is instructed to do so by a card ability.</li><li>Any ability that would shuffle a discard pile of zero cards back into a deck does not shuffle the deck.</li></ul>",
 		"see_also": [
 			"discard",
 			"in_play_and_out_of_play",
