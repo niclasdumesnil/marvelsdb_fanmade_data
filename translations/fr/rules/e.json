@@ -1,9 +1,9 @@
 [
 	{
 		"id": "each_player",
-		"term": "Chaque Joueur",
+		"term": "« Chaque joueur »",
 		"type": "official",
-		"content": "Lorsque chaque joueur reçoit l'instruction de résoudre un effet, chaque joueur résout cet effet l'un après l'autre.<ul><li>Si l'effet ne spécifie pas dans quel ordre les joueurs résolvent l'effet, le premier joueur décide de l'ordre.</li><li>Si un joueur ne peut pas résoudre complètement cet effet, il le résout autant que possible.</li></ul>",
+		"content": "<p>Lorsque chaque joueur reçoit l'instruction de résoudre un effet, chaque joueur résout cet effet un par un.</p><ul><li>Si l'effet ne spécifie pas dans quel ordre les joueurs résolvent l'effet, le premier joueur décide de l'ordre.</li><li>Si un joueur ne peut pas résoudre entièrement cet effet, il le résout autant que possible. <em>Par exemple, si chaque joueur reçoit l'instruction de défausser un certain nombre de cartes du deck rencontre et que le deck se vide pendant qu'un joueur défausse de celui-ci, ce joueur arrête de défausser dès que le deck est vidé. Après la réinitialisation du deck (et le placement d'un jeton accélération à côté du deck manigance principale), les joueurs restants reprennent la défausse à partir de celui-ci.</em></li></ul>",
 		"see_also": [
 			"choose_game_element",
 			"player"
