@@ -72,6 +72,7 @@ To check and apply formatting to JSON files:
   * -1: Shows up as X
   * 0+: Shows up as the given integer
 * **cost_per_hero** - Whether the **cost** is per hero
+* **cost_star** - Whether a star appears in the cost field indicating a special ability
 * **deck_limit** - The max number of the given card that can be in a deck
 * **deck_options** - Alter-ego/hero only - describes the options while deck building a hero. e.g.:
   ```json
