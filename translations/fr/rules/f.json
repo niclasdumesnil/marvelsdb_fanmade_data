@@ -8,7 +8,8 @@
 			"search",
 			"removed_from_the_game",
 			"victory_display"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Trouver comme une capacité constante équivalente."
 	},
 	{
 		"id": "first_player",
@@ -29,7 +30,8 @@
 		"content": "<p>Lorsqu'un joueur reçoit l'instruction de retourner une carte, il la met à l'envers pour que la face qui était face visible soit maintenant face cachée.</p><ul><li>Une carte pliable à « trois faces » est considérée comme retournée chaque fois que la face visible de la carte change.</li><li>Lorsqu'une carte est retournée, si la nouvelle face visible de cette carte a :<ul><li>Le même type de carte que la face précédente, la carte conserve toutes les cartes attachées, les cartes glissées dessous, les cartes d'état et les jetons.</li><li>Un type de carte différent de la face précédente, toutes les <mark class=\"new\">cartes attachées, cartes glissées dessous</mark>, cartes d'état et jetons sont défaussés de la carte.</li></ul></li></ul>",
 		"see_also": [
 			"double_sided_card"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Basculer comme une capacité constante équivalente."
 	},
 	{
 		"id": "for_each",
@@ -61,7 +63,8 @@
 			"flip",
 			"identity",
 			"keywords"
-		]
+		],
+		"whats_new": "Clarification : résoudre un changement de forme sur une carte d'identité modifie la forme du joueur vers l'état spécifié."
 	},
 	{
 		"id": "friendly",

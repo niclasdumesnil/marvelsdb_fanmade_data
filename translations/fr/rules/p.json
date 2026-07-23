@@ -11,7 +11,8 @@
 			"minion",
 			"reminder_text",
 			"thwart"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Patrouille comme une capacité constante équivalente."
 	},
 	{
 		"id": "pay",
@@ -45,7 +46,8 @@
 			"reminder_text",
 			"table_talk",
 			"triggered_ability"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Péril comme une capacité constante équivalente."
 	},
 	{
 		"id": "permanent",
@@ -58,7 +60,8 @@
 			"leaves_play",
 			"ownership_and_control",
 			"reminder_text"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Permanent comme une capacité constante équivalente."
 	},
 	{
 		"id": "physical_resource",
@@ -89,7 +92,8 @@
 			"status_cards",
 			"target",
 			"tough"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Perçant comme une capacité constante équivalente."
 	},
 	{
 		"id": "play_area",
@@ -203,7 +207,8 @@
 			"player_deck",
 			"players_play_area",
 			"winning_the_game"
-		]
+		],
+		"whats_new": "Clarification des étapes d'élimination d'un joueur et du nettoyage des cartes contrôlées."
 	},
 	{
 		"id": "player_phase",
@@ -238,7 +243,8 @@
 		"content": "<p>Le nombre de manigances annexes de joueur en jeu à un moment donné est limité par la limite de manigance annexe de joueur.</p><ul><li>Si un ou deux joueurs ont commencé la partie, la limite de manigance annexe de joueur est de un. Si trois ou quatre joueurs ont commencé la partie, la limite est de deux.</li><li>S'il y a plus de manigances annexes de joueur en jeu que la limite, le premier joueur choisit et défausse des manigances annexes de joueur jusqu'à ce qu'il n'y en ait plus en jeu que la limite.</li><li><mark class=\"new\">Un joueur peut jouer une manigance annexe de joueur même si la limite de manigance annexe de joueur est atteinte. S'il le fait, il doit choisir une manigance annexe de joueur à défausser. <em>(La manigance annexe de joueur défaussée de cette manière n'est pas considérée comme vaincue.)</em></mark></li></ul>",
 		"see_also": [
 			"player_side_scheme"
-		]
+		],
+		"whats_new": "Ajout de la définition de la limite de construction pour les manigances annexes de joueur (maximum 1 copie par deck)."
 	},
 	{
 		"id": "player_turn",

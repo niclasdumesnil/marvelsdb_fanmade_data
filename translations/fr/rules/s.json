@@ -163,7 +163,8 @@
 		"content": "<p>Une capacité spéciale est un type de capacité déclenchée, indiquée par le déclencheur « <b>Spécial</b> » en gras. Les capacités spéciales ne peuvent être <mark class=\"new\">résolues</mark> que par l'instruction explicite d'une autre capacité de carte.</p>",
 		"see_also": [
 			"triggered_ability"
-		]
+		],
+		"whats_new": "Clarification : les capacités Spécial sont des capacités déclenchées se résolvant comme spécifié par la carte ou l'effet les déclenchant."
 	},
 	{
 		"id": "stalwart",
@@ -181,7 +182,8 @@
 			"status_cards",
 			"stun_stunned",
 			"villain"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Inébranlable comme une capacité constante équivalente."
 	},
 	{
 		"id": "standard_mode",
@@ -217,7 +219,8 @@
 			"minion",
 			"non_numerical_variable",
 			"villain"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant l'icône d'étoile (⭐) comme une capacité constante équivalente."
 	},
 	{
 		"id": "status_cards",
@@ -248,7 +251,8 @@
 			"keywords",
 			"status_cards",
 			"stun_stunned"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Solide comme une capacité constante équivalente."
 	},
 	{
 		"id": "stun_stunned",
@@ -263,7 +267,8 @@
 			"status_cards",
 			"target",
 			"villain"
-		]
+		],
+		"whats_new": "Précision indiquant qu'une carte d'état sonné se résout comme la capacité déclenchée « Interruption Forcée » consistant à retirer chaque carte sonné lorsque le personnage devrait attaquer."
 	},
 	{
 		"id": "subtitle",
@@ -325,6 +330,7 @@
 		"see_also": [
 			"ability",
 			"target"
-		]
+		],
+		"whats_new": "Extension des règles d'échange de cartes et de transfert des pions, attachements et cadrans de points de vie."
 	}
 ]

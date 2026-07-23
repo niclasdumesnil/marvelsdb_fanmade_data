@@ -8,7 +8,8 @@
 			"attack_player_ability_type",
 			"defend_defense",
 			"thwart"
-		]
+		],
+		"whats_new": "Revised definitions for labeled abilities (Attack, Defense, Thwart, Resource, Setup)."
 	},
 	{
 		"id": "lasting_effects",
@@ -27,7 +28,8 @@
 		"content": "<p><mark class=\"new\">The leader card type follows the same rules as the villain card type for all purposes.</mark></p>",
 		"see_also": [
 			"villain"
-		]
+		],
+		"whats_new": "Added a new bullet defining the leader keyword as an equivalent constant ability."
 	},
 	{
 		"id": "leaves_play",
@@ -42,7 +44,8 @@
 			"in_play_and_out_of_play",
 			"removed_from_the_game",
 			"victory_display"
-		]
+		],
+		"whats_new": "Clarified that when a card leaves play, all tokens on it (except acceleration tokens on the main scheme) are returned to the supply."
 	},
 	{
 		"id": "limit",
@@ -62,7 +65,8 @@
 			"keywords",
 			"ownership_and_control",
 			"set_aside"
-		]
+		],
+		"whats_new": "Clarified rules for double-sided linked cards entering and leaving play."
 	},
 	{
 		"id": "look_looked_at",

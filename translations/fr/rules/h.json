@@ -18,7 +18,8 @@
 			"deal_deal_an_encounter_card",
 			"in_player_order",
 			"villain_phase"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant l'icône de danger comme une capacité constante équivalente."
 	},
 	{
 		"id": "heal",
@@ -63,7 +64,8 @@
 			"reminder_text",
 			"reveal",
 			"threat"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Entrave X comme une capacité constante équivalente."
 	},
 	{
 		"id": "hit_points",

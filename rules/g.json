@@ -72,6 +72,7 @@
 			"minion",
 			"reminder_text",
 			"villain"
-		]
+		],
+		"whats_new": "Added a new bullet defining the guard keyword as an equivalent constant ability."
 	}
 ]

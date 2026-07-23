@@ -18,7 +18,8 @@
 			"deal_deal_an_encounter_card",
 			"in_player_order",
 			"villain_phase"
-		]
+		],
+		"whats_new": "Added a new bullet defining the hazard icon as an equivalent constant ability."
 	},
 	{
 		"id": "heal",
@@ -63,7 +64,8 @@
 			"reminder_text",
 			"reveal",
 			"threat"
-		]
+		],
+		"whats_new": "Added a new bullet defining the hinder X keyword as an equivalent constant ability."
 	},
 	{
 		"id": "hit_points",

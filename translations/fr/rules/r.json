@@ -10,7 +10,8 @@
 			"keywords",
 			"reminder_text",
 			"retaliate_x"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé À Distance comme une capacité constante équivalente."
 	},
 	{
 		"id": "ready",
@@ -43,7 +44,8 @@
 			"heal",
 			"hit_points",
 			"identity"
-		]
+		],
+		"whats_new": "Clarification : un personnage utilise sa statistique REC lors de l'utilisation d'un pouvoir de base Récupération."
 	},
 	{
 		"id": "referential_ability",
@@ -56,7 +58,8 @@
 			"classifications",
 			"identity",
 			"identity_specific_card"
-		]
+		],
+		"whats_new": "Clarification de la correspondance des titres pour les capacités référentielles entre cartes joueur et cartes rencontre."
 	},
 	{
 		"id": "remaining_hit_points",
@@ -84,7 +87,8 @@
 		"see_also": [
 			"in_play_and_out_of_play",
 			"leaves_play"
-		]
+		],
+		"whats_new": "Clarification : les cartes retirées de la partie sont hors jeu et ne peuvent plus interagir avec la partie."
 	},
 	{
 		"id": "replacement_effect",
@@ -111,7 +115,8 @@
 			"initiating_abilities",
 			"keywords",
 			"resource"
-		]
+		],
+		"whats_new": "Clarification : les exigences de ressources sont des coûts supplémentaires qui doivent être payés pour jouer une carte ou initier une capacité."
 	},
 	{
 		"id": "resolve",
@@ -189,7 +194,8 @@
 			"ability",
 			"triggered_ability",
 			"triggering_condition"
-		]
+		],
+		"whats_new": "Mise à jour de la terminologie précisant que les capacités de réponse sont « résolues » après la survenue de leur condition de déclenchement."
 	},
 	{
 		"id": "restricted",
@@ -202,7 +208,8 @@
 			"ownership_and_control",
 			"player",
 			"reminder_text"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Restreint comme une capacité constante équivalente."
 	},
 	{
 		"id": "retaliate_x",
@@ -219,7 +226,8 @@
 			"minion",
 			"reminder_text",
 			"villain"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Riposte X comme une capacité constante équivalente."
 	},
 	{
 		"id": "reveal",
@@ -241,7 +249,8 @@
 			"side_scheme",
 			"treachery",
 			"villain_phase"
-		]
+		],
+		"whats_new": "Clarification des étapes de révélation des cartes rencontre, des cartes de mise en place et des stades de méchant/manigance principale."
 	},
 	{
 		"id": "rookie_mode",

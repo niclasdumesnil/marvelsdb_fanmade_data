@@ -22,7 +22,8 @@
 			"subtitle",
 			"villain",
 			"appendix_i_deck_customization"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant l'icône unique (✦) comme une capacité constante équivalente."
 	},
 	{
 		"id": "upgrade",
@@ -53,6 +54,7 @@
 			"keywords",
 			"leaves_play",
 			"reminder_text"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Utilisation (X) comme une capacité constante équivalente."
 	}
 ]

@@ -163,7 +163,8 @@
 		"content": "<p>A special ability is a type of triggered ability, indicated by the bold “<b>Special</b>” timing trigger. Special abilities may only be <mark class=\"new\">resolved</mark> through the explicit instruction of another card ability.</p>",
 		"see_also": [
 			"triggered_ability"
-		]
+		],
+		"whats_new": "Clarified that special abilities are triggered abilities that resolve as specified by the card or effect triggering them."
 	},
 	{
 		"id": "stalwart",
@@ -181,7 +182,8 @@
 			"status_cards",
 			"stun_stunned",
 			"villain"
-		]
+		],
+		"whats_new": "Added a new bullet defining the stalwart keyword as an equivalent constant ability."
 	},
 	{
 		"id": "standard_mode",
@@ -217,7 +219,8 @@
 			"minion",
 			"non_numerical_variable",
 			"villain"
-		]
+		],
+		"whats_new": "Added a new bullet defining the star icon (⭐) as an equivalent constant ability."
 	},
 	{
 		"id": "status_cards",
@@ -248,7 +251,8 @@
 			"keywords",
 			"status_cards",
 			"stun_stunned"
-		]
+		],
+		"whats_new": "Added a new bullet defining the steady keyword as an equivalent constant ability."
 	},
 	{
 		"id": "stun_stunned",
@@ -263,7 +267,8 @@
 			"status_cards",
 			"target",
 			"villain"
-		]
+		],
+		"whats_new": "Clarified that a stunned status card resolves like a specific Forced Interrupt triggered ability."
 	},
 	{
 		"id": "subtitle",
@@ -325,6 +330,7 @@
 		"see_also": [
 			"ability",
 			"target"
-		]
+		],
+		"whats_new": "Expanded rules for swapping cards and transferring tokens, attachments, and hit point dials."
 	}
 ]

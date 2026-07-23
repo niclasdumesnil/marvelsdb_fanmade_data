@@ -31,7 +31,8 @@
 			"reminder_text",
 			"uses_x_type",
 			"victory_display"
-		]
+		],
+		"whats_new": "Added a new bullet defining the victory X keyword as an equivalent constant ability."
 	},
 	{
 		"id": "villain_villain_deck",
@@ -115,7 +116,8 @@
 			"minion",
 			"reminder_text",
 			"scheme_enemy_activation"
-		]
+		],
+		"whats_new": "Added a new bullet defining the villainous keyword as an equivalent constant ability."
 	},
 	{
 		"id": "vulnerable",
@@ -126,6 +128,7 @@
 			"confuse_confused",
 			"steady",
 			"stun_stunned"
-		]
+		],
+		"whats_new": "Added a new bullet defining the vulnerable keyword as an equivalent constant ability."
 	}
 ]

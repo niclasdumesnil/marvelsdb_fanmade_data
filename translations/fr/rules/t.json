@@ -21,7 +21,8 @@
 			"cost",
 			"game_element",
 			"labeled_ability"
-		]
+		],
+		"whats_new": "Clarification des règles de sélection de cible pour les capacités et les pouvoirs de base."
 	},
 	{
 		"id": "target_threat",
@@ -46,7 +47,8 @@
 			"play_put_into_play",
 			"reminder_text",
 			"appendix_i_deck_customization"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Duo comme une capacité constante équivalente."
 	},
 	{
 		"id": "teamwork_trait",
@@ -57,7 +59,8 @@
 			"activation",
 			"engage",
 			"keywords"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le trait Travail d'équipe comme une capacité constante équivalente."
 	},
 	{
 		"id": "temporary",
@@ -66,7 +69,8 @@
 		"content": "<p>Une carte avec le mot-clé temporaire doit être défaussée du jeu à la fin du round.</p><ul><li><mark class=\"new\">Le mot-clé temporaire est équivalent à la capacité déclenchée suivante : « <b>Interruption forcée</b> : Quand le round se termine, défaussez cette carte du jeu. »</mark></li></ul>",
 		"see_also": [
 			"keywords"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Temporaire comme une capacité constante équivalente."
 	},
 	{
 		"id": "text_box",
@@ -145,7 +149,8 @@
 			"modifiers",
 			"side_scheme",
 			"threat"
-		]
+		],
+		"whats_new": "Clarification de l'exécution du pouvoir de base Contre et des capacités de contre."
 	},
 	{
 		"id": "timing",
@@ -169,7 +174,8 @@
 			"overkill",
 			"status_cards",
 			"toughness"
-		]
+		],
+		"whats_new": "Clarification : une carte d'état tenace prévient tous les dégâts d'une instance de dégâts unique."
 	},
 	{
 		"id": "toughness",
@@ -185,7 +191,8 @@
 			"reminder_text",
 			"status_cards",
 			"villain"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Tenacité comme une capacité constante équivalente."
 	},
 	{
 		"id": "traits",

@@ -19,6 +19,7 @@
 			"player",
 			"reminder_text",
 			"reveal"
-		]
+		],
+		"whats_new": "Added a new bullet defining the quickstrike keyword as an equivalent constant ability."
 	}
 ]

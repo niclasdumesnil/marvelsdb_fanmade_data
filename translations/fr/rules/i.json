@@ -98,7 +98,8 @@
 			"reminder_text",
 			"reveal",
 			"threat"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Sombre X comme une capacité constante équivalente."
 	},
 	{
 		"id": "indirect_damage",
@@ -126,19 +127,20 @@
 		"id": "initiating_abilities",
 		"term": "Initier des Capacités, Jouer des cartes",
 		"type": "official",
-		"content": "Lorsqu'un joueur souhaite jouer une carte ou initier une capacité déclenchée, ce joueur déclare d'abord son intention. Ensuite, le joueur vérifie les conditions suivantes dans l'ordre :<ol><li>Vérifier les restrictions de jeu : la carte peut-elle être jouée, ou la capacité initiée, à ce moment ? Vérifiez qu'elle possède au moins une cible valide.</li><li>Déterminer le(s) coût(s) pour jouer la carte ou initier la capacité et la capacité du joueur à les payer, en tenant compte des modificateurs.</li><li>S'il joue une carte, le joueur place cette carte face visible sur la table devant lui.</li><li>Appliquer tout modificateur au(x) coût(s).</li><li>Payer le(s) coût(s). Si cette étape est atteinte et que les coûts ne peuvent pas être payés, annulez ce processus sans payer de coûts.</li><li>La carte commence à être jouée, ou les effets de la capacité tentent de s'initier.</li><li>La carte est jouée ou la capacité (si elle n'est pas annulée à l'étape précédente) se résout. La carte entre en jeu ou, s'il s'agit d'une carte événement, ses effets se résolvent et elle est ensuite placée dans la pile de défausse de son propriétaire.</li></ol>",
+		"content": "<p>Lorsqu'un joueur souhaite jouer une carte ou initier une capacité déclenchée, ce joueur déclare d'abord son intention. Ensuite, le joueur vérifie les conditions suivantes dans l'ordre :</p><ol><li><mark class=\"new\">S'il joue une carte, le joueur place cette carte face visible sur la table devant lui. <em>(Cette carte n'est pas en jeu.)</em></mark></li><li>Vérifier les restrictions de jeu : la carte peut-elle être jouée, ou la capacité initiée, à ce moment ?<ul><li>Si la carte ou la capacité spécifie une ou plusieurs cibles, vérifiez qu'elle a au moins une cible valide. Si la carte ou la capacité n'a pas au moins une cible valide, elle ne peut pas être jouée ni initiée.</li><li><mark class=\"new\">Si la carte ou la capacité a une condition de forme <em>(par exemple, « Forme de Héros uniquement » ou « Action de Héros »)</em>, la forme du joueur jouant cette carte ou initiant cette capacité est vérifiée maintenant.</mark></li></ul></li><li>Déterminer le coût <em>(ou les coûts)</em> pour jouer la carte ou initier la capacité et la capacité du joueur à les payer, en tenant compte des modificateurs.<ul><li>Si une carte a un coût en ressources de X, le joueur qui joue cette carte choisit la valeur de X pendant cette étape.</li></ul></li></ol><p>Si les deux conditions sont remplies, suivez ces étapes dans l'ordre :</p><ol start=\"4\"><li>Appliquer tout modificateur au(x) coût(s).</li><li>Payer le(s) coût(s). Si cette étape est atteinte et que les coûts ne peuvent pas être payés, annulez ce processus sans payer de coûts.</li><li>La carte commence à être jouée, ou les effets de la capacité tentent de s'initier.</li><li>La carte est jouée ou la capacité <em>(si elle n'est pas annulée à l'étape précédente)</em> se résout. La carte entre en jeu ou, s'il s'agit d'une carte événement, ses effets se résolvent et elle est ensuite placée dans la pile de défausse de son propriétaire.<ul><li>Si l'une des étapes ci-dessus rend la condition de déclenchement d'une capacité d'interruption vraie, cette capacité peut être initiée juste avant que cette condition de déclenchement ne devienne vraie.</li><li>Si l'une des étapes ci-dessus rend la condition de déclenchement d'une capacité de réponse vraie, cette capacité peut être initiée immédiatement après que cette condition de déclenchement devient vraie.</li><li>Si la capacité initiée est sur une carte en jeu, la séquence ne s'arrête pas si cette carte quitte le jeu pendant cette séquence, à moins que la carte quittant le jeu ne m'empêche d'en payer le coût requis.</li></ul></li></ol>",
 		"see_also": [
 			"ability",
 			"cost",
 			"play_restrictions_and_permissions",
 			"target"
-		]
+		],
+		"whats_new": "Clarification : placement des cartes face visible lors du jeu et vérification de la forme du joueur avant le paiement des coûts."
 	},
 	{
 		"id": "instead",
-		"term": "« A la place »",
+		"term": "« À la place »",
 		"type": "official",
-		"content": "Voir : Effets de remplacement",
+		"content": "<p>Voir : Effets de remplacement.</p>",
 		"see_also": [
 			"replacement_effect"
 		]
@@ -147,12 +149,13 @@
 		"id": "interrupt",
 		"term": "Interruption",
 		"type": "official",
-		"content": "Une capacité d'interruption est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « Interruption ». Les capacités d'interruption peuvent être exécutées à chaque fois que la condition de déclenchement spécifiée se produit, comme décrit dans le texte de la capacité. La capacité d'interruption interrompt la résolution de la condition de déclenchement spécifiée, et se résout juste avant que cette condition de déclenchement ne se résolve.<ul><li>Les joueurs ne peuvent déclencher des capacités d'interruption que sur les cartes qu'ils contrôlent ou sur les cartes rencontre.</li><li>Plusieurs interruptions peuvent être déclenchées par la même condition de déclenchement, mais chaque interruption ne peut être déclenchée qu'une seule fois par occurrence de la condition.</li><li>Les interruptions qui utilisent le mot « devait » (ou « est censé ») se résolvent avant que sa condition de déclenchement ne s'initie, lorsque cette condition devient imminente.</li><li>Si une interruption modifie (via un effet de remplacement) ou annule une condition de déclenchement imminente, aucune autre interruption à la condition de déclenchement d'origine ne peut être déclenchée.</li></ul>",
+		"content": "<p>Une capacité d'interruption est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras <b>« Interruption »</b>. Les capacités d'interruption peuvent être <mark class=\"new\">résolues</mark> à chaque fois que la condition de déclenchement spécifiée se produit, comme décrit dans le texte de la capacité. La capacité d'interruption interrompt la résolution de la condition de déclenchement spécifiée, et se résout immédiatement avant que cette condition de déclenchement ne se résolve.</p><ul><li>Les joueurs ne peuvent déclencher des capacités d'interruption que sur les cartes qu'ils contrôlent ou sur les cartes rencontre.<ul><li>Les joueurs ne peuvent pas déclencher de capacités d'interruption sur les obligations dans la zone de jeu d'autres joueurs.</li></ul></li><li>Plusieurs interruptions peuvent être déclenchées par la même condition de déclenchement, mais chaque interruption ne peut être déclenchée qu'une seule fois par occurrence de la condition.<ul><li>Plusieurs copies d'une carte avec une interruption peuvent chacune être déclenchées par la même condition de déclenchement.</li></ul></li><li>Une capacité d'interruption est <mark class=\"new\">résolue</mark> lorsque sa condition de déclenchement s'initie, mais avant que cette condition de déclenchement ne se résolve.<ul><li>Les interruptions qui utilisent le mot « est censé » <em>(ou « devrait »)</em> se résolvent avant que la condition de déclenchement ne s'initie, lorsque cette condition devient imminente.</li></ul></li><li>Si une interruption modifie <em>(via un effet de remplacement)</em> ou annule une condition de déclenchement imminente, aucune autre interruption à la condition de déclenchement d'origine ne peut être déclenchée.</li><li>Une fois que tous les joueurs décident qu'ils ne souhaitent pas résoudre d'autres interruptions à une condition de déclenchement, les interruptions ultérieures à cette occurrence ne peuvent plus être utilisées.</li></ul>",
 		"see_also": [
 			"cancel",
 			"replacement_effect",
 			"triggered_ability",
 			"would"
-		]
+		],
+		"whats_new": "Mise à jour de la terminologie précisant que les capacités d'interruption sont « résolues » lorsque leur condition de déclenchement s'initie."
 	}
 ]

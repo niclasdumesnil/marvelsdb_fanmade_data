@@ -31,7 +31,8 @@
 			"reminder_text",
 			"uses_x_type",
 			"victory_display"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Victoire X comme une capacité constante équivalente."
 	},
 	{
 		"id": "villain_villain_deck",
@@ -98,7 +99,8 @@
 			"minion",
 			"reminder_text",
 			"scheme_enemy_activation"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Vilenie comme une capacité constante équivalente."
 	},
 	{
 		"id": "villains_play_area",
@@ -126,6 +128,7 @@
 			"confuse_confused",
 			"steady",
 			"stun_stunned"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Vulnérable comme une capacité constante équivalente."
 	}
 ]

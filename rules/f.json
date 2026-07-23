@@ -8,7 +8,8 @@
 			"search",
 			"removed_from_the_game",
 			"victory_display"
-		]
+		],
+		"whats_new": "Added a new bullet defining the find keyword as an equivalent constant ability."
 	},
 	{
 		"id": "first_player",
@@ -29,7 +30,8 @@
 		"content": "<p>When instructed to flip a card, turn that card upside down so that the face that was faceup is now facedown.</p><ul><li>A foldable, “three-sided” card is considered to have flipped any time the faceup side of the card changes.</li><li>When a card flips, if the new faceup side of that card has:<ul><li>The same card type as the previous face, the card retains all attached cards, tucked cards, status cards, and tokens.</li><li>A different card type from the previous face, all <mark class=\"new\">attached cards, tucked cards</mark>, status cards, and tokens are discarded from the card.</li></ul></li></ul>",
 		"see_also": [
 			"double_sided_card"
-		]
+		],
+		"whats_new": "Added a new bullet defining the flip keyword as an equivalent constant ability."
 	},
 	{
 		"id": "for_each",
@@ -61,7 +63,8 @@
 			"flip",
 			"identity",
 			"keywords"
-		]
+		],
+		"whats_new": "Clarified that resolving a form change on an identity card changes the player's form to the state specified."
 	},
 	{
 		"id": "friendly",

@@ -98,7 +98,8 @@
 			"reminder_text",
 			"reveal",
 			"threat"
-		]
+		],
+		"whats_new": "Added a new bullet defining the incite X keyword as an equivalent constant ability."
 	},
 	{
 		"id": "indirect_damage",
@@ -132,7 +133,8 @@
 			"cost",
 			"play_restrictions_and_permissions",
 			"target"
-		]
+		],
+		"whats_new": "Clarified placing cards faceup when played and checking form requirements before paying costs."
 	},
 	{
 		"id": "instead",
@@ -153,6 +155,7 @@
 			"replacement_effect",
 			"triggered_ability",
 			"would"
-		]
+		],
+		"whats_new": "Updated terminology to specify that interrupt abilities are 'resolved' when their triggering condition initiates."
 	}
 ]

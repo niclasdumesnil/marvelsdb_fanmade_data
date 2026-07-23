@@ -8,7 +8,8 @@
 			"attack_player_ability_type",
 			"defend_defense",
 			"thwart"
-		]
+		],
+		"whats_new": "Révision de la définition des capacités étiquetées (Attaque, Défense, Contre, Ressource, Mise en place)."
 	},
 	{
 		"id": "lasting_effects",
@@ -27,7 +28,8 @@
 		"content": "<p><mark class=\"new\">Le type de carte leader suit les mêmes règles que le type de carte méchant à toutes fins.</mark></p>",
 		"see_also": [
 			"villain"
-		]
+		],
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Leader comme une capacité constante équivalente."
 	},
 	{
 		"id": "leaves_play",
@@ -42,7 +44,8 @@
 			"in_play_and_out_of_play",
 			"removed_from_the_game",
 			"victory_display"
-		]
+		],
+		"whats_new": "Clarification : lorsqu'une carte quitte le jeu, tous ses pions (sauf les jetons accélération sur la manigance principale) retournent à la réserve."
 	},
 	{
 		"id": "limit",
@@ -62,7 +65,8 @@
 			"keywords",
 			"ownership_and_control",
 			"set_aside"
-		]
+		],
+		"whats_new": "Clarification des règles concernant les cartes liées recto-verso lors de leur entrée et sortie du jeu."
 	},
 	{
 		"id": "look_looked_at",

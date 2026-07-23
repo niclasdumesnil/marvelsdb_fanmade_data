@@ -21,7 +21,8 @@
 			"cost",
 			"game_element",
 			"labeled_ability"
-		]
+		],
+		"whats_new": "Clarified target selection rules for abilities and basic powers."
 	},
 	{
 		"id": "target_threat",
@@ -46,7 +47,8 @@
 			"play_put_into_play",
 			"reminder_text",
 			"appendix_i_deck_customization"
-		]
+		],
+		"whats_new": "Added a new bullet defining the team-up keyword as an equivalent constant ability."
 	},
 	{
 		"id": "teamwork_trait",
@@ -57,7 +59,8 @@
 			"activation",
 			"engage",
 			"keywords"
-		]
+		],
+		"whats_new": "Added a new bullet defining the teamwork trait as an equivalent constant ability."
 	},
 	{
 		"id": "temporary",
@@ -66,7 +69,8 @@
 		"content": "<p>A card with temporary must be discarded from play at the end of the round.</p><ul><li><mark class=\"new\">The temporary keyword is equivalent to the following triggered ability: “<b>Forced Interrupt</b>: When the round ends, discard this card from play.”</mark></li></ul>",
 		"see_also": [
 			"keywords"
-		]
+		],
+		"whats_new": "Added a new bullet defining the temporary keyword as an equivalent constant ability."
 	},
 	{
 		"id": "text_box",
@@ -145,7 +149,8 @@
 			"modifiers",
 			"side_scheme",
 			"threat"
-		]
+		],
+		"whats_new": "Clarified basic thwart power execution and thwarting abilities."
 	},
 	{
 		"id": "timing",
@@ -169,7 +174,8 @@
 			"overkill",
 			"status_cards",
 			"toughness"
-		]
+		],
+		"whats_new": "Clarified that a tough status card prevents all damage from a single damage instance."
 	},
 	{
 		"id": "toughness",
@@ -185,7 +191,8 @@
 			"reminder_text",
 			"status_cards",
 			"villain"
-		]
+		],
+		"whats_new": "Added a new bullet defining the toughness keyword as an equivalent constant ability."
 	},
 	{
 		"id": "traits",

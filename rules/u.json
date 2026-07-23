@@ -22,7 +22,8 @@
 			"subtitle",
 			"villain",
 			"appendix_i_deck_customization"
-		]
+		],
+		"whats_new": "Added a new bullet defining the unique icon (✦) as an equivalent constant ability."
 	},
 	{
 		"id": "upgrade",
@@ -53,6 +54,7 @@
 			"keywords",
 			"leaves_play",
 			"reminder_text"
-		]
+		],
+		"whats_new": "Added a new bullet defining the uses X keyword as an equivalent constant ability."
 	}
 ]
