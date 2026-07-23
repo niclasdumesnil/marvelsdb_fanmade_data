@@ -3,7 +3,7 @@
 		"id": "scenario_specific_card",
 		"term": "Scenario-Specific Card",
 		"type": "official",
-		"content": "<ul><li>Cards in the 'scenario-specific' classification belong to a scenario's set of accompanying cards.</li><li>A scenario must include each such card in the exact quantity determined by the scenario. In most scenarios these are separated into the villain deck, main scheme deck, and encounter deck. Designated by the scenario's name printed at the bottom of the card.</li></ul>",
+		"content": "<p>Cards in the “scenario-specific” classification are cards that belong to a scenario’s set of accompanying cards.</p><ul><li>A scenario must include each scenario-specific card associated with that scenario. The exact quantity of each card in that set is determined by the scenario.</li><li>In most scenarios, the scenario-specific cards are separated into three decks: the villain deck <em>(comprised of that scenario’s villain cards)</em>, the main scheme deck <em>(comprised of that scenario’s main scheme cards)</em>, and the encounter deck <em>(comprised of that scenario’s attachment, environment, minion, side scheme, and treachery cards)</em>.</li><li>A scenario-specific card is designated by the name of the scenario with which it is associated printed at the bottom of the card in its encounter set name area.</li></ul>",
 		"see_also": [
 			"classifications",
 			"main_scheme_main_scheme_deck",
@@ -25,7 +25,7 @@
 		"id": "scheme_card_type",
 		"term": "Scheme (Card Type)",
 		"type": "official",
-		"content": "<p>The word 'scheme' denotes three different card types: main schemes, player side schemes, and side schemes. If a card ability places or removes threat from 'a scheme,' the resolving player chooses which scheme (main or side) that ability affects.</p>",
+		"content": "<p>The word “scheme” denotes three different card types: main schemes, player side schemes, and side schemes.</p><ul><li>If a card ability places threat on or removes threat from “a scheme,” the player resolving that ability chooses which scheme—main scheme or side schemes—that ability affects.</li></ul>",
 		"see_also": [
 			"main_scheme_main_scheme_deck",
 			"player_side_scheme",
@@ -36,7 +36,7 @@
 		"id": "scheme_enemy_activation",
 		"term": "Scheme (Enemy Activation)",
 		"type": "official",
-		"content": "<p>A scheme is a type of enemy activation. If an enemy is instructed to scheme:</p>\n<ol><li>If a villain or villainous minion is scheming, give it one facedown boost card (skip for non-villainous minions).</li><li>Resolve each boost card one at a time: flip faceup, resolve any 'Boost' ability, increase SCH by boost icons, discard the boost card, repeat.</li><li>Place threat on the main scheme equal to the scheming enemy's modified SCH value.</li></ol>",
+		"content": "<p>A scheme is a type of enemy activation. If an enemy is instructed to scheme, follow these steps:</p><ol><li>If a villain, or a minion with the villainous keyword, is scheming, give it one facedown boost card from the encounter deck. <em>(If a minion without the villainous keyword is scheming, skip this step.)</em></li><li>Resolve each of the scheming enemy’s boost cards, one at a time and in the order in which they were dealt, by doing the following:<ol type=\"a\"><li>Flip the boost card faceup.</li><li>Resolve any “Boost” abilities, indicated by the star icon in the boost area. <em>(All other abilities on the boost card are ignored.)</em></li><li>Increase the scheming enemy’s SCH value by one for each boost icon on the card.</li><li>Discard the boost card.</li><li>If the enemy has any boost cards remaining, repeat these steps with the next boost card.</li></ol></li><li>Place threat on the main scheme equal to the scheming enemy’s modified SCH value.</li></ol>",
 		"see_also": [
 			"activation",
 			"boost_boost_icon",
@@ -51,7 +51,7 @@
 		"id": "search",
 		"term": "Search",
 		"type": "official",
-		"content": "<ul><li>When instructed to search for a card, the player may look at each card in the searched area.</li><li>If the player finds a card satisfying the criteria, add it to the game area indicated by the search effect.</li><li>If multiple cards satisfy the criteria, the player chooses among those options.</li><li>Cards being searched are not considered to leave the searched area.</li><li>If any portion of a deck is searched, that entire deck is shuffled upon completion.</li><li>If instructed to 'search [their] collection,' the player looks through all their Marvel Champions cards outside the current game, becoming owner of that card until the game ends.</li></ul>",
+		"content": "<p>When a player is instructed to search for a card, the player is permitted to look at each of the cards in the searched area.</p><p>If the player finds a card that satisfies the criteria of the search, the player adds that card to the game area indicated by the instructions on the search effect.</p><ul><li>If a player finds multiple cards that satisfy the criteria of a search, the player chooses among those options.</li><li>Cards being searched are not considered to leave the searched area.</li><li>If any portion of a deck is searched, upon completion of that game step, game function, or card ability, shuffle that entire deck.</li><li>If a player is instructed to “search [their] collection” for a card, the player looks through all of their <b>Marvel Champions</b> cards outside of the current game for the specified card.<ul><li>They become the owner of that card until the end of the game.</li></ul></li></ul>",
 		"see_also": [
 			"encounter_deck",
 			"find",
@@ -72,7 +72,7 @@
 		"id": "set_aside",
 		"term": "Set Aside, Set-Aside",
 		"type": "official",
-		"content": "<p>Some game steps or card abilities instruct players to set aside specific cards. Set-aside cards are out of play and have no interaction with the game until referenced by scenario instructions or a card ability.</p>",
+		"content": "<p>Some game steps or card abilities instruct players to set aside specific cards. Set-aside cards are out of play and have no interaction with the game until they are referenced by instructions within the scenario or by a card ability.</p>",
 		"see_also": [
 			"ability",
 			"in_play_and_out_of_play",
@@ -83,7 +83,7 @@
 		"id": "set_icon",
 		"term": "Set Icon",
 		"type": "official",
-		"content": "<p>The set icon is an indicator on a card of that card's product of origin, located in the card's collector information at the bottom of the card.</p>",
+		"content": "<p>The set icon is an indicator on a card of that card’s product of origin, located in the card’s collector information at the bottom of the card.</p>",
 		"see_also": [
 			"appendix_iii_card_anatomy"
 		]
@@ -92,7 +92,7 @@
 		"id": "setup_keyword",
 		"term": "Setup (Keyword)",
 		"type": "official",
-		"content": "<p>A card with the setup keyword begins the game in play. Cards with the setup keyword are put into play during the 'Put Setup Cards Into Play' step of setup.</p>",
+		"content": "<p>A card with the setup keyword begins the game in play.</p><ul><li>Cards with the setup keyword are put into play during the “Put Setup Cards Into Play” step of setup.</li></ul>",
 		"see_also": [
 			"keywords",
 			"reminder_text",
@@ -103,7 +103,7 @@
 		"id": "setup_triggered_ability",
 		"term": "Setup (Triggered Ability)",
 		"type": "official",
-		"content": "<p>'Setup' is a type of triggered ability resolved during setup. Setup abilities are mandatory.</p>\n<p>Setup abilities on encounter cards are resolved during the 'Resolve Scenario Setup and When Revealed Abilities' step; on player cards, during the 'Resolve Character Setup Abilities' step.</p>",
+		"content": "<p>“Setup” is a type of triggered ability that is resolved during setup.</p><ul><li>Setup abilities are mandatory.</li><li>Setup abilities on encounter cards are resolved during the “Resolve Scenario Setup and When Revealed Abilities” step of setup.</li><li>Setup abilities on player cards are resolved during the “Resolve Character Setup Abilities” step of setup.</li></ul>",
 		"see_also": [
 			"triggered_ability",
 			"appendix_ii_setup"
@@ -113,7 +113,7 @@
 		"id": "shuffle",
 		"term": "Shuffle",
 		"type": "official",
-		"content": "<p>Shuffling is the game function of randomizing the contents of a deck. If instructed to shuffle a deck, it must be randomized to the point where no player can ascertain the order.</p>\n<p>Any time a deck is searched, that deck is shuffled after the search resolves.</p>",
+		"content": "<p>Shuffling is the game function of randomizing the contents of a deck.</p><ul><li>If a player is instructed to shuffle a deck, that deck must be randomized to the point where no player within the game can ascertain the order of the cards within that deck.</li><li>Any time a deck is searched by a game step or card ability, that deck is shuffled after the game step or card ability completes its resolution.</li></ul>",
 		"see_also": [
 			"encounter_deck",
 			"player_deck",
@@ -124,7 +124,7 @@
 		"id": "side_scheme",
 		"term": "Side Scheme",
 		"type": "official",
-		"content": "<p>Side scheme is an encounter card type representing additional obstacles and distractions confronting the heroes. If revealed, it enters play and is placed next to the main scheme deck in the villain's play area, with threat equal to its starting threat value.</p>\n<p>It remains in play until there is no threat on it (defeated and discarded) or a card ability removes it from play; threat can be removed via basic thwart or card abilities.</p>",
+		"content": "<p>Side scheme is an encounter card type that represents additional obstacles and distractions the heroes are confronted with.</p><p>If a side scheme is revealed, it enters play and is placed next to the main scheme deck in the villain’s play area.</p><ul><li>Each side scheme enters play with an amount of threat on it equal to the card’s starting threat value <em>(indicated at the bottom of the card)</em>.</li><li>A side scheme remains in play until there is no threat on it <em>(which causes it to be defeated and discarded)</em>, or until a card ability removes it from play. <em>(Threat can be removed from side schemes by using the thwart power of heroes and allies, or by using card abilities.)</em></li></ul>",
 		"see_also": [
 			"card_types",
 			"defeat",
