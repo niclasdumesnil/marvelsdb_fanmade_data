@@ -23,7 +23,7 @@
 		"id": "victory_x",
 		"term": "Victory X",
 		"type": "official",
-		"content": "<ul><li>When a card with the victory X keyword leaves play under specified conditions, place it in the victory display instead of its owner's discard pile.</li><li>A character or side scheme with victory X is placed in the victory display when defeated.</li><li>An attachment/upgrade with victory X is placed in the victory display when the card it's attached to is defeated (that card discards as normal).</li><li>A card with both victory X and uses (X 'type') is placed in the victory display when its last all-purpose counter is removed.</li><li>While in the victory display, X indicates victory points; some scenarios/campaigns count these.</li></ul>",
+		"content": "<p>When a card with the victory X keyword leaves play under the following conditions, place it in the victory display instead of its owner’s discard pile:</p><ul><li><mark class=\"new\">The victory X keyword is equivalent to the following ability based on the card with the keyword:</mark><ul><li><mark class=\"new\">Character or side scheme: “<b>When Defeated</b>: Add this card to the victory display.”</mark></li><li><mark class=\"new\">Attachment: “<b>Forced Interrupt</b>: When the attached card is defeated, add this card to the victory display.”</mark></li><li><mark class=\"new\">Card with the uses (X “type”) keyword: “If there are no all-purpose counters on this card, add this card to the victory display instead of discarding it.”</mark></li></ul></li><li>A character or side scheme with the victory X keyword is placed in the victory display when it is defeated.</li><li>An attachment or upgrade with the victory X keyword is placed in the victory display when the card to which it is attached is defeated. <em>(The card the attachment or upgrade was attached to is discarded as normal.)</em></li><li>A card with both the victory X and uses (X “type”) keywords is placed in the victory display when its last all-purpose counter is removed from it.</li></ul><p>While in the victory display, X indicates how many victory points that card is worth. <em>(X is the value next to the victory keyword.)</em></p><ul><li>Some scenarios or campaigns may count the number of victory points in the victory display.</li></ul>",
 		"see_also": [
 			"defeat",
 			"discard_pile",
@@ -34,10 +34,22 @@
 		]
 	},
 	{
+		"id": "villain_villain_deck",
+		"term": "Villain, Villain Deck",
+		"type": "official",
+		"content": "<p>Villain is an encounter card type that represents the primary enemy the players are attempting to defeat in a scenario.</p><p>The villain is represented by a sequential deck of one or more cards. The players defeat the villain by reducing the hit points of each stage of the villain deck to zero.</p><ul><li>Villain cards cannot be discarded from play.</li></ul>",
+		"see_also": [
+			"activation",
+			"attack_enemy_activation",
+			"scheme_enemy_activation",
+			"villain_defeat"
+		]
+	},
+	{
 		"id": "villain_defeat",
 		"term": "Villain Defeat",
 		"type": "official",
-		"content": "<ul><li>If the villain's hit point dial is reduced to zero, the players have defeated that stage. Remove the current stage from the game; the next sequential stage is revealed and the hit point dial is set as indicated.</li><li>If the final stage is defeated, the players win the game.</li><li>The revealing of a villain cannot be canceled.</li><li>Excess damage dealt to defeat a villain stage does not carry over to the new stage.</li><li>If the new stage shares the same title as the previous stage, it's considered the same character for card abilities (e.g. retaliate X), and attachments/upgrades/status cards/counters/non-damage tokens carry over; if the villain was defeated while activating, it resumes that activation using the new stage.</li><li>If the new stage has a different title, none of the above carry over, and an activation in progress ends without resolving.</li></ul>",
+		"content": "<p>If the villain’s hit point dial is reduced to zero, the players have defeated that stage of the villain.</p><p>Remove the current stage of the villain deck from the game. The next sequential stage of the villain deck is revealed. Set the villain’s hit point dial as indicated by that stage.</p><p><b>If the final stage of the villain deck is defeated, the players win the game.</b></p><ul><li>The revealing of a villain cannot be canceled.</li><li>Excess damage that is dealt to defeat a villain stage does not carry over to the new stage.</li><li>If the new stage of the villain has the same title as the previous stage:<ul><li>The new stage of the villain is considered the same character as the defeated stage for purposes of card abilities <em>(such as the retaliate X keyword)</em>.</li><li>Attachments, upgrades, status cards, counters, and non-damage tokens on a villain carry over to the new stage.</li><li>If the villain was defeated while activating, the villain resumes that activation using the new villain stage.</li></ul></li><li>If the new stage of the villain has a different title from the previous stage:<ul><li>The new stage of the villain is <b>not</b> considered the same character as the defeated stage for purposes of card abilities.</li><li>Attachments, upgrades, status cards, counters, and non-damage tokens do <b>not</b> carry over to the new stage.</li><li>If the villain was defeated while activating, the activation ends without resolving.</li></ul></li></ul>",
 		"see_also": [
 			"all_purpose_counter",
 			"attachment",
@@ -53,7 +65,7 @@
 		"id": "villain_phase",
 		"term": "Villain Phase",
 		"type": "official",
-		"content": "<p>Steps of the villain phase:</p>\n<ol><li>Place Threat (per the main scheme's acceleration field plus active acceleration icons/tokens).</li><li>Enemies Activate (in player order: villain activates against the player; each engaged minion activates against them).</li><li>Deal Encounter Cards (one per player, plus one per hazard icon in play, dealt in player order).</li><li>Reveal Encounter Cards (first player reveals theirs one at a time in dealt order, resolving by card type; repeats in player order).</li><li>Pass First Player Token.</li><li>End of Villain Phase and Round (end 'until the end of phase/round' effects; resolve 'when/after phase/round ends' effects).</li></ol>",
+		"content": "<p>The steps of the villain phase are:</p><ol><li><b>Place Threat.</b> Place the amount of threat indicated in the main scheme’s acceleration field onto that scheme. If any acceleration icons or tokens are active, additional threat equal to the number of such icons and tokens is also placed at this time.</li><li><b>Enemies Activate.</b> In player order, each player resolves the following:<ol type=\"a\"><li>The villain activates against the player.</li><li>Each minion engaged with the player activates against them, in the order of that player’s choice.</li></ol></li><li><b>Deal Encounter Cards.</b> Deal one encounter card to each player. Deal one additional card for each hazard icon on a card in play. These additional cards are dealt in player order.</li><li><b>Reveal Encounter Cards.</b> The first player reveals each of their encounter cards, one card at a time in the order in which they were dealt, resolving each card based on its card type. Each player repeats this process in player order, until no dealt encounter cards remain.</li><li><b>Pass First Player Token.</b> Pass the first player token to the next clockwise player.</li><li><b>End of Villain Phase and Round.</b><ol type=\"a\"><li>Any effects that last “until the end of the [villain] phase” or “until the end of the round” end.</li><li>Resolve any “when/after the [villain] phase ends” or “when/after the round ends” effects.</li></ol></li></ol>",
 		"see_also": [
 			"acceleration_icon",
 			"activation",

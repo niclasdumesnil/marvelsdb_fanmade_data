@@ -28,7 +28,7 @@
 		"id": "upgrade",
 		"term": "Amélioration",
 		"type": "official",
-		"content": "Amélioration est un type de carte joueur qui représente des pouvoirs, des attaques, de l'équipement et d'autres atouts qui sont (dans la plupart des cas) à la disposition immédiate d'une identité.<ul><li>Une amélioration est active tant qu'elle est en jeu, et elle le reste jusqu'à ce qu'une capacité de carte la fasse quitter le jeu.</li><li>La plupart des cartes amélioration entrent en jeu près de la carte identité d'un joueur, et modifient le héros ou l'alter ego du joueur (ou les deux).</li><li>Certaines améliorations entrent en jeu et « s'attachent » à une autre carte. Ces améliorations modifient la carte à laquelle elles sont attachées, et non le héros ou l'alter ego du joueur qui a joué l'amélioration. Un joueur contrôle toute amélioration attachée aux personnages qu'il contrôle, y compris les améliorations appartenant à un autre joueur.</li><li>À moins d'être attachées à un personnage ami différent, les cartes amélioration sont considérées comme une extension de l'identité du joueur qui les contrôle. Les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent sur de telles améliorations sont également considérées comme résolues par l'identité de ce joueur.</li></ul>",
+		"content": "<p>Amélioration est un type de carte joueur qui représente des pouvoirs, des attaques, de l'équipement et d'autres atouts qui sont <em>(dans la plupart des cas)</em> à la disposition immédiate d'une identité.</p><ul><li>Une amélioration est active tant qu'elle est en jeu, et elle le reste jusqu'à ce qu'une capacité de carte la fasse quitter le jeu.</li><li>La plupart des cartes amélioration entrent en jeu près de la carte identité d'un joueur, et modifient le héros ou l'alter ego du joueur <em>(ou les deux)</em>.</li><li>Certaines améliorations entrent en jeu et « s'attachent » à une autre carte. Ces améliorations modifient la carte à laquelle elles sont attachées, et non le héros ou l'alter ego du joueur qui a joué l'amélioration.<ul><li>Un joueur contrôle toute amélioration attachée aux personnages qu'il contrôle, y compris les améliorations appartenant à un autre joueur.</li></ul></li><li>À moins d'être attachées à un personnage ami différent, les cartes amélioration sont considérées comme une extension de l'identité du joueur qui les contrôle. Les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent sur de telles améliorations sont également considérées comme résolues par l'identité de ce joueur.</li></ul>",
 		"see_also": [
 			"attach_to",
 			"card_types",
@@ -43,9 +43,9 @@
 	},
 	{
 		"id": "uses_x_type",
-		"term": "Utilisations (X \"Type\")",
+		"term": "Utilisations (X « Type »)",
 		"type": "official",
-		"content": "Lorsqu'une carte avec ce mot-clé entre en jeu, placez X compteurs génériques de la réserve de jetons sur la carte. Le mot suivant la valeur établit et identifie le type d'utilisations que la carte contient.<div>Chaque carte avec ce mot-clé possède également une capacité qui fait référence au type d'utilisation établi par le mot-clé dans le cadre de son coût.</div><div>Lorsque le dernier compteur générique est retiré d'une carte avec utilisations, défaussez cette carte.</div>",
+		"content": "<p>Lorsqu'une carte avec ce mot-clé entre en jeu, placez X compteurs génériques de la réserve de jetons sur la carte. Le mot suivant la valeur établit et identifie le type d'utilisations que la carte contient.</p><p>Chaque carte avec ce mot-clé possède également une capacité qui fait référence au type d'utilisation établi par le mot-clé dans le cadre de son coût.</p><p>Lorsque le dernier compteur générique est retiré d'une carte avec utilisations, défaussez cette carte.</p><ul><li><mark class=\"new\">Le mot-clé utilisations (X « type ») est équivalent à la capacité constante suivante : « Cette carte entre en jeu avec X compteurs génériques. Ce sont des ‘compteurs [type]’. S'il n'y a pas de compteurs génériques sur cette carte, défaussez cette carte. »</mark></li></ul>",
 		"see_also": [
 			"all_purpose_counter",
 			"discard",

@@ -28,7 +28,7 @@
 		"id": "upgrade",
 		"term": "Upgrade",
 		"type": "official",
-		"content": "<p>Upgrade is a player card type representing powers, attacks, equipment, and other assets at an identity's immediate disposal.</p>\n<ul><li>An upgrade is active so long as it's in play, remaining until a card ability causes it to leave. Most upgrade cards enter play near a player's identity card, modifying the hero or alter-ego (or both).</li><li>Some upgrades 'attach to' another card, modifying that card instead.</li><li>A player controls any upgrades attached to characters they control, including upgrades owned by another player.</li><li>Unless attached to a different friendly character, upgrade cards are considered an extension of the controlling player's identity.</li></ul>",
+		"content": "<p>Upgrade is a player card type that represents powers, attacks, equipment, and other assets that are <em>(in most cases)</em> at an identity’s immediate disposal.</p><ul><li>An upgrade is active so long as it is in play, and it remains in play until a card ability causes it to leave play.</li><li>Most upgrade cards enter play near a player’s identity card, and modify the player’s hero or alter-ego <em>(or both)</em>.</li><li>Some upgrades enter play and “attach to” another card. These upgrades modify the card they are attached to, not the hero or alter-ego of the player who played the upgrade.<ul><li>A player controls any upgrades attached to characters they control, including upgrades owned by another player.</li></ul></li><li>Unless attached to a different friendly character, upgrade cards are considered to be an extension of the controlling player’s identity. Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve on such upgrades are also considered to be resolved by that player’s identity.</li></ul>",
 		"see_also": [
 			"attach_to",
 			"card_types",
@@ -43,9 +43,9 @@
 	},
 	{
 		"id": "uses_x_type",
-		"term": "Uses (X \"Type\")",
+		"term": "Uses (X “Type”)",
 		"type": "official",
-		"content": "<ul><li>When a card with this keyword enters play, place X all-purpose counters from the token pool on the card; the word following the value identifies the type of use.</li><li>Each card with this keyword also has an ability referencing that use type as part of its cost.</li><li>When the last all-purpose counter is removed, discard the card. Equivalent to: 'This card enters play with X all-purpose counters. These are 'type counters.'</li><li>If there are no all-purpose counters on this card, discard this card.'</li></ul>",
+		"content": "<p>When a card with this keyword enters play, place X all-purpose counters from the token pool on the card. The word following the value establishes and identifies the type of uses the card holds.</p><p>Each card with this keyword also has an ability that references the type of use established by the keyword as part of the cost.</p><p>When the last all-purpose counter is removed from a card with uses, discard that card.</p><ul><li><mark class=\"new\">The uses (X “type”) keyword is equivalent to the following constant ability: “This card enters play with X all-purpose counters. These are ‘type counters.’ If there are no all-purpose counters on this card, discard this card.”</mark></li></ul>",
 		"see_also": [
 			"all_purpose_counter",
 			"discard",
