@@ -242,7 +242,7 @@
 		"id": "steady",
 		"term": "Steady",
 		"type": "official",
-		"content": "<p>A character with the steady keyword can have one additional stunned status card and one additional confused status card. It is not stunned unless it has two stunned status cards, and not confused unless it has two confused status cards.</p>\n<p>After that character's attack/scheme/thwart is canceled by a status card effect, remove all status cards of the corresponding type from that character.</p>",
+		"content": "<p>A character with the steady keyword can have one additional stunned status card and one additional confused status card. That character is not stunned unless they have two stunned status cards, and is not confused unless they have two confused status cards. After that character’s attack, scheme, or thwart is canceled by a status card effect, remove all status cards of the corresponding type from that character.</p><ul><li><mark class=\"new\">The steady keyword is equivalent to the following constant ability: “This character can have 1 additional confused status card and 1 additional stunned status card. While this character has fewer than 2 confused status cards, it is not considered confused and confused status cards on it do not resolve. While this character has fewer than 2 stunned status cards, it is not considered stunned and stunned status cards on it do not resolve.”</mark></li></ul>",
 		"see_also": [
 			"confuse_confused",
 			"keywords",
@@ -254,7 +254,7 @@
 		"id": "stun_stunned",
 		"term": "Stun, Stunned",
 		"type": "official",
-		"content": "<p>Stun is a status that cancels a character's next attack.</p>\n<ul><li>A stunned status card resolves like:<blockquote>Forced Interrupt: When this character would attack, remove each stunned status card from it instead.</blockquote></li><li>A character is stunned if it has a stunned status card (steady characters need two).</li><li>If a character 'cannot be stunned,' stunned status cards cannot be placed on it.</li><li>A stunned identity/ally attempting to attack discards the stunned card instead (costs, including exhausting, still paid) — can attempt even with no valid target.</li><li>A stunned villain/minion that would attack discards the stunned status card instead.</li><li>The character is not considered to have attacked.</li></ul>",
+		"content": "<p>Stun is a status that cancels a character’s next attack.</p><ul><li><mark class=\"new\">A stunned status card resolves like the triggered ability: “<b>Forced Interrupt</b>: When this character would attack, remove each stunned status card from it instead.”</mark></li><li>If an ability “stuns” a character, give that character a stunned status card.</li><li>A character is stunned if it has a stunned status card.<ul><li>A character with the steady keyword is stunned only if it has two stunned status cards.</li></ul></li><li>If a character has an ability stating that it “cannot be stunned,” stunned status cards cannot be placed on that character.</li><li>If a stunned identity or ally attempts to attack or use an attack ability, discard the stunned card instead. Costs associated with the attack attempt, including exhausting the character, must still be paid.<ul><li>A stunned character can attempt to attack or use an attack ability even if it has no valid target for an attack.</li></ul></li><li>If a stunned villain or minion would attack, discard the stunned status card instead.</li><li>As the attack action or attack activation was replaced by the removal of the stunned status card, that character is not considered to have attacked.</li></ul>",
 		"see_also": [
 			"ally",
 			"cancel",
@@ -269,7 +269,7 @@
 		"id": "subtitle",
 		"term": "Subtitle",
 		"type": "official",
-		"content": "<p>Some ally cards have a subtitle beneath the title, representing an alternate alias a character sometimes uses.</p>",
+		"content": "<p>Some ally cards have a subtitle beneath the title. A subtitle represents an alternate alias a character sometimes uses.</p>",
 		"see_also": [
 			"unique_icon"
 		]
@@ -278,7 +278,7 @@
 		"id": "support",
 		"term": "Support",
 		"type": "official",
-		"content": "<p>Support is a player card type representing locations, backline supporters or friends, and other behind-the-scenes elements at a hero's/alter-ego's disposal. Support cards enter play in the back row of a player's play area.</p>\n<p>A support card is active while in play, remaining until a card ability causes it to leave play. Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve from supports are not considered to be performed by that player's identity.</p>",
+		"content": "<p>Support is a player card type that represent locations, backline supporters or friends, and other behind-the-scenes elements a hero or alter-ego might have at their disposal.</p><ul><li>Support cards enter play in the back row of a player’s play area.</li><li>A support card is active while it is in play, and it remains in play until a card ability causes it to leave play.</li><li>Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve from supports in play under a player’s control are not considered to be performed by that player’s identity.</li></ul>",
 		"see_also": [
 			"card_types",
 			"enters_play",
@@ -292,7 +292,7 @@
 		"id": "surge",
 		"term": "Surge",
 		"type": "official",
-		"content": "<p>When an encounter card with the surge keyword is revealed, the player resolving the card deals themself a facedown encounter card from the top of the encounter deck.</p>\n<ul><li>Equivalent to:<blockquote>When Revealed: Deal yourself 1 facedown encounter card.</blockquote></li><li>Complete the process of resolving the original card, and any triggered response abilities, before revealing the additional card.</li></ul>",
+		"content": "<p><mark class=\"new\">When</mark> an encounter card with this keyword is revealed, the player resolving the card <mark class=\"new\">deals themselves a facedown</mark> encounter card from the top of the encounter deck.</p><ul><li><mark class=\"new\">The surge keyword is equivalent to the following triggered ability: “<b>When Revealed</b>: Deal yourself 1 facedown encounter card.”</mark></li><li>Complete the process of resolving the original card, as well as any response abilities that are triggered by that card being revealed, before revealing the additional card.</li></ul>",
 		"whats_new": "Page 42: Revised definition of 'surge.'",
 		"see_also": [
 			"encounter_card",
@@ -306,7 +306,7 @@
 		"id": "sustained_damage",
 		"term": "Sustained Damage",
 		"type": "official",
-		"content": "<p>Sustained damage refers to the difference between a character's maximum hit points and remaining hit points. For an identity/villain (hit point dial), subtract remaining hit points (per the dial) from maximum hit points.</p>\n<p>Sustained damage on an ally/minion equals the total value of all damage tokens on the card.</p>",
+		"content": "<p>Sustained damage refers to the difference between a character’s maximum hit points and remaining hit points.</p><ul><li>To calculate sustained damage for an identity or villain <em>(using a hit point dial)</em>, start with the character’s maximum hit points <em>(as indicated by its printed value modified by any card abilities or game effects)</em>, and subtract their remaining hit points <em>(as indicated by the dial)</em>.</li><li>Sustained damage on an ally or minion is equal to the total value of all damage tokens on the card.</li></ul>",
 		"see_also": [
 			"ally",
 			"damage",
@@ -319,9 +319,9 @@
 	},
 	{
 		"id": "swap",
-		"term": "\"Swap\"",
+		"term": "“Swap”",
 		"type": "official",
-		"content": "<ul><li>An instruction to 'swap' two components means to exchange the location of those two components.</li><li>A swap cannot be completed if there is not a component in both locations. Swapped cards maintain their orientation (ready/exhausted, faceup/facedown). Swapping a card in hand with the top card of a deck is not considered drawing.</li><li>When swapping a card in a play area with one in an out-of-play area: if they share a title, neither is considered to enter/leave play (tokens/attached/tucked/status cards transfer, state and hit point dial value are maintained); if they do not share a title, the in-play card is considered to leave play and the out-of-play card enters play (tokens etc. are not transferred, the card enters ready, and any hit point dial resets to the new card's printed value).</li></ul>",
+		"content": "<p>An instruction to “swap” two components means to exchange the location of those two components.</p><ul><li>A swap cannot be completed if there is not a component in both locations.<ul><li><em>For example, you cannot “swap a card in your hand with the top card of your deck” if you have no cards in hand.</em></li></ul></li><li><mark class=\"new\">Swapped cards maintain the orientation (such as ready or exhausted, faceup or facedown) of the original card.</mark></li><li>Swapping a card in hand with the top card of a deck is <b>not</b> considered drawing that card.</li><li>When swapping a card in a play area with a card in an out-of-play area, if those two cards:<ul><li>Share a title, neither card is considered to enter or leave play. Tokens, attached cards, tucked cards, and status cards on the previously in-play card are transferred to the other card and the other card maintains the state <em>(ready or exhausted)</em> of the previously in-play card. If the swapped card has an associated hit point dial, that dial remains at the same value.</li><li>Do not share a title, the in-play card is considered to leave play and the out-of-play card is considered to enter play. Tokens, attached cards, tucked cards, and status cards on the previously in-play card are <b>not</b> transferred to the other card and the other card enters play ready. If the swapped card has an associated hit point dial, that dial is reset to the new card’s printed hit point value.</li></ul></li></ul>",
 		"see_also": [
 			"ability",
 			"target"

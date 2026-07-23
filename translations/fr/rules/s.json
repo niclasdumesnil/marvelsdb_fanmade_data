@@ -242,7 +242,7 @@
 		"id": "steady",
 		"term": "Solide",
 		"type": "official",
-		"content": "Un personnage avec le mot-clé solide peut avoir une carte d'état sonné supplémentaire et une carte d'état désorienté supplémentaire. Ce personnage n'est pas sonné à moins qu'il n'ait deux cartes d'état sonné, et n'est pas désorienté à moins qu'il n'ait deux cartes d'état désorienté.&nbsp;<span style=\"font-size: 0.92rem;\">Après que l'attaque, la manigance ou le contre de ce personnage est annulé par un effet de carte d'état, retirez toutes les cartes d'état du type correspondant de ce personnage.</span>",
+		"content": "<p>Un personnage avec le mot-clé solide peut avoir une carte d'état sonné supplémentaire et une carte d'état désorienté supplémentaire. Ce personnage n'est pas sonné à moins qu'il n'ait deux cartes d'état sonné, et n'est pas désorienté à moins qu'il n'ait deux cartes d'état désorienté. Après que l'attaque, la manigance ou le contre de ce personnage est annulé par un effet de carte d'état, retirez toutes les cartes d'état du type correspondant de ce personnage.</p><ul><li><mark class=\"new\">Le mot-clé solide est équivalent à la capacité constante suivante : « Ce personnage peut avoir 1 carte d'état désorienté supplémentaire et 1 carte d'état sonné supplémentaire. Tant que ce personnage a moins de 2 cartes d'état désorienté, il n'est pas considéré comme désorienté et les cartes d'état désorienté sur lui ne se résolvent pas. Tant que ce personnage a moins de 2 cartes d'état sonné, il n'est pas considéré comme sonné et les cartes d'état sonné sur lui ne se résolvent pas. »</mark></li></ul>",
 		"see_also": [
 			"confuse_confused",
 			"keywords",
@@ -254,7 +254,7 @@
 		"id": "stun_stunned",
 		"term": "Sonner, sonné",
 		"type": "official",
-		"content": "Sonné est un état qui annule la prochaine attaque d'un personnage.<ul><li>Si une capacité « sonne » un personnage, donnez-lui une carte d'état sonné.</li><li>Un personnage est sonné s'il a une carte d'état sonné. Un personnage avec le mot-clé solide n'est sonné que s'il a deux cartes d'état sonné.</li><li>Si un personnage a une capacité indiquant qu'il « ne peut pas être sonné », les cartes d'état sonné ne peuvent pas être placées sur ce personnage.</li><li>Si une identité ou un allié sonné tente d'attaquer ou d'utiliser une capacité d'attaque, défaussez la carte sonné à la place. Les coûts associés à la tentative d'attaque, y compris l'inclinaison du personnage, doivent tout de même être payés.</li><ul><li>Un personnage sonné peut tenter d'attaquer ou d'utiliser une capacité d'attaque même s'il n'a pas de cible valide pour une attaque.</li></ul><li>Si un méchant ou un sbire sonné devait attaquer, défaussez la carte d'état sonné à la place.</li><li>Comme l'action d'attaque ou l'activation d'attaque a été remplacée par le retrait de la carte d'état sonné, ce personnage n'est pas considéré comme ayant attaqué.</li></ul>",
+		"content": "<p>Sonné est un état qui annule la prochaine attaque d'un personnage.</p><ul><li><mark class=\"new\">Une carte d'état sonné se résout comme la capacité déclenchée : « <b>Interruption forcée</b> : Quand ce personnage devrait attaquer, retirez chaque carte d'état sonné de lui à la place. »</mark></li><li>Si une capacité « sonne » un personnage, donnez à ce personnage une carte d'état sonné.</li><li>Un personnage est sonné s'il a une carte d'état sonné.<ul><li>Un personnage avec le mot-clé solide est sonné seulement s'il a deux cartes d'état sonné.</li></ul></li><li>Si un personnage a une capacité indiquant qu'il « ne peut pas être sonné », les cartes d'état sonné ne peuvent pas être placées sur ce personnage.</li><li>Si une identité ou un allié sonné tente d'attaquer ou d'utiliser une capacité d'attaque, défaussez la carte d'état sonné à la place. Les coûts associés à la tentative d'attaque, y compris l'inclinaison du personnage, doivent tout de même être payés.<ul><li>Un personnage sonné peut tenter d'attaquer ou d'utiliser une capacité d'attaque même s'il n'a pas de cible valide pour une attaque.</li></ul></li><li>Si un méchant ou un sbire sonné devait attaquer, défaussez la carte d'état sonné à la place.</li><li>Comme l'action d'attaque ou l'activation d'attaque a été remplacée par le retrait de la carte d'état sonné, ce personnage n'est pas considéré comme ayant attaqué.</li></ul>",
 		"see_also": [
 			"ally",
 			"cancel",
@@ -267,9 +267,9 @@
 	},
 	{
 		"id": "subtitle",
-		"term": "Sous-Titre",
+		"term": "Sous-titre",
 		"type": "official",
-		"content": "Certaines cartes allié ont un sous-titre sous le titre. Un sous-titre représente un alias alternatif qu'un personnage utilise parfois.",
+		"content": "<p>Certaines cartes allié ont un sous-titre sous le titre. Un sous-titre représente un alias alternatif qu'un personnage utilise parfois.</p>",
 		"see_also": [
 			"unique_icon"
 		]
@@ -278,7 +278,7 @@
 		"id": "support",
 		"term": "Soutien",
 		"type": "official",
-		"content": "Soutien est un type de carte joueur qui représente des lieux, des soutiens de l'arrière-garde ou des amis, et d'autres éléments en coulisses dont un héros ou un alter ego pourrait disposer.<ul><li>Les cartes soutien entrent en jeu dans la rangée arrière de la zone de jeu d'un joueur.</li><li>Une carte soutien est active tant qu'elle est en jeu, et elle reste en jeu jusqu'à ce qu'une capacité de carte la fasse quitter le jeu.</li><li>Les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent à partir de soutiens en jeu sous le contrôle d'un joueur ne sont pas considérés comme étant effectués par l'identité de ce joueur.</li></ul>",
+		"content": "<p>Soutien est un type de carte joueur qui représente des lieux, des soutiens de l'arrière-garde ou des amis, et d'autres éléments en coulisses dont un héros ou un alter ego pourrait disposer.</p><ul><li>Les cartes soutien entrent en jeu dans la rangée arrière de la zone de jeu d'un joueur.</li><li>Une carte soutien est active tant qu'elle est en jeu, et elle reste en jeu jusqu'à ce qu'une capacité de carte la fasse quitter le jeu.</li><li>Les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent à partir de soutiens en jeu sous le contrôle d'un joueur ne sont pas considérés comme étant effectués par l'identité de ce joueur.</li></ul>",
 		"see_also": [
 			"card_types",
 			"enters_play",
@@ -292,7 +292,7 @@
 		"id": "surge",
 		"term": "Renfort",
 		"type": "official",
-		"content": "Après qu'une carte rencontre avec ce mot-clé est révélée, le joueur qui résout la carte révèle une carte rencontre supplémentaire du dessus du deck rencontre.<ul><li>Terminez le processus de résolution de la carte originale, ainsi que de toute capacité de réponse déclenchée par la révélation de cette carte, avant de révéler la carte supplémentaire.</li></ul>",
+		"content": "<p><mark class=\"new\">Quand</mark> une carte rencontre avec ce mot-clé est révélée, le joueur qui résout la carte <mark class=\"new\">se distribue une carte rencontre face cachée</mark> du dessus du deck rencontre.</p><ul><li><mark class=\"new\">Le mot-clé renfort est équivalent à la capacité déclenchée suivante : « <b>Une fois révélée</b> : Distribuez-vous 1 carte rencontre face cachée. »</mark></li><li>Terminez le processus de résolution de la carte originale, ainsi que de toute capacité de réponse déclenchée par la révélation de cette carte, avant de révéler la carte supplémentaire.</li></ul>",
 		"whats_new": "Page 42 : Révision de la définition du mot-clé Renfort.",
 		"see_also": [
 			"encounter_card",
@@ -304,9 +304,9 @@
 	},
 	{
 		"id": "sustained_damage",
-		"term": "Dégâts Subis",
+		"term": "Dégâts subis",
 		"type": "official",
-		"content": "Les dégâts subis font référence à la différence entre les points de vie maximums d'un personnage et ses points de vie restants.<ul><li>Pour calculer les dégâts subis par une identité ou un méchant (en utilisant un cadran de points de vie), prenez les points de vie maximums du personnage (indiqués par sa valeur imprimée modifiée par toute capacité ou effet de jeu) et soustrayez ses points de vie restants (indiqués par le cadran).</li><li>Les dégâts subis par un allié ou un sbire sont égaux à la valeur totale de tous les jetons dégât sur la carte.</li></ul>",
+		"content": "<p>Les dégâts subis font référence à la différence entre les points de vie maximums d'un personnage et ses points de vie restants.</p><ul><li>Pour calculer les dégâts subis par une identité ou un méchant <em>(en utilisant un cadran de points de vie)</em>, commencez avec les points de vie maximums du personnage <em>(tels qu'indiqués par sa valeur imprimée modifiée par toute capacité de carte ou effet de jeu)</em>, et soustrayez ses points de vie restants <em>(tels qu'indiqués par le cadran)</em>.</li><li>Les dégâts subis par un allié ou un sbire sont égaux à la valeur totale de tous les jetons dégât sur la carte.</li></ul>",
 		"see_also": [
 			"ally",
 			"damage",
@@ -319,9 +319,9 @@
 	},
 	{
 		"id": "swap",
-		"term": "Echanger",
+		"term": "« Échanger »",
 		"type": "official",
-		"content": "Une instruction « d'échanger » deux composants signifie échanger l'emplacement de ces deux composants.<ul><li>Un échange ne peut pas être effectué s'il n'y a pas un composant dans les deux emplacements.</li><li>L'échange d'une carte en main avec la carte du dessus d'un deck n'est pas considéré comme piocher cette carte.</li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes <b>partagent un titre</b>, aucune des cartes n'est considérée comme entrant ou quittant le jeu. Les jetons, cartes attachées, cartes intercalées et cartes d'état sur la carte précédemment en jeu sont transférés à l'autre carte, et l'autre carte conserve l'état (redressé ou incliné) de la carte précédemment en jeu. Si la carte échangée a un cadran de points de vie associé, ce cadran reste à la même valeur.</li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes <b>ne partagent pas de titre</b>, la carte en jeu est considérée comme quittant le jeu et la carte hors jeu est considérée comme entrant en jeu. Les jetons, cartes attachées, cartes intercalées&nbsp;et cartes d'état sur la carte précédemment en jeu ne sont pas transférés à l'autre carte, et l'autre carte entre en jeu redressée. Si la carte échangée a un cadran de points de vie associé, ce cadran est réinitialisé à la valeur de points de vie imprimée de la nouvelle carte.</li></ul>",
+		"content": "<p>Une instruction « d'échanger » deux composants signifie échanger l'emplacement de ces deux composants.</p><ul><li>Un échange ne peut pas être effectué s'il n'y a pas un composant dans les deux emplacements.<ul><li><em>Par exemple, vous ne pouvez pas « échanger une carte de votre main avec la carte du dessus de votre deck » si vous n'avez pas de carte en main.</em></li></ul></li><li><mark class=\"new\">Les cartes échangées conservent l'orientation (comme redressée ou inclinée, face visible ou face cachée) de la carte d'origine.</mark></li><li>Échanger une carte en main avec la carte du dessus d'un deck n'est <b>pas</b> considéré comme piocher cette carte.</li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes :<ul><li>Partagent un titre, aucune des cartes n'est considérée comme entrant ou quittant le jeu. Les jetons, cartes attachées, cartes intercalées et cartes d'état sur la carte précédemment en jeu sont transférés à l'autre carte et l'autre carte conserve l'état <em>(redressée ou inclinée)</em> de la carte précédemment en jeu. Si la carte échangée a un cadran de points de vie associé, ce cadran reste à la même valeur.</li><li>Ne partagent pas de titre, la carte en jeu est considérée comme quittant le jeu et la carte hors jeu est considérée comme entrant en jeu. Les jetons, cartes attachées, cartes intercalées et cartes d'état sur la carte précédemment en jeu ne sont <b>pas</b> transférés à l'autre carte et l'autre carte entre en jeu redressée. Si la carte échangée a un cadran de points de vie associé, ce cadran est réinitialisé à la valeur de points de vie imprimée de la nouvelle carte.</li></ul></li></ul>",
 		"see_also": [
 			"ability",
 			"target"
