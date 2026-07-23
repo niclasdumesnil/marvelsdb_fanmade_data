@@ -155,7 +155,7 @@
 		"id": "resource_card",
 		"term": "Resource Card",
 		"type": "official",
-		"content": "<p>Resource cards are a player card type whose primary function is being discarded from hand to generate resources, generally providing more (or more efficient) resources than other card types. Some have card text active while using them to generate resources.</p>\n<p>Resource cards are considered an extension of an identity — if a player spends a resource, it's also considered spent by their identity.</p>",
+		"content": "<p>Resource cards are a player card type. Their primary function is to be discarded from a player’s hand to generate resources.</p><p>These cards generally provide more <em>(or more efficient)</em> resources than other card types when they are discarded from a player’s hand to generate resources.</p><ul><li>Some resource cards have card text that is active while using the card to generate resources.</li><li>Resource cards are considered to be an extension of an identity. If a player spends a resource, that resource is also considered to be spent by that player’s identity.</li></ul>",
 		"see_also": [
 			"card_types",
 			"energy_resource",
@@ -184,7 +184,7 @@
 		"id": "response",
 		"term": "Response",
 		"type": "official",
-		"content": "<ul><li>A response ability is a triggered ability indicated by the bold 'Response' timing trigger, resolved after the specified triggering condition occurs.</li><li>Players can only trigger response abilities on cards they control or encounter cards.</li><li>Multiple responses may trigger from the same condition but each only once per occurrence; multiple copies can each trigger.</li><li>If a single effect causes multiple triggering conditions, responses to each can be resolved in any order.</li><li>Once all players decline further responses, further responses to that instance cannot be used.</li></ul>",
+		"content": "<p>A response ability is a type of triggered ability, indicated by the bold “<b>Response</b>” timing trigger. Response abilities may be <mark class=\"new\">resolved</mark> after the specified triggering condition occurs, as described in the response’s ability text.</p><ul><li>Players can only trigger response abilities on cards they control or on encounter cards.<ul><li>Players cannot trigger response abilities on obligations in other players’ play areas.</li></ul></li><li>Multiple responses may be <mark class=\"new\">triggered</mark> from the same triggering condition, but each response may only be triggered once per occurrence of the triggering condition.<ul><li>Multiple copies of a card with a response can each be triggered by the same triggering condition.</li></ul></li><li>If single effect causes multiple triggering conditions to occur, responses to each of those triggering conditions can be resolved in any order. <em>(For example, if an attack triggers both “after you attack” and “after you defeat” responses, those responses can be resolved in any order.)</em></li><li>Once all players decide they do not wish to resolve any <em>(further)</em> responses to a triggering condition, <em>(further)</em> responses to that instance of that triggering condition cannot be used.</li></ul>",
 		"see_also": [
 			"ability",
 			"triggered_ability",
@@ -195,7 +195,7 @@
 		"id": "restricted",
 		"term": "Restricted",
 		"type": "official",
-		"content": "<p>A player cannot have more than two cards with the restricted keyword in play under their control at the same time. A player can play/put into play a restricted card even at two already, but must then immediately discard from play restricted cards until only two remain.</p>\n<ul><li>Equivalent to:<blockquote>Forced Response: After you take control of this card, if you control more than 2 restricted cards, discard all but 2 of those cards.</blockquote></li></ul>",
+		"content": "<p>A player cannot have more than two cards with the restricted keyword in play under their control at the same time.</p><p>A player can play or put into play a restricted card even if they already control two restricted cards. However, if a player ever controls more than two restricted cards in play, they must immediately choose and discard from play restricted cards they control until they have only two in play.</p><ul><li><mark class=\"new\">The restricted keyword is equivalent to the following triggered ability: “<b>Forced Response</b>: After you take control of this card, if you control more than 2 restricted cards, discard all but 2 of those cards.”</mark></li></ul>",
 		"see_also": [
 			"discard",
 			"keywords",
@@ -208,7 +208,7 @@
 		"id": "retaliate_x",
 		"term": "Retaliate X",
 		"type": "official",
-		"content": "<p>After a character with the retaliate X keyword is attacked, deal X damage to the attacker.</p>\n<ul><li>Equivalent to:<blockquote>Forced Response: After this character is attacked, deal X damage to the attacker.</blockquote></li><li>The character with retaliate X must be in play after the attack resolves to deal this damage.</li></ul>",
+		"content": "<p>After a character with the retaliate X keyword is attacked, deal X damage to the attacker. <em>(X is the value next to the retaliate keyword.)</em></p><ul><li><mark class=\"new\">The retaliate X keyword is equivalent to the following triggered ability: “<b>Forced Response</b>: After this character is attacked, deal X damage to the attacker.”</mark></li><li>The character with retaliate X must be in play after the attack resolves to deal this damage.</li></ul>",
 		"see_also": [
 			"ally",
 			"attack_enemy_activation",
@@ -225,7 +225,7 @@
 		"id": "reveal",
 		"term": "Reveal",
 		"type": "official",
-		"content": "<p>During step four of the villain phase, each player (in player order) reveals and resolves all facedown encounter cards dealt to them, one at a time in the order dealt. To reveal:</p>\n<ol><li>Turn the card faceup.</li><li>Handle per card type: Attachment enters play attached per its 'attach to' text (or on the table, not in play, if none); Environment enters the villain's play area; Minion enters the revealing player's area, engaging that player; Obligation enters the revealing player's area (or the specified player's); Side scheme enters the villain's play area; Treachery/Other placed on the table (not in play).</li><li>Resolve each 'When Revealed' ability on the card.</li><li>If a treachery, discard it. Responses to any step of revealing are not resolved until after all steps of the reveal process are completed.</li></ol>",
+		"content": "<p>During step four of the villain phase, each player <em>(in player order)</em> reveals and resolves all facedown encounter cards that have been dealt to them, one card at a time in the order in which they were dealt.</p><p>To reveal an encounter card, follow these steps:</p><ol><li>Turn the encounter card faceup.</li><li>If the encounter card’s type is:<ul><li><b>Attachment</b>: It enters play attached to the game element specified <mark class=\"new\">by its “attach to” text. If it does not have “attach to” text, place it on the table in front of the player revealing it. <em>(It is not in play.)</em></mark></li><li><b>Environment</b>: It enters play in the villain’s play area.</li><li><b>Minion</b>: It enters play in the play area of the player revealing it. It is considered to engage that player.</li><li><b>Obligation</b>: It enters play in the play area of the player revealing it.<ul><li>If the card specifies a player to give it to, that player is considered to be revealing it.</li></ul></li><li><b>Side scheme</b>: It enters play in the villain’s play area.</li><li><b>Treachery</b>: Place it on the table in front of the player revealing it. <em>(It is not in play.)</em></li><li><b>Other</b>: Place it on the table in front of the player revealing it. <em>(It is not in play.)</em></li></ul></li><li>Resolve each “When Revealed” ability on that card <em>(including those provided by keywords)</em>.</li><li>If the card is a treachery, discard it.</li></ol><p>If a player is instructed by card text to reveal an encounter card from the encounter deck or any other game area, this same resolution procedure applies.</p><ul><li><mark class=\"new\">Responses (both forced and non-forced) to any step of the revealing of an encounter card are not resolved until after all steps of the reveal process have been completed.</mark></li></ul>",
 		"see_also": [
 			"attachment",
 			"choose_game_element",
@@ -256,7 +256,7 @@
 		"id": "round_structure",
 		"term": "Round Structure",
 		"type": "official",
-		"content": "<p>See: Round Overview, End of Player Phase, Player Phase, Player Turn, Villain Phase.</p>",
+		"content": "<p>See: Overview - Round Overview, End of the Player Phase, Player Phase, Player Turn, Villain Phase.</p>",
 		"see_also": [
 			"end_of_player_phase",
 			"player_phase",
