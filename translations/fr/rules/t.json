@@ -175,7 +175,7 @@
 		"id": "toughness",
 		"term": "Ténacité",
 		"type": "official",
-		"content": "Lorsqu'un personnage avec le mot-clé ténacité entre en jeu, placez une carte d'état tenace sur lui.",
+		"content": "<p>Lorsqu'un personnage avec le mot-clé ténacité entre en jeu, placez une carte d'état tenace sur lui.</p><ul><li><mark class=\"new\">Le mot-clé ténacité est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée</b> : Après que ce personnage entre en jeu, donnez-lui une carte d'état tenace. »</mark></li></ul>",
 		"see_also": [
 			"ally",
 			"enters_play",
@@ -191,7 +191,7 @@
 		"id": "traits",
 		"term": "Traits",
 		"type": "official",
-		"content": "De nombreuses cartes ont un ou plusieurs traits listés en haut de la boîte de texte et imprimés en italique gras.<ul><li>Les traits n'ont pas d'effets inhérents sur le jeu. Au lieu de cela, certaines capacités de carte font référence à des cartes qui possèdent ou non des traits spécifiques.</li><li>Les traits ne sont pas considérés comme faisant partie de la boîte de texte imprimée d'une carte pour ce qui est des capacités de carte.</li></ul>",
+		"content": "<p>De nombreuses cartes ont un ou plusieurs traits listés en haut de la boîte de texte et imprimés en italique gras.</p><ul><li>Les traits n'ont pas d'effets inhérents sur le jeu. Au lieu de cela, certaines capacités de carte font référence à des cartes qui possèdent ou manquent de traits spécifiques.</li><li>Les traits ne sont pas considérés comme faisant partie de la boîte de texte imprimée d'une carte aux fins des capacités de carte.</li></ul>",
 		"see_also": [
 			"printed",
 			"appendix_iii_card_anatomy"
@@ -201,7 +201,7 @@
 		"id": "treachery",
 		"term": "Traîtrise",
 		"type": "official",
-		"content": "Traîtrise est un type de carte rencontre qui représente des tactiques, des ruses, des catastrophes et d'autres événements immédiats auxquels les joueurs sont confrontés au cours d'un scénario.<ul><li>Si une carte traîtrise est révélée du deck rencontre, le joueur qui révèle la carte doit résoudre ses effets.</li><li>Après avoir résolu les effets d'une carte traîtrise (ou si les effets sont annulés), placez la carte dans la pile de défausse rencontre. Si une traîtrise provoque l'activation d'un ou plusieurs ennemis comme dernier effet, cette carte traîtrise est considérée comme résolue et est défaussée après que toutes ces activations ont été résolues.</li></ul>",
+		"content": "<p>Traîtrise est un type de carte rencontre qui représente des tactiques, des pièges, des désastres et d'autres événements immédiats auxquels les joueurs sont confrontés pendant un scénario.</p><ul><li>Si une carte traîtrise est révélée du deck rencontre, le joueur qui révèle la carte doit en résoudre les effets.</li><li>Après avoir résolu les effets d'une carte traîtrise <em>(ou si les effets sont annulés)</em>, placez la carte dans la pile de défausse rencontre.<ul><li>Si une traîtrise fait s'activer un ou plusieurs ennemis comme dernier effet, cette carte traîtrise est considérée comme résolue et est défaussée après que toutes ces activations sont résolues.</li></ul></li></ul>",
 		"see_also": [
 			"card_types",
 			"discard",
@@ -215,7 +215,7 @@
 		"id": "triggered_ability",
 		"term": "Capacité déclenchée",
 		"type": "official",
-		"content": "Une capacité déclenchée est indiquée par un déclencheur de timing en gras suivi de deux points et du reste du texte de la capacité.",
+		"content": "<p>Une capacité déclenchée est indiquée par un déclencheur de timing en gras suivi d'un deux-points et du reste du texte de la capacité.</p>",
 		"see_also": [
 			"ability",
 			"action",
@@ -235,7 +235,7 @@
 		"id": "triggering_condition",
 		"term": "Condition de déclenchement",
 		"type": "official",
-		"content": "Une condition de déclenchement est un événement spécifique qui a lieu dans le jeu. Sur les capacités de cartes, la condition de déclenchement est l'élément de la capacité qui fait référence à un tel événement, indiquant le point de timing auquel la capacité peut être utilisée. La description de la condition de déclenchement d'une capacité suit généralement le mot « quand » ou « après que ».<ul><li>Chaque capacité « Interruption » et « Réponse » ne peut être déclenchée qu'une seule fois par occurrence de sa condition de déclenchement. Plusieurs exemplaires d'une carte avec une interruption ou une réponse peuvent chacun être déclenchés par la même condition de déclenchement.</li><li>Si un seul événement de jeu crée plusieurs conditions de déclenchement (comme une seule attaque poussant un personnage à la fois à subir des dégâts et à être vaincu), ces conditions de déclenchement sont gérées avec une seule fenêtre d'interruption et une seule fenêtre de réponse. Pendant chacune de ces fenêtres, les capacités qui font référence à n'importe laquelle des conditions de déclenchement créées par l'événement peuvent être utilisées dans n'importe quel ordre.</li></ul>",
+		"content": "<p>Une condition de déclenchement est une occurrence spécifique qui a lieu dans le jeu. Sur les capacités de carte, la condition de déclenchement est l'élément de la capacité qui fait référence à une telle occurrence, indiquant le point de timing auquel la capacité peut être utilisée. La description de la condition de déclenchement d'une capacité suit généralement le mot « quand » ou « après ».</p><ul><li>Chaque capacité « <b>Interruption</b> » et « <b>Réponse</b> » ne peut être déclenchée qu'une seule fois par occurrence de sa condition de déclenchement.<ul><li>Plusieurs exemplaires d'une carte avec une interruption ou une réponse peuvent chacun être déclenchés par la même condition de déclenchement.</li></ul></li><li>Si une seule occurrence de jeu crée plusieurs conditions de déclenchement <em>(comme une seule attaque faisant à la fois subir des dégâts à un personnage et le vaincre)</em>, ces conditions de déclenchement sont traitées avec une seule fenêtre d'interruption et une seule fenêtre de réponse. Pendant chacune de ces fenêtres, les capacités faisant référence à l'une des conditions de déclenchement créées par l'occurrence peuvent être utilisées dans n'importe quel ordre.</li></ul>",
 		"see_also": [
 			"interrupt",
 			"response"

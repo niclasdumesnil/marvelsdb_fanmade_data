@@ -175,7 +175,7 @@
 		"id": "toughness",
 		"term": "Toughness",
 		"type": "official",
-		"content": "<p>When a character with the toughness keyword enters play, place a tough status card on it.</p>\n<ul><li>Equivalent to:<blockquote>Forced Response: After this character enters play, give it a tough status card.</blockquote></li></ul>",
+		"content": "<p>When a character with the toughness keyword enters play, place a tough status card on it.</p><ul><li><mark class=\"new\">The toughness keyword is equivalent to the following triggered ability: “<b>Forced Response</b>: After this character enters play, give it a tough status card.”</mark></li></ul>",
 		"see_also": [
 			"ally",
 			"enters_play",
@@ -191,7 +191,7 @@
 		"id": "traits",
 		"term": "Traits",
 		"type": "official",
-		"content": "<p>Many cards have one or more traits listed at the top of the text box, printed in bold italics. Traits have no inherent effects on the game; some card abilities reference cards that possess or lack specific traits.</p>\n<p>Traits are not considered part of a card's printed text box for the purpose of card abilities.</p>",
+		"content": "<p>Many cards have one or more traits listed at the top of the text box and printed in bold italics.</p><ul><li>Traits have no inherent effects on the game. Instead, some card abilities reference cards that possess or lack specific traits.</li><li>Traits are not considered to be part of a card’s printed text box for the purpose of card abilities.</li></ul>",
 		"see_also": [
 			"printed",
 			"appendix_iii_card_anatomy"
@@ -201,7 +201,7 @@
 		"id": "treachery",
 		"term": "Treachery",
 		"type": "official",
-		"content": "<p>Treachery is an encounter card type representing tactics, tricks, disasters, and other immediate occurrences confronting players during a scenario.</p>\n<ul><li>If revealed, the revealing player must resolve its effects.</li><li>After resolving (or effects are canceled), place it in the encounter discard pile.</li><li>If a treachery causes one or more enemies to activate as its last effect, it is considered resolved and discarded after all those activations have resolved.</li></ul>",
+		"content": "<p>Treachery is an encounter card type that represent tactics, tricks, disasters, and other immediate occurrences that confront players during a scenario.</p><ul><li>If a treachery card is revealed from the encounter deck, the player revealing the card must resolve its effects.</li><li>After resolving the effects of a treachery card <em>(or the effects are canceled)</em>, place the card in the encounter discard pile.<ul><li>If a treachery causes one or more enemies to activate as its last effect, that treachery card is considered resolved and is discarded after all of those activations have resolved.</li></ul></li></ul>",
 		"see_also": [
 			"card_types",
 			"discard",
@@ -235,7 +235,7 @@
 		"id": "triggering_condition",
 		"term": "Triggering Condition",
 		"type": "official",
-		"content": "<p>A triggering condition is a specific occurrence that takes place in the game; on card abilities, it indicates the timing point at which the ability may be used (usually following 'when' or 'after'). Each Interrupt and Response ability can only be triggered once per occurrence of its triggering condition (multiple copies of a card can each be triggered).</p>\n<p>If a single game occurrence creates multiple triggering conditions, those conditions are handled with a single interrupt window and single response window, resolved in any order.</p>",
+		"content": "<p>A triggering condition is a specific occurrence that takes place in the game. On card abilities, the triggering condition is the element of the ability that references such an occurrence, indicating the timing point at which the ability may be used. The description of an ability’s triggering condition usually follows the word “when” or “after.”</p><ul><li>Each “<b>Interrupt</b>” and “<b>Response</b>” ability can only be triggered once per occurrence of its triggering condition.<ul><li>Multiple copies of a card with an interrupt or response can each be triggered by the same triggering condition.</li></ul></li><li>If a single game occurrence creates multiple triggering conditions <em>(such as a single attack causing a character to both take damage and be defeated)</em>, those triggering conditions are handled with a single interrupt window and a single response window. During each of these windows, abilities that refer to any of the triggering conditions created by the occurrence may be used in any order.</li></ul>",
 		"see_also": [
 			"interrupt",
 			"response"
@@ -245,7 +245,7 @@
 		"id": "tuck",
 		"term": "Tuck",
 		"type": "official",
-		"content": "<p>When a player is instructed to tuck a card under another card, they place the tucked card faceup under the other card. Tucked cards are not in play and are not considered 'attached' to the card under which they are tucked.</p>\n<p>When a card leaves play, each card tucked under it is discarded.</p>",
+		"content": "<p>When a player is instructed to tuck a card under another card, they place the tucked card faceup under the other card.</p><ul><li>Tucked cards are not in play and are not considered “attached” to the card under which they are tucked.</li><li>When a card leaves play, each card tucked under it is discarded.</li></ul>",
 		"see_also": [
 			"in_play_and_out_of_play"
 		]
