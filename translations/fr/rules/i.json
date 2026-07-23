@@ -27,7 +27,7 @@
 		"type": "official",
 		"content": "<p>Identité est un type de carte joueur qui représente le personnage qu'un joueur incarne dans la partie.</p><p>La carte identité d'un joueur est une carte double-face qui représente son héros d'un côté et son alter ego de l'autre. La face qui est face visible indique la forme <em>(héros ou alter ego)</em> dans laquelle ce joueur se trouve actuellement.</p><ul><li>Chaque joueur commence la partie sous forme d'alter ego.</li><li>Si une carte fait référence à un héros ou à un alter ego par son titre, elle ne fait référence qu'à l'identité portant ce titre, et non à l'autre côté de la carte.</li><li>Les cartes identité ne peuvent pas être défaussées du jeu.</li><li>La face visible d'une carte identité est considérée comme étant en jeu. La face cachée d'une carte identité est considérée comme étant hors jeu.</li></ul>",
 		"see_also": [
-			"form",
+			"form_change_form",
 			"in_play_and_out_of_play",
 			"player",
 			"player_card"
@@ -44,7 +44,7 @@
 			"classifications",
 			"identity",
 			"nemesis_encounter_set",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{
@@ -68,7 +68,7 @@
 			"ability",
 			"enters_play",
 			"leaves_play",
-			"play",
+			"play_put_into_play",
 			"play_restrictions_and_permissions",
 			"set_aside",
 			"target",

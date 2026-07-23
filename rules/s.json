@@ -6,9 +6,9 @@
 		"content": "<p>Cards in the “scenario-specific” classification are cards that belong to a scenario’s set of accompanying cards.</p><ul><li>A scenario must include each scenario-specific card associated with that scenario. The exact quantity of each card in that set is determined by the scenario.</li><li>In most scenarios, the scenario-specific cards are separated into three decks: the villain deck <em>(comprised of that scenario’s villain cards)</em>, the main scheme deck <em>(comprised of that scenario’s main scheme cards)</em>, and the encounter deck <em>(comprised of that scenario’s attachment, environment, minion, side scheme, and treachery cards)</em>.</li><li>A scenario-specific card is designated by the name of the scenario with which it is associated printed at the bottom of the card in its encounter set name area.</li></ul>",
 		"see_also": [
 			"classifications",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"villain_villain_deck",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{
@@ -27,7 +27,7 @@
 		"type": "official",
 		"content": "<p>The word “scheme” denotes three different card types: main schemes, player side schemes, and side schemes.</p><ul><li>If a card ability places threat on or removes threat from “a scheme,” the player resolving that ability chooses which scheme—main scheme or side schemes—that ability affects.</li></ul>",
 		"see_also": [
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"player_side_scheme",
 			"side_scheme"
 		]
@@ -42,7 +42,7 @@
 			"boost_boost_icon",
 			"minion",
 			"modifiers",
-			"villain",
+			"villain_villain_deck",
 			"villain_phase",
 			"villainous"
 		]
@@ -76,7 +76,7 @@
 		"see_also": [
 			"ability",
 			"in_play_and_out_of_play",
-			"appendix_ii_setup"
+			"setup_triggered_ability"
 		]
 	},
 	{
@@ -85,7 +85,7 @@
 		"type": "official",
 		"content": "<p>The set icon is an indicator on a card of that card’s product of origin, located in the card’s collector information at the bottom of the card.</p>",
 		"see_also": [
-			"appendix_iii_card_anatomy"
+			"text_box"
 		]
 	},
 	{
@@ -96,7 +96,7 @@
 		"see_also": [
 			"keywords",
 			"reminder_text",
-			"appendix_ii_setup"
+			"setup_triggered_ability"
 		]
 	},
 	{
@@ -106,7 +106,7 @@
 		"content": "<p>“Setup” is a type of triggered ability that is resolved during setup.</p><ul><li>Setup abilities are mandatory.</li><li>Setup abilities on encounter cards are resolved during the “Resolve Scenario Setup and When Revealed Abilities” step of setup.</li><li>Setup abilities on player cards are resolved during the “Resolve Character Setup Abilities” step of setup.</li></ul>",
 		"see_also": [
 			"triggered_ability",
-			"appendix_ii_setup"
+			"setup_triggered_ability"
 		]
 	},
 	{
@@ -131,7 +131,7 @@
 			"encounter_card",
 			"enters_play",
 			"leaves_play",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"threat",
 			"thwart",
 			"villains_play_area"
@@ -181,7 +181,7 @@
 			"reminder_text",
 			"status_cards",
 			"stun_stunned",
-			"villain"
+			"villain_villain_deck"
 		],
 		"whats_new": "Added a new bullet defining the stalwart keyword as an equivalent constant ability."
 	},
@@ -201,7 +201,7 @@
 		"content": "<p>The standard set is an encounter set that is added to most scenarios.</p><ul><li>The standard set is not a modular encounter set and cannot be selected <em>(by the players or randomly)</em> when a scenario requires players to choose a modular encounter set to include in that scenario.</li><li>Cards in the “Standard” classification are any cards that have the word “Standard” printed by the bottom of the card in its encounter set name area.</li></ul>",
 		"see_also": [
 			"classifications",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{
@@ -218,7 +218,7 @@
 			"identity",
 			"minion",
 			"non_numerical_variable",
-			"villain"
+			"villain_villain_deck"
 		],
 		"whats_new": "Added a new bullet defining the star icon (⭐) as an equivalent constant ability."
 	},
@@ -238,7 +238,7 @@
 			"minion",
 			"replacement_effect",
 			"triggered_ability",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -266,7 +266,7 @@
 			"minion",
 			"status_cards",
 			"target",
-			"villain"
+			"villain_villain_deck"
 		],
 		"whats_new": "Clarified that a stunned status card resolves like a specific Forced Interrupt triggered ability."
 	},
@@ -319,7 +319,7 @@
 			"identity",
 			"maximum_hit_points",
 			"remaining_hit_points",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{

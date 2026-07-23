@@ -52,8 +52,8 @@
 			"obligation",
 			"side_scheme",
 			"treachery",
-			"villain",
-			"appendix_i_deck_customization"
+			"villain_villain_deck",
+			"deck_customization"
 		]
 	},
 	{
@@ -120,7 +120,7 @@
 		"see_also": [
 			"game_element",
 			"minion",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -190,7 +190,7 @@
 		"see_also": [
 			"in_play_and_out_of_play",
 			"leaves_play",
-			"play",
+			"play_put_into_play",
 			"reveal"
 		]
 	},
@@ -204,7 +204,7 @@
 			"encounter_card",
 			"enters_play",
 			"leaves_play",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -234,7 +234,7 @@
 			"identity",
 			"minion",
 			"remaining_hit_points",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -264,7 +264,7 @@
 			"classifications",
 			"modes_of_play",
 			"modular_encounter_set",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	}
 ]

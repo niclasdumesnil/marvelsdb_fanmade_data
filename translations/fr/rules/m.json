@@ -12,7 +12,7 @@
 			"removed_from_the_game",
 			"target_threat",
 			"threat",
-			"villain",
+			"villain_villain_deck",
 			"villain_phase"
 		]
 	},
@@ -24,7 +24,7 @@
 		"see_also": [
 			"cancel",
 			"limit",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{
@@ -39,7 +39,7 @@
 			"identity",
 			"minion",
 			"modifiers",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 			"leaves_play",
 			"player",
 			"players_play_area",
-			"villain",
+			"villain_villain_deck",
 			"villain_phase"
 		]
 	},
@@ -115,7 +115,7 @@
 		"content": "<p>Les cartes appartenant à un « set de rencontre modulaire » <em>(ou parfois « set modulaire »)</em> sont une classification de carte rencontre pouvant être ajoutées et/ou retirées de presque n'importe quel scénario.</p><ul><li>Pendant la mise en place du jeu, de nombreux scénarios indiquent aux joueurs combien de sets de rencontre modulaires doivent être inclus dans ce scénario. Selon le scénario, certains sets de rencontre modulaires sont requis, tandis que d'autres peuvent être choisis par les joueurs.</li><li>Si un set de rencontre modulaire est ajouté à un scénario, il l'est dans son intégralité. Sauf si des règles spécifiques de scénario indiquent le contraire, les cartes individuelles d'un set de rencontre modulaire ne peuvent pas être incluses dans un scénario sans le reste de ce set.</li><li>Une carte de set de rencontre modulaire est désignée par le nom du set de rencontre modulaire auquel elle est associée, imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
 		"see_also": [
 			"classifications",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{

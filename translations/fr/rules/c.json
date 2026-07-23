@@ -34,7 +34,7 @@
 		"type": "official",
 		"content": "Le terme « ne peut pas » est absolu et ne peut pas être contredit par d'autres capacités ou effets.<ul><li>Si deux capacités entrent en conflit, la capacité avec « ne peut pas » a préséance.</li><li>Si deux règles entrent en conflit, la règle avec « ne peut pas » a préséance.</li><li>Une capacité peut outrepasser une règle avec « ne peut pas » selon les Règles d'Or.</li></ul>",
 		"see_also": [
-			"the_golden_rules",
+			"golden_rules",
 			"target"
 		]
 	},
@@ -59,7 +59,7 @@
 			"environment",
 			"event",
 			"identity",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"minion",
 			"obligation",
 			"player_card",
@@ -81,7 +81,7 @@
 			"ally",
 			"identity",
 			"minion",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -107,6 +107,15 @@
 			"ability",
 			"player",
 			"target"
+		]
+	},
+	{
+		"id": "component_limitations",
+		"term": "Limite des composants",
+		"type": "official",
+		"content": "<p>Si une limite de composants est atteinte, aucun composant supplémentaire de ce type ne peut entrer en jeu.</p><ul><li>Les jetons sont limités par le nombre de jetons dans la réserve du jeu. Si un type de jeton est épuisé, aucun jeton supplémentaire de ce type ne peut être placé ou généré.</li><li>Les cartes d'état sont limitées par le nombre de cartes d'état dans la réserve du jeu.</li></ul>",
+		"see_also": [
+			"status_cards"
 		]
 	},
 	{
@@ -229,7 +238,7 @@
 		"content": "Tant qu'au moins une icône de crise (<span class=\"icon-crisis\"></span>) est en jeu, la menace ne peut pas être retirée de la manigance principale par des cartes joueur.<ul><li><mark class=\"new\">Chaque icône de crise est équivalente à la capacité constante suivante : « Les cartes joueur ne peuvent pas retirer de menace de la manigance principale. »</mark></li><li>Les capacités sur les cartes rencontre ne sont pas affectées par l'icône de crise.</li></ul>",
 		"whats_new": "L'effet de l'icône de crise est désormais défini comme une capacité constante explicite (« Les cartes joueur ne peuvent pas retirer de menace de la manigance principale. ») plutôt que comme un simple texte descriptif.",
 		"see_also": [
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"threat"
 		]
 	}

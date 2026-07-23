@@ -12,7 +12,7 @@
 			"removed_from_the_game",
 			"target_threat",
 			"threat",
-			"villain",
+			"villain_villain_deck",
 			"villain_phase"
 		]
 	},
@@ -24,7 +24,7 @@
 		"see_also": [
 			"cancel",
 			"limit",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{
@@ -39,7 +39,7 @@
 			"identity",
 			"minion",
 			"modifiers",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 			"leaves_play",
 			"player",
 			"players_play_area",
-			"villain",
+			"villain_villain_deck",
 			"villain_phase"
 		]
 	},
@@ -115,7 +115,7 @@
 		"content": "<p>Cards belonging to a “modular encounter set” <em>(or sometimes “modular set”)</em> are a classification of encounter card that can be added to and/or removed from nearly any scenario.</p><ul><li>During game setup, many scenarios will instruct the players on how many modular encounter sets must be included in that scenario. Depending on the scenario, some modular encounter sets are required, while others can be chosen by the players.</li><li>If a modular encounter set is added to a scenario, it is done so as an entire set. Unless specific scenario rules state otherwise, individual cards from a modular encounter set cannot be included in a scenario without the rest of that set.</li><li>A modular encounter set card is designated by the modular encounter set’s name with which it is associated printed at the bottom of the card in its encounter set name area.</li></ul>",
 		"see_also": [
 			"classifications",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{

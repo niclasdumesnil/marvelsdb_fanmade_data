@@ -34,7 +34,7 @@
 		"type": "official",
 		"content": "<p>The word 'cannot' is absolute and cannot be countermanded by other abilities or effects. If two abilities conflict, the one with 'cannot' takes precedence; if two rules conflict, the rule with 'cannot' takes precedence.</p>\n<p>An ability can override a rule with 'cannot' per the Golden Rules.</p>",
 		"see_also": [
-			"the_golden_rules",
+			"golden_rules",
 			"target"
 		]
 	},
@@ -59,7 +59,7 @@
 			"environment",
 			"event",
 			"identity",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"minion",
 			"obligation",
 			"player_card",
@@ -81,7 +81,7 @@
 			"ally",
 			"identity",
 			"minion",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -107,6 +107,15 @@
 			"ability",
 			"player",
 			"target"
+		]
+	},
+	{
+		"id": "component_limitations",
+		"term": "Component Limitations",
+		"type": "official",
+		"content": "<p>If a component limit is reached, no further components of that type can enter play.</p><ul><li>Tokens are limited by the number of tokens in the game supply. If a token type is exhausted, no further tokens of that type can be placed or generated.</li><li>Status cards are limited by the number of status cards in the game supply.</li></ul>",
+		"see_also": [
+			"status_cards"
 		]
 	},
 	{
@@ -229,7 +238,7 @@
 		"content": "<p>While at least one crisis icon is in play, threat cannot be removed from the main scheme by player cards.</p><ul><li><mark class=\"new\">Each crisis icon is equivalent to the following constant ability:</mark><blockquote><mark class=\"new\">Player cards cannot remove threat from the main scheme.</mark></blockquote></li><li>Abilities on encounter cards are not affected by the crisis icon.</li></ul>",
 		"whats_new": "Crisis icon's effect is now defined as an explicit constant ability ('Player cards cannot remove threat from the main scheme.') rather than just descriptive text.",
 		"see_also": [
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"threat"
 		]
 	}

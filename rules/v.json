@@ -76,7 +76,7 @@
 			"find",
 			"hazard_icon",
 			"in_player_order",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"minion",
 			"player",
 			"reveal",
@@ -96,7 +96,7 @@
 			"encounter_deck",
 			"environment",
 			"in_play_and_out_of_play",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"minion",
 			"obligation",
 			"villain_villain_deck"

@@ -27,7 +27,7 @@
 		"type": "official",
 		"content": "<p><mark class=\"new\">Le type de carte leader suit les mêmes règles que le type de carte méchant à toutes fins.</mark></p>",
 		"see_also": [
-			"villain"
+			"villain_villain_deck"
 		],
 		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Leader comme une capacité constante équivalente."
 	},

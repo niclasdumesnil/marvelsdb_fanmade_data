@@ -38,7 +38,7 @@
 		"whats_new": "Ajout d'un nouveau point précisant que chaque icône d'accélération équivaut à une capacité constante plaçant 1 menace supplémentaire sur la manigance principale lors de l'étape Placer la Menace.",
 		"see_also": [
 			"icons",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"threat",
 			"villain_phase"
 		]
@@ -52,7 +52,7 @@
 			"component_limitations",
 			"encounter_deck",
 			"main_scheme",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -72,11 +72,11 @@
 		"type": "official",
 		"content": "<p>Il existe deux types d'activations des ennemis : une activation d'attaque et une activation de manigance. Chaque fois qu'un ennemi attaque ou manigance, il est considéré comme s'étant activé.</p><ul><li>Pendant l'étape deux de la phase du méchant, le méchant s'active une fois par joueur, dans l'ordre des joueurs. Si l'identité du joueur qui résout l'activation est sous forme de héros, le méchant initie une attaque contre l'identité de ce joueur. Si l'identité du joueur qui résout l'activation est sous forme d'alter ego, le méchant initie une manigance.</li><li>Pendant l'étape deux de la phase du méchant, chaque sbire engagé avec un joueur s'active contre ce joueur. Si l'identité du joueur engagé est sous forme de héros, le sbire initie une attaque contre l'identité de ce joueur. Si l'identité du joueur engagé est sous forme d'alter ego, le sbire initie une manigance.</li><li>À chaque activation du méchant, donnez au méchant une carte <b>boost</b> du deck rencontre pour cette activation.</li><li>Certaines capacités de carte peuvent également forcer les ennemis à attaquer ou manigancer. Ce sont aussi des activations.</li><li>Si plusieurs ennemis s'activent contre vous simultanément, résolvez d'abord l'activation du méchant <em>(le cas échéant)</em> dans l'ordre de votre choix, puis les activations des sbires dans l'ordre de votre choix.</li><li>Si un sbire en cours d'activation quitte le jeu, son activation se termine immédiatement et aucune autre étape de cette activation ne se résout.</li><li>Un effet qui initie une activation ennemie est considéré comme résolu une fois l'activation entièrement résolue.</li><li>Si un effet initie une activation pendant la résolution d'une autre activation, la nouvelle activation se résout après que l'activation en cours a terminé de se résoudre.<ul><li>Si plusieurs activations sont initiées de cette manière, le premier joueur décide de l'ordre dans lequel elles sont résolues.</li><li>Toutes les capacités déclenchées par l'activation initiale se résolvent avant que les activations suivantes ne s'initient.</li></ul></li></ul>",
 		"see_also": [
-			"boost",
+			"boost_boost_icon",
 			"attack_enemy_activation",
 			"scheme_enemy_activation",
 			"minion",
-			"villain",
+			"villain_villain_deck",
 			"villain_phase"
 		]
 	},
@@ -168,7 +168,7 @@
 		"type": "official",
 		"content": "Voir : Forme, changer de forme, Identité",
 		"see_also": [
-			"form",
+			"form_change_form",
 			"identity"
 		]
 	},
@@ -193,7 +193,7 @@
 		"whats_new": "Ajout d'un nouveau point définissant l'icône d'amplification comme une capacité constante équivalente.",
 		"see_also": [
 			"activation",
-			"boost",
+			"boost_boost_icon",
 			"enemy",
 			"icons"
 		]
@@ -285,16 +285,16 @@
 			"activation",
 			"ally",
 			"attacks_against_allies",
-			"boost",
+			"boost_boost_icon",
 			"damage",
-			"defend",
+			"defend_defense",
 			"enemy",
 			"identity",
 			"minion",
 			"modifiers",
 			"retaliate_x",
 			"target",
-			"villain",
+			"villain_villain_deck",
 			"villainous"
 		]
 	},
@@ -316,7 +316,7 @@
 			"modifiers",
 			"retaliate_x",
 			"target",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -327,7 +327,7 @@
 		"see_also": [
 			"ally",
 			"attack_enemy_activation",
-			"defend",
+			"defend_defense",
 			"target"
 		]
 	}

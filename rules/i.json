@@ -27,7 +27,7 @@
 		"type": "official",
 		"content": "<p>Identity is a player card type that represents which character a player is playing in the game.</p><p>A player’s identity card is a double-sided card that represents their hero on one side and their alter-ego on the other. The side that is face up indicates the form <em>(hero or alter-ego)</em> that player is currently in.</p><ul><li>Each player begins the game in alter-ego form.</li><li>If a card refers to a hero or alter-ego by title, it refers only to the identity with that title, and not to the other side of the card.</li><li>Identity cards cannot be discarded from play.</li><li>The faceup side of an identity card is considered to be in play. The facedown side of an identity card is considered to be out of play.</li></ul>",
 		"see_also": [
-			"form",
+			"form_change_form",
 			"in_play_and_out_of_play",
 			"player",
 			"player_card"
@@ -44,7 +44,7 @@
 			"classifications",
 			"identity",
 			"nemesis_encounter_set",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{
@@ -68,7 +68,7 @@
 			"ability",
 			"enters_play",
 			"leaves_play",
-			"play",
+			"play_put_into_play",
 			"play_restrictions_and_permissions",
 			"set_aside",
 			"target",

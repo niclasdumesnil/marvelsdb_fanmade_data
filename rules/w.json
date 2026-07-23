@@ -5,7 +5,7 @@
 		"type": "official",
 		"content": "<p>A when completed ability is a type of triggered ability, indicated by the bold “<b>When Completed</b>” timing trigger.</p><p>When a main scheme is complete, all “<b>When Completed</b>” abilities on the card resolve.</p><ul><li><mark class=\"new\">The “<b>When Completed</b>” timing trigger is equivalent to the following trigger: “<b>Forced Interrupt</b>: When this scheme is completed...”</mark></li></ul>",
 		"see_also": [
-			"main_scheme_main_scheme_deck"
+			"main_scheme"
 		],
 		"whats_new": "Added a new bullet defining the when completed timing trigger as an equivalent forced interrupt ability."
 	},
@@ -17,7 +17,7 @@
 		"see_also": [
 			"ally",
 			"defeat",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"minion",
 			"side_scheme",
 			"triggered_ability",
@@ -33,10 +33,10 @@
 		"see_also": [
 			"choose_game_element",
 			"encounter_card",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"triggered_ability",
 			"villain_villain_deck",
-			"appendix_ii_setup"
+			"setup_triggered_ability"
 		]
 	},
 	{

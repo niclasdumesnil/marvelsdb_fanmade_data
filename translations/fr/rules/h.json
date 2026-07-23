@@ -31,7 +31,7 @@
 			"hit_points",
 			"identity",
 			"minion",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -84,7 +84,7 @@
 			"player_elimination",
 			"remaining_hit_points",
 			"sustained_damage",
-			"villain",
+			"villain_villain_deck",
 			"villain_defeat"
 		]
 	}

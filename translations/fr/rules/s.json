@@ -6,9 +6,9 @@
 		"content": "<p>Les cartes de la classification « spécifique au scénario » sont des cartes qui appartiennent au set de cartes d'accompagnement d'un scénario.</p><ul><li>Un scénario doit inclure chaque carte spécifique au scénario associée à ce scénario. La quantité exacte de chaque carte dans ce set est déterminée par le scénario.</li><li>Dans la plupart des scénarios, les cartes spécifiques au scénario sont réparties en trois decks : le deck méchant <em>(composé des cartes méchant de ce scénario)</em>, le deck manigance principale <em>(composé des cartes manigance principale de ce scénario)</em>, et le deck rencontre <em>(composé des cartes attachement, environnement, sbire, manigance annexe et traîtrise de ce scénario)</em>.</li><li>Une carte spécifique au scénario est désignée par le nom du scénario auquel elle est associée, imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
 		"see_also": [
 			"classifications",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"villain_villain_deck",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{
@@ -27,7 +27,7 @@
 		"type": "official",
 		"content": "<p>Le mot « manigance » désigne trois types de cartes différents : les manigances principales, les manigances annexes de joueur et les manigances annexes.</p><ul><li>Si une capacité de carte place de la menace sur ou retire de la menace d'« une manigance », le joueur résolvant cette capacité choisit quelle manigance — manigance principale ou manigances annexes — cette capacité affecte.</li></ul>",
 		"see_also": [
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"player_side_scheme",
 			"side_scheme"
 		]
@@ -42,7 +42,7 @@
 			"boost_boost_icon",
 			"minion",
 			"modifiers",
-			"villain",
+			"villain_villain_deck",
 			"villain_phase",
 			"villainous"
 		]
@@ -76,7 +76,7 @@
 		"see_also": [
 			"ability",
 			"in_play_and_out_of_play",
-			"appendix_ii_setup"
+			"setup_triggered_ability"
 		]
 	},
 	{
@@ -85,7 +85,7 @@
 		"type": "official",
 		"content": "<p>L'icône de set est un indicateur sur une carte du produit d'origine de cette carte, situé dans les informations de collection au bas de la carte.</p>",
 		"see_also": [
-			"appendix_iii_card_anatomy"
+			"text_box"
 		]
 	},
 	{
@@ -96,7 +96,7 @@
 		"see_also": [
 			"keywords",
 			"reminder_text",
-			"appendix_ii_setup"
+			"setup_triggered_ability"
 		]
 	},
 	{
@@ -106,7 +106,7 @@
 		"content": "<p>« Mise en place » est un type de capacité déclenchée qui se résout pendant la mise en place.</p><ul><li>Les capacités de mise en place sont obligatoires.</li><li>Les capacités de mise en place sur les cartes rencontre sont résolues pendant l'étape « Résoudre la mise en place du scénario et les capacités Une fois révélées » de la mise en place.</li><li>Les capacités de mise en place sur les cartes joueur sont résolues pendant l'étape « Résoudre les capacités de mise en place des personnages » de la mise en place.</li></ul>",
 		"see_also": [
 			"triggered_ability",
-			"appendix_ii_setup"
+			"setup_triggered_ability"
 		]
 	},
 	{
@@ -131,7 +131,7 @@
 			"encounter_card",
 			"enters_play",
 			"leaves_play",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"threat",
 			"thwart",
 			"villains_play_area"
@@ -181,7 +181,7 @@
 			"reminder_text",
 			"status_cards",
 			"stun_stunned",
-			"villain"
+			"villain_villain_deck"
 		],
 		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Inébranlable comme une capacité constante équivalente."
 	},
@@ -201,7 +201,7 @@
 		"content": "<p>Le set standard est un set de rencontre qui est ajouté à la plupart des scénarios.</p><ul><li>Le set standard n'est pas un set de rencontre modulaire et ne peut pas être sélectionné <em>(par les joueurs ou au hasard)</em> lorsqu'un scénario demande aux joueurs de choisir un set de rencontre modulaire à inclure dans ce scénario.</li><li>Les cartes de la classification « Standard » sont toutes les cartes qui ont le mot « Standard » imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
 		"see_also": [
 			"classifications",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{
@@ -218,7 +218,7 @@
 			"identity",
 			"minion",
 			"non_numerical_variable",
-			"villain"
+			"villain_villain_deck"
 		],
 		"whats_new": "Ajout d'un nouveau point définissant l'icône d'étoile (⭐) comme une capacité constante équivalente."
 	},
@@ -238,7 +238,7 @@
 			"minion",
 			"replacement_effect",
 			"triggered_ability",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -266,7 +266,7 @@
 			"minion",
 			"status_cards",
 			"target",
-			"villain"
+			"villain_villain_deck"
 		],
 		"whats_new": "Précision indiquant qu'une carte d'état sonné se résout comme la capacité déclenchée « Interruption Forcée » consistant à retirer chaque carte sonné lorsque le personnage devrait attaquer."
 	},
@@ -319,7 +319,7 @@
 			"identity",
 			"maximum_hit_points",
 			"remaining_hit_points",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{

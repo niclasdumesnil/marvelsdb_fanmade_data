@@ -38,7 +38,7 @@
 		"whats_new": "Added a new bullet clarifying that each acceleration icon is equivalent to a constant ability placing 1 additional threat on the main scheme during the Place Threat step.",
 		"see_also": [
 			"icons",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"threat",
 			"villain_phase"
 		]
@@ -52,7 +52,7 @@
 			"component_limitations",
 			"encounter_deck",
 			"main_scheme",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -72,11 +72,11 @@
 		"type": "official",
 		"content": "<p>There are two types of enemy activations: an attack activation and a scheme activation. Whenever an enemy attacks or schemes, it is considered to have activated.</p><ul><li>During step two of the villain phase, the villain activates once per player, in player order. If the identity of the player resolving the activation is in hero form, the villain initiates an attack against that player’s identity. If the identity of the player resolving the activation is in alter-ego form, the villain initiates a scheme.</li><li>During step two of the villain phase, each minion engaged with a player activates against that player. If the identity of the engaged player is in hero form, the minion initiates an attack against that player’s identity. If the identity of the engaged player is in alter-ego form, the minion initiates a scheme.</li><li>Each time the villain activates, give the villain one boost card from the encounter deck for that activation.</li><li>Some card abilities can also cause enemies to attack or scheme. These are also considered activations.</li><li>If multiple enemies activate against you simultaneously, resolve the villain’s activation first <em>(if any)</em> in the order of your choice, followed by minion activations in the order of your choice.</li><li>If an activating minion leaves play, that minion’s activation ends immediately and no further steps of that activation resolve.</li><li>An effect that initiates an enemy activation is considered resolved after that activation has fully resolved.</li><li>If an effect initiates an activation during the resolution of another activation, the newly initiated activation resolves after the current activation has finished resolving.<ul><li>If multiple activations are initiated this way, the first player decides the order in which they are resolved.</li><li>All abilities triggered by the initial activation resolve before subsequent activations initiate.</li></ul></li></ul>",
 		"see_also": [
-			"boost",
+			"boost_boost_icon",
 			"attack_enemy_activation",
 			"scheme_enemy_activation",
 			"minion",
-			"villain",
+			"villain_villain_deck",
 			"villain_phase"
 		]
 	},
@@ -168,7 +168,7 @@
 		"type": "official",
 		"content": "<p>See: Form, Identity.</p>",
 		"see_also": [
-			"form",
+			"form_change_form",
 			"identity"
 		]
 	},
@@ -193,7 +193,7 @@
 		"whats_new": "Added a new bullet defining the amplify icon as an equivalent constant ability.",
 		"see_also": [
 			"activation",
-			"boost",
+			"boost_boost_icon",
 			"enemy",
 			"icons"
 		]
@@ -285,16 +285,16 @@
 			"activation",
 			"ally",
 			"attacks_against_allies",
-			"boost",
+			"boost_boost_icon",
 			"damage",
-			"defend",
+			"defend_defense",
 			"enemy",
 			"identity",
 			"minion",
 			"modifiers",
 			"retaliate_x",
 			"target",
-			"villain",
+			"villain_villain_deck",
 			"villainous"
 		]
 	},
@@ -316,7 +316,7 @@
 			"modifiers",
 			"retaliate_x",
 			"target",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -327,7 +327,7 @@
 		"see_also": [
 			"ally",
 			"attack_enemy_activation",
-			"defend",
+			"defend_defense",
 			"target"
 		]
 	}

@@ -30,7 +30,7 @@
 		"type": "official",
 		"content": "<p>Target threat is the amount of threat required for the main scheme deck to advance. It is located in the upper left corner of the card, before the title.</p>",
 		"see_also": [
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"threat"
 		]
 	},
@@ -46,7 +46,7 @@
 			"keywords",
 			"play_put_into_play",
 			"reminder_text",
-			"appendix_i_deck_customization"
+			"deck_customization"
 		],
 		"whats_new": "Added a new bullet defining the team-up keyword as an equivalent constant ability."
 	},
@@ -81,7 +81,7 @@
 			"ability",
 			"printed",
 			"traits",
-			"appendix_iii_card_anatomy"
+			"text_box"
 		]
 	},
 	{
@@ -118,7 +118,7 @@
 			"component_limitations",
 			"scheme_card_type",
 			"scheme_enemy_activation",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"side_scheme",
 			"prevent",
 			"thwart"
@@ -145,7 +145,7 @@
 			"consequential_damage",
 			"exhausted",
 			"labeled_ability",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"modifiers",
 			"side_scheme",
 			"threat"
@@ -190,7 +190,7 @@
 			"minion",
 			"reminder_text",
 			"status_cards",
-			"villain"
+			"villain_villain_deck"
 		],
 		"whats_new": "Added a new bullet defining the toughness keyword as an equivalent constant ability."
 	},
@@ -201,7 +201,7 @@
 		"content": "<p>Many cards have one or more traits listed at the top of the text box and printed in bold italics.</p><ul><li>Traits have no inherent effects on the game. Instead, some card abilities reference cards that possess or lack specific traits.</li><li>Traits are not considered to be part of a card’s printed text box for the purpose of card abilities.</li></ul>",
 		"see_also": [
 			"printed",
-			"appendix_iii_card_anatomy"
+			"text_box"
 		]
 	},
 	{
@@ -215,7 +215,7 @@
 			"encounter_card",
 			"encounter_deck",
 			"reveal",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{

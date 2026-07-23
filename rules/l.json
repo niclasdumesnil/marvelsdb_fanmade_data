@@ -27,7 +27,7 @@
 		"type": "official",
 		"content": "<p><mark class=\"new\">The leader card type follows the same rules as the villain card type for all purposes.</mark></p>",
 		"see_also": [
-			"villain"
+			"villain_villain_deck"
 		],
 		"whats_new": "Added a new bullet defining the leader keyword as an equivalent constant ability."
 	},

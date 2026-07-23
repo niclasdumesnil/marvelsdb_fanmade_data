@@ -46,7 +46,7 @@
 			"encounter_deck",
 			"main_scheme",
 			"player_deck",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
@@ -55,7 +55,7 @@
 		"type": "official",
 		"content": "Voir : Annexe I : Personnalisation de Deck.",
 		"see_also": [
-			"appendix_i_deck_customization"
+			"deck_customization"
 		]
 	},
 	{
@@ -81,7 +81,7 @@
 			"player_elimination",
 			"removed_from_the_game",
 			"side_scheme",
-			"villain",
+			"villain_villain_deck",
 			"villain_defeat"
 		]
 	},
@@ -148,7 +148,7 @@
 			"in_play_and_out_of_play",
 			"player_card",
 			"victory_x",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{

@@ -5,7 +5,7 @@
 		"type": "official",
 		"content": "<p>Une capacité une fois achevée est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « <b>Une fois achevée</b> ».</p><p>Lorsqu'une manigance principale est achevée, toutes les capacités « <b>Une fois achevée</b> » sur la carte se résolvent.</p><ul><li><mark class=\"new\">Le déclencheur de timing « <b>Une fois achevée</b> » est équivalent au déclencheur suivant : « <b>Interruption forcée</b> : Quand cette manigance est achevée... »</mark></li></ul>",
 		"see_also": [
-			"main_scheme_main_scheme_deck"
+			"main_scheme"
 		],
 		"whats_new": "Ajout d'un nouveau point définissant le déclencheur de timing Une fois achevée comme une capacité d'interruption forcée équivalente."
 	},
@@ -17,7 +17,7 @@
 		"see_also": [
 			"ally",
 			"defeat",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"minion",
 			"side_scheme",
 			"triggered_ability",
@@ -33,10 +33,10 @@
 		"see_also": [
 			"choose_game_element",
 			"encounter_card",
-			"main_scheme_main_scheme_deck",
+			"main_scheme",
 			"triggered_ability",
 			"villain_villain_deck",
-			"appendix_ii_setup"
+			"setup_triggered_ability"
 		]
 	},
 	{
