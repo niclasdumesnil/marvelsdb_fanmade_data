@@ -11,7 +11,7 @@
 	},
 	{
 		"id": "hazard_icon",
-		"term": "Icône d'aléas (<span class=\"icon icon-hazard\"></span>)",
+		"term": "Icône d'aléas ([hazard])",
 		"type": "official",
 		"content": "<p>Pendant l'étape d'attribution des cartes rencontre de la phase du méchant, pour chaque icône d'aléas (<span class=\"icon icon-hazard\"></span>) sur les cartes en jeu, attribuez une carte supplémentaire à un joueur <em>(pas une carte par joueur)</em>. Les cartes supplémentaires sont attribuées dans l'ordre des joueurs <em>(première carte supplémentaire au premier joueur, deuxième au deuxième joueur, etc.)</em>.</p><ul><li><mark class=\"new\">Chaque icône d'aléas est équivalente à la capacité constante suivante : « Pendant l'étape d'attribution des cartes rencontre de la phase du méchant, attribuez 1 carte rencontre supplémentaire. Les cartes supplémentaires issues des icônes d'aléas sont attribuées dans l'ordre des joueurs. »</mark></li></ul>",
 		"whats_new": "Ajout d'un nouveau point définissant l'icône de danger comme une capacité constante équivalente.",

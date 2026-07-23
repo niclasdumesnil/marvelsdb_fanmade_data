@@ -53,7 +53,7 @@
 	},
 	{
 		"id": "mental_resource",
-		"term": "Ressource mentale (<span class=\"icon icon-mental\"></span>)",
+		"term": "Ressource mentale ([mental])",
 		"type": "official",
 		"content": "<p>Une ressource mentale (<span class=\"icon icon-mental\"></span>) est l'un des quatre types de ressources.</p><ul><li>Les ressources mentales peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités de cartes nécessitent spécifiquement que des ressources mentales soient dépensées pour résoudre leurs effets.</li></ul>",
 		"see_also": [
