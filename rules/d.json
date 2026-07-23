@@ -106,7 +106,7 @@
 		"id": "delayed_effect",
 		"term": "Delayed Effect",
 		"type": "official",
-		"content": "<p>Some abilities contain delayed effects specifying a future timing point or condition and dictate an effect to happen then. Delayed effects resolve automatically and immediately after their specified timing point/condition occurs, and before responses to that point may be used; they have the same timing priority as constant effects.</p>\n<p>A delayed effect is not treated as a new triggered ability even if created by one.</p>",
+		"content": "<p>Some abilities contain delayed effects. Such abilities specify a future timing point, or indicate a future condition that may arise, and dictate an effect that is to happen at that time.</p><ul><li>Delayed effects resolve automatically and immediately after their specified timing point or future condition occurs or becomes true, and before responses to that point or condition may be used.<ul><li>Delayed effects have the same timing priority as constant effects.</li></ul></li><li>When a delayed effect resolves, it is not treated as a new triggered ability, even if the delayed effect was originally created by a triggered ability.</li></ul>",
 		"see_also": [
 			"ability"
 		]
