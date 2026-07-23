@@ -10,6 +10,25 @@
 		]
 	},
 	{
+		"id": "each_time",
+		"term": "« À chaque fois »",
+		"type": "official",
+		"content": "Voir : Effet d'altération.",
+		"see_also": [
+			"alteration_effect"
+		]
+	},
+	{
+		"id": "effect",
+		"term": "Effet",
+		"type": "official",
+		"content": "Voir : Capacité, Coût.",
+		"see_also": [
+			"ability",
+			"cost"
+		]
+	},
+	{
 		"id": "empty_deck",
 		"term": "Deck vide",
 		"type": "official",
@@ -21,9 +40,9 @@
 	},
 	{
 		"id": "encounter_card",
-		"term": "Cartes Rencontre",
+		"term": "Carte rencontre",
 		"type": "official",
-		"content": "Il existe huit types de cartes rencontre : les attachements, les environnements, les sbires, les manigances principales, les obligations, les manigances annexes, les traîtrises et les méchants. Elles représentent les défis que le méchant lance aux héros.<ul><li>Les cartes rencontre appartiennent à diverses classifications, telles que les cartes rencontre spécifiques au scénario ou les cartes rencontre de set modulaire.</li><li>La plupart des cartes rencontre ont un dos de carte orange.</li></ul>",
+		"content": "<p>Il y a huit types de cartes rencontre : les cartes attachement, les cartes environnement, les cartes sbire, les cartes manigance principale, les cartes obligation, les cartes manigance annexe, les cartes traîtrise et les cartes méchant.</p><ul><li>Les cartes rencontre appartiennent à diverses classifications, telles que les cartes rencontre spécifiques à un scénario ou les cartes rencontre d'un set modulaire.</li><li>La plupart des cartes rencontre ont un dos de carte orange.</li></ul>",
 		"see_also": [
 			"attachment",
 			"classifications",
@@ -52,6 +71,15 @@
 			"minion",
 			"side_scheme",
 			"treachery"
+		]
+	},
+	{
+		"id": "encounter_discard_pile",
+		"term": "Pile de défausse rencontre",
+		"type": "official",
+		"content": "Voir : Pile de défausse.",
+		"see_also": [
+			"discard_pile"
 		]
 	},
 	{
@@ -92,6 +120,37 @@
 			"game_element",
 			"minion",
 			"villain"
+		]
+	},
+	{
+		"id": "enemy_activation",
+		"term": "Activation des Ennemis",
+		"type": "official",
+		"content": "Voir : Activation, Attaque (Activation des Ennemis), Manigance (activation des ennemis).",
+		"see_also": [
+			"activation",
+			"attack_enemy_activation",
+			"scheme_enemy_activation"
+		]
+	},
+	{
+		"id": "enemy_attacks",
+		"term": "Attaques des Ennemis",
+		"type": "official",
+		"content": "Voir : Activation, Attaque (Activation des Ennemis).",
+		"see_also": [
+			"activation",
+			"attack_enemy_activation"
+		]
+	},
+	{
+		"id": "enemy_schemes",
+		"term": "Manigances des Ennemis",
+		"type": "official",
+		"content": "Voir : Activation, Manigance (activation des ennemis).",
+		"see_also": [
+			"activation",
+			"scheme_enemy_activation"
 		]
 	},
 	{
@@ -184,6 +243,15 @@
 		"content": "Si une carte est inclinée, elle est pivotée de 90 degrés. Une carte inclinée ne peut pas être inclinée à nouveau tant qu'elle n'est pas redressée. La plupart des personnages doivent s'incliner pour attaquer, contrer, défendre ou récupérer.<ul><li>Une capacité de carte sur une carte inclinée est active et peut toujours interagir avec l'état du jeu. Cependant, si une carte inclinée doit s'incliner pour payer le coût d'utilisation de sa capacité, cette capacité ne peut pas être utilisée tant que la carte n'est pas redressée.</li></ul>",
 		"see_also": [
 			"ready"
+		]
+	},
+	{
+		"id": "expert_mode",
+		"term": "Mode Expert",
+		"type": "official",
+		"content": "Voir : Modes de Jeu.",
+		"see_also": [
+			"modes_of_play"
 		]
 	},
 	{

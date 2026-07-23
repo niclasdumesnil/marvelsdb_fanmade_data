@@ -42,7 +42,7 @@
 		"id": "encounter_card",
 		"term": "Encounter Card",
 		"type": "official",
-		"content": "<p>There are eight encounter card types: attachment, environment, minion, main scheme, obligation, side scheme, treachery, and villain cards. Encounter cards belong to various classifications (scenario-specific, modular set, etc.).</p>\n<p>Most encounter cards have an orange card back.</p>",
+		"content": "<p>There are eight encounter card types: attachment cards, environment cards, minion cards, main scheme cards, obligation cards, side scheme cards, treachery cards, and villain cards.</p><ul><li>Encounter cards belong to various classifications, such as scenario-specific encounter cards or modular set encounter cards.</li><li>Most encounter cards have an orange card back.</li></ul>",
 		"see_also": [
 			"attachment",
 			"classifications",
