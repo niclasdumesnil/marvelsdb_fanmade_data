@@ -67,38 +67,6 @@
 		]
 	},
 	{
-		"id": "mercenary",
-		"term": "Mercenary",
-		"type": "fanmade",
-		"content": "<p>Minions with Mercenary may be recruited to become an ally. As a Hero Action, the player engaged with that minion may spend the resources listed beside the keyword to gain control of that minion and treat them as a Controlled ally. Their THW is equal to their printed SCH and they take 1 consequential damage after they thwart or attack.</p>",
-		"see_also": [
-			"minion",
-			"ally",
-			"consequential_damage"
-		]
-	},
-	{
-		"id": "mill_minion",
-		"term": "Mill (Minion)",
-		"type": "fanmade",
-		"content": "<p>If a player is engaged with a minion with this keyword, after resolving step one of the villain phase, the engaged player discards the top card of their deck.</p>",
-		"see_also": [
-			"minion",
-			"villain_phase",
-			"discard"
-		]
-	},
-	{
-		"id": "mill_villain",
-		"term": "Mill (Villain)",
-		"type": "fanmade",
-		"content": "<p>If the villain has this keyword, all players discard the top card of their decks.</p>",
-		"see_also": [
-			"villain_villain_deck",
-			"discard"
-		]
-	},
-	{
 		"id": "minion",
 		"term": "Minion",
 		"type": "official",

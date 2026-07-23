@@ -67,38 +67,6 @@
 		]
 	},
 	{
-		"id": "mercenary",
-		"term": "Mercenaire",
-		"type": "fanmade",
-		"content": "<p>Les sbires avec Mercenaire peuvent être recrutés pour devenir un allié. En tant qu'Action de Héros, le joueur engagé avec ce sbire peut dépenser les ressources indiquées à côté du mot-clé pour prendre le contrôle de ce sbire et le traiter comme un allié Contrôlé. Son THW est égal à son SCH imprimé et il subit 1 dégât consécutif après avoir manigancé ou attaqué.</p>",
-		"see_also": [
-			"minion",
-			"ally",
-			"consequential_damage"
-		]
-	},
-	{
-		"id": "mill_minion",
-		"term": "Meuler (Sbire)",
-		"type": "fanmade",
-		"content": "<p>Si un joueur est engagé avec un sbire avec ce mot-clé, après avoir résolu l'étape une de la phase du méchant, le joueur engagé défausse la carte du dessus de son deck.</p>",
-		"see_also": [
-			"minion",
-			"villain_phase",
-			"discard"
-		]
-	},
-	{
-		"id": "mill_villain",
-		"term": "Meuler (Méchant)",
-		"type": "fanmade",
-		"content": "<p>Si le méchant a ce mot-clé, tous les joueurs défaussent la carte du dessus de leur deck.</p>",
-		"see_also": [
-			"villain_villain_deck",
-			"discard"
-		]
-	},
-	{
 		"id": "minion",
 		"term": "Sbire",
 		"type": "official",

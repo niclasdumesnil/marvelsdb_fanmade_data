@@ -4,12 +4,12 @@
 		"term": "Find",
 		"type": "official",
 		"content": "<p>When instructed to find a card, a player searches each game area where that card could be found <em>(play area, set-aside area, player deck, discard pile, encounter deck, etc.)</em>.</p><ul><li>Players should not unnecessarily search game areas if they know where the card they are looking for can be found.</li><li>All game areas are subject to search when resolving a “find” instruction, with the following exceptions:<ul><li>Facedown encounter cards in any in-play game area <em>(whether that card is in play itself)</em>. <em>(For example, any encounter cards dealt to a player or given to a character as a boost card.)</em></li><li>The victory display.</li><li>Cards that have been removed from the game.</li></ul></li><li>If a player is instructed to “find and reveal” a minion that is already in play, that player engages that minion and resolves any keywords and/or triggered abilities that resolve as a result of that minion being revealed <em>(such as that minion’s <b>“When Revealed”</b> ability)</em>.<ul><li>That minion retains all <mark class=\"new\">attached cards</mark> and tokens on it.</li><li>That minion is <b>not</b> considered to be entering play.</li><li>That minion is considered to engage that player unless it was already engaged with that player.</li></ul></li></ul>",
+		"whats_new": "Added a new bullet defining the find keyword as an equivalent constant ability.",
 		"see_also": [
 			"search",
 			"removed_from_the_game",
 			"victory_display"
-		],
-		"whats_new": "Added a new bullet defining the find keyword as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "first_player",
@@ -37,19 +37,9 @@
 		"term": "Flip",
 		"type": "official",
 		"content": "<p>When instructed to flip a card, turn that card upside down so that the face that was faceup is now facedown.</p><ul><li>A foldable, “three-sided” card is considered to have flipped any time the faceup side of the card changes.</li><li>When a card flips, if the new faceup side of that card has:<ul><li>The same card type as the previous face, the card retains all attached cards, tucked cards, status cards, and tokens.</li><li>A different card type from the previous face, all <mark class=\"new\">attached cards, tucked cards</mark>, status cards, and tokens are discarded from the card.</li></ul></li></ul>",
+		"whats_new": "Added a new bullet defining the flip keyword as an equivalent constant ability.",
 		"see_also": [
 			"double_sided_card"
-		],
-		"whats_new": "Added a new bullet defining the flip keyword as an equivalent constant ability."
-	},
-	{
-		"id": "focus_r",
-		"term": "Focus (R)",
-		"type": "fanmade",
-		"content": "<p>If you pay for a card using only the focus resource type (R), reduce its resource cost by 1.</p>",
-		"see_also": [
-			"cost",
-			"resource"
 		]
 	},
 	{
@@ -78,12 +68,12 @@
 		"term": "Form, Change Form",
 		"type": "official",
 		"content": "<p>A player can be in either hero or alter-ego form at a given time. This is indicated by the player’s identity card.</p><ul><li>Once each round, during their turn, each player is permitted to change form by flipping their identity card.</li><li>When a player changes form, only the form changes. The character retains their sustained damage, status cards, lasting effects, <mark class=\"new\">attached cards, tucked cards</mark>, tokens, and current state <em>(ready or exhausted)</em>.</li><li>If a card ability causes a player to change forms, it does not count against the one voluntary form change the player is permitted during their turn that round.</li><li>While a player is in hero form, card abilities that interact with their alter-ego do not interact with their identity.</li><li>While a player is in alter-ego form, card abilities that interact with their hero do not interact with their identity.</li><li>Cards with the <b>“[type] form”</b> keyword grant an identity unique forms.<ul><li>These forms are in addition to the identity’s alter-ego and hero forms, and they come with their own conditions for changing into them.</li><li>When an identity changes their additional form, it does not count against the once-per-turn limit on flipping from hero to alter-ego <em>(or vice versa)</em>, but it does count as changing form for the purpose of triggering card effects.</li></ul></li><li>Cards with the text <b>“[type] form only”</b> can only be played or put into play by a player whose identity is in the specified form.</li></ul>",
+		"whats_new": "Clarified that resolving a form change on an identity card changes the player's form to the state specified.",
 		"see_also": [
 			"flip",
 			"identity",
 			"keywords"
-		],
-		"whats_new": "Clarified that resolving a form change on an identity card changes the player's form to the state specified."
+		]
 	},
 	{
 		"id": "fragile",

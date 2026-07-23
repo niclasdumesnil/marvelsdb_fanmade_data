@@ -4,14 +4,14 @@
 		"term": "À distance",
 		"type": "official",
 		"content": "<p>Une attaque avec le mot-clé à distance ignore le mot-clé riposte.</p><ul><li><mark class=\"new\">Le mot-clé à distance est équivalent à la capacité suivante : « Cette attaque ignore le mot-clé riposte. »</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé À Distance comme une capacité constante équivalente.",
 		"see_also": [
 			"attack_enemy_activation",
 			"attack_player_ability_type",
 			"keywords",
 			"reminder_text",
 			"retaliate_x"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé À Distance comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "ready",
@@ -34,15 +34,6 @@
 		]
 	},
 	{
-		"id": "recall",
-		"term": "Rappel",
-		"type": "fanmade",
-		"content": "<p>Ajoutez une carte de votre défausse à votre main.</p>",
-		"see_also": [
-			"discard"
-		]
-	},
-	{
 		"id": "reckless",
 		"term": "Téméraire",
 		"type": "fanmade",
@@ -57,37 +48,27 @@
 		"term": "Récupérer, Récupération",
 		"type": "official",
 		"content": "<p><mark class=\"new\">La récupération</mark> est un pouvoir de base qu'un joueur peut utiliser sous forme d'alter ego. Pour récupérer, le joueur incline son alter ego et soigne un nombre de points de vie égal à sa valeur de RÉC.</p><ul><li>Une identité qui n'a aucun dégât à soigner ne peut pas effectuer de récupération de base.</li></ul>",
+		"whats_new": "Clarification : un personnage utilise sa statistique REC lors de l'utilisation d'un pouvoir de base Récupération.",
 		"see_also": [
 			"basic_power",
 			"form_change_form",
 			"heal",
 			"hit_points",
 			"identity"
-		],
-		"whats_new": "Clarification : un personnage utilise sa statistique REC lors de l'utilisation d'un pouvoir de base Récupération."
+		]
 	},
 	{
 		"id": "referential_ability",
 		"term": "Capacité référentielle",
 		"type": "official",
 		"content": "<p>Certaines capacités font référence à des cartes spécifiques par leur nom. Ce sont des capacités référentielles. Si une capacité fait référence à un titre partagé par plusieurs cartes dans le jeu, cette capacité ne fait référence qu'à la ou les cartes qui correspondent aux critères les plus élevés dans cette liste :</p><ol><li>La carte sur laquelle la capacité référentielle est imprimée.<ul><li>Une telle capacité est une capacité auto-référentielle.</li><li><em>Par exemple, la capacité de l'allié de base Spider-Man indique : « <b>Réponse</b> : Après que Spider-Man a attaqué ou contré, choisissez un autre personnage <b>WEB-WARRIOR</b> → redressez ce personnage. » Cette capacité fait référence à la carte sur laquelle elle est imprimée et ne se déclenche pas lorsqu'une autre carte appelée « Spider-Man » attaque ou contre.</em></li></ul></li><li><mark class=\"new\">Les cartes associées à la même identité, y compris :</mark><ul><li><mark class=\"new\">La carte identité</mark></li><li><mark class=\"new\">Les cartes spécifiques à l'identité</mark></li><li><mark class=\"new\">Les cartes obligation de l'identité</mark></li><li><mark class=\"new\">Le set némésis de l'identité</mark></li><li><mark class=\"new\">Les cartes appartenant à un deck secondaire utilisé par l'identité.</mark></li></ul></li><li>Les cartes joueur <em>(si la capacité est sur une carte joueur)</em> ou les cartes rencontre <em>(si la capacité est sur une carte rencontre)</em>.</li></ol>",
+		"whats_new": "Clarification de la correspondance des titres pour les capacités référentielles entre cartes joueur et cartes rencontre.",
 		"see_also": [
 			"ability",
 			"character",
 			"classifications",
 			"identity",
 			"identity_specific_card"
-		],
-		"whats_new": "Clarification de la correspondance des titres pour les capacités référentielles entre cartes joueur et cartes rencontre."
-	},
-	{
-		"id": "reflect_x",
-		"term": "Reflet X",
-		"type": "fanmade",
-		"content": "<p>Réduit de X la quantité de dégâts que ce personnage subit à chaque attaque. Après qu'un personnage avec le mot-clé riposte X est attaqué, infligez X dégâts à l'attaquant. Reflet se déclenche une fois par attaque.</p>",
-		"see_also": [
-			"damage",
-			"retaliate_x"
 		]
 	},
 	{
@@ -123,11 +104,11 @@
 		"term": "Retiré de la partie",
 		"type": "official",
 		"content": "<p>Une carte qui a été retirée de la partie est mise de côté et n'interagit en aucune façon avec la partie pendant la durée de son retrait. S'il n'y a pas de durée spécifiée, une carte retirée de la partie est considérée comme retirée jusqu'à la fin de la partie.</p><ul><li>« Retiré de la partie » est un état hors jeu.</li><li><mark class=\"new\">Une carte qui a été retirée de la partie ne peut réintégrer la partie par aucun moyen.</mark></li></ul>",
+		"whats_new": "Clarification : les cartes retirées de la partie sont hors jeu et ne peuvent plus interagir avec la partie.",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"leaves_play"
-		],
-		"whats_new": "Clarification : les cartes retirées de la partie sont hors jeu et ne peuvent plus interagir avec la partie."
+		]
 	},
 	{
 		"id": "replacement_effect",
@@ -149,21 +130,12 @@
 		"term": "Exigence (ressources)",
 		"type": "official",
 		"content": "<p>Une carte avec le mot-clé exigence ne peut être jouée que si chaque ressource du type spécifié est dépensée lors du paiement du coût de cette carte.</p><ul><li><mark class=\"new\">Le mot-clé exigence (ressources) est équivalent à la capacité constante suivante : « Lors du paiement du coût en ressources de cette carte, vous devez dépenser les ressources suivantes : [ressources]. »</mark></li><li>Une carte avec le mot-clé exigence ne peut pas être jouée « en ignorant son coût en ressources » car les ressources exigées ne peuvent pas être payées.</li></ul>",
+		"whats_new": "Clarification : les exigences de ressources sont des coûts supplémentaires qui doivent être payés pour jouer une carte ou initier une capacité.",
 		"see_also": [
 			"cost",
 			"initiating_abilities",
 			"keywords",
 			"resource"
-		],
-		"whats_new": "Clarification : les exigences de ressources sont des coûts supplémentaires qui doivent être payés pour jouer une carte ou initier une capacité."
-	},
-	{
-		"id": "resistence",
-		"term": "Résistance",
-		"type": "fanmade",
-		"content": "<p>Lorsque ce personnage gagne ce mot-clé, il gagne 1 jeton de résistance <em>(max 1 par personnage)</em>. Lorsque le personnage avec ce jeton de résistance devrait être vaincu, défaussez le jeton et fixez ses points de vie restants à 1 à la place.</p>",
-		"see_also": [
-			"hit_points"
 		]
 	},
 	{
@@ -238,32 +210,33 @@
 		"term": "Réponse",
 		"type": "official",
 		"content": "<p>Une capacité de réponse est un type de capacité déclenchée, indiquée par le déclencheur « <b>Réponse</b> » en gras. Les capacités de réponse peuvent être <mark class=\"new\">résolues</mark> après que la condition de déclenchement spécifiée se produit, comme décrit dans le texte de la capacité de réponse.</p><ul><li>Les joueurs ne peuvent déclencher des capacités de réponse que sur les cartes qu'ils contrôlent ou sur les cartes rencontre.<ul><li>Les joueurs ne peuvent pas déclencher de capacités de réponse sur les obligations dans la zone de jeu d'un autre joueur.</li></ul></li><li>Plusieurs réponses peuvent être <mark class=\"new\">déclenchées</mark> à partir de la même condition de déclenchement, mais chaque réponse ne peut être déclenchée qu'une seule fois par occurrence de la condition de déclenchement.<ul><li>Plusieurs copies d'une carte avec une réponse peuvent chacune être déclenchées par la même condition de déclenchement.</li></ul></li><li>Si un seul effet provoque plusieurs conditions de déclenchement, les réponses à chacune de ces conditions de déclenchement peuvent être résolues dans n'importe quel ordre. <em>(Par exemple, si une attaque déclenche à la fois des réponses « après que vous attaquez » et « après que vous vainquez », ces réponses peuvent être résolues dans n'importe quel ordre.)</em></li><li>Une fois que tous les joueurs décident qu'ils ne souhaitent plus résoudre de réponses <em>(supplémentaires)</em> à une condition de déclenchement, les réponses <em>(supplémentaires)</em> à cette instance de cette condition de déclenchement ne peuvent plus être utilisées.</li></ul>",
+		"whats_new": "Mise à jour de la terminologie précisant que les capacités de réponse sont « résolues » après la survenue de leur condition de déclenchement.",
 		"see_also": [
 			"ability",
 			"triggered_ability",
 			"triggering_condition"
-		],
-		"whats_new": "Mise à jour de la terminologie précisant que les capacités de réponse sont « résolues » après la survenue de leur condition de déclenchement."
+		]
 	},
 	{
 		"id": "restricted",
 		"term": "Restreint",
 		"type": "official",
 		"content": "<p>Un joueur ne peut pas avoir plus de deux cartes avec le mot-clé restreint en jeu sous son contrôle en même temps.</p><p>Un joueur peut jouer ou mettre en jeu une carte restreinte même s'il contrôle déjà deux cartes restreintes. Cependant, si un joueur contrôle plus de deux cartes restreintes en jeu, il doit immédiatement choisir et défausser du jeu des cartes restreintes qu'il contrôle jusqu'à n'en avoir plus que deux en jeu.</p><ul><li><mark class=\"new\">Le mot-clé restreint est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée</b> : Après que vous prenez le contrôle de cette carte, si vous contrôlez plus de 2 cartes restreintes, défaussez toutes ces cartes sauf 2. »</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Restreint comme une capacité constante équivalente.",
 		"see_also": [
 			"discard",
 			"keywords",
 			"ownership_and_control",
 			"player",
 			"reminder_text"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Restreint comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "retaliate_x",
 		"term": "Riposte X",
 		"type": "official",
 		"content": "<p>Après qu'un personnage avec le mot-clé riposte X a été attaqué, infligez X dégâts à l'attaquant. <em>(X est la valeur à côté du mot-clé riposte.)</em></p><ul><li><mark class=\"new\">Le mot-clé riposte X est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée</b> : Après que ce personnage est attaqué, infligez X dégâts à l'attaquant. »</mark></li><li>Le personnage avec riposte X doit être en jeu après la résolution de l'attaque pour infliger ces dégâts.</li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Riposte X comme une capacité constante équivalente.",
 		"see_also": [
 			"ally",
 			"attack_enemy_activation",
@@ -274,14 +247,14 @@
 			"minion",
 			"reminder_text",
 			"villain_villain_deck"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Riposte X comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "reveal",
 		"term": "Révéler",
 		"type": "official",
 		"content": "<p>Pendant l'étape quatre de la phase du méchant, chaque joueur <em>(dans l'ordre des joueurs)</em> révèle et résout toutes les cartes rencontre face cachée qui lui ont été distribuées, une carte à la fois dans l'ordre où elles ont été distribuées.</p><p>Pour révéler une carte rencontre, suivez ces étapes :</p><ol><li>Retournez la carte rencontre face visible.</li><li>Si le type de la carte rencontre est :<ul><li><b>Attachement</b> : Il entre en jeu attaché à l'élément de jeu spécifié <mark class=\"new\">par son texte « attaché à ». S'il n'a pas de texte « attaché à », placez-le sur la table devant le joueur qui le révèle. <em>(Il n'est pas en jeu.)</em></mark></li><li><b>Environnement</b> : Il entre en jeu dans la zone de jeu du méchant.</li><li><b>Sbire</b> : Il entre en jeu dans la zone de jeu du joueur qui le révèle. Il est considéré comme engageant ce joueur.</li><li><b>Obligation</b> : Elle entre en jeu dans la zone de jeu du joueur qui la révèle.<ul><li>Si la carte spécifie un joueur à qui la donner, ce joueur est considéré comme la révélant.</li></ul></li><li><b>Manigance annexe</b> : Elle entre en jeu dans la zone de jeu du méchant.</li><li><b>Traîtrise</b> : Placez-la sur la table devant le joueur qui la révèle. <em>(Elle n'est pas en jeu.)</em></li><li><b>Autre</b> : Placez-la sur la table devant le joueur qui la révèle. <em>(Elle n'est pas en jeu.)</em></li></ul></li><li>Résolvez chaque capacité « Une fois révélée » sur cette carte <em>(y compris celles fournies par des mots-clés)</em>.</li><li>Si la carte est une traîtrise, défaussez-la.</li></ol><p>Si un texte de carte instruit un joueur de révéler une carte rencontre du deck rencontre ou de toute autre zone de jeu, cette même procédure de résolution s'applique.</p><ul><li><mark class=\"new\">Les réponses (forcées ou non) à n'importe quelle étape du processus de révélation d'une carte rencontre ne sont résolues qu'une fois toutes les étapes du processus de révélation terminées.</mark></li></ul>",
+		"whats_new": "Clarification des étapes de révélation des cartes rencontre, des cartes de mise en place et des stades de méchant/manigance principale.",
 		"see_also": [
 			"attachment",
 			"choose_game_element",
@@ -297,8 +270,7 @@
 			"side_scheme",
 			"treachery",
 			"villain_phase"
-		],
-		"whats_new": "Clarification des étapes de révélation des cartes rencontre, des cartes de mise en place et des stades de méchant/manigance principale."
+		]
 	},
 	{
 		"id": "rookie_mode",

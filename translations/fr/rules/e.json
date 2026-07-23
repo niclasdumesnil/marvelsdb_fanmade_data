@@ -156,7 +156,7 @@
 	},
 	{
 		"id": "energy_resource",
-		"term": "Ressource Énergie (⚡)",
+		"term": "Ressource Énergie ([energy])",
 		"type": "official",
 		"content": "<p>Une ressource énergie (<span class=\"icon icon-energy\"></span>) est l'un des quatre types de ressources.</p><ul><li>Les ressources énergie peuvent être dépensées pour payer le coût en ressources de cartes et de capacités.</li><li>Certaines capacités de carte nécessitent spécifiquement que des ressources énergie soient dépensées afin de résoudre leurs effets.</li></ul>",
 		"see_also": [
@@ -244,16 +244,6 @@
 		"content": "<p>Si une carte est inclinée, elle est pivotée de 90 degrés.</p><ul><li>Une carte inclinée ne peut pas être inclinée à nouveau tant qu'elle n'est pas redressée. Les cartes sont généralement redressées par une étape de jeu ou une capacité de carte.</li><li>Une capacité de carte sur une carte inclinée est active et peut toujours interagir avec l'état du jeu. Cependant, si une carte inclinée doit s'incliner pour payer le coût d'utilisation de sa capacité, cette capacité ne peut pas être utilisée tant que la carte n'est pas redressée.</li></ul>",
 		"see_also": [
 			"ready"
-		]
-	},
-	{
-		"id": "expert_boost",
-		"term": "Boost Expert",
-		"type": "fanmade",
-		"content": "<p>Capacité de boost appliquée uniquement lors des parties en mode Expert <em>(l'icône de boost est dorée pour être facilement repérable)</em>.</p>",
-		"see_also": [
-			"boost_boost_icon",
-			"expert_set"
 		]
 	},
 	{

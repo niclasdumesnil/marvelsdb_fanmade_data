@@ -4,6 +4,7 @@
 		"term": "Patrol",
 		"type": "official",
 		"content": "<p>While a minion with the patrol keyword is engaged with a player, that player cannot use cards they control to thwart the main scheme.</p><ul><li><mark class=\"new\">The patrol keyword is equivalent to the following constant ability: “The engaged player cannot thwart the main scheme.”</mark></li></ul>",
+		"whats_new": "Added a new bullet defining the patrol keyword as an equivalent constant ability.",
 		"see_also": [
 			"engage",
 			"keywords",
@@ -11,8 +12,7 @@
 			"minion",
 			"reminder_text",
 			"thwart"
-		],
-		"whats_new": "Added a new bullet defining the patrol keyword as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "pay",
@@ -39,6 +39,7 @@
 		"term": "Peril",
 		"type": "official",
 		"content": "<p>While a player is resolving a card with the peril keyword, that player cannot consult other players, and other players cannot play cards or trigger abilities.</p><ul><li><mark class=\"new\">The peril keyword is equivalent to the following constant ability: “While a player is resolving this card, that player cannot consult other players, and other players cannot trigger abilities. While this card is in a player’s play area, other players cannot trigger abilities on this card.”</mark></li></ul>",
+		"whats_new": "Added a new bullet defining the peril keyword as an equivalent constant ability.",
 		"see_also": [
 			"ability",
 			"keywords",
@@ -46,30 +47,20 @@
 			"reminder_text",
 			"table_talk",
 			"triggered_ability"
-		],
-		"whats_new": "Added a new bullet defining the peril keyword as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "permanent",
 		"term": "Permanent",
 		"type": "official",
 		"content": "<p>A card with the permanent keyword cannot be defeated, leave play, or have any part of its text box blanked, except by card abilities in the same set <em>(hero set, scenario set, or modular set)</em>. <em>(For example, an ability on a hero card can cause a permanent card within that hero’s set to leave play.)</em></p><ul><li><mark class=\"new\">The permanent keyword is equivalent to the following constant ability: “Set this card aside during setup. Effects on cards not from this card’s set cannot defeat this card, remove this card from play, or blank any part of its text box.”</mark></li><li>Permanent cards are set aside before step 1 of setup and are put into play later by abilities on other cards.</li><li>Permanent cards do not count towards a player’s minimum or maximum deck size.</li><li>Permanent cards are not valid targets for card effects that would cause the permanent card to leave play.<ul><li>If a permanent card would be targeted by such an effect <em>(for example, “discard the lowest-cost support you control”)</em>, that effect instead targets the non-permanent card that fits its criteria.</li></ul></li><li>If the card to which a permanent attachment was attached leaves play, resolve that attachment’s “attach to” text. If it has none or that text does not have a valid target, remove the attachment from the game.</li><li>If a player is eliminated from the game while a non-attachment permanent card they do not own is in their play area, remove that permanent card from the game.</li></ul>",
+		"whats_new": "Added a new bullet defining the permanent keyword as an equivalent constant ability.",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"keywords",
 			"leaves_play",
 			"ownership_and_control",
 			"reminder_text"
-		],
-		"whats_new": "Added a new bullet defining the permanent keyword as an equivalent constant ability."
-	},
-	{
-		"id": "personal",
-		"term": "Personal",
-		"type": "fanmade",
-		"content": "<p>Characters other than the identity of the player who put this card into play cannot interact with it.</p>",
-		"see_also": [
-			"identity"
 		]
 	},
 	{
@@ -92,6 +83,7 @@
 		"term": "Piercing",
 		"type": "official",
 		"content": "<p>An attack with the piercing keyword discards any tough status cards from the attacked character before dealing damage.</p><ul><li><mark class=\"new\">The piercing keyword is equivalent to the following ability: “Before this attack deals damage to a character, discard each tough status card from that character.”</mark></li><li>If an attack with the piercing keyword would deal no damage to the attacked character, it does not discard tough status cards from that character.</li></ul>",
+		"whats_new": "Added a new bullet defining the piercing keyword as an equivalent constant ability.",
 		"see_also": [
 			"attack_enemy_activation",
 			"attack_player_ability_type",
@@ -101,8 +93,7 @@
 			"status_cards",
 			"target",
 			"tough"
-		],
-		"whats_new": "Added a new bullet defining the piercing keyword as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "play_area",
@@ -202,6 +193,7 @@
 		"term": "Player Elimination",
 		"type": "official",
 		"content": "<p>A player is eliminated from the game if their identity is defeated. This usually occurs when the character’s remaining hit points are reduced to zero.</p><p>When a player is eliminated, perform the following in order:</p><ol><li>If the eliminated player has the first player token, they pass it to the next clockwise player.</li><li>If there are minions engaged with the eliminated player, each of those minions engages the next clockwise player, retaining any tokens, attached cards, boost cards, tucked cards, and status cards on them.</li><li>For each card in the eliminated player’s play area that are not owned by that player, do the following:<ul><li>If that card is an attachment with the permanent keyword, resolve its “attach to” text. If it has none or that text does not have a valid target, remove the attachment from the game.</li><li>Remove each non-attachment card with the permanent keyword from the game.</li><li>Place each other card in its owner’s discard pile.</li></ul></li><li>Place each card owned by the eliminated player in the eliminated player’s discard pile.</li><li>Remove the eliminated player’s play area and each other game element within it <em>(hand, deck, discard pile, cards in play, hit point dial, etc.)</em> from the game.</li></ol><p>When a player is eliminated, the remaining players continue to play the game. Eliminated players no longer participate in the game but are considered to win or lose along with the rest of the group, depending on how they finish.</p><ul><li>If all players are eliminated, the game ends and the players lose.</li><li>If a player is eliminated partway through the resolution of an ability, resolve the entire ability.<ul><li><mark class=\"new\">If a player is eliminated in the middle of an attack, that attack ends.</mark></li></ul></li><li>Effects that refer to the players in the game ignore eliminated players, except for the per player icon (<span class=\"icon icon-per_player\"></span>).</li></ul>",
+		"whats_new": "Clarified steps for player elimination and cleanup of controlled cards.",
 		"see_also": [
 			"ability",
 			"deal_deal_an_encounter_card",
@@ -216,8 +208,7 @@
 			"player_deck",
 			"players_play_area",
 			"winning_the_game"
-		],
-		"whats_new": "Clarified steps for player elimination and cleanup of controlled cards."
+		]
 	},
 	{
 		"id": "player_phase",
@@ -250,10 +241,10 @@
 		"term": "Player Side Scheme Limit",
 		"type": "official",
 		"content": "<p>The number of player side schemes in play at any time is limited by the player side scheme limit.</p><ul><li>If one or two players started the game, the player side scheme limit is one. If three or four players started the game, the limit is two.</li><li>If there are ever more player side schemes in play than the limit, the first player chooses and discards player side schemes until there are no longer more in play than the limit.</li><li><mark class=\"new\">A player may play a player side scheme even while at the player side scheme limit. If they do, they must choose a player side scheme to discard. <em>(The player side scheme discarded this way is not considered defeated.)</em></mark></li></ul>",
+		"whats_new": "Added definition of player side scheme deckbuilding limit (maximum 1 copy of each player side scheme per deck).",
 		"see_also": [
 			"player_side_scheme"
-		],
-		"whats_new": "Added definition of player side scheme deckbuilding limit (maximum 1 copy of each player side scheme per deck)."
+		]
 	},
 	{
 		"id": "player_turn",
@@ -303,27 +294,6 @@
 		]
 	},
 	{
-		"id": "plotting",
-		"term": "Plotting",
-		"type": "fanmade",
-		"content": "<p>After this enemy engages a player, it immediately schemes.</p>",
-		"see_also": [
-			"scheme_enemy_activation",
-			"enemy"
-		]
-	},
-	{
-		"id": "practiced_x",
-		"term": "Practiced (X)",
-		"type": "fanmade",
-		"content": "<p>After a card with the practiced keyword enters play, attach an event from your discard pile facedown to it. After attached event is removed, discard the card with the practiced keyword. The practiced keyword may also be followed by an identifier, like a card title or trait (X). If so, the chosen event to attach must satisfy the identifier.</p>",
-		"see_also": [
-			"event",
-			"attach_to",
-			"discard"
-		]
-	},
-	{
 		"id": "prevent",
 		"term": "Prevent",
 		"type": "official",
@@ -345,18 +315,6 @@
 		"see_also": [
 			"base_value",
 			"modifiers"
-		]
-	},
-	{
-		"id": "priority_x",
-		"term": "Priority X",
-		"type": "fanmade",
-		"content": "<p>When revealed, move X threat from the main scheme to this side scheme.</p>",
-		"see_also": [
-			"when_revealed_abilities",
-			"main_scheme",
-			"side_scheme",
-			"threat"
 		]
 	}
 ]

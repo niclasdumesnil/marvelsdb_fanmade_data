@@ -4,14 +4,14 @@
 		"term": "Ranged",
 		"type": "official",
 		"content": "<p>An attack with the ranged keyword ignores the retaliate keyword.</p><ul><li><mark class=\"new\">The ranged keyword is equivalent to the following ability: “This attack ignores the retaliate keyword.”</mark></li></ul>",
+		"whats_new": "Added a new bullet defining the ranged keyword as an equivalent constant ability.",
 		"see_also": [
 			"attack_enemy_activation",
 			"attack_player_ability_type",
 			"keywords",
 			"reminder_text",
 			"retaliate_x"
-		],
-		"whats_new": "Added a new bullet defining the ranged keyword as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "ready",
@@ -34,15 +34,6 @@
 		]
 	},
 	{
-		"id": "recall",
-		"term": "Recall",
-		"type": "fanmade",
-		"content": "<p>Add a card from your discard pile to your hand.</p>",
-		"see_also": [
-			"discard"
-		]
-	},
-	{
 		"id": "reckless",
 		"term": "Reckless",
 		"type": "fanmade",
@@ -57,37 +48,27 @@
 		"term": "Recover, Recovery",
 		"type": "official",
 		"content": "<p><mark class=\"new\">Recovery</mark> is a basic power a player can use in alter-ego form. To recover, the player exhausts their alter-ego and heals a number of hit points equal to their REC value.</p><ul><li>An identity that has no damage to heal cannot perform a basic recovery.</li></ul>",
+		"whats_new": "Clarified that a character uses its REC stat during a recovery basic power.",
 		"see_also": [
 			"basic_power",
 			"form_change_form",
 			"heal",
 			"hit_points",
 			"identity"
-		],
-		"whats_new": "Clarified that a character uses its REC stat during a recovery basic power."
+		]
 	},
 	{
 		"id": "referential_ability",
 		"term": "Referential Ability",
 		"type": "official",
 		"content": "<p>Some abilities refer to specific cards by name. These are called referential abilities. If an ability refers to a title shared by multiple cards in the game, that ability refers only to the card(s) that match the criteria highest in this list:</p><ol><li>The card on which the referential ability is printed.<ul><li>Such an ability is a self-referential ability.</li><li><em>For example, the basic ally Spider-Man’s ability reads: “<b>Response</b>: After Spider-Man attacks or thwarts, choose another <b>WEB-WARRIOR</b> character → ready that character.” This ability refers to the card it is printed on and does not trigger when another card called “Spider-Man” attacks or thwarts.</em></li></ul></li><li><mark class=\"new\">Cards associated with the same identity, including:</mark><ul><li><mark class=\"new\">The identity card</mark></li><li><mark class=\"new\">Identity-specific cards</mark></li><li><mark class=\"new\">The identity’s obligation cards</mark></li><li><mark class=\"new\">The identity’s nemesis set</mark></li><li><mark class=\"new\">Cards belonging to a side deck used by the identity.</mark></li></ul></li><li>Player cards <em>(if the ability is on a player card)</em> or encounter cards <em>(if the ability is on an encounter card)</em>.</li></ol>",
+		"whats_new": "Clarified title matching for referential abilities across player and encounter cards.",
 		"see_also": [
 			"ability",
 			"character",
 			"classifications",
 			"identity",
 			"identity_specific_card"
-		],
-		"whats_new": "Clarified title matching for referential abilities across player and encounter cards."
-	},
-	{
-		"id": "reflect_x",
-		"term": "Reflect X",
-		"type": "fanmade",
-		"content": "<p>Reduce the amount of damage this character takes from each attack by X. After a character with the retaliate X keyword is attacked, deal X damage to the attacker. Reflect triggers once per attack.</p>",
-		"see_also": [
-			"damage",
-			"retaliate_x"
 		]
 	},
 	{
@@ -123,11 +104,11 @@
 		"term": "Removed from the Game",
 		"type": "official",
 		"content": "<p>A card that has been removed from the game is set aside and does not interact with the game in any manner for the duration of its removal. If there is no specified duration, a card that has been removed from the game is considered removed until the end of the game.</p><ul><li>“Removed from the game” is an out-of-play state.</li><li><mark class=\"new\">A card that has been removed from the game cannot reenter the game through any means.</mark></li></ul>",
+		"whats_new": "Clarified that cards removed from the game are out of play and cannot interact with the game.",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"leaves_play"
-		],
-		"whats_new": "Clarified that cards removed from the game are out of play and cannot interact with the game."
+		]
 	},
 	{
 		"id": "replacement_effect",
@@ -149,21 +130,12 @@
 		"term": "Requirement (Resources)",
 		"type": "official",
 		"content": "<p>A card with the requirement keyword cannot be played unless each resource of the specified type is spent while paying for that card’s cost.</p><ul><li><mark class=\"new\">The requirement (resources) keyword is equivalent to the following constant ability: “When paying this card’s resource cost, you must spend the following resources: [resources].”</mark></li><li>A card with the requirement keyword cannot be played “ignoring its resource cost” because the required resources cannot be paid for it.</li></ul>",
+		"whats_new": "Clarified that requirement resources are additional costs that must be paid to play a card or initiate an ability.",
 		"see_also": [
 			"cost",
 			"initiating_abilities",
 			"keywords",
 			"resource"
-		],
-		"whats_new": "Clarified that requirement resources are additional costs that must be paid to play a card or initiate an ability."
-	},
-	{
-		"id": "resistence",
-		"term": "Resistance",
-		"type": "fanmade",
-		"content": "<p>When this character gains this keyword, it gains 1 resistance token <em>(max 1 per character)</em>. When the character with this resistance token would be defeated, discard the resistance token and set their remaining hit points to 1 instead.</p>",
-		"see_also": [
-			"hit_points"
 		]
 	},
 	{
@@ -238,32 +210,33 @@
 		"term": "Response",
 		"type": "official",
 		"content": "<p>A response ability is a type of triggered ability, indicated by the bold “<b>Response</b>” timing trigger. Response abilities may be <mark class=\"new\">resolved</mark> after the specified triggering condition occurs, as described in the response’s ability text.</p><ul><li>Players can only trigger response abilities on cards they control or on encounter cards.<ul><li>Players cannot trigger response abilities on obligations in other players’ play areas.</li></ul></li><li>Multiple responses may be <mark class=\"new\">triggered</mark> from the same triggering condition, but each response may only be triggered once per occurrence of the triggering condition.<ul><li>Multiple copies of a card with a response can each be triggered by the same triggering condition.</li></ul></li><li>If single effect causes multiple triggering conditions to occur, responses to each of those triggering conditions can be resolved in any order. <em>(For example, if an attack triggers both “after you attack” and “after you defeat” responses, those responses can be resolved in any order.)</em></li><li>Once all players decide they do not wish to resolve any <em>(further)</em> responses to a triggering condition, <em>(further)</em> responses to that instance of that triggering condition cannot be used.</li></ul>",
+		"whats_new": "Updated terminology specifying that response abilities are 'resolved' after their triggering condition occurs.",
 		"see_also": [
 			"ability",
 			"triggered_ability",
 			"triggering_condition"
-		],
-		"whats_new": "Updated terminology specifying that response abilities are 'resolved' after their triggering condition occurs."
+		]
 	},
 	{
 		"id": "restricted",
 		"term": "Restricted",
 		"type": "official",
 		"content": "<p>A player cannot have more than two cards with the restricted keyword in play under their control at the same time.</p><p>A player can play or put into play a restricted card even if they already control two restricted cards. However, if a player ever controls more than two restricted cards in play, they must immediately choose and discard from play restricted cards they control until they have only two in play.</p><ul><li><mark class=\"new\">The restricted keyword is equivalent to the following triggered ability: “<b>Forced Response</b>: After you take control of this card, if you control more than 2 restricted cards, discard all but 2 of those cards.”</mark></li></ul>",
+		"whats_new": "Added a new bullet defining the restricted keyword as an equivalent constant ability.",
 		"see_also": [
 			"discard",
 			"keywords",
 			"ownership_and_control",
 			"player",
 			"reminder_text"
-		],
-		"whats_new": "Added a new bullet defining the restricted keyword as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "retaliate_x",
 		"term": "Retaliate X",
 		"type": "official",
 		"content": "<p>After a character with the retaliate X keyword is attacked, deal X damage to the attacker. <em>(X is the value next to the retaliate keyword.)</em></p><ul><li><mark class=\"new\">The retaliate X keyword is equivalent to the following triggered ability: “<b>Forced Response</b>: After this character is attacked, deal X damage to the attacker.”</mark></li><li>The character with retaliate X must be in play after the attack resolves to deal this damage.</li></ul>",
+		"whats_new": "Added a new bullet defining the retaliate X keyword as an equivalent constant ability.",
 		"see_also": [
 			"ally",
 			"attack_enemy_activation",
@@ -274,14 +247,14 @@
 			"minion",
 			"reminder_text",
 			"villain_villain_deck"
-		],
-		"whats_new": "Added a new bullet defining the retaliate X keyword as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "reveal",
 		"term": "Reveal",
 		"type": "official",
 		"content": "<p>During step four of the villain phase, each player <em>(in player order)</em> reveals and resolves all facedown encounter cards that have been dealt to them, one card at a time in the order in which they were dealt.</p><p>To reveal an encounter card, follow these steps:</p><ol><li>Turn the encounter card faceup.</li><li>If the encounter card’s type is:<ul><li><b>Attachment</b>: It enters play attached to the game element specified <mark class=\"new\">by its “attach to” text. If it does not have “attach to” text, place it on the table in front of the player revealing it. <em>(It is not in play.)</em></mark></li><li><b>Environment</b>: It enters play in the villain’s play area.</li><li><b>Minion</b>: It enters play in the play area of the player revealing it. It is considered to engage that player.</li><li><b>Obligation</b>: It enters play in the play area of the player revealing it.<ul><li>If the card specifies a player to give it to, that player is considered to be revealing it.</li></ul></li><li><b>Side scheme</b>: It enters play in the villain’s play area.</li><li><b>Treachery</b>: Place it on the table in front of the player revealing it. <em>(It is not in play.)</em></li><li><b>Other</b>: Place it on the table in front of the player revealing it. <em>(It is not in play.)</em></li></ul></li><li>Resolve each “When Revealed” ability on that card <em>(including those provided by keywords)</em>.</li><li>If the card is a treachery, discard it.</li></ol><p>If a player is instructed by card text to reveal an encounter card from the encounter deck or any other game area, this same resolution procedure applies.</p><ul><li><mark class=\"new\">Responses (both forced and non-forced) to any step of the revealing of an encounter card are not resolved until after all steps of the reveal process have been completed.</mark></li></ul>",
+		"whats_new": "Clarified steps for revealing encounter cards, scenario setup cards, and villain/main scheme stages.",
 		"see_also": [
 			"attachment",
 			"choose_game_element",
@@ -297,8 +270,7 @@
 			"side_scheme",
 			"treachery",
 			"villain_phase"
-		],
-		"whats_new": "Clarified steps for revealing encounter cards, scenario setup cards, and villain/main scheme stages."
+		]
 	},
 	{
 		"id": "rookie_mode",

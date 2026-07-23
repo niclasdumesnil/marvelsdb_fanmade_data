@@ -156,7 +156,7 @@
 	},
 	{
 		"id": "energy_resource",
-		"term": "Energy Resource (⚡)",
+		"term": "Energy Resource ([energy])",
 		"type": "official",
 		"content": "<p>An energy resource (<span class=\"icon icon-energy\"></span>) is one of the four types of resources.</p><ul><li>Energy resources can be spent to pay the resource cost of cards and abilities.</li><li>Some card abilities specifically require energy resources to be spent in order to resolve their effects.</li></ul>",
 		"see_also": [
@@ -244,16 +244,6 @@
 		"content": "<p>If a card is exhausted, it is rotated 90 degrees.</p><ul><li>An exhausted card cannot be exhausted again until it is ready. Cards are typically readied by a game step or card ability.</li><li>A card ability on an exhausted card is active and can still interact with the game state. However, if an exhausted card must exhaust to pay the cost of using its ability, that ability cannot be used until the card is ready.</li></ul>",
 		"see_also": [
 			"ready"
-		]
-	},
-	{
-		"id": "expert_boost",
-		"term": "Expert Boost",
-		"type": "fanmade",
-		"content": "<p>Boost ability applied when playing Expert mode only <em>(the boost icon is colored gold to make it easy to spot)</em>.</p>",
-		"see_also": [
-			"boost_boost_icon",
-			"expert_set"
 		]
 	},
 	{

@@ -110,15 +110,6 @@
 		]
 	},
 	{
-		"id": "class",
-		"term": "Class",
-		"type": "fanmade",
-		"content": "<p>A unique type of upgrade that grants a character a “class”. A character may only have one class at a time; the old class is discarded when a new one is put into play.</p>",
-		"see_also": [
-			"upgrade"
-		]
-	},
-	{
 		"id": "classifications",
 		"term": "Classifications",
 		"type": "official",
@@ -209,17 +200,6 @@
 		"content": ""
 	},
 	{
-		"id": "controlled",
-		"term": "Controlled",
-		"type": "fanmade",
-		"content": "<p>Treat this minion as a CONTROLLED ally with a blank text box under the control of the player with which it was engaged. Its THW is equal to its printed SCH and it takes 2 consequential damage after it thwarts or attacks.</p>",
-		"see_also": [
-			"ally",
-			"minion",
-			"consequential_damage"
-		]
-	},
-	{
 		"id": "copy",
 		"term": "Copy",
 		"type": "official",
@@ -289,17 +269,6 @@
 		"see_also": [
 			"boost_boost_icon",
 			"damage"
-		]
-	},
-	{
-		"id": "cunning",
-		"term": "Cunning",
-		"type": "fanmade",
-		"content": "<p><b>Forced Interrupt</b>: When this character would attack, they scheme instead.</p>",
-		"see_also": [
-			"forced",
-			"interrupt",
-			"scheme_enemy_activation"
 		]
 	}
 ]

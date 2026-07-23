@@ -1,28 +1,20 @@
 [
 	{
-		"id": "weak_x",
-		"term": "Faible X",
-		"type": "fanmade",
-		"content": "<p>Augmente de X la quantité de dégâts que ce personnage subit à chaque attaque.</p>",
-		"see_also": [
-			"damage"
-		]
-	},
-	{
 		"id": "when_completed_abilities",
 		"term": "Capacité une fois achevée",
 		"type": "official",
 		"content": "<p>Une capacité une fois achevée est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « <b>Une fois achevée</b> ».</p><p>Lorsqu'une manigance principale est achevée, toutes les capacités « <b>Une fois achevée</b> » sur la carte se résolvent.</p><ul><li><mark class=\"new\">Le déclencheur de timing « <b>Une fois achevée</b> » est équivalent au déclencheur suivant : « <b>Interruption forcée</b> : Quand cette manigance est achevée... »</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le déclencheur de timing Une fois achevée comme une capacité d'interruption forcée équivalente.",
 		"see_also": [
 			"main_scheme"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le déclencheur de timing Une fois achevée comme une capacité d'interruption forcée équivalente."
+		]
 	},
 	{
 		"id": "when_defeated_abilities",
 		"term": "Capacité une fois vaincu, déjouée",
 		"type": "official",
 		"content": "<p>Une capacité une fois vaincu/déjouée est un type de capacité déclenchée, indiquée par le déclencheur de timing en gras « <b>Une fois vaincu</b> » ou « <b>Une fois déjouée</b> ».</p><ul><li><mark class=\"new\">Le déclencheur de timing « <b>Une fois vaincu</b> » est équivalent au déclencheur suivant : « <b>Interruption forcée</b> : Quand cette carte est vaincue... »</mark></li><li>Lorsqu'un stade de méchant, une manigance annexe, un stade de manigance principale, un allié ou un sbire est vaincu ou déjoué, toutes les capacités « <b>Une fois vaincu/déjouée</b> » sur la carte se résolvent.<ul><li>Une carte vaincue quitte le jeu après la résolution de sa capacité « <b>Une fois vaincu/déjouée</b> », le cas échéant.</li></ul></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le déclencheur de timing Une fois vaincu comme une capacité d'interruption forcée équivalente.",
 		"see_also": [
 			"ally",
 			"defeat",
@@ -31,8 +23,7 @@
 			"side_scheme",
 			"triggered_ability",
 			"villain_villain_deck"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le déclencheur de timing Une fois vaincu comme une capacité d'interruption forcée équivalente."
+		]
 	},
 	{
 		"id": "when_revealed_abilities",

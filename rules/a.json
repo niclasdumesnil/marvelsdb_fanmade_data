@@ -231,13 +231,6 @@
 		"see_also": []
 	},
 	{
-		"id": "army",
-		"term": "Army",
-		"type": "fanmade",
-		"content": "<p>Immune to stun. This minion gets -1 ATK for each damage token here.</p>",
-		"see_also": []
-	},
-	{
 		"id": "arrow_icon",
 		"term": "Arrow Icon",
 		"type": "official",

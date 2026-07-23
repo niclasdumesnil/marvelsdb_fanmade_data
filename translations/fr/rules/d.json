@@ -15,17 +15,6 @@
 		]
 	},
 	{
-		"id": "dangerous",
-		"term": "Dangereux",
-		"type": "fanmade",
-		"content": "<p>Tant que ce sbire est engagé avec vous, distribuez-vous une carte rencontre supplémentaire pendant la phase du méchant.</p>",
-		"see_also": [
-			"encounter_card",
-			"minion",
-			"villain_phase"
-		]
-	},
-	{
 		"id": "dash_value",
 		"term": "Tiret (Valeur)",
 		"type": "official",
@@ -49,16 +38,6 @@
 		]
 	},
 	{
-		"id": "deceitful",
-		"term": "Trompeur",
-		"type": "fanmade",
-		"content": "<p>Lorsque cet ennemi s'active, défaussez la carte du dessus du deck rencontre. Si cette carte est une traîtrise, cet ennemi gagne +1 ATK et +1 SCH pour cette activation.</p>",
-		"see_also": [
-			"treachery",
-			"activation"
-		]
-	},
-	{
 		"id": "deck",
 		"term": "Deck",
 		"type": "official",
@@ -77,15 +56,6 @@
 		"content": "Voir : Annexe I : Personnalisation de Deck.",
 		"see_also": [
 			"deck_customization"
-		]
-	},
-	{
-		"id": "dedication_x",
-		"term": "Dévouement X",
-		"type": "fanmade",
-		"content": "<p>Si vous avez surpayé cette carte d'au moins X ressources, gagnez l'effet correspondant.</p>",
-		"see_also": [
-			"resource"
 		]
 	},
 	{
@@ -139,15 +109,6 @@
 		"content": "<p>Certaines capacités contiennent des effets retardés. De telles capacités spécifient un moment futur, ou indiquent une condition future qui pourrait survenir, et dictent un effet qui doit se produire à ce moment-là.</p><ul><li>Les effets retardés se résolvent automatiquement et immédiatement après que leur moment spécifié ou leur condition future se produit ou devient vrai, et avant que des réponses à ce moment ou à cette condition ne puissent être utilisées.<ul><li>Les effets retardés ont la même priorité de timing que les effets constants.</li></ul></li><li>Lorsqu'un effet retardé se résout, il n'est pas traité comme une nouvelle capacité déclenchée, même si l'effet retardé a été initialement créé par une capacité déclenchée.</li></ul>",
 		"see_also": [
 			"ability"
-		]
-	},
-	{
-		"id": "destroy",
-		"term": "Détruire",
-		"type": "fanmade",
-		"content": "<p>Retirez du jeu la carte détruite et traitez son titre comme s'il était vide jusqu'à la fin de la partie.</p>",
-		"see_also": [
-			"removed_from_the_game"
 		]
 	},
 	{

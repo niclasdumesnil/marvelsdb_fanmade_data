@@ -15,14 +15,14 @@
 		"term": "Cible",
 		"type": "official",
 		"content": "<p>Si une fonction de jeu ou une capacité de carte est dirigée vers un élément de jeu <em>(par exemple une attaque qui inflige des dégâts à un ennemi)</em>, cet élément de jeu devient la cible de cette fonction ou capacité pour la durée de la résolution de cette fonction ou capacité.</p><ul><li>Exemples de cibles : « le méchant », « un sbire », « un ennemi », « une manigance », « un héros », « un allié », « un personnage », « un joueur », « vous », « une carte ».</li><li>Si une capacité ou une fonction de jeu exige une ou plusieurs cibles, cette capacité ou fonction de jeu ne peut être initiée que si elle dispose d'au moins une cible valide. Par exemple, une capacité qui dit « infligez 5 dégâts à un sbire » ne peut pas être initiée s'il n'existe aucun sbire en jeu.<ul><li>Les pouvoirs de base sont des fonctions de jeu qui exigent une cible valide.</li><li>L'expression « choisissez un [élément de jeu] » indique qu'une ou plusieurs cibles doivent être sélectionnées pour que la capacité puisse être initiée.</li><li>Les capacités qui font piocher une ou plusieurs cartes à un joueur ont toujours une cible valide dès lors que ce joueur a au moins une carte dans son deck.</li></ul></li><li>Une cible est valide pour une capacité ou une fonction de jeu si une partie quelconque de cette capacité peut affecter cette cible.<ul><li>Exemples d'effets sur une cible : infliger/soigner des dégâts, ajouter/retirer de la menace, donner/retirer une carte d'état, incliner/redresser la cible, vaincre/défausser la cible.</li><li>Exception : Un personnage ayant une valeur d'ATQ, MNG ou CTR égale à 0 peut effectuer une activation ou un pouvoir de base en utilisant cette valeur contre une cible qui serait autrement valide pour cette activation ou ce pouvoir de base. <em>(Par exemple, un héros avec une MNG de 0 peut effectuer un contre de base contre une manigance qui a de la menace.)</em></li><li>Le coût d'une capacité ou d'une fonction de jeu n'est pas pris en compte pour déterminer si cette capacité ou fonction peut affecter une cible.</li><li>Si une capacité ou une fonction de jeu a plusieurs effets sur sa cible, la cible est valide si au moins un de ces effets peut l'affecter.</li><li>Une cible n'est pas valide pour une capacité si cette capacité demanderait à la cible d'effectuer une fonction de jeu qu'une autre capacité lui interdit d'effectuer. Par exemple, un personnage portant un attachement qui dit « le personnage attaché ne peut pas se redresser » n'est pas une cible valide pour une carte qui redresse un personnage.</li><li>Les dégâts infligés mais non subis <em>(par exemple si les dégâts sont prévenus)</em> sont considérés comme affectant une cible.</li><li>Une cible « qui ne peut pas subir de dégâts » n'est pas une cible valide pour une capacité <mark class=\"new\">ou fonction de jeu</mark> dont le seul effet sur cette cible est de lui infliger des dégâts.</li><li>Une cible qui ne peut pas être attaquée n'est pas une cible valide pour une capacité étiquetée « attaque ».</li><li>Une cible qui ne peut pas être contrée n'est pas une cible valide pour une capacité étiquetée « contre ».</li></ul></li><li>Une capacité ou une fonction de jeu qui cible plusieurs éléments de jeu d'un type spécifique <em>(par exemple « chaque ennemi »)</em> peut être initiée tant qu'au moins un de ces éléments de jeu est une cible valide.<ul><li>Cette capacité ou fonction de jeu ne se résout à l'encontre d'aucun de ces éléments de jeu qui n'est pas une cible valide.</li><li>Par exemple, l'icône de crise (<span class=\"icon icon-crisis\"></span>) empêche la menace d'être retirée de la manigance principale. Une capacité qui dit « retirez 1 menace de chaque manigance » peut être utilisée tant qu'il existe au moins 1 manigance dont la menace peut être retirée. Dans ce cas, aucune menace ne serait retirée de la manigance principale.</li></ul></li><li>Une capacité qui fait référence à une cible future <em>(par ex. « la prochaine carte que vous jouez »)</em> ne requiert pas de cible pour être initiée.</li><li>Une capacité comportant un effet de recherche nécessite seulement une zone de jeu recherchable pour pouvoir être initiée.</li></ul>",
+		"whats_new": "Clarification des règles de sélection de cible pour les capacités et les pouvoirs de base.",
 		"see_also": [
 			"ability",
 			"choose_game_element",
 			"cost",
 			"game_element",
 			"labeled_ability"
-		],
-		"whats_new": "Clarification des règles de sélection de cible pour les capacités et les pouvoirs de base."
+		]
 	},
 	{
 		"id": "target_threat",
@@ -39,6 +39,7 @@
 		"term": "En équipe",
 		"type": "official",
 		"content": "<p>Le mot-clé en équipe nomme deux personnages. Pour qu'un joueur puisse inclure une carte avec le mot-clé en équipe dans son deck, l'identité choisie par ce joueur doit correspondre à l'un des personnages nommés. De plus, une carte avec le mot-clé en équipe ne peut pas être jouée à moins que les deux personnages amis nommés <em>(identité ou allié)</em> ne soient en jeu.</p><ul><li><mark class=\"new\">Le mot-clé en équipe (nom 1 et nom 2) est équivalent à la capacité constante suivante : « Vous ne pouvez pas inclure cette carte dans votre deck à moins que votre titre d'alter ego ou de héros ne corresponde au nom 1 ou au nom 2. Vous ne pouvez pas jouer cette carte à moins qu'il n'y ait un personnage ami en jeu dont le titre ou le sous-titre correspond au nom 1 et un personnage ami en jeu dont le titre ou le sous-titre correspond au nom 2. »</mark></li><li>Un allié compte comme un personnage nommé si son titre ou son sous-titre correspond au personnage nommé.</li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Duo comme une capacité constante équivalente.",
 		"see_also": [
 			"ally",
 			"identity",
@@ -47,39 +48,28 @@
 			"play_put_into_play",
 			"reminder_text",
 			"deck_customization"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Duo comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "teamwork_trait",
 		"term": "Esprit d'équipe (trait)",
 		"type": "official",
 		"content": "<p>Après qu'un sbire avec esprit d'équipe entre en jeu et engage un joueur, s'il y a au moins un autre sbire partageant le trait spécifié en jeu, le sbire qui vient d'entrer en jeu s'active contre le joueur avec lequel il est engagé.</p><ul><li><mark class=\"new\">Le mot-clé esprit d'équipe (TRAIT) est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée</b> : Après que ce sbire entre en jeu, s'il y a un autre sbire TRAIT en jeu, ce sbire s'active contre le joueur engagé. »</mark></li><li>Si un sbire avec le mot-clé esprit d'équipe est en train d'être révélé, le mot-clé esprit d'équipe se résout après que toutes les capacités « <b>Une fois révélée</b> » sur ce sbire sont résolues.</li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le trait Travail d'équipe comme une capacité constante équivalente.",
 		"see_also": [
 			"activation",
 			"engage",
 			"keywords"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le trait Travail d'équipe comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "temporary",
 		"term": "Temporaire",
 		"type": "official",
 		"content": "<p>Une carte avec le mot-clé temporaire doit être défaussée du jeu à la fin du round.</p><ul><li><mark class=\"new\">Le mot-clé temporaire est équivalent à la capacité déclenchée suivante : « <b>Interruption forcée</b> : Quand le round se termine, défaussez cette carte du jeu. »</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Temporaire comme une capacité constante équivalente.",
 		"see_also": [
 			"keywords"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Temporaire comme une capacité constante équivalente."
-	},
-	{
-		"id": "test_x",
-		"term": "Tester (X)",
-		"type": "fanmade",
-		"content": "<p>Lorsqu'une carte vous demande de tester, défaussez les 3 cartes du dessus de votre deck. Si vous défaussez au moins 1 ressource imprimée du type spécifié, vous réussissez le test. Si vous ne défaussez aucune ressource imprimée du type spécifié, vous échouez au test.</p>",
-		"see_also": [
-			"discard",
-			"resource"
 		]
 	},
 	{
@@ -149,6 +139,7 @@
 		"term": "Contre, contrer",
 		"type": "official",
 		"content": "<p>Certains effets de jeu et capacités de cartes font référence à une tentative de contre. Cela peut se produire de différentes manières :</p><ul><li>Un héros ou un allié peut utiliser son pouvoir de contre de base pour contrer une manigance. Un personnage doit s'incliner pour utiliser ce pouvoir. Cela retire de la menace de la manigance de la valeur de CTR du personnage.<ul><li>Un personnage ne peut initier un contre de base que s'il y a une manigance avec au moins une menace à retirer ou si ce personnage est désorienté.</li><li><mark class=\"new\">Une capacité qui permet à un héros ou un allié d'« effectuer un contre de base sans s'incliner » peut permettre à un personnage incliné d'effectuer une tentative de contre.</mark></li></ul></li><li>Si une capacité déclenchée est étiquetée comme un contre — comme « <b>Action de héros</b> <em>(contre)</em> » — la résolution de cette capacité est considérée comme un contre de la manigance spécifiée. Sauf indication contraire dans le texte de la capacité, un héros ne s'incline pas lorsqu'il utilise une telle capacité.<ul><li>Une capacité étiquetée comme un contre est considérée comme un seul contre, même si ce contre retire plusieurs instances de menace.</li><li>Si une capacité augmente la quantité de menace qu'une capacité étiquetée comme un contre retire et que cette capacité retire plusieurs instances de menace, chacune de ces instances n'utilisant pas le mot « supplémentaire » est augmentée de la quantité spécifiée.</li></ul></li></ul>",
+		"whats_new": "Clarification de l'exécution du pouvoir de base Contre et des capacités de contre.",
 		"see_also": [
 			"ally",
 			"basic_power",
@@ -159,8 +150,7 @@
 			"modifiers",
 			"side_scheme",
 			"threat"
-		],
-		"whats_new": "Clarification de l'exécution du pouvoir de base Contre et des capacités de contre."
+		]
 	},
 	{
 		"id": "timing",
@@ -179,19 +169,20 @@
 		"term": "Tenace",
 		"type": "official",
 		"content": "<p>Tenace est un état qui empêche un personnage de subir des dégâts.</p><ul><li><mark class=\"new\">Une carte d'état tenace se résout comme la capacité déclenchée : « <b>Interruption forcée</b> : Quand ce personnage devrait subir des dégâts, retirez une carte d'état tenace de lui à la place. »</mark></li><li>Si un personnage avec une carte d'état tenace devait subir n'importe quelle quantité de dégâts, prévenez tous ces dégâts et défaussez une carte d'état tenace de ce personnage à la place.<ul><li>Un personnage avec plusieurs cartes d'état tenace ne défausse qu'une seule carte d'état tenace chaque fois qu'il devrait subir des dégâts.</li><li>Lorsqu'un héros avec une carte d'état tenace défend une attaque, il réduit d'abord les dégâts de l'attaque par sa DEF. Si les dégâts sont réduits à 0, le héros ne perd pas sa carte d'état tenace.</li></ul></li><li>Comme une carte d'état tenace prévient entièrement les dégâts, le personnage qui avait la carte d'état tenace n'est pas considéré comme ayant subi des dégâts.</li></ul>",
+		"whats_new": "Clarification : une carte d'état tenace prévient tous les dégâts d'une instance de dégâts unique.",
 		"see_also": [
 			"damage",
 			"overkill",
 			"status_cards",
 			"toughness"
-		],
-		"whats_new": "Clarification : une carte d'état tenace prévient tous les dégâts d'une instance de dégâts unique."
+		]
 	},
 	{
 		"id": "toughness",
 		"term": "Ténacité",
 		"type": "official",
 		"content": "<p>Lorsqu'un personnage avec le mot-clé ténacité entre en jeu, placez une carte d'état tenace sur lui.</p><ul><li><mark class=\"new\">Le mot-clé ténacité est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée</b> : Après que ce personnage entre en jeu, donnez-lui une carte d'état tenace. »</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Tenacité comme une capacité constante équivalente.",
 		"see_also": [
 			"ally",
 			"enters_play",
@@ -201,8 +192,7 @@
 			"reminder_text",
 			"status_cards",
 			"villain_villain_deck"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Tenacité comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "track",
@@ -212,28 +202,6 @@
 		"see_also": [
 			"threat",
 			"minion"
-		]
-	},
-	{
-		"id": "traitor_ally",
-		"term": "Traître (Allié)",
-		"type": "fanmade",
-		"content": "<p>Lorsqu'un allié gagne traître, traitez cet allié comme un sbire avec une boîte de texte vide. Son SCH est égal à son THW imprimé et il ne subit pas de dégâts consécutifs.</p>",
-		"see_also": [
-			"ally",
-			"minion",
-			"consequential_damage"
-		]
-	},
-	{
-		"id": "traitor_minion",
-		"term": "Traître (Sbire)",
-		"type": "fanmade",
-		"content": "<p>Lorsqu'un sbire gagne traître, traitez ce sbire comme un allié avec un THW égal à son SCH imprimé et une boîte de texte imprimée qui indique « <b>Réponse Forcée</b> : Après que ce personnage a utilisé un pouvoir de base, infligez-lui un dégât consécutif ».</p>",
-		"see_also": [
-			"minion",
-			"ally",
-			"consequential_damage"
 		]
 	},
 	{

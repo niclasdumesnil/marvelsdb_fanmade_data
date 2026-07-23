@@ -10,6 +10,7 @@
 		"term": "Quickstrike",
 		"type": "official",
 		"content": "<p>After a minion with the quickstrike keyword engages a player whose identity is in hero form, that minion attacks that player.</p><ul><li><mark class=\"new\">The quickstrike keyword is equivalent to the following triggered ability: “<b>Forced Response (Hero)</b>: After this minion engages a player, it attacks that player.”</mark></li><li><mark class=\"new\">If a minion with the quickstrike keyword is being revealed, the quickstrike keyword resolves after any “<b>When Revealed</b>” abilities on that minion are resolved.</mark></li></ul>",
+		"whats_new": "Added a new bullet defining the quickstrike keyword as an equivalent constant ability.",
 		"see_also": [
 			"attack_enemy_activation",
 			"engage",
@@ -19,7 +20,6 @@
 			"player",
 			"reminder_text",
 			"reveal"
-		],
-		"whats_new": "Added a new bullet defining the quickstrike keyword as an equivalent constant ability."
+		]
 	}
 ]

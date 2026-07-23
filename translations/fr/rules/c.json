@@ -110,15 +110,6 @@
 		]
 	},
 	{
-		"id": "class",
-		"term": "Classe",
-		"type": "fanmade",
-		"content": "<p>Un type unique d'amélioration qui accorde une « classe » à un personnage. Un personnage ne peut avoir qu'une seule classe à la fois ; l'ancienne classe est défaussée lorsqu'une nouvelle est mise en jeu.</p>",
-		"see_also": [
-			"upgrade"
-		]
-	},
-	{
 		"id": "classifications",
 		"term": "Classifications",
 		"type": "official",
@@ -209,17 +200,6 @@
 		"content": "Si un effet modifie le contrôleur d'une carte, cette carte est déplacée vers la zone de jeu de son nouveau contrôleur. Les attachements, jetons et compteurs sur cette carte se déplacent avec elle. Si une carte change de contrôle, elle conserve son état (inclinée ou redressée). Les effets persistants associés au contrôleur précédent cessent de s'appliquer si les conditions ne sont plus remplies."
 	},
 	{
-		"id": "controlled",
-		"term": "Contrôlé",
-		"type": "fanmade",
-		"content": "<p>Traitez ce sbire comme un allié CONTRÔLÉ avec une boîte de texte vide sous le contrôle du joueur avec lequel il était engagé. Son THW est égal à son SCH imprimé et il subit 2 dégâts consécutifs après avoir manigancé ou attaqué.</p>",
-		"see_also": [
-			"ally",
-			"minion",
-			"consequential_damage"
-		]
-	},
-	{
 		"id": "copy",
 		"term": "Exemplaire",
 		"type": "official",
@@ -289,17 +269,6 @@
 		"see_also": [
 			"boost_boost_icon",
 			"damage"
-		]
-	},
-	{
-		"id": "cunning",
-		"term": "Rusé",
-		"type": "fanmade",
-		"content": "<p><b>Interruption Forcée</b> : Lorsque ce personnage devrait attaquer, il manigance à la place.</p>",
-		"see_also": [
-			"forced",
-			"interrupt",
-			"scheme_enemy_activation"
 		]
 	}
 ]

@@ -9,17 +9,6 @@
 		]
 	},
 	{
-		"id": "vicious",
-		"term": "Vicieux",
-		"type": "fanmade",
-		"content": "<p><b>Interruption Forcée</b> : Lorsque ce personnage devrait manigancer, il attaque à la place.</p>",
-		"see_also": [
-			"forced",
-			"interrupt",
-			"attack_enemy_activation"
-		]
-	},
-	{
 		"id": "victory_display",
 		"term": "Pile de victoire",
 		"type": "official",
@@ -35,6 +24,7 @@
 		"term": "Victoire X",
 		"type": "official",
 		"content": "<p>Lorsqu'une carte avec le mot-clé victoire X quitte le jeu dans les conditions suivantes, placez-la dans la pile de victoire au lieu de la pile de défausse de son propriétaire :</p><ul><li><mark class=\"new\">Le mot-clé victoire X est équivalent à la capacité suivante selon la carte dotée du mot-clé :</mark><ul><li><mark class=\"new\">Personnage ou manigance annexe : « <b>Une fois vaincu</b> : Ajoutez cette carte à la pile de victoire. »</mark></li><li><mark class=\"new\">Attachement : « <b>Interruption forcée</b> : Quand la carte attachée est vaincue, ajoutez cette carte à la pile de victoire. »</mark></li><li><mark class=\"new\">Carte avec le mot-clé utilisations (X « type ») : « S'il n'y a pas de compteurs génériques sur cette carte, ajoutez cette carte à la pile de victoire au lieu de la défausser. »</mark></li></ul></li><li>Un personnage ou une manigance annexe avec le mot-clé victoire X est placé dans la pile de victoire lorsqu'il est vaincu.</li><li>Un attachement ou une amélioration avec le mot-clé victoire X est placé dans la pile de victoire lorsque la carte à laquelle il est attaché est vaincue. <em>(La carte à laquelle l'attachement ou l'amélioration était attaché est défaussée normalement.)</em></li><li>Une carte avec à la fois les mots-clés victoire X et utilisations (X « type ») est placée dans la pile de victoire lorsque son dernier compteur générique en est retiré.</li></ul><p>Tant qu'elle est dans la pile de victoire, X indique combien de points de victoire cette carte vaut. <em>(X est la valeur à côté du mot-clé victoire.)</em></p><ul><li>Certains scénarios ou campagnes peuvent compter le nombre de points de victoire dans la pile de victoire.</li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Victoire X comme une capacité constante équivalente.",
 		"see_also": [
 			"defeat",
 			"discard_pile",
@@ -42,8 +32,7 @@
 			"reminder_text",
 			"uses_x_type",
 			"victory_display"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Victoire X comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "villain_defeat",
@@ -101,6 +90,7 @@
 		"term": "Vilenie",
 		"type": "official",
 		"content": "<p>Lorsqu'un <mark class=\"new\">personnage</mark> avec le mot-clé vilenie <mark class=\"new\">utilise un pouvoir de base</mark>, donnez-lui une carte de boost face cachée du dessus du deck rencontre. Lors de la <mark class=\"new\">résolution de ce pouvoir de base</mark>, retournez la carte de boost face visible, résolvez toute capacité de boost sur cette carte, et appliquez ses icônes de boost aux statistiques du <mark class=\"new\">personnage</mark> pour cette <mark class=\"new\">utilisation</mark>. Défaussez la carte de boost après sa résolution.</p><ul><li><mark class=\"new\">Le mot-clé vilenie est équivalent à la capacité déclenchée suivante : « <b>Interruption forcée</b> : Quand ce personnage utilise un pouvoir de base, donnez-lui une carte de boost. »</mark></li><li>Si une capacité de boost sur une carte de boost distribuée à un <mark class=\"new\">personnage</mark> fait référence au « méchant », cette capacité s'applique tout de même au méchant <em>(même si c'est un autre type de personnage qui la résout)</em>.</li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Vilenie comme une capacité constante équivalente.",
 		"see_also": [
 			"activation",
 			"attack_enemy_activation",
@@ -110,8 +100,7 @@
 			"minion",
 			"reminder_text",
 			"scheme_enemy_activation"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Vilenie comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "villains_play_area",

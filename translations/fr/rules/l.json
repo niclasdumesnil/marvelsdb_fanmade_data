@@ -4,12 +4,12 @@
 		"term": "Capacité étiquetée",
 		"type": "official",
 		"content": "<p>Une capacité étiquetée est une capacité déclenchée avec une mention entre parenthèses suivant son texte de déclencheur en gras qui désigne cette capacité comme une attaque, une défense et/ou un contre.</p><ul><li><mark class=\"new\">L'identité du joueur utilisant la capacité étiquetée est considérée comme effectuant l'effet étiqueté lorsque la capacité étiquetée commence à se résoudre <em>(après que les coûts ont été payés)</em>.</mark></li><li>Lorsqu'un joueur résout une capacité étiquetée « (attaque) », cette capacité est considérée comme une attaque effectuée par l'identité de ce joueur.</li><li>Lorsqu'un joueur résout une capacité étiquetée « (défense) », cette capacité est considérée comme une défense effectuée par l'identité de ce joueur.<ul><li>Lorsqu'une telle capacité est initiée pendant une attaque, l'identité du joueur devient le défenseur de cette attaque.</li></ul></li><li>Lorsqu'un joueur résout une capacité étiquetée « (contre) », cette capacité est considérée comme un contre effectué par l'identité de ce joueur.</li><li>Lorsqu'un joueur résout une capacité avec plusieurs étiquettes, cette capacité est considérée comme chacun des types de capacité étiquetés, tous effectués par l'identité de ce joueur.</li><li>Si un joueur déclenche une capacité étiquetée alors que son identité possède une ou plusieurs cartes d'état qui annulent l'un des types de capacité étiquetés, la capacité entière <em>(à l'exception de ses coûts)</em> est annulée.<ul><li>Cette identité n'est pas considérée comme ayant attaqué, défendu ou contré.</li><li>Chaque carte d'état sur l'identité du joueur qui annule l'un des types de la capacité étiquetée est retirée lorsque cette capacité est annulée. <em>Par exemple, une capacité étiquetée « (attaque/contre) » retirerait à la fois un état confus et un état sonné de l'identité du joueur qui a déclenché la capacité.</em></li></ul></li></ul>",
+		"whats_new": "Révision de la définition des capacités étiquetées (Attaque, Défense, Contre, Ressource, Mise en place).",
 		"see_also": [
 			"attack_player_ability_type",
 			"defend_defense",
 			"thwart"
-		],
-		"whats_new": "Révision de la définition des capacités étiquetées (Attaque, Défense, Contre, Ressource, Mise en place)."
+		]
 	},
 	{
 		"id": "lasting_effects",
@@ -26,16 +26,17 @@
 		"term": "Leader",
 		"type": "official",
 		"content": "<p><mark class=\"new\">Le type de carte leader suit les mêmes règles que le type de carte méchant à toutes fins.</mark></p>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Leader comme une capacité constante équivalente.",
 		"see_also": [
 			"villain_villain_deck"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Leader comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "leaves_play",
 		"term": "Quitter le jeu",
 		"type": "official",
 		"content": "<p>L'expression « quitte le jeu » fait référence à tout moment où une carte passe d'une zone en jeu à une zone hors jeu. Vaincre un personnage, défausser une carte du jeu, placer une carte dans la pile de victoire ou retirer une carte de la partie sont autant de moyens différents par lesquels une carte peut quitter le jeu.</p><ul><li>Lorsqu'une carte quitte le jeu, elle perd la mémoire de son état précédent et est considérée comme un nouvel exemplaire de la carte.</li><li>Lorsqu'une carte <mark class=\"new\">non-méchant</mark> quitte le jeu :<ul><li>Défaussez chaque carte qui lui est attachée ou glissée en dessous.</li><li>Défaussez chaque carte de boost donnée à cette carte.</li><li>Renvoyez chaque jeton et carte d'état sur cette carte dans la réserve.</li></ul></li></ul>",
+		"whats_new": "Clarification : lorsqu'une carte quitte le jeu, tous ses pions (sauf les jetons accélération sur la manigance principale) retournent à la réserve.",
 		"see_also": [
 			"defeat",
 			"discard",
@@ -44,8 +45,7 @@
 			"in_play_and_out_of_play",
 			"removed_from_the_game",
 			"victory_display"
-		],
-		"whats_new": "Clarification : lorsqu'une carte quitte le jeu, tous ses pions (sauf les jetons accélération sur la manigance principale) retournent à la réserve."
+		]
 	},
 	{
 		"id": "legion",
@@ -71,12 +71,12 @@
 		"term": "Liée (Titre de carte)",
 		"type": "official",
 		"content": "<p>Les cartes avec le mot-clé liée ne peuvent être incluses dans aucun deck. Au lieu de cela, elles sont mises de côté au début de la partie si n'importe quel deck inclut la carte qui met les cartes liées en jeu <em>(indiquée entre parenthèses après le mot-clé)</em>.</p><ul><li><mark class=\"new\">Le mot-clé liée (titre de carte) est équivalent à la capacité constante suivante : « Mettez cette carte de côté pendant la mise en place. Cette carte ne compte pas dans la taille de votre deck. »</mark></li><li>Les cartes liées ne comptent pas dans la taille minimale ou maximale du deck.</li><li>Le nombre de cartes liées mises de côté pendant la mise en place est égal au nombre de ces cartes incluses dans le produit dont provient la carte liée.<ul><li>Si plusieurs decks contiennent la même carte nommée sur une ou plusieurs cartes liées, mettez de côté le nombre approprié de cartes pour chaque deck contenant la carte nommée.</li></ul></li><li>Lorsqu'un joueur prend le contrôle d'une carte avec le mot-clé liée, ce joueur devient le propriétaire de cette carte.</li></ul>",
+		"whats_new": "Clarification des règles concernant les cartes liées recto-verso lors de leur entrée et sortie du jeu.",
 		"see_also": [
 			"keywords",
 			"ownership_and_control",
 			"set_aside"
-		],
-		"whats_new": "Clarification des règles concernant les cartes liées recto-verso lors de leur entrée et sortie du jeu."
+		]
 	},
 	{
 		"id": "look_looked_at",

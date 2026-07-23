@@ -4,6 +4,7 @@
 		"term": "Patrouille",
 		"type": "official",
 		"content": "<p>Tant qu'un sbire avec le mot-clé patrouille est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour contrer la manigance principale.</p><ul><li><mark class=\"new\">Le mot-clé patrouille est équivalent à la capacité constante suivante : « Le joueur engagé ne peut pas contrer la manigance principale. »</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Patrouille comme une capacité constante équivalente.",
 		"see_also": [
 			"engage",
 			"keywords",
@@ -11,8 +12,7 @@
 			"minion",
 			"reminder_text",
 			"thwart"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Patrouille comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "pay",
@@ -39,6 +39,7 @@
 		"term": "Péril",
 		"type": "official",
 		"content": "<p>Tant qu'un joueur résout une carte avec le mot-clé péril, ce joueur ne peut pas consulter les autres joueurs, et les autres joueurs ne peuvent pas jouer de cartes ni déclencher de capacités.</p><ul><li><mark class=\"new\">Le mot-clé péril est équivalent à la capacité constante suivante : « Tant qu'un joueur résout cette carte, ce joueur ne peut pas consulter d'autres joueurs, et les autres joueurs ne peuvent pas déclencher de capacités. Tant que cette carte est dans la zone de jeu d'un joueur, les autres joueurs ne peuvent pas déclencher de capacités sur cette carte. »</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Péril comme une capacité constante équivalente.",
 		"see_also": [
 			"ability",
 			"keywords",
@@ -46,30 +47,20 @@
 			"reminder_text",
 			"table_talk",
 			"triggered_ability"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Péril comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "permanent",
 		"term": "Permanent",
 		"type": "official",
 		"content": "<p>Une carte avec le mot-clé permanent ne peut pas être vaincue, quitter le jeu ou avoir une partie quelconque de sa boîte de texte effacée, sauf par des capacités de cartes du même set <em>(set de héros, set de scénario ou set modulaire)</em>. <em>(Par exemple, une capacité sur une carte de héros peut faire quitter le jeu à une carte permanente du set de ce héros.)</em></p><ul><li><mark class=\"new\">Le mot-clé permanent est équivalent à la capacité constante suivante : « Mettez cette carte de côté pendant la mise en place. Les effets des cartes ne provenant pas du set de cette carte ne peuvent pas vaincre cette carte, la retirer du jeu ou effacer une partie quelconque de sa boîte de texte. »</mark></li><li>Les cartes permanentes sont mises de côté avant l'étape 1 de la mise en place et sont mises en jeu plus tard par des capacités sur d'autres cartes.</li><li>Les cartes permanentes ne comptent pas dans la taille minimale ou maximale du deck d'un joueur.</li><li>Les cartes permanentes ne sont pas des cibles valides pour les effets de cartes qui feraient quitter le jeu à la carte permanente.<ul><li>Si une carte permanente devait être ciblée par un tel effet <em>(par exemple, « défaussez le soutien au plus bas coût que vous contrôlez »)</em>, cet effet cible à la place la carte non permanente qui correspond à ses critères.</li></ul></li><li>Si la carte à laquelle un attachement permanent était attaché quitte le jeu, résolvez le texte « attachez à » de cet attachement. S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.</li><li>Si un joueur est éliminé de la partie alors qu'une carte permanente <em>(qui n'est pas un attachement)</em> qu'il ne possède pas se trouve dans sa zone de jeu, retirez cette carte permanente de la partie.</li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Permanent comme une capacité constante équivalente.",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"keywords",
 			"leaves_play",
 			"ownership_and_control",
 			"reminder_text"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Permanent comme une capacité constante équivalente."
-	},
-	{
-		"id": "personal",
-		"term": "Personnel",
-		"type": "fanmade",
-		"content": "<p>Les personnages autres que l'identité du joueur qui a mis cette carte en jeu ne peuvent pas interagir avec elle.</p>",
-		"see_also": [
-			"identity"
 		]
 	},
 	{
@@ -92,6 +83,7 @@
 		"term": "Perçant",
 		"type": "official",
 		"content": "<p>Une attaque avec le mot-clé perçant défausse toute carte d'état tenace du personnage attaqué avant d'infliger des dégâts.</p><ul><li><mark class=\"new\">Le mot-clé perçant est équivalent à la capacité suivante : « Avant que cette attaque n'inflige des dégâts à un personnage, défaussez chaque carte d'état tenace de ce personnage. »</mark></li><li>Si une attaque avec le mot-clé perçant ne devait infliger aucun dégât au personnage attaqué, elle ne défausse pas les cartes d'état tenace de ce personnage.</li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Perçant comme une capacité constante équivalente.",
 		"see_also": [
 			"attack_enemy_activation",
 			"attack_player_ability_type",
@@ -101,8 +93,7 @@
 			"status_cards",
 			"target",
 			"tough"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Perçant comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "play_area",
@@ -202,6 +193,7 @@
 		"term": "Élimination de joueur",
 		"type": "official",
 		"content": "<p>Un joueur est éliminé de la partie si son identité est vaincue. Cela se produit généralement lorsque les points de vie restants du personnage sont réduits à zéro.</p><p>Lorsqu'un joueur est éliminé, effectuez les actions suivantes dans l'ordre :</p><ol><li>Si le joueur éliminé possède le pion premier joueur, il le passe au joueur suivant dans le sens horaire.</li><li>S'il y a des sbires engagés avec le joueur éliminé, chacun de ces sbires engage le joueur suivant dans le sens horaire, en conservant tous les jetons, cartes attachées, cartes de boost, cartes intercalées et cartes d'état sur eux.</li><li>Pour chaque carte dans la zone de jeu du joueur éliminé qui n'est pas possédée par ce joueur, effectuez ce qui suit :<ul><li>Si cette carte est un attachement avec le mot-clé permanent, résolvez son texte « attachez à ». S'il n'en a pas ou si ce texte n'a pas de cible valide, retirez l'attachement de la partie.</li><li>Retirez chaque carte non-attachement avec le mot-clé permanent de la partie.</li><li>Placez chaque autre carte dans la pile de défausse de son propriétaire.</li></ul></li><li>Placez chaque carte possédée par le joueur éliminé dans la pile de défausse du joueur éliminé.</li><li>Retirez la zone de jeu du joueur éliminé et tout autre élément de jeu s'y trouvant <em>(main, deck, pile de défausse, cartes en jeu, cadran de points de vie, etc.)</em> de la partie.</li></ol><p>Lorsqu'un joueur est éliminé, les joueurs restants continuent de jouer la partie. Les joueurs éliminés ne participent plus à la partie mais sont considérés comme gagnant ou perdant avec le reste du groupe, selon l'issue de la partie.</p><ul><li>Si tous les joueurs sont éliminés, la partie se termine et les joueurs perdent.</li><li>Si un joueur est éliminé au cours de la résolution d'une capacité, résolvez l'intégralité de la capacité.<ul><li><mark class=\"new\">Si un joueur est éliminé au milieu d'une attaque, cette attaque prend fin.</mark></li></ul></li><li>Les effets qui font référence aux joueurs dans la partie ignorent les joueurs éliminés, à l'exception de l'icône par joueur (<span class=\"icon icon-per_player\"></span>).</li></ul>",
+		"whats_new": "Clarification des étapes d'élimination d'un joueur et du nettoyage des cartes contrôlées.",
 		"see_also": [
 			"ability",
 			"deal_deal_an_encounter_card",
@@ -216,8 +208,7 @@
 			"player_deck",
 			"players_play_area",
 			"winning_the_game"
-		],
-		"whats_new": "Clarification des étapes d'élimination d'un joueur et du nettoyage des cartes contrôlées."
+		]
 	},
 	{
 		"id": "player_phase",
@@ -250,10 +241,10 @@
 		"term": "Limite de manigance annexe de joueur",
 		"type": "official",
 		"content": "<p>Le nombre de manigances annexes de joueur en jeu à un moment donné est limité par la limite de manigance annexe de joueur.</p><ul><li>Si un ou deux joueurs ont commencé la partie, la limite de manigance annexe de joueur est de un. Si trois ou quatre joueurs ont commencé la partie, la limite est de deux.</li><li>S'il y a plus de manigances annexes de joueur en jeu que la limite, le premier joueur choisit et défausse des manigances annexes de joueur jusqu'à ce qu'il n'y en ait plus en jeu que la limite.</li><li><mark class=\"new\">Un joueur peut jouer une manigance annexe de joueur même si la limite de manigance annexe de joueur est atteinte. S'il le fait, il doit choisir une manigance annexe de joueur à défausser. <em>(La manigance annexe de joueur défaussée de cette manière n'est pas considérée comme vaincue.)</em></mark></li></ul>",
+		"whats_new": "Ajout de la définition de la limite de construction pour les manigances annexes de joueur (maximum 1 copie par deck).",
 		"see_also": [
 			"player_side_scheme"
-		],
-		"whats_new": "Ajout de la définition de la limite de construction pour les manigances annexes de joueur (maximum 1 copie par deck)."
+		]
 	},
 	{
 		"id": "player_turn",
@@ -303,27 +294,6 @@
 		]
 	},
 	{
-		"id": "plotting",
-		"term": "Complot",
-		"type": "fanmade",
-		"content": "<p>Après que cet ennemi s'est engagé avec un joueur, il manigance immédiatement.</p>",
-		"see_also": [
-			"scheme_enemy_activation",
-			"enemy"
-		]
-	},
-	{
-		"id": "practiced_x",
-		"term": "Pratiqué (X)",
-		"type": "fanmade",
-		"content": "<p>Après qu'une carte avec le mot-clé pratiqué entre en jeu, attachez-lui face cachée un événement de votre pile de défausse. Une fois l'événement attaché retiré, défaussez la carte avec pratiqué.</p>",
-		"see_also": [
-			"event",
-			"attach_to",
-			"discard"
-		]
-	},
-	{
 		"id": "prevent",
 		"term": "Prévenir",
 		"type": "official",
@@ -345,18 +315,6 @@
 		"see_also": [
 			"base_value",
 			"modifiers"
-		]
-	},
-	{
-		"id": "priority_x",
-		"term": "Priorité X",
-		"type": "fanmade",
-		"content": "<p>Une fois révélée, déplacez X menace de la manigance principale vers cette manigance annexe.</p>",
-		"see_also": [
-			"when_revealed_abilities",
-			"main_scheme",
-			"side_scheme",
-			"threat"
 		]
 	}
 ]

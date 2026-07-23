@@ -39,13 +39,6 @@
 		]
 	},
 	{
-		"id": "bond",
-		"term": "Bond",
-		"type": "fanmade",
-		"content": "<p>An ally can bond to another character. When that occurs, it becomes an upgrade.</p>",
-		"see_also": []
-	},
-	{
 		"id": "boost_boost_icon",
 		"term": "Boost, Boost Icon",
 		"type": "official",
@@ -66,25 +59,6 @@
 			"main_scheme",
 			"side_scheme",
 			"threat"
-		]
-	},
-	{
-		"id": "brutal",
-		"term": "Brutal",
-		"type": "fanmade",
-		"content": "<p>When a minion with the brutal keyword attacks, give it a facedown boost card from the top of the encounter deck. When you resolve that minion’s attack, turn the boost card faceup, resolve any boost ability on that card, and apply its boost icons to the minion’s stats for this activation. Discard the boost card after the attack.</p>",
-		"see_also": [
-			"boost_boost_icon",
-			"minion"
-		]
-	},
-	{
-		"id": "burning",
-		"term": "Burning",
-		"type": "fanmade",
-		"content": "<p>At the end of the round, choose to either exhaust this character and remove burning from them or deal 1 damage to them.</p>",
-		"see_also": [
-			"exhausted"
 		]
 	}
 ]

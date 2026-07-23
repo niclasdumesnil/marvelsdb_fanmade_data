@@ -14,12 +14,12 @@
 		"term": "Hazard Icon (<span class=\"icon icon-hazard\"></span>)",
 		"type": "official",
 		"content": "<p>During the Deal Encounter Cards step of the villain phase, for each hazard icon on cards in play, deal one player one additional card <em>(not one card per player)</em>. Additional cards are dealt in player order <em>(first additional card to the first player, the second to the second player, etc.)</em>.</p><ul><li><mark class=\"new\">Each hazard icon is equivalent to the following constant ability: “During the Deal Encounter Cards step of the villain phase, deal 1 additional encounter card. Additional cards from hazard icons are dealt in player order.”</mark></li></ul>",
+		"whats_new": "Added a new bullet defining the hazard icon as an equivalent constant ability.",
 		"see_also": [
 			"deal_deal_an_encounter_card",
 			"in_player_order",
 			"villain_phase"
-		],
-		"whats_new": "Added a new bullet defining the hazard icon as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "heal",
@@ -58,14 +58,14 @@
 		"term": "Hinder X",
 		"type": "official",
 		"content": "<p>A card with the hinder X keyword enters play with X threat on it. <em>(X is the value next to the hinder keyword.)</em></p><ul><li><mark class=\"new\">The hinder X keyword is equivalent to the following constant ability: “This card enters play with X threat on it.”</mark></li><li><mark class=\"new\">This threat is in addition to any threat it normally enters play with, such as a side scheme’s starting threat.</mark></li></ul>",
+		"whats_new": "Added a new bullet defining the hinder X keyword as an equivalent constant ability.",
 		"see_also": [
 			"enters_play",
 			"keywords",
 			"reminder_text",
 			"reveal",
 			"threat"
-		],
-		"whats_new": "Added a new bullet defining the hinder X keyword as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "hit_points",

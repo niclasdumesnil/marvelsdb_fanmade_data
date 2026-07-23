@@ -231,13 +231,6 @@
 		"see_also": []
 	},
 	{
-		"id": "army",
-		"term": "Armée",
-		"type": "fanmade",
-		"content": "<p>Immunisé contre la sonnerie. Ce sbire gagne -1 ATK pour chaque jeton de dégât sur lui.</p>",
-		"see_also": []
-	},
-	{
 		"id": "arrow_icon",
 		"term": "Icône de coût en forme de flèche",
 		"type": "official",

@@ -49,16 +49,6 @@
 		]
 	},
 	{
-		"id": "giant",
-		"term": "Giant",
-		"type": "fanmade",
-		"content": "<p>An ally with this keyword counts as 2 against the ally limit.</p>",
-		"see_also": [
-			"ally",
-			"ally_limit"
-		]
-	},
-	{
 		"id": "golden_rules",
 		"term": "",
 		"type": "official",
@@ -75,6 +65,7 @@
 		"term": "Guard",
 		"type": "official",
 		"content": "<p>While a minion with the guard keyword is engaged with a player, that player cannot use cards they control to attack a villain without this keyword.</p><ul><li><mark class=\"new\">The guard keyword is equivalent to the following constant ability: “The engaged player cannot attack any villain.”</mark></li></ul>",
+		"whats_new": "Added a new bullet defining the guard keyword as an equivalent constant ability.",
 		"see_also": [
 			"attack_player_ability_type",
 			"engage",
@@ -82,7 +73,6 @@
 			"minion",
 			"reminder_text",
 			"villain_villain_deck"
-		],
-		"whats_new": "Added a new bullet defining the guard keyword as an equivalent constant ability."
+		]
 	}
 ]

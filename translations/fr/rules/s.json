@@ -1,14 +1,5 @@
 [
 	{
-		"id": "sabotage",
-		"term": "Sabotage",
-		"type": "fanmade",
-		"content": "<p>Mélangez cette carte dans le deck rencontre sans regarder <em>(utilisable pour les cartes héros)</em>.</p>",
-		"see_also": [
-			"encounter_deck"
-		]
-	},
-	{
 		"id": "scenario_specific_card",
 		"term": "Carte spécifique au scénario",
 		"type": "official",
@@ -175,31 +166,21 @@
 		]
 	},
 	{
-		"id": "sniper_x",
-		"term": "Tireur d'élite X",
-		"type": "fanmade",
-		"content": "<p>Au début de la phase du méchant, le joueur engagé avec ce sbire doit infliger des dégâts indirects aux personnages amis en jeu égaux à la valeur de tireur d'élite spécifiée. Ces dégâts peuvent être répartis sur les personnages de n'importe quel joueur. Le DEF d'un personnage ne réduit pas les dégâts de tireur d'élite. Si tous les joueurs sont en forme d'alter ego, ignorez cette capacité.</p>",
-		"see_also": [
-			"villain_phase",
-			"indirect_damage",
-			"minion"
-		]
-	},
-	{
 		"id": "special",
 		"term": "Spécial",
 		"type": "official",
 		"content": "<p>Une capacité spéciale est un type de capacité déclenchée, indiquée par le déclencheur « <b>Spécial</b> » en gras. Les capacités spéciales ne peuvent être <mark class=\"new\">résolues</mark> que par l'instruction explicite d'une autre capacité de carte.</p>",
+		"whats_new": "Clarification : les capacités Spécial sont des capacités déclenchées se résolvant comme spécifié par la carte ou l'effet les déclenchant.",
 		"see_also": [
 			"triggered_ability"
-		],
-		"whats_new": "Clarification : les capacités Spécial sont des capacités déclenchées se résolvant comme spécifié par la carte ou l'effet les déclenchant."
+		]
 	},
 	{
 		"id": "stalwart",
 		"term": "Robuste",
 		"type": "official",
 		"content": "<p>Un personnage qui possède le mot-clé robuste ne peut pas être sonné ni désorienté.</p><ul><li><mark class=\"new\">Le mot-clé robuste est équivalent à la capacité constante suivante : « Ce personnage ne peut pas avoir de cartes d'état désorienté ou sonné. »</mark></li><li>Si un personnage gagne le mot-clé robuste alors qu'il possède une carte d'état sonné et/ou désorienté, chaque carte d'état sonné et/ou désorienté est retirée de ce personnage.</li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Inébranlable comme une capacité constante équivalente.",
 		"see_also": [
 			"ally",
 			"confuse_confused",
@@ -211,8 +192,7 @@
 			"status_cards",
 			"stun_stunned",
 			"villain_villain_deck"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Inébranlable comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "standard_mode",
@@ -235,9 +215,10 @@
 	},
 	{
 		"id": "star_icon",
-		"term": "Icône d'étoile (⭐)",
+		"term": "Icône d'étoile ([star])",
 		"type": "official",
 		"content": "<p>Une icône d'étoile (<span class=\"icon icon-star\"></span>) est utilisée conjointement avec la statistique d'une carte ou sa zone de boost pour indiquer qu'il y a une capacité obligatoire dans la boîte de texte qui correspond à ce champ. En soi, l'icône d'étoile n'a aucun effet ; c'est simplement un rappel de vérifier la boîte de texte de la carte à chaque fois que ce champ est utilisé.</p><ul><li>Si une icône d'étoile est située à côté de la valeur ATQ ou MNG d'un ennemi, l'icône sert de rappel pour vérifier la boîte de texte de cet ennemi à chaque fois que cet ennemi utilise cette valeur pour attaquer ou manigancer.</li><li>Si une icône d'étoile est située dans le champ ATQ ou MNG d'un attachement, l'icône sert de rappel pour vérifier la boîte de texte de cet attachement à chaque fois que l'ennemi attaché utilise la valeur modifiée par ce champ pour attaquer ou manigancer.</li><li>Si une icône d'étoile est située à côté de la valeur ATQ ou CTR d'un allié, l'icône sert de rappel pour vérifier la boîte de texte de cet allié à chaque fois qu'il utilise cette valeur pour attaquer ou contrer.</li><li>Si une icône d'étoile est située à côté de la valeur ATQ, CTR ou DEF d'un héros, ou à côté de la valeur RÉC d'un alter ego, l'icône sert de rappel pour vérifier la boîte de texte de ce personnage à chaque fois qu'il utilise cette valeur pour attaquer, contrer, défendre ou récupérer.</li><li><mark class=\"new\">Si une étape de jeu ou une capacité fait référence à un pouvoir avec la valeur étoile (<span class=\"icon icon-star\"></span>), cette valeur est définie dans le texte de cette carte. Si elle n'est pas définie (par exemple, si le texte de la carte est annulé), cette valeur est traitée comme étant 0.</mark></li><li>Si une icône d'étoile est située dans la zone de boost d'une carte rencontre, l'icône sert de rappel pour vérifier la boîte de texte de cette carte à chaque fois que cette carte est retournée face visible comme carte de boost pendant l'activation du méchant.</li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant l'icône d'étoile (⭐) comme une capacité constante équivalente.",
 		"see_also": [
 			"activation",
 			"ally",
@@ -248,8 +229,7 @@
 			"minion",
 			"non_numerical_variable",
 			"villain_villain_deck"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant l'icône d'étoile (⭐) comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "status_cards",
@@ -275,19 +255,20 @@
 		"term": "Solide",
 		"type": "official",
 		"content": "<p>Un personnage avec le mot-clé solide peut avoir une carte d'état sonné supplémentaire et une carte d'état désorienté supplémentaire. Ce personnage n'est pas sonné à moins qu'il n'ait deux cartes d'état sonné, et n'est pas désorienté à moins qu'il n'ait deux cartes d'état désorienté. Après que l'attaque, la manigance ou le contre de ce personnage est annulé par un effet de carte d'état, retirez toutes les cartes d'état du type correspondant de ce personnage.</p><ul><li><mark class=\"new\">Le mot-clé solide est équivalent à la capacité constante suivante : « Ce personnage peut avoir 1 carte d'état désorienté supplémentaire et 1 carte d'état sonné supplémentaire. Tant que ce personnage a moins de 2 cartes d'état désorienté, il n'est pas considéré comme désorienté et les cartes d'état désorienté sur lui ne se résolvent pas. Tant que ce personnage a moins de 2 cartes d'état sonné, il n'est pas considéré comme sonné et les cartes d'état sonné sur lui ne se résolvent pas. »</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Solide comme une capacité constante équivalente.",
 		"see_also": [
 			"confuse_confused",
 			"keywords",
 			"status_cards",
 			"stun_stunned"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Solide comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "stun_stunned",
 		"term": "Sonner, sonné",
 		"type": "official",
 		"content": "<p>Sonné est un état qui annule la prochaine attaque d'un personnage.</p><ul><li><mark class=\"new\">Une carte d'état sonné se résout comme la capacité déclenchée : « <b>Interruption forcée</b> : Quand ce personnage devrait attaquer, retirez chaque carte d'état sonné de lui à la place. »</mark></li><li>Si une capacité « sonne » un personnage, donnez à ce personnage une carte d'état sonné.</li><li>Un personnage est sonné s'il a une carte d'état sonné.<ul><li>Un personnage avec le mot-clé solide est sonné seulement s'il a deux cartes d'état sonné.</li></ul></li><li>Si un personnage a une capacité indiquant qu'il « ne peut pas être sonné », les cartes d'état sonné ne peuvent pas être placées sur ce personnage.</li><li>Si une identité ou un allié sonné tente d'attaquer ou d'utiliser une capacité d'attaque, défaussez la carte d'état sonné à la place. Les coûts associés à la tentative d'attaque, y compris l'inclinaison du personnage, doivent tout de même être payés.<ul><li>Un personnage sonné peut tenter d'attaquer ou d'utiliser une capacité d'attaque même s'il n'a pas de cible valide pour une attaque.</li></ul></li><li>Si un méchant ou un sbire sonné devait attaquer, défaussez la carte d'état sonné à la place.</li><li>Comme l'action d'attaque ou l'activation d'attaque a été remplacée par le retrait de la carte d'état sonné, ce personnage n'est pas considéré comme ayant attaqué.</li></ul>",
+		"whats_new": "Précision indiquant qu'une carte d'état sonné se résout comme la capacité déclenchée « Interruption Forcée » consistant à retirer chaque carte sonné lorsque le personnage devrait attaquer.",
 		"see_also": [
 			"ally",
 			"cancel",
@@ -296,8 +277,7 @@
 			"status_cards",
 			"target",
 			"villain_villain_deck"
-		],
-		"whats_new": "Précision indiquant qu'une carte d'état sonné se résout comme la capacité déclenchée « Interruption Forcée » consistant à retirer chaque carte sonné lorsque le personnage devrait attaquer."
+		]
 	},
 	{
 		"id": "subtitle",
@@ -318,16 +298,6 @@
 		]
 	},
 	{
-		"id": "superior",
-		"term": "Supérieur",
-		"type": "fanmade",
-		"content": "<p>Méchant uniquement. Les joueurs engagés avec des sbires ne peuvent pas infliger de dégâts au méchant.</p>",
-		"see_also": [
-			"villain_villain_deck",
-			"minion"
-		]
-	},
-	{
 		"id": "support",
 		"term": "Soutien",
 		"type": "official",
@@ -339,18 +309,6 @@
 			"leaves_play",
 			"player_card",
 			"players_play_area"
-		]
-	},
-	{
-		"id": "supportless",
-		"term": "Sans soutien",
-		"type": "fanmade",
-		"content": "<p>Les joueurs ne peuvent pas cibler cette carte avec des améliorations, des soutiens, des actions bénéfiques ou des événements.</p>",
-		"see_also": [
-			"target",
-			"upgrade",
-			"support",
-			"event"
 		]
 	},
 	{
@@ -387,11 +345,11 @@
 		"term": "« Échanger »",
 		"type": "official",
 		"content": "<p>Une instruction « d'échanger » deux composants signifie échanger l'emplacement de ces deux composants.</p><ul><li>Un échange ne peut pas être effectué s'il n'y a pas un composant dans les deux emplacements.<ul><li><em>Par exemple, vous ne pouvez pas « échanger une carte de votre main avec la carte du dessus de votre deck » si vous n'avez pas de carte en main.</em></li></ul></li><li><mark class=\"new\">Les cartes échangées conservent l'orientation (comme redressée ou inclinée, face visible ou face cachée) de la carte d'origine.</mark></li><li>Échanger une carte en main avec la carte du dessus d'un deck n'est <b>pas</b> considéré comme piocher cette carte.</li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes :<ul><li>Partagent un titre, aucune des cartes n'est considérée comme entrant ou quittant le jeu. Les jetons, cartes attachées, cartes intercalées et cartes d'état sur la carte précédemment en jeu sont transférés à l'autre carte et l'autre carte conserve l'état <em>(redressée ou inclinée)</em> de la carte précédemment en jeu. Si la carte échangée a un cadran de points de vie associé, ce cadran reste à la même valeur.</li><li>Ne partagent pas de titre, la carte en jeu est considérée comme quittant le jeu et la carte hors jeu est considérée comme entrant en jeu. Les jetons, cartes attachées, cartes intercalées et cartes d'état sur la carte précédemment en jeu ne sont <b>pas</b> transférés à l'autre carte et l'autre carte entre en jeu redressée. Si la carte échangée a un cadran de points de vie associé, ce cadran est réinitialisé à la valeur de points de vie imprimée de la nouvelle carte.</li></ul></li></ul>",
+		"whats_new": "Extension des règles d'échange de cartes et de transfert des pions, attachements et cadrans de points de vie.",
 		"see_also": [
 			"ability",
 			"target"
-		],
-		"whats_new": "Extension des règles d'échange de cartes et de transfert des pions, attachements et cadrans de points de vie."
+		]
 	},
 	{
 		"id": "swarm",

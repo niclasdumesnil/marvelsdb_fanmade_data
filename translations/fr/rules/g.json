@@ -49,16 +49,6 @@
 		]
 	},
 	{
-		"id": "giant",
-		"term": "Géant",
-		"type": "fanmade",
-		"content": "<p>Un allié avec ce mot-clé compte pour 2 dans la limite d'alliés.</p>",
-		"see_also": [
-			"ally",
-			"ally_limit"
-		]
-	},
-	{
 		"id": "golden_rules",
 		"term": "Les règles d'Or",
 		"type": "official",
@@ -75,6 +65,7 @@
 		"term": "Garde",
 		"type": "official",
 		"content": "<p>Tant qu'un sbire avec le mot-clé garde est engagé avec un joueur, ce joueur ne peut pas utiliser de cartes qu'il contrôle pour attaquer un méchant sans ce mot-clé.</p><ul><li><mark class=\"new\">Le mot-clé garde est équivalent à la capacité constante suivante : « Le joueur engagé ne peut attaquer aucun méchant. »</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Garde comme une capacité constante équivalente.",
 		"see_also": [
 			"attack_player_ability_type",
 			"engage",
@@ -82,7 +73,6 @@
 			"minion",
 			"reminder_text",
 			"villain_villain_deck"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Garde comme une capacité constante équivalente."
+		]
 	}
 ]

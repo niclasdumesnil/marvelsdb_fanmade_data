@@ -14,12 +14,12 @@
 		"term": "Icône d'aléas (<span class=\"icon icon-hazard\"></span>)",
 		"type": "official",
 		"content": "<p>Pendant l'étape d'attribution des cartes rencontre de la phase du méchant, pour chaque icône d'aléas (<span class=\"icon icon-hazard\"></span>) sur les cartes en jeu, attribuez une carte supplémentaire à un joueur <em>(pas une carte par joueur)</em>. Les cartes supplémentaires sont attribuées dans l'ordre des joueurs <em>(première carte supplémentaire au premier joueur, deuxième au deuxième joueur, etc.)</em>.</p><ul><li><mark class=\"new\">Chaque icône d'aléas est équivalente à la capacité constante suivante : « Pendant l'étape d'attribution des cartes rencontre de la phase du méchant, attribuez 1 carte rencontre supplémentaire. Les cartes supplémentaires issues des icônes d'aléas sont attribuées dans l'ordre des joueurs. »</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant l'icône de danger comme une capacité constante équivalente.",
 		"see_also": [
 			"deal_deal_an_encounter_card",
 			"in_player_order",
 			"villain_phase"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant l'icône de danger comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "heal",
@@ -58,14 +58,14 @@
 		"term": "Entrave X",
 		"type": "official",
 		"content": "<p>Une carte avec le mot-clé entrave X entre en jeu avec X menace sur elle. <em>(X est la valeur à côté du mot-clé entrave.)</em></p><ul><li><mark class=\"new\">Le mot-clé entrave X est équivalent à la capacité constante suivante : « Cette carte entre en jeu avec X menace sur elle. »</mark></li><li><mark class=\"new\">Cette menace s'ajoute à toute menace avec laquelle elle entre normalement en jeu, comme la menace de départ d'une manigance annexe.</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Entrave X comme une capacité constante équivalente.",
 		"see_also": [
 			"enters_play",
 			"keywords",
 			"reminder_text",
 			"reveal",
 			"threat"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Entrave X comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "hit_points",

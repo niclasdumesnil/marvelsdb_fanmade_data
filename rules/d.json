@@ -15,17 +15,6 @@
 		]
 	},
 	{
-		"id": "dangerous",
-		"term": "Dangerous",
-		"type": "fanmade",
-		"content": "<p>While this minion is engaged with you, deal yourself an additional encounter card during the villain phase.</p>",
-		"see_also": [
-			"encounter_card",
-			"minion",
-			"villain_phase"
-		]
-	},
-	{
 		"id": "dash_value",
 		"term": "Dash (Value)",
 		"type": "official",
@@ -49,16 +38,6 @@
 		]
 	},
 	{
-		"id": "deceitful",
-		"term": "Deceitful",
-		"type": "fanmade",
-		"content": "<p>When this enemy activates, discard the top card of the encounter deck. If that card is a treachery, that enemy gains +1 ATK and +1 SCH for this activation.</p>",
-		"see_also": [
-			"treachery",
-			"activation"
-		]
-	},
-	{
 		"id": "deck",
 		"term": "Deck",
 		"type": "official",
@@ -77,15 +56,6 @@
 		"content": "<p>See: Appendix I: Deck Customization.</p>",
 		"see_also": [
 			"deck_customization"
-		]
-	},
-	{
-		"id": "dedication_x",
-		"term": "Dedication X",
-		"type": "fanmade",
-		"content": "<p>If you overpaid for this card by at least X resources, gain the corresponding effect.</p>",
-		"see_also": [
-			"resource"
 		]
 	},
 	{
@@ -139,15 +109,6 @@
 		"content": "<p>Some abilities contain delayed effects. Such abilities specify a future timing point, or indicate a future condition that may arise, and dictate an effect that is to happen at that time.</p><ul><li>Delayed effects resolve automatically and immediately after their specified timing point or future condition occurs or becomes true, and before responses to that point or condition may be used.<ul><li>Delayed effects have the same timing priority as constant effects.</li></ul></li><li>When a delayed effect resolves, it is not treated as a new triggered ability, even if the delayed effect was originally created by a triggered ability.</li></ul>",
 		"see_also": [
 			"ability"
-		]
-	},
-	{
-		"id": "destroy",
-		"term": "Destroy",
-		"type": "fanmade",
-		"content": "<p>Remove destroyed card from the game and treat its title as blank until the end of the game.</p>",
-		"see_also": [
-			"removed_from_the_game"
 		]
 	},
 	{

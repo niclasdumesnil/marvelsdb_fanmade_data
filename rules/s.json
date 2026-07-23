@@ -1,14 +1,5 @@
 [
 	{
-		"id": "sabotage",
-		"term": "Sabotage",
-		"type": "fanmade",
-		"content": "<p>Shuffle this card into the encounter deck without looking <em>(usable for hero cards)</em>.</p>",
-		"see_also": [
-			"encounter_deck"
-		]
-	},
-	{
 		"id": "scenario_specific_card",
 		"term": "Scenario-Specific Card",
 		"type": "official",
@@ -175,31 +166,21 @@
 		]
 	},
 	{
-		"id": "sniper_x",
-		"term": "Sniper X",
-		"type": "fanmade",
-		"content": "<p>At the beginning of the villain phase, the player engaged with this minion must deal indirect damage to friendly characters in play equal to the specified sniper value. This damage can be dealt to characters under any player’s control, and it can be divided among the players as they see fit. A character’s DEF does not reduce sniper damage. If all players are in alter-ego form, ignore this ability.</p>",
-		"see_also": [
-			"villain_phase",
-			"indirect_damage",
-			"minion"
-		]
-	},
-	{
 		"id": "special",
 		"term": "Special",
 		"type": "official",
 		"content": "<p>A special ability is a type of triggered ability, indicated by the bold “<b>Special</b>” timing trigger. Special abilities may only be <mark class=\"new\">resolved</mark> through the explicit instruction of another card ability.</p>",
+		"whats_new": "Clarified that special abilities are triggered abilities that resolve as specified by the card or effect triggering them.",
 		"see_also": [
 			"triggered_ability"
-		],
-		"whats_new": "Clarified that special abilities are triggered abilities that resolve as specified by the card or effect triggering them."
+		]
 	},
 	{
 		"id": "stalwart",
 		"term": "Stalwart",
 		"type": "official",
 		"content": "<p>A character that has the stalwart keyword cannot be stunned or confused.</p><ul><li><mark class=\"new\">The stalwart keyword is equivalent to the following constant ability: “This character cannot have confused or stunned status cards.”</mark></li><li>If a character gains the stalwart keyword while they have a stunned and/or confused status card, each stunned and/or confused status card is removed from that character.</li></ul>",
+		"whats_new": "Added a new bullet defining the stalwart keyword as an equivalent constant ability.",
 		"see_also": [
 			"ally",
 			"confuse_confused",
@@ -211,8 +192,7 @@
 			"status_cards",
 			"stun_stunned",
 			"villain_villain_deck"
-		],
-		"whats_new": "Added a new bullet defining the stalwart keyword as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "standard_mode",
@@ -235,9 +215,10 @@
 	},
 	{
 		"id": "star_icon",
-		"term": "Star Icon (⭐)",
+		"term": "Star Icon ([star])",
 		"type": "official",
 		"content": "<p>A star icon is used in conjunction with a card’s stat or boost field to indicate that there is a mandatory ability in the text box that corresponds to that field. In and of itself, the star icon has no effect; it is merely a reminder to check the card’s text box whenever that field is used.</p><ul><li>If a star icon is located next to an enemy’s ATK or SCH value, the icon serves as a reminder to check that enemy’s text box whenever that enemy uses that value to attack or scheme.</li><li>If a star icon is located in the ATK or SCH field of an attachment, the icon serves as a reminder to check that attachment’s text box whenever the attached enemy uses the value that field is modifying to attack or scheme.</li><li>If a star icon is located next to an ally’s ATK or THW value, the icon serves as a reminder to check that ally’s text box whenever that ally uses that value to attack or thwart.</li><li>If a star icon is located next to a hero’s ATK, THW, or DEF, or next to an alter-ego’s REC value, the icon serves as a reminder to check that character’s text box whenever they use that value to attack, thwart, defend, or recover.</li><li><mark class=\"new\">If a game step or ability references a power with the value of star (<span class=\"icon icon-star\"></span>), that value is defined in that card’s text. If it is not defined (for instance, if the card’s text is blanked), that value is treated as 0.</mark></li><li>If a star icon is located in an encounter card’s boost field, the icon serves as a reminder to check that card’s text box whenever that card is turned face up as a boost card during the villain’s activation.</li></ul>",
+		"whats_new": "Added a new bullet defining the star icon (⭐) as an equivalent constant ability.",
 		"see_also": [
 			"activation",
 			"ally",
@@ -248,8 +229,7 @@
 			"minion",
 			"non_numerical_variable",
 			"villain_villain_deck"
-		],
-		"whats_new": "Added a new bullet defining the star icon (⭐) as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "status_cards",
@@ -275,19 +255,20 @@
 		"term": "Steady",
 		"type": "official",
 		"content": "<p>A character with the steady keyword can have one additional stunned status card and one additional confused status card. That character is not stunned unless they have two stunned status cards, and is not confused unless they have two confused status cards. After that character’s attack, scheme, or thwart is canceled by a status card effect, remove all status cards of the corresponding type from that character.</p><ul><li><mark class=\"new\">The steady keyword is equivalent to the following constant ability: “This character can have 1 additional confused status card and 1 additional stunned status card. While this character has fewer than 2 confused status cards, it is not considered confused and confused status cards on it do not resolve. While this character has fewer than 2 stunned status cards, it is not considered stunned and stunned status cards on it do not resolve.”</mark></li></ul>",
+		"whats_new": "Added a new bullet defining the steady keyword as an equivalent constant ability.",
 		"see_also": [
 			"confuse_confused",
 			"keywords",
 			"status_cards",
 			"stun_stunned"
-		],
-		"whats_new": "Added a new bullet defining the steady keyword as an equivalent constant ability."
+		]
 	},
 	{
 		"id": "stun_stunned",
 		"term": "Stun, Stunned",
 		"type": "official",
 		"content": "<p>Stun is a status that cancels a character’s next attack.</p><ul><li><mark class=\"new\">A stunned status card resolves like the triggered ability: “<b>Forced Interrupt</b>: When this character would attack, remove each stunned status card from it instead.”</mark></li><li>If an ability “stuns” a character, give that character a stunned status card.</li><li>A character is stunned if it has a stunned status card.<ul><li>A character with the steady keyword is stunned only if it has two stunned status cards.</li></ul></li><li>If a character has an ability stating that it “cannot be stunned,” stunned status cards cannot be placed on that character.</li><li>If a stunned identity or ally attempts to attack or use an attack ability, discard the stunned card instead. Costs associated with the attack attempt, including exhausting the character, must still be paid.<ul><li>A stunned character can attempt to attack or use an attack ability even if it has no valid target for an attack.</li></ul></li><li>If a stunned villain or minion would attack, discard the stunned status card instead.</li><li>As the attack action or attack activation was replaced by the removal of the stunned status card, that character is not considered to have attacked.</li></ul>",
+		"whats_new": "Clarified that a stunned status card resolves like a specific Forced Interrupt triggered ability.",
 		"see_also": [
 			"ally",
 			"cancel",
@@ -296,8 +277,7 @@
 			"status_cards",
 			"target",
 			"villain_villain_deck"
-		],
-		"whats_new": "Clarified that a stunned status card resolves like a specific Forced Interrupt triggered ability."
+		]
 	},
 	{
 		"id": "subtitle",
@@ -318,16 +298,6 @@
 		]
 	},
 	{
-		"id": "superior",
-		"term": "Superior",
-		"type": "fanmade",
-		"content": "<p>Villain only. Players engaged with minions cannot damage the villain.</p>",
-		"see_also": [
-			"villain_villain_deck",
-			"minion"
-		]
-	},
-	{
 		"id": "support",
 		"term": "Support",
 		"type": "official",
@@ -339,18 +309,6 @@
 			"leaves_play",
 			"player_card",
 			"players_play_area"
-		]
-	},
-	{
-		"id": "supportless",
-		"term": "Supportless",
-		"type": "fanmade",
-		"content": "<p>Players cannot target this card with upgrades, supports, beneficial actions, or events.</p>",
-		"see_also": [
-			"target",
-			"upgrade",
-			"support",
-			"event"
 		]
 	},
 	{
@@ -387,11 +345,11 @@
 		"term": "“Swap”",
 		"type": "official",
 		"content": "<p>An instruction to “swap” two components means to exchange the location of those two components.</p><ul><li>A swap cannot be completed if there is not a component in both locations.<ul><li><em>For example, you cannot “swap a card in your hand with the top card of your deck” if you have no cards in hand.</em></li></ul></li><li><mark class=\"new\">Swapped cards maintain the orientation (such as ready or exhausted, faceup or facedown) of the original card.</mark></li><li>Swapping a card in hand with the top card of a deck is <b>not</b> considered drawing that card.</li><li>When swapping a card in a play area with a card in an out-of-play area, if those two cards:<ul><li>Share a title, neither card is considered to enter or leave play. Tokens, attached cards, tucked cards, and status cards on the previously in-play card are transferred to the other card and the other card maintains the state <em>(ready or exhausted)</em> of the previously in-play card. If the swapped card has an associated hit point dial, that dial remains at the same value.</li><li>Do not share a title, the in-play card is considered to leave play and the out-of-play card is considered to enter play. Tokens, attached cards, tucked cards, and status cards on the previously in-play card are <b>not</b> transferred to the other card and the other card enters play ready. If the swapped card has an associated hit point dial, that dial is reset to the new card’s printed hit point value.</li></ul></li></ul>",
+		"whats_new": "Expanded rules for swapping cards and transferring tokens, attachments, and hit point dials.",
 		"see_also": [
 			"ability",
 			"target"
-		],
-		"whats_new": "Expanded rules for swapping cards and transferring tokens, attachments, and hit point dials."
+		]
 	},
 	{
 		"id": "swarm",

@@ -4,12 +4,12 @@
 		"term": "Trouver",
 		"type": "official",
 		"content": "<p>Lorsqu'un joueur reçoit l'instruction de trouver une carte, il cherche dans chaque zone de jeu où cette carte pourrait se trouver <em>(zone de jeu, zone de mise de côté, deck joueur, pile de défausse, deck rencontre, etc.)</em>.</p><ul><li>Les joueurs ne doivent pas chercher inutilement dans des zones de jeu s'ils savent où se trouve la carte qu'ils cherchent.</li><li>Toutes les zones de jeu sont soumises à la recherche lors de la résolution d'une instruction « trouver », à l'exception de :<ul><li>Cartes rencontre face cachée dans n'importe quelle zone de jeu en jeu <em>(que cette carte soit elle-même en jeu ou non)</em>. <em>(Par exemple, toute carte rencontre attribuée à un joueur ou donnée à un personnage comme carte de boost.)</em></li><li>La pile de victoire.</li><li>Les cartes qui ont été retirées de la partie.</li></ul></li><li>Si un joueur reçoit l'instruction de « trouver et révéler » un sbire qui est déjà en jeu, ce joueur s'engage avec ce sbire et résout tous les mots-clés et/ou capacités déclenchées qui se résolvent en raison de la révélation de ce sbire <em>(comme la capacité <b>« Une fois révélé »</b> de ce sbire)</em>.<ul><li>Ce sbire conserve toutes les <mark class=\"new\">cartes attachées</mark> et les jetons sur lui.</li><li>Ce sbire n'est <b>pas</b> considéré comme entrant en jeu.</li><li>Ce sbire est considéré comme s'engageant avec ce joueur à moins qu'il ne soit déjà engagé avec ce joueur.</li></ul></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Trouver comme une capacité constante équivalente.",
 		"see_also": [
 			"search",
 			"removed_from_the_game",
 			"victory_display"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Trouver comme une capacité constante équivalente."
+		]
 	},
 	{
 		"id": "first_player",
@@ -37,19 +37,9 @@
 		"term": "Retourner",
 		"type": "official",
 		"content": "<p>Lorsqu'un joueur reçoit l'instruction de retourner une carte, il la met à l'envers pour que la face qui était face visible soit maintenant face cachée.</p><ul><li>Une carte pliable à « trois faces » est considérée comme retournée chaque fois que la face visible de la carte change.</li><li>Lorsqu'une carte est retournée, si la nouvelle face visible de cette carte a :<ul><li>Le même type de carte que la face précédente, la carte conserve toutes les cartes attachées, les cartes glissées dessous, les cartes d'état et les jetons.</li><li>Un type de carte différent de la face précédente, toutes les <mark class=\"new\">cartes attachées, cartes glissées dessous</mark>, cartes d'état et jetons sont défaussés de la carte.</li></ul></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Basculer comme une capacité constante équivalente.",
 		"see_also": [
 			"double_sided_card"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Basculer comme une capacité constante équivalente."
-	},
-	{
-		"id": "focus_r",
-		"term": "Focalisation (R)",
-		"type": "fanmade",
-		"content": "<p>Si vous payez une carte en utilisant uniquement le type de ressource focalisation (R), réduisez son coût en ressources de 1.</p>",
-		"see_also": [
-			"cost",
-			"resource"
 		]
 	},
 	{
@@ -78,12 +68,12 @@
 		"term": "Forme, changer de forme",
 		"type": "official",
 		"content": "<p>Un joueur peut être soit sous forme de héros, soit sous forme d'alter ego à un moment donné. Cela est indiqué par la carte identité du joueur.</p><ul><li>Une fois par round, pendant son tour, chaque joueur est autorisé à changer de forme en retournant sa carte identité.</li><li>Lorsqu'un joueur change de forme, seule la forme change. Le personnage conserve ses dégâts subis, cartes d'état, effets persistants, <mark class=\"new\">cartes attachées, cartes glissées dessous</mark>, jetons et état actuel <em>(redressé ou incliné)</em>.</li><li>Si une capacité de carte amène un joueur à changer de forme, cela ne compte pas dans le changement de forme volontaire autorisé pendant son tour pour ce round.</li><li>Tant qu'un joueur est sous forme de héros, les capacités de carte qui interagissent avec son alter ego n'interagissent pas avec son identité.</li><li>Tant qu'un joueur est sous forme d'alter ego, les capacités de carte qui interagissent avec son héros n'interagissent pas avec son identité.</li><li>Les cartes avec le mot-clé <b>« forme [type] »</b> octroient des formes uniques à une identité.<ul><li>Ces formes s'ajoutent aux formes alter ego et héros de l'identité, et possèdent leurs propres conditions pour y passer.</li><li>Lorsqu'une identité change de forme supplémentaire, cela ne compte pas dans la limite d'une fois par tour pour se retourner du héros à l'alter ego <em>(ou vice versa)</em>, mais cela compte comme un changement de forme aux fins de déclencher les effets de cartes.</li></ul></li><li>Les cartes avec le texte <b>« forme [type] uniquement »</b> ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est sous la forme spécifiée.</li></ul>",
+		"whats_new": "Clarification : résoudre un changement de forme sur une carte d'identité modifie la forme du joueur vers l'état spécifié.",
 		"see_also": [
 			"flip",
 			"identity",
 			"keywords"
-		],
-		"whats_new": "Clarification : résoudre un changement de forme sur une carte d'identité modifie la forme du joueur vers l'état spécifié."
+		]
 	},
 	{
 		"id": "fragile",

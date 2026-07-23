@@ -10,6 +10,7 @@
 		"term": "Coup rapide",
 		"type": "official",
 		"content": "<p>Après qu'un sbire avec le mot-clé coup rapide engage un joueur dont l'identité est sous forme de héros, ce sbire attaque ce joueur.</p><ul><li><mark class=\"new\">Le mot-clé coup rapide est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée (Héros)</b> : Après que ce sbire a engagé un joueur, il attaque ce joueur. »</mark></li><li><mark class=\"new\">Si un sbire avec le mot-clé coup rapide est révélé, le mot-clé coup rapide se résout après que toutes les capacités « <b>Une fois révélé</b> » de ce sbire sont résolues.</mark></li></ul>",
+		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Attaque Rapide comme une capacité constante équivalente.",
 		"see_also": [
 			"attack_enemy_activation",
 			"engage",
@@ -19,7 +20,6 @@
 			"player",
 			"reminder_text",
 			"reveal"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Attaque Rapide comme une capacité constante équivalente."
+		]
 	}
 ]
