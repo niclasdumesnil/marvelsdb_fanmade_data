@@ -68,6 +68,9 @@
 		"cost_per_hero": {
 			"type": "boolean"
 		},
+		"cost_star": {
+			"type": "boolean"
+		},
 		"deck_limit": {
 			"minimum": 1,
 			"type": "integer"
