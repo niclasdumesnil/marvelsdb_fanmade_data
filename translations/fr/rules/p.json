@@ -95,7 +95,7 @@
 		"id": "play_area",
 		"term": "Zone de jeu",
 		"type": "official",
-		"content": "Il y a deux types de zones de jeu : la zone de jeu d'un joueur et la zone de jeu du méchant.<ul><li>La zone de jeu d'un joueur contient l'identité de ce joueur, son deck, sa main, sa pile de défausse, toute carte en jeu sous son contrôle, et toute carte rencontre face visible ou face cachée dans sa zone de jeu (comme les sbires engagés ou les cartes rencontre qui lui ont été distribuées).</li><li>La zone de jeu du méchant contient le deck méchant, le deck manigance principale, le deck rencontre, la pile de défausse rencontre et toute carte rencontre en jeu qui n'est pas entrée dans la zone de jeu d'un joueur (comme les manigances annexes ou les environnements).</li><li>Une carte ne peut pas être dans plus d'une zone de jeu à la fois.</li></ul>",
+		"content": "<p>Il y a deux types de zones de jeu : la zone de jeu d'un joueur et la zone de jeu du méchant.</p><ul><li>La zone de jeu d'un joueur contient l'identité de ce joueur, son deck, sa main, sa pile de défausse, toute carte en jeu sous son contrôle, et toute carte rencontre face visible ou face cachée dans sa zone de jeu <em>(comme les sbires engagés ou les cartes rencontre qui lui ont été distribuées)</em>.</li><li>La zone de jeu du méchant contient le deck méchant, le deck manigance principale, le deck rencontre, la pile de défausse rencontre et toute carte rencontre en jeu qui n'est pas entrée dans la zone de jeu d'un joueur <em>(comme les manigances annexes ou les environnements)</em>.</li><li>Une carte ne peut pas être dans plus d'une zone de jeu à la fois.</li></ul>",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"players_play_area",
@@ -104,9 +104,9 @@
 	},
 	{
 		"id": "play_put_into_play",
-		"term": "Jouer, Mettre en Jeu",
+		"term": "Jouer, mettre en jeu",
 		"type": "official",
-		"content": "Jouer une carte implique de payer le coût de la carte et de la placer dans la zone de jeu. Cela fait entrer la carte en jeu (ou, dans le cas d'une carte événement, de résoudre sa capacité et d'être placée dans la pile de défausse). Les cartes sont jouées depuis la main d'un joueur. Certaines capacités permettent de mettre des cartes en jeu. Cela contourne la nécessité de payer le coût de la carte ainsi que toute restriction ou interdiction concernant le fait de jouer cette carte. Une carte qui est mise en jeu entre en jeu dans la zone de jeu de son contrôleur.<ul><li>Les cartes avec le texte « forme [type] uniquement » ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est dans la forme spécifiée.</li><li>Lorsqu'une carte événement est jouée, placez-la sur la table, résolvez sa capacité et placez la carte dans la pile de défausse de son propriétaire.</li><li>Une carte mise en jeu n'est pas considérée comme ayant été jouée.</li><li>Lorsqu'une carte est mise en jeu, son coût en ressources est ignoré.</li><li>Sauf indication contraire par l'effet « mettre en jeu », les cartes mises en jeu doivent l'être dans une zone de jeu ou un état correspondant aux règles permettant de jouer la carte.</li></ul>",
+		"content": "<p>Jouer une carte implique de payer le coût de la carte et de la placer dans la zone de jeu. Cela fait entrer la carte en jeu <em>(ou, dans le cas d'une carte événement, de résoudre sa capacité et d'être placée dans la pile de défausse)</em>. Les cartes sont jouées depuis la main d'un joueur.</p><p>Certaines capacités permettent de mettre des cartes en jeu. Cela contourne la nécessité de payer le coût de la carte ainsi que toute restriction ou interdiction concernant le fait de jouer cette carte. Une carte qui est mise en jeu entre en jeu dans la zone de jeu de son contrôleur.</p><ul><li>Les cartes avec le texte « forme [type] uniquement » ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est dans la forme spécifiée.</li><li>Lorsqu'une carte événement est jouée, placez-la sur la table, résolvez sa capacité et placez la carte dans la pile de défausse de son propriétaire.</li><li>Une carte mise en jeu n'est pas considérée comme ayant été jouée.</li><li>Lorsqu'une carte est mise en jeu, son coût en ressources est ignoré.</li><li>Sauf indication contraire par l'effet « mettre en jeu », les cartes mises en jeu doivent l'être dans une zone de jeu ou un état correspondant aux règles permettant de jouer la carte.</li></ul>",
 		"see_also": [
 			"enters_play",
 			"in_play_and_out_of_play",
@@ -119,7 +119,7 @@
 		"id": "play_restrictions_and_permissions",
 		"term": "Restrictions et permissions de jeu",
 		"type": "official",
-		"content": "De nombreuses cartes et capacités contiennent des instructions spécifiques indiquant quand ou comment elles peuvent ou ne peuvent pas être utilisées, ou des conditions spécifiques qui doivent être remplies pour les utiliser.<ul><li>Afin d'utiliser une capacité ou de jouer une carte, toutes ses restrictions de jeu doivent être respectées.</li><li>Une permission est une restriction de jeu optionnelle, qui permet à un joueur de jouer une carte ou d'utiliser une capacité en dehors du timing ou des spécifications prévues par les règles du jeu. Par exemple, une permission peut permettre à une carte allié d'être jouée depuis la pile de défausse d'un joueur.</li></ul>",
+		"content": "<p>De nombreuses cartes et capacités contiennent des instructions spécifiques indiquant quand ou comment elles peuvent ou ne peuvent pas être utilisées, ou des conditions spécifiques qui doivent être remplies pour les utiliser.</p><ul><li>Afin d'utiliser une capacité ou de jouer une carte, toutes ses restrictions de jeu doivent être respectées.</li><li>Une permission est une restriction de jeu optionnelle, qui permet à un joueur de jouer une carte ou d'utiliser une capacité en dehors du timing ou des spécifications prévues par les règles du jeu. <em>Par exemple, une permission peut permettre à une carte allié d'être jouée depuis la pile de défausse d'un joueur.</em></li></ul>",
 		"see_also": [
 			"ability",
 			"play_put_into_play",
@@ -130,7 +130,7 @@
 		"id": "player",
 		"term": "Joueur",
 		"type": "official",
-		"content": "Un joueur est une personne qui participe à une partie de Marvel Champions.<ul><li>Chaque joueur dans la partie possède sa propre zone de jeu personnelle contenant sa carte identité, son cadran de points de vie, sa main de cartes, son deck dans lequel il pioche, sa pile de défausse dans laquelle il place ses cartes défaussées, tous les alliés, améliorations ou soutiens qu'il peut avoir en jeu, et tous les attachements, sbires ou obligations qu'il peut avoir dans sa zone de jeu.</li><li>Pendant chaque phase des joueurs de chaque round, chaque joueur joue son propre tour personnel où il peut jouer des cartes, effectuer des actions avec les cartes qu'il contrôle et utiliser diverses capacités.</li><li>Chaque joueur possède les cartes qui étaient contenues dans son deck (y compris sa carte identité) au début de la partie.</li><li>Certaines étapes de jeu, fonctions de jeu ou capacités de carte peuvent faire référence au « premier joueur ». Le premier joueur est le joueur qui possède le pion premier joueur.</li></ul>",
+		"content": "<p>Un joueur est une personne qui participe à une partie de <b>Marvel Champions</b>.</p><ul><li>Chaque joueur dans la partie possède sa propre zone de jeu personnelle contenant sa carte identité, son cadran de points de vie, sa main de cartes, son deck dans lequel il pioche, sa pile de défausse dans laquelle il place ses cartes défaussées, tous les alliés, améliorations ou soutiens qu'il peut avoir en jeu, et tous les attachements, sbires ou obligations qu'il peut avoir dans sa zone de jeu.</li><li>Pendant chaque phase des joueurs de chaque round, chaque joueur joue son propre tour personnel où il peut jouer des cartes, effectuer des actions avec les cartes qu'il contrôle et utiliser diverses capacités.</li><li>Chaque joueur possède les cartes qui étaient contenues dans son deck <em>(y compris sa carte identité)</em> au début de la partie.</li><li>Certaines étapes de jeu, fonctions de jeu ou capacités de carte peuvent faire référence au « premier joueur ». Le premier joueur est le joueur qui possède le pion premier joueur.</li></ul>",
 		"see_also": [
 			"discard",
 			"discard_pile",
@@ -149,7 +149,7 @@
 		"id": "player_card",
 		"term": "Cartes joueur",
 		"type": "official",
-		"content": "Il existe sept types de cartes joueur : les cartes allié, les cartes événement, les cartes identité, les cartes manigance annexe de joueur, les cartes ressource, les cartes soutien et les cartes amélioration.<ul><li>Les cartes joueur peuvent appartenir à diverses classifications, telles que les cartes joueur spécifiques à l'identité ou les cartes joueur d'affinité.</li><li>La plupart des cartes joueur ont un dos de carte bleu.</li></ul>",
+		"content": "<p>Il existe sept types de cartes joueur : les cartes allié, les cartes événement, les cartes identité, les cartes manigance annexe de joueur, les cartes ressource, les cartes soutien et les cartes amélioration.</p><ul><li>Les cartes joueur peuvent appartenir à diverses classifications, telles que les cartes joueur spécifiques à l'identité ou les cartes joueur d'affinité.</li><li>La plupart des cartes joueur ont un dos de carte bleu.</li></ul>",
 		"see_also": [
 			"ally",
 			"classifications",
@@ -166,7 +166,7 @@
 		"id": "player_deck",
 		"term": "Deck joueur",
 		"type": "official",
-		"content": "Le deck d'un joueur contient les cartes joueur (alliés, événements, manigances annexes de joueur, ressources, soutiens et améliorations) possédées par le joueur qui a commencé la partie avec ce deck.<ul><li>L'ordre des cartes dans le deck d'un joueur ne peut pas être modifié à moins qu'un joueur n'en reçoive l'instruction par une étape de jeu, une fonction de jeu ou une capacité de carte.</li></ul><span style=\"font-size: 0.92rem;\">Si le deck d'un joueur se vide, le joueur mélange sa pile de défausse pour former un nouveau deck. Ce joueur se distribue immédiatement une carte rencontre face cachée du dessus du deck rencontre.</span><br><ul><li>Si le deck du joueur se vide et est mélangé pendant que le joueur piochait des cartes, il continue de piocher des cartes jusqu'au nombre spécifié.</li><li>Si le deck du joueur se vide pendant que le joueur défaussait des cartes de son deck, aucune autre carte n'est défaussée du deck nouvellement mélangé.</li><li>Si le deck d'un joueur se vide et que le joueur n'a aucune carte dans sa pile de défausse, le deck ne se réinitialise pas tant qu'il n'y a pas au moins une carte dans la pile de défausse du joueur, puis le joueur se distribue une carte rencontre face cachée.</li></ul>",
+		"content": "<p>Le deck d'un joueur contient les cartes joueur <em>(alliés, événements, manigances annexes de joueur, ressources, soutiens et améliorations)</em> possédées par le joueur qui a commencé la partie avec ce deck.</p><ul><li>L'ordre des cartes dans le deck d'un joueur ne peut pas être modifié à moins qu'un joueur n'en reçoive l'instruction par une étape de jeu, une fonction de jeu ou une capacité de carte.</li></ul><p>Si le deck d'un joueur se vide, le joueur mélange sa pile de défausse pour former un nouveau deck. Ce joueur se distribue immédiatement une carte rencontre face cachée du dessus du deck rencontre.</p><ul><li>Si le deck du joueur se vide et est mélangé pendant que le joueur piochait des cartes, il continue de piocher des cartes jusqu'au nombre spécifié.</li><li>Si le deck du joueur se vide pendant que le joueur défaussait des cartes de son deck, aucune autre carte n'est défaussée du deck nouvellement mélangé.</li><li>Si le deck d'un joueur se vide et que le joueur n'a aucune carte dans sa pile de défausse, le deck ne se réinitialise pas tant qu'il n'y a pas au moins une carte dans la pile de défausse du joueur, puis le joueur se distribue une carte rencontre face cachée.</li></ul>",
 		"see_also": [
 			"discard",
 			"discard_pile",
@@ -177,9 +177,9 @@
 	},
 	{
 		"id": "player_discard_pile",
-		"term": "Pile de défausse Joueur",
+		"term": "Pile de défausse joueur",
 		"type": "official",
-		"content": "Voir : Pile de défausse",
+		"content": "<p>Voir : Pile de défausse.</p>",
 		"see_also": [
 			"discard_pile"
 		]

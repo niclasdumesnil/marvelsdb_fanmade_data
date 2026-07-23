@@ -95,7 +95,7 @@
 		"id": "play_area",
 		"term": "Play Area",
 		"type": "official",
-		"content": "<p>Two types of play areas: a player's play area and the villain's play area.</p>\n<ul><li>A player's play area contains identity, deck, hand, discard pile, cards in play under their control, and any facedown/faceup encounter cards in their area.</li><li>The villain's play area contains the villain deck, main scheme deck, encounter deck, encounter discard pile, and encounter cards not in a player's play area.</li><li>A card cannot be in more than one play area at a time.</li></ul>",
+		"content": "<p>There are two types of play areas: a player’s play area and the villain’s play area.</p><ul><li>A player’s play area contains that player’s identity, deck, hand, discard pile, any cards in play under their control, and any faceup or facedown encounter cards in their play area <em>(such as engaged minions or encounter cards that have been dealt to them)</em>.</li><li>The villain’s play area contains the villain deck, main scheme deck, encounter deck, encounter discard pile, and any encounter cards in play that have not entered a player’s play area <em>(such as side schemes or environments)</em>.</li><li>A card cannot be in more than one play area at a time.</li></ul>",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"players_play_area",
@@ -106,7 +106,7 @@
 		"id": "play_put_into_play",
 		"term": "Play, Put into Play",
 		"type": "official",
-		"content": "<p>Playing a card involves paying its cost and placing it in the play area, causing it to enter play (or, for an event, resolve its ability and be placed in the discard pile).</p>\n<ul><li>Cards are played from a player's hand. Abilities may cause cards to be put into play, bypassing the cost and any playing restrictions; a card put into play enters play in its controller's play area.</li><li>Cards with '[type] form only' can only be played/put into play by a player in that form.</li><li>When an event is played, place it on the table, resolve its ability, then discard it.</li><li>A card put into play is not considered to have been played; when put into play, its resource cost is ignored.</li></ul>",
+		"content": "<p>Playing a card involves paying the card’s cost and placing the card in the play area. This causes the card to enter play <em>(or, in the case of an event card, to resolve its ability and be placed in the discard pile)</em>. Cards are played from a player’s hand.</p><p>Some abilities cause cards to be put into play. This bypasses the need to pay the card’s cost as well as any restrictions or prohibitions regarding playing that card. A card that is put into play enters play in its controller’s play area.</p><ul><li>Cards with the text “[type] form only” can only be played or put into play by a player whose identity is in the specified form.</li><li>When an event card is played, place it on the table, resolve its ability, and place the card in its owner’s discard pile.</li><li>A card that is put into play is not considered to have been played.</li><li>When a card is put into play, its resource cost is ignored.</li><li>Unless otherwise stated by the “put into play” effect, cards that are put into play must do so in a play area or state that matches the rules of playing the card.</li></ul>",
 		"see_also": [
 			"enters_play",
 			"in_play_and_out_of_play",
@@ -119,7 +119,7 @@
 		"id": "play_restrictions_and_permissions",
 		"term": "Play Restrictions and Permissions",
 		"type": "official",
-		"content": "<p>Many cards and abilities contain specific instructions pertaining to when/how they may or may not be used, or conditions that must be true to use them. In order to use an ability or play a card, all of its play restrictions must be observed.</p>\n<p>A permission is an optional play restriction allowing a player to play a card/use an ability outside normal timing/specifications (e.g. playing an ally from the discard pile).</p>",
+		"content": "<p>Many cards and abilities contain specific instructions pertaining to when or how they may or may not be used, or to specific conditions that must be true in order to use them.</p><ul><li>In order to use an ability or play a card, all of its play restrictions must be observed.</li><li>A permission is an optional play restriction, which allows a player to play a card or use an ability outside the timing or specifications provided by the game rules. <em>For example, a permission might allow an ally card to be played from a player’s discard pile.</em></li></ul>",
 		"see_also": [
 			"ability",
 			"play_put_into_play",
@@ -130,7 +130,7 @@
 		"id": "player",
 		"term": "Player",
 		"type": "official",
-		"content": "<ul><li>A player is a person playing Marvel Champions.</li><li>Each player has their own personal play area containing identity card, hit point dial, hand, deck, discard pile, allies/upgrades/supports in play, and attachments/minions/obligations in their area.</li><li>During each player phase, each player takes their own turn.</li><li>Each player owns the cards contained within their deck (including identity card) at the start of the game.</li><li>The 'first player' is the player who has the first player token.</li></ul>",
+		"content": "<p>A player is a person who is playing in a game of <b>Marvel Champions</b>.</p><ul><li>Each player in the game has their own personal play area containing their identity card, their identity's hit point dial, their hand of cards, their deck that they draw from, their discard pile that they place their discarded cards into, any allies, upgrades, or supports that they may have in play, and any attachments, minions, or obligations that they may have in their play area.</li><li>During each player phase of each round, each player takes their own personal turn where they can play cards, perform actions with cards they control, and use various abilities.</li><li>Each player owns the cards that were contained within their deck <em>(including their identity card)</em> at the start of the game.</li><li>Some game steps, game functions, or card abilities may refer to the “first player”. The first player is the player who has the first player token.</li></ul>",
 		"see_also": [
 			"discard",
 			"discard_pile",
@@ -149,7 +149,7 @@
 		"id": "player_card",
 		"term": "Player Card",
 		"type": "official",
-		"content": "<p>There are seven player card types: ally, event, identity, player side scheme, resource, support, and upgrade. Player cards may belong to various classifications (identity-specific, aspect).</p>\n<p>Most player cards have a blue card back.</p>",
+		"content": "<p>There are seven player card types: ally cards, event cards, identity cards, player side scheme cards, resource cards, support cards, and upgrade cards.</p><ul><li>Player cards may belong to various classifications, such as identity-specific player cards or aspect player cards.</li><li>Most player cards have a blue card back.</li></ul>",
 		"see_also": [
 			"ally",
 			"classifications",
@@ -166,7 +166,7 @@
 		"id": "player_deck",
 		"term": "Player Deck",
 		"type": "official",
-		"content": "<ul><li>A player's deck contains the player cards owned by the player who started the game with that deck. Order cannot be changed unless instructed.</li><li>If a player deck empties, the player shuffles their discard pile to make a new deck and immediately deals themselves one facedown encounter card from the top of the encounter deck.</li><li>If the deck empties and reshuffles while drawing, the player continues drawing up to the specified number; if while discarding, no further cards are discarded from the newly shuffled deck.</li><li>If it empties and there are no cards in the discard pile, it does not reset until there is at least one card in the discard pile.</li></ul>",
+		"content": "<p>A player’s deck contains the player cards <em>(allies, events, player side schemes, resources, supports, and upgrades)</em> owned by the player who started the game with that deck.</p><ul><li>The order of cards within a player’s deck cannot be changed unless a player is instructed to do so by a game step, game function, or card ability.</li></ul><p>If a player deck empties, the player shuffles their discard pile to make a new deck. That player immediately deals himself one facedown encounter card from the top of the encounter deck.</p><ul><li>If the player’s deck empties and reshuffles while the player was drawing cards, the player continues to draw cards up to the specified number.</li><li>If the player’s deck empties while the player was discarding cards from their deck, no further cards are discarded from the newly shuffled deck.</li><li>If a player deck empties and the player has no cards in their discard pile, the deck does not reset until there is at least one card in the player’s discard pile, then the player deals himself one facedown encounter card.</li></ul>",
 		"see_also": [
 			"discard",
 			"discard_pile",
