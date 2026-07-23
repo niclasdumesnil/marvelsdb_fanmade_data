@@ -153,9 +153,9 @@
 	},
 	{
 		"id": "draw_drawing_cards",
-		"term": "Piocher, Piocher des Cartes",
+		"term": "Piocher, piocher des cartes",
 		"type": "official",
-		"content": "Si un joueur reçoit l'instruction de piocher une ou plusieurs cartes, ces cartes sont piochées sur le dessus de son deck, une par une.<ul><li>Les cartes piochées sont ajoutées à la main du joueur.</li><li>La taille de la main de chaque joueur est vérifiée à la fin de la phase des joueurs. Si un joueur a plus de cartes en main que sa valeur de taille de main à ce moment-là, il doit choisir et défausser des cartes de sa main jusqu'à ce qu'il atteigne sa taille de main.</li></ul>",
+		"content": "<p>Si un joueur reçoit l'instruction de piocher une ou plusieurs cartes, ces cartes sont piochées sur le dessus de son deck une par une.</p><ul><li>Les cartes piochées sont ajoutées à la main du joueur.</li><li>La taille de la main de chaque joueur est vérifiée à la fin de la phase des joueurs. Si un joueur a plus de cartes dans sa main que la valeur de sa taille de main à ce moment-là, il doit choisir et défausser des cartes de sa main jusqu'à ce qu'il atteigne sa taille de main.</li></ul>",
 		"see_also": [
 			"discard",
 			"in_play_and_out_of_play",

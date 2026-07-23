@@ -155,7 +155,7 @@
 		"id": "draw_drawing_cards",
 		"term": "Draw, Drawing Cards",
 		"type": "official",
-		"content": "<p>If a player is instructed to draw cards, they are drawn from the top of their deck one at a time and added to hand. Each player's hand size is checked at the end of the player phase; if over hand size, they must discard down.</p>",
+		"content": "<p>If a player is instructed to draw one or more cards, those cards are drawn from the top of their deck one at a time.</p><ul><li>Drawn cards are added to a player’s hand.</li><li>Each player’s hand size is checked at the end of the player phase. If a player has more cards in their hand than their hand size value at this time, they must choose and discard cards from hand until they are at their hand size.</li></ul>",
 		"see_also": [
 			"discard",
 			"in_play_and_out_of_play",
