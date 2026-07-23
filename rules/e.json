@@ -198,7 +198,7 @@
 		"id": "environment",
 		"term": "Environment",
 		"type": "official",
-		"content": "<p>Environment is an encounter card type creating an overarching rule or set of rules for the scenario. An environment card enters play in the villain's play area and stays active while in play, until a card ability or game effect causes it to leave.</p>",
+		"content": "<p>Environment is an encounter card type that creates an overarching rule or set of rules for the scenario.</p><p>An environment card enters play in the villain’s play area, and is active so long as it remains in play.</p><ul><li>If an environment enters play, it remains in play until a card ability or game effect causes it to leave play.</li></ul>",
 		"see_also": [
 			"card_types",
 			"encounter_card",
@@ -211,7 +211,7 @@
 		"id": "event",
 		"term": "Event",
 		"type": "official",
-		"content": "<p>Event is a player card type generally played for an instantaneous effect.</p>\n<ul><li>When played, it's placed faceup on the table (not in play), costs paid, effects resolved (unless canceled), then placed in the owner's discard pile.</li><li>If an event has multiple triggered abilities, the player chooses one to trigger. Events are considered an extension of an identity — attacks/thwarts/defenses/actions/triggered abilities from playing an event are performed by that identity.</li><li>If an effect modifies damage/threat an event deals/removes multiple times, each instance is modified (except when modifying 'an attack' rather than 'an event' for multiple attacks — only the first is modified).</li></ul>",
+		"content": "<p>Event is a player card type that is generally played for an instantaneous effect.</p><p>Each time a player plays an event card, that player places it faceup on the table in front of them <em>(the event is not in play)</em>, pays its costs, resolves its effects <em>(unless those effects are canceled)</em>, and then places the card in its owner’s discard pile after those effects resolve <em>(or are canceled)</em>.</p><ul><li>If an event has more than one triggered ability on it, the player playing it chooses one of those abilities to trigger when playing that event.</li><li>If the effects of an event are canceled, the card is still considered to have been played, and its costs remain paid. Only the effects are canceled.</li><li>An event card cannot be played if it requires one or more targets and does not have at least one valid target.</li><li>Event cards are considered to be an extension of an identity. Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve from a player playing an event are also considered to be performed by that player’s identity.</li><li>If an effect modifies the amount of damage an event deals or the amount of threat an event removes, and that event deals multiple instances of damage or removes multiple instances of threat, each of those instances is modified.<ul><li>If an effect modifies the amount of damage “an attack” deals <em>(rather than “an event”)</em>, and an event initiates multiple attacks, only the first of those attacks has its damage modified.</li></ul></li></ul>",
 		"see_also": [
 			"card_types",
 			"discard",
@@ -241,7 +241,7 @@
 		"id": "exhausted",
 		"term": "Exhausted",
 		"type": "official",
-		"content": "<p>If a card is exhausted, it is rotated 90 degrees. An exhausted card cannot be exhausted again until ready.</p>\n<p>A card ability on an exhausted card is still active, but if it must exhaust to pay a cost, that ability cannot be used until ready.</p>",
+		"content": "<p>If a card is exhausted, it is rotated 90 degrees.</p><ul><li>An exhausted card cannot be exhausted again until it is ready. Cards are typically readied by a game step or card ability.</li><li>A card ability on an exhausted card is active and can still interact with the game state. However, if an exhausted card must exhaust to pay the cost of using its ability, that ability cannot be used until the card is ready.</li></ul>",
 		"see_also": [
 			"ready"
 		]

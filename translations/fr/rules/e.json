@@ -198,7 +198,7 @@
 		"id": "environment",
 		"term": "Environnement",
 		"type": "official",
-		"content": "Environnement est un type de carte rencontre qui crée une règle globale ou un ensemble de règles pour le scénario. Une carte environnement entre en jeu dans la zone de jeu du méchant, et est active tant qu'elle reste en jeu.<ul><li>Si un environnement entre en jeu, il y reste jusqu'à ce qu'une capacité de carte ou un effet de jeu le fasse quitter le jeu.</li></ul>",
+		"content": "<p>Environnement est un type de carte rencontre qui crée une règle globale ou un ensemble de règles pour le scénario.</p><p>Une carte environnement entre en jeu dans la zone de jeu du méchant, et est active tant qu'elle reste en jeu.</p><ul><li>Si un environnement entre en jeu, il reste en jeu jusqu'à ce qu'une capacité de carte ou un effet de jeu le fasse quitter le jeu.</li></ul>",
 		"see_also": [
 			"card_types",
 			"encounter_card",
@@ -209,9 +209,9 @@
 	},
 	{
 		"id": "event",
-		"term": "Evénement",
+		"term": "Événement",
 		"type": "official",
-		"content": "Un événement est un type de carte joueur qui est généralement joué pour un effet instantané. Chaque fois qu'un joueur joue une carte événement, il la place face visible sur la table devant lui (l'événement n'est pas en jeu), paie ses coûts, résout ses effets (à moins qu'ils ne soient annulés), puis place la carte dans la pile de défausse de son propriétaire.<ul><li>Si un événement a plus d'une capacité déclenchée, le joueur qui le joue choisit l'une de ces capacités à déclencher.</li><li>Si les effets d'un événement sont annulés, la carte est toujours considérée comme ayant été jouée et ses coûts restent payés.</li><li>Une carte événement ne peut pas être jouée si elle nécessite une ou plusieurs cibles et n'a pas au moins une cible valide.</li><li>Les cartes événement sont considérées comme une extension d'une identité. Les attaques, contres, défenses et capacités résolues par un joueur jouant un événement sont également considérées comme effectuées par l'identité de ce joueur.</li></ul>",
+		"content": "<p>Événement est un type de carte joueur qui est généralement joué pour un effet instantané.</p><p>Chaque fois qu'un joueur joue une carte événement, il la place face visible sur la table devant lui <em>(l'événement n'est pas en jeu)</em>, paie ses coûts, résout ses effets <em>(à moins que ces effets ne soient annulés)</em>, puis place la carte dans la pile de défausse de son propriétaire après la résolution de ces effets <em>(ou leur annulation)</em>.</p><ul><li>Si un événement possède plus d'une capacité déclenchée sur lui, le joueur qui le joue choisit l'une de ces capacités à déclencher lors du jeu de cet événement.</li><li>Si les effets d'un événement sont annulés, la carte est toujours considérée comme ayant été jouée et ses coûts restent payés. Seuls les effets sont annulés.</li><li>Une carte événement ne peut pas être jouée si elle nécessite une ou plusieurs cibles et ne dispose pas d'au moins une cible valide.</li><li>Les cartes événement sont considérées comme une extension d'une identité. Les attaques, contres, défenses, capacités d'action et capacités déclenchées qui se résolvent lorsqu'un joueur joue un événement sont également considérés comme étant effectués par l'identité de ce joueur.</li><li>Si un effet modifie la quantité de dégâts qu'un événement inflige ou la quantité de menace qu'un événement retire, et que cet événement inflige plusieurs instances de dégâts ou retire plusieurs instances de menace, chacune de ces instances est modifiée.<ul><li>Si un effet modifie la quantité de dégâts qu'« une attaque » inflige <em>(plutôt qu'« un événement »)</em>, et qu'un événement initie plusieurs attaques, seule la première de ces attaques voit ses dégâts modifiés.</li></ul></li></ul>",
 		"see_also": [
 			"card_types",
 			"discard",
@@ -241,7 +241,7 @@
 		"id": "exhausted",
 		"term": "Incliné",
 		"type": "official",
-		"content": "Si une carte est inclinée, elle est pivotée de 90 degrés. Une carte inclinée ne peut pas être inclinée à nouveau tant qu'elle n'est pas redressée. La plupart des personnages doivent s'incliner pour attaquer, contrer, défendre ou récupérer.<ul><li>Une capacité de carte sur une carte inclinée est active et peut toujours interagir avec l'état du jeu. Cependant, si une carte inclinée doit s'incliner pour payer le coût d'utilisation de sa capacité, cette capacité ne peut pas être utilisée tant que la carte n'est pas redressée.</li></ul>",
+		"content": "<p>Si une carte est inclinée, elle est pivotée de 90 degrés.</p><ul><li>Une carte inclinée ne peut pas être inclinée à nouveau tant qu'elle n'est pas redressée. Les cartes sont généralement redressées par une étape de jeu ou une capacité de carte.</li><li>Une capacité de carte sur une carte inclinée est active et peut toujours interagir avec l'état du jeu. Cependant, si une carte inclinée doit s'incliner pour payer le coût d'utilisation de sa capacité, cette capacité ne peut pas être utilisée tant que la carte n'est pas redressée.</li></ul>",
 		"see_also": [
 			"ready"
 		]
