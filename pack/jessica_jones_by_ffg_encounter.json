@@ -12,6 +12,7 @@
         "position": 30,
         "quantity": 1,
         "set_code": "jessica_jones_by_ffg",
+        "status": "sealed",
         "text": "Give to the Jessica Jones player.\nAs an additional cost to change forms, discard 1 card from your hand.\n<b>Alter-Ego Action</b>: Choose:\n• Remove an ally you control from the game → remove this card from the game.\n• Confuse your identity → discard this card.",
         "type_code": "obligation"
     },

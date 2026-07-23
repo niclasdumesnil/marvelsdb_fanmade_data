@@ -12,6 +12,7 @@
         "position": 28,
         "quantity": 1,
         "set_code": "luke_cage_by_ffg",
+        "status": "released",
         "text": "<b><i>Give to the Luke Cage player.</i></b>\n<b>Forced Response</b>: After the player phase ends, take 3 unpreventable damage (<i>ignoring tough status cards</i>).\n<b>Alter-Ego Response</b>: After you recover, remove Internal Injury from the game.",
         "type_code": "obligation"
     },
