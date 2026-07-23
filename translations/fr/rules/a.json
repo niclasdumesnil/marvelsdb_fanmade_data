@@ -45,9 +45,9 @@
 	},
 	{
 		"id": "acceleration_token",
-		"term": "Pion Accélération",
+		"term": "Jeton Accélération",
 		"type": "official",
-		"content": "Les pions accélération sont fonctionnellement équivalents aux icônes d'accélération (mais ne sont pas considérés comme tels). Ils sont placés à côté de la manigance principale pour rappeler d'ajouter X menaces supplémentaires lors de l'étape 1 de la phase du méchant, où X est le nombre de pions accélération en jeu.<div>Les pions accélération entrent en jeu par l'un de ces deux effets :<br><ul><li>Si le deck rencontre est vide, placez un pion accélération à côté de la manigance principale.</li><li>Les effets de cartes peuvent instruire d'ajouter un pion accélération en jeu.</li><ul><li>Les pions accélération placés sur d'autres cartes que la manigance principale ajoutent quand même de la menace à celle-ci lors de l'étape 1.</li></ul></ul>Les pions accélération sur la manigance principale ne peuvent pas être retirés du jeu. Contrairement aux autres pions, lorsqu'une carte manigance principale quitte le jeu, le pion accélération n'est pas défaussé.<br><ul><li>Les pions accélération placés sur d'autres cartes sont retirés du jeu lorsque la carte sur laquelle ils sont placés quitte le jeu.</li><li>Les pions accélération ne sont pas considérés comme des icônes d'accélération, et vice versa.</li></ul></div>",
+		"content": "<p>Les jetons d'accélération sont fonctionnellement équivalents aux icônes d'accélération <em>(mais ne sont pas considérés comme des icônes d'accélération)</em>. Ils sont placés à côté de la manigance principale pour rappeler d'ajouter X menaces supplémentaires à la manigance principale lors de l'étape un de la phase du méchant, où X est le nombre de jetons d'accélération en jeu.</p><p>Les jetons d'accélération entrent en jeu par l'un de deux effets :</p><ul><li>Si le deck rencontre est vide, placez un jeton d'accélération à côté de la manigance principale.</li><li>Les effets de carte peuvent ordonner aux joueurs d'ajouter un jeton d'accélération en jeu.<ul><li>Les jetons d'accélération placés sur des cartes autres que la manigance principale ajoutent toujours de la menace à la manigance principale lors de l'étape un de la phase du méchant.</li></ul></li></ul><p>Les jetons d'accélération sur la manigance principale ne peuvent pas être retirés du jeu. Contrairement aux autres jetons, lorsqu'une carte de manigance principale quitte le jeu, le jeton d'accélération n'est pas défaussé.</p><ul><li>Les jetons d'accélération placés sur des cartes autres que la manigance principale sont retirés du jeu lorsque la carte sur laquelle ils sont placés quitte le jeu.</li><li>Les jetons d'accélération ne sont pas considérés comme des icônes d'accélération, et inversement.</li></ul>",
 		"see_also": [
 			"component_limitations",
 			"encounter_deck",
@@ -59,7 +59,7 @@
 		"id": "action",
 		"term": "Action",
 		"type": "official",
-		"content": "« <b>Action</b> » est un type de capacité déclenchée. Les joueurs sont autorisés à déclencher des capacités <b>action</b> pendant leur tour, ou sur demande pendant le tour des autres joueurs.<br><ul><li>Les joueurs ne peuvent déclencher des capacités <b>action</b> que sur les cartes qu'ils contrôlent ou sur les cartes rencontre. Les joueurs ne peuvent pas déclencher de capacités <b>action</b> sur les obligations dans la zone de jeu d'autres joueurs.</li><li>Chaque capacité « <b>Action Forcée</b> » doit être résolue avant que la phase des joueurs ne puisse se terminer.</li><ul><li>Une capacité <b>action forcée</b> peut être déclenchée à n'importe quel moment où une capacité <b>action</b> non forcée pourrait l'être.</li><li>Si une telle capacité a un coût qui ne peut être payé ou nécessite une ou plusieurs cibles valides et n'en a aucune, la phase peut se terminer sans que cette capacité ne soit résolue.</li></ul></ul>",
+		"content": "<p><b>« Action »</b> est un type de capacité déclenchée. Les joueurs sont autorisés à déclencher des capacités d'action pendant leur tour, ou sur demande pendant le tour des autres joueurs.</p><ul><li>Les joueurs ne peuvent déclencher des capacités d'action que sur les cartes qu'ils contrôlent ou sur les cartes rencontre.<ul><li>Les joueurs ne peuvent pas déclencher de capacités d'action sur les obligations situées dans la zone de jeu d'autres joueurs.</li></ul></li><li>Chaque capacité <b>« Action Forcée »</b> doit être résolue avant que la phase des joueurs ne puisse se terminer.<ul><li>Une capacité d'action forcée peut être déclenchée à tout moment où une capacité d'action non forcée pourrait être déclenchée.</li><li>Si une telle capacité a un coût qui ne peut pas être payé ou nécessite une ou plusieurs cibles valides et n'en a aucune, la phase peut se terminer sans que cette capacité ne soit résolue.</li></ul></li></ul>",
 		"see_also": [
 			"ability",
 			"player_turn",
@@ -112,9 +112,9 @@
 	},
 	{
 		"id": "all_purpose_counter",
-		"term": "Jetons Génériques",
+		"term": "Jeton universel",
 		"type": "official",
-		"content": "Les jetons génériques (ou compteurs génériques) peuvent être utilisés pour suivre divers états de jeu et statuts. Ils n'ont pas de règles inhérentes.&nbsp;<div><ul><li>Les capacités de carte peuvent créer et définir différents types de compteurs. Si un compteur est requis, un jeton générique est utilisé pour suivre sa présence dans la partie.</li><li>Les jetons génériques sont considérés comme des pions pour toutes les utilisations du jeu.</li><li>Une capacité qui fait référence à un « compteur générique » peut faire référence à n'importe quel compteur générique, quels que soient les autres types que ce compteur pourrait avoir.</li><li>Lorsqu'un compteur générique est déplacé d'une carte à une autre, il perd son type précédent et gagne le type défini sur la nouvelle carte qu'il occupe.&nbsp;</li><li>Si la nouvelle carte ne définit pas de type, il est considéré uniquement comme un « compteur générique ».</li></ul></div>",
+		"content": "<p>Les jetons universels peuvent être utilisés pour suivre une variété d'états et de statuts de jeu différents. Ils n'ont pas de règles inhérentes.</p><p>Les capacités de carte peuvent créer et définir un certain nombre de types de jetons différents, tels que les « jetons flèche » ou les « jetons toile ». Si un jeton est requis, un jeton universel est utilisé pour suivre sa présence dans le jeu.</p><ul><li>Les jetons universels sont considérés comme des jetons pour tous les besoins du jeu.</li><li>Une capacité qui fait référence à un « jeton universel » peut faire référence à n'importe quel jeton universel, quel que soit le type que ce jeton pourrait avoir par ailleurs.</li><li>Lorsqu'un jeton universel est déplacé d'une carte à une autre, il perd tout type précédent qu'il avait et acquiert le type défini sur la nouvelle carte qu'il occupe. Si la nouvelle carte ne définit aucun type, il est considéré uniquement comme un « jeton universel ».</li></ul>",
 		"see_also": [
 			"component_limitations",
 			"uses_x_type"
@@ -145,9 +145,9 @@
 	},
 	{
 		"id": "ally_limit",
-		"term": "Limite d'Alliés",
+		"term": "Limite d'alliés",
 		"type": "official",
-		"content": "<ul><li>Chaque joueur est autorisé à contrôler un maximum de trois alliés en jeu à un moment donné.&nbsp;</li><li>C'est ce qu'on appelle la « limite d'alliés ».&nbsp;</li><li>Un joueur peut jouer ou mettre en jeu des alliés au-delà de cette limite. Cependant, s'il contrôle plus d'alliés que sa limite, il doit immédiatement choisir et défausser des alliés jusqu'à ce qu'il respecte la limite.</li><li>Cela se produit avant que les capacités liées à l'entrée en jeu ne se résolvent.</li></ul>",
+		"content": "<p>Chaque joueur est autorisé à contrôler un maximum de trois alliés en jeu à tout moment. C'est ce qu'on appelle la « limite d'alliés ».</p><p>Un joueur peut jouer ou mettre en jeu des alliés au-delà de sa limite d'alliés. Cependant, si un joueur contrôle un nombre d'alliés supérieur à sa limite d'alliés en jeu, il doit immédiatement choisir et défausser du jeu des cartes allié qu'il contrôle jusqu'à ce qu'il ait un nombre d'alliés en jeu égal à sa limite d'alliés. Cela se produit avant les capacités qui se résolvent lors de l'entrée en jeu.</p>",
 		"see_also": [
 			"ally",
 			"discard",
@@ -203,7 +203,7 @@
 		"id": "and",
 		"term": "« Et »",
 		"type": "official",
-		"content": "Le mot « et » indique que deux effets ou plus dans une capacité se résolvent simultanément.<br><ul><li>Les effets individuels connectés par « et » ne sont pas dépendants les uns des autres. Résolvez chaque effet autant que possible.</li><li>Chaque effet connecté par « et » peut être annulé ou prévenu indépendamment.</li></ul>",
+		"content": "<p>Le mot « et » indique que deux effets ou plus au sein d'une capacité se résolvent simultanément.</p><ul><li>Les effets individuels reliés par « et » ne dépendent pas les uns des autres. Résolvez autant de chaque effet que possible.</li><li>Chaque effet relié par « et » peut être annulé ou empêché indépendamment.</li></ul>",
 		"see_also": [
 			"ability",
 			"cancel",

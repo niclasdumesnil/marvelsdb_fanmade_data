@@ -47,7 +47,7 @@
 		"id": "acceleration_token",
 		"term": "Acceleration Token",
 		"type": "official",
-		"content": "<p>Acceleration tokens are functionally equivalent to acceleration icons (but are not considered acceleration icons). They are placed next to the main scheme as a reminder to add X additional threat to the main scheme during step one of the villain phase, where X is the number of acceleration tokens in play.</p>\n<p>Acceleration tokens enter play through one of two effects: if the encounter deck is empty, place one acceleration token next to the main scheme; or card effects may instruct the players to add an acceleration token to play. Acceleration tokens placed on cards other than the main scheme still add threat to the main scheme during step one of the villain phase.</p>\n<p>Acceleration tokens on the main scheme cannot be removed from play; unlike other tokens, when a main scheme card leaves play, the acceleration token does not get discarded. Acceleration tokens placed on cards other than the main scheme are removed from play when the card they are placed on leaves play.</p>\n<p>Acceleration tokens are not considered acceleration icons, and vice versa.</p>",
+		"content": "<p>Acceleration tokens are functionally equivalent to acceleration icons <em>(but are not considered acceleration icons)</em>. They are placed next to the main scheme as a reminder to add X additional threat to the main scheme during step one of the villain phase, where X is the number of acceleration tokens in play.</p><p>Acceleration tokens enter play through one of two effects:</p><ul><li>If the encounter deck is empty, place one acceleration token next to the main scheme.</li><li>Card effects may instruct the players to add an acceleration token to play.<ul><li>Acceleration tokens placed on cards other than the main scheme still add threat to the main scheme during step one of the villain phase.</li></ul></li></ul><p>Acceleration tokens on the main scheme cannot be removed from play. Unlike other tokens, when a main scheme card leaves play, the acceleration token does not get discarded.</p><ul><li>Acceleration tokens placed on cards other than the main scheme are removed from play when the card they are placed on leaves play.</li><li>Acceleration tokens are not considered acceleration icons, and vice versa.</li></ul>",
 		"see_also": [
 			"component_limitations",
 			"encounter_deck",
@@ -59,7 +59,7 @@
 		"id": "action",
 		"term": "Action",
 		"type": "official",
-		"content": "<p>'Action' is a type of triggered ability.</p>\n<ul><li>Players are permitted to trigger action abilities during their turn, or by request during other players' turns.</li><li>Players can only trigger action abilities on cards they control or on encounter cards; players cannot trigger action abilities on obligations in other players' play areas.</li><li>Each 'Forced Action' ability must be resolved before the player phase can end.</li><li>A forced action ability can be triggered at any time a non-forced action ability could be triggered.</li><li>If such an ability has a cost that cannot be paid or requires one or more valid targets and has none, the phase can end without that ability being resolved.</li></ul>",
+		"content": "<p><b>“Action”</b> is a type of triggered ability. Players are permitted to trigger action abilities during their turn, or by request during other players’ turns.</p><ul><li>Players can only trigger action abilities on cards they control or on encounter cards.<ul><li>Players cannot trigger action abilities on obligations in other players’ play areas.</li></ul></li><li>Each <b>“Forced Action”</b> ability must be resolved before the player phase can end.<ul><li>A forced action ability can be triggered at any time a non-forced action ability could be triggered.</li><li>If such an ability has a cost that cannot be paid or requires one or more valid targets and has none, the phase can end without that ability being resolved.</li></ul></li></ul>",
 		"see_also": [
 			"ability",
 			"player_turn",
@@ -114,7 +114,7 @@
 		"id": "all_purpose_counter",
 		"term": "All-Purpose Counter",
 		"type": "official",
-		"content": "<p>All-purpose counters can be used to track a variety of different game states and statuses. They have no inherent rules.</p>\n<ul><li>Card abilities can create and define a number of different counter types, such as 'arrow counters' or 'web counters.'</li><li>If a counter is called for, an all-purpose counter is used to track its presence in the game. All-purpose counters are considered tokens for all game purposes.</li><li>An ability that refers to an 'all-purpose counter' can refer to any all-purpose counter, regardless of what other types that counter might have.</li><li>When an all-purpose counter is moved from one card to another, it loses any previous type it had and gains the type defined on the new card it occupies.</li><li>If the new card does not define a type, it is considered only an 'all-purpose counter.'</li></ul>",
+		"content": "<p>All-purpose counters can be used to track a variety of different game states and statuses. They have no inherent rules.</p><p>Card abilities can create and define a number of different counter types, such as “arrow counters” or “web counters.” If a counter is called for, an all-purpose counter is used to track its presence in the game.</p><ul><li>All-purpose counters are considered tokens for all game purposes.</li><li>An ability that refers to an “all-purpose counter” can refer to any all-purpose counter, regardless of what other types that counter might have.</li><li>When an all-purpose counter is moved from one card to another, it loses any previous type it had and gains the type defined on the new card it occupies. If the new card does not define a type, it is considered only an “all-purpose counter.”</li></ul>",
 		"see_also": [
 			"component_limitations",
 			"uses_x_type"
@@ -147,7 +147,7 @@
 		"id": "ally_limit",
 		"term": "Ally Limit",
 		"type": "official",
-		"content": "<ul><li>Each player is permitted to control a maximum of three allies in play at any given time.</li><li>This is the 'ally limit.'</li><li>A player may play or put into play allies beyond their ally limit; however, if a player ever controls more allies than the limit, they must immediately choose and discard from play ally cards until they have a number equal to their ally limit.</li><li>This occurs before abilities that resolve upon entering play.</li></ul>",
+		"content": "<p>Each player is permitted to control a maximum of three allies in play at any given time. This is referred to as the “ally limit.”</p><p>A player may play or put into play allies beyond their ally limit. However, if a player ever controls a number of allies greater than their ally limit in play, they must immediately choose and discard from play ally cards they control until they have a number of allies in play equal to their ally limit. This occurs before abilities that resolve upon entering play.</p>",
 		"see_also": [
 			"ally",
 			"discard",
@@ -203,7 +203,7 @@
 		"id": "and",
 		"term": "\"And\"",
 		"type": "official",
-		"content": "<p>The word 'and' indicates that two or more effects within an ability resolve simultaneously. Individual effects connected by 'and' are not dependent on each other — resolve as much of each effect as possible.</p>\n<p>Each effect connected by 'and' can be canceled or prevented independently.</p>",
+		"content": "<p>The word “and” indicates that two or more effects within an ability resolve simultaneously.</p><ul><li>Individual effects connected by “and” are not dependent on each other. Resolve as much of each effect as possible.</li><li>Each effect connected by “and” can be canceled or prevented independently.</li></ul>",
 		"see_also": [
 			"ability",
 			"cancel",
