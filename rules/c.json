@@ -12,7 +12,7 @@
 		"id": "campaign_specific_card",
 		"term": "Campaign-Specific Card",
 		"type": "official",
-		"content": "<ul><li>Cards in the 'campaign-specific' classification belong to a campaign's set of accompanying cards. They can only be used during a campaign from the same product (determined by set icon).</li><li>A campaign's rules determine how players utilize these cards. Designated by 'Campaign' printed at the bottom of the card.</li></ul>",
+		"content": "<p>Cards in the “campaign-specific” classification are cards that belong to a campaign’s set of accompanying cards.</p><ul><li>Campaign-specific cards can only be used during a campaign from the same product <em>(determined by that product’s set icon)</em>.</li><li>A campaign’s rules determine how players utilize campaign-specific cards within that campaign.</li><li>A campaign-specific card is designated by the word “Campaign” printed at the bottom of the card in its encounter set name area.</li></ul>",
 		"see_also": [
 			"classifications",
 			"modes_of_play"
@@ -130,7 +130,7 @@
 		"id": "confuse_confused",
 		"term": "Confuse, Confused",
 		"type": "official",
-		"content": "<p>Confuse is a status that cancels a character's next scheme or thwart.</p><ul><li><mark class=\"new\">A confused status card resolves like the triggered ability:</mark><blockquote><mark class=\"new\">Forced Interrupt: When this character would scheme or thwart, remove each confused status card from it instead.</mark></blockquote></li><li>If an ability \"confuses\" a character, give that character a confused status card.</li><li>A character is confused if it has a confused status card.<ul><li>A character with the steady keyword is confused only if it has two confused status cards.</li></ul></li><li>If a character has an ability stating that it \"cannot be confused,\" confused status cards cannot be placed on that character.</li><li>If a confused identity or ally attempts to thwart or use a thwart ability, discard the confused card instead. Costs associated with the thwart attempt, including exhausting the character, must still be paid.<ul><li>A confused character can attempt to thwart or use a thwart ability even if it has no valid target for a thwart.</li></ul></li><li>If a confused villain or minion would scheme, discard the confused status card instead.</li><li>As the thwart action or scheme activation was replaced by the removal of the confused status card, that character is not considered to have thwarted or schemed.</li></ul>",
+		"content": "<p>Confuse is a status that cancels a character's next scheme or thwart.</p><ul><li><mark class=\"new\">A confused status card resolves like the triggered ability:</mark><blockquote><mark class=\"new\"><b>Forced</b> <b>Interrupt</b>: When this character would scheme or thwart, remove each confused status card from it instead.</mark></blockquote></li><li>If an ability \"confuses\" a character, give that character a confused status card.</li><li>A character is confused if it has a confused status card.<ul><li>A character with the steady keyword is confused only if it has two confused status cards.</li></ul></li><li>If a character has an ability stating that it \"cannot be confused,\" confused status cards cannot be placed on that character.</li><li>If a confused identity or ally attempts to thwart or use a thwart ability, discard the confused card instead. Costs associated with the thwart attempt, including exhausting the character, must still be paid.<ul><li>A confused character can attempt to thwart or use a thwart ability even if it has no valid target for a thwart.</li></ul></li><li>If a confused villain or minion would scheme, discard the confused status card instead.</li><li>As the thwart <b>action</b> or scheme activation was replaced by the removal of the confused status card, that character is not considered to have thwarted or schemed.</li></ul>",
 		"whats_new": "Clarified that a confused status card resolves like a specific Forced Interrupt triggered ability (removing each confused status card when the character would scheme or thwart).",
 		"see_also": [
 			"ally",
@@ -173,6 +173,12 @@
 		"see_also": [
 			"ownership_and_control"
 		]
+	},
+	{
+		"id": "control_changes",
+		"term": "",
+		"type": "official",
+		"content": ""
 	},
 	{
 		"id": "copy",

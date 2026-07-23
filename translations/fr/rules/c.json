@@ -1,9 +1,18 @@
 [
 	{
+		"id": "campaign_mode",
+		"term": "Mode Campagne",
+		"type": "official",
+		"content": "Voir : Modes de Jeu.",
+		"see_also": [
+			"modes_of_play"
+		]
+	},
+	{
 		"id": "campaign_specific_card",
 		"term": "Cartes spécifiques à une campagne",
 		"type": "official",
-		"content": "Les cartes de la classification « spécifique à une campagne » sont des cartes qui appartiennent au set de cartes d'accompagnement d'une campagne.<ul><li>Les cartes spécifiques à une campagne ne peuvent être utilisées que lors d'une campagne du même produit (déterminé par l'icône de set du produit).</li><li>Les règles d'une campagne déterminent comment les joueurs utilisent les cartes spécifiques à cette campagne.</li><li>Une carte spécifique à une campagne est désignée par le mot « Campagne » imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
+		"content": "<p>Les cartes de la classification « spécifique à une campagne » sont des cartes qui appartiennent au set de cartes d'accompagnement d'une campagne.</p><ul><li>Les cartes spécifiques à une campagne ne peuvent être utilisées que lors d'une campagne issue du même produit <em>(déterminé par l'icône de set de ce produit)</em>.</li><li>Les règles d'une campagne déterminent comment les joueurs utilisent les cartes spécifiques à une campagne au sein de cette campagne.</li><li>Une carte spécifique à une campagne est désignée par le mot « Campagne » imprimé au bas de la carte dans sa zone de nom de set de rencontre.</li></ul>",
 		"see_also": [
 			"classifications",
 			"modes_of_play"
@@ -27,6 +36,15 @@
 		"see_also": [
 			"the_golden_rules",
 			"target"
+		]
+	},
+	{
+		"id": "card_ability",
+		"term": "Capacité de Carte",
+		"type": "official",
+		"content": "Voir : Capacité.",
+		"see_also": [
+			"ability"
 		]
 	},
 	{
@@ -70,10 +88,23 @@
 		"id": "choose_game_element",
 		"term": "Choisir (Élément de Jeu)",
 		"type": "official",
-		"content": "L'expression « choisissez un(e) [élément de jeu] » (tel qu'un allié, un sbire ou une manigance) indique qu'un joueur doit sélectionner un élément de jeu qui répond aux conditions spécifiques d'une capacité.<ul><li>Le joueur résolvant la capacité qui utilise le mot « choisissez » est le joueur qui fait le choix spécifié par la carte.</li><li>Si la capacité d'une carte joueur nécessite de choisir une ou plusieurs cibles, et qu'il n'y a pas de cible valide pour aucune partie de la capacité, la capacité ne peut pas être initiée.</li><li>Si plusieurs cibles doivent être choisies par le même joueur, choisissez simultanément autant de cibles que possible, jusqu'au maximum spécifié.</li><li>Un effet qui peut choisir « n'importe quel nombre » de cibles ne se résout pas avec succès si zéro de ces cibles est choisi.</li></ul>",
+		"content": "L'expression « choisissez un(e) [élément de jeu] » (tel qu'un allié, un sbire ou une manigance) indique qu'un joueur doit sélectionner un élément de jeu qui répond aux conditions spécifiques d'une capacité.<ul><li>Le joueur résolvant la capacité qui utilise le mot « choisissez » est le joueur qui fait le choix spécifié par la carte.</li><li>Si la capacité d'une carte joueur nécessite de choisir une ou plusieurs cibles, et qu'il n'y a pas de cible valide pour aucune partie de la capacité, la capacité ne peut pas être initiée.</li><li>Si plusieurs cibles doivent être choisies par le même joueur, choisissez simultanément autant de cibles que possible, jusqu'au maximum spécifié. <mark class=\"new\">La même cible ne peut pas être choisie plusieurs fois de cette manière.</mark></li><li>Un effet qui peut choisir « n'importe quel nombre » de cibles ne se résout pas avec succès si zéro de ces cibles est choisi.</li></ul>",
+		"whats_new": "Ajout d'une clarification précisant que la même cible ne peut pas être choisie plusieurs fois lors du choix simultané de plusieurs cibles requises.",
 		"see_also": [
 			"ability",
 			"game_element",
+			"player",
+			"target"
+		]
+	},
+	{
+		"id": "choose_option",
+		"term": "Choisir (Option)",
+		"type": "official",
+		"content": "Certaines capacités demandent à un joueur de choisir entre plusieurs options. <i>Par exemple, « Choisissez de subir 1 dégât ou de défausser 1 carte de votre main. »</i><ul><li>Lorsqu'une carte rencontre demande à un joueur de choisir une option, il ne peut pas choisir une option nécessitant une ou plusieurs cibles s'il n'y a aucune cible valide pour cette option.</li><li>Lorsqu'une carte joueur demande à un joueur de choisir une option, il ne peut pas choisir une option qui ne peut pas être au moins partiellement résolue. Cela inclut les options qui :<ul><li>Ont un coût que le joueur ne peut pas payer.</li><li>Nécessitent une ou plusieurs cibles alors qu'il n'y a aucune cible valide.</li></ul></li><li><mark class=\"new\">Lorsqu'une carte demande à un joueur de choisir plusieurs options dans une liste, ce joueur ne peut pas choisir la même option plusieurs fois.</mark></li></ul>",
+		"whats_new": "Ajout d'une règle précisant qu'un joueur ne peut pas choisir la même option plusieurs fois lorsqu'une carte demande de choisir plusieurs options dans une liste.",
+		"see_also": [
+			"ability",
 			"player",
 			"target"
 		]
@@ -99,7 +130,8 @@
 		"id": "confuse_confused",
 		"term": "Désorienter, désorienté",
 		"type": "official",
-		"content": "Désorienté est un état qui annule la prochaine manigance ou le prochain contre d'un personnage.<ul><li>Si une capacité « désoriente » un personnage, donnez à ce personnage une carte d'état désorienté.</li><li>Un personnage est désorienté s'il possède une carte d'état désorienté. Un personnage avec le mot-clé solide n'est désorienté que s'il possède deux cartes d'état désorienté.</li><li>Si un personnage possède une capacité indiquant qu'il « ne peut pas être désorienté », les cartes d'état désorienté ne peuvent pas être placées sur ce personnage.</li><li>Si une identité ou un allié désorienté tente de contrer ou d'utiliser une capacité de contre, défaussez la carte désorienté à la place. Les coûts associés à la tentative de contre, y compris l'inclinaison du personnage, doivent tout de même être payés.</li><li>Si un méchant ou un sbire désorienté devait manigancer, défaussez la carte d'état désorienté à la place.</li><li>Comme l'action de contre ou l'activation de manigance a été remplacée par le retrait de la carte d'état désorienté, ce personnage n'est pas considéré comme ayant contré ou manigancé.</li></ul>",
+		"content": "Désorienté est un état qui annule la prochaine manigance ou le prochain contre d'un personnage.<ul><li><mark class=\"new\">Une carte d'état désorienté se résout comme la capacité déclenchée suivante : « <b>Interruption Forcée</b> : Lorsque ce personnage devrait manigancer ou contrer, retirez plutôt de lui chaque carte d'état désorienté. »</mark></li><li>Si une capacité « désoriente » un personnage, donnez à ce personnage une carte d'état désorienté.</li><li>Un personnage est désorienté s'il possède une carte d'état désorienté. Un personnage avec le mot-clé solide n'est désorienté que s'il possède deux cartes d'état désorienté.</li><li>Si un personnage possède une capacité indiquant qu'il « ne peut pas être désorienté », les cartes d'état désorienté ne peuvent pas être placées sur ce personnage.</li><li>Si une identité ou un allié désorienté tente de contrer ou d'utiliser une capacité de contre, défaussez la carte désorienté à la place. Les coûts associés à la tentative de contre, y compris l'inclinaison du personnage, doivent tout de même être payés.</li><li>Si un méchant ou un sbire désorienté devait manigancer, défaussez la carte d'état désorienté à la place.</li><li>Comme l'<b>action</b> de contre ou l'activation de manigance a été remplacée par le retrait de la carte d'état désorienté, ce personnage n'est pas considéré comme ayant contré ou manigancé.</li></ul>",
+		"whats_new": "Précision indiquant qu'une carte d'état désorienté se résout comme la capacité déclenchée « Interruption Forcée » consistant à retirer chaque carte désorienté lorsque le personnage devrait manigancer ou contrer.",
 		"see_also": [
 			"ally",
 			"cancel",
@@ -125,11 +157,28 @@
 		]
 	},
 	{
+		"id": "constant_ability",
+		"term": "Capacité Constante",
+		"type": "official",
+		"content": "Voir : Capacité.",
+		"see_also": [
+			"ability"
+		]
+	},
+	{
+		"id": "control",
+		"term": "Contrôle",
+		"type": "official",
+		"content": "Voir : Propriété et contrôle.",
+		"see_also": [
+			"ownership_and_control"
+		]
+	},
+	{
 		"id": "control_changes",
 		"term": "Changements de contrôle",
 		"type": "official",
-		"content": "<red>Si un effet modifie le contrôleur d'une carte, cette carte est déplacée vers la zone de jeu de son nouveau contrôleur. Les attachements, jetons et compteurs sur cette carte se déplacent avec elle. Si une carte change de contrôle, elle conserve son état (inclinée ou redressée). Les effets persistants associés au contrôleur précédent cessent de s'appliquer si les conditions ne sont plus remplies.</red>",
-		"whats_new": "Clarification approfondie sur le transfert de contrôle. De nouvelles règles gèrent spécifiquement ce qu'il advient des attachements (ils restent attachés), l'état incliné/redressé de la carte, et précisent que si un joueur est éliminé, les cartes qui ont changé de contrôle reviennent à leur propriétaire d'origine."
+		"content": "Si un effet modifie le contrôleur d'une carte, cette carte est déplacée vers la zone de jeu de son nouveau contrôleur. Les attachements, jetons et compteurs sur cette carte se déplacent avec elle. Si une carte change de contrôle, elle conserve son état (inclinée ou redressée). Les effets persistants associés au contrôleur précédent cessent de s'appliquer si les conditions ne sont plus remplies."
 	},
 	{
 		"id": "copy",
@@ -158,18 +207,27 @@
 		"id": "cost_arrow_icon",
 		"term": "Icône de coût en forme de flèche",
 		"type": "official",
-		"content": "Une icône de coût en forme de flèche (→)&nbsp;dans le texte d'une capacité distingue un coût d'un effet, dans un format « payer le coût →&nbsp;résoudre l'effet ». <red>Le texte non gras précédant l'icône de coût en forme de flèche doit être payé et/ou résolu en totalité avant que le texte suivant l'icône de coût en forme de flèche ne puisse être résolu.</red><ul><li>Les réponses au texte précédant l'icône de coût en forme de flèche se résolvent avant que le texte suivant l'icône ne se résolve.</li></ul>",
-		"whats_new": "Ajout d'une clarification sur l'ordre de résolution obligatoire du texte non gras précédant la flèche.",
+		"content": "Une icône de coût en forme de flèche (→)&nbsp;dans le texte d'une capacité distingue un coût d'un effet, dans un format « payer le coût →&nbsp;résoudre l'effet ». Le texte non gras précédant l'icône de coût en forme de flèche doit être payé et/ou résolu en totalité avant que le texte suivant l'icône de coût en forme de flèche ne puisse être résolu.<ul><li>Les réponses au texte précédant l'icône de coût en forme de flèche se résolvent avant que le texte suivant l'icône ne se résolve.</li></ul>",
 		"see_also": [
 			"cost",
 			"icons"
 		]
 	},
 	{
+		"id": "counter",
+		"term": "Compteur",
+		"type": "official",
+		"content": "Voir : Jetons Génériques.",
+		"see_also": [
+			"all_purpose_counter"
+		]
+	},
+	{
 		"id": "crisis_icon",
 		"term": "Icône de Crise",
 		"type": "official",
-		"content": "Tant qu'au moins une icône de crise (<span class=\"icon-crisis\"></span>) est en jeu, la menace ne peut pas être retirée de la manigance principale par des cartes joueur.<ul><li>Les capacités sur les cartes rencontre ne sont pas affectées par l'icône de crise.</li></ul>",
+		"content": "Tant qu'au moins une icône de crise (<span class=\"icon-crisis\"></span>) est en jeu, la menace ne peut pas être retirée de la manigance principale par des cartes joueur.<ul><li><mark class=\"new\">Chaque icône de crise est équivalente à la capacité constante suivante : « Les cartes joueur ne peuvent pas retirer de menace de la manigance principale. »</mark></li><li>Les capacités sur les cartes rencontre ne sont pas affectées par l'icône de crise.</li></ul>",
+		"whats_new": "L'effet de l'icône de crise est désormais défini comme une capacité constante explicite (« Les cartes joueur ne peuvent pas retirer de menace de la manigance principale. ») plutôt que comme un simple texte descriptif.",
 		"see_also": [
 			"main_scheme_main_scheme_deck",
 			"threat"
