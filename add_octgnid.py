@@ -1,8 +1,8 @@
 import json
 import uuid
 
-runFile = 'hercules.json'
-pack_code = 'hercules'
+runFile = 'fear_no_evil.json'
+pack_code = 'fne'
 
 with open('./packs.json') as json_file:
     pack_data = json.load(json_file)

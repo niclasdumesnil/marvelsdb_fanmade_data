@@ -1848,5 +1848,31 @@
 		"card_set_type_code": "modular",
 		"code": "all_versus_all",
 		"name": "All Versus All"
+	},
+	{
+		"card_set_type_code": "hero",
+		"code": "daredevil",
+		"name": "Daredevil"
+	},
+	{
+		"card_set_type_code": "hero_special",
+		"code": "daredevil_sense_deck",
+		"name": "Sense Deck",
+		"parent_code": "daredevil"
+	},
+	{
+		"card_set_type_code": "nemesis",
+		"code": "daredevil_nemesis",
+		"name": "Daredevil Nemesis"
+	},
+	{
+		"card_set_type_code": "hero",
+		"code": "echo",
+		"name": "Echo"
+	},
+	{
+		"card_set_type_code": "nemesis",
+		"code": "echo_nemesis",
+		"name": "Echo Nemesis"
 	}
 ]
