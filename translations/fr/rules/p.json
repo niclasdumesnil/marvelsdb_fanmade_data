@@ -64,6 +64,15 @@
 		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Permanent comme une capacité constante équivalente."
 	},
 	{
+		"id": "personal",
+		"term": "Personnel",
+		"type": "fanmade",
+		"content": "<p>Les personnages autres que l'identité du joueur qui a mis cette carte en jeu ne peuvent pas interagir avec elle.</p>",
+		"see_also": [
+			"identity"
+		]
+	},
+	{
 		"id": "physical_resource",
 		"term": "Ressource physique (<span class=\"icon icon-physical\"></span>)",
 		"type": "official",
@@ -294,6 +303,27 @@
 		]
 	},
 	{
+		"id": "plotting",
+		"term": "Complot",
+		"type": "fanmade",
+		"content": "<p>Après que cet ennemi s'est engagé avec un joueur, il manigance immédiatement.</p>",
+		"see_also": [
+			"scheme_enemy_activation",
+			"enemy"
+		]
+	},
+	{
+		"id": "practiced_x",
+		"term": "Pratiqué (X)",
+		"type": "fanmade",
+		"content": "<p>Après qu'une carte avec le mot-clé pratiqué entre en jeu, attachez-lui face cachée un événement de votre pile de défausse. Une fois l'événement attaché retiré, défaussez la carte avec pratiqué.</p>",
+		"see_also": [
+			"event",
+			"attach_to",
+			"discard"
+		]
+	},
+	{
 		"id": "prevent",
 		"term": "Prévenir",
 		"type": "official",
@@ -315,6 +345,18 @@
 		"see_also": [
 			"base_value",
 			"modifiers"
+		]
+	},
+	{
+		"id": "priority_x",
+		"term": "Priorité X",
+		"type": "fanmade",
+		"content": "<p>Une fois révélée, déplacez X menace de la manigance principale vers cette manigance annexe.</p>",
+		"see_also": [
+			"when_revealed_abilities",
+			"main_scheme",
+			"side_scheme",
+			"threat"
 		]
 	}
 ]

@@ -1,5 +1,14 @@
 [
 	{
+		"id": "sabotage",
+		"term": "Sabotage",
+		"type": "fanmade",
+		"content": "<p>Shuffle this card into the encounter deck without looking <em>(usable for hero cards)</em>.</p>",
+		"see_also": [
+			"encounter_deck"
+		]
+	},
+	{
 		"id": "scenario_specific_card",
 		"term": "Scenario-Specific Card",
 		"type": "official",
@@ -57,6 +66,15 @@
 			"find",
 			"player_deck",
 			"shuffle"
+		]
+	},
+	{
+		"id": "seek",
+		"term": "Seek",
+		"type": "fanmade",
+		"content": "<p>Discard cards from the top of (Y) deck until you discard an (X) card.</p>",
+		"see_also": [
+			"discard"
 		]
 	},
 	{
@@ -154,6 +172,17 @@
 		"content": "<p>See: Modes of Play.</p>",
 		"see_also": [
 			"modes_of_play"
+		]
+	},
+	{
+		"id": "sniper_x",
+		"term": "Sniper X",
+		"type": "fanmade",
+		"content": "<p>At the beginning of the villain phase, the player engaged with this minion must deal indirect damage to friendly characters in play equal to the specified sniper value. This damage can be dealt to characters under any player’s control, and it can be divided among the players as they see fit. A character’s DEF does not reduce sniper damage. If all players are in alter-ego form, ignore this ability.</p>",
+		"see_also": [
+			"villain_phase",
+			"indirect_damage",
+			"minion"
 		]
 	},
 	{
@@ -280,6 +309,25 @@
 		]
 	},
 	{
+		"id": "summon",
+		"term": "Summon",
+		"type": "fanmade",
+		"content": "<p>Search the deck, discard pile, or anywhere in or out of play for a specific card, then shuffle the deck if it was searched in this way.</p>",
+		"see_also": [
+			"discard"
+		]
+	},
+	{
+		"id": "superior",
+		"term": "Superior",
+		"type": "fanmade",
+		"content": "<p>Villain only. Players engaged with minions cannot damage the villain.</p>",
+		"see_also": [
+			"villain_villain_deck",
+			"minion"
+		]
+	},
+	{
 		"id": "support",
 		"term": "Support",
 		"type": "official",
@@ -291,6 +339,18 @@
 			"leaves_play",
 			"player_card",
 			"players_play_area"
+		]
+	},
+	{
+		"id": "supportless",
+		"term": "Supportless",
+		"type": "fanmade",
+		"content": "<p>Players cannot target this card with upgrades, supports, beneficial actions, or events.</p>",
+		"see_also": [
+			"target",
+			"upgrade",
+			"support",
+			"event"
 		]
 	},
 	{
@@ -332,5 +392,15 @@
 			"target"
 		],
 		"whats_new": "Expanded rules for swapping cards and transferring tokens, attachments, and hit point dials."
+	},
+	{
+		"id": "swarm",
+		"term": "Swarm",
+		"type": "fanmade",
+		"content": "<p>Discard cards from the encounter deck until you discard a minion. Put that minion into play engaged with you.</p>",
+		"see_also": [
+			"encounter_deck",
+			"minion"
+		]
 	}
 ]

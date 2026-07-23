@@ -87,5 +87,15 @@
 			"villain_villain_deck",
 			"villain_defeat"
 		]
+	},
+	{
+		"id": "hunter",
+		"term": "Chasseur",
+		"type": "fanmade",
+		"content": "<p>Au début de chaque phase, ce sbire s'engage avec la carte d'identité qui a le moins de points de vie restants.</p>",
+		"see_also": [
+			"minion",
+			"hit_points"
+		]
 	}
 ]

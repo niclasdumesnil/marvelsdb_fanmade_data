@@ -110,6 +110,20 @@
 		]
 	},
 	{
+		"id": "agile_x",
+		"term": "Agile X",
+		"type": "fanmade",
+		"content": "<p>Reduce damage taken from undefended villain and villainous minion attacks by X <em>(default is 1)</em>.</p>",
+		"see_also": []
+	},
+	{
+		"id": "alias",
+		"term": "Alias",
+		"type": "fanmade",
+		"content": "<p>If you control a card with a matching subtitle, discard it and play this card for free.</p>",
+		"see_also": []
+	},
+	{
 		"id": "all_purpose_counter",
 		"term": "All-Purpose Counter",
 		"type": "official",
@@ -208,6 +222,20 @@
 			"cancel",
 			"prevent"
 		]
+	},
+	{
+		"id": "armored_x",
+		"term": "Armored X",
+		"type": "fanmade",
+		"content": "<p>Reduce the amount of damage this character takes from each attack by X.</p>",
+		"see_also": []
+	},
+	{
+		"id": "army",
+		"term": "Army",
+		"type": "fanmade",
+		"content": "<p>Immune to stun. This minion gets -1 ATK for each damage token here.</p>",
+		"see_also": []
 	},
 	{
 		"id": "arrow_icon",

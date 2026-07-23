@@ -73,6 +73,16 @@
 		"whats_new": "Added a new bullet defining the temporary keyword as an equivalent constant ability."
 	},
 	{
+		"id": "test_x",
+		"term": "Test (X)",
+		"type": "fanmade",
+		"content": "<p>When a card instructs you to test, discard the top 3 cards of your deck. If you discard at least 1 printed resource of the specified type, you pass the test. If you discard no printed resources of the specified type, you fail the test. There are no inherent effects of passing or failing a test other than those resolved on the card with the test keyword.</p>",
+		"see_also": [
+			"discard",
+			"resource"
+		]
+	},
+	{
 		"id": "text_box",
 		"term": "Text Box",
 		"type": "official",
@@ -193,6 +203,38 @@
 			"villain_villain_deck"
 		],
 		"whats_new": "Added a new bullet defining the toughness keyword as an equivalent constant ability."
+	},
+	{
+		"id": "track",
+		"term": "Track",
+		"type": "fanmade",
+		"content": "<p>Move 1 threat from a scheme to a minion in play.</p>",
+		"see_also": [
+			"threat",
+			"minion"
+		]
+	},
+	{
+		"id": "traitor_ally",
+		"term": "Traitor (Ally)",
+		"type": "fanmade",
+		"content": "<p>When an ally gains traitor, treat that ally as a minion with a blank text box. Its SCH is equal to its printed THW and it does not take consequential damage.</p>",
+		"see_also": [
+			"ally",
+			"minion",
+			"consequential_damage"
+		]
+	},
+	{
+		"id": "traitor_minion",
+		"term": "Traitor (Minion)",
+		"type": "fanmade",
+		"content": "<p>When a minion gains traitor, treat that minion as an ally with THW equal to its printed SCH, and a printed text box that says “<b>Forced Response</b>: After this character uses a basic power, deal one consequential damage to them”.</p>",
+		"see_also": [
+			"minion",
+			"ally",
+			"consequential_damage"
+		]
 	},
 	{
 		"id": "traits",

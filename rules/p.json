@@ -64,6 +64,15 @@
 		"whats_new": "Added a new bullet defining the permanent keyword as an equivalent constant ability."
 	},
 	{
+		"id": "personal",
+		"term": "Personal",
+		"type": "fanmade",
+		"content": "<p>Characters other than the identity of the player who put this card into play cannot interact with it.</p>",
+		"see_also": [
+			"identity"
+		]
+	},
+	{
 		"id": "physical_resource",
 		"term": "Physical Resource (<span class=\"icon icon-physical\"></span>)",
 		"type": "official",
@@ -294,6 +303,27 @@
 		]
 	},
 	{
+		"id": "plotting",
+		"term": "Plotting",
+		"type": "fanmade",
+		"content": "<p>After this enemy engages a player, it immediately schemes.</p>",
+		"see_also": [
+			"scheme_enemy_activation",
+			"enemy"
+		]
+	},
+	{
+		"id": "practiced_x",
+		"term": "Practiced (X)",
+		"type": "fanmade",
+		"content": "<p>After a card with the practiced keyword enters play, attach an event from your discard pile facedown to it. After attached event is removed, discard the card with the practiced keyword. The practiced keyword may also be followed by an identifier, like a card title or trait (X). If so, the chosen event to attach must satisfy the identifier.</p>",
+		"see_also": [
+			"event",
+			"attach_to",
+			"discard"
+		]
+	},
+	{
 		"id": "prevent",
 		"term": "Prevent",
 		"type": "official",
@@ -315,6 +345,18 @@
 		"see_also": [
 			"base_value",
 			"modifiers"
+		]
+	},
+	{
+		"id": "priority_x",
+		"term": "Priority X",
+		"type": "fanmade",
+		"content": "<p>When revealed, move X threat from the main scheme to this side scheme.</p>",
+		"see_also": [
+			"when_revealed_abilities",
+			"main_scheme",
+			"side_scheme",
+			"threat"
 		]
 	}
 ]

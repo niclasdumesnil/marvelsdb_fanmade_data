@@ -1,0 +1,13 @@
+[
+	{
+		"id": "zealot",
+		"term": "Zealot",
+		"type": "fanmade",
+		"content": "<p>When a minion with Zealot is in play, any damage dealt to the active villain by the player that minion is engaged with is dealt to that minion instead. If multiple minions with Zealot are in play, all damage is applied to one of them and any excess is then applied to the other(s).</p>",
+		"see_also": [
+			"minion",
+			"villain_villain_deck",
+			"damage"
+		]
+	}
+]

@@ -110,6 +110,20 @@
 		]
 	},
 	{
+		"id": "agile_x",
+		"term": "Agile X",
+		"type": "fanmade",
+		"content": "<p>Réduit de X les dégâts subis par les attaques non défendues du méchant et des sbires sous forme de méchant <em>(par défaut : 1)</em>.</p>",
+		"see_also": []
+	},
+	{
+		"id": "alias",
+		"term": "Alias",
+		"type": "fanmade",
+		"content": "<p>Si vous contrôlez une carte avec un sous-titre correspondant, défaussez-la et jouez cette carte gratuitement.</p>",
+		"see_also": []
+	},
+	{
 		"id": "all_purpose_counter",
 		"term": "Jeton universel",
 		"type": "official",
@@ -208,6 +222,20 @@
 			"cancel",
 			"prevent"
 		]
+	},
+	{
+		"id": "armored_x",
+		"term": "Armure X",
+		"type": "fanmade",
+		"content": "<p>Réduit de X la quantité de dégâts que ce personnage subit à chaque attaque.</p>",
+		"see_also": []
+	},
+	{
+		"id": "army",
+		"term": "Armée",
+		"type": "fanmade",
+		"content": "<p>Immunisé contre la sonnerie. Ce sbire gagne -1 ATK pour chaque jeton de dégât sur lui.</p>",
+		"see_also": []
 	},
 	{
 		"id": "arrow_icon",

@@ -24,6 +24,15 @@
 		]
 	},
 	{
+		"id": "fleeting",
+		"term": "Fleeting",
+		"type": "fanmade",
+		"content": "<p>After the phase ends, discard this card.</p>",
+		"see_also": [
+			"discard"
+		]
+	},
+	{
 		"id": "flip",
 		"term": "Flip",
 		"type": "official",
@@ -32,6 +41,16 @@
 			"double_sided_card"
 		],
 		"whats_new": "Added a new bullet defining the flip keyword as an equivalent constant ability."
+	},
+	{
+		"id": "focus_r",
+		"term": "Focus (R)",
+		"type": "fanmade",
+		"content": "<p>If you pay for a card using only the focus resource type (R), reduce its resource cost by 1.</p>",
+		"see_also": [
+			"cost",
+			"resource"
+		]
 	},
 	{
 		"id": "for_each",
@@ -65,6 +84,15 @@
 			"keywords"
 		],
 		"whats_new": "Clarified that resolving a form change on an identity card changes the player's form to the state specified."
+	},
+	{
+		"id": "fragile",
+		"term": "Fragile",
+		"type": "fanmade",
+		"content": "<p>Attacks against this character gain overkill.</p>",
+		"see_also": [
+			"overkill"
+		]
 	},
 	{
 		"id": "friendly",

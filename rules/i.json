@@ -60,6 +60,25 @@
 		]
 	},
 	{
+		"id": "immutable",
+		"term": "Immutable",
+		"type": "fanmade",
+		"content": "<p>The printed text box on this card cannot be affected by other cards and cannot be treated as blank.</p>",
+		"see_also": [
+			"text_box"
+		]
+	},
+	{
+		"id": "imprison",
+		"term": "Imprison",
+		"type": "fanmade",
+		"content": "<p>While any enemies with this keyword are engaged with a player, that player cannot attack other enemies without this keyword.</p>",
+		"see_also": [
+			"enemy",
+			"engage"
+		]
+	},
+	{
 		"id": "in_play_and_out_of_play",
 		"term": "In Play and Out of Play",
 		"type": "official",
@@ -157,5 +176,25 @@
 			"would"
 		],
 		"whats_new": "Updated terminology to specify that interrupt abilities are 'resolved' when their triggering condition initiates."
+	},
+	{
+		"id": "intimidate",
+		"term": "Intimidate",
+		"type": "fanmade",
+		"content": "<p>When this character attacks, allies cannot defend.</p>",
+		"see_also": [
+			"ally",
+			"defend_defense"
+		]
+	},
+	{
+		"id": "investigate",
+		"term": "Investigate",
+		"type": "fanmade",
+		"content": "<p>Look at the top 3 cards of the encounter deck. Choose and discard 1 of those cards. Place the rest back on top of the encounter deck in order.</p>",
+		"see_also": [
+			"encounter_deck",
+			"discard"
+		]
 	}
 ]

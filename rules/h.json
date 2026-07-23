@@ -87,5 +87,15 @@
 			"villain_villain_deck",
 			"villain_defeat"
 		]
+	},
+	{
+		"id": "hunter",
+		"term": "Hunter",
+		"type": "fanmade",
+		"content": "<p>At the beginning of each phase, this minion engages the identity card with the fewest remaining hit points.</p>",
+		"see_also": [
+			"minion",
+			"hit_points"
+		]
 	}
 ]

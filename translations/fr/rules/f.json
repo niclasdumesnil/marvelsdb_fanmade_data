@@ -24,6 +24,15 @@
 		]
 	},
 	{
+		"id": "fleeting",
+		"term": "Éphémère",
+		"type": "fanmade",
+		"content": "<p>Après la fin de la phase, défaussez cette carte.</p>",
+		"see_also": [
+			"discard"
+		]
+	},
+	{
 		"id": "flip",
 		"term": "Retourner",
 		"type": "official",
@@ -32,6 +41,16 @@
 			"double_sided_card"
 		],
 		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Basculer comme une capacité constante équivalente."
+	},
+	{
+		"id": "focus_r",
+		"term": "Focalisation (R)",
+		"type": "fanmade",
+		"content": "<p>Si vous payez une carte en utilisant uniquement le type de ressource focalisation (R), réduisez son coût en ressources de 1.</p>",
+		"see_also": [
+			"cost",
+			"resource"
+		]
 	},
 	{
 		"id": "for_each",
@@ -65,6 +84,15 @@
 			"keywords"
 		],
 		"whats_new": "Clarification : résoudre un changement de forme sur une carte d'identité modifie la forme du joueur vers l'état spécifié."
+	},
+	{
+		"id": "fragile",
+		"term": "Fragile",
+		"type": "fanmade",
+		"content": "<p>Les attaques contre ce personnage gagnent déferlement.</p>",
+		"see_also": [
+			"overkill"
+		]
 	},
 	{
 		"id": "friendly",

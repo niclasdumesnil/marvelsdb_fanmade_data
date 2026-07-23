@@ -18,6 +18,15 @@
 		]
 	},
 	{
+		"id": "obtain_x",
+		"term": "Obtain X",
+		"type": "fanmade",
+		"content": "<p>Search your deck and discard pile for X and add it to your hand. Shuffle your deck.</p>",
+		"see_also": [
+			"discard"
+		]
+	},
+	{
 		"id": "otherwise",
 		"term": "“Otherwise”",
 		"type": "official",

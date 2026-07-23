@@ -49,6 +49,16 @@
 		]
 	},
 	{
+		"id": "giant",
+		"term": "Géant",
+		"type": "fanmade",
+		"content": "<p>Un allié avec ce mot-clé compte pour 2 dans la limite d'alliés.</p>",
+		"see_also": [
+			"ally",
+			"ally_limit"
+		]
+	},
+	{
 		"id": "golden_rules",
 		"term": "Les règles d'Or",
 		"type": "official",

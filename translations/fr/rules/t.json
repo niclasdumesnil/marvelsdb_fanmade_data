@@ -73,6 +73,16 @@
 		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Temporaire comme une capacité constante équivalente."
 	},
 	{
+		"id": "test_x",
+		"term": "Tester (X)",
+		"type": "fanmade",
+		"content": "<p>Lorsqu'une carte vous demande de tester, défaussez les 3 cartes du dessus de votre deck. Si vous défaussez au moins 1 ressource imprimée du type spécifié, vous réussissez le test. Si vous ne défaussez aucune ressource imprimée du type spécifié, vous échouez au test.</p>",
+		"see_also": [
+			"discard",
+			"resource"
+		]
+	},
+	{
 		"id": "text_box",
 		"term": "Boîte de texte",
 		"type": "official",
@@ -193,6 +203,38 @@
 			"villain_villain_deck"
 		],
 		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Tenacité comme une capacité constante équivalente."
+	},
+	{
+		"id": "track",
+		"term": "Pister",
+		"type": "fanmade",
+		"content": "<p>Déplacez 1 menace d'une manigance vers un sbire en jeu.</p>",
+		"see_also": [
+			"threat",
+			"minion"
+		]
+	},
+	{
+		"id": "traitor_ally",
+		"term": "Traître (Allié)",
+		"type": "fanmade",
+		"content": "<p>Lorsqu'un allié gagne traître, traitez cet allié comme un sbire avec une boîte de texte vide. Son SCH est égal à son THW imprimé et il ne subit pas de dégâts consécutifs.</p>",
+		"see_also": [
+			"ally",
+			"minion",
+			"consequential_damage"
+		]
+	},
+	{
+		"id": "traitor_minion",
+		"term": "Traître (Sbire)",
+		"type": "fanmade",
+		"content": "<p>Lorsqu'un sbire gagne traître, traitez ce sbire comme un allié avec un THW égal à son SCH imprimé et une boîte de texte imprimée qui indique « <b>Réponse Forcée</b> : Après que ce personnage a utilisé un pouvoir de base, infligez-lui un dégât consécutif ».</p>",
+		"see_also": [
+			"minion",
+			"ally",
+			"consequential_damage"
+		]
 	},
 	{
 		"id": "traits",

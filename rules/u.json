@@ -26,6 +26,16 @@
 		"whats_new": "Added a new bullet defining the unique icon (✦) as an equivalent constant ability."
 	},
 	{
+		"id": "unyielding_x",
+		"term": "Unyielding X",
+		"type": "fanmade",
+		"content": "<p>When this character would take damage, prevent all but X of that damage.</p>",
+		"see_also": [
+			"damage",
+			"prevent"
+		]
+	},
+	{
 		"id": "upgrade",
 		"term": "Upgrade",
 		"type": "official",
@@ -40,6 +50,16 @@
 			"ownership_and_control",
 			"player_card",
 			"players_play_area"
+		]
+	},
+	{
+		"id": "upkeep",
+		"term": "Upkeep",
+		"type": "fanmade",
+		"content": "<p>At the beginning of the player phase, discard 1 card from your hand or remove this card from play.</p>",
+		"see_also": [
+			"player_phase",
+			"discard"
 		]
 	},
 	{

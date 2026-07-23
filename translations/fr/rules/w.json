@@ -1,5 +1,14 @@
 [
 	{
+		"id": "weak_x",
+		"term": "Faible X",
+		"type": "fanmade",
+		"content": "<p>Augmente de X la quantité de dégâts que ce personnage subit à chaque attaque.</p>",
+		"see_also": [
+			"damage"
+		]
+	},
+	{
 		"id": "when_completed_abilities",
 		"term": "Capacité une fois achevée",
 		"type": "official",

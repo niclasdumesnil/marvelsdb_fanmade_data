@@ -48,6 +48,16 @@
 		"whats_new": "Clarified that when a card leaves play, all tokens on it (except acceleration tokens on the main scheme) are returned to the supply."
 	},
 	{
+		"id": "legion",
+		"term": "Legion",
+		"type": "fanmade",
+		"content": "<p>2 allies (of any name) with the legion keyword count as 1 ally toward your ally limit.</p>",
+		"see_also": [
+			"ally",
+			"ally_limit"
+		]
+	},
+	{
 		"id": "limit",
 		"term": "Limit",
 		"type": "official",

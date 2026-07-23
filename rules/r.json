@@ -34,6 +34,25 @@
 		]
 	},
 	{
+		"id": "recall",
+		"term": "Recall",
+		"type": "fanmade",
+		"content": "<p>Add a card from your discard pile to your hand.</p>",
+		"see_also": [
+			"discard"
+		]
+	},
+	{
+		"id": "reckless",
+		"term": "Reckless",
+		"type": "fanmade",
+		"content": "<p>When this character enters play, place 1 threat on each scheme in play.</p>",
+		"see_also": [
+			"enters_play",
+			"threat"
+		]
+	},
+	{
 		"id": "recover_recovery",
 		"term": "Recover, Recovery",
 		"type": "official",
@@ -60,6 +79,26 @@
 			"identity_specific_card"
 		],
 		"whats_new": "Clarified title matching for referential abilities across player and encounter cards."
+	},
+	{
+		"id": "reflect_x",
+		"term": "Reflect X",
+		"type": "fanmade",
+		"content": "<p>Reduce the amount of damage this character takes from each attack by X. After a character with the retaliate X keyword is attacked, deal X damage to the attacker. Reflect triggers once per attack.</p>",
+		"see_also": [
+			"damage",
+			"retaliate_x"
+		]
+	},
+	{
+		"id": "regeneration_x",
+		"term": "Regeneration X",
+		"type": "fanmade",
+		"content": "<p>When this character activates, heal X damage from them.</p>",
+		"see_also": [
+			"activation",
+			"heal"
+		]
 	},
 	{
 		"id": "remaining_hit_points",
@@ -117,6 +156,15 @@
 			"resource"
 		],
 		"whats_new": "Clarified that requirement resources are additional costs that must be paid to play a card or initiate an ability."
+	},
+	{
+		"id": "resistence",
+		"term": "Resistance",
+		"type": "fanmade",
+		"content": "<p>When this character gains this keyword, it gains 1 resistance token <em>(max 1 per character)</em>. When the character with this resistance token would be defeated, discard the resistance token and set their remaining hit points to 1 instead.</p>",
+		"see_also": [
+			"hit_points"
+		]
 	},
 	{
 		"id": "resolve",

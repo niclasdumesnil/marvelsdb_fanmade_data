@@ -9,6 +9,17 @@
 		]
 	},
 	{
+		"id": "vicious",
+		"term": "Vicieux",
+		"type": "fanmade",
+		"content": "<p><b>Interruption Forcée</b> : Lorsque ce personnage devrait manigancer, il attaque à la place.</p>",
+		"see_also": [
+			"forced",
+			"interrupt",
+			"attack_enemy_activation"
+		]
+	},
+	{
 		"id": "victory_display",
 		"term": "Pile de victoire",
 		"type": "official",
@@ -33,18 +44,6 @@
 			"victory_display"
 		],
 		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Victoire X comme une capacité constante équivalente."
-	},
-	{
-		"id": "villain_villain_deck",
-		"term": "Méchant, Deck Méchant",
-		"type": "official",
-		"content": "<p>Le méchant est un type de carte rencontre qui représente l'ennemi principal que les joueurs tentent de vaincre dans un scénario.</p><p>Le méchant est représenté par un deck séquentiel d'une ou plusieurs cartes. Les joueurs vainquent le méchant en réduisant les points de vie de chaque stade du deck méchant à zéro.</p><ul><li>Les cartes méchant ne peuvent pas être défaussées du jeu.</li></ul>",
-		"see_also": [
-			"activation",
-			"attack_enemy_activation",
-			"scheme_enemy_activation",
-			"villain_defeat"
-		]
 	},
 	{
 		"id": "villain_defeat",
@@ -86,6 +85,18 @@
 		]
 	},
 	{
+		"id": "villain_villain_deck",
+		"term": "Méchant, Deck Méchant",
+		"type": "official",
+		"content": "<p>Le méchant est un type de carte rencontre qui représente l'ennemi principal que les joueurs tentent de vaincre dans un scénario.</p><p>Le méchant est représenté par un deck séquentiel d'une ou plusieurs cartes. Les joueurs vainquent le méchant en réduisant les points de vie de chaque stade du deck méchant à zéro.</p><ul><li>Les cartes méchant ne peuvent pas être défaussées du jeu.</li></ul>",
+		"see_also": [
+			"activation",
+			"attack_enemy_activation",
+			"scheme_enemy_activation",
+			"villain_defeat"
+		]
+	},
+	{
 		"id": "villainous",
 		"term": "Vilenie",
 		"type": "official",
@@ -122,13 +133,12 @@
 	{
 		"id": "vulnerable",
 		"term": "Vulnérable",
-		"type": "official",
-		"content": "<p>Lorsqu'un personnage avec le mot-clé vulnérable devient désorienté ou sonné, ce personnage est immédiatement défaussé <em>(sans être vaincu)</em>.</p><ul><li><mark class=\"new\">Le mot-clé vulnérable est équivalent à la capacité déclenchée suivante : « <b>Interruption forcée</b> : Quand ce personnage devient désorienté ou sonné, défaussez-le. »</mark></li><li>Si un personnage avec le mot-clé vulnérable devait simultanément subir suffisamment de dégâts pour le vaincre et devenir désorienté ou sonné, il est défaussé avant que les dégâts ne soient appliqués et n'est pas considéré comme vaincu.</li><li>Si un personnage possède à la fois les mots-clés solide et vulnérable, le mot-clé vulnérable ne prend pas effet tant que ce personnage n'a pas deux cartes d'état désorienté ou deux cartes d'état sonné.</li></ul>",
+		"type": "fanmade",
+		"content": "<p>Défaussez ce personnage s'il est sonné ou confus.</p>",
 		"see_also": [
+			"stun_stunned",
 			"confuse_confused",
-			"steady",
-			"stun_stunned"
-		],
-		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Vulnérable comme une capacité constante équivalente."
+			"discard"
+		]
 	}
 ]

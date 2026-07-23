@@ -1,5 +1,14 @@
 [
 	{
+		"id": "sabotage",
+		"term": "Sabotage",
+		"type": "fanmade",
+		"content": "<p>Mélangez cette carte dans le deck rencontre sans regarder <em>(utilisable pour les cartes héros)</em>.</p>",
+		"see_also": [
+			"encounter_deck"
+		]
+	},
+	{
 		"id": "scenario_specific_card",
 		"term": "Carte spécifique au scénario",
 		"type": "official",
@@ -57,6 +66,15 @@
 			"find",
 			"player_deck",
 			"shuffle"
+		]
+	},
+	{
+		"id": "seek",
+		"term": "Chercher",
+		"type": "fanmade",
+		"content": "<p>Défaussez des cartes du dessus du deck (Y) jusqu'à ce que vous défaussiez une carte (X).</p>",
+		"see_also": [
+			"discard"
 		]
 	},
 	{
@@ -154,6 +172,17 @@
 		"content": "<p>Voir : Modes de jeu.</p>",
 		"see_also": [
 			"modes_of_play"
+		]
+	},
+	{
+		"id": "sniper_x",
+		"term": "Tireur d'élite X",
+		"type": "fanmade",
+		"content": "<p>Au début de la phase du méchant, le joueur engagé avec ce sbire doit infliger des dégâts indirects aux personnages amis en jeu égaux à la valeur de tireur d'élite spécifiée. Ces dégâts peuvent être répartis sur les personnages de n'importe quel joueur. Le DEF d'un personnage ne réduit pas les dégâts de tireur d'élite. Si tous les joueurs sont en forme d'alter ego, ignorez cette capacité.</p>",
+		"see_also": [
+			"villain_phase",
+			"indirect_damage",
+			"minion"
 		]
 	},
 	{
@@ -280,6 +309,25 @@
 		]
 	},
 	{
+		"id": "summon",
+		"term": "Invoquer",
+		"type": "fanmade",
+		"content": "<p>Cherchez dans le deck, la pile de défausse, ou n'importe où en jeu ou hors jeu une carte spécifique, puis mélangez le deck s'il a été cherché de cette manière.</p>",
+		"see_also": [
+			"discard"
+		]
+	},
+	{
+		"id": "superior",
+		"term": "Supérieur",
+		"type": "fanmade",
+		"content": "<p>Méchant uniquement. Les joueurs engagés avec des sbires ne peuvent pas infliger de dégâts au méchant.</p>",
+		"see_also": [
+			"villain_villain_deck",
+			"minion"
+		]
+	},
+	{
 		"id": "support",
 		"term": "Soutien",
 		"type": "official",
@@ -291,6 +339,18 @@
 			"leaves_play",
 			"player_card",
 			"players_play_area"
+		]
+	},
+	{
+		"id": "supportless",
+		"term": "Sans soutien",
+		"type": "fanmade",
+		"content": "<p>Les joueurs ne peuvent pas cibler cette carte avec des améliorations, des soutiens, des actions bénéfiques ou des événements.</p>",
+		"see_also": [
+			"target",
+			"upgrade",
+			"support",
+			"event"
 		]
 	},
 	{
@@ -332,5 +392,15 @@
 			"target"
 		],
 		"whats_new": "Extension des règles d'échange de cartes et de transfert des pions, attachements et cadrans de points de vie."
+	},
+	{
+		"id": "swarm",
+		"term": "Essaim",
+		"type": "fanmade",
+		"content": "<p>Défaussez des cartes du deck rencontre jusqu'à ce que vous défaussiez un sbire. Mettez ce sbire en jeu engagé avec vous.</p>",
+		"see_also": [
+			"encounter_deck",
+			"minion"
+		]
 	}
 ]

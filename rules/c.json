@@ -110,12 +110,12 @@
 		]
 	},
 	{
-		"id": "component_limitations",
-		"term": "Component Limitations",
-		"type": "official",
-		"content": "<p>If a component limit is reached, no further components of that type can enter play.</p><ul><li>Tokens are limited by the number of tokens in the game supply. If a token type is exhausted, no further tokens of that type can be placed or generated.</li><li>Status cards are limited by the number of status cards in the game supply.</li></ul>",
+		"id": "class",
+		"term": "Class",
+		"type": "fanmade",
+		"content": "<p>A unique type of upgrade that grants a character a “class”. A character may only have one class at a time; the old class is discarded when a new one is put into play.</p>",
 		"see_also": [
-			"status_cards"
+			"upgrade"
 		]
 	},
 	{
@@ -133,6 +133,25 @@
 			"modes_of_play",
 			"standard_set",
 			"expert_set"
+		]
+	},
+	{
+		"id": "companion",
+		"term": "Companion",
+		"type": "fanmade",
+		"content": "<p>An ally with this keyword does not count towards the ally limit, and it cannot be used to defend against attacks.</p>",
+		"see_also": [
+			"ally",
+			"ally_limit"
+		]
+	},
+	{
+		"id": "component_limitations",
+		"term": "Component Limitations",
+		"type": "official",
+		"content": "<p>If a component limit is reached, no further components of that type can enter play.</p><ul><li>Tokens are limited by the number of tokens in the game supply. If a token type is exhausted, no further tokens of that type can be placed or generated.</li><li>Status cards are limited by the number of status cards in the game supply.</li></ul>",
+		"see_also": [
+			"status_cards"
 		]
 	},
 	{
@@ -190,6 +209,17 @@
 		"content": ""
 	},
 	{
+		"id": "controlled",
+		"term": "Controlled",
+		"type": "fanmade",
+		"content": "<p>Treat this minion as a CONTROLLED ally with a blank text box under the control of the player with which it was engaged. Its THW is equal to its printed SCH and it takes 2 consequential damage after it thwarts or attacks.</p>",
+		"see_also": [
+			"ally",
+			"minion",
+			"consequential_damage"
+		]
+	},
+	{
 		"id": "copy",
 		"term": "Copy",
 		"type": "official",
@@ -232,6 +262,15 @@
 		]
 	},
 	{
+		"id": "create_created_cards",
+		"term": "Create / Created Cards",
+		"type": "fanmade",
+		"content": "<p>A created card is a card that is set-aside at the beginning of the game and brought into the game due to the effect of another card. If a created card would be put into a discard pile for any reason, set it aside instead. Once set aside, a created card may be created again by another card effect. A created card has the “created” classification in addition to its regular card classification and type.</p><p><b>Player Created Cards</b> — During step 6 of setup (shuffle player decks), each player sets aside 5 copies of each created card their player deck could create (unless specified otherwise). When a player is instructed to create a player card, the player puts a set-aside created card with that name into their hand.</p><p><b>Encounter Created Cards</b> — During step 10 of setup (create the encounter deck), the first player sets aside the number of copies of each created card as denoted by the Setup instructions on the first main scheme. When a player is instructed to create an encounter card, the player searches the set-aside cards for the named created card, then follows the additional instructions.</p><p>If a player is unable to complete the full instructions of a create keyword, the effect does not occur.</p>",
+		"see_also": [
+			"set_aside"
+		]
+	},
+	{
 		"id": "crisis_icon",
 		"term": "Crisis Icon",
 		"type": "official",
@@ -240,6 +279,27 @@
 		"see_also": [
 			"main_scheme",
 			"threat"
+		]
+	},
+	{
+		"id": "crit_x",
+		"term": "Crit (X)",
+		"type": "fanmade",
+		"content": "<p>Discard the top X cards from the encounter deck. Deal damage to the target equal to the total number of boost icons on the discarded cards plus X damage.</p>",
+		"see_also": [
+			"boost_boost_icon",
+			"damage"
+		]
+	},
+	{
+		"id": "cunning",
+		"term": "Cunning",
+		"type": "fanmade",
+		"content": "<p><b>Forced Interrupt</b>: When this character would attack, they scheme instead.</p>",
+		"see_also": [
+			"forced",
+			"interrupt",
+			"scheme_enemy_activation"
 		]
 	}
 ]

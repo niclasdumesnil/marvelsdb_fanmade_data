@@ -26,6 +26,16 @@
 		"whats_new": "Ajout d'un nouveau point définissant l'icône unique (✦) comme une capacité constante équivalente."
 	},
 	{
+		"id": "unyielding_x",
+		"term": "Inflexible X",
+		"type": "fanmade",
+		"content": "<p>Lorsque ce personnage devrait subir des dégâts, prévenez tout sauf X de ces dégâts.</p>",
+		"see_also": [
+			"damage",
+			"prevent"
+		]
+	},
+	{
 		"id": "upgrade",
 		"term": "Amélioration",
 		"type": "official",
@@ -40,6 +50,16 @@
 			"ownership_and_control",
 			"player_card",
 			"players_play_area"
+		]
+	},
+	{
+		"id": "upkeep",
+		"term": "Entretien",
+		"type": "fanmade",
+		"content": "<p>Au début de la phase des joueurs, défaussez 1 carte de votre main ou retirez cette carte du jeu.</p>",
+		"see_also": [
+			"player_phase",
+			"discard"
 		]
 	},
 	{

@@ -247,6 +247,16 @@
 		]
 	},
 	{
+		"id": "expert_boost",
+		"term": "Expert Boost",
+		"type": "fanmade",
+		"content": "<p>Boost ability applied when playing Expert mode only <em>(the boost icon is colored gold to make it easy to spot)</em>.</p>",
+		"see_also": [
+			"boost_boost_icon",
+			"expert_set"
+		]
+	},
+	{
 		"id": "expert_mode",
 		"term": "Expert Mode",
 		"type": "official",

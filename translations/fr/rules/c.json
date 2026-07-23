@@ -110,12 +110,12 @@
 		]
 	},
 	{
-		"id": "component_limitations",
-		"term": "Limite des composants",
-		"type": "official",
-		"content": "<p>Si une limite de composants est atteinte, aucun composant supplémentaire de ce type ne peut entrer en jeu.</p><ul><li>Les jetons sont limités par le nombre de jetons dans la réserve du jeu. Si un type de jeton est épuisé, aucun jeton supplémentaire de ce type ne peut être placé ou généré.</li><li>Les cartes d'état sont limitées par le nombre de cartes d'état dans la réserve du jeu.</li></ul>",
+		"id": "class",
+		"term": "Classe",
+		"type": "fanmade",
+		"content": "<p>Un type unique d'amélioration qui accorde une « classe » à un personnage. Un personnage ne peut avoir qu'une seule classe à la fois ; l'ancienne classe est défaussée lorsqu'une nouvelle est mise en jeu.</p>",
 		"see_also": [
-			"status_cards"
+			"upgrade"
 		]
 	},
 	{
@@ -133,6 +133,25 @@
 			"modes_of_play",
 			"standard_set",
 			"expert_set"
+		]
+	},
+	{
+		"id": "companion",
+		"term": "Compagnon",
+		"type": "fanmade",
+		"content": "<p>Un allié avec ce mot-clé ne compte pas dans la limite d'alliés et ne peut pas être utilisé pour défendre contre des attaques.</p>",
+		"see_also": [
+			"ally",
+			"ally_limit"
+		]
+	},
+	{
+		"id": "component_limitations",
+		"term": "Limite des composants",
+		"type": "official",
+		"content": "<p>Si une limite de composants est atteinte, aucun composant supplémentaire de ce type ne peut entrer en jeu.</p><ul><li>Les jetons sont limités par le nombre de jetons dans la réserve du jeu. Si un type de jeton est épuisé, aucun jeton supplémentaire de ce type ne peut être placé ou généré.</li><li>Les cartes d'état sont limitées par le nombre de cartes d'état dans la réserve du jeu.</li></ul>",
+		"see_also": [
+			"status_cards"
 		]
 	},
 	{
@@ -190,6 +209,17 @@
 		"content": "Si un effet modifie le contrôleur d'une carte, cette carte est déplacée vers la zone de jeu de son nouveau contrôleur. Les attachements, jetons et compteurs sur cette carte se déplacent avec elle. Si une carte change de contrôle, elle conserve son état (inclinée ou redressée). Les effets persistants associés au contrôleur précédent cessent de s'appliquer si les conditions ne sont plus remplies."
 	},
 	{
+		"id": "controlled",
+		"term": "Contrôlé",
+		"type": "fanmade",
+		"content": "<p>Traitez ce sbire comme un allié CONTRÔLÉ avec une boîte de texte vide sous le contrôle du joueur avec lequel il était engagé. Son THW est égal à son SCH imprimé et il subit 2 dégâts consécutifs après avoir manigancé ou attaqué.</p>",
+		"see_also": [
+			"ally",
+			"minion",
+			"consequential_damage"
+		]
+	},
+	{
 		"id": "copy",
 		"term": "Exemplaire",
 		"type": "official",
@@ -232,6 +262,15 @@
 		]
 	},
 	{
+		"id": "create_created_cards",
+		"term": "Créer / Cartes créées",
+		"type": "fanmade",
+		"content": "<p>Une carte créée est une carte mise de côté au début de la partie et amenée dans la partie en raison de l'effet d'une autre carte. Si une carte créée devait être mise dans une pile de défausse pour une raison quelconque, mettez-la de côté à la place. Une fois mise de côté, une carte créée peut être créée à nouveau par l'effet d'une autre carte. Une carte créée a la classification « créée » en plus de sa classification et de son type de carte habituels.</p><p><b>Cartes créées par les joueurs</b> — Lors de l'étape 6 de la mise en place (mélanger les decks des joueurs), chaque joueur met de côté 5 copies de chaque carte créée que son deck pourrait créer. Lorsqu'un joueur a l'instruction de créer une carte joueur, il ajoute à sa main une carte créée mise de côté portant ce nom.</p><p><b>Cartes créées par la rencontre</b> — Lors de l'étape 10 de la mise en place, le premier joueur met de côté le nombre de copies de chaque carte créée indiqué par la mise en place. Lorsqu'un joueur a l'instruction de créer une carte rencontre, il cherche la carte créée mise de côté puis suit les instructions.</p>",
+		"see_also": [
+			"set_aside"
+		]
+	},
+	{
 		"id": "crisis_icon",
 		"term": "Icône de Crise",
 		"type": "official",
@@ -240,6 +279,27 @@
 		"see_also": [
 			"main_scheme",
 			"threat"
+		]
+	},
+	{
+		"id": "crit_x",
+		"term": "Critique (X)",
+		"type": "fanmade",
+		"content": "<p>Défaussez les X cartes du dessus du deck rencontre. Infligez à la cible des dégâts égaux au nombre total d'icônes de boost sur les cartes défaussées plus X dégâts.</p>",
+		"see_also": [
+			"boost_boost_icon",
+			"damage"
+		]
+	},
+	{
+		"id": "cunning",
+		"term": "Rusé",
+		"type": "fanmade",
+		"content": "<p><b>Interruption Forcée</b> : Lorsque ce personnage devrait attaquer, il manigance à la place.</p>",
+		"see_also": [
+			"forced",
+			"interrupt",
+			"scheme_enemy_activation"
 		]
 	}
 ]

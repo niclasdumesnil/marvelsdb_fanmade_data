@@ -60,6 +60,25 @@
 		]
 	},
 	{
+		"id": "immutable",
+		"term": "Inaltérable",
+		"type": "fanmade",
+		"content": "<p>La boîte de texte imprimée sur cette carte ne peut pas être affectée par d'autres cartes et ne peut pas être traitée comme si elle était vide.</p>",
+		"see_also": [
+			"text_box"
+		]
+	},
+	{
+		"id": "imprison",
+		"term": "Emprisonner",
+		"type": "fanmade",
+		"content": "<p>Tant que des ennemis avec ce mot-clé sont engagés avec un joueur, ce joueur ne peut pas attaquer d'autres ennemis qui n'ont pas ce mot-clé.</p>",
+		"see_also": [
+			"enemy",
+			"engage"
+		]
+	},
+	{
 		"id": "in_play_and_out_of_play",
 		"term": "En jeu et hors jeu",
 		"type": "official",
@@ -157,5 +176,25 @@
 			"would"
 		],
 		"whats_new": "Mise à jour de la terminologie précisant que les capacités d'interruption sont « résolues » lorsque leur condition de déclenchement s'initie."
+	},
+	{
+		"id": "intimidate",
+		"term": "Intimider",
+		"type": "fanmade",
+		"content": "<p>Lorsque ce personnage attaque, les alliés ne peuvent pas défendre.</p>",
+		"see_also": [
+			"ally",
+			"defend_defense"
+		]
+	},
+	{
+		"id": "investigate",
+		"term": "Enquêter",
+		"type": "fanmade",
+		"content": "<p>Regardez les 3 cartes du dessus du deck rencontre. Choisissez et défaussez 1 de ces cartes. Replacez le reste sur le dessus du deck rencontre dans l'ordre.</p>",
+		"see_also": [
+			"encounter_deck",
+			"discard"
+		]
 	}
 ]

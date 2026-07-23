@@ -18,6 +18,15 @@
 		]
 	},
 	{
+		"id": "obtain_x",
+		"term": "Obtenir X",
+		"type": "fanmade",
+		"content": "<p>Cherchez X dans votre deck et votre pile de défausse et ajoutez-le à votre main. Mélangez votre deck.</p>",
+		"see_also": [
+			"discard"
+		]
+	},
+	{
 		"id": "otherwise",
 		"term": "« Sinon »",
 		"type": "official",

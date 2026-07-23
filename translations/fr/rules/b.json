@@ -39,6 +39,13 @@
 		]
 	},
 	{
+		"id": "bond",
+		"term": "Lien",
+		"type": "fanmade",
+		"content": "<p>Un allié peut se lier à un autre personnage. Lorsque cela se produit, il devient une amélioration.</p>",
+		"see_also": []
+	},
+	{
 		"id": "boost_boost_icon",
 		"term": "Boost, icône de boost",
 		"type": "official",
@@ -48,6 +55,36 @@
 			"scheme_enemy_activation",
 			"star_icon",
 			"villainous"
+		]
+	},
+	{
+		"id": "breakthrough",
+		"term": "Percée",
+		"type": "fanmade",
+		"content": "<p>La menace en excès retirée de cette manigance annexe est retirée de la manigance principale.</p>",
+		"see_also": [
+			"main_scheme",
+			"side_scheme",
+			"threat"
+		]
+	},
+	{
+		"id": "brutal",
+		"term": "Brutal",
+		"type": "fanmade",
+		"content": "<p>Lorsqu'un sbire avec le mot-clé brutal attaque, donnez-lui une carte boost face cachée du dessus du deck rencontre. Lorsque vous résolvez l'attaque de ce sbire, retournez la carte boost face visible, résolvez toute capacité boost sur cette carte et appliquez ses icônes de boost aux stats du sbire pour cette activation. Défaussez la carte boost après l'attaque.</p>",
+		"see_also": [
+			"boost_boost_icon",
+			"minion"
+		]
+	},
+	{
+		"id": "burning",
+		"term": "En combustion",
+		"type": "fanmade",
+		"content": "<p>À la fin de la ronde, choisissez soit d'épuiser ce personnage et de lui retirer en combustion, soit de lui infliger 1 dégât.</p>",
+		"see_also": [
+			"exhausted"
 		]
 	}
 ]

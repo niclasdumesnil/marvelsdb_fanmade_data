@@ -15,6 +15,17 @@
 		]
 	},
 	{
+		"id": "dangerous",
+		"term": "Dangerous",
+		"type": "fanmade",
+		"content": "<p>While this minion is engaged with you, deal yourself an additional encounter card during the villain phase.</p>",
+		"see_also": [
+			"encounter_card",
+			"minion",
+			"villain_phase"
+		]
+	},
+	{
 		"id": "dash_value",
 		"term": "Dash (Value)",
 		"type": "official",
@@ -38,6 +49,16 @@
 		]
 	},
 	{
+		"id": "deceitful",
+		"term": "Deceitful",
+		"type": "fanmade",
+		"content": "<p>When this enemy activates, discard the top card of the encounter deck. If that card is a treachery, that enemy gains +1 ATK and +1 SCH for this activation.</p>",
+		"see_also": [
+			"treachery",
+			"activation"
+		]
+	},
+	{
 		"id": "deck",
 		"term": "Deck",
 		"type": "official",
@@ -56,6 +77,15 @@
 		"content": "<p>See: Appendix I: Deck Customization.</p>",
 		"see_also": [
 			"deck_customization"
+		]
+	},
+	{
+		"id": "dedication_x",
+		"term": "Dedication X",
+		"type": "fanmade",
+		"content": "<p>If you overpaid for this card by at least X resources, gain the corresponding effect.</p>",
+		"see_also": [
+			"resource"
 		]
 	},
 	{
@@ -112,6 +142,15 @@
 		]
 	},
 	{
+		"id": "destroy",
+		"term": "Destroy",
+		"type": "fanmade",
+		"content": "<p>Remove destroyed card from the game and treat its title as blank until the end of the game.</p>",
+		"see_also": [
+			"removed_from_the_game"
+		]
+	},
+	{
 		"id": "discard",
 		"term": "Discard",
 		"type": "official",
@@ -149,6 +188,16 @@
 			"player_card",
 			"victory_x",
 			"villain_villain_deck"
+		]
+	},
+	{
+		"id": "drain_x",
+		"term": "Drain X",
+		"type": "fanmade",
+		"content": "<p>When this keyword is triggered by a character, deal X damage to that character’s target. Then, if the target took that damage, heal X damage from the character who triggered drain.</p>",
+		"see_also": [
+			"damage",
+			"heal"
 		]
 	},
 	{

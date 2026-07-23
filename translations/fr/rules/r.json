@@ -34,6 +34,25 @@
 		]
 	},
 	{
+		"id": "recall",
+		"term": "Rappel",
+		"type": "fanmade",
+		"content": "<p>Ajoutez une carte de votre défausse à votre main.</p>",
+		"see_also": [
+			"discard"
+		]
+	},
+	{
+		"id": "reckless",
+		"term": "Téméraire",
+		"type": "fanmade",
+		"content": "<p>Lorsque ce personnage entre en jeu, placez 1 menace sur chaque manigance en jeu.</p>",
+		"see_also": [
+			"enters_play",
+			"threat"
+		]
+	},
+	{
 		"id": "recover_recovery",
 		"term": "Récupérer, Récupération",
 		"type": "official",
@@ -60,6 +79,26 @@
 			"identity_specific_card"
 		],
 		"whats_new": "Clarification de la correspondance des titres pour les capacités référentielles entre cartes joueur et cartes rencontre."
+	},
+	{
+		"id": "reflect_x",
+		"term": "Reflet X",
+		"type": "fanmade",
+		"content": "<p>Réduit de X la quantité de dégâts que ce personnage subit à chaque attaque. Après qu'un personnage avec le mot-clé riposte X est attaqué, infligez X dégâts à l'attaquant. Reflet se déclenche une fois par attaque.</p>",
+		"see_also": [
+			"damage",
+			"retaliate_x"
+		]
+	},
+	{
+		"id": "regeneration_x",
+		"term": "Régénération X",
+		"type": "fanmade",
+		"content": "<p>Lorsque ce personnage s'active, soignez X dégâts de ce personnage.</p>",
+		"see_also": [
+			"activation",
+			"heal"
+		]
 	},
 	{
 		"id": "remaining_hit_points",
@@ -117,6 +156,15 @@
 			"resource"
 		],
 		"whats_new": "Clarification : les exigences de ressources sont des coûts supplémentaires qui doivent être payés pour jouer une carte ou initier une capacité."
+	},
+	{
+		"id": "resistence",
+		"term": "Résistance",
+		"type": "fanmade",
+		"content": "<p>Lorsque ce personnage gagne ce mot-clé, il gagne 1 jeton de résistance <em>(max 1 par personnage)</em>. Lorsque le personnage avec ce jeton de résistance devrait être vaincu, défaussez le jeton et fixez ses points de vie restants à 1 à la place.</p>",
+		"see_also": [
+			"hit_points"
+		]
 	},
 	{
 		"id": "resolve",

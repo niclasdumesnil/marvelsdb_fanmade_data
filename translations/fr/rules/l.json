@@ -48,6 +48,16 @@
 		"whats_new": "Clarification : lorsqu'une carte quitte le jeu, tous ses pions (sauf les jetons accélération sur la manigance principale) retournent à la réserve."
 	},
 	{
+		"id": "legion",
+		"term": "Légion",
+		"type": "fanmade",
+		"content": "<p>2 alliés (de n'importe quel nom) avec le mot-clé légion comptent pour 1 allié dans votre limite d'alliés.</p>",
+		"see_also": [
+			"ally",
+			"ally_limit"
+		]
+	},
+	{
 		"id": "limit",
 		"term": "Limite",
 		"type": "official",

@@ -49,6 +49,16 @@
 		]
 	},
 	{
+		"id": "giant",
+		"term": "Giant",
+		"type": "fanmade",
+		"content": "<p>An ally with this keyword counts as 2 against the ally limit.</p>",
+		"see_also": [
+			"ally",
+			"ally_limit"
+		]
+	},
+	{
 		"id": "golden_rules",
 		"term": "",
 		"type": "official",

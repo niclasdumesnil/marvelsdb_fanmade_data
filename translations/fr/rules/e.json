@@ -247,6 +247,16 @@
 		]
 	},
 	{
+		"id": "expert_boost",
+		"term": "Boost Expert",
+		"type": "fanmade",
+		"content": "<p>Capacité de boost appliquée uniquement lors des parties en mode Expert <em>(l'icône de boost est dorée pour être facilement repérable)</em>.</p>",
+		"see_also": [
+			"boost_boost_icon",
+			"expert_set"
+		]
+	},
+	{
 		"id": "expert_mode",
 		"term": "Mode Expert",
 		"type": "official",

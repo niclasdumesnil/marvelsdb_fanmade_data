@@ -9,6 +9,17 @@
 		]
 	},
 	{
+		"id": "vicious",
+		"term": "Vicious",
+		"type": "fanmade",
+		"content": "<p><b>Forced Interrupt</b>: When this character would scheme, they attack instead.</p>",
+		"see_also": [
+			"forced",
+			"interrupt",
+			"attack_enemy_activation"
+		]
+	},
+	{
 		"id": "victory_display",
 		"term": "Victory Display",
 		"type": "official",
@@ -33,18 +44,6 @@
 			"victory_display"
 		],
 		"whats_new": "Added a new bullet defining the victory X keyword as an equivalent constant ability."
-	},
-	{
-		"id": "villain_villain_deck",
-		"term": "Villain, Villain Deck",
-		"type": "official",
-		"content": "<p>Villain is an encounter card type that represents the primary enemy the players are attempting to defeat in a scenario.</p><p>The villain is represented by a sequential deck of one or more cards. The players defeat the villain by reducing the hit points of each stage of the villain deck to zero.</p><ul><li>Villain cards cannot be discarded from play.</li></ul>",
-		"see_also": [
-			"activation",
-			"attack_enemy_activation",
-			"scheme_enemy_activation",
-			"villain_defeat"
-		]
 	},
 	{
 		"id": "villain_defeat",
@@ -86,20 +85,15 @@
 		]
 	},
 	{
-		"id": "villains_play_area",
-		"term": "Villain’s Play Area",
+		"id": "villain_villain_deck",
+		"term": "Villain, Villain Deck",
 		"type": "official",
-		"content": "<p>The villain’s play area <em>(also sometimes referred to as the “villain’s game area”)</em> is the area of play where the villain deck, the main scheme deck, the encounter deck, the encounter discard pile, and the villain’s hit point dial are located.</p><ul><li>Environment cards and side scheme cards are placed in the villain’s play area when they enter play.</li><li>Attachment cards attached to cards in the villain’s play area are in the villain’s play area. Attachment cards attached to cards in a player’s play area are not in the villain’s play area.</li><li>Minion cards engaged with a player are in that player’s play area and not in the villain’s play area.</li><li>Obligation cards given to a player are in that player’s play area and not in the villain’s play area.</li></ul>",
+		"content": "<p>Villain is an encounter card type that represents the primary enemy the players are attempting to defeat in a scenario.</p><p>The villain is represented by a sequential deck of one or more cards. The players defeat the villain by reducing the hit points of each stage of the villain deck to zero.</p><ul><li>Villain cards cannot be discarded from play.</li></ul>",
 		"see_also": [
-			"attachment",
-			"discard_pile",
-			"encounter_deck",
-			"environment",
-			"in_play_and_out_of_play",
-			"main_scheme",
-			"minion",
-			"obligation",
-			"villain_villain_deck"
+			"activation",
+			"attack_enemy_activation",
+			"scheme_enemy_activation",
+			"villain_defeat"
 		]
 	},
 	{
@@ -120,15 +114,31 @@
 		"whats_new": "Added a new bullet defining the villainous keyword as an equivalent constant ability."
 	},
 	{
+		"id": "villains_play_area",
+		"term": "Villain’s Play Area",
+		"type": "official",
+		"content": "<p>The villain’s play area <em>(also sometimes referred to as the “villain’s game area”)</em> is the area of play where the villain deck, the main scheme deck, the encounter deck, the encounter discard pile, and the villain’s hit point dial are located.</p><ul><li>Environment cards and side scheme cards are placed in the villain’s play area when they enter play.</li><li>Attachment cards attached to cards in the villain’s play area are in the villain’s play area. Attachment cards attached to cards in a player’s play area are not in the villain’s play area.</li><li>Minion cards engaged with a player are in that player’s play area and not in the villain’s play area.</li><li>Obligation cards given to a player are in that player’s play area and not in the villain’s play area.</li></ul>",
+		"see_also": [
+			"attachment",
+			"discard_pile",
+			"encounter_deck",
+			"environment",
+			"in_play_and_out_of_play",
+			"main_scheme",
+			"minion",
+			"obligation",
+			"villain_villain_deck"
+		]
+	},
+	{
 		"id": "vulnerable",
 		"term": "Vulnerable",
-		"type": "official",
-		"content": "<p>When a character with vulnerable becomes confused or stunned, that character is immediately discarded <em>(without being defeated)</em>.</p><ul><li><mark class=\"new\">The vulnerable keyword is equivalent to the following triggered ability: “<b>Forced Interrupt</b>: When this character becomes confused or stunned, discard it.”</mark></li><li>If a character with the vulnerable keyword would simultaneously take enough damage to defeat it and become either confused or stunned, it is discarded before the damage is applied and is not considered defeated.</li><li>If a character has both the steady and vulnerable keywords, the vulnerable keyword does not take effect until that character has two confused or two stunned status cards.</li></ul>",
+		"type": "fanmade",
+		"content": "<p>Discard this character if they are stunned or confused.</p>",
 		"see_also": [
+			"stun_stunned",
 			"confuse_confused",
-			"steady",
-			"stun_stunned"
-		],
-		"whats_new": "Added a new bullet defining the vulnerable keyword as an equivalent constant ability."
+			"discard"
+		]
 	}
 ]

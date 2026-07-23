@@ -1,5 +1,14 @@
 [
 	{
+		"id": "weak_x",
+		"term": "Weak X",
+		"type": "fanmade",
+		"content": "<p>Increases the amount of damage this character takes from each attack by X.</p>",
+		"see_also": [
+			"damage"
+		]
+	},
+	{
 		"id": "when_completed_abilities",
 		"term": "When Completed Abilities",
 		"type": "official",

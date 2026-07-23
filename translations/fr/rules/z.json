@@ -1,0 +1,13 @@
+[
+	{
+		"id": "zealot",
+		"term": "Zélote",
+		"type": "fanmade",
+		"content": "<p>Lorsqu'un sbire avec Zélote est en jeu, tout dégât infligé au méchant actif par le joueur avec lequel ce sbire est engagé est infligé à ce sbire à la place. Si plusieurs sbires avec Zélote sont en jeu, tous les dégâts sont appliqués à l'un d'eux et tout excès est ensuite appliqué aux autres.</p>",
+		"see_also": [
+			"minion",
+			"villain_villain_deck",
+			"damage"
+		]
+	}
+]
