@@ -22,7 +22,7 @@
 		"id": "cancel",
 		"term": "Cancel",
 		"type": "official",
-		"content": "<ul><li>Some card abilities can cancel card or game effects. Cancel abilities interrupt the initiation of effects and prevent them from resolving.</li><li>When effects of an ability are canceled, the ability (apart from its effects) is still regarded as initiated and costs are still paid; only the effects are prevented.</li><li>If an event's effects are canceled, it's still considered played and discarded.</li><li>If a treachery's effects are canceled, it's still regarded as revealed and placed in the discard pile. Cancel effects are a subtype of replacement effect, replaced with no effect; abilities dependent on the canceled effect cannot trigger.</li></ul>",
+		"content": "<p>Some card abilities can cancel card or game effects.</p><ul><li>Cancel abilities interrupt the initiation of effects and prevent them from resolving.</li><li>Anytime the effects of an ability are canceled, the ability <em>(apart from its effects)</em> is still regarded as initiated, and any costs are still paid. Only the effects are prevented from initiating, and do not resolve.</li><li>If the effects of an event card are canceled, the card is still considered played, and it is discarded.</li><li>If the effects of a treachery card are canceled, the card is still regarded as revealed, and it is still placed in the encounter discard pile.</li><li>Cancel effects are considered a subtype of replacement effect, with the canceled effect being replaced with no effect.<ul><li>Abilities dependent on the canceled effect cannot trigger as the canceled effect is not considered to have occurred.</li></ul></li></ul>",
 		"see_also": [
 			"ability",
 			"replacement_effect"
@@ -32,7 +32,7 @@
 		"id": "cannot",
 		"term": "\"Cannot\"",
 		"type": "official",
-		"content": "<p>The word 'cannot' is absolute and cannot be countermanded by other abilities or effects. If two abilities conflict, the one with 'cannot' takes precedence; if two rules conflict, the rule with 'cannot' takes precedence.</p>\n<p>An ability can override a rule with 'cannot' per the Golden Rules.</p>",
+		"content": "<p>The word “cannot” is absolute and cannot be countermanded by other abilities or effects.</p><ul><li>If two abilities conflict, the ability with “cannot” takes precedence.</li><li>If two rules conflict, the rule with “cannot” takes precedence.</li><li>An ability can override a rule with “cannot” per the Golden Rules.</li></ul>",
 		"see_also": [
 			"the_golden_rules",
 			"target"
