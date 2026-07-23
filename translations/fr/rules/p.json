@@ -25,7 +25,7 @@
 	},
 	{
 		"id": "per_player_icon",
-		"term": "Icône par joueur (<span class=\"icon icon-per_player\"></span>)",
+		"term": "Icône par joueur ([per_hero])",
 		"type": "official",
 		"content": "<p>L'icône <span class=\"icon icon-per_player\"></span> à côté d'une valeur multiplie cette valeur par le nombre de joueurs qui ont <b>commencé</b> le scénario.</p><ul><li>Si un joueur est éliminé, cette valeur ne change pas.</li></ul>",
 		"see_also": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": "physical_resource",
-		"term": "Ressource physique (<span class=\"icon icon-physical\"></span>)",
+		"term": "Ressource physique ([physical])",
 		"type": "official",
 		"content": "<p>Une ressource physique (<span class=\"icon icon-physical\"></span>) est l'un des quatre types de ressources.</p><ul><li>Les ressources physiques peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités de cartes nécessitent spécifiquement que des ressources physiques soient dépensées pour résoudre leurs effets.</li></ul>",
 		"see_also": [

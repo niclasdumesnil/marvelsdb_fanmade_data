@@ -11,7 +11,7 @@
 	},
 	{
 		"id": "hazard_icon",
-		"term": "Hazard Icon (<span class=\"icon icon-hazard\"></span>)",
+		"term": "Hazard Icon ([hazard])",
 		"type": "official",
 		"content": "<p>During the Deal Encounter Cards step of the villain phase, for each hazard icon on cards in play, deal one player one additional card <em>(not one card per player)</em>. Additional cards are dealt in player order <em>(first additional card to the first player, the second to the second player, etc.)</em>.</p><ul><li><mark class=\"new\">Each hazard icon is equivalent to the following constant ability: “During the Deal Encounter Cards step of the villain phase, deal 1 additional encounter card. Additional cards from hazard icons are dealt in player order.”</mark></li></ul>",
 		"whats_new": "Added a new bullet defining the hazard icon as an equivalent constant ability.",

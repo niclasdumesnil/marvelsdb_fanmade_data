@@ -25,7 +25,7 @@
 	},
 	{
 		"id": "per_player_icon",
-		"term": "Per Player Icon (<span class=\"icon icon-per_player\"></span>)",
+		"term": "Per Player Icon ([per_hero])",
 		"type": "official",
 		"content": "<p>The <span class=\"icon icon-per_player\"></span> icon next to a value multiplies that value by the number of players who <b>started</b> the scenario.</p><ul><li>If a player is eliminated, this value does not change.</li></ul>",
 		"see_also": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": "physical_resource",
-		"term": "Physical Resource (<span class=\"icon icon-physical\"></span>)",
+		"term": "Physical Resource ([physical])",
 		"type": "official",
 		"content": "<p>A physical resource (<span class=\"icon icon-physical\"></span>) is one of the four types of resources.</p><ul><li>Physical resources can be spent to pay the resource cost of cards and abilities.</li><li>Some card abilities specifically require physical resources to be spent in order to resolve their effects.</li></ul>",
 		"see_also": [

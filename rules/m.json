@@ -53,7 +53,7 @@
 	},
 	{
 		"id": "mental_resource",
-		"term": "Mental Resource (<span class=\"icon icon-mental\"></span>)",
+		"term": "Mental Resource ([mental])",
 		"type": "official",
 		"content": "<p>A mental resource (<span class=\"icon icon-mental\"></span>) is one of the four types of resources.</p><ul><li>Mental resources can be spent to pay the resource cost of cards and abilities.</li><li>Some card abilities specifically require mental resources to be spent in order to resolve their effects.</li></ul>",
 		"see_also": [
