@@ -24,7 +24,7 @@
 		"id": "heal",
 		"term": "Heal",
 		"type": "official",
-		"content": "<p>If an ability heals a character, damage sustained can be removed. A heal effect can only bring a character to its maximum hit points unless it explicitly allows going above the maximum.</p>\n<p>Effects that move damage off a character are considered to heal that character.</p>",
+		"content": "<p>If an ability heals a character, damage the character has sustained can be removed from the character.</p><ul><li>A heal effect can only bring a character to its maximum hit points, unless the effect explicitly states it can bring the character above its maximum.</li><li>Effects that move damage off of a character are considered to heal that character.</li></ul>",
 		"see_also": [
 			"ally",
 			"hit_points",
@@ -34,10 +34,14 @@
 		]
 	},
 	{
-		"id": "hero",
-		"term": "",
+		"id": "hero_hero_form",
+		"term": "Hero, Hero Form",
 		"type": "official",
-		"content": ""
+		"content": "<p>See: Form, Change Form, Identity.</p>",
+		"see_also": [
+			"form_change_form",
+			"identity"
+		]
 	},
 	{
 		"id": "heroic_mode",
@@ -52,7 +56,7 @@
 		"id": "hinder_x",
 		"term": "Hinder X",
 		"type": "official",
-		"content": "<p>A card with the hinder X keyword enters play with X threat on it.</p>\n<ul><li>Equivalent to:<blockquote>This card enters play with X threat on it.</blockquote></li><li>This threat is in addition to any threat it normally enters play with.</li></ul>",
+		"content": "<p>A card with the hinder X keyword enters play with X threat on it. <em>(X is the value next to the hinder keyword.)</em></p><ul><li><mark class=\"new\">The hinder X keyword is equivalent to the following constant ability: “This card enters play with X threat on it.”</mark></li><li><mark class=\"new\">This threat is in addition to any threat it normally enters play with, such as a side scheme’s starting threat.</mark></li></ul>",
 		"see_also": [
 			"enters_play",
 			"keywords",
