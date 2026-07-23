@@ -1,9 +1,9 @@
 [
 	{
 		"id": "x_value",
-		"term": "“X” (Value)",
+		"term": "\"X\" (Value)",
 		"type": "official",
-		"content": "See: Non-Numerical Variable",
+		"content": "<p>See: Non-Numerical Variable.</p>",
 		"see_also": [
 			"non_numerical_variable"
 		]

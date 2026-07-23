@@ -3,11 +3,11 @@
 		"id": "patrol",
 		"term": "Patrol",
 		"type": "official",
-		"content": "While a minion with the patrol keyword is engaged with a player, that player cannot use cards they control to thwart the main scheme.",
+		"content": "<p>While a minion with the patrol keyword is engaged with a player, that player cannot use cards they control to thwart the main scheme.</p>\n<ul><li>Equivalent to:<blockquote>The engaged player cannot thwart the main scheme.</blockquote></li></ul>",
 		"see_also": [
 			"engage",
 			"keywords",
-			"main_scheme",
+			"main_scheme_main_scheme_deck",
 			"minion",
 			"reminder_text",
 			"thwart"
@@ -15,9 +15,9 @@
 	},
 	{
 		"id": "pay",
-		"term": "“Pay”",
+		"term": "\"Pay\"",
 		"type": "official",
-		"content": "See: Cost",
+		"content": "<p>See: Cost.</p>",
 		"see_also": [
 			"cost"
 		]
@@ -26,7 +26,7 @@
 		"id": "per_player_icon",
 		"term": "Per Player Icon",
 		"type": "official",
-		"content": "The per player icon (<span class=\"icon icon-per_hero rules-icon\" title=\"per_hero\" aria-hidden=\"true\">G</span>) next to a value multiplies that value by the number of players who <b>started </b>the scenario.<ul><li>If a player is eliminated, this value does not change.</li></ul>",
+		"content": "<p>The per-player icon next to a value multiplies that value by the number of players who started the scenario. If a player is eliminated, this value does not change.</p>",
 		"see_also": [
 			"icons",
 			"modifiers",
@@ -37,7 +37,7 @@
 		"id": "peril",
 		"term": "Peril",
 		"type": "official",
-		"content": "While a player is resolving a card with the peril keyword, that player cannot consult other players, and other players cannot play cards or trigger abilities.",
+		"content": "<p>While a player is resolving a card with the peril keyword, that player cannot consult other players, and other players cannot play cards or trigger abilities. Equivalent to: 'While a player is resolving this card, that player cannot consult other players, and other players cannot trigger abilities.</p>\n<p>While this card is in a player's play area, other players cannot trigger abilities on this card.'</p>",
 		"see_also": [
 			"ability",
 			"keywords",
@@ -51,8 +51,7 @@
 		"id": "permanent",
 		"term": "Permanent",
 		"type": "official",
-		"content": "Cards with the permanent keyword cannot be defeated, leave play, or have any part of its text box blanked, except by card abilities in the same set (hero set, scenario set, or modular set).<ul><li>Permanent cards are set aside <red>before </red>step 1 of setup <red>and are put into play later by abilities on other cards.</red></li><li>Permanent cards do not count towards a player’s minimum or maximum deck size.</li><li>Permanent cards are not valid targets for card effects that would cause the permanent card to leave play.</li><ul><li>If a permanent card would be targeted by such an effect, that effect instead targets the non-permanent card that fits its criteria.</li></ul><li><red>If the card to which a permanent attachment was attached leaves play, resolve that attachment’s “attach to” text. If it has none or that text does not have a valid target, remove the attachment from the game.</red></li><li>If a player is eliminated from the game while a <red>non-attachment</red> permanent card they do not own is in their play area, <red>remove that permanent card from the game.</red></li></ul>",
-		"whats_new": "Clarified that permanent cards are put into play later by abilities on other cards. Added rules detailing that if a card with a permanent attachment leaves play, the 'attach to' text is resolved or the attachment is removed from the game. Also specified that non-attachment permanent cards owned by another player are removed from the game upon player elimination.",
+		"content": "<ul><li>A card with the permanent keyword cannot be defeated, leave play, or have any part of its text box blanked, except by card abilities in the same set (hero set, scenario set, or modular set). Equivalent to: 'Set this card aside during setup.</li><li>Effects on cards not from this card's set cannot defeat this card, remove this card from play, or blank any part of its text box.' Permanent cards are set aside before step 1 of setup and put into play later. They do not count toward deck size, and are not valid targets for effects causing them to leave play (such effects instead target the non-permanent card fitting the criteria).</li><li>If a card to which a permanent attachment was attached leaves play, resolve its 'attach to' text (or remove it from the game).</li><li>If a player is eliminated while a non-attachment permanent card they don't own is in their play area, remove that card from the game.</li></ul>",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"keywords",
@@ -65,7 +64,7 @@
 		"id": "physical_resource",
 		"term": "Physical Resource",
 		"type": "official",
-		"content": "A physical resource (<span class=\"icon-physical\"></span>) is one of the four types of resources.<ul><li>Physical resources can be spent to pay the resource cost of cards and abilities.</li><li>Some card abilities specifically require physical resources to be spent in order to resolve their effects.</li></ul>",
+		"content": "<p>A physical resource is one of the four types of resources. Physical resources can be spent to pay resource costs; some abilities specifically require them.</p>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -80,8 +79,7 @@
 		"id": "piercing",
 		"term": "Piercing",
 		"type": "official",
-		"content": "An attack with the piercing keyword discards any tough status cards from the attacked character before dealing damage.<ul><li><red>If an attack with the piercing keyword would deal no damage to the attacked character, it does not discard tough status cards from that character.</red></li></ul>",
-		"whats_new": "Added a rule stating that if an attack with the piercing keyword would deal no damage, it does not discard tough status cards from the attacked character.",
+		"content": "<p>An attack with the piercing keyword discards any tough status cards from the attacked character before dealing damage.</p>\n<ul><li>Equivalent to:<blockquote>Before this attack deals damage to a character, discard each tough status card from that character.</blockquote></li><li>If an attack with piercing would deal no damage, it does not discard tough status cards.</li></ul>",
 		"see_also": [
 			"attack_enemy_activation",
 			"attack_player_ability_type",
@@ -94,10 +92,21 @@
 		]
 	},
 	{
+		"id": "play_area",
+		"term": "Play Area",
+		"type": "official",
+		"content": "<p>Two types of play areas: a player's play area and the villain's play area.</p>\n<ul><li>A player's play area contains identity, deck, hand, discard pile, cards in play under their control, and any facedown/faceup encounter cards in their area.</li><li>The villain's play area contains the villain deck, main scheme deck, encounter deck, encounter discard pile, and encounter cards not in a player's play area.</li><li>A card cannot be in more than one play area at a time.</li></ul>",
+		"see_also": [
+			"in_play_and_out_of_play",
+			"players_play_area",
+			"villains_play_area"
+		]
+	},
+	{
 		"id": "play_put_into_play",
 		"term": "Play, Put into Play",
 		"type": "official",
-		"content": "Playing a card involves paying the card’s cost and placing the card in the play area. This causes the card to enter play (or, in the case of an event card, to resolve its ability and be placed in the discard pile). Cards are played from a player’s hand. Some abilities cause cards to be put into play. This bypasses the need to pay the card’s cost as well as any restrictions or prohibitions regarding playing that card. A card that is put into play enters play in its controller’s play area.<ul><li>Cards with the text “[type] form only” can only be played or put into play by a player whose identity is in the specified form.</li><li>When an event card is played, place it on the table, resolve its ability, and place the card in its owner’s discard pile.</li><li>A card that is put into play is not considered to have been played.</li><li>When a card is put into play, its resource cost is ignored.</li><li>Unless otherwise stated by the “put into play” effect, cards that are put into play must do so in a play area or state that matches the rules of playing the card.</li></ul>",
+		"content": "<p>Playing a card involves paying its cost and placing it in the play area, causing it to enter play (or, for an event, resolve its ability and be placed in the discard pile).</p>\n<ul><li>Cards are played from a player's hand. Abilities may cause cards to be put into play, bypassing the cost and any playing restrictions; a card put into play enters play in its controller's play area.</li><li>Cards with '[type] form only' can only be played/put into play by a player in that form.</li><li>When an event is played, place it on the table, resolve its ability, then discard it.</li><li>A card put into play is not considered to have been played; when put into play, its resource cost is ignored.</li></ul>",
 		"see_also": [
 			"enters_play",
 			"in_play_and_out_of_play",
@@ -107,24 +116,13 @@
 		]
 	},
 	{
-		"id": "play_area",
-		"term": "Play Area",
-		"type": "official",
-		"content": "There are two types of play areas: a player’s play area and the villain’s play area.<ul><li>A player’s play area contains that player’s identity, deck, hand, discard pile, any cards in play under their control, and any faceup or facedown encounter cards in their play area (such as engaged minions or encounter cards that have been dealt to them).</li><li>The villain’s play area contains the villain deck, main scheme deck, encounter deck, encounter discard pile, and any encounter cards in play that have not entered a player’s play area (such as side schemes or environments).</li><li>A card cannot be in more than one play area at a time.</li></ul>",
-		"see_also": [
-			"in_play_and_out_of_play",
-			"player_play_area",
-			"villain_play_area"
-		]
-	},
-	{
 		"id": "play_restrictions_and_permissions",
 		"term": "Play Restrictions and Permissions",
 		"type": "official",
-		"content": "Many cards and abilities contain specific instructions pertaining to when or how they may or may not be used, or to specific conditions that must be true in order to use them.<ul><li>In order to use an ability or play a card, all of its play restrictions must be observed.</li><li>A permission is an optional play restriction, which allows a player to play a card or use an ability outside the timing or specifications provided by the game rules. For example, a permission might allow an ally card to be played from a player’s discard pile.</li></ul>",
+		"content": "<p>Many cards and abilities contain specific instructions pertaining to when/how they may or may not be used, or conditions that must be true to use them. In order to use an ability or play a card, all of its play restrictions must be observed.</p>\n<p>A permission is an optional play restriction allowing a player to play a card/use an ability outside normal timing/specifications (e.g. playing an ally from the discard pile).</p>",
 		"see_also": [
 			"ability",
-			"play",
+			"play_put_into_play",
 			"player"
 		]
 	},
@@ -132,7 +130,7 @@
 		"id": "player",
 		"term": "Player",
 		"type": "official",
-		"content": "A player is a person who is playing in a game of Marvel Champions.<ul><li>Each player in the game has their own personal play area containing their identity card, their identity’s hit point dial, their hand of cards, their deck that they draw from, their discard pile that they place their discarded cards into, any allies, upgrades, or supports that they may have in play, and any attachments, minions, or obligations that they may have in their play area.</li><li>During each player phase of each round, each player takes their own personal turn where they can play cards, perform actions with cards they control, and use various abilities.</li><li>Each player owns the cards that were contained within their deck (including their identity card) at the start of the game.</li><li>Some game steps, game functions, or card abilities may refer to the “first player”. The first player is the player who has the first player token.</li></ul>",
+		"content": "<ul><li>A player is a person playing Marvel Champions.</li><li>Each player has their own personal play area containing identity card, hit point dial, hand, deck, discard pile, allies/upgrades/supports in play, and attachments/minions/obligations in their area.</li><li>During each player phase, each player takes their own turn.</li><li>Each player owns the cards contained within their deck (including identity card) at the start of the game.</li><li>The 'first player' is the player who has the first player token.</li></ul>",
 		"see_also": [
 			"discard",
 			"discard_pile",
@@ -143,15 +141,15 @@
 			"player_elimination",
 			"player_phase",
 			"player_turn",
-			"player_play_area",
-			"you"
+			"players_play_area",
+			"you_your"
 		]
 	},
 	{
 		"id": "player_card",
 		"term": "Player Card",
 		"type": "official",
-		"content": "There are seven player card types: ally cards, event cards, identity cards, player side scheme cards, resource cards, support cards, and upgrade cards.<ul><li>Player cards may belong to various classifications, such as identity-specific player cards or aspect player cards.</li><li>Most player cards have a blue card back.</li></ul>",
+		"content": "<p>There are seven player card types: ally, event, identity, player side scheme, resource, support, and upgrade. Player cards may belong to various classifications (identity-specific, aspect).</p>\n<p>Most player cards have a blue card back.</p>",
 		"see_also": [
 			"ally",
 			"classifications",
@@ -160,18 +158,19 @@
 			"player_side_scheme",
 			"resource_card",
 			"support",
-			"upgrade"
+			"upgrade",
+			"appendix_i_deck_customization"
 		]
 	},
 	{
 		"id": "player_deck",
 		"term": "Player Deck",
 		"type": "official",
-		"content": "A player’s deck contains the player cards (allies, events, player side schemes, resources, supports, and upgrades) owned by the player who started the game with that deck.<ul><li>The order of cards within a player’s deck cannot be changed unless a player is instructed to do so by a game step, game function, or card ability.</li></ul><span style=\"font-size: 0.92rem;\">If a player deck empties, the player shuffles their discard pile to make a new deck. That player immediately deals themself one facedown encounter card from the top of the encounter deck.</span><br><ul><li>If the player’s deck empties and reshuffles while the player was drawing cards, the player continues to draw cards up to the specified number.</li><li>If the player’s deck empties while the player was discarding cards from their deck, no further cards are discarded from the newly shuffled deck.</li><li>If a player deck empties and the player has no cards in their discard pile, the deck does not reset until there is at least one card in the player’s discard pile, then the player deals themself one facedown encounter card.</li></ul>",
+		"content": "<ul><li>A player's deck contains the player cards owned by the player who started the game with that deck. Order cannot be changed unless instructed.</li><li>If a player deck empties, the player shuffles their discard pile to make a new deck and immediately deals themselves one facedown encounter card from the top of the encounter deck.</li><li>If the deck empties and reshuffles while drawing, the player continues drawing up to the specified number; if while discarding, no further cards are discarded from the newly shuffled deck.</li><li>If it empties and there are no cards in the discard pile, it does not reset until there is at least one card in the discard pile.</li></ul>",
 		"see_also": [
 			"discard",
 			"discard_pile",
-			"draw",
+			"draw_drawing_cards",
 			"encounter_deck",
 			"shuffle"
 		]
@@ -180,7 +179,7 @@
 		"id": "player_discard_pile",
 		"term": "Player Discard Pile",
 		"type": "official",
-		"content": "See: Discard Pile",
+		"content": "<p>See: Discard Pile.</p>",
 		"see_also": [
 			"discard_pile"
 		]
@@ -189,21 +188,20 @@
 		"id": "player_elimination",
 		"term": "Player Elimination",
 		"type": "official",
-		"content": "A player is eliminated from the game if their identity is defeated. This usually occurs when the character’s remaining hit points are reduced to zero. When a player is eliminated, perform the following in order:<ol><li>If the eliminated player has the first player token, they pass it to the next clockwise player.</li><li>If there are minions engaged with the eliminated player, each of those minions engages the next clockwise player, retaining any <red>tokens, attached cards, boost cards, tucked cards,</red> and status cards on them.</li><li>For each card in the eliminated player’s play area that are not owned by that player, do the following:</li><ul><li><span style=\"font-size: 14.72px;\">If that card is an attachment with the permanent keyword, resolve its “attach to” text. If it has none or that text does not have a valid target, remove the attachment from the game.</span></li><li><span style=\"font-size: 14.72px;\"><span style=\"font-size: 14.72px;\">Remove each non-attachment card with the permanent keyword from the game.</span></span></li><li><span style=\"font-size: 14.72px;\"><span style=\"font-size: 14.72px;\">Place each other card in its owner’s discard pile.</span></span></li></ul><li style=\"--tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\"><span style=\"--tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-size: 14.72px;\">Place each card owned by the eliminated player in the eliminated player’s discard pile.</span></li><li style=\"--tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\"><span style=\"--tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-size: 0.92rem;\">Remove the eliminated player’s play area and each\nother game element within it (hand, deck, discard pile,\ncards in play, hit point dial, etc.) from the game.</span></li></ol><div><span style=\"font-size: 0.92rem;\">When a player is eliminated, the remaining players continue to play the game. Eliminated players no longer participate in the game but are considered to win or lose along with the rest of the group, depending on how they finish.</span></div><ul><li>If all players are eliminated, the game ends and the players lose.</li><li>If a player is eliminated partway through the resolution of an ability, resolve the entire ability.</li><li><red>Effects that refer to the players in the game ignore eliminated players, except for the per player icon (<span class=\"icon icon-per_hero rules-icon\" title=\"per_hero\" aria-hidden=\"true\">G</span>).</red></li></ul>",
-		"whats_new": "Clarified that when minions engage the next player, they retain any tokens, attached cards, boost cards, and tucked cards on them. Also added a rule stating that effects referring to players in the game ignore eliminated players, except for the per player icon.",
+		"content": "<p>A player is eliminated if their identity is defeated (usually reduced to zero remaining hit points). When eliminated, in order:</p>\n<ol><li>Pass the first player token if held.</li><li>Minions engaged with the eliminated player engage the next clockwise player (retaining tokens, attached cards, boost cards, tucked cards, status cards).</li><li>For each card in their play area not owned by them: permanent attachments resolve 'attach to' text or are removed from the game; non-attachment permanent cards are removed from the game; other cards go to owner's discard pile.</li><li>Place each card owned by the eliminated player in their own discard pile.</li><li>Remove the eliminated player's play area and all game elements within it from the game. Remaining players continue playing; eliminated players win or lose with the group depending on how they finish. If all players are eliminated, the game ends and the players lose. If eliminated partway through an ability's resolution, resolve the entire ability (an attack in progress ends). Effects referring to the players in the game ignore eliminated players, except for the per-player icon.</li></ol>",
 		"see_also": [
 			"ability",
-			"deal",
+			"deal_deal_an_encounter_card",
 			"engage",
 			"game_element",
-			"hit_points_hp",
+			"hit_points",
 			"identity",
 			"minion",
 			"per_player_icon",
 			"player",
 			"player_card",
 			"player_deck",
-			"player_play_area",
+			"players_play_area",
 			"winning_the_game"
 		]
 	},
@@ -211,21 +209,19 @@
 		"id": "player_phase",
 		"term": "Player Phase",
 		"type": "official",
-		"content": "During the player phase, each player (in player order) takes one turn. After each player has taken a turn, the players discard down or draw up to their hand size and ready <red>each exhausted card.</red><ul><li>Effects that last “until the end of the [player] phase” end after players draw up to their hand size and all <red>cards are readied.</red> Then, effects that resolve “when/ after the player phase ends” are resolved.</li></ul>",
-		"whats_new": "Updated the wording to specify that players ready 'each exhausted card' at the end of the phase, and clarified that effects lasting 'until the end of the phase' expire after all cards are readied.",
+		"content": "<p>During the player phase, each player (in player order) takes one turn. After each player has taken a turn, the players discard down or draw up to their hand size and ready each exhausted card.</p>\n<p>Effects lasting 'until the end of the player phase' end after players draw up and ready; then effects resolving 'when/after the player phase ends' are resolved.</p>",
 		"see_also": [
 			"end_of_player_phase",
 			"in_player_order",
 			"player",
-			"player_turn",
-			"ready"
+			"player_turn"
 		]
 	},
 	{
 		"id": "player_side_scheme",
 		"term": "Player Side Scheme",
 		"type": "official",
-		"content": "Player side schemes are missions the heroes undertake to facilitate defeating the villain. They are the player card equivalent of the side schemes found in the encounter deck.<ul><li>When a player side scheme enters play, it is placed next to the main scheme in the villain’s play area.</li><li>Each player side scheme enters play with an amount of threat on it equal to its starting threat value.</li><li>The number of player side schemes in play at any time is limited by the player side scheme limit.</li><li>A player side scheme remains in play until either there is no threat on it (which causes it to be defeated and either discarded or, if it has the victory X keyword, added to the victory display) or it is discarded due to there being more player side schemes in play than the limit.</li><li>Any rules or card effects that refer to “schemes” or “side schemes” also refer to player side schemes.</li><ul><li>Heroes and allies can remove threat from a player side scheme by performing a basic thwart.</li><li>Abilities that remove threat from “a scheme” or “a side scheme” can remove threat from a player side scheme.</li></ul></ul>",
+		"content": "<p>Player side schemes are missions heroes undertake to facilitate defeating the villain — the player card equivalent of side schemes in the encounter deck.</p>\n<ul><li>When one enters play, it's placed next to the main scheme in the villain's play area, with threat equal to its starting threat value.</li><li>The number in play is limited by the player side scheme limit. It remains in play until there's no threat on it (defeated, discarded or, with victory X, added to the victory display) or discarded due to exceeding the limit. Rules/effects referring to 'schemes' or 'side schemes' also refer to player side schemes.</li></ul>",
 		"see_also": [
 			"card_types",
 			"player_card",
@@ -239,7 +235,7 @@
 		"id": "player_side_scheme_limit",
 		"term": "Player Side Scheme Limit",
 		"type": "official",
-		"content": "The number of player side schemes in play at any time is limited by the player side scheme limit.<ul><li>If one or two players started the game, the player side scheme limit is one. If three or four players started the game, the limit is two.</li><li>If there are ever more player side schemes in play than the limit, the first player chooses and discards player side schemes until there are no longer more in play than the limit.</li></ul>",
+		"content": "<p>The number of player side schemes in play at any time is limited: one if one/two players started the game, two if three/four players started. If there are ever more than the limit, the first player chooses and discards until at the limit.</p>\n<p>A player may play a player side scheme even at the limit, but must then choose one to discard (not considered defeated).</p>",
 		"see_also": [
 			"player_side_scheme"
 		]
@@ -248,7 +244,7 @@
 		"id": "player_turn",
 		"term": "Player Turn",
 		"type": "official",
-		"content": "During their turn, a player may perform the following options, in any order. Each option, except “change form,” may be performed as many times as the player is able, so long as they are able to pay the required costs.<ul><li><b>Change form</b> from hero to alter-ego, or from alter-ego to hero. <b>This option may only be performed once each turn.</b></li><li><b>Play</b> an ally, upgrade, support, or player side scheme card from hand.</li><li><b>Use </b>their alter-ego’s basic recovery (if in alter-ego form) or their hero’s basic attack or thwart power (if in hero form).</li><li><b>Use</b> an ally card they control in play to attack an enemy or thwart a scheme.</li><li><b>Trigger</b> an “<b>Action</b>” ability on:</li><ul><ol type=\"a\"><li>A card in play they control.</li><li>An encounter card in play.</li><li>Any card in play with text that allows that player to trigger its action ability.</li><li>An event card in their hand (by playing that event).</li></ol><li>If the action ability is preceded by “Hero” or “Alter-Ego”, the player must be in the specified form in order to trigger the ability.</li></ul><li><b>Ask</b> another player to trigger any “<b>Action</b>” ability that player could trigger on their own turn. The other player then decides whether or not to trigger the ability. (Another player may offer to use an action during the active player’s turn, as well.)</li></ul>",
+		"content": "<p>During their turn, a player may perform the following options in any order (each performable as many times as able except 'change form,' once per turn): Change form; Play an ally/upgrade/support/player side scheme from hand; Use alter-ego's basic recovery (alter-ego form) or hero's basic attack/thwart (hero form); Use an ally in play to attack/thwart; Trigger an 'Action' ability on a controlled card in play, an encounter card in play, any card with text allowing it, or an event card in hand (by playing it); Ask another player to trigger any 'Action' ability that player could trigger.</p>",
 		"see_also": [
 			"ally",
 			"basic_power",
@@ -265,10 +261,10 @@
 		]
 	},
 	{
-		"id": "player_play_area",
-		"term": "Player’s Play Area",
+		"id": "players_play_area",
+		"term": "Player's Play Area",
 		"type": "official",
-		"content": "A player’s play area (also sometimes referred to as a “player’s game area”) is the area of play where a player’s identity card, deck, hand, discard pile, and hit point dial are located. Each player in the game has their own play area.<ul><li>Ally cards, support cards, and upgrade cards are placed in a player’s play area when they enter play.</li><li>Attachment cards attached to cards in the villain’s play area are not in the player’s play area.</li><li>Minion cards engaged with a player are in that player’s play area and not in the villain’s play area.</li><li>Obligation cards given to a player are in that player’s play area and not in the villain’s play area.</li><li>While card abilities can affect cards across play areas, unless a game rule or card ability states otherwise, cards cannot be played into another player’s play area.</li><li>If a player is eliminated from the game (through their identity being defeated, or otherwise), their play area is removed from the game.</li></ul>",
+		"content": "<ul><li>A player's play area (also 'player's game area') is where a player's identity card, deck, hand, discard pile, and hit point dial are located. Ally, support, and upgrade cards are placed here when entering play. Attachment cards attached to cards in the villain's play area are not in the player's play area. Minion cards engaged with a player are in that player's play area, not the villain's. Obligation cards given to a player are in that player's play area.</li><li>If a player is eliminated, their play area is removed from the game.</li></ul>",
 		"see_also": [
 			"ally",
 			"discard_pile",
@@ -286,7 +282,7 @@
 		"id": "playing_cards",
 		"term": "Playing Cards",
 		"type": "official",
-		"content": "See: Initiating Abilities",
+		"content": "<p>See: Initiating Abilities.</p>",
 		"see_also": [
 			"initiating_abilities"
 		]
@@ -295,7 +291,7 @@
 		"id": "prevent",
 		"term": "Prevent",
 		"type": "official",
-		"content": "Some card abilities prevent damage or threat.<ul><li>When damage is prevented, reduce the amount of damage the target takes (i.e. the amount of damage that is placed on the target).</li><ul><li>When an effect prevents damage dealt to a character, the amount of damage that character “takes” is reduced, but the amount of damage “dealt” is not reduced.</li><li>If an effect prevents all damage dealt to a character, that character is not considered to have taken damage.</li><li>If all damage from an attack is prevented, the attacking character is considered to have dealt damage, but is not considered to have “attacked and damaged” the attacked character.</li><li>If dealing damage is a cost, that cost is considered paid even if some or all of that damage is prevented.</li><li>If taking damage is a cost, that cost is not considered paid unless all of that damage was taken. (If any of the damage is prevented, then the cost has not been paid.)</li></ul><li>When threat is prevented, reduce the amount of threat being assigned before it is placed on the scheme.</li></ul>",
+		"content": "<ul><li>Some card abilities prevent damage or threat.</li><li>When damage is prevented, reduce the amount the target takes (not the amount dealt).</li><li>If an effect prevents all damage, the character is not considered to have taken damage.</li><li>If all damage from an attack is prevented, the attacker is considered to have dealt damage but not to have 'attacked and damaged' the target.</li><li>If dealing damage is a cost, that cost is considered paid even if prevented; if taking damage is a cost, it is not considered paid unless all was taken.</li><li>When threat is prevented, reduce the amount assigned before it is placed on the scheme.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -309,19 +305,10 @@
 		"id": "printed",
 		"term": "Printed",
 		"type": "official",
-		"content": "The word “printed” refers to the text, characteristic, or value that is physically printed on the card.<ul><li>If a player must pay a cost using “printed resources,” they may use resources generated by a card’s ability, so long as the icon(s) for the resource(s) that card generates is printed in its text box.</li><ul><li>Wild resources (<span class=\"icon-wild\"></span>) cannot be spent as other resource types for such a cost.</li></ul></ul>",
+		"content": "<p>The word 'printed' refers to the text, characteristic, or value physically printed on the card. If a player must pay a cost using 'printed resources,' they may use resources generated by a card's ability if the icon(s) generated is printed in its text box.</p>\n<p>Wild resources cannot be spent as other resource types for such a cost.</p>",
 		"see_also": [
 			"base_value",
 			"modifiers"
-		]
-	},
-	{
-		"id": "put_into_play",
-		"term": "Put into Play",
-		"type": "official",
-		"content": "See: Play, Put into Play",
-		"see_also": [
-			"play_put_into_play"
 		]
 	}
 ]

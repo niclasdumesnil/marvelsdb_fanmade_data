@@ -1,9 +1,18 @@
 [
 	{
+		"id": "campaign_mode",
+		"term": "Campaign Mode",
+		"type": "official",
+		"content": "<p>See: Modes of Play.</p>",
+		"see_also": [
+			"modes_of_play"
+		]
+	},
+	{
 		"id": "campaign_specific_card",
 		"term": "Campaign-Specific Card",
 		"type": "official",
-		"content": "Cards in the “campaign-specific” classification are cards that belong to a campaign’s set of accompanying cards.<ul><li>Campaign-specific cards can only be used during a campaign from the same product (determined by that product’s set icon).</li><li>A campaign’s rules determine how players utilize campaign-specific cards within that campaign.</li><li>A campaign-specific card is designated by the word “Campaign” printed at the bottom of the card in its encounter set name area.</li></ul>",
+		"content": "<ul><li>Cards in the 'campaign-specific' classification belong to a campaign's set of accompanying cards. They can only be used during a campaign from the same product (determined by set icon).</li><li>A campaign's rules determine how players utilize these cards. Designated by 'Campaign' printed at the bottom of the card.</li></ul>",
 		"see_also": [
 			"classifications",
 			"modes_of_play"
@@ -13,7 +22,7 @@
 		"id": "cancel",
 		"term": "Cancel",
 		"type": "official",
-		"content": "Some card abilities can cancel card or game effects.<ul><li>Cancel abilities interrupt the initiation of effects and prevent them from resolving.</li><li>Anytime the effects of an ability are canceled, the ability (apart from its effects) is still regarded as initiated, and any costs are still paid. Only the effects are prevented from initiating, and do not resolve.</li><li>If the effects of an event card are canceled, the card is still considered played, and it is discarded.</li><li>If the effects of a treachery card are canceled, the card is still regarded as revealed, and it is still placed in the encounter discard pile.</li><li>Cancel effects are considered a subtype of replacement effect, with the canceled effect being replaced with no effect. Abilities dependent on the canceled effect cannot trigger as the canceled effect is not considered to have occurred.</li></ul>",
+		"content": "<ul><li>Some card abilities can cancel card or game effects. Cancel abilities interrupt the initiation of effects and prevent them from resolving.</li><li>When effects of an ability are canceled, the ability (apart from its effects) is still regarded as initiated and costs are still paid; only the effects are prevented.</li><li>If an event's effects are canceled, it's still considered played and discarded.</li><li>If a treachery's effects are canceled, it's still regarded as revealed and placed in the discard pile. Cancel effects are a subtype of replacement effect, replaced with no effect; abilities dependent on the canceled effect cannot trigger.</li></ul>",
 		"see_also": [
 			"ability",
 			"replacement_effect"
@@ -21,25 +30,53 @@
 	},
 	{
 		"id": "cannot",
-		"term": "“Cannot”",
+		"term": "\"Cannot\"",
 		"type": "official",
-		"content": "The word “cannot” is absolute and cannot be countermanded by other abilities or effects.<ul><li>If two abilities conflict, the ability with “cannot” takes precedence.</li><li>If two rules conflict, the rule with “cannot” takes precedence.</li><li>An ability can override a rule with “cannot” per the Golden Rules.</li></ul>",
+		"content": "<p>The word 'cannot' is absolute and cannot be countermanded by other abilities or effects. If two abilities conflict, the one with 'cannot' takes precedence; if two rules conflict, the rule with 'cannot' takes precedence.</p>\n<p>An ability can override a rule with 'cannot' per the Golden Rules.</p>",
 		"see_also": [
-			"golden_rules",
+			"the_golden_rules",
 			"target"
+		]
+	},
+	{
+		"id": "card_ability",
+		"term": "Card Ability",
+		"type": "official",
+		"content": "<p>See: Ability.</p>",
+		"see_also": [
+			"ability"
 		]
 	},
 	{
 		"id": "card_types",
 		"term": "Card Types",
 		"type": "official",
-		"content": "A card’s card type denotes various rules and game functions associated with that card.<ul><li>Ally, event, identity, player side scheme, resource, support, and upgrade cards are types of player cards.</li><li>Attachment, environment, main scheme, minion, obligation, side scheme, treachery, and villain cards are types of encounter cards.</li><li>If an ability causes a card to change its card type, it loses all other card types it might possess and functions as would any card of the new card type. Any cards attached to a card that changes type remain attached, but only those abilities that refer to the new card type remain active.</li><li>An ally that has been changed to a minion engages its controller and does not take consequential damage after it attacks or schemes. When a player changes a minion to an ally, that player takes control of that ally.</li></ul>"
+		"content": "<p>A card's card type denotes various rules and game functions associated with that card.</p><ul><li>Ally, event, identity, player side scheme, resource, support, and upgrade cards are types of player cards.</li><li>Attachment, environment, main scheme, minion, obligation, side scheme, treachery, and villain cards are types of encounter cards.</li><li>If an ability causes a card to change its card type, it loses all other card types it might possess and functions as would any card of the new card type.<ul><li>Any cards attached to a card that changes type remain attached, but only those abilities that refer to the new card type remain active. <em>(For example, if an ally's card type is changed to minion, an upgrade attached that says \"attached ally gets +1 ATK\" would no longer provide that ally-turned-minion with bonus ATK, but an attachment that says \"attached character cannot attack\" would still apply because minions are also characters.)</em></li><li>An ally that has been changed to a minion engages its controller and does not take consequential damage after it attacks or schemes.</li><li>When a player changes a minion to an ally, that player takes control of that ally.</li></ul></li></ul>",
+		"see_also": [
+			"ally",
+			"attachment",
+			"encounter_card",
+			"environment",
+			"event",
+			"identity",
+			"main_scheme_main_scheme_deck",
+			"minion",
+			"obligation",
+			"player_card",
+			"player_side_scheme",
+			"resource_card",
+			"side_scheme",
+			"support",
+			"treachery",
+			"upgrade",
+			"villain_villain_deck"
+		]
 	},
 	{
 		"id": "character",
 		"term": "Character",
 		"type": "official",
-		"content": "Identities (heroes and alter-egos), allies, villains, and minions are all characters.",
+		"content": "<p>Identities (heroes and alter-egos), allies, villains, and minions are all characters.</p>",
 		"see_also": [
 			"ally",
 			"identity",
@@ -51,7 +88,8 @@
 		"id": "choose_game_element",
 		"term": "Choose (Game Element)",
 		"type": "official",
-		"content": "The phrase “choose a [game element]” (such as an ally, a minion, or a scheme) indicates that a player must select a game element that meets the specific requirements of an ability.<ul><li>The player resolving the ability that uses the word “choose” is the player who makes the choice specified by the card.</li><li>If a player card ability requires the choosing of one or more targets, and there are no valid targets for any part of the ability, the ability cannot be initiated.</li><li>If multiple targets are required to be chosen by the same player, simultaneously choose as many as are available, to a maximum of the specified number.</li><li>An effect that can choose “any number” of targets does not successfully resolve if zero of those targets are chosen.</li></ul>",
+		"content": "<p>The phrase \"choose a [game element]\" <em>(such as an ally, a minion, or a scheme)</em> indicates that a player must select a game element that meets the specific requirements of an ability.</p><ul><li>The player resolving the ability that uses the word \"choose\" is the player who makes the choice specified by the card.</li><li>If a player card ability requires the choosing of one or more targets, and there are no valid targets for any part of the ability, the ability cannot be initiated.</li><li>If multiple targets are required to be chosen by the same player, simultaneously choose as many as are available, to a maximum of the specified number.<ul><li><mark class=\"new\">The same target cannot be chosen multiple times this way.</mark></li></ul></li><li>An effect that can choose \"any number\" of targets does not successfully resolve if zero of those targets are chosen.</li></ul>",
+		"whats_new": "Added a clarification that the same target cannot be chosen multiple times when simultaneously choosing multiple required targets.",
 		"see_also": [
 			"ability",
 			"game_element",
@@ -60,23 +98,40 @@
 		]
 	},
 	{
-		"id": "choosing_an_option",
-		"term": "Choosing an Option",
+		"id": "choose_option",
+		"term": "Choose (Option)",
 		"type": "official",
-		"content": "<red>When an ability prompts a player to choose between multiple options, that player must choose an option whose resolution could change the game state, regardless of the cost to trigger that ability. If no option could change the game state, the ability cannot be triggered.</red>",
-		"whats_new": "Added the rule requiring that a player MUST choose an option that effectively changes the game state (it is no longer possible to choose an option that would have no effect just to pay a cost or discard a card)."
+		"content": "<p>Some abilities instruct a player to choose between multiple options. <em>For example, \"Choose to either take 1 damage or discard 1 card from your hand.\"</em></p><ul><li>When an encounter card requires a player to choose an option, they cannot choose an option that requires one or more targets if there are no valid targets for that option.</li><li>When a player card requires a player to choose an option, they cannot choose an option that cannot be at least partially resolved. This includes options that:<ul><li>Have a cost the player cannot pay.</li><li>Require one or more targets and there are no valid targets.</li></ul></li><li><mark class=\"new\">When a card requires a player to choose multiple options from a list, that player cannot choose the same option multiple times.</mark></li></ul>",
+		"whats_new": "Added a rule clarifying that a player cannot choose the same option multiple times when a card requires choosing multiple options from a list.",
+		"see_also": [
+			"ability",
+			"player",
+			"target"
+		]
 	},
 	{
 		"id": "classifications",
 		"term": "Classifications",
 		"type": "official",
-		"content": "A card’s classification is the group that a card belongs to as determined by its specific attributes.<ul><li>Cards in the “identity-specific” classification are cards that belong to an identity’s set of accompanying cards.</li><li>Cards in the “aspect” classification are cards that belong to the Aggression, Justice, Leadership, Protection, and/or ‘Pool aspects.</li><li>Cards in the “Basic” classification are not associated with a specific identity or aspect.</li><li>Cards in the “scenario-specific” classification are cards that belong to a scenario’s set of accompanying cards.</li><li>Cards in the “modular encounter set” classification belong to a modular set of encounter cards.</li><li>Cards in the “campaign-specific” classification can only be used during a campaign from the same product.</li><li>Cards in the “Standard” classification are cards that are added to most scenarios.</li><li>Cards in the “Expert” classification are cards that are added to scenarios when playing expert mode.</li></ul>"
+		"content": "<p>A card's classification is the group that a card belongs to as determined by its specific attributes.</p><ul><li>Cards in the \"identity-specific\" classification are cards that belong to an identity's set of accompanying cards. <em>(See: Identity-Specific Card)</em></li><li>Cards in the \"aspect\" classification are cards that belong to the Aggression, Justice, Leadership, Protection, and/or 'Pool aspects. <em>(See: Aspect Card)</em></li><li>Cards in the \"Basic\" classification are not associated with a specific identity or aspect. <em>(See: Basic Card)</em></li><li>Cards in the \"scenario-specific\" classification are cards that belong to a scenario's set of accompanying cards. <em>(See: Scenario-Specific Card)</em></li><li>Cards in the \"modular encounter set\" or \"modular set\" classification are cards that belong to a modular set of encounter cards. <em>(See: Modular Encounter Set)</em></li><li>Cards in the \"campaign-specific\" classification are cards that can only be used during a campaign from the same product. <em>(See: Campaign-Specific Card)</em></li><li>Cards in the \"Standard\" classification are cards that are added to most scenarios. <em>(See: Modes of Play, Standard Set)</em></li><li>Cards in the \"Expert\" classification are cards that are added to scenarios when playing expert mode. <em>(See: Expert Set, Modes of Play)</em></li></ul>",
+		"see_also": [
+			"identity_specific_card",
+			"aspect_card",
+			"basic_card",
+			"scenario_specific_card",
+			"modular_encounter_set",
+			"campaign_specific_card",
+			"modes_of_play",
+			"standard_set",
+			"expert_set"
+		]
 	},
 	{
 		"id": "confuse_confused",
 		"term": "Confuse, Confused",
 		"type": "official",
-		"content": "Confuse is a status that cancels a character’s next scheme or thwart.<ul><li>If an ability “confuses” a character, give that character a confused status card.</li><li>A character is confused if it has a confused status card. A character with the steady keyword is confused only if it has two confused status cards.</li><li>If a character has an ability stating that it “cannot be confused,” confused status cards cannot be placed on that character.</li><li>If a confused identity or ally attempts to thwart or use a thwart ability, discard the confused card instead. Costs associated with the thwart attempt, including exhausting the character, must still be paid.</li><li>If a confused villain or minion would scheme, discard the confused status card instead.</li><li>As the thwart action or scheme activation was replaced by the removal of the confused status card, that character is not considered to have thwarted or schemed.</li></ul>",
+		"content": "<p>Confuse is a status that cancels a character's next scheme or thwart.</p><ul><li><mark class=\"new\">A confused status card resolves like the triggered ability:</mark><blockquote><mark class=\"new\">Forced Interrupt: When this character would scheme or thwart, remove each confused status card from it instead.</mark></blockquote></li><li>If an ability \"confuses\" a character, give that character a confused status card.</li><li>A character is confused if it has a confused status card.<ul><li>A character with the steady keyword is confused only if it has two confused status cards.</li></ul></li><li>If a character has an ability stating that it \"cannot be confused,\" confused status cards cannot be placed on that character.</li><li>If a confused identity or ally attempts to thwart or use a thwart ability, discard the confused card instead. Costs associated with the thwart attempt, including exhausting the character, must still be paid.<ul><li>A confused character can attempt to thwart or use a thwart ability even if it has no valid target for a thwart.</li></ul></li><li>If a confused villain or minion would scheme, discard the confused status card instead.</li><li>As the thwart action or scheme activation was replaced by the removal of the confused status card, that character is not considered to have thwarted or schemed.</li></ul>",
+		"whats_new": "Clarified that a confused status card resolves like a specific Forced Interrupt triggered ability (removing each confused status card when the character would scheme or thwart).",
 		"see_also": [
 			"ally",
 			"cancel",
@@ -84,14 +139,14 @@
 			"minion",
 			"status_cards",
 			"target",
-			"villain"
+			"villain_villain_deck"
 		]
 	},
 	{
 		"id": "consequential_damage",
 		"term": "Consequential Damage",
 		"type": "official",
-		"content": "After an ally attacks, it takes consequential damage equal to the number of consequential damage icons beneath its ATK field. After an ally thwarts, it takes consequential damage equal to the number of consequential damage icons beneath its THW field.<ul><li>Consequential damage is dealt to an ally after resolving abilities that are triggered by the ally attacking or thwarting.</li><li>If the target of an ally’s basic power leaves play before that ally deals damage equal to its ATK or removes threat equal to its THW, the ally does not take consequential damage (but still exhausts). That ally is not considered to have attacked or thwarted for the purpose of other abilities.</li></ul>",
+		"content": "<p>After an ally attacks, it takes consequential damage equal to the number of consequential damage icons beneath its ATK field; after it thwarts, equal to icons beneath its THW field. Consequential damage is dealt after resolving abilities triggered by the attack/thwart.</p>\n<p>If the target of an ally's basic power leaves play before the ally deals its damage/removes its threat, the ally does not take consequential damage (but still exhausts) and is not considered to have attacked/thwarted for other abilities.</p>",
 		"see_also": [
 			"ally",
 			"attack_player_ability_type",
@@ -102,17 +157,28 @@
 		]
 	},
 	{
-		"id": "control_changes",
-		"term": "Control Changes",
+		"id": "constant_ability",
+		"term": "Constant Ability",
 		"type": "official",
-		"content": "<red>If an effect changes the controller of a card, that card moves to its new controller's play area. Attachments, tokens, and counters on that card move with it. If a card changes control, it maintains its state (exhausted or ready). Lasting effects associated with the previous controller cease to apply if the conditions are no longer met.</red>",
-		"whats_new": "In-depth clarification on transferring control. New rules specifically handle what happens to attachments (they stay attached), the exhausted/ready state of the card, and clarify that if a player is eliminated, cards that changed control revert to their original owner."
+		"content": "<p>See: Ability.</p>",
+		"see_also": [
+			"ability"
+		]
+	},
+	{
+		"id": "control",
+		"term": "Control",
+		"type": "official",
+		"content": "<p>See: Ownership and Control.</p>",
+		"see_also": [
+			"ownership_and_control"
+		]
 	},
 	{
 		"id": "copy",
 		"term": "Copy",
 		"type": "official",
-		"content": "A copy of a card is defined by title. A second copy of a card is any other card that shares the same title and subtitle (if any), regardless of card’s type, text, artwork, or any other differing characteristics between the cards.",
+		"content": "<p>A copy of a card is defined by title. A second copy of a card is any other card sharing the same title and subtitle (if any), regardless of type, text, artwork, or other differences.</p>",
 		"see_also": [
 			"card_types",
 			"subtitle"
@@ -122,7 +188,7 @@
 		"id": "cost",
 		"term": "Cost",
 		"type": "official",
-		"content": "A card’s resource cost is the numerical value that must be paid to play the card. Some abilities have a cost described in the ability text that must be paid to use the ability.<ul><li>A cost arrow icon (<span class=\"icon-cost\"></span>) in ability text distinguishes a cost from an effect.</li><li>A resource cost with the per-player icon (<span class=\"icon-per_player\"></span>) is multiplied by the number of players who started the scenario.</li><li>To pay a resource cost, a player spends resources that they generate by discarding cards from their hand or by using “Resource” card abilities.</li><li>While paying a cost, a player is permitted to generate resources beyond the specified cost (overpaid). Any resources that are generated beyond the specified cost are lost.</li><li>If dealing damage is a cost, that cost is considered paid even if some or all of that damage is prevented.</li><li>If taking damage is a cost, that cost is not considered paid unless all of that damage was taken.</li></ul>",
+		"content": "<ul><li>A card's resource cost is the numerical value paid to play the card; abilities may also have costs described in text.</li><li>A cost arrow icon distinguishes a cost from an effect ('pay cost → resolve effect'). Timing text preceding a cost arrow is not part of the cost.</li><li>A resource cost with the per-player icon is multiplied by the number of players who started the scenario. To pay, a player spends resources generated by discarding cards or by 'Resource' abilities.</li><li>Resources generated to pay for a card's ability are considered paid for that card. Overpaying: resources generated beyond the cost are lost.</li><li>Multiple simultaneous costs for a card/ability must be paid together; a player dividing generated resources chooses the division.</li><li>An ability's cost cannot be paid if its effect requires a target and none is valid.</li><li>While paying, a player must use cards/elements they control (exception: 'choose' costs, or costs targeting a 'friendly' card).</li><li>A cost requiring a game element not in play may only use elements in the player's own out-of-play areas. 'Any number'/'up to' costs require a minimum of one. 'Additional cost' must be paid simultaneously with the base cost; if any part can't be paid, none of the costs are paid and the effect does not occur. Dealing damage as a cost is considered paid even if damage is prevented; taking damage as a cost is not considered paid unless all of it was taken.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost_arrow_icon",
@@ -135,20 +201,29 @@
 		"id": "cost_arrow_icon",
 		"term": "Cost Arrow Icon",
 		"type": "official",
-		"content": "A cost arrow icon (→)&nbsp;in ability text distinguishes a cost from an effect, in a “pay cost → resolve effect” format. <red>Non-bolded text before the cost arrow icon must be paid and/or resolved in full before the text after the cost arrow icon can be resolved.</red><ul><li>Responses to the text preceding the cost arrow icon resolve before the text following the icon resolves.</li></ul>",
-		"whats_new": "Added clarification on the mandatory resolution order of non-bolded text before the arrow.",
+		"content": "<p>A cost arrow icon in ability text distinguishes a cost from an effect, in a 'pay cost → resolve effect' format. Non-bolded text before the arrow must be paid/resolved in full before text after the arrow can resolve.</p>\n<p>Responses to text preceding the arrow resolve before text following it.</p>",
 		"see_also": [
 			"cost",
 			"icons"
 		]
 	},
 	{
+		"id": "counter",
+		"term": "Counter",
+		"type": "official",
+		"content": "<p>See: All-Purpose Counter.</p>",
+		"see_also": [
+			"all_purpose_counter"
+		]
+	},
+	{
 		"id": "crisis_icon",
 		"term": "Crisis Icon",
 		"type": "official",
-		"content": "While at least one crisis icon (<span class=\"icon-crisis\"></span>) is in play, threat cannot be removed from the main scheme by player cards.<ul><li>Abilities on encounter cards are not affected by the crisis icon.</li></ul>",
+		"content": "<p>While at least one crisis icon is in play, threat cannot be removed from the main scheme by player cards.</p><ul><li><mark class=\"new\">Each crisis icon is equivalent to the following constant ability:</mark><blockquote><mark class=\"new\">Player cards cannot remove threat from the main scheme.</mark></blockquote></li><li>Abilities on encounter cards are not affected by the crisis icon.</li></ul>",
+		"whats_new": "Crisis icon's effect is now defined as an explicit constant ability ('Player cards cannot remove threat from the main scheme.') rather than just descriptive text.",
 		"see_also": [
-			"main_scheme",
+			"main_scheme_main_scheme_deck",
 			"threat"
 		]
 	}

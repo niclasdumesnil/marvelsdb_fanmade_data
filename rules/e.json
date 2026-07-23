@@ -1,19 +1,38 @@
 [
 	{
 		"id": "each_player",
-		"term": "“Each Player”",
+		"term": "\"Each Player\"",
 		"type": "official",
-		"content": "When each player is instructed to resolve an effect, each player resolves that effect one at a time.<ul><li>If the effect does not specify what order the players resolve the effect in, the first player decides the order.</li><li>If a player cannot fully resolve that effect, they resolve it as fully as possible.</li></ul>",
+		"content": "<p>When each player is instructed to resolve an effect, each player resolves it one at a time. If order is not specified, the first player decides.</p>\n<p>If a player cannot fully resolve the effect, they resolve it as fully as possible.</p>",
 		"see_also": [
 			"choose_game_element",
 			"player"
 		]
 	},
 	{
+		"id": "each_time",
+		"term": "\"Each Time\"",
+		"type": "official",
+		"content": "<p>See: Alteration Effect.</p>",
+		"see_also": [
+			"alteration_effect"
+		]
+	},
+	{
+		"id": "effect",
+		"term": "Effect",
+		"type": "official",
+		"content": "<p>See: Ability, Cost.</p>",
+		"see_also": [
+			"ability",
+			"cost"
+		]
+	},
+	{
 		"id": "empty_deck",
 		"term": "Empty Deck",
 		"type": "official",
-		"content": "If a player deck empties, the player shuffles their discard pile to make a new deck and deals themself one facedown encounter card. If the encounter deck empties, the encounter discard pile is shuffled to make a new deck and one acceleration token is placed on the main scheme.",
+		"content": "<p>See: Encounter Deck, Player Deck.</p>",
 		"see_also": [
 			"encounter_deck",
 			"player_deck"
@@ -23,7 +42,7 @@
 		"id": "encounter_card",
 		"term": "Encounter Card",
 		"type": "official",
-		"content": "There are eight encounter card types: attachment cards, environment cards, minion cards, main scheme cards, obligation cards, side scheme cards, treachery cards, and villain cards. They represent the challenges the villain throws at the heroes.<ul><li>Encounter cards belong to various classifications, such as scenario-specific encounter cards or modular set encounter cards.</li><li>Most encounter cards have an orange card back.</li></ul>",
+		"content": "<p>There are eight encounter card types: attachment, environment, minion, main scheme, obligation, side scheme, treachery, and villain cards. Encounter cards belong to various classifications (scenario-specific, modular set, etc.).</p>\n<p>Most encounter cards have an orange card back.</p>",
 		"see_also": [
 			"attachment",
 			"classifications",
@@ -33,17 +52,33 @@
 			"obligation",
 			"side_scheme",
 			"treachery",
-			"villain"
+			"villain",
+			"appendix_i_deck_customization"
 		]
 	},
 	{
 		"id": "encounter_deck",
 		"term": "Encounter Deck",
 		"type": "official",
-		"content": "The encounter deck contains the encounter cards (attachments, environments, minions, side schemes, and treacheries) that players can face during a scenario.<ul><li>The order of cards within the encounter deck cannot be changed unless a player is instructed to do so by a game step, game function, or card ability.</li><li>If the encounter deck is empty, the encounter discard pile is immediately shuffled to create a new encounter deck. When this occurs, place an acceleration token next to the main scheme deck.</li><li>If a card ability discards a specified number of cards from the encounter deck or until a card with specific criteria is discarded, discard cards from the encounter deck until the discard condition is met or the encounter deck is empty. If the encounter deck is emptied this way, that card ability is considered to be fulfilled. Do not continue the discard effect with the newly shuffled encounter deck.</li><li>If there are no cards in both the encounter deck and the encounter discard pile simultaneously, an infinite loop occurs with an infinite number of acceleration tokens being placed next to the main scheme deck. If this happens, the players lose.</li></ul>",
+		"content": "<ul><li>The encounter deck contains the encounter cards (attachments, environments, minions, side schemes, treacheries) players face during a scenario.</li><li>The order cannot be changed except by instruction.</li><li>If the encounter deck is empty, the encounter discard pile is immediately shuffled to create a new deck, and an acceleration token is placed next to the main scheme deck.</li><li>If a discard effect empties the encounter deck, the ability is considered fulfilled and does not continue into the newly shuffled deck.</li><li>If it empties during any other resolving game effect, that effect finishes after the deck is reset.</li><li>If both the encounter deck and discard pile are simultaneously empty, an infinite loop of acceleration tokens occurs and the players lose.</li></ul>",
 		"see_also": [
 			"acceleration_token",
+			"attachment",
+			"choose_game_element",
 			"discard",
+			"discard_pile",
+			"environment",
+			"minion",
+			"side_scheme",
+			"treachery"
+		]
+	},
+	{
+		"id": "encounter_discard_pile",
+		"term": "Encounter Discard Pile",
+		"type": "official",
+		"content": "<p>See: Discard Pile.</p>",
+		"see_also": [
 			"discard_pile"
 		]
 	},
@@ -51,7 +86,7 @@
 		"id": "encounter_set",
 		"term": "Encounter Set",
 		"type": "official",
-		"content": "An encounter set is a grouping of encounter cards.<ul><li>There are four types of encounter sets: scenario-specific encounter sets, modular encounter sets, the Standard set, and the Expert set.</li><li>Encounter sets with the same name but different set icons are considered distinct sets.</li></ul>",
+		"content": "<p>An encounter set is a grouping of encounter cards. Four types: scenario-specific, modular, the Standard set, and the Expert set.</p>\n<p>Sets with the same name but different set icons are distinct sets.</p>",
 		"see_also": [
 			"classifications",
 			"expert_set",
@@ -64,12 +99,15 @@
 		"id": "end_of_player_phase",
 		"term": "End of Player Phase",
 		"type": "official",
-		"content": "To end the player phase, perform the following steps:<ol><li>In player order, each player may discard any number of cards from their hand, and must discard down to their hand size if they have more cards than their hand size.</li><li>Each player simultaneously draws up to their hand size.</li><li>Each player simultaneously readies all of their cards. Ready each exhausted encounter card.</li><li>Any effects that last “until the end of the [player] phase” end.</li><li>Resolve any “when/after the [player] phase ends” effects.</li></ol>",
+		"content": "<p>To end the player phase:</p>\n<ol><li>In player order, each may discard, then must discard to hand size.</li><li>Each simultaneously draws to hand size.</li><li>Each simultaneously readies all cards; ready exhausted encounter cards.</li><li>Effects lasting 'until the end of the player phase' end.</li><li>Resolve 'when/after the player phase ends' effects.</li></ol>",
 		"see_also": [
 			"discard",
-			"draw",
+			"draw_drawing_cards",
 			"hand_size",
+			"lasting_effects",
+			"player",
 			"player_phase",
+			"player_turn",
 			"ready"
 		]
 	},
@@ -77,7 +115,7 @@
 		"id": "enemy",
 		"term": "Enemy",
 		"type": "official",
-		"content": "An enemy is a minion or villain. When used as a descriptor, “enemy” refers to game elements that belong to the scenario: “enemy cards”, “enemy abilities” etc.",
+		"content": "<p>An enemy is a minion or villain. As a descriptor, 'enemy' refers to game elements belonging to the scenario ('enemy cards', 'enemy abilities', etc.).</p>",
 		"see_also": [
 			"game_element",
 			"minion",
@@ -85,33 +123,69 @@
 		]
 	},
 	{
+		"id": "enemy_activation",
+		"term": "Enemy Activation",
+		"type": "official",
+		"content": "<p>See: Activation, Attack (Enemy Activation), Scheme (Enemy Activation).</p>",
+		"see_also": [
+			"activation",
+			"attack_enemy_activation",
+			"scheme_enemy_activation"
+		]
+	},
+	{
+		"id": "enemy_attacks",
+		"term": "Enemy Attacks",
+		"type": "official",
+		"content": "<p>See: Activation, Attack (Enemy Activation).</p>",
+		"see_also": [
+			"activation",
+			"attack_enemy_activation"
+		]
+	},
+	{
+		"id": "enemy_schemes",
+		"term": "Enemy Schemes",
+		"type": "official",
+		"content": "<p>See: Activation, Scheme (Enemy Activation).</p>",
+		"see_also": [
+			"activation",
+			"scheme_enemy_activation"
+		]
+	},
+	{
 		"id": "energy_resource",
 		"term": "Energy Resource",
 		"type": "official",
-		"content": "An energy resource (<span class=\"icon-energy\"></span>) is one of the four types of resources.<ul><li>Energy resources can be spent to pay the resource cost of cards and abilities.</li><li>Some card abilities specifically require energy resources to be spent in order to resolve their effects.</li></ul>",
+		"content": "<p>An energy resource is one of the four types of resources. Energy resources can be spent to pay resource costs of cards and abilities; some abilities specifically require energy resources.</p>",
 		"see_also": [
 			"ability",
 			"cost",
 			"icons",
-			"resource"
+			"mental_resource",
+			"physical_resource",
+			"resource",
+			"wild_resource"
 		]
 	},
 	{
 		"id": "engage",
 		"term": "Engage",
 		"type": "official",
-		"content": "When a minion enters play in a player’s play area, it engages that player. Unless otherwise specified by the minion or by the effect that put the minion into play, the minion engages the player who is resolving the current encounter card.<ul><li>An engaged minion remains engaged with the same player until it is defeated, removed from play, or a card ability causes it to engage another player.</li><li>If a card ability instructs a player to engage a minion, that minion is also considered to have engaged that player.</li><li>While a minion is engaged with a player, card abilities cannot cause the minion to engage with the same player again (as the two are already engaged).</li></ul>",
+		"content": "<p>When a minion enters play in a player's play area, it engages that player, unless otherwise specified. An engaged minion remains engaged with that player until defeated, removed from play, or an ability causes it to engage another player.</p>\n<p>While engaged, a card ability cannot cause the minion to engage the same player again.</p>",
 		"see_also": [
+			"ability",
+			"defeat",
 			"minion",
 			"player",
-			"player_play_area"
+			"players_play_area"
 		]
 	},
 	{
 		"id": "enters_play",
 		"term": "Enters Play",
 		"type": "official",
-		"content": "The phrase “enters play” refers to any time when a card transitions from an out-of-play area into play. Playing a card, putting a card into play by using a card ability, or revealing a card from the encounter deck are all different means by which a card may enter play.",
+		"content": "<p>The phrase 'enters play' refers to any time a card transitions from an out-of-play area into play — via playing, putting into play by ability, or revealing from the encounter deck.</p>",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"leaves_play",
@@ -123,11 +197,12 @@
 		"id": "environment",
 		"term": "Environment",
 		"type": "official",
-		"content": "Environment is an encounter card type that creates an overarching rule or set of rules for the scenario. An environment card enters play in the villain’s play area, and is active so long as it remains in play.<ul><li>If an environment enters play, it remains in play until a card ability or game effect causes it to leave play.</li></ul>",
+		"content": "<p>Environment is an encounter card type creating an overarching rule or set of rules for the scenario. An environment card enters play in the villain's play area and stays active while in play, until a card ability or game effect causes it to leave.</p>",
 		"see_also": [
 			"card_types",
 			"encounter_card",
 			"enters_play",
+			"leaves_play",
 			"villain"
 		]
 	},
@@ -135,42 +210,60 @@
 		"id": "event",
 		"term": "Event",
 		"type": "official",
-		"content": "Event is a player card type that is generally played for an instantaneous effect. Each time a player plays an event card, that player places it faceup on the table in front of them (the event is not in play), pays its costs, resolves its effects (unless those effects are canceled), and then places the card in its owner’s discard pile after those effects resolve (or are canceled).<ul><li>If an event has more than one triggered ability on it, the player playing it chooses one of those abilities to trigger when playing that event.</li><li>If the effects of an event are canceled, the card is still considered to have been played, and its costs remain paid.</li><li>An event card cannot be played if it requires one or more targets and does not have at least one valid target.</li><li>Event cards are considered to be an extension of an identity. Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve from a player playing an event are also considered to be performed by that player’s identity.</li><li>If an effect modifies the amount of damage an event deals or the amount of threat an event removes, and that event deals multiple instances of damage or removes multiple instances of threat, each of those instances is modified.</li></ul>",
+		"content": "<p>Event is a player card type generally played for an instantaneous effect.</p>\n<ul><li>When played, it's placed faceup on the table (not in play), costs paid, effects resolved (unless canceled), then placed in the owner's discard pile.</li><li>If an event has multiple triggered abilities, the player chooses one to trigger. Events are considered an extension of an identity — attacks/thwarts/defenses/actions/triggered abilities from playing an event are performed by that identity.</li><li>If an effect modifies damage/threat an event deals/removes multiple times, each instance is modified (except when modifying 'an attack' rather than 'an event' for multiple attacks — only the first is modified).</li></ul>",
 		"see_also": [
 			"card_types",
+			"discard",
 			"identity",
-			"player_card"
+			"labeled_ability",
+			"player",
+			"player_card",
+			"ownership_and_control"
 		]
 	},
 	{
 		"id": "excess_damage",
 		"term": "Excess Damage",
 		"type": "official",
-		"content": "Excess damage is any amount of damage that is dealt to a character beyond that character’s remaining hit points.",
+		"content": "<p>Excess damage is any amount of damage dealt to a character beyond that character's remaining hit points.</p>",
 		"see_also": [
+			"ally",
 			"damage",
 			"hit_points",
-			"remaining_hit_points"
+			"identity",
+			"minion",
+			"remaining_hit_points",
+			"villain"
 		]
 	},
 	{
 		"id": "exhausted",
 		"term": "Exhausted",
 		"type": "official",
-		"content": "If a card is exhausted, it is rotated 90 degrees. An exhausted card cannot be exhausted again until it is readied. Most characters must exhaust to attack, thwart, defend, or recover.<ul><li>A card ability on an exhausted card is active and can still interact with the game state. However, if an exhausted card must exhaust to pay the cost of using its ability, that ability cannot be used until the card is ready.</li></ul>",
+		"content": "<p>If a card is exhausted, it is rotated 90 degrees. An exhausted card cannot be exhausted again until ready.</p>\n<p>A card ability on an exhausted card is still active, but if it must exhaust to pay a cost, that ability cannot be used until ready.</p>",
 		"see_also": [
 			"ready"
+		]
+	},
+	{
+		"id": "expert_mode",
+		"term": "Expert Mode",
+		"type": "official",
+		"content": "<p>See: Modes of Play.</p>",
+		"see_also": [
+			"modes_of_play"
 		]
 	},
 	{
 		"id": "expert_set",
 		"term": "Expert Set",
 		"type": "official",
-		"content": "The expert set is an encounter set that is added to scenarios during expert mode.<ul><li>The expert set is not a modular encounter set and cannot be selected (by the players or randomly) when a scenario requires players to choose a modular encounter set to include in that scenario.</li><li>Cards in the “Expert” classification are any cards that have the word “Expert” printed by the bottom of the card in its encounter set name area.</li></ul>",
+		"content": "<p>The expert set is added to scenarios during expert mode. It is not a modular encounter set and cannot be selected when a scenario requires choosing a modular set.</p>\n<p>Cards in the 'Expert' classification have 'Expert' printed at the bottom of the card.</p>",
 		"see_also": [
 			"classifications",
 			"modes_of_play",
-			"modular_encounter_set"
+			"modular_encounter_set",
+			"appendix_i_deck_customization"
 		]
 	}
 ]

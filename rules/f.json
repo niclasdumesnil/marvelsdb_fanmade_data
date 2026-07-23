@@ -3,10 +3,10 @@
 		"id": "find",
 		"term": "Find",
 		"type": "official",
-		"content": "When instructed to find a card, a player searches each game area where that card could be found (play area, set-aside area, player deck, discard pile, encounter deck, etc.).<ul><li>Players should not unnecessarily search game areas if they know where the card they are looking for can be found.</li><li>All game areas are subject to search when resolving a “find” instruction, with the following exceptions: Facedown encounter cards in any in-play game area (whether that card is in play itself). The victory display. Cards that have been removed from the game. [cite: 180, 181]</li><li>If a player is instructed to “find and reveal” a minion that is already in play, that player engages that minion and resolves any keywords and/or triggered abilities that resolve as a result of that minion being revealed. That minion retains all attachments and tokens on it. That minion is not considered to be entering play. That minion is considered to engage that player unless it was already engaged with that player. [cite: 181, 182]</li></ul>",
+		"content": "<p>When instructed to find a card, a player searches each game area where that card could be found. All game areas are subject to search except: facedown encounter cards in any in-play area, the victory display, and cards removed from the game.</p>\n<p>If instructed to 'find and reveal' an already-in-play minion, that player engages that minion and resolves any keywords/triggered abilities from being revealed (e.g. When Revealed); it retains attached cards/tokens and is not considered to be entering play.</p>",
 		"see_also": [
-			"removed_from_the_game",
 			"search",
+			"removed_from_the_game",
 			"victory_display"
 		]
 	},
@@ -14,7 +14,7 @@
 		"id": "first_player",
 		"term": "First Player",
 		"type": "official",
-		"content": "A first player is determined by the players at the beginning of the game. The first player token is used to indicate which player is the first player. At the end of the round (during step five of the villain phase) the first player token passes to the next clockwise player, who becomes first player for the next round. If the first player is eliminated, the first player token immediately passes clockwise to the next player. The players as a group are encouraged to work together, but the first player decides the following:<ul><li>If an encounter card targets a specific player or card, and there are multiple eligible targets, the first player selects among the eligible options.</li><li>If an encounter card requires a card ability to be resolved, a game function to be performed, or a choice to be made but does not specify which player should act, the first player does so.</li><li>If two or more effects would resolve simultaneously, the first player decides the order in which to resolve them.</li></ul>The first player has timing priority in the following situations:<ul><li>The first player has the first opportunity to use an interrupt at each appropriate game moment. Interrupt opportunities then proceed among the remaining players in player order.</li><li>The first player has the first opportunity to use a response at each appropriate game moment. Response opportunities then proceed among the remaining players in player order.</li></ul>",
+		"content": "<ul><li>A first player is determined by the players at the start of the game, indicated by the first player token. At the end of the round (step five of the villain phase) the token passes clockwise.</li><li>If the first player is eliminated, the token passes clockwise immediately.</li><li>The first player decides eligible targets/actions when unspecified, and resolution order of simultaneous effects.</li><li>The first player has first opportunity for interrupts and responses at each moment.</li></ul>",
 		"see_also": [
 			"in_player_order",
 			"player",
@@ -26,16 +26,16 @@
 		"id": "flip",
 		"term": "Flip",
 		"type": "official",
-		"content": "When instructed to flip a card, turn that card upside down so that the face that was faceup is now facedown.<ul><li>A foldable, “three-sided” card is considered to have flipped any time the faceup side of the card changes.</li><li>When a card flips, if the new faceup side of that card has: The same card type as the previous face, the card retains all attached cards, tucked cards, status cards, and tokens. A different card type from the previous face, all attachments, status cards, and tokens are discarded from the card.</li></ul>",
+		"content": "<p>When instructed to flip a card, turn it upside down so the faceup side becomes facedown. A foldable 'three-sided' card is considered flipped any time its faceup side changes.</p>\n<p>If the new faceup side has the same card type as before, the card retains attached cards, tucked cards, status cards, and tokens; if a different card type, all of these are discarded.</p>",
 		"see_also": [
 			"double_sided_card"
 		]
 	},
 	{
 		"id": "for_each",
-		"term": "“For Each”",
+		"term": "\"For Each\"",
 		"type": "official",
-		"content": "“For each” indicates an effect is repeated based on the number of a countable game element.<ul><li>If an effect with “for each” requires a target, that effect applies to a single target unless the “for each” clause includes a “choose” instruction.</li><li>If a “for each” effect without a “choose” instruction deals damage or removes threat, it is considered a single instance of damage dealt or threat removed, respectively.</li><li>If a “for each” effect has a “choose” instruction, each iteration of that choice is considered a separate instance of that effect, even if the same target is chosen multiple times. The game state updates after each instance. Responses can be triggered after each instance. [cite: 186, 187]</li><li>If another ability modifies a “for each” effect, that modifier is applied to each instance of the “for each” effect.</li></ul>",
+		"content": "<p>'For each' indicates an effect repeated based on the number of a countable game element. If a 'for each' effect requires a target, it applies to a single target unless it includes a 'choose' instruction (in which case each iteration is a separate instance, even choosing the same target multiple times — the game state updates after each instance and responses can trigger after each).</p>\n<p>If another ability modifies a 'for each' effect, that modifier applies to each instance.</p>",
 		"see_also": [
 			"ability",
 			"target"
@@ -45,7 +45,7 @@
 		"id": "forced",
 		"term": "Forced",
 		"type": "official",
-		"content": "Forced is a bold trigger word. If the word “Forced” precedes a triggered ability, the ability’s initiation is mandatory.<ul><li>“Forced Interrupt” and “Forced Response” abilities must be resolved when their triggering conditions are met.</li><li>“Forced Action” abilities can be triggered at any time during the player phase when a non-forced action ability could be triggered, but must be resolved before the player phase can end.</li><li>If a forced ability requires one or more targets to resolve and it has no valid targets, it does not initiate. Any costs that would have been paid to initiate the ability are not paid.</li><li>For any given triggering condition, forced interrupts take priority and initiate before non-forced interrupts, and forced responses take priority and initiate before non-forced responses.</li><li>If two or more forced abilities would initiate at the same moment, the first player determines the order in which the abilities initiate, regardless of who controls the cards bearing those abilities.</li><li>Each forced ability must resolve as completely as possible before the next forced ability being triggered by the same triggering condition may initiate.</li></ul>",
+		"content": "<p>Forced is a bold trigger word; if it precedes a triggered ability, initiation is mandatory. 'Forced Interrupt' and 'Forced Response' abilities must resolve when triggering conditions are met. 'Forced Action' abilities can be triggered any time a non-forced action could be, but must resolve before the player phase ends.</p>\n<ul><li>If a forced ability requires targets and has none valid, it does not initiate (and costs are not paid). Forced interrupts/responses take priority over non-forced ones for the same triggering condition.</li><li>If two+ forced abilities initiate at the same moment, the first player determines order regardless of who controls them.</li><li>Each forced ability must resolve as completely as possible before the next triggered by the same condition may initiate.</li></ul>",
 		"see_also": [
 			"ability",
 			"action",
@@ -56,7 +56,7 @@
 		"id": "form_change_form",
 		"term": "Form, Change Form",
 		"type": "official",
-		"content": "A player can be in either hero or alter-ego form at a given time. This is indicated by the player’s identity card.<ul><li>Once each round, during their turn, each player is permitted to change form by flipping their identity card.</li><li>When a player changes form, only the form changes. The character retains their sustained damage, status cards, lasting effects, attachments, tokens, and current state (ready or exhausted).</li><li>If a card ability causes a player to change forms, it does not count against the one voluntary form change the player is permitted during their turn that round.</li><li>While a player is in hero form, card abilities that interact with their alter-ego do not interact with their identity.</li><li>While a player is in alter-ego form, card abilities that interact with their hero do not interact with their identity.</li><li>Cards with the “[type] form” keyword grant an identity unique forms. These forms are in addition to the identity’s alter-ego and hero forms, and they come with their own conditions for changing into them. When an identity changes their additional form, it does not count against the once-per-turn limit on flipping, but it does count as changing form for the purpose of triggering card effects. [cite: 191, 192]</li><li>Cards with the text “[type] form only” can only be played or put into play by a player whose identity is in the specified form.</li></ul>",
+		"content": "<ul><li>A player can be in hero or alter-ego form, indicated by their identity card.</li><li>Once each round during their turn, a player may change form by flipping their identity card.</li><li>Only the form changes — sustained damage, status cards, lasting effects, attached/tucked cards, tokens, and readied/exhausted state are retained.</li><li>If a card ability causes a form change, it doesn't count against the once-per-turn voluntary change.</li><li>While in hero form, abilities interacting with alter-ego don't interact with identity, and vice versa.</li><li>Cards with '[type] form' keyword grant additional unique forms (in addition to hero/alter-ego); changing into these doesn't count against the once-per-turn limit but does count as changing form for triggering purposes.</li><li>Cards with '[type] form only' can only be played/put into play by a player in that form.</li></ul>",
 		"see_also": [
 			"flip",
 			"identity",
@@ -65,8 +65,8 @@
 	},
 	{
 		"id": "friendly",
-		"term": "“Friendly”",
+		"term": "\"Friendly\"",
 		"type": "official",
-		"content": "Friendly is a blanket term that refers to cards the players control."
+		"content": "<p>Friendly is a blanket term referring to cards the players control.</p>"
 	}
 ]

@@ -3,25 +3,37 @@
 		"id": "damage",
 		"term": "Damage",
 		"type": "official",
-		"content": "Damage reduces a character's hit points. Damage can be dealt by attacks or by card abilities. When a character takes damage, their hit points are reduced by the specified amount. If a character's hit points are reduced to 0, they are defeated.",
+		"content": "<p>Damage reduces a character's hit points. If a character has zero or fewer remaining hit points, it is defeated.</p><ul><li>Damage on an identity or villain is tracked by a hit point dial. If such a character takes damaged, reduce its dial by the amount of damage that it took.</li><li>Damage on an ally or minion is tracked by damage tokens. If such a character takes damage, place the specified value of damage tokens on the character.</li><li>When damage is dealt to a character, that character takes damage.<ul><li>When the amount of damage an effect deals is modified, the amount of damage the character takes is similarly modified.</li><li>When the amount of damage a character takes is modified <em>(such as by damage being prevented)</em>, the amount of damage dealt is not modified.</li><li>The order of resolution for effects surrounding the dealing and taking of damage are as follows:<ol><li>Abilities that trigger \"when [character] would deal/be dealt any amount of damage...\"</li><li>Tough status cards.</li><li>Abilities that trigger \"when [character] would take any amount of damage...\"</li><li>Abilities that trigger \"when [character] takes any amount of damage...\"</li><li>Placing of damage on the character.</li><li>Abilities that trigger \"when [character] would be defeated...\"</li><li>Abilities that trigger \"when [character] is defeated...\" <em>(including \"When Defeated\" abilities)</em>.</li><li>Discarding of a defeated character.</li><li>Abilities that trigger \"after [character] deals/is dealt/takes any amount of damage...\" or \"after [character] defeats/is defeated...\"</li></ol></li></ul></li></ul>",
 		"see_also": [
+			"component_limitations",
 			"defeat",
-			"hit_points"
+			"hit_points",
+			"indirect_damage",
+			"move",
+			"prevent",
+			"tough"
 		]
 	},
 	{
 		"id": "dash_value",
 		"term": "Dash (Value)",
 		"type": "official",
-		"content": "A value presented as a dash (–) indicates that value cannot be used.<ul><li>If a card has a dash (–) as its cost value, that card cannot be played and can only enter play through other means.</li><li>If a character’s power (ATK, DEF, REC, SCH, and THW) has a dash (–) as the value, the character cannot exhaust to use that power.</li><li>If a game step or card ability references a value of dash (–), that value is treated as an unmodifiable 0.</li></ul>"
+		"content": "<ul><li>A value presented as a dash (–) indicates that value cannot be used.</li><li>If a card has a dash as cost, it cannot be played (only enters play through other means).</li><li>If a power (ATK/DEF/REC/SCH/THW) has a dash, the character cannot exhaust to use that power.</li><li>A dash referenced by a game step/ability is treated as an unmodifiable 0.</li></ul>",
+		"see_also": [
+			"basic_power",
+			"non_numerical_variable"
+		]
 	},
 	{
-		"id": "deal",
+		"id": "deal_deal_an_encounter_card",
 		"term": "Deal, Deal an Encounter Card",
 		"type": "official",
-		"content": "During step three of the villain phase, each player is dealt one facedown encounter card. If a card ability instructs a player to be dealt an encounter card, the player takes the top card of the encounter deck and places it facedown in front of them. This card is not revealed at this time. This card is added to the queue of cards that player resolves during the villain phase.",
+		"content": "<p>During step three of the villain phase, each player is dealt one facedown encounter card. If a card ability instructs a player be dealt an encounter card, they take the top card of the encounter deck and place it facedown in front of them, not revealed at this time; added to the resolution queue for the villain phase.</p>\n<p>If dealt during step three or four, the extra card is added to that same step's queue.</p>",
 		"see_also": [
+			"ability",
 			"encounter_card",
+			"encounter_deck",
+			"player",
 			"villain_phase"
 		]
 	},
@@ -29,65 +41,127 @@
 		"id": "deck",
 		"term": "Deck",
 		"type": "official",
-		"content": "There are four main types of decks that appear in a game: the player deck, the encounter deck, the villain deck, and the main scheme deck. Certain identities or scenarios may add other decks to the game.<ul><li>The order of cards within a deck cannot be altered unless a player is instructed to do so by a game step, game function, or card ability.</li></ul>"
+		"content": "<p>There are four main types of decks: the player deck, the encounter deck, the villain deck, and the main scheme deck. Certain identities/scenarios may add other decks.</p>\n<p>The order of cards within a deck cannot be altered unless instructed by a game step, function, or card ability.</p>",
+		"see_also": [
+			"encounter_deck",
+			"main_scheme",
+			"player_deck",
+			"villain"
+		]
+	},
+	{
+		"id": "deck_customization",
+		"term": "Deck Customization",
+		"type": "official",
+		"content": "<p>See: Appendix I: Deck Customization.</p>",
+		"see_also": [
+			"appendix_i_deck_customization"
+		]
+	},
+	{
+		"id": "def",
+		"term": "DEF",
+		"type": "official",
+		"content": "<p>See: Basic Power, Defend.</p>",
+		"see_also": [
+			"basic_power",
+			"defend_defense"
+		]
 	},
 	{
 		"id": "defeat",
 		"term": "Defeat",
 		"type": "official",
-		"content": "When a character has 0 or fewer hit points, they are defeated. If a hero is defeated, that player is eliminated from the game. If a minion or ally is defeated, it is placed in the appropriate discard pile. If a villain stage is defeated, the villain advances to the next stage.",
+		"content": "<p>If a character has zero or fewer remaining hit points, or a side scheme has no threat on it, it is defeated. If an ally, minion, or side scheme is defeated, it is discarded.</p>\n<p>If an identity or stage of the villain is defeated, it is removed from the game.</p>",
 		"see_also": [
+			"ally",
 			"hit_points",
-			"player_elimination"
+			"minion",
+			"player",
+			"player_elimination",
+			"removed_from_the_game",
+			"side_scheme",
+			"villain",
+			"villain_defeat"
 		]
 	},
 	{
-		"id": "defend",
-		"term": "Defend",
+		"id": "defend_defense",
+		"term": "Defend, Defense",
 		"type": "official",
-		"content": "When an enemy attacks, players may defend against the attack. A player can exhaust a hero or ally to defend. If a character defends against an attack, the damage from the attack is dealt to that character instead of the original target."
+		"content": "<ul><li>During an enemy attack, a player may defend using cards they control.</li><li>Only one player at a time can defend against an enemy attack.</li><li>A hero can use basic defense power to defend (must exhaust; damage reduced by DEF, remainder dealt to that hero).</li><li>An ally can exhaust to defend (all damage dealt to that ally).</li><li>A player initiating a triggered ability labeled as a defense ('Hero Interrupt (defense)') has their identity become the defender if there is not already one; resolving a defense-labeled ability is not a basic defense and does not reduce damage by the hero's DEF unless the hero is also declared defender by the normal process; a hero does not exhaust unless specified.</li><li>If a player defends against an attack targeting a different player, the defending player becomes the new target.</li><li>If no character defends, the attack is undefended; a defending ally defeated before damage is dealt also makes the attack undefended.</li></ul>",
+		"see_also": [
+			"ability",
+			"ally",
+			"attack_enemy_activation",
+			"damage",
+			"friendly",
+			"identity",
+			"labeled_ability",
+			"player"
+		]
 	},
 	{
 		"id": "delayed_effect",
-		"term": "Delayed Effects",
+		"term": "Delayed Effect",
 		"type": "official",
-		"content": "Some abilities contain delayed effects. Such abilities specify a future timing point, or indicate a future condition that may arise, and dictate an effect that is to happen at that time.<ul><li>Delayed effects resolve automatically and immediately after their specified timing point or future condition occurs or becomes true, and before responses to that point or condition may be used. Delayed effects have the same timing priority as constant effects.</li><li>When a delayed effect resolves, it is not treated as a new triggered ability, even if the delayed effect was originally created by a triggered ability.</li></ul>"
+		"content": "<p>Some abilities contain delayed effects specifying a future timing point or condition and dictate an effect to happen then. Delayed effects resolve automatically and immediately after their specified timing point/condition occurs, and before responses to that point may be used; they have the same timing priority as constant effects.</p>\n<p>A delayed effect is not treated as a new triggered ability even if created by one.</p>",
+		"see_also": [
+			"ability"
+		]
 	},
 	{
 		"id": "discard",
 		"term": "Discard",
 		"type": "official",
-		"content": "Discarding is the act of attempting to move a card from a non-discard-pile play area to a discard pile.<ul><li>If a player card is discarded, it is placed faceup on top of the owning player’s discard pile.</li><li>If an encounter card is discarded, it is placed faceup on top of the encounter discard pile.</li><li>If multiple cards are discarded from a player’s hand or from play by a singular effect, place those cards in the appropriate discard pile in any order.</li><li>If multiple cards are discarded from a deck by a singular effect, place those cards in the appropriate discard pile one at a time (without changing the order). These discards are considered simultaneous.</li></ul>"
+		"content": "<p>Discarding is attempting to move a card from a non-discard-pile play area to a discard pile. Player cards discarded go faceup on top of the owning player's discard pile; encounter cards go faceup on top of the encounter discard pile.</p>\n<ul><li>If multiple cards are discarded from hand/play by a singular effect, order is any; from a deck, one at a time without changing order (considered simultaneous, responses resolve after all discards).</li><li>If a player looks at cards from the top of a deck and discards some, those are considered discarded from the top of that deck.</li></ul>",
+		"see_also": [
+			"discard_pile",
+			"encounter_card",
+			"in_play_and_out_of_play",
+			"ownership_and_control",
+			"player_card",
+			"shuffle"
+		]
 	},
 	{
 		"id": "discard_pile",
 		"term": "Discard Pile",
 		"type": "official",
-		"content": "A discard pile is an out-of-play area that contains cards that have been discarded throughout the game.<ul><li>Each player has their own discard pile, and the encounter deck has its own discard pile.</li><li>Each discard pile is open information, and may be looked at by any player at any time.</li><li>The order of cards in a discard pile may not be changed unless a player is instructed to do so by a card ability.</li><li>Any ability that would shuffle a discard pile of zero cards back into a deck does not shuffle the deck.</li></ul>"
+		"content": "<ul><li>A discard pile is an out-of-play area containing discarded cards.</li><li>Each player has their own discard pile; the encounter deck has its own.</li><li>Each discard pile is open information viewable at any time. Order cannot be changed unless instructed by a card ability. Shuffling a discard pile of zero cards back into a deck does not shuffle the deck.</li></ul>",
+		"see_also": [
+			"discard",
+			"in_play_and_out_of_play",
+			"ownership_and_control",
+			"player",
+			"shuffle"
+		]
 	},
 	{
 		"id": "double_sided_card",
 		"term": "Double-Sided Card",
 		"type": "official",
-		"content": "A card is double-sided if neither of its sides has a card back (player, villain, or encounter).<ul><li>When a double-sided card would enter an out-of-play area other than the victory display or set-aside area, it is removed from the game.</li><li>If a double-sided card has “Standard Mode Only” and “Expert Mode Only” sides, it is put into play with the “Expert Mode Only” side faceup if the players are playing expert mode. Otherwise, the card is put into play with the “Standard Mode Only” side faceup.</li></ul>"
-	},
-	{
-		"id": "drain",
-		"term": "Drain",
-		"type": "fanmade",
-		"content": "Drain X is a keyword. When this keyword is triggered by a character, deal X damage to that character’s target. Then, if the target took that damage, heal X damage from the character who triggered drain.",
+		"content": "<p>A card is double-sided if neither side has a card back (player, villain, or encounter). If it would enter an out-of-play area other than the victory display or set-aside area, it is removed from the game.</p>\n<p>A card with 'Standard Mode Only' and 'Expert Mode Only' sides is put into play with the appropriate side faceup based on the mode being played.</p>",
 		"see_also": [
-			"keyword"
+			"encounter_card",
+			"in_play_and_out_of_play",
+			"player_card",
+			"victory_x",
+			"villain"
 		]
 	},
 	{
-		"id": "draw",
+		"id": "draw_drawing_cards",
 		"term": "Draw, Drawing Cards",
 		"type": "official",
-		"content": "If a player is instructed to draw one or more cards, those cards are drawn from the top of their deck one at a time.<ul><li>Drawn cards are added to a player’s hand.</li><li>Each player’s hand size is checked at the end of the player phase. If a player has more cards in their hand than their hand size value at this time, they must choose and discard cards from hand until they are at their hand size.</li></ul>",
+		"content": "<p>If a player is instructed to draw cards, they are drawn from the top of their deck one at a time and added to hand. Each player's hand size is checked at the end of the player phase; if over hand size, they must discard down.</p>",
 		"see_also": [
-			"hand_size",
-			"player_deck"
+			"discard",
+			"in_play_and_out_of_play",
+			"ownership_and_control",
+			"player",
+			"player_deck",
+			"player_phase"
 		]
 	}
 ]

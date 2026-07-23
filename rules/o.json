@@ -3,7 +3,7 @@
 		"id": "obligation",
 		"term": "Obligation",
 		"type": "official",
-		"content": "Obligation is an encounter card type that represents a commitment or obstacle that an identity’s alter-ego might have to face or overcome.<ul><li>Abilities on obligations that use the words “you” or “your” apply only to the player whose play area the obligation is in.</li><li>Each identity is associated with one or more obligation cards. If an identity is being played, all of that identity’s associated obligation cards are shuffled into the encounter deck during setup.</li><li>Identity-specific obligation cards are part of their associated identity’s identity-specific set.</li><li>Identity-specific obligation cards can only be used alongside an identity if those cards share a set icon with that identity.&nbsp;</li></ul><span style=\"font-size: 0.92rem;\">If an obligation card is revealed from the encounter deck and that obligation instructs that it must be given to a specific player (such as “Give to the Peter Parker player”), place that obligation into the player’s play area who controls the associated identity. That player must decide how to resolve the obligation.</span><br><ul><li><span style=\"font-size: 0.92rem;\">If an obligation cannot be given to the specified player for any reason, ignore the card’s ability, remove it from the game, and reveal an additional encounter card.</span></li></ul><span style=\"font-size: 0.92rem;\">If a player reveals an obligation card from the encounter deck and that obligation does not instruct that it must be given to a specific player, the player places that obligation into their play area. That player must decide how to resolve the obligation.</span><br><ul><li>Only the player with the obligation in their play area can trigger abilities or pay costs on that obligation.</li></ul><span style=\"font-size: 0.92rem;\">If a player draws an obligation card from their player deck, they place that obligation into their play area.</span><br><ul><li>The player does not draw a card to replace the obligation unless they are refilling their hand to their hand size.</li></ul>",
+		"content": "<p>Obligation is an encounter card type representing a commitment or obstacle an identity's alter-ego might face. Abilities on obligations using 'you'/'your' apply only to the player whose play area it's in.</p>\n<ul><li>Each identity is associated with one or more obligation cards, shuffled into the encounter deck during setup if that identity is played. Identity-specific obligation cards are part of that identity-specific set and may only be used alongside that identity.</li><li>If an obligation is revealed and instructs it must be given to a specific player, place it in that player's play area (they decide resolution); if it cannot be given for any reason, ignore the ability, remove it from the game, and reveal an additional encounter card.</li><li>If revealed without a specific-player instruction, it goes to the revealing player's play area.</li><li>If drawn from a player deck, it goes to that player's play area (no replacement draw unless refilling to hand size).</li></ul>",
 		"see_also": [
 			"card_types",
 			"encounter_card",
@@ -19,36 +19,26 @@
 	},
 	{
 		"id": "otherwise",
-		"term": "“Otherwise”",
+		"term": "\"Otherwise\"",
 		"type": "official",
-		"content": "Effects beginning with “otherwise” resolve only if the\npreceding effect <red>was not</red> resolved.<div><ul><red><li>An “otherwise” effect will resolve if one or more of\nthe following are true of the preceding effect:</li><ul><li>It has a condition that is not true. (<i>For example,\nan ability reads: “If you are in hero form, take\n2 damage. Otherwise, place 2 threat on the main\nscheme.” The “otherwise” portion resolves if the\nplayer is not in hero form.</i>)</li><li>It has an effect that cannot at least partially resolve.\n(For example, an ability reads: “Discard 2 cards\nfrom your hand. Otherwise, exhaust your identity.”\nThe “otherwise” portion resolves if the player\ncannot discard at least 1 card from their hand.)</li></ul><li><span style=\"font-size: 0.92rem;\">If “otherwise” is preceded by a semicolon, the\n“preceding effect” refers to the effects before the\nsemicolon in the same sentence. If the “otherwise”\neffect is its own sentence, the “preceding effect”\nrefers to the sentence coming directly before the\n“otherwise” sentence.</span></li></red></ul></div>",
-		"whats_new": "Expanded definition. The rule now clearly states that if the preceding effect is partial or fails, the 'Otherwise' condition takes over entirely to ensure an effect takes place.",
+		"content": "<p>Effects beginning with 'otherwise' resolve only if the preceding effect was not resolved — either because a condition was not true, or the effect could not at least partially resolve. If 'otherwise' is preceded by a semicolon, 'preceding effect' refers to effects before the semicolon in the same sentence; if its own sentence, refers to the directly preceding sentence.</p>",
 		"see_also": [
 			"replacement_effect",
 			"target"
 		]
 	},
 	{
-		"id": "out_of_play",
-		"term": "Out of Play",
-		"type": "official",
-		"content": "See: In Play and Out of Play",
-		"see_also": [
-			"in_play_and_out_of_play"
-		]
-	},
-	{
 		"id": "overkill",
 		"term": "Overkill",
 		"type": "official",
-		"content": "If an ally <red>takes </red>any amount of excess damage <red>from </red>an attack with the overkill keyword, simultaneously deal damage equal to the excess amount to the identity of the player who controls the ally.<div>If a minion <red>takes</red> any amount of excess damage <red>from</red> an attack with the overkill keyword, simultaneously deal damage equal to the excess amount to the villain.<ul><li>Damage dealt by overkill to an identity or villain is considered damage from an attack, but does not constitute an attack against that character.</li><li>If a card ability counts excess damage dealt, that ability counts the same value of excess damage that is calculated when resolving the overkill keyword.</li><li>When an ally or minion with a tough status card is dealt excess damage by an attack with the overkill keyword, overkill damage is not dealt to the identity of that ally’s controller or to the villain, respectively.</li></ul></div>",
-		"whats_new": "Updated the wording to specify that the overkill keyword triggers when an ally or minion 'takes' excess damage 'from' an attack, emphasizing that the damage must actually be taken.",
+		"content": "<ul><li>If an ally is defeated by an attack with overkill, deal any damage beyond its hit points to the identity of the player who controls the ally.</li><li>If a minion is defeated this way, deal excess damage to the villain. Equivalent ability: 'If this attack defeats an ally, deal the damage beyond its hit points to the identity of that ally's controller.</li><li>If this attack defeats a minion, deal the damage beyond its hit points to the villain.'</li><li>Damage dealt by overkill is considered damage from an attack, but doesn't constitute an attack against that character.</li><li>If excess damage from overkill is prevented, that damage is not dealt to the identity/villain.</li></ul>",
+		"whats_new": "Page 31: Revised definition of 'overkill.'",
 		"see_also": [
 			"ally",
 			"attack_enemy_activation",
 			"attack_player_ability_type",
 			"damage",
-			"hit_points_hp",
+			"hit_points",
 			"identity",
 			"keywords",
 			"minion",
@@ -58,9 +48,9 @@
 	},
 	{
 		"id": "overpay",
-		"term": "“Overpay”",
+		"term": "\"Overpay\"",
 		"type": "official",
-		"content": "See: Cost",
+		"content": "<p>See: Cost.</p>",
 		"see_also": [
 			"cost"
 		]
@@ -69,8 +59,7 @@
 		"id": "ownership_and_control",
 		"term": "Ownership and Control",
 		"type": "official",
-		"content": "A card’s owner is the player whose deck contained the card at the start of setup. The scenario is considered to be the owner of the encounter deck and each encounter card.<ul><li><red>Identity cards are owned and controlled by the player playing as that identity.</red></li><li>Cards enter play under their owner’s control. Encounter cards are considered to be under the control of the scenario.</li><ul><li>Upgrades attached to a card controlled by a player other than the upgrade’s owner are controlled by that other player.</li><li>When a player takes control of a campaign-specific or scenario-specific player card (such as an ally, support, or upgrade) with a player card back, that player becomes the owner of that card until the game ends or another player takes control of that card.</li></ul><li>Control of a card remains constant unless an ability explicitly causes the card to change control.</li><li>A player controls the cards in their own out-of-play areas (such as the hand, the deck, and the discard pile).</li><li>If a character changes control while it is in play, it remains in the same state (i.e., readied or exhausted, damaged or not, etc.) and is moved to its new controller’s play area.</li><li>Upgrades on a card that changes control also change control to the same new controller.</li><red><li>A change in control of a card remains in effect until one of the following occurs:</li><ul><li>The ability that changed control of that card ceases to be in effect, that card reverts to its owner’s control.</li><li>That card leaves play, it is placed in its owner’s equivalent out-of-play area.</li><li>That card is an event that was played, it is placed in its owner’s discard pile.</li><li>That card is discarded from a player’s hand, it is placed in its owner’s discard pile.</li></ul></red><ul></ul><li>If a game step or card ability references a card that “you control” or a “player controls,” that game step or card ability only refers to cards in play currently under that player’s control.</li></ul>",
-		"whats_new": "Clarified that identity cards are owned and controlled by the player playing as that identity. Added detailed conditions specifying when a change in control of a card ends and the card reverts to its owner's appropriate area (e.g., when the ability ceases, the card leaves play, is played as an event, or is discarded from a player's hand).",
+		"content": "<ul><li>A card's owner is the player whose deck contained the card at the start of setup; the scenario owns the encounter deck and each encounter card. Identity cards are owned/controlled by the player playing as that identity.</li><li>Cards enter play under their owner's control; encounter cards are under the scenario's control. Upgrades attached to a card controlled by a different player are controlled by that other player.</li><li>When a player takes control of a campaign-specific or scenario-specific player card with a player card back, they become the owner until the game ends or another player takes control. Control remains constant unless an ability explicitly causes a change.</li><li>A player controls cards in their own out-of-play areas. Control changes remain in effect until: the changing ability ceases; the card leaves play; the card is a played event; or the card is discarded from hand — reverting to owner's equivalent area.</li></ul>",
 		"see_also": [
 			"classifications",
 			"encounter_card",
@@ -79,8 +68,8 @@
 			"player",
 			"player_card",
 			"player_deck",
-			"player_play_area",
-			"villain_play_area"
+			"players_play_area",
+			"villains_play_area"
 		]
 	}
 ]

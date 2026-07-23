@@ -2,6 +2,37 @@
 	{
 		"id": "keywords",
 		"term": "Mots-clés",
-		"content": "Un mot-clé est un attribut qui confère des règles spécifiques à sa carte.<ul><li>Si une carte gagne plusieurs instances d'un mot-clé, toute instance supplémentaire n'a aucun effet, à moins que ce mot-clé ne soit suivi d'un nombre (par exemple Entrave X, Riposte X), auquel cas les nombres de chaque instance s'additionnent.</li><li>Les mots-clés suivants sont utilisés dans le jeu : Alliance, À distance, Assaut, Coup rapide, Déferlement, En équipe, Entrave X, Esprit d'équipe, Exigence, Forme, Garde, Incitation X, Liée, Mise en place, Patrouille, Perçant, Péril, Permanent, Renfort, Restreint, Riposte X, Robuste, Solide, Temporaire, Ténacité, Utilisations, Victoire X, Vilenie.</li></ul>"
+		"type": "official",
+		"content": "Un mot-clé est un attribut qui confère des règles spécifiques à sa carte.<ul><li>Si une carte gagne plusieurs instances d'un mot-clé, toute instance supplémentaire n'a aucun effet, à moins que ce mot-clé ne soit suivi d'un nombre (par exemple Entrave X, Riposte X), auquel cas les nombres de chaque instance s'additionnent.</li><li>Les mots-clés suivants sont utilisés dans le jeu : Alliance, À distance, Assaut, Coup rapide, Déferlement, En équipe, Entrave X, Esprit d'équipe, Exigence, Forme, Garde, Incitation X, Liée, Mise en place, Patrouille, Perçant, Péril, Permanent, Renfort, Restreint, Riposte X, Robuste, Solide, Temporaire, Ténacité, Utilisations, Victoire X, Vilenie.</li></ul>",
+		"see_also": [
+			"alliance",
+			"assault",
+			"form_change_form",
+			"guard",
+			"hinder_x",
+			"incite_x",
+			"linked_card_title",
+			"overkill",
+			"patrol",
+			"peril",
+			"permanent",
+			"piercing",
+			"quickstrike",
+			"ranged",
+			"requirement_resources",
+			"restricted",
+			"retaliate_x",
+			"setup_keyword",
+			"stalwart",
+			"steady",
+			"surge",
+			"team_up",
+			"teamwork_trait",
+			"temporary",
+			"toughness",
+			"uses_x_type",
+			"victory_x",
+			"villainous"
+		]
 	}
 ]

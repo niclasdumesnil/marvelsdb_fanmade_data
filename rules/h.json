@@ -3,7 +3,7 @@
 		"id": "hand_size",
 		"term": "Hand Size",
 		"type": "official",
-		"content": "Each player checks their hand size at the end of the player phase, either discarding down to or drawing up to the number of cards indicated by their hand size value.<ul><li>When drawing up to their hand size, a player draws cards one at a time, checking after each card is drawn whether they are at their hand size.</li></ul>",
+		"content": "<p>Each player checks their hand size at the end of the player phase, discarding down to or drawing up to their hand size value.</p>",
 		"see_also": [
 			"end_of_player_phase",
 			"modifiers"
@@ -13,9 +13,9 @@
 		"id": "hazard_icon",
 		"term": "Hazard Icon",
 		"type": "official",
-		"content": "During the Deal Encounter Cards step of the villain phase, for each hazard icon (<span class=\"icon-hazard\"></span>) on cards in play, deal one player one additional card (not one card per player). Additional cards are dealt in player order (first additional card to the first player, the second to the second player, etc.).",
+		"content": "<p>During the Deal Encounter Cards step of the villain phase, for each hazard icon on cards in play, deal one player one additional card (not one per player); additional cards are dealt in player order. Each hazard icon is equivalent to: 'During the Deal Encounter Cards step of the villain phase, deal 1 additional encounter card.</p>\n<p>Additional cards from hazard icons are dealt in player order.'</p>",
 		"see_also": [
-			"deal",
+			"deal_deal_an_encounter_card",
 			"in_player_order",
 			"villain_phase"
 		]
@@ -24,30 +24,39 @@
 		"id": "heal",
 		"term": "Heal",
 		"type": "official",
-		"content": "If an ability heals a character, damage the character has sustained can be removed from the character.<ul><li>A heal effect can only bring a character to its maximum hit points, unless the effect explicitly states it can bring the character above its maximum.</li><li>Effects that move damage off of a character are considered to heal that character.</li></ul>",
+		"content": "<p>If an ability heals a character, damage sustained can be removed. A heal effect can only bring a character to its maximum hit points unless it explicitly allows going above the maximum.</p>\n<p>Effects that move damage off a character are considered to heal that character.</p>",
 		"see_also": [
 			"ally",
-			"hit_points_hp",
+			"hit_points",
 			"identity",
 			"minion",
 			"villain"
 		]
 	},
 	{
-		"id": "hero",
+		"id": "hero_hero_form",
 		"term": "Hero, Hero Form",
 		"type": "official",
-		"content": "See: Form, Identity",
+		"content": "<p>See: Form, Identity.</p>",
 		"see_also": [
-			"form_change_form",
+			"form",
 			"identity"
+		]
+	},
+	{
+		"id": "heroic_mode",
+		"term": "Heroic Mode",
+		"type": "official",
+		"content": "<p>See: Modes of Play.</p>",
+		"see_also": [
+			"modes_of_play"
 		]
 	},
 	{
 		"id": "hinder_x",
 		"term": "Hinder X",
 		"type": "official",
-		"content": "When a card with the hinder X keyword enters play, place X threat on that card. (X is the value next to the hinder keyword.)",
+		"content": "<p>A card with the hinder X keyword enters play with X threat on it.</p>\n<ul><li>Equivalent to:<blockquote>This card enters play with X threat on it.</blockquote></li><li>This threat is in addition to any threat it normally enters play with.</li></ul>",
 		"see_also": [
 			"enters_play",
 			"keywords",
@@ -57,10 +66,10 @@
 		]
 	},
 	{
-		"id": "hit_points_hp",
+		"id": "hit_points",
 		"term": "Hit Points",
 		"type": "official",
-		"content": "Each character (identity, ally, minion, and villain) has a hit point value. Hit points represent the durability of that character. When damage is dealt to a character, it reduces the character’s remaining hit points (the amount of damage that character can take before reaching zero hit points).<ul><li>The phrase “starting hit points” refers to an identity’s printed hit point value.</li><li>An identity’s or villain’s hit point dial represents their remaining hit points. If an identity or villain is damaged, apply the damage by reducing that character’s hit point dial by the specified amount. If a player’s hit point dial is reduced to zero, that player is defeated and eliminated from the game. If a villain’s hit point dial is reduced to zero, that stage of the villain is defeated. When an ability that says an identity or villain “gets +X hit points” goes into effect, increase that character’s hit point dial by X. If that ability later ceases to be in effect, reduce that character’s hit point dial by X.</li><li>If an ally or minion is damaged, track the damage by placing damage tokens on that character. Damage tokens on an ally or minion reduce that character’s remaining hit points by the total value of the tokens. An ally or minion with zero or fewer remaining hit points is defeated and placed in the appropriate discard pile. If an ability that says an ally or minion “gets +X hit points” ceases to be in effect and causes that ally or minion to have damage on it equal to or greater than its hit points, that ally or minion is defeated.</li><li>Some characters may have an infinite number of hit points. A character with infinite hit points cannot be defeated by taking damage, as the amount of damage that character takes will never cause its remaining hit points to reach zero. However, damage may still be dealt to a character with infinite hit points through attacks and card abilities.</li></ul>",
+		"content": "<ul><li>Each character has a hit point value representing durability. 'Starting hit points' refers to an identity's printed value.</li><li>An identity's/villain's hit point dial represents remaining hit points; if reduced to zero, the player is defeated and eliminated, or that villain stage is defeated.</li><li>When an ability gives an identity/villain '+X hit points,' increase the dial by X (and reduce it by X when the effect ceases).</li><li>Damage on an ally/minion is tracked by damage tokens; zero or fewer remaining hit points defeats and discards it.</li><li>If a 'gets +X hit points' effect ceasing causes damage equal to/greater than hit points, that ally/minion is defeated.</li><li>Some characters may have infinite hit points and cannot be defeated by damage, though damage may still be dealt.</li></ul>",
 		"see_also": [
 			"ally",
 			"damage",

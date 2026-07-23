@@ -2,6 +2,10 @@
 	{
 		"id": "x_value",
 		"term": "« X » (valeur)",
-		"content": "Voir : Variable Non-Numérique"
+		"type": "official",
+		"content": "Voir : Variable Non-Numérique",
+		"see_also": [
+			"non_numerical_variable"
+		]
 	}
 ]

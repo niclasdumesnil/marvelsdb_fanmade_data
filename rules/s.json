@@ -3,18 +3,19 @@
 		"id": "scenario_specific_card",
 		"term": "Scenario-Specific Card",
 		"type": "official",
-		"content": "Cards in the “scenario-specific” classification are cards that belong to a scenario’s set of accompanying cards.<ul><li>A scenario must include each scenario-specific card associated with that scenario. The exact quantity of each card in that set is determined by the scenario.</li><li>In most scenarios, the scenario-specific cards are separated into three decks: the villain deck, the main scheme deck, and the encounter deck.</li><li>A scenario-specific card is designated by the name of the scenario with which it is associated printed at the bottom of the card in its encounter set name area.</li></ul>",
+		"content": "<ul><li>Cards in the 'scenario-specific' classification belong to a scenario's set of accompanying cards.</li><li>A scenario must include each such card in the exact quantity determined by the scenario. In most scenarios these are separated into the villain deck, main scheme deck, and encounter deck. Designated by the scenario's name printed at the bottom of the card.</li></ul>",
 		"see_also": [
 			"classifications",
-			"main_scheme",
-			"villain"
+			"main_scheme_main_scheme_deck",
+			"villain_villain_deck",
+			"appendix_i_deck_customization"
 		]
 	},
 	{
 		"id": "sch",
 		"term": "SCH",
 		"type": "official",
-		"content": "See: Basic Power, Scheme (Enemy Activation)",
+		"content": "<p>See: Basic Power, Scheme (Enemy Activation).</p>",
 		"see_also": [
 			"basic_power",
 			"scheme_enemy_activation"
@@ -24,9 +25,9 @@
 		"id": "scheme_card_type",
 		"term": "Scheme (Card Type)",
 		"type": "official",
-		"content": "The word “scheme” denotes three different card types: main schemes, player side schemes, and side schemes.<ul><li>If a card ability places threat on or removes threat from “a scheme,” the player resolving that ability chooses which scheme—main scheme or side schemes—that ability affects.</li></ul>",
+		"content": "<p>The word 'scheme' denotes three different card types: main schemes, player side schemes, and side schemes. If a card ability places or removes threat from 'a scheme,' the resolving player chooses which scheme (main or side) that ability affects.</p>",
 		"see_also": [
-			"main_scheme",
+			"main_scheme_main_scheme_deck",
 			"player_side_scheme",
 			"side_scheme"
 		]
@@ -35,10 +36,10 @@
 		"id": "scheme_enemy_activation",
 		"term": "Scheme (Enemy Activation)",
 		"type": "official",
-		"content": "A scheme is a type of enemy activation. If an enemy is instructed to scheme, follow these steps:<ol><li>If a villain, or a minion with the villainous keyword, is scheming, give it one facedown boost card from the encounter deck. (If a minion without the villainous keyword is scheming, skip this step.)</li><li>Resolve each of the scheming enemy’s boost cards, one at a time and in the order in which they were dealt, by doing the following:</li><ol><li>Flip the boost card faceup.</li><li>Resolve any “Boost” abilities, indicated by the star icon in the boost area.</li><li>Increase the scheming enemy’s SCH value by one for each boost icon on the card.</li><li>Discard the boost card.</li><li>If the enemy has any boost cards remaining, repeat these steps with the next boost card.</li></ol><li>Place threat on the main scheme equal to the scheming enemy’s modified SCH value.</li></ol>",
+		"content": "<p>A scheme is a type of enemy activation. If an enemy is instructed to scheme:</p>\n<ol><li>If a villain or villainous minion is scheming, give it one facedown boost card (skip for non-villainous minions).</li><li>Resolve each boost card one at a time: flip faceup, resolve any 'Boost' ability, increase SCH by boost icons, discard the boost card, repeat.</li><li>Place threat on the main scheme equal to the scheming enemy's modified SCH value.</li></ol>",
 		"see_also": [
 			"activation",
-			"boost",
+			"boost_boost_icon",
 			"minion",
 			"modifiers",
 			"villain",
@@ -50,7 +51,7 @@
 		"id": "search",
 		"term": "Search",
 		"type": "official",
-		"content": "When a player is instructed to search for a card, the player is permitted to look at each of the cards in the searched area.<ul><li>If the player finds a card that satisfies the criteria of the search, the player adds that card to the game area indicated by the instructions on the search effect.</li><li>If a player finds multiple cards that satisfy the criteria of a search, the player chooses among those options.</li><li>Cards being searched are not considered to leave the searched area.</li><li>If any portion of a deck is searched, upon completion of that game step, game function, or card ability, shuffle that entire deck.</li><li>If a player is instructed to “search [their] collection” for a card, the player looks through all of their Marvel Champions cards outside of the current game for the specified card.</li><ul><li>They become the owner of that card until the end of the game.</li></ul></ul>",
+		"content": "<ul><li>When instructed to search for a card, the player may look at each card in the searched area.</li><li>If the player finds a card satisfying the criteria, add it to the game area indicated by the search effect.</li><li>If multiple cards satisfy the criteria, the player chooses among those options.</li><li>Cards being searched are not considered to leave the searched area.</li><li>If any portion of a deck is searched, that entire deck is shuffled upon completion.</li><li>If instructed to 'search [their] collection,' the player looks through all their Marvel Champions cards outside the current game, becoming owner of that card until the game ends.</li></ul>",
 		"see_also": [
 			"encounter_deck",
 			"find",
@@ -62,7 +63,7 @@
 		"id": "self_referential",
 		"term": "Self-Referential",
 		"type": "official",
-		"content": "See: Referential Ability",
+		"content": "<p>See: Referential Ability.</p>",
 		"see_also": [
 			"referential_ability"
 		]
@@ -71,53 +72,48 @@
 		"id": "set_aside",
 		"term": "Set Aside, Set-Aside",
 		"type": "official",
-		"content": "Some game steps or card abilities instruct players to set aside specific cards. Set-aside cards are out of play and have no interaction with the game until they are referenced by instructions within the scenario or by a card ability.",
+		"content": "<p>Some game steps or card abilities instruct players to set aside specific cards. Set-aside cards are out of play and have no interaction with the game until referenced by scenario instructions or a card ability.</p>",
 		"see_also": [
 			"ability",
-			"in_play_and_out_of_play"
+			"in_play_and_out_of_play",
+			"appendix_ii_setup"
 		]
 	},
 	{
 		"id": "set_icon",
 		"term": "Set Icon",
 		"type": "official",
-		"content": "<red>The set icon is an indicator on a card of that card’s product of origin, located in the card’s collector information at the bottom of the card.</red>",
-		"whats_new": "Added the definition for 'Set Icon', explaining that it is an indicator of a card's product of origin located at the bottom of the card.",
-		"see_also": []
-	},
-	{
-		"id": "setup",
-		"term": "Setup",
-		"type": "official",
-		"content": "Setup is the process of preparing the game before the first round begins. It involves selecting identities, setting hit points, selecting the first player, setting aside obligations and nemesis sets, shuffling player decks, collecting tokens/status cards, selecting a scenario, setting the villain's hit points, creating the encounter deck, putting setup cards into play, resolving scenario setup and when revealed abilities, campaign setup, drawing cards, resolving mulligans, and resolving character setup abilities.",
-		"see_also": []
+		"content": "<p>The set icon is an indicator on a card of that card's product of origin, located in the card's collector information at the bottom of the card.</p>",
+		"see_also": [
+			"appendix_iii_card_anatomy"
+		]
 	},
 	{
 		"id": "setup_keyword",
 		"term": "Setup (Keyword)",
 		"type": "official",
-		"content": "A card with the setup keyword begins the game in play.<ul><li>Cards with the setup keyword are put into play during the “Put Setup Cards Into Play” step of setup.</li></ul>",
+		"content": "<p>A card with the setup keyword begins the game in play. Cards with the setup keyword are put into play during the 'Put Setup Cards Into Play' step of setup.</p>",
 		"see_also": [
 			"keywords",
 			"reminder_text",
-			"setup"
+			"appendix_ii_setup"
 		]
 	},
 	{
 		"id": "setup_triggered_ability",
 		"term": "Setup (Triggered Ability)",
 		"type": "official",
-		"content": "“Setup” is a type of triggered ability that is resolved during setup.<ul><li>Setup abilities are mandatory.</li><li>Setup abilities on encounter cards are resolved during the “Resolve Scenario Setup and When Revealed Abilities” step of setup.</li><li>Setup abilities on player cards are resolved during the “Resolve Character Setup Abilities” step of setup.</li></ul>",
+		"content": "<p>'Setup' is a type of triggered ability resolved during setup. Setup abilities are mandatory.</p>\n<p>Setup abilities on encounter cards are resolved during the 'Resolve Scenario Setup and When Revealed Abilities' step; on player cards, during the 'Resolve Character Setup Abilities' step.</p>",
 		"see_also": [
-			"setup",
-			"triggered_ability"
+			"triggered_ability",
+			"appendix_ii_setup"
 		]
 	},
 	{
 		"id": "shuffle",
 		"term": "Shuffle",
 		"type": "official",
-		"content": "Shuffling is the game function of randomizing the contents of a deck.<ul><li>If a player is instructed to shuffle a deck, that deck must be randomized to the point where no player within the game can ascertain the order of the cards within that deck.</li><li>Any time a deck is searched by a game step or card ability, that deck is shuffled after the game step or card ability completes its resolution.</li></ul>",
+		"content": "<p>Shuffling is the game function of randomizing the contents of a deck. If instructed to shuffle a deck, it must be randomized to the point where no player can ascertain the order.</p>\n<p>Any time a deck is searched, that deck is shuffled after the search resolves.</p>",
 		"see_also": [
 			"encounter_deck",
 			"player_deck",
@@ -128,24 +124,24 @@
 		"id": "side_scheme",
 		"term": "Side Scheme",
 		"type": "official",
-		"content": "Side scheme is an encounter card type that represents additional obstacles and distractions the heroes are confronted with. If a side scheme is revealed, it enters play and is placed next to the main scheme deck in the villain’s play area.<ul><li>Each side scheme enters play with an amount of threat on it equal to the card’s starting threat value (indicated at the bottom of the card).</li><li>A side scheme remains in play until there is no threat on it (which causes it to be defeated and discarded), or until a card ability removes it from play.</li></ul>",
+		"content": "<p>Side scheme is an encounter card type representing additional obstacles and distractions confronting the heroes. If revealed, it enters play and is placed next to the main scheme deck in the villain's play area, with threat equal to its starting threat value.</p>\n<p>It remains in play until there is no threat on it (defeated and discarded) or a card ability removes it from play; threat can be removed via basic thwart or card abilities.</p>",
 		"see_also": [
 			"card_types",
 			"defeat",
 			"encounter_card",
 			"enters_play",
 			"leaves_play",
-			"main_scheme",
+			"main_scheme_main_scheme_deck",
 			"threat",
 			"thwart",
-			"villain_play_area"
+			"villains_play_area"
 		]
 	},
 	{
 		"id": "simultaneous_resolution",
 		"term": "Simultaneous Resolution",
 		"type": "official",
-		"content": "If two or more effects with the same bold timing trigger would resolve simultaneously, the first player determines the order in which the effects resolve.",
+		"content": "<p>If two or more effects with the same bold timing trigger would resolve simultaneously, the first player determines the order in which the effects resolve.</p>",
 		"see_also": [
 			"each_player",
 			"triggered_ability"
@@ -155,7 +151,7 @@
 		"id": "skirmish_mode",
 		"term": "Skirmish Mode",
 		"type": "official",
-		"content": "See: Modes of Play",
+		"content": "<p>See: Modes of Play.</p>",
 		"see_also": [
 			"modes_of_play"
 		]
@@ -164,7 +160,7 @@
 		"id": "special",
 		"term": "Special",
 		"type": "official",
-		"content": "A special ability is a type of triggered ability, indicated by the bold “<b>Special</b>” timing trigger. Special abilities may only be executed through the explicit instruction of another card ability.",
+		"content": "<p>A special ability is a triggered ability indicated by the bold 'Special' timing trigger, resolved only through the explicit instruction of another card ability.</p>",
 		"see_also": [
 			"triggered_ability"
 		]
@@ -173,7 +169,7 @@
 		"id": "stalwart",
 		"term": "Stalwart",
 		"type": "official",
-		"content": "A character that has the stalwart keyword cannot be stunned or confused.<ul><li>If a character gains the stalwart keyword while they have a stunned and/or confused status card, each stunned and/or confused status card is removed from that character.</li></ul>",
+		"content": "<p>A character with the stalwart keyword cannot be stunned or confused.</p>\n<ul><li>Equivalent to:<blockquote>This character cannot have confused or stunned status cards.</blockquote></li><li>If a character gains stalwart while it has a stunned/confused status card, that status card is removed.</li></ul>",
 		"see_also": [
 			"ally",
 			"confuse_confused",
@@ -191,7 +187,7 @@
 		"id": "standard_mode",
 		"term": "Standard Mode",
 		"type": "official",
-		"content": "See: Modes of Play",
+		"content": "<p>See: Modes of Play.</p>",
 		"see_also": [
 			"modes_of_play"
 		]
@@ -200,22 +196,23 @@
 		"id": "standard_set",
 		"term": "Standard Set",
 		"type": "official",
-		"content": "The standard set is an encounter set that is added to most scenarios.<ul><li>The standard set is not a modular encounter set and cannot be selected (by the players or randomly) when a scenario requires players to choose a modular encounter set to include in that scenario.</li><li>Cards in the “Standard” classification are any cards that have the word “Standard” printed by the bottom of the card in its encounter set name area.</li></ul>",
+		"content": "<p>The standard set is an encounter set added to most scenarios. It is not a modular encounter set and cannot be selected when a scenario requires choosing a modular set.</p>\n<p>Cards in the 'Standard' classification have 'Standard' printed at the bottom of the card.</p>",
 		"see_also": [
-			"classifications"
+			"classifications",
+			"appendix_i_deck_customization"
 		]
 	},
 	{
 		"id": "star_icon",
 		"term": "Star Icon",
 		"type": "official",
-		"content": "A star icon (<span class=\"icon-star\"></span>) is used in conjunction with a card’s stat or boost field to indicate that there is a mandatory ability in the text box that corresponds to that field. In and of itself, the star icon has no effect; it is merely a reminder to check the card’s text box whenever that field is used.<ul><li>If a star icon is located next to an enemy’s ATK or SCH value, the icon serves as a reminder to check that enemy’s text box whenever that enemy uses that value to attack or scheme.</li><li>If a star icon is located in the ATK or SCH field of an attachment, the icon serves as a reminder to check that attachment’s text box whenever the attached enemy uses the value that field is modifying to attack or scheme.</li><li>If a star icon is located next to an ally’s ATK or THW value, the icon serves as a reminder to check that ally’s text box whenever that ally uses that value to attack or thwart.</li><li>If a star icon is located next to a hero’s ATK, THW, or DEF, or next to an alter-ego’s REC value, the icon serves as a reminder to check that character’s text box whenever they use that value to attack, thwart, defend, or recover.</li><li>If a game step or ability references a power with the value of star (<span class=\"icon-star\"></span>), that value is treated as 0.</li><li>If a star icon is located in an encounter card’s boost field, the icon serves as a reminder to check that card’s text box whenever that card is turned face up as a boost card during the villain’s activation.</li></ul>",
+		"content": "<p>A star icon is used with a card's stat or boost field to indicate a mandatory ability in the text box corresponding to that field; in itself it has no effect, serving as a reminder to check the text box whenever that field is used (for ATK/SCH on an enemy or attachment, ATK/THW on an ally, ATK/THW/DEF on a hero, REC on an alter-ego, or an encounter card's boost field). If a game step/ability references a power with the value of star, that value is defined in that card's text (0 if undefined).</p>",
 		"see_also": [
 			"activation",
 			"ally",
 			"attachment",
 			"basic_power",
-			"boost",
+			"boost_boost_icon",
 			"identity",
 			"minion",
 			"non_numerical_variable",
@@ -226,20 +223,17 @@
 		"id": "status_cards",
 		"term": "Status Cards",
 		"type": "official",
-		"content": "Status card represent different states a character may find themselves in during the game. When a character is given a status card, take a status card of the specified type from the pool and place it on that character.<ul><li>A character cannot have more than one status card of each type at a time.</li><ul><li>Characters with the steady keyword can have one additional confused status card and one additional stunned status card.</li></ul><li>Status card abilities have timing priority over all conflicting triggered abilities.</li></ul><span style=\"font-size: 0.92rem;\">The three status card types are:</span><blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><b style=\"font-size: 0.92rem;\">Confused</b><span style=\"font-size: 0.92rem;\"> (cancels a character's next scheme or thwart),</span></div><div><b style=\"font-size: 0.92rem;\">Stunned</b><span style=\"font-size: 0.92rem;\"> (cancels a character's next attack),</span></div><div><b style=\"font-size: 0.92rem;\">Tough</b><span style=\"font-size: 0.92rem;\"> (prevents a character from taking damage).</span></div></blockquote><div><span style=\"font-size: 0.92rem;\"></span></div>",
+		"content": "<p>Status cards represent different states a character may find themselves in during the game.</p>\n<ul><li>When given a status card, take one of the specified type from the pool.</li><li>A character cannot have more than one status card of each type at a time (steady characters can have one additional confused and one additional stunned). Status card abilities have timing priority over all conflicting triggered abilities. Three types: Confused (cancels next scheme/thwart), Stunned (cancels next attack), Tough (prevents a character from taking damage).</li></ul>",
 		"see_also": [
 			"ally",
 			"attack_enemy_activation",
 			"attack_player_ability_type",
 			"basic_power",
-			"confuse_confused",
 			"damage",
 			"form_change_form",
 			"identity",
 			"minion",
 			"replacement_effect",
-			"stun_stunned",
-			"tough",
 			"triggered_ability",
 			"villain"
 		]
@@ -248,7 +242,7 @@
 		"id": "steady",
 		"term": "Steady",
 		"type": "official",
-		"content": "A character with the steady keyword can have one additional stunned status card and one additional confused status card. That character is not stunned unless they have two stunned status cards, and is not confused unless they have two confused status cards.&nbsp;<span style=\"font-size: 0.92rem;\">After that character’s attack, scheme, or thwart is canceled by a status card effect, remove all status cards of the corresponding type from that character.</span>",
+		"content": "<p>A character with the steady keyword can have one additional stunned status card and one additional confused status card. It is not stunned unless it has two stunned status cards, and not confused unless it has two confused status cards.</p>\n<p>After that character's attack/scheme/thwart is canceled by a status card effect, remove all status cards of the corresponding type from that character.</p>",
 		"see_also": [
 			"confuse_confused",
 			"keywords",
@@ -260,7 +254,7 @@
 		"id": "stun_stunned",
 		"term": "Stun, Stunned",
 		"type": "official",
-		"content": "Stun is a status that cancels a character’s next attack.<ul><li>If an ability “stuns” a character, give that character a stunned status card.</li><li>A character is stunned if it has a stunned status card. A character with the steady keyword is stunned only if it has two stunned status cards.</li><li>If a character has an ability stating that it “cannot be stunned,” stunned status cards cannot be placed on that character.</li><li>If a stunned identity or ally attempts to attack or use an attack ability, discard the stunned card instead. Costs associated with the attack attempt, including exhausting the character, must still be paid.</li><ul><li>A stunned character can attempt to attack or use an attack ability even if it has no valid target for an attack.</li></ul><li>If a stunned villain or minion would attack, discard the stunned status card instead.</li><li>As the attack action or attack activation was replaced by the removal of the stunned status card, that character is not considered to have attacked.</li></ul>",
+		"content": "<p>Stun is a status that cancels a character's next attack.</p>\n<ul><li>A stunned status card resolves like:<blockquote>Forced Interrupt: When this character would attack, remove each stunned status card from it instead.</blockquote></li><li>A character is stunned if it has a stunned status card (steady characters need two).</li><li>If a character 'cannot be stunned,' stunned status cards cannot be placed on it.</li><li>A stunned identity/ally attempting to attack discards the stunned card instead (costs, including exhausting, still paid) — can attempt even with no valid target.</li><li>A stunned villain/minion that would attack discards the stunned status card instead.</li><li>The character is not considered to have attacked.</li></ul>",
 		"see_also": [
 			"ally",
 			"cancel",
@@ -275,7 +269,7 @@
 		"id": "subtitle",
 		"term": "Subtitle",
 		"type": "official",
-		"content": "Some ally cards have a subtitle beneath the title. A subtitle represents an alternate alias a character sometimes uses.",
+		"content": "<p>Some ally cards have a subtitle beneath the title, representing an alternate alias a character sometimes uses.</p>",
 		"see_also": [
 			"unique_icon"
 		]
@@ -284,21 +278,22 @@
 		"id": "support",
 		"term": "Support",
 		"type": "official",
-		"content": "Support is a player card type that represent locations, backline supporters or friends, and other behind-the-scenes elements a hero or alter-ego might have at their disposal.<ul><li>Support cards enter play in the back row of a player’s play area.</li><li>A support card is active while it is in play, and it remains in play until a card ability causes it to leave play.</li><li>Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve from supports in play under a player’s control are not considered to be performed by that player’s identity.</li></ul>",
+		"content": "<p>Support is a player card type representing locations, backline supporters or friends, and other behind-the-scenes elements at a hero's/alter-ego's disposal. Support cards enter play in the back row of a player's play area.</p>\n<p>A support card is active while in play, remaining until a card ability causes it to leave play. Attacks, thwarts, defenses, action abilities, and triggered abilities that resolve from supports are not considered to be performed by that player's identity.</p>",
 		"see_also": [
 			"card_types",
 			"enters_play",
 			"in_play_and_out_of_play",
 			"leaves_play",
 			"player_card",
-			"player_play_area"
+			"players_play_area"
 		]
 	},
 	{
 		"id": "surge",
 		"term": "Surge",
 		"type": "official",
-		"content": "After an encounter card with this keyword is revealed, the player resolving the card reveals an additional encounter card from the top of the encounter deck.<ul><li>Complete the process of resolving the original card, as well as any response abilities that are triggered by that card being revealed, before revealing the additional card.</li></ul>",
+		"content": "<p>When an encounter card with the surge keyword is revealed, the player resolving the card deals themself a facedown encounter card from the top of the encounter deck.</p>\n<ul><li>Equivalent to:<blockquote>When Revealed: Deal yourself 1 facedown encounter card.</blockquote></li><li>Complete the process of resolving the original card, and any triggered response abilities, before revealing the additional card.</li></ul>",
+		"whats_new": "Page 42: Revised definition of 'surge.'",
 		"see_also": [
 			"encounter_card",
 			"encounter_deck",
@@ -311,11 +306,11 @@
 		"id": "sustained_damage",
 		"term": "Sustained Damage",
 		"type": "official",
-		"content": "Sustained damage refers to the difference between a character’s maximum hit points and remaining hit points.<ul><li>To calculate sustained damage for an identity or villain (using a hit point dial), start with the character’s maximum hit points (as indicated by its printed value modified by any card abilities or game effects), and subtract their remaining hit points (as indicated by the dial).</li><li>Sustained damage on an ally or minion is equal to the total value of all damage tokens on the card.</li></ul>",
+		"content": "<p>Sustained damage refers to the difference between a character's maximum hit points and remaining hit points. For an identity/villain (hit point dial), subtract remaining hit points (per the dial) from maximum hit points.</p>\n<p>Sustained damage on an ally/minion equals the total value of all damage tokens on the card.</p>",
 		"see_also": [
 			"ally",
 			"damage",
-			"hit_points_hp",
+			"hit_points",
 			"identity",
 			"maximum_hit_points",
 			"remaining_hit_points",
@@ -324,10 +319,9 @@
 	},
 	{
 		"id": "swap",
-		"term": "“Swap”",
+		"term": "\"Swap\"",
 		"type": "official",
-		"content": "An instruction to “swap” two components means to\nexchange the location of those two components.<div><ul><li>A swap cannot be completed if there is not a\ncomponent in both locations.</li><ul><li><span style=\"font-size: 0.92rem;\">For example, you cannot “swap a card in your hand\nwith the top card of your deck” if you have no cards\nin hand.&nbsp;</span></li></ul><li><span style=\"font-size: 0.92rem;\">Swapping a card in hand with the top card of a deck\nis not considered drawing that card.</span></li><li>When swapping a card in a play area with a card in an\nout-of-play area, if those two cards:</li><ul><li>Share a title, neither card is considered to enter or\nleave play. Tokens, <red>attached cards, tucked cards</red>,\nand status cards on the previously in-play card are\ntransferred to the other card and the other card\nmaintains the state (ready or exhausted) of the\npreviously in-play card.<red> If the swapped card has an\nassociated hit point dial, that dial remains at the\nsame value.</red></li><li>Do not share a title, the in-play card is considered\nto leave play and the out-of-play card is considered\nto enter play. Tokens,<red> attached cards, tucked cards</red>,\nand status cards on the previously in-play card are\nnot transferred to the other card and the other\ncard enters play ready. <red>If the swapped card has an\nassociated hit point dial, that dial is reset to the\nnew card’s printed hit point value.<span style=\"font-size: 0.92rem;\">&nbsp;</span></red><span style=\"font-size: 0.92rem;\"></span></li></ul></ul></div>",
-		"whats_new": "Expanded the rules for swapping cards to explicitly detail the handling of attached cards, tucked cards, and hit point dials. When swapped cards share a title, these elements transfer and the HP dial remains the same; when they do not share a title, they do not transfer and the HP dial resets.",
+		"content": "<ul><li>An instruction to 'swap' two components means to exchange the location of those two components.</li><li>A swap cannot be completed if there is not a component in both locations. Swapped cards maintain their orientation (ready/exhausted, faceup/facedown). Swapping a card in hand with the top card of a deck is not considered drawing.</li><li>When swapping a card in a play area with one in an out-of-play area: if they share a title, neither is considered to enter/leave play (tokens/attached/tucked/status cards transfer, state and hit point dial value are maintained); if they do not share a title, the in-play card is considered to leave play and the out-of-play card enters play (tokens etc. are not transferred, the card enters ready, and any hit point dial resets to the new card's printed value).</li></ul>",
 		"see_also": [
 			"ability",
 			"target"

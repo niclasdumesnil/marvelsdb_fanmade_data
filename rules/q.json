@@ -3,13 +3,13 @@
 		"id": "qualifiers",
 		"term": "Qualifiers",
 		"type": "official",
-		"content": "If ability text includes a qualifier followed by multiple terms, the qualifier applies to each item in the list, if applicable. For example, in the phrase “each ready character and attachment” the word “ready” applies to both “character” and “attachment.”"
+		"content": "<p>If ability text includes a qualifier followed by multiple terms, the qualifier applies to each item in the list, if applicable (e.g. 'each ready character and attachment' — 'ready' applies to both).</p>"
 	},
 	{
 		"id": "quickstrike",
 		"term": "Quickstrike",
 		"type": "official",
-		"content": "After a minion with the quickstrike keyword engages a player whose identity is in hero form, that minion attacks that player.",
+		"content": "<p>After a minion with the quickstrike keyword engages a player whose identity is in hero form, that minion attacks that player.</p>\n<ul><li>Equivalent to:<blockquote>Forced Response (Hero): After this minion engages a player, it attacks that player.</blockquote></li><li>If being revealed, quickstrike resolves after any 'When Revealed' abilities on that minion.</li></ul>",
 		"see_also": [
 			"attack_enemy_activation",
 			"engage",
@@ -17,7 +17,8 @@
 			"keywords",
 			"minion",
 			"player",
-			"reminder_text"
+			"reminder_text",
+			"reveal"
 		]
 	}
 ]
