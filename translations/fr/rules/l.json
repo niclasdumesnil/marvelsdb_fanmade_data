@@ -48,16 +48,16 @@
 		"id": "limit",
 		"term": "Limite",
 		"type": "official",
-		"content": "« Limite de X par [période] » est une limite qui apparaît sur certaines cartes joueur. Ces limites sont spécifiques à la carte. Chaque exemplaire d'une capacité avec une telle limite peut être utilisé X fois par la période spécifiée, par instance de cette capacité.<ul><li>Si un effet avec une limite est annulé, la carte est toujours considérée comme ayant été jouée ou la capacité initiée, et elle compte dans la limite.</li></ul>",
+		"content": "<p>« Limite de X par [période] » est une limite qui apparaît sur certaines cartes joueur. Ces limites sont spécifiques à la carte. Chaque exemplaire d'une capacité avec une telle limite peut être utilisé X fois par la période spécifiée, par instance de cette capacité.</p><ul><li>Si un effet avec une limite est annulé, la carte est toujours considérée comme ayant été jouée ou la capacité initiée, et elle compte dans la limite.</li></ul>",
 		"see_also": [
 			"player_card"
 		]
 	},
 	{
 		"id": "linked_card_title",
-		"term": "Liée (Titre de Carte)",
+		"term": "Liée (Titre de carte)",
 		"type": "official",
-		"content": "Les cartes avec le mot-clé liée ne peuvent être incluses dans aucun deck. Au lieu de cela, elles sont mises de côté au début de la partie si n'importe quel deck inclut la carte qui met les cartes liées en jeu (indiquée entre parenthèses après le mot-clé).<ul><li>Les cartes liées ne comptent pas dans la taille minimale ou maximale du deck.</li><li>Le nombre de cartes liées mises de côté pendant la mise en place est égal au nombre de ces cartes incluses dans le produit dont provient la carte liée. Si plusieurs decks contiennent la même carte nommée sur une ou plusieurs cartes liées, mettez de côté le nombre approprié de cartes pour chaque deck contenant la carte nommée.</li><li>Lorsqu'un joueur prend le contrôle d'une carte avec le mot-clé liée, ce joueur devient le propriétaire de cette carte.</li></ul>",
+		"content": "<p>Les cartes avec le mot-clé liée ne peuvent être incluses dans aucun deck. Au lieu de cela, elles sont mises de côté au début de la partie si n'importe quel deck inclut la carte qui met les cartes liées en jeu <em>(indiquée entre parenthèses après le mot-clé)</em>.</p><ul><li><mark class=\"new\">Le mot-clé liée (titre de carte) est équivalent à la capacité constante suivante : « Mettez cette carte de côté pendant la mise en place. Cette carte ne compte pas dans la taille de votre deck. »</mark></li><li>Les cartes liées ne comptent pas dans la taille minimale ou maximale du deck.</li><li>Le nombre de cartes liées mises de côté pendant la mise en place est égal au nombre de ces cartes incluses dans le produit dont provient la carte liée.<ul><li>Si plusieurs decks contiennent la même carte nommée sur une ou plusieurs cartes liées, mettez de côté le nombre approprié de cartes pour chaque deck contenant la carte nommée.</li></ul></li><li>Lorsqu'un joueur prend le contrôle d'une carte avec le mot-clé liée, ce joueur devient le propriétaire de cette carte.</li></ul>",
 		"see_also": [
 			"keywords",
 			"ownership_and_control",
@@ -68,13 +68,13 @@
 		"id": "look_looked_at",
 		"term": "Regarder, regardé",
 		"type": "official",
-		"content": "Si une capacité demande à un joueur de regarder des cartes qui sont autrement cachées aux joueurs, seul le joueur qui résout la capacité peut regarder ces cartes. Cependant, ce joueur est autorisé à transmettre toute quantité d'informations relatives à ces cartes aux autres joueurs.<ul><li>Pendant qu'un joueur regarde des cartes dans un deck, ces cartes sont toujours considérées comme faisant partie de ce deck.</li><li>Après avoir regardé des cartes dans un deck, ces cartes sont remises dans ce deck dans le même ordre.</li></ul>"
+		"content": "<p>Si une capacité demande à un joueur de regarder des cartes qui sont autrement cachées aux joueurs, seul le joueur qui résout la capacité peut regarder ces cartes. Cependant, ce joueur est autorisé à transmettre toute quantité d'informations relatives à ces cartes aux autres joueurs.</p><ul><li>Pendant qu'un joueur regarde des cartes dans un deck, ces cartes sont toujours considérées comme faisant partie de ce deck.<ul><li>Après avoir regardé des cartes dans un deck, ces cartes sont remises dans ce deck dans le même ordre.</li></ul></li></ul>"
 	},
 	{
 		"id": "loses",
-		"term": "Perdre",
+		"term": "« Perd »",
 		"type": "official",
-		"content": "Si une carte perd une caractéristique (comme un trait, un mot-clé ou un texte de capacité), la carte fonctionne comme si elle ne possédait pas la caractéristique acquise.<ul><li>Les caractéristiques perdues sont toujours considérées comme imprimées sur la carte.</li><li>Une caractéristique perdue ne peut pas être regagnée tant que la capacité provoquant sa perte est en effet, même si un nouvel effet devrait causer le gain de cette caractéristique.</li></ul>",
+		"content": "<p>Si une carte perd une caractéristique <em>(comme un trait, un mot-clé ou un texte de capacité)</em>, la carte fonctionne comme si elle ne possédait pas la caractéristique acquise.</p><ul><li>Les caractéristiques perdues sont toujours considérées comme imprimées sur la carte.</li><li>Une caractéristique perdue ne peut pas être regagnée tant que la capacité provoquant sa perte est en vigueur, même si un nouvel effet devrait causer le gain de la caractéristique.</li></ul>",
 		"see_also": [
 			"keywords",
 			"printed",

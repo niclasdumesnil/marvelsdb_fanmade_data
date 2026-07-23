@@ -48,7 +48,7 @@
 		"id": "limit",
 		"term": "Limit",
 		"type": "official",
-		"content": "<p>'Limit X per [period]' appears on some player cards; each copy of an ability with such a limit may be used X times per period, per instance of that ability. If an effect with a limit is canceled, the card/ability still counts toward the limit.</p>",
+		"content": "<p>“Limit X per [period]” is a limit that appears on some player cards. These limits are card-specific. Each copy of an ability with such a limit may be used X times per the specified period, per instance of that ability.</p><ul><li>If an effect with a limit is canceled, the card is still considered to have been played or the ability initiated, and it counts toward the limit.</li></ul>",
 		"see_also": [
 			"player_card"
 		]
@@ -57,7 +57,7 @@
 		"id": "linked_card_title",
 		"term": "Linked (Card Title)",
 		"type": "official",
-		"content": "<ul><li>Cards with the linked keyword cannot be included in any deck; instead they're set aside at the start of the game if any deck includes the card that brings the linked cards into play. Equivalent to: 'Set this card aside during setup.</li><li>This card does not count toward your deck size.' Linked cards do not count toward min/max deck size.</li><li>The number set aside equals the number in the product from which it came.</li><li>When a player takes control of a linked card, that player becomes its owner.</li></ul>",
+		"content": "<p>Cards with the linked keyword cannot be included in any deck. Instead, they are set aside at the start of the game if any deck includes the card that brings the linked cards into play <em>(indicated in the parentheses following the keyword)</em>.</p><ul><li><mark class=\"new\">The linked (card title) keyword is equivalent to the following constant ability: “Set this card aside during setup. This card does not count toward your deck size.”</mark></li><li>Linked cards do not count toward the minimum or maximum deck size.</li><li>The number of linked cards set aside during setup is equal to the number of those cards included in the product from which the linked card came.<ul><li>If multiple decks contain the same card named on one or more linked cards, set aside the appropriate number of cards for each deck that contains the named card.</li></ul></li><li>When a player takes control of a card with the linked keyword, that player becomes the owner of that card.</li></ul>",
 		"see_also": [
 			"keywords",
 			"ownership_and_control",
@@ -68,13 +68,13 @@
 		"id": "look_looked_at",
 		"term": "Look, Looked-At",
 		"type": "official",
-		"content": "<p>If an ability instructs a player to look at cards otherwise hidden, only the resolving player can look, though they may convey any amount of that information to others. While looking at cards in a deck, those cards are still considered part of that deck; after looking, they're returned to the deck in the same order.</p>"
+		"content": "<p>If an ability instructs a player to look at cards that are otherwise hidden from the players, only the player who is resolving the ability can look at those cards. However, that player is permitted to convey any amount of information related to those cards to other players.</p><ul><li>While a player is looking at cards in a deck, those cards are still considered part of that deck.<ul><li>After looking at cards in a deck, those cards are returned to that deck in the same order.</li></ul></li></ul>"
 	},
 	{
 		"id": "loses",
-		"term": "\"Loses\"",
+		"term": "“Loses”",
 		"type": "official",
-		"content": "<p>If a card loses a characteristic, it functions as if it doesn't possess it. Lost characteristics are still considered printed on the card.</p>\n<p>A lost characteristic cannot be regained while the ability causing the loss is in effect, even if a new effect would cause it to be gained.</p>",
+		"content": "<p>If a card loses a characteristic <em>(such as a trait, keyword, or ability text)</em>, the card functions as if it does not possess the gained characteristic.</p><ul><li>Lost characteristics are still considered to be printed on the card.</li><li>A lost characteristic cannot be regained while the ability causing it to be lost is in effect, even if a new effect would cause the characteristic to be gained.</li></ul>",
 		"see_also": [
 			"keywords",
 			"printed",
