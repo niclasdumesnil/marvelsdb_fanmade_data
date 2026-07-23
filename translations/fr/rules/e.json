@@ -85,9 +85,9 @@
 	},
 	{
 		"id": "encounter_set",
-		"term": "Ensemble de Rencontre",
+		"term": "Set de rencontre",
 		"type": "official",
-		"content": "Un ensemble de rencontre (ou set de rencontre) est un regroupement de cartes rencontre.<ul><li>Il existe quatre types de sets de rencontre : les sets spécifiques au scénario, les sets modulaires, le set Standard et le set Expert.</li><li>Les sets de rencontre portant le même nom mais des icônes de set différentes sont considérés comme des sets distincts.</li></ul>",
+		"content": "<p>Un set de rencontre est un regroupement de cartes rencontre.</p><ul><li>Il existe quatre types de sets de rencontre : les sets de rencontre spécifiques à un scénario, les sets de rencontre modulaires, le set Standard et le set Expert.</li><li>Les sets de rencontre portant le même nom mais ayant des icônes de set différentes sont considérés comme des sets distincts.</li></ul>",
 		"see_also": [
 			"classifications",
 			"expert_set",
@@ -116,7 +116,7 @@
 		"id": "enemy",
 		"term": "Ennemi",
 		"type": "official",
-		"content": "Un ennemi est un sbire ou un méchant. Lorsqu'il est utilisé comme descripteur, « ennemi » fait référence aux éléments de jeu qui appartiennent au scénario : « cartes ennemi », « capacités ennemies », etc.",
+		"content": "<p>Un ennemi est un sbire ou un méchant.</p><p>Lorsqu'il est utilisé comme un descripteur, « ennemi » fait référence aux éléments de jeu qui appartiennent au scénario : « cartes ennemi », « capacités d'ennemi », etc.</p>",
 		"see_also": [
 			"game_element",
 			"minion",
@@ -156,9 +156,9 @@
 	},
 	{
 		"id": "energy_resource",
-		"term": "Ressource énergie",
+		"term": "Ressource Énergie (⚡)",
 		"type": "official",
-		"content": "Une ressource énergie (<span class=\"icon-energy\"></span>) est l'un des quatre types de ressources.<ul><li>Les ressources énergie peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités de cartes exigent spécifiquement que des ressources énergie soient dépensées pour résoudre leurs effets.</li></ul>",
+		"content": "<p>Une ressource énergie (<span class=\"icon icon-energy\"></span>) est l'un des quatre types de ressources.</p><ul><li>Les ressources énergie peuvent être dépensées pour payer le coût en ressources de cartes et de capacités.</li><li>Certaines capacités de carte nécessitent spécifiquement que des ressources énergie soient dépensées afin de résoudre leurs effets.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -173,7 +173,7 @@
 		"id": "engage",
 		"term": "Engager",
 		"type": "official",
-		"content": "Lorsqu'un sbire entre en jeu dans la zone de jeu d'un joueur, il engage ce joueur. Sauf indication contraire, le sbire engage le joueur qui résout la carte rencontre actuelle.<ul><li>Un sbire engagé reste engagé avec le même joueur jusqu'à ce qu'il soit vaincu, retiré du jeu ou qu'une capacité le fasse engager un autre joueur.</li><li>Si une capacité demande à un joueur d'engager un sbire, ce sbire est également considéré comme ayant engagé ce joueur.</li><li>Tant qu'un sbire est engagé avec un joueur, les capacités de cartes ne peuvent pas forcer le sbire à s'engager à nouveau avec ce même joueur.</li></ul>",
+		"content": "<p>Lorsqu'un sbire entre en jeu dans la zone de jeu d'un joueur, il s'engage avec ce joueur.</p><p>Sauf indication contraire par le sbire ou par l'effet qui a mis le sbire en jeu, le sbire s'engage avec le joueur qui résout la carte rencontre actuelle.</p><ul><li>Un sbire engagé reste engagé avec le même joueur jusqu'à ce qu'il soit vaincu, retiré du jeu, ou qu'une capacité de carte l'amène à s'engager avec un autre joueur.</li><li>Si une capacité de carte demande à un joueur de s'engager avec un sbire, ce sbire est également considéré comme s'étant engagé avec ce joueur.</li><li>Tant qu'un sbire est engagé avec un joueur, les capacités de carte ne peuvent pas amener le sbire à s'engager de nouveau avec ce même joueur <em>(car les deux sont déjà engagés)</em>.</li></ul>",
 		"see_also": [
 			"ability",
 			"defeat",
@@ -186,7 +186,7 @@
 		"id": "enters_play",
 		"term": "Entrer en jeu",
 		"type": "official",
-		"content": "L'expression « entre en jeu » désigne tout moment où une carte passe d'une zone hors jeu à une zone en jeu. Jouer une carte, mettre une carte en jeu via une capacité, ou révéler une carte du deck rencontre sont autant de moyens par lesquels une carte peut entrer en jeu.",
+		"content": "<p>L'expression « entre en jeu » fait référence à tout moment où une carte passe d'une zone hors jeu en jeu. Jouer une carte, mettre une carte en jeu en utilisant une capacité de carte, ou révéler une carte du deck rencontre sont autant de moyens différents par lesquels une carte peut entrer en jeu.</p>",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"leaves_play",

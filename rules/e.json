@@ -87,7 +87,7 @@
 		"id": "encounter_set",
 		"term": "Encounter Set",
 		"type": "official",
-		"content": "<p>An encounter set is a grouping of encounter cards. Four types: scenario-specific, modular, the Standard set, and the Expert set.</p>\n<p>Sets with the same name but different set icons are distinct sets.</p>",
+		"content": "<p>An encounter set is a grouping of encounter cards.</p><ul><li>There are four types of encounter sets: scenario-specific encounter sets, modular encounter sets, the Standard set, and the Expert set.</li><li>Encounter sets with the same name but different set icons are considered distinct sets.</li></ul>",
 		"see_also": [
 			"classifications",
 			"expert_set",
@@ -116,7 +116,7 @@
 		"id": "enemy",
 		"term": "Enemy",
 		"type": "official",
-		"content": "<p>An enemy is a minion or villain. As a descriptor, 'enemy' refers to game elements belonging to the scenario ('enemy cards', 'enemy abilities', etc.).</p>",
+		"content": "<p>An enemy is a minion or villain.</p><p>When used as a descriptor, “enemy” refers to game elements that belong to the scenario: “enemy cards”, “enemy abilities” etc.</p>",
 		"see_also": [
 			"game_element",
 			"minion",
@@ -156,9 +156,9 @@
 	},
 	{
 		"id": "energy_resource",
-		"term": "Energy Resource",
+		"term": "Energy Resource (⚡)",
 		"type": "official",
-		"content": "<p>An energy resource is one of the four types of resources. Energy resources can be spent to pay resource costs of cards and abilities; some abilities specifically require energy resources.</p>",
+		"content": "<p>An energy resource (<span class=\"icon icon-energy\"></span>) is one of the four types of resources.</p><ul><li>Energy resources can be spent to pay the resource cost of cards and abilities.</li><li>Some card abilities specifically require energy resources to be spent in order to resolve their effects.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -173,7 +173,7 @@
 		"id": "engage",
 		"term": "Engage",
 		"type": "official",
-		"content": "<p>When a minion enters play in a player's play area, it engages that player, unless otherwise specified. An engaged minion remains engaged with that player until defeated, removed from play, or an ability causes it to engage another player.</p>\n<p>While engaged, a card ability cannot cause the minion to engage the same player again.</p>",
+		"content": "<p>When a minion enters play in a player’s play area, it engages that player.</p><p>Unless otherwise specified by the minion or by the effect that put the minion into play, the minion engages the player who is resolving the current encounter card.</p><ul><li>An engaged minion remains engaged with the same player until it is defeated, removed from play, or a card ability causes it to engage another player.</li><li>If a card ability instructs a player to engage a minion, that minion is also considered to have engaged that player.</li><li>While a minion is engaged with a player, card abilities cannot cause the minion to engage with the same player again <em>(as the two are already engaged)</em>.</li></ul>",
 		"see_also": [
 			"ability",
 			"defeat",
@@ -186,7 +186,7 @@
 		"id": "enters_play",
 		"term": "Enters Play",
 		"type": "official",
-		"content": "<p>The phrase 'enters play' refers to any time a card transitions from an out-of-play area into play — via playing, putting into play by ability, or revealing from the encounter deck.</p>",
+		"content": "<p>The phrase “enters play” refers to any time when a card transitions from an out-of-play area into play. Playing a card, putting a card into play by using a card ability, or revealing a card from the encounter deck are all different means by which a card may enter play.</p>",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"leaves_play",
