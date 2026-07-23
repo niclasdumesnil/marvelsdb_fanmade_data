@@ -140,9 +140,9 @@
 	},
 	{
 		"id": "double_sided_card",
-		"term": "Cartes Double-Face",
+		"term": "Carte double-face",
 		"type": "official",
-		"content": "Une carte est double-face si aucun de ses côtés ne possède un dos de carte (joueur, méchant ou rencontre).<ul><li>Lorsqu'une carte double-face devrait entrer dans une zone hors jeu autre que la pile de victoire ou la zone de mise de côté, elle est retirée de la partie.</li><li>Si une carte double-face possède les faces « Mode Standard Uniquement » et « Mode Expert Uniquement », elle est mise en jeu avec la face « Mode Expert Uniquement » visible si les joueurs jouent en mode expert. Sinon, la carte est mise en jeu avec la face « Mode Standard Uniquement » visible.</li></ul>",
+		"content": "<p>Une carte est double-face si aucun de ses côtés ne possède un dos de carte <em>(joueur, méchant ou rencontre)</em>.</p><ul><li>Lorsqu'une carte double-face devrait entrer dans une zone hors jeu autre que la pile de victoire ou la zone de mise de côté, elle est retirée de la partie.</li><li>Si une carte double-face possède les faces <b>« Mode Standard Uniquement »</b> et <b>« Mode Expert Uniquement »</b>, elle est mise en jeu avec la face <b>« Mode Expert Uniquement »</b> face visible si les joueurs jouent en mode expert. Sinon, la carte est mise en jeu avec la face <b>« Mode Standard Uniquement »</b> face visible.</li></ul>",
 		"see_also": [
 			"encounter_card",
 			"in_play_and_out_of_play",

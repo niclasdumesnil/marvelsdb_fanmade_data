@@ -142,7 +142,7 @@
 		"id": "double_sided_card",
 		"term": "Double-Sided Card",
 		"type": "official",
-		"content": "<p>A card is double-sided if neither side has a card back (player, villain, or encounter). If it would enter an out-of-play area other than the victory display or set-aside area, it is removed from the game.</p>\n<p>A card with 'Standard Mode Only' and 'Expert Mode Only' sides is put into play with the appropriate side faceup based on the mode being played.</p>",
+		"content": "<p>A card is double-sided if neither of its sides has a card back <em>(player, villain, or encounter)</em>.</p><ul><li>When a double-sided card would enter an out-of-play area other than the victory display or set-aside area, it is removed from the game.</li><li>If a double-sided card has <b>“Standard Mode Only”</b> and <b>“Expert Mode Only”</b> sides, it is put into play with the <b>“Expert Mode Only”</b> side faceup if the players are playing expert mode. Otherwise, the card is put into play with the <b>“Standard Mode Only”</b> side faceup.</li></ul>",
 		"see_also": [
 			"encounter_card",
 			"in_play_and_out_of_play",
