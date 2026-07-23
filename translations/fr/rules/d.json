@@ -70,9 +70,9 @@
 	},
 	{
 		"id": "defeat",
-		"term": "Vaincre, déjouer",
+		"term": "Vaincre",
 		"type": "official",
-		"content": "Lorsqu'un personnage a 0 point de vie ou moins, il est vaincu. Si un héros est vaincu, ce joueur est éliminé de la partie. Si un sbire ou un allié est vaincu, il est placé dans la pile de défausse appropriée. Si un stade du méchant est vaincu, le méchant passe au stade suivant.",
+		"content": "<p>Si un personnage a zéro point de vie ou moins, ou si une manigance annexe n'a plus de menace sur elle, il est vaincu.</p><ul><li>Si un allié, un sbire ou une manigance annexe est vaincu, il est défaussé.</li><li>Si une identité ou un stade du méchant est vaincu, il est retiré de la partie.</li></ul>",
 		"see_also": [
 			"ally",
 			"hit_points",

@@ -72,7 +72,7 @@
 		"id": "defeat",
 		"term": "Defeat",
 		"type": "official",
-		"content": "<p>If a character has zero or fewer remaining hit points, or a side scheme has no threat on it, it is defeated. If an ally, minion, or side scheme is defeated, it is discarded.</p>\n<p>If an identity or stage of the villain is defeated, it is removed from the game.</p>",
+		"content": "<p>If a character has zero or fewer remaining hit points, or if a side scheme has no threat on it, it is defeated.</p><ul><li>If an ally, minion, or side scheme is defeated, it is discarded.</li><li>If an identity or stage of the villain is defeated, it is removed from the game.</li></ul>",
 		"see_also": [
 			"ally",
 			"hit_points",
