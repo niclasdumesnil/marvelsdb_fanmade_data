@@ -49,7 +49,7 @@
 		"id": "referential_ability",
 		"term": "Capacité référentielle",
 		"type": "official",
-		"content": "Certaines capacités font référence à des cartes spécifiques par leur nom. Ce sont des capacités référentielles. Si une capacité fait référence à un titre partagé par plusieurs cartes dans le jeu, cette capacité ne fait référence qu'à la ou les cartes qui correspondent aux critères les plus élevés dans cette liste :<ol><li>La carte sur laquelle la capacité référentielle est imprimée. Une telle capacité est auto-référentielle.</li><li>Les cartes qui appartiennent à la même identité.</li><li>Les cartes joueur (si la capacité est sur une carte joueur) ou les cartes rencontre (si la capacité est sur une carte rencontre).</li></ol>",
+		"content": "<p>Certaines capacités font référence à des cartes spécifiques par leur nom. Ce sont des capacités référentielles. Si une capacité fait référence à un titre partagé par plusieurs cartes dans le jeu, cette capacité ne fait référence qu'à la ou les cartes qui correspondent aux critères les plus élevés dans cette liste :</p><ol><li>La carte sur laquelle la capacité référentielle est imprimée.<ul><li>Une telle capacité est une capacité auto-référentielle.</li><li><em>Par exemple, la capacité de l'allié de base Spider-Man indique : « <b>Réponse</b> : Après que Spider-Man a attaqué ou contré, choisissez un autre personnage <b>WEB-WARRIOR</b> → redressez ce personnage. » Cette capacité fait référence à la carte sur laquelle elle est imprimée et ne se déclenche pas lorsqu'une autre carte appelée « Spider-Man » attaque ou contre.</em></li></ul></li><li><mark class=\"new\">Les cartes associées à la même identité, y compris :</mark><ul><li><mark class=\"new\">La carte identité</mark></li><li><mark class=\"new\">Les cartes spécifiques à l'identité</mark></li><li><mark class=\"new\">Les cartes obligation de l'identité</mark></li><li><mark class=\"new\">Le set némésis de l'identité</mark></li><li><mark class=\"new\">Les cartes appartenant à un deck secondaire utilisé par l'identité.</mark></li></ul></li><li>Les cartes joueur <em>(si la capacité est sur une carte joueur)</em> ou les cartes rencontre <em>(si la capacité est sur une carte rencontre)</em>.</li></ol>",
 		"see_also": [
 			"ability",
 			"character",
@@ -60,9 +60,9 @@
 	},
 	{
 		"id": "remaining_hit_points",
-		"term": "Points de Vie Restants",
+		"term": "Points de vie restants",
 		"type": "official",
-		"content": "Les points de vie restants d'un personnage correspondent à la quantité de dégâts que ce personnage peut subir avant d'atteindre zéro point de vie.<ul><li>Le cadran de points de vie d'une identité ou d'un méchant représente ses points de vie restants.</li><li>Pour calculer les points de vie restants d'un allié ou d'un sbire, prenez les points de vie maximums du personnage (indiqués par sa valeur imprimée modifiée par toute capacité ou effet) et soustrayez ses dégâts subis (le nombre de jetons dégât sur lui).</li></ul>",
+		"content": "<p>Les points de vie restants d'un personnage correspondent à la quantité de dégâts que ce personnage peut subir avant d'atteindre zéro point de vie.</p><ul><li>Le cadran de points de vie d'une identité ou d'un méchant représente ses points de vie restants.</li><li>Pour calculer les points de vie restants d'un allié ou d'un sbire, prenez les points de vie maximums du personnage <em>(indiqués par sa valeur imprimée modifiée par toute capacité de carte ou effet de jeu)</em> et soustrayez ses dégâts subis <em>(le nombre de jetons dégât sur lui)</em>.</li></ul>",
 		"see_also": [
 			"hit_points",
 			"identity",
@@ -72,15 +72,15 @@
 	},
 	{
 		"id": "reminder_text",
-		"term": "Texte de Rappel",
+		"term": "Texte de rappel",
 		"type": "official",
-		"content": "Certaines capacités de carte peuvent inclure un texte de rappel. Le texte de rappel est en italique et entre parenthèses. Le texte de rappel n'a aucun effet sur le jeu et sert uniquement à rappeler à un joueur une fonction de jeu ou une règle spécifique."
+		"content": "<p>Certaines capacités de cartes peuvent inclure un texte de rappel. Le texte de rappel est en italique et entre parenthèses <em>(comme ceci)</em>. Le texte de rappel n'a aucun effet sur le jeu et sert uniquement à rappeler à un joueur une fonction de jeu ou une règle spécifique.</p>"
 	},
 	{
 		"id": "removed_from_the_game",
-		"term": "Retiré de la Partie",
+		"term": "Retiré de la partie",
 		"type": "official",
-		"content": "Une carte qui a été retirée de la partie est mise de côté et n'interagit en aucune façon avec la partie pendant la durée de son retrait. S'il n'y a pas de durée spécifiée, une carte retirée de la partie est considérée comme retirée jusqu'à la fin de la partie.<ul><li>« Retiré de la partie » est un état hors jeu.</li></ul>",
+		"content": "<p>Une carte qui a été retirée de la partie est mise de côté et n'interagit en aucune façon avec la partie pendant la durée de son retrait. S'il n'y a pas de durée spécifiée, une carte retirée de la partie est considérée comme retirée jusqu'à la fin de la partie.</p><ul><li>« Retiré de la partie » est un état hors jeu.</li><li><mark class=\"new\">Une carte qui a été retirée de la partie ne peut réintégrer la partie par aucun moyen.</mark></li></ul>",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"leaves_play"
@@ -88,9 +88,9 @@
 	},
 	{
 		"id": "replacement_effect",
-		"term": "Effets de remplacement",
+		"term": "Effet de remplacement",
 		"type": "official",
-		"content": "Un effet de remplacement remplace un effet spécifié par un effet différent. La plupart des effets de remplacement sont des capacités d'interruption au format « quand [condition de déclenchement] devrait se produire, faites [effet de remplacement] à la place. »<ul><li>Lorsqu'un effet est remplacé, il n'est plus considéré comme imminent et aucune autre interruption ou réponse à cet effet ne peut être déclenchée.</li></ul>",
+		"content": "<p>Un effet de remplacement remplace un effet spécifié par un effet différent. La plupart des effets de remplacement sont des capacités d'interruption au format « quand [condition de déclenchement] devrait se produire, faites [effet de remplacement] à la place. »</p><ul><li>Lorsqu'un effet est remplacé, il n'est plus considéré comme imminent et aucune autre interruption ou réponse à cet effet ne peut être déclenchée.</li></ul>",
 		"see_also": [
 			"ability",
 			"alteration_effect",
@@ -103,9 +103,9 @@
 	},
 	{
 		"id": "requirement_resources",
-		"term": "Exigence (Ressources)",
+		"term": "Exigence (ressources)",
 		"type": "official",
-		"content": "Une carte avec le mot-clé exigence ne peut être jouée que si chaque ressource du type spécifié est dépensée lors du paiement de son coût.<ul><li>Une carte avec le mot-clé exigence ne peut pas être jouée « en ignorant son coût en ressources » car les ressources exigées ne peuvent pas être payées.</li></ul>",
+		"content": "<p>Une carte avec le mot-clé exigence ne peut être jouée que si chaque ressource du type spécifié est dépensée lors du paiement du coût de cette carte.</p><ul><li><mark class=\"new\">Le mot-clé exigence (ressources) est équivalent à la capacité constante suivante : « Lors du paiement du coût en ressources de cette carte, vous devez dépenser les ressources suivantes : [ressources]. »</mark></li><li>Une carte avec le mot-clé exigence ne peut pas être jouée « en ignorant son coût en ressources » car les ressources exigées ne peuvent pas être payées.</li></ul>",
 		"see_also": [
 			"cost",
 			"initiating_abilities",
@@ -117,7 +117,7 @@
 		"id": "resolve",
 		"term": "Résoudre",
 		"type": "official",
-		"content": "Les effets, les capacités, les cartes événement et les cartes traîtrise sont chacun résolus sous des conditions spécifiques : un effet est résolu lorsqu'il est appliqué à l'état du jeu ; une capacité est résolue lorsqu'elle est déclenchée et que ses effets se résolvent ; un événement est résolu lorsqu'il est joué et que ses capacités se résolvent ; une traîtrise est résolue lorsqu'elle est révélée et que ses capacités se résolvent. Les capacités constantes ne sont jamais considérées comme résolues (elles sont toujours actives tant qu'elles sont en jeu).<ul><li>Les types de cartes autres que les événements et les traîtrises ne sont pas considérés comme résolus, bien que les capacités qu'ils portent puissent l'être.</li><li>Si tous les effets d'une capacité sont annulés, elle n'est pas considérée comme ayant été résolue.</li></ul>",
+		"content": "<p><mark class=\"new\">Les effets, les capacités, les cartes événement et les cartes traîtrise sont chacun résolus sous les conditions suivantes :</mark></p><ul><li><mark class=\"new\">Un effet est résolu lorsqu'il est appliqué à l'état du jeu.</mark></li><li><mark class=\"new\">Une capacité est résolue lorsqu'elle est déclenchée et qu'un ou plusieurs de ses effets se résolvent.</mark></li><li><mark class=\"new\">Une carte événement est résolue lorsqu'elle est jouée et qu'une ou plusieurs de ses capacités se résolvent.</mark></li><li><mark class=\"new\">Une carte traîtrise est résolue lorsqu'elle est révélée et qu'une ou plusieurs de ses capacités se résolvent.</mark></li><li><mark class=\"new\">Les capacités constantes ne sont jamais considérées comme résolues. Elles sont toujours actives tant que la carte sur laquelle elles se trouvent est en jeu.</mark></li><li><mark class=\"new\">Les types de cartes autres que les événements et les traîtrises ne sont pas considérés comme résolus, bien que les capacités sur ces autres types de cartes puissent être résolues.</mark></li><li><mark class=\"new\">Si tous les effets d'une capacité sont annulés, cette capacité n'est pas considérée comme ayant été résolue.</mark></li><li><mark class=\"new\">Si toutes les capacités d'un événement ou d'une traîtrise sont annulées, cette carte n'est pas considérée comme ayant été résolue.</mark></li></ul>",
 		"whats_new": "Page 37 : Ajout de la définition de « résoudre ».",
 		"see_also": [
 			"ability",
@@ -130,7 +130,7 @@
 		"id": "resource",
 		"term": "Ressource",
 		"type": "official",
-		"content": "Les ressources sont utilisées pour payer le coût des cartes à jouer et de certaines capacités.<ul><li>Un joueur peut générer des ressources pour payer un coût en défaussant des cartes de sa main (les ressources générées sont indiquées dans le coin inférieur gauche de la carte), ou en utilisant des capacités générant des ressources.</li><li>Il y a quatre types de ressources dans le jeu : énergie, mentale, physique, et libre. Les ressources libres peuvent être utilisées comme leur propre type ou n'importe quel autre type.</li><li>Pour payer le coût d'une carte, un nombre de ressources égal (ou supérieur) à ce coût doit être généré. N'importe quel type de ressources peut être utilisé pour ce coût.</li><li>Si une capacité a un coût en ressources, le nombre de ressources doit être généré. De nombreuses capacités requièrent des types spécifiques, qui doivent être générés en quantité spécifiée.</li><li>Les ressources générées en excès sont perdues et ne sont pas reportées.</li></ul>",
+		"content": "<p>Les ressources sont utilisées pour payer le coût pour jouer des cartes et pour payer certains coûts de capacités.</p><ul><li>Un joueur peut générer des ressources pour payer un coût en défaussant des cartes de sa main pour générer la ou les ressources indiquées dans le coin inférieur gauche de la carte, ou en utilisant des capacités de cartes qui génèrent des ressources.</li><li>Il y a quatre types de ressources dans le jeu : énergie (<span class=\"icon icon-energy\"></span>), mentale (<span class=\"icon icon-mental\"></span>), physique (<span class=\"icon icon-physical\"></span>), et libre (<span class=\"icon icon-wild\"></span>). Les ressources libres peuvent être utilisées comme leur propre type ou n'importe quel autre type.</li><li>Pour payer le coût de jeu d'une carte, un nombre de ressources égal à <em>(ou supérieur à)</em> ce coût doit être généré. Pour la plupart des cartes, n'importe quel type <em>(ou mélange de types)</em> de ressources peut être utilisé pour payer ce coût.</li><li>Si une capacité a un coût en ressources, un nombre de ressources égal ou supérieur à ce coût doit être généré. De nombreuses capacités nécessitent des types de ressources spécifiques, et les types spécifiés dans les quantités spécifiées doivent être générés afin de payer le coût de la capacité.</li><li>Les ressources générées en excès sont perdues et ne sont pas reportées sur de futurs coûts.</li></ul>",
 		"see_also": [
 			"cost",
 			"energy_resource",
@@ -144,7 +144,7 @@
 		"id": "resource_ability",
 		"term": "Ressource (capacité)",
 		"type": "official",
-		"content": "Une capacité de ressource est un type de capacité déclenchée, indiquée par le déclencheur « <b>Ressource </b>».<ul><li>Une capacité de ressource peut être déclenchée chaque fois que le joueur qui la contrôle génère des ressources pour payer un coût. Une capacité qui génère une ressource uniquement pour un type de coût spécifique ne peut pas être déclenchée lors du paiement d'un coût qui n'est pas de ce type.</li></ul>",
+		"content": "<p>Une capacité de ressource est un type de capacité déclenchée, indiquée par le déclencheur « <b>Ressource</b> » en gras.</p><ul><li>Une capacité de ressource peut être déclenchée chaque fois que le joueur qui contrôle la capacité génère des ressources pour payer un coût.<ul><li>Une capacité de ressource qui génère une ressource uniquement pour un type de coût spécifique ne peut pas être déclenchée lors du paiement d'un coût qui n'est pas de ce type. <em>(Par exemple, une capacité de ressource qui génère une ressource pour une carte d'affinité ne peut pas être déclenchée lors du paiement d'une carte qui n'est pas d'affinité.)</em></li></ul></li></ul>",
 		"see_also": [
 			"cost",
 			"resource",
