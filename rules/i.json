@@ -79,7 +79,7 @@
 		"id": "in_player_order",
 		"term": "In Player Order",
 		"type": "official",
-		"content": "<p>If players perform a sequence 'in player order,' the first player performs their part first, followed by others in clockwise order. If it doesn't conclude after one full pass, it continues clockwise until complete. 'Next player' refers to the next clockwise player.</p>",
+		"content": "<p>If players are instructed to perform a sequence “in player order,” the first player performs their part of the sequence first, followed by the other players in clockwise order.</p><ul><li>If a sequence performed in player order does not conclude after each player has performed their part of the sequence once, the sequence of opportunities continues in a clockwise manner until it is complete.</li><li>The phrase “next player” always refers to the next <em>(clockwise)</em> player in player order.</li></ul>",
 		"see_also": [
 			"find",
 			"player",
@@ -91,7 +91,7 @@
 		"id": "incite_x",
 		"term": "Incite X",
 		"type": "official",
-		"content": "<p>When a card with the incite X keyword is revealed, place X threat on the main scheme.</p>\n<ul><li>Equivalent to a triggered ability:<blockquote>When Revealed: Place X threat on the main scheme.</blockquote></li></ul>",
+		"content": "<p>When a card with the incite X keyword is revealed, place X threat on the main scheme. <em>(X is the value next to the incite keyword.)</em></p><ul><li><mark class=\"new\">The incite X keyword is equivalent to the following triggered ability: “<b>When Revealed:</b> Place X threat on the main scheme.”</mark></li></ul>",
 		"see_also": [
 			"keywords",
 			"main_scheme",
@@ -104,7 +104,7 @@
 		"id": "indirect_damage",
 		"term": "Indirect Damage",
 		"type": "official",
-		"content": "<ul><li>Some card abilities deal 'indirect damage.' Dealt to a player, it can be divided among characters they control; dealt to a group of players, divided among friendly characters in play.</li><li>All indirect damage from a single source is first assigned then resolved simultaneously; while assigning, a character cannot be assigned more than would defeat it (assessed without other ability interactions).</li><li>A tough status card character can be assigned indirect damage up to remaining hit points, prevented by the tough card. Characters that cannot take damage cannot be assigned indirect damage; if it cannot be assigned to any controlled character, it's ignored.</li><li>If an enemy attack deals indirect damage, it's dealt during step four of the activation (after defense opportunity).</li></ul>",
+		"content": "<p>Some card abilities may deal “indirect damage.”</p><ul><li>Indirect damage dealt to a player can be divided as that player chooses among characters under their control.</li><li>Indirect damage dealt to a group of players <em>(or among players)</em> can be divided as the group chooses among friendly characters in play.</li><li>All indirect damage from a single source is first assigned and then resolved simultaneously.<ul><li>While assigning indirect damage, a character cannot be assigned more indirect damage than would cause it to be defeated. This is assessed without accounting for interactions with other abilities.</li><li>A character with a tough status card can be assigned indirect damage up to its remaining hit points, and all damage assigned to it is prevented by its tough status card.</li></ul></li><li>Characters that cannot take damage cannot be assigned indirect damage.<ul><li>If indirect damage dealt to a player cannot be assigned to any character that player controls, that damage is ignored.</li></ul></li><li>If an enemy’s attack deals indirect damage, the indirect damage is dealt during step four of the enemy activation <em>(after player’s have the opportunity to defend against the attack)</em>.<ul><li>Only the defending character, or the attacked player’s identity if the attack was undefended, is considered to have been attacked, even if other characters were assigned some or all of the indirect damage.</li></ul></li><li><em>For example, if you take 5 indirect damage, but you control an ally with 4 hit points remaining, you may assign 4 of that indirect damage to the ally, then assign the remaining 1 indirect damage to your identity.</em></li></ul>",
 		"see_also": [
 			"ally",
 			"attack_enemy_activation",
