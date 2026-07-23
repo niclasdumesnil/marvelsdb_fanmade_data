@@ -3,13 +3,13 @@
 		"id": "qualifiers",
 		"term": "Qualificatifs",
 		"type": "official",
-		"content": "Si le texte d'une capacité inclut un qualificatif suivi de plusieurs termes, le qualificatif s'applique à chaque élément de la liste, le cas échéant. Par exemple, dans la phrase « chaque personnage et attachement redressé », le mot « redressé » s'applique à la fois au « personnage » et à l'« attachement »."
+		"content": "<p>Si le texte d'une capacité inclut un qualificatif suivi de plusieurs termes, le qualificatif s'applique à chaque élément de la liste, le cas échéant. <em>Par exemple, dans la phrase « chaque personnage et attachement redressé », le mot « redressé » s'applique à la fois au « personnage » et à l'« attachement ».</em></p>"
 	},
 	{
 		"id": "quickstrike",
 		"term": "Coup rapide",
 		"type": "official",
-		"content": "Après qu'un sbire avec le mot-clé coup rapide engage un joueur dont l'identité est sous forme de héros, ce sbire attaque ce joueur.",
+		"content": "<p>Après qu'un sbire avec le mot-clé coup rapide engage un joueur dont l'identité est sous forme de héros, ce sbire attaque ce joueur.</p><ul><li><mark class=\"new\">Le mot-clé coup rapide est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée (Héros)</b> : Après que ce sbire a engagé un joueur, il attaque ce joueur. »</mark></li><li><mark class=\"new\">Si un sbire avec le mot-clé coup rapide est révélé, le mot-clé coup rapide se résout après que toutes les capacités « <b>Une fois révélé</b> » de ce sbire sont résolues.</mark></li></ul>",
 		"see_also": [
 			"attack_enemy_activation",
 			"engage",

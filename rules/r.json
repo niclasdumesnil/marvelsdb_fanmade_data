@@ -3,7 +3,7 @@
 		"id": "ranged",
 		"term": "Ranged",
 		"type": "official",
-		"content": "<p>An attack with the ranged keyword ignores the retaliate keyword.</p>\n<ul><li>Equivalent to:<blockquote>This attack ignores the retaliate keyword.</blockquote></li></ul>",
+		"content": "<p>An attack with the ranged keyword ignores the retaliate keyword.</p><ul><li><mark class=\"new\">The ranged keyword is equivalent to the following ability: “This attack ignores the retaliate keyword.”</mark></li></ul>",
 		"see_also": [
 			"attack_enemy_activation",
 			"attack_player_ability_type",
@@ -16,7 +16,7 @@
 		"id": "ready",
 		"term": "Ready",
 		"type": "official",
-		"content": "<p>Cards enter play in a ready state, positioned so their controller can read text left to right. If instructed to ready an exhausted card, it returns to ready state.</p>\n<p>If readying has an additional cost, the player can choose not to pay it, in which case the card does not ready.</p>",
+		"content": "<p>Cards enter play in a ready state, positioned so that their controller can read their text from left to right.</p><ul><li>If a player is instructed to ready an exhausted card, the card is returned to its ready state.<ul><li>If there is an additional cost for a player to ready a card, that player can choose not to pay that cost. If they do not pay the cost, the card does not ready.</li></ul></li></ul>",
 		"see_also": [
 			"enters_play",
 			"exhausted"
@@ -36,7 +36,7 @@
 		"id": "recover_recovery",
 		"term": "Recover, Recovery",
 		"type": "official",
-		"content": "<p>Recovery is a basic power a player can use in alter-ego form. To recover, the player exhausts their alter-ego and heals a number of hit points equal to their REC value.</p>\n<p>An identity with no damage to heal cannot perform a basic recovery.</p>",
+		"content": "<p><mark class=\"new\">Recovery</mark> is a basic power a player can use in alter-ego form. To recover, the player exhausts their alter-ego and heals a number of hit points equal to their REC value.</p><ul><li>An identity that has no damage to heal cannot perform a basic recovery.</li></ul>",
 		"see_also": [
 			"basic_power",
 			"form_change_form",

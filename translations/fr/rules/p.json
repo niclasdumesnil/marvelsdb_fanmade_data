@@ -264,7 +264,7 @@
 		"id": "players_play_area",
 		"term": "Zone de jeu du joueur",
 		"type": "official",
-		"content": "<ul><li>La zone de jeu d'un joueur (aussi appelée « aire de jeu du joueur ») est l'endroit où se trouvent sa carte identité, son deck, sa main, sa pile de défausse et son cadran de points de vie. Les cartes allié, soutien et amélioration y sont placées lorsqu'elles entrent en jeu. Les cartes attachement attachées à des cartes dans la zone de jeu du méchant ne sont pas dans la zone de jeu du joueur. Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur, pas dans celle du méchant. Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur.</li><li>Si un joueur est éliminé, sa zone de jeu est retirée de la partie.</li></ul>",
+		"content": "<p>La zone de jeu d'un joueur <em>(parfois aussi appelée « aire de jeu du joueur »)</em> est la zone de jeu où se trouvent sa carte identité, son deck, sa main, sa pile de défausse et son cadran de points de vie. Chaque joueur dans la partie possède sa propre zone de jeu.</p><ul><li>Les cartes allié, soutien et amélioration sont placées dans la zone de jeu d'un joueur lorsqu'elles entrent en jeu.</li><li>Les cartes attachement attachées à des cartes dans la zone de jeu du méchant ne sont pas dans la zone de jeu du joueur.</li><li>Les cartes sbire engagées avec un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</li><li>Les cartes obligation données à un joueur sont dans la zone de jeu de ce joueur et non dans la zone de jeu du méchant.</li><li>Bien que les capacités de cartes puissent affecter des cartes à travers les zones de jeu, sauf indication contraire d'une règle de jeu ou d'une capacité de carte, les cartes ne peuvent pas être jouées dans la zone de jeu d'un autre joueur.</li><li>Si un joueur est éliminé de la partie <em>(par la défaite de son identité ou autrement)</em>, sa zone de jeu est retirée de la partie.</li></ul>",
 		"see_also": [
 			"ally",
 			"discard_pile",
@@ -282,7 +282,7 @@
 		"id": "playing_cards",
 		"term": "Jouer des cartes",
 		"type": "official",
-		"content": "Voir : Initier des Capacités, Jouer des cartes",
+		"content": "<p>Voir : Initier des capacités.</p>",
 		"see_also": [
 			"initiating_abilities"
 		]
@@ -291,7 +291,7 @@
 		"id": "prevent",
 		"term": "Prévenir",
 		"type": "official",
-		"content": "Certaines capacités de carte préviennent les dégâts ou la menace.<ul><li>Lorsque des dégâts sont prévenus, réduisez la quantité de dégâts que la cible subit (c'est-à-dire la quantité de dégâts placée sur la cible).</li><ul><li>Lorsqu'un effet prévient les dégâts infligés à un personnage, la quantité de dégâts que ce personnage « subit » est réduite, mais la quantité de dégâts « infligés » n'est pas réduite.</li><li>Si un effet prévient tous les dégâts infligés à un personnage, ce personnage n'est pas considéré comme ayant subi des dégâts.</li><li>Si tous les dégâts d'une attaque sont prévenus, le personnage attaquant est considéré comme ayant infligé des dégâts, mais n'est pas considéré comme ayant « attaqué et blessé » le personnage attaqué.</li><li>Si infliger des dégâts est un coût, ce coût est considéré comme payé même si tout ou partie de ces dégâts est prévenu.&nbsp;</li><li>Si subir des dégâts est un coût, ce coût n'est pas considéré comme payé à moins que tous ces dégâts n'aient été subis. (Si n'importe quelle quantité des dégâts est prévenue, alors le coût n'a pas été payé.)</li></ul><li>Lorsque de la menace est prévenue, réduisez la quantité de menace assignée avant qu'elle ne soit placée sur la manigance.</li></ul>",
+		"content": "<p>Certaines capacités de cartes préviennent les dégâts ou la menace.</p><ul><li>Lorsque des dégâts sont prévenus, réduisez la quantité de dégâts que la cible subit <em>(c'est-à-dire la quantité de dégâts placée sur la cible)</em>.<ul><li>Lorsqu'un effet prévient les dégâts infligés à un personnage, la quantité de dégâts que ce personnage « subit » est réduite, mais la quantité de dégâts « infligés » n'est pas réduite.</li><li>Si un effet prévient tous les dégâts infligés à un personnage, ce personnage n'est pas considéré comme ayant subi des dégâts.</li><li>Si tous les dégâts d'une attaque sont prévenus, le personnage attaquant est considéré comme ayant infligé des dégâts, mais n'est pas considéré comme ayant « attaqué et blessé » le personnage attaqué.</li><li>Si infliger des dégâts est un coût, ce coût est considéré comme payé même si tout ou partie de ces dégâts est prévenu.</li><li>Si subir des dégâts est un coût, ce coût n'est pas considéré comme payé à moins que tous ces dégâts n'aient été subis. <em>(Si n'importe quelle quantité des dégâts est prévenue, alors le coût n'a pas été payé.)</em></li></ul></li><li>Lorsque de la menace est prévenue, réduisez la quantité de menace assignée avant qu'elle ne soit placée sur la manigance.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -305,7 +305,7 @@
 		"id": "printed",
 		"term": "Imprimé",
 		"type": "official",
-		"content": "Le mot « imprimé » fait référence au texte, à la caractéristique ou à la valeur physiquement imprimée sur la carte.<ul><li>Si un joueur doit payer un coût en utilisant des « ressources imprimées », il peut utiliser des ressources générées par la capacité d'une carte, tant que la ou les icônes des ressources générées par cette carte sont imprimées dans sa boîte de texte.</li><ul><li>Les ressources libres (<span class=\"icon-wild\"></span>) ne peuvent pas être dépensées comme d'autres types de ressources pour un tel coût.</li></ul></ul>",
+		"content": "<p>Le mot « imprimé » fait référence au texte, à la caractéristique ou à la valeur physiquement imprimée sur la carte.</p><ul><li>Si un joueur doit payer un coût en utilisant des « ressources imprimées », il peut utiliser des ressources générées par la capacité d'une carte, tant que la ou les icônes des ressources générées par cette carte sont imprimées dans sa boîte de texte.<ul><li>Les ressources libres (<span class=\"icon icon-wild\"></span>) ne peuvent pas être dépensées comme d'autres types de ressources pour un tel coût.</li></ul></li></ul>",
 		"see_also": [
 			"base_value",
 			"modifiers"
