@@ -746,7 +746,7 @@
         "quantity": 2,
         "resource_mental": 1,
         "set_code": "echo_by_ffg",
-        "set_position": 2,
+        "set_position": 4,
         "status": "released",
         "text": "[star] If you are in hero form, you can discard Photographic Reflexes from your hand to play an event tucked under Echo as if it were in your hand. Reduce the cost to play that event by 2. You cannot trigger Echo's \"Watch and Learn\" ability for that event.",
         "type_code": "event"
@@ -766,7 +766,7 @@
         "quantity": 2,
         "resource_physical": 1,
         "set_code": "echo_by_ffg",
-        "set_position": 2,
+        "set_position": 6,
         "status": "released",
         "text": "[star] If you are in hero form, you can discard Photographic Reflexes from your hand to play an event tucked under Echo as if it were in your hand. Reduce the cost to play that event by 2. You cannot trigger Echo's \"Watch and Learn\" ability for that event.",
         "type_code": "event"
