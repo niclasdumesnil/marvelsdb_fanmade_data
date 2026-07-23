@@ -3,7 +3,7 @@
 		"id": "nemesis_encounter_set",
 		"term": "Nemesis Encounter Set",
 		"type": "official",
-		"content": "<ul><li>Each identity comes with an associated nemesis encounter set. At the start of the game, each player sets aside the cards from their associated nemesis set, out of play; cards from the encounter deck may instruct how to bring the nemesis set into play.</li><li>A nemesis set is a subset of an identity-specific set and may only be used alongside an identity sharing a set icon.</li><li>An identity's 'nemesis minion' is the minion belonging to that nemesis set (designated by parenthetical text if multiple minions exist); its 'nemesis side scheme' is the side scheme belonging to that set.</li></ul>",
+		"content": "<p>Each identity in the game comes with an associated nemesis encounter set. At the start of the game, each player sets aside the cards from their associated nemesis set, out of play. Cards drawn from the encounter deck may instruct the player on how to bring their nemesis set into play.</p><ul><li>A nemesis encounter set is a subset of an identity-specific set.</li><li>A nemesis set cards may only be used alongside an identity if those cards share a set icon with that identity.</li><li>An identity’s “nemesis minion” is the minion belonging to that identity’s nemesis set.<ul><li>If a nemesis set has multiple minions in it, the “nemesis minion” is designated by parenthetical text printed on one or more of those minions.</li></ul></li><li>An identity’s “nemesis side scheme” is the side scheme belonging to that identity’s nemesis set.</li></ul>",
 		"see_also": [
 			"identity",
 			"identity_specific_card",
@@ -15,7 +15,7 @@
 		"id": "non_numerical_variable",
 		"term": "Non-Numerical Variable",
 		"type": "official",
-		"content": "<p>If a non-numerical variable (letter or other symbol) is defined to have a numerical value, treat that variable as the defined value. If undefined (e.g. blanked), treat it as 0.</p>\n<p>For costs involving X, the value is defined by card ability or player choice; after which the amount paid may be modified by effects without changing the value of X.</p>",
+		"content": "<p>If a non-numerical variable <em>(such as a letter or other symbol)</em> is defined to have a numerical value <em>(such as a card ability assigning a value to ‘X’)</em>, treat that variable as the defined value. If the variable is not defined <em>(for instance, if the ability defining it has been blanked)</em>, treat that variable as being equal to 0.</p><ul><li>For costs involving the letter X, the value of X is defined by card ability or player choice, after which the amount paid may be modified by effects without changing the value of X.</li></ul>",
 		"see_also": [
 			"base_value",
 			"dash_value",
