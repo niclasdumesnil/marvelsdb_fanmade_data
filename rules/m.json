@@ -1,9 +1,26 @@
 [
 	{
+		"id": "main_scheme",
+		"term": "Main Scheme, Main Scheme Deck",
+		"type": "official",
+		"content": "<p>Main scheme is an encounter card type. The main scheme represents the villain’s primary objective.</p><ul><li>During step one of the villain phase, place the amount of threat indicated in the main scheme’s acceleration field <em>(bottom-right corner)</em> on that scheme. This value is modified by all active acceleration tokens and icons.</li><li>If the amount of threat on a main scheme is equal to or greater than its target threat value, that main scheme is completed and the main scheme deck advances.<ul><li><b>If the villain completes the final stage of the main scheme deck, the villain wins the game.</b></li><li>If the main scheme advances other than through having threat on it equal to or greater than its target threat value, that main scheme is <b>not</b> considered completed.</li></ul></li><li>When the main scheme deck advances, follow these steps:<ol><li>Remove the top main scheme card from the game. Return all tokens <em>(except acceleration tokens)</em> that were on that card to the token pool and discard each card attached to it.</li><li>Resolve any <b>“When Revealed”</b> ability on the “A” side of the new top card of the main scheme deck.</li><li>Flip the top card of the main scheme deck to its “B” side, place threat on that card equal to its starting threat value, and resolve any <b>“When Revealed”</b> ability on that side of the card.</li></ol></li><li>When the main scheme deck advances, excess threat from the previous stage does not carry over to the new stage.</li><li>When the main scheme deck advances, acceleration tokens on it carry over to the new stage.</li><li>Main scheme cards cannot be discarded from play.</li></ul>",
+		"see_also": [
+			"acceleration_icon",
+			"acceleration_token",
+			"card_types",
+			"encounter_card",
+			"removed_from_the_game",
+			"target_threat",
+			"threat",
+			"villain",
+			"villain_phase"
+		]
+	},
+	{
 		"id": "max_maximum",
 		"term": "Max, Maximum",
 		"type": "official",
-		"content": "<p>'Max' and 'maximum' impose a maximum across all copies of a card (by title) for all players. 'Max X per [period]' limits plays during a period (canceled cards still count). 'Max X per deck' restricts copies per player deck. 'Max 1 per player' restricts copies each player may control in play (cannot take control of another copy already controlled). 'Max 1 per [game element]' restricts copies attached to each indicated element. 'Max 1 per [instance]' restricts triggers per single triggering instance across all copies. '(to a maximum of [value])' imposes a maximum on that ability for its duration.</p>",
+		"content": "<p>The words “max” and “maximum” impose a maximum across all copies of a card <em>(by title)</em> for all players.</p><ul><li>“Max X per [period]” imposes a maximum number of times that copies of that card can be played during the designated time period.<ul><li>If a card with a maximum is canceled, the card is still counted toward the maximum.</li></ul></li><li>“Max X per deck” restricts the number of copies of that card that may be included in each player deck.</li><li>“Max 1 per player” is player specific, and restricts the number of copies of that card that each player may control in play at a given time.<ul><li>A player cannot take control of another copy of a “Max 1 per player” card they already control.</li></ul></li><li>“Max 1 per [game element]” restricts the number of copies of that card that can be attached to each indicated game element. <em>(For example, if an upgrade is “Max 1 per ally,” an ally can have at most one copy of that upgrade attached.)</em></li><li>“Max 1 per [instance]” restricts the number of times an ability can be triggered by a single instance of a triggering effect across all copies of the card with the maximum. <em>(For example, if an ability has the text “(Max 1 per event.),” only one card with that ability can be triggered per event played.)</em></li><li>The parenthetical “(to a maximum of [value])” within an ability imposes a maximum on that for the duration of that ability.</li></ul>",
 		"see_also": [
 			"cancel",
 			"limit",
@@ -29,16 +46,16 @@
 		"id": "may",
 		"term": "May",
 		"type": "official",
-		"content": "<p>The word 'may' indicates a specified player has the option to resolve the text that follows. If no player is specified, the option is granted to the controller of the card with the ability.</p>",
+		"content": "<p>The word “may” indicates that a specified player has the option to resolve the text that follows. If no player is specified, the option is granted to the controller of the card with the ability in question.</p>",
 		"see_also": [
 			"player"
 		]
 	},
 	{
 		"id": "mental_resource",
-		"term": "Mental Resource",
+		"term": "Mental Resource (<span class=\"icon icon-mental\"></span>)",
 		"type": "official",
-		"content": "<p>A mental resource is one of the four types of resources. Mental resources can be spent to pay resource costs; some card abilities specifically require them.</p>",
+		"content": "<p>A mental resource (<span class=\"icon icon-mental\"></span>) is one of the four types of resources.</p><ul><li>Mental resources can be spent to pay the resource cost of cards and abilities.</li><li>Some card abilities specifically require mental resources to be spent in order to resolve their effects.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -53,7 +70,7 @@
 		"id": "minion",
 		"term": "Minion",
 		"type": "official",
-		"content": "<p>Minion is an encounter card type representing supporters of the villain and/or enemies of the heroes.</p>\n<ul><li>If a minion enters play, it engages the player revealing/putting it into play, unless specified otherwise.</li><li>If it enters play, it remains until a card ability/game effect causes it to leave; zero or fewer hit points defeats and discards it. Minions engaged with a player activate (one at a time, in the engaged player's chosen order) during step two of the villain phase, after the villain activates.</li><li>If a minion engages a player during an activation in which all minions engaged with that player are instructed to activate, the newly-engaged minion also activates.</li></ul>",
+		"content": "<p>Minion is an encounter card type. Minions represent supporters of the villain and/or enemies of the heroes.</p><p>If a minion enters play, it engages the player who is revealing the card from the encounter deck or resolving the ability that put the minion into play, unless an ability specifies otherwise.</p><ul><li>If a minion enters play, it remains in play until a card ability or game effect causes it to leave play.</li><li>If a minion has zero or fewer remaining hit points, it is defeated and discarded.</li><li>Minions engaged with a player activate <em>(one minion at a time and in an order of the engaged player’s choosing)</em> during step two of the villain phase, after the villain activates. If the engaged player is in hero form, these minions attack. If the engaged player is in alter-ego form, these minions scheme.</li><li>If a minion engages a player during an enemy activation in which all minions engaged with that player are instructed to activate <em>(such as through a “Boost” ability during step two of the villain phase)</em>, the newly-engaged minion will also activate.</li></ul>",
 		"see_also": [
 			"card_types",
 			"encounter_card",

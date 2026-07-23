@@ -3,13 +3,24 @@
 		"id": "main_scheme",
 		"term": "Manigance principale, deck manigance principale",
 		"type": "official",
-		"content": "<div><b><i><red>A modifier</red></i></b></div>La manigance principale est un type de carte rencontre. Elle représente l'objectif principal du méchant.<ul><li>Lors de l'étape un de la phase du méchant, placez sur cette manigance la quantité de menace indiquée dans le champ d'accélération (coin inférieur droit).</li><li>Si la quantité de menace sur une manigance principale est égale ou supérieure à sa valeur de menace cible, cette manigance est achevée et le deck manigance principale avance.</li><li>Si le méchant achève le stade final du deck manigance principale, il gagne la partie.</li><li>Lorsque le deck manigance principale avance, la menace en excès du stade précédent n'est pas reportée sur le nouveau stade.</li><li>Lorsque le deck manigance principale avance, les pions accélération présents sont reportés sur le nouveau stade.</li><li>Les cartes manigance principale ne peuvent pas être défaussées du jeu.</li></ul>"
+		"content": "<p>Manigance principale est un type de carte rencontre. La manigance principale représente l'objectif principal du méchant.</p><ul><li>Pendant l'étape un de la phase du méchant, placez la quantité de menace indiquée dans le champ d'accélération de la manigance principale <em>(coin inférieur droit)</em> sur cette manigance. Cette valeur est modifiée par tous les pions et icônes d'accélération actifs.</li><li>Si la quantité de menace sur une manigance principale est égale ou supérieure à sa valeur de menace cible, cette manigance principale est achevée et le deck manigance principale avance.<ul><li><b>Si le méchant achève le stade final du deck manigance principale, le méchant gagne la partie.</b></li><li>Si le deck manigance principale avance d'une autre manière qu'en ayant une menace égale ou supérieure à sa valeur de menace cible, cette manigance principale n'est <b>pas</b> considérée comme achevée.</li></ul></li><li>Lorsque le deck manigance principale avance, suivez ces étapes :<ol><li>Retirez la carte du dessus de la manigance principale de la partie. Renvoyez tous les jetons <em>(sauf les pions accélération)</em> présents sur cette carte dans la réserve de jetons et défaussez chaque carte qui lui est attachée.</li><li>Résolvez toute capacité <b>« Une fois révélée »</b> sur le côté « A » de la nouvelle carte du dessus du deck manigance principale.</li><li>Retournez la carte du dessus du deck manigance principale sur son côté « B », placez de la menace sur cette carte égale à sa valeur de menace de départ, et résolvez toute capacité <b>« Une fois révélée »</b> sur ce côté de la carte.</li></ol></li><li>Lorsque le deck manigance principale avance, la menace en excès du stade précédent ne se reporte pas sur le nouveau stade.</li><li>Lorsque le deck manigance principale avance, les pions accélération présents dessus se reportent sur le nouveau stade.</li><li>Les cartes manigance principale ne peuvent pas être défaussées du jeu.</li></ul>",
+		"see_also": [
+			"acceleration_icon",
+			"acceleration_token",
+			"card_types",
+			"encounter_card",
+			"removed_from_the_game",
+			"target_threat",
+			"threat",
+			"villain",
+			"villain_phase"
+		]
 	},
 	{
 		"id": "max_maximum",
-		"term": "Max, Maximum",
+		"term": "Max, maximum",
 		"type": "official",
-		"content": "<div><b><i><red>A modifier</red></i></b></div>Les mots « max » et « maximum » imposent un maximum pour l'ensemble des exemplaires d'une carte (par titre) pour tous les joueurs.<ul><li>« Max X par [période] » impose un nombre maximum de fois où des exemplaires de cette carte peuvent être joués durant la période désignée. Si une carte avec un maximum est annulée, elle compte tout de même dans la limite du maximum.</li><li>« Max X par deck » restreint le nombre d'exemplaires de cette carte pouvant être inclus dans le deck de chaque joueur.</li><li>« Max 1 par joueur » est spécifique au joueur, et limite à un le nombre d'exemplaires qu'un joueur peut contrôler en jeu à un instant donné.</li><li>« Max 1 par [élément de jeu] » limite à un le nombre d'exemplaires pouvant être attachés à cet élément.</li><li>« Max 1 par [instance] » limite le nombre de fois où une capacité peut être déclenchée par une seule instance d'un effet déclencheur.</li><li>La mention « (jusqu'à un maximum de [valeur]) » dans une capacité impose un plafond à cette capacité pour sa durée.</li></ul>",
+		"content": "<p>Les mots « max » et « maximum » imposent un maximum sur l'ensemble des exemplaires d'une carte <em>(par titre)</em> pour tous les joueurs.</p><ul><li>« Max X par [période] » impose un nombre maximum de fois où des exemplaires de cette carte peuvent être joués pendant la période désignée.<ul><li>Si une carte avec un maximum est annulée, la carte compte tout de même dans le maximum.</li></ul></li><li>« Max X par deck » restreint le nombre d'exemplaires de cette carte pouvant être inclus dans le deck de chaque joueur.</li><li>« Max 1 par joueur » est spécifique au joueur et restreint le nombre d'exemplaires de cette carte que chaque joueur peut contrôler en jeu à un moment donné.<ul><li>Un joueur ne peut pas prendre le contrôle d'un autre exemplaire d'une carte « Max 1 par joueur » qu'il contrôle déjà.</li></ul></li><li>« Max 1 par [élément de jeu] » restreint le nombre d'exemplaires de cette carte pouvant être attachés à chaque élément de jeu indiqué. <em>(Par exemple, si une amélioration est « Max 1 par allié », un allié peut avoir au plus un exemplaire de cette amélioration attachée.)</em></li><li>« Max 1 par [instance] » restreint le nombre de fois où une capacité peut être déclenchée par une seule instance d'un effet déclencheur sur tous les exemplaires de la carte avec le maximum. <em>(Par exemple, si une capacité comporte le texte « (Max 1 par événement) », une seule carte avec cette capacité peut être déclenchée par événement joué.)</em></li><li>La mention entre parenthèses « (jusqu'à un maximum de [valeur]) » au sein d'une capacité impose un maximum à celle-ci pour la durée de cette capacité.</li></ul>",
 		"see_also": [
 			"cancel",
 			"limit",
@@ -33,18 +44,18 @@
 	},
 	{
 		"id": "may",
-		"term": "Pouvoir",
+		"term": "Peut, pouvoir",
 		"type": "official",
-		"content": "Le mot « pouvoir » (ou « peut ») indique qu'un joueur spécifié a l'option de résoudre le texte qui suit. Si aucun joueur n'est spécifié, l'option est accordée au contrôleur de la carte possédant la capacité en question.",
+		"content": "<p>Le mot « peut » <em>(ou « pouvoir »)</em> indique qu'un joueur spécifié a la possibilité de résoudre le texte qui suit. Si aucun joueur n'est spécifié, la possibilité est accordée au contrôleur de la carte dotée de la capacité en question.</p>",
 		"see_also": [
 			"player"
 		]
 	},
 	{
 		"id": "mental_resource",
-		"term": "Ressource mentale",
+		"term": "Ressource mentale (<span class=\"icon icon-mental\"></span>)",
 		"type": "official",
-		"content": "Une ressource mentale (<span class=\"icon-mental\"></span>) est l'un des quatre types de ressources.<ul><li>Les ressources mentales peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités nécessitent spécifiquement que des ressources mentales soient dépensées pour résoudre leurs effets.</li></ul>",
+		"content": "<p>Une ressource mentale (<span class=\"icon icon-mental\"></span>) est l'un des quatre types de ressources.</p><ul><li>Les ressources mentales peuvent être dépensées pour payer le coût en ressources des cartes et des capacités.</li><li>Certaines capacités de cartes nécessitent spécifiquement que des ressources mentales soient dépensées pour résoudre leurs effets.</li></ul>",
 		"see_also": [
 			"ability",
 			"cost",
@@ -59,7 +70,7 @@
 		"id": "minion",
 		"term": "Sbire",
 		"type": "official",
-		"content": "<div><i><b><red>A reprendre&nbsp;</red></b></i></div>Sbire est un type de carte rencontre. Les sbires représentent les partisans du méchant et/ou les ennemis des héros. Si un sbire entre en jeu, il engage le joueur qui révèle la carte du deck rencontre ou qui résout la capacité l'ayant mis en jeu, sauf indication contraire.<ul><li>Si un sbire entre en jeu, il reste en jeu jusqu'à ce qu'une capacité ou un effet de jeu le fasse quitter le jeu.</li><li>Si un sbire a zéro point de vie ou moins, il est vaincu et défaussé.</li><li>Les sbires engagés avec un joueur s'activent (un par un dans l'ordre choisi par le joueur) lors de l'étape deux de la phase du méchant, après l'activation du méchant. Si le joueur est sous forme de héros, ces sbires attaquent. S'il est sous forme d'alter ego, ils manigancent.</li></ul>",
+		"content": "<p>Sbire est un type de carte rencontre. Les sbires représentent les partisans du méchant et/ou les ennemis des héros.</p><p>Si un sbire entre en jeu, il engage le joueur qui révèle la carte du deck rencontre ou qui résout la capacité qui a mis le sbire en jeu, à moins qu'une capacité ne spécifie le contraire.</p><ul><li>Si un sbire entre en jeu, il reste en jeu jusqu'à ce qu'une capacité de carte ou un effet de jeu le fasse quitter le jeu.</li><li>Si un sbire a zéro point de vie restant ou moins, il est vaincu et défaussé.</li><li>Les sbires engagés avec un joueur s'activent <em>(un sbire à la fois et dans l'ordre au choix du joueur engagé)</em> lors de l'étape deux de la phase du méchant, après l'activation du méchant. Si le joueur engagé est sous forme de héros, ces sbires attaquent. Si le joueur engagé est sous forme d'alter ego, ces sbires manigancent.</li><li>Si un sbire engage un joueur pendant une activation d'ennemi au cours de laquelle tous les sbires engagés avec ce joueur reçoivent l'instruction de s'activer <em>(comme par le biais d'une capacité « Boost » lors de l'étape deux de la phase du méchant)</em>, le sbire nouvellement engagé s'activera également.</li></ul>",
 		"see_also": [
 			"card_types",
 			"encounter_card",
@@ -79,7 +90,7 @@
 		"id": "modes_of_play",
 		"term": "Modes de Jeu",
 		"type": "official",
-		"content": "<div><b><i><red>A compléter.</red></i></b></div>Avant de commencer une partie, les joueurs peuvent personnaliser leur expérience en choisissant ou en combinant différents modes de jeu :<ul><li><b>Mode Standard :</b> Le mode de jeu de base pour tous les scénarios.</li><li><b>Mode Expert :</b> Ajoute le set de rencontre Expert et utilise des stades de méchant différents.</li><li><b>Mode Héroïque :</b> Permet d'augmenter la difficulté en distribuant X cartes rencontre supplémentaires lors de l'étape trois de la phase du méchant (où X est le niveau héroïque choisi).</li><li><b>Mode Escarmouche :</b> (ou Mode Débutant) Raccourcit la partie en ne mettant en jeu qu'une seule version choisie du méchant.</li><li><b>Mode Campagne :</b> Scénarios interconnectés joués les uns après les autres, en utilisant un registre de campagne.</li></ul>",
+		"content": "<div><b><i>A compléter.</i></b></div>Avant de commencer une partie, les joueurs peuvent personnaliser leur expérience en choisissant ou en combinant différents modes de jeu :<ul><li><b>Mode Standard :</b> Le mode de jeu de base pour tous les scénarios.</li><li><b>Mode Expert :</b> Ajoute le set de rencontre Expert et utilise des stades de méchant différents.</li><li><b>Mode Héroïque :</b> Permet d'augmenter la difficulté en distribuant X cartes rencontre supplémentaires lors de l'étape trois de la phase du méchant (où X est le niveau héroïque choisi).</li><li><b>Mode Escarmouche :</b> (ou Mode Débutant) Raccourcit la partie en ne mettant en jeu qu'une seule version choisie du méchant.</li><li><b>Mode Campagne :</b> Scénarios interconnectés joués les uns après les autres, en utilisant un registre de campagne.</li></ul>",
 		"see_also": [
 			"campaign_specific_card",
 			"expert_set",
@@ -90,8 +101,7 @@
 		"id": "modifiers",
 		"term": "Modificateurs",
 		"type": "official",
-		"content": "<div><b><i><red>A compléter</red></i></b></div>Le jeu vérifie et met constamment à jour le total de toute quantité variable modifiée. Chaque fois qu'un nouveau modificateur est appliqué ou retiré, la quantité entière est recalculée depuis le début, en considérant la valeur de base et tous les modificateurs actifs.<ul><li>L'icône « par joueur » (<span class=\"icon-per_player\"></span>) n'est pas considérée comme un modificateur et est appliquée avant tout modificateur.</li><li>Le calcul d'une valeur traite tous les modificateurs comme étant appliqués simultanément. Cependant, les additions et soustractions sont calculées avant les multiplications et/ou divisions.</li><li>Si une valeur est fixée (« devient ») à un nombre spécifique, ce modificateur l'emporte sur tous les autres.</li><li>Après avoir pris en compte tous les modificateurs, si une valeur est inférieure à zéro, elle est traitée comme étant zéro.</li><li>Les valeurs fractionnaires sont arrondies à l'entier supérieur après application de tous les modificateurs.</li></ul>",
-		"whats_new": "\"Clarification indiquant que l'icône « par joueur » n'est pas considérée comme un modificateur et s'applique avant tout modificateur. Ajout de règles détaillant que les capacités permettant à un personnage d'« obtenir » une statistique agissent comme des modificateurs tant qu'elles sont actives, et précision stipulant qu'une valeur de tiret (–) ne peut pas être modifiée.\"",
+		"content": "<div><b><i>A compléter</i></b></div>Le jeu vérifie et met constamment à jour le total de toute quantité variable modifiée. Chaque fois qu'un nouveau modificateur est appliqué ou retiré, la quantité entière est recalculée depuis le début, en considérant la valeur de base et tous les modificateurs actifs.<ul><li>L'icône « par joueur » (<span class=\"icon-per_player\"></span>) n'est pas considérée comme un modificateur et est appliquée avant tout modificateur.</li><li>Le calcul d'une valeur traite tous les modificateurs comme étant appliqués simultanément. Cependant, les additions et soustractions sont calculées avant les multiplications et/ou divisions.</li><li>Si une valeur est fixée (« devient ») à un nombre spécifique, ce modificateur l'emporte sur tous les autres.</li><li>Après avoir pris en compte tous les modificateurs, si une valeur est inférieure à zéro, elle est traitée comme étant zéro.</li><li>Les valeurs fractionnaires sont arrondies à l'entier supérieur après application de tous les modificateurs.</li></ul>",
 		"see_also": [
 			"base_value",
 			"dash_value",
@@ -102,7 +112,7 @@
 		"id": "modular_encounter_set",
 		"term": "Set de Rencontre Modulaire",
 		"type": "official",
-		"content": "<div><b><i><red>A reprendre</red></i></b></div>Les cartes appartenant à un « set de rencontre modulaire » sont une classification de cartes rencontre pouvant être ajoutées ou retirées de presque n'importe quel scénario.<ul><li>Lors de la mise en place, de nombreux scénarios indiquent le nombre de sets modulaires à inclure.</li><li>Si un set modulaire est ajouté à un scénario, il l'est dans son intégralité. Sauf règle spécifique du scénario, les cartes individuelles d'un set modulaire ne peuvent pas être incluses sans le reste du set.</li></ul>",
+		"content": "<div><b><i>A reprendre</i></b></div>Les cartes appartenant à un « set de rencontre modulaire » sont une classification de cartes rencontre pouvant être ajoutées ou retirées de presque n'importe quel scénario.<ul><li>Lors de la mise en place, de nombreux scénarios indiquent le nombre de sets modulaires à inclure.</li><li>Si un set modulaire est ajouté à un scénario, il l'est dans son intégralité. Sauf règle spécifique du scénario, les cartes individuelles d'un set modulaire ne peuvent pas être incluses sans le reste du set.</li></ul>",
 		"see_also": [
 			"classifications",
 			"appendix_i_deck_customization"
