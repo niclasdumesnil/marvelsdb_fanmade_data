@@ -122,7 +122,7 @@
         "octgn_id": "b1c7df6c-7f34-5ff7-bf32-9c58db219efd",
         "pack_type_code": "hero_fanmade",
         "position": 708,
-        "size": 24,
+        "size": 25,
         "status": "beta",
         "visibility": "true"
     },
@@ -219,7 +219,7 @@
         "octgn_id": "5fbe8550-ee38-5775-83b2-91ddfb1b4786",
         "pack_type_code": "hero_fanmade",
         "position": 2005,
-        "size": 22,
+        "size": 23,
         "status": "beta",
         "visibility": "false"
     },
@@ -344,7 +344,7 @@
         "octgn_id": "a9f65411-f86b-48a8-bcac-0564be7f1ab9",
         "pack_type_code": "hero_fanmade",
         "position": 2021,
-        "size": 22,
+        "size": 23,
         "status": "released",
         "theme": "marvel",
         "visibility": "true"
@@ -358,7 +358,7 @@
         "octgn_id": "2c10b8ef-af46-4fdf-9a74-0ac2fa5f008c",
         "pack_type_code": "hero_fanmade",
         "position": 2022,
-        "size": 22,
+        "size": 24,
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
@@ -412,7 +412,7 @@
         "octgn_id": "f1524875-8b14-4a9a-9249-85a09874dd9d",
         "pack_type_code": "hero_fanmade",
         "position": 2027,
-        "size": 48,
+        "size": 42,
         "status": "sealed",
         "visibility": "true"
     },
@@ -451,7 +451,7 @@
         "octgn_id": "6c7d476a-f54a-4e3c-b3ac-118c038671c7",
         "pack_type_code": "hero_fanmade",
         "position": 2030,
-        "size": 23,
+        "size": 24,
         "status": "released",
         "visibility": "true"
     },
@@ -477,7 +477,7 @@
         "octgn_id": "5f69f8a1-6e2a-4995-b4fb-de4864a6dfe6",
         "pack_type_code": "hero_fanmade",
         "position": 2032,
-        "size": 22,
+        "size": 23,
         "status": "released",
         "visibility": "true"
     },
@@ -645,7 +645,7 @@
         "octgn_id": "733d90e1-16db-4601-8e3f-cd07065ae0e0",
         "pack_type_code": "hero_fanmade",
         "position": 2048,
-        "size": 23,
+        "size": 25,
         "status": "sealed",
         "visibility": "true"
     },
@@ -671,7 +671,7 @@
         "octgn_id": "7d79f086-4f07-4d2b-86fc-4bbd0133cd1f",
         "pack_type_code": "hero_fanmade",
         "position": 2050,
-        "size": 22,
+        "size": 23,
         "status": "sealed",
         "theme": "Marvel",
         "visibility": "true"
@@ -713,7 +713,7 @@
         "octgn_id": "f909454d-57e7-4b92-b698-4eb76860135d",
         "pack_type_code": "hero_fanmade",
         "position": 2053,
-        "size": 22,
+        "size": 23,
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
@@ -755,7 +755,7 @@
         "octgn_id": "85ef87e7-7618-4420-b85f-fdf2bde6743e",
         "pack_type_code": "hero_fanmade",
         "position": 2056,
-        "size": 21,
+        "size": 22,
         "status": "beta",
         "theme": "Marvel",
         "visibility": "false"
@@ -769,7 +769,7 @@
         "octgn_id": "00276b7e-a61c-4dbb-b503-f849f395b101",
         "pack_type_code": "hero_fanmade",
         "position": 2057,
-        "size": 24,
+        "size": 26,
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
@@ -824,7 +824,7 @@
         "octgn_id": "32e33e64-1e00-48df-85b0-48040fad465d",
         "pack_type_code": "hero_fanmade",
         "position": 2063,
-        "size": 23,
+        "size": 22,
         "status": "alpha",
         "theme": "Marvel",
         "visibility": "false"
@@ -838,7 +838,7 @@
         "octgn_id": "7d62609a-0b1f-4144-96b4-97972c383346",
         "pack_type_code": "scenar_fanmade",
         "position": 2064,
-        "size": 23,
+        "size": 35,
         "status": "sealed",
         "theme": "Marvel",
         "visibility": "true"
@@ -852,7 +852,7 @@
         "octgn_id": "5c9e6e36-5868-4171-aacc-18a7d711f63d",
         "pack_type_code": "hero_fanmade",
         "position": 2065,
-        "size": 23,
+        "size": 22,
         "status": "sealed",
         "theme": "DC",
         "visibility": "true"
@@ -895,7 +895,7 @@
         "octgn_id": "1c7b60ea-0ca6-574b-9cd5-254b7a124186",
         "pack_type_code": "hero_fanmade",
         "position": 2501,
-        "size": 22,
+        "size": 23,
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
@@ -909,7 +909,7 @@
         "octgn_id": "d8b7361a-9c4e-5d26-afe4-adb3e10c7159",
         "pack_type_code": "hero_fanmade",
         "position": 2530,
-        "size": 28,
+        "size": 37,
         "status": "beta",
         "theme": "Marvel",
         "visibility": "false"
@@ -923,7 +923,7 @@
         "octgn_id": "670dd6af-ef0f-4494-b1ec-4a405becbe36",
         "pack_type_code": "hero_fanmade",
         "position": 2619,
-        "size": 25,
+        "size": 32,
         "status": "sealed",
         "theme": "Marvel",
         "visibility": "true"
@@ -976,7 +976,7 @@
         "octgn_id": "a1825670-a77e-4e37-89e8-9e629bc7892e",
         "pack_type_code": "fm_story",
         "position": 5001,
-        "size": 227,
+        "size": 214,
         "status": "released",
         "visibility": "true"
     },
@@ -989,7 +989,7 @@
         "octgn_id": "f8fe0d39-7068-4fbd-9901-6ba095105f07",
         "pack_type_code": "fm_story",
         "position": 5003,
-        "size": 24,
+        "size": 35,
         "status": "beta",
         "theme": "Marvel",
         "visibility": "false"
@@ -1003,7 +1003,7 @@
         "octgn_id": "2b63bbfd-737a-49ed-9e1d-b32a5d377e1b",
         "pack_type_code": "fm_story",
         "position": 5007,
-        "size": 291,
+        "size": 373,
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
@@ -1017,7 +1017,7 @@
         "octgn_id": "07933d8a-ba60-4386-a929-9c1c2fb6a56a",
         "pack_type_code": "fm_story",
         "position": 5011,
-        "size": 352,
+        "size": 351,
         "status": "sealed",
         "theme": "Marvel",
         "visibility": "true"
@@ -1031,7 +1031,7 @@
         "octgn_id": "dd936a4e-a089-44e1-bb57-a4111ecb6fbf",
         "pack_type_code": "fm_story",
         "position": 5020,
-        "size": 233,
+        "size": 218,
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
@@ -1045,7 +1045,7 @@
         "octgn_id": "fb766780-0f17-4e74-9fb7-4ca84fef5f62",
         "pack_type_code": "fm_story",
         "position": 5030,
-        "size": 271,
+        "size": 275,
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
@@ -1090,7 +1090,7 @@
         "octgn_id": "e9c1eef1-7d5d-483e-b57a-5822d2f3d266",
         "pack_type_code": "hero_fanmade",
         "position": 8007,
-        "size": 22,
+        "size": 23,
         "status": "beta",
         "theme": "Marvel",
         "visibility": "true"
@@ -1141,7 +1141,7 @@
         "name": "Stan Lee",
         "pack_type_code": "hero_fanmade",
         "position": 9999,
-        "size": 0,
+        "size": 16,
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
@@ -1155,7 +1155,7 @@
         "octgn_id": "65becd33-a610-4313-9d2f-27670e9a4c1e1",
         "pack_type_code": "fm_theme",
         "position": 16000,
-        "size": 255,
+        "size": 283,
         "status": "released"
     },
     {
@@ -1167,7 +1167,7 @@
         "octgn_id": "8d6832af-b2ed-47c7-8938-5a700ca5d8a9",
         "pack_type_code": "hero_fanmade",
         "position": 2067,
-        "size": 18,
+        "size": 22,
         "status": "beta",
         "theme": "Marvel",
         "visibility": "false"
@@ -1181,7 +1181,7 @@
         "octgn_id": "aae41917-f1fb-481e-9d15-08d71e7b9376",
         "pack_type_code": "hero_fanmade",
         "position": 2068,
-        "size": 23,
+        "size": 22,
         "status": "beta",
         "theme": "Marvel",
         "visibility": "false"
@@ -1210,7 +1210,7 @@
         "octgn_id": "4bce472d-462d-4a4d-aeb2-90a2ce65add2",
         "pack_type_code": "scenar_fanmade",
         "position": 2103,
-        "size": 28,
+        "size": 34,
         "status": "private",
         "visibility": "false"
     },
@@ -1223,7 +1223,7 @@
         "octgn_id": "404e9219-abc2-44d7-9201-7c36446c6ff7",
         "pack_type_code": "fm_story",
         "position": 5035,
-        "size": 138,
+        "size": 125,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
@@ -1237,7 +1237,7 @@
         "octgn_id": "7f19133c-13a9-4b3e-a364-bf17416b5119",
         "pack_type_code": "hero_fanmade",
         "position": 61,
-        "size": 55,
+        "size": 59,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
@@ -1251,7 +1251,7 @@
         "octgn_id": "a7eb4ebd-4425-4183-9ff2-3d231e9d003e",
         "pack_type_code": "scenar_fanmade",
         "position": 2070,
-        "size": 50,
+        "size": 38,
         "status": "beta",
         "theme": "Marvel",
         "visibility": "false"
@@ -1265,7 +1265,7 @@
         "octgn_id": "005843b4-261a-4e3f-a384-874bed3ea2dd",
         "pack_type_code": "hero_fanmade",
         "position": 2071,
-        "size": 24,
+        "size": 23,
         "status": "sealed",
         "theme": "DC",
         "visibility": "true"
@@ -1279,7 +1279,7 @@
         "octgn_id": "cc8eeb8e-b13b-4b5b-b6bf-54a84bd1fd1a",
         "pack_type_code": "hero_fanmade",
         "position": 2072,
-        "size": 33,
+        "size": 32,
         "status": "sealed",
         "theme": "Other",
         "visibility": "true"
@@ -1293,7 +1293,7 @@
         "octgn_id": "e3708e9e-e077-44b9-9a46-7c41b3b59dfd",
         "pack_type_code": "hero_fanmade",
         "position": 2073,
-        "size": 25,
+        "size": 23,
         "status": "sealed",
         "theme": "Marvel",
         "visibility": "false"
@@ -1307,7 +1307,7 @@
         "octgn_id": "92a03fcf-a4e3-4f87-93a4-8c924b0bae8f",
         "pack_type_code": "scenar_fanmade",
         "position": 2074,
-        "size": 51,
+        "size": 47,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
@@ -1321,7 +1321,7 @@
         "octgn_id": "403e051c-adba-4bc2-acbf-9aefb9756040",
         "pack_type_code": "hero_fanmade",
         "position": 5040,
-        "size": 78,
+        "size": 289,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
@@ -1335,7 +1335,7 @@
         "octgn_id": "e7da07d7-400b-4710-8d02-e5356255ac60",
         "pack_type_code": "hero_fanmade",
         "position": 62,
-        "size": 54,
+        "size": 59,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
@@ -1350,7 +1350,7 @@
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9f64749",
         "pack_type_code": "hero_fanmade",
         "position": 5045,
-        "size": 141,
+        "size": 134,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
@@ -1365,7 +1365,7 @@
         "octgn_id": "16f339b1-f29c-456e-98bf-a9313065cd53",
         "pack_type_code": "hero_fanmade",
         "position": 2075,
-        "size": 23,
+        "size": 22,
         "status": "released",
         "theme": "Other",
         "visibility": "true"
@@ -1380,7 +1380,7 @@
         "octgn_id": "3b91b4d9-3a3f-4993-9c7a-efdb221ce220",
         "pack_type_code": "hero_fanmade",
         "position": 2076,
-        "size": 26,
+        "size": 25,
         "status": "sealed",
         "theme": "Marvel",
         "visibility": "false"
@@ -1395,7 +1395,7 @@
         "octgn_id": "607b8c7f-c2ff-4aa5-8f5d-59df6b4ed031",
         "pack_type_code": "hero_fanmade",
         "position": 2077,
-        "size": 25,
+        "size": 32,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
@@ -1410,7 +1410,7 @@
         "octgn_id": "503e5fd2-efa2-4a06-bb5a-b3fcc42f681a",
         "pack_type_code": "hero_fanmade",
         "position": 2078,
-        "size": 25,
+        "size": 23,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
@@ -1425,7 +1425,7 @@
         "octgn_id": "bed6bcde-424c-4e6e-ae91-832fcbdb69fe",
         "pack_type_code": "hero_fanmade",
         "position": 2079,
-        "size": 25,
+        "size": 23,
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
@@ -1440,7 +1440,7 @@
         "octgn_id": "6f54130f-382a-45e3-a623-83c16c66e35f",
         "pack_type_code": "hero_fanmade",
         "position": 2080,
-        "size": 57,
+        "size": 56,
         "status": "sealed",
         "theme": "DC",
         "visibility": "true"
@@ -1455,7 +1455,7 @@
         "octgn_id": "5208bf45-d71f-491e-ae40-1321127c8bb1",
         "pack_type_code": "hero_fanmade",
         "position": 2081,
-        "size": 34,
+        "size": 30,
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"

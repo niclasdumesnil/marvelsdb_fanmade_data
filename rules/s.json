@@ -232,6 +232,14 @@
 		]
 	},
 	{
+		"id": "starting",
+		"term": "Starting",
+		"type": "official",
+		"rulesheet": "fear_no_evil_by_ffg",
+		"content": "<p>See rulesheet: Fear no Evil.</p>",
+		"see_also": []
+	},
+	{
 		"id": "status_cards",
 		"term": "Status Cards",
 		"type": "official",

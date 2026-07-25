@@ -54,7 +54,7 @@
 		"id": "teamwork_trait",
 		"term": "Teamwork (Trait)",
 		"type": "official",
-		"content": "<p>After a minion with teamwork enters play and engages a player, if there is at least one other minion that shares the specified trait in play, the minion that just entered play activates against the player it is engaged with.</p><ul><li><mark class=\"new\">The teamwork (TRAIT) keyword is equivalent to the following triggered ability: “<b>Forced Response</b>: After this minion enters play, if there is another TRAIT minion in play, this minion activates against the engaged player.”</mark></li><li>If a minion with the teamwork keyword is being revealed, the teamwork keyword resolves after any “<b>When Revealed</b>” abilities on that minion are resolved.</li></ul>",
+		"content": "<p>After a minion with teamwork enters play and engages a player, if there is at least one other minion that shares the specified trait in play, the minion that just entered play activates against the player it is engaged with.</p><ul><li><mark class=\"new\">The teamwork ([[TRAIT]]) keyword is equivalent to the following triggered ability: “<b>Forced Response</b>: After this minion enters play, if there is another [[TRAIT]] minion in play, this minion activates against the engaged player.”</mark></li><li>If a minion with the teamwork keyword is being revealed, the teamwork keyword resolves after any “<b>When Revealed</b>” abilities on that minion are resolved.</li></ul>",
 		"whats_new": "Added a new bullet defining the teamwork trait as an equivalent constant ability.",
 		"see_also": [
 			"activation",

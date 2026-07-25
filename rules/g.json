@@ -24,12 +24,6 @@
 		]
 	},
 	{
-		"id": "game_environments",
-		"term": "",
-		"type": "official",
-		"content": ""
-	},
-	{
 		"id": "generate",
 		"term": "Generate",
 		"type": "official",
@@ -47,18 +41,6 @@
 			"hit_points",
 			"modifiers"
 		]
-	},
-	{
-		"id": "golden_rules",
-		"term": "",
-		"type": "official",
-		"content": ""
-	},
-	{
-		"id": "grim_rule",
-		"term": "",
-		"type": "official",
-		"content": ""
 	},
 	{
 		"id": "guard",

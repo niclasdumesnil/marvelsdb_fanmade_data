@@ -1264,6 +1264,18 @@
 		"name": "Deck Don"
 	},
 	{
+		"code": "daredevil_by_ffg",
+		"name": "Daredevil"
+	},
+	{
+		"code": "echo_by_ffg",
+		"name": "Echo"
+	},
+	{
+		"code": "daredevil_sense_deck",
+		"name": "Deck Sens"
+	},
+	{
 		"code": "madripoor's_dragon_by_merlin",
 		"name": "Dragon de Madripoor"
 	},
@@ -1298,6 +1310,14 @@
 	{
 		"code": "pouvoir_totemique_by_merlin",
 		"name": "Pouvoir Totémique"
+	},
+	{
+		"code": "daredevil_by_ffg_nemesis",
+		"name": "Némésis de Daredevil"
+	},
+	{
+		"code": "echo_by_ffg_nemesis",
+		"name": "Némésis de Echo"
 	},
 	{
 		"code": "ajak_by_bluehg",

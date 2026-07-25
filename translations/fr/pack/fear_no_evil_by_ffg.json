@@ -1,1 +1,255 @@
-[]
+[
+    {
+        "code": "60023",
+        "name": "Connais ton Ennemy",
+        "traits": "Contre."
+    },
+    {
+        "code": "60026",
+        "name": "Problèmes Judiciaires",
+        "traits": "Condition."
+    },
+    {
+        "code": "60027",
+        "name": "Se déplacer dans les Ombres",
+        "traits": "Compétence."
+    },
+    {
+        "code": "60001a",
+        "name": "Daredevil",
+        "traits": "Defender. Artiste Martial."
+    },
+    {
+        "code": "60001b",
+        "name": "Matt Murdock",
+        "traits": "Avocat."
+    },
+    {
+        "code": "60002",
+        "name": "Toucher Parfait",
+        "traits": "Sens. Super-pouvoir."
+    },
+    {
+        "code": "60003",
+        "name": "Odorat Amélioré",
+        "traits": "Sens. Super-pouvoir."
+    },
+    {
+        "code": "60004",
+        "name": "Ouïe Augmentée",
+        "traits": "Sens. Super-pouvoir."
+    },
+    {
+        "code": "60005",
+        "name": "Sens Radar",
+        "traits": "Sens. Super-pouvoir."
+    },
+    {
+        "code": "60006",
+        "name": "Goût Supérieur",
+        "traits": "Sens. Super-pouvoir."
+    },
+    {
+        "code": "60007",
+        "name": "Elektra",
+        "subname": "Elektra Natchios",
+        "traits": "Defender. Artiste Martial."
+    },
+    {
+        "code": "60008",
+        "name": "Contre-Interrogatoire",
+        "traits": "Attaque."
+    },
+    {
+        "code": "60009",
+        "name": "Déposition",
+        "traits": "Contre."
+    },
+    {
+        "code": "60010",
+        "name": "Détecteur de Mensonge Vivant",
+        "traits": "Contre."
+    },
+    {
+        "code": "60011",
+        "name": "un Sale Quart d'Heure",
+        "traits": "Attaque."
+    },
+    {
+        "code": "60013",
+        "name": "Foggy Nelson",
+        "traits": "Avocat. Individu."
+    },
+    {
+        "code": "60014",
+        "name": "Karen Page",
+        "traits": "Individu."
+    },
+    {
+        "code": "60015",
+        "name": "Nelson And Murdock",
+        "traits": "Lieu."
+    },
+    {
+        "code": "60016",
+        "name": "Soeur Maggie",
+        "traits": "Individu."
+    },
+    {
+        "code": "60017",
+        "name": "Lasso-Canne de Daredevil",
+        "traits": "Objet. Arme."
+    },
+    {
+        "code": "60018",
+        "name": "L'homme Sans Peur",
+        "traits": "Titre."
+    },
+    {
+        "code": "60019",
+        "name": "Blindspot",
+        "subname": "Sam Chung",
+        "traits": "Génie. Artiste Martial."
+    },
+    {
+        "code": "60020",
+        "name": "La Cape",
+        "subname": "Tyrone Johnson",
+        "traits": "Defender."
+    },
+    {
+        "code": "60021",
+        "name": "l'Épée",
+        "subname": "Tandy Bowen",
+        "traits": "Defender."
+    },
+    {
+        "code": "60022",
+        "name": "Ghost Rider",
+        "subname": "Johnny Blaze",
+        "traits": "Midnight Sun."
+    },
+    {
+        "code": "60028",
+        "name": "Entraînement à la Furtivité",
+        "traits": "Compétence."
+    },
+    {
+        "code": "60029",
+        "name": "Stick",
+        "traits": "Artiste Martial. Individu."
+    },
+    {
+        "code": "60030",
+        "name": "Planification d'Urgence",
+        "traits": "Compétence."
+    },
+    {
+        "code": "60031",
+        "name": "Danser avec le Diable",
+        "traits": "Danse."
+    },
+    {
+        "code": "60037a",
+        "name": "Echo",
+        "traits": "Defender. Artiste Martial."
+    },
+    {
+        "code": "60037b",
+        "name": "Maya Lopez",
+        "traits": "Civil."
+    },
+    {
+        "code": "60038",
+        "flavor": "T'CHING !",
+        "name": "Réflexes Innés",
+        "text": "Départ. (<i>Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.</i>)\nVotre héros gagne +1 DEF.",
+        "traits": "Condition."
+    },
+    {
+        "code": "60039",
+        "name": "Daredevil",
+        "subname": "Matt Murdock",
+        "traits": "Defender. Artiste Martial."
+    },
+    {
+        "code": "60040a",
+        "name": "Réflexes Photographiques"
+    },
+    {
+        "code": "60040b",
+        "name": "Réflexes Photographiques"
+    },
+    {
+        "code": "60040c",
+        "name": "Réflexes Photographiques"
+    },
+    {
+        "code": "60041",
+        "name": "Étudier la Cassette",
+        "traits": "Tactique."
+    },
+    {
+        "code": "60042",
+        "name": "La Réz",
+        "traits": "Lieu."
+    },
+    {
+        "code": "60043",
+        "name": "Langue des Signes Américaines",
+        "traits": "Compétence."
+    },
+    {
+        "code": "60044",
+        "name": "Chorégraphie"
+    },
+    {
+        "code": "60045",
+        "name": "Katana d'Echo",
+        "traits": "Arme."
+    },
+    {
+        "code": "60046",
+        "name": "Improvisation",
+        "traits": "Compétence."
+    },
+    {
+        "code": "60047",
+        "name": "Mémoire Musculaire",
+        "traits": "Compétence."
+    },
+    {
+        "code": "60048",
+        "name": "Armée d'un Seul Homme"
+    },
+    {
+        "code": "60049",
+        "name": "Capter Leur Attention",
+        "traits": "Défense. Contre."
+    },
+    {
+        "code": "60050",
+        "name": "Prendre des Risques",
+        "traits": "Attaque. Contre."
+    },
+    {
+        "code": "60052",
+        "name": "La Meilleure Attaque...",
+        "traits": "Condition."
+    },
+    {
+        "code": "60053",
+        "name": "Ronin",
+        "traits": "Titre."
+    },
+    {
+        "code": "60054",
+        "name": "Seul Contre Tous",
+        "traits": "Condition."
+    },
+    {
+        "code": "60055",
+        "name": "Ne Vois et n'Entends Aucun Mal",
+        "traits": "Attaque. Contre."
+    }
+]

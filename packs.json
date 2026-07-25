@@ -8,7 +8,7 @@
         "octgn_id": "dea583bf-554b-43c8-a6ed-a44782094ad1",
         "pack_type_code": "core",
         "position": 1,
-        "size": 355
+        "size": 326
     },
     {
         "cgdb_id": 2,
@@ -38,7 +38,7 @@
         "octgn_id": "e09a8f87-88ee-4702-ada2-3ea1e5717e63",
         "pack_type_code": "hero",
         "position": 4,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 5,
@@ -48,7 +48,7 @@
         "octgn_id": "88687068-70fb-478f-9a86-282477727842",
         "pack_type_code": "hero",
         "position": 5,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 6,
@@ -58,7 +58,7 @@
         "octgn_id": "8d26c7dd-a46e-44de-b0a1-04ad31f68390",
         "pack_type_code": "hero",
         "position": 6,
-        "size": 56
+        "size": 60
     },
     {
         "cgdb_id": 7,
@@ -68,7 +68,7 @@
         "octgn_id": "523dd7c3-884e-4eae-a2a6-df5be0ad30be",
         "pack_type_code": "hero",
         "position": 7,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 8,
@@ -78,7 +78,7 @@
         "octgn_id": "08cf8438-8367-43e7-8443-46836f7974e4",
         "pack_type_code": "hero",
         "position": 8,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 9,
@@ -88,7 +88,7 @@
         "octgn_id": "3a0370be-2e45-4783-9b7e-2d43b1fc0ed2",
         "pack_type_code": "hero",
         "position": 9,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 10,
@@ -98,7 +98,7 @@
         "octgn_id": "3b2a4c53-6d51-4b16-8342-db9b9e1e6c8a",
         "pack_type_code": "story",
         "position": 10,
-        "size": 56
+        "size": 265
     },
     {
         "cgdb_id": 11,
@@ -108,7 +108,7 @@
         "octgn_id": "3b31a2f9-936d-4a99-ba71-8e05987037e9",
         "pack_type_code": "scenario",
         "position": 11,
-        "size": 56
+        "size": 73
     },
     {
         "cgdb_id": 12,
@@ -128,7 +128,7 @@
         "octgn_id": "61039cd6-e30d-4e50-9019-0960e40385f4",
         "pack_type_code": "hero",
         "position": 13,
-        "size": 56
+        "size": 60
     },
     {
         "cgdb_id": 14,
@@ -138,7 +138,7 @@
         "octgn_id": "9d9ef955-af76-4493-901a-65288d7649dd",
         "pack_type_code": "hero",
         "position": 14,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 15,
@@ -148,7 +148,7 @@
         "octgn_id": "28899df2-c1e3-40db-be05-f45307341541",
         "pack_type_code": "hero",
         "position": 15,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 16,
@@ -158,7 +158,7 @@
         "octgn_id": "52b14ebe-d3fe-402d-93d4-eace2a1b7f8e",
         "pack_type_code": "story",
         "position": 16,
-        "size": 56
+        "size": 265
     },
     {
         "cgdb_id": 17,
@@ -168,7 +168,7 @@
         "octgn_id": "aa79499f-88a2-4fcc-92da-408c9e146488",
         "pack_type_code": "hero",
         "position": 17,
-        "size": 56
+        "size": 58
     },
     {
         "cgdb_id": 18,
@@ -178,7 +178,7 @@
         "octgn_id": "98ea4e68-1cb4-49ae-80a0-74f41a944c47",
         "pack_type_code": "hero",
         "position": 18,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 19,
@@ -188,7 +188,7 @@
         "octgn_id": "9709f455-364f-4f8e-8140-3ed8b439babb",
         "pack_type_code": "hero",
         "position": 19,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 20,
@@ -198,7 +198,7 @@
         "octgn_id": "ac7a05f3-6dfd-4966-add6-4156a24ec16b",
         "pack_type_code": "hero",
         "position": 20,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 21,
@@ -208,7 +208,7 @@
         "octgn_id": "4335882a-0e8e-4f98-a7a0-0a418fae8253",
         "pack_type_code": "story",
         "position": 21,
-        "size": 179
+        "size": 268
     },
     {
         "cgdb_id": 22,
@@ -218,7 +218,7 @@
         "octgn_id": "c56be783-1536-4416-bfad-269f534366b0",
         "pack_type_code": "hero",
         "position": 22,
-        "size": 56
+        "size": 58
     },
     {
         "cgdb_id": 23,
@@ -228,7 +228,7 @@
         "octgn_id": "fa335428-d9ec-4c0d-8309-bc17699c7814",
         "pack_type_code": "hero",
         "position": 23,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 24,
@@ -238,7 +238,7 @@
         "octgn_id": "e5d7526b-ccb9-4ade-8a41-2bc08bd22eca",
         "pack_type_code": "scenario",
         "position": 24,
-        "size": 70
+        "size": 78
     },
     {
         "cgdb_id": 25,
@@ -248,7 +248,7 @@
         "octgn_id": "cd491a1d-b192-4cd5-8a50-6f9093f271ee",
         "pack_type_code": "hero",
         "position": 25,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 26,
@@ -258,7 +258,7 @@
         "octgn_id": "69713448-33d2-470b-99bd-e119346cfc27",
         "pack_type_code": "hero",
         "position": 26,
-        "size": 56
+        "size": 59
     },
     {
         "cgdb_id": 27,
@@ -268,7 +268,7 @@
         "octgn_id": "5db83ac0-b4a3-49d3-b135-e6143d144cf3",
         "pack_type_code": "story",
         "position": 27,
-        "size": 191
+        "size": 265
     },
     {
         "cgdb_id": 28,
@@ -278,7 +278,7 @@
         "octgn_id": "46209500-1ae1-452b-81d7-0a0447e7b505",
         "pack_type_code": "hero",
         "position": 28,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 29,
@@ -298,7 +298,7 @@
         "octgn_id": "5f189d1d-2352-41cc-b285-a4c687da51de",
         "pack_type_code": "hero",
         "position": 30,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 31,
@@ -308,7 +308,7 @@
         "octgn_id": "5b7da011-412e-452a-9edd-24618a8bae2c",
         "pack_type_code": "hero",
         "position": 31,
-        "size": 60
+        "size": 58
     },
     {
         "cgdb_id": 32,
@@ -318,7 +318,7 @@
         "octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975198ec7",
         "pack_type_code": "story",
         "position": 32,
-        "size": 195
+        "size": 273
     },
     {
         "cgdb_id": 33,
@@ -328,7 +328,7 @@
         "octgn_id": "7da2a29c-3abd-4e3b-b36e-9f140c958773",
         "pack_type_code": "hero",
         "position": 33,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 34,
@@ -338,7 +338,7 @@
         "octgn_id": "9b407333-e221-495f-a145-e5a9b405a0f3",
         "pack_type_code": "hero",
         "position": 34,
-        "size": 60
+        "size": 58
     },
     {
         "cgdb_id": 35,
@@ -348,7 +348,7 @@
         "octgn_id": "663cb632-e6c8-4e94-8676-a8e0ca895722",
         "pack_type_code": "hero",
         "position": 35,
-        "size": 60
+        "size": 58
     },
     {
         "cgdb_id": 36,
@@ -358,7 +358,7 @@
         "octgn_id": "775cc394-70e0-4a37-bb3b-5a13b47c9e31",
         "pack_type_code": "hero",
         "position": 36,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 37,
@@ -368,7 +368,7 @@
         "octgn_id": "f3ee0950-3220-468c-9735-3b1dcb9694b7",
         "pack_type_code": "hero",
         "position": 37,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 38,
@@ -378,7 +378,7 @@
         "octgn_id": "eb5252a6-d631-49b7-a562-b88b234c58d5",
         "pack_type_code": "hero",
         "position": 38,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 39,
@@ -388,7 +388,7 @@
         "octgn_id": "56b64e85-e416-4ec5-83e2-4bbd16acf52c",
         "pack_type_code": "scenario",
         "position": 39,
-        "size": 70
+        "size": 78
     },
     {
         "cgdb_id": 40,
@@ -408,7 +408,7 @@
         "octgn_id": "f7eaac08-b459-4b76-a5e4-a87bce22e990",
         "pack_type_code": "hero",
         "position": 41,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 42,
@@ -428,7 +428,7 @@
         "octgn_id": "75156e6a-46eb-4164-9986-e466213e2c4d",
         "pack_type_code": "hero",
         "position": 43,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 44,
@@ -438,7 +438,7 @@
         "octgn_id": "03bdcc46-22c1-4a7f-8ca7-e212d52c301a",
         "pack_type_code": "hero",
         "position": 44,
-        "size": 78
+        "size": 77
     },
     {
         "cgdb_id": 45,
@@ -449,7 +449,7 @@
         "octgn_id": "1ab538aa-6ad1-4d9d-83a6-3ebc3aa25a34",
         "pack_type_code": "story",
         "position": 45,
-        "size": 271
+        "size": 273
     },
     {
         "cgdb_id": 46,
@@ -460,7 +460,7 @@
         "octgn_id": "9612581e-ee76-46fb-89b7-71ae7aac08d7",
         "pack_type_code": "hero",
         "position": 46,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 47,
@@ -471,7 +471,7 @@
         "octgn_id": "2bb9367c-944e-4475-b643-6a84c3214443",
         "pack_type_code": "hero",
         "position": 47,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 48,
@@ -482,7 +482,7 @@
         "octgn_id": "65f91d01-99db-4c7e-814f-28ddf0e91d6d",
         "pack_type_code": "hero",
         "position": 48,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 49,
@@ -493,7 +493,7 @@
         "octgn_id": "0035c164-5de7-4b2e-bb80-d49e4b2e67d0",
         "pack_type_code": "hero",
         "position": 49,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 50,
@@ -515,7 +515,7 @@
         "octgn_id": "4010e194-df1c-477e-852e-3a2adf07ea10",
         "pack_type_code": "hero",
         "position": 51,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 52,
@@ -526,7 +526,7 @@
         "octgn_id": "25cf07ae-e8ab-4443-8040-672bd25d635a",
         "pack_type_code": "hero",
         "position": 52,
-        "size": 60
+        "size": 58
     },
     {
         "cgdb_id": 53,
@@ -537,7 +537,7 @@
         "octgn_id": "dc47d9b6-c518-4972-b8bf-a1e1ab9d9f23",
         "pack_type_code": "hero",
         "position": 53,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 54,
@@ -548,7 +548,7 @@
         "octgn_id": "8e74fa84-01d6-42e0-8b7d-b02638e96f5c",
         "pack_type_code": "hero",
         "position": 54,
-        "size": 60
+        "size": 59
     },
     {
         "cgdb_id": 55,
@@ -559,7 +559,7 @@
         "octgn_id": "e1ad8fbe-b7e2-48f0-96ea-40362c3184da",
         "pack_type_code": "scenario",
         "position": 55,
-        "size": 78
+        "size": 77
     },
     {
         "cgdb_id": 56,
@@ -570,7 +570,7 @@
         "octgn_id": "e4e959c3-c409-44ea-8bba-46addf9c4b4b",
         "pack_type_code": "story",
         "position": 56,
-        "size": 274
+        "size": 272
     },
     {
         "cgdb_id": 57,
@@ -581,7 +581,7 @@
         "octgn_id": "2b778323-b4d9-4567-999d-42e7def75dde",
         "pack_type_code": "scenario",
         "position": 57,
-        "size": 90,
+        "size": 92,
         "visibility": "true"
     },
     {
@@ -593,7 +593,7 @@
         "octgn_id": "7eb46497-8915-4be9-b31d-7bee67842bce",
         "pack_type_code": "hero",
         "position": 58,
-        "size": 60,
+        "size": 59,
         "theme": "Marvel",
         "visibility": "true"
     },
@@ -606,7 +606,7 @@
         "octgn_id": "01625c2e-06c7-4321-bfd4-9abdc6877046",
         "pack_type_code": "hero",
         "position": 59,
-        "size": 60,
+        "size": 59,
         "theme": "Marvel",
         "visibility": "true"
     },
@@ -619,7 +619,7 @@
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a7249c1",
         "pack_type_code": "story",
         "position": 60,
-        "size": 92,
+        "size": 99,
         "theme": "Marvel",
         "visibility": "true"
     },

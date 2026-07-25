@@ -32,7 +32,7 @@
 		"id": "empty_deck",
 		"term": "Deck vide",
 		"type": "official",
-		"content": "Si le deck d'un joueur se vide, le joueur mélange sa pile de défausse pour former un nouveau deck et se distribue une carte rencontre face cachée. Si le deck rencontre se vide, la pile de défausse rencontre est mélangée pour former un nouveau deck et un pion accélération est placé sur la manigance principale.",
+		"content": "<p>Voir : Deck rencontre, Deck joueur.</p>",
 		"see_also": [
 			"encounter_deck",
 			"player_deck"
@@ -186,7 +186,7 @@
 		"id": "enters_play",
 		"term": "Entrer en jeu",
 		"type": "official",
-		"content": "<p>L'expression « entre en jeu » fait référence à tout moment où une carte passe d'une zone hors jeu en jeu. Jouer une carte, mettre une carte en jeu en utilisant une capacité de carte, ou révéler une carte du deck rencontre sont autant de moyens différents par lesquels une carte peut entrer en jeu.</p>",
+		"content": "<p>L'expression « entrer en jeu » fait référence à tout moment où une carte passe d'une zone hors jeu en jeu. Jouer une carte, mettre une carte en jeu en utilisant une capacité de carte, ou révéler une carte du deck rencontre sont autant de moyens différents par lesquels une carte peut entrer en jeu.</p>",
 		"see_also": [
 			"in_play_and_out_of_play",
 			"leaves_play",

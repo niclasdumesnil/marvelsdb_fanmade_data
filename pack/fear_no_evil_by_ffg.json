@@ -109,7 +109,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "The accident that cost Matt his eyesight gave him a new, radar -like sense.",
+        "flavor": "The accident that cost Matt his eyesight gave him a new, radar  –like sense.",
         "is_unique": false,
         "name": "Radar Sense",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060005",
@@ -179,7 +179,7 @@
         "deck_limit": 2,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "“No further questions, punk.” -Daredevil",
+        "flavor": "“No further questions, punk.” –Daredevil",
         "is_unique": false,
         "name": "Cross-examination",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060008",
@@ -200,7 +200,7 @@
         "deck_limit": 2,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "“Tell us everything.” -Matt Murdock",
+        "flavor": "“Tell us everything.” –Matt Murdock",
         "is_unique": false,
         "name": "Deposition",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060009",
@@ -221,7 +221,7 @@
         "deck_limit": 2,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "Thump -Thump Thump-Thump Thump-Thump Thump-Thump Thump-Thump Thump-Thump",
+        "flavor": "Thump  –Thump Thump-Thump Thump-Thump Thump-Thump Thump-Thump Thump-Thump",
         "is_unique": false,
         "name": "Living Lie Detector",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060010",
@@ -242,7 +242,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "“I cannot see the light. So I will be the light. I am Daredevil, and I am not afraid.” -Daredevil",
+        "flavor": "“I cannot see the light. So I will be the light. I am Daredevil, and I am not afraid.” –Daredevil",
         "is_unique": false,
         "name": "Raising Hell",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060011",
@@ -305,7 +305,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "“Let's see them pull off their heist with their vehicle impounded.” -Matt Murdock",
+        "flavor": "“Let's see them pull off their heist with their vehicle impounded.” –Matt Murdock",
         "is_unique": true,
         "name": "Nelson And Murdock",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060015",
@@ -378,6 +378,7 @@
         "set_position": 15,
         "status": "released",
         "text": "<b>Hero Action</b>: Exhaust this card and deal 1 damage to Daredevil → choose:\n• Choose any upgrade from the [[SENSE]] deck and play it, ignoring its resource cost. (<i>Do not shuffle.</i>)\n• Ready Daredevil.",
+        "traits": "Title.",
         "type_code": "upgrade"
     },
     {
@@ -425,7 +426,7 @@
         "text": "<b>Action</b>: Exhaust Cloak and spend [energy][energy] resources → find Dagger and put her into play.",
         "thwart": 2,
         "thwart_cost": 0,
-        "traits": "defender?",
+        "traits": "defender.",
         "type_code": "ally"
     },
     {
@@ -451,7 +452,7 @@
         "thwart": 1,
         "thwart_cost": 2,
         "thwart_star": true,
-        "traits": "DEFENDER.",
+        "traits": "defender.",
         "type_code": "ally"
     },
     {
@@ -493,7 +494,7 @@
         "deck_limit": 3,
         "duplicate_of_name": "",
         "faction_code": "justice",
-        "flavor": "“I don't need to see you to know your next move.” -Iron Fist",
+        "flavor": "“I don't need to see you to know your next move.” –Iron Fist",
         "is_unique": false,
         "name": "Know Your Enemy",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060023",
@@ -506,12 +507,13 @@
         "type_code": "event"
     },
     {
+        "alt_art": true,
         "code": "60025",
         "duplicate_of": "26034",
+        "octgn_id": "0b12d814-614b-4947-a995-f6e6750e86aa",
         "pack_code": "fear_no_evil_by_ffg",
         "position": 25,
-        "quantity": 3,
-        "octgn_id": "0b12d814-614b-4947-a995-f6e6750e86aa"
+        "quantity": 3
     },
     {
         "code": "60026",
@@ -520,7 +522,7 @@
         "deck_limit": 3,
         "duplicate_of_name": "",
         "faction_code": "justice",
-        "flavor": "“You got a permit for that?” -Police officer",
+        "flavor": "“You got a permit for that?” –Police officer",
         "is_unique": false,
         "name": "Legal Trouble",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060026",
@@ -529,7 +531,7 @@
         "quantity": 3,
         "resource_mental": 1,
         "text": "[star] Discount 1 ([[ATTORNEY]] or [[POLICE]]).\nAttach to a minion. Max 1 per minion.\nAttached minion gets -2 SCH.",
-        "traits": "CONDITION.",
+        "traits": "Condition.",
         "type_code": "upgrade"
     },
     {
@@ -547,7 +549,7 @@
         "quantity": 3,
         "resource_energy": 1,
         "text": "[star] Discount 1 ([[MARTIAL ARTIST]] or [[SPY]]).\nTemporary. Max 1 per player.\n<b>Response</b> (<i>thwart</i>): After you play a card (including this one), remove 1 threat from a scheme.",
-        "traits": "SKILL.",
+        "traits": "Skill.",
         "type_code": "upgrade"
     },
     {
@@ -712,7 +714,7 @@
         "type_code": "ally"
     },
     {
-        "code": "60040",
+        "code": "60040a",
         "cost": null,
         "cost_star": true,
         "deck_limit": 2,
@@ -731,7 +733,7 @@
         "text": "[star] If you are in hero form, you can discard Photographic Reflexes from your hand to play an event tucked under Echo as if it were in your hand. Reduce the cost to play that event by 2. You cannot trigger Echo's \"Watch and Learn\" ability for that event.",
         "type_code": "event"
     },
-      {
+    {
         "code": "60040b",
         "cost": null,
         "cost_star": true,
@@ -777,7 +779,7 @@
         "deck_limit": 2,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "“I watch tape after tape to train for a fight.” -Echo",
+        "flavor": "“I watch tape after tape to train for a fight.” –Echo",
         "is_unique": false,
         "name": "Study The Tape",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060041",
@@ -900,7 +902,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "“I absorb an arsenal of actions, so when I need to, I can perform them with the same precision.” -Echo",
+        "flavor": "“I absorb an arsenal of actions, so when I need to, I can perform them with the same precision.” –Echo",
         "is_unique": false,
         "name": "Muscle Memory",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060047",
@@ -922,7 +924,7 @@
         "deck_limit": 3,
         "duplicate_of_name": "",
         "faction_code": "protection",
-        "flavor": "“Two versus one is not a fair fight...for you.” -Daredevil",
+        "flavor": "“Two versus one is not a fair fight...for you.” –Daredevil",
         "is_unique": false,
         "name": "Army Of One",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060048",
@@ -939,7 +941,7 @@
         "deck_limit": 3,
         "duplicate_of_name": "",
         "faction_code": "protection",
-        "flavor": "\"I think we made 'em mad.\"\n\"What do you mean 'we'?\" -Rocket Raccoon and Gamora",
+        "flavor": "\"I think we made 'em mad.\"\n\"What do you mean 'we'?\" –Rocket Raccoon and Gamora",
         "is_unique": false,
         "name": "Get Their Attention",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060049",
@@ -966,14 +968,14 @@
         "quantity": 3,
         "resource_physical": 1,
         "text": "[star] Increase the cost to play this card by 1 for each ally you control.\n<b>Hero Action</b> (<i>attack/thwart</i>): Deal X damage to an enemy and remove X threat from a scheme, where X is your DEF.",
-        "traits": "ATTACK. THWART.",
+        "traits": "Attack. Thwart.",
         "type_code": "event"
     },
     {
         "alt_art": true,
         "code": "60051",
         "duplicate_of": "32014",
-        "flavor": "“That was my favorite shirt!” -Luke Cage",
+        "flavor": "“That was my favorite shirt!” –Luke Cage",
         "octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975032014",
         "pack_code": "fear_no_evil_by_ffg",
         "position": 51,
@@ -1002,7 +1004,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "protection",
-        "flavor": "“I am Ronin, the samurai with no master.” -Ronin",
+        "flavor": "“I am Ronin, the samurai with no master.” –Ronin",
         "is_unique": true,
         "name": "Ronin",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060053",

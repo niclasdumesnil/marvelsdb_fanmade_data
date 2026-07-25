@@ -41,7 +41,7 @@
 	},
 	{
 		"id": "wild_resource",
-		"term": "Ressource libre (<span class=\"icon icon-wild\"></span>)",
+		"term": "Ressource libre ([wild])",
 		"type": "official",
 		"content": "<p>Une ressource libre (<span class=\"icon icon-wild\"></span>) est l'un des quatre types de ressources.</p><ul><li>Les ressources libres peuvent être dépensées pour payer le coût en ressources des cartes et des capacités. Lorsqu'un joueur génère une ressource libre (<span class=\"icon icon-wild\"></span>), il peut spécifier comme quel type de ressource <em>(énergie, mentale, physique ou libre)</em> elle est utilisée.<ul><li>Lorsqu'une carte qui génère une ressource libre voit ses ressources doublées, chacune de ses ressources libres peut être déclarée comme un type différent.</li></ul></li><li>Certaines capacités de carte nécessitent spécifiquement que des ressources libres soient dépensées pour résoudre leurs effets.</li><li>Lorsque les ressources ne sont pas générées pour un coût, une ressource libre n'a aucune caractéristique autre que « ressource libre ». Dans de tels contextes, les ressources libres ne peuvent pas être interprétées comme aucun des autres types de ressources.</li></ul>",
 		"see_also": [

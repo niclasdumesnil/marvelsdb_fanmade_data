@@ -8,16 +8,16 @@
 		"name": "Le Bouffon vert"
 	},
 	{
+		"code": "twc",
+		"name": "Les Démolisseurs"
+	},
+	{
 		"code": "cap",
 		"name": "Captain America"
 	},
 	{
 		"code": "msm",
 		"name": "Miss Marvel"
-	},
-	{
-		"code": "twc",
-		"name": "Les Démolisseurs"
 	},
 	{
 		"code": "thor",
@@ -34,10 +34,6 @@
 	{
 		"code": "hlk",
 		"name": "Hulk"
-	},
-	{
-		"code": "ron",
-		"name": "Set Modulaire Ronan"
 	},
 	{
 		"code": "trors",
@@ -238,6 +234,14 @@
 	{
 		"code": "hercules",
 		"name": "Hercule"
+	},
+	{
+		"code": "fear_no_evil_by_ffg",
+		"name": "Peur de Rien"
+	},
+	{
+		"code": "ron",
+		"name": "Set Modulaire Ronan"
 	},
 	{
 		"code": "attack_on_madripoor_by_merlin",

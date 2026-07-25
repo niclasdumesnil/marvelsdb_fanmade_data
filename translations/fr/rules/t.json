@@ -54,7 +54,7 @@
 		"id": "teamwork_trait",
 		"term": "Esprit d'équipe (trait)",
 		"type": "official",
-		"content": "<p>Après qu'un sbire avec esprit d'équipe entre en jeu et engage un joueur, s'il y a au moins un autre sbire partageant le trait spécifié en jeu, le sbire qui vient d'entrer en jeu s'active contre le joueur avec lequel il est engagé.</p><ul><li><mark class=\"new\">Le mot-clé esprit d'équipe (TRAIT) est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée</b> : Après que ce sbire entre en jeu, s'il y a un autre sbire TRAIT en jeu, ce sbire s'active contre le joueur engagé. »</mark></li><li>Si un sbire avec le mot-clé esprit d'équipe est en train d'être révélé, le mot-clé esprit d'équipe se résout après que toutes les capacités « <b>Une fois révélée</b> » sur ce sbire sont résolues.</li></ul>",
+		"content": "<p>Après qu'un sbire avec esprit d'équipe entre en jeu et engage un joueur, s'il y a au moins un autre sbire partageant le trait spécifié en jeu, le sbire qui vient d'entrer en jeu s'active contre le joueur avec lequel il est engagé.</p><ul><li><mark class=\"new\">Le mot-clé esprit d'équipe ([[TRAIT]]) est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée</b> : Après que ce sbire entre en jeu, s'il y a un autre sbire [[TRAIT]] en jeu, ce sbire s'active contre le joueur engagé. »</mark></li><li>Si un sbire avec le mot-clé esprit d'équipe est en train d'être révélé, le mot-clé esprit d'équipe se résout après que toutes les capacités « <b>Une fois révélée</b> » sur ce sbire sont résolues.</li></ul>",
 		"whats_new": "Ajout d'un nouveau point définissant le trait Travail d'équipe comme une capacité constante équivalente.",
 		"see_also": [
 			"activation",
@@ -262,7 +262,7 @@
 		"id": "tuck",
 		"term": "Intercaler",
 		"type": "official",
-		"content": "Lorsqu'un joueur reçoit l'instruction d'intercaler une carte sous une autre carte, il place la carte intercalée face visible sous l'autre carte.<ul><li>Les cartes intercalées sont pas en jeu et ne sont pas considérées comme « attachées » à la carte sous laquelle elles sont intercalées.</li><li>Lorsqu'une carte quitte le jeu, chaque carte intercalée en dessous est défaussée.</li></ul><ul></ul>",
+		"content": "<p>Lorsqu'un joueur reçoit l'instruction d'intercaler une carte sous une autre carte, il place la carte intercalée face visible sous l'autre carte.</p><ul><li>Les cartes intercalées ne sont pas en jeu et ne sont pas considérées comme « attachées » à la carte sous laquelle elles sont intercalées.</li><li>Lorsqu'une carte quitte le jeu, chaque carte intercalée en dessous est défaussée.</li></ul>",
 		"see_also": [
 			"in_play_and_out_of_play"
 		]

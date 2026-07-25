@@ -25,7 +25,7 @@
 	},
 	{
 		"id": "fleeting",
-		"term": "Éphémère",
+		"term": "Fugace",
 		"type": "fanmade",
 		"content": "<p>Après la fin de la phase, défaussez cette carte.</p>",
 		"see_also": [
@@ -36,7 +36,7 @@
 		"id": "flip",
 		"term": "Retourner",
 		"type": "official",
-		"content": "<p>Lorsqu'un joueur reçoit l'instruction de retourner une carte, il la met à l'envers pour que la face qui était face visible soit maintenant face cachée.</p><ul><li>Une carte pliable à « trois faces » est considérée comme retournée chaque fois que la face visible de la carte change.</li><li>Lorsqu'une carte est retournée, si la nouvelle face visible de cette carte a :<ul><li>Le même type de carte que la face précédente, la carte conserve toutes les cartes attachées, les cartes glissées dessous, les cartes d'état et les jetons.</li><li>Un type de carte différent de la face précédente, toutes les <mark class=\"new\">cartes attachées, cartes glissées dessous</mark>, cartes d'état et jetons sont défaussés de la carte.</li></ul></li></ul>",
+		"content": "<p>Lorsqu'un joueur reçoit l'instruction de retourner une carte, il la met à l'envers pour que la face qui était face visible soit maintenant face cachée.</p><ul><li>Une carte pliable à « trois faces » est considérée comme retournée chaque fois que la face visible de la carte change.</li><li>Lorsqu'une carte est retournée, si la nouvelle face visible de cette carte a :<ul><li>Le même type de carte que la face précédente, la carte conserve toutes les cartes attachées, les cartes intercalées, les cartes d'état et les jetons.</li><li>Un type de carte différent de la face précédente, toutes les <mark class=\"new\">cartes attachées, cartes intercalées</mark>, cartes d'état et jetons sont défaussés de la carte.</li></ul></li></ul>",
 		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Basculer comme une capacité constante équivalente.",
 		"see_also": [
 			"double_sided_card"
@@ -67,7 +67,7 @@
 		"id": "form_change_form",
 		"term": "Forme, changer de forme",
 		"type": "official",
-		"content": "<p>Un joueur peut être soit sous forme de héros, soit sous forme d'alter ego à un moment donné. Cela est indiqué par la carte identité du joueur.</p><ul><li>Une fois par round, pendant son tour, chaque joueur est autorisé à changer de forme en retournant sa carte identité.</li><li>Lorsqu'un joueur change de forme, seule la forme change. Le personnage conserve ses dégâts subis, cartes d'état, effets persistants, <mark class=\"new\">cartes attachées, cartes glissées dessous</mark>, jetons et état actuel <em>(redressé ou incliné)</em>.</li><li>Si une capacité de carte amène un joueur à changer de forme, cela ne compte pas dans le changement de forme volontaire autorisé pendant son tour pour ce round.</li><li>Tant qu'un joueur est sous forme de héros, les capacités de carte qui interagissent avec son alter ego n'interagissent pas avec son identité.</li><li>Tant qu'un joueur est sous forme d'alter ego, les capacités de carte qui interagissent avec son héros n'interagissent pas avec son identité.</li><li>Les cartes avec le mot-clé <b>« forme [type] »</b> octroient des formes uniques à une identité.<ul><li>Ces formes s'ajoutent aux formes alter ego et héros de l'identité, et possèdent leurs propres conditions pour y passer.</li><li>Lorsqu'une identité change de forme supplémentaire, cela ne compte pas dans la limite d'une fois par tour pour se retourner du héros à l'alter ego <em>(ou vice versa)</em>, mais cela compte comme un changement de forme aux fins de déclencher les effets de cartes.</li></ul></li><li>Les cartes avec le texte <b>« forme [type] uniquement »</b> ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est sous la forme spécifiée.</li></ul>",
+		"content": "<p>Un joueur peut être soit sous forme de héros, soit sous forme d'alter ego à un moment donné. Cela est indiqué par la carte identité du joueur.</p><ul><li>Une fois par round, pendant son tour, chaque joueur est autorisé à changer de forme en retournant sa carte identité.</li><li>Lorsqu'un joueur change de forme, seule la forme change. Le personnage conserve ses dégâts subis, cartes d'état, effets persistants, <mark class=\"new\">cartes attachées, cartes intercalées</mark>, jetons et état actuel <em>(redressé ou incliné)</em>.</li><li>Si une capacité de carte amène un joueur à changer de forme, cela ne compte pas dans le changement de forme volontaire autorisé pendant son tour pour ce round.</li><li>Tant qu'un joueur est sous forme de héros, les capacités de carte qui interagissent avec son alter ego n'interagissent pas avec son identité.</li><li>Tant qu'un joueur est sous forme d'alter ego, les capacités de carte qui interagissent avec son héros n'interagissent pas avec son identité.</li><li>Les cartes avec le mot-clé <b>« forme [type] »</b> octroient des formes uniques à une identité.<ul><li>Ces formes s'ajoutent aux formes alter ego et héros de l'identité, et possèdent leurs propres conditions pour y passer.</li><li>Lorsqu'une identité change de forme supplémentaire, cela ne compte pas dans la limite d'une fois par tour pour se retourner du héros à l'alter ego <em>(ou vice versa)</em>, mais cela compte comme un changement de forme aux fins de déclencher les effets de cartes.</li></ul></li><li>Les cartes avec le texte <b>« forme [type] uniquement »</b> ne peuvent être jouées ou mises en jeu que par un joueur dont l'identité est sous la forme spécifiée.</li></ul>",
 		"whats_new": "Clarification : résoudre un changement de forme sur une carte d'identité modifie la forme du joueur vers l'état spécifié.",
 		"see_also": [
 			"flip",
@@ -79,7 +79,7 @@
 		"id": "fragile",
 		"term": "Fragile",
 		"type": "fanmade",
-		"content": "<p>Les attaques contre ce personnage gagnent déferlement.</p>",
+		"content": "<p>Les attaques contre ce personnage gagnent Déferlement.</p>",
 		"see_also": [
 			"overkill"
 		]

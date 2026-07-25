@@ -1,0 +1,54 @@
+[
+    {
+        "code": "60012",
+        "name": "Concentrer ses Sens"
+    },
+    {
+        "code": "60024",
+        "name": "Désescalade"
+    },
+    {
+        "code": "60032",
+        "name": "Surcharge Sensorielle"
+    },
+    {
+        "code": "60033",
+        "name": "Bullseye",
+        "traits": "Assassin."
+    },
+    {
+        "code": "60034",
+        "name": "L'Homme le Plus Dangereux du Monde"
+    },
+    {
+        "code": "60035",
+        "name": "Saï Volé",
+        "traits": "Arme."
+    },
+    {
+        "code": "60036",
+        "name": "L'Oeil sur la Cible"
+    },
+    {
+        "code": "60060",
+        "name": "Élevée par le Caïd"
+    },
+    {
+        "code": "60061",
+        "name": "Le Caïd",
+        "traits": "Criminel."
+    },
+    {
+        "code": "60062",
+        "name": "Maître Manipulateur"
+    },
+    {
+        "code": "60063",
+        "name": "Homme de Main du Caïd",
+        "traits": "Criminel."
+    },
+    {
+        "code": "60064",
+        "name": "Pion du Caïd"
+    }
+]

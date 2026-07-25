@@ -61,7 +61,7 @@
 	},
 	{
 		"id": "seek",
-		"term": "Chercher",
+		"term": "Puiser",
 		"type": "fanmade",
 		"content": "<p>Défaussez des cartes du dessus du deck (Y) jusqu'à ce que vous défaussiez une carte (X).</p>",
 		"see_also": [
@@ -232,6 +232,14 @@
 		]
 	},
 	{
+		"id": "starting",
+		"term": "Départ",
+		"type": "official",
+		"rulesheet": "fear_no_evil_by_ffg",
+		"content": "<p>Une carte avec le mot-clé Départ peut-être ajoutée à la main de départ de son propriétaire pendant la mise en place. Chaque deck ne peut inclure qu'une seule carte ayant le mot-clé Départ. Avant de piocher sa main de départ durant la mise en place des joueurs, chaque joueur ayant une carte Départ dans son deck peut la chercher et l'ajouter à sa main en tant que première carte. Cette carte compte dans sa taille de main et peut être défaussée pour le mulligan.</p>",
+		"see_also": []
+	},
+	{
 		"id": "status_cards",
 		"term": "Cartes d'état",
 		"type": "official",
@@ -315,7 +323,7 @@
 		"id": "surge",
 		"term": "Renfort",
 		"type": "official",
-		"content": "<p><mark class=\"new\">Quand</mark> une carte rencontre avec ce mot-clé est révélée, le joueur qui résout la carte <mark class=\"new\">se distribue une carte rencontre face cachée</mark> du dessus du deck rencontre.</p><ul><li><mark class=\"new\">Le mot-clé renfort est équivalent à la capacité déclenchée suivante : « <b>Une fois révélée</b> : Distribuez-vous 1 carte rencontre face cachée. »</mark></li><li>Terminez le processus de résolution de la carte originale, ainsi que de toute capacité de réponse déclenchée par la révélation de cette carte, avant de révéler la carte supplémentaire.</li></ul>",
+		"content": "<p><mark class=\"new\">Quand</mark> une carte rencontre avec ce mot-clé est révélée, le joueur qui résout la carte <mark class=\"new\">s'attribue une carte rencontre face cachée</mark> du dessus du deck rencontre.</p><ul><li><mark class=\"new\">Le mot-clé renfort est équivalent à la capacité déclenchée suivante : « <b>Une fois révélée</b> : attribuez-vous 1 carte rencontre face cachée. »</mark></li><li>Terminez le processus de résolution de la carte originale, ainsi que de toute capacité de réponse déclenchée par la révélation de cette carte, avant de révéler la carte supplémentaire.</li></ul>",
 		"whats_new": "Page 42 : Révision de la définition du mot-clé Renfort.",
 		"see_also": [
 			"encounter_card",

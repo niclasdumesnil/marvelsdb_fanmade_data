@@ -32,7 +32,7 @@
 		"id": "cannot",
 		"term": "\"Cannot\"",
 		"type": "official",
-		"content": "<p>The word 'cannot' is absolute and cannot be countermanded by other abilities or effects. If two abilities conflict, the one with 'cannot' takes precedence; if two rules conflict, the rule with 'cannot' takes precedence.</p>\n<p>An ability can override a rule with 'cannot' per the Golden Rules.</p>",
+		"content": "<p>The word 'cannot' is absolute and cannot be countermanded by other abilities or effects.</p><ul><li>If two abilities conflict, the ability with 'cannot' takes precedence.</li><li>If two rules conflict, the rule with 'cannot' takes precedence.</li><li>An ability can override a rule with 'cannot' per the Golden Rules.</li></ul>",
 		"see_also": [
 			"golden_rules",
 			"target"
@@ -165,7 +165,7 @@
 		"id": "consequential_damage",
 		"term": "Consequential Damage",
 		"type": "official",
-		"content": "<p>After an ally attacks, it takes consequential damage equal to the number of consequential damage icons beneath its ATK field; after it thwarts, equal to icons beneath its THW field. Consequential damage is dealt after resolving abilities triggered by the attack/thwart.</p>\n<p>If the target of an ally's basic power leaves play before the ally deals its damage/removes its threat, the ally does not take consequential damage (but still exhausts) and is not considered to have attacked/thwarted for other abilities.</p>",
+		"content": "<p>After an ally attacks, it takes consequential damage equal to the number of consequential damage icons beneath its ATK field; after an ally thwarts, it takes consequential damage equal to the number of consequential damage icons beneath its THW field.</p><ul><li>Consequential damage is dealt to an ally after resolving abilities triggered by that ally's attack or thwart.</li><li>If the target of an ally's basic power leaves play before that ally deals damage equal to its ATK or removes threat equal to its THW, the ally does not take consequential damage (but still exhausts). That ally is not considered to have attacked or thwarted for the purpose of other abilities.</li></ul>",
 		"see_also": [
 			"ally",
 			"attack_player_ability_type",
@@ -192,12 +192,6 @@
 		"see_also": [
 			"ownership_and_control"
 		]
-	},
-	{
-		"id": "control_changes",
-		"term": "",
-		"type": "official",
-		"content": ""
 	},
 	{
 		"id": "copy",
@@ -265,7 +259,7 @@
 		"id": "crit_x",
 		"term": "Crit (X)",
 		"type": "fanmade",
-		"content": "<p>Discard the top X cards from the encounter deck. Deal damage to the target equal to the total number of boost icons on the discarded cards plus X damage.</p>",
+		"content": "<p>)Discard the top X cards from the encounter deck. Deal damage to the target equal to the total number of boost icons (<span class=\"icon icon-boost\"></span>) on the discarded cards plus X damage.</p>",
 		"see_also": [
 			"boost_boost_icon",
 			"damage"
