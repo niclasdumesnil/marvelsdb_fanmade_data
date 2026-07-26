@@ -1906,5 +1906,15 @@
         "name": "The Punisher's Loadout",
         "parent_code": "punisher_by_misssugarpink",
         "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "white_tiger_by_andyn",
+        "name": "White Tiger"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "white_tiger_by_andyn_nemesis",
+        "name": "White Tiger Nemesis"
     }
 ]

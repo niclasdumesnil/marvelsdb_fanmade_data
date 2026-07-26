@@ -1459,5 +1459,20 @@
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
+    },
+    {
+        "cgdb_id": 2082,
+        "code": "white_tiger_by_andyn",
+        "confidential": "false",
+        "creator": "AndyN",
+        "date_release": "2026-07-26",
+        "name": "White Tiger",
+        "octgn_id": "cf97e165-8c3f-4ce5-bd26-e6d98ea27b6d",
+        "pack_type_code": "hero_fanmade",
+        "position": 2082,
+        "size": 24,
+        "status": "released",
+        "theme": "Marvel",
+        "visibility": "true"
     }
 ]
