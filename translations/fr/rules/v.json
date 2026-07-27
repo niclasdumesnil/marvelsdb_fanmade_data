@@ -122,12 +122,13 @@
 	{
 		"id": "vulnerable",
 		"term": "Vulnérable",
-		"type": "fanmade",
-		"content": "<p>Défaussez ce personnage s'il est sonné ou désorienté.</p>",
+		"type": "official",
+		"content": "<p>Lorsqu'un personnage avec le mot-clé vulnérable devient désorienté ou sonné, ce personnage est immédiatement défaussé <em>(sans être vaincu)</em>.</p><ul><li><mark class=\"new\">Le mot-clé vulnérable est équivalent à la capacité déclenchée suivante : « <b>Interruption forcée</b> : Quand ce personnage devient désorienté ou sonné, défaussez-le. »</mark></li><li>Si un personnage avec le mot-clé vulnérable subissait simultanément suffisamment de dégâts pour le vaincre et devenait désorienté ou sonné, il est défaussé avant que les dégâts ne soient appliqués et n'est pas considéré comme vaincu.</li><li>Si un personnage possède à la fois les mots-clés solide et vulnérable, le mot-clé vulnérable ne prend effet que lorsque ce personnage a deux cartes d'état désorienté ou deux cartes d'état sonné.</li></ul>",
+		"whats_new": "Ajout du texte complet pour le mot-clé Vulnérable.",
 		"see_also": [
-			"stun_stunned",
 			"confuse_confused",
-			"discard"
+			"steady",
+			"stun_stunned"
 		]
 	}
 ]

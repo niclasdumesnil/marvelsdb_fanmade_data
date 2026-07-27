@@ -122,12 +122,13 @@
 	{
 		"id": "vulnerable",
 		"term": "Vulnerable",
-		"type": "fanmade",
-		"content": "<p>Discard this character if they are stunned or confused.</p>",
+		"type": "official",
+		"content": "<p>When a character with vulnerable becomes confused or stunned, that character is immediately discarded <em>(without being defeated)</em>.</p><ul><li><mark class=\"new\">The vulnerable keyword is equivalent to the following triggered ability: “<b>Forced Interrupt</b>: When this character becomes confused or stunned, discard it.”</mark></li><li>If a character with the vulnerable keyword would simultaneously take enough damage to defeat it and become either confused or stunned, it is discarded before the damage is applied and is not considered defeated.</li><li>If a character has both the steady and vulnerable keywords, the vulnerable keyword does not take effect until that character has two confused or two stunned status cards.</li></ul>",
+		"whats_new": "Added full text for the Vulnerable keyword.",
 		"see_also": [
-			"stun_stunned",
 			"confuse_confused",
-			"discard"
+			"steady",
+			"stun_stunned"
 		]
 	}
 ]
