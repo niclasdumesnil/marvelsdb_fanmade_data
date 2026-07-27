@@ -1474,5 +1474,35 @@
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
+    },
+    {
+        "cgdb_id": 2083,
+        "code": "quicksilver_by_boomguy",
+        "confidential": "false",
+        "creator": "Boomguy",
+        "date_release": "2026-07-26",
+        "name": "Quicksilver",
+        "octgn_id": "87577046-ea8e-43e1-822d-ee940e7805ef",
+        "pack_type_code": "scenar_fanmade",
+        "position": 2083,
+        "size": 14,
+        "status": "released",
+        "theme": "Marvel",
+        "visibility": "false"
+    },
+    {
+        "cgdb_id": 2084,
+        "code": "valkyrie_by_boomguy",
+        "confidential": "false",
+        "creator": "Boomguy",
+        "date_release": "2026-07-26",
+        "name": "Valkyrie",
+        "octgn_id": "89221f80-16d6-46db-a7d2-4ad908d70b1b",
+        "pack_type_code": "hero_fanmade",
+        "position": 2084,
+        "size": 15,
+        "status": "released",
+        "theme": "Marvel",
+        "visibility": "false"
     }
 ]

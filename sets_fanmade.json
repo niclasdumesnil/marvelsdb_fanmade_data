@@ -1916,5 +1916,16 @@
         "card_set_type_code": "nemesis",
         "code": "white_tiger_by_andyn_nemesis",
         "name": "White Tiger Nemesis"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "quicksilver_by_boomguy",
+        "name": "Quicksilver",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "valkyrie_by_boomguy",
+        "name": "Valkyrie"
     }
 ]
