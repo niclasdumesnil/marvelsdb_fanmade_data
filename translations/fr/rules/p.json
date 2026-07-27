@@ -96,14 +96,6 @@
 		]
 	},
 	{
-		"id": "prerequisite_form_or_trait",
-		"term": "Prérequis (Forme ou Trait)",
-		"type": "official",
-		"rulesheet": "fear_no_evil_by_ffg",
-		"content": "<p>Voir le feuillet de règles : Fear no Evil.</p>",
-		"see_also": []
-	},
-	{
 		"id": "play_area",
 		"term": "Zone de jeu",
 		"type": "official",
@@ -300,6 +292,14 @@
 		"see_also": [
 			"initiating_abilities"
 		]
+	},
+	{
+		"id": "prerequisite_form_or_trait",
+		"term": "Prérequis (Forme ou Trait)",
+		"type": "official",
+		"rulesheet": "fear_no_evil_by_ffg",
+		"content": "<p>Voir le feuillet de règles : Fear no Evil.</p>",
+		"see_also": []
 	},
 	{
 		"id": "prevent",

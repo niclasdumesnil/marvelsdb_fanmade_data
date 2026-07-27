@@ -67,14 +67,6 @@
 		]
 	},
 	{
-		"id": "discount_x_trait",
-		"term": "Discount X (Trait)",
-		"type": "official",
-		"rulesheet": "fear_no_evil_by_ffg",
-		"content": "<p>See rulesheet: Fear no Evil.</p>",
-		"see_also": []
-	},
-	{
 		"id": "def",
 		"term": "DEF",
 		"type": "official",
@@ -153,6 +145,14 @@
 			"player",
 			"shuffle"
 		]
+	},
+	{
+		"id": "discount_x_trait",
+		"term": "Discount X (Trait)",
+		"type": "official",
+		"rulesheet": "fear_no_evil_by_ffg",
+		"content": "<p>See rulesheet: Fear no Evil.</p>",
+		"see_also": []
 	},
 	{
 		"id": "double_sided_card",
