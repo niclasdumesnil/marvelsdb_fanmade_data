@@ -96,6 +96,14 @@
 		]
 	},
 	{
+		"id": "prerequisite_form_or_trait",
+		"term": "Prerequisite (Form or Trait)",
+		"type": "official",
+		"rulesheet": "fear_no_evil_by_ffg",
+		"content": "<p>See rulesheet: Fear no Evil.</p>",
+		"see_also": []
+	},
+	{
 		"id": "play_area",
 		"term": "Play Area",
 		"type": "official",
