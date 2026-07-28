@@ -12,7 +12,8 @@
         "position": 11,
         "quantity": 1,
         "set_code": "white_tiger_by_andyn",
-        "text": "<b><i>Give to the Ava Ayala player.</i></b>\nExhaust Tiger Amulet.\nTiger Amulet cannot be readied. Treat your identity's printed text box as if it were blank.\n<b>Alter-Ego Action</b>: Exhaust Ava Ayala → remove Wrath of the Tiger from the game.",
+        "status": "released",
+        "text": "<b><i>Give to the Ava Ayala player.</i></b>\nExhaust Amulets of Power.\nAmulets of Power cannot be readied. Treat your identity's printed text box as if it were blank.\n<b>Alter-Ego Action</b>: Exhaust Ava Ayala → remove Wrath of the Tiger from the game.",
         "type_code": "obligation"
     },
     {
@@ -27,6 +28,7 @@
         "quantity": 1,
         "set_code": "white_tiger_by_andyn_nemesis",
         "set_position": 1,
+        "status": "released",
         "text": "<b>When Revealed</b>: Place 3 feud counters here.\n<b>Forced Interrupt</b>: When White Tiger (Angela Del Toro) is defeated, remove a feud counter from here. If the last feud counter was removed, remove each card of the White Tiger nemesis set from the game.",
         "type_code": "side_scheme"
     },
@@ -47,6 +49,7 @@
         "scheme": 2,
         "set_code": "white_tiger_by_andyn_nemesis",
         "set_position": 2,
+        "status": "released",
         "text": "Incite 2. Quickstrike.\n<b>Forced Interrupt</b>: When this minion would enter play, remove the White Tiger (Angela Del Toro) ally from the game.",
         "traits": "Possessed.",
         "type_code": "minion"
@@ -64,6 +67,7 @@
         "quantity": 3,
         "set_code": "white_tiger_by_andyn_nemesis",
         "set_position": 3,
+        "status": "released",
         "text": "<b>When Revealed</b>: White Tiger (Angela Del Toro) activates against you. If White Tiger (Angela Del Toro) is not in play, search the encounter deck and discard pile for White Tiger (Angela Del Toro) and put her into play engaged with you. Shuffle the encounter deck.",
         "type_code": "treachery"
     }
