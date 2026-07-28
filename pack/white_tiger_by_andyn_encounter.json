@@ -12,7 +12,7 @@
         "quantity": 1,
         "set_code": "white_tiger_by_andyn",
         "status": "released",
-        "text": "<b><i>Give to the Ava Ayala player.</i></b>\nWhite Tiger cannot attack.\n<b>Alter-Ego Action:</b> Exhaust Ava Ayala or discard 3 cards tucked under Amulets of Power → discard this card.",
+        "text": "<b><i>Give to the Ava Ayala player.</i></b>\nWhite Tiger cannot attack.\n<b>Alter-Ego Action</b>: Exhaust Ava Ayala or discard 3 cards tucked under Amulets of Power → discard this card.",
         "type_code": "obligation"
     },
     {
@@ -51,7 +51,8 @@
         "pack_code": "white_tiger_by_andyn",
         "position": 14,
         "quantity": 1,
-        "scheme_hazard": 1,
+        "scheme_amplify": 1,
+        "scheme_hazard": null,
         "set_code": "white_tiger_by_andyn_nemesis",
         "set_position": 2,
         "status": "released",
@@ -77,7 +78,7 @@
         "type_code": "treachery"
     },
     {
-        "boost": 1,
+        "boost": null,
         "boost_star": true,
         "code": "208216",
         "duplicate_of_name": "",

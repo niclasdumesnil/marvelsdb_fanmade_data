@@ -1910,12 +1910,14 @@
     {
         "card_set_type_code": "hero",
         "code": "white_tiger_by_andyn",
-        "name": "White Tiger"
+        "name": "White Tiger",
+        "status": "released"
     },
     {
         "card_set_type_code": "nemesis",
         "code": "white_tiger_by_andyn_nemesis",
-        "name": "White Tiger Nemesis"
+        "name": "White Tiger Nemesis",
+        "status": "released"
     },
     {
         "card_set_type_code": "villain",

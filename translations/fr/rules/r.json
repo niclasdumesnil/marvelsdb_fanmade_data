@@ -235,7 +235,7 @@
 		"id": "retaliate_x",
 		"term": "Riposte X",
 		"type": "official",
-		"content": "<p>Après qu'un personnage avec le mot-clé riposte X a été attaqué, infligez X dégâts à l'attaquant. <em>(X est la valeur à côté du mot-clé riposte.)</em></p><ul><li><mark class=\"new\">Le mot-clé riposte X est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée</b> : Après que ce personnage est attaqué, infligez X dégâts à l'attaquant. »</mark></li><li>Le personnage avec riposte X doit être en jeu après la résolution de l'attaque pour infliger ces dégâts.</li></ul>",
+		"content": "<p>Après qu'un personnage avec le mot-clé riposte X a été attaqué, infligez X dégâts à l'attaquant. <em>(X est la valeur à côté du mot-clé riposte.)</em></p><ul><li><mark class=\"new\">Le mot-clé riposte X est équivalent à la capacité déclenchée suivante : « <b>Réponse forcée</b> : Après que ce personnage a été attaqué, infligez X dégâts à l'attaquant. »</mark></li><li>Le personnage avec riposte X doit être en jeu après la résolution de l'attaque pour infliger ces dégâts.</li></ul>",
 		"whats_new": "Ajout d'un nouveau point définissant le mot-clé Riposte X comme une capacité constante équivalente.",
 		"see_also": [
 			"ally",
