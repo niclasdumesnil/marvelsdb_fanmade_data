@@ -210,8 +210,9 @@
 	},
 	{
 		"code": "01029a",
+		"errata": "Remplacé « (jusqu'à une taille de main maximale de 7) » par « (jusqu'à +6 en taille de main maximum) ». (RRG 1.8)",
 		"name": "Iron Man",
-		"text": "Votre taille de main augmente de +1 pour chaque amélioration [[TECH]] que vous contrôlez (jusqu'à une taille de main maximale de 7).",
+		"text": "Votre taille de main augmente de +1 pour chaque amélioration [[TECH]] que vous contrôlez (jusqu'à +6 en taille de main maximum).",
 		"flavor": "\"Je suis Iron Man.\"",
 		"traits": "Avenger."
 	},

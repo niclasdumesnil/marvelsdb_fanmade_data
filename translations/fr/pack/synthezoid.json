@@ -33,9 +33,10 @@
     },
     {
         "code": "57076",
+        "errata": "Remplacé « Interruption de héros » par « Action de héros ». (RRG 1.8)",
         "flavor": "« Ma capacité de passer au travers des objets électroniques peut perturber la technologie Stark. » – Vision",
         "name": "Déphasé",
-        "text": "<b>Action</b> : choisissez un attachement sur le leader ennemi ayant le texte « <b>Réponse de héros</b> » ou « <b>Interruption de héros</b> » et défaussez-le."
+        "text": "<b>Action</b> : choisissez un attachement sur le leader ennemi ayant le texte « <b>Réponse de héros</b> » ou « <b>Action de héros</b> » et défaussez-le."
     },
     {
         "code": "57077",

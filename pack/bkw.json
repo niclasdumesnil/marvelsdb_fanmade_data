@@ -183,6 +183,7 @@
 	},
 	{
 		"code": "08009",
+		"errata": "Changed “trigger” to “resolve”. (RRG 1.8)",
 		"cost": 3,
 		"deck_limit": 1,
 		"faction_code": "hero",
@@ -195,7 +196,7 @@
 		"resource_energy": 1,
 		"set_code": "black_widow",
 		"set_position": 13,
-		"text": "Black Widow gets +1 DEF.\n<b>Hero Response</b>: After you trigger the ability of a [[Preparation]] card you control, exhaust Synth-Suit → ready Black Widow.",
+		"text": "Black Widow gets +1 DEF.\n<b>Hero Response</b>: After you resolve the ability of a [[Preparation]] card you control, exhaust Synth-Suit → ready Black Widow.",
 		"traits": "Armor. Tech.",
 		"type_code": "upgrade"
 	},

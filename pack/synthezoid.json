@@ -86,6 +86,7 @@
 	},
 	{
 		"code": "57076",
+		"errata": "Changed “Hero Interrupt” to “Hero Action”. (RRG 1.8)",
 		"cost": 0,
 		"faction_code": "basic",
 		"flavor": "\"My ability to phase through electronics can disrupt Stark's technology.\" —Vision",
@@ -96,7 +97,7 @@
 		"quantity": 1,
 		"resource_wild": 1,
 		"set_code": "vision_leader",
-		"text": "<b>Action</b>: Choose an attachment on the enemy leader with the text <b>\"Hero Response\"</b> or <b>\"Hero Interrupt\"</b> and discard it.",
+		"text": "<b>Action</b>: Choose an attachment on the enemy leader with the text <b>\"Hero Response\"</b> or <b>\"Hero Action\"</b> and discard it.",
 		"type_code": "event"
 	},
 	{
