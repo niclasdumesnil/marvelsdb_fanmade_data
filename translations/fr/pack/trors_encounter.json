@@ -12,8 +12,9 @@
 	},
 	{
 		"code": "04028",
+		"errata": "Remplacé « place » par « glisse ». Ajouté « glissée ». (RRG 1.8)",
 		"name": "Désignée pour Mourir",
-		"text": "<b>Une fois révélée</b> : le joueur de Client Barton cherche Mockingbird dans sa main, son deck, sa pile de défausse ou zone de jeu et la place, face visible, sous cette carte. Quand cette manigance est déjouée, renvoyez Mockingbird dans la main de son propriétaire."
+		"text": "<b>Une fois révélée</b> : le joueur de Client Barton cherche Mockingbird dans sa main, son deck, sa pile de défausse ou zone de jeu et la glisse, face visible, sous cette carte. Quand cette manigance est déjouée, renvoyez la Mockingbird glissée dans la main de son propriétaire."
 	},
 	{
 		"code": "04029",

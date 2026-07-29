@@ -616,6 +616,7 @@
 		"attack": 1,
 		"back_link": "01029b",
 		"code": "01029a",
+		"errata": "Changed “(to a maximum hand size of 7)” to “(to a maximum of +6 hand size)”. (RRG 1.8)",
 		"deck_limit": 1,
 		"defense": 1,
 		"faction_code": "hero",
@@ -637,7 +638,7 @@
 		"position": 29,
 		"quantity": 1,
 		"set_code": "iron_man",
-		"text": "You get +1 hand size for each [[Tech]] upgrade you control (to a maximum hand size of 7).",
+		"text": "You get +1 hand size for each [[Tech]] upgrade you control (to a maximum of +6 hand size).",
 		"thwart": 2,
 		"traits": "Avenger.",
 		"type_code": "hero"

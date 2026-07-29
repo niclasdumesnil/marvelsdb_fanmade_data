@@ -38,7 +38,7 @@
 		"base_threat_fixed": true,
 		"boost": 3,
 		"code": "04028",
-		"errata": "Changed “stage” to “scheme”. (RRG 1.4)",
+		"errata": "Changed “stage” to “scheme”. (RRG 1.4) Changed “places” to “tucks”. Added “the tucked”. (RRG 1.8)",
 		"faction_code": "encounter",
 		"illustrator": "Paul Renaud",
 		"name": "Marked for Death",
@@ -49,7 +49,7 @@
 		"scheme_acceleration": 1,
 		"set_code": "hawkeye_nemesis",
 		"set_position": 2,
-		"text": "<b>When Revealed</b>: The Clint Barton player searches their hand, deck, discard pile, and play area for Mockingbird and places her faceup beneath this card. When this scheme is defeated, return Mockingbird to her owner's hand.",
+		"text": "<b>When Revealed</b>: The Clint Barton player searches their hand, deck, discard pile, and play area for Mockingbird and tucks her faceup beneath this card. When this scheme is defeated, return the tucked Mockingbird to her owner's hand.",
 		"type_code": "side_scheme"
 	},
 	{

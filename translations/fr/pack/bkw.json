@@ -63,8 +63,9 @@
 	},
 	{
 		"code": "08009",
+		"errata": "Remplacé « déclenché » par « résolu ». (RRG 1.8)",
 		"name": "Costume Synthétique",
-		"text": "Black Widow gagne +1 DEF.\n<b>Réponse de héros</b> : après avoir déclenché la capacité d'une carte [[Préparation]] que vous contrôlez, inclinez le Costume Synthétique → redressez Black Widow.",
+		"text": "Black Widow gagne +1 DEF.\n<b>Réponse de héros</b> : après avoir résolu la capacité d'une carte [[Préparation]] que vous contrôlez, inclinez le Costume Synthétique → redressez Black Widow.",
 		"traits": "Armure. Tech."
 	},
 	{

@@ -276,9 +276,10 @@
     },
     {
         "code": "57065",
+        "errata": "Ajouté « (Une fois par phase max.) ». (RRG 1.8)",
         "flavor": "« Te voilà dans un beau pétrin. »",
         "name": "Moon Knight",
-        "text": "Riposte 2. Ténacité.\n<b>Une fois révélée</b> : résolvez la capacité « <b>Une fois révélée</b> » de la traîtrise la plus proche du dessus de la pile de défausse Rencontre.",
+        "text": "Riposte 2. Ténacité.\n<b>Une fois révélée</b> : résolvez la capacité « <b>Une fois révélée</b> » de la traîtrise la plus proche du dessus de la pile de défausse Rencontre. (Une fois par phase max.) (Une fois par phase max.)",
         "traits": "Defender. Élite."
     },
     {
