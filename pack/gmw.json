@@ -378,6 +378,7 @@
 		"code": "16024",
 		"cost": 1,
 		"deck_limit": 3,
+		"errata": "Classification is “Basic” instead of “Protection”. (RRG)",
 		"faction_code": "basic",
 		"name": "Deft Focus",
 		"octgn_id": "b2c4439d-cdaf-45f0-99d5-06f2ea3ede74",

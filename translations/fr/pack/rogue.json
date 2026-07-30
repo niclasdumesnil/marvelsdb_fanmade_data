@@ -1,14 +1,16 @@
 [
 	{
 		"code": "38001a",
+		"errata": "Remplacé « attachez Touché » par « trouvez Touché et attachez-le ». (RRG)",
 		"name": "Malicia",
-		"text": "<i>Contact Cutané</i> — <b>Action</b> : attachez Touché à un autre personnage. Vous gagnez tous les [[TRAITS]] du personnage attaché jusqu'à la fin du round. (Limite d'une fois par round.)\n<b>Réponse forcée</b> : après le début de la phase des Joueurs, trouvez et mettez de côté Touché.",
+		"text": "<i>Contact Cutané</i> — <b>Action</b> : trouvez Touché et attachez-le à un autre personnage. Vous gagnez tous les [[TRAITS]] du personnage attaché jusqu'à la fin du round. (Limite d'une fois par round.)\n<b>Réponse forcée</b> : après le début de la phase des Joueurs, trouvez et mettez de côté Touché.",
 		"traits": "X-Men."
 	},
 	{
 		"code": "38001b",
+		"errata": "Précise qu'il faut « trouver » Touché avant de le mettre de côté. (RRG)",
 		"name": "Anna Marie",
-		"text": "<b>Mise en place</b> : mettez de côté votre amélioration Touché.\n<i>Retrait</i> — <b>Réponse forcée</b> : après être passé sous cette forme, mettez de côté Touché.",
+		"text": "<b>Mise en place</b> : trouvez votre amélioration Touché et mettez-la de côté.\n<i>Retrait</i> — <b>Réponse forcée</b> : après être passé sous cette forme, trouvez Touché et mettez-le de côté.",
 		"flavor": "\"Vous ne pourriez pas vivre la vie qui est la mienne.\"",
 		"traits": "Mutant."
 	},
@@ -45,8 +47,9 @@
 	},
 	{
 		"code": "38007",
+		"errata": "Remplacé « attachez Touché » par « trouvez Touché et attachez-le ». (RRG)",
 		"name": "Transfert d'Énergie",
-		"text": "<b>Action de héros</b> : attachez Touché à un personnage autre que Malicia et infligez 2 dégâts à ce personnage → soignez Malicia de 2 dégâts et redressez-la. Vous gagnez tous les [[TRAITS]] du personnage attaché jusqu'à la fin du round.",
+		"text": "<b>Action de héros</b> : trouvez Touché et attachez-le à un personnage autre que Malicia et infligez 2 dégâts à ce personnage → soignez Malicia de 2 dégâts et redressez-la. Vous gagnez tous les [[TRAITS]] du personnage attaché jusqu'à la fin du round.",
 		"traits": "Super-pouvoir."
 	},
 	{

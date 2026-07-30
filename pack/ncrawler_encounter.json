@@ -163,6 +163,7 @@
 		"attack": 2,
 		"boost": 1,
 		"code": "48037",
+		"errata": "Removed the star icon (★) from the boost field. (RRG)",
 		"faction_code": "encounter",
 		"flavor": "\"Hyuk hyuk hyuk!\"",
 		"health": 6,

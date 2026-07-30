@@ -20,6 +20,7 @@
         "boost": 3,
         "code": "49028",
         "duplicate_of_name": "",
+        "errata": "Added “for that attack”. (RRG)",
         "faction_code": "encounter",
         "health": 6,
         "is_unique": true,
@@ -31,7 +32,7 @@
         "scheme": 2,
         "set_code": "magneto_nemesis",
         "set_position": 1,
-        "text": "Steady. Toughness. Villainous.\n[star] <b>Forced Response</b>: After Exodus attacks you, discard cards from the top of your deck equal to his total ATK.\n<i>(Magneto's nemesis minion.)</i>",
+        "text": "Steady. Toughness. Villainous.\n[star] <b>Forced Response</b>: After Exodus attacks you, discard cards from the top of your deck equal to his total ATK for that attack.\n<i>(Magneto's nemesis minion.)</i>",
         "traits": "Acolyte. Elite. Psionic.",
         "type_code": "minion"
     },

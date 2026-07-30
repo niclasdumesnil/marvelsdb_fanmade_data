@@ -327,6 +327,7 @@
 		"code": "45017",
 		"cost": 2,
 		"deck_limit": 3,
+		"errata": "Changed “can be attached to that ally” to “can be attached to an ally”. (RRG)",
 		"faction_code": "leadership",
 		"name": "Suit Up",
 		"octgn_id": "1ab538aa-6ad1-4d9d-83a6-3ebc3a045017",
@@ -334,7 +335,7 @@
 		"position": 17,
 		"quantity": 3,
 		"resource_physical": 1,
-		"text": "<b>Alter-Ego Action</b>: Search your deck and discard pile for an ally and an upgrade that can be attached to that ally. Add them to your hand. <i>(Shuffle.)</i>",
+		"text": "<b>Alter-Ego Action</b>: Search your deck and discard pile for an ally and an upgrade that can be attached to an ally. Add them to your hand. <i>(Shuffle.)</i>",
 		"type_code": "event"
 	},
 	{

@@ -6,8 +6,9 @@
     },
     {
         "code": "49028",
+        "errata": "Ajouté « pour cette attaque ». (RRG)",
         "name": "Exodus",
-        "text": "Solide. Ténacité. Vilenie.\netoile <b>Réponse forcée</b> : après qu'Exodus vous a attaqué, défaussez un nombre de cartes du dessus de votre deck égal à son total d'ATQ.\n(<i>Sbire Némésis de Magnéto.</i>)",
+        "text": "Solide. Ténacité. Vilenie.\netoile <b>Réponse forcée</b> : après qu'Exodus vous a attaqué, défaussez un nombre de cartes du dessus de votre deck égal à son total d'ATQ pour cette attaque.\n(<i>Sbire Némésis de Magnéto.</i>)",
         "traits": "Acolyte. Elite. Psionique."
     },
     {

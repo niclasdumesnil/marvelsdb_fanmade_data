@@ -649,8 +649,9 @@
     },
     {
         "code": "50153",
+        "errata": "Remplacé le modificateur « SCH » par un modificateur « THW ». (RRG)",
         "name": "Radiation Exposure",
-        "text": "Attach to your identity.\n[star] If attached identity has the [[Gamma]] trait, this attachment gives +1 ATK instead.\n<b>Réponse forcée</b>: After you recover, discard 1 card from your hand → discard this card.",
+        "text": "Attachez-la à votre identité.\n[star] Si l'identité attachée a le trait [[Gamma]], cette amélioration donne +1 ATQ à la place.\n<b>Réponse forcée</b> : après avoir récupéré, défaussez 1 carte de votre main → défaussez cette carte.",
         "traits": "Condition."
     },
     {
@@ -665,9 +666,10 @@
     },
     {
         "code": "50156",
+        "errata": "Remplacé « effectuer des défenses de base » par « défendre ». (RRG)",
         "flavor": "\"I've got all the weaponry of a fighter jet—and then some.\"",
         "name": "MACH-IV",
-        "text": "Villainous. Victory 1.\n[star] Each character without the [[Aerial]] trait cannot make basic defenses against MACH-IV's attacks.",
+        "text": "Vilenie. Butin 1.\n[star] Chaque personnage sans le trait [[Aerial]] ne peut pas défendre contre les attaques de MACH-IV.",
         "traits": "Aerial. Elite. Thunderbolt."
     },
     {

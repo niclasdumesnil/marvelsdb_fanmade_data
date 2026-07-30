@@ -105,8 +105,9 @@
 	},
 	{
 		"code": "45017",
+		"errata": "Remplacé « pouvant lui être attachée » par « pouvant être attachée à un allié ». (RRG)",
 		"name": "En Costume",
-		"text": "<b>Action d'alter ego</b> : cherchez dans votre deck et pile de défausse un allié et une amélioration pouvant lui être attachée. Ajoutez-les à votre main. <i>(Mélangez.)</i>"
+		"text": "<b>Action d'alter ego</b> : cherchez dans votre deck et pile de défausse un allié et une amélioration pouvant être attachée à un allié. Ajoutez-les à votre main. <i>(Mélangez.)</i>"
 	},
 	{
 		"code": "45020",

@@ -121,6 +121,7 @@
 	},
 	{
 		"code": "16024",
+		"errata": "Classification « De base » au lieu de « Protection ». (RRG)",
 		"name": "Intense Concentration",
 		"text": "1 max par joueur.\n <b>Action de héros</b> : inclinez Intense Concentration → réduisez de 1 le coût en ressources de la prochaine carte [[SUPER-POUVOIR]] que vous jouez lors de ce tour.",
 		"traits": "Compétence."

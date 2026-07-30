@@ -81,9 +81,10 @@
 	},
 	{
 		"code": "48012",
+		"errata": "Remplacé « imprimés » par « de base ». (RRG)",
 		"name": "Malicia",
 		"subname": "Anna Marie",
-		"text": "<b>Action</b> : infligez 1 dégât à un autre personnage ami → jusqu'à la fin du round, Malicia gagne tous les [[TRAITS]] de ce personnage et ajoute la CTR et l'ATQ imprimés de ce personnage à ses pouvoirs correspondants. (Limite d'une fois par round.)",
+		"text": "<b>Action</b> : infligez 1 dégât à un autre personnage ami → jusqu'à la fin du round, Malicia gagne tous les [[TRAITS]] de ce personnage et ajoute la CTR et l'ATQ de base de ce personnage à ses pouvoirs correspondants. (Limite d'une fois par round.)",
 		"traits": "X-Men."
 	},
 	{

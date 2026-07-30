@@ -159,6 +159,7 @@
 		"code": "52008",
 		"cost": 1,
 		"deck_limit": 1,
+		"errata": "Changed “Silk” to “your identity”. (RRG)",
 		"faction_code": "hero",
 		"illustrator": "Sebastián Guidobono",
 		"name": "Eidetic Memory",
@@ -169,7 +170,7 @@
 		"resource_energy": 1,
 		"set_code": "silk",
 		"set_position": 11,
-		"text": "<b>Interrupt</b>: When you reveal a card from the same encounter set as a card tucked under your identity, exhaust Eidetic Memory → swap those cards. Reveal the card that had been tucked under Silk instead.",
+		"text": "<b>Interrupt</b>: When you reveal a card from the same encounter set as a card tucked under your identity, exhaust Eidetic Memory → swap those cards. Reveal the card that had been tucked under your identity instead.",
 		"traits": "Superpower.",
 		"type_code": "upgrade"
 	},

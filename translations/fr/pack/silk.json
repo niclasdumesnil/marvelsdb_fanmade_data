@@ -49,8 +49,9 @@
 	},
 	{
 		"code": "52008",
+		"errata": "Remplacé « Silk » par « votre identité ». (RRG)",
 		"name": "Mémoire Eidétique",
-		"text": "<b>Interruption</b> : quand vous révélez une carte appartenant au même set de rencontre qu'une carte intercalée sous votre identité, inclinez Mémoire Eidétique → échangez ces cartes. Révélez la carte qui était intercalée sous Silk à la place.",
+		"text": "<b>Interruption</b> : quand vous révélez une carte appartenant au même set de rencontre qu'une carte intercalée sous votre identité, inclinez Mémoire Eidétique → échangez ces cartes. Révélez la carte qui était intercalée sous votre identité à la place.",
 		"traits": "Super-Pouvoir."
 	},
 	{

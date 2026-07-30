@@ -12,9 +12,10 @@
 	},
 	{
 		"code": "38026",
+		"errata": "Précise quel joueur résout la capacité. (RRG)",
 		"flavor": "\"Même si elle sait qu'on ne peut pas faire confiance à Mystique, Malicia ne peut pas se résoudre à rejeter la femme qui l'a élevée.\"",
 		"name": "L'Influence de Mystique",
-		"text": "<b>Une fois déjouée</b> : cherchez un exemplaire de la traîtrise Induite en Erreur dans le deck Rencontre ou la pile de défausse Rencontre, et mélangez-la dans votre deck."
+		"text": "<b>Une fois déjouée</b> : le joueur qui la déjoue cherche un exemplaire de la traîtrise Induite en Erreur dans le deck Rencontre ou la pile de défausse Rencontre, et la mélange dans son deck."
 	},
 	{
 		"code": "38027",

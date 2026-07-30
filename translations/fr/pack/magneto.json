@@ -67,9 +67,10 @@
     },
     {
         "code": "49010",
+        "errata": "Remplacé la flèche de coût « → » par « Puis ». (RRG)",
         "flavor": "« J'ai bien entendu vos menaces. Voilà ma réponse. » – Magnéto",
         "name": "Projectile Magnétique",
-        "text": "<b>Action de héros</b> : défaussez un sbire auquel est attaché Enveloppé de Métal → infligez 5 dégâts à un ennemi et sonnez-le.",
+        "text": "<b>Action de héros</b> : défaussez un sbire auquel est attaché Enveloppé de Métal. Puis, infligez 5 dégâts à un ennemi et sonnez-le.",
         "traits": "Magnétique. Super-Pouvoir."
     },
     {

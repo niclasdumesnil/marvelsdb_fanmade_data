@@ -36,6 +36,7 @@
 		"base_threat": 2,
 		"boost": 2,
 		"code": "38026",
+		"errata": "Specified which player resolves the ability. (RRG)",
 		"faction_code": "encounter",
 		"flavor": "While she knows Mystique can't be trusted, Rogue still finds it hard to reject the woman who raised her.",
 		"illustrator": "Andrea Di Vito & Laura Villari",
@@ -47,7 +48,7 @@
 		"scheme_acceleration": 1,
 		"set_code": "rogue_nemesis",
 		"set_position": 2,
-		"text": "<b>When Defeated</b>: Search the encounter deck and discard pile for a copy of the Misled treachery and shuffle it into your deck.",
+		"text": "<b>When Defeated</b>: The defeating player searches the encounter deck and discard pile for a copy of the Misled treachery and shuffles it into their deck.",
 		"type_code": "side_scheme"
 	},
 	{
