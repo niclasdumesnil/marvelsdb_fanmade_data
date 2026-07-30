@@ -110,7 +110,7 @@
         "set_code": "daredevil_by_ffg_nemesis",
         "set_position": 3,
         "status": "released",
-        "text": "Attach to the enemy with the highest ATK.\n[star] Attached character's attacks gain piercing.\n<b>Hero Action</b>: Spend [physical] [physical] resources → choose to either attach this card to Elektra or discard it.\n<hr>[star] <b>Boost</b>: </b> If this activation is an attack, it gains piercing.",
+        "text": "Attach to the enemy with the highest ATK.\n[star] Attached character's attacks gain piercing.\n<b>Hero Action</b>: Spend [physical] [physical] resources → choose to either attach this card to Elektra or discard it.\n<hr>[star] <b>Boost</b>: If this activation is an attack, it gains piercing.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },
