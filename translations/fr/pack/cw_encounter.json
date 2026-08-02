@@ -2,12 +2,12 @@
     {
         "code": "56023",
         "name": "Trop Impliquée",
-        "text": "<b><i>Donnez cette carte au joueur de Greer Nelson.</i></b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• ﻿Inclinez Greer Nelson → retirez Trop Impliquée de la partie.\n﻿﻿• Chaque sbire engagé avec vous s'active contre vous. Si aucun sbire ne s'active par cet effet, Trop Impliquée gagne Renfort. Défaussez cette obligation."
+        "text": "<b><i>Donnez cette carte au joueur de Greer Nelson.</i></b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• ﻿Inclinez Greer Nelson → retirez Trop Impliquée de la partie.\n﻿﻿• Chaque sbire engagé avec vous s'active contre vous. Si aucun sbire ne s'active par cet effet, Trop Impliquée gagne Renfort. Défaussez cette obligation."
     },
     {
         "code": "56024",
         "name": "The Hood",
-        "text": "Solide. Vilenie.\n[star] <b>Réponse forcée</b> : après que The Hood vous a attaqué, placez 1 menace sur la manigance annexe Le Monde de la Pègre.\n<i>(Sbire Némésis de Tigra)</i>",
+        "text": "Solide. Vilenie.\n[star] <b>Réponse forcée</b> : après que The Hood vous a attaqué, placez 1 menace sur la manigance annexe Le Monde de la Pègre.\n<i>(Sbire Némésis de Tigra)</i>",
         "traits": "Criminel."
     },
     {
@@ -19,120 +19,874 @@
     {
         "code": "56026",
         "name": "La Cape de the Hood",
-        "text": "Attachez cette carte à The Hood. Sinon, attachez-la au méchant.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre l'ennemi attaché, dépensez les ressources suivantes : [energy][physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : attachez cette carte à The Hood. Sinon, attachez cette carte au méchant.",
+        "text": "Attachez cette carte à The Hood. Sinon, attachez-la au méchant.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre l'ennemi attaché, dépensez les ressources suivantes : [energy][physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : attachez cette carte à The Hood. Sinon, attachez cette carte au méchant.",
         "traits": "Armure."
     },
     {
         "code": "56027",
         "name": "Madame Masque",
-        "text": "<b>Une fois révélée</b> : placez 2 menaces sur la manigance annexe Le Monde de la Pègre. Sinon, trouvez Le Monde de la Pègre et révélez-la.\n<hr>[star] <b>Boost</b> : placez 2 menaces sur la manigance annexe Le Monde de la Pègre. Sinon, cette carte gagne [boost][boost].",
+        "text": "<b>Une fois révélée</b> : placez 2 menaces sur la manigance annexe Le Monde de la Pègre. Sinon, trouvez Le Monde de la Pègre et révélez-la.\n<hr>[star] <b>Boost</b> : placez 2 menaces sur la manigance annexe Le Monde de la Pègre. Sinon, cette carte gagne [boost][boost].",
         "traits": "Criminel."
     },
     {
         "code": "56028",
-        "flavor": "« Vilain chat ! »",
+        "flavor": "« Vilain chat ! »",
         "name": "Jigsaw",
-        "text": "Coup Rapide.\n[star] <b>Réponse forcée</b> : après que Jigsaw a attaqué et blessé un personnage, placez 2 menaces sur la manigance annexe Le Monde de la Pègre.",
+        "text": "Coup Rapide.\n[star] <b>Réponse forcée</b> : après que Jigsaw a attaqué et blessé un personnage, placez 2 menaces sur la manigance annexe Le Monde de la Pègre.",
         "traits": "Criminel."
     },
     {
         "code": "56054",
         "name": "Ascendance Problématique",
-        "text": "<b><i>Donnez cette carte au joueur de Teddy Altman.</i></b>\nVous avez le droit de passer sous forme d'alter ego. Choisissez :\n• ﻿﻿Inclinez Teddy Altman → retirez Ascendance Problématique de la partie.\n• ﻿﻿Défaussez chaque amélioration [[Métamorphose]] que vous contrôlez. Défaussez cette obligation."
+        "text": "<b><i>Donnez cette carte au joueur de Teddy Altman.</i></b>\nVous avez le droit de passer sous forme d'alter ego. Choisissez :\n• ﻿﻿Inclinez Teddy Altman → retirez Ascendance Problématique de la partie.\n• ﻿﻿Défaussez chaque amélioration [[Métamorphose]] que vous contrôlez. Défaussez cette obligation."
     },
     {
         "code": "56055",
         "name": "Super Skrull",
-        "text": "[star] <b>Interruption forcée</b> : quand Super Skrull vous attaque, défaussez la carte du dessus de votre deck. Si la ressource imprimée de cette carte a :\n[energy] - Super Skrull gagne +2 ATQ pour cette attaque.\n[mental] - défaussez 1 carte de votre main.\n[physical] - donnez une carte d'état Tenace à Super Skrull.\n[wild] - défaussez une amélioration que vous contrôlez.",
-        "traits": "Elite. Skrull."
+        "text": "[star] <b>Interruption forcée</b> : quand Super Skrull vous attaque, défaussez la carte du dessus de votre deck. Si la ressource imprimée de cette carte a :\n[energy] - Super Skrull gagne +2 ATQ pour cette attaque.\n[mental] - défaussez 1 carte de votre main.\n[physical] - donnez une carte d'état Tenace à Super Skrull.\n[wild] - défaussez une amélioration que vous contrôlez.",
+        "traits": "Élite. Skrull."
     },
     {
         "code": "56056",
         "flavor": "La mission de Super Skrull est d'enlever Hulkling depuis que sa véritable ascendance a été révélée.",
         "name": "Problème de Skrull",
-        "text": "<b>Réponse forcée</b> : après que n'importe quel nombre de cartes a été défaussé du dessus du deck d'un joueur, placez ces cartes face cachée sous cette manigance."
+        "text": "<b>Réponse forcée</b> : après que n'importe quel nombre de cartes a été défaussé du dessus du deck d'un joueur, placez ces cartes face cachée sous cette manigance."
     },
     {
         "code": "56057",
         "name": "Pouvoirs Fantastiques",
-        "text": "Le sbire attaché gagne +3 points de vie et Riposte 1.\n<b>Une fois révélée</b> : trouvez Super Skrull. Mettez-le en jeu engagé avec vous et attachez-lui Pouvoirs Fantastiques. Si vous êtes sous forme de héros, Super Skrull vous attaque.",
+        "text": "Le sbire attaché gagne +3 points de vie et Riposte 1.\n<b>Une fois révélée</b> : trouvez Super Skrull. Mettez-le en jeu engagé avec vous et attachez-lui Pouvoirs Fantastiques. Si vous êtes sous forme de héros, Super Skrull vous attaque.",
         "traits": "Super-Pouvoir."
     },
     {
         "code": "56058",
-        "name": "Tu Pars Avec Moi !",
-        "text": "<b>Une fois révélée (alter ego)</b> : défaussez les 3 cartes du dessus de votre deck. Placez 1 menace sur la manigance principale pour chaque icône de ressource différente sur les cartes défaussées.\n<b>Une fois révélée (héros)</b> : défaussez les 3 cartes du dessus de votre deck. Subissez 1 dégât pour chaque icône de ressource différente sur les cartes défaussées ([energy], [mental], [physical] ou [wild])."
+        "name": "Tu Pars Avec Moi !",
+        "text": "<b>Une fois révélée (alter ego)</b> : défaussez les 3 cartes du dessus de votre deck. Placez 1 menace sur la manigance principale pour chaque icône de ressource différente sur les cartes défaussées.\n<b>Une fois révélée (héros)</b> : défaussez les 3 cartes du dessus de votre deck. Subissez 1 dégât pour chaque icône de ressource différente sur les cartes défaussées ([energy], [mental], [physical] ou [wild])."
     },
     {
         "code": "56059",
         "name": "Iron Man",
-        "text": "[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Mise en place</b> : l'équipe ennemie cherche un attachement Iron Man dans le deck Rencontre et votre équipe le révèle.",
+        "text": "[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Mise en place</b> : l'équipe ennemie cherche un attachement Iron Man dans le deck Rencontre et votre équipe le révèle.",
         "traits": "Avenger."
     },
     {
         "code": "56060",
         "name": "Iron Man",
-        "text": "Solide.\n[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Iron Man ne peut pas subir de dégâts pendant cette phase.",
+        "text": "Solide.\n[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Iron Man ne peut pas subir de dégâts pendant cette phase.",
         "traits": "Avenger."
     },
     {
         "code": "56061",
-        "text": "[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Mise en place</b> : l'équipe ennemie cherche un attachement Iron Man dans le deck Rencontre et votre équipe le révèle."
+        "text": "[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Mise en place</b> : l'équipe ennemie cherche un attachement Iron Man dans le deck Rencontre et votre équipe le révèle."
     },
     {
         "code": "56062",
         "name": "Iron Man",
-        "text": "Solide.\n[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Iron Man ne peut pas subir de dégâts pendant cette phase.",
+        "text": "Solide.\n[star] Iron Man gagne +1 MNG pour chaque attachement [[Tech]] sur lui (jusqu'à un maximum de +3 MNG).\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Iron Man ne peut pas subir de dégâts pendant cette phase.",
         "traits": "Avenger."
     },
     {
         "code": "56063a",
         "name": "Loi d'Enregistrement des Super-Héros",
-        "text": "<b>Contenu</b> : le leader choisi l et Il (IIIl et IV en mode Expert). Le set du leader choisi, le set standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
+        "text": "<b>Contenu</b> : le leader choisi l et Il <i>(IIIl et IV en mode Expert)</i>. Le set du leader choisi, le set standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
     },
     {
         "code": "56063b",
-        "flavor": "« La société ne tolèrera plus que des super-héros agissent dans le mépris de la loi. » – Miss Hulk",
+        "flavor": "« La société ne tolèrera plus que des super-héros agissent dans le mépris de la loi. » – Miss Hulk",
         "name": "Couper les Renforts",
-        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\n<b>Interruption forcée</b> : quand un joueur révèle une traîtrise, placez 1 menace sur cette manigance principale. (Limite d'une fois par phase et par joueur.)"
+        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\n<b>Interruption forcée</b> : quand un joueur révèle une traîtrise, placez 1 menace sur cette manigance principale. (Limite d'une fois par phase et par joueur.)"
     },
     {
         "code": "56064a",
-        "flavor": "Iron Man et ses Avengers ont pour ordre d'appréhender tout individu surhumain qui refuse de s'enregistrer auprès du S.H.I.E.L.D.. Cela inclut d'anciens coéquipiers comme Captain America et Spider-Woman.",
+        "flavor": "Iron Man et ses Avengers ont pour ordre d'appréhender tout individu surhumain qui refuse de s'enregistrer auprès du S.H.I.E.L.D.. Cela inclut d'anciens coéquipiers comme Captain America et Spider – Woman.",
         "name": "Tactiques Pro-Enregistrement"
     },
     {
         "code": "56064b",
-        "text": "[star] Réduisez de 1 le seuil de menace de cette manigance pour chaque carte face cachée placée dessous.\n<b>Réponse forcée</b> : après qu'un allié a été vaincu par une attaque ennemie, placez cet allié face cachée sous cette manigance.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+        "text": "[star] Réduisez de 1 le seuil de menace de cette manigance pour chaque carte face cachée placée dessous.\n<b>Réponse forcée</b> : après qu'un allié a été vaincu par une attaque ennemie, placez cet allié face cachée sous cette manigance.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
     },
     {
         "code": "56065",
-        "name": "Gantelets énergétiques",
-        "text": "Attachez cette carte à Iron Man.\n[star] Les attaques d'Iron Man gagnent À Distance.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez les ressources suivantes : [energy][physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "name": "Gantelets Énergétiques",
+        "text": "Attachez cette carte à Iron Man.\n[star] Les attaques d'Iron Man gagnent À Distance.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez les ressources suivantes : [energy][physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
         "traits": "Armure. Tech."
     },
     {
         "code": "56066",
         "name": "Bottes-Fusée",
-        "text": "Attachez cette carte à Iron Man.\nIron Man gagne le trait Aérien.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez les ressources suivantes [energy][physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "text": "Attachez cette carte à Iron Man.\nIron Man gagne le trait Aérien.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez les ressources suivantes [energy][physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
         "traits": "Armure. Tech."
     },
     {
         "code": "56067",
         "name": "Casque Mark V",
-        "text": "Attachez cette carte à Iron Man et donnez-lui une carte d'état Tenace.\nIron Man gagne Robuste.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez les ressources suivantes : [mental][physical]→ défaussez cette carte.",
+        "text": "Attachez cette carte à Iron Man et donnez-lui une carte d'état Tenace.\nIron Man gagne Robuste.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez les ressources suivantes : [mental][physical] → défaussez cette carte.",
         "traits": "Armure. Tech."
     },
     {
         "code": "56068",
         "name": "Réacteur Arc",
-        "text": "Attachez cette carte à Iron Man et donnez-lui une carte d'état Tenace.\nIron Man gagne Riposte 1.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez es ressources suivantes : [mental][physical]→ défaussez cette carte.",
+        "text": "Attachez cette carte à Iron Man et donnez-lui une carte d'état Tenace.\nIron Man gagne Riposte 1.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Iron Man, dépensez es ressources suivantes : [mental][physical] → défaussez cette carte.",
         "traits": "Armure. Tech."
     },
     {
         "code": "56069",
         "name": "Armure Mark V",
-        "text": "Attachez cette carte à Iron Man.\n<b>Interruption forcée</b> : quand Iron Man est censé subir n'importe quelle quantité de dégâts, placez-les ici à la place. Ensuite, s'il y a au moins 5 dégâts sur cette carte, défaussez-la.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "text": "Attachez cette carte à Iron Man.\n<b>Interruption forcée</b> : quand Iron Man est censé subir n'importe quelle quantité de dégâts, placez-les ici à la place. Ensuite, s'il y a au moins 5 dégâts sur cette carte, défaussez-la.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
         "traits": "Armure. Tech."
+    },
+    {
+        "code": "56070",
+        "name": "Rayon Répulsif",
+        "text": "<b>Une fois révélée (alter ego)</b> : défaussez une amélioration ou un soutien que vous contrôlez.\n<b>Une fois révélée (héros)</b> : défaussez les 4 cartes du dessus de votre deck. Pour chaque ressource [energy] et [wild] imprimée défaussée par cet effet, infligez 1 dégât à votre héros."
+    },
+    {
+        "code": "56071",
+        "flavor": "« Ça y est. Maintenant, je suis en colère ! » – Iron Man",
+        "name": "Coup de Poing Supersonique",
+        "text": "<b>Une fois révélée (alter ego)</b> : iron Man manigance. S'il a un attachement [[Tech]], vous êtes désorienté.\n<b>Une fois révélée (héros)</b> : iron Man vous attaque. S'il a un attachement [[Tech]], cette attaque gagne Perçant."
+    },
+    {
+        "code": "56072",
+        "flavor": "La grande richesse d'Iron Man donne aux Avengers un avantage significatif sur les hors – la-loi de Captain America.",
+        "name": "Tour Stark",
+        "text": "<b>Une fois déjouée</b> : l'équipe ennemie cherche un attachement Iron Man dans le deck Rencontre ou la pile de défausse Rencontre et votre équipe le révèle."
+    },
+    {
+        "code": "56073",
+        "name": "Le Frelon",
+        "text": "Ténacité.\n<b>Une fois révélée</b> : donnez une carte d'état Tenace au leader ennemi.\n<hr>[star] <b>Boost</b> : donnez une carte d'état Tenace au leader ennemi.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56074",
+        "name": "la Guêpe",
+        "text": "Collaboration ([[Avenger]]).\n<b>Une fois révélée</b> : placez 1 menace sur la manigance principale.\n<hr>[star] <b>Boost</b> : placez 1 menace sur la manigance principale.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "56075",
+        "name": "U.S. Agent",
+        "text": "Riposte 1. Ténacité.\n<b>Une fois révélée</b> : infligez 1 dégât à votre identité.\n<hr>[star] <b>Boost</b> : infligez 1 dégât à votre identité.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56076",
+        "flavor": "« Rends-nous un service, reste à terre ! » – Doc Samson",
+        "name": "Puissants Avengers",
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b>Une fois révélée</b> » de chaque sbire en jeu. Si aucune capacité « <b>Une fois révélée</b> » n'a été résolue par cet effet, cette carte gagne Renfort."
+    },
+    {
+        "code": "56077",
+        "flavor": "« Nous sommes plus nombreux et mieux armés. » – Iron Man",
+        "name": "Les Plus Grands Héros de la Terre",
+        "text": "Entrave 1[per_hero].\nChaque sbire [[Avenger]] gagne les mots-clés imprimés de chaque autre sbire [[Avenger]]."
+    },
+    {
+        "code": "56078",
+        "name": "Doc Samson",
+        "text": "Garde.\n<b>Une fois révélée</b> : vous êtes désorienté. Si vous étiez déjà désorienté, placez 2 menaces sur la manigance principale.\n<hr>[star] <b>Boost</b> : vous êtes désorienté.",
+        "traits": "Avenger. Gamma."
+    },
+    {
+        "code": "56079",
+        "name": "Hellcat",
+        "text": "Coup Rapide.\n<b>Une fois révélée</b> : vous êtes sonné. Si vous étiez déjà sonné, subissez 2 dégâts indirects.\n<hr>[star] <b>Boost</b> : vous êtes sonné.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56080",
+        "name": "Enrolés",
+        "text": "Le sbire attaché gagne +2 points de vie et le trait [[Avenger]].\n<b>Une fois révélée</b> : en mode Compétition, l'équipe ennemie attache Enrôlés à un sbire engagé avec elle et ce sbire vous engage. Sinon, défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire soit défaussé. Révélez ce sbire et attachez-lui Enrôlés."
+    },
+    {
+        "code": "56081",
+        "flavor": "« Rends-nous un service, reste à terre ! » – Doc Samson",
+        "name": "Puissants Avengers",
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b> Une fois révélée</b> » de chaque sbire en jeu. Si aucune capacité « <b>Une fois révélée</b> » n'a été résolue par cet effet, cette carte gagne Renfort."
+    },
+    {
+        "code": "56082",
+        "flavor": "Le S.H.I.E.L.D. veut que chaque état se dote de sa propre super équipe gouvernementale.",
+        "name": "L'Initiative des 50 États",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : mélangez chaque sbire Avenger de la pile de défausse Rencontre dans le deck Rencontre."
+    },
+    {
+        "code": "56083",
+        "flavor": "« C'est la mission du S.H.I.E.L.D. de protéger le monde ! »",
+        "name": "Maria Hill",
+        "text": "Riposte 2.\n<b>Une fois révélée</b> : l'équipe ennemie cherche un exemplaire de Simulacre de Vie Modélisée dans le deck Rencontre ou la pile de défausse Rencontre et l'attache à Maria Hill.",
+        "traits": "Élite. S.H.I.E.L.D."
+    },
+    {
+        "code": "56084",
+        "name": "Simulacre de Vie Modélisée",
+        "text": "L'équipe ennemie attache cette carte à un sbire ou à son leader. (Limite de 1 par personnage.)\nLe personnage attaché gagne Robuste.\n<b>Interruption forcée</b> : quand le personnage attaché est censé subir n'importe quelle quantité de dégâts d'une attaque, prévenez ces dégâts et défaussez cette carte à la place."
+    },
+    {
+        "code": "56085",
+        "flavor": "« Écartez-vous, Captain. Ce n'est PAS vous qui commandez ici. » – Maria Hill",
+        "name": "Ordre Éxécutif",
+        "text": "<b>Une fois révélée</b> : placez 2 menaces sur chaque manigance. Si Maria Hill est en jeu, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : si Maria Hill est en jeu, cette carte gagne [boost][boost][boost]."
+    },
+    {
+        "code": "56087",
+        "flavor": "« On croque juste un morceau ! Ça ne va pas les tuer ! »",
+        "name": "Venom",
+        "text": "[star] Les attaques de Venom gagnent Perçant.\n<b>Une fois révélée</b> : venom attaque votre leader. Sinon, Venom s'active contre vous.",
+        "traits": "Thunderbolt."
+    },
+    {
+        "code": "56088",
+        "flavor": "« C'est trop fort : je travaille pour le S.H.I.E.L.D. et c'est Daredevil le hors-la-loi ! »",
+        "name": "Bullseye",
+        "text": "<b>Une fois révélée</b> : l'équipe ennemie défausse un attachement de votre leader. Sinon, défaussez une amélioration que vous contrôlez.",
+        "traits": "Thunderbolt."
+    },
+    {
+        "code": "56098",
+        "name": "Énergie Canalisée",
+        "text": "Permanent.\n<b>Réponse forcée</b> : après qu'un leader, un héros ou un allié a attaqué Captain Marvel, placez 1 jeton Énergie ici. Ensuite, s'il y a au moins 4 jetons Énergie sur cette carte, retirez-les tous → Captain Marvel attaque ce personnage. Cette attaque gagne Déferlement.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "56105",
+        "flavor": "Le S.H.I.E.L.D. a formé une unite d'élite capable d'affronter et capturer les super – héros.",
+        "name": "Tueurs de Capes",
+        "text": "Coup Rapide.\n[star] <b>Interruption forcée</b> : quand le Tueur de Capes attaque une identité ayant le trait [[Non-Enregistré]], il gagne +2 ATQ pour cette attaque.",
+        "traits": "S.H.I.E.L.D."
+    },
+    {
+        "code": "56109",
+        "name": "Soldat du S.H.I.E.L.D.",
+        "text": "<b>Une fois révélée</b> : mettez en jeu le sbire [[S.H.I.E.L.D.]] le plus proche du dessus de la pile de défausse Rencontre engagé avec vous.\n<hr>[star] <b>Boost</b> : mettez en jeu ce sbire engagé avec vous.",
+        "traits": "S.H.I.E.L.D."
+    },
+    {
+        "code": "56112",
+        "flavor": "« Je n'aime pas pourchasser nos amis, mais je préfère qu'on les retrouve avant les Thunderbolts. »",
+        "name": "Colleen Wing",
+        "text": "<b>Une fois révélée</b> : choisissez un allié que vous contrôlez (l'équipe ennemie choisit à la place si vous avez le trait Non-Enregistré). Défaussez cet allié.",
+        "traits": "Héros À Louer."
+    },
+    {
+        "code": "56113",
+        "flavor": "« La honte n'a pas sa place lorsque la cause est juste. »",
+        "name": "Shang-Chi",
+        "text": "<b>Une fois révélée</b> : choisissez une amélioration que vous contrôlez (l'équipe ennemie choisit à la place si vous avez le trait [[Non-Enregistré]]). Défaussez cette amélioration.",
+        "traits": "Héros À Louer."
+    },
+    {
+        "code": "56117",
+        "flavor": "« Je ne fais pas ça pour vos projets politiques. Je fais ça pour l'argent. »",
+        "name": "Paladin",
+        "text": "Coup Rapide. Ténacité.\n<b>Une fois révélée</b> : défaussez 1 carte de votre main (au hasard si vous avez le trait [[Non-Enregistré]]).",
+        "traits": "Élite. Héros À Louer."
+    },
+    {
+        "code": "56150",
+        "name": "Le Faucon",
+        "text": "Collaboration ([[Avenger]]).\n<b>Une fois vaincu</b> : donnez cette carte au leader ennemi en tant que carte de boost face cachée.\n<hr>[star] <b>Boost</b> : vous êtes désorienté. Si vous étiez déjà désorienté, cette carte gagne [boost][boost].",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "56151",
+        "name": "Hercule",
+        "text": "Collaboration ([[Avenger]]).\n<b>Une fois vaincu</b> : donnez cette carte au leader ennemi en tant que carte de boost face cachée.\n<hr>[star] <b>Boost</b> : vous êtes sonné. Si vous étiez déjà sonné, cette carte gagne [boost][boost].",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56152",
+        "name": "Goliath",
+        "text": "Collaboration ([[Avenger]]).\n<b>Une fois vaincu</b> : donnez cette carte au leader ennemi en tant que carte de boost face cachée.\n<hr>[star] <b>Boost</b> : donnez une carte d'état Tenace au leader ennemi. S'il était déjà Tenace, cette carte gagne [boost][boost].",
+        "traits": "Avenger. Géant."
+    },
+    {
+        "code": "56155",
+        "name": "Black Panther",
+        "text": "Collaboration ([[Avenger]]).\n<b>Une fois vaincu</b> : donnez cette carte au leader ennemi en tant que carte de boost face cachée.\n<hr>[star] <b>Boost</b> : inclinez chaque amélioration que vous contrôlez.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56156",
+        "name": "Spectrum",
+        "text": "Collaboration ([[Avenger]]).\n<b>Une fois vaincu</b> : donnez cette carte au leader ennemi en tant que carte de boost face cachée.\n<hr>[star] <b>Boost</b> : inclinez un personnage que vous contrôlez.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "56160",
+        "flavor": "« Une fois de plus, la guerre de ceux de la surface a blessé mes Atlantes et le Peuple Sous-Marin se doit de les venger. »",
+        "name": "Namor",
+        "text": "Robuste. Ténacité. Vilenie.\n<b>Une fois révélée</b> : namor s'active contre vous.",
+        "traits": "Atlantide. Élite."
+    },
+    {
+        "code": "56165",
+        "flavor": "« Pour Namor et pour la gloire de l'Atlantide ! »",
+        "name": "Garde Atlante",
+        "text": "Garde.\n<b>Une fois révélée</b> : défaussez les 3 cartes du dessus de votre deck.",
+        "traits": "Atlantide."
+    },
+    {
+        "code": "56180",
+        "name": "Spider-Man",
+        "text": "<b>Une fois révélée</b> : spider-Man attaque chaque personnage avec Emmêlé attaché. Si aucune attaque n'a été ainsi effectuée, l'équipe ennemie cherche un exemplaire d'Emmêlé dans le deck Rencontre ou la pile de défausse Rencontre et vous le donne en tant que carte Rencontre face cachée.",
+        "traits": "Avenger. Élite."
+    },
+    {
+        "code": "56184",
+        "flavor": "« Vous, les gars du S.H.I.E.L.D., vous feriez mieux de dégager hors de ma vue ! »",
+        "name": "Luke Cage",
+        "text": "<b>Une fois révélée</b> : sonnez votre leader. Sinon, vous êtes sonné.\n<hr>[star] <b>Boost</b> : sonnez votre leader. Sinon, vous êtes sonné.",
+        "traits": "Defender."
+    },
+    {
+        "code": "56185",
+        "flavor": "« Je croyais en avoir terminé avec ces délires de super-héros. »",
+        "name": "Jessica Jones",
+        "text": "<b>Une fois révélée</b> : désorientez votre leader. Sinon, vous êtes désorienté.\n<hr>[star] <b>Boost</b> : désorientez votre leader. Sinon, vous êtes désorienté.",
+        "traits": "Defender."
+    },
+    {
+        "code": "56189",
+        "flavor": "« Mon respect pour la loi n'a pas émoussé ma perception du bien et du mal. »",
+        "name": "Daredevil",
+        "text": "<b>Une fois révélée</b> : l'équipe ennemie incline un personnage que vous contrôlez.\n<hr>[star] <b>Boost</b> : inclinez un personnage que vous contrôlez.",
+        "traits": "Defender."
+    },
+    {
+        "code": "56190",
+        "name": "Iron Fist",
+        "text": "<b>Une fois révélée</b> : iron Fist attaque votre leader. Sinon, Iron Fist s'active contre vous.\n<hr>[star] <b>Boost</b> : le leader ennemi attaque votre leader (après cette activation). Ne lui donnez pas de carte de boost pour cette attaque.",
+        "traits": "Defender."
+    },
+    {
+        "code": "56194",
+        "name": "La Cape",
+        "text": "<b>Une fois révélée</b> : placez 2 menaces sur une manigance. En mode Compétition, retirez 2 menaces de la manigance principale de votre leader.\n<hr>[star] <b>Boost</b> : si L'Épée est en jeu, révélez La Cape. Sinon, placez 1 menace sur une manigance.",
+        "traits": "Defender."
+    },
+    {
+        "code": "56195",
+        "name": "L'Épée",
+        "text": "<b>Une fois révélée</b> : soignez 2 dégâts du leader ennemi. Infligez 2 dégâts à un personnage que vous contrôlez.\n<hr>[star] <b>Boost</b> : si La Cape est en jeu, révélez L'Épée. Sinon, infligez 1 dégât à un personnage que vous contrôlez."
+    },
+    {
+        "code": "56092",
+        "name": "Captain Marvel",
+        "text": "<b>Mise en place</b> : l'équipe ennemie trouve Énergie Canalisée et l'attache à Captain Marvel.\n<b>Réponse forcée</b> : après que Captain Marvel vous a attaqué et a vaincu un personnage, placez 1 jeton Énergie sur Énergie Canalisée.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "56093",
+        "name": "Captain Marvel",
+        "text": "Solide.\n<b>Une fois révélée</b> : attribuez à chaque joueur une carte Rencontre. Captain Marvel ne peut pas subir de dégâts pendant cette phase.\n<b>Réponse forcée</b> : après que Captain Marvel a attaqué et vaincu un personnage, placez 1 jeton Énergie sur Énergie Canalisée.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "56094",
+        "name": "Captain Marvel",
+        "text": "<b>Mise en place</b> : l'équipe ennemie trouve Énergie Canalisée et l'attache à Captain Marvel.\n<b>Réponse forcée</b> : après que Captain Marvel a attaqué et vaincu un personnage, placez 1 jeton Énergie sur Énergie Canalisée.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "56095",
+        "name": "Captain Marvel",
+        "text": "Solide.\n<b>Une fois révélée</b> : attribuez à chaque joueur une carte Rencontre. Captain Marvel ne peut pas subir de dégâts pendant cette phase.\n<b>Réponse forcée</b> : après que Captain Marvel a attaqué et vaincu un personnage, placez 1 jeton Énergie sur Énergie Canalisée.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "56096a",
+        "name": "Loi d'Enregistrement des Super-Héros",
+        "text": "<b>Contenu</b> : le leader choisi l et Il <i>(III et IV en mode Expert)</i>. Le set du leader choisi, le set standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et  révélez-la."
+    },
+    {
+        "code": "56096b",
+        "name": "recrues du S.H.I.E.L.D.",
+        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\n<b>Une fois révélée</b> : l'équipe ennemie cherche 1[per_hero] sbires dans le deck Rencontre et en attribue un à chaque joueur de votre équipe en tant que carte Rencontre face cachée."
+    },
+    {
+        "code": "56097a",
+        "flavor": "Iron Man et ses Avengers ont pour ordre d'appréhender tout individu surhumain qui refuse de s'enregistrer auprès du S.H.I.E.L.D.. Cela inclut d'anciens coéquipiers comme Captain America et Spider – Woman.",
+        "name": "Tactique Pro-Enregistrement"
+    },
+    {
+        "code": "56097b",
+        "name": "Traquer les Héros rebelles",
+        "text": "Chaque héros gagne le trait [[Non-Enregistré]].\n<b>Réponse forcée</b> : après qu'une autre carte qui donne le trait [[Non-Enregistré]] à au moins 1 héros est révélée, infligez 2 dégâts à chacun de ses héros.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "56099",
+        "name": "Casque de Captain Marvel",
+        "text": "Attachez cette carte à Captain Marvel.\nCaptain Marvel gagne Robuste.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Captain Marvel, dépensez 3 ressources du même type → défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Armure. Tech."
+    },
+    {
+        "code": "56100",
+        "name": "Vol Cosmique",
+        "text": "Attachez cette carte à Captain Marvel.\n<b>Interruption forcée</b> : quand Captain Marvel est censée subir plus de 3 dégâts d'une attaque, réduisez cette quantité à 3. Ensuite, défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "56106",
+        "name": "Super Non-Enregistré",
+        "text": "Votre identité gagne le trait [[Non-Enregistré]].\n<b>Action d'alter ego</b> : défaussez de votre main une carte spécifique à votre identité → défaussez cette obligation."
+    },
+    {
+        "code": "56114",
+        "name": "Super Non-Enregistré",
+        "text": "Votre identité gagne le trait [[Non-Enregistré]].\n<b>Action d'alter ego</b> : défaussez de votre main une carte spécifique à votre identité → défaussez cette obligation."
+    },
+    {
+        "code": "56118",
+        "name": "Pistolet de Paladin",
+        "text": "Attachez cette carte à Paladin. Sinon, attachez cette carte au leader ennemi.\n[star] <b>Interruption forcée</b> : quand le personnage attaché attaque, cette attaque gagne À Distance et Déferlement. Défaussez cette carte après cette attaque.",
+        "traits": "Arme."
+    },
+    {
+        "code": "56137",
+        "flavor": "« La loi n'est pas nécessairement la justice. »",
+        "name": "Captain America",
+        "text": "<b>Mise en place</b> : l'équipe ennemie trouve le Bouclier du Captain et l'attache à Captain America.\n<b>Réponse forcée</b> : après que le Bouclier du Captain a été attaché à Captain America, donnez-lui une carte d'état Tenace.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56138",
+        "name": "Captain America",
+        "text": "Solide.\n<b>Une fois révélée</b> : attribuez à chaque joueur une carte Rencontre. Captain America ne peut pas subir de dégâts à cette phase.\n<b>Réponse forcée</b> : après que le Bouclier du Captain a été attaché à Captain America, donnez-lui une carte d'état Tenace.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56139",
+        "flavor": "« La loi n'est pas nécessairement la justice. »",
+        "name": "Captain America",
+        "text": "<b>Mise en place</b> : l'équipe ennemie trouve le Bouclier du Captain et l'attache à Captain America.\n<b>Réponse forcée</b> : après que le Bouclier du Captain a été attaché à Captain America, donnez-lui une carte d'état Tenace.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56140",
+        "name": "Captain America",
+        "text": "Solide.\n<b>Une fois révélée</b> : attribuez à chaque joueur une carte Rencontre. Captain America ne peut pas subir de dégâts à cette phase.\n<b>Réponse forcée</b> : après que le Bouclier du Captain a été attaché à Captain America, donnez-lui une carte d'état Tenace.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56141a",
+        "name": "Résistance des Super-Héros",
+        "text": "<b>Contenu</b> : le leader choisi I et Il <i>(III et IV en mode Expert)</i>. Le set du leader choisi, le set Standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir Son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
+    },
+    {
+        "code": "56141b",
+        "name": "Rassembler des Soutiens",
+        "text": "S'il y a plus d'un joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\n<b>Une fois révélée</b> : l'équipe ennemie cherche 1[per_hero] sbires dans le deck Rencontre et en attribue un à chaque joueur de votre équipe en tant que carte Rencontre face cachée."
+    },
+    {
+        "code": "56142a",
+        "flavor": "Captain America et ses Avengers sont obligés d'œuvrer dans la clandestinité s'ils ne veulent pas être arrêtés en raison de leur refus d'être enregistres par le S.H.I.E.L.D.. Lorsqu'Iron Man et Captain Marvel commencent à s'entourer de leurs alliés surhumains, la résistance décide de contre – attaquer.",
+        "name": "Tactiques de Résistance"
+    },
+    {
+        "code": "56142b",
+        "flavor": "Les Avengers de Captain America continuent de combattre le crime depuis leur base secrète.",
+        "name": "Avengers Secrets",
+        "text": "Le leader ennemi gagne +1 ATQ tant qu'il attaque (+2 ATQ à la place si l'attaque est non défendue).\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "56143",
+        "name": "Bouclier du Captain",
+        "text": "Permanent. Attachez cette carte à Captain America.\nLe personnage attaché gagne Riposte 1 et les attaques contre lui perdent Perçant.\n<b>Réponse forcée</b> : après qu'un héros ou le leader Captain America utilise son ATQ pour attaquer et blesser le personnage attaché, attachez le Bouclier du Captain à l'attaquant.",
+        "traits": "Objet."
+    },
+    {
+        "code": "56144",
+        "name": "Casque du Captain",
+        "text": "Attachez cette carte à Captain America.\nCaptain America gagne Robuste.\n<b>Réponse de héros</b> : après que vous avez effectué une attaque de base contre Captain America, dépensez 3 ressources du même type → défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Armure."
+    },
+    {
+        "code": "56145",
+        "name": "Sérum de Super-Soldat",
+        "text": "Attachez cette carte à Captain America.\n[star] <b>Interruption forcée</b> : quand Captain America attaque, cette attaque gagne Déferlement. À la fin de cette attaque, défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.[star]",
+        "traits": "Objet."
+    },
+    {
+        "code": "56161",
+        "name": "Le Trident de Neptune",
+        "text": "Attachez cette carte à Namor. Sinon, attachez-la au leader ennemi.\n[star] Les attaques du personnage attaché gagnent Perçant.\n<b>Action de héros</b> : dépensez les ressources suivantes : energie physique → défaussez cette carte.",
+        "traits": "Arme."
+    },
+    {
+        "code": "56162",
+        "name": "Corne de Proteus",
+        "text": "Attachez cette carte à Namor. Sinon, attachez-la au leader ennemi.\n[star]<b>Interruption forcée</b> : quand le personnage attache manigance, donnez-lui une carte d'état Tenace.\n<b>Action de héros</b> : dépensez les ressources suivantes : mental physique → défaussez cette carte.",
+        "traits": "Objet."
+    },
+    {
+        "code": "56168",
+        "name": "Spider-Woman",
+        "text": "<b>Mise en place</b> : l'équipe ennemie trouve Finesse et l'attache à Spider-Woman.\n[star] Interruption forcée : quand Spider-Woman attaque, elle gagne +1 ATQ pour chaque jeton Compétence sur Finesse pour cette attaque. Retirez chaque jeton Compétence de Finesse.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56169",
+        "text": "Solide.\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Spider-Woman ne peut pas subir de dégâts à cette phase.\n[star] <b>Interruption forcée</b> : quand Spider-Woman attaque, elle gagne +1 ATQ pour chaque jeton Compétence sur Finesse pour cette attaque. Retirez chaque jeton Compétence de Finesse.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56170",
+        "name": "Spider-Woman",
+        "text": "<b>Mise en place</b> : l'équipe ennemie trouve Finesse et l'attache à Spider-Woman.\n[star] <b>Interruption forcée</b> : quand Spider-Woman attaque, elle gagne +1 ATQ pour chaque jeton Compétence sur Finesse pour cette attaque. Retirez chaque jeton Compétence de Finesse.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56171",
+        "name": "Spider-Woman",
+        "text": "Solide.\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Spider-Woman ne peut pas subir de dégâts à cette phase.\n[star] Interruption forcée : quand Spider-Woman attaque, elle gagne +1 ATQ pour chaque jeton Compétence sur Finesse pour cette attaque. Retirez chaque jeton Compétence de Finesse.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "56172a",
+        "name": "Résistance des Super-Héros",
+        "text": "<b>Contenu</b> : le leader choisi l et II <i>(III et IV en mode Expert)</i>. Le set du leader choisi, le set Standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir Son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
+    },
+    {
+        "code": "56172b",
+        "flavor": "« Pourquoi vous n'iriez pas à la recherche des VRAIS méchants ? » – Hulkling",
+        "name": "Rébellion Manifeste",
+        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\n<b>Interruption forcée</b> : quand un joueur révèle une traîtrise, placez 1 menace ici. (Limite d'une fois par phase et par joueur.)"
+    },
+    {
+        "code": "56173a",
+        "flavor": "Captain America et ses Avengers sont obligés d'œuvrer dans la clandestinité s'ils ne veulent pas être arrêtés en raison de leur refus d'être enregistrés par le S.H..E.L.D.. Lorsqu'Iron Man et Captain Marvel commencent à s'entourer de leurs alliés surhumains, la résistance décide de contre – attaquer.",
+        "name": "Tactiques de Résistance"
+    },
+    {
+        "code": "56173b",
+        "flavor": "« Des héros hors-la-loi qui combattent le crime ? Vous ne trouvez pas ça ironique ? » – Le Chef de la Police",
+        "name": "Protecteurs du Quartier",
+        "text": "<b>Une fois révélée</b> : l'équipe ennemie cherche 1[per_hero] manigances annexes dans le deck Rencontre ou la pile de défausse Rencontre et en attribue une a chaque joueur de votre équipe en tant que carte Rencontre face cachée.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "56174",
+        "name": "Finesse",
+        "text": "Permanent.\n3 jetons Compétence max. sur cette carte.\n<b>Interruption forcée</b> : quand une traîtrise est révélée, placez 1 jeton Compétence sur cette carte.",
+        "traits": "Super-Pouvoir."
+    },
+    {
+        "code": "56175",
+        "name": "Immunité Contre les Toxines",
+        "text": "Attachez cette carte à Spider-Woman.\n<b>Interruption forcée</b> : quand Spider-Woman est censée être sonnée ou désorientée, défaussez cette carte à la place. Donnez-lui une carte d'état Tenace.\n<hr>[star] <b>Boost</b> : révélez cette carte."
+    },
+    {
+        "code": "56181",
+        "name": "Emmêlé",
+        "text": "Attachez cette carte à votre leader. Sinon, attachez-la à votre héros.\n<b>Interruption forcée</b> : quand un personnage est censé manigancer, contrer ou attaquer, défaussez cette carte à la place.\n<hr>[star] <b>Boost</b> : si le sbire Spider-Man est en jeu, révélez cette carte.",
+        "traits": "Condition."
+    },
+    {
+        "code": "56191",
+        "name": "Soldat de la Résistance",
+        "text": "Attachez cette carte à un sbire choisi par l'équipe ennemie. Sinon, cette carte gagne Renfort.\nLe sbire attaché gagne +4 points de vie et Robuste.\n<hr>[star] <b>Boost</b> : attachez cette carte à un sbire engagé avec vous.",
+        "traits": "Condition."
+    },
+    {
+        "code": "56196",
+        "name": "Énergie Noire",
+        "text": "Attachez cette carte au leader ennemi et donnez-lui une carte d'état Tenace.\n[star]<b>Réponse forcée</b> : après que le leader attaché a manigancé et placé de la menace sur la manigance principale, retirez une quantité égale de menace de la manigance principale de votre leader. Défaussez cette carte."
+    },
+    {
+        "code": "56086",
+        "flavor": "Le S.H.I.E.L.D. exerce son influence partout dans le monde en déployant ses héliporteurs.",
+        "name": "Héliporteur du S.H.I.E.L.D.",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance inflige 1 dégât à chaque personnage qu'il contrôle et chaque sbire engagé avec lui."
+    },
+    {
+        "code": "56089",
+        "flavor": "« Nous sommes tous coupables. Voilà la justice ! » – Penance",
+        "name": "La Justice Comme la Foudre",
+        "text": "<b>Une fois révélée</b> : chaque sbire s'active contre le joueur avec qui il est engagé. Sinon, le leader ennemi s'active contre vous. Ne lui donnez pas de carte de boost pour cette activation."
+    },
+    {
+        "code": "56090",
+        "name": "Force Excessive",
+        "text": "<b>Une fois révélée</b> : placez 1 menace sur la manigance principale pour chaque sbire en jeu. Sinon, cette carte gagne Renfort.\n<hr />\n<hr>[star] <b>Boost</b> : le leader ennemi attaque votre leader <i>(après cette activation)</i>. Ne lui donnez pas de carte de boost pour cette attaque."
+    },
+    {
+        "code": "56091",
+        "flavor": "« On leur a tous injecté des implants explosifs s'assurer de leur obéissance. » – Maria Hill",
+        "name": "Dangereuses Recrues",
+        "text": "Entrave 1[per_hero].\n<b>Interruption forcée</b> : quand un sbire est vaincu, donnez-le à un leader ennemi en tant que carte de boost face cachée."
+    },
+    {
+        "code": "56101",
+        "name": "Rayon Photonique",
+        "text": "<b>Une fois révélée (alter ego)</b> : défaussez un allié ou un soutien que vous contrôlez.\n<b>Une fois révélée (héros)</b> : captain Marvel vous attaque. Placez 1 jeton Énergie sur Énergie Canalisée."
+    },
+    {
+        "code": "56102",
+        "name": "Empêcher les Conflits",
+        "text": "<b>Une fois révélée (alter ego)</b> : captain Marvel manigance. Placez 1 jeton Énergie sur Énergie Canalisée.\n<b>Une fois révélée (héros)</b> : placez 2 menaces sur chaque manigance."
+    },
+    {
+        "code": "56103",
+        "name": "Absorption d'Énergie",
+        "text": "<b>Une fois révélée</b> : placez 1 jeton Énergie sur Énergie Canalisée. Soignez\n1 dégât de Captain Marvel pour chaque jeton Énergie sur Énergie Canalisée.\n<hr>[star] <b>Boost</b> : placez 1 jeton Énergie sur Énergie Canalisée."
+    },
+    {
+        "code": "56104",
+        "flavor": "« Maintenez vos senseurs verrouillés sur l'Amérique du Nord. Je veux connaître la localisation du quartier général du Captain. » – Captain Marvel",
+        "name": "Station Alpha Flight",
+        "text": "<b>Une fois déjouée</b> : placez 3 jetons Énergie sur Énergie Canalisée."
+    },
+    {
+        "code": "56107",
+        "name": "Faites-Les Entrer",
+        "text": "<b>Une fois révélée</b> : inclinez chaque identité [[Non-Enregistré]]. Sinon, l'équipe ennemie cherche un exemplaire de Super Non-Enregistré dans le deck Rencontre ou la pile de défausse Rencontre et vous l'attribue en tant que carte Rencontre face cachée."
+    },
+    {
+        "code": "56108",
+        "flavor": "« Voilà ce qui arrive lorsqu'on ne respecte pas la loi ! » – Officier du S.H.I.E.L.D.",
+        "name": "Ordre d'Arrestation",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : le joueur vainqueur s'attribue le sbire [[S.H.I.E.L.D.]] le plus proche du dessus de la pile de défausse Rencontre en tant que carte Rencontre face cachée."
+    },
+    {
+        "code": "56110",
+        "name": "Réponse Rapide",
+        "text": "<b>Une fois révélée</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un sbire soit défaussé. Si vous êtes sous :\n• Forme d'alter ego, placez sur la manigance principale une quantité de menaces égale à la MNG de ce sbire.\n• Forme de héros, infligez à votre héros une quantité de dégâts égale à l'ATQ de ce sbire."
+    },
+    {
+        "code": "56111",
+        "flavor": "« Soyez sur vos gardes, les Avengers du Captain ont été aperçus dans cette zone la dernière fois. » – Officier du S.H.I.E.L.D.",
+        "name": "Patrouille du S.H.I.E.L.D.",
+        "text": "Entrave 1[per_hero].\nChaque sbire gagne Garde."
+    },
+    {
+        "code": "56115",
+        "flavor": "« Je suis heureux que vous soyez devenus des renégats : ça va me rapporter un très gros chèque. » – Paladin",
+        "name": "Chasseur de Primes",
+        "text": "<b>Une fois révélée</b> : défaussez 1 carte de votre main (au hasard si vous avez le train [[Non-Enregistré]]). Placez 1 menace sur la manigance principale pour chaque icône de ressource sur cette carte."
+    },
+    {
+        "code": "56116",
+        "name": "Héros À Louer",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : l'équipe ennemie cherche un exemplaire de Super Non-Enregistré dans le deck Rencontre ou la pile de défausse Rencontre et l'attribue au joueur vainqueur en tant que carte Rencontre face cachée."
+    },
+    {
+        "code": "56119",
+        "flavor": "« Je suis heureux que vous soyez devenus des renégats : ça va me rapporter un très gros chèque. » – Paladin",
+        "name": "Chasseur de Primes",
+        "text": "<b>Une fois révélée</b> : défaussez 1 carte de votre main (au hasard si vous avez le train [[Non-Enregistré]]). Placez 1 menace sur la manigance principale pour chaque icône de ressource sur cette carte."
+    },
+    {
+        "code": "56120",
+        "flavor": "Quand Captain America mena sa résistance dans la clandestinité, Iron Man contacta Paladin et les Héros à Louer pour le pourchasser.",
+        "name": "Contractuel du Gouvernement",
+        "text": "Entrave 1[per_hero].\nChaque identité gagne le trait [[Non-Enregistré]]."
+    },
+    {
+        "code": "56121a",
+        "name": "Loi d'Enregistrement des Super-Héros",
+        "text": "<b>Contenu</b> : le leader choisi l et Il <i>(III et IV en mode Expert)</i>. Le set du leader choisi, le set standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et  révélez-la."
+    },
+    {
+        "code": "56121b",
+        "flavor": "Maintenant que des unités armées du S.H.I.E.L.D. patrouillent dans les rues, le taux de criminalité a chuté à un niveau historique.",
+        "name": "Sécurité Intérieure",
+        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\nChaque sbire gagne Garde."
+    },
+    {
+        "code": "56122a",
+        "name": "Loi d'Enregistrement des Super-Héros",
+        "text": "<b>Contenu</b> : le leader choisi l et Il <i>(III et IV en mode Expert)</i>. Le set du leader choisi, le set standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et  révélez-la."
+    },
+    {
+        "code": "56176",
+        "name": "Phéromones",
+        "text": "<b>Une fois révélée</b> : vous êtes sonné et désorienté. Placez 1 jeton Compétence sur Finesse.\n<hr>[star] <b>Boost</b> : vous être sonné. Sinon, vous êtes désorienté."
+    },
+    {
+        "code": "56177",
+        "name": "Rayon Venimeux",
+        "text": "<b>When Revealed (alter ego)</b> : cette carte gagne Renfort.\n<b>When Revealed (héros)</b> : Spider-Woman vous attaque. Si cette attaque a retiré les jetons Compétence suivants de Finesse :\n• Au moins 1, cette attaque gagne À Distance.\n• Au moins 2, cette attaque gagne Perçant.\n• Au moins 3, cette attaque gagne Déferlement."
+    },
+    {
+        "code": "56178",
+        "name": "Imperceptible",
+        "text": "<b>Une fois révélée</b> : choisissez :\n• défaussez la carte que vous contrôlez ayant le coût le plus élevé.\n• Spider-Woman manigance.\n<hr>[star] <b>Boost</b> : cette carte gagne [boost] pour chaque carte d'état sur votre identité."
+    },
+    {
+        "code": "56179",
+        "flavor": "« Pendant toute ma carrière, mon travail était d'avoir un coup d'avance sur le S.H.I.E.L.D. » – Spider-Woman",
+        "name": "Vol Plané Autopropulsé",
+        "text": "<b>Interruption forcée</b> : quand Spider-Woman est censée subir des dégâts d'une attaque, réduisez de 1 la quantité de dégâts qu'elle subit pour chaque jeton Compétence sur Finesse."
+    },
+    {
+        "code": "56122b",
+        "flavor": "« Dire que Captain America a trahi son pays ! Je n'en reviens pas. » – J.Jonah Jameson.",
+        "name": "Indignation Publique",
+        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\n[star] <b>Réponse forcée</b> : après avoir résolu l'étape 1 de la phase du méchant, chaque joueur défausse les 3 cartes du dessus de son deck."
+    },
+    {
+        "code": "56123a",
+        "flavor": "Iron Man et ses avengers ont pour ordre d'appréhender tout individu surhumain qui refuse de s'enregistrer auprès du S.H.I.E.L.D. Cela inclut d'anciens coéquipiers comme Captain America et Spider-Woman.",
+        "name": "Tactique Pro-Enregristrement"
+    },
+    {
+        "code": "56163",
+        "name": "Imperius Rex !",
+        "text": "<b>Une fois révélée</b> : si Namor est en jeu, il s'active contre vous. Sinon, le leader ennemi s'active contre vous.\n<hr>[star] <b>Boost</b> : donnez une carte de boost supplémentaire à l'ennemi en cours d'activation."
+    },
+    {
+        "code": "56123b",
+        "flavor": "« Attendez qu'ils découvrent nos plans pour protéger le midwest. » – Le Frelon",
+        "name": "L'Initiative",
+        "text": "<b>Une fois révélée</b> : l'équipe ennemie cherche  1[per_hero] manigances annexes dans le deck Rencontre ou la pile de défausse et en attribue une à chaque joueur en tant que carte Rencontre face cachée.\n<b>Si ce stade est achevée, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "56124a",
+        "flavor": "Iron Man et ses avengers ont pour ordre d'appréhender tout individu surhumain qui refuse de s'enregistrer auprès du S.H.I.E.L.D. Cela inclut d'anciens coéquipiers comme Captain America et Spider – Woman.",
+        "name": "Tactique Pro-Enregristrement"
+    },
+    {
+        "code": "56124b",
+        "flavor": "« Il n'y aura pas d'armistie pour le captain et ses renégats. Ils sont allés trop loin ! » – Miss Hulk",
+        "name": "Sasn Retour",
+        "text": "Les alliés entrent en jeu inclinés.\n<b>Si ce stade est achevée, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "56146",
+        "flavor": "« Surtout, vise juste ! » – Captain America",
+        "name": "Parade au Bouclier",
+        "text": "<b>Une fois révélée</b> : si le Bouclier du Captain est attaché à Captain America, donnez-lui une carte d'état Tenace et une carte de boost face cachée. Sinon, attachez-lui le Bouclier du Captain et donnez-lui une carte de boost face cachée."
+    },
+    {
+        "code": "56147",
+        "name": "Lancer de Bouclier",
+        "text": "<b>Une fois révélée (alter ego)</b> : Captain America manigance.\n<b>Une fois révélée (héros)</b> : si le Bouclier du Captain est attaché à Captain America, infligez 2 dégâts à chaque personnage que vous contrôlez. Sinon, attachez le Bouclier du Captain à Captain America."
+    },
+    {
+        "code": "56148",
+        "name": "Frappe Heroïque",
+        "text": "<b>Une fois révélée (alter ego)</b> : défaussez un allié ou une amélioration que vous contrôlez.\n<b>Une fois révélée (héros)</b> : Captain America vous attaque. Si cette attaque blesse un personnage, sonnez ce personnage."
+    },
+    {
+        "code": "56149",
+        "flavor": "La lutte de Captain America contre la Loi d'Enregistrement des Super – Héros donne à d'autres surhumains une figure derrière laquelle se rassembler.",
+        "name": "Détermination Sans Faille",
+        "text": "<b>Une fois déjouée</b> : attachez le Bouclier du Captain à Captain America. Il s'active contre le joueur qui a déjoué cette manigance."
+    },
+    {
+        "code": "56153",
+        "name": "Combattants de la Liberté",
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « Boost » de chaque sbire en jeu. Si aucune capacité « <b>Boost </b> » n'a été résolue par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Boost </b> » de chaque sbire engagé avec vous."
+    },
+    {
+        "code": "56154",
+        "flavor": "« L'équipe de Tony va avoir une belle surprise ! » – Captain America",
+        "name": "Nouveaux Avengers",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : mélangez chaque sbire de la pile de défausse Rencontre dans le deck Rencontre."
+    },
+    {
+        "code": "56157",
+        "name": "Combattants de la Liberté",
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « Boost » de chaque sbire en jeu. Si aucune capacité « <b>Boost </b> » n'a été résolue par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Boost </b> » de chaque sbire engagé avec vous."
+    },
+    {
+        "code": "56158",
+        "name": "Changer de Camp",
+        "text": "<b>Une fois révélée</b> : défaussez un allié que vous contrôlez. En mode Compétition, n'importe quel joueur de l'équipe ennemie peut dépenser un nombre de ressources égal au coût de cet allié pour le mettre en jeu sous son contrôle. Si aucun allié n'a quitté le jeu par cet effet, cette carte gagne Renfort."
+    },
+    {
+        "code": "56159",
+        "name": "Avengers Secrets",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : l'équipe ennemie cherche une carte parmi les 5 cartes du dessus du deck Rencontre. Donnez cette carte au leader ennemi en tant que carte de boost face cachée."
+    },
+    {
+        "code": "56164",
+        "flavor": "« Namor ne reculera devant rien pour défendre son peuple. » – Namor",
+        "name": "Seigneur de l'Atlantide",
+        "text": "Entrave 1[per_hero].\nAucun sbire Atlantide ne peut subir de dégâts."
+    },
+    {
+        "code": "56166",
+        "name": "Atlantes",
+        "text": "<b>Une fois révélée</b> : défaussez les 3 cartes du dessus de votre deck. Si vous êtes sous :\n• ﻿﻿Forme d'alter ego, placez 1 menace sur la manigance principale pour chaque type de carte différent défaussé par cet effet.\n• ﻿﻿Forme de héros, subissez 1 dégât indirect pour chaque type de carte différent défaussé par cet effet."
+    },
+    {
+        "code": "56167",
+        "flavor": "Le peuple Atlante nourrit une profonde méfiance pour ceux de la surface et une haine de la pollution qu'ils déversent dans leurs eaux.",
+        "name": "L'Atlantide Attaque",
+        "text": "Entrave 1[per_hero].\n<b>Une fois révélée</b> : défaussez 1[per_hero] cartes de votre deck. Placez 1 pion Accélération ici pour chaque type de carte défaussé par cet effet."
+    },
+    {
+        "code": "56182",
+        "flavor": "« Laissez passer la petite araignée sympa du quartier ! » – Spider-Man",
+        "name": "Spectaculaire !",
+        "text": "<b>Une fois révélée</b> : placez 2 menaces sur la manigance principale. En mode Compétition, retirez 2 menaces de la manigance principale de votre leader."
+    },
+    {
+        "code": "56183",
+        "flavor": "« Je ne parle pas de politique ! Je parle de sauver des vies ! » – Spider-Man",
+        "name": "Héros du Quartier",
+        "text": "<b>Une fois révélée</b> : en mode Compétition, déplacez 2 menaces de la manigance principale de votre leader vers cette manigance. Sinon, placez 2[per_hero] menaces ici."
+    },
+    {
+        "code": "56186",
+        "flavor": "« Depuis quand est-il illégal de sauver des vies ? » – Daredevil",
+        "name": "Protéger les Innocents",
+        "text": "<b>Une fois révélée</b> : donnez une carte d'état Tenace au leader et à chaque sbire. Si le leader ennemi était déjà Tenace, cette carte gagne Renfort."
+    },
+    {
+        "code": "56187",
+        "name": "Défenseurs des Rues",
+        "text": "<b>Une fois révélée</b> : chaque sbire s'active contre le joueur avec qui il est engagé. Sinon, le leader ennemi s'active contre vous. Ne lui donnez pas de carte de boost pour cette activation."
+    },
+    {
+        "code": "56188",
+        "flavor": "Les Defenders étaient formés à protéger des gens souvent oubliés par les Avengers.",
+        "name": "Les Defenders",
+        "text": "Entrave 1[per_hero].\nChaque sbire gagne Garde."
+    },
+    {
+        "code": "56192",
+        "name": "Les  Défenseurs des Rues",
+        "text": "<b>Une fois révélée</b> : chaque sbire s'active contre le joueur avec qui il est engagé. Sinon, le leader ennemi s'active contre vous. Ne lui donnez pas de carte de boost pour cette activation."
+    },
+    {
+        "code": "56193",
+        "flavor": "« Dites au S.H.I.E.L.D. de se retirer. Cette ville est sous notre protection. » – Daredevil",
+        "name": "Défendre Hell's Kitchen",
+        "text": "Entrave 1[per_hero].\nAucune menace ne peut être retirée de cette manigance tant qu'un sbire Defender est en jeu."
+    },
+    {
+        "code": "56197",
+        "flavor": "« Peut-être que mes dagues les aideront à voir la lumière ! » – L'Épée",
+        "name": "Énergie Lumineuse",
+        "text": "<b>Une fois révélée</b> : soignez 3 dégâts du leader ennemi. Subissez 3 dégâts indirects."
+    },
+    {
+        "code": "56198",
+        "flavor": "La Cape et L'Epée avaient été parmi les premiers à rejoindre les super – héros de la résistance derrière Captain America.",
+        "name": "La Cape et L'Épée",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : soignez 3 dégâts du leader ennemi et donnez-lui une carte d'état Tenace."
+    },
+    {
+        "code": "56199a",
+        "name": "Résistance des Super-Héros",
+        "text": "<b>Contenu</b> : le leader choisi I et Il (III et IV en mode Expert). Le set du leader choisi, le set Standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir Son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
+    },
+    {
+        "code": "56200a",
+        "name": "Résistance des Super-Héros",
+        "text": "<b>Contenu</b> : le leader choisi I et Il (III et IV en mode Expert). Le set du leader choisi, le set Standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir Son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
+    },
+    {
+        "code": "56201a",
+        "flavor": "Captain America et ses Avengers sont obligés d'œuvrer dans la clandestinité s'ils ne veulent pas être arrêtés en raison de leur refus d'être enregistres par le S.H.I.E.L.D.. Lorsqu'Iron Man et Captain Marvel commencent à s'entourer de leurs alliés surhumains, la résistance décide de contre – attaquer.",
+        "name": "Tactiques de Résistance"
+    },
+    {
+        "code": "56202a",
+        "flavor": "Captain America et ses Avengers sont obligés d'œuvrer dans la clandestinité s'ils ne veulent pas être arrêtés en raison de leur refus d'être enregistres par le S.H.I.E.L.D.. Lorsqu'Iron Man et Captain Marvel commencent à s'entourer de leurs alliés surhumains, la résistance décide de contre – attaquer.",
+        "name": "Tactiques de Résistance"
     }
 ]

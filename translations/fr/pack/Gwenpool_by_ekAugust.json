@@ -17,7 +17,7 @@
         "code": "204402",
         "flavor": "« Déteste le jeu, pas les joueurs ! » – Gwenpool",
         "name": "« J'Arrive ! »",
-        "text": "<b>Action de héros</b> <i>(attaque)</i>  : infligez 5 dégâts à un ennemi. Cette attaque gagne Déferlement. Si un ennemi est vaincu par cette attaque, _______.",
+        "text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 5 dégâts à un ennemi. Cette attaque gagne Déferlement. Si un ennemi est vaincu par cette attaque, _______.",
         "traits": "Attaque."
     },
     {
@@ -47,6 +47,7 @@
     },
     {
         "code": "204409",
+        "flavor": "« C'est réel... ça m'interpelle ! » – Gwendolyn Poole",
         "name": "Chambre de Gwen",
         "text": "Vous gagnez +1 REC.\n<b>Action d'alter ego</b> : inclinez la Chambre de Gwen → soignez 1 dégât de Gwendolyne Poole. Ensuite, cherchez L'Incroyable Gwenpool et ajoutez-la à votre main.",
         "traits": "Lieu."
