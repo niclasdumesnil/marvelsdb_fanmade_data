@@ -67,7 +67,7 @@
     },
     {
         "code": "49010",
-        "errata": "Remplacé la flèche de coût « → » par « Puis ». (RRG)",
+        "errata": "Remplacé la flèche de coût « → » par « Puis ». (RRG)",
         "flavor": "« J'ai bien entendu vos menaces. Voilà ma réponse. » – Magnéto",
         "name": "Projectile Magnétique",
         "text": "<b>Action de héros</b> : défaussez un sbire auquel est attaché Enveloppé de Métal. Puis, infligez 5 dégâts à un ennemi et sonnez-le.",
@@ -91,7 +91,7 @@
         "code": "49013",
         "name": "Kid Omega",
         "subname": "Quentin Quire",
-        "text": "<b>Réponse</b> : après que Kid Omega est entré en jeu, choisissez :\n\n﻿Dépensez une ressource [energy] → infligez 1 dégât à chaque ennemi.\n﻿﻿Dépensez une ressource [mental ] → retirez 1 menace de chaque manigance.",
+        "text": "<b>Réponse</b> : après que Kid Omega est entré en jeu, choisissez :\n\n﻿Dépensez une ressource [energy] → infligez 1 dégât à chaque ennemi.\n﻿﻿Dépensez une ressource [mental] → retirez 1 menace de chaque manigance.",
         "traits": "Psionique. X-Men."
     },
     {
@@ -138,7 +138,7 @@
     },
     {
         "code": "49020",
-        "flavor": "Le rêve de tous les étudiants de l'Institut Xavier, c'est de rejoindre les X-Men.",
+        "flavor": "Le rêve de tous les étudiants de l'Institut Xavier, c'est de rejoindre les X – Men.",
         "name": "Nouvelles Recrues",
         "text": "Victoire 0.\nJouez cette carte uniquement si votre identité a le trait[[ X-Men]].\n<b>Une fois déjouée</b> : chaque joueur choisit 1 allié Nouveau mis de côté et l'ajoute à sa main."
     },
@@ -174,7 +174,7 @@
     {
         "code": "49035",
         "flavor": "« Cette école est trop naze ! »",
-        "name": "Bling!",
+        "name": "Bling !",
         "subname": "Roxanne Washington",
         "text": "Liée (Nouvelles Recrues).\nSi vous avez le trait [[ Mutant]] ou [[X-Men]], Bling ! gagne Ténacité et ne compte pas dans votre limite d'alliés.",
         "traits": "Nouveau. X-Men."

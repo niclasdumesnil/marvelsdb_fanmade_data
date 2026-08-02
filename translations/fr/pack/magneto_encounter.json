@@ -6,7 +6,7 @@
     },
     {
         "code": "49028",
-        "errata": "Ajouté « pour cette attaque ». (RRG)",
+        "errata": "Ajouté « pour cette attaque ». (RRG)",
         "name": "Exodus",
         "text": "Solide. Ténacité. Vilenie.\netoile <b>Réponse forcée</b> : après qu'Exodus vous a attaqué, défaussez un nombre de cartes du dessus de votre deck égal à son total d'ATQ pour cette attaque.\n(<i>Sbire Némésis de Magnéto.</i>)",
         "traits": "Acolyte. Elite. Psionique."
@@ -26,7 +26,7 @@
     {
         "code": "49031",
         "name": "Frenzy",
-        "text": "Coup Rapide.\n[star] ﻿﻿<b>Réponse forcée</b> : après que Frenzy vous a attaqué, défaussez les 2 cartes du dessus de votre deck.\n</hr>\n<hr>[star] <b>Boost</b> : </b> : défaussez les 4 cartes du dessus de votre deck.",
+        "text": "Coup Rapide.\n[star] ﻿﻿<b>Réponse forcée</b> : après que Frenzy vous a attaqué, défaussez les 2 cartes du dessus de votre deck.\n</hr>\n<hr>[star] <b>Boost</b> :  : défaussez les 4 cartes du dessus de votre deck.",
         "traits": "Acolyte."
     },
     {
@@ -45,13 +45,13 @@
         "code": "49039",
         "flavor": "« Fol enfant ! On ne compte plus les milliers d'âmes qui ont brûlé en mon nom. »",
         "name": "Sélené",
-        "text": "Coup Rapide. Vilenie.\nLes alliés ne peuvent pas attaquer Séléné.\n</hr>\n<hr>[star] <b>Boost</b> : </b> : défaussez un allié que vous contrôlez.",
+        "text": "Coup Rapide. Vilenie.\nLes alliés ne peuvent pas attaquer Séléné.\n</hr>\n<hr>[star] <b>Boost</b> :  : défaussez un allié que vous contrôlez.",
         "traits": "Hellfire."
     },
     {
         "code": "49040",
         "name": "Pion des Damnés",
-        "text": "Garde. Patrouille. Renfort.\n(<i>Tant qu'un sbire doté du mot-clé Patrouille est engagé avec vous, vous ne pouvez pas contrer la manigance principale</i>.)\n\n<hr>[star] <b>Boost</b> : </b> : mettez en jeu le Pion des Damnés engagé avec vous.",
+        "text": "Garde. Patrouille. Renfort.\n(<i>Tant qu'un sbire doté du mot-clé Patrouille est engagé avec vous, vous ne pouvez pas contrer la manigance principale</i>.)\n\n<hr>[star] <b>Boost</b> :  : mettez en jeu le Pion des Damnés engagé avec vous.",
         "traits": "Damnés."
     },
     {
@@ -63,6 +63,6 @@
     {
         "code": "49042",
         "name": "Puissance et Décadence",
-        "text": "<b>Une fois révélée</b> : donnez une carte d'état Tenace au méchant. Donnez cette traîtrise au méchant en tant que carte de boost face cachée.\n<hr>\n<hr>[star] <b>Boost</b> : </b> : après cette activation, l'ennemi actif s'active à nouveau contre vous. Ne lui donnez pas de carte de boost pour cette activation."
+        "text": "<b>Une fois révélée</b> : donnez une carte d'état Tenace au méchant. Donnez cette traîtrise au méchant en tant que carte de boost face cachée.\n<hr>\n<hr>[star] <b>Boost</b> :  : après cette activation, l'ennemi actif s'active à nouveau contre vous. Ne lui donnez pas de carte de boost pour cette activation."
     }
 ]
