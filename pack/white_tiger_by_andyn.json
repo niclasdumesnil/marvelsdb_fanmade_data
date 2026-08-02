@@ -33,6 +33,16 @@
         "health": 12,
         "is_unique": true,
         "name": "White Tiger",
+        "deck_options": [
+			{
+				"resource": [
+					"physical"
+				],
+				"type": [
+					"event"
+				]
+			}
+		],
         "octgn_id": "cf97e165-8c3f-4ce5-bd26-e6d98e082001",
         "pack_code": "white_tiger_by_andyn",
         "position": 1,
