@@ -4,7 +4,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "“'Yap' is a technical term, I assure you.”",
+        "flavor": "“Yap' is a technical term, I assure you.”",
         "hand_size": 6,
         "health": 12,
         "hidden": true,
@@ -16,6 +16,7 @@
         "quantity": 1,
         "recover": 4,
         "set_code": "beast_by_jg",
+        "status": "released",
         "text": "<b>Setup</b>: Put Beast's Lab into play, your chosen side faceup.\n<i>Science!</i> — You may include events with a printed [mental] resource icon from any aspect in your deck.",
         "traits": "Genius. Mutant. Scientist.",
         "type_code": "alter_ego"
@@ -25,10 +26,20 @@
         "back_link": "207801b",
         "code": "207801a",
         "deck_limit": 1,
+        "deck_options": [
+            {
+                "resource": [
+                    "mental"
+                ],
+                "type": [
+                    "event"
+                ]
+            }
+        ],
         "defense": 2,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "\"A feat with my feet leads to your defeat!\"",
+        "flavor": "“A feat with my feet leads to your defeat!”",
         "hand_size": 5,
         "health": 12,
         "is_unique": true,
@@ -38,6 +49,7 @@
         "position": 1,
         "quantity": 1,
         "set_code": "beast_by_jg",
+        "status": "released",
         "text": "<i>Super Genius</i> — Beast gets +1 THW for each card tucked under Beast's Lab.\n[star] <b>Forced Response</b>: After Beast makes a basic thwart, discard each card tucked under Beast's Lab.",
         "thwart": 1,
         "thwart_star": true,
@@ -60,6 +72,7 @@
         "resource_mental": 1,
         "set_code": "beast_by_jg",
         "set_position": 1,
+        "status": "released",
         "text": "Permanent. Max 3 cards tucked here.\nBeast gains the [[X-Men]] trait.\n<b>Response</b>: After you play an event with a printed [mental] resource, tuck that event from your discard pile under this card. Then, heal 1 damage from your identity.",
         "type_code": "upgrade"
     },
@@ -79,6 +92,7 @@
         "resource_mental": 1,
         "set_code": "beast_by_jg",
         "set_position": 1,
+        "status": "released",
         "text": "Permanent. Max 3 cards tucked here.\nBeast gains the [[Avenger]] trait.\n<b>Response</b>: After you play an event with a printed [mental] resource, tuck that event from your discard pile under this card. Then, heal 1 damage from your identity.",
         "type_code": "upgrade"
     },
@@ -88,7 +102,7 @@
         "deck_limit": 2,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "\"Alas, it sometimes occurs to me that super-heroing is not the most tranquil of avocations!\"",
+        "flavor": "“Alas, it sometimes occurs to me that super-heroing is not the most tranquil of avocations!”",
         "is_unique": false,
         "name": "\"oh My...\"",
         "octgn_id": "503e5fd2-efa2-4a06-bb5a-b3fcc4078003",
@@ -98,6 +112,7 @@
         "resource_mental": 1,
         "set_code": "beast_by_jg",
         "set_position": 2,
+        "status": "released",
         "text": "<b>Hero Action</b> (<i>thwart</i>): Remove 1 threat from a scheme. Remove 2 additional threat from that scheme for each [mental] you overpaid for this card (to a maximum of [mental][mental]).",
         "traits": "Thwart.",
         "type_code": "event"
@@ -118,6 +133,7 @@
         "resource_mental": 1,
         "set_code": "beast_by_jg",
         "set_position": 4,
+        "status": "released",
         "text": "<b>Hero Action</b> (<i>thwart</i>): Remove threat from a scheme equal to your THW. If you overpaid for this card with a [mental], confuse an enemy.",
         "traits": "Superpower. Thwart.",
         "type_code": "event"
@@ -138,6 +154,7 @@
         "resource_mental": 1,
         "set_code": "beast_by_jg",
         "set_position": 7,
+        "status": "released",
         "text": "<b>Hero Action</b> (<i>attack</i>): Deal 3 damage to an enemy. Deal 2 additional damage to that enemy for each [mental] you overpaid for this card (to a maximum of [mental][mental][mental]).",
         "traits": "Attack. Superpower.",
         "type_code": "event"
@@ -157,6 +174,7 @@
         "resource_mental": 1,
         "set_code": "beast_by_jg",
         "set_position": 10,
+        "status": "released",
         "text": "<b>Hero Interrupt</b>: When you spend this card, take up to 3 damage → this card generates 1 additional [mental] for each damage taken this way.",
         "type_code": "upgrade"
     },
@@ -166,7 +184,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "\"Shut up and kiss me, you big blue furry lug.\"",
+        "flavor": "“Shut up and kiss me, you big blue furry lug.”",
         "is_unique": false,
         "name": "Trish Tilby",
         "octgn_id": "503e5fd2-efa2-4a06-bb5a-b3fcc4078007",
@@ -176,6 +194,7 @@
         "resource_wild": 1,
         "set_code": "beast_by_jg",
         "set_position": 12,
+        "status": "released",
         "text": "<b>Alter-Ego Action</b>: Exhaust this card → choose:\n• Tuck 1 event with a printed [mental] from your discard pile under Beast's Lab.\n• Draw 1 card.",
         "traits": "Civilian. Persona.",
         "type_code": "support"
@@ -195,6 +214,7 @@
         "resource_mental": 1,
         "set_code": "beast_by_jg",
         "set_position": 13,
+        "status": "released",
         "text": "<b>Hero Resource</b>: Exhaust this card → generate [mental] for an event.\n<b>Hero Resource</b>: Exhaust this card and discard a card tucked under Beast's Lab → generate [mental].",
         "traits": "Item. Tech.",
         "type_code": "upgrade"
@@ -205,7 +225,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "\"Oh, my stars and garters... what have we here?\"",
+        "flavor": "“Oh, my stars and garters... what have we here?”",
         "is_unique": false,
         "name": "Portable Analyzer",
         "octgn_id": "503e5fd2-efa2-4a06-bb5a-b3fcc4078009",
@@ -215,6 +235,7 @@
         "resource_wild": 1,
         "set_code": "beast_by_jg",
         "set_position": 14,
+        "status": "released",
         "text": "<b>Resource</b>: Generate [mental] to overpay for a card. <i>(Limit once per card.)</i>",
         "traits": "Item. Tech.",
         "type_code": "upgrade"
@@ -234,6 +255,7 @@
         "resource_physical": 1,
         "set_code": "beast_by_jg",
         "set_position": 15,
+        "status": "released",
         "text": "<b>Response</b>: After you change form, choose:\n• Tuck an event or resource card with a printed [mental] from your discard pile under Beast's Lab.\n• Add a card tucked under Beast's Lab to your hand.",
         "traits": "Superpower.",
         "type_code": "upgrade"
@@ -253,6 +275,7 @@
         "resource_energy": 1,
         "set_code": "beast_by_jg",
         "set_position": 16,
+        "status": "released",
         "text": "<b>Forced Interrupt</b>: When you would be defeated, instead set your hit point dial to 4 and change to alter-ego form. You may tuck events with a printed [mental] under Beast's Lab until there are 3 cards there. Remove this card from the game.",
         "traits": "Superpower.",
         "type_code": "upgrade"

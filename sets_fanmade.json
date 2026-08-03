@@ -1819,12 +1819,14 @@
     {
         "card_set_type_code": "hero",
         "code": "beast_by_jg",
-        "name": "Beast"
+        "name": "Beast",
+        "status": "released"
     },
     {
         "card_set_type_code": "nemesis",
         "code": "beast_by_jg_nemesis",
-        "name": "Beast Nemesis"
+        "name": "Beast Nemesis",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero",
@@ -1928,6 +1930,7 @@
     {
         "card_set_type_code": "villain",
         "code": "valkyrie_by_boomguy",
-        "name": "Valkyrie"
+        "name": "Valkyrie",
+        "status": "released"
     }
 ]

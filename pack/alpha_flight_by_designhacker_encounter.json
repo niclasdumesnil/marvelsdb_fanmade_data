@@ -140,7 +140,7 @@
         "code": "504528",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"The Collective wiped 'em out. Only Walt lived.\"",
+        "flavor": "“The Collective wiped 'em out. Only Walt lived.”",
         "is_unique": false,
         "name": "Survivor's Guilt",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045028",
@@ -209,7 +209,7 @@
         "set_code": "sasquatch_by_designhacker_nemesis",
         "set_position": 3,
         "status": "released",
-        "text": "<b>When Revealed</b>: Resolve the \"Drone Master\" ability.\n<b>When Defeated</b>: Resolve the \"Drone Master\" ability.\n<hr>[star] <b>Boost</b>: </b> Place 3 threat on the Drone Master side scheme.",
+        "text": "<b>When Revealed</b>: Resolve the \"Drone Master\" ability.\n<b>When Defeated</b>: Resolve the \"Drone Master\" ability.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Aerial. Drone.",
         "type_code": "minion"
     },
@@ -247,7 +247,7 @@
         "set_code": "sasquatch_by_designhacker_nemesis",
         "set_position": 5,
         "status": "released",
-        "text": "[[Drone]] minions get +1 hit point and +1 ATK, and gain retaliate 1.\n<b>Hero Response</b>: After you defeat a [[Drone]] minion, spend 2 resources → discard this card.\n<hr>[star] <b>Boost</b>: </b> Place 3 threat on the Drone Master side scheme.",
+        "text": "[[Drone]] minions get +1 hit point and +1 ATK, and gain retaliate 1.\n<b>Hero Response</b>: After you defeat a [[Drone]] minion, spend 2 resources → discard this card.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Condition.",
         "type_code": "environment"
     },
@@ -326,7 +326,7 @@
         "set_code": "puck_by_designhacker_nemesis",
         "set_position": 3,
         "status": "released",
-        "text": "<b>When Revealed</b>: Resolve the <i>\"Drone Master\"</i> ability.\n<b>When Defeated</b>: Resolve the <i>\"Drone Master\"</i> ability.\n<hr>[star] <b>Boost</b>: </b> Place 3 threat on the Drone Master side scheme.",
+        "text": "<b>When Revealed</b>: Resolve the <i>\"Drone Master\"</i> ability.\n<b>When Defeated</b>: Resolve the <i>\"Drone Master\"</i> ability.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Aerial. Drone.",
         "type_code": "minion"
     },
@@ -345,7 +345,7 @@
         "set_code": "puck_by_designhacker_nemesis",
         "set_position": 4,
         "status": "released",
-        "text": "[[Aerial]] characters get +1 ATK and -1 DEF.\n<b>Action</b>: Discard 2 cards from your hand and the top 5 cards of the encounter deck → draw 2 cards. If the combined cost of those cards is 3 or more, discard this card.\n<hr>[star] <b>Boost</b>: </b> Place 3 threat on the Drone Master side scheme.",
+        "text": "[[Aerial]] characters get +1 ATK and -1 DEF.\n<b>Action</b>: Discard 2 cards from your hand and the top 5 cards of the encounter deck → draw 2 cards. If the combined cost of those cards is 3 or more, discard this card.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Condition.",
         "type_code": "environment"
     },
@@ -444,7 +444,7 @@
         "set_code": "snowbird_by_designhacker_nemesis",
         "set_position": 3,
         "status": "released",
-        "text": "<b>When Revealed</b>: Resolve the \"Drone Master\" ability.\n<b>When Defeated</b>: Resolve the \"Drone Master\" ability.\n<hr>[star] <b>Boost</b>: </b> Place 3 threat on the Drone Master side scheme.",
+        "text": "<b>When Revealed</b>: Resolve the \"Drone Master\" ability.\n<b>When Defeated</b>: Resolve the \"Drone Master\" ability.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Aerial. Drone.",
         "type_code": "minion"
     },
@@ -482,7 +482,7 @@
         "set_code": "snowbird_by_designhacker_nemesis",
         "set_position": 5,
         "status": "released",
-        "text": "[[Drone]] minions get +1 hit point and +1 ATK, and gain retaliate 1.\n<b>Hero Response</b>: After you defeat a [[Drone]] minion, spend 2 resources → discard this card.\n<hr>[star] <b>Boost</b>: </b> Place 3 threat on the Drone Master side scheme.",
+        "text": "[[Drone]] minions get +1 hit point and +1 ATK, and gain retaliate 1.\n<b>Hero Response</b>: After you defeat a [[Drone]] minion, spend 2 resources → discard this card.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Condition.",
         "type_code": "environment"
     },
@@ -491,7 +491,7 @@
         "code": "504581",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\n\"Paging Dr. Twoyoungmen.\"",
+        "flavor": "“Paging Dr. Twoyoungmen.”",
         "is_unique": false,
         "name": "Code Blue",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9045080",
@@ -581,7 +581,7 @@
         "set_code": "shaman_by_designhacker_nemesis",
         "set_position": 4,
         "status": "released",
-        "text": "[[Aerial]] characters get +1 ATK and -1 DEF.\n<b>Action</b>: Discard 2 cards from your hand and the top 5 cards of the encounter deck → draw 2 cards. If the combined cost of those cards is 3 or more, discard this card.\n<hr>[star] <b>Boost</b>: </b> Place 3 threat on the Drone Master side scheme. ",
+        "text": "[[Aerial]] characters get +1 ATK and -1 DEF.\n<b>Action</b>: Discard 2 cards from your hand and the top 5 cards of the encounter deck → draw 2 cards. If the combined cost of those cards is 3 or more, discard this card.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme. ",
         "traits": "Condition.",
         "type_code": "environment"
     },
@@ -674,7 +674,7 @@
         "scheme": 1,
         "set_code": "vindicator_by_designhacker_nemesis",
         "set_position": 3,
-        "text": "<b>When Revealed</b>: Resolve the <i>\"Drone Master\"</i> ability.\n<b>When Defeated</b>: Resolve the <i>\"Drone Master\"</i> ability.\n<hr>[star] <b>Boost</b>: </b> Place 3 threat on the Drone Master side scheme.",
+        "text": "<b>When Revealed</b>: Resolve the <i>\"Drone Master\"</i> ability.\n<b>When Defeated</b>: Resolve the <i>\"Drone Master\"</i> ability.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Aerial. Drone.",
         "type_code": "minion"
     },
@@ -692,7 +692,7 @@
         "quantity": 1,
         "set_code": "vindicator_by_designhacker_nemesis",
         "set_position": 4,
-        "text": "[[Aerial]] characters get +1 ATK and -1 DEF.\n<b>Action</b>: Discard 2 cards from your hand and the top 5 cards of the encounter deck → draw 2 cards. If the combined cost of those cards is 3 or more, discard this card.\n<hr>[star] <b>Boost</b>: </b> Place 3 threat on the Drone Master side scheme.",
+        "text": "[[Aerial]] characters get +1 ATK and -1 DEF.\n<b>Action</b>: Discard 2 cards from your hand and the top 5 cards of the encounter deck → draw 2 cards. If the combined cost of those cards is 3 or more, discard this card.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Condition.",
         "type_code": "environment"
     },
@@ -710,7 +710,7 @@
         "quantity": 1,
         "set_code": "vindicator_by_designhacker_nemesis",
         "set_position": 5,
-        "text": "[[Drone]] minions get +1 hit point and +1 ATK, and gain retaliate 1.\n<b>Hero Response</b>: After you defeat a [[Drone]] minion, spend 2 resources → discard this card.\n<hr>[star] <b>Boost</b>: </b> Place 3 threat on the Drone Master side scheme.",
+        "text": "[[Drone]] minions get +1 hit point and +1 ATK, and gain retaliate 1.\n<b>Hero Response</b>: After you defeat a [[Drone]] minion, spend 2 resources → discard this card.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Condition.",
         "type_code": "environment"
     }

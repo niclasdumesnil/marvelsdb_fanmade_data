@@ -17,6 +17,7 @@
         "scheme": 1,
         "set_code": "valkyrie_by_boomguy",
         "set_position": 1,
+        "status": "released",
         "text": "<b>Setup</b>: The enemy team finds and attaches Shieldmaiden to Valkyrie.\n<b>[star] Forced Interrupt: </b> When Valkyrie attacks, if Death-Glow is in play, Valkyrie attacks the character with Death-Glow attached → this attack gains overkill.",
         "thwart": 1,
         "thwart_star": true,
@@ -41,6 +42,7 @@
         "set_code": "valkyrie_by_boomguy",
         "set_position": 2,
         "stage": "II",
+        "status": "released",
         "text": "Steady.\n<b>When Revealed</b>: Deal each player an encounter card. Valkyrie cannot take damage this phase.\n[star] <b>Forced Interrupt</b>: When Valkyrie attacks, if Death-Glow is in play, Valkyrie attacks the character with Death-Glow attached → this attack gains overkill.",
         "traits": "Asgard. Avenger.",
         "type_code": "leader"
@@ -64,6 +66,7 @@
         "set_code": "valkyrie_by_boomguy",
         "set_position": 3,
         "stage": "III",
+        "status": "released",
         "text": "<b>Setup</b>: The enemy team finds and attaches Shieldmaiden to Valkyrie.\n[star] <b>Forced Interrupt</b>: When Valkyrie attacks, if Death-Glow is in play, Valkyrie attacks the character with Death-Glow attached → this attack gains overkill.",
         "thwart": 1,
         "traits": "Asgard. Avenger.",
@@ -87,6 +90,7 @@
         "set_code": "valkyrie_by_boomguy",
         "set_position": 4,
         "stage": "IV",
+        "status": "released",
         "text": "Steady.\n<b>When Revealed</b>: Deal each player an encounter card. Valkyrie cannot take damage this phase.\n[star] <b>Forced Interrupt</b>: When Valkyrie attacks, if Death-Glow is in play, Valkyrie attacks the character with Death-Glow attached → this attack gains overkill.",
         "traits": "Asgard. Avenger.",
         "type_code": "leader"
@@ -105,6 +109,7 @@
         "quantity": 1,
         "set_code": "valkyrie_by_boomguy",
         "set_position": 5,
+        "status": "released",
         "text": "Permanent.\nAttacks against attached character gain overkill.\n<b>Forced Interrupt</b>: When attached character is defeated, flip this card and attach it to Valkyrie.",
         "traits": "Condition.",
         "type_code": "attachment"
@@ -122,6 +127,7 @@
         "quantity": 1,
         "set_code": "valkyrie_by_boomguy",
         "set_position": 5,
+        "status": "released",
         "text": "Permanent.\nAttach to Valkyrie.\nValkyrie gains Retaliate 1.\n<b>Forced Response</b>: After an ally enters play, flip this card and attach it to that ally.",
         "traits": "Weapon.",
         "type_code": "attachment"
@@ -139,6 +145,7 @@
         "quantity": 1,
         "set_code": "valkyrie_by_boomguy",
         "set_position": 6,
+        "status": "released",
         "text": "Attach to Valkyrie.\nWhen Valkyrie would take any amount of damage, reduce that damage by 1.\n<b>Hero Response</b>: After you make a basic attack against Valkyrie, give Valkyrie a tough status card → discard this card.\n<hr>[star] <b>Boost</b>: Reveal this card.",
         "traits": "Weapon.",
         "type_code": "attachment"
@@ -156,6 +163,7 @@
         "quantity": 1,
         "set_code": "valkyrie_by_boomguy",
         "set_position": 7,
+        "status": "released",
         "text": "Attach to Valkyrie.\nValkyrie's attacks gain piercing.\n<b>Hero Action</b>: Spend three resources of the same type → discard this attachment.\n<hr>[star] <b>Boost</b>: Reveal this card.",
         "traits": "Weapon.",
         "type_code": "attachment"
@@ -172,6 +180,7 @@
         "quantity": 1,
         "set_code": "valkyrie_by_boomguy",
         "set_position": 8,
+        "status": "released",
         "text": "Attach to Valkyrie.\nValkyrie gains stalwart.\n<b>Forced Response</b>: After an ally with Death-Glow is defeated, add threat to the main scheme equal to the printed cost of that ally and discard this card.\n<hr>[star] <b>Boost</b>: Reveal this card.",
         "type_code": "attachment"
     },
@@ -189,6 +198,7 @@
         "quantity": 2,
         "set_code": "valkyrie_by_boomguy",
         "set_position": 9,
+        "status": "released",
         "text": "<b>When Revealed</b>: Discard cards from the top of your deck until an ally is discarded and put that ally into play and attach Death-Glow to that ally. Choose:\n• Give Valkyrie 2 facedown boost cards.\n• Stun and confuse your identity.",
         "type_code": "treachery"
     },
@@ -205,6 +215,7 @@
         "quantity": 1,
         "set_code": "valkyrie_by_boomguy",
         "set_position": 11,
+        "status": "released",
         "text": "<b>When Revealed</b>: The enemy team searches the encounter deck and discard pile for a Valkyrie attachment and reveals it. If Death-Glow is in play, deal indirect damage equal to the number of attachments on Valkyrie to the character with Death-Glow attached.",
         "type_code": "treachery"
     },
@@ -221,6 +232,7 @@
         "quantity": 2,
         "set_code": "valkyrie_by_boomguy",
         "set_position": 12,
+        "status": "released",
         "text": "<b>When Revealed (Alter-Ego)</b>: The enemy team searches the top 5 cards of the encounter deck and gives 1 as a facedown boost card to Valkyrie. This card gains surge.\n<b>When Revealed (Hero)</b>: Valkyrie attacks you.",
         "type_code": "treachery"
     },
@@ -240,6 +252,7 @@
         "scheme_hazard": 1,
         "set_code": "valkyrie_by_boomguy",
         "set_position": 14,
+        "status": "released",
         "text": "<b>When Defeated</b>: The enemy team searches the encounter deck and discard pile for a Valkyrie attachment and reveals it. Valkyrie activates against the player who defeated this scheme.",
         "type_code": "side_scheme"
     }

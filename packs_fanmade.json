@@ -1405,7 +1405,7 @@
         "code": "beast_by_jg",
         "confidential": "false",
         "creator": "JG",
-        "date_release": "2026-07-08",
+        "date_release": "2026-08-02",
         "name": "Beast",
         "octgn_id": "503e5fd2-efa2-4a06-bb5a-b3fcc42f681a",
         "pack_type_code": "hero_fanmade",
@@ -1413,7 +1413,7 @@
         "size": 23,
         "status": "released",
         "theme": "Marvel",
-        "visibility": "false"
+        "visibility": "true"
     },
     {
         "cgdb_id": 2079,
@@ -1498,7 +1498,7 @@
         "date_release": "2026-07-26",
         "name": "Valkyrie",
         "octgn_id": "89221f80-16d6-46db-a7d2-4ad908d70b1b",
-        "pack_type_code": "hero_fanmade",
+        "pack_type_code": "scenar_fanmade",
         "position": 2084,
         "size": 15,
         "status": "released",

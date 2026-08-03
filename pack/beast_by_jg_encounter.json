@@ -11,6 +11,7 @@
         "position": 12,
         "quantity": 1,
         "set_code": "beast_by_jg",
+        "status": "released",
         "text": "<b><i>Give to the Hank McCoy player.</i></b>\nChoose one:\n● Exhaust your identity, add 2 threat to the main scheme, and flip to alter-ego form → remove this card from the game.\n● Deal 2 damage to a friendly character. Discard 1 card from your hand. Discard this obligation.",
         "type_code": "obligation"
     },
@@ -20,7 +21,7 @@
         "code": "207813",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "Fighting the sadistic, genius, alternate-universe Dark Beast tests Hank to the absolute limit, both mentally and physically.",
+        "flavor": "Fighting the sadistic, genius, alternate –universe Dark Beast tests Hank to the absolute limit, both mentally and physically.",
         "is_unique": false,
         "name": "Your Own Worst Enemy",
         "octgn_id": "503e5fd2-efa2-4a06-bb5a-b3fcc4078013",
@@ -30,6 +31,7 @@
         "scheme_crisis": 1,
         "set_code": "beast_by_jg_nemesis",
         "set_position": 1,
+        "status": "released",
         "text": "<b>When Revealed</b>: As an additional cost to attack Dark Beast, you must discard 1 card from your hand.",
         "type_code": "side_scheme"
     },
@@ -40,7 +42,7 @@
         "code": "207814",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Don't know who you are. But I know I don't like you.\"",
+        "flavor": "“Don't know who you are. But I know I don't like you.”",
         "health": 3,
         "is_unique": true,
         "name": "Dark Beast",
@@ -52,6 +54,7 @@
         "scheme_star": true,
         "set_code": "beast_by_jg_nemesis",
         "set_position": 2,
+        "status": "released",
         "text": "Toughness.\n<b>When Revealed</b>: Dark Beast activates against you.\n<b>Forced Response</b>: After Dark Beast activates, place 1 threat on each scheme.",
         "traits": "Genius. Mutant.",
         "type_code": "minion"
@@ -70,6 +73,7 @@
         "quantity": 1,
         "set_code": "beast_by_jg_nemesis",
         "set_position": 3,
+        "status": "released",
         "text": "<b>When Revealed</b>: Dark Beast activates against you. Otherwise, place 2 threat on the main scheme.",
         "type_code": "treachery"
     },
@@ -86,7 +90,8 @@
         "quantity": 2,
         "set_code": "beast_by_jg_nemesis",
         "set_position": 4,
-        "text": "<b>When Revealed</b>: Dark Beast activates against you. If Dark Beast is not in play, find and reveal him.\n<hr>[star] <b>Boost</b>: </b> If Dark Beast is in play, he activates against you after this activation.",
+        "status": "released",
+        "text": "<b>When Revealed</b>: Dark Beast activates against you. If Dark Beast is not in play, find and reveal him.\n<hr>[star] <b>Boost</b>: If Dark Beast is in play, he activates against you after this activation.",
         "type_code": "treachery"
     }
 ]
