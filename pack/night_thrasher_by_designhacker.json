@@ -4,10 +4,18 @@
         "back_link": "207301b",
         "code": "207301a",
         "deck_limit": 1,
+        "deck_options": [
+            {
+                "limit": 4,
+                "trait": [
+                    "Skill"
+                ]
+            }
+        ],
         "defense": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "\"I'm sick of you amateurs getting in my way!\"",
+        "flavor": "“I'm sick of you amateurs getting in my way!”",
         "hand_size": 5,
         "health": 9,
         "is_unique": true,
@@ -60,7 +68,7 @@
         "set_code": "night_thrasher_by_designhacker",
         "set_position": 1,
         "status": "sealed",
-        "text": "<b>Hero Action</b>: (<i>attack/thwart</i>): Flip the Battle Board upgrade. Then, if it has the:\n• [[Vehicle]] trait, remove 3 threat from a scheme.\n• [[Weapon]] trait, deal 4 damage to an enemy.<i></i>",
+        "text": "<b>Hero Action</b>: (<i>attack/thwart</i>): Flip the Battle Board upgrade. Then, if it has the:\n• [[Vehicle]] trait, remove 3 threat from a scheme.\n• [[Weapon]] trait, deal 4 damage to an enemy.",
         "traits": "Attack. Skill. Thwart.",
         "type_code": "event"
     },
@@ -70,7 +78,7 @@
         "deck_limit": 2,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "\"Such a strategy has succeeded many times on the field of battle.\"—Ares",
+        "flavor": "“Such a strategy has succeeded many times on the field of battle.” –Ares",
         "is_unique": false,
         "name": "Drop In",
         "octgn_id": "e3708e9e-e077-44b9-9a46-7c41b3073003",
@@ -101,7 +109,7 @@
         "set_code": "night_thrasher_by_designhacker",
         "set_position": 5,
         "status": "sealed",
-        "text": "If the last card you played this round was a Night Thrasher event, reduce the cost to play this card by 1.\n<b>Hero Action</b> (attack): Flip the Battle Board upgrade and deal 1 damage to an enemy. Draw 1 card.",
+        "text": "If the last card you played this round was a Night Thrasher event, reduce the cost to play this card by 1.\n<b>Hero Action</b> (<i>attack</i>): Flip the Battle Board upgrade and deal 1 damage to an enemy. Draw 1 card.",
         "traits": "Attack. Skill.",
         "type_code": "event"
     },
@@ -234,7 +242,7 @@
         "deck_limit": 1,
         "duplicate_of_name": "",
         "faction_code": "hero",
-        "flavor": "\"I think of myself as a teacher of hard lessons.\" -Night Thrasher",
+        "flavor": "“I think of myself as a teacher of hard lessons.” –Night Thrasher",
         "is_unique": false,
         "name": "Multi-skilled",
         "octgn_id": "e3708e9e-e077-44b9-9a46-7c41b3073010",
