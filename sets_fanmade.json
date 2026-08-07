@@ -1415,12 +1415,14 @@
     {
         "card_set_type_code": "hero",
         "code": "night_thrasher_by_designhacker",
-        "name": "Night Thrasher"
+        "name": "Night Thrasher",
+        "status": "sealed"
     },
     {
         "card_set_type_code": "nemesis",
         "code": "night_thrasher_by_designhacker_nemesis",
-        "name": "Night Thrasher Nemesis"
+        "name": "Night Thrasher Nemesis",
+        "status": "sealed"
     },
     {
         "card_set_type_code": "villain",

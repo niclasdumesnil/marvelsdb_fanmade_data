@@ -12,6 +12,7 @@
         "position": 12,
         "quantity": 1,
         "set_code": "night_thrasher_by_designhacker",
+        "status": "sealed",
         "text": "You may flip to alter-ego form. Choose:\n• Exhaust your identity or discard 1 card from your hand → remove Practice from the game.\n• You cannot flip the Battle Board upgrade until the start of the next villain phase. Discard this obligation.",
         "type_code": "obligation"
     },
@@ -32,6 +33,7 @@
         "scheme": 1,
         "set_code": "night_thrasher_by_designhacker_nemesis",
         "set_position": 1,
+        "status": "sealed",
         "text": "<b>Forced Response</b>: After Terrax the Tamer activates, discard the top 8 cards of the encounter deck. If the Cosmic Ax attachment was discarded this way, reveal it. ",
         "thwart": 1,
         "traits": "Cosmic. Mutant.",
@@ -53,6 +55,7 @@
         "scheme_acceleration": 1,
         "set_code": "night_thrasher_by_designhacker_nemesis",
         "set_position": 2,
+        "status": "sealed",
         "text": "Hinder 1[per_hero].\nPlayers cannot make basic attacks with heroes or allies or flip upgrades or identities.\n<b>Action</b>: Each player may discard 1 card from their hand → until the end of the phase, each player who discarded a card this way may treat this card's printed text box as if it were blank.",
         "type_code": "side_scheme"
     },
@@ -69,6 +72,7 @@
         "quantity": 2,
         "set_code": "night_thrasher_by_designhacker_nemesis",
         "set_position": 3,
+        "status": "sealed",
         "text": "<b>When Revealed</b>: If the Cosmic Ax attachment is in play and your hero has a [[Weapon]] card in play, take 3 indirect damage. If no damage was taken this way, this card gains surge.",
         "type_code": "treachery"
     },
@@ -86,6 +90,7 @@
         "quantity": 1,
         "set_code": "night_thrasher_by_designhacker_nemesis",
         "set_position": 5,
+        "status": "sealed",
         "text": "Attach to Terrax the Tamer. If you cannot, discard the top 8 cards of the encounter deck. If Terrax the Tamer was discarded this way, reveal him and attach Cosmic Ax to him.\n<hr>[star] <b>Boost</b>: If Terrax the Tamer is in play, reveal this card.",
         "traits": "Weapon.",
         "type_code": "attachment"
