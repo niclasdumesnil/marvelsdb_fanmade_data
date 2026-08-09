@@ -1,8 +1,25 @@
-.DS_STORE
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies
 node_modules/
 package-lock.json
-venv
-.vscode
+
+# Python & Virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
 
 # Per-environment "not yet promoted" trait translations added via the app UI.
 # The reviewed/canonical dictionary is traits_dict.json (tracked, synced via Git Pull/Push).
