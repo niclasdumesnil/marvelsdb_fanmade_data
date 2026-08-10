@@ -507,8 +507,9 @@
 	},
 	{
 		"code": "16123",
+		"errata": "Remplacement du texte d'aide en texte de règle. (RRG)",
 		"name": "Potion d'Obédience",
-		"text": "Attachez cette carte à votre identité.\nLe personnage attaché perd -1 CTR, -1 ATQ et -1 DEF.\n<b>Action de héros</b> : subissez 1 dégât et dépensez les ressources suivantes : [mental][mental] → défaussez cette carte. <i>(N'importe quel joueur peut le faire.)</i>",
+		"text": "Attachez cette carte à votre identité.\nLe personnage attaché perd -1 CTR, -1 ATQ et -1 DEF.\n<b>Action de héros</b> : subissez 1 dégât et dépensez les ressources suivantes : [mental][mental] → défaussez cette carte. N'importe quel joueur peut le faire.",
 		"traits": "Artefact."
 	},
 	{
@@ -519,8 +520,9 @@
 	},
 	{
 		"code": "16125",
+		"errata": "Remplacement du texte d'aide en texte de règle. (RRG)",
 		"name": "Le Poison",
-		"text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand votre tour commence, placez 1 jeton Poison sur cette carte. Ensuite, subissez 1 dégât pour chaque jeton Poison sur cette carte.\n<b>Action de héros</b> : dépensez 3 ressources de différents types → défaussez cette carte. <i>(N'importe quel joueur peut le faire.)</i>",
+		"text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand votre tour commence, placez 1 jeton Poison sur cette carte. Ensuite, subissez 1 dégât pour chaque jeton Poison sur cette carte.\n<b>Action de héros</b> : dépensez 3 ressources de différents types → défaussez cette carte. N'importe quel joueur peut le faire.",
 		"flavor": "C'est la toxine la plus mortelle de la galaxie.",
 		"traits": "Artefact."
 	},

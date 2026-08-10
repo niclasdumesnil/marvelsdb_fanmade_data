@@ -93,9 +93,10 @@
 	},
 	{
 		"code": "09014",
+		"errata": "Remplacé « Réponse » par « Interruption ». (RRG)",
 		"name": "Iron Fist",
 		"subname": "Danny Rand",
-		"text": "Iron First entre en jeu avec 2 jetons Mystique sur lui.\n<b>Réponse</b>: quand Iron Fist attaque un ennemi, retirez-lui 1 jeton Mystique → sonnez cet ennemi et infligez-lui 1 dégât.",
+		"text": "Iron Fist entre en jeu avec 2 jetons Mystique sur lui.\n<b>Interruption</b>: quand Iron Fist attaque un ennemi, retirez-lui 1 jeton Mystique → sonnez cet ennemi et infligez-lui 1 dégât.",
 		"traits": "Defender."
 	},
 	{
@@ -125,10 +126,10 @@
 	},
 	{
 		"code": "09021",
+		"errata": "Retrait de la mention « (défense) » et du trait Défense. (RRG)",
 		"name": "Alerte",
-		"text": "<b>Interruption</b> <i>(défense)</i>: quand un héros est censé subir n'importe quelle quantité de dégâts, diminuez de 1 cette quantité.",
-		"flavor": "\"Bien reçu !\" - Iron Man",
-		"traits": "Défense."
+		"text": "<b>Interruption</b>: quand un héros est censé subir n'importe quelle quantité de dégâts, diminuez de 1 cette quantité.",
+		"flavor": "\"Bien reçu !\" - Iron Man"
 	},
 	{
 		"code": "09026",

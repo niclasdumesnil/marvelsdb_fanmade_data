@@ -1,8 +1,9 @@
 [
 	{
 		"code": "36030",
+		"errata": "Remplacé « changer de forme » par « passer sous forme de héros ». (RRG)",
 		"name": "Claustrophobie",
-		"text": "<b><i>Donnez cette carte au joueur d'Ororo Munroe.</b></i>\nPassez sous forme d'alter ego.\nVous ne pouvez pas changer de forme.\n<b>Action d'alter ego</b> : inclinez Ororo Munroe → retirez Claustrophobie de la partie."
+		"text": "<b><i>Donnez cette carte au joueur d'Ororo Munroe.</b></i>\nPassez sous forme d'alter ego.\nVous ne pouvez pas passer sous forme de héros.\n<b>Action d'alter ego</b> : inclinez Ororo Munroe → retirez Claustrophobie de la partie."
 	},
 	{
 		"code": "36031",
@@ -40,8 +41,9 @@
 	},
 	{
 		"code": "36038",
+		"errata": "Ajout de « L'allié attaché engage son contrôleur. ». (RRG)",
 		"name": "Possédé",
-		"text": "Considérez l'allié attaché comme un sbire [[CONTRÔLÉ]] dont la boîte de texte est vide. Sa MNG est égale à son CTR imprimé et il ne subit pas de dégâts consécutifs.\n<b>Une fois révélée</b> : attachez cette carte à l'allié ayant le CTR le plus faible qui n'a pas d'exemplaire de Possédé attaché. Si vous ne pouvez pas, cette carte gagne Renfort.",
+		"text": "Considérez l'allié attaché comme un sbire [[CONTRÔLÉ]] dont la boîte de texte est vide. Sa MNG est égale à son CTR imprimé et il ne subit pas de dégâts consécutifs.\n<b>Une fois révélée</b> : attachez cette carte à l'allié ayant le CTR le plus faible qui n'a pas d'exemplaire de Possédé attaché. L'allié attaché engage son contrôleur. Si vous ne pouvez pas, cette carte gagne Renfort.",
 		"traits": "Condition."
 	},
 	{

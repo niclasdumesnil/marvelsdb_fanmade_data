@@ -8,8 +8,9 @@
 	},
 	{
 		"code": "23001b",
+		"errata": "Ajout de « (Limite d'une fois par phase.) ». (RRG)",
 		"name": "James Rhodes",
-		"text": "<b>Action</b> : choisissez dans votre pile de défausse une carte du set de War Machine et mélangez-la dans votre deck.\n<b>Réponse forcée</b> : après être passé sous cette forme, défaussez chaque jeton Munition de votre identité.",
+		"text": "<b>Action</b> : choisissez dans votre pile de défausse une carte du set de War Machine et mélangez-la dans votre deck. (Limite d'une fois par phase.)\n<b>Réponse forcée</b> : après être passé sous cette forme, défaussez chaque jeton Munition de votre identité.",
 		"traits": "S.H.I.E.L.D. Soldat."
 	},
 	{

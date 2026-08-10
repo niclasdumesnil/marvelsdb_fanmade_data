@@ -1604,6 +1604,7 @@
 	{
 		"back_link": "04128b",
 		"code": "04128a",
+		"errata": "Added “encounter” before “side scheme”. (RRG 1.4)",
 		"faction_code": "encounter",
 		"illustrator": "Denis Medri",
 		"name": "The Rise of Red Skull",
@@ -1614,7 +1615,7 @@
 		"set_code": "red_skull",
 		"set_position": 4,
 		"stage": "1A",
-		"text": "<b>Contents</b>: Red Skull (I) and Red Skull (II). Red Skull and Standard encounter sets. Two modular encounter sets <i>(Hydra Assault and Hydra Patrol).</i>\n<b>Setup</b>: Put the Red House into play. Shuffle every other side scheme into the side-scheme deck and set it next to the encounter deck (see insert).\nSet The Sleeper aside, out of play.",
+		"text": "<b>Contents</b>: Red Skull (I) and Red Skull (II). Red Skull and Standard encounter sets. Two modular encounter sets <i>(Hydra Assault and Hydra Patrol).</i>\n<b>Setup</b>: Put the Red House into play. Shuffle every other encounter side scheme into the side-scheme deck and set it next to the encounter deck (see insert).\nSet The Sleeper aside, out of play.",
 		"type_code": "main_scheme"
 	},
 	{
@@ -1794,6 +1795,7 @@
 	{
 		"boost_star": true,
 		"code": "04136",
+		"errata": "Revised wording to function as intended with updated “for each” rules. (RRG 1.5)",
 		"faction_code": "encounter",
 		"flavor": "\"This is the end for you, Herr Captain!\" —Red Skull",
 		"illustrator": "Denis Medri",
@@ -1804,7 +1806,7 @@
 		"quantity": 2,
 		"set_code": "red_skull",
 		"set_position": 17,
-		"text": "<b>When Revealed</b>: Exhaust a character you control for each side scheme in play.\n<hr />\n[star] <b>Boost</b>: Exhaust a character you control.",
+		"text": "<b>When Revealed</b>: For each side scheme in play, choose and exhaust a character you control.\n<hr />\n[star] <b>Boost</b>: Exhaust a character you control.",
 		"type_code": "treachery"
 	},
 	{

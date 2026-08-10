@@ -236,6 +236,7 @@
 	{
 		"boost_star": true,
 		"code": "07014",
+		"errata": "Changed “gains” to “heals”. (RRG 1.4)",
 		"faction_code": "encounter",
 		"name": "I've Been Waiting For This!",
 		"octgn_id": "db36c41c-8dff-4c87-9080-a9fbf594cba0",
@@ -477,6 +478,7 @@
 	{
 		"boost_star": true,
 		"code": "07029",
+		"errata": "Changed “gains” to “heals”. (RRG 1.4)",
 		"faction_code": "encounter",
 		"name": "I've Been Waiting For This!",
 		"octgn_id": "369dd490-3f74-4178-b1e8-6b4289fc6f6c",

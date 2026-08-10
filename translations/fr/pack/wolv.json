@@ -8,9 +8,10 @@
 	},
 	{
 		"code": "35001b",
+		"errata": "Simplification de la capacité de Mise en place. (RRG)",
 		"flavor": "\"Je suis Canadien, mon pote. Et fier de l'être !\"",
 		"name": "Logan",
-		"text": "<i>Tching !</i> — <b>Mise en place</b> : cherchez l'amélioration Griffes de Wolverine dans votre deck ou votre pile de défausse et mettez-la en jeu.",
+		"text": "<i>Tching !</i> — <b>Mise en place</b> : mettez en jeu l'amélioration Griffes de Wolverine.",
 		"traits": "Mutant."
 	},
 	{
@@ -53,9 +54,10 @@
 	},
 	{
 		"code": "35008",
+		"errata": "Remplacé la flèche de coût par « pour ». (RRG)",
 		"flavor": "\"Tu ne sais pas à quoi ressemble la fureur si tu ne m'as jamais vu énervé.\" — Wolverine",
 		"name": "Déferlement Berserk",
-		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 4 dégâts à un ennemi. Si un ennemi est vaincu par cette attaque, vous pouvez subir 2 dégâts → répétez cette capacité.",
+		"text": "<b>Action de héros</b> <i>(attaque)</i> : infligez 4 dégâts à un ennemi. Si un ennemi est vaincu par cette attaque, vous pouvez subir 2 dégâts pour répéter cette capacité.",
 		"traits": "Attaque."
 	},
 	{

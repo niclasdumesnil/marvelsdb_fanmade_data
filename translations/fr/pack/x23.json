@@ -150,8 +150,9 @@
 	},
 	{
 		"code": "43036",
+		"errata": "Remplacé « héros » par « identité ». (RRG)",
 		"name": "Spécialiste de la Première Ligne",
-		"text": "Liée (Entraînement Spécialisé).\n Votre héros gagne +4 points de vie.\n<b>Réponse de héros</b> : après que votre héros a subi des dégâts d'une attaque ennemie, inclinez cette amélioration → piochez 1 carte.",
+		"text": "Liée (Entraînement Spécialisé).\nVotre identité gagne +4 points de vie.\n<b>Réponse</b> : après que votre identité a subi des dégâts d'une attaque ennemie, inclinez cette amélioration → piochez 1 carte.",
 		"traits": "Specialization."
 	},
 	{

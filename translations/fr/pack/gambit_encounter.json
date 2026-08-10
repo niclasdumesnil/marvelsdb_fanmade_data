@@ -43,8 +43,9 @@
     },
     {
         "code": "37034",
+        "errata": "Suppression de « et mettez-le de nouveau en jeu ». (RRG)",
         "name": "Bouclier Psionique",
-        "text": "Attachez cette carte à un sbire. Sinon, Bouclier Psionique gagne Renfort.\n<b>Interruption forcée</b> : quand le sbire attaché est censé quitter le jeu, soignez tous les dégâts de ce sbire à la place et mettez-le de nouveau en jeu. Ensuite, défaussez cet attachement.",
+        "text": "Attachez cette carte à un sbire. Sinon, Bouclier Psionique gagne Renfort.\n<b>Interruption forcée</b> : quand le sbire attaché est censé quitter le jeu, soignez tous les dégâts de ce sbire à la place. Ensuite, défaussez cet attachement.",
         "traits": "Psionique."
     },
     {

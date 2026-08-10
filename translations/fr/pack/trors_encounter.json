@@ -55,8 +55,9 @@
 	},
 	{
 		"code": "04057",
+		"errata": "Le mélange du deck n'a lieu que s'il a été cherché. (RRG)",
 		"name": "Hail Hydra!",
-		"text": "<b>Une fois révélée</b> : chaque sbire [[HYDRA]] engagé avec un héros attaque ce héros. Chaque joueur qui n'a pas été attaqué par cet effet cherche un sbire [[HYDRA]] dans le deck Rencontre ou la pile de défausse Rencontre et le met en jeu engagé avec lui. Mélangez le deck Rencontre s'il a été consulté"
+		"text": "<b>Une fois révélée</b> : chaque sbire [[HYDRA]] engagé avec un héros attaque ce héros. Chaque joueur qui n'a pas été attaqué par cet effet cherche un sbire [[HYDRA]] dans le deck Rencontre ou la pile de défausse Rencontre et le met en jeu engagé avec lui. Mélangez le deck Rencontre s'il a été consulté."
 	},
 	{
 		"code": "04058",
@@ -80,6 +81,7 @@
 	},
 	{
 		"code": "04061a",
+		"errata": "Remplacé « Patrouille d'Hydra » par « Offensive d'Hydra ». (RRG)",
 		"name": "Attaque sur le Mont Athéna",
 		"text": "<b>Contenu</b> : Crossbones (I) et Crossbones (II). Les sets de rencontre Crossbones, Armes Expérimentales et Standard. Trois sets de rencontre modulaires <i>(Offensive d'Hydra, Maîtrise des Armes et Légions d'Hydra)</i>.\n<b>Mise en place</b> : Constituez le deck Armes Expérimentales et placez-le à côté du deck Manigance Principale. (Voir livret de règles, page 5.)"
 	},
@@ -515,8 +517,9 @@
 	},
 	{
 		"code": "04128a",
+		"errata": "Ajout de « de rencontre » avant « manigance annexe ». (RRG)",
 		"name": "L'Avènement de Crâne Rouge",
-		"text": "<b>Contenu</b> : Crâne Rouge (I) et Crâne Rouge (II). Les sets de Rencontre Crâne Rouge et Standard. Deux sets de rencontre modulaires <i>(Offensive d'Hydra et Patrouille d'Hydra).</i>\n<b>Mise en place</b> : mettez en jeu la Maison Rouge. Mélangez chaque autre manigance annexe dans le deck Manigance Annexe et placez-le à côté du deck Rencontre <i>(voir livret de règles)</i>. Mettez de côté Le Dormeur, hors jeu."
+		"text": "<b>Contenu</b> : Crâne Rouge (I) et Crâne Rouge (II). Les sets de Rencontre Crâne Rouge et Standard. Deux sets de rencontre modulaires <i>(Offensive d'Hydra et Patrouille d'Hydra).</i>\n<b>Mise en place</b> : mettez en jeu la Maison Rouge. Mélangez chaque autre manigance annexe de rencontre dans le deck Manigance Annexe et placez-le à côté du deck Rencontre <i>(voir livret de règles)</i>. Mettez de côté Le Dormeur, hors jeu."
 	},
 	{
 		"code": "04128b",
@@ -570,15 +573,17 @@
 	},
 	{
 		"code": "04135",
+		"errata": "Remplacé « Réponse forcée » par « Interruption forcée ». (RRG)",
 		"name": "Réalité Altérée",
-		"text": "Incitation 1.\nAttachez cette carte à une manigance annexe.\n<b>Réponse forcée</b> : quand la manigance attachée est déjouée, attribuez une carte Rencontre au premier joueur.",
+		"text": "Incitation 1.\nAttachez cette carte à une manigance annexe.\n<b>Interruption forcée</b> : quand la manigance attachée est déjouée, attribuez une carte Rencontre au premier joueur.",
 		"flavor": "La Pierre d'Infinité donne à Crâne Rouge le pouvoir de modeler la réalité selon sa volonté.",
 		"traits": "Condition."
 	},
 	{
 		"code": "04136",
+		"errata": "Reformulation pour les règles de « pour chaque ». (RRG)",
 		"name": "Éternel Rival",
-		"text": "<b>Une fois révélée</b> : inclinez un personnage que vous contrôlez pour chaque manigance annexe en jeu.\n<hr />\n[star] <b>Boost</b>: inclinez un personnage que vous contrôlez.",
+		"text": "<b>Une fois révélée</b> : pour chaque manigance annexe en jeu, choisissez et inclinez un personnage que vous contrôlez.\n<hr />\n[star] <b>Boost</b>: inclinez un personnage que vous contrôlez.",
 		"flavor": "\"C'est la fin pour vous, Herr Captain !\" — Crâne Rouge"
 	},
 	{
@@ -642,8 +647,9 @@
 	},
 	{
 		"code": "04147",
+		"errata": "Le mélange du deck n'a lieu que s'il a été cherché. (RRG)",
 		"name": "Hail Hydra !",
-		"text": "<b>Une fois révélée</b> : chaque sbire [[HYDRA]] engagé avec un héros attaque ce héros. Chaque joueur qui n'a pas été attaqué par cet effet cherche un sbire [[HYDRA]] dans le deck Rencontre ou la pile de défausse Rencontre et le met en jeu engagé avec lui. Mélangez le deck Rencontre s'il a été consulté"
+		"text": "<b>Une fois révélée</b> : chaque sbire [[HYDRA]] engagé avec un héros attaque ce héros. Chaque joueur qui n'a pas été attaqué par cet effet cherche un sbire [[HYDRA]] dans le deck Rencontre ou la pile de défausse Rencontre et le met en jeu engagé avec lui. Mélangez le deck Rencontre s'il a été consulté."
 	},
 	{
 		"code": "04148",

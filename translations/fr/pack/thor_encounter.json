@@ -12,8 +12,9 @@
 	},
 	{
 		"code": "06028",
+		"errata": "Remplacé « Interruption » par « Interruption forcée ». (RRG)",
 		"name": "Loki",
-		"text": "<b>Interruption</b> : quand Loki est censé être vaincu, défaussez la carte du dessus du deck Rencontre. Si cette carte est une traîtrise, soignez tous les dégâts de Loki à la place.\n<i>(Sbire Némésis de Thor.)</i>",
+		"text": "<b>Interruption forcée</b> : quand Loki est censé être vaincu, défaussez la carte du dessus du deck Rencontre. Si cette carte est une traîtrise, soignez tous les dégâts de Loki à la place.\n<i>(Sbire Némésis de Thor.)</i>",
 		"flavor": "\"Tu sembles dépité, mon frère. C'est une bonne chose.\"",
 		"traits": "Asgard."
 	},

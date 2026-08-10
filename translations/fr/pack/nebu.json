@@ -72,9 +72,10 @@
 	},
 	{
 		"code": "22011",
+		"errata": "Reformulation pour les règles de « pour chaque ». (RRG)",
 		"flavor": "\"Ce ne sera pas facile, mais nous sauverons cet univers... nous sommes les gardiens de la cette galaxie.\"",
 		"name": "Eros",
-		"text": "<b>Réponse</b> : après avoir joué Eros de votre main, désorientez un sbire pour chaque ressource [mental] que vous avez utilisée pour le payer.",
+		"text": "<b>Réponse</b> : après avoir joué Eros de votre main, pour chaque ressource [mental] que vous avez utilisée pour le payer, choisissez un sbire et désorientez-le.",
 		"traits": "Gardien."
 	},
 	{

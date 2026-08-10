@@ -138,6 +138,7 @@
 	},
 	{
 		"code": "03032",
+		"errata": "Remplacé « Réponse » par « Interruption ». (RRG)",
 		"name": "Pris en Filature",
 		"text": "Attachez cette carte à une manigance annexe.\n1 max par manigance.\n<b>Interruption</b> : quand la manigance attachée est déjouée, infligez 4 dégâts à un ennemi."
 	},

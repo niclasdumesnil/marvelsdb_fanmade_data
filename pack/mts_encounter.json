@@ -1274,7 +1274,7 @@
 		"attack": 1,
 		"attack_star": true,
 		"code": "21129",
-		"errata": "Added “against you”. (RRG 1.5)",
+		"errata": "Added “Attach to the villain.” and “against you”. (RRG 1.6)",
 		"faction_code": "encounter",
 		"is_unique": true,
 		"name": "Infinity Gauntlet",
@@ -1287,7 +1287,7 @@
 		"scheme_star": true,
 		"set_code": "infinity_gauntlet",
 		"set_position": 1,
-		"text": "Permanent. Setup\n[star] <b>Forced Response</b>: After attached villain activates against you, resolve the <b>Special</b> ability of each [[infinity stone]] in play. Otherwise, put the top card of the [[infinity stone]] deck into play.",
+		"text": "Permanent. Setup.\nAttach to the villain.\n[star] <b>Forced Response</b>: After attached villain activates against you, resolve the <b>Special</b> ability of each [[infinity stone]] in play. Otherwise, put the top card of the [[infinity stone]] deck into play.",
 		"traits": "Artifact. Weapon.",
 		"type_code": "attachment"
 	},

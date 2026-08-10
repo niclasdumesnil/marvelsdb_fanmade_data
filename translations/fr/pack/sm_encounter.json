@@ -1,8 +1,9 @@
 [
 	{
 		"code": "27025",
+		"errata": "Attache George Stacy à cette carte au lieu de le mettre de côté et de lui attacher cette carte. (RRG)",
 		"name": "Père Inquiet",
-		"text": "<b>Donnez cette carte au joueur de Gwen Stacy.</b>\nCherchez George Stacy dans votre deck, main, pile de défausse ou zone de jeu et mettez-le de côté. Attachez-lui cette obligation.\n<b>Action d'alter ego</b> : inclinez Gwen Stacy et retirez cette obligation de la partie → ajoutez George Stacy à votre main."
+		"text": "<b>Donnez cette carte au joueur de Gwen Stacy.</b>\nCherchez George Stacy dans votre deck, main, pile de défausse et zone de jeu et attachez-le face cachée à cette carte.\n<b>Action d'alter ego</b> : inclinez Gwen Stacy et retirez cette obligation de la partie → ajoutez George Stacy à votre main."
 	},
 	{
 		"code": "27026",
@@ -135,20 +136,23 @@
 	},
 	{
 		"code": "27073",
+		"errata": "Remplacé « vous avez attaqué et blessé Venom avec une carte que vous contrôlez » par « vous ou un allié que vous contrôlez attaque et blesse Venom ». (RRG)",
 		"name": "Venom",
-		"text": "Ténacité. <i>(Ce personnage entre en jeu avec une carte d'état Tenace.)</i>\n<i>Vengeance</i> — <b>Réponse forcée</b> : après que vous avez attaqué et blessé Venom avec une carte que vous contrôlez, placez 1 carte de boost face cachée sur votre identité.",
+		"text": "Ténacité. <i>(Ce personnage entre en jeu avec une carte d'état Tenace.)</i>\n<i>Vengeance</i> — <b>Réponse forcée</b> : après que vous ou un allié que vous contrôlez attaque et blesse Venom, placez 1 carte de boost face cachée sur votre identité.",
 		"traits": "Symbiote."
 	},
 	{
 		"code": "27074",
+		"errata": "Remplacé « vous avez attaqué et blessé Venom avec une carte que vous contrôlez » par « vous ou un allié que vous contrôlez attaque et blesse Venom ». (RRG)",
 		"name": "Venom",
-		"text": "Ténacité. Solide.\n<b>Une fois révélée</b> : cherchez la manigance annexe Crocs et Griffes dans le deck Rencontre ou la pile de défausse du deck Rencontre et mettez-la en jeu. <i>(Mélangez le deck Rencontre.)</i>\n<i>Vengeance</i> — <b>Réponse forcée</b> : après que vous avez attaqué et blessé Venom avec une carte que vous contrôlez, placez 1 carte de boost face cachée sur votre identité.",
+		"text": "Ténacité. Solide.\n<b>Une fois révélée</b> : cherchez la manigance annexe Crocs et Griffes dans le deck Rencontre ou la pile de défausse du deck Rencontre et mettez-la en jeu. <i>(Mélangez le deck Rencontre.)</i>\n<i>Vengeance</i> — <b>Réponse forcée</b> : après que vous ou un allié que vous contrôlez attaque et blesse Venom, placez 1 carte de boost face cachée sur votre identité.",
 		"traits": "Symbiote."
 	},
 	{
 		"code": "27075",
+		"errata": "Remplacé « vous avez attaqué et blessé Venom avec une carte que vous contrôlez » par « vous ou un allié que vous contrôlez attaque et blesse Venom ». (RRG)",
 		"name": "Venom",
-		"text": "Riposte 1. Ténacité. Solide.\n<b>Une fois révélée</b> : placez 2 cartes de boost sur votre identité.\n<i>Représailles</i> — <b>Réponse forcée</b> : après que vous avez attaqué et blessé Venom avec une carte que vous contrôlez, placez 1 carte de boost face cachée sur votre identité. (2 à la place s'il s'agit de la première attaque de ce tour.)",
+		"text": "Riposte 1. Ténacité. Solide.\n<b>Une fois révélée</b> : placez 2 cartes de boost sur votre identité.\n<i>Représailles</i> — <b>Réponse forcée</b> : après que vous ou un allié que vous contrôlez attaque et blesse Venom, placez 1 carte de boost face cachée sur votre identité. (2 à la place s'il s'agit de la première attaque de ce tour.)",
 		"traits": "Symbiote."
 	},
 	{
@@ -766,8 +770,9 @@
 	},
 	{
 		"code": "27171",
+		"errata": "Ajout de « L'allié attaché engage son contrôleur. ». (RRG)",
 		"name": "Esprit Manipulé",
-		"text": "L'allié attaché perd le texte imprimé dans sa boîte de texte <i> sauf les [[TRAIT]])</i> et est condidéré comme un sbire. La MNG du sbire attaché est égale à son CTR imprimé et il ne subit pas de dégâts consécutifs.\n<b>Une fois révélée</b> : attachez cette carte à l'allié que vous contrôlez ayant le coût le moins élevé. Si vous ne pouvez pas, cette carte gagne Renfort.",
+		"text": "L'allié attaché perd le texte imprimé dans sa boîte de texte <i> sauf les [[TRAIT]])</i> et est condidéré comme un sbire. La MNG du sbire attaché est égale à son CTR imprimé et il ne subit pas de dégâts consécutifs.\n<b>Une fois révélée</b> : attachez cette carte à l'allié que vous contrôlez ayant le coût le moins élevé. L'allié attaché engage son contrôleur. Sinon, cette carte gagne Renfort.",
 		"traits": "Illusion."
 	},
 	{

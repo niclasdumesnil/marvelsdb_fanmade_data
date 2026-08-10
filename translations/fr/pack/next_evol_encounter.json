@@ -247,8 +247,9 @@
 	},
 	{
 		"code": "40092",
+		"errata": "Remplacement du texte d'aide en texte de règle. (RRG)",
 		"name": "Collier Inhibiteur",
-		"text": "Attachez cette carte à votre identité.\nVotre identité perd le texte imprimé dans sa boîte de texte <i>(sauf les [[TRAITS]])</i>.\n<b>Action</b> : choisissez : soit vous inclinez un personnage que vous contrôlez, soit vous subissez 3 dégâts → défaussez cette carte. <i>(N'importe quel joueur peut utiliser cette capacité.)</i>",
+		"text": "Attachez cette carte à votre identité.\nVotre identité perd le texte imprimé dans sa boîte de texte <i>(sauf les [[TRAITS]])</i>.\n<b>Action</b> : choisissez : soit vous inclinez un personnage que vous contrôlez, soit vous subissez 3 dégâts → défaussez cette carte. N'importe quel joueur peut utiliser cette capacité.",
 		"traits": "Tech."
 	},
 	{

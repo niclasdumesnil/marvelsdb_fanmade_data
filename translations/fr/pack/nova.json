@@ -14,10 +14,11 @@
 	},
 	{
 		"code": "28002",
+		"errata": "Ajout de « depuis votre pile de défausse ». (RRG)",
 		"flavor": "\"Je ferai ce que vous avez demandé. Avec honneur, loyauté, courage et tous ces autres trucs.\"",
 		"name": "Miss Marvel",
 		"subname": "Kamala Khan",
-		"text": "<b>Réponse de héros</b> : après avoir joué un événement, inclinez Miss Marvel et infligez-lui 1 dégât → renvoyez cet événement dans votre main.",
+		"text": "<b>Réponse de héros</b> : après avoir joué un événement, inclinez Miss Marvel et infligez-lui 1 dégât → renvoyez cet événement depuis votre pile de défausse dans votre main.",
 		"traits": "Champion. Inhumain."
 	},
 	{

@@ -46,9 +46,10 @@
 	},
 	{
 		"code": "25007",
+		"errata": "Remplacé « Valkyrie » par « Vous ». (RRG)",
 		"flavor": "\"Un animal intrépide. Si par sa vie ou sa mort il peut nous sauver, il le fera.\" — Valkyrie",
 		"name": "Aragorn",
-		"text": "Valkyrie gagne +4 points de vie et le trait [[AÉRIEN]].",
+		"text": "Vous gagnez +4 points de vie et le trait [[AÉRIEN]].",
 		"traits": "Asgard. Créature."
 	},
 	{
@@ -71,9 +72,10 @@
 	},
 	{
 		"code": "25011",
+		"errata": "Ajout de « (défense) » et du trait Défense. (RRG)",
 		"name": "Guerrière Protectrice",
-		"text": "<b>Interruption de héros</b> : quand l'ennemi auquel l'Aura de la Mort est attachée attaque, déclarez Valkyrie comme défenseur sans l'incliner. Elle gagne +2 DEF pour cette attaque.",
-		"traits": "Defense."
+		"text": "<b>Interruption de héros</b> <i>(défense)</i> : quand l'ennemi auquel l'Aura de la Mort est attachée attaque, déclarez Valkyrie comme défenseur sans l'incliner. Elle gagne +2 DEF pour cette attaque.",
+		"traits": "Défense."
 	},
 	{
 		"code": "25012",

@@ -8,8 +8,9 @@
 	},
 	{
 		"code": "31001b",
+		"errata": "Les jetons et cartes attachées sont désormais déplacés sur Peni Parker au lieu de l'inverse. (RRG)",
 		"name": "Armure SP//dr",
-		"text": "Permanent. Cette carte ne peut pas perdre le texte imprimé dans sa boîte de texte.\n<i>Retour à la Base</i> — <b>Interruption forcée</b> : quand vous retournez cette carte sur cette face, retournez SP//dr sur sa face Peni Parker. Détachez Peni Parker de cette carte, en déplaçant sur l'Armure SP//dr tous les jetons et toutes les cartes attachées à Peni Parker.",
+		"text": "Permanent. Cette carte ne peut pas perdre le texte imprimé dans sa boîte de texte.\n<i>Retour à la Base</i> — <b>Interruption forcée</b> : quand vous retournez cette carte sur cette face, retournez SP//dr sur sa face Peni Parker. Détachez Peni Parker de cette carte, en déplaçant sur Peni Parker tous les jetons et toutes les cartes attachées à cette carte.",
 		"traits": "Inactive. Tech."
 	},
 	{

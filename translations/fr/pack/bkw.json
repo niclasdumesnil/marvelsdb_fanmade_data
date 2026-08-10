@@ -1,9 +1,10 @@
 [
     {
         "code": "08001a",
+        "errata": "Remplacé « déclenché » par « résolu ». (RRG 1.8)",
         "flavor": "« Mon nom est Natasha. Mais vous pouvez m'appeler Black Widow ! »",
         "name": "Black Widow",
-        "text": "« Faiseuse de veuves » — <b>Réponse</b> : après avoir déclenché la capacité d'une carte [[Préparation]] que vous contrôlez, infligez 1 dégât à un ennemi.",
+        "text": "« Faiseuse de veuves » — <b>Réponse</b> : après avoir résolu la capacité d'une carte [[Préparation]] que vous contrôlez, infligez 1 dégât à un ennemi.",
         "traits": "Avenger. Espion."
     },
     {

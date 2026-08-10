@@ -564,13 +564,15 @@
 	},
 	{
 		"code": "01183",
+		"errata": "Ajout de points à « M.O.D.O.K. ». (RRG)",
 		"name": "Le Siège de l'Apocalypse",
-		"text": "<b>Une fois révélée</b> : si MODOK n'est pas en jeu, cherchez-le dans le deck rencontre ou la pile de défausse Rencontre et mettez-le en jeu engagé avec vous. Ensuite, mélangez le deck Rencontre."
+		"text": "<b>Une fois révélée</b> : si M.O.D.O.K. n'est pas en jeu, cherchez-le dans le deck rencontre ou la pile de défausse Rencontre et mettez-le en jeu engagé avec vous. Ensuite, mélangez le deck Rencontre."
 	},
 	{
 		"code": "01184",
+		"errata": "Ajout de points au titre de la carte. (RRG)",
 		"flavor": "\"Tu aurais dû rester caché sous le rocher duquel tu as rampé !\"",
-		"name": "MODOK",
+		"name": "M.O.D.O.K.",
 		"text": "Riposte 2. <i>(Après que ce personnage a été attaqué, infligez 2 dégâts au personnage attaquant.)</i>",
 		"traits": "Cyborg. Élite."
 	},

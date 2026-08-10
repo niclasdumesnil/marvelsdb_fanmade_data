@@ -34,6 +34,7 @@
 		"attack": 2,
 		"boost": 2,
 		"code": "31027",
+		"errata": "Changed “engaged hero” to “engaged player” and “that hero” to “that player's hero”. (RRG 1.5)",
 		"faction_code": "encounter",
 		"flavor": "\"This is a threat unlike any you've faced before!\" —Uncle Ben",
 		"health": 6,
@@ -45,7 +46,7 @@
 		"scheme": 2,
 		"set_code": "spdr_nemesis",
 		"set_position": 2,
-		"text": "<b>Forced Response</b>: After the engaged hero generates any number of resources, deal an equal amount of damage to that hero.\n<i>(SP//dr's nemesis minion.)</i>",
+		"text": "<b>Forced Response</b>: After the engaged player generates any number of resources, deal an equal amount of damage to that player's hero.\n<i>(SP//dr's nemesis minion.)</i>",
 		"traits": "Creature.",
 		"type_code": "minion"
 	},

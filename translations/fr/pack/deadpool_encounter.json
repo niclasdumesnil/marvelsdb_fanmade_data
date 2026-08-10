@@ -56,8 +56,9 @@
 	},
 	{
 		"code": "44041",
+		"errata": "Ajout de « L'allié attaché engage son contrôleur. ». (RRG)",
 		"name": "'Poolisation",
-		"text": "L'allié attaché est considéré comme un sbire [['POOL]] ayant une boîte de texte vide. La MNG du sbire attaché est égal à son CTR imprimé et il ne subit pas de dégâts consécutifs.\n<b>Une fois révélée</b> : attachez cette carte à l'allié ayant le coût le plus élevé et qui n'a pas déjà une 'Poolisation attachée. Sinon, cette carte gagne Renfort."
+		"text": "L'allié attaché est considéré comme un sbire [['POOL]] ayant une boîte de texte vide. La MNG du sbire attaché est égal à son CTR imprimé et il ne subit pas de dégâts consécutifs.\n<b>Une fois révélée</b> : attachez cette carte à l'allié ayant le coût le plus élevé et qui n'a pas déjà une 'Poolisation attachée. L'allié attaché engage son contrôleur. Sinon, cette carte gagne Renfort."
 	},
 	{
 		"code": "44042",

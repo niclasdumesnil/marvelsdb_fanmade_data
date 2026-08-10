@@ -191,8 +191,9 @@
 	},
 	{
 		"code": "01026",
+		"errata": "Retrait de la mention « (contre) ». (RRG)",
 		"name": "Département Judiciaire des Surhumains",
-		"text": "<b>Action d'alter ego</b> <i>(contre)</i> : inclinez le département Judiciaire des Surhumains et dépensez une ressource [mental] → retirez 2 menaces d'une manigance.",
+		"text": "<b>Action d'alter ego</b> : inclinez le département Judiciaire des Surhumains et dépensez une ressource [mental] → retirez 2 menaces d'une manigance.",
 		"flavor": "\"Je vous enverrai la facture. Mon temps est précieux ces temps-ci.\" — Jennifer Walters",
 		"traits": "Lieu."
 	},

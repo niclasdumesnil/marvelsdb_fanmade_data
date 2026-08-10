@@ -117,8 +117,9 @@
 	},
 	{
 		"code": "17020",
+		"errata": "Remplacé « d'un deck » par « du deck d'un joueur ou du deck Rencontre ». Suppression du texte d'aide. (RRG)",
 		"name": "Cosmo",
-		"text": "<b>Interruption</b> : quand Cosmo attaque ou contre, nommez un type de carte, ensuite, défaussez la carte du dessus d'un deck. Si cette carte est du type nommé, Cosmo ne subit pas de dégâts consécutifs <i>(les dégâts indiqués sous CTR ou ATQ)</i> pour cette utilisation.",
+		"text": "<b>Interruption</b> : quand Cosmo attaque ou contre, nommez un type de carte, ensuite, défaussez la carte du dessus du deck d'un joueur ou du deck Rencontre. Si cette carte est du type nommé, Cosmo ne subit pas de dégâts consécutifs pour cette utilisation.",
 		"traits": "Gardien."
 	},
 	{

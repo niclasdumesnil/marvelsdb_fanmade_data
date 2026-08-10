@@ -358,8 +358,9 @@
     },
     {
         "code": "21116",
+        "errata": "Ajout de « des cartes Joueur ». (RRG)",
         "name": "Sanctuaire",
-        "text": "Entrave 1[per_hero]. Victoire 1.\nThanos ne peut pas subir de dégâts.\n<b>Une fois déjouée</b> : chaque joueur peut dépenser jusqu'à 3 ressources [physical] de sa main. Infligez 2 dégâts à Thanos pour chaque ressource [physical] ainsi dépensée. Ces dégâts ignorent la carte d'état Tenace."
+        "text": "Entrave 1[per_hero]. Victoire 1.\nThanos ne peut pas subir de dégâts des cartes Joueur.\n<b>Une fois déjouée</b> : chaque joueur peut dépenser jusqu'à 3 ressources [physical] de sa main. Infligez 2 dégâts à Thanos pour chaque ressource [physical] ainsi dépensée. Ces dégâts ignorent la carte d'état Tenace."
     },
     {
         "code": "21117",
@@ -436,9 +437,10 @@
     },
     {
         "code": "21129",
+        "errata": "Ajout de « Attachez cette carte au méchant. » et de « contre vous ». (RRG)",
         "flavor": "\"Je détiens un pouvoir infini entre mes doigts.\" - Thanos",
         "name": "Gant de l'Infini",
-        "text": "Permanent. Mise en Place.\n[star] <b>Réponse forcée</b> : après que le méchant attaché s'est activé, résolvez la capacité \"<b>Spécial</b>\" de chaque [[PIERRE D'INFINITÉ]] en jeu.Sinon, mettez en jeu la carte du dessus du deck [[PIERRE D'INFINITÉ]].",
+        "text": "Permanent. Mise en Place.\nAttachez cette carte au méchant.\n[star] <b>Réponse forcée</b> : après que le méchant attaché s'est activé contre vous, résolvez la capacité \"<b>Spécial</b>\" de chaque [[PIERRE D'INFINITÉ]] en jeu. Sinon, mettez en jeu la carte du dessus du deck [[PIERRE D'INFINITÉ]].",
         "traits": "Artefact. Arme."
     },
     {

@@ -40,8 +40,9 @@
 	},
 	{
 		"code": "06006",
+		"errata": "Remplacé « Cette attaque » par « Ces dégâts ». (RRG)",
 		"name": "Frappe Foudroyante",
-		"text": "<b>Action de héros</b> : dépensez X ressources [energy] → infligez X dégâts au méchant et à chaque sbire engagé avec vous. Cette attaque ignore les cartes d'état Tenace si vous avez le trait [[AÉRIEN]].",
+		"text": "<b>Action de héros</b> : dépensez X ressources [energy] → infligez X dégâts au méchant et à chaque sbire engagé avec vous. Ces dégâts ignorent les cartes d'état Tenace si vous avez le trait [[AÉRIEN]].",
 		"flavor": "\"Je m'y oppose !\" — Thor",
 		"traits": "Super-pouvoir."
 	},

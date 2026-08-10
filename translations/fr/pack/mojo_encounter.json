@@ -138,9 +138,10 @@
 	},
 	{
 		"code": "39016",
+		"errata": "Ajout de la flèche de coût. (RRG)",
 		"flavor": "Spirale se cache dans l'un des nombreux programmes télévisés produits par Mojo.",
 		"name": "À La Recherche de Spirale",
-		"text": "Permanent.\n<b>Réponse forcée</b> : après que la dernière menace a été retirée de cette manigance, le joueur qui l'a retirée révèle la carte du dessus du deck Spectable et place 3[per_hero] menaces sur À La Recherche de Spirale.\n<b>Action de héros</b> : subissez 2 dégâts. Retirez 3 menaces de cette manigance."
+		"text": "Permanent.\n<b>Réponse forcée</b> : après que la dernière menace a été retirée de cette manigance, le joueur qui l'a retirée révèle la carte du dessus du deck Spectable et place 3[per_hero] menaces sur À La Recherche de Spirale.\n<b>Action de héros</b> : subissez 2 dégâts → retirez 3 menaces de cette manigance."
 	},
 	{
 		"code": "39017",
@@ -317,9 +318,10 @@
 	},
 	{
 		"code": "39045",
+		"errata": "Remplacé « gratuitement » par « en ignorant son coût en ressources ». (RRG)",
 		"flavor": "\"Apportez-moi un jardinet !\" — sir Mojo",
 		"name": "Quête Secondaire",
-		"text": "Renfort.\n<b>Une fois vaincu</b> : dans l'ordre des joueurs, chaque joueur peut chercher une carte dans son deck et la jouer gratuitement. <i>(Mélangez.)</i>\n<hr />\n[star] <b>Boost</b>: mettez cette carte en jeu."
+		"text": "Renfort.\n<b>Une fois vaincu</b> : dans l'ordre des joueurs, chaque joueur peut chercher une carte dans son deck et la jouer en ignorant son coût en ressources. <i>(Mélangez.)</i>\n<hr />\n[star] <b>Boost</b>: mettez cette carte en jeu."
 	},
 	{
 		"code": "39046",

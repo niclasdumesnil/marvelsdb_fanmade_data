@@ -38,9 +38,10 @@
 	},
 	{
 		"code": "38031",
+		"errata": "Remplacé « Interruption forcée » par « Réponse forcée ». (RRG)",
 		"flavor": "\"Bronebreaker, prêt !\"",
 		"name": "Bronebreaker",
-		"text": "Collaboration ([[REAVER]]). Ténacité.\n<b>Interruption forcée</b> : après que Bronebreaker vous a engagé, subissez 1 dégât indirect pour chaque sbire [[REAVER]] engagé avec vous.",
+		"text": "Collaboration ([[REAVER]]). Ténacité.\n<b>Réponse forcée</b> : après que Bronebreaker vous a engagé, subissez 1 dégât indirect pour chaque sbire [[REAVER]] engagé avec vous.",
 		"traits": "Reaver."
 	},
 	{

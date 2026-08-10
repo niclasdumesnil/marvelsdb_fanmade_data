@@ -12,8 +12,9 @@
     },
     {
         "code": "13028",
+        "errata": "Précise quel joueur résout la capacité. (RRG)",
         "name": "Le Scarabée",
-        "text": "Guarde.\n<b>Interruption forcée</b> : quand Le Scarabée est vaincu, choisissez : soit vous dépensez une ressource [physical], soit vous mélangez Le Scarabée dans le deck Rencontre.\n<i>(Sbire Némésis de La Guêpe.)</i>",
+        "text": "Garde.\n<b>Interruption forcée</b> : quand Le Scarabée est vaincu, le joueur ayant vaincu Le Scarabée choisit : soit il dépense une ressource [physical], soit il mélange Le Scarabée dans le deck Rencontre.\n<i>(Sbire Némésis de La Guêpe.)</i>",
         "traits": "Criminel."
     },
     {

@@ -272,8 +272,9 @@
 	},
 	{
 		"code": "45171a",
+		"errata": "Ajout de « lors de cette phase ». (RRG)",
 		"name": "Équipe de Mission",
-		"text": "Équipe de Mission ne peut pas être défaussée et le premier joueur en gagne le contrôle.\n<b>Action</b> : inclinez Équipe de Mission → choisissez :\n- Réduisez de 2 le coût du prochain allié joué dans la zone de mission.\n- Effectuez une tentative de mission.",
+		"text": "Équipe de Mission ne peut pas être défaussée et le premier joueur en gagne le contrôle.\n<b>Action</b> : inclinez Équipe de Mission → choisissez :\n- Réduisez de 2 le coût du prochain allié joué dans la zone de mission lors de cette phase.\n- Effectuez une tentative de mission.",
 		"traits": "Mission."
 	},
 	{

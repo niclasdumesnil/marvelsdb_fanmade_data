@@ -160,8 +160,9 @@
 	},
 	{
 		"code": "29025",
+		"errata": "Ajout de « retirez \"Allez les Champions!\" de la partie → ». (RRG)",
 		"name": "\"Allez les Champions!\"",
-		"text": "1 max par deck.\nJouez cette carte uniquement si votre identité a le trait [[CHAMPION]].\n<b>Action de héros</b> : jusqu'à la fin du round, aucun personnage [[CHAMPION]] en jeu ne peut subir de dégâts."
+		"text": "1 max par deck.\nJouez cette carte uniquement si votre identité a le trait [[CHAMPION]].\n<b>Action de héros</b> : retirez \"Allez les Champions!\" de la partie → jusqu'à la fin du round, aucun personnage [[CHAMPION]] en jeu ne peut subir de dégâts."
 	},
 	{
 		"code": "29027",
