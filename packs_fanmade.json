@@ -1495,7 +1495,7 @@
         "code": "valkyrie_by_boomguy",
         "confidential": "false",
         "creator": "Boomguy",
-        "date_release": "2026-07-26",
+        "date_release": "2026-08-11",
         "name": "Valkyrie",
         "octgn_id": "89221f80-16d6-46db-a7d2-4ad908d70b1b",
         "pack_type_code": "scenar_fanmade",
@@ -1503,6 +1503,6 @@
         "size": 15,
         "status": "released",
         "theme": "Marvel",
-        "visibility": "false"
+        "visibility": "true"
     }
 ]
