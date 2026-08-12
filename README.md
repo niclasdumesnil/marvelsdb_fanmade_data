@@ -65,6 +65,7 @@ To check and apply formatting to JSON files:
 * **base_threat** - The starting threat on a card. By default, it is per hero.
 * **base_threat_fixed** - Whether the **base_threat** is fixed and not per hero
 * **base_threat_per_group** - Whether the **base_threat** is multipled by the number of groups that began the scenario in the pod
+* **base_threat_star** - Whether a star appears in the base threat field indicating a special ability
 * **boost** - The number of boost icons on a card
 * **boost_star** - Whether a star appears in the boost field indicating a special ability
 * **code** - 5 digit card identifier. Consists of two zero-padded numbers: first two digits are the cycle position, last three are position of the card within the cycle (printed on the card).

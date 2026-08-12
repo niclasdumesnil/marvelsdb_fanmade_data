@@ -1,8 +1,8 @@
 import json
 import uuid
 
-runFile = 'fear_no_evil.json'
-pack_code = 'fne'
+runFile = 'luke_cage.json'
+pack_code = 'luke_cage'
 
 with open('./packs.json') as json_file:
     pack_data = json.load(json_file)
