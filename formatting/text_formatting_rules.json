@@ -1,0 +1,113 @@
+{
+  "_comment": "Unified formatting rules for Marvel Champions card text across projects (Nexus, MC4DB Editor, mc-services). Source of truth for card text auto-formatting, live linting, and OCR extraction prompts.",
+  "rules": [
+    {
+      "id": "ability-name-emdash",
+      "description": "Ability title before an em-dash (—) must be in italic <i> tags",
+      "pattern": "(?:<b>)?([A-Z][a-zA-Z0-9'\\s]+)(?:<\\/b>)?\\s*—",
+      "replacement": "<i>$1</i> —",
+      "severity": "error"
+    },
+    {
+      "id": "colon-outside-bold",
+      "description": "The colon (:) must be placed outside the bold <b> tag",
+      "pattern": "<b>([^<]+):<\\/b>",
+      "replacement": "<b>$1</b>:",
+      "severity": "error"
+    },
+    {
+      "id": "colon-trailing-space-en",
+      "description": "Mandatory space after a colon in English text",
+      "pattern": "(?<!https?)(?<!\\d):([a-zA-Z0-9\\[])",
+      "replacement": ": $1",
+      "severity": "error"
+    },
+    {
+      "id": "colon-spacing-fr",
+      "description": "Non-breaking space before colon and space after colon in French text",
+      "pattern": "(?<!https?)(?<!\\d)(?:[ \\t\\u00A0]|&nbsp;)*:[ \\t]*([a-zA-Z0-9\\[À-ÖØ-öø-ÿ])",
+      "replacement": "\u00A0: $1",
+      "severity": "error"
+    },
+    {
+      "id": "boost-line-format-en",
+      "description": "Boost line format in English: <hr>[star] <b>Boost</b>: ",
+      "pattern": "^(?:\\*\\s*)?(?:\\[star\\]|\\*)*\\s*(?:<b>)?Boost(?:<\\/b>)?\\s*:\\s*",
+      "replacement": "<hr>[star] <b>Boost</b>: ",
+      "severity": "warning"
+    },
+    {
+      "id": "boost-line-format-fr",
+      "description": "Boost line format in French: <hr>[star] <b>Boost</b>\u00A0: ",
+      "pattern": "^(?:\\*\\s*)?(?:\\[star\\]|\\*)*\\s*(?:<b>)?Boost(?:<\\/b>)?\\s*\\u00A0?:\\s*",
+      "replacement": "<hr>[star] <b>Boost</b>\u00A0: ",
+      "severity": "warning"
+    }
+  ],
+  "triggers": {
+    "fr": [
+      { "pattern": "une\\s+fois\\s+révélée?\\s*\\(alter\\s*-?\\s*ego\\)", "replacement": "Une fois révélée (alter ego)" },
+      { "pattern": "une\\s+fois\\s+révélée?\\s*\\(héros\\)", "replacement": "Une fois révélée (héros)" },
+      { "pattern": "interruption\\s+forcée\\s*\\(héros\\)", "replacement": "Interruption forcée (héros)" },
+      { "pattern": "action\\s+de\\s+héros", "replacement": "Action de héros" },
+      { "pattern": "action\\s+d'alter\\s*-?\\s*ego", "replacement": "Action d'alter ego" },
+      { "pattern": "action\\s+forcée", "replacement": "Action forcée" },
+      { "pattern": "action\\s+de\\s+premier\\s+joueur", "replacement": "Action de premier joueur" },
+      { "pattern": "action", "replacement": "Action" },
+      { "pattern": "interruption\\s+de\\s+héros", "replacement": "Interruption de héros" },
+      { "pattern": "interruption\\s+d'alter\\s*-?\\s*ego", "replacement": "Interruption d'alter ego" },
+      { "pattern": "interruption\\s+forcée", "replacement": "Interruption forcée" },
+      { "pattern": "interruption\\s+de\\s+premier\\s+joueur", "replacement": "Interruption de premier joueur" },
+      { "pattern": "interruption", "replacement": "Interruption" },
+      { "pattern": "réponse\\s+de\\s+héros|reponse\\s+de\\s+heros", "replacement": "Réponse de héros" },
+      { "pattern": "réponse\\s+d'alter\\s*-?\\s*ego|reponse\\s+d'alter\\s*-?\\s*ego", "replacement": "Réponse d'alter ego" },
+      { "pattern": "réponse\\s+forcée|reponse\\s+forcee", "replacement": "Réponse forcée" },
+      { "pattern": "réponse\\s+de\\s+mission|reponse\\s+de\\s+mission", "replacement": "Réponse de mission" },
+      { "pattern": "réponse|reponse", "replacement": "Réponse" },
+      { "pattern": "ressource\\s+de\\s+héros|ressource\\s+de\\s+heros", "replacement": "Ressource de héros" },
+      { "pattern": "ressource\\s+d'alter\\s*-?\\s*ego", "replacement": "Ressource d'alter ego" },
+      { "pattern": "ressource", "replacement": "Ressource" },
+      { "pattern": "mise\\s+en\\s+place", "replacement": "Mise en place" },
+      { "pattern": "contenu", "replacement": "Contenu" },
+      { "pattern": "une\\s+(?:fois|vois)\\s+r[ée]v[ée]l[ée]e", "replacement": "Une fois révélée" },
+      { "pattern": "une\\s+(?:fois|vois)\\s+r[ée]v[ée]l[ée]", "replacement": "Une fois révélé" },
+      { "pattern": "une\\s+fois\\s+déjouée|une\\s+fois\\s+dejouee", "replacement": "Une fois déjouée" },
+      { "pattern": "une\\s+fois\\s+vaincue", "replacement": "Une fois vaincue" },
+      { "pattern": "une\\s+fois\\s+vaincu", "replacement": "Une fois vaincu" },
+      { "pattern": "une\\s+fois\\s+achevée|une\\s+fois\\s+achevee", "replacement": "Une fois achevée" },
+      { "pattern": "une\\s+fois\\s+achevé|une\\s+fois\\s+acheve", "replacement": "Une fois achevé" },
+      { "pattern": "spécial|special", "replacement": "Spécial" },
+      { "pattern": "boost", "replacement": "Boost" }
+    ],
+    "en": [
+      { "pattern": "when\\s+revealed\\s*\\(alter\\s*-?\\s*ego\\)", "replacement": "When Revealed (Alter-Ego)" },
+      { "pattern": "when\\s+revealed\\s*\\(hero\\)", "replacement": "When Revealed (Hero)" },
+      { "pattern": "forced\\s+hero\\s+interrupt(?:ion)?", "replacement": "Forced Hero Interrupt" },
+      { "pattern": "hero\\s+action", "replacement": "Hero Action" },
+      { "pattern": "alter\\s*-?\\s*ego\\s+action", "replacement": "Alter-Ego Action" },
+      { "pattern": "forced\\s+action", "replacement": "Forced Action" },
+      { "pattern": "first\\s+player\\s+action", "replacement": "First Player Action" },
+      { "pattern": "action", "replacement": "Action" },
+      { "pattern": "hero\\s+interrupt(?:ion)?", "replacement": "Hero Interrupt" },
+      { "pattern": "alter\\s*-?\\s*ego\\s+interrupt(?:ion)?", "replacement": "Alter-Ego Interrupt" },
+      { "pattern": "forced\\s+interrupt(?:ion)?", "replacement": "Forced Interrupt" },
+      { "pattern": "first\\s+player\\s+interrupt(?:ion)?", "replacement": "First Player Interrupt" },
+      { "pattern": "interrupt(?:ion)?", "replacement": "Interrupt" },
+      { "pattern": "hero\\s+response", "replacement": "Hero Response" },
+      { "pattern": "alter\\s*-?\\s*ego\\s+response", "replacement": "Alter-Ego Response" },
+      { "pattern": "forced\\s+response", "replacement": "Forced Response" },
+      { "pattern": "mission\\s+response", "replacement": "Mission Response" },
+      { "pattern": "response", "replacement": "Response" },
+      { "pattern": "hero\\s+resource", "replacement": "Hero Resource" },
+      { "pattern": "alter\\s*-?\\s*ego\\s+resource", "replacement": "Alter-Ego Resource" },
+      { "pattern": "resource", "replacement": "Resource" },
+      { "pattern": "setup", "replacement": "Setup" },
+      { "pattern": "contents", "replacement": "Contents" },
+      { "pattern": "when\\s+revealed", "replacement": "When Revealed" },
+      { "pattern": "when\\s+defeated", "replacement": "When Defeated" },
+      { "pattern": "when\\s+completed", "replacement": "When Completed" },
+      { "pattern": "special", "replacement": "Special" },
+      { "pattern": "boost", "replacement": "Boost" }
+    ]
+  }
+}
