@@ -1934,5 +1934,15 @@
         "code": "valkyrie_by_boomguy",
         "name": "Valkyrie",
         "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "elektra_by_ffg",
+        "name": "Elektra"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "ninja_by_ffg",
+        "name": "Ninja"
     }
 ]

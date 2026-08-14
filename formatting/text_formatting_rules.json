@@ -109,5 +109,39 @@
       { "pattern": "special", "replacement": "Special" },
       { "pattern": "boost", "replacement": "Boost" }
     ]
-  }
+  },
+  "triggerList": [
+    { "name": "Action", "cat": "Action" },
+    { "name": "Action de héros", "cat": "Action" },
+    { "name": "Action d'alter ego", "cat": "Action" },
+    { "name": "Action forcée", "cat": "Action" },
+    { "name": "Action de premier joueur", "cat": "Action" },
+    { "name": "Interruption", "cat": "Interruption" },
+    { "name": "Interruption de héros", "cat": "Interruption" },
+    { "name": "Interruption d'alter ego", "cat": "Interruption" },
+    { "name": "Interruption forcée", "cat": "Interruption" },
+    { "name": "Interruption forcée (héros)", "cat": "Interruption" },
+    { "name": "Interruption de premier joueur", "cat": "Interruption" },
+    { "name": "Réponse", "cat": "Réponse" },
+    { "name": "Réponse de héros", "cat": "Réponse" },
+    { "name": "Réponse d'alter ego", "cat": "Réponse" },
+    { "name": "Réponse forcée", "cat": "Réponse" },
+    { "name": "Réponse de mission", "cat": "Réponse" },
+    { "name": "Ressource", "cat": "Ressource" },
+    { "name": "Ressource de héros", "cat": "Ressource" },
+    { "name": "Ressource d'alter ego", "cat": "Ressource" },
+    { "name": "Mise en place", "cat": "Autre" },
+    { "name": "Une fois révélée", "cat": "Autre" },
+    { "name": "Une fois révélé", "cat": "Autre" },
+    { "name": "Une fois révélée (alter ego)", "cat": "Autre" },
+    { "name": "Une fois révélée (héros)", "cat": "Autre" },
+    { "name": "Une fois révélé (alter ego)", "cat": "Autre" },
+    { "name": "Une fois révélé (héros)", "cat": "Autre" },
+    { "name": "Une fois déjouée", "cat": "Autre" },
+    { "name": "Une fois vaincu", "cat": "Autre" },
+    { "name": "Une fois vaincue", "cat": "Autre" },
+    { "name": "Une fois achevé", "cat": "Autre" },
+    { "name": "Une fois achevée", "cat": "Autre" },
+    { "name": "Spécial", "cat": "Autre" }
+  ]
 }

@@ -1,0 +1,50 @@
+[
+    {
+        "boost_star": true,
+        "code": "63002",
+        "duplicate_of_name": "",
+        "faction_code": "encounter",
+        "name": "Ninja Stars",
+        "octgn_id": "e67e1207-3c6e-4bd1-8711-925324063002",
+        "pack_code": "elektra_by_ffg",
+        "position": 2,
+        "quantity": 2,
+        "set_code": "ninja_by_ffg",
+        "set_position": 1,
+        "text": "<b>When Revealed</b>: Give this card to Elektra as a facedown boost card.\n<hr> [star] <b>Boost</b>: If Elektra is using a basic power, draw 2 cards and shuffle this card into the [[Ninja]] deck. Otherwise, give this card to Elektra as a facedown boost card.",
+        "traits": "Ninja.",
+        "type_code": "treachery"
+    },
+    {
+        "boost_star": true,
+        "code": "63003",
+        "duplicate_of_name": "",
+        "faction_code": "encounter",
+        "name": "Ninja Strike",
+        "octgn_id": "e67e1207-3c6e-4bd1-8711-925324063003",
+        "pack_code": "elektra_by_ffg",
+        "position": 3,
+        "quantity": 2,
+        "set_code": "ninja_by_ffg",
+        "set_position": 3,
+        "text": "Surge.\n<b>When Revealed</b>: Give this card to Elektra as a facedown boost card.\n<hr> [star] <b>Boost</b>: If Elektra is using a basic power, she gets +3 to that power for this use and you shuffle this card into the [[Ninja]] deck. Otherwise, give this card to Elektra as a facedown boost card.",
+        "traits": "Ninja.",
+        "type_code": "treachery"
+    },
+    {
+        "boost_star": true,
+        "code": "63004",
+        "duplicate_of_name": "",
+        "faction_code": "encounter",
+        "name": "Ninja Vanish",
+        "octgn_id": "e67e1207-3c6e-4bd1-8711-925324063004",
+        "pack_code": "elektra_by_ffg",
+        "position": 4,
+        "quantity": 2,
+        "set_code": "ninja_by_ffg",
+        "set_position": 5,
+        "text": "Surge.\n<b>When Revealed</b>: Give this card to Elektra as a facedown boost card.\n<hr>[star] <b>Boost</b>: If Elektra is using a basic power, give her a tough status card and shuffle this card into the [[Ninja]] deck. Otherwise, give this card to Elektra as a facedown boost card.",
+        "traits": "Ninja.",
+        "type_code": "treachery"
+    }
+]

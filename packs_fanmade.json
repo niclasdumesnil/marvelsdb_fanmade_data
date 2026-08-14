@@ -1480,7 +1480,7 @@
         "code": "quicksilver_by_boomguy",
         "confidential": "false",
         "creator": "Boomguy",
-        "date_release": "2026-07-26",
+        "date_release": "2026-08-14",
         "name": "Quicksilver",
         "octgn_id": "87577046-ea8e-43e1-822d-ee940e7805ef",
         "pack_type_code": "scenar_fanmade",
@@ -1488,7 +1488,7 @@
         "size": 14,
         "status": "released",
         "theme": "Marvel",
-        "visibility": "false"
+        "visibility": "true"
     },
     {
         "cgdb_id": 2084,
@@ -1504,5 +1504,21 @@
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
+    },
+    {
+        "cgdb_id": 63,
+        "code": "elektra_by_ffg",
+        "confidential": "false",
+        "creator": "FFG",
+        "date_release": "2026-08-14",
+        "lang": "EN",
+        "name": "Elektra",
+        "octgn_id": "e67e1207-3c6e-4bd1-8711-92532493aae4",
+        "pack_type_code": "hero_fanmade",
+        "position": 63,
+        "size": 36,
+        "status": "released",
+        "theme": "Marvel",
+        "visibility": "false"
     }
 ]

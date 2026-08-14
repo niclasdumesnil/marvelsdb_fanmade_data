@@ -26,6 +26,16 @@
         "back_link": "208201b",
         "code": "208201a",
         "deck_limit": 1,
+        "deck_options": [
+            {
+                "resource": [
+                    "physical"
+                ],
+                "type": [
+                    "event"
+                ]
+            }
+        ],
         "defense": 2,
         "duplicate_of_name": "",
         "faction_code": "hero",
@@ -33,16 +43,6 @@
         "health": 12,
         "is_unique": true,
         "name": "White Tiger",
-        "deck_options": [
-			{
-				"resource": [
-					"physical"
-				],
-				"type": [
-					"event"
-				]
-			}
-		],
         "octgn_id": "cf97e165-8c3f-4ce5-bd26-e6d98e082001",
         "pack_code": "white_tiger_by_andyn",
         "position": 1,
