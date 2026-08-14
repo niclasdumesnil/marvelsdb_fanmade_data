@@ -261,5 +261,64 @@
         "flavor": "« Lorsque quelqu'un s'en prend à l'un des nôtres, il en répond à chacun de nous. » – Spider-Woman",
         "name": "Agent Double",
         "text": "<b>Action</b> : retirez 2 menaces de la manigance principale. Placez 2 menaces sur la manigance principale de votre leader."
+    },
+    {
+        "code": "56129",
+        "flavor": "« Steve réfléchit encore dans le passée. Ceci est le futur, que cela lui convienne ou pas. » – Iron Man",
+        "name": "Le Futuriste",
+        "text": "<b>Action</b> : votre leader Iron Man manigance. Ne lui donnez pas de carte de boost pour cette activation."
+    },
+    {
+        "code": "56130",
+        "name": "Cible Localisée",
+        "text": "<b>Action</b> : votre leader der Iron Man attaque le leader ennemis. Si vous avez dépensé une ressource [mental] pour payer cet évènement, choisissez un attachement sur le leader ennemi ayant le texte « <b>Réponse de héros</b> » ou « <b>Interruption de héros</b> » et défaussez-le."
+    },
+    {
+        "code": "56131",
+        "name": "Armure High-Tech",
+        "text": "Attachez cette carte à votre leader Iron Man. Compte comme un attachement [[Tech]].\n<b>Action</b> : dépensez les ressources suivantes [energy] [mental] → défaussez cette carte. N'importe quel joueur peut déclencher cette capacité."
+    },
+    {
+        "code": "56132",
+        "name": "En Armure",
+        "text": "<b>Réponse</b> : après que vous avez dépensé cette ressource, donnez à votre leader Iron Man une carte d'état Tenace."
+    },
+    {
+        "code": "56133",
+        "name": "Réponse Provoquée",
+        "text": "<b>Interruption forcée</b> : quand le leader ennemi est censé attaquer contre vous, il attaque votre leader Captain Marvel à la place. Elle ne peut pas subir plus de 3 dégâts de cette attaque. Défaussez cette carte."
+    },
+    {
+        "code": "56134",
+        "flavor": "« Vous auriez dû savoir que cela riverait » – Captain Marvel",
+        "name": "Vous Avez Commencé",
+        "text": "<b>Action</b> : votre leader Captain Marvel attaque le leader ennemi. Si vous avez dépensé une ressource [energy] pour payer cet évènement, désorientez le leader ennemie."
+    },
+    {
+        "code": "56135",
+        "name": "Recrue de l'Alpha Flight",
+        "text": "Attachez cette carte à un allié.\n<b>Réponse</b> : après que n'importe quel nombre de jetons Énergie a été placé sur l'attachement Énergie Canalisée de votre leader Captain Marvel, soignez 1 dégât de l'allié attaché."
+    },
+    {
+        "code": "56136",
+        "name": "Puissance Brute",
+        "text": "<b>Réponse de héros</b> : après que vous avez dépensé cette ressource, placez 2 jetons Énergie sur l'attachement Énergie Canalisée de votre leader Captain Marvel."
+    },
+    {
+        "code": "56207",
+        "name": "Non, Va-t-En !",
+        "text": "<b>Interruption forcée</b> : quand un leader ennemi est censé vous attaquer, attachez le Bouclier du Captain à votre leader Captain America et résolvez cette attaque cotre lui à la place. Défaussez cette carte."
+    },
+    {
+        "code": "56208",
+        "flavor": "« Cette fois les choses sont différentes. Maintenant je vais vraiment me salir les mains » – Captain America",
+        "name": "Se Salir les Mains",
+        "text": "<b>Action</b> : votre leader Captain America attaque le leader ennemi. Si vous dépensez une ressource [physical] pour payer cet évènement, sonnez le leader ennemi."
+    },
+    {
+        "code": "56209",
+        "flavor": "« Nous sommes heureux de t'avoir de notre côté » – Captain America",
+        "name": "Recrue du Captain",
+        "text": "<b>Action</b> : choisissez un sbire engagé avec vous et choisissez un joueur dans l'équipe ennemie. Ce sbire engage ce joueur."
     }
 ]

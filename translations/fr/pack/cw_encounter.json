@@ -369,7 +369,8 @@
     {
         "code": "56195",
         "name": "L'Épée",
-        "text": "<b>Une fois révélée</b> : soignez 2 dégâts du leader ennemi. Infligez 2 dégâts à un personnage que vous contrôlez.\n<hr>[star] <b>Boost</b> : si La Cape est en jeu, révélez L'Épée. Sinon, infligez 1 dégât à un personnage que vous contrôlez."
+        "text": "<b>Une fois révélée</b> : soignez 2 dégâts du leader ennemi. Infligez 2 dégâts à un personnage que vous contrôlez.\n<hr>[star] <b>Boost</b> : si La Cape est en jeu, révélez L'Épée. Sinon, infligez 1 dégât à un personnage que vous contrôlez.",
+        "traits": "Defender."
     },
     {
         "code": "56092",
@@ -481,7 +482,7 @@
     },
     {
         "code": "56142a",
-        "flavor": "Captain America et ses Avengers sont obligés d'œuvrer dans la clandestinité s'ils ne veulent pas être arrêtés en raison de leur refus d'être enregistres par le S.H.I.E.L.D.. Lorsqu'Iron Man et Captain Marvel commencent à s'entourer de leurs alliés surhumains, la résistance décide de contre – attaquer.",
+        "flavor": "Captain America et ses Avengers sont obligés d'œuvrer dans la clandestinité s'ils ne veulent pas être arrêtés en raison de leur refus d'être enregistres par le S.H.I.E.L.D.. Lorsque Iron Man et Captain Marvel commencent à s'entourer de leurs alliés surhumains, la résistance décide de contre – attaquer.",
         "name": "Tactiques de Résistance"
     },
     {
@@ -528,6 +529,7 @@
     },
     {
         "code": "56169",
+        "name": "Spider-Woman",
         "text": "Solide.\n<b>Une fois révélée</b> : attribuez une carte Rencontre à chaque joueur. Spider-Woman ne peut pas subir de dégâts à cette phase.\n[star] <b>Interruption forcée</b> : quand Spider-Woman attaque, elle gagne +1 ATQ pour chaque jeton Compétence sur Finesse pour cette attaque. Retirez chaque jeton Compétence de Finesse.",
         "traits": "Avenger."
     },
@@ -574,7 +576,8 @@
     {
         "code": "56175",
         "name": "Immunité Contre les Toxines",
-        "text": "Attachez cette carte à Spider-Woman.\n<b>Interruption forcée</b> : quand Spider-Woman est censée être sonnée ou désorientée, défaussez cette carte à la place. Donnez-lui une carte d'état Tenace.\n<hr>[star] <b>Boost</b> : révélez cette carte."
+        "text": "Attachez cette carte à Spider-Woman.\n<b>Interruption forcée</b> : quand Spider-Woman est censée être sonnée ou désorientée, défaussez cette carte à la place. Donnez-lui une carte d'état Tenace.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Super-Pouvoir."
     },
     {
         "code": "56181",
@@ -706,7 +709,7 @@
     {
         "code": "56177",
         "name": "Rayon Venimeux",
-        "text": "<b>When Revealed (alter ego)</b> : cette carte gagne Renfort.\n<b>When Revealed (héros)</b> : Spider-Woman vous attaque. Si cette attaque a retiré les jetons Compétence suivants de Finesse :\n• Au moins 1, cette attaque gagne À Distance.\n• Au moins 2, cette attaque gagne Perçant.\n• Au moins 3, cette attaque gagne Déferlement."
+        "text": "<b>Une fois révélée (alter ego)</b> : cette carte gagne Renfort.\n<b>Une fois révélée (héros)</b> : Spider-Woman vous attaque. Si cette attaque a retiré les jetons Compétence suivants de Finesse :\n• Au moins 1, cette attaque gagne À Distance.\n• Au moins 2, cette attaque gagne Perçant.\n• Au moins 3, cette attaque gagne Déferlement."
     },
     {
         "code": "56178",
@@ -777,7 +780,7 @@
     {
         "code": "56153",
         "name": "Combattants de la Liberté",
-        "text": "<b>Une fois révélée</b> : résolvez la capacité « Boost » de chaque sbire en jeu. Si aucune capacité « <b>Boost </b> » n'a été résolue par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Boost </b> » de chaque sbire engagé avec vous."
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b>Boost</b> » de chaque sbire en jeu. Si aucune capacité « <b>Boost </b> » n'a été résolue par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Boost </b> » de chaque sbire engagé avec vous."
     },
     {
         "code": "56154",
@@ -788,7 +791,7 @@
     {
         "code": "56157",
         "name": "Combattants de la Liberté",
-        "text": "<b>Une fois révélée</b> : résolvez la capacité « Boost » de chaque sbire en jeu. Si aucune capacité « <b>Boost </b> » n'a été résolue par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Boost </b> » de chaque sbire engagé avec vous."
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b>Boost</b> » de chaque sbire en jeu. Si aucune capacité « <b>Boost </b> » n'a été résolue par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Boost </b> » de chaque sbire engagé avec vous."
     },
     {
         "code": "56158",
@@ -804,7 +807,7 @@
         "code": "56164",
         "flavor": "« Namor ne reculera devant rien pour défendre son peuple. » – Namor",
         "name": "Seigneur de l'Atlantide",
-        "text": "Entrave 1[per_hero].\nAucun sbire Atlantide ne peut subir de dégâts."
+        "text": "Entrave 1[per_hero].\nAucun sbire [[Atlantide]] ne peut subir de dégâts."
     },
     {
         "code": "56166",
@@ -872,12 +875,12 @@
     {
         "code": "56199a",
         "name": "Résistance des Super-Héros",
-        "text": "<b>Contenu</b> : le leader choisi I et Il (III et IV en mode Expert). Le set du leader choisi, le set Standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir Son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
+        "text": "<b>Contenu</b> : le leader choisi I et Il (<i>III et IV en mode Expert</i>). Le set du leader choisi, le set Standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir Son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
     },
     {
         "code": "56200a",
         "name": "Résistance des Super-Héros",
-        "text": "<b>Contenu</b> : le leader choisi I et Il (III et IV en mode Expert). Le set du leader choisi, le set Standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir Son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
+        "text": "<b>Contenu</b> : le leader choisi I et Il (<i>III et IV en mode Expert</i>). Le set du leader choisi, le set Standard et 3 à 4 sets modulaires.\n<b>Mise en place</b> : en mode Compétition, l'équipe ennemie trouve la manigance annexe Choisir Son Camp et votre équipe la révèle. En mode Coopération, trouvez la manigance annexe du leader choisi et révélez-la."
     },
     {
         "code": "56201a",
@@ -888,5 +891,82 @@
         "code": "56202a",
         "flavor": "Captain America et ses Avengers sont obligés d'œuvrer dans la clandestinité s'ils ne veulent pas être arrêtés en raison de leur refus d'être enregistres par le S.H.I.E.L.D.. Lorsqu'Iron Man et Captain Marvel commencent à s'entourer de leurs alliés surhumains, la résistance décide de contre – attaquer.",
         "name": "Tactiques de Résistance"
+    },
+    {
+        "code": "56125",
+        "flavor": "« J'ai été un agent double pendant des années. Il n'y a pas grand-chose que je ne suis prête à faire pour une juste cause » – Spider-Woman",
+        "name": "Juste Cause",
+        "text": "<b>Une fois révélée</b> : le leader ennemi manigance. S'il y a plus de 1 joueur dans votre équipe, donnez une carte de boost supplémentaire au leader ennemi pour cette activation."
+    },
+    {
+        "code": "56126",
+        "flavor": "« Cible verrouillée. Attaque engagée. » – Captain Marvel",
+        "name": "Quoi qu'il en Coûte",
+        "text": "<b>Une fois révélée (alter ego)</b> : le leader ennemi attaque votre leader.\n<b>Une fois révélée (héros)</b> : le leader ennemi vous attaque."
+    },
+    {
+        "code": "56127",
+        "name": "Frappe Ciblée",
+        "text": "<b>Une fois révélée</b> : l'équipe ennemie cherche une carte parmi les 5 cartes du dessus du deck Rencontre et vous l'attribue en tant que carte Rencontrez face cachée.\n<hr />\n<hr>[star] <b>Boost</b> : cette carte gagne [boost] pour chaque joueur dans votre équipe."
+    },
+    {
+        "code": "56128a",
+        "name": "Choisir son Camp",
+        "text": "Permanent.\nLe leader ennemi ne peut pas subir plus de 2 dégâts de chaque attaque.\n<b>Réponse forcée</b> : après que la dernière menace a été retirée de cette carte, l'équipe ennemie cherche 1[per_hero] carte Rencontre parmi les 5 cartes du dessus du deck Rencontre et en attribue une à chaque joueur en tant que carte Rencontre face cachée. Retournez cette carte."
+    },
+    {
+        "code": "56128b",
+        "name": "Maintenant c'est Personnel",
+        "text": "<b><i>Donnez cette carte au premier joueur.</i></b>\n<b>Action</b> : retirez cette carte de la partie → chaque joueur de votre équipe choisit 2 des cartes Joueur de votre leader mises de côté et les ajoute à sa main."
+    },
+    {
+        "code": "56199b",
+        "flavor": "Lorsque Captain America a dénoncé publiquement le Loi d'Enregistrement des Super – Héros, de nombreux alliés ont rejoint ses rangs.",
+        "name": "Cri de Ralliement",
+        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero]."
+    },
+    {
+        "code": "56200b",
+        "flavor": "« J'avais oublié à quel point c'était épuisant d'être sous couverture ! » – Spider Woman",
+        "name": "Faire Profil Bas",
+        "text": "S'il y a plus de 1 joueur dans votre équipe, ce stade gagne Entrave 2[per_hero].\nLe leader ennemi gagne Solide."
+    },
+    {
+        "code": "56201b",
+        "flavor": "Le but de la résistance est d'harceler le S.H.I.E.L.D. jusqu'à ce que la Loi d'Enregistrement des Super – Héros soit retirée.",
+        "name": "Guerre de Guérilla",
+        "text": "<b>Réponse forcée</b> : après qu'une carte d'état Tenace a été placée sur un leader ennemi, placez 1 menace ici.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "56202b",
+        "name": "Évasion de Super-Héros",
+        "text": "[star] <b>Réponse forcée</b> : après avoir résolu l'étape 1 de la phase du Méchant, chaque joueur défausse la carte du dessus du deck Rencontre. Chaque joueur qui défausse un sbire par cet effet le met en jeu engagé avec lui.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "56203",
+        "flavor": "« J'ai été un agent double pendant des années. Il n'y a pas grand-chose que je ne suis prête à faire pour une juste cause » – Spider-Woman",
+        "name": "Juste Cause",
+        "text": "<b>Une fois révélée</b> : le leader ennemi manigance. S'il y a plus de 1 joueur dans votre équipe, donnez une carte de boost supplémentaire au leader ennemi pour cette activation."
+    },
+    {
+        "code": "56204",
+        "flavor": "« Cible verrouillée. Attaque engagée. » – Captain Marvel",
+        "name": "Quoi qu'il en Coûte",
+        "text": "<b>Une fois révélée (alter ego)</b> : le leader ennemi attaque votre leader.\n<b>Une fois révélée (héros)</b> : le leader ennemi vous attaque."
+    },
+    {
+        "code": "56205",
+        "name": "Frappe Ciblée",
+        "text": "<b>Une fois révélée</b> : l'équipe ennemie cherche une carte parmi les 5 cartes du dessus du deck Rencontre et vous l'attribue en tant que carte Rencontrez face cachée.\n<hr />\n<hr>[star] <b>Boost</b> : cette carte gagne [boost] pour chaque joueur dans votre équipe."
+    },
+    {
+        "code": "56206a",
+        "name": "Choisir son Camp",
+        "text": "Permanent.\nLe leader ennemi ne peut pas subir plus de 2 dégâts de chaque attaque.\n<b>Réponse forcée</b> : après que la dernière menace a été retirée de cette carte, l'équipe ennemie cherche 1[per_hero] carte Rencontre parmi les 5 cartes du dessus du deck Rencontre et en attribue une à chaque joueur en tant que carte Rencontre face cachée. Retournez cette carte."
+    },
+    {
+        "code": "56206b",
+        "name": "Maintenant c'est Personnel",
+        "text": "<b><i>Donnez cette carte au premier joueur.</i></b>\n<b>Action</b> : retirez cette carte de la partie → chaque joueur de votre équipe choisit 2 des cartes Joueur de votre leader mises de côté et les ajoute à sa main."
     }
 ]
