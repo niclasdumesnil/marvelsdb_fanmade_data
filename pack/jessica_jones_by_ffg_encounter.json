@@ -34,7 +34,7 @@
         "quantity": 1,
         "scheme": null,
         "scheme_star": true,
-        "set_code": "jessica_jones_nemesis",
+        "set_code": "jessica_jones_by_ffg_nemesis",
         "set_position": 1,
         "text": "[star] Purple Man's SCH is equal to the highest SCH or THW among characters in play. His ATK is equal to the highest ATK among characters in play.",
         "traits": "Psionic.",
@@ -55,7 +55,7 @@
         "pack_code": "jessica_jones_by_ffg",
         "position": 32,
         "quantity": 1,
-        "set_code": "jessica_jones_nemesis",
+        "set_code": "jessica_jones_by_ffg_nemesis",
         "set_position": 2,
         "text": "[star] Hinder 3[per_hero].\n<b>When Revealed</b>: Place 2 pheromone counters on each Suggestion obligation in play.\n<b>Forced Response</b>: After a Suggestion obligation enters play, place 2 <i>(additional)</i> pheromone counters on it.",
         "type_code": "side_scheme"
@@ -73,7 +73,7 @@
         "pack_code": "jessica_jones_by_ffg",
         "position": 33,
         "quantity": 1,
-        "set_code": "jessica_jones_nemesis",
+        "set_code": "jessica_jones_by_ffg_nemesis",
         "set_position": 3,
         "text": "Uses (3 pheromone counters).\n<b>Forced Action</b>: Exhaust this card and remove 1 pheromone counter from it → choose to either play a card that has a printed [energy] resource icon <i>(paying its costs)</i> or add 2 threat to the main scheme.",
         "type_code": "obligation"
@@ -91,7 +91,7 @@
         "pack_code": "jessica_jones_by_ffg",
         "position": 33,
         "quantity": 1,
-        "set_code": "jessica_jones_nemesis",
+        "set_code": "jessica_jones_by_ffg_nemesis",
         "set_position": 4,
         "text": "Uses (3 pheromone counters).\n<b>Forced Action</b>: Exhaust this card and remove 1 pheromone counter from it → choose to either play a card that has a printed [mental] resource icon <i>(paying its costs)</i> or add 2 threat to the main scheme.",
         "type_code": "obligation"
@@ -109,7 +109,7 @@
         "pack_code": "jessica_jones_by_ffg",
         "position": 33,
         "quantity": 1,
-        "set_code": "jessica_jones_nemesis",
+        "set_code": "jessica_jones_by_ffg_nemesis",
         "set_position": 5,
         "text": "Uses (3 pheromone counters).\n<b>Forced Action</b>: Exhaust this card and remove 1 pheromone counter from it → choose to either play a card that has a printed [physical] resource icon <i>(paying its costs)</i> or add 2 threat to the main scheme.",
         "type_code": "obligation"
