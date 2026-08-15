@@ -1,41 +1,56 @@
 [
     {
         "code": "60012",
-        "name": "Concentrer ses Sens"
+        "name": "Concentrer ses Sens",
+        "text": "Aucune menace ne peut être retirée de cette manigance sauf par Daredevil ou Matt Murdock.\n<b>Une fois déjouée</b> : vous pouvez déplacer n'importe quel nombre d'améliorations [[SENS]] en jeu vers d'autres cartes auxquelles elles peuvent s'attacher. Choisissez n'importe quel nombre d'améliorations du deck [[SENS]] et mettez-le en jeu. <i>(Ne mélangez pas le deck.)</i>"
     },
     {
         "code": "60024",
-        "name": "Désescalade"
+        "flavor": "« Je peux voir ma maison, d'ici » – Un Civil",
+        "name": "Désescalade",
+        "text": "Victoire 0.\n<b>Une fois déjouée</b> : retirez un pion Accélération qui est en jeu."
     },
     {
         "code": "60032",
-        "name": "Surcharge Sensorielle"
+        "flavor": "Les sens exacerbés de Daredevil le rendent vulnérable aux stimuli de haute intensité.",
+        "name": "Surcharge Sensorielle",
+        "text": "Donnez cette carte au joueur de Matt Murdock.\n<b>Réponse forcée</b> : après qu'une amélioration [[SENS]] entre en jeu, subissez 1 dégât.\n<b>Réponse d'alter ego</b> : après avoir récupéré, défaussez cette obligation."
     },
     {
         "code": "60033",
+        "flavor": "« Entre mes mains, n'importe quel objet devient une arme mortelle ! »",
         "name": "Bullseye",
+        "text": "<b>Une fois révélée</b> : choisissez :\n• Défaussez un soutien [[INDIVIDU]] que vous contrôlez.\n• Bullseye vous attaque (<i>même si vous êtes sous forme d'alter ego</i>)",
         "traits": "Assassin."
     },
     {
         "code": "60034",
-        "name": "L'Homme le Plus Dangereux du Monde"
+        "flavor": "« Allez vieux cornu, le public en veut pour son argent ! » – Bullseye",
+        "name": "L'Homme le Plus Dangereux du Monde",
+        "text": "<b>Interruption forcée</b> : quand Bullseye attaque, donnez-lui une carte de boost face cachée."
     },
     {
         "code": "60035",
         "name": "Saï Volé",
+        "text": "Attachez cette carte à l'ennemi ayant l'ATQ la plus élevée.\n[star] Les attaques du personnage attaché gagnent Perçant.\n<b>Action de héros</b> : dépensez les ressources suivantes : [physical] [physical] → choisissez soit d'attacher cette carte à Elektra, soit de de la défausser.\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, elle gagne Perçant.",
         "traits": "Arme."
     },
     {
         "code": "60036",
-        "name": "L'Oeil sur la Cible"
+        "flavor": "« Je t'ai eu ! » – Bullseye",
+        "name": "L'Oeil sur la Cible",
+        "text": "<b>Une fois révélée</b> : choisissez :\n• Retirez de la partie un allié ou un soutien [[INDIVIDU]] que vous contrôlez.\n• Bullseye vous attaque (<i>même si vous êtes sous forme d'alter ego</i>). S'il n'est pas en jeu, trouvez-le et révélez-le."
     },
     {
         "code": "60060",
-        "name": "Élevée par le Caïd"
+        "name": "Élevée par le Caïd",
+        "text": "<b><i>Donnez cette carte au joueur de Maya Lopez.</i></b>\nVous ne pouvez pas infliger de dégâts au Caïd.\n<b>Une fois révélée</b> : trouvez Le Caïd et mettez-le en jeu engagé avec vous.\n<b>Réponse</b> : après que vous avez contré, placez sur cette obligation la menace retirée. S'il y a au moins 4 menaces sur cette obligation, retirez-la de la partie."
     },
     {
         "code": "60061",
+        "flavor": "« À ma manière, j'ai voulu prendre soin de toi, Maya. Je t'aimais comme ma propre fille. Je t'aime toujours. »",
         "name": "Le Caïd",
+        "text": "<b>Interruption forcée</b> : quand le Caïd est censé attaquer le joueur de Maya Lopez, il manigance à la place. (<i>Sbire Némésis d'Echo.</i>)",
         "traits": "Criminel."
     },
     {
@@ -44,11 +59,15 @@
     },
     {
         "code": "60063",
+        "flavor": "« M'sieur Fisk aimerait vous dire deux mots. »",
         "name": "Homme de Main du Caïd",
+        "text": "Garde.\nLe Caïd ne peut pas subir de dégâts.",
         "traits": "Criminel."
     },
     {
         "code": "60064",
-        "name": "Pion du Caïd"
+        "flavor": "Le Caïd a réussi à convaincre Echo qu'il n'était pas le meurtrier de son père, et que le coupable était Daredevil.",
+        "name": "Pion du Caïd",
+        "text": "<b>Une fois révélée (alter ego)</b> : si le Caïd est en jeu, il manigance. Sinon, cette carte gagne Renfort.\n<b>Une fois révélée (héros)</b> : infligez à un héros un nombre égal de dégâts égal à l'ATQ de votre héros."
     }
 ]

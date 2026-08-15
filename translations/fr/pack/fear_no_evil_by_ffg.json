@@ -1,58 +1,73 @@
 [
     {
         "code": "60023",
+        "flavor": "« Je n'ai pas besoin de te voir pour connaître ton prochain coup » – Iron Fist",
         "name": "Connais ton Ennemi",
+        "text": "[star] Réduction 1 ([[Artiste Martial]]).\n<b>Action</b> (<i>contre</i>) : retirez 1 menace d'une manigance. Retirez 1 menace d'une manigance.",
         "traits": "Contre."
     },
     {
         "code": "60026",
+        "flavor": "« Vous avez un permis pour ça ? » – Agent de Police",
         "name": "Problèmes Judiciaires",
+        "text": "[star] Réduction 1 ([[AVOCAT] ou [[POLICE]]).\nAttachez cette carte à un sbire. 1 max par sbire.\nLe sbire attaché à -2 MNG.",
         "traits": "Condition."
     },
     {
         "code": "60027",
         "name": "Se déplacer dans les Ombres",
+        "text": "[star] Réduction 1 ([[AVOCAT] ou [[POLICE]]).\nTemporaire. 1 max par joueur.\n<b>Réponse</b> (<i>contre</i>) : après avoir joué une carte <i>(y compris celle-ci</i>), retirez 1 menace d'une manigance.",
         "traits": "Compétence."
     },
     {
         "code": "60001a",
         "name": "Daredevil",
+        "text": "<i>Sens Superhumain </i> — <b>Action</b> : jouez la carte du dessus du deck [[SENS]] comme si elle était dans votre main (<i>en payant ses coûts</i>).\n<b>Interruption forcée</b> : quand une amélioration [[SENS]] est censée quitter le jeu, placez-la sous le deck [[SENS]] à la place.",
         "traits": "Defender. Artiste Martial."
     },
     {
         "code": "60001b",
         "name": "Matt Murdock",
+        "text": "Matt Murdock commence la partie avec un deck [[SENS]]. (Voir Livret de Règles, page 26.)\n<b>Interruption forcée</b> : quand une amélioration [[SENS]] est censée quitter le jeu, placez-la sous le deck [[SENS]] à la place.",
         "traits": "Avocat."
     },
     {
         "code": "60002",
         "name": "Toucher Parfait",
+        "text": "Attachez cette carte à un ennemi ou à une manigance.\n<b>Interruption</b> : quand vous vainquez l'ennemi attaché ou que vous retirez la dernière menace de la manigance attachée, défaussez cette amélioration → redressez votre identité.",
         "traits": "Sens. Super-pouvoir."
     },
     {
         "code": "60003",
         "name": "Odorat Amélioré",
+        "text": "Attachez cette carte à un ennemi ou à une manigance.\n<b>Interruption</b> : quand vous vainquez l'ennemi attaché ou que vous retirez la dernière menace de la manigance attachée, défaussez cette amélioration → réduisez de 2 le coût de la prochain carte que vous jouez à cette phase.",
         "traits": "Sens. Super-pouvoir."
     },
     {
         "code": "60004",
         "name": "Ouïe Augmentée",
+        "text": "Attachez cette carte à un ennemi.\n<b>Interruption de héros</b> (<i>défense</i>) : quand l'ennemi attaché attaque, défaussez cette amélioration → cet ennemi à -3 ATQ pour cette attaque. <i>(Vous devenez la cible de cette attaque.)</i>",
         "traits": "Sens. Super-pouvoir."
     },
     {
         "code": "60005",
+        "flavor": "L'accident qui a privé Matt de sa vue lui a donné une sorte de nouveau sens radar.",
         "name": "Sens Radar",
+        "text": "Attachez cette carte à un ennemi.\n<b>Réponse</b> (<i>attaque</i>) : après que vous avez attaqué l'ennemi attaché, défaussez cette amélioration → infligez 3 dégâts à cet ennemi.",
         "traits": "Sens. Super-pouvoir."
     },
     {
         "code": "60006",
         "name": "Goût Supérieur",
+        "text": "Attachez cette carte à une manigance.\n<b>Réponse</b> (<i>contre</i>) : après que vous avez contré la manigance attachée, défaussez cette amélioration → retirez 2 menaces de cette manigance.",
         "traits": "Sens. Super-pouvoir."
     },
     {
         "code": "60007",
+        "flavor": "« Je n'ai pas besoin que tu me protèges, Matt »",
         "name": "Elektra",
         "subname": "Elektra Natchios",
+        "text": "[star] <b>Interruption forcée (héros)</b> : quand Elektra est censée subir des dégâts consécutifs, Daredevil subit ces dégâts à la place.",
         "traits": "Defender. Artiste Martial."
     },
     {
@@ -72,91 +87,118 @@
     },
     {
         "code": "60011",
+        "flavor": "« Je ne peux pas voir la lumière, alors je serai la lumière. Je suis Daredevil, et je ne connais pas la peur » – Daredevil",
         "name": "un Sale Quart d'Heure",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 2 dégâts à chaque ennemi pour chaque amélioration attachée à cet ennemi (3 dégâts à la place si Daredevil a le trait [[aérien]]).",
         "traits": "Attaque."
     },
     {
         "code": "60013",
+        "flavor": "« Tout va bien maintenant Matt ! Ce vieux Foggy est sur le coup ! »",
         "name": "Foggy Nelson",
+        "text": "<b>Action d'alter ego</b> : inclinez Foggy Nelson → retirez 2 menaces d'une manigance.",
         "traits": "Avocat. Individu."
     },
     {
         "code": "60014",
+        "flavor": "« que feriez-vous sans moi les garçons ? »",
         "name": "Karen Page",
+        "text": "<b>Action</b> : inclinez Karen Page → mélangez dans votre deck 1 carte du set Daredevil de votre pile de défausse. Si vous êtes sous forme d'alter ego, piochez 1 carte.",
         "traits": "Individu."
     },
     {
         "code": "60015",
+        "flavor": "« Voyons comment ils comptent réussir leur cambriolage maintenant que leur véhicule a été saisis. » – Matt Murdock",
         "name": "Nelson And Murdock",
+        "text": "<b>Réponse</b> : après qu'un personnage ou soutien [[Avocat]] a déjoué une manigance annexe, désorientez un ennemi.",
         "traits": "Lieu."
     },
     {
         "code": "60016",
+        "flavor": "En tant que nonne catholique et mère de Matt, Sœur Maggie soigne souvent son fils pour le remettre sur pied.",
         "name": "Soeur Maggie",
+        "text": "Matt Murdock gagne +3 REC.\n<b>Réponse</b> : après avoir récupéré, défaussez une carte d'état de votre identité.",
         "traits": "Individu."
     },
     {
         "code": "60017",
         "name": "Lasso-Canne de Daredevil",
+        "text": "Restreint. Daredevil gagne +1 ATQ.\n<b>Action de héros</b> : renvoyez cette carte dans votre main <i>(depuis le jeu)</i> → choisissez :\n• Infligez 1 dégât à un ennemi\n• Daredevil gagne le trait [[Aérien]] jusqu'à la fin du round.",
         "traits": "Objet. Arme."
     },
     {
         "code": "60018",
         "name": "L'homme Sans Peur",
+        "text": "<b>Action de héros</b> : inclinez cette carte et infligez 1 dégât à Daredevil → choisissez :\n• Choisissez n'importe quelle amélioration du deck [[SENS]] et jouez-la, en ignorant son coût en ressources. (<i>Ne mélangez pas le deck.</i>)\n• Redressez Daredevil.",
         "traits": "Titre."
     },
     {
         "code": "60019",
+        "flavor": "« Je suis invisible, mais je suis toujours là. Chinatown est l'endroit où je vis et je vais le protéger. »",
         "name": "Blindspot",
         "subname": "Sam Chung",
+        "text": "[star] <b>Réponse</b> : après que Blindspot a contré, désorientez un ennemi auquel est attachée une amélioration.",
         "traits": "Génie. Artiste Martial."
     },
     {
         "code": "60020",
         "name": "La Cape",
         "subname": "Tyrone Johnson",
+        "text": "<b>Action</b> : inclinez La Cape et dépensez les ressources suivantes [energy][energy] → trouvez L'Épée et mettez-la en jeu.",
         "traits": "Defender."
     },
     {
         "code": "60021",
+        "flavor": "« Je serai la lumière dans tes ténèbres, Ty »",
         "name": "l'Épée",
         "subname": "Tandy Bowen",
+        "text": "La Cape perd chaque icône [acceleration]\n[star] Si La Cape est en jeu. L'Épée subit -1 dégât consécutif après qu'elle a utilisé un pouvoir de base.",
         "traits": "Defender."
     },
     {
         "code": "60022",
+        "flavor": "« Mon regard de pénitence révèle tous tes anciens péchés ! »",
         "name": "Ghost Rider",
         "subname": "Johnny Blaze",
+        "text": "[star] <b>Interruption</b> : quand le Ghost Rider attaque un ennemi, dépensez une ressource [energy] (2 ressources [energy] à la place si cet ennemi est le méchant) → désorientez cet ennemi.",
         "traits": "Midnight Sun."
     },
     {
         "code": "60028",
         "name": "Entraînement à la Furtivité",
+        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur.\n1 max par joueur.\n<b>Réponse</b> : après que vous avez contré et déjoué exactement une manigance annexe, inclinez Entraînement à la Furtivité → sonnez un ennemi.",
         "traits": "Compétence."
     },
     {
         "code": "60029",
         "name": "Stick",
+        "text": "<b>Interruption</b> : quand un personnage [[MARTIAL ARTIST]] ami utilise un pouvoir de base, choisissez :\n• Inclinez Stick → ce personnage a +1 à ce pouvoir de base pour cette utilisation.\n• Ce personnage a -1 à ce pouvoir de base pour cette utilisation. Redressez Stick.",
         "traits": "Artiste Martial. Individu."
     },
     {
         "code": "60030",
         "name": "Planification d'Urgence",
+        "text": "1 max par joueur.\nVous pouvez jouer l'amélioration intercalée ici comme si elle était dans votre main.\n<b>Action</b> : choisissez 1 amélioration dans votre main qui peut être attachée à un sbire où à une manigance annexe. Intercalez cette amélioration sous la Planification d'Urgence (jusqu'à un maximum de 1).",
         "traits": "Compétence."
     },
     {
         "code": "60031",
         "name": "Danser avec le Diable",
+        "text": "En Équipe (Daredevil et Elektra).\nMax 1 par deck.\nAttachez cette carte à un ennemi.\n<b>Action de héros</b> (<i>attaque</i>) : défaussez cette carte → infligez 3 dégâts à l'ennemi attaché.",
         "traits": "Danse."
     },
     {
         "code": "60037a",
         "name": "Echo",
+        "text": "<i>Regarder et Apprendre </i> — <b>Réponse</b> : après qu'un joueur a joué un événement basique ou d'affinité, intercalez cet événement sous Echo depuis la pile de défausse du joueur. Ensuite, s'il y a plus de 3 cartes intercalées ici, défaussez toutes ces cartes sauf 3.",
         "traits": "Defender. Artiste Martial."
     },
     {
         "code": "60037b",
+        "errata": "<i>Travail et Perfection </i> — <b>Interruption</b> : quand vous passez sous forme de héros, cherchez un événement basique ou d'affinité et ajoutez-le à votre main. (<i>Mélangez</i>.)\n\nManque dans votre deck dans la traduction initiale",
+        "flavor": "Maya peut reproduire tout mouvement physique dont elle est spectatrice.",
         "name": "Maya Lopez",
+        "text": "<i>Travail et Perfection </i> — <b>Interruption</b> : quand vous passez sous forme de héros, cherchez un événement basique ou d'affinité dans votre deck et ajoutez-le à votre main. (<i>Mélangez</i>.)",
         "traits": "Civil."
     },
     {
@@ -168,54 +210,72 @@
     },
     {
         "code": "60039",
+        "flavor": "« Suivez-moi. »",
         "name": "Daredevil",
         "subname": "Matt Murdock",
+        "text": "[star] <b>Réponse</b> : après que Daredevil a utilisé un pouvoir de base, réduisez de 1 le coût du prochain événement que vous jouez à ce round.",
         "traits": "Defender. Artiste Martial."
     },
     {
         "code": "60040a",
-        "name": "Réflexes Photographiques"
+        "name": "Réflexes Photographiques",
+        "text": "[star] Si vous êtes sous forme de héros, vous pouvez défaussez Réflexes Photographiques de votre main pour jouer un événement intercalé sous Echo comme s'il était dans votre main. Réduisez de 2 le coût pour jouer cet événement. Vous ne pouvez pas déclencher la capacité « Regarder et Apprendre » d'Echo pour cet événement."
     },
     {
         "code": "60040b",
-        "name": "Réflexes Photographiques"
+        "name": "Réflexes Photographiques",
+        "text": "[star] Si vous êtes sous forme de héros, vous pouvez défaussez Réflexes Photographiques de votre main pour jouer un événement intercalé sous Echo comme s'il était dans votre main. Réduisez de 2 le coût pour jouer cet événement. Vous ne pouvez pas déclencher la capacité « Regarder et Apprendre » d'Echo pour cet événement."
     },
     {
         "code": "60040c",
-        "name": "Réflexes Photographiques"
+        "name": "Réflexes Photographiques",
+        "text": "[star] Si vous êtes sous forme de héros, vous pouvez défaussez Réflexes Photographiques de votre main pour jouer un événement intercalé sous Echo comme s'il était dans votre main. Réduisez de 2 le coût pour jouer cet événement. Vous ne pouvez pas déclencher la capacité « Regarder et Apprendre » d'Echo pour cet événement."
     },
     {
         "code": "60041",
+        "flavor": "« Je regarde de nombreuses cassettes vidéo pour m'entraîner au combat » – Echo",
         "name": "Étudier la Cassette",
+        "text": "<b>Action</b> : cherchez dans la pile de défausse de n'importe quel joueur, 1 événement d'affinité, 1 événement basique ou 1 exemplaire de Réflexes Photographiques et ajoutez-le à votre main.",
         "traits": "Tactique."
     },
     {
         "code": "60042",
+        "flavor": "La Réz n'est pas une vraie réserve, ni même une nation, mais un endroit ouvert à toutes les tribus.",
         "name": "La Réz",
+        "text": "<b>Action d'alter ego</b> : inclinez La Réz → soignez X dégâts de Maya Lopez, X étant le coût le plus élevé parmi les cartes intercalées sous elle.",
         "traits": "Lieu."
     },
     {
         "code": "60043",
+        "flavor": "<Besoin d'aide ?>* » – Echo\n*Traduit de l'ASL (American Sign Language)",
         "name": "Langue des Signes Américaines",
+        "text": "<b>Ressource de héros</b> : inclinez cette carte → générez une ressource [wild] pour un événement qui est en train d'être joué par n'importe que joueur.",
         "traits": "Compétence."
     },
     {
         "code": "60044",
-        "name": "Chorégraphie"
+        "flavor": "Maya utilise ses capacités physiques pour s'exprimer dans la pratique de la danse.",
+        "name": "Chorégraphie",
+        "text": "<b>Action</b> : inclinez cette carte → mélangez dans votre deck 1 événement basique ou d'affinité de votre pile de défausse. Si vous êtes sous forme d'alter ego, piochez 1 carte.",
+        "traits": "Compétence."
     },
     {
         "code": "60045",
         "name": "Katana d'Echo",
+        "text": "Restreint.\n<b>Réponse de héros</b> (<i>attaque</i>) : après que vous avez joué un événement, inclinez le Katana d'Echo → infligez à un ennemi un nombre de dégâts égal au coût imprimé de cet événement. Cette attaque gagne Perçant.",
         "traits": "Arme."
     },
     {
         "code": "60046",
         "name": "Improvisation",
+        "text": "<b>Réponse de héros</b> : après que vous avez joué un événement, s'il a les traits suivants :\n• [[ATTAQUE]] — Soignez 1 dégât d'Echo.\n• [[Défense]] — Retirez 1 menace d'une manigance.\n• [[CONTRE]] — Infligez 1 dégât à un ennemi.",
         "traits": "Compétence."
     },
     {
         "code": "60047",
+        "flavor": "« J'absorbe tout un arsenal d'actions afin de pouvoir les reproduire avec la même précision si j'en ai besoin » – Echo",
         "name": "Mémoire Musculaire",
+        "text": "<b>Action de héros</b> : inclinez cette carte → ajoutez à voter main un événement intercalé sous Echo.",
         "traits": "Compétence."
     },
     {
@@ -224,32 +284,40 @@
     },
     {
         "code": "60049",
+        "flavor": "« Je crois que nous les avons mis en colère. » « Qu'est-ce que tu veux dire par 'nous' ? » – Rocket Raccoon et Gamora",
         "name": "Capter Leur Attention",
+        "text": "<b>Interruption de héros</b> (<i>défense/contre</i>) : quand un ennemi initie une attaque, retirez 3 menaces d'une manigance.",
         "traits": "Défense. Contre."
     },
     {
         "code": "60050",
         "name": "Prendre des Risques",
+        "text": "[star] Augmentez de 1 le coût pour jouer cette carte pour chaque allié que vous contrôlez.\n<b>Action de héros</b> (<i>attaque/contre</i>) : infligez X dégâts à un ennemi et retirez X menaces d'une manigance, X étant votre DEF.",
         "traits": "Attaque. Contre."
     },
     {
         "code": "60052",
         "name": "La Meilleure Attaque...",
+        "text": "Temporaire.\nVotre héros gagne +1 DEF.\nUtilisez votre DEF à la place de votre CTR et ATQ. <i>(Ignorez tous les modificateurs à vos CTR et ATQ.</i>)",
         "traits": "Condition."
     },
     {
         "code": "60053",
+        "flavor": "« Je suis Ronin, le samouraï sans maître. » – Ronin",
         "name": "Ronin",
+        "text": "Tant que vous ne contrôlez pas d'allié, votre héros gagne +1 DEF et Riposte 1.",
         "traits": "Titre."
     },
     {
         "code": "60054",
         "name": "Seul Contre Tous",
+        "text": "1 max par joueur.\n<b>Interruption de héros</b> : quand un ennemi vous attaque (<i>avant qu'un défenseur ne soit déclaré</i>), si vous ne contrôlez pas d'allié, inclinez Seul Contre Tous → redressez votre héros.",
         "traits": "Condition."
     },
     {
         "code": "60055",
         "name": "Ne Vois et n'Entends Aucun Mal",
+        "text": "En Équipe (Daredevil et Echo). 1 max par deck.\n<b>Action</b> (<i>attaque/contre</i>) : choisissez 2 options (<i>vous pouvez choisir la même option 2 fois</i>) :\n• Infligez 3 dégâts à un ennemi.\n• Retirez 3 menaces d'une manigance.",
         "traits": "Attaque. Contre."
     }
 ]
