@@ -168,7 +168,7 @@
         "quantity": 1,
         "set_code": "nick_fury_nemesis",
         "set_position": 5,
-        "text": "<b>When Revealed</b>: Search the encounter deck and discard pile for a [[Leviathan]] minion and put it into play engaged with you. <i>(Shuffle.)</i> Otherwise, take 2 damage.\n<hr />\n[star] <b>Boost</b>: Take 1 damage.",
+        "text": "<b>When Revealed</b>: Search the encounter deck and discard pile for a [[Leviathan]] minion and put it into play engaged with you. <i>(Shuffle.)</i> Otherwise, take 2 damage.\n<hr />\n<hr>[star] <b>Boost</b>: Take 1 damage.",
         "type_code": "treachery"
     },
     {
@@ -289,7 +289,7 @@
         "quantity": 2,
         "set_code": "black_widow_villain",
         "set_position": 5,
-        "text": "Attack to Black Widow.\nBlack Widow gains retaliate 1.\n<b>Hero Response</b>: After a character you control attacks Black Widow, if no \"<b>Preparation</b>\" ability was resolved, discard this card <i>(after resolving the retaliate keyword)</i>.\n<hr />\n<b>Preparation</b>: Attach this card to Black Widow.",
+        "text": "Attach to Black Widow.\nBlack Widow gains retaliate 1.\n<b>Hero Response</b>: After a character you control attacks Black Widow, if no \"<b>Preparation</b>\" ability was resolved, discard this card <i>(after resolving the retaliate keyword)</i>.\n<hr />\n<b>Preparation</b>: Attach this card to Black Widow.",
         "traits": "Tech. Weapon.",
         "type_code": "attachment"
     },
@@ -820,7 +820,7 @@
         "quantity": 1,
         "set_code": "batroc",
         "set_position": 10,
-        "text": "Attach to Batroc.\nUses (4 leap counters).\n<b>Forced Interrupt</b>: When Batroc would take any amount of damage, prevent 2 of that damage and remove 1 leap counter from here.\n<hr />\n[star] <b>Boost</b>: Attach this card to Batroc.",
+        "text": "Attach to Batroc.\nUses (4 leap counters).\n<b>Forced Interrupt</b>: When Batroc would take any amount of damage, prevent 2 of that damage and remove 1 leap counter from here.\n<hr />\n<hr>[star] <b>Boost</b>: Attach this card to Batroc.",
         "traits": "Condition.",
         "type_code": "attachment"
     },
@@ -953,7 +953,7 @@
         "scheme": 1,
         "set_code": "batrocs_brigade",
         "set_position": 2,
-        "text": "[star] Rapido's attacks gain ranged and deal indirect damage.\n<b>When Revealed</b>: Deal 1 damage to each character you control.\n<hr />\n[star] <b>Boost</b>: Deal 1 damage to each character you control.",
+        "text": "[star] Rapido's attacks gain ranged and deal indirect damage.\n<b>When Revealed</b>: Deal 1 damage to each character you control.\n<hr />\n<hr>[star] <b>Boost</b>: Deal 1 damage to each character you control.",
         "traits": "Batroc's Brigade. Mercenary.",
         "type_code": "minion"
     },
@@ -985,7 +985,7 @@
         "code": "50101",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Money won't buy loyalty, but it helps\" —Batroc",
+        "flavor": "“Money won't buy loyalty, but it helps” –Batroc",
         "name": "Batroc's Brigade",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050101",
         "pack_code": "aos",
@@ -1008,7 +1008,7 @@
         "quantity": 1,
         "set_code": "batrocs_brigade",
         "set_position": 5,
-        "text": "<b>When Revealed</b>: Choose:\n• Spend 3 resources of any type.\n• Find a [[Mercenary]] minion and reveal it. If no minion entered play this way, this card gains surge.\n<hr />\n[star] <b>Boost</b>: Choose: Either spend 1 resource of any type, or this card gains [boost][boost][boost].",
+        "text": "<b>When Revealed</b>: Choose:\n• Spend 3 resources of any type.\n• Find a [[Mercenary]] minion and reveal it. If no minion entered play this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b>: Choose: Either spend 1 resource of any type, or this card gains [boost][boost][boost].",
         "type_code": "treachery"
     },
     {
@@ -1256,7 +1256,7 @@
         "code": "50109",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"They fly now?\"\n\"They fly now.\"\n—Maria Hill and Nick Fury",
+        "flavor": "“They fly now?\"\n\"They fly now.” –Maria Hill and Nick Fury",
         "illustrator": "Facundo Moyano",
         "name": "Flying Upgrade",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050109",
@@ -1273,7 +1273,7 @@
         "code": "50110",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Remember your psionic defense training!\" —Maria Hill",
+        "flavor": "“Remember your psionic defense training!” –Maria Hill",
         "illustrator": "Simone Ragazzoni",
         "name": "Psionic Upgrade",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050110",
@@ -1290,7 +1290,7 @@
         "code": "50111",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Well, that's just great. These things can control my powers better than I can!\" —Sarah Garza",
+        "flavor": "“Well, that's just great. These things can control my powers better than I can!” –Sarah Garza",
         "illustrator": "Allie Preswick",
         "name": "Sarah Garza Upgrade",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050111",
@@ -1307,7 +1307,7 @@
         "code": "50112",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"I don't think we'd like her when she's angry!\" —Quake",
+        "flavor": "“I don't think we'd like her when she's angry!” –Quake",
         "illustrator": "Lorenzo Di Santo",
         "name": "Strong Upgrade",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050112",
@@ -1339,7 +1339,7 @@
         "scheme_star": true,
         "set_code": "m.o.d.o.k.",
         "set_position": 11,
-        "text": "[star] <i>(Check [[Adaptoid]] environments for modifiers to these values.)</i>\n<b>When Defeated</b>: Remove 1 all-purpose counter from an environment.\n<hr />\n[star] <b>Boost</b>: After this activation, shuffle Adaptoid into the encounter deck.",
+        "text": "[star] <i>(Check [[Adaptoid]] environments for modifiers to these values.)</i>\n<b>When Defeated</b>: Remove 1 all-purpose counter from an environment.\n<hr />\n<hr>[star] <b>Boost</b>: After this activation, shuffle Adaptoid into the encounter deck.",
         "traits": "Adaptoid.",
         "type_code": "minion"
     },
@@ -1349,7 +1349,7 @@
         "code": "50114",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"I will crush you like a bug!\" —M.O.D.O.K.",
+        "flavor": "“I will crush you like a bug!” –M.O.D.O.K.",
         "name": "Automated Mobile Unit",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050114",
         "pack_code": "aos",
@@ -1411,7 +1411,7 @@
         "quantity": 1,
         "set_code": "m.o.d.o.k.",
         "set_position": 18,
-        "text": "Attach to M.O.D.O.K.\nAttached enemy gains stalwart.\n<b>Forced Interrupt</b>: When attached enemy would take any amount of damage, place it here instead. Then, if there is at least 5 damage here, discard this card.\n<hr />\n[star] <b>Boost</b>: Attach this card to the activating enemy.",
+        "text": "Attach to M.O.D.O.K.\nAttached enemy gains stalwart.\n<b>Forced Interrupt</b>: When attached enemy would take any amount of damage, place it here instead. Then, if there is at least 5 damage here, discard this card.\n<hr />\n<hr>[star] <b>Boost</b>: Attach this card to the activating enemy.",
         "type_code": "attachment"
     },
     {
@@ -1429,7 +1429,7 @@
         "quantity": 1,
         "set_code": "m.o.d.o.k.",
         "set_position": 19,
-        "text": "Attach to M.O.D.O.K.\n[star] M.O.D.O.K.'s attacks gain piercing.\n<b>Forced Response</b>: After M.O.D.O.K.'s hit points are reset, discard this card.\n<hr />\n[star] <b>Boost</b>: If this activation is an attack, it gains piercing.",
+        "text": "Attach to M.O.D.O.K.\n[star] M.O.D.O.K.'s attacks gain piercing.\n<b>Forced Response</b>: After M.O.D.O.K.'s hit points are reset, discard this card.\n<hr />\n<hr>[star] <b>Boost</b>: If this activation is an attack, it gains piercing.",
         "type_code": "attachment"
     },
     {
@@ -1504,7 +1504,7 @@
         "scheme_amplify": 1,
         "set_code": "m.o.d.o.k.",
         "set_position": 24,
-        "text": "Hinder 1[per_hero].\n<hr />\n[star] <b>Boost</b>: Give the activating enemy an additional boost card.",
+        "text": "Hinder 1[per_hero].\n<hr />\n<hr>[star] <b>Boost</b>: Give the activating enemy an additional boost card.",
         "type_code": "side_scheme"
     },
     {
@@ -1545,7 +1545,7 @@
         "code": "50125",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "Equipped with a high-tech suit, the Scientist Supreme wields great power, both physical and political.",
+        "flavor": "Equipped with a high –tech suit, the Scientist Supreme wields great power, both physical and political.",
         "health": 6,
         "illustrator": "Facundo Moyano",
         "is_unique": true,
@@ -1567,7 +1567,7 @@
         "code": "50126",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "As second-in-command of A.I.M., Monica has her sights set on the title of Scientist Supreme.",
+        "flavor": "As second –in-command of A.I.M., Monica has her sights set on the title of Scientist Supreme.",
         "health": 5,
         "is_unique": true,
         "name": "Monica Rappaccini",
@@ -1613,7 +1613,7 @@
         "quantity": 2,
         "set_code": "scientist_supreme",
         "set_position": 4,
-        "text": "Surge.\n<b>When Revealed</b>: Discard 1 card from your hand for each [[A.I.M.]] minion in the victory display.\n<hr />\n[star] <b>Boost</b>: This card gains [boost] for each [[A.I.M.]] minion in the victory display.",
+        "text": "Surge.\n<b>When Revealed</b>: Discard 1 card from your hand for each [[A.I.M.]] minion in the victory display.\n<hr />\n<hr>[star] <b>Boost</b>: This card gains [boost] for each [[A.I.M.]] minion in the victory display.",
         "type_code": "treachery"
     },
     {
@@ -1689,7 +1689,7 @@
         "duplicate_of_name": "",
         "escalation_threat": 1,
         "faction_code": "encounter",
-        "flavor": "\"We can do this the easy way, or the fun way.\" —Citizen V",
+        "flavor": "“We can do this the easy way, or the fun way.” –Citizen V",
         "hidden": true,
         "illustrator": "Denis Medri",
         "name": "Apprehending Rogue Agents",
@@ -1709,7 +1709,7 @@
         "code": "50131a",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Justice, like lightning, ever should appear;\nTo few men ruin, but to all men fear.\" —Thomas Randolph",
+        "flavor": "“Justice, like lightning, ever should appear;\nTo few men ruin, but to all men fear.” –Thomas Randolph",
         "name": "Justice, Like Lightning",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050131",
         "pack_code": "aos",
@@ -1796,7 +1796,7 @@
         "code": "50135",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Thunderbolts, let's bring these vigilantes to justice!\" —Songbird",
+        "flavor": "“Thunderbolts, let's bring these vigilantes to justice!” –Songbird",
         "name": "The Coming Storm",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050135",
         "pack_code": "aos",
@@ -1844,7 +1844,7 @@
         "code": "50138",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Don't worry, Batroc. I got this.\" —Moonstone",
+        "flavor": "“Don't worry, Batroc. I got this.” –Moonstone",
         "illustrator": "Allie Preswick",
         "name": "Tap In",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050138",
@@ -1863,7 +1863,7 @@
         "code": "50139",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Catch!\"",
+        "flavor": "“Catch!”",
         "health": 16,
         "illustrator": "Andrea Di Vito & Laura Villari",
         "is_unique": true,
@@ -1895,7 +1895,7 @@
         "scheme_hazard": 1,
         "set_code": "gravitational_pull",
         "set_position": 2,
-        "text": "Each [[Aerial]] character gets +1 ATK.\n<hr />\n[star] <b>Boost</b>: If the activating enemy has the [[Aerial]] trait, give it an additional boost card.",
+        "text": "Each [[Aerial]] character gets +1 ATK.\n<hr />\n<hr>[star] <b>Boost</b>: If the activating enemy has the [[Aerial]] trait, give it an additional boost card.",
         "type_code": "side_scheme"
     },
     {
@@ -1911,7 +1911,7 @@
         "quantity": 2,
         "set_code": "gravitational_pull",
         "set_position": 3,
-        "text": "<b>When Revealed</b>: Find Moonstone and reveal her. <i>(If she is already in play, she engages you.)</i> Moonstone activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n[star] <b>Boost</b>: Exhaust a character you control.",
+        "text": "<b>When Revealed</b>: Find Moonstone and reveal her. <i>(If she is already in play, she engages you.)</i> Moonstone activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b>: Exhaust a character you control.",
         "type_code": "treachery"
     },
     {
@@ -1937,7 +1937,7 @@
         "code": "50143",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Time to face the music!\"",
+        "flavor": "“Time to face the music!”",
         "health": 16,
         "illustrator": "Andrea Di Vito & Laura Villari",
         "is_unique": true,
@@ -1985,7 +1985,7 @@
         "quantity": 1,
         "set_code": "hard_sound",
         "set_position": 3,
-        "text": "Attach to your identity.\n<b>Forced Interrupt</b>: When you would attack, discard Hard Sound Bindings instead. Then, you are stunned.\n<hr />\n[star] <b>Boost</b>: You are stunned. If you were already stunned, give the activating enemy an additional boost card.",
+        "text": "Attach to your identity.\n<b>Forced Interrupt</b>: When you would attack, discard Hard Sound Bindings instead. Then, you are stunned.\n<hr />\n<hr>[star] <b>Boost</b>: You are stunned. If you were already stunned, give the activating enemy an additional boost card.",
         "type_code": "attachment"
     },
     {
@@ -1994,7 +1994,7 @@
         "code": "50146",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Can't touch this!\" —Songbird",
+        "flavor": "“Can't touch this!” –Songbird",
         "illustrator": "Allie Preswick",
         "name": "Sonic Bubble",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050146",
@@ -2020,7 +2020,7 @@
         "quantity": 2,
         "set_code": "hard_sound",
         "set_position": 5,
-        "text": "<b>When Revealed</b>: Find Songbird and reveal her. <i>(If she is already in play, she engages you.)</i> Songbird activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n[star] <b>Boost</b>: Give the activating enemy an additional boost card.",
+        "text": "<b>When Revealed</b>: Find Songbird and reveal her. <i>(If she is already in play, she engages you.)</i> Songbird activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b>: Give the activating enemy an additional boost card.",
         "type_code": "treachery"
     },
     {
@@ -2050,7 +2050,7 @@
         "code": "50149",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"This has been fun.\" —Black Widow",
+        "flavor": "“This has been fun.” –Black Widow",
         "illustrator": "Andrea Di Vito & Laura Villari",
         "name": "Handspring",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050149",
@@ -2096,7 +2096,7 @@
         "quantity": 2,
         "set_code": "pale_little_spider",
         "set_position": 5,
-        "text": "<b>When Revealed</b>: Find Black Widow and reveal her. <i>(If she is already in play, she engages you.)</i> Black Widow activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n[star] <b>Boost</b>: You are confused. If you were already confused, place 1 threat on the main scheme.",
+        "text": "<b>When Revealed</b>: Find Black Widow and reveal her. <i>(If she is already in play, she engages you.)</i> Black Widow activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b>: You are confused. If you were already confused, place 1 threat on the main scheme.",
         "type_code": "treachery"
     },
     {
@@ -2106,7 +2106,7 @@
         "code": "50152",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Up and at them!\"",
+        "flavor": "“Up and at them!”",
         "health": 18,
         "illustrator": "Andrea Di Vito & Laura Villari",
         "is_unique": true,
@@ -2137,10 +2137,10 @@
         "pack_code": "aos",
         "position": 153,
         "quantity": 2,
-        "thwart": -1,
         "set_code": "power_of_the_atom",
         "set_position": 2,
         "text": "Attach to your identity.\n[star] If attached identity has the [[Gamma]] trait, this attachment gives +1 ATK instead.\n<b>Forced Response</b>: After you recover, discard 1 card from your hand → discard this card.",
+        "thwart": -1,
         "traits": "Condition.",
         "type_code": "attachment"
     },
@@ -2175,7 +2175,7 @@
         "quantity": 2,
         "set_code": "power_of_the_atom",
         "set_position": 5,
-        "text": "<b>When Revealed</b>: Find Radioactive Man and reveal him. <i>(If he is already in play, he engages you.)</i> Radioactive Man activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n[star] <b>Boost</b>: Take 2 indirect damage.",
+        "text": "<b>When Revealed</b>: Find Radioactive Man and reveal him. <i>(If he is already in play, he engages you.)</i> Radioactive Man activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b>: Take 2 indirect damage.",
         "type_code": "treachery"
     },
     {
@@ -2186,7 +2186,7 @@
         "duplicate_of_name": "",
         "errata": "Changed “make basic defenses” to “defend”. (RRG)",
         "faction_code": "encounter",
-        "flavor": "\"I've got all the weaponry of a fighter jet—and then some.\"",
+        "flavor": "“I've got all the weaponry of a fighter jet–and then some.”",
         "health": 16,
         "illustrator": "Andrea Di Vito & Laura Villari",
         "is_unique": true,
@@ -2270,7 +2270,7 @@
         "quantity": 2,
         "set_code": "supersonic",
         "set_position": 5,
-        "text": "<b>When Revealed</b>: Find MACH-IV and reveal him. <i>(If he is already in play, he engages you.)</i> MACH-IV activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n[star] <b>Boost</b>: If this activation is an attack, it gains overkill and ranged.",
+        "text": "<b>When Revealed</b>: Find MACH-IV and reveal him. <i>(If he is already in play, he engages you.)</i> MACH-IV activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b>: If this activation is an attack, it gains overkill and ranged.",
         "type_code": "treachery"
     },
     {
@@ -2279,7 +2279,7 @@
         "code": "50161",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"On se revoit. En garde!\"",
+        "flavor": "“On se revoit. En garde!”",
         "health": 16,
         "illustrator": "Facundo Moyano",
         "is_unique": true,
@@ -2327,7 +2327,7 @@
         "quantity": 2,
         "set_code": "the_leaper",
         "set_position": 3,
-        "text": "<b>When Revealed</b>: Find Batroc and reveal him. <i>(If he is already in play, he engages you.)</i> Batroc activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n[star] <b>Boost</b>: Discard 1 card from your hand.",
+        "text": "<b>When Revealed</b>: Find Batroc and reveal him. <i>(If he is already in play, he engages you.)</i> Batroc activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b>: Discard 1 card from your hand.",
         "type_code": "treachery"
     },
     {
@@ -2344,7 +2344,7 @@
         "quantity": 2,
         "set_code": "the_leaper",
         "set_position": 5,
-        "text": "Surge.\n<b>When Revealed</b>: Each player engages each minion engaged with the player clockwise from them.\n<hr />\n[star] <b>Boost</b>: After this attack resolves, engage a minion in play that is not engaged with you.",
+        "text": "Surge.\n<b>When Revealed</b>: Each player engages each minion engaged with the player clockwise from them.\n<hr />\n<hr>[star] <b>Boost</b>: After this attack resolves, engage a minion in play that is not engaged with you.",
         "type_code": "treachery"
     },
     {
@@ -2353,7 +2353,7 @@
         "code": "50165a",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Arrest them by order of the Executive Board!\"",
+        "flavor": "“Arrest them by order of the Executive Board!”",
         "health": 12,
         "illustrator": "Facundo Moyano",
         "is_unique": true,
@@ -2401,7 +2401,7 @@
         "code": "50166a",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Arrest them by order of the Executive Board!\"",
+        "flavor": "“Arrest them by order of the Executive Board!”",
         "health": 16,
         "illustrator": "Facundo Moyano",
         "is_unique": true,
@@ -2634,7 +2634,7 @@
         "code": "50174",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"S.H.I.E.L.D. takes orders from me now!\" —Baron Zemo",
+        "flavor": "“S.H.I.E.L.D. takes orders from me now!” –Baron Zemo",
         "illustrator": "Andrea Di Vito & Laura Villari",
         "name": "Undermine Support",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050174",
@@ -2697,7 +2697,7 @@
         "code": "50178",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Just come peacefully and no one gets hurt.\"",
+        "flavor": "“Just come peacefully and no one gets hurt.”",
         "health": 4,
         "name": "S.H.I.E.L.D. Trooper",
         "octgn_id": "bddee479-23cf-4576-b33c-c95ee9050178",
@@ -2871,7 +2871,7 @@
         "quantity": 1,
         "set_code": "s.h.i.e.l.d._executive_board",
         "set_position": 4,
-        "text": "Incite 1.\n<b>When Revealed</b>: Place 1 secret counter on each [[Board Member]] card. You may spend X [energy] resources to prevent X of these counters from being placed.\n<hr />\n[star] <b>Boost</b>: Resolve this card's \"<b>When Revealed</b>\" ability.",
+        "text": "Incite 1.\n<b>When Revealed</b>: Place 1 secret counter on each [[Board Member]] card. You may spend X [energy] resources to prevent X of these counters from being placed.\n<hr />\n<hr>[star] <b>Boost</b>: Resolve this card's \"<b>When Revealed</b>\" ability.",
         "type_code": "treachery"
     },
     {
@@ -2887,7 +2887,7 @@
         "quantity": 1,
         "set_code": "s.h.i.e.l.d._executive_board",
         "set_position": 5,
-        "text": "Incite 1.\n<b>When Revealed</b>: Place 1 secret counter on each [[Board Member]] card. You may spend X [mental] resources to prevent X of these counters from being placed.\n<hr />\n[star] <b>Boost</b>: Resolve this card's \"<b>When Revealed</b>\" ability.",
+        "text": "Incite 1.\n<b>When Revealed</b>: Place 1 secret counter on each [[Board Member]] card. You may spend X [mental] resources to prevent X of these counters from being placed.\n<hr />\n<hr>[star] <b>Boost</b>: Resolve this card's \"<b>When Revealed</b>\" ability.",
         "type_code": "treachery"
     },
     {
@@ -2903,7 +2903,7 @@
         "quantity": 1,
         "set_code": "s.h.i.e.l.d._executive_board",
         "set_position": 6,
-        "text": "Incite 1.\n<b>When Revealed</b>: Place 1 secret counter on each [[Board Member]] card. You may spend X [physical] resources to prevent X of these counters from being placed.\n<hr />\n[star] <b>Boost</b>: Resolve this card's \"<b>When Revealed</b>\" ability.",
+        "text": "Incite 1.\n<b>When Revealed</b>: Place 1 secret counter on each [[Board Member]] card. You may spend X [physical] resources to prevent X of these counters from being placed.\n<hr />\n<hr>[star] <b>Boost</b>: Resolve this card's \"<b>When Revealed</b>\" ability.",
         "type_code": "treachery"
     },
     {
