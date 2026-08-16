@@ -1229,20 +1229,6 @@
         "visibility": "false"
     },
     {
-        "cgdb_id": 61,
-        "code": "jessica_jones_by_ffg",
-        "creator": "FFG",
-        "date_release": "2026-08-25",
-        "name": "Jessica Jones",
-        "octgn_id": "7f19133c-13a9-4b3e-a364-bf17416b5119",
-        "pack_type_code": "hero_fanmade",
-        "position": 61,
-        "size": 59,
-        "status": "released",
-        "theme": "Marvel",
-        "visibility": "false"
-    },
-    {
         "cgdb_id": 2070,
         "code": "universal_church_of_truth_by_bluehg",
         "creator": "BlueHG",
@@ -1322,20 +1308,6 @@
         "pack_type_code": "hero_fanmade",
         "position": 5040,
         "size": 289,
-        "status": "released",
-        "theme": "Marvel",
-        "visibility": "false"
-    },
-    {
-        "cgdb_id": 62,
-        "code": "luke_cage_by_ffg",
-        "creator": "FFG",
-        "date_release": "2026-08-25",
-        "name": "Luke Cage",
-        "octgn_id": "e7da07d7-400b-4710-8d02-e5356255ac60",
-        "pack_type_code": "hero_fanmade",
-        "position": 62,
-        "size": 59,
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
@@ -1504,21 +1476,5 @@
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
-    },
-    {
-        "cgdb_id": 63,
-        "code": "elektra_by_ffg",
-        "confidential": "false",
-        "creator": "FFG",
-        "date_release": "2026-08-14",
-        "lang": "EN",
-        "name": "Elektra",
-        "octgn_id": "e67e1207-3c6e-4bd1-8711-92532493aae4",
-        "pack_type_code": "hero_fanmade",
-        "position": 63,
-        "size": 36,
-        "status": "released",
-        "theme": "Marvel",
-        "visibility": "false"
     }
 ]
