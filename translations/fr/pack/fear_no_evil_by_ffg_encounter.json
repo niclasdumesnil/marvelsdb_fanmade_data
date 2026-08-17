@@ -39,7 +39,7 @@
         "code": "60061",
         "flavor": "« À ma manière, j'ai voulu prendre soin de toi, Maya. Je t'aimais comme ma propre fille. Je t'aime toujours. »",
         "name": "Le Caïd",
-        "text": "<b>Interruption forcée</b> : quand le Caïd est censé attaquer le joueur de Maya Lopez, il manigance à la place. (<i>Sbire Némésis d'Echo.</i>)",
+        "text": "<b>Interruption forcée</b> : quand le Caïd est censé attaquer le joueur de Maya Lopez, il manigance à la place.\n(<i>Sbire Némésis d'Echo.</i>)",
         "traits": "Criminel."
     },
     {
@@ -231,7 +231,7 @@
         "flavor": "« Là où d'autres voient une faiblesse, je vois une opportunité. »",
         "name": "Sous-Chef de la Maggia",
         "text": "Vilenie.\n[star] <b>Interruption forcée</b> : quand le Sous-Chef de la Maggia s'active contre vous, si vous êtes sonné, donnez-lui une carte de boost supplémentaire pour cette activation.",
-        "traits": "Sbire. Criminel. Maggia."
+        "traits": "Criminel. Maggia."
     },
     {
         "code": "60094",
@@ -248,7 +248,7 @@
         "code": "60096",
         "flavor": "« Tu sais comment j'ai gravi tous les échelons ? » – Hammerhead",
         "name": "« Tête la Première ! »",
-        "text": "<b>Une fois révélée (alter ego)</b> : cette carte gagne Renfort.\n\n<b>Une fois révélée (héros)</b> : Hammerhead vous attaque. Si vous êtes sonné, Hammerhead gagne +2 ATQ pour cette attaque et elle gagne Déferlement.",
+        "text": "<b>Une fois révélée (alter ego)</b> : cette carte gagne Renfort.\n<b>Une fois révélée (héros)</b> : Hammerhead vous attaque. Si vous êtes sonné, Hammerhead gagne +2 ATQ pour cette attaque et elle gagne Déferlement.",
         "traits": "Traîtrise."
     },
     {
@@ -304,9 +304,9 @@
     },
     {
         "code": "60105",
-        "flavor": "L'amour et la haine ne sont – elles pas les deux faces d'une même pièce ? – L'Homme Pourpre",
+        "flavor": "« L'amour et la haine ne sont-elles pas les deux faces d'une même pièce ? » – L'Homme Pourpre",
         "name": "« Battez-Vous ! »",
-        "text": "Utilisations (3 jetons Ordre).\n\n<b>Action forcée</b> : retirez 1 jeton Ordre de cette carte et inclinez-la → infligez 2 dégâts à un héros ou à un allié.",
+        "text": "Utilisations (3 jetons Ordre).\n<b>Action forcée</b> : retirez 1 jeton Ordre de cette carte et inclinez-la → infligez 2 dégâts à un héros ou à un allié.",
         "traits": "Obligation."
     },
     {
@@ -317,9 +317,9 @@
     },
     {
         "code": "60107",
-        "flavor": "Annulez tous vos rendez – vous. À présent, je suis votre seule priorité. – L'Homme Pourpre",
+        "flavor": "« Annulez tous vos rendez-vous. À présent, je suis votre seule priorité. » – L'Homme Pourpre",
         "name": "« Servez-Moi »",
-        "text": "Utilisations (3 jetons Ordre).\n\n<b>Action forcée</b> : retirez 1 jeton Ordre de cette carte et inclinez-la → placez 2 menaces sur la manigance principale.",
+        "text": "Utilisations (3 jetons Ordre).\n<b>Action forcée</b> : retirez 1 jeton Ordre de cette carte et inclinez-la → placez 2 menaces sur la manigance principale.",
         "traits": "Obligation."
     },
     {
