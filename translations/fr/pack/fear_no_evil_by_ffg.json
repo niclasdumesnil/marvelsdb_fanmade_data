@@ -1,25 +1,5 @@
 [
     {
-        "code": "60023",
-        "flavor": "« Je n'ai pas besoin de te voir pour connaître ton prochain coup » – Iron Fist",
-        "name": "Connais ton Ennemi",
-        "text": "[star] Réduction 1 ([[Artiste Martial]]).\n<b>Action</b> (<i>contre</i>) : retirez 1 menace d'une manigance. Retirez 1 menace d'une manigance.",
-        "traits": "Contre."
-    },
-    {
-        "code": "60026",
-        "flavor": "« Vous avez un permis pour ça ? » – Agent de Police",
-        "name": "Problèmes Judiciaires",
-        "text": "[star] Réduction 1 ([[AVOCAT] ou [[POLICE]]).\nAttachez cette carte à un sbire. 1 max par sbire.\nLe sbire attaché à -2 MNG.",
-        "traits": "Condition."
-    },
-    {
-        "code": "60027",
-        "name": "Se déplacer dans les Ombres",
-        "text": "[star] Réduction 1 ([[AVOCAT] ou [[POLICE]]).\nTemporaire. 1 max par joueur.\n<b>Réponse</b> (<i>contre</i>) : après avoir joué une carte <i>(y compris celle-ci</i>), retirez 1 menace d'une manigance.",
-        "traits": "Compétence."
-    },
-    {
         "code": "60001a",
         "name": "Daredevil",
         "text": "<i>Sens Superhumain </i> — <b>Action</b> : jouez la carte du dessus du deck [[SENS]] comme si elle était dans votre main (<i>en payant ses coûts</i>).\n<b>Interruption forcée</b> : quand une amélioration [[SENS]] est censée quitter le jeu, placez-la sous le deck [[SENS]] à la place.",
@@ -93,6 +73,11 @@
         "traits": "Attaque."
     },
     {
+        "code": "60012",
+        "name": "Concentrer ses Sens",
+        "text": "Aucune menace ne peut être retirée de cette manigance sauf par Daredevil ou Matt Murdock.\n<b>Une fois déjouée</b> : vous pouvez déplacer n'importe quel nombre d'améliorations [[SENS]] en jeu vers d'autres cartes auxquelles elles peuvent s'attacher. Choisissez n'importe quel nombre d'améliorations du deck [[SENS]] et mettez-le en jeu. <i>(Ne mélangez pas le deck.)</i>"
+    },
+    {
         "code": "60013",
         "flavor": "« Tout va bien maintenant Matt ! Ce vieux Foggy est sur le coup ! »",
         "name": "Foggy Nelson",
@@ -162,6 +147,32 @@
         "subname": "Johnny Blaze",
         "text": "[star] <b>Interruption</b> : quand le Ghost Rider attaque un ennemi, dépensez une ressource [energy] (2 ressources [energy] à la place si cet ennemi est le méchant) → désorientez cet ennemi.",
         "traits": "Midnight Sun."
+    },
+    {
+        "code": "60023",
+        "flavor": "« Je n'ai pas besoin de te voir pour connaître ton prochain coup » – Iron Fist",
+        "name": "Connais ton Ennemi",
+        "text": "[star] Réduction 1 ([[Artiste Martial]]).\n<b>Action</b> (<i>contre</i>) : retirez 1 menace d'une manigance. Retirez 1 menace d'une manigance.",
+        "traits": "Contre."
+    },
+    {
+        "code": "60024",
+        "flavor": "« Je peux voir ma maison, d'ici » – Un Civil",
+        "name": "Désescalade",
+        "text": "Victoire 0.\n<b>Une fois déjouée</b> : retirez un pion Accélération qui est en jeu."
+    },
+    {
+        "code": "60026",
+        "flavor": "« Vous avez un permis pour ça ? » – Agent de Police",
+        "name": "Problèmes Judiciaires",
+        "text": "[star] Réduction 1 ([[AVOCAT] ou [[POLICE]]).\nAttachez cette carte à un sbire. 1 max par sbire.\nLe sbire attaché à -2 MNG.",
+        "traits": "Condition."
+    },
+    {
+        "code": "60027",
+        "name": "Se déplacer dans les Ombres",
+        "text": "[star] Réduction 1 ([[AVOCAT] ou [[POLICE]]).\nTemporaire. 1 max par joueur.\n<b>Réponse</b> (<i>contre</i>) : après avoir joué une carte <i>(y compris celle-ci</i>), retirez 1 menace d'une manigance.",
+        "traits": "Compétence."
     },
     {
         "code": "60028",
