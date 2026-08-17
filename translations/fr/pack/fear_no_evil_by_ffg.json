@@ -330,5 +330,49 @@
         "name": "Ne Vois et n'Entends Aucun Mal",
         "text": "En Équipe (Daredevil et Echo). 1 max par deck.\n<b>Action</b> (<i>attaque/contre</i>) : choisissez 2 options (<i>vous pouvez choisir la même option 2 fois</i>) :\n• Infligez 3 dégâts à un ennemi.\n• Retirez 3 menaces d'une manigance.",
         "traits": "Attaque. Contre."
+    },
+    {
+        "code": "60139",
+        "name": "Gérant de Magasin",
+        "text": "<b>Une fois révélée</b> : mettez en jeu le Gérant de Magasin sous votre contrôle. Cette carte gagne Renfort.\n\n<b>Interruption forcée</b> : quand cet allié quitte le jeu, placez 4 menaces sur la manigance principale de votre zone de jeu.",
+        "traits": "Civil."
+    },
+    {
+        "code": "60153",
+        "name": "Ben Urich",
+        "text": "Utilisations (3 jetons Endurance).\n<b>Action</b> : inclinez Ben Urich et retirez-lui 1 jeton Endurance → regardez les 2 cartes du dessus du deck Rencontre. Vous pouvez défausser 1 de ces cartes. <i>(Remettez les autres dans le même ordre.)</i>",
+        "traits": "Daily Bugle. Individu."
+    },
+    {
+        "code": "60154",
+        "name": "Betty Brant",
+        "text": "Utilisations (3 jetons Endurance).\n<b>Interruption</b> : quand une carte de boost est retournée face visible, inclinez Betty Brant et retirez-lui 1 jeton Endurance → annulez les icônes de boost et la capacité « <b>Boost</b> » de cette carte. Donnez à l'ennemi en cours d'activation une autre carte de boost pour cette activation.",
+        "traits": "Daily Bugle. Individu."
+    },
+    {
+        "code": "60155",
+        "name": "J. Jonah Jameson",
+        "text": "Utilisations (3 jetons Endurance).\n\n<b>Action</b> : inclinez J. Jonah Jameson, retirez-lui 1 jeton Endurance et attribuez-vous 1 carte Rencontre face cachée → piochez 2 cartes.",
+        "traits": "Daily Bugle. Individu."
+    },
+    {
+        "code": "60156",
+        "name": "Robbie Robertson",
+        "text": "Utilisations (3 jetons Endurance).\n\n<b>Réponse</b> : après qu'une carte Rencontre face cachée a été attribuée à un joueur, inclinez Robbie Robertson et retirez-lui 1 jeton Endurance → regardez cette carte Rencontre. Vous pouvez la défausser et attribuer à ce joueur une autre carte Rencontre face cachée.",
+        "traits": "Daily Bugle. Individu."
+    },
+    {
+        "code": "60210a",
+        "name": "Mary Typhoïde",
+        "subname": "Mary Walker",
+        "text": "<b>Mise en Place</b>. Victoire -1.\n\n[star] <b>Réponse forcée</b> : après avoir révélé un sbire, retirez tous les dégâts sur cette alliée et retournez sa carte.",
+        "traits": "Mutant. Psionique."
+    },
+    {
+        "code": "60210b",
+        "name": "Bloody Mary",
+        "subname": "Mary Walker",
+        "text": "Victoire –1.\n[star] <b>Réponse forcée</b> : après avoir révélé une manigance annexe, retirez tous les dégâts sur cette alliée et retournez sa carte.",
+        "traits": "Mutant. Psionique."
     }
 ]

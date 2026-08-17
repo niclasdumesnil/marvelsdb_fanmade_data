@@ -58,5 +58,1004 @@
         "flavor": "Le Caïd a réussi à convaincre Echo qu'il n'était pas le meurtrier de son père, et que le coupable était Daredevil.",
         "name": "Pion du Caïd",
         "text": "<b>Une fois révélée (alter ego)</b> : si le Caïd est en jeu, il manigance. Sinon, cette carte gagne Renfort.\n<b>Une fois révélée (héros)</b> : infligez à un héros un nombre égal de dégâts égal à l'ATQ de votre héros."
+    },
+    {
+        "code": "60065",
+        "name": "Bullseye",
+        "text": "<b>Une fois révélée</b> : mettez de côté Colonne Enrobée d'Adamantium (68A).\n<b>Interruption forcée</b> : quand Bullseye s'active, chacune de ses cartes de boost gagne [boost]. Si cette activation est une attaque, elle gagne À Distance.",
+        "traits": "Assassin. Subordonné."
+    },
+    {
+        "code": "60066",
+        "name": "Bullseye",
+        "text": "<b>Une fois révélée</b> : trouvez Colonne Enrobée d'Adamantium et attachez-la à Bullseye.\n<b>Interruption forcée</b> : quand Bullseye s'active, chacune de ses cartes de boost gagne [boost]. Si cette activation est une attaque, elle gagne À Distance.",
+        "traits": "Assassin. Subordonné."
+    },
+    {
+        "code": "60067",
+        "name": "Bullseye",
+        "text": "<b>Une fois révélée</b> : trouvez Soif de Sang Malsaine et révélez-la.\n[star] <b>Interruption forcée</b> : quand Bullseye s'active, chacune de ses cartes de boost gagne [boost]. Si cette activation est une attaque, elle gagne À Distance.",
+        "traits": "Assassin. Subordonné."
+    },
+    {
+        "code": "60069",
+        "name": "Relever La Mise",
+        "text": "Attachez cette carte à Bullseye.\n[star] <b>Interruption forcée</b> : quand Bullseye attaque, donnez-lui 1 carte de boost supplémentaire pour cette attaque. Si un personnage ami est vaincu par cette attaque, retirez ce personnage et cet attachement de la partie. Sinon, mélangez cet attachement dans le deck Rencontre.",
+        "traits": "Condition."
+    },
+    {
+        "code": "60070",
+        "name": "Saï Mortel",
+        "text": "Attachez cette carte à Bulllseye.\n[star] Les attaques de Bullseye perdent À Distance et gagnent Perçant.\n<b>Réponse de héros</b> : après que votre héros a défendu contre une attaque de Bullseye, dépensez 2 ressources différentes → défaussez cet attachement.",
+        "traits": "Arme."
+    },
+    {
+        "code": "60071",
+        "name": "Poursuite Incessante",
+        "text": "Attachez cette carte à un allié qui n'a pas déjà une Poursuite Incessante attachée. Sinon, cette carte gagne Renfort.\n<b>Interruption forcée</b> : quand le méchant est censé vous attaquer, il attaque l'allié attaché à la place et l'attaque gagne Déferlement. Si l'allié attaché est vaincu par cette attaque, retirez-le de la partie.",
+        "traits": "Condition."
+    },
+    {
+        "code": "60072",
+        "name": "Lady Bullseye",
+        "text": "Vilenie. (<i>Quand ce sbire s'active, donnez-lui une carte de boost.</i>)\n[star] <b>Interruption forcée</b> : quand vous résolvez les cartes de boost lors d'une attaque de Lady Bullseye, si cette attaque est non défendue, donnez-lui 1 carte de boost supplémentaire pour cette attaque.",
+        "traits": "Assassin. Main."
+    },
+    {
+        "code": "60073",
+        "name": "Soif de Sang Malsaine",
+        "text": "<b>Une fois révélée</b> : placez sur cette manigance annexe un nombre de menaces supplémentaires égal au numéro du stade de Bullseye.\n<hr>[star] <b>Boost</b> : après cette activation, révélez cette carte."
+    },
+    {
+        "code": "60074",
+        "name": "Tout est une Arme",
+        "text": "<b>Une fois révélée (alter ego)</b> : subissez 2 dégâts indirects.\n<b>Une fois révélée (héros)</b> : choisissez : soit Bullseye s'active contre vous, soit vous retirez de la partie un allié que vous contrôlez.\n<hr>[star] <b>Boost</b> : si Bullseye est en train d'attaquer, donnez-lui une carte de boost supplémentaire et cette attaque gagne Perçant.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60075",
+        "name": "Désir Irrépressible",
+        "text": "<b>Une fois révélée</b> : choisissez : soit vous donnez cette carte au méchant en tant que carte de boost face cachée, soit vous retirez de la partie un soutien [[Individu]] que vous contrôlez.<hr>[star] <b>Boost</b> : si cette activation est une attaque, elle gagne Déferlement.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60076",
+        "name": "Electro",
+        "text": "<b>Une fois révélée</b> : trouvez Charge Électrique, attachez-la à Electro et placez 2[per_hero] jetons Charge dessus.\n[star] <b>Réponse forcée</b> : après qu'Electro a manigancé, placez 1 jeton Charge sur Charge Électrique.",
+        "traits": "Criminel. Subordonné."
+    },
+    {
+        "code": "60077",
+        "name": "Electro",
+        "text": "<b>Une fois révélée</b> : trouvez Charge Électrique, attachez-la à Electro et placez 2[per_hero] jetons Charge dessus.\n[star] <b>Réponse forcée</b> : après qu'Electro a manigancé, placez 1 jeton Charge sur Charge Électrique.",
+        "traits": "Criminel. Subordonné."
+    },
+    {
+        "code": "60078",
+        "name": "Electro",
+        "text": "<b>Une fois révélée</b> : placez 3 jetons Charge sur Charge Électrique.\n\n[star] <b>Réponse forcée</b> : après qu'Electro a manigancé, placez 2 jetons Charge sur Charge Électrique.",
+        "traits": "Criminel. Subordonné."
+    },
+    {
+        "code": "60079",
+        "name": "Charge Électrique",
+        "text": "Permanent.\n<b>Interruption forcée</b> : quand Electro attaque, retirez 1 jeton Charge de cet attachement → donnez une carte de boost supplémentaire à Electro pour cette attaque. Cette attaque gagne Déferlement.\n<b>Action de héros</b> : dépensez une ressource [energy] ou 2 ressources de n'importe quel type → retirez 1 jeton Charge de cet attachement.",
+        "traits": "Condition."
+    },
+    {
+        "code": "60080",
+        "name": "Vidé de sa Charge",
+        "text": "Utilisations (3 jetons Drain).\n\n<b>Une fois révélée</b> : attachez cette carte à votre identité et inclinez chaque amélioration que vous contrôlez.\n\n<b>Interruption forcée</b> : quand une amélioration que vous contrôlez est censée se redresser, vous pouvez dépenser une ressource [energy] ou 2 ressources de n'importe quel type. Si vous le faites, retirez 1 jeton Drain de cet attachement <i>(et redressez l'amélioration)</i>. Sinon, cette amélioration ne se redresse pas.",
+        "traits": "Condition."
+    },
+    {
+        "code": "60081",
+        "flavor": "« Alors ? Choqué de me voir ? »",
+        "name": "Whiplash",
+        "text": "<b>Interruption forcée</b> : quand Whiplash est attaqué, retirez 1 jeton Charge de Charge Électrique → défaussez la carte du dessus du deck Rencontre. Infligez 1 dégât à l'attaquant pour chaque icône de boost ([boost]) sur la carte défaussée.",
+        "traits": "Criminel."
+    },
+    {
+        "code": "60082",
+        "flavor": "Electro draine l'électricité du réseau électrique. Vous devez appuyer sur l'interrupteur !",
+        "name": "En Charge",
+        "text": "<b>Une fois déjouée</b> : placez 3 jetons Charge sur Charge Électrique."
+    },
+    {
+        "code": "60083",
+        "name": "Chaîne d'Éclair",
+        "text": "<b>Une fois révélée</b> : pour chaque personnage que vous contrôlez, choisissez :\n• Inclinez ce personnage.\n• Infligez 1 dégât à ce personnage (3 dégâts à la place s'il y a au moins un jeton Charge sur Charge Électrique). Retirez 1 jeton Charge de Charge Électrique.",
+        "traits": "Electro."
+    },
+    {
+        "code": "60084",
+        "name": "Surcharge d'Énergie",
+        "text": "<b>Une fois révélée</b> : si aucune carte de votre main n'a d'icône de ressource [energy] imprimée, cette carte gagne Renfort. Sinon, pour chaque carte dans votre main qui a une icône de ressource [energy] imprimée, choisissez :\n• Défaussez la carte.\n• Sonnez un personnage que vous contrôlez."
+    },
+    {
+        "code": "60085",
+        "name": "Révélation Choc",
+        "text": "<b>Une fois révélée</b> : défaussez la carte du dessus de votre deck pour chaque carte que vous contrôlez. Pour chaque carte qui a une icône de ressource [energy] imprimée ainsi défaussée, choisissez :\n• Subissez 1 dégât indirect.\n• Placez 1 jeton Charge sur Charge Électrique.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60086",
+        "flavor": "« Il a la tête dure celui-là ! » – Luke Cage",
+        "name": "Hammerhead",
+        "text": "[star] <b>Réponse forcée</b> : après que Hammerhead a attaqué et blessé un personnage, sonnez ce personnage. Si ce personnage était déjà sonné, infligez-lui 1 dégât.",
+        "traits": "Criminel. Maggia. Subordonné."
+    },
+    {
+        "code": "60087",
+        "flavor": "« Il a la tête dure celui-là ! » – Luke Cage",
+        "name": "Hammerhead",
+        "text": "Ténacité. Riposte 1.\n[star] <b>Réponse forcée</b> : après que Hammerhead a attaqué et blessé un personnage, sonnez ce personnage. Si ce personnage était déjà sonné, infligez-lui 1 dégât.",
+        "traits": "Criminel. Maggia. Subordonné."
+    },
+    {
+        "code": "60088",
+        "flavor": "« Il a la tête dure celui-là ! » – Luke Cage",
+        "name": "Hammerhead",
+        "text": "Ténacité. Riposte 2.\n[star] <b>Réponse forcée</b> : après que Hammerhead a attaqué et blessé un personnage, sonnez ce personnage. Si ce personnage était déjà sonné, infligez-lui 2 dégâts.",
+        "traits": "Criminel. Maggia. Subordonné."
+    },
+    {
+        "code": "60089",
+        "flavor": "« Utilise le réglage \"paralyser\" pour que je puisse leur parler après. » – Hammerhead",
+        "name": "Mitrailleuse Énergétique",
+        "text": "Attachez cette carte à Hammerhead.\n<b>Réponse forcée</b> : après que Hammerhead a attaqué, si le personnage attaqué n'a pas été vaincu, défaussez cet attachement → Hammerhead attaque de nouveau ce personnage.",
+        "traits": "Tech."
+    },
+    {
+        "code": "60090",
+        "name": "Forte Tête",
+        "text": "Attachez cette carte à Hammerhead.\nHammerhead gagne Robuste.\n<b>Action de héros</b> : dépensez les ressources suivantes : [energy] [mental] [physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : donnez une carte d'état Tenace à l'ennemi en cours d'activation.",
+        "traits": "Condition."
+    },
+    {
+        "code": "60091",
+        "flavor": "« Je suis invisible parce que je suis la même chose que vous voyez chaque jour, jour après jour. »",
+        "name": "Le Caméléon",
+        "text": "[star] Le Caméléon gagne +X MNG, X étant la valeur de CTR la plus élevée parmi les personnages en jeu.\n<b>Une fois révélée</b> : Le Caméléon manigance.",
+        "traits": "Criminel. Maggia."
+    },
+    {
+        "code": "60092",
+        "flavor": "« Avant de diriger mon propre gang j'étais un agent de la Maggia. » – Hammerhead",
+        "name": "Agents de la Maggia",
+        "text": "Garde.\n[star] La MNG des Agents de la Maggia est égale au nombre d'ennemis [[Maggia]] en jeu (y compris celui-ci).",
+        "traits": "Criminel. Maggia."
+    },
+    {
+        "code": "60093",
+        "flavor": "« Là où d'autres voient une faiblesse, je vois une opportunité. »",
+        "name": "Sous-Chef de la Maggia",
+        "text": "Vilenie.\n[star] <b>Interruption forcée</b> : quand le Sous-Chef de la Maggia s'active contre vous, si vous êtes sonné, donnez-lui une carte de boost supplémentaire pour cette activation.",
+        "traits": "Sbire. Criminel. Maggia."
+    },
+    {
+        "code": "60094",
+        "flavor": "« Bienvenue dans la cour des grands. » – Hammerhead",
+        "name": "Consolider son Pouvoir",
+        "text": "<b>Réponse forcée</b> : après qu'un sbire a été vaincu, donnez-le au méchant en tant que carte de boost face cachée."
+    },
+    {
+        "code": "60095",
+        "name": "Lutte de Pouvoir",
+        "text": "<b>Une fois révélée</b> : vainquez le sbire en jeu qui a le moins de points de vie restants. Défaussez des cartes du deck Rencontre jusqu'à ce que vous défaussiez un sbire. Révélez ce sbire."
+    },
+    {
+        "code": "60096",
+        "flavor": "« Tu sais comment j'ai gravi tous les échelons ? »\n– Hammerhead",
+        "name": "« Tête la Première ! »",
+        "text": "<b>Une fois révélée (alter ego)</b> : cette carte gagne Renfort.\n\n<b>Une fois révélée (héros)</b> : Hammerhead vous attaque. Si vous êtes sonné, Hammerhead gagne +2 ATQ pour cette attaque et elle gagne Déferlement.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60097",
+        "name": "L'Homme Pourpre",
+        "text": "Chaque sbire [[Influencé]] gagne Garde.\n Chaque carte de boost du set de rencontre L'Homme Pourpre gagne :\n« [star] <b>Boost</b> : après cette activation, attribuez-vous cette carte en tant que carte Rencontre face cachée. »",
+        "traits": "Psionique. Subordonné."
+    },
+    {
+        "code": "60098",
+        "name": "L'Homme Pourpre",
+        "text": "Chaque sbire [[Influencé]] gagne Garde et Vilenie.\n\nChaque carte de boost du set de rencontre L'Homme Pourpre gagne :\n« [star] <b>Boost</b> : après cette activation, attribuez-vous cette carte en tant que carte Rencontre face cachée. »",
+        "traits": "Psionique. Subordonné."
+    },
+    {
+        "code": "60099",
+        "name": "L'Homme Pourpre",
+        "text": "Chaque sbire [[Influencé]] gagne Garde, Patrouille et Vilenie.\n\nChaque carte de boost du set de rencontre L'Homme Pourpre gagne :\n« [star] <b>Boost</b> : après cette activation, attribuez-vous cette carte en tant que carte Rencontre face cachée. »",
+        "traits": "Psionique. Subordonné."
+    },
+    {
+        "code": "60100",
+        "name": "Convertie",
+        "text": "L'allié attaché est considéré comme un sbire [[Influencé]] ayant une boîte de texte vide. Sa MNG est égale à son CTR de base et il ne subit pas de dégâts consécutifs.\n<b>Une fois révélée</b> : attachez cette carte à l'allié ayant le coût le plus élevé que vous contrôlez et engagez-le. Sinon, cette carte gagne Renfort.",
+        "traits": "Condition."
+    },
+    {
+        "code": "60101",
+        "name": "Pompier",
+        "text": "Vulnérable. <i>(Défaussez ce personnage s'il est sonné ou désorienté.)</i>\n[star] Les attaques du Pompier gagnent Perçant.\n<b>Une fois vaincu</b> : défaussez le soutien ou l'amélioration en jeu qui a le coût le plus élevé.",
+        "traits": "Civil. Influencé."
+    },
+    {
+        "code": "60102",
+        "flavor": "« Prononcez un seul mot à l'encontre de M. Killgrave et je vous fais arrêter pour outrage ! »",
+        "name": "Juge",
+        "text": "Vulnérable. (<i>Défaussez ce personnage s'il est sonné ou désorienté.</i>)\n<b>Une fois vaincu</b> : placez 3 menaces sur la manigance principale.",
+        "traits": "Civil. Influencé."
+    },
+    {
+        "code": "60103",
+        "flavor": "« Le suspect est en détention provisoire. »",
+        "name": "Agent de Sécurité",
+        "text": "Patrouille. Vulnérable. <i>(Défaussez ce personnage s'il est sonné ou désorienté.)</i>\n<b>Une fois vaincu</b> : défaussez l'allié en jeu qui a l'ATQ la plus élevée <i>(parmi les alliés)</i>.",
+        "traits": "Civil. Influencé."
+    },
+    {
+        "code": "60104",
+        "flavor": "En fait, je suis plutôt dans le post-punk.",
+        "name": "Skateur Punk",
+        "text": "Vulnérable. (<i>Défaussez ce personnage s'il est sonné ou désorienté.</i>)\n<b>Une fois vaincu</b> : infligez 3 dégâts à l'identité du joueur qui a vaincu ce sbire.",
+        "traits": "Civil. Influencé."
+    },
+    {
+        "code": "60105",
+        "flavor": "L'amour et la haine ne sont-elles pas les deux faces d'une même pièce ? – L'Homme Pourpre",
+        "name": "« Battez-Vous ! »",
+        "text": "Utilisations (3 jetons Ordre).\n\n<b>Action forcée</b> : retirez 1 jeton Ordre de cette carte et inclinez-la → infligez 2 dégâts à un héros ou à un allié.",
+        "traits": "Obligation."
+    },
+    {
+        "code": "60106",
+        "flavor": "« Votre mission est de m'escorter... partout où je vais. » – L'Homme Pourpre",
+        "name": "« Protégez-Moi »",
+        "text": "Utilisations (3 jetons Ordre).\n\n<b>Action forcée</b> : retirez 1 jeton Ordre de cette carte et inclinez-la → donnez une carte d'état Tenace au méchant."
+    },
+    {
+        "code": "60107",
+        "flavor": "Annulez tous vos rendez-vous. À présent, je suis votre seule priorité. – L'Homme Pourpre",
+        "name": "« Servez-Moi »",
+        "text": "Utilisations (3 jetons Ordre).\n\n<b>Action forcée</b> : retirez 1 jeton Ordre de cette carte et inclinez-la → placez 2 menaces sur la manigance principale.",
+        "traits": "Obligation."
+    },
+    {
+        "code": "60108",
+        "flavor": "« Sentez, comme ma volonté s'impose à la vôtre. » – L'Homme Pourpre",
+        "name": "Pouvoir de Suggestion",
+        "text": "[star] Entrave 3[per_hero].\nChaque sbire gagne le trait [[Influencé]]."
+    },
+    {
+        "code": "60109",
+        "flavor": "Rien n'est plus dangereux qu'un homme persuasif avec un haut-parleur.",
+        "name": "Influencer les Masses",
+        "text": "<b>Une fois révélée</b> : choisissez un sbire [[Influencé]] dans la pile de défausse Rencontre et révélez-le. Sinon, cette carte gagne Renfort."
+    },
+    {
+        "code": "60112",
+        "name": "Psyché Perturbée",
+        "text": "<b>Mise en place</b> : mettez en jeu le méchant sur une face sélectionnée au hasard <i>(et révélez-le)</i>.\n<b>Interruption forcée</b> : quand la phase du Méchant se termine, retournez le méchant.\nS'il y a au moins 3 pions sur cet environnement, les joueurs remportent la partie !"
+    },
+    {
+        "code": "60114",
+        "name": "Télékinésie",
+        "text": "Attachez cette carte au méchant.\n\n<b>Action de héros</b> : dépensez les ressources suivantes : [physical][physical] → défaussez cette carte.\n\n<hr>[star] <b>Boost</b> : si Mary Typhoïde est en cours d'activation, subissez 3 dégâts indirects. Inclinez chaque personnage blessé par cet effet.",
+        "traits": "Psionique. Super-pouvoir."
+    },
+    {
+        "code": "60115",
+        "name": "Frappe Psionique",
+        "text": "<b>Une fois révélée</b> : si l'attachement Mary Walker est en jeu, retournez-le et révélez Gagner la Confiance. Le méchant manigance.<hr>[star] <b>Boost</b> : si Mary Typhoïde est en cours d'activation, infligez 3 dégâts à un allié que vous contrôlez.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60116",
+        "flavor": "« ASSEZ ! » – Mary Typhoïde",
+        "name": "Nova Psi",
+        "text": "<b>Une fois révélée</b> : infligez 1 dégât à chaque personnage que vous contrôlez. Vous êtes sonné.\n<hr>[star] <b>Boost</b> : si Mary Typhoïde est en cours d'activation, vous êtes sonné.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60117",
+        "name": "Armure Assemblée",
+        "text": "Attachez cette carte au méchant.\n\n<b>Interruption forcée</b> : quand le méchant est censé subir n'importe quelle quantité de dégât, placez-les sur cette carte à la place. Ensuite, s'il y a au moins 5 dégâts sur l'Armure Assemblée (au moins 8 en mode expert), défaussez-la.\n<hr>[star] <b>Boost</b> : si Bloody Mary est en cours d'activation, vous êtes désorienté.",
+        "traits": "Armure."
+    },
+    {
+        "code": "60118",
+        "name": "Pluie de Lames",
+        "text": "<b>Une fois révélée</b> : si l'attachement Mary Walker est en jeu, retournez-le et révélez Gagner la Confiance. Le méchant vous attaque <i>(même si vous êtes sous forme d'alter ego)</i>.<hr>[star] <b>Boost</b> : si Bloody Mary est en cours d'activation, subissez 2 dégâts.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60119",
+        "flavor": "« Si nous nous endurcissons le plus possible... personne ne pourra nous toucher. » – Bloody Mary",
+        "name": "Bouclier de Fortune",
+        "text": "Renfort.\n<b>Une fois révélée</b> : donnez une carte d'état Tenace au méchant.\n<hr>[star] <b>Boost</b> : si Bloody Mary est en cours d'activation, donnez-lui une carte d'état Tenace."
+    },
+    {
+        "code": "60120",
+        "flavor": "Gardons tous un œil les uns sur les autres. C'est la seule façon de survivre dans cette ville. – Mary Typhoïde",
+        "name": "Guetteur de la Main",
+        "text": "Garde. Ténacité.\n\n<hr>[star] <b>Boost</b> : donnez une carte de boost supplémentaire à l'ennemi en cours d'activation.",
+        "traits": "Main. Ninja."
+    },
+    {
+        "code": "60122",
+        "name": "Objet Impossible",
+        "text": "Renfort.\nAttachez cette carte au méchant.\n<b>Réponse forcée</b> : après que cette carte a été attachée à un personnage, désorientez ce personnage.\n<b>Action de héros</b> : dépensez une ressource [mental] ou inclinez votre héros → attachez cette carte à votre héros.",
+        "traits": "Art."
+    },
+    {
+        "code": "60123",
+        "name": "Poterie Inspirante",
+        "text": "Renfort.\nAttachez cette carte au méchant.\nLe personnage attaché gagne Robuste.\n<b>Action de héros</b> : dépensez une ressource [star] ou inclinez votre héros → attachez cette carte à votre héros.",
+        "traits": "Art."
+    },
+    {
+        "code": "60124",
+        "name": "Réplique de Bouclier",
+        "text": "Renfort.\nAttachez cette carte au méchant.\n<b>Réponse forcée</b> : après que cette carte a été attachée à un personnage, donnez-lui une carte d'état Tenace.\n<b>Action de héros</b> : dépensez une ressource [physical] ou inclinez votre héros → attachez cette carte à votre héros.",
+        "traits": "Art."
+    },
+    {
+        "code": "60125",
+        "name": "Paysage Saisissant",
+        "text": "Renfort.\nAttachez cette carte au méchant.\n<b>Réponse forcée</b> : après que cette carte a été attachée à un personnage, sonnez-le.\n<b>Action de héros</b> : dépensez une ressource [energy] ou inclinez votre héros → attachez cette carte à votre héros.",
+        "traits": "Art."
+    },
+    {
+        "code": "60126",
+        "name": "Voleuse d'Art",
+        "text": "<b>Une fois révélée</b> : cherchez un attachement [[Art]] dans le deck Rencontre ou la pile de défausse Rencontre et attachez-le au méchant. Si vous ne pouvez pas le faire, déplacez un attachement [[Art]] d'une identité vers le méchant.\n<hr>[star] <b>Boost</b> : déplacez un attachement [[Art]] d'une identité vers le méchant.",
+        "traits": "Voleur."
+    },
+    {
+        "code": "60127",
+        "name": "Épreuve de Force",
+        "text": "<b>Une fois révélée</b> : vous pouvez dépenser les ressources suivantes : [physical][physical][physical] pour déplacer un attachement [[Art]] du méchant vers votre identité. Sinon, déplacez un attachement [[Art]] d'une identité vers le méchant et cette carte gagne Renfort.",
+        "traits": "Maîtrise."
+    },
+    {
+        "code": "60130",
+        "name": "Véhicule d'Escorte",
+        "text": "Garde. Patrouille.\nSi le nombre de jetons Vitesse sur la manigance principale est d'au moins :\n• 3 – Ce sbire gagne Ténacité.\n• 6 – Ce sbire gagne également Coup Rapide.\n• 9 – Ce sbire gagne également Renfort.",
+        "traits": "Véhicule."
+    },
+    {
+        "code": "60131",
+        "flavor": "« Tu peux aller te rhabiller, Johnny Blaze ! » – Echo",
+        "name": "Camion-Citerne",
+        "text": "[star] Entrave 1[per_hero].\nLe méchant ne peut pas subir de dégâts."
+    },
+    {
+        "code": "60132",
+        "flavor": "Skreeeeeeee !",
+        "name": "Mettre la Gomme",
+        "text": "<b>Une fois révélée</b> : pour chaque jeton Vitesse sur la manigance principale, choisissez :\n• Dépensez 1 ressource de n'importe quel type.\n• Placez 1 menace sur la manigance principale.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60133",
+        "flavor": "« J'espère que vous avez accroché vos ceintures ! » – Iron Fist",
+        "name": "Piétons",
+        "text": "<b>Une fois révélée</b> : pour chaque jeton Vitesse sur la manigance principale, choisissez :\n• Inclinez un personnage que vous contrôlez.\n• Subissez 1 dégât indirect.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60140",
+        "name": "L'Homme-Taureau",
+        "text": "[star] <b>Réponse forcée</b> : après que L'Homme-Taureau a attaqué, placez sur la manigance principale un nombre de menaces égal aux dégâts en excès infligés par cette attaque.<hr>[star] <b>Boost</b> : si cette activation est une attaque, placez sur la manigance principale un nombre de menaces égal aux dégâts en excès infligés par cette attaque.",
+        "traits": "Brute."
+    },
+    {
+        "code": "60141",
+        "name": "Changement d'Adresse",
+        "text": "<b>Une fois révélée</b> : échangez votre manigance principale avec une manigance principale mise de côté, prise au hasard. Placez les menaces de la manigance précédente sur la nouvelle manigance.<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Une fois révélée</b> » de cette carte.",
+        "traits": "Renfort."
+    },
+    {
+        "code": "60143",
+        "flavor": ">Sécurité désactivée.\n>Verrou porte désengagé.",
+        "name": "Passe-Partout",
+        "text": "Attachez cette carte au méchant.\nPermanent.\n[star] <b>Réponse forcée</b> : après que le méchant a manigancé contre vous, attribuez-vous chaque carte de boost de cette activation qui est un [[sbire]], en tant que carte Rencontre face cachée.",
+        "traits": "Objet."
+    },
+    {
+        "code": "60144",
+        "name": "L'Homme Absorbant",
+        "text": "Vilenie.\n\n<b>Interruption forcée</b> : quand L'Homme Absorbant vous attaque, intercalez sous ce sbire la carte du dessus de votre deck. Il gagne +1 ATQ pour cette attaque pour chaque type de ressource différent ([energy], [physical], [mental] et [wild]) parmi les cartes intercalées sous lui.",
+        "traits": "Brute. Élite. Prisonnier."
+    },
+    {
+        "code": "60145",
+        "name": "Baron Zemo",
+        "text": "Vilenie.\nChaque allié avec de la menace sur lui est considéré comme un sbire <b>Trahi</b> ayant une boîte de texte vide. Sa MNG est égale à son CTR de base et il ne subit pas de dégâts consécutifs.\n<i>Une fois révélée</i> — <b>Une fois révélée</b> : placez 1 menace sur un allié qui n'en a pas. Il engage son contrôleur.",
+        "traits": "Élite. Hydra. Prisonnier."
+    },
+    {
+        "code": "60146",
+        "flavor": "Vaisseau, voici les coordonnées du tir !",
+        "name": "Drang",
+        "text": "Vilenie.\n\n[star] <b>Réponse forcée</b> : après que Drang vous a attaqué, placez 1 jeton Salve sur lui. Ensuite, subissez 1 dégât indirect pour chaque jeton Salve sur Drang.",
+        "traits": "Badoon. Élite. Prisonnier."
+    },
+    {
+        "code": "60147",
+        "name": "Mysterio",
+        "text": "Vilenie.\n[star] <b>Réponse forcée</b> : après que Mysterio vous a attaqué, attribuez-vous chaque carte de boost de cette activation qui est une traîtrise, en tant que carte Rencontre face cachée.",
+        "traits": "Criminel. Élite. Prisonnier."
+    },
+    {
+        "code": "60148",
+        "name": "Proxima Minuit",
+        "text": "Vilenie.\n\n<b>Interruption forcée</b> : quand Proxima Minuit vous attaque, choisissez : soit vous placez 1 menace sur la manigance principale, soit Proxima Minuit gagne +2 ATQ pour cette attaque.",
+        "traits": "Ordre Noir. Élite. Prisonnier."
+    },
+    {
+        "code": "60149",
+        "name": "Rhino",
+        "text": "Ténacité. Vilenie.\n[star] Les attaques de Rhino gagnent Déferlement.\n<hr>[star] <b>Boost</b> : donnez une carte d'état Tenace à l'ennemi en cours d'activation.",
+        "traits": "Brute. Élite. Prisonnier."
+    },
+    {
+        "code": "60150",
+        "name": "Emprisonné",
+        "text": "Vous ne pouvez pas contrer, attaquer ou passer sous forme d'alter ego.\n\n<b>Action de héros</b> : dépensez 3 ressources de n'importe quel type ou inclinez des personnages que vous contrôlez pour un total de 3 CTR ou plus → défaussez cette obligation.\n\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Obligation."
+    },
+    {
+        "code": "60152",
+        "flavor": "Sous la direction de J. Jonah Jameson, le Daily Bugle est devenu l'un des journaux les plus lus aux États-Unis.",
+        "name": "Daily Bugle",
+        "text": "<b>Action d'alter ego</b> : inclinez un soutien [[Daily Bugle]] que vous contrôlez → placez 1 jeton Endurance sur ce soutien. <i>(N'importe quel joueur peut déclencher cette capacité).</i>"
+    },
+    {
+        "code": "60157",
+        "flavor": "« J'aimerais beaucoup que votre lectorat puisse entendre ma version de l'histoire. Alors, par où commencer... ? »",
+        "name": "Entretien Exclusif",
+        "text": "Les soutiens [[Daily Bugle]] ne peuvent pas se redresser.\n<b>Une fois révélée</b> : inclinez chaque soutien [[Daily Bugle]]."
+    },
+    {
+        "code": "60158",
+        "name": "Dernières Nouvelles",
+        "text": "<b>Une fois révélée</b> : choisissez :\n• Inclinez un soutien [[Daily Bugle]] (sous le contrôle de n'importe quel joueur) et retirez-lui 1 jeton Endurance.\n• Placez 2 menaces sur la manigance principale.\n<hr>[star] <b>Boost</b> : inclinez un soutien [[Daily Bugle]] (sous le contrôle de n'importe quel joueur).",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60164",
+        "name": "Étreinte de l'Ours",
+        "text": "Attachez cette carte à votre héros si Le Caïd a le trait [[Artiste Martial]]. Sinon, cette carte gagne Renfort.\nUtilisations (3 jetons Prise).\nVous ne pouvez pas passer sous forme d'alter ego.\n<b>Interruption forcée</b> : quand vous êtes censé contrer ou attaquer, retirez 1 jeton Prise de cette carte à la place.",
+        "traits": "Condition."
+    },
+    {
+        "code": "60165",
+        "name": "James Wesley",
+        "text": "<b>Une fois révélée</b> : attachez cette carte au Caïd et donnez-lui une carte de boost face cachée.\n\n<b>Action de héros</b> : défaussez un événement [[Contre]] de votre main → défaussez James Wesley. Le Caïd manigance.\n\n<hr>[star] <b>Boost</b> : attachez cette carte au Caïd.",
+        "traits": "Individu."
+    },
+    {
+        "code": "60166",
+        "name": "Canne du Caïd",
+        "text": "<b>Une fois révélée</b> : attachez cette carte au Caïd. Vous êtes sonné.\n\n<b>Réponse forcée</b> : après que Le Caïd a attaqué et blessé un héros, sonnez ce héros. Si un héros est sonné par cet effet, défaussez cet attachement.\n<hr>[star] <b>Boost</b> : vous êtes sonné. Si vous étiez déjà sonné, subissez 1 dégât.",
+        "traits": "Arme."
+    },
+    {
+        "code": "60167",
+        "name": "Montagne de Muscle",
+        "text": "Attachez cette carte au Caïd s'il a le trait [[Artiste Martial]]. Sinon, cette carte gagne Renfort.\nLe Caïd gagne Riposte 1.\n<b>Interruption forcée</b> : quand Le Caïd est censé subir n'importe quelle quantité de dégâts, placez ces dégâts sur cette carte à la place. Ensuite, s'il y a au moins 8 dégâts dessus, défaussez Montagne de Muscle.",
+        "traits": "Condition."
+    },
+    {
+        "code": "60168",
+        "name": "Vanessa Fisk",
+        "text": "<b>Une fois révélée</b> : attachez cette carte au Caïd. Vous êtes désorienté.\n<b>Action de héros</b> : défaussez un événement [[Attaque]] de votre main → défaussez Vanessa Fisk. Le Caïd vous attaque.\n<hr>[star] <b>Boost</b> : vous êtes désorienté. Si vous étiez déjà désorienté, placez 1 menace sur la manigance principale.",
+        "traits": "Individu."
+    },
+    {
+        "code": "60169",
+        "name": "Black Cat",
+        "text": "Vilenie.\n\nTant qu'elle a au moins 4 menaces sur elle, Black Cat est considérée comme étant une alliée qui subit 2 dégâts consécutifs après qu'elle a attaqué ou contré.\n<b>Action de héros</b> : dépensez une ressource [mental] → placez 1 menace sur cette carte. S'il y a 4 menaces dessus, prenez le contrôle de Black Cat en tant qu'alliée.",
+        "traits": "Voleur. Subordonné."
+    },
+    {
+        "code": "60170",
+        "name": "Diamondback",
+        "text": "Vilenie.\n<b>Interruption forcée</b> : quand Diamondback vous attaque, subissez 1 dégât.\n<hr>[star] <b>Boost</b> : subissez 1 dégât.",
+        "traits": "Criminel. Subordonné."
+    },
+    {
+        "code": "60171",
+        "name": "La Tâche",
+        "text": "Entre en jeu avec 1 jeton Tâche sur lui.\n<b>Interruption forcée</b> : quand La Tâche est censée subir des dégâts d'une attaque, s'il a au moins 1 jeton Tâche sur lui, retirez-lui 1 jeton Tâche et infligez ces dégâts à l'attaquant à la place. Sinon, placez 1 jeton Tâche ici.",
+        "traits": "Criminel. Subordonné."
+    },
+    {
+        "code": "60172",
+        "name": "L'Homme aux Échasses",
+        "text": "Entre en jeu avec 2 jetons Échasse sur lui.\n[star] L'Homme aux Échasses gagne +1 MNG et +1 ATQ pour chaque jeton Échasse sur lui.\n<b>Interruption forcée</b> : quand L'Homme aux Échasses est censé subir n'importe quelle quantité de dégâts, retirez-lui 1 jeton Échasse à la place.",
+        "traits": "Criminel. Subordonné."
+    },
+    {
+        "code": "60173",
+        "flavor": "Le Caïd utilise une mélange de mensonges, de pots-de-vin et de menaces pour parvenir à ses fins.",
+        "name": "L'Influence du Caïd",
+        "text": "<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance place 3 menaces sur la manigance annexe de sa Némésis. Si elle n'est pas en jeu, il la trouve et la révèle."
+    },
+    {
+        "code": "60174",
+        "flavor": "« On est plus fort lorsqu'on travaille ensemble. » – Le Caïd",
+        "name": "Crime Organisé",
+        "text": "Chaque sbire gagne +2 points de vie."
+    },
+    {
+        "code": "60175",
+        "name": "Sac à Malices",
+        "text": "<b>Une fois révélée</b> : révélez une carte prise au hasard dans votre set de Némésis mis de côté. Si aucune carte n'est révélée par cet effet, cette carte gagne Renfort.<hr>[star] <b>Boost</b> : donnez à ce personnage une carte prise au hasard dans votre set de Némésis mis de côté, en tant que carte de boost supplémentaire.",
+        "traits": "Le Caïd."
+    },
+    {
+        "code": "60176",
+        "name": "Haine Implacable",
+        "text": "<b>Une fois révélée</b> : votre sbire Némésis s'active contre vous. Si votre sbire Némésis n'est pas en jeu, trouvez-le et révélez-le. Si vous ne pouvez pas le trouver, trouvez un sbire [[Subordonné]] qui n'est pas en jeu et révélez-le.\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, elle gagne Déferlement.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60177",
+        "name": "Incursion Mystique",
+        "text": "Utilisations (2 jetons Civil).\n\n<b>Action de héros</b> : dépensez les ressources suivantes : [mental] [mental] ou inclinez un héros ou allié que vous contrôlez → retirez 1 jeton Civil de cet environnement (2 jetons à la place si vous avez incliné un personnage [[Mystique]]).",
+        "traits": "Désastre."
+    },
+    {
+        "code": "60178",
+        "name": "Submersion d'un Ferry",
+        "text": "Utilisations (2 jetons Civil).\n\n<b>Action de héros</b> : dépensez les ressources suivantes : [energy] [energy] ou inclinez un héros ou allié que vous contrôlez → retirez 1 jeton Civil de cet environnement (2 jetons à la place si vous avez incliné un personnage [[Aérien]]).",
+        "traits": "Désastre."
+    },
+    {
+        "code": "60179",
+        "name": "Incendie d'un Immeuble",
+        "text": "Utilisations (2 jetons Civil).\n\n<b>Action de héros</b> : dépensez les ressources suivantes : [physical][physical] ou inclinez un héros ou allié que vous contrôlez → retirez 1 jeton Civil de cet environnement (2 jetons à la place si vous avez incliné un personnage qui a une carte d'état Tenace).",
+        "traits": "Désastre."
+    },
+    {
+        "code": "60180",
+        "name": "Effondrement d'un Pont",
+        "text": "[star] Entrave 2[per_hero].\n<b>Réponse forcée</b> : après que n'importe quelle quantité de menaces a été retirée de cette manigance annexe, placez-y 1 menace."
+    },
+    {
+        "code": "60181",
+        "name": "Passants en Danger",
+        "text": "Péril.\n<b>Une fois révélée</b> : placez 1 jeton Civil sur un environnement [[Désastre]]. Si aucun jeton n'a été placé par cet effet, cherchez un environnement [[Désastre]] dans le deck Rencontre ou la pile de défausse Rencontre et révélez-le.<hr>[star] <b>Boost</b> : placez 1 jeton Civil sur un environnement [[Désastre]]."
+    },
+    {
+        "code": "60182",
+        "flavor": "« Arrêtez-vous immédiatement ! »",
+        "name": "Policier",
+        "text": "Coup Rapide. Vulnérable.\n[star] <b>Interruption forcée</b> : quand le Policier est censé manigancer, il attaque le méchant à la place.\n<b>Une fois vaincu</b> : placez 2 menaces sur la manigance principale.",
+        "traits": "Police."
+    },
+    {
+        "code": "60183",
+        "name": "Policier Véreux",
+        "text": "Coup Rapide. Vulnérable.\n<b>Une fois vaincu</b> : le joueur qui a vaincu ce sbire s'attribue une carte Rencontre face cachée.\n<hr>[star] <b>Boost</b> : infligez 2 dégâts indirects.",
+        "traits": "Criminel. Police."
+    },
+    {
+        "code": "60184",
+        "name": "Recherché",
+        "text": "<b>Action de héros</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un sbire [[Police]] soit défaussé et mettez-le en jeu engagé avec vous. Défaussez cette obligation.",
+        "traits": "Obligation."
+    },
+    {
+        "code": "60185",
+        "flavor": "« Reculez ! C'est une scène de crime. » – Agent de Police",
+        "name": "Cordon de Police",
+        "text": "[star] Entrave 1[per_hero].\nChaque sbire [[Police]] gagne Garde et Patrouille.\n<b>Une fois révélée</b> : cherchez un sbire [[Police]] dans le deck Rencontre ou la pile de défausse Rencontre et révélez-le."
+    },
+    {
+        "code": "60186",
+        "name": "Voiture de Sport",
+        "text": "Attachez cette carte à l'ennemi ayant l'ATQ la plus élevée et qui n'a pas d'attachement [[Véhicule]]. Sinon, cette carte gagne Renfort.\n<b>Interruption forcée</b> : quand le personnage attaché est censé subir n'importe quelle quantité de dégâts, placez-les sur cette carte à la place. S'il y a au moins 4 dégâts sur la Voiture de Sport, défaussez-la.",
+        "traits": "Véhicule."
+    },
+    {
+        "code": "60187",
+        "name": "Moto",
+        "text": "Attachez cette carte à l'ennemi ayant la MNG la plus élevée et qui n'a pas d'attachement [[Véhicule]]. Sinon, cette carte gagne Renfort.\n<b>Interruption forcée</b> : quand le personnage attaché est censé subir n'importe quelle quantité de dégâts, placez-les sur cette carte à la place. S'il y a au moins 3 dégâts sur la Moto, défaussez-la.",
+        "traits": "Véhicule."
+    },
+    {
+        "code": "60188",
+        "name": "Fourgon Utilitaire",
+        "text": "Attachez cette carte à l'ennemi ayant le moins de points de vie restants et qui n'a pas d'attachement [[Véhicule]]. Sinon, cette carte gagne Renfort.\n<b>Interruption forcée</b> : quand le personnage attaché est censé subir n'importe quelle quantité de dégâts, placez-les sur cette carte à la place. S'il y a au moins 6 dégâts sur le Fourgon Utilitaire, défaussez-le.",
+        "traits": "Véhicule."
+    },
+    {
+        "code": "60189",
+        "name": "Embouteillage",
+        "text": "[star] Entrave 2[per_hero].\n<b>Interruption forcée</b> : quand un personnage ayant un attachement [[VÉHICULE]] est censé :\n• ajouter de la menace à une manigance, cette menace est ajoutée à l'Embouteillage à la place.\n• retirer de la menace d'une manigance, cette menace est retirée de l'Embouteillage à la place."
+    },
+    {
+        "code": "60190",
+        "name": "Vol de Voiture",
+        "text": "<b>Une fois révélée</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un attachement [[Véhicule]] soit défaussé et révélez-le. Si votre identité n'a pas d'attachement [[Véhicule]], vous pouvez dépenser 3 ressources d'un même type pour attacher l'attachement défaussé à votre identité à la place.",
+        "traits": "Traîtrise."
+    },
+    {
+        "code": "60191",
+        "flavor": "« Nous engageons le combat sur mon terrain de prédilection : le ciel ! » – Le Hibou",
+        "name": "Sérum de Vol",
+        "text": "Attachez cette carte à un ennemi non-[[Aérien]]. Sinon, cette carte gagne Renfort.\nL'ennemi attaché gagne [[Aérien]].\n<b>Action de héros</b> : défaussez un événement <b>Attaque</b> de votre main → défaussez cet attachement.",
+        "traits": "Super-pouvoir."
+    },
+    {
+        "code": "60192",
+        "flavor": "« Personne ne se moque de Monsieur Poisson ! »",
+        "name": "Monsieur Poisson",
+        "text": "[star] Les attaques de Monsieur Poisson gagnent Perçant et À Distance.\n<b>Une fois révélée</b> : Monsieur Poisson engage le joueur dont l'identité a le moins de points de vie restants.",
+        "traits": "Criminel. Maggia."
+    },
+    {
+        "code": "60193",
+        "name": "Le Hibou",
+        "text": "Coup Rapide.\n[star] Les attaques du Hibou gagnent Perçant.<hr>[star] <b>Boost</b> : si cette activation est une attaque, elle gagne Perçant.",
+        "traits": "Aérien. Criminel."
+    },
+    {
+        "code": "60194",
+        "name": "Descente en Piqué",
+        "text": "<b>Une fois révélée (alter ego)</b> : le méchant et chaque sbire engagé avec vous manigancent. Chaque ennemi [[Aérien]] gagne +2 MNG pour cette activation.\n<b>Une fois révélée (héros)</b> : le méchant et chaque sbire engagé avec vous vous attaquent. Chaque ennemi [[Aérien]] gagne +2 ATQ pour cette activation."
+    },
+    {
+        "code": "60195",
+        "flavor": "« Je le ferai parler » – Tombstone",
+        "name": "Froid Comme la Glace",
+        "text": "Attachez cette carte au sbire ayant les points de vie de base les plus élevés et donnez-lui une carte d'état Tenace. Sinon, cette carte gagne Renfort.\n<b>Réponse forcée</b> : après que le sbire attaché a manigancé, désorientez l'identité du premier joueur et défaussez Froid Comme la Glace.",
+        "traits": "Attachement."
+    },
+    {
+        "code": "60196",
+        "name": "Dur Comme le Marbre",
+        "text": "Attachez cette carte au sbire ayant les points de vie de base les plus élevés et donnez-lui une carte d'état Tenace. Sinon, cette carte gagne Renfort.\n<b>Réponse forcée</b> : après que le sbire attaché a attaqué, sonnez le personnage attaqué et défaussez Dur Comme le Marbre.",
+        "traits": "Attachement."
+    },
+    {
+        "code": "60197",
+        "name": "Le Scarabée",
+        "text": "Vilenie.\n<b>Une fois révélée</b> : cherchez dans le deck Rencontre ou la pile de défausse Rencontre un attachement pouvant être attaché à un sbire et attachez-le au Scarabée.",
+        "traits": "Aérien. Criminel."
+    },
+    {
+        "code": "60198",
+        "flavor": "En fin de compte, voilà ce que j'aime : une bonne bagarre !",
+        "name": "Tombstone",
+        "text": "Coup Rapide.<hr>[star] <b>Boost</b> : donnez une carte d'état Tenace au méchant.",
+        "traits": "Criminel."
+    },
+    {
+        "code": "60199",
+        "name": "Personnes à Abattre",
+        "text": "<b>Réponse forcée</b> : après le début de la phase du Méchant, infligez 3 dégâts indirects au premier joueur. Pour chaque allié ainsi vaincu, retirez 1[per_hero] menace de cette manigance annexe."
+    },
+    {
+        "code": "60200",
+        "name": "Ivan Banionis",
+        "text": "Collaboration ([[Survêtes]]).\n<b>Une fois révélée</b> : placez 1 pion Accélération sur ce sbire.\n[star] <b>Réponse forcée</b> : après qu'Ivan Banionis a manigancé, placez 1 pion Accélération sur lui.",
+        "traits": "Criminel. Survêtes."
+    },
+    {
+        "code": "60201",
+        "flavor": "« ... »",
+        "name": "Kazimierz le Clown",
+        "text": "Collaboration ([[Survêtes]]). Vilenie.\n[star] <b>Réponse forcée</b> : après que Kazimierz le Clown a manigancé, donnez-lui 1 carte de boost face cachée.",
+        "traits": "Assassin. Survêtes."
+    },
+    {
+        "code": "60202",
+        "name": "Mafieux des Survêtes",
+        "text": "Riposte 2. Collaboration ([[Survêtes]]). Vulnérable.\n<b>Une fois vaincu</b> : intercalez cette carte sous la manigance annexe Mafia des Survêtes. Sinon, sonnez et désorientez le personnage qui a vaincu le Mafieux des Survêtes.",
+        "traits": "Criminel. Survêtes."
+    },
+    {
+        "code": "60203",
+        "flavor": "« Mon pote ? »",
+        "name": "Pote des Survêtes",
+        "text": "Collaboration ([[Survêtes]]). Vulnérable.\n<b>Une fois vaincu</b> : intercalez cette carte sous la manigance annexe Mafia des Survêtes. Sinon, mélangez cette carte dans le deck Rencontre.",
+        "traits": "Criminel. Survêtes."
+    },
+    {
+        "code": "60204",
+        "name": "Mafia des Survêtes",
+        "text": "<b>Une fois révélée</b> : défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire [[Survêtes]] soit défaussé et intercalez-le sous cette manigance.\n<b>Réponse forcée</b> : après qu'un joueur a révélé un sbire [[Survêtes]] du deck Rencontre, ce joueur révèle 1 sbire intercalé sous cette manigance."
+    },
+    {
+        "code": "60068a",
+        "name": "Colonne Enrobée d'Adamantium",
+        "text": "Permanent.\n<b>Interruption forcée</b> : quand Bullseye est censé subir des dégâts, prévenez tous ces dégâts sauf 3. Placez sur cet attachement les dégâts prévenus. Ensuite, s'il y a au moins 6 dégâts dessus, retournez-le.",
+        "traits": "Tech."
+    },
+    {
+        "code": "60068b",
+        "name": "Colonne Endommagée",
+        "text": "Permanent.\n\n[star] <b>Réponse forcée</b> : après que Bullseye a manigancé, retirez 3 dégâts de cet attachement. Ensuite, s'il n'y a pas de dégâts dessus, retournez-le.",
+        "traits": "Tech."
+    },
+    {
+        "code": "60110a",
+        "flavor": "Il est temps que je vous livre mon histoire. Celle de ma vie. De la manière dont je souhaite la raconter.",
+        "name": "Mary Typhoïde",
+        "text": "<b>Interruption forcée</b> : quand Mary Typhoïde est censée être vaincue, placez 1 pion Dégât sur Psyché Perturbée à la place et réinitialisez ses points de vie à 10[per_hero].",
+        "traits": "Mutant. Psionique. Subordonné."
+    },
+    {
+        "code": "60110b",
+        "flavor": "« Je ne laisserai plus jamais personne nous faire du mal. »",
+        "name": "Bloody Mary",
+        "text": "<b>Interruption forcée</b> : quand Bloody Mary est censée être vaincue, placez 1 pion Dégât sur Psyché Perturbée à la place et réinitialisez ses points de vie à 10[per_hero].",
+        "traits": "Mutant. Psionique. Subordonné."
+    },
+    {
+        "code": "60111a",
+        "flavor": "« Il est temps que je vous livre mon histoire. Celle de ma vie. De la manière dont je souhaite la raconter. »",
+        "name": "Mary Typhoïde",
+        "text": "Ténacité.\n\n<b>Interruption forcée</b> : quand Mary Typhoïde est censée être vaincue, placez 1 pion Dégât sur Psyché Perturbée à la place et réinitialisez ses points de vie à 13[per_hero].",
+        "traits": "Mutant. Psionique. Subordonné."
+    },
+    {
+        "code": "60111b",
+        "flavor": "Je ne laisserai plus jamais personne nous faire du mal.",
+        "name": "Bloody Mary",
+        "text": "<b>Une fois révélée</b> : infligez 1 dégât à chaque identité.\n<b>Interruption forcée</b> : quand Bloody Mary est censée être vaincue, placez 1 pion Dégât sur Psyché Perturbée à la place et réinitialisez ses points de vie à 13[per_hero].",
+        "traits": "Mutant. Psionique. Subordonné."
+    },
+    {
+        "code": "60113a",
+        "flavor": "« Mary, c'est moi. Je ne veux pas vous combattre. » – Matt Murdock",
+        "name": "Gagner la Confiance",
+        "text": "Permanent. Mise en Place.\n[star] En mode expert, cette carte gagne Entrave 3[per_hero].\n<b>Une fois déjouée</b> : placez 1 pion Menace sur Psyché Perturbée. Retournez cette manigance annexe."
+    },
+    {
+        "code": "60113b",
+        "flavor": "L'une de nous est douce, l'une de nous ne l'est pas, et l'une de nous sait se venger.",
+        "name": "Mary Walker",
+        "text": "Attachez cette carte au méchant. Permanent.\n[star] Le méchant attaché ne peut pas s'activer.\n<b>Réponse forcée</b> : après que le méchant a subi des dégâts ou après que le round s'est terminé, attribuez à chaque joueur 1 carte Rencontre face cachée et retournez cet attachement.",
+        "traits": "Individu."
+    },
+    {
+        "code": "60121a",
+        "name": "Cambriolage du Musée d'Art",
+        "text": "<b>Contenu</b> : le méchant [[Subordonné]] (voir le Livret de Règles, page 5). Le set du méchant. Les sets Cambriolage du Musée d'Art et Standard. Deux sets modulaires (Policiers et Le Hibou).\n\n<b>Mise en place</b> : trouvez les 4 attachements [[Art]] du set Cambriolage du Musée d'Art, prenez-en 1 au hasard et attachez-le au méchant. Mélangez les 3 autres dans le deck Rencontre."
+    },
+    {
+        "code": "60121b",
+        "name": "Cambriolage du Musée d'Art",
+        "text": "[star] X est le nombre d'attachements [[Art]] sur le méchant plus 1.\n<b>Réponse forcée</b> : après qu'un ennemi a effectué une attaque non défendue contre une identité, attachez au méchant 1 attachement [[Art]] de cette identité.\nSi ce stade est achevé, les joueurs perdent la partie."
+    },
+    {
+        "code": "60128a",
+        "name": "La Poursuite",
+        "text": "<b>Contenu</b> : le méchant [[Subordonné]] (voir le Livret de Règles, page 5). Le set du méchant. Les sets La Poursuite et Standard. Deux sets modulaires (Policiers et Conduite).\n<b>Mise en place</b> : placez 1 jeton Vitesse sur cette manigance (2 jetons à la place en mode expert). Attachez au méchant l'attachement En Tête (129A)."
+    },
+    {
+        "code": "60128b",
+        "name": "La Poursuite",
+        "text": "<b>Interruption forcée</b> : quand le round se termine, s'il y a de la menace sur cette manigance, effectuez ce qui suit :\n1. Placez 1 jeton Vitesse sur cette manigance.\n2. Si Roue Contre Roue est en jeu, retournez-la, face En Tête visible. Sinon, placez 1 jeton Vitesse supplémentaire sur cette manigance.\nSi ce stade est achevé, les joueurs perdent la partie."
+    },
+    {
+        "code": "60129a",
+        "name": "En Tête",
+        "text": "Permanent. Attachez cette carte au méchant.\nS'il n'y a pas de menace sur la manigance principale, retournez cet attachement.\n[star] Les attaques du méchant attaché gagnent À Distance.\n<b>Interruption forcée</b> : quand le méchant est censé subir n'importe quelle quantité de dégâts, retirez la même quantité de menace de la manigance principale à la place <i>(en ignorant les icônes de crise [crisis])</i>.",
+        "traits": "Attachement."
+    },
+    {
+        "code": "60129b",
+        "flavor": "Rouler dans les rues de New York City n'est pas sans risque.",
+        "name": "Roue Contre Roue",
+        "text": "<b>Une fois révélée</b> : chaque joueur subit 1 dégât indirect. Le méchant subit 2[per_hero] dégâts.",
+        "traits": "Permanent."
+    },
+    {
+        "code": "60134a",
+        "name": "Racket en Bande Organisée",
+        "text": "<b>Contenu</b> : le méchant [[Subordonné]] <i>(voir le Livret de Règles, page 5)</i>. Le set du méchant. Les sets Racket en Bande Organisée et Standard. Deux sets modulaires <i>(Désastres et Mafia des Survêtes)</i>.\n<b>Mise en place</b> : chaque joueur choisit une seule manigance principale Racket en Bande Organisée (il la sélectionne aléatoirement en mode expert), la place dans sa zone de jeu, et la retourne pour afficher sa face 1B. Mettez de côté chaque manigance principale inutilisée, hors jeu."
+    },
+    {
+        "code": "60134b",
+        "name": "Combat dans la Supérette",
+        "text": "<b>Réponse forcée</b> : après qu'un personnage dans cette zone de jeu a été attaqué, infligez 1 dégât à l'attaquant et placez 1 menace sur cette manigance. (Limite d'une fois par phase en mode standard.)\nSi n'importe quelle manigance principale est achevée ou que n'importe quel joueur est éliminé, les joueurs perdent la partie."
+    },
+    {
+        "code": "60135a",
+        "name": "RACKET EN BANDE ORGANISÉE",
+        "text": "<b>Contenu</b> : le méchant [[Subordonné]] <i>(voir le Livret de Règles, page 5)</i>. Le set du méchant. Les sets Racket en Bande Organisée et Standard. Deux sets modulaires <i>(Désastres et Mafia des Survêtes)</i>.\n<b>Mise en place</b> : chaque joueur choisit une seule manigance principale Racket en Bande Organisée (il la sélectionne aléatoirement en mode expert), la place dans sa zone de jeu, et la retourne pour afficher sa face 1B. Mettez de côté chaque manigance principale inutilisée, hors jeu."
+    },
+    {
+        "code": "60135b",
+        "name": "Un Taureau dans un Magasin de Porcelaine",
+        "text": "<b>Interruption forcée</b> : quand des dégâts en excès sont infligés à un allié <i>(à un allié ou à un sbire en mode expert)</i> dans cette zone de jeu, placez un nombre équivalent de menaces sur cette manigance.\nSi n'importe quelle manigance principale est achevée ou que n'importe quel joueur est éliminé, les joueurs perdent la partie."
+    },
+    {
+        "code": "60136a",
+        "name": "Racket en Bande Organisée",
+        "text": "<b>Contenu</b> : le méchant [[Subordonné]] <i>(voir le Livret de Règles, page 5)</i>. Le set du méchant. Les sets Racket en Bande Organisée et Standard. Deux sets modulaires <i>(Désastres et Mafia des Survêtes)</i>.\n<b>Mise en place</b> : chaque joueur choisit une seule manigance principale Racket en Bande Organisée (il la sélectionne aléatoirement en mode expert), la place dans sa zone de jeu, et la retourne pour afficher sa face 1B. Mettez de côté chaque manigance principale inutilisée, hors jeu."
+    },
+    {
+        "code": "60136b",
+        "flavor": "« Ça va, arrête de t'agiter, c'est sur le cycle doux. » – Jessica Jones",
+        "name": "Mis à Sécher",
+        "text": "<b>Réponse forcée</b> : après qu'un personnage est entré en jeu dans cette zone de jeu, infligez-lui 1 dégât et placez 1 menace sur cette manigance.\nSi n'importe quelle manigance principale est achevée ou que n'importe quel joueur est éliminé, les joueurs perdent la partie."
+    },
+    {
+        "code": "60137a",
+        "name": "Racket en Bande Organisée",
+        "text": "<b>Contenu</b> : le méchant [[Subordonné]] <i>(voir le Livret de Règles, page 5)</i>. Le set du méchant. Les sets Racket en Bande Organisée et Standard. Deux sets modulaires <i>(Désastres et Mafia des Survêtes)</i>.\n<b>Mise en place</b> : chaque joueur choisit une seule manigance principale Racket en Bande Organisée (il la sélectionne aléatoirement en mode expert), la place dans sa zone de jeu, et la retourne pour afficher sa face 1B. Mettez de côté chaque manigance principale inutilisée, hors jeu."
+    },
+    {
+        "code": "60137b",
+        "name": "Rixe Chez le Prêteur sur Gages",
+        "text": "Réduisez de 1 le coût de la première amélioration jouée dans cette zone de jeu à chaque round.\n<b>Réponse forcée</b> : après qu'un attachement ou une amélioration est entré en jeu dans cette zone de jeu, placez 1 menace sur cette manigance.\nSi n'importe quelle manigance principale est achevée ou que n'importe quel joueur est éliminé, les joueurs perdent la partie."
+    },
+    {
+        "code": "60138a",
+        "name": "Racket en Bande Organisée",
+        "text": "<b>Contenu</b> : le méchant [[Subordonné]] <i>(voir le Livret de Règles, page 5)</i>. Le set du méchant. Les sets Racket en Bande Organisée et Standard. Deux sets modulaires <i>(Désastres et Mafia des Survêtes)</i>.\n<b>Mise en place</b> : chaque joueur choisit une seule manigance principale Racket en Bande Organisée (il la sélectionne aléatoirement en mode expert), la place dans sa zone de jeu, et la retourne pour afficher sa face 1B. Mettez de côté chaque manigance principale inutilisée, hors jeu."
+    },
+    {
+        "code": "60138b",
+        "name": "Pour une Part de Pizza de Plus",
+        "text": "<b>Réponse forcée</b> : après qu'un personnage dans cette zone de jeu a vaincu un autre personnage ou déjoué une manigance annexe <i>(dans n'importe quelle zone de jeu)</i>, soignez-le de 1 dégât et placez 1 menace sur cette manigance.\nSi n'importe quelle manigance principale est achevée ou que n'importe quel joueur est éliminé, les joueurs perdent la partie."
+    },
+    {
+        "code": "60142a",
+        "name": "L'Évasion du Raft",
+        "text": "<b>Contenu</b> : le méchant [[Subordonné]] (voir le Livret de Règles, page 5). Le set du méchant. Les sets L'Évasion du Raft et Standard. Deux sets modulaires (Le Hibou et Tombstone).\n<b>Mise en place</b> : attachez le Passe-Partout au méchant. Chaque joueur défausse des cartes du deck Rencontre jusqu'à ce qu'il défausse un sbire [[Prisonnier]], puis le révèle."
+    },
+    {
+        "code": "60142b",
+        "flavor": "« Sortez et détruisez tout ! »\n– Proxima Minuit",
+        "name": "L'Évasion du Raft",
+        "text": "Chaque sbire gagne :\n« <b>Une fois vaincu</b> : retirez 1 menace de la manigance principale (2 menaces à la place si le sbire a le trait [[Élite]]). »\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "60151a",
+        "name": "Arrêtez les Rotatives !",
+        "text": "<b>Contenu</b> : le méchant [[Subordonné]] (voir le Livret de Règles, page 5). Le set du méchant. Les sets Arrêtez les Rotatives ! et Standard. Deux sets modulaires (Tombstone et Mafia des Survêtes).\n<b>Mise en place</b> : mettez en jeu l'environnement Daily Bugle. Chaque joueur prend au hasard un soutien [[Daily Bugle]] et le met en jeu sous son contrôle. Retirez de la partie chaque soutien [[Daily Bugle]] restant."
+    },
+    {
+        "code": "60151b",
+        "name": "Arrêtez les Rotatives !",
+        "text": "<b>Réponse forcée</b> : après qu'un ennemi a effectué une attaque non défendue contre vous, choisissez :\n• Placez 2 menaces sur cette manigance (3 menaces à la place en mode expert).\n• Retirez 1 jeton Endurance d'un soutien [[Daily Bugle]] que vous contrôlez.\n<b>Si un soutien [[Daily Bugle]] quitte le jeu ou si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "60159a",
+        "name": "Le Caïd",
+        "text": "Robuste.\nLe Caïd ne peut pas subir de dégâts ni avoir d'améliorations attachées. <i>(Les joueurs doivent récupérer le Soutien des Citoyens pour l'affronter directement.)</i>\n<b>Interruption forcée</b> : quand Le Caïd est censé vous attaquer, il manigance à la place.",
+        "traits": "Criminel."
+    },
+    {
+        "code": "60159b",
+        "name": "Le Caïd",
+        "text": "Solide.\n\n[star] <b>Interruption forcée</b> : quand Le Caïd s'active contre vous, si vous n'êtes pas engagé avec un sbire, donnez 1 carte de boost supplémentaire au Caïd pour cette activation.",
+        "traits": "Criminel. Artiste Martial."
+    },
+    {
+        "code": "60160a",
+        "name": "Le Caïd",
+        "text": "Robuste.\nLe Caïd ne peut pas subir de dégâts ni avoir d'améliorations attachées. <i>(Les joueurs doivent récupérer le Soutien des Citoyens pour l'affronter directement.)</i>\n[star] <b>Interruption forcée</b> : quand Le Caïd est censé vous attaquer, il manigance à la place.",
+        "traits": "Criminel."
+    },
+    {
+        "code": "60160b",
+        "name": "Le Caïd",
+        "text": "Solide.\n\n[star] <b>Interruption forcée</b> : quand Le Caïd s'active contre vous, si vous n'êtes pas engagé avec un sbire, donnez 1 carte de boost supplémentaire au Caïd pour cette activation et cette activation gagne Déferlement s'il s'agit d'une attaque.",
+        "traits": "Criminel. Artiste Martial."
+    },
+    {
+        "code": "60161a",
+        "name": "Le Gambit du Roi",
+        "text": "<b>Contenu</b> : Le Caïd (A1). <i>(Le Caïd (B1) en mode expert.)</i> Le set de rencontre du Caïd. Deux sets de rencontre modulaires (<i>Tombstone</i> et <i>Mafia des Survêtes</i>).\n<b>Mise en place</b> : chaque joueur révèle son sbire Némésis mis de côté. Chaque joueur dont le sbire Némésis partage un titre avec un personnage en jeu retire son sbire Némésis de la partie à la place. Ensuite, il trouve un sbire [[SUBORDONNÉ]] qui n'est pas en jeu et le révèle."
+    },
+    {
+        "code": "60161b",
+        "name": "Le Gambit du Roi",
+        "text": "<b>Une fois révélée</b> : mettez en jeu le Soutien des Citoyens, face [[BAS]] visible.\n<b>Action de héros</b> : retirez 5 menaces de cette manigance (4 menaces à la place en mode expert). Mélangez la pile de défausse Rencontre dans le deck Rencontre, puis défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire soit défaussé. Révélez ce sbire.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "60162a",
+        "flavor": "« Assez joué. Je veux qu'on en finisse avec ces bons samaritains. Définitivement ! » – Le Caïd",
+        "name": "Fin de la Partie",
+        "text": "<b>Une fois révélée</b> : chaque joueur trouve son sbire Némésis et le révèle. Chaque joueur dont le sbire Némésis n'est pas entré en jeu par cet effet trouve un sbire [[Subordonné]] qui n'est pas en jeu et le révèle. En mode expert, le premier joueur trouve et révèle la manigance annexe Crime Organisé."
+    },
+    {
+        "code": "60162b",
+        "flavor": "« Vous, les supposés héros, vous avez été une épine dans notre pied depuis trop longtemps. Ensemble, nous vous détruirons et nous régnerons sur cette ville ! » – Le Caïd",
+        "name": "Fin de la Partie",
+        "text": "Chaque sbire gagne Garde.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "60163a",
+        "name": "Le Caïd",
+        "text": "<b>Réponse forcée</b> : après qu'un sbire a été vaincu, placez 1 jeton Soutien sur cet environnement.\n\n<b>Interruption forcée</b> : quand la phase du Méchant commence, s'il y a au moins 2[per_hero]+2 jetons Soutien sur cet environnement, retournez Le Caïd et passez au stade 2A de la manigance principale. Ensuite, retournez cet environnement.",
+        "traits": "Bas."
+    },
+    {
+        "code": "60163b",
+        "flavor": "« C'est tellement gentil de leur part de montrer un peu de gratitude ! Pour une fois. » – Jessica Jones",
+        "name": "Soutien des Citoyens",
+        "text": "<b>Interruption</b> : quand un ennemi est censé recevoir une carte de boost face cachée, retirez 1[per_hero] jeton Soutien de cet environnement à la place.\n\n<b>Réponse forcée</b> : après qu'un sbire a été vaincu, placez 1 jeton Soutien sur cet environnement.",
+        "traits": "Élevé."
+    },
+    {
+        "code": "60205a",
+        "flavor": "Vous êtes inspiré par les œuvres d'art que vous avez réussi à sauver du cambriolage.",
+        "name": "Cambriolage du Musée d'Art",
+        "text": "<b>Mise en place</b> : donnez à chaque identité une carte d'état Tenace.",
+        "traits": "Achevé."
+    },
+    {
+        "code": "60205b",
+        "flavor": "Vous êtes démoralisé par votre incapacité à empêcher le vol des œuvres d'art.",
+        "name": "Cambriolage du Musée d'Art",
+        "text": "<b>Mise en place</b> : chaque joueur choisit de sonner ou de désorienter son identité (en mode expert, faites les deux à la place).",
+        "traits": "Échoué."
+    },
+    {
+        "code": "60206a",
+        "flavor": "La banque vous récompense d'une forte somme pour vous remercier d'avoir récupéré l'argent volé.",
+        "name": "La Poursuite",
+        "text": "<b>Mise en place</b> : après avoir résolu les mulligans, chaque joueur peut chercher une amélioration dans son deck ou sa pile de défausse et l'ajouter à sa main. En mode expert, chaque joueur qui l'a fait défausse 1 carte de sa main.",
+        "traits": "Achevé."
+    },
+    {
+        "code": "60206b",
+        "flavor": "Vos ennemis se sont servis de leurs biens mal acquis pour améliorer leur arsenal.",
+        "name": "La Poursuite",
+        "text": "En mode expert, les attachements en jeu ne peuvent pas être défaussés lors du premier round.\n\n<b>Mise en place</b> : chaque joueur cherche un attachement dans le deck Rencontre et le révèle. Attribuez une carte Rencontre face cachée à chaque joueur qui n'a pas pu le faire.",
+        "traits": "Échoué."
+    },
+    {
+        "code": "60207a",
+        "flavor": "Vous vous êtes battus pour protéger les commerces du quartier, ce qui a donné à ses habitants le courage de s'allier et de résister.",
+        "name": "Racket en Bande Organisée",
+        "text": "<b>Mise en place</b> : après avoir résolu les mulligans, chaque joueur peut chercher un soutien dans son deck ou sa pile de défausse et l'ajouter à sa main. En mode expert, chaque joueur qui l'a fait défausse 1 carte de sa main.",
+        "traits": "Achevé."
+    },
+    {
+        "code": "60207b",
+        "flavor": "Les habitants du quartier ne vous aideront pas : ils sont trop effrayés par les menaces qui pèsent sur les commerces du voisinage.",
+        "name": "Racket en Bande Organisée",
+        "text": "<b>Mise en place</b> : chaque joueur choisit et défausse 1 carte de sa main (2 cartes à la place en mode expert)."
+    },
+    {
+        "code": "60208a",
+        "flavor": "Grâce à l'aide que vous avez apportée dans la sécurisation du Raft, vous avez libéré d'autres héros qui vous aideront à neutraliser le prochain méchant.",
+        "name": "L'Évasion du Raft",
+        "text": "<b>Mise en place</b> : après avoir résolu les mulligans, chaque joueur peut chercher un allié dans son deck ou sa pile de défausse et l'ajouter à sa main. En mode expert, chaque joueur qui l'a fait défausse 1 carte de sa main.",
+        "traits": "Achevé."
+    },
+    {
+        "code": "60208b",
+        "flavor": "À cause de votre incompétence, beaucoup de dangereux fugitifs sont parvenus à s'enfuir du Raft.",
+        "name": "L'Évasion du Raft",
+        "text": "<b>Mise en place</b> : mélangez dans le deck Rencontre chaque sbire du set de rencontre l'Évasion du Raft (en mode expert, attribuez aléatoirement 1 de ces sbires à chaque joueur en tant que carte Rencontre face cachée, avant de mélanger le reste).",
+        "traits": "Échoué."
+    },
+    {
+        "code": "60209a",
+        "flavor": "J. Jonah Jameson a promis que la rédaction du Daily Bugle vous exprimera sa gratitude pour avoir sauvé le journal. N'espérez pas que ça dure.",
+        "name": "Arrêtez les Rotatives !",
+        "text": "<b>Mise en place</b> : chaque joueur met en jeu 1 soutien [[Daily Bugle]] (qui n'a pas été retiré de la campagne) du set de rencontre Arrêtez les Rotatives !.",
+        "traits": "Achevé."
+    },
+    {
+        "code": "60209b",
+        "flavor": "Suite aux actes de vandalisme perpétrés dans les bureaux du Daily Bugle, aucun média de cette ville n'aura le courage de vous aider dans vos efforts pour endiguer la vague de criminalité. Pire encore, vous suspectez que certains d'entre eux collaborent avec les criminels.",
+        "name": "Arrêtez les Rotatives !",
+        "text": "<b>Mise en place</b> : attribuez 1 carte Rencontre face cachée à chaque joueur (2 cartes Rencontre à la place en mode expert).",
+        "traits": "Échoué."
     }
 ]
