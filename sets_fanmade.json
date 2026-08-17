@@ -1352,20 +1352,6 @@
         "name": "Realms Campaign"
     },
     {
-        "card_set_type_code": "nemesis",
-        "code": "daredevil_by_ffg_nemesis",
-        "name": "Daredevil Nemesis",
-        "parent_code": "daredevil_by_ffg",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "nemesis",
-        "code": "echo_by_ffg_nemesis",
-        "name": "Echo Nemesis",
-        "parent_code": "echo_by_ffg",
-        "status": "released"
-    },
-    {
         "card_set_type_code": "hero",
         "code": "jessica_jones_by_ffg",
         "name": "Jessica Jones",
@@ -1944,5 +1930,110 @@
         "card_set_type_code": "modular",
         "code": "ninja_by_ffg",
         "name": "Ninja"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "daredevil_by_ffg_nemesis",
+        "name": "Daredevil Nemesis"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "echo_by_ffg_nemesis",
+        "name": "Echo Nemesis"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "bullseye_by_ffg",
+        "name": "Bullseye"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "electro_by_ffg",
+        "name": "Electro"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "hammerhead_by_ffg",
+        "name": "Hammerhead"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "purple_man_by_ffg",
+        "name": "Purple Man"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "typhoid_mary_by_ffg",
+        "name": "Typhoid Mary"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "art_museum_heist_by_ffg",
+        "name": "Art Museum Heist"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "the_getaway_by_ffg",
+        "name": "The Getaway"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "protection_racket_by_ffg",
+        "name": "Protection Racket"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "fear_no_evil_by_ffg",
+        "name": "Fear No Evil"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "the_raft_breakout_by_ffg",
+        "name": "The Raft Breakout"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "stop_the_presses_by_ffg",
+        "name": "Stop The Presses!"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "kingpin_by_ffg",
+        "name": "Kingpin"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "disasters_by_ffg",
+        "name": "Disasters"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "cops_by_ffg",
+        "name": "Cops"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "drive_by_ffg",
+        "name": "Drive"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "the_owl_by_ffg",
+        "name": "The Owl"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "tombstone_by_ffg",
+        "name": "Tombstone"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "tracksuit_mafia_by_ffg",
+        "name": "Tracksuit Mafia"
+    },
+    {
+        "card_set_type_code": "campaign",
+        "code": "campaign_by_ffg",
+        "name": "Campaign"
     }
 ]
