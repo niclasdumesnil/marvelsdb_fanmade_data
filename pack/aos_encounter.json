@@ -1246,7 +1246,7 @@
         "resource_physical": 1,
         "set_code": "m.o.d.o.k.",
         "set_position": 6,
-        "text": "Toughness.\nDoes not count against your ally limit.\n<b>Forced Interrupt</b>: After this card leaves play, flip it and place it on the bottom of the Holding Cell deck.",
+        "text": "Toughness.\nDoes not count against your ally limit.\n<b>Forced Response</b>: After this card leaves play, flip it and place it on the bottom of the Holding Cell deck.",
         "thwart": 1,
         "thwart_cost": 1,
         "traits": "Inhuman. Rescued.",
@@ -1578,7 +1578,7 @@
         "scheme": 3,
         "set_code": "scientist_supreme",
         "set_position": 2,
-        "text": "Victory -1. Villainous. Vulnerable. <i>(Discard this character if it is stunned or confused.)</i>\nWhile Scientist Supreme is in the victory display, Monica Rappaccini gains villainous.",
+        "text": "Victory -1. Vulnerable. <i>(Discard this character if it is stunned or confused.)</i>\nWhile Scientist Supreme is in the victory display, Monica Rappaccini gains villainous.",
         "traits": "A.I.M. Genius.",
         "type_code": "minion"
     },
@@ -2198,7 +2198,7 @@
         "scheme": 1,
         "set_code": "supersonic",
         "set_position": 1,
-        "text": "Villainous. Victory 1.\n[star] Each character without the [[Aerial]] trait cannot defend against MACH-IV's attacks.",
+        "text": "Villainous. Victory 1.\n[star] Each character without the [[Aerial]] trait cannot make basic defenses against MACH-IV's attacks.",
         "traits": "Aerial. Elite. Thunderbolt.",
         "type_code": "minion"
     },
