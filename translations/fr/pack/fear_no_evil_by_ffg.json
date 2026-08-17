@@ -346,7 +346,7 @@
     {
         "code": "60154",
         "name": "Betty Brant",
-        "text": "Utilisations (3 jetons Endurance).\n<b>Interruption</b> : quand une carte de boost est retournée face visible, inclinez Betty Brant et retirez-lui 1 jeton Endurance → annulez les icônes de boost et la capacité « <b>Boost</b> » de cette carte. Donnez à l'ennemi en cours d'activation une autre carte de boost pour cette activation.",
+        "text": "Utilisations (3 jetons Endurance).\n<b>Interruption</b> : quand une carte de boost est retournée face visible, inclinez Betty Brant et retirez-lui 1 jeton Endurance → annulez les icônes de boost et la capacité « <b>Boost</b> » de cette carte. Donnez à l'ennemi en cours d'activation une autre carte de boost pour cette activation.",
         "traits": "Daily Bugle. Individu."
     },
     {
@@ -372,7 +372,15 @@
         "code": "60210b",
         "name": "Bloody Mary",
         "subname": "Mary Walker",
-        "text": "Victoire –1.\n[star] <b>Réponse forcée</b> : après avoir révélé une manigance annexe, retirez tous les dégâts sur cette alliée et retournez sa carte.",
+        "text": "Victoire – 1.\n[star] <b>Réponse forcée</b> : après avoir révélé une manigance annexe, retirez tous les dégâts sur cette alliée et retournez sa carte.",
         "traits": "Mutant. Psionique."
+    },
+    {
+        "code": "60051",
+        "flavor": "« C'était ma chemise préférée ! » – Luke Cage"
+    },
+    {
+        "code": "60056",
+        "flavor": "« Mange ces dagues de lumière, sale minable violet ! » – L'Épée"
     }
 ]
