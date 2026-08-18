@@ -33,3 +33,20 @@ python C:/OS-Merlin/projets/mc-services/scripts/validate.py --base-path C:/OS-Me
 - **Fork préservé** avec accès à l'historique et au remote `upstream`.
 - **Brancher AVANT tout développement** — jamais directement sur la branche par défaut.
 - **Push / Déploiement** exige la **confirmation explicite** de l'utilisateur.
+
+---
+
+## 📚 Documentation du projet (dans le vault, pas ici)
+
+- **Technique** (pour qui modifie le code) : `C:\OS-Merlin\memoire\projets\marvelsdb_fanmade_data\doc-technique\`
+- **Utilisation** (pour l'utilisateur) : `C:\OS-Merlin\memoire\projets\marvelsdb_fanmade_data\doc-utilisation\`
+- **Journal des lots** : `C:\OS-Merlin\memoire\projets\marvelsdb_fanmade_data\_cadrage.md`
+
+**Convention impérative : à chaque lot livré, la doc est mise à jour.** Un lot livré sans
+sa doc est un lot incomplet.
+
+Les gabarits, le frontmatter, les règles d'index et les interdits sont portés par le skill
+**`documentation-projet`** — source unique dans le vault
+(`C:\OS-Merlin\memoire\skills\os-merlin\documentation-projet\`), exposé à Claude Code et à
+Gemini. **Le charger avant de rédiger** ; ne jamais recopier ses règles ici, sous peine
+d'avoir autant de conventions divergentes que de projets.
