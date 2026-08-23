@@ -294,6 +294,42 @@
 				"default_setup_pile": "Special",
 				"comment": "Superior Taste — Mettre dans la pile Special (Sense Deck)"
 			}
+		],
+		"scenario_overrides": [
+			{
+				"set_code": "art_museum_heist_by_ffg",
+				"nb_modular": 2,
+				"recommended_modulars": {
+					"cops_by_ffg": [
+						"Cops",
+						"Encounter",
+						false
+					],
+					"the_owl_by_ffg": [
+						"The Owl",
+						"Encounter",
+						false
+					]
+				},
+				"comment": "L'analyse du bloc Contents prenait la phrase de mise en place « Find this encounter set's 4 Art attachments » pour un nom de set, et engendrait un modulaire obligatoire fantôme « find_this » que le moteur aurait cherché en vain. Deux modulaires au choix, aucun obligatoire."
+			},
+			{
+				"set_code": "kingpin_by_ffg",
+				"nb_modular": 2,
+				"recommended_modulars": {
+					"tombstone_by_ffg": [
+						"Tombstone",
+						"Encounter",
+						false
+					],
+					"tracksuit_mafia_by_ffg": [
+						"Tracksuit Mafia",
+						"Encounter",
+						false
+					]
+				},
+				"comment": "L'analyse retenait le set du vilain lui-même comme modulaire obligatoire, alors qu'il est déjà chargé en tant que scénario : il aurait été chargé deux fois. Deux modulaires au choix, aucun obligatoire."
+			}
 		]
 	},
 	"king_in_black_by_ekaugust": {
