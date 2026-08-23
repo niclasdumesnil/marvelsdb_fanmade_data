@@ -17,7 +17,7 @@
         "quantity": 1,
         "set_code": "daredevil_by_ffg",
         "status": "released",
-        "text": "<i>Superhuman Senses</i> — <b>Action</b>: Play the top card of the SENSE deck as if it were in your hand (paying its cost).\n<b>Forced Interrupt</b>: When a [[SENSE]] upgrade would leave play, place it on the bottom of the [[SENSE]] deck instead.",
+        "text": "<i>Superhuman Senses</i> — <b>Action</b>: Play the top card of the [[SENSE]] deck as if it were in your hand (paying its cost).\n<b>Forced Interrupt</b>: When a [[SENSE]] upgrade would leave play, place it on the bottom of the [[SENSE]] deck instead.",
         "thwart": 2,
         "traits": "Defender. Martial Artist.",
         "type_code": "hero"
@@ -39,7 +39,7 @@
         "recover": 3,
         "set_code": "daredevil_by_ffg",
         "status": "released",
-        "text": "Matt Murdock begins the game with a [[SENSE]] deck. (See rulebook p. 26.)\n<b>Forced Interrupt</b>: When a [[SENSE] upgrade would leave play, place it on the bottom of the [[SENSE] deck instead.",
+        "text": "Matt Murdock begins the game with a [[SENSE]] deck. (<i>See rulebook p. 26.</i>)\n<b>Forced Interrupt</b>: When a [[SENSE]] upgrade would leave play, place it on the bottom of the [[SENSE]] deck instead.",
         "traits": "Attorney.",
         "type_code": "alter_ego"
     },
@@ -545,7 +545,7 @@
         "alt_art": true,
         "code": "60025",
         "duplicate_of": "26034",
-        "octgn_id": "0b12d814-614b-4947-a995-f6e6750e86aa",
+        "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060025",
         "pack_code": "fear_no_evil_by_ffg",
         "position": 25,
         "quantity": 3
@@ -1008,7 +1008,7 @@
         "code": "60051",
         "duplicate_of": "32014",
         "flavor": "“That was my favorite shirt!” –Luke Cage",
-        "octgn_id": "47d34c5d-5319-45a9-a2d6-1fb975032014",
+        "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060051",
         "pack_code": "fear_no_evil_by_ffg",
         "position": 51,
         "quantity": 3
@@ -1096,7 +1096,7 @@
         "alt_art": true,
         "code": "60057",
         "duplicate_of": "01088",
-        "octgn_id": "dd796868-b224-4ec0-be8f-46507c86cbef",
+        "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060057",
         "pack_code": "fear_no_evil_by_ffg",
         "position": 57,
         "quantity": 1
@@ -1105,7 +1105,7 @@
         "alt_art": true,
         "code": "60058",
         "duplicate_of": "01089",
-        "octgn_id": "ec9d5930-031c-493c-920b-32d980409567",
+        "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060058",
         "pack_code": "fear_no_evil_by_ffg",
         "position": 58,
         "quantity": 1
@@ -1114,7 +1114,7 @@
         "alt_art": true,
         "code": "60059",
         "duplicate_of": "01090",
-        "octgn_id": "a3fcb7fc-5fbf-4566-b29f-4abdd841e2cc",
+        "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060059",
         "pack_code": "fear_no_evil_by_ffg",
         "position": 59,
         "quantity": 1

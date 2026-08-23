@@ -1652,13 +1652,13 @@
         "name": "Out Front",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060129",
         "pack_code": "fear_no_evil_by_ffg",
+        "permanent": true,
         "position": 129,
         "quantity": 1,
         "set_code": "the_getaway_by_ffg",
         "set_position": 2,
         "status": "released",
         "text": "Permanent. Attach to the villain.\nIf there is no threat on the main scheme, flip this card.\n[star] Attached villain's attacks gain ranged.\n<b>Forced Interrupt</b>: When the villain would be dealt any amount of damage, remove that amount of threat from the main scheme instead <i>(ignoring crisis [crisis] icons)</i>.",
-        "traits": "Attachment.",
         "type_code": "attachment"
     },
     {
@@ -1671,13 +1671,13 @@
         "name": "Alongside",
         "octgn_id": "8bff88d5-017f-44ab-b109-0def9a060129",
         "pack_code": "fear_no_evil_by_ffg",
+        "permanent": true,
         "position": 129,
         "quantity": 1,
         "set_code": "the_getaway_by_ffg",
         "set_position": 2,
         "status": "released",
         "text": "<b>When Revealed</b>: Each player takes 1 indirect damage. The villain takes 2[per_hero] damage.",
-        "traits": "Permanent.",
         "type_code": "attachment"
     },
     {
@@ -3150,7 +3150,6 @@
         "set_position": 1,
         "status": "released",
         "text": "Attach to the minion with the highest base hit points and give that minion a tough status card. Otherwise, this card gains surge.\n<b>Forced Response</b>: After attached minion schemes, confuse the first player's identity and discard Cold as Ice.",
-        "traits": "Attachment.",
         "type_code": "attachment"
     },
     {
@@ -3168,7 +3167,6 @@
         "set_position": 2,
         "status": "released",
         "text": "Attach to the minion with the highest base hit points and give that minion a tough status card. Otherwise, this card gains surge.\n<b>Forced Response</b>: After attached minion attacks, stun the attacked character and discard Hard as Marble.",
-        "traits": "Attachment.",
         "type_code": "attachment"
     },
     {
