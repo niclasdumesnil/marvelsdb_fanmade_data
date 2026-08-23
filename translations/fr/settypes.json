@@ -14,5 +14,9 @@
 	{
 		"code": "leader",
 		"name": "Leader"
+	},
+	{
+		"code": "underling",
+		"name": "Subordonné"
 	}
 ]
