@@ -1867,5 +1867,163 @@
         "name": "Sense Deck",
         "parent_code": "daredevil_by_ffg",
         "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "jessica_jones_by_ffg",
+        "name": "Jessica Jones",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "jessica_jones_by_ffg_nemesis",
+        "name": "Jessica Jones Nemesis",
+        "status": "sealed"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "luke_cage_by_ffg",
+        "name": "Luke Cage"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "daredevil_by_ffg_nemesis",
+        "name": "Daredevil Nemesis",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "echo_by_ffg_nemesis",
+        "name": "Echo Nemesis",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "luke_cage_by_ffg_nemesis",
+        "name": "Luke Cage Nemesis"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "elektra_by_ffg",
+        "name": "Elektra"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "ninja_by_ffg",
+        "name": "Ninja"
+    },
+    {
+        "card_set_type_code": "hero_special",
+        "code": "thor_narrative",
+        "name": "Thor Narrative",
+        "parent_code": "thor"
+    },
+    {
+        "card_set_type_code": "underling",
+        "code": "bullseye_by_ffg",
+        "name": "Bullseye",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "underling",
+        "code": "electro_by_ffg",
+        "name": "Electro",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "underling",
+        "code": "hammerhead_by_ffg",
+        "name": "Hammerhead",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "underling",
+        "code": "purple_man_by_ffg",
+        "name": "Purple Man",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "underling",
+        "code": "typhoid_mary_by_ffg",
+        "name": "Typhoid Mary",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "art_museum_heist_by_ffg",
+        "name": "Art Museum Heist",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "the_getaway_by_ffg",
+        "name": "The Getaway",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "protection_racket_by_ffg",
+        "name": "Protection Racket",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "the_raft_breakout_by_ffg",
+        "name": "The Raft Breakout",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "stop_the_presses_by_ffg",
+        "name": "Stop The Presses!",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "kingpin_by_ffg",
+        "name": "Kingpin",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "disasters_by_ffg",
+        "name": "Disasters",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "cops_by_ffg",
+        "name": "Cops",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "drive_by_ffg",
+        "name": "Drive",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "the_owl_by_ffg",
+        "name": "The Owl",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "tombstone_by_ffg",
+        "name": "Tombstone",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "tracksuit_mafia_by_ffg",
+        "name": "Tracksuit Mafia",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "campaign",
+        "code": "campaign_by_ffg",
+        "name": "Campaign",
+        "status": "released"
     }
 ]
