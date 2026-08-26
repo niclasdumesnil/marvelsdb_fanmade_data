@@ -1,0 +1,37 @@
+[
+    {
+        "code": "61030",
+        "name": "Équilibre Professionnel",
+        "text": "Donnez cette carte au joueur de Jessica Jones.\nEn tant que coût supplémentaire pour changer de forme, défaussez 1 carte de votre main.\n<b>Action d'alter ego</b> : choisissez :\n• Retirez de la partie un allié que vous contrôlez → retirez cette obligation de la partie.\n• Désorientez votre identité → défaussez cette obligation."
+    },
+    {
+        "code": "61031",
+        "flavor": "Les phéromones chimiquement modifiées de Zebediah Killgrave influencent toute personne à proximité de lui.",
+        "name": "L'Homme Pourpre",
+        "text": "[star] La MNG de l'Homme Pourpre est égale à la MNG ou CTR la plus élevée parmi les personnages en jeu. Son ATQ est égale à l'ATQ la plus élevée parmi les personnages en jeu.",
+        "traits": "Psionique."
+    },
+    {
+        "code": "61032",
+        "name": "Volonté Irrésistible",
+        "text": "[star] Entrave 3[per_hero].\n<b>Une fois révélée</b> : placez 2 jetons Phéromone sur chaque obligation Suggestion qui est en jeu.\n<b>Réponse forcée</b> : après qu'une obligation Suggestion est entrée en jeu, placez 2 jetons Phéromone <i>(supplémentaires)</i> dessus."
+    },
+    {
+        "code": "61033a",
+        "flavor": "« Faites-moi une faveur... » – L'Homme Pourpre",
+        "name": "Suggestion ([energy])",
+        "text": "Utilisations (3 jetons Phéromone).\n<b>Action forcée</b> : retirez 1 jeton Phéromone de cette carte et inclinez-la → choisissez : soit vous jouez une carte ayant une icône de ressource [energy] imprimée <i>(en payant ses coûts)</i>, soit vous ajoutez 2 menaces à la manigance principale."
+    },
+    {
+        "code": "61033b",
+        "flavor": "Ce n'est pas ce qu'a dit Simon. – L'Homme Pourpre",
+        "name": "Suggestion ([mental])",
+        "text": "Utilisations (3 jetons Phéromone).\n<b>Action forcée</b> : retirez 1 jeton Phéromone de cette carte et inclinez-la → choisissez : soit vous jouez une carte ayant une icône de ressource [mental] imprimée <i>(en payant ses coûts)</i>, soit vous ajoutez 2 menaces à la manigance principale."
+    },
+    {
+        "code": "61033c",
+        "flavor": "« Non non non » – L'Homme Pourpre",
+        "name": "Suggestion ([physical])",
+        "text": "Utilisations (3 jetons Phéromone).\n<b>Action forcée</b> : retirez 1 jeton Phéromone de cette carte et inclinez-la → choisissez : soit vous jouez une carte ayant une icône de ressource [physical] imprimée <i>(en payant ses coûts)</i>, soit vous ajoutez 2 menaces à la manigance principale."
+    }
+]

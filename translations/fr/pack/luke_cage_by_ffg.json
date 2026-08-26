@@ -1,0 +1,174 @@
+[
+    {
+        "code": "62002",
+        "flavor": "Je suis là et je n'ai pas l'intention de partir.",
+        "name": "Jessica Jones",
+        "text": "[star] Jessica Jones gagne +1 CTR pour chaque carte d'état Tenace sur votre identité (jusqu'à un maximum de +4 CTR).",
+        "traits": "Defender."
+    },
+    {
+        "code": "62003",
+        "flavor": "Je ne suis pas seul. J'ai une famille qui me soutient. – Luke Cage",
+        "name": "Héros de Harlem",
+        "text": "<b>Action de héros</b> : donnez une carte d'état Tenace à Luke Cage. Pour chaque carte d'état Tenace sur Luke Cage, choisissez un personnage que vous contrôlez et redressez-le.",
+        "traits": "Compétence."
+    },
+    {
+        "code": "62004",
+        "name": "Tarte aux Gnons",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 3 dégâts à un ennemi. Vous pouvez défausser une carte d'état Tenace de Luke Cage pour renvoyer cet événement dans votre main.",
+        "traits": "Attaque."
+    },
+    {
+        "code": "62005",
+        "flavor": "« Nous vivons dans la plus belle ville du monde. Je ne permettrai pas de la laisser sombrer dans le chaos. » – Luke Cage",
+        "name": "« Luttez avec moi ! »",
+        "text": "<b>Action de héros</b> (<i>contre</i>) : donnez une carte d'état Tenace à Luke Cage. Retirez 1 menace d'une manigance pour chaque carte d'état Tenace sur Luke Cage (jusqu'à un maximum de 5).",
+        "traits": "Contre."
+    },
+    {
+        "code": "62006",
+        "name": "« Doux Noël ! »",
+        "text": "[star] Réduisez de 1 le coût pour jouer cette carte pour chaque carte d'état Tenace sur Luke Cage.\n<b>Action de héros</b> (<i>attaque</i>) : infligez 5 dégâts au méchant et à chaque sbire engagé avec vous.",
+        "traits": "Attaque."
+    },
+    {
+        "code": "62007",
+        "flavor": "« J'ai ruiné beaucoup de sacs de frappe dans ce vieux gymnase et on ne m'a jamais mis à la porte. » – Luke Cage",
+        "name": "Salle de Fogwell",
+        "text": "<b>Réponse</b> : après qu'une carte d'état Tenace a été défaussée d'un personnage [[Defender]], inclinez la Salle de Fogwell → redressez ce personnage.",
+        "traits": "Lieu."
+    },
+    {
+        "code": "62008",
+        "flavor": "« J'ai une peau en acier et des muscles saillants. » – Luke Cage",
+        "name": "Expérience de Burstein",
+        "text": "<b>Action d'alter ego</b> : inclinez l'Expérience de Burstein → donnez une carte d'état Tenace à Luke Cage (2 cartes d'état Tenace à la place s'il n'en a aucune).",
+        "traits": "Condition."
+    },
+    {
+        "code": "62009",
+        "name": "Chercher les Embrouilles",
+        "text": "Attachez cette carte à un sbire. 1 max par sbire.\nLes attaques contre le sbire attaché infligent 2 dégâts supplémentaires et gagnent Déferlement.\n<b>Réponse</b> : après avoir joué cette carte, engagez le sbire attaché.",
+        "traits": "Condition."
+    },
+    {
+        "code": "62010",
+        "name": "Bracelet Métallique",
+        "text": "Luke Cage gagne Riposte 1.\n<b>Interruption de héros</b> : quand n'importe quelle quantité de dégâts est censée être infligée à Luke Cage, inclinez le Bracelet Métallique → diminuez de 1 cette quantité de dégâts.",
+        "traits": "Armure. Objet."
+    },
+    {
+        "code": "62011",
+        "flavor": "« Tremblez devant la puissance de Power Man ! Ça sonnait bizarre. Luke Cage. Tremblez devant Luke Cage. » – Luke Cage",
+        "name": "Power Man",
+        "text": "<b>Réponse de héros</b> : après qu'une carte d'état Tenace a été défaussée de Luke Cage, inclinez Power Man → piochez une carte.",
+        "traits": "Titre."
+    },
+    {
+        "code": "62012",
+        "flavor": "« J'ai oublié plus de choses sur le combat que tu n'en apprendras jamais. » – Iron Fist",
+        "name": "Iron Fist",
+        "subname": "Danny Rand",
+        "text": "<b>Interruption</b> : quand Iron Fist défend contre une attaque ennemie, prévenez un nombre de dégâts de cette attaque égal à l'ATQ d'Iron Fist.",
+        "traits": "Defender. Artiste Martial."
+    },
+    {
+        "code": "62013",
+        "flavor": "Allez, les héros. On a une ville à sauver.",
+        "name": "Misty Knight",
+        "text": "Ténacité.\n[star] Misty Knight gagne +2 ATQ et +2 CTR tant qu'elle a une carte d'état Tenace.",
+        "traits": "Defender. Artiste Martial."
+    },
+    {
+        "code": "62014",
+        "name": "Valkyrie",
+        "subname": "Brunnhilde",
+        "text": "Ténacité.\n<b>Interruption</b> : quand un autre allié est censé être vaincu, défaussez Valkyrie (<i>elle doit être en jeu</i>) → à la place, soignez cet allié jusqu'à ce qu'il ait 1 point de vie restant.",
+        "traits": "Asgard. Defender."
+    },
+    {
+        "code": "62015",
+        "flavor": "« Il en faut bien plus que cela pour m'abattre. » – Luke Cage",
+        "name": "Prendre Position",
+        "text": "<b>Réponse de héros</b> : après que votre héros a défendu, chaque allié que vous contrôlez gagne +1 CTR et +1 ATQ jusqu'à la fin de la phase des Joueurs.",
+        "traits": "Tactique."
+    },
+    {
+        "code": "62018",
+        "name": "Formation Défensive",
+        "text": "Utilisations (3 jetons Blocage).\n<b>Action</b> : retirez 1 jeton Blocage de cette carte et inclinez-la → donnez une carte d'état Tenace à un allié [[Defender]].",
+        "traits": "Tactique."
+    },
+    {
+        "code": "62019",
+        "flavor": "« Maintenant, on arrête de courir. » – Daredevil",
+        "name": "Noble Dessein",
+        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 max par joueur.\nChaque personnage que vous contrôlez qui a exactement 1 point de vie restant gagne +2 CTR et +2 ATQ.",
+        "traits": "Maxime."
+    },
+    {
+        "code": "62020",
+        "name": "Hulk",
+        "subname": "Bruce Banner",
+        "text": "Hulk gagne +1 ATQ pour chaque jeton Rage sur lui.\n<b>Réponse</b> : après que le méchant vous a attaqué, placez 1 jeton Rage sur cet allié.",
+        "traits": "Defender. Gamma."
+    },
+    {
+        "code": "62021",
+        "flavor": "Vous avez interrompu ma séance d'abdos.",
+        "name": "Miss Hulk",
+        "subname": "Jennifer Walters",
+        "text": "Ténacité.\n<b>Réponse</b> : après que Miss Hulk est entrée en jeu, donnez une carte d'état Tenace à votre identité.",
+        "traits": "Defender. Gamma."
+    },
+    {
+        "code": "62022",
+        "name": "Duo de Choc",
+        "text": "<b>Action</b> : cherchez dans votre deck ou votre pile de défausse une carte En Équipe ainsi qu'un allié désigné par le mot-clé En Équipe de cette carte. Ajoutez ces cartes à votre main. <i>(Mélangez.)</i>"
+    },
+    {
+        "code": "62023",
+        "name": "Power Man et Iron Fist",
+        "text": "En Équipe <i>(Iron Fist et Luke Cage)</i>. 1 max par deck.\n<b>Action de héros</b> (<i>attaque</i>) : infligez 2 dégâts à un ennemi et donnez une carte d'état Tenace à un personnage.",
+        "traits": "Attaque."
+    },
+    {
+        "code": "62034",
+        "flavor": "« Petit avorton ! » – Hulk",
+        "name": "Avantage de Taille",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 3 dégâts à un ennemi (6 dégâts à la place si vous avez le trait [[GÉANT]] ou plus de points de vie restants que cet ennemi).",
+        "traits": "Attaque."
+    },
+    {
+        "code": "62035",
+        "flavor": "« Il existe d'autres manières de voir. » – Daredevil",
+        "name": "Observer",
+        "text": "<b>Action de héros</b> : le méchant manigance. Donnez une carte d'état Tenace à votre héros.",
+        "traits": "Tactique."
+    },
+    {
+        "code": "62036",
+        "name": "S'endurcir",
+        "text": "<b>Réponse</b> : après avoir récupéré, si vos points de vie restants sont supérieurs ou égaux à vos points de vie de base, inclinez cette amélioration → donnez à votre identité une carte d'état Tenace.",
+        "traits": "Condition."
+    },
+    {
+        "code": "62037",
+        "name": "Ceinture Noire",
+        "text": "Jouez cette carte uniquement si n'importe quel joueur contrôle une carte [[ARTISTE MARTIAL]].\nAttachez cette carte à un personnage ami. 1 max par personnage.\nLe personnage attaché gagne +1 point de vie et le trait [[ARTISTE MARTIAL]].",
+        "traits": "Titre."
+    },
+    {
+        "code": "62001a",
+        "name": "Luke Cage",
+        "text": "<i>Peau Impénétrable</i> — Luke Cage peut avoir n'importe quel nombre de cartes d'état Tenace. Les attaques contre Luke Cage perdent Perçant.\n<b>Réponse forcée</b> : après qu'une carte d'état Tenace a été défaussée de Luke Cage, il subit 1 dégât inéluctable <i>(ignorez les cartes d'état Tenace)</i>.",
+        "traits": "Defender."
+    },
+    {
+        "code": "62001b",
+        "name": "Luke Cage",
+        "text": "<i>Peau Impénétrable</i> — Luke Cage peut avoir n'importe quel nombre de cartes d'état Tenace. Les attaques contre Luke Cage perdent Perçant.\n<b>Action</b> : cherchez l'amélioration Expérience de Burstein dans votre deck ou votre pile de défausse et ajoutez-la à votre main. (Limite d'une fois par phase.)",
+        "traits": "Civil."
+    }
+]

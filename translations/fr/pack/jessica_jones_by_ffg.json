@@ -1,0 +1,231 @@
+[
+    {
+        "code": "61002",
+        "name": "Alias Investigations",
+        "text": "Permanent.\n<b>Réponse</b> : après qu'une manigance annexe a été déjouée, inclinez ce soutien → placez 2 jetons Preuve dessus. Ensuite, vous pouvez retirer de ce soutien un nombre de jetons Preuve égal aux points de vie restants du méchant afin de vaincre le stade actuel du méchant.",
+        "traits": "Lieu."
+    },
+    {
+        "code": "61003",
+        "flavor": "« Il a en effet une peau d'acier, mais il a un cœur en or. » – Jessica Jones",
+        "name": "Luke Cage",
+        "text": "Ténacité.\n<b>Action</b> : inclinez Luke Cage et infligez-lui 1 dégât → donnez-lui une carte d'état Tenace.",
+        "traits": "Defender."
+    },
+    {
+        "code": "61004",
+        "flavor": "« Tu t'es attaqué à la mauvaise personne ! » – Jessica Jones",
+        "name": "« Grave Erreur »",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 3 dégâts à un ennemi. Vous pouvez retirer 1 jeton Preuve d'Alias Investigations pour infliger 2 dégâts supplémentaires et faire gagner à cette attaque soit Déferlement, soit Perçant.",
+        "traits": "Attaque."
+    },
+    {
+        "code": "61005",
+        "flavor": "« Dites m'en plus. » – Jessica Jones",
+        "name": "Découverte Capitale",
+        "text": "<b>Réponse</b> : après qu'un jeton Preuve a été placé sur Alias Investigations, redressez votre identité. Mélangez cet événement dans votre deck."
+    },
+    {
+        "code": "61006",
+        "name": "Fouiner",
+        "text": "<b>Action d'alter ego</b> (<i>contre</i>) : retirez 4 menaces d'une manigance et placez 2 jetons Preuve sur Alias Investigations. Défaussez la carte du dessus du deck Rencontre. Si cette carte est un sbire ou une manigance annexe, révélez-la.",
+        "traits": "Contre."
+    },
+    {
+        "code": "61007",
+        "flavor": "Parfois, il suffit de faire un pas en arrière pour mieux voir l'ensemble du tableau.",
+        "name": "Rassembler les Pièces du Puzzle",
+        "text": "Cette manigance ne compte pas dans la limite de manigances annexes de joueur.\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance pioche 3 cartes."
+    },
+    {
+        "code": "61008",
+        "name": "Demander une Faveur",
+        "text": "<b>Action d'alter ego</b> : retirez 2 jetons Preuve d'Alias Investigation et inclinez Demander une Faveur → cherchez dans votre deck un allié et jouez-le comme s'il était dans votre main, en réduisant de 2 son coût en ressources. (<i>Mélangez</i>.)"
+    },
+    {
+        "code": "61009",
+        "flavor": "« ...c'est dans la boîte ! » – Jessica Jones",
+        "name": "Caméscope Numérique 4K",
+        "text": "<b>Action d'alter ego</b> : inclinez cette carte et choisissez un sbire non-[[ÉLITE]].\nRetirez X jetons Preuve d'Alias Investigations, X étant égal au nombre de points de vie restants de ce sbire moins 2 → défaussez ce sbire.",
+        "traits": "Objet."
+    },
+    {
+        "code": "61010",
+        "flavor": "« Belle trouvaille ! Ça devrait pouvoir nous servir. » – Daredevil",
+        "name": "Preuve Indirecte",
+        "text": "<b>Réponse</b> : après qu'un ennemi a été vaincu, inclinez Preuve Indirecte → placez 1 jeton Preuve sur Alias Investigations.",
+        "traits": "Objet."
+    },
+    {
+        "code": "61011",
+        "flavor": "« Luke, est-ce qu'elle possède des vestes qui ne soient pas en cuir ? » – Iron Fist",
+        "name": "Blouson en Cuir",
+        "text": "Jessica Jones gagne +2 DEF.\n<b>Réponse</b> : après que vous avez défendu, placez 1 jeton Preuve sur Alias Investigations.",
+        "traits": "Objet."
+    },
+    {
+        "code": "61012",
+        "flavor": "« Qu'est-ce que tu viens de lui dire ? » – Jessica Jones",
+        "name": "« Maintenant Je Suis Énervée »",
+        "text": "<b>Réponse</b> (<i>attaque</i>) : après que le méchant s'est activé contre un joueur, si vous êtes sous forme d'alter ego, passez sous forme de héros. Infligez 5 dégâts au méchant et à chaque sbire engagé avec ce joueur. Défaussez cette amélioration.",
+        "traits": "Condition."
+    },
+    {
+        "code": "61013",
+        "flavor": "Je crois que je vais vomir. – Jessica Jones",
+        "name": "Planeuse Réticente",
+        "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand vous êtes censé subir au moins 3 dégâts d'une attaque, défaussez cette amélioration → prévenez tous les dégâts de cette attaque. Subissez 1 dégât.",
+        "traits": "Aérien. Préparation."
+    },
+    {
+        "code": "61014",
+        "name": "En Planque",
+        "text": "<b>Action</b> : si cette carte est dans votre zone de jeu, attachez-la à une manigance annexe Rencontre non-Permanent.\n<b>Interruption</b> : quand un personnage contre la manigance attachée, ce contre retire 2 menaces supplémentaires. Si ce contre déjoue la manigance attachée, placez 2 jetons Preuve sur Alias Investigations.",
+        "traits": "Tactique."
+    },
+    {
+        "code": "61015",
+        "name": "Captain Marvel",
+        "subname": "Carol Danvers",
+        "text": "<b>Réponse</b> : après que Captain Marvel est entrée en jeu, défaussez les 4 cartes du dessus de votre deck. Si vous défaussez une ressource [energy] imprimée, retirez 2 menaces d'une manigance. Si vous défaussez plus d'une ressource [energy] imprimée, désorientez également un ennemi.",
+        "traits": "Aérien. Avenger."
+    },
+    {
+        "code": "61016",
+        "name": "Spider-Woman",
+        "subname": "Mattie Franklin",
+        "text": "<b>Réponse</b> : après qu'un personnage que vous contrôlez a contré, placez 1 jeton Patte ici (jusqu'à un maximum de 8). Vous pouvez défausser Spider-Woman pour infliger 1 dégât à un ennemi pour chaque jeton Patte qui est sur elle.",
+        "traits": "Web-Warrior."
+    },
+    {
+        "code": "61017",
+        "name": "Squirrel Girl",
+        "subname": "Doreen Green",
+        "text": "<b>Réponse</b> : après avoir joué Squirrel Girl de votre main, placez 1 jeton Écureuil sur elle pour chaque carte dans votre main (jusqu'à un maximum de 4).\n<b>Action</b> : retirez 1 jeton Écureuil de Squirrel Girl → retirez 1 menace d'une manigance.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "61018",
+        "flavor": "« Cela te servira peut-être de leçon ! » – Captain America"
+    },
+    {
+        "code": "61019",
+        "flavor": "Ok les gars, j'ai un plan. – Nova",
+        "name": "Session Stratégie",
+        "text": "<b>Action d'alter ego</b> : choisissez un joueur pour qu'il cherche une manigance annexe de joueur dans son deck et l'ajoute à sa main.\n<b>Action de héros</b> (<i>contre</i>) : retirez 3 menaces d'une manigance annexe de joueur.",
+        "traits": "Tactique. Contre."
+    },
+    {
+        "code": "61020",
+        "flavor": "Victoire 0.",
+        "name": "Traquez-les Jusqu'au Dernier",
+        "text": "<b>Une fois déjouée</b> : résolvez chacune des options suivantes :\n• Ignorez la prochaine phase du Méchant.\n• Attribuez à chaque joueur 1 carte Rencontre face cachée (<i>immédiatement</i>).\n• Le méchant ne peut pas subir de dégâts jusqu'au début de la prochaine phase du Méchant (<i>non ignorée</i>)."
+    },
+    {
+        "code": "61021",
+        "flavor": "« Tu vas à droite et je vais à gauche. »\n« Je vais toujours à droite ! »\n« Très bien, va à gauche. »\n« J'aime bien aller à droite. » – Daredevil et Iron Fist"
+    },
+    {
+        "code": "61023",
+        "name": "Lance-Grappin",
+        "text": "Restreint.\n<b>Action de héros</b> : défaussez cette carte → effectuez un contre de base sans vous incliner (<i>même si vous êtes incliné</i>). Pour ce contre, votre héros gagne +1 CTR, ignore le mot-clé Patrouille et toutes les icônes de crise ([crisis]) en jeu.",
+        "traits": "Objet."
+    },
+    {
+        "code": "61024",
+        "name": "Le Piège se Referme",
+        "text": "1 max par joueur.\n<b>Réponse d'alter ego</b> (<i>attaque</i>) : après que le méchant a manigancé, passez sous forme de héros et défaussez cette amélioration → infligez au méchant un nombre de dégâts égal à la quantité de menace placée par cette activation.",
+        "traits": "Préparation."
+    },
+    {
+        "code": "61025",
+        "flavor": "« Salut les gars ! Bon, à plus ! »",
+        "name": "Hellcat",
+        "subname": "Patsy Walker",
+        "text": "Si votre identité a le trait [[DEFENDER]], cette carte gagne : « <b>Action</b> : mettez en jeu Hellcat depuis votre main. À la fin de la phase, défaussez-la. »",
+        "traits": "Defender. Artiste Martial."
+    },
+    {
+        "code": "61026",
+        "name": "Les Plaisirs de la Vie",
+        "text": "Alliance.\n<b>Action</b> : choisissez :\n• Inclinez un alter ego [[CIVIL]] → redressez un héros ou un allié.\n• Inclinez un héros ou un allié → redressez un alter ego [[CIVIL]]."
+    },
+    {
+        "code": "61027",
+        "name": "Lien Indestructible",
+        "text": "En Équipe (<i>Jessica Jones et Luke Cage</i>). 1 max par deck.\n<b>Action de héros</b> (<i>contre</i>) : retirez 3 menaces d'une manigance. Soignez un total de 3 dégâts parmi Jessica Jones et Luke Cage.",
+        "traits": "Contre."
+    },
+    {
+        "code": "61028",
+        "flavor": "« Allons faire ce que les héros font le mieux : sauver le monde ! » – Miss Marvel",
+        "name": "Deuxième Chance",
+        "text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut mélanger dans son deck toutes les cartes spécifiques à son identité de sa pile de défausse."
+    },
+    {
+        "code": "61029",
+        "name": "Défendre Notre Ville",
+        "text": "[star] Entrave 1[per_hero].\nPrérequis ([[DEFENDER]]). Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut chercher une carte En-Équipe dans son deck ou sa pile de défausse et l'ajouter à sa main. Jusqu'à la fin de la phase, réduisez de 1 le coût pour jouer chaque carte En Équipe."
+    },
+    {
+        "code": "61034",
+        "flavor": "PAF !",
+        "name": "Agressivité Innée",
+        "text": "Départ. (<i>Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.</i>)\nVotre héros gagne +1 ATQ.",
+        "traits": "Condition."
+    },
+    {
+        "code": "61035",
+        "flavor": "« Je suis pas ta pote. » – Jessica Jones",
+        "name": "Passage à Tabac",
+        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. 1 max par joueur.\n<b>Réponse</b> : après que vous avez attaqué et vaincu exactement un sbire, inclinez Passage à Tabac → retirez d'une manigance une quantité de menaces égale à la MNG de base de ce sbire.",
+        "traits": "Tactique."
+    },
+    {
+        "code": "61036",
+        "flavor": "WHOOOSH !",
+        "name": "Perception Innée",
+        "text": "<b>Départ.</b> (<i>Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.</i>)\nVotre héros gagne +1 CTR.",
+        "traits": "Condition."
+    },
+    {
+        "code": "61037",
+        "flavor": "PA-PA-POW !",
+        "name": "Inspiration Innée",
+        "text": "<b>Départ.</b> (<i>Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.</i>)\nChaque allié que vous contrôlez gagne +1 point de vie.",
+        "traits": "Condition."
+    },
+    {
+        "code": "61038",
+        "flavor": "Le maquillage qu'Echo applique sur son visage est en souvenir du dernier geste de son père assassiné.",
+        "name": "Echo",
+        "subname": "Maya Lopez",
+        "text": "Diminuez de la DEF de votre héros la quantité de dégâts que subit Echo de chaque attaque ennemie.",
+        "traits": "Defender. Artiste Martial."
+    },
+    {
+        "code": "61039",
+        "flavor": "« Je suis sûre que le gentil couple d'Estoniens âgés qui possède cet endroit ne verra pas d'inconvénient à ce que nous restions ici un moment. » – Jessica Jones",
+        "name": "Clandestinité",
+        "text": "Victoire 0.\n<b>Une fois déjouée</b> : chaque joueur peut passer sous forme d'alter ego. Soignez chaque alter ego d'un nombre de dégâts égal à sa REC."
+    },
+    {
+        "code": "61040",
+        "name": "Menace Appréhendée",
+        "text": "Attachez cette amélioration à une carte. La carte attachée perd les icônes [acceleration], [amplify], [crisis] et [hazard].\n<b>Réponse forcée</b> : à la fin du round, chaque joueur peut dépenser 1 ressource de n'importe quel type. Si un joueur ne le fait pas, défaussez cette amélioration.",
+        "traits": "Condition."
+    },
+    {
+        "code": "61001a",
+        "flavor": "Ce genre de situations se terminent rarement bien.",
+        "name": "Jessica Jones",
+        "text": "[star] <i>Rassembler des Preuves</i> — <b>Réponse</b> : après que vous avez utilisé un pouvoir de base, placez 1 jeton Preuve sur Alias Investigations.",
+        "traits": "Defender."
+    },
+    {
+        "code": "61001b",
+        "name": "Jessica Jones",
+        "text": "<i>Mode Incognito</i> — <b>Action</b> : passez sous forme de héros. Vous ne pouvez pas repasser sous forme d'alter ego à cette phase.\n<b>Mise en place</b> : mettez en jeu le soutien Alias Investigations.",
+        "traits": "Civil."
+    }
+]

@@ -51,7 +51,7 @@
         "pack_code": "luke_cage_by_ffg",
         "position": 30,
         "quantity": 1,
-        "scheme_crisis": 1,
+        "scheme_crisis": null,
         "set_code": "luke_cage_by_ffg_nemesis",
         "set_position": 2,
         "text": "Each [[SERPENT SOCIETY]] minion cannot be attacked.\n<b>When Defeated</b>: The defeating player discards cards from the top of the encounter deck until a [[SERPENT SOCIETY]] minion is discarded and reveals that minion.\n<hr>[star] <b>Boost</b>: You are confused.",
@@ -73,7 +73,7 @@
         "quantity": 1,
         "set_code": "luke_cage_by_ffg_nemesis",
         "set_position": 3,
-        "text": "Attach to Cottonmouth. Otherwise, attach to the villain.\n[star] <b>Forced Interrupt</b>: When attached enemy attacks a character, discard each tough status card from that character.\n<b>Hero Action</b>: Spend [physical] [physical] resources → discard this card.",
+        "text": "Attach to Cottonmouth. Otherwise, attach to the villain.\n[star] <b>Forced Interrupt</b>: When attached enemy attacks a character, discard each tough status card from that character.\n<b>Hero Action</b>: Spend [mental][mental] resources → discard this card.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },

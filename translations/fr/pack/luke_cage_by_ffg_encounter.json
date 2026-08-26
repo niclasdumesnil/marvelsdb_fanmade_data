@@ -1,0 +1,37 @@
+[
+    {
+        "code": "62028",
+        "name": "Blessure Interne",
+        "text": "<b><i>Donnez cette carte au joueur de Luke Cage.</i></b>\n<b>Réponse forcée</b> : après avoir terminé la phase des Joueurs, subissez 3 dégâts inéluctables (<i>ignorez les cartes d'état Tenace</i>).\n<b>Réponse d'alter ego</b> : après avoir récupéré, retirez Blessure Interne de la partie."
+    },
+    {
+        "code": "62029",
+        "name": "Cottonmouth",
+        "text": "[star] <b>Réponse forcée</b> : après que Cottonmouth a attaqué, il attaque le même personnage 2 fois supplémentaires. (Limite d'une fois par phase.)\n(<i>Sbire némésis de Luke Cage.</i>)\n\n<hr>[star] <b>Boost</b> : attribuez cette carte au joueur de Luke Cage en tant que carte Rencontre face cachée.",
+        "traits": "Société du Serpent."
+    },
+    {
+        "code": "62030",
+        "name": "Murmures Venimeux",
+        "text": "Aucun sbire [[SOCIÉTÉ DU SERPENT]] ne peut être attaqué.\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance défausse des cartes du dessus du deck Rencontre jusqu'à ce qu'un sbire [[SOCIÉTÉ DU SERPENT]] soit défaussé, puis il le révèle.\n<hr>[star] <b>Boost</b> : vous êtes désorienté."
+    },
+    {
+        "code": "62031",
+        "name": "Mâchoires Augmentées",
+        "text": "Attachez cette carte à Cottonmouth. Sinon, attachez-la au méchant.\n[star] <b>Interruption forcée</b> : quand l'ennemi attaché attaque un personnage, défaussez chaque carte d'état Tenace du personnage attaqué.\n<b>Action de héros</b> : dépensez les ressources suivantes : [mental][mental] → défaussez cette carte.",
+        "traits": "Arme."
+    },
+    {
+        "code": "62032",
+        "flavor": "Goûte donc à ce venin !",
+        "name": "Asp",
+        "text": "[star] <b>Réponse forcée</b> : après qu'Asp a manigancé contre vous, vous êtes sonné.\n<hr>[star] <b>Boost</b> : vous êtes sonné.",
+        "traits": "Société du Serpent."
+    },
+    {
+        "code": "62033",
+        "name": "Sidewinder",
+        "text": "Coup Rapide.\n<b>Interruption forcée</b> : quand Sidewinder est attaqué, défaussez la carte du dessus du deck Rencontre. Si la carte défaussée a une capacité « <b>Boost</b> », attribuez Sidewinder au joueur attaquant en tant que carte Rencontre face cachée.",
+        "traits": "Société du Serpent."
+    }
+]

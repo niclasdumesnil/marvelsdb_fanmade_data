@@ -575,6 +575,8 @@
     },
     {
         "base_threat": 3,
+        "base_threat_fixed": true,
+        "base_threat_star": true,
         "code": "61029",
         "duplicate_of_name": "",
         "faction_code": "basic",
