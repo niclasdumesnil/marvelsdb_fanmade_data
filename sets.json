@@ -2025,5 +2025,10 @@
         "code": "campaign_by_ffg",
         "name": "Campaign",
         "status": "released"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "iron_fist",
+        "name": "Iron Fist"
     }
 ]

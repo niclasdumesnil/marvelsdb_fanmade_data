@@ -681,5 +681,21 @@
         "pack_type_code": "encounter",
         "position": 900,
         "size": 7
+    },
+    {
+        "cgdb_id": 64,
+        "code": "iron_fist",
+        "confidential": "false",
+        "creator": "",
+        "date_release": "2026-08-27",
+        "lang": "EN",
+        "name": "Iron Fist",
+        "octgn_id": "885ca719-9169-4a7d-8385-326132818b98",
+        "pack_type_code": "hero",
+        "position": 64,
+        "size": 29,
+        "status": "beta",
+        "theme": "Marvel",
+        "visibility": "false"
     }
 ]

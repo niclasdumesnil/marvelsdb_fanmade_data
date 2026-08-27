@@ -1903,5 +1903,11 @@
         "code": "fear_no_evil_by_ffg",
         "name": "Fear No Evil",
         "status": "sealed"
+    },
+    {
+        "card_set_type_code": "hero",
+        "code": "dtm",
+        "name": "Determination",
+        "status": "sealed"
     }
 ]

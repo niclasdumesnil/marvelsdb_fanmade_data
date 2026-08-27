@@ -3,7 +3,7 @@
         "code": "44101",
         "name": "Cable",
         "subname": "Nathaniel Summers",
-        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n<b>Interruption</b> : quand Cable attaque, défaussez n'importe quel nombre de cartes de votre main → pour chaque carte ainsi défaussée, Cable gagne +1 ATQ pour cette attaque.",
+        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n<b>Interruption</b> : quand Cable attaque, défaussez n'importe quel nombre de cartes de votre main → pour chaque carte ainsi défaussée, Cable gagne +1 ATQ pour cette attaque.",
         "traits": "X-Force. X-Men."
     },
     {
@@ -771,7 +771,7 @@
         "flavor": "« Vous êtes relevés. » – Maria Hill",
         "name": "Le Béhémoth",
         "text": "Utilisations (2 jetons Déploiement).\n<b>Action</b> : retirez 1 jeton Déploiement du Béhémoth, inclinez-le et défaussez un allié que vous contrôlez → cherchez dans votre collection ou votre deck un allié [[S.H.I.E.L.D.]] et mettez le en jeu.",
-        "traits": "S.H.I.E.L.D. véhicule."
+        "traits": "S.H.I.E.L.D. Véhicule."
     },
     {
         "code": "44218",
@@ -784,7 +784,7 @@
         "flavor": "« Fitz a conçu l'injecteur. » – Jemma Simmons",
         "name": "Assistance Technique",
         "text": "Utilisations (2 jetons Stimulant).\n<b>Réponse</b> : après avoir retiré un jeton générique d'une carte que vous contrôlez, retirez 1 jeton Stimulant d'Assistance Technique et inclinez-la → Redressez un personnage [[S.H.I.E.L.D]] ou un support [[INDIVIDU]]",
-        "traits": "S.H.I.E.L.D. tech."
+        "traits": "S.H.I.E.L.D. Tech."
     },
     {
         "code": "44220",
