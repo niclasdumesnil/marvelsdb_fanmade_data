@@ -507,7 +507,7 @@
         "set_position": 3,
         "stage": "III",
         "status": "released",
-        "text": "<b>When Revealed</b>: Place 3 charge counters on Electric Charge.\n\n[star] <b>Forced Response</b>: After Electro schemes, place 2 charge counters on Electric Charge.",
+        "text": "<b>When Revealed</b>: Place 3[per_hero] charge counters on Electric Charge.\n[star] <b>Forced Response</b>: After Electro schemes, place 2 charge counters on Electric Charge.",
         "traits": "Criminal. Underling.",
         "type_code": "villain"
     },
