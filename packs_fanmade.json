@@ -1487,8 +1487,7 @@
         "code": "007_by_rycoran",
         "confidential": "false",
         "creator": "Rycoran",
-        "date_release": "2026-08-27",
-        "date_update": "2026-08-27",
+        "date_release": "2026-08-28",
         "lang": "EN",
         "name": "007",
         "octgn_id": "646cc2a2-cc43-464f-95f0-bb9b73d1841e",
@@ -1497,6 +1496,6 @@
         "size": 30,
         "status": "released",
         "theme": "Marvel",
-        "visibility": "false"
+        "visibility": "true"
     }
 ]
