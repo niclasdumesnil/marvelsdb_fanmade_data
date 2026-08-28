@@ -17,7 +17,7 @@
         "quantity": 1,
         "set_code": "007_by_rycoran",
         "status": "released",
-        "text": "<b>Action</b>: Resolve the \"Special\" ability on a card you control. (Limit once per round.)\n<i>Mission Prep</i> — <b>Response</b>: After a minion enters play, ready 007. (Limit once per round.)",
+        "text": "<b>Action</b>: Resolve the \"<b>Special</b>\" ability on a card you control. (Limit once per round.)\n<i>Mission Prep</i> — <b>Response</b>: After a minion enters play, ready 007. (Limit once per round.)",
         "thwart": 1,
         "traits": "Spy.",
         "type_code": "hero"
@@ -189,7 +189,7 @@
         "set_code": "007_by_rycoran",
         "set_position": 10,
         "status": "released",
-        "text": "<b>Alter-Ego Action</b>: Exhaust Q Branch → put a set-aside <b>Spycraft</b> card into play under your control.\n<b>Action</b>: Exhaust Q Branch → resolve the \"Special\" ability on 1 <b>Spycraft</b> card.",
+        "text": "<b>Alter-Ego Action</b>: Exhaust Q Branch → put a set-aside [[Spycraft]] card into play under your control.\n<b>Action</b>: Exhaust Q Branch → resolve the \"Special\" ability on 1  [[Spycraft]] card.",
         "traits": "Persona. Spy.",
         "type_code": "support"
     },
