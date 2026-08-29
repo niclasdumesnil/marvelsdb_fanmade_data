@@ -509,5 +509,63 @@
 				"comment": "Matriarch — Ship Command et You Must Have Faith sont obligatoires. 1 modulaire recommandé (Drax Clones)."
 			}
 		]
+	},
+	"valkyrie_by_boomguy": {
+		"scenario_overrides": [
+			{
+				"set_code": "valkyrie_by_boomguy",
+				"cw_side": "registration",
+				"recommended_modulars": {"mighty_avengers": ["Mighty Avengers", "Encounter", false], "the_initiative": ["The Initiative", "Encounter", false], "maria_hill_modular": ["Maria Hill", "Encounter", false], "dangerous_recruits": ["Dangerous Recruits", "Encounter", false]},
+				"comment": "Set de leader (Civil War) : la mise en place standard des leaders est appliquee par set_builder (nbModular=4 + manigances du camp). Seul le camp se declare ici, il n'est pas devinable depuis les cartes. Modulaires recommandes repris de iron_man_leader : meme camp, donc memes sets suggeres au joueur."
+			}
+		]
+	},
+	"quicksilver_by_boomguy": {
+		"scenario_overrides": [
+			{
+				"set_code": "quicksilver_by_boomguy",
+				"cw_side": "resistance",
+				"recommended_modulars": {"new_avengers": ["New Avengers", "Encounter", false], "secret_avengers": ["Secret Avengers", "Encounter", false], "namor_modular": ["Namor", "Encounter", false], "atlanteans": ["Atlanteans", "Encounter", false]},
+				"comment": "Set de leader (Civil War) : la mise en place standard des leaders est appliquee par set_builder (nbModular=4 + manigances du camp). Seul le camp se declare ici, il n'est pas devinable depuis les cartes. Modulaires recommandes repris de captain_america_leader : meme camp, donc memes sets suggeres au joueur."
+			}
+		]
+	},
+	"cw": {
+		"scenario_overrides": [
+			{
+				"set_code": "iron_man_leader",
+				"cw_side": "registration",
+				"comment": "Set de leader officiel (Civil War). Camp releve dans l'agregateur Villain_Setup du mod. Declare ici PAR PRECAUTION : ces set.xml viennent du mod d'origine et ne sont pas regeneres aujourd'hui, mais s'ils l'etaient un jour, le camp ne serait pas devinable et les manigances imposees manqueraient silencieusement."
+			},
+			{
+				"set_code": "captain_marvel_leader",
+				"cw_side": "registration",
+				"comment": "Set de leader officiel (Civil War). Camp releve dans l'agregateur Villain_Setup du mod. Declare ici PAR PRECAUTION : ces set.xml viennent du mod d'origine et ne sont pas regeneres aujourd'hui, mais s'ils l'etaient un jour, le camp ne serait pas devinable et les manigances imposees manqueraient silencieusement."
+			},
+			{
+				"set_code": "captain_america_leader",
+				"cw_side": "resistance",
+				"comment": "Set de leader officiel (Civil War). Camp releve dans l'agregateur Villain_Setup du mod. Declare ici PAR PRECAUTION : ces set.xml viennent du mod d'origine et ne sont pas regeneres aujourd'hui, mais s'ils l'etaient un jour, le camp ne serait pas devinable et les manigances imposees manqueraient silencieusement."
+			},
+			{
+				"set_code": "spider_woman_leader",
+				"cw_side": "resistance",
+				"comment": "Set de leader officiel (Civil War). Camp releve dans l'agregateur Villain_Setup du mod. Declare ici PAR PRECAUTION : ces set.xml viennent du mod d'origine et ne sont pas regeneres aujourd'hui, mais s'ils l'etaient un jour, le camp ne serait pas devinable et les manigances imposees manqueraient silencieusement."
+			}
+		]
+	},
+	"synthezoid": {
+		"scenario_overrides": [
+			{
+				"set_code": "she_hulk_leader",
+				"cw_side": "registration",
+				"comment": "Set de leader officiel (Synthezoid Smackdown). Camp releve dans l'agregateur Villain_Setup du mod. Declare ici PAR PRECAUTION : ces set.xml viennent du mod d'origine et ne sont pas regeneres aujourd'hui, mais s'ils l'etaient un jour, le camp ne serait pas devinable et les manigances imposees manqueraient silencieusement."
+			},
+			{
+				"set_code": "vision_leader",
+				"cw_side": "resistance",
+				"comment": "Set de leader officiel (Synthezoid Smackdown). Camp releve dans l'agregateur Villain_Setup du mod. Declare ici PAR PRECAUTION : ces set.xml viennent du mod d'origine et ne sont pas regeneres aujourd'hui, mais s'ils l'etaient un jour, le camp ne serait pas devinable et les manigances imposees manqueraient silencieusement."
+			}
+		]
 	}
 }
