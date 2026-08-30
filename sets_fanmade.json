@@ -1316,11 +1316,6 @@
         "name": "Laufey"
     },
     {
-        "card_set_type_code": "hero",
-        "code": "war_of_the_realms_by_jammydude44",
-        "name": "War of the Realms"
-    },
-    {
         "card_set_type_code": "modular",
         "code": "uncharted_territory_by_jammydude44",
         "name": "Uncharted Territory"
@@ -1679,12 +1674,6 @@
     },
     {
         "card_set_type_code": "hero",
-        "code": "guardians_of_the_flarking_galaxy_by_justatuna",
-        "name": "Guardians of The Flarking Galaxy",
-        "status": "released"
-    },
-    {
-        "card_set_type_code": "hero",
         "code": "robocop_by_misssugarpink",
         "name": "Robocop",
         "status": "released"
@@ -1902,12 +1891,6 @@
         "card_set_type_code": "hero",
         "code": "fear_no_evil_by_ffg",
         "name": "Fear No Evil",
-        "status": "sealed"
-    },
-    {
-        "card_set_type_code": "hero",
-        "code": "dtm",
-        "name": "Determination",
         "status": "sealed"
     },
     {
