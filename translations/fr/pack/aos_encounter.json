@@ -1,937 +1,937 @@
 [
     {
         "code": "50029",
-        "name": "Press Conference",
-        "text": "<b><i>Give to the Maria Hill player.</i></b>\n<b>Réponse forcée</b> : after the player phase ends, remove 1 all-purpose counter from each support you control.\n<b>Action d'alter ego</b> : exhaust your identity → discard this card."
+        "name": "Conférence de Presse",
+        "text": "<b><i>Donnez cette carte au joueur de Maria Hill.</i></b>\n<b>Réponse forcée</b> : après la fin de la phase des joueurs, retirez 1 jeton générique de chaque soutien que vous contrôlez.\n<b>Action d'alter ego</b> : inclinez votre identité → défaussez cette obligation."
     },
     {
         "code": "50030",
-        "name": "Controller",
-        "text": "[star] <b>Réponse forcée</b> : After Controller activates against you, remove 1 all-purpose counter from a support. If Controlled Innocents is in play, put the top card of your deck into play facedown, engaged with you as a [[Controlled]] minion.",
-        "traits": "Elite. Psionic."
+        "name": "Le Contrôleur",
+        "text": "[star] <b>Réponse forcée</b> : après que Le Contrôleur s'est activé contre vous, retirez 1 jeton générique d'un soutien. Si Innocents Contrôlés est en, jeu, mettez en jeu la carte du dessus de votre deck, face cachée, engagée avec vous en tant que sbire [[Contrôlé]].",
+        "traits": "Élite. Psionique."
     },
     {
         "code": "50031",
-        "name": "Army of the Controlled",
-        "text": "<b>Une fois révélée</b> : trouvez the Controlled Innocents environment and put it into play.\n<b>Une fois déjouée</b> : discard each [[Controlled]] minion. Place 1 all-purpose counter on a support for each minion discarded this way."
+        "name": "Armée des Contrôlés",
+        "text": "<b>Une fois révélée</b> : trouvez l'environnement Innocents Contrôlés et mettez-le en jeu.\n<b>Une fois déjouée</b> : défaussé chaque sbire [[Contrôlé]]. Placez 1 jeton générique sur un soutien pour chaque sbire ainsi défaussé."
     },
     {
         "code": "50032",
-        "name": "Controlled Innocents",
-        "text": "Each facedown [[Controlled]] minion engaged with a player has a base SCH of 1, a base ATK of 1, and a base hit points of 1.\n<b>Réponse forcée</b> : after a [[Controlled]] minion is defeated, place that card in its owner's discard pile and place 1 threat on the main scheme."
+        "name": "Innocents Contrôlés",
+        "text": "Chaque sbire [[Contrôlé]] face cachée engagé avec un joueur a une MNG de base de 1, une ATQ de base de 4 et des points de vie de base de 1.\n<b>Réponse forcée</b> : après qu'un sbire [[Contrôlé]] a été vaincu, place-le dans la pile de défausse de son propriétaire et placez 1 menace sur la manigance principale."
     },
     {
         "code": "50033",
-        "name": "Diabolical Discs",
-        "text": "Surge.\n<b>Une fois révélée</b> : remove 1 all-purpose counter from a support. If Controlled Innocents is in play, put the top card of your deck into play facedown, engaged with you as a [[Controlled]] minion."
+        "name": "Disques Diaboliques",
+        "text": "Renfort.\n<b>Une fois révélée</b> : retirez 1 jeton générique d'un soutien. Si Innocents Contrôlés est en jeu, mettez en jeu la carte du dessus de votre deck, face cachée, engagée avec vous en tant que sbire [[Contrôlé]]."
     },
     {
         "code": "50059",
-        "name": "Discovered",
-        "text": "<b><i>Give to the Nick Fury player.</i></b>\n<b>Une fois révélée</b> : change to Assault suit form. If there is no threat on your suit form upgrade, this card gains surge. Otherwise, choose to either take 1 damage for each threat on your suit form upgrade, or remove each threat from your suit form upgrade. In either case, discard this card."
+        "name": "Découvert",
+        "text": "<b><i>Donnez cette carte au joueur de Nick Fury.</i></b>\n<b>Une fois révélée</b> : passez sous forme d'uniforme Assaut. S'il n'y a pas de menace sur votre amélioration Forme d'Uniforme, cette carte gagne Renfort.\nSinon, choisissez soit de subir 1 dégât pour chaque menace sur votre amélioration Forme d'Uniforme, soit de retirer chaque menace de votre Forme d'Uniforme. Dans les deux cas défaussez cette obligation."
     },
     {
         "code": "50060",
         "name": "Orion",
-        "text": "Ténacité.\nOrion can have any number of Tenace status cards.\n<b>Réponse forcée</b> : After Orion takes any amount of damage, give him a Tenace status card.\n<i>(Nick Fury's némésis minion.)</i>",
+        "text": "Ténacité.\nOrion peut avoir n'importe quel nombre de cartes d'état Tenace.\n<b>Réponse forcée</b> : après qu'Orion a subi n'importe quelle quantité de dégâts, donnez-lui une carte d'état Tenace.\n<i>(Sbire Némésis de Nick Fury.)</i>",
         "traits": "Leviathan."
     },
     {
         "code": "50061",
-        "name": "Acquire Infinity Formula",
-        "text": "<b>Réponse forcée</b> : After Nick Fury takes any amount of damage, give Orion a Tenace status card. If Orion is not in play, trouvez him and put him into play engaged with the Nick Fury player."
+        "name": "Obtenir le Mélange Éternel",
+        "text": "<b>Réponse forcée</b> : après que Nick Fury a subi n'importe quelle quantité de dégâts, donnez à Orion une carte d'état Tenace. Si Orion n'est pas en jeu, trouvez-le et mettez-le en jeu engagé avec le joueur de Nick Fury."
     },
     {
         "code": "50062",
-        "flavor": "Formerly a secret branch of the KGB, Leviathan has gone independent with their aim of world domination.",
-        "name": "Leviathan Soldier",
-        "text": "Ténacité.\n[star] <b>Réponse forcée</b> : After Leviathan Soldier schemes, deal 1 damage to the engaged player's identity.",
+        "flavor": "Jadis une branche secrète du KGB, le Léviathan a pris son indépendance en visant la domination mondiale.",
+        "name": "Soldat du Leviathan",
+        "text": "Ténacité.\n[star] <b>Réponse forcée</b> : après que le Soldat du Léviathan a manigancé, infligez 1 dégât à l'identité du joueur engagé.",
         "traits": "Leviathan."
     },
     {
         "code": "50063",
-        "name": "Cold Storage",
-        "text": "<b>Une fois révélée</b> : search the encounter deck and discard pile for a [[Leviathan]] minion and put it into play engaged with you. <i>(Shuffle.)</i> Otherwise, take 2 damage.\n<hr />\n<hr>[star] <b>Boost</b> : take 1 damage."
+        "name": "Chambre Froide",
+        "text": "<b>Une fois révélée</b> : cherchez un sbire [[Leviathan]] dans le deck Rencontre ou la pile de défausse Rencontre et mettez-le en jeu engagé avec vous. <i>(Shuffle.)</i> Sinon, subissez 2 dégâts.\n<hr />\n<hr>[star] <b>Boost</b> : subissez 1 dégât."
     },
     {
         "code": "50064",
         "name": "Black Widow",
-        "text": "<b>Interruption forcée</b> : when a character you control attacks Black Widow, remove 1 threat from the main scheme <i>(ignoring any crisis icons in play)</i> → discard the top card of the encounter deck and resolve each « <b>Preparation</b> » ability on that card.",
-        "traits": "Spy."
+        "text": "<b>Interruption forcée</b> : quand un personnage que vous contrôlez attaque Black Widow, retirez 1 menace de la manigance principale (<i>en ignorant toute icône de crise en jeu</i>) → défaussez la carte du dessus du deck Rencontre et résolvez chaque capacité « <b>Préparation</b> » de cette carte.",
+        "traits": "Espion."
     },
     {
         "code": "50065",
         "name": "Black Widow",
-        "text": "<b>Une fois révélée</b> : place 2[per_hero] threat on the main scheme.\n<b>Interruption forcée</b> : when a character you control attacks Black Widow, remove 1 threat from the main scheme → discard the top card of the encounter deck and resolve each « <b>Preparation</b> » ability on that card.",
-        "traits": "Spy."
+        "text": "<b>Une fois révélée</b> : placez 2 [per_hero] menaces sur la manigance principale.\n<b>Interruption forcée</b> : quand un personnage que vous contrôlez attaque Black Widow, retirez 1 menace de la manigance principale → défaussez la carte du dessus du deck Rencontre et résolvez chaque capacité « <b>Préparation</b> » de cette carte.",
+        "traits": "Espion."
     },
     {
         "code": "50066",
         "name": "Black Widow",
-        "text": "<b>Une fois révélée</b> : place 3[per_hero] threat on the main scheme.\n<b>Interruption forcée</b> : when a character you control attacks Black Widow, remove 1 threat from the main scheme → discard the top card of the encounter deck and resolve each « <b>Preparation</b> » ability on that card.",
-        "traits": "Spy."
+        "text": "<b>Une fois révélée</b> : placez 3 [per_hero] menaces sur la manigance principale.\n<b>Interruption forcée</b> : quand un personnage que vous contrôlez attaque Black Widow, retirez 1 menace de la manigance principale → défaussez la carte du dessus du deck Rencontre et résolvez chaque capacité « <b>Préparation</b> » de cette carte.",
+        "traits": "Espion."
     },
     {
         "code": "50067a",
-        "name": "The Widow's Web",
-        "text": "<b>Contents</b> : Black Widow (I) and Black Widow (II). <i>(Black Widow (II) and Black Widow (III) instead for expert mode.)</i> Black Widow and Standard encounter sets. Two modular encounter sets <i>(A.I.M. Abduction and A.I.M. Science)</i>.\n<b>Setup</b> : each player searches the encounter deck for a minion and puts it into play engaged with them. <i>(Shuffle.)</i>"
+        "name": "La Toile de la Veuve",
+        "text": "<b>Contenu</b> : Black Widow (I) et Black Widow (II). <i>(Black Widow (II) et Black Widow (III) à la place en mode expert.)</i>\nLes sets de rencontre Black Widow et Standard. Deux sets de rencontre modulaires <i>(Enlèvement de l'A.I.M.et Science de l'A.I.M.)</i>.\n<b>Mise en place</b> : chaque joueur cherche un sbire dans le deck Rencontre  et le met en jeu engagé avec lui. <i>(Mélangez le deck Rencontre.)</i>"
     },
     {
         "code": "50067b",
-        "flavor": "You track the missing S.H.I.E.L.D. specialist to a decommissioned stretch of subway tunnel and discover her kidnappers' base of operations.",
-        "name": "The Widow's Web",
-        "text": "X is Black Widow's stage number.\n<b>If this stage is completed, the players lose the game.</b>"
+        "flavor": "Vous retrouvez la spécialiste disparue du S.H.I.E.L.D. dans un tunnel de métro désaffecté et découvrez la base d'opérations de ses kidnappeurs.",
+        "name": "La Toile de la Veuve",
+        "text": "X est égale au numéro du stade de Black Widow.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
     },
     {
         "code": "50068",
-        "name": "Black Widow's Gauntlet",
-        "text": "Attack to Black Widow.\nBlack Widow gains Riposte 1.\n<b>Réponse de héros</b> : after a character you control attacks Black Widow, if no « <b>Preparation</b> » ability was resolved, discard this card <i>(after resolving the Riposte keyword)</i>.\n<hr />\n<b>Preparation</b> : attach this card to Black Widow.",
-        "traits": "Tech. Weapon."
+        "name": "Bracelet de Black Widow",
+        "text": "Attachez cette carte à Black Widow.\nBlack Widow gagne Riposte 1.\n<b>Réponse de héros</b> : après qu'un personnage que vous contrôlez a attaqué Black Widow, si aucune capacité « <b>Préparation</b> » n'a été résolue, défaussez cet attachement <i>(après avoir résolu le mot‑clé Riposte)</i>.\n<hr />\n<b>Preparation</b> : attachez cette carte à Black Widow.",
+        "traits": "Tech. Arme."
     },
     {
         "code": "50069",
-        "name": "Grappling Hook",
-        "text": "Attack to Black Widow.\n<b>Interruption forcée</b> : when a player plays an event card, cancel its effects and discard it. Then, discard this card.\n<hr />\n<b>Preparation</b> : discard 1 event card from your hand.",
-        "traits": "Item."
+        "name": "Grappin",
+        "text": "Attachez cette carte à Black Widow.\n<b>Interruption forcée</b> : quand un joueur joue une carte Événement, annulez ses effets et défaussez‑la. Ensuite, défaussez cet attachement.\n<hr />\n<b>Préparation</b> : défaussez 1 carte Événement de votre main.",
+        "traits": "Objet."
     },
     {
         "code": "50070",
-        "name": "Night Vision Goggles",
-        "text": "Attack to Black Widow.\nEach encounter card without a printed « <b>Preparation</b> » ability gains « <b>Preparation</b> : prevent all damage from this attack. Then, discard Night Vision Goggles. »\n<hr />\n<b>Preparation</b> : attach this card to Black Widow.",
-        "traits": "Item."
+        "name": "Les Lunettes de Vision Nocturne",
+        "text": "Attachez cette carte à Black Widow.\nChaque carte Rencontre sans capacité « <b>Préparation</b> » imprimée gagne :\n« <b>Préparation</b> : empêchez tous les dégâts de cette attaque. Ensuite, défaussez Les Lunettes de Vision Nocturne. »\n<hr />\n<b>Préparation</b> : attachez cette carte à Black Widow.",
+        "traits": "Objet."
     },
     {
         "code": "50071",
-        "name": "Stun Net",
-        "text": "Attach to your identity.\nAttached character cannot attack.\n<b>Action de héros</b> : exhaust a character you control → discard this card. Any player may trigger this ability.\n<hr />\n<b>Preparation</b> : after this attack, attach this card to the attacking character.",
-        "traits": "Item."
+        "name": "Filet Étourdissant",
+        "text": "Attachez cette carte à votre identité.\nLe personnage attaché ne peut pas attaquer.\n<b>Action de héros</b> : inclinez un personnage que vous contrôlez → défaussez cet attachement. N'importe quel joueur peut déclencher cette capacité.\n<hr />\n<b>Préparation</b> : après cette attaque, attachez cette carte au personnage attaquant.",
+        "traits": "Objet."
     },
     {
         "code": "50072",
-        "name": "A.I.M. Commando",
-        "text": "Coup rapide.\n<hr />\n<b>Preparation</b> : after this attack, put this minion into play engaged with you.",
+        "name": "Commando de l'A.I.M.",
+        "text": "Coup Rapide.\n<hr />\n<b>Preparation</b> : après cette attaque, mettez en jeu ce sbire engagé avec vous.",
         "traits": "A.I.M."
     },
     {
         "code": "50073",
-        "name": "A.I.M. Grunt",
-        "text": "Garde.\n<hr />\n<b>Preparation</b> : put this minion into play engaged with you. Then, resolve this attack against A.I.M. Grunt instead.",
+        "name": "Soudard de l'A.I.M.",
+        "text": "Garde.\n<hr />\n<b>Preparation</b> : mettez en jeu ce sbire engagé avec vous. Ensuite, résolvez cette attaque contre le Soudard de l'A.I.M. à la place.",
         "traits": "A.I.M."
     },
     {
         "code": "50074",
-        "name": "Automated Defenses",
-        "text": "Entrave 1[per_hero].\nEach encounter card without a printed « <b>Preparation</b> » ability gains « <b>Preparation</b> : deal 1 damage to the attacking character. »"
+        "name": "Défenses Automatisées",
+        "text": "Entrave 1[per_hero].\nChaque carte Rencontre sans capacité « <b>Préparation</b> » imprimée gagne :\n« <b>Préparation</b> : infligez 1 dégât au personnage attaquant. »"
     },
     {
         "code": "50075",
-        "name": "Destroy Evidence",
-        "text": "Entrave 2[per_hero].\nEach other encounter card gains incite 1. <i>(When revealed, place 1 threat on the main scheme.)</i>"
+        "name": "Détruire les Preuves",
+        "text": "Entrave 2[per_hero].\nChaque autre carte Rencontre gagne Incitation 1.\n<i>(Une fois révélée, placez 1 menace sur la manigance principale.)</i>"
     },
     {
         "code": "50076",
-        "name": "Attacrobatics",
-        "text": "<b>Une fois révélée</b> : if you are in alter-ego form, change to hero form. Black Widow attacks you. Give her an additional boost card for this attack.\n<hr />\n<b>Preparation</b> : prevent all damage from this attack. In expert mode, deal that much damage to the attacking character."
+        "name": "Attaque Acrobatique",
+        "text": "<b>Une fois révélée</b> : si vous êtes sous forme d'alter ego, passez sous forme de héros. Black Widow vous attaque. Donnez‑lui une carte de boost supplémentaire pour cette attaque.\n<hr />\n<b>Préparation</b> : prévenez tous les dégâts de cette attaque. En mode expert, infligez le même nombre de dégâts au personnage attaquant."
     },
     {
         "code": "50077",
-        "name": "Covert Ops",
-        "text": "<b>Une fois révélée</b> : you are confused. Black Widow schemes.\n<hr />\n<b>Preparation</b> : place 1 threat on each scheme."
+        "name": "Opération Secrète",
+        "text": "<b>Une fois révélée</b> : vous êtes désorienté. Black Widow manigance.\n<hr />\n<b>Préparation</b> : placez 1 menace sur chaque manigance."
     },
     {
         "code": "50078",
-        "name": "Dance of Death",
-        "text": "<b>Une fois révélée</b> : deal 1 damage to a character you control. Deal 2 damage to a second character you control. Deal 3 damage to a third character you control.\n<hr />\n<b>Preparation</b> : deal 1 damage to each character you control."
+        "name": "Danse de la Mort",
+        "text": "<b>Une fois révélée</b> : infligez 1 dégât à un personnage que vous contrôlez.\nInfligez 2 dégâts à un deuxième personnage que vous contrôlez.\nInfligez 3 dégâts à un troisième personnage que vous contrôlez.\n<hr />\n<b>Préparation</b> : infligez 1 dégât à chaque personnage que vous contrôlez."
     },
     {
         "code": "50079",
-        "name": "Widow's Bite",
-        "text": "<b>Une fois révélée</b> : you are stunned. Take 1 damage (2 damage instead if you were already stunned).\n<hr />\n<b>Preparation</b> : after this attack, sonné the attacking character."
+        "name": "Morsure de la Veuve",
+        "text": "<b>Une fois révélée</b> : vous êtes sonné. Subissez 1 dégât (2 dégâts à la place si vous étiez déjà sonné).\n<hr />\n<b>Préparation</b> : après cette attaque, sonnez le personnage attaquant."
     },
     {
         "code": "50080",
-        "name": "A.I.M. Abductor",
-        "text": "<b>Une fois révélée</b> : tuck the ally you control with the most remaining hit points under Abduct Superhumans. Otherwise, place 2 threat on Abduct Superhumans. If Abduct Superhumans is not in play, trouvez it and put it into play.",
+        "name": "Ravisseur de l'A.I.M.",
+        "text": "<b>Une fois révélée</b> : intercalez sous Enlever des Superhumains l'allié que vous contrôlez ayant le plus de points de vie restants. Sinon, placez 2 menaces sur Enlever des Superhumains. Si Enlever des Superhumains n'est pas en jeu, trouvez-la et mettez-la en jeu.",
         "traits": "A.I.M."
     },
     {
         "code": "50081",
-        "name": "Abduct Superhumans",
-        "text": "Surge.\n<b>Interruption forcée</b> : when an ally leaves play, tuck it under here and place threat here equal to its cost. Then, place 1 acceleration token here.\n<b>Une fois déjouée</b> : put each ally tucked here into play under its owner's control."
+        "name": "Enlever des Superhumains",
+        "text": "Renfort.\n<b>Interruption forcée</b> : quand un allié quitte la partie, intercalez‑le sous cette manigance et placez sur cette manigance un nombre de menaces égal à son coût. Ensuite, placez 1 pion Accélération sur cette manigance.\n\n<b>Une fois déjouée</b> : mettez en jeu chaque allié intercalé ici, sous le contrôle de son propriétaire."
     },
     {
         "code": "50082",
-        "name": "Nabbed!",
-        "text": "<b>Une fois révélée</b> : If Abduct Superhumans is not in play, trouvez it and put it into play. Discard cards from the top of your deck until an ally is discarded and tuck it under Abduct Superhumans. Place threat equal to that ally's cost and 1 acceleration token on Abduct Superhumans."
+        "name": "Piégé !",
+        "text": "<b>Une fois révélée</b> : si Enlever des Superhumains n'est pas en jeu, trouvez‑la et mettez‑la en jeu. Défaussez des cartes du dessus de votre deck jusqu'à ce qu'un allié soit défaussé, puis intercalez‑le sous Enlever des Superhumains. Placez sur Enlever des Superhumains un nombre de menaces égal au coût de cet allié, et 1 pion Accélération."
     },
     {
         "code": "50083",
-        "name": "A.I.M. Scientist",
-        "text": "Surge. Vulnerable. <i>(Discard this character if it is stunned or confused.)</i>\nWhile the engaged player is engaged with another minion, A.I.M. Scientist cannot be attacked.",
+        "name": "Scientifique de l'A.I.M.",
+        "text": "Renfort.\nVulnérable. <i>(Défaussez ce personnage s'il est sonné ou désorienté.)</i>\nTant que le joueur engagé est engagé avec un autre sbire, Scientifique de l'A.I.M. ne peut pas être attaqué.",
         "traits": "A.I.M."
     },
     {
         "code": "50084",
-        "name": "A.I.M. Soldier",
-        "text": "Patrouille.\n<b>Une fois révélée</b> : trouvez A.I.M. Scientist and put it into play engaged with you. <i>(If it is already in play, it engages you.)</i> If A.I.M. Scientist did not enter play this way, place 1 threat on the main scheme.",
+        "name": "Soldat de l'A.I.M.",
+        "text": "Patrouille.\n<b>Une fois révélée</b> : trouvez le Scientifique de l'A.I.M. et mettez‑le en jeu engagé avec vous. <i>(S'il est déjà en jeu, il vous engage.)</i>\nSi le Scientifique de l'A.I.M. n'est pas entré en jeu par cet effet, placez 1 menace sur la manigance principale.",
         "traits": "A.I.M."
     },
     {
         "code": "50085",
-        "flavor": "Derogatorily referred to as \"beekeepers,\" members of Advanced Idea Mechanics are brilliant but ruthless, seeking world domination through technological power.",
-        "name": "Mad Science",
-        "text": "Entrave 2[per_hero].\nEach [[A.I.M.]] minion gains 1 acceleration icon ([acceleration])."
+        "flavor": "Souvent moqués sous le sobriquet 'd'apiculteurs', les membres de l'Avance Idéologique en Mécanique sont brillants, mais impitoyables et cherchent à dominer le monde grâce à leur puissance technologique.",
+        "name": "Science Sans Conscience",
+        "text": "Entrave 2[per_hero].\nChaque sbire [[A.I.M.]] gagne 1 icône d'accélération ([acceleration])."
     },
     {
         "code": "50086a",
         "name": "Batroc",
-        "text": "[star] <b>Réponse forcée</b> : After Batroc attacks, place 1 threat on Alert Level.\n<b>Interruption forcée</b> : When Batroc would be defeated, reset his hit points to 8 instead. Then, remove 6 threat from the main scheme.",
-        "traits": "Batroc's Brigade. Mercenary."
+        "text": "[star] <b>Réponse forcée</b> : après que Batroc a attaqué, placez 1 menace sur Niveau d'Alerte.\n<b>Interruption forcée</b> : quand Batroc devrait être vaincu, réinitialisez ses points de vie à 8 à la place. Ensuite, retirez 6 menaces de la manigance principale.",
+        "traits": "Brigade de Batroc. Mercenaire."
     },
     {
         "code": "50086b",
         "name": "Batroc",
-        "text": "[star] <b>Réponse forcée</b> : After Batroc attacks, place 1 threat on Alert Level.\n<b>Interruption forcée</b> : When Batroc would be defeated, reset his hit points to 12 instead. Then, remove 6 threat from the main scheme.",
-        "traits": "Batroc's Brigade. Mercenary."
+        "text": "[star] <b>Réponse forcée</b> : après que Batroc a attaqué, placez 1 menace sur Niveau d'Alerte.\n<b>Interruption forcée</b> : quand Batroc devrait être vaincu, réinitialisez ses points de vie à 12 à la place. Ensuite, retirez 6 menaces de la manigance principale.",
+        "traits": "Brigade de Batroc. Mercenaire."
     },
     {
         "code": "50087a",
-        "name": "Infiltrate A.I.M. Island Embassy",
-        "text": "<b>Contents</b> : Batroc (A). <i>(Batroc (B) instead for expert mode.)</i> Batroc and Standard encounter sets. Two modular encounter sets <i>(A.I.M. Science and Batrocs's Brigade)</i>.\n<b>Setup</b> : set each Rescued Captive ally aside. Put the Alert Level environment into play, [[Low]] side faceup. In expert mode, place 2[per_hero] threat on Alert Level."
+        "name": "Infiltrez l'Ambassade Insulaire de l'A.I.M.",
+        "text": "<b>Contenu</b> : Batroc (A). <i>(Batroc (B) à la place en mode expert.)</i>\nLes sets de rencontre Batroc et Standard. Deux sets de rencontre modulaires <i>(Science de l'A.I.M. et Brigade de Batroc)</i>.\n<b>Mise en place</b> : mettez de côté chaque allié Captif Secouru.\nMettez en jeu l'environnement Niveau d'Alerte, face [[Bas]] visible.\nEn mode expert, placez 2[per_hero] menaces sur Niveau d'Alerte."
     },
     {
         "code": "50087b",
-        "flavor": "You sneak into the A.I.M. island embassy in search of the abducted S.H.I.E.L.D. specialist Sarah Garza. There you come face to face with the mercenary known as Batroc the Leaper.",
-        "name": "Infiltrate A.I.M. Island Embassy",
-        "text": "<b>Interruption forcée</b> : when the last threat is removed from this scheme, advance to stage 2A <i>(the players win by advancing)</i>.\n<b>If this stage is completed, the players lose the game.</b>"
+        "flavor": "Vous tentez de vous faufiler dans l'ambassade insulaire de l'A.I.M. à la recherche de Sarah Garza, spécialiste du S.H.I.E.L.D. qui a été enlevée. Là, vous tombez nez à nez avec le mercenaire connu sous le nom de Batroc le Sauteur.",
+        "name": "Infiltrez l'Ambassade Insulaire de l'A.I.M.",
+        "text": "<b>Interruption forcée</b> : quand la dernière menace a été retirée de cette manigance, avancez au stade 2A <i>(les joueurs gagnent en avançant)</i>.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
     },
     {
         "code": "50088a",
-        "flavor": "Now that you've penetrated the embassy, you need to locate Garza. You discover several holding cells in the embassy's basement. Hopefully one of them holds the kidnapped tech.",
-        "name": "Locate Missing Person"
+        "flavor": "Maintenant que vous avez pénétré dans l'ambassade, vous devez localiser Garza.\nVous découvrez plusieurs cellules de détention au le sous‑sol.\nAvec un peu de chance, l'une d'entre elle contient la technicienne kidnappée.",
+        "name": "Localiser les Disparus"
     },
     {
         "code": "50088b",
-        "name": "Locate Missing Person",
-        "text": "<b>Interruption forcée</b> : when the last threat is removed from this scheme, put 1 set-aside Rescued Captive ally into play exhausted under any player's control. The players may advance to stage 3A. If they do not advance, place 3[per_hero] threat here. <i>(The players win by advancing, but will need at least 1 Rescued Captive to survive.)</i>\n<b>If this stage is completed, the players lose the game.</b>"
+        "name": "Localiser les Disparus",
+        "text": "<b>Interruption forcée</b> : quand la dernière menace a été retirée de cette manigance, mettez en jeu 1 allié Captif Secouru mis de côté, incliné et sous le contrôle de n'importe quel joueur.\nLes joueurs peuvent avancer au stade 3A.\nS'ils n'avancent pas, placez 3[per_hero] menaces ici.\n<i>(Les joueurs gagnent en avançant, mais ils auront besoin d'au moins 1 Captif Secouru pour survivre.)</i>\n\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
     },
     {
         "code": "50089a",
-        "flavor": "You didn't find Garza, but you did find several other civilian prisoners. You must get them out safely.",
-        "name": "Extract Captives",
-        "text": "<b>Une fois révélée</b> : if the Alert Level is on its [[High]] side, deal each player 1 facedown encounter card. Otherwise, remove all threat from Alert Level and flip it to its [[High]] side. In either case, in expert mode, place 2[per_hero] threat on Alert Level."
+        "flavor": "Vous n'avez pas trouvé Garza, mais vous avez découvert de nombreux autres prisonniers, tous des civils. Vous devez les faire sortir sans les mettre en danger.",
+        "name": "Extraire les Captifs",
+        "text": "b>Une fois révélée</b> : si le Niveau d'Alerte est face [[Élevé]], attribuez à chaque joueur 1 carte Rencontre face cachée.\nSinon, retirez toutes les menace de Niveau d'Alerte et retournez‑la pour afficher sa face [[Élevé]].\nDans les deux cas, en mode expert, placez 2[per_hero] menaces sur Niveau d'Alerte."
     },
     {
         "code": "50089b",
-        "name": "Extract Captives",
-        "text": "In expert mode, each minion gains Coup rapide.\n<b>Interruption forcée</b> : when an enemy attacks, it attacks a Rescued Captive instead.\n<b>If there is no threat here, the players win the game.</b>\n<b>If this stage is completed or there are no Rescued Captive allies in play, the players lose the game.</b>"
+        "name": "Extraire les Captifs",
+        "text": "En mode expert, chaque sbire gagne Coup rapide.\n<b>Interruption forcée</b> : quand un ennemi attaque, il attaque un Captif Secouru à la place.\n<b>S'il n'y a plus de menace sur cette carte, les joueurs gagnent la partie.</b>\n<b>Si ce stade est achevé ou qu'il n'y a pas d'allié Captif Secouru en jeu, les joueurs perdent la partie.</b>"
     },
     {
         "code": "50090a",
-        "name": "Alert Level",
-        "text": "If there is at least 4[per_hero] threat here, remove all threat from here and flip this card.\n<b>Réponse forcée</b> : after a character is defeated except by consequential damage, place 1 threat here.\n<b>Action de héros</b> : spend 1 resource of any type → remove 1 threat from here.",
-        "traits": "Low."
+        "name": "Niveau d'Alerte",
+        "text": "S'il y a au moins 4[per_hero] menaces sur cette carte, retirez-en toutes les menaces et retournez-la.\n<b>Réponse forcée</b> : après qu'un personnage a été vaincu, pour une autre raison que des dégâts consécutifs, placez 1 menace sur cette carte.\n<b>Action de héros</b> : dépensez 1 ressource de n'importe quel type → retirez 1 menace de cette carte.",
+        "traits": "Bas."
     },
     {
         "code": "50090b",
-        "name": "Alert Level",
-        "text": "Batroc gets +1 SCH and +1 ATK.\n<b>If there is at least 4[per_hero] threat here, the players lose the game.</b>\n<b>Réponse forcée</b> : after a character is defeated except by consequential damage, place 1 threat here.\n<b>Action de héros</b> : spend 1 resource of any type → remove 1 threat from here.",
-        "traits": "High."
+        "name": "Niveau d'Alerte",
+        "text": "Batroc gagne +1 MNG et +1 ATQ.\n<b>S'il y a au moins 4[per_hero] menaces sur cette carte, les joueurs perdent la partie.</b>\n<b>Réponse forcée</b> : après qu'un personnage a été vaincu pour une autre raison que des dégâts consécutifs, placez 1 menace sur cette carte.\n<b>Action de héros</b> : dépensez 1 ressource de n'importe quel type → retirez 1 menace de cette carte.",
+        "traits": "Élevé."
     },
     {
         "code": "50091",
-        "name": "Rescued Captive",
-        "text": "Victory -1.\nDoes not count against your ally limit. Card abilities cannot remove this ally from play.\n<b>Action de héros</b> : Exhaust Rescued Captive → remove 1[per_hero] threat from the main scheme.",
-        "traits": "Civilian."
+        "name": "Captif Secouru",
+        "text": "Victoire -1.\nNe compte pas dans votre limite d'alliés.\nLes capacités de carte ne peuvent pas retirer cet allié du jeu.\n<b>Action de héros</b> : inclinez Captif Secouru → retirez 1[per_hero] menace de la manigance principale.",
+        "traits": "Civil."
     },
     {
         "code": "50092",
-        "name": "Heightened Reflexes",
-        "text": "Attach to Batroc.\nUtilisations (4 leap counters).\n<b>Interruption forcée</b> : When Batroc would take any amount of damage, prevent 2 of that damage and remove 1 leap counter from here.\n<hr />\n<hr>[star] <b>Boost</b> : attach this card to Batroc.",
+        "name": "Réflexes Augmentés",
+        "text": "Attachez cette carte à Batroc.\nUtilisations (4 jetons Saut).\n<b>Interruption forcée</b> : quand Batroc est censé subir n'importe quelle quantité de dégâts, prévenez 2 de ces dégâts et retirez 1 jeton Saut de cet attachement.\n<hr />\n<hr>[star] <b>Boost</b> : attachez cette carte à Batroc.",
         "traits": "Condition."
     },
     {
         "code": "50093",
-        "name": "Embassy Guard",
-        "text": "Garde. Vulnerable. <i>(Discard this character if it is stunned or confused.)</i>\nIf Alert Level is on its [[High]] side, this card gains surge.\n<b>Une fois déjouée</b> : place 1 threat on Alert Level.",
+        "name": "Garde de l'Ambassade",
+        "text": "Garde. Vulnérable.\n<i>(Défaussez ce personnage s'il est sonné ou désorienté.)</i>\nSi le Niveau d'Alerte est [[Élevé]], cette carte gagne Renfort.\n<b>Une fois vaincu</b> : placez 1 menace sur Niveau d'Alerte.",
         "traits": "A.I.M."
     },
     {
         "code": "50094",
-        "name": "Embassy Patrol",
-        "text": "Patrouille. Vulnerable. <i>(Discard this character if it is stunned or confused.)</i>\nIf Alert Level is on its [[High]] side, this card gains incite 1.\n<b>Une fois déjouée</b> : place 1 threat on Alert Level.",
+        "name": "Patrouille de l'Ambassade",
+        "text": "Patrouille. Vulnérable.  <i>(Défaussez ce personnage s'il est sonné ou désorienté.)</i>\nSi le Niveau d'Alerte est [[Élevé]], cette carte gagne Incitation 1.\n<b>Une fois vaincu</b> : placez 1 menace sur Niveau d'Alerte.",
         "traits": "A.I.M."
     },
     {
         "code": "50095",
-        "name": "Commandeer Security Office",
-        "text": "<b>Une fois révélée</b> : If Alert Level is on its [[High]] side, place 1 acceleration token here.\n<b>Une fois déjouée</b> : remove 1[per_hero] threat from Alert Level."
+        "name": "Infiltrer le Bureau de la Sécurité",
+        "text": "<b>Une fois révélée</b> : si le Niveau d'Alerte est [[Élevé]], placez 1 pion Accélération sur cette carte.\n<b>Une fois déjouée</b> : retirez 1[per_hero] menace du Niveau d'Alerte."
     },
     {
         "code": "50096",
-        "name": "Leaping Kick",
-        "text": "<b>When Revealed (Alter-Ego)</b> : Batroc schemes.\n<b>When Revealed (Hero)</b> : Batroc attacks the ally with the most remaining hit points. This attack gains Déferlement. If there were no allies in play, Batroc attacks you."
+        "name": "Coup de Pied Sauté",
+        "text": "<b>Une fois révélée (alter ego)</b> : Batroc manigance.\n<b>Une fois révélée (héros)</b> : Batroc attaque l'allié ayant le plus de points de vie restants. Cette attaque gagne Déferlement. S'il n'y a aucun allié en jeu, Batroc vous attaque."
     },
     {
         "code": "50097",
-        "name": "Security Cameras",
-        "text": "<b>When Revealed (Alter-Ego)</b> : remove 1 threat from Alert Level. This card gains surge.\n<b>When Revealed (Hero)</b> : for each character you control, choose to either exhaust that character or place 1 threat on Alert Level (2 threat instead if Alert Level is on its [[High]] side)."
+        "name": "Caméras de Sécurité",
+        "text": "<b>Une fois révélée (alter ego)</b> : retirez 1 menace du Niveau d'Alerte. Cette carte gagne Renfort.\n<b>Une fois révélée (héros)</b> : pour chaque personnage que vous contrôlez, choisissez soit d'incliner ce personnage, soit de placer 1 menace sur Niveau d'Alerte (2 menaces si le Niveau d'Alerte est [[Élevé]])."
     },
     {
         "code": "50098",
-        "flavor": "With each Machete's demise, the title passes to another member of the Lopez family.",
+        "flavor": "À la mort de chaque Machete, le titre passe à un autre membre du la famille Lopez.",
         "name": "Machete",
-        "text": "Surge. Vulnerable.\n[star] Machete's attacks gain Perçant.\n<b>Une fois déjouée</b> : Shuffle Machete into the encounter deck.",
-        "traits": "Batroc's Brigade. Mercenary."
+        "text": "Renfort. Vulnérable.\n[star] Les attaques de Machete gagnent Perçant.\n<b>Une fois vaincu</b> : mélangez Machete dans le deck Rencontre.",
+        "traits": "Brigade de Batroc. Mercenaire."
     },
     {
         "code": "50099",
         "name": "Rapido",
-        "text": "[star] Rapido's attacks gain À Distance and deal indirect damage.\n<b>Une fois révélée</b> : deal 1 damage to each character you control.\n<hr />\n<hr>[star] <b>Boost</b> : deal 1 damage to each character you control.",
-        "traits": "Batroc's Brigade. Mercenary."
+        "text": "[star] Les attaques de Rapido gagnent À Distance et infligent des dégâts indirects.\n<b>Une fois révélée</b> : infligez 1 dégât à chaque personnage que vous contrôlez.\n<hr />\n<hr>[star] <b>Boost</b> : infligez 1 dégât à chaque personnage que vous contrôlez.",
+        "traits": "Brigade de Batroc. Mercenaire."
     },
     {
         "code": "50100",
         "name": "Zaran",
-        "text": "[star] Zaran gets +X ATK, where X is the printed resource cost of the card tucked under him.\n<b>Une fois révélée</b> : tuck a [[Weapon]] upgrade you control under Zaran. Otherwise, tuck the top card of your deck under Zaran.",
-        "traits": "Batroc's Brigade. Mercenary."
+        "text": "[star] Zaran gagne +X ATQ, X étant le coût en ressources imprimé de la carte intercalée sous lui.\n<b>Une fois révélée</b> : intercalez sous Zaran une amélioration [[Arme]] que vous contrôlez.\nSinon, intercalez sous Zaran la carte du dessus de votre deck.",
+        "traits": "Brigade de Batroc. Mercenaire."
     },
     {
         "code": "50101",
-        "flavor": "« Money won't buy loyalty, but it helps » – Batroc",
-        "name": "Batroc's Brigade",
-        "text": "Each minion gains ténacité.\n<b>Une fois révélée</b> : give each enemy a Tenace status card.\n<b>Interruption de héros</b> : when you reveal a non-[[Élite]] minion, spend 3 resources of any type → cancel the effects of that minion and discard it."
+        "flavor": "« L'argent n'achète pas la loyauté mais ça aide » – Batroc",
+        "name": "Brigade de Batroc",
+        "text": "Chaque sbire gagne Tenacité.\n<b>Une fois révélée</b> : donnez à chaque ennemi une carte d'état Tenace.\n<b>Interruption de héros</b> : quand vous révélez un sbire non‑[[Élite]], dépensez 3 ressources de n'importe quel type → annulez les effets de ce sbire et défaussez‑le."
     },
     {
         "code": "50102",
-        "name": "Soldiers of Fortune",
-        "text": "<b>Une fois révélée</b> : choose :\n• Spend 3 resources of any type.\n• trouvez a [[Mercenary]] minion and reveal it. If no minion entered play this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b> : choose : either spend 1 resource of any type, or this card gains [boost][boost][boost]."
+        "name": "Soldats de Fortune",
+        "text": "<b>Une fois révélée</b> : choisissez :\n• Dépensez 3 ressources de n'importe quel type.\n• Trouvez un sbire [[Mercenaire]] et révélez‑le. Si aucun sbire n'est entré en jeu par cet effet, cette carte gagne Renfort.\n<hr />\n<hr>[star] <b>Boost</b> : choisissez : soit vous dépensez 1 ressource de n'importe quel type, soit cette carte gagne [boost][boost][boost]."
     },
     {
         "code": "50103a",
         "name": "M.O.D.O.K.",
-        "text": "Riposte 1.\n<b>Interruption forcée</b> : When M.O.D.O.K. would be defeated, if a Holding Cell is in play, remove 2 lock counters from it and reset M.O.D.O.K.'s hit points to 10 instead. Otherwise, <b>the players win the game</b>.",
-        "traits": "Aerial. Cyborg. Psionic."
+        "text": "Riposte 1.\n<b>Interruption forcée</b> : quand M.O.D.O.K. est censé être vaincu, si une Cellule de Confinement est en jeu, retirez-en 2 jetons Verrou et réinitialisez les points de vie de M.O.D.O.K. à 10 à la place.\nSinon, <b>les joueurs gagnent la partie</b>.",
+        "traits": "Aérien. Cyborg. Psionique."
     },
     {
         "code": "50103b",
         "name": "M.O.D.O.K.",
-        "text": "Riposte 2. Steady.\n<b>Interruption forcée</b> : When M.O.D.O.K. would be defeated, if a Holding Cell is in play, remove 2 lock counters from it and reset M.O.D.O.K.'s hit points to 14 instead. Otherwise, <b>the players win the game</b>.",
-        "traits": "Aerial. Cyborg. Psionic."
+        "text": "Riposte 2. Solide.\n<b>Interruption forcée</b> : quand M.O.D.O.K. est censé être vaincu, si une Cellule de Confinement est en jeu, retirez-en 2 jetons Verrou et réinitialisez les points de vie de M.O.D.O.K. à 14 à la place.\nSinon, <b>les joueurs gagnent la partie</b>.",
+        "traits": "Aérien. Cyborg. Psionique."
     },
     {
         "code": "50104a",
-        "name": "Upgrading Adaptoids",
-        "text": "<b>Contents</b> : m.O.D.O.K. (A). <i>(M.O.D.O.K. (B) instead for expert mode.)</i> M.O.D.O.K. and Standard encounter sets. One modular encounter set <i>(Scientist Supreme)</i>.\n<b>Setup</b> : create the Holding Cell deck <i>(see rulebook p. 13)</i>. Put 1 random [[Adaptoid]] environment into play (2 environments instead in expert mode) and set the others aside. Each player searches the encounter deck for a copy of Adaptoid and reveals it."
+        "name": "Améliorer les Adaptoïdes",
+        "text": "<b>Contenu</b> : m.O.D.O.K. (A). <i>(M.O.D.O.K. (B) à la place en mode expert.)</i> Les sets de rencontre M.O.D.O.K. et Standard. Un set de rencontre modulaire <i>(Scientifique Suprême)</i>.\n<b>Mise en place</b> : créez le deck Cellule de Confinement <i>(voir le livret de règles p. 13)</i>. Mettez en jeu 1 environnement [[Adaptoïde]] pris au hasard <i>(2 environnements en mode expert)</i> et mettez les autres de côté. Chaque joueur cherche une copie d'Adaptoïde dans le deck Rencontre et la révèle."
     },
     {
         "code": "50104b",
-        "name": "Upgrading Adaptoids",
-        "text": "<b>Interruption forcée</b> : when this stage would be completed, put 1 random set-aside [[Adaptoid]] environment into play instead. Then, <b>if there are no set-aside [[Adaptoid]] environments, the players lose the game</b>. Otherwise, remove all threat from here and shuffle each Adaptoid minion from the encounter discard pile into the encounter deck."
+        "name": "Améliorer les Adaptoïdes",
+        "text": "<b>Interruption forcée</b> : quand ce stade est censé être achevé, prenez au hasard 1 environnement [[Adaptoïde]] mis de côté à la place et mettez-le en jeu.\nEnsuite, <b>s'il n'y a plus d'environnements [[Adaptoïde]] mis de côté, les joueurs perdent la partie</b>.\nSinon, retirez toutes les menaces sur cette manigance et mélangez dans le deck Rencontre chaque sbire Adaptoïde de la pile de défausse Rencontre."
     },
     {
         "code": "50105a",
-        "name": "Holding Cell",
-        "text": "Enters play with 2[per_hero] lock counters on it.\n<b>Interruption forcée</b> : when the last lock counter is removed from here, flip this card and put Flying Inhuman into Jouez cette carte sous le contrôle de n'importe quel joueur.\n<b>Action de héros</b> : spend [energy] [energy] resources or 3 resources of any type → remove 1 lock counter from here."
+        "name": "Cellule de Confinement",
+        "text": "Entre en jeu avec 2[per_hero] jetons Verrou dessus.\n<b>Interruption forcée</b> : quand le dernier jeton Verrou est retiré de cette carte, retournez-la et mettez en jeu Inhumain Volant sous le contrôle de n'importe quel joueur.\n<b>Action de héros</b> : dépensez les ressources suivantes [energy] [energy] ou 3 ressources de n'importe quel type → retirez 1 jeton Verrou de cette carte."
     },
     {
         "code": "50105b",
-        "name": "Flying Inhuman",
-        "text": "Does not count against your ally limit.\n[star] <b>Réponse</b> : after this ally thwarts, remove 1 threat from another scheme.\n<b>Réponse forcée</b> : after this card leaves play, flip it and place it on the bottom of the Holding Cell deck.",
-        "traits": "Aerial. Inhuman. Rescued."
+        "name": "Inhumain Volant",
+        "text": "Ne compte pas dans votre limite d'alliés.\n[star] <b>Réponse</b> : après que cet allié a contré, retirez 1 menace d'une autre manigance.\n<b>Réponse forcée</b> : après que cette carte a quitté le jeu, retournez-la et placez-la sous le deck Cellule de Confinement.",
+        "traits": "Aérien. Inhumain. Secouru."
     },
     {
         "code": "50106a",
-        "name": "Holding Cell",
-        "text": "Enters play with 2[per_hero] lock counters on it.\n<b>Interruption forcée</b> : when the last lock counter is removed from here, flip this card and put Psionic Inhuman into Jouez cette carte sous le contrôle de n'importe quel joueur.\n<b>Action de héros</b> : spend [mental] [mental] resources or 3 resources of any type → remove 1 lock counter from here."
+        "name": "Cellule de Confinement",
+        "text": "Entre en jeu avec 2[per_hero] jetons Verrou dessus.\n<b>Interruption forcée</b> : quand le dernier jeton Verrou est retiré de cette carte, retournez-la et mettez en jeu Inhumain Psionique sous le contrôle de n'importe quel joueur.\n<b>Action de héros</b> : dépensez les ressources suivantes [mental][mental] ou 3 ressources de n'importe quel type → retirez 1 jeton Verrou de cette carte."
     },
     {
         "code": "50106b",
-        "name": "Psionic Inhuman",
-        "text": "Does not count against your ally limit.\n[star] <b>Réponse</b> : after this ally thwarts, remove 1 lock counter from a Holding Cell.\n<b>Réponse forcée</b> : after this card leaves play, flip it and place it on the bottom of the Holding Cell deck.",
-        "traits": "Inhuman. Psionic. Rescued."
+        "name": "Inhumain Psionique",
+        "text": "Ne compte pas dans votre limite d'alliés.\n[star] <b>Réponse</b> : après que cet allié a contré, retirez 1 jeton Verrou d'une Cellule de Confinement.\n<b>Réponse forcée</b> : après que cette carte a quitté le jeu, retournez‑la et placez‑la sous le deck Cellule de Confinement.",
+        "traits": "Inhumain. Psionique. Secouru."
     },
     {
         "code": "50107a",
-        "name": "Holding Cell",
-        "text": "Enters play with 2[per_hero] lock counters on it.\n<b>Interruption forcée</b> : when the last lock counter is removed from here, flip this card and put Sarah Garza into Jouez cette carte sous le contrôle de n'importe quel joueur.\n<b>Action de héros</b> : spend a [wild] resource or 3 resources of any type → remove 1 lock counter from here."
+        "name": "Cellule de Confinement",
+        "text": "Entre en jeu avec 2[per_hero] jetons Verrou dessus.\n<b>Interruption forcée</b> : quand le dernier jeton Verrou est retiré de cette carte, retournez-la et mettez en jeu Sarah Garza sous le contrôle de n'importe quel joueur.\n<b>Action de héros</b> : dépensez une ressource [wild] ou 3 ressources de n'importe quel type → retirez 1 jeton Verrou de cette carte."
     },
     {
         "code": "50107b",
         "name": "Sarah Garza",
-        "text": "Does not count against your ally limit.\n[star] Sarah Garza's attacks gain Déferlement and À Distance.\n<b>Réponse forcée</b> : after this card leaves play, flip it and place it on the bottom of the Holding Cell deck.",
-        "traits": "Inhuman. Rescued. S.H.I.E.L.D."
+        "text": "Ne compte pas dans votre limite d'alliés.\n[star] Les attaques de Sarah Garza gagnent Déferlement et À Distance.\n<b>Réponse forcée</b> : après que cette carte a quitté le jeu, retournez‑la et placez‑la sous le deck Cellule de Confinement.",
+        "traits": "Inhumain. Secouru. S.H.I.E.L.D."
     },
     {
         "code": "50108a",
-        "name": "Holding Cell",
-        "text": "Enters play with 2[per_hero] lock counters on it.\n<b>Interruption forcée</b> : when the last lock counter is removed from here, flip this card and put Strong Inhuman into Jouez cette carte sous le contrôle de n'importe quel joueur.\n<b>Action de héros</b> : spend [physical] [physical] resources or 3 resources of any type → remove 1 lock counter from here."
+        "name": "Cellule de Confinement",
+        "text": "Entre en jeu avec 2[per_hero] jetons Verrou dessus.\n<b>Interruption forcée</b> : quand le dernier jeton Verrou est retiré de cette carte, retournez-la et mettez en jeu Inhumain Puissant sous le contrôle de n'importe quel joueur.\n<b>Action de héros</b> : dépensez les ressources suivantes [physical][physical] ou 3 ressources de n'importe quel type → retirez 1 jeton Verrou de cette carte."
     },
     {
         "code": "50108b",
-        "name": "Strong Inhuman",
-        "text": "Ténacité.\nDoes not count against your ally limit.\n<b>Interruption forcée</b> : after this card leaves play, flip it and place it on the bottom of the Holding Cell deck.",
-        "traits": "Inhuman. Rescued."
+        "name": "Inhumain Puissant",
+        "text": "Ténacité.\nNe compte pas dans votre limite d'alliés.\n<b>Réponse forcée</b> : après que cette carte a quitté le jeu, retournez‑la et placez‑la sous le deck Cellule de Confinement.",
+        "traits": "Inhumain. Secouru."
     },
     {
         "code": "50109",
-        "flavor": "« They fly now?\"\n\"They fly now. » – Maria Hill and Nick Fury",
-        "name": "Flying Upgrade",
-        "text": "Each Adaptoid gets +1 SCH, gains incite 1, and gains the [[Aerial]] trait.",
-        "traits": "Adaptoid."
+        "flavor": "« Ils volent maintenant ? » « Ils volent maintenant. » – Maria Hill et Nick Fury",
+        "name": "Amélioration de Vol",
+        "text": "Chaque Adaptoïde gagne +1 MNG, Incitation 1 et le trait [[Aérien]].",
+        "traits": "Adaptoïde."
     },
     {
         "code": "50110",
-        "flavor": "« Remember your psionic defense training! » – Maria Hill",
-        "name": "Psionic Upgrade",
-        "text": "Each Adaptoid gains Vilenie and the [[Psionic]] trait.",
-        "traits": "Adaptoid."
+        "flavor": "« Rappelez-vous votre entraînement à la défense psionique ! » – Maria Hill",
+        "name": "Amélioration Psionique",
+        "text": "Chaque Adaptoïde gagne Vilenie et le trait [[Psionique]].",
+        "traits": "Adaptoïde."
     },
     {
         "code": "50111",
-        "flavor": "« Well, that's just great. These things can control my powers better than I can! » – Sarah Garza",
-        "name": "Sarah Garza Upgrade",
-        "text": "Each Adaptoid gains the [[Élite]] trait.\nEach Adaptoid gets +1 ATK and its attacks gain Déferlement and À Distance.",
-        "traits": "Adaptoid."
+        "flavor": "« Et bien voilà ! On y est ! Ces choses peuvent contrôler nos pouvoirs encore mieux que moi ! » – Sarah Garza",
+        "name": "Amélioration Sarah Garza",
+        "text": "Chaque Adaptoïde gagne le trait [[Élite]].\nChaque Adaptoïde gagne +1 ATQ et ses attaques gagnent Déferlement et À Distance.",
+        "traits": "Adaptoïde."
     },
     {
         "code": "50112",
-        "flavor": "« I don't think we'd like her when she's angry! » – Quake",
-        "name": "Strong Upgrade",
-        "text": "Each Adaptoid gets +1 ATK, gains ténacité, and gains the [[Brute]] trait.",
-        "traits": "Adaptoid."
+        "flavor": "« Je ne suis pas sûre que nous aurons envie de la mettre en colère ! » – Quake",
+        "name": "Amélioration de Puissance",
+        "text": "Chaque Adaptoïde gage +1 ATQ, Ténacité et le trait [[Brute]].",
+        "traits": "Adaptoïde."
     },
     {
         "code": "50113",
-        "name": "Adaptoid",
-        "text": "[star] <i>(Check [[Adaptoid]] environments for modifiers to these values.)</i>\n<b>Une fois déjouée</b> : remove 1 all-purpose counter from an environment.\n<hr />\n<hr>[star] <b>Boost</b> : after this activation, shuffle Adaptoid into the encounter deck.",
-        "traits": "Adaptoid."
+        "name": "Adaptoïde",
+        "text": "[star] <i>(appliquez les modificateurs accordés par les environnements [[Adaptoïde]].)</i>\n<b>Une fois vaincu</b> : retirez 1 jeton générique d'un environnement.\n<hr />\n<hr>[star] <b>Boost</b> : après cette activation, mélangez l'Adaptoïde dans le deck Rencontre.",
+        "traits": "Adaptoïde."
     },
     {
         "code": "50114",
-        "flavor": "« I will crush you like a bug! » – M.O.D.O.K.",
-        "name": "Automated Mobile Unit",
-        "text": "Attach to M.O.D.O.K.\nM.O.D.O.K. gets +5 hit points.\n<b>Réponse forcée</b> : After M.O.D.O.K.'s hit points are reset, discard this card."
+        "flavor": "« Je vais t'écraser comme un insecte ! » – M.O.D.O.K.",
+        "name": "Unité Mobile Automatisée",
+        "text": "Attachez cette carte à M.O.D.O.K.\nM.O.D.O.K. gagne +5 points de vie.\n<b>Réponse forcée</b> : après que les points de vie de M.O.D.O.K. ont été réinitialisés, défaussez cet attachement."
     },
     {
         "code": "50115",
-        "flavor": "M.O.D.O.K. channels his psionic powers through the crystal on his giant forehead.",
-        "name": "Focusing Crystal",
-        "text": "Attach to M.O.D.O.K.\n<b>Réponse forcée</b> : After M.O.D.O.K.'s hit points are reset, discard this card."
+        "flavor": "M.O.D.O.K. concentre ses pouvoirs psioniques dans le cristal situé sur son énorme front.",
+        "name": "Cristal de Concentration",
+        "text": "Attachez cette carte à M.O.D.O.K.\n<b>Réponse forcée</b> : après que les points de vie de M.O.D.O.K. ont été réinitialisés, défaussez cet attachement."
     },
     {
         "code": "50116",
-        "flavor": "Microscopic machines keep the Doomsday Chair in working order.",
+        "flavor": "Des machines microscopiques assurent le bon fonctionnement du Siège de l'Apocalypse.",
         "name": "Nanobots",
-        "text": "Attach to M.O.D.O.K.\n[star] <b>Réponse forcée</b> : After M.O.D.O.K. activates, heal 1 damage from him.\n<b>Réponse forcée</b> : After M.O.D.O.K.'s hit points are reset, discard this card.",
+        "text": "Attachez cette carte à M.O.D.O.K.\n[star] <b>Réponse forcée</b> : après que M.O.D.O.K. s'est activé, soignez-le de 1 dégât.\n<b>Réponse forcée</b> : après que les points de vie de M.O.D.O.K. ont été réinitialisés, défaussez cet attachement.",
         "traits": "Tech."
     },
     {
         "code": "50117",
         "name": "Psionic Force Field",
-        "text": "Attach to M.O.D.O.K.\nAttached enemy gains stalwart.\n<b>Interruption forcée</b> : when attached enemy would take any amount of damage, place it here instead. Then, if there is at least 5 damage here, discard this card.\n<hr />\n<hr>[star] <b>Boost</b> : attach this card to the activating enemy."
+        "text": "Attachez cette carte à M.O.D.O.K.\nL'ennemi attachée gagne Robuste.\n<b>Interruption forcée</b> : quand l'ennemi attaché est censé subir n'importe quelle quantité de dégâts, placez‑les sur cette carte à la place. Ensuite, s'il y a au moins 5 dégâts sur cette carte, défaussez-là.\n<hr />\n<hr>[star] <b>Boost</b> : attachez cette carte à l'ennemi en cours d'activation."
     },
     {
         "code": "50118",
         "name": "Psionic Machetes",
-        "text": "Attach to M.O.D.O.K.\n[star] M.O.D.O.K.'s attacks gain Perçant.\n<b>Réponse forcée</b> : After M.O.D.O.K.'s hit points are reset, discard this card.\n<hr />\n<hr>[star] <b>Boost</b> : if this activation is an attack, it gains Perçant."
+        "text": "Attachez cette carte à M.O.D.O.K.\n[star] Les attaques de M.O.D.O.K. gagnent Perçant.\n<b>Réponse forcée</b> : après que les points de vie de M.O.D.O.K. ont été réinitialisés, défaussez cet attachement.\n<hr />\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, elle gagne Perçant."
     },
     {
         "code": "50119",
-        "name": "Reverse Engineering",
-        "text": "Attach to M.O.D.O.K.\n[star] X is equal to the printed cost of the card tucked here.\n<b>Une fois révélée</b> : tuck an upgrade you control under here. Otherwise, tuck the top card of your deck under here.\n<b>Réponse forcée</b> : After M.O.D.O.K.'s hit points are reset, discard this card."
+        "name": "Rétro-Ingénierie",
+        "text": "Attachez cette carte à M.O.D.O.K.\n[star] X est égal au coût imprimé de la carte intercalée sous cette carte.\n<b>Une fois révélée</b> : intercalez sous cette carte une amélioration que vous contrôlez. Sinon, intercalez sous cette carte la carte du dessus de votre deck.\n<b>Réponse forcée</b> : après que les points de vie de M.O.D.O.K. ont été réinitialisés, défaussez cet attachement."
     },
     {
         "code": "50120",
-        "name": "A.I.M. Jailer",
-        "text": "Garde.\n<b>Une fois révélée</b> : a.I.M. Jailer attacks the [[Rescued]] ally with the fewest remaining hit points. Otherwise, place 1 lock counter on a Holding Cell.",
+        "name": "Geôlier de l'A.I.M.",
+        "text": "Garde.\n<b>Une fois révélée</b> : Le Geôlier de l'A.I.M. attaque l'allié [[Secouru]] ayant le moins de points de vie restants. Sinon, placez 1 jeton Verrou sur une Cellule de Confinement.",
         "traits": "A.I.M."
     },
     {
         "code": "50121",
-        "name": "Hostage Situation",
-        "text": "M.O.D.O.K. cannot take damage.\n<b>Une fois révélée</b> : attach 1 [[Rescued]] ally faceup here. Attached ally is under no player's control. <i>(Attached ally is still in play.)</i>\n<b>Une fois déjouée</b> : The defeating player takes control of attached ally."
+        "name": "Prise d'Otage",
+        "text": "M.O.D.O.K. ne peut pas subir de dégâts.\n<b>Une fois révélée</b> : attachez 1 allié [[Secouru]] face visible à cette carte. L'allié attaché n'est sous le contrôle d'aucun joueur. <i>(L'allié attaché est toujours en jeu.)</i>\n<b>Une fois déjouée</b> : le joueur qui a déjoué cette manigance prend le contrôle de l'allié attaché."
     },
     {
         "code": "50122",
-        "name": "Psionic Enhancement",
-        "text": "Entrave 1[per_hero].\n<hr />\n<hr>[star] <b>Boost</b> : give the activating enemy an additional boost card."
+        "name": "Augmentation Psionique",
+        "text": "Entrave 1[per_hero].\n<hr />\n<hr>[star] <b>Boost</b> : donnez une carte de boost supplémentaire à l'ennemi en cours d'activation."
     },
     {
         "code": "50123",
-        "name": "\"It's Alive!\"",
-        "text": "<b>Une fois révélée</b> : each player searches the encounter deck and discard pile for an [[Adaptoid]] minion and reveals it. <i>(Shuffle.)</i> Deal each player who did not engage a minion this way a facedown encounter card."
+        "name": "« Il est Vivant ! »",
+        "text": "<b>Une fois révélée</b> : chaque joueur cherche un sbire [[Adaptoïde]] dans le deck Rencontre ou la pile de défausse Rencontre et le révèle. <i>(Mélangez.)</i> Attribuez une carte Rencontre face cachée à chaque joueur qui n'a pas engagé de sbire par cet effet."
     },
     {
         "code": "50124",
-        "name": "Psionic Blast",
-        "text": "<b>When Revealed (Alter-Ego)</b> : you are confused. M.O.D.O.K. schemes.\n<b>When Revealed (Hero)</b> : Take X indirect damage, where X is M.O.D.O.K.'s SCH. Désorienté each character that takes damage this way."
+        "name": "Rayon Psionique",
+        "text": "<b>Une fois révélée (alter ego)</b> : vous êtes désorienté. M.O.D.O.K. manigance.\n<b>Une fois révélée (héros)</b> : subissez X dégâts indirects, où X est égal à la MNG de M.O.D.O.K.\nDésorientez chaque personnage qui a subi des dégâts par cet effet."
     },
     {
         "code": "50125",
-        "flavor": "Equipped with a high – tech suit, the Scientist Supreme wields great power, both physical and political.",
-        "name": "Scientist Supreme",
-        "text": "Victory -1. Vilenie. Vulnerable. <i>(Discard this character if it is stunned or confused.)</i>\n[star] Scientist Supreme's attacks gain Perçant and À Distance.",
-        "traits": "A.I.M. Genius."
+        "flavor": "Équipé d'une combinaison à la pointe de la technologie, le Scientifique Suprême dispose d'un grand pouvoir, physique et politique.",
+        "name": "Scientifique Suprême",
+        "text": "Victoire -1. Vilenie. Vulnerable.\n<i>(Défaussez ce personnage s'il est sonné ou désorienté.)</i>\n[star] Les attaques du Scientifique Suprême gagnent Perçant et À Distance.",
+        "traits": "A.I.M. Génie."
     },
     {
         "code": "50126",
-        "flavor": "As second – in-command of A.I.M., Monica has her sights set on the title of Scientist Supreme.",
+        "flavor": "En tant que numéro 2 de l'A.I.M., Monica a de sérieuses prétentions pour l'accès au titre de Scientifique Suprême.",
         "name": "Monica Rappaccini",
-        "text": "Victory -1. Vilenie. Vulnerable. <i>(Discard this character if it is stunned or confused.)</i>\nWhile Scientist Supreme is in the victory display, Monica Rappaccini gains Vilenie.",
-        "traits": "A.I.M. Genius."
+        "text": "Victoire -1. Vulnerable.\n<i>(Défaussez ce personnage s'il est sonné ou désorienté.)</i>\nTant que le Scientifique Suprême est dans la pile de victoire, Monica Rappaccini gagne Vilenie.",
+        "traits": "A.I.M. Génie."
     },
     {
         "code": "50127",
-        "flavor": "Attacking the leader of a sovereign nation is politically fraught. You will have to handle the Scientist Supreme delicately.",
-        "name": "Diplomatic Immunity",
-        "text": "<b>Une fois révélée</b> : place 1 acceleration token here for each [[A.I.M.]] minion in the victory display."
+        "flavor": "Attaquer le chef d'une nation souveraine est politiquement périlleux. Il va falloir traiter le Scientifique Suprême avec tact.",
+        "name": "Immunité Diplomatique",
+        "text": "<b>Une fois révélée</b> : placez 1 pion Accélération sur cette carte pour chaque sbire [[A.I.M.]] dans la pile de victoire."
     },
     {
         "code": "50128",
-        "name": "Diplomatic Sanctions",
-        "text": "Surge.\n<b>Une fois révélée</b> : discard 1 card from your hand for each [[A.I.M.]] minion in the victory display.\n<hr />\n<hr>[star] <b>Boost</b> : this card gains [boost] for each [[A.I.M.]] minion in the victory display."
+        "name": "Sanctions Diplomatiques",
+        "text": "Renfort.\n<b>Une fois révélée</b> : défaussez 1 carte de votre main pour chaque sbire [[A.I.M.]] dans la pile de victoire.\n<hr />\n<hr />[star] <b>Boost</b> : cette carte gagne [boost] pour chaque sbire [[A.I.M.]] dans la pile de victoire."
     },
     {
         "code": "50129a",
         "name": "Citizen V",
-        "text": "Citizen V cannot be defeated unless there are at least 1[per_hero] [[Thunderbolt]] minions in the victory display.\n[star] <b>Interruption forcée</b> : When Citizen V would activate against you during step two of the villain phase, if you are engaged with a [[Thunderbolt]] minion, Citizen V does not activate and heals 4 damage instead.",
+        "text": "Citizen V ne peut pas être vaincu, sauf si au moins 1[per_hero] sbire [[Thunderbolt]] est dans la pile de victoire.\n[star] <b>Interruption forcée</b> : quand Citizen V est censé s'activer contre vous lors de l'étape 2 de la phase du méchant, si vous êtes engagé avec un sbire [[Thunderbolt]], Citizen V ne s'active pas et soigne 4 dégâts à la place.",
         "traits": "Thunderbolt."
     },
     {
         "code": "50129b",
         "name": "Citizen V",
-        "text": "Citizen V cannot be defeated unless there are at least 1[per_hero] [[Thunderbolt]] minions in the victory display.\n[star] <b>Interruption forcée</b> : When Citizen V would activate against you during step two of the villain phase, if you are engaged with a [[Thunderbolt]] minion, Citizen V does not activate and heals 6 damage instead.",
+        "text": "Citizen V ne peut pas être vaincu sauf si au moins 1[per_hero] sbire [[Thunderbolt]] est dans la pile de victoire.\n[star] <b>Interruption forcée</b> : quand Citizen V est censé s'activer contre vous lors de l'étape 2 de la phase du méchant, si vous êtes engagé avec un sbire [[Thunderbolt]], Citizen V ne s'active pas et soigne 6 dégâts à la place.",
         "traits": "Thunderbolt."
     },
     {
         "code": "50130a",
-        "name": "Apprehending Rogue Agents",
-        "text": "<b>Contents</b> : Citizen V (A). <i>(Citizen V (B) instead for expert mode.)</i> Thunderbolts and Standard encounter sets.\n<b>Setup</b> : choose 1 modular set, plus 1[per_hero] additional modular sets, each with an [[Élite]], [[Thunderbolt]] minion. Set each of those minions aside and shuffle the rest of their encounter sets into the encounter deck. Reveal the Justice, Like Lightning environment."
+        "name": "Intercepter les Agents Félons",
+        "text": "<b>Contenu</b> : Citizen V (A). (Citizen V (B) à la place en mode expert.) Les sets de rencontre Thunderbolts et Standard.\n<b>Mise en place</b> : choisissez 1 set modulaire, plus 1[per_hero] set modulaire supplémentaire, chacun avec un sbire [[Élite]], [[Thunderbolt]]. Mettez de côté chacun de ces sbires et mélangez dans le deck Rencontre les autres cartes de ces sets . Révélez l'environnement La Justice et la Foudre."
     },
     {
         "code": "50130b",
-        "flavor": "« We can do this the easy way, or the fun way. » – Citizen V",
-        "name": "Apprehending Rogue Agents",
-        "text": "Each [[Thunderbolt]] minion gains Garde.\n<b>Réponse forcée</b> : after a player attacks a [[Thunderbolt]] minion, that minion engages that player.\n<b>If this stage is completed, the players lose the game.</b>"
+        "flavor": "« On peut régler ça avec la manière douce ou la manière fun. » – Citizen V",
+        "name": "Intercepter les Agents Félons",
+        "text": "Chaque sbire [[Thunderbolt]] gagne Garde.\n<b>Réponse forcée</b> : après que un joueur attaque un sbire [[Thunderbolt]], ce sbire engage ce joueur.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
     },
     {
         "code": "50131a",
-        "flavor": "« Justice, like lightning, ever should appear;\nTo few men ruin, but to all men fear. » – Thomas Randolph",
-        "name": "Justice, Like Lightning",
-        "text": "<b>Une fois révélée</b> : each player reveals a random set-aside [[Thunderbolt]] minion. Reveal and attach the remaining set-aside [[Thunderbolt]] minion faceup here. In expert mode, give each of these minions a Tenace status card. Flip this card."
+        "flavor": "« La justice et la foudre doivent toujours frapper, sans causer la ruine, mais être redoutées. » – Thomas Randolph",
+        "name": "La Justice et la Foudre",
+        "text": "<b>Une fois révélée</b> : chaque joueur révèle au hasard un sbire [[Thunderbolt]] mis de côté. Révélez et attachez sur cet environnement, le sbire [[Thunderbolt]] mis de côté restant face visible. En mode expert, donnez à chacun de ces sbires une carte d'état Tenace. Retournez cette carte."
     },
     {
         "code": "50131b",
-        "name": "Thunderbolt Backup",
-        "text": "<i>(The minion attached here is in play and can be targeted by attacks and abilities.)</i>\n<b>Interruption forcée</b> : when the round ends, attach the [[Thunderbolt]] minion with the most damage here, swapping it with the minion already attached here, if any. Heal 1[per_hero] damage from attached minion. In expert mode, heal 1[per_hero] additional damage from that minion and give it a Tenace status card."
+        "name": "Renfort des Thunderbolts",
+        "text": "<i>(Le sbire attaché à cette carte est en jeu et peut être ciblé par des attaques et des capacités.)</i>\n<b>Interruption forcée</b> : quand le round se termine, attachez à cette carte le sbire [[Thunderbolt]] ayant le plus de dégâts, en l'échangeant avec le sbire déjà attaché cette carte, s'il y en a un. Soignez 1[per_hero] dégât du sbire attaché. En mode expert, soignez-le de 1[per_hero] dégât supplémentaire et donnez‑lui une carte d'état Tenace."
     },
     {
         "code": "50132",
-        "name": "Citizen V's Sword",
-        "text": "<b>Une fois révélée</b> : attach to Citizen V. He activates against you.\n<b>Réponse de héros</b> : after you attack and damage Citizen V, spend [physical] [physical] resources → discard this card.",
-        "traits": "Weapon."
+        "name": "Épée de Citizen V",
+        "text": "<b>Une fois révélée</b> : attachez cette carte à Citizen V. Il s'active contre vous.\n<b>Réponse de héros</b> : après que vous avez attaqué et infligé des dégâts à Citizen V, dépensez les ressources suivantes [physical] [physical] → défaussez cette carte.",
+        "traits": "Arme."
     },
     {
         "code": "50133",
         "name": "Jolt",
-        "text": "Vilenie.\n<b>Une fois déjouée</b> : place 3 threat on the main scheme.\n<b>Action de héros</b> : exhaust your hero → place 1 parley counter on Jolt. If there are 3 or more parley counters here, remove Jolt from the game. <i>(She is not defeated.)</i>",
+        "text": "Vilenie.\n<b>Une fois vaincu</b> : placez 3 menaces sur la manigance principale.\n<b>Action de héros</b> : inclinez votre héros → placez 1 jeton Discussion sur Jolt. S'il y a au moins 3 jetons Discussion dessus, retirez Jolt de la partie. <i>(Elle n'est pas vaincue.)</i>",
         "traits": "Thunderbolt."
     },
     {
         "code": "50134",
-        "name": "Innocent Bystanders",
-        "text": "Utilisations (4 bystander counters).\n<b>Réponse forcée</b> : after you attack an enemy or an enemy attacks you, either spend 1 resource of any type or place 1 threat on the main scheme (2 threat instead in expert mode). Remove 1 bystander counter from here."
+        "name": "Badauds Innocents",
+        "text": "Utilisations (4 jetons Badaud).\n<b>Réponse forcée</b> : après que vous avez attaqué un ennemi ou qu'un ennemi vous a attaqué, soit vous dépensez 1 ressource de n'importe quel type, soit vous placez 1 menace sur la manigance principale (2 menaces à la place en mode expert). Retirez 1 jeton Badaud de cette carte."
     },
     {
         "code": "50135",
-        "flavor": "« Thunderbolts, let's bring these vigilantes to justice! » – Songbird",
-        "name": "The Coming Storm",
-        "text": "<b>Une fois révélée</b> : each player engages each minion engaged with the player clockwise from them."
+        "flavor": "« Thunderbolts, traînons ces justiciers devant la Justice ! » – Songbird",
+        "name": "La Tempête s'Annonce",
+        "text": "<b>Une fois révélée</b> : chaque joueur engage chaque sbire engagé avec le joueur situé à sa gauche."
     },
     {
         "code": "50136",
-        "name": "Rumbling Thunder",
-        "text": "<b>Une fois révélée</b> : each player engages each minion engaged with the player clockwise from them."
+        "name": "Le Tonnerre Gronde",
+        "text": "<b>Une fois révélée</b> : chaque joueur engage chaque sbire engagé avec le joueur à sa gauche."
     },
     {
         "code": "50137",
-        "name": "Down but Not Out",
-        "text": "<b>Une fois révélée</b> : choose a random [[Thunderbolt]] minion from the victory display and reveal it. Place damage on that minion until it has 5 hit points remaining. Then, remove this card from the game. If no minion entered play this way, this card gains surge."
+        "name": "Toujours Debout",
+        "text": "<b>Une fois révélée</b> : prenez au hasard un sbire [[Thunderbolt]] de la pile de victoire et révélez‑le. Placez des dégâts sur ce sbire jusqu'à ce qu'il ait 5 points de vie restant.\nEnsuite, retirez cette traîtrise de la partie.\nSi aucun sbire n'est entré en jeu par cet effet, cette carte gagne Renfort."
     },
     {
         "code": "50138",
-        "flavor": "« Don't worry, Batroc. I got this. » – Moonstone",
-        "name": "Tap In",
-        "text": "<b>Une fois révélée</b> : engage the [[Thunderbolt]] minion with the least damage that is not engaged with you. That minion activates against you. If no minion activated this way, Citizen V activates against you."
+        "flavor": "« Ne t'inquiètes pas, Batroc. Je m'en occupe. » – Moonstone",
+        "name": "Tape m'en Une",
+        "text": "<b>Une fois révélée</b> : engagez le sbire [[Thunderbolt]] ayant le moins de dégâts sur lui qui n'est pas engagé avec vous. Ce sbire s'active contre vous. Si aucun sbire n'a été activé par cet effet, Citizen V s'active contre vous."
     },
     {
         "code": "50139",
-        "flavor": "« Catch! »",
+        "flavor": "« Attrape ça ! »",
         "name": "Moonstone",
-        "text": "Vilenie. Victory 1.\n[star] <b>Réponse forcée</b> : After Moonstone activates, give her a Tenace status card.",
-        "traits": "Aerial. Elite. Thunderbolt."
+        "text": "Vilenie. Victoire 1.\n[star] <b>Réponse forcée</b> : après que Moonstone s'est activée, donnez‑lui une carte d'état Tenace.",
+        "traits": "Aérien. Élite. Thunderbolt."
     },
     {
         "code": "50140",
-        "name": "Rule the Skies",
-        "text": "Each [[Aerial]] character gets +1 ATK.\n<hr />\n<hr>[star] <b>Boost</b> : if the activating enemy has the [[Aerial]] trait, give it an additional boost card."
+        "name": "Dominer les Cieux",
+        "text": "Chaque personnage [[Aérien]] gagne +1 ATQ.\n<hr />\n<hr>[star] <b>Boost</b> : si l'ennemi en cours d'activation a le trait [[Aérien]], donnez‑lui une carte de boost supplémentaire."
     },
     {
         "code": "50141",
-        "name": "Gravitational Pull",
-        "text": "<b>Une fois révélée</b> : trouvez Moonstone and reveal her. <i>(If she is already in play, she engages you.)</i> Moonstone activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b> : exhaust a character you control."
+        "name": "Attraction Gravitationnelle",
+        "text": "<b>Une fois révélée</b> : trouvez Moonstone et révélez‑la. <i>(Si elle est déjà en jeu, elle vous engage.)</i>Moonstone s'active contre vous. Si aucun ennemi n'a été activé par cet effet, cette carte gagne Renfort.\n<hr />\n<hr>[star] <b>Boost</b> : inclinez un personnage que vous contrôlez."
     },
     {
         "code": "50142",
-        "name": "Psychological Manipulation",
-        "text": "<b>When Revealed (Alter-Ego)</b> : discard an ally or support you control. Otherwise, this card gains surge.\n<b>When Revealed (Hero)</b> : Deal X damage to the friendly character with the fewest remaining hit points, where X is equal to your hero's ATK."
+        "name": "Manipulation Psychologique",
+        "text": "<b>Une fois révélée (alter ego)</b> : défaussez un allié ou un soutien que vous contrôlez.\nSinon, cette carte gagne Renfort.\n<b>Une fois révélée (héros)</b> : infligez X dégâts au personnage ami qui a le moins de points de vie restants, X étant égal à l'ATQ de votre héros."
     },
     {
         "code": "50143",
-        "flavor": "« Time to face the music! »",
+        "flavor": "« C'est l'heure d'affronter la musique ! »",
         "name": "Songbird",
-        "text": "Vilenie. Victory 1.\n[star] <b>Interruption forcée</b> : When Songbird activates, give her 1 additional boost card for this activation.",
-        "traits": "Aerial. Elite. Thunderbolt."
+        "text": "Vilenie. Victoire 1.\n[star] <b>Interruption forcée</b> : quand Songbird s'active, donnez‑lui 1 carte de boost supplémentaire pour cette activation.",
+        "traits": "Aérien. Élite. Thunderbolt."
     },
     {
         "code": "50144",
-        "name": "Solid Sound Constructs",
-        "text": "Attach to Songbird. Otherwise, attach to the villain.\nAttached enemy loses stalwart.\n<b>Interruption forcée</b> : when attached enemy would gain a confused or stunned status card, discard this card instead.",
-        "traits": "Weapon."
+        "name": "Objets en Son Solide",
+        "text": "Attachez cette carte à Songbird. Sinon, attachez‑la au méchant. L'ennemi attaché perd Robuste.\n<b>Interruption forcée</b> : quand l'ennemi attaché est censé gagner une carte d'état Désorienté ou Sonné, défaussez cet attachement à la place.",
+        "traits": "Arme."
     },
     {
         "code": "50145",
-        "name": "Hard Sound Bindings",
-        "text": "Attach to your identity.\n<b>Interruption forcée</b> : when you would attack, discard Hard Sound Bindings instead. Then, you are stunned.\n<hr />\n<hr>[star] <b>Boost</b> : you are stunned. If you were already stunned, give the activating enemy an additional boost card."
+        "name": "Entraves de Son Durci",
+        "text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand vous êtes censé attaquer, défaussez cet attachement à la place. Ensuite, vous êtes Sonné.\n<hr />\n<hr>[star] <b>Boost</b> : vous êtes Sonné. Si vous étiez déjà Sonné, donnez une carte de boost supplémentaire à l'ennemi en cours d'activation."
     },
     {
         "code": "50146",
-        "flavor": "« Can't touch this! » – Songbird",
-        "name": "Sonic Bubble",
-        "text": "<b>Interruption forcée</b> : when any amount of damage would be dealt to an enemy, remove an equal amount of threat from here instead."
+        "flavor": "« Pas touche ! » – Songbird",
+        "name": "Bulle Sonique",
+        "text": "<b>Interruption forcée</b> : quand n'importe quelle quantité de dégâts est censée être infligée à un ennemi, retirez la même quantité de menaces à la place."
     },
     {
         "code": "50147",
-        "name": "Hard Sound",
-        "text": "<b>Une fois révélée</b> : trouvez Songbird and reveal her. <i>(If she is already in play, she engages you.)</i> Songbird activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b> : give the activating enemy an additional boost card."
+        "name": "Son Durci",
+        "text": "<b>Une fois révélée</b> : trouvez Songbird et révélez‑la. (Si elle est déjà en jeu, elle vous engage.) Songbird s'active contre vous. Si aucun ennemi ne s'est activé par cet effet, cette carte gagne Renfort.\n<hr />\n\n<hr>[star] <b>Boost</b> : donnez une carte de boost supplémentaire à l'ennemi en cours d'activation."
     },
     {
         "code": "50148",
         "name": "Black Widow",
-        "text": "Riposte 1. Vilenie. Victory 1.\n[star] <b>Réponse forcée</b> : After Black Widow schemes against you, search the encounter deck and discard pile for a copy of Handspring and attach it to her. <i>(Shuffle.)</i> Otherwise, you are confused.",
-        "traits": "Elite. Thunderbolt."
+        "text": "Riposte 1. Vilenie. Victoire 1. [star] Réponse forcée : après que Black Widow a manigancé contre vous, cherchez un exemplaire de Saut de Main dans le deck Rencontre ou la pile de défausse Rencontre et attachez‑lui cette carte. (Mélangez.) Sinon, vous êtes désorienté.",
+        "traits": "Élite. Thunderbolt."
     },
     {
         "code": "50149",
-        "flavor": "« This has been fun. » – Black Widow",
-        "name": "Handspring",
-        "text": "Attach to Black Widow. Otherwise, attach to the villain.\n<b>Interruption forcée</b> : when attached enemy would take damage from an attack, deal that damage to the attacking character instead. Discard this card.",
-        "traits": "Preparation."
+        "flavor": "« On s'est bien amusé » – Black Widow",
+        "name": "Saut de Main",
+        "text": "Attachez cette carte à Black Widow. Sinon, attachez cette carte au méchant.\n<b>Interruption forcée</b> : quand l'ennemi attachée est censé subir des dégâts d'une attaque, infligez ces dégâts au personnage attaquant à la place. Défaussez cet attachement.",
+        "traits": "Préparation."
     },
     {
         "code": "50150",
-        "flavor": "After dominating her cohort in the Red Room, Yelena Belova set out to prove herself the greatest Black Widow.",
-        "name": "Pride of the Red Room",
-        "text": "<b>Une fois révélée</b> : place 1 additional threat here for each [[Preparation]] card in play."
+        "flavor": "Après avoir dominé ses pairs dans la Chambre Rouge, Yelena Belova était déterminer à prouver qu'elle était la plus meilleure des Black Widow.",
+        "name": "Fierté de la Chambre Rouge",
+        "text": "<b>Une fois révélée</b> : placez 1 menace supplémentaire sur cette manigance pour chaque carte [[Preparation]] en jeu."
     },
     {
         "code": "50151",
-        "name": "Pale Little Spider",
-        "text": "<b>Une fois révélée</b> : trouvez Black Widow and reveal her. <i>(If she is already in play, she engages you.)</i> Black Widow activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b> : you are confused. If you were already confused, place 1 threat on the main scheme."
+        "name": "Pale Petite Araignée",
+        "text": "<b>Une fois révélée</b> : trouvez Black Widow et révélez‑la. (Si elle est déjà en jeu, elle vous engage.)\nBlack Widow s'active contre vous. Si aucun ennemi ne s'est activé par cet effet, cette carte gagne Renfort.\n<hr />\n<hr>[star] <b>Boost</b> : vous êtes désorienté. Si vous étiez déjà désorienté, placez 1 menace sur la manigance principale."
     },
     {
         "code": "50152",
-        "flavor": "« Up and at them! »",
-        "name": "Radioactive Man",
-        "text": "Vilenie. Victory 1.\n[star] <b>Réponse forcée</b> : After Radioactive Man activates against you, deal 1 damage to each character you control.",
-        "traits": "Elite. Thunderbolt."
+        "flavor": "« Allez on se bouge ! »",
+        "name": "L'Homme Radioactif",
+        "text": "Vilenie. Victoire 1.\n[star] Réponse forcée : après que Radioactive Man s'est activé contre vous, infligez 1 dégât à chaque personnage que vous contrôlez.",
+        "traits": "Élite. Thunderbolt."
     },
     {
         "code": "50153",
         "errata": "Remplacé le modificateur « SCH » par un modificateur « THW ». (RRG)",
-        "name": "Radiation Exposure",
+        "name": "Exposé aux Radiations",
         "text": "Attachez-la à votre identité.\n[star] Si l'identité attachée a le trait [[Gamma]], cette amélioration donne +1 ATQ à la place.\n<b>Réponse forcée</b> : après avoir récupéré, défaussez 1 carte de votre main → défaussez cette carte.",
         "traits": "Condition."
     },
     {
         "code": "50154",
-        "name": "Runaway Nuclear Reaction",
-        "text": "<b>Réponse forcée</b> : After Radioactive Man is dealt any amount of damage, place an equal amount of threat here. Then, if there is 10 or more threat here, deal 10 damage to each character and discard Runaway Nuclear Reaction."
+        "name": "Réaction Nucléaire Incontrôlable",
+        "text": "<b>Réponse forcée</b> : après que L'Homme Radioactif a subi n'importe quelle quantité de dégâts, placez une quantité égale de menaces sur cette manigance.\nEnsuite, s'il y a 10 menaces ou plus sur ici, infligez 10 dégâts à chaque personnage et défaussez Réaction Nucléaire Incontrôlable."
     },
     {
         "code": "50155",
-        "name": "Power of the Atom",
-        "text": "<b>Une fois révélée</b> : trouvez Radioactive Man and reveal him. <i>(If he is already in play, he engages you.)</i> Radioactive Man activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b> : take 2 indirect damage."
+        "name": "Pouvoire de l'Atome",
+        "text": "<b>Une fois révélée</b> : trouvez L'Homme Radioactif et révélez‑le. <i>(S'il est déjà en jeu, il vous engage.)</i> L'Homme Radioactif s'active contre vous. Si aucun ennemi ne s'est activé par cet effet, cette carte gagne Renfort.\n<hr />\n<hr />[star] <b>Boost</b> : subissez 2 dégâts indirects."
     },
     {
         "code": "50156",
         "errata": "Remplacé « effectuer des défenses de base » par « défendre ». (RRG)",
-        "flavor": "« I've got all the weaponry of a fighter jet–and then some. »",
+        "flavor": "« J'ai tout l'armement d'un avion de chasse... et plus encore ! »",
         "name": "MACH-IV",
-        "text": "Vilenie. Butin 1.\n[star] Chaque personnage sans le trait [[Aerial]] ne peut pas défendre contre les attaques de MACH-IV.",
-        "traits": "Aerial. Elite. Thunderbolt."
+        "text": "Vilenie. Victoire 1.\n[star] Les personnages sans le trait [[Aérien]] ne peut pas effectuer de défense de base contre les attaques de MACH‑IV.",
+        "traits": "Aerien. Élite. Thunderbolt."
     },
     {
         "code": "50157",
         "name": "Blasters",
-        "text": "Attach to MACH-IV. Otherwise, attach to the enemy with the highest ATK.\n[star] Attached enemy's attacks gain Déferlement and À Distance.\n<b>Réponse de héros</b> : after you attack and damage attached enemy, spend [energy] [energy] resources → discard this card.",
-        "traits": "Tech. Weapon."
+        "text": "Attachez cette carte à MACH-IV. Sinon, attachez-la à l'ennemi ayant l'ATQ la plus élevée.\n[star] Les attaques de l'ennemi attaché gagnent Déferlement et À Distance.\n<b>Réponse de héros</b> : après que vous avez attaqué et blessé l'ennemi attaché, dépensez les ressources suivantes [energy] [energy] → défaussez cet attachement.",
+        "traits": "Tech. Arme."
     },
     {
         "code": "50158",
-        "name": "Heat-Seeking Missiles",
-        "text": "Attach to MACH-IV. Otherwise, attach to the villain.\nUtilisations (4 missile counters).\n[star] <b>Réponse forcée</b> : after attached enemy attacks you, remove 1 missile counter from here and take 2 indirect damage.",
-        "traits": "Tech. Weapon."
+        "name": "Missiles à Têtes Chercheuses",
+        "text": "Attachez cette carte à MACH-IV. Sinon, attachez‑la au méchant.\nUtilisations (4 jetons Missile).\n[star] <b>Réponse forcée</b> : après que l'ennemi attaché vous a attaqué, retirez 1 jeton Missile de cet attachement et subissez 2 dégâts indirects.",
+        "traits": "Tech. Arme."
     },
     {
         "code": "50159",
-        "name": "Aerial Dogfight",
-        "text": "Entrave 2[per_hero].\nReduce the damage each [[Aerial]] character takes from each attack by 2 unless the attacker or attack has the [[Aerial]] trait, or the attack has À Distance."
+        "name": "Combat Aérien",
+        "text": "Entrave 2[per_hero].\nRéduisez de 2 les dégâts que chaque personnage [[Aerial]] subit de chaque attaque, sauf si l'attaquant ou l'attaque a le trait [[Aerial]], ou si l'attaque a À Distance."
     },
     {
         "code": "50160",
-        "name": "Supersonic",
-        "text": "<b>Une fois révélée</b> : trouvez MACH-IV and reveal him. <i>(If he is already in play, he engages you.)</i> MACH-IV activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b> : if this activation is an attack, it gains Déferlement and À Distance."
+        "name": "Supersonique",
+        "text": "<b>Une fois révélée</b> : trouvez MACH-IV et révélez‑le. <i>(S'il est déjà en jeu, il vous engage.)</i> MACH‑IV s'active contre vous. Si aucun ennemi n'a été activé par cet effet, cette carte gagne Renfort.\n<hr />\n<hr />[star] <b>Boost</b> : si cette activation est une attaque, elle gagne Déferlement et À Distance."
     },
     {
         "code": "50161",
         "flavor": "« On se revoit. En garde! »",
         "name": "Batroc",
-        "text": "Vilenie. Victory 1.\n<b>Interruption forcée</b> : When Batroc engages you, discard 1 card from your hand.",
-        "traits": "Elite. Thunderbolt."
+        "text": "Vilenie. Victoire 1.\n<b>Interruption forcée</b> : quand Batroc vous engage, défaussez 1 carte de votre main.",
+        "traits": "Élite. Thunderbolt."
     },
     {
         "code": "50162",
         "name": "Coup de Foudre",
-        "text": "<b>Interruption forcée</b> : when a minion engages a player, that player discards the top X cards of their deck, where X is the number of boost icons ([boost]) on that minion. Place 1 threat here for each printed [energy] resource discarded this way."
+        "text": "<b>Interruption forcée</b> : quand un sbire engage un joueur, ce joueur défausse les X cartes du dessus de son deck, X étant le nombre d'icônes de boost ([boost]) de ce sbire. Placez 1 menace sur cette manigance pour chaque ressource [energy] imprimée ainsi défaussée."
     },
     {
         "code": "50163",
-        "name": "Batroc the Leaper",
-        "text": "<b>Une fois révélée</b> : trouvez Batroc and reveal him. <i>(If he is already in play, he engages you.)</i> Batroc activates against you. If no enemy activated this way, this card gains surge.\n<hr />\n<hr>[star] <b>Boost</b> : discard 1 card from your hand."
+        "name": "Batroc le Sauteur",
+        "text": "<b>Une fois révélée</b> : trouvez Batroc et révélez‑le. <i>(S'il est déjà en jeu, il vous engage.)</i> Batroc s'active contre vous. Si aucun ennemi n'a été activé par cet effet, cette carte gagne Renfort.\n<hr />\n<hr />[star] <b>Boost</b> : défaussez 1 carte de votre main."
     },
     {
         "code": "50164",
         "name": "Parcours du Combattant",
-        "text": "Surge.\n<b>Une fois révélée</b> : each player engages each minion engaged with the player clockwise from them.\n<hr />\n<hr>[star] <b>Boost</b> : after this attack resolves, engage a minion in play that is not engaged with you."
+        "text": "Renfort.\n<b>Une fois révélée</b> : chaque joueur engage chaque sbire engagé avec le joueur situé à sa gauche.\n<hr />\n<hr />[star] <b>Boost</b> : après la résolution de cette attaque, engagez un sbire en jeu qui n'est pas engagé avec vous"
     },
     {
         "code": "50165a",
-        "flavor": "« Arrest them by order of the Executive Board! »",
+        "flavor": "« Arrêtez-les ! Au nom du Comité Éxécutif ! »",
         "name": "Baron Zemo",
-        "text": "<b>Interruption forcée</b> : When Baron Zemo would be defeated, reset his hit points to 12 instead. Remove 3 secret counters from among [[Board Member]] environments.",
+        "text": "<b>Interruption forcée</b> : quand le Baron Zemo est censé être vaincu, réinitialisez ses points de vie à 12 à la place. Retirez 3 jetons Secret parmi des environnements [[Membre du Comité]].",
         "traits": "Thunderbolt."
     },
     {
         "code": "50165b",
         "name": "Baron Zemo",
-        "text": "[star] <b>Interruption forcée</b> : When Baron Zemo activates against you, either place 1 secret counter on a [[Board Member]] card or give Baron Zemo an additional boost card for this activation.",
-        "traits": "Thunderbolt. Unmasked."
+        "text": "[star] <b>Interruption forcée</b> : quand le Baron Zemo s'active contre vous, soit vous placez 1 jeton Secret sur une carte [[Membre du Comité]], soit vous donnez une carte de boost supplémentaire au Baron Zemo pour cette activation.",
+        "traits": "Thunderbolt. Démasqué."
     },
     {
         "code": "50166a",
-        "flavor": "« Arrest them by order of the Executive Board! »",
+        "flavor": "« Arrêtez-les ! Au nom du Comité Éxécutif ! »",
         "name": "Baron Zemo",
-        "text": "<b>Interruption forcée</b> : When Baron Zemo would be defeated, reset his hit points to 16 instead. Remove 3 secret counters from among [[Board Member]] environments.",
+        "text": "<b>Interruption forcée</b> : quand le Baron Zemo est censé être vaincu, réinitialisez ses points de vie à 16 à la place. Retirez 3 jetons Secret parmi des environnements [[Membre du Comité]].",
         "traits": "Thunderbolt."
     },
     {
         "code": "50166b",
         "name": "Baron Zemo",
-        "text": "Steady.\n[star] <b>Interruption forcée</b> : When Baron Zemo activates against you, either place 2 secret counters on a [[Board Member]] card or give Baron Zemo an additional boost card for this activation.",
-        "traits": "Thunderbolt. Unmasked."
+        "text": "Robuste.\n[star] <b>Interruption forcée</b> : quand le Baron Zemo s'active contre vous, soit placez 2 jetons Secret sur une carte [[Membre du Comité]], soit vous donnez une carte de boost supplémentaire au Baron Zemo pour cette activation.",
+        "traits": "Thunderbolt. Démasqué."
     },
     {
         "code": "50167a",
-        "name": "Zemo's Manipulations",
-        "text": "<b>Contents</b> : Baron Zemo (A1). <i>(Baron Zemo (B1) instead for expert mode.)</i> Baron Zemo, S.H.I.E.L.D. Executive Board, Executive Board Evidence, and Standard encounter sets. Two modular encounter sets <i>(Scientist Supreme and S.H.I.E.L.D.)</i>.\n<b>Setup</b> : prepare the evidence <i>(see rulebook p. 18)</i>. Put each [[Board Member]] environment into play. If not playing campaign mode, place 2 secret counters on each [[Board Member]] environment."
+        "name": "Manipulations de Zemo",
+        "text": "<b>Contenu</b> : Baron Zemo (A1). <i>(Baron Zemo (B1) à la place en mode expert.)</i>\nLes sets de rencontre Baron Zemo, Comité Exécutif du S.H.I.E.L.D., Preuves du Comité Exécutif et Standard.\nDeux sets de rencontre modulaires <i>(Scientifique Suprême et S.H.I.E.L.D.)</i>.\n\n<b>Mise en place</b> : préparez les preuves <i>(voir le livret de règles p. 18)</i>.\nMettez en jeu chaque environnement [[Membre du Comité]]. Si vous ne jouez pas en mode campagne, placez 2 jetons Secret sur chaque environnement [[Membre du Comité]]."
     },
     {
         "code": "50167b",
-        "name": "Zemo's Manipulations",
-        "text": "<b>Réponse</b> : after the player phase ends, the first player may place 2 secret counters on a [[Board Member]] environment that has no secret counters on it to gain 2 cards from the S.H.I.E.L.D. envelope (1 card instead in campaign mode). The players may advance to stage 2A to make their accusation.\n<b>If this stage is completed, the players lose the game.</b>"
+        "name": "Manipulations de Zemo",
+        "text": "<b>Réponse</b> : après la fin de la phase des Joueurs, le premier joueur peut placer 2 jetons Secret sur un environnement [[Membre du Comité]] qui n'a pas de jetons Secret pour gagner 2 cartes de l'enveloppe S.H.I.E.L.D. <i>(1 carte à la place en mode campagne.)</i>Les joueurs peuvent avancer au stade 2A pour faire leur accusation.\n<b>Si ce stade est terminé, les joueurs perdent la partie.</b>"
     },
     {
         "code": "50168a",
-        "flavor": "You've gathered all the evidence you can. All that remains is to make your accusation.",
-        "name": "The Accusation",
-        "text": "<b>Une fois révélée</b> : make an accusation by guessing a means, a motive, and an opportunity, along with the board member associated with that combination in the campaign log. This board member is the accused. <i>(See « The Accusation » on p. 19 of the rulebook.)</i>"
+        "flavor": "Vous avez réuni toutes les preuves que vous pouviez. Il ne vous reste plus qu'à procéder à l'accusation.",
+        "name": "L'Accusation",
+        "text": "<b>Une fois révélée</b> : effectuez une accusation en devinant un moyen, un motif et une opportunité, ainsi que le membre du comité associé à cette combinaison dans le registre de campagne. Ce membre du comité est l'accusé. <i>(Voir « L'Accusation », p. 19 du livret de règles.)</i>"
     },
     {
         "code": "50168b",
-        "name": "The Accusation",
-        "text": "<b>Une fois révélée</b> : do the following :\n1. Use the cards in the A.I.M. envelope to identify the mole.\n2. For each guess you got wrong, place 1 secret counter on each [[Board Member]] card.\n3. If you accused the wrong board member, place 3 secret counters on the accused.\n4. Advance to stage 3A."
+        "name": "L'Accusation",
+        "text": "<b>Une fois révélée</b> : faites ce qui suit :\n1. Utilisez les cartes dans l'enveloppe de l'A.I.M. pour identifier la taupe.\n2. Pour chaque déduction erronée, placez 1 jeton Secret sur chaque carte [[Membre du Comité]].\n3. Si vous avez accusé le mauvais membre du comité, placez 3 jetons Secret sur l'accusé.\n4. Avancez au stade 3A."
     },
     {
         "code": "50169a",
-        "flavor": "You unmask Zemo's deception and expose his associate's identity.",
-        "name": "Fighting Zemo",
-        "text": "<b>Une fois révélée</b> : Flip Baron Zemo to his [[Unmasked]] side and reset his hit points to his printed hit point value. Trouvez Baron Zemo's Sword and attach it to him."
+        "flavor": "Vous faites toute la lumière sur la trahison de Zemo et révélez l'identité de son associé.",
+        "name": "Combattre Zemo",
+        "text": "<b>Une fois révélée</b> : retournez le Baron Zemo, face [[Démasqué]] visible et réinitialisez ses points de vie à sa valeur de ses points de vie imprimée. Trouvez l'Épée du Baron Zemo et attachez‑la-lui."
     },
     {
         "code": "50169b",
-        "flavor": "Bring Baron Zemo and his accomplice to justice!",
-        "name": "Fighting Zemo",
-        "text": "<b>Une fois révélée</b> : flip the mole to its attachment side and attach it to Baron Zemo. Place 1[per_hero] threat here for each secret counter on each [[Board Member]] attachment.\n<b>If this stage is completed, the players lose the game.</b>"
+        "flavor": "Traînez le Baron Zemo et son complice devant la justice !",
+        "name": "Combattre Zemo",
+        "text": "<b>Une fois révélée</b> : retournez la taupe, face Attachement visible et attachez‑la au Baron Zemo. Placez 1[per_hero] menace sur cette manigance pour chaque jeton Secret sur chaque attachement [[Membre du Comité]].\n<b>Si ce stade est terminé, les joueurs perdent la partie.</b>"
     },
     {
         "code": "50170",
-        "name": "Baron Zemo's Sword",
-        "text": "Attach to Baron Zemo.\n[star] <b>Réponse forcée</b> : After Baron Zemo attacks and defeats a character, place 1 secret counter on the [[Board Member]] environment with the fewest secret counters.\n<b>Action de héros</b> : spend [physical] [physical] [physical] or [energy] [energy] [energy] resources → remove 1 secret counter from a [[Board Member]] environment and discard this card.",
-        "traits": "Weapon."
+        "name": "Épée du Baron Zemo",
+        "text": "Attachez au Baron Zemo.\n[star] <b>Réponse forcée</b> : après que le Baron Zemo a attaqué et vaincu un personnage, placez 1 jeton Secret sur l'environnement [[Membre du Comité]] ayant le moins de jetons Secret.\n<b>Action de héros</b> : dépensez les ressources suivantes [physical] [physical] [physical] ou [energy] [energy] [energy] → retirez 1 jeton Secret d'un environnement [[Membre du Comité]] et défaussez cet attachement.",
+        "traits": "Arme."
     },
     {
         "code": "50171",
-        "name": "Reluctant Foe",
-        "text": "Treat attached hero as an [[Élite]] minion with SCH equal to its printed THW. Replace its printed text box with : « Vilenie. <b>Une fois déjouée</b> : remove this hero and Reluctant Foe from the game. »\n<b>Une fois révélée</b> : search your collection for a hero whose title does not match a character in play and put it into play engaged with you. Attach this card to it."
+        "name": "Ennemi Réticent",
+        "text": "Considérez que le héros attaché est un sbire [[Élite]] avec une MNG égale à son CTR imprimé.\nRemplacez sa boîte de texte imprimée par « Vilenie. <b>Une fois vaincu</b> : retirez ce héros et Ennemi Réticent de la partie. »\n<b>Une fois révélée</b> : cherchez dans votre collection un héros dont le titre ne correspond pas au titre d'un personnage en jeu et mettez‑le en jeu engagé avec vous. Attachez‑lui cette carte."
     },
     {
         "code": "50172",
-        "name": "S.H.I.E.L.D. Agent",
-        "text": "Coup rapide. Vulnerable.\n[star] <b>Interruption forcée</b> : When S.H.I.E.L.D. Agent activates or is defeated, add 1 secret counter to the [[Board Member]] environment with the fewest secret counters.",
+        "name": "Agent du S.H.I.E.L.D.",
+        "text": "Coup rapide. Vulnérable.\n[star] <b>Interruption forcée</b> : quand l'Agent du S.H.I.E.L.D. s'active ou est vaincu, ajoutez 1 jeton Secret à l'environnement [[Membre du Comité]] ayant le moins de jetons Secret.",
         "traits": "S.H.I.E.L.D."
     },
     {
         "code": "50173",
-        "name": "Divided Loyalties",
-        "text": "Entrave 1[per_hero].\nAs an additional cost for a player to attack, thwart, or defend with an ally, that player must spend 1 resource of any type.\n<b>Une fois déjouée</b> : remove 1[per_hero] secret counters from among [[Board Member]] environments."
+        "name": "Conflit de Loyauté",
+        "text": "Entrave 1[per_hero].\nEn tant que coût supplémentaire pour qu'un joueur attaque, contre ou défende avec un allié, ce joueur doit dépenser 1 ressource de n'importe quel type.\n<b>Une fois déjouée</b> : retirez 1[per_hero] jetons Secret parmi des environnements [[Membre du Comité]]."
     },
     {
         "code": "50174",
-        "flavor": "« S.H.I.E.L.D. takes orders from me now! » – Baron Zemo",
-        "name": "Undermine Support",
-        "text": "Entrave 1[per_hero].\nAs an additional cost for a player to ready a support, that player must spend 1 resource of any type.\n<b>Une fois déjouée</b> : remove 1[per_hero] secret counters from among [[Board Member]] environments."
+        "flavor": "« C'est moi qui commande au S.H.I.E.L.D. à présent ! » – Baron Zemo",
+        "name": "Affaiblir les Soutiens",
+        "text": "Entrave 1[per_hero].\nEn tant que coût supplémentaire pour qu'un joueur redresse un soutien, ce joueur doit dépenser 1 ressource de n'importe quel type.\n<b>Une fois déjouée</b> : retirez 1[per_hero] jeton Secret parmi des environnements [[Membre du Comité]]."
     },
     {
         "code": "50175",
-        "name": "Battle of Wits",
-        "text": "<b>Une fois révélée</b> : Baron Zemo schemes. If this activation would place any threat on the main scheme, you may spend X [mental] resources to prevent X of that threat and remove X secret counters from among [[Board Member]] environments."
+        "name": "Combat d'Intelligence",
+        "text": "<b>Une fois révélée</b> : le Baron Zemo manigance. Si cette activation est devait placer de la menace sur la manigance principale, vous pouvez dépenser X [mental] ressources pour prévenir X de ces menaces et retirer X jetons Secret parmi des environnements [[Membre du Comité]]."
     },
     {
         "code": "50176",
-        "name": "Might Makes Right",
-        "text": "<b>When Revealed (Alter-Ego)</b> : place 2 secret counters on the [[Board Member]] environment with the fewest secret counters.\n<b>When Revealed (Hero)</b> : Baron Zemo attacks you. If no character takes damage from this attack, remove 3 secret counters from among [[Board Member]] environments."
+        "name": "Le Droit du Plus Fort",
+        "text": "<b>Une fois révélée (alter ego)</b> : placez 2 jetons Secret sur l'environnement [[Membre du Comité]] ayant le moins de jetons Secret.\n<b>Une fois révélée (héros)</b> : le Baron Zemo vous attaque. Si aucun personnage ne subit de dégâts de cette attaque, retirez 3 jetons Secret parmi des environnements [[Membre du Comité]]."
     },
     {
         "code": "50177",
-        "name": "The Ends Justify the Means",
-        "text": "<b>Une fois révélée</b> : choose :\n• Baron Zemo defeats the minion with the fewest remaining hit points. Baron Zemo schemes.\n• Discard an ally or support you control → remove secret counters from among [[Board Member]] environments equal to the discarded card's printed resource cost."
+        "name": "Les Fins Justifient les Moyens",
+        "text": "<b>Une fois révélée</b> : choisissez :\n• Le Baron Zemo vainc le sbire ayant le moins de points de vie restants. Le Baron Zemo manigance.\n• Défaussez un allié ou un soutien que vous contrôlez → parmi des environnements [[Membre du Comité]] retirez un nombre de jetons Secret égal au coût en ressource imprimé de la carte défaussée."
     },
     {
         "code": "50178",
-        "flavor": "« Just come peacefully and no one gets hurt. »",
-        "name": "S.H.I.E.L.D. Trooper",
-        "text": "Patrouille. Vulnerable.\n<b>Une fois déjouée</b> : The engaged player discards 1 [[S.H.I.E.L.D.]] ally or support they control. Otherwise, place 2 threat on the main scheme.",
+        "flavor": "« Rendez-vous calmement et personne ne sera blessé. »",
+        "name": "Soldat du S.H.I.E.L.D.",
+        "text": "Patrouille. Vulnérable.\n<b>Une fois déjouée</b> : le joueur engagé défausse 1 allié ou soutien [[S.H.I.E.L.D.]] qu'il contrôle.\nSinon, placez 2 menaces sur la manigance principale.",
         "traits": "S.H.I.E.L.D."
     },
     {
         "code": "50179",
-        "name": "Arrest Warrant",
-        "text": "<b>Action d'alter ego</b> : exhaust your identity or 1 [[S.H.I.E.L.D.]] card you control → search the encounter deck and discard pile for a [[S.H.I.E.L.D.]] minion and reveal it. <i>(Shuffle.)</i> Discard this card.",
+        "name": "Mandat d'Arrêt",
+        "text": "<b>Action d'alter ego</b> : inclinez votre identité ou 1 carte [[S.H.I.E.L.D.]] que vous contrôlez → cherchez un sbire [[S.H.I.E.L.D.]] dans le deck Rencontre ou la pile de défausse Rencontre et révélez‑le.\n<i>(Mélangez.)</i> Défaussez cette obligation.",
         "traits": "S.H.I.E.L.D."
     },
     {
         "code": "50180",
-        "flavor": "The S.H.I.E.L.D. Executive Board has disavowed all knowledge of your activities and cut off your resources.",
-        "name": "Disavowed",
-        "text": "Increase the resource cost to play each [[S.H.I.E.L.D.]] card by 1.\n<b>Une fois révélée</b> : place 1 threat here for each [[S.H.I.E.L.D.]] card in play.",
+        "flavor": "Le Comité Exécutif du S.H.I.E.L.D. a nié toute connaissance de vos activités et gelé toutes vos ressources.",
+        "name": "Désavoué",
+        "text": "Augmentez de 1 le coût en ressources pour jouer chaque carte [[S.H.I.E.L.D.]]\n<b>Une fois révélée</b> : placez 1 menace sur cette manigance pour chaque carte [[S.H.I.E.L.D.]] en jeu.",
         "traits": "S.H.I.E.L.D."
     },
     {
         "code": "50181a",
-        "name": "Chief Medical Officer",
-        "text": "Setup.\nIf there are 4 or more secret counters here (3 or more instead in expert mode), flip this card.\n<b>Action de héros</b> : spend [energy] [energy] resources → remove 1 secret counter from here. Then, heal 1 damage from a friendly character.",
-        "traits": "Board Member."
+        "name": "Responsable Médical en Chef",
+        "text": "Mise en place.\nS'il y a au moins 4 jetons Secret sur cette carte (3 ou plus à la place en mode expert), retournez cette carte.\n<b>Action de héros</b> : dépensez les ressources suivantes [energy] [energy] → retirez 1 jeton Secret de cette carte. Ensuite, soignez 1 dégât d'un personnage allié.",
+        "traits": "Membre du Comité."
     },
     {
         "code": "50181b",
-        "name": "Medical Officer's Aid",
-        "text": "Attach to the villain. Permanent.\n<b>Réponse forcée</b> : after a secret counter is placed here, either heal 2 damage from the villain or deal 1 damage to the friendly character with the fewest remaining hit points.\n<b>If there are 3 [[Board Member]] attachments in play, the players lose the game.</b>",
-        "traits": "Board Member."
+        "name": "Soutien du Responsable Médical",
+        "text": "Attachez cette carte au méchant. Permanent.\n<b>Réponse forcée</b> : après qu'un jeton Secret a été placé sur cette carte, soit vous soignez 2 dégâts du méchant, soit vous infligez 1 dégât au personnage ami ayant le moins de points de vie restants.\n<b>S'il y a 3 attachements [[Membre du Comité]] en jeu, les joueurs perdent la partie.</b>",
+        "traits": "Membre du Comité."
     },
     {
         "code": "50182a",
-        "name": "Chief Surveillance Officer",
-        "text": "Setup.\nIf there are 4 or more secret counters here (3 or more instead in expert mode), flip this card.\n<b>Action de héros</b> : spend [mental] [mental] resources → remove 1 secret counter from here. Then, remove 2 threat from a scheme.",
-        "traits": "Board Member."
+        "name": "Responsable de la Surveillance en Chef",
+        "text": "Mise en place.\nS'il y a au moins 4 jetons Secret sur cette carte (3 ou plus à la place en mode expert), retournez cette carte.\n<b>Action de héros</b> : dépensez les ressources suivantes [mental][mental] → retirez 1 jeton Secret de cette carte. Ensuite, retirez 2 menaces d'une manigance.",
+        "traits": "Membre du Comité."
     },
     {
         "code": "50182b",
-        "name": "Surveillance Officer's Aid",
-        "text": "Attach to the villain. Permanent.\n<b>Réponse forcée</b> : after a secret counter is placed here, place 2 threat on the main scheme.\n<b>If there are 3 [[Board Member]] attachments in play, the players lose the game.</b>",
-        "traits": "Board Member."
+        "name": "Soutien du Responsable de la Surveillance",
+        "text": "Attachez cette carte au méchant. Permanent.\n<b>Réponse forcée</b> : après qu'un jeton Secret a été placé sur cette carte, placez 2 menaces sur la manigance principale.\n<b>S'il y a 3 attachements [[Membre du Comité]] en jeu, les joueurs perdent la partie.</b>",
+        "traits": "Membre du Comité."
     },
     {
         "code": "50183a",
-        "name": "Chief Tactical Officer",
-        "text": "Setup.\nIf there are 4 or more secret counters here (3 or more instead in expert mode), flip this card.\n<b>Action de héros</b> : spend [physical] [physical] resources → remove 1 secret counter from here. Then, deal 2 damage to an enemy.",
-        "traits": "Board Member."
+        "name": "Responsable Tactique en Chef",
+        "text": "Mise en place.\nS'il y a au moins 4 jetons Secret sur cette carte (3 ou plus à la place en mode expert), retournez cette carte.\n<b>Action de héros</b> : dépensez les ressources suivantes [physical][physical] → retirez 1 jeton Secret de cette carte. Ensuite, infligez 2 dégâts à un ennemi.",
+        "traits": "Membre du Comité."
     },
     {
         "code": "50183b",
-        "name": "Tactical Officer's Aid",
-        "text": "Attach to the villain. Permanent.\n<b>Réponse forcée</b> : after a secret counter is placed here, deal 2 damage to a friendly character.\n<b>If there are 3 [[Board Member]] attachments in play, the players lose the game.</b>",
-        "traits": "Board Member."
+        "name": "Soutien du Responsable Tactique",
+        "text": "Attachez cette carte au méchant. Permanent.\n<b>Réponse forcée</b> : après qu'un jeton Secret a été placé sur cette carte, infligez 2 dégâts à un personnage ami.\n<b>S'il y a 3 attachements [[Membre du Comité]] en jeu, les joueurs perdent la partie.</b>",
+        "traits": "Membre du Comité."
     },
     {
         "code": "50184a",
-        "name": "A.I.M. Interference ([energy])",
-        "text": "Incite 1.\n<b>Une fois révélée</b> : place 1 secret counter on each [[Board Member]] card. You may spend X [energy] resources to prevent X of these counters from being placed.\n<hr />\n<hr>[star] <b>Boost</b> : resolve this card's « <b>When Revealed</b> » ability."
+        "name": "Ingérence de l'A.I.M. ([energy])",
+        "text": "Incitation 1.\n<b>Une fois révélée</b> : placez 1 jeton Secret sur chaque carte [[Membre du Comité]].\nVous pouvez dépenser X ressources [energy] pour empêcher le placement de X de ces jetons.\n<hr />\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Une fois révélée</b> » de cette carte."
     },
     {
         "code": "50184b",
-        "name": "A.I.M. Interference ([mental])",
-        "text": "Incite 1.\n<b>Une fois révélée</b> : place 1 secret counter on each [[Board Member]] card. You may spend X [mental] resources to prevent X of these counters from being placed.\n<hr />\n<hr>[star] <b>Boost</b> : resolve this card's « <b>When Revealed</b> » ability."
+        "name": "Ingérence de l'A.I.M. ([mental])",
+        "text": "Incitation 1.\n<b>Une fois révélée</b> : placez 1 jeton Secret sur chaque carte [[Membre du Comité]].\nVous pouvez dépenser X ressources [mental] pour empêcher le placement de X de ces jetons.\n<hr />\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Une fois révélée</b> » de cette carte."
     },
     {
         "code": "50184c",
-        "name": "A.I.M. Interference ([physical])",
-        "text": "Incite 1.\n<b>Une fois révélée</b> : place 1 secret counter on each [[Board Member]] card. You may spend X [physical] resources to prevent X of these counters from being placed.\n<hr />\n<hr>[star] <b>Boost</b> : resolve this card's « <b>When Revealed</b> » ability."
+        "name": "Ingérence de l'A.I.M. ([physical])",
+        "text": "Incitation 1.\n<b>Une fois révélée</b> : placez 1 jeton Secret sur chaque carte [[Membre du Comité]].\nVous pouvez dépenser X ressources [physical] pour empêcher le placement de X de ces jetons.\n<hr />\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Une fois révélée</b> » de cette carte."
     },
     {
         "code": "50185",
-        "name": "Medical Records",
-        "text": "<b>Setup</b> : each player may add 1 secret counter to a [[Board Member]] environment to search their collection for a different Protection ally and shuffle it into their deck. Each player may add 1 threat to the main scheme to search their deck for a Protection ally and add it to their hand. <i>(Shuffle.)</i>"
+        "name": "Dossiers Médicaux",
+        "text": "<b>Mise en place</b> : chaque joueur peut ajouter 1 jeton Secret à un environnement [[Membre du Comité]] pour chercher dans sa collection un allié Protection différent et le mélanger dans son deck.\nChaque joueur peut ajouter 1 menace sur la manigance principale pour chercher un allié Protection dans son deck et l'ajouter à sa main. <i>(Mélangez.)</i>"
     },
     {
         "code": "50186",
-        "name": "Wiretap",
-        "text": "<b>Setup</b> : each player may add 1 secret counter to a [[Board Member]] environment to search their collection for a different Justice ally and shuffle it into their deck. Each player may add 1 threat to the main scheme to search their deck for a Justice ally and add it to their hand. <i>(Shuffle.)</i>"
+        "name": "Sous Écoute",
+        "text": "<b>Mise en place</b> : chaque joueur peut ajouter 1 jeton Secret à un environnement [[Membre du Comité]] pour chercher dans sa collection un allié Justice différent et le mélanger dans son deck.\nChaque joueur peut ajouter 1 menace sur la manigance principale pour chercher un allié Justice dans son deck et l'ajouter à sa main. <i>(Mélangez.)</i>"
     },
     {
         "code": "50187",
-        "name": "Security Scanner",
-        "text": "<b>Setup</b> : each player may add 1 secret counter to a [[Board Member]] environment to search their collection for a different Aggression ally and shuffle it into their deck. Each player may add 1 threat to the main scheme to search their deck for an Aggression ally and add it to their hand. <i>(Shuffle.)</i>"
+        "name": "Scanner de Sécurité",
+        "text": "<b>Mise en place</b> : chaque joueur peut ajouter 1 jeton Secret à un environnement [[Membre du Comité]] pour chercher dans sa collection un allié Agressivité différent et le mélanger dans son deck.\nChaque joueur peut ajouter 1 menace sur la manigance principale pour chercher un allié Agressivité dans son deck et l'ajouter à sa main. <i>(Mélangez.)</i>"
     },
     {
         "code": "50188",
-        "name": "Money",
-        "text": "<b>Setup</b> : each player may add 1 secret counter to a [[Board Member]] environment to search their collection for a different Protection upgrade and shuffle it into their deck. Each player may add 1 threat to the main scheme to search their deck for a Protection upgrade and add it to their hand. <i>(Shuffle.)</i>"
+        "name": "Argent",
+        "text": "<b>Mise en place</b> : chaque joueur peut ajouter 1 jeton Secret à un environnement [[Membre du Comité]] pour chercher dans sa collection une amélioration Protection différente et la mélanger dans son deck.\nChaque joueur peut ajouter 1 menace surla manigance principale pour chercher une amélioration Protection dans son deck et l'ajouter à sa main. <i>(Mélangez.)</i>"
     },
     {
         "code": "50189",
-        "name": "Blackmail",
-        "text": "<b>Setup</b> : each player may add 1 secret counter to a [[Board Member]] environment to search their collection for a different Justice upgrade and shuffle it into their deck. Each player may add 1 threat to the main scheme to search their deck for a Justice upgrade and add it to their hand. <i>(Shuffle.)</i>"
+        "name": "Chantage",
+        "text": "<b>Mise en place</b> : chaque joueur peut ajouter 1 jeton Secret à un environnement [[Membre du Comité]] pour chercher dans sa collection une amélioration Justice différente et la mélanger dans son deck.\nChaque joueur peut ajouter 1 menace sur la manigance principale pour chercher une amélioration Justice dans son deck et l'ajouter à sa main. <i>(Mélangez.)</i>"
     },
     {
         "code": "50190",
-        "name": "Ideology",
-        "text": "<b>Setup</b> : each player may add 1 secret counter to a [[Board Member]] environment to search their collection for a different Aggression upgrade and shuffle it into their deck. Each player may add 1 threat to the main scheme to search their deck for an Aggression upgrade and add it to their hand. <i>(Shuffle.)</i>"
+        "name": "Idéologie",
+        "text": "<b>Mise en place</b> : chaque joueur peut ajouter 1 jeton Secret à un environnement [[Membre du Comité]] pour chercher dans sa collection une amélioration Agressivité différente et la mélanger dans son deck.\nChaque joueur peut ajouter 1 menace à la manigance principale pour chercher une amélioration Agressivité dans son deck et l'ajouter à sa main. <i>(Mélangez.)</i>"
     },
     {
         "code": "50191",
-        "name": "Security Clearance",
-        "text": "<b>Setup</b> : each player may add 1 secret counter to a [[Board Member]] environment to search their collection for a different Protection support and shuffle it into their deck. Each player may add 1 threat to the main scheme to search their deck for a Protection support and add it to their hand. <i>(Shuffle.)</i>"
+        "name": "Pass de Sécurité",
+        "text": "<b>Mise en place</b> : chaque joueur peut ajouter 1 jeton Secret à un environnement [[Membre du Comité]] pour chercher dans sa collection un soutien Protection différent et le mélanger dans son deck.\nChaque joueur peut ajouter 1 menace sur la manigance principale pour chercher un soutien Protection dans son deck et l'ajouter à sa main. <i>(Mélangez.)</i>"
     },
     {
         "code": "50192",
-        "name": "Travel",
-        "text": "<b>Setup</b> : each player may add 1 secret counter to a [[Board Member]] environment to search their collection for a different Justice support and shuffle it into their deck. Each player may add 1 threat to the main scheme to search their deck for a Justice support and add it to their hand. <i>(Shuffle.)</i>"
+        "name": "Voyage",
+        "text": "<b>Mise en place</b> : chaque joueur peut ajouter 1 jeton Secret à un environnement [[Membre du Comité]] pour chercher dans sa collection un soutien Justice différent et le mélanger dans son deck.\nChaque joueur peut ajouter 1 menace sur la manigance principale pour chercher un soutien Justice dans son deck et l'ajouter à sa main. <i>(Mélangez.)</i>"
     },
     {
         "code": "50193",
-        "name": "Authority",
-        "text": "<b>Setup</b> : each player may add 1 secret counter to a [[Board Member]] environment to search their collection for a different Aggresion support and shuffle it into their deck. Each player may add 1 threat to the main scheme to search their deck for an Aggresion support and add it to their hand. <i>(Shuffle.)</i>"
+        "name": "Autorité",
+        "text": "<b>Mise en place</b> : chaque joueur peut ajouter 1 jeton Secret à un environnement [[Membre du Comité]] pour chercher dans sa collection un soutien Agressivité différent et le mélanger dans son deck.\nChaque joueur peut ajouter 1 menace sur la manigance principale pour chercher un soutien Agressivité dans son deck et l'ajouter à sa main. <i>(Mélangez.)</i>"
     }
 ]
