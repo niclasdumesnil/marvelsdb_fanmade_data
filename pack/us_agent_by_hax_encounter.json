@@ -9,7 +9,7 @@
         "pack_code": "us_agent_by_hax",
         "position": 12,
         "quantity": 1,
-        "set_code": "us_agent",
+        "set_code": "us_agent_by_hax",
         "text": "<b>Give to the John Walker player.</b>\nFlip to Alter-Ego form. Choose:\n• Exhaust John Walker and discard U.S. Agent's Shield → remove this obligation from the game.\n• Discard 1 card from your hand at random → discard this obligation.",
         "type_code": "obligation"
     },
@@ -27,7 +27,7 @@
         "position": 13,
         "quantity": 1,
         "scheme": 1,
-        "set_code": "us_agent_nemesis",
+        "set_code": "us_agent_by_hax_nemesis",
         "set_position": 1,
         "text": "<b>Forced Interrupt</b>: When Nuke makes an attack against you, discard the top card from your deck. If an Aggression (<i>red</i>) card, or a card with a printed [physical] resource was discarded this way, that attack deals 1 additional damage.",
         "traits": "Cyborg. Soldier.",
@@ -45,7 +45,7 @@
         "pack_code": "us_agent_by_hax",
         "position": 14,
         "quantity": 1,
-        "set_code": "us_agent_nemesis",
+        "set_code": "us_agent_by_hax_nemesis",
         "set_position": 2,
         "text": "Aggression (<i>red</i>), Basic (<i>gray</i>), and Leadership (<i>blue</i>) cards cost 1 additional resource.\n [acceleration]",
         "type_code": "side_scheme"
@@ -60,7 +60,7 @@
         "pack_code": "us_agent_by_hax",
         "position": 15,
         "quantity": 2,
-        "set_code": "us_agent_nemesis",
+        "set_code": "us_agent_by_hax_nemesis",
         "set_position": 3,
         "text": "Discard the top 2 cards from your deck. If a card with a printed [physical] resource was discarded this way, take 2 indirect damage.",
         "type_code": "treachery"
@@ -75,7 +75,7 @@
         "pack_code": "us_agent_by_hax",
         "position": 16,
         "quantity": 1,
-        "set_code": "us_agent_nemesis",
+        "set_code": "us_agent_by_hax_nemesis",
         "set_position": 5,
         "text": "Attach to the enemy with the most remaining hit points.\n<b>Forced Interrupt</b>: When attached enemy deals damage to your hero, discard an upgrade you control, then discard Spear of Odin.",
         "type_code": "attachment"

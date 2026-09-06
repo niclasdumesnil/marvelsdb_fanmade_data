@@ -8,7 +8,7 @@
         "pack_code": "shang_chi_by_hax",
         "position": 12,
         "quantity": 1,
-        "set_code": "shang_chi",
+        "set_code": "shang_chi_by_hax",
         "text": "<b>Give to the Shang-Chi player.</b>\nYou may flip to alter-ego form. Choose:\n• Deal 2 damage to Shang-Chi → remove Family Ties from the game.\n• Deal 2 damage to each ally. Discard this obligation.",
         "type_code": "obligation"
     },
@@ -27,7 +27,7 @@
         "position": 13,
         "quantity": 1,
         "scheme": 2,
-        "set_code": "shang_chi_nemesis",
+        "set_code": "shang_chi_by_hax_nemesis",
         "set_position": 1,
         "text": "<b>Forced Response</b>: After Zheng Zu schemes, place 1 mystic counter here.\n[star] Zheng Zu gets +1 ATK for each mystic counter here.\n<i>(Shang-Chi's nemesis minion.)</i>",
         "traits": "Elite. Mystic.",
@@ -44,7 +44,7 @@
         "pack_code": "shang_chi_by_hax",
         "position": 14,
         "quantity": 1,
-        "set_code": "shang_chi_nemesis",
+        "set_code": "shang_chi_by_hax_nemesis",
         "set_position": 2,
         "text": "Victory 1.\n<b>Forced Response</b>: After resolving step one of the villain phase, place 1 mystic counter here. After a third mystic counter is placed here, deal 3 indirect damage to each hero and ally in play and remove The Life Stealer from the game.",
         "type_code": "side_scheme"
@@ -59,7 +59,7 @@
         "pack_code": "shang_chi_by_hax",
         "position": 15,
         "quantity": 3,
-        "set_code": "shang_chi_nemesis",
+        "set_code": "shang_chi_by_hax_nemesis",
         "set_position": 3,
         "text": "<b>When Revealed</b>: Remove an ally or [[PERSONA]] card in play from the game. If no card was removed from the game this way, take 3 indirect damage or discard 3 cards from your hand. Then, remove this card from the game.",
         "type_code": "treachery"

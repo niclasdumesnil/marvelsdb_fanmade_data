@@ -956,25 +956,25 @@
     },
     {
         "card_set_type_code": "hero",
-        "code": "shang_chi",
+        "code": "shang_chi_by_hax",
         "name": "Shang-Chi"
     },
     {
         "card_set_type_code": "nemesis",
-        "code": "shang_chi_nemesis",
+        "code": "shang_chi_by_hax_nemesis",
         "name": "Shang-Chi Nemesis",
-        "parent_code": "shang_chi"
+        "parent_code": "shang_chi_by_hax"
     },
     {
         "card_set_type_code": "hero",
-        "code": "us_agent",
+        "code": "us_agent_by_hax",
         "name": "U.S. Agent"
     },
     {
         "card_set_type_code": "nemesis",
-        "code": "us_agent_nemesis",
+        "code": "us_agent_by_hax_nemesis",
         "name": "U.S. Agent Nemesis",
-        "parent_code": "us_agent"
+        "parent_code": "us_agent_by_hax"
     },
     {
         "card_set_type_code": "hero",
