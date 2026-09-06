@@ -3,13 +3,13 @@
         "code": "50001a",
         "name": "Maria Hill",
         "text": "Chaque allié que vous contrôlez gagne le trait [[S.H.I.E.L.D.]].\n<i>Réaffectation</i> — <b>Action</b> : déplacez 1 jeton générique d'un soutien [[S.H.I.E.L.D.]]. vers un autre soutien [[S.H.I.E.L.D.]]. (Limite d'une fois par round.)",
-        "traits": "S.H.I.E.L.D. Espion."
+        "traits": "Espion. S.H.I.E.L.D."
     },
     {
         "code": "50001b",
         "name": "Maria Hill",
         "text": "Vous pouvez inclure dans votre deck le nombre maximum d'exemplaires de 3 soutiens [[S.H.I.E.L.D.]]  appartenant à d'autres affinités que celle que vous avez choisie.\n<b>Action</b> : inclinez Maria Hill → cherchez dans votre deck un soutien [[S.H.I.E.L.D.]]  et ajoutez-le à votre main.",
-        "traits": "S.H.I.E.L.D. Espion."
+        "traits": "Espion. S.H.I.E.L.D."
     },
     {
         "code": "50002",
@@ -51,7 +51,7 @@
         "code": "50008",
         "name": "Equipe de Soutien",
         "text": "Utilisations (3 jetons Personnel).\n<b>Ressource</b> : retirez 1 jeton Personnel de l'Équipe de Soutien et inclinez-la → générez une ressource [wild] pour un joueur dont l'identité a le trait [[S.H.I.E.L.D.]].",
-        "traits": "Individu. S.H.I.E.L.D.."
+        "traits": "Individu. S.H.I.E.L.D."
     },
     {
         "code": "50009",
@@ -85,7 +85,7 @@
         "name": "Slingshot",
         "subname": "Yo-Yo Rodriguez",
         "text": "<b>Action</b> : dépensez une ressource [energy] → mettez en jeu Slingshot depuis votre main sous le contrôle de n'importe quel joueur. À la fin de la phase, si Slingshot est toujours en jeu, renvoyez-la dans votre main.",
-        "traits": "S.H.I.E.L.D. Espion."
+        "traits": "Espion. S.H.I.E.L.D."
     },
     {
         "code": "50014",
@@ -126,14 +126,14 @@
         "code": "50022",
         "name": "Grant Ward",
         "text": "Grant Ward ne peut pas défendre.\n<b>Réponse forcée</b> : après que vous avez révélé une traîtrise, vous pouvez dépenser une ressource [mental]. Si vous ne le faites pas, subissez un nombre de dégâts égal à l'ATQ de Grant Ward et retirez Grant Ward de la partie.",
-        "traits": "S.H.I.E.L.D. Espion."
+        "traits": "Espion. S.H.I.E.L.D."
     },
     {
         "code": "50023",
         "flavor": "« Non, je ne suis pas la Cavalerie. »",
         "name": "Melinda May",
         "text": "[star] <b>Réponse</b> : après que Melinda May a utilisé un pouvoir de base, regardez la carte du dessus du deck Rencontre. Vous pouvez défausser la carte consultée.",
-        "traits": "S.H.I.E.L.D. Espion."
+        "traits": "Espion. S.H.I.E.L.D."
     },
     {
         "code": "50024",
@@ -149,14 +149,14 @@
     {
         "code": "50034a",
         "name": "Nick Fury",
-        "text": "[star] <i>Rassembler des informations</i> — <b>Réponse</b> : après que Nick Fury a effectué un contre de base, placez 1 menace sur votre amélioration Forme d'Uniforme.\nQuitter sa couverture - <b>Interruption forcée</b> : quand vous attaquez, passez sous forme d'uniforme Assaut.",
-        "traits": "S.H.I.E.L.D. Soldat. Espion."
+        "text": "[star] <i>Rassembler des informations</i> — <b>Réponse</b> : après que Nick Fury a effectué un contre de base, placez 1 menace sur votre amélioration Forme d'Uniforme.\n<i>Quitter sa couverture</i> — <b>Interruption forcée</b> : quand vous attaquez, passez sous forme d'uniforme Assaut.",
+        "traits": "Espion. S.H.I.E.L.D. Soldat."
     },
     {
         "code": "50034b",
         "name": "Nick Fury",
         "text": "<i>En Uniforme</i> — <b>Mise en place</b> : mettez en jeu votre amélioration Forme d'Uniforme, face Assaut visible.\n<i>Infiltration</i> — <b>Action</b> : passez sous forme d'uniforme Furtivité.",
-        "traits": "S.H.I.E.L.D. Soldat. Espion."
+        "traits": "Espion. S.H.I.E.L.D. Soldat."
     },
     {
         "code": "50035a",
@@ -181,7 +181,7 @@
         "code": "50037",
         "name": "Feu Nourri",
         "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 4 dégâts à un ennemi. Cette attaque gagne À Distance. Si un ennemi est vaincu par cette attaque, choisissez :\n• ﻿Placez sur votre amélioration Forme d'Uniforme un nombre de menaces égal à la MNG imprimée de cet ennemi.\n• ﻿﻿Passez sous forme d'uniforme Furtivité.",
-        "traits": "Attack."
+        "traits": "Attaque."
     },
     {
         "code": "50038",
@@ -231,7 +231,7 @@
         "code": "50045",
         "name": "Analyse du Renseignement",
         "text": "<b>Interruption</b> : quand vous révélez une traîtrise, défaussez Analyse du Renseignement et retirez 1 menace de votre amélioration Forme d'Uniforme → annulez les effets de cette traîtrise et défaussez-la.",
-        "traits": "Préparation. Compétence."
+        "traits": "Compétence. Préparation."
     },
     {
         "code": "50046",
