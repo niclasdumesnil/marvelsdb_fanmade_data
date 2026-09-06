@@ -10,5 +10,9 @@
     {
         "code": "narrative",
         "name": "Narrative"
+    },
+    {
+        "code": "weakness",
+        "name": "Weakness"
     }
 ]

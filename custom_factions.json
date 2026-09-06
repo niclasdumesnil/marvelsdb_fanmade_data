@@ -1,3 +1,22 @@
 [
-  { "code": "venomized", "name": "Venomized" }
+  {
+    "code": "venomized",
+    "name": "Venomized",
+    "pack_code": "venomized_by_ekaugust",
+    "color": "#26262e",
+    "weakness_requirement": {
+      "mode": "random",
+      "pool": "aspect",
+      "count_by_cost": [
+        {
+          "max": 20,
+          "count": 1
+        },
+        {
+          "max": 40,
+          "count": 2
+        }
+      ]
+    }
+  }
 ]

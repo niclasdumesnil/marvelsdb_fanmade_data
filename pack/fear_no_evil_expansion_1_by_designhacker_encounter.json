@@ -4,7 +4,7 @@
         "code": "208601a",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "You have just stopped Bullseye from “completing his important work”. He doesn’t take kindly to that.",
+        "flavor": "You have just stopped Bullseye from “completing his important work”. He doesn't take kindly to that.",
         "is_unique": false,
         "name": "Eyes On The Prize",
         "octgn_id": "7d2994c6-ae51-4958-9edc-06b3dc086001",
@@ -35,7 +35,7 @@
         "set_position": 1,
         "stage": "1B",
         "status": "released",
-        "text": "Treat each acceleration token in play as a [amplify] icon instead.\n<b>Forced Interrupt</b>: When a boost card on Bullseye is turned faceup, if it is not a Bullseye card, discard it and give him another boost card instead. (Limit once per activation.)\nIf this stage is completed, the players lose the game.",
+        "text": "Treat each acceleration token in play as a [amplify] icon instead.\n<b>Forced Interrupt</b>: When a boost card on Bullseye is turned faceup, if it is not a Bullseye card, discard it and give him another boost card instead. (Limit once per activation.)\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 9,
         "type_code": "main_scheme"
     },
@@ -75,7 +75,7 @@
         "set_position": 1,
         "stage": "1B",
         "status": "released",
-        "text": "<b>Hero Action</b>: Spend [mental] [physical] resources → move a charge counter from Electric Charge to a card you control and ready it.\n<b>Forced Interrupt</b>: When Electro would attack, if there are no charge counters on Electric Charge, she schemes with +1 SCH instead.\nIf this stage is completed, the players lose the game.",
+        "text": "<b>Hero Action</b>: Spend [mental] [physical] resources → move a charge counter from Electric Charge to a card you control and ready it.\n<b>Forced Interrupt</b>: When Electro would attack, if there are no charge counters on Electric Charge, she schemes with +1 SCH instead.\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 9,
         "type_code": "main_scheme"
     },
@@ -84,7 +84,7 @@
         "code": "208603a",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "Mercenaries, Maggia, and local law enforcement don’t really see eye to eye.",
+        "flavor": "Mercenaries, Maggia, and local law enforcement don't really see eye to eye.",
         "is_unique": false,
         "name": "Enforcer Entanglements",
         "octgn_id": "7d2994c6-ae51-4958-9edc-06b3dc086003",
@@ -95,7 +95,7 @@
         "set_position": 1,
         "stage": "1A",
         "status": "released",
-        "text": "<b>Contents</b>: Hammerhead (I) and Hammerhead (II). (Hammerhead (II) and Hammerhead (III) instead for expert mode.) Hammerhead, Cops, and Standard encounter sets. One modular encounter set (Ransacked Armory).\n\n<b>Setup</b>: The first player puts the topmost minion in the encounter deck into play engaged with them. (Shuffle.)",
+        "text": "<b>Contents</b>: Hammerhead (I) and Hammerhead (II). (Hammerhead (II) and Hammerhead (III) instead for expert mode.) Hammerhead, Cops, and Standard encounter sets. One modular encounter set (Ransacked Armory).\n\n<b>Setup</b>: The first player puts the topmost minion in the encounter deck into play engaged with them. (<i>Shuffle</i>.)",
         "type_code": "main_scheme"
     },
     {
@@ -115,7 +115,7 @@
         "set_position": 1,
         "stage": "1B",
         "status": "released",
-        "text": "While you are stunned, [[Police]] minions engaged with you attack the [[Criminal]] or [[Mercenary]] character with the fewest remaining hit points instead.\nIf this stage is completed, the players lose the game.",
+        "text": "While you are stunned, [[Police]] minions engaged with you attack the [[Criminal]] or [[Mercenary]] character with the fewest remaining hit points instead.\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 8,
         "type_code": "main_scheme"
     },
@@ -135,7 +135,7 @@
         "set_position": 1,
         "stage": "1A",
         "status": "released",
-        "text": "<b>Contents</b>: Purple Man (I) and Purple Man (II). (Purple Man (II) and Purple Man (III) instead for expert mode.) Purple Man and Standard encounter sets. Two modular encounter sets (Streets of Mayhem & Tracksuit Mafia).\n\n<b>Setup</b>: Each player searches the encounter deck for an [[Influenced]] minion and reveals it. (Shuffle.)",
+        "text": "<b>Contents</b>: Purple Man (I) and Purple Man (II). (Purple Man (II) and Purple Man (III) instead for expert mode.) Purple Man and Standard encounter sets. Two modular encounter sets (Streets of Mayhem & Tracksuit Mafia).\n\n<b>Setup</b>: Each player searches the encounter deck for an [[Influenced]] minion and reveals it. (<i>Shuffle</i>.)",
         "type_code": "main_scheme"
     },
     {
@@ -155,7 +155,7 @@
         "set_position": 1,
         "stage": "1B",
         "status": "released",
-        "text": "<b>Forced Interrupt</b>: When a [[Civilian]] minion would be discarded, shuffle it into the encounter deck instead.\n<b>Hero Action</b>: Spend a [wild] resource → choose to either stun or confuse an [[Influenced]] minion.\nIf this stage is completed, the players lose the game.",
+        "text": "<b>Forced Interrupt</b>: When a [[Civilian]] minion would be discarded, shuffle it into the encounter deck instead.\n<b>Hero Action</b>: Spend a [wild] resource → choose to either stun or confuse an [[Influenced]] minion.\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 9,
         "type_code": "main_scheme"
     },
@@ -195,7 +195,7 @@
         "set_position": 1,
         "stage": "1B",
         "status": "released",
-        "text": "Reduce the amount of damage the villain takes from each attack by 1 for each Typhoid Mary card attached to her.\n<b>Forced Interrupt</b>: After a token is placed on Disturbed Psyche, find a non-unique Typhoid Mary attachment and attach it to the villain. Replace its printed text box with: “Permanent.”\nIf this stage is completed, the players lose the game.",
+        "text": "Reduce the amount of damage the villain takes from each attack by 1 for each Typhoid Mary card attached to her.\n<b>Forced Interrupt</b>: After a token is placed on Disturbed Psyche, find a non-unique Typhoid Mary attachment and attach it to the villain. Replace its printed text box with: “Permanent.”\n<b>If this stage is completed, the players lose the game.</b>",
         "threat": 9,
         "type_code": "main_scheme"
     }
