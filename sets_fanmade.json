@@ -1904,5 +1904,35 @@
         "code": "007_by_rycoran_nemesis",
         "name": "007 Nemesis",
         "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "eyes_on_the_prize_by_designhacker",
+        "name": "Eyes On The Prize",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "energetic_enemy_by_designhacker",
+        "name": "Energetic Enemy",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "enforcer_entanglements_by_designhacker",
+        "name": "Enforcer Entanglements",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "violet_violence_by_designhacker",
+        "name": "Violet Violence",
+        "status": "released"
+    },
+    {
+        "card_set_type_code": "villain",
+        "code": "double_trouble_by_designhacker",
+        "name": "Double Trouble",
+        "status": "released"
     }
 ]

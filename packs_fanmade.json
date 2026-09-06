@@ -1497,5 +1497,21 @@
         "status": "released",
         "theme": "other",
         "visibility": "true"
+    },
+    {
+        "cgdb_id": 2086,
+        "code": "fear_no_evil_expansion_1_by_designhacker",
+        "confidential": "false",
+        "creator": "Designhacker",
+        "date_release": "2026-09-06",
+        "lang": "EN",
+        "name": "Fear No Evil Expansion #1",
+        "octgn_id": "7d2994c6-ae51-4958-9edc-06b3dc5e8434",
+        "pack_type_code": "scenar_fanmade",
+        "position": 2086,
+        "size": 10,
+        "status": "released",
+        "theme": "Marvel",
+        "visibility": "true"
     }
 ]
