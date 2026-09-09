@@ -310,9 +310,11 @@
 		"id": "summon",
 		"term": "Summon",
 		"type": "fanmade",
-		"content": "<p>Search the deck, discard pile, or anywhere in or out of play for a specific card, then shuffle the deck if it was searched in this way.</p>",
+		"content": "<p>Search the deck, discard pile, or anywhere in or out of play for a specific card, then shuffle the deck if it was searched in this way.</p><p><em>Summon predates the official <b>Find</b> keyword, which covers almost the same ground: both reach every game area where the named card could be. Cards printed with summon keep it.</em></p>",
 		"see_also": [
-			"discard"
+			"discard",
+			"find",
+			"search"
 		]
 	},
 	{

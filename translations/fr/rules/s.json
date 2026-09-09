@@ -310,9 +310,11 @@
 		"id": "summon",
 		"term": "Invoquer",
 		"type": "fanmade",
-		"content": "<p>Cherchez dans le deck, la pile de défausse, ou n'importe où en jeu ou hors jeu une carte spécifique, puis mélangez le deck s'il a été cherché de cette manière.</p>",
+		"content": "<p>Cherchez dans le deck, la pile de défausse, ou n'importe où en jeu ou hors jeu une carte spécifique, puis mélangez le deck s'il a été cherché de cette manière.</p><p><em>Invoquer précède le mot-clé officiel <b>Trouver</b>, qui couvre presque le même terrain : tous deux atteignent chaque zone de jeu où la carte nommée peut se trouver. Les cartes imprimées avec invoquer le conservent.</em></p>",
 		"see_also": [
-			"discard"
+			"discard",
+			"find",
+			"search"
 		]
 	},
 	{

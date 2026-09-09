@@ -347,6 +347,10 @@
       "match": "Initiating Abilities"
     },
     {
+      "id": "investigate",
+      "match": "Investigate"
+    },
+    {
       "id": "labeled_ability",
       "match": "Labeled Ability"
     },
@@ -636,6 +640,10 @@
     {
       "id": "stun_stunned",
       "match": "Stun, Stunned"
+    },
+    {
+      "id": "summon",
+      "match": "Summon"
     },
     {
       "id": "suppress",
