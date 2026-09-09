@@ -42,7 +42,7 @@
 		"id": "capacity",
 		"term": "Capacité (X « type »)",
 		"type": "fanmade",
-		"content": "<p>Quand une carte portant ce mot-clé entre en jeu, placez dessus X jetons polyvalents de la réserve. Le mot qui suit la valeur établit et identifie le type de jetons que la carte accueille.</p><ul><li>La carte ne peut jamais porter plus de X jetons de ce type.</li><li>Chaque carte portant ce mot-clé possède aussi une capacité dont le coût fait référence au type de jetons établi par le mot-clé.</li></ul>",
+		"content": "<p>Quand une carte portant ce mot-clé entre en jeu, placez dessus X jetons génériques de la réserve. Le mot qui suit la valeur établit et identifie le type de jetons que la carte accueille.</p><ul><li>La carte ne peut jamais porter plus de X jetons de ce type.</li><li>Chaque carte portant ce mot-clé possède aussi une capacité dont le coût fait référence au type de jetons établi par le mot-clé.</li></ul>",
 		"see_also": [
 			"ablative_x",
 			"slots"
@@ -240,7 +240,7 @@
 		"id": "counter",
 		"term": "Compteur",
 		"type": "official",
-		"content": "Voir : Jetons Génériques.",
+		"content": "Voir : Jeton générique.",
 		"see_also": [
 			"all_purpose_counter"
 		]

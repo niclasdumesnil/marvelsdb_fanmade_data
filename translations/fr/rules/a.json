@@ -34,7 +34,7 @@
 		"id": "ablative_x",
 		"term": "Ablatif X",
 		"type": "fanmade",
-		"content": "<p>Quand une carte portant ce mot-clé entre en jeu, placez dessus X jetons polyvalents de la réserve, en tant que jetons d'armure.</p><ul><li>Après que vous avez subi des dégâts d'une attaque ou d'une carte rencontre, retirez 1 jeton d'armure de chaque carte ablative que vous contrôlez.</li><li>Après le retrait du dernier jeton d'armure d'une carte ablative, défaussez cette carte.</li></ul>",
+		"content": "<p>Quand une carte portant ce mot-clé entre en jeu, placez dessus X jetons génériques de la réserve, en tant que jetons d'armure.</p><ul><li>Après que vous avez subi des dégâts d'une attaque ou d'une carte rencontre, retirez 1 jeton d'armure de chaque carte ablative que vous contrôlez.</li><li>Après le retrait du dernier jeton d'armure d'une carte ablative, défaussez cette carte.</li></ul>",
 		"see_also": [
 			"capacity",
 			"slots"
@@ -135,7 +135,7 @@
 	},
 	{
 		"id": "all_purpose_counter",
-		"term": "Jeton universel",
+		"term": "Jeton générique",
 		"type": "official",
 		"content": "<p>Les jetons génériques peuvent être utilisés pour suivre une variété d'états et de statuts de jeu différents. Ils n'ont pas de règles inhérentes.</p><p>Les capacités de carte peuvent créer et définir un certain nombre de types de jetons différents, tels que les « jetons flèche » ou les « jetons toile ». Si un jeton est requis, un jeton générique est utilisé pour suivre sa présence dans le jeu.</p><ul><li>Les jetons génériques sont considérés comme des jetons pour tous les besoins du jeu.</li><li>Une capacité qui fait référence à un « jeton générique » peut faire référence à n'importe quel jeton générique, quel que soit le type que ce jeton pourrait avoir par ailleurs.</li><li>Lorsqu'un jeton générique est déplacé d'une carte à une autre, il perd tout type précédent qu'il avait et acquiert le type défini sur la nouvelle carte qu'il occupe. Si la nouvelle carte ne définit aucun type, il est considéré uniquement comme un « jeton générique ».</li></ul>",
 		"see_also": [
