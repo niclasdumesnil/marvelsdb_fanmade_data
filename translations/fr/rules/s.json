@@ -330,6 +330,15 @@
 		]
 	},
 	{
+		"id": "suppress",
+		"term": "Suppression",
+		"type": "fanmade",
+		"content": "<p>Considérez la zone de texte de la carte attachée comme vierge.</p><ul><li>Une carte portant ce mot-clé peut ajouter ses propres restrictions, qui s'appliquent en plus de l'effacement de la zone de texte.</li></ul>",
+		"see_also": [
+			"attachment"
+		]
+	},
+	{
 		"id": "surge",
 		"term": "Renfort",
 		"type": "official",

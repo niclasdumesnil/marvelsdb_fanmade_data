@@ -330,6 +330,15 @@
 		]
 	},
 	{
+		"id": "suppress",
+		"term": "Suppress",
+		"type": "fanmade",
+		"content": "<p>Treat the text box of the attached card as blank.</p><ul><li>A card with this keyword may add further restrictions of its own, which apply in addition to blanking the text box.</li></ul>",
+		"see_also": [
+			"attachment"
+		]
+	},
+	{
 		"id": "surge",
 		"term": "Surge",
 		"type": "official",
