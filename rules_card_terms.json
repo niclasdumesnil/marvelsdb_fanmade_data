@@ -1,0 +1,764 @@
+{
+  "_comment": [
+    "Index des regles associees aux cartes, affiche sous le texte de carte sur MC4DB.",
+    "Chaque entree relie un identifiant de regle (rules/*.json) au libelle a chercher dans le",
+    "texte ANGLAIS de la carte. On cherche toujours sur l'anglais, jamais sur la traduction :",
+    "63 % seulement des cartes ont un texte francais, et moins encore dans les autres langues.",
+    "Le libelle AFFICHE, lui, vient de la traduction de la regle dans la langue active.",
+    "",
+    "forme (absente = le libelle seul, pluriel tolere) :",
+    "  value  le libelle est suivi d'une valeur : « Hinder 2 », « Retaliate X »",
+    "  paren  le libelle est suivi d'un parametre entre parentheses : « Uses (3 charges) ».",
+    "         Sans quoi « Uses » attrape « uses a basic power ».",
+    "  colon  le libelle introduit une capacite : « Setup : ... »",
+    "  dot    le libelle est un mot-cle isole : « Hunter. » — evite les noms de cartes",
+    "         (« Bushmaster the Hunter's attacks »).",
+    "",
+    "Un libelle contenu dans un autre est efface par le plus long : « Counter » disparait",
+    "devant « All-Purpose Counter ».",
+    "",
+    "Fichier CURE : il se regenere mal tout seul. Une entree ecartee l'a ete pour une raison",
+    "mesuree (nom de carte, verbe courant, prose), pas par oubli."
+  ],
+  "terms": [
+    {
+      "id": "ablative_x",
+      "match": "Ablative",
+      "forme": "value"
+    },
+    {
+      "id": "acceleration_icon",
+      "match": "Acceleration Icon"
+    },
+    {
+      "id": "acceleration_token",
+      "match": "Acceleration Token"
+    },
+    {
+      "id": "active_player",
+      "match": "Active Player"
+    },
+    {
+      "id": "agile_x",
+      "match": "Agile",
+      "forme": "value"
+    },
+    {
+      "id": "alias",
+      "match": "Alias"
+    },
+    {
+      "id": "all_purpose_counter",
+      "match": "All-Purpose Counter"
+    },
+    {
+      "id": "alliance",
+      "match": "Alliance"
+    },
+    {
+      "id": "ally_limit",
+      "match": "Ally Limit"
+    },
+    {
+      "id": "alter_ego_alter_ego_form",
+      "match": "Alter-Ego, Alter-Ego Form"
+    },
+    {
+      "id": "alteration_effect",
+      "match": "Alteration Effect"
+    },
+    {
+      "id": "amplify_icon",
+      "match": "Amplify Icon"
+    },
+    {
+      "id": "armored_x",
+      "match": "Armored",
+      "forme": "value"
+    },
+    {
+      "id": "arrow_icon",
+      "match": "Arrow Icon"
+    },
+    {
+      "id": "aspect_card",
+      "match": "Aspect Card"
+    },
+    {
+      "id": "assault",
+      "match": "Assault"
+    },
+    {
+      "id": "attach_to",
+      "match": "Attach To"
+    },
+    {
+      "id": "attacks_against_allies",
+      "match": "Attacks Against Allies"
+    },
+    {
+      "id": "base_value",
+      "match": "Base Value"
+    },
+    {
+      "id": "basic_card",
+      "match": "Basic Card"
+    },
+    {
+      "id": "basic_power",
+      "match": "Basic Power"
+    },
+    {
+      "id": "boost_boost_icon",
+      "match": "Boost, Boost Icon"
+    },
+    {
+      "id": "breakthrough",
+      "match": "Breakthrough"
+    },
+    {
+      "id": "campaign_mode",
+      "match": "Campaign Mode"
+    },
+    {
+      "id": "campaign_specific_card",
+      "match": "Campaign-Specific Card"
+    },
+    {
+      "id": "capacity",
+      "match": "Capacity",
+      "forme": "paren"
+    },
+    {
+      "id": "card_ability",
+      "match": "Card Ability"
+    },
+    {
+      "id": "card_types",
+      "match": "Card Types"
+    },
+    {
+      "id": "companion",
+      "match": "Companion"
+    },
+    {
+      "id": "component_limitations",
+      "match": "Component Limitations"
+    },
+    {
+      "id": "confuse_confused",
+      "match": "Confuse, Confused"
+    },
+    {
+      "id": "consequential_damage",
+      "match": "Consequential Damage"
+    },
+    {
+      "id": "constant_ability",
+      "match": "Constant Ability"
+    },
+    {
+      "id": "cost_arrow_icon",
+      "match": "Cost Arrow Icon"
+    },
+    {
+      "id": "crisis_icon",
+      "match": "Crisis Icon"
+    },
+    {
+      "id": "crit_x",
+      "match": "Crit"
+    },
+    {
+      "id": "deal_deal_an_encounter_card",
+      "match": "Deal, Deal an Encounter Card"
+    },
+    {
+      "id": "deck_customization",
+      "match": "Deck Customization"
+    },
+    {
+      "id": "defend_defense",
+      "match": "Defend, Defense"
+    },
+    {
+      "id": "delayed_effect",
+      "match": "Delayed Effect"
+    },
+    {
+      "id": "discard_pile",
+      "match": "Discard Pile"
+    },
+    {
+      "id": "discount_x_trait",
+      "match": "Discount",
+      "forme": "value"
+    },
+    {
+      "id": "double_sided_card",
+      "match": "Double-Sided Card"
+    },
+    {
+      "id": "drain_x",
+      "match": "Drain",
+      "forme": "value"
+    },
+    {
+      "id": "draw_drawing_cards",
+      "match": "Draw, Drawing Cards"
+    },
+    {
+      "id": "empty_deck",
+      "match": "Empty Deck"
+    },
+    {
+      "id": "encounter_card",
+      "match": "Encounter Card"
+    },
+    {
+      "id": "encounter_deck",
+      "match": "Encounter Deck"
+    },
+    {
+      "id": "encounter_discard_pile",
+      "match": "Encounter Discard Pile"
+    },
+    {
+      "id": "encounter_set",
+      "match": "Encounter Set"
+    },
+    {
+      "id": "end_of_player_phase",
+      "match": "End of Player Phase"
+    },
+    {
+      "id": "enemy_activation",
+      "match": "Enemy Activation"
+    },
+    {
+      "id": "enemy_attacks",
+      "match": "Enemy Attacks"
+    },
+    {
+      "id": "enemy_schemes",
+      "match": "Enemy Schemes"
+    },
+    {
+      "id": "energy_resource",
+      "match": "Energy Resource"
+    },
+    {
+      "id": "enters_play",
+      "match": "Enters Play"
+    },
+    {
+      "id": "excess_damage",
+      "match": "Excess Damage"
+    },
+    {
+      "id": "expert_mode",
+      "match": "Expert Mode"
+    },
+    {
+      "id": "expert_set",
+      "match": "Expert Set"
+    },
+    {
+      "id": "first_player",
+      "match": "First Player"
+    },
+    {
+      "id": "fleeting",
+      "match": "Fleeting"
+    },
+    {
+      "id": "form_change_form",
+      "match": "Form, Change Form"
+    },
+    {
+      "id": "fragile",
+      "match": "Fragile"
+    },
+    {
+      "id": "game_element",
+      "match": "Game Element"
+    },
+    {
+      "id": "guard",
+      "match": "Guard"
+    },
+    {
+      "id": "hand_size",
+      "match": "Hand Size"
+    },
+    {
+      "id": "hazard_icon",
+      "match": "Hazard Icon"
+    },
+    {
+      "id": "hero_hero_form",
+      "match": "Hero, Hero Form"
+    },
+    {
+      "id": "heroic_mode",
+      "match": "Heroic Mode"
+    },
+    {
+      "id": "hinder_x",
+      "match": "Hinder",
+      "forme": "value"
+    },
+    {
+      "id": "hit_points",
+      "match": "Hit Points"
+    },
+    {
+      "id": "hunter",
+      "match": "Hunter",
+      "forme": "dot"
+    },
+    {
+      "id": "identity_specific_card",
+      "match": "Identity-Specific Card"
+    },
+    {
+      "id": "in_play_and_out_of_play",
+      "match": "In Play and Out of Play"
+    },
+    {
+      "id": "in_player_order",
+      "match": "In Player Order"
+    },
+    {
+      "id": "incite_x",
+      "match": "Incite",
+      "forme": "value"
+    },
+    {
+      "id": "indirect_damage",
+      "match": "Indirect Damage"
+    },
+    {
+      "id": "infinite_hit_points",
+      "match": "Infinite Hit Points"
+    },
+    {
+      "id": "initiating_abilities",
+      "match": "Initiating Abilities"
+    },
+    {
+      "id": "labeled_ability",
+      "match": "Labeled Ability"
+    },
+    {
+      "id": "lasting_effects",
+      "match": "Lasting Effects"
+    },
+    {
+      "id": "leaves_play",
+      "match": "Leaves Play"
+    },
+    {
+      "id": "legion",
+      "match": "Legion",
+      "forme": "dot"
+    },
+    {
+      "id": "linked_card_title",
+      "match": "Linked",
+      "forme": "paren"
+    },
+    {
+      "id": "look_looked_at",
+      "match": "Look, Looked-At"
+    },
+    {
+      "id": "main_scheme",
+      "match": "Main Scheme, Main Scheme Deck"
+    },
+    {
+      "id": "max_maximum",
+      "match": "Max, Maximum"
+    },
+    {
+      "id": "maximum_hit_points",
+      "match": "Maximum Hit Points"
+    },
+    {
+      "id": "mental_resource",
+      "match": "Mental Resource"
+    },
+    {
+      "id": "modes_of_play",
+      "match": "Modes of Play"
+    },
+    {
+      "id": "modular_encounter_set",
+      "match": "Modular Encounter Set"
+    },
+    {
+      "id": "nemesis_encounter_set",
+      "match": "Nemesis Encounter Set"
+    },
+    {
+      "id": "non_numerical_variable",
+      "match": "Non-Numerical Variable"
+    },
+    {
+      "id": "overkill",
+      "match": "Overkill"
+    },
+    {
+      "id": "ownership_and_control",
+      "match": "Ownership and Control"
+    },
+    {
+      "id": "patrol",
+      "match": "Patrol"
+    },
+    {
+      "id": "per_player_icon",
+      "match": "Per Player Icon"
+    },
+    {
+      "id": "peril",
+      "match": "Peril"
+    },
+    {
+      "id": "permanent",
+      "match": "Permanent"
+    },
+    {
+      "id": "physical_resource",
+      "match": "Physical Resource"
+    },
+    {
+      "id": "piercing",
+      "match": "Piercing"
+    },
+    {
+      "id": "play_area",
+      "match": "Play Area"
+    },
+    {
+      "id": "play_put_into_play",
+      "match": "Play, Put into Play"
+    },
+    {
+      "id": "play_restrictions_and_permissions",
+      "match": "Play Restrictions and Permissions"
+    },
+    {
+      "id": "player_card",
+      "match": "Player Card"
+    },
+    {
+      "id": "player_deck",
+      "match": "Player Deck"
+    },
+    {
+      "id": "player_discard_pile",
+      "match": "Player Discard Pile"
+    },
+    {
+      "id": "player_elimination",
+      "match": "Player Elimination"
+    },
+    {
+      "id": "player_phase",
+      "match": "Player Phase"
+    },
+    {
+      "id": "player_side_scheme",
+      "match": "Player Side Scheme"
+    },
+    {
+      "id": "player_side_scheme_limit",
+      "match": "Player Side Scheme Limit"
+    },
+    {
+      "id": "player_turn",
+      "match": "Player Turn"
+    },
+    {
+      "id": "players_play_area",
+      "match": "Player’s Play Area"
+    },
+    {
+      "id": "playing_cards",
+      "match": "Playing Cards"
+    },
+    {
+      "id": "quickstrike",
+      "match": "Quickstrike"
+    },
+    {
+      "id": "ranged",
+      "match": "Ranged"
+    },
+    {
+      "id": "reckless",
+      "match": "Reckless"
+    },
+    {
+      "id": "recover_recovery",
+      "match": "Recover, Recovery"
+    },
+    {
+      "id": "referential_ability",
+      "match": "Referential Ability"
+    },
+    {
+      "id": "regeneration_x",
+      "match": "Regeneration",
+      "forme": "value"
+    },
+    {
+      "id": "remaining_hit_points",
+      "match": "Remaining Hit Points"
+    },
+    {
+      "id": "reminder_text",
+      "match": "Reminder Text"
+    },
+    {
+      "id": "removed_from_the_game",
+      "match": "Removed from the Game"
+    },
+    {
+      "id": "replacement_effect",
+      "match": "Replacement Effect"
+    },
+    {
+      "id": "requirement_resources",
+      "match": "Requirement",
+      "forme": "paren"
+    },
+    {
+      "id": "resource_ability",
+      "match": "Resource Ability"
+    },
+    {
+      "id": "resource_card",
+      "match": "Resource Card"
+    },
+    {
+      "id": "resource_type",
+      "match": "Resource Type"
+    },
+    {
+      "id": "restricted",
+      "match": "Restricted"
+    },
+    {
+      "id": "retaliate_x",
+      "match": "Retaliate",
+      "forme": "value"
+    },
+    {
+      "id": "rookie_mode",
+      "match": "Rookie Mode"
+    },
+    {
+      "id": "round_structure",
+      "match": "Round Structure"
+    },
+    {
+      "id": "running_out_of_cards",
+      "match": "Running Out of Cards"
+    },
+    {
+      "id": "scenario_specific_card",
+      "match": "Scenario-Specific Card"
+    },
+    {
+      "id": "seek",
+      "match": "Seek"
+    },
+    {
+      "id": "set_aside",
+      "match": "Set Aside, Set-Aside"
+    },
+    {
+      "id": "set_icon",
+      "match": "Set Icon"
+    },
+    {
+      "id": "setup_keyword",
+      "match": "Setup",
+      "forme": "dot"
+    },
+    {
+      "id": "setup_triggered_ability",
+      "match": "Setup",
+      "forme": "colon"
+    },
+    {
+      "id": "side_scheme",
+      "match": "Side Scheme"
+    },
+    {
+      "id": "simultaneous_resolution",
+      "match": "Simultaneous Resolution"
+    },
+    {
+      "id": "skirmish_mode",
+      "match": "Skirmish Mode"
+    },
+    {
+      "id": "slots",
+      "match": "Slots"
+    },
+    {
+      "id": "stalwart",
+      "match": "Stalwart"
+    },
+    {
+      "id": "standard_mode",
+      "match": "Standard Mode"
+    },
+    {
+      "id": "standard_set",
+      "match": "Standard Set"
+    },
+    {
+      "id": "star_icon",
+      "match": "Star Icon"
+    },
+    {
+      "id": "status_cards",
+      "match": "Status Cards"
+    },
+    {
+      "id": "steady",
+      "match": "Steady"
+    },
+    {
+      "id": "stun_stunned",
+      "match": "Stun, Stunned"
+    },
+    {
+      "id": "suppress",
+      "match": "Suppress"
+    },
+    {
+      "id": "surge",
+      "match": "Surge"
+    },
+    {
+      "id": "sustained_damage",
+      "match": "Sustained Damage"
+    },
+    {
+      "id": "swarm",
+      "match": "Swarm"
+    },
+    {
+      "id": "table_talk",
+      "match": "Table Talk"
+    },
+    {
+      "id": "target_threat",
+      "match": "Target Threat"
+    },
+    {
+      "id": "team_up",
+      "match": "Team-Up"
+    },
+    {
+      "id": "teamwork_trait",
+      "match": "Teamwork",
+      "forme": "paren"
+    },
+    {
+      "id": "temporary",
+      "match": "Temporary"
+    },
+    {
+      "id": "text_box",
+      "match": "Text Box"
+    },
+    {
+      "id": "toughness",
+      "match": "Toughness"
+    },
+    {
+      "id": "track",
+      "match": "Track"
+    },
+    {
+      "id": "triggered_ability",
+      "match": "Triggered Ability"
+    },
+    {
+      "id": "triggering_condition",
+      "match": "Triggering Condition"
+    },
+    {
+      "id": "unique_icon",
+      "match": "Unique Icon"
+    },
+    {
+      "id": "uses_x_type",
+      "match": "Uses",
+      "forme": "paren"
+    },
+    {
+      "id": "valid_target",
+      "match": "Valid Target"
+    },
+    {
+      "id": "victory_display",
+      "match": "Victory Display"
+    },
+    {
+      "id": "victory_x",
+      "match": "Victory",
+      "forme": "value"
+    },
+    {
+      "id": "villain_defeat",
+      "match": "Villain Defeat"
+    },
+    {
+      "id": "villain_phase",
+      "match": "Villain Phase"
+    },
+    {
+      "id": "villain_villain_deck",
+      "match": "Villain, Villain Deck"
+    },
+    {
+      "id": "villainous",
+      "match": "Villainous"
+    },
+    {
+      "id": "villains_play_area",
+      "match": "Villain’s Play Area"
+    },
+    {
+      "id": "when_completed_abilities",
+      "match": "When Completed Abilities"
+    },
+    {
+      "id": "when_defeated_abilities",
+      "match": "When Defeated Abilities"
+    },
+    {
+      "id": "when_revealed_abilities",
+      "match": "When Revealed Abilities"
+    },
+    {
+      "id": "wild_resource",
+      "match": "Wild Resource"
+    },
+    {
+      "id": "winning_the_game",
+      "match": "Winning the Game"
+    },
+    {
+      "id": "you_your",
+      "match": "You, Your"
+    }
+  ]
+}
