@@ -44,7 +44,7 @@
 		"id": "acceleration_icon",
 		"term": "Icône d'Accélération",
 		"type": "official",
-		"content": "Une icône d'accélération représente des forces supplémentaires qui font avancer les plans néfastes du méchant. Lors de l'étape 1 de la phase du méchant, placez X menaces supplémentaires sur la manigance principale, où X est le nombre d'icônes d'accélération en jeu.<br><ul><li>Une icône d'accélération peut être retirée du jeu en vainquant la carte rencontre sur laquelle elle est imprimée.</li><li>Les icônes d'accélération ne sont pas considérées comme des pions accélération, et vice versa.</li><li><mark class=\"new\">Chaque icône d'accélération est équivalente à la capacité constante suivante : « Lors de l'étape Placer la Menace de la phase du méchant, placez 1 menace supplémentaire sur la manigance principale. »</mark></li></ul>",
+		"content": "Une icône d'accélération représente des forces supplémentaires qui font avancer les plans néfastes du méchant. Lors de l'étape 1 de la phase du méchant, placez X menaces supplémentaires sur la manigance principale, où X est le nombre d'icônes d'accélération en jeu.<br><ul><li>Une icône d'accélération peut être retirée du jeu en vainquant la carte rencontre sur laquelle elle est imprimée.</li><li>Les icônes d'accélération ne sont pas considérées comme des jetons accélération, et vice versa.</li><li><mark class=\"new\">Chaque icône d'accélération est équivalente à la capacité constante suivante : « Lors de l'étape Placer la Menace de la phase du méchant, placez 1 menace supplémentaire sur la manigance principale. »</mark></li></ul>",
 		"whats_new": "Ajout d'un nouveau point précisant que chaque icône d'accélération équivaut à une capacité constante plaçant 1 menace supplémentaire sur la manigance principale lors de l'étape Placer la Menace.",
 		"see_also": [
 			"icons",
@@ -123,7 +123,7 @@
 		"id": "agile_x",
 		"term": "Agile X",
 		"type": "fanmade",
-		"content": "<p>Réduit de X les dégâts subis par les attaques non défendues du méchant et des sbires&nbsp;<em>(valeur par défaut : 1)</em>.</p>",
+		"content": "<p>Réduit de X les dégâts subis par les attaques non défendues du méchant et des sbires vilenie&nbsp;<em>(valeur par défaut : 1)</em>.</p>",
 		"see_also": []
 	},
 	{
