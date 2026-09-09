@@ -333,7 +333,7 @@
 		"id": "suppress",
 		"term": "Suppression",
 		"type": "fanmade",
-		"content": "<p>Considérez la zone de texte de la carte attachée comme vierge.</p><ul><li>Une carte portant ce mot-clé peut ajouter ses propres restrictions, qui s'appliquent en plus de l'effacement de la zone de texte.</li></ul>",
+		"content": "<p>Considérez la boîte de texte de la carte attachée comme vierge.</p><ul><li>Une carte portant ce mot-clé peut ajouter ses propres restrictions, qui s'appliquent en plus de l'effacement de la boîte de texte.</li></ul>",
 		"see_also": [
 			"attachment"
 		]
@@ -372,7 +372,7 @@
 		"term": "« Échanger »",
 		"type": "official",
 		"content": "<p>Une instruction « d'échanger » deux composants signifie échanger l'emplacement de ces deux composants.</p><ul><li>Un échange ne peut pas être effectué s'il n'y a pas un composant dans les deux emplacements.<ul><li><em>Par exemple, vous ne pouvez pas « échanger une carte de votre main avec la carte du dessus de votre deck » si vous n'avez pas de carte en main.</em></li></ul></li><li><mark class=\"new\">Les cartes échangées conservent l'orientation (comme redressée ou inclinée, face visible ou face cachée) de la carte d'origine.</mark></li><li>Échanger une carte en main avec la carte du dessus d'un deck n'est <b>pas</b> considéré comme piocher cette carte.</li><li>Lors de l'échange d'une carte dans une zone en jeu avec une carte dans une zone hors jeu, si ces deux cartes :<ul><li>Partagent un titre, aucune des cartes n'est considérée comme entrant ou quittant le jeu. Les jetons, cartes attachées, cartes intercalées et cartes d'état sur la carte précédemment en jeu sont transférés à l'autre carte et l'autre carte conserve l'état <em>(redressée ou inclinée)</em> de la carte précédemment en jeu. Si la carte échangée a un cadran de points de vie associé, ce cadran reste à la même valeur.</li><li>Ne partagent pas de titre, la carte en jeu est considérée comme quittant le jeu et la carte hors jeu est considérée comme entrant en jeu. Les jetons, cartes attachées, cartes intercalées et cartes d'état sur la carte précédemment en jeu ne sont <b>pas</b> transférés à l'autre carte et l'autre carte entre en jeu redressée. Si la carte échangée a un cadran de points de vie associé, ce cadran est réinitialisé à la valeur de points de vie imprimée de la nouvelle carte.</li></ul></li></ul>",
-		"whats_new": "Extension des règles d'échange de cartes et de transfert des pions, attachements et cadrans de points de vie.",
+		"whats_new": "Extension des règles d'échange de cartes et de transfert des jetons, attachements et cadrans de points de vie.",
 		"see_also": [
 			"ability",
 			"target"

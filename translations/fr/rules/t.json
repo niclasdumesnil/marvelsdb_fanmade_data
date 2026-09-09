@@ -113,7 +113,7 @@
 		"id": "threat",
 		"term": "Menace",
 		"type": "official",
-		"content": "<p>Les pions menace sont utilisés pour suivre la quantité de menace sur les cartes manigance.</p>",
+		"content": "<p>Les jetons menace sont utilisés pour suivre la quantité de menace sur les cartes manigance.</p>",
 		"see_also": [
 			"component_limitations",
 			"scheme_card_type",
