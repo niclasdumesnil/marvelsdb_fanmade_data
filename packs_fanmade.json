@@ -1511,5 +1511,17 @@
         "status": "released",
         "theme": "Marvel",
         "visibility": "true"
+    },
+    {
+        "cgdb_id": 5005,
+        "code": "armored_by_armored_design_team",
+        "creator": "Armored Design Team",
+        "date_release": "2026-09-09",
+        "name": "Armored",
+        "pack_type_code": "fm_theme",
+        "position": 5005,
+        "size": 25,
+        "status": "beta",
+        "visibility": "false"
     }
 ]

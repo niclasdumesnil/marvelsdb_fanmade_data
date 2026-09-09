@@ -39,6 +39,16 @@
 		]
 	},
 	{
+		"id": "capacity",
+		"term": "Capacity (X \"type\")",
+		"type": "fanmade",
+		"content": "<p>When a card with this keyword enters play, place X all-purpose counters from the token pool on the card. The word following the value establishes and identifies the type of counters the card holds.</p><ul><li>The card can never have more than X counters of that type on it.</li><li>Each card with this keyword also has an ability that references the type of counters established by the keyword as part of the cost.</li></ul>",
+		"see_also": [
+			"ablative_x",
+			"slots"
+		]
+	},
+	{
 		"id": "card_ability",
 		"term": "Card Ability",
 		"type": "official",

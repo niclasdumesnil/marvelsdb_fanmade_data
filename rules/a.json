@@ -31,6 +31,16 @@
 		]
 	},
 	{
+		"id": "ablative_x",
+		"term": "Ablative X",
+		"type": "fanmade",
+		"content": "<p>When a card with this keyword enters play, place X all-purpose counters from the token pool on the card as armor counters.</p><ul><li>After you take damage from an attack or encounter card, remove 1 armor counter from each card you control with ablative.</li><li>After the last armor counter is removed from a card with ablative, discard that card.</li></ul>",
+		"see_also": [
+			"capacity",
+			"slots"
+		]
+	},
+	{
 		"id": "acceleration_icon",
 		"term": "Acceleration Icon",
 		"type": "official",
@@ -227,7 +237,7 @@
 		"id": "armored_x",
 		"term": "Armored X",
 		"type": "fanmade",
-		"content": "<p>Reduce the amount of damage this character takes from each attack by X.</p>",
+		"content": "<p>When a character with this keyword would take any amount of damage from an attack, prevent X of that damage.</p>",
 		"see_also": []
 	},
 	{

@@ -4,6 +4,7 @@
     "name": "Venomized",
     "pack_code": "venomized_by_ekaugust",
     "color": "#26262e",
+    "color2": "#c0392b",
     "weakness_requirement": {
       "mode": "random",
       "pool": "aspect",
@@ -18,5 +19,12 @@
         }
       ]
     }
+  },
+  {
+    "code": "armored",
+    "name": "Armored",
+    "pack_code": "armored_by_armored_design_team",
+    "color": "#2a5582",
+    "color2": "#f8fbfd"
   }
 ]

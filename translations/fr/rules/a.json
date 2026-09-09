@@ -31,6 +31,16 @@
 		]
 	},
 	{
+		"id": "ablative_x",
+		"term": "Ablatif X",
+		"type": "fanmade",
+		"content": "<p>Quand une carte portant ce mot-clé entre en jeu, placez dessus X jetons polyvalents de la réserve, en tant que jetons d'armure.</p><ul><li>Après que vous avez subi des dégâts d'une attaque ou d'une carte rencontre, retirez 1 jeton d'armure de chaque carte ablative que vous contrôlez.</li><li>Après le retrait du dernier jeton d'armure d'une carte ablative, défaussez cette carte.</li></ul>",
+		"see_also": [
+			"capacity",
+			"slots"
+		]
+	},
+	{
 		"id": "acceleration_icon",
 		"term": "Icône d'Accélération",
 		"type": "official",
@@ -227,7 +237,7 @@
 		"id": "armored_x",
 		"term": "Blindé X",
 		"type": "fanmade",
-		"content": "<p>Réduit de X la quantité de dégâts que ce personnage subit à chaque attaque.</p>",
+		"content": "<p>Quand un personnage portant ce mot-clé subirait une quantité quelconque de dégâts d'une attaque, prévenez X de ces dégâts.</p>",
 		"see_also": []
 	},
 	{

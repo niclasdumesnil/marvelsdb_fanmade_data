@@ -63,7 +63,7 @@
 		"id": "seek",
 		"term": "Seek",
 		"type": "fanmade",
-		"content": "<p>Discard cards from the top of (Y) deck until you discard an (X) card.</p>",
+		"content": "<p>When a player is instructed to seek a card, the player discards cards from the top of the specified deck until they discard a card that satisfies the criteria of the seek.</p><ul><li>Then, the player adds the card to the game area indicated by the instruction on the seek effect.</li></ul>",
 		"see_also": [
 			"discard"
 		]
@@ -163,6 +163,16 @@
 		"content": "<p>See: Modes of Play.</p>",
 		"see_also": [
 			"modes_of_play"
+		]
+	},
+	{
+		"id": "slots",
+		"term": "Slots",
+		"type": "fanmade",
+		"content": "<p>Each identity has a number of specific slots that can be filled at any given moment. Each upgrade that a player controls with a slot symbol is held in a slot of that type.</p><ul><li>The slots normally available to an identity are one each of Chassis, Reactor, Accessory, Helmet, Gauntlets and Boots.</li><li>If a player ever controls a number of upgrades in a slot above their slot limit, the player must choose and discard upgrades they control so that they are no longer above their slot limit.</li></ul>",
+		"see_also": [
+			"capacity",
+			"ablative_x"
 		]
 	},
 	{

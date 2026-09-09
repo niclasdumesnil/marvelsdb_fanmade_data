@@ -63,7 +63,7 @@
 		"id": "seek",
 		"term": "Puiser",
 		"type": "fanmade",
-		"content": "<p>Défaussez des cartes du dessus du deck (Y) jusqu'à ce que vous défaussiez une carte (X).</p>",
+		"content": "<p>Quand un joueur reçoit l'instruction de puiser une carte, il défausse des cartes du dessus du deck indiqué jusqu'à défausser une carte satisfaisant les critères du puisage.</p><ul><li>Il ajoute ensuite cette carte à la zone de jeu indiquée par l'effet de puisage.</li></ul>",
 		"see_also": [
 			"discard"
 		]
@@ -163,6 +163,16 @@
 		"content": "<p>Voir : Modes de jeu.</p>",
 		"see_also": [
 			"modes_of_play"
+		]
+	},
+	{
+		"id": "slots",
+		"term": "Emplacements",
+		"type": "fanmade",
+		"content": "<p>Chaque identité dispose d'un certain nombre d'emplacements qui peuvent être occupés à un moment donné. Chaque amélioration contrôlée par un joueur et portant un symbole d'emplacement occupe un emplacement de ce type.</p><ul><li>Les emplacements normalement disponibles pour une identité sont un de chaque : Châssis, Réacteur, Accessoire, Casque, Gantelets et Bottes.</li><li>Si un joueur contrôle un nombre d'améliorations supérieur à sa limite pour un emplacement, il choisit et défausse des améliorations qu'il contrôle jusqu'à revenir dans la limite.</li></ul>",
+		"see_also": [
+			"capacity",
+			"ablative_x"
 		]
 	},
 	{
