@@ -16,7 +16,7 @@
         "code": "202402",
         "flavor": "« Pardonne moi mon amour ! Je ne te quitterai plus jamais des yeux. » – Angela",
         "name": "Sera",
-        "text": "Votre taille de main augmente de +1.",
+        "text": "La taille de main d'Angela augmente de +1.",
         "traits": "Heven."
     },
     {
@@ -30,12 +30,14 @@
         "code": "202404",
         "flavor": "« Je n'en ai pas terminé. » – Angela",
         "name": "Regard Meurtrier",
-        "text": "<b>Réponse</b> (<i>contre</i>) : après qu'Angela a attaqué et vaincu un ennemi, retirez 2 menaces d'une manigance. Retirez 1 menace supplémentaire de cette manigance pour chaque sbire que vous avez vaincu ce round."
+        "text": "<b>Réponse</b> (<i>contre</i>) : après qu'Angela a attaqué et vaincu un ennemi, retirez 2 menaces d'une manigance. Retirez 1 menace supplémentaire de cette manigance pour chaque sbire que vous avez vaincu ce round.",
+        "traits": "Contre."
     },
     {
         "code": "202405",
         "name": "Cible Isolée",
-        "text": "<b>Interruption de héros</b> : quand une carte de traîtrise est révélée depuis le deck Rencontre, annulez ses effets « <b>Une fois révélée</b> ». Cherchez un sbire dans le deck Rencontre et mettez‑le en jeu engagé avec n'importe quel joueur."
+        "text": "<b>Interruption de héros</b> : quand une carte de traîtrise est révélée depuis le deck Rencontre, annulez ses effets « <b>Une fois révélée</b> ». Cherchez un sbire dans le deck Rencontre et mettez‑le en jeu engagé avec n'importe quel joueur.",
+        "traits": "Tactique."
     },
     {
         "code": "202406",
@@ -54,7 +56,8 @@
         "code": "202408",
         "flavor": "« Plutôt bien protégée pour une robe. » – Angela",
         "name": "Robe de Siri",
-        "text": "Vous gagnez +4 points de vie et le trait [[AÉRIEN]]."
+        "text": "Vous gagnez +4 points de vie et Angela gagne le trait [[AÉRIEN]].",
+        "traits": "Armure. Asgard."
     },
     {
         "code": "202409",

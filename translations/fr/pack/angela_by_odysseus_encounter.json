@@ -2,19 +2,19 @@
     {
         "code": "202410",
         "name": "Bannie d'Asgard",
-        "text": "Vous pouvez passer en forme d'alter ego. Choisissez :\n• Inclinez Aldrif Odinsdottir → retirez Bannie d'Asgard de la partie.\n• Défaussez 1 carte [[asgard]] que vous contrôlez. Vous êtes désorienté. Si aucune carte n'a été défaussée de cette manière, cette carte gagne Renfort. Défaussez cette obligation."
+        "text": "<b><i>Donnez cette carte au joueur de Aldrif Odinsdottir</i></b>\nVous pouvez passer en forme d'alter ego. Choisissez :\n• Inclinez Aldrif Odinsdottir → retirez Bannie d'Asgard de la partie.\n• Défaussez 1 carte [[asgard]] que vous contrôlez. Vous êtes désorienté. Si aucune carte n'a été défaussée de cette manière, cette carte gagne Renfort. Défaussez cette obligation."
     },
     {
         "code": "202411",
         "flavor": "« Hela vient régler ses comptes avec l'usurpatrice asgardienne. »",
         "name": "Punition de Hel",
-        "text": "<b>Une fois révélée</b> : défaussez un nombre de cartes du dessus de votre deck égal au nombre de cartes [[asgard]] en jeu.\n[hazard]"
+        "text": "<b>Une fois révélée</b> : défaussez un nombre de cartes du dessus de votre deck égal au nombre de cartes [[asgard]] en jeu."
     },
     {
         "code": "202412",
         "flavor": "« La Reine de Hel te l'ordonne ! »",
         "name": "Hela",
-        "text": "Tant que le joueur est engagé avec un autre sbire, Hela ne peut pas subir de dégâts\n<b>\nForced Interrupt</b> : après que vous avez vaincu un sbire, défaussez une carte de votre main.\n<i>(Sbire némésis d'Angela)</i>",
+        "text": "Tant que le joueur est engagé avec un autre sbire, Hela ne peut pas subir de dégâts\n<b>Forced Interrupt</b> : après que vous avez vaincu un sbire, défaussez une carte de votre main.\n<i>(Sbire némésis d'Angela)</i>",
         "traits": "Asgard. Élite. Mystique."
     },
     {
@@ -34,6 +34,6 @@
         "code": "202415",
         "flavor": "« Relevez-vous, mes esclaves ! » – Hela",
         "name": "De Retour de Hel",
-        "text": "<b>Une fois révélée</b> : cherchez le sbire le plus proche du dessous de la pile de défausse Rencontre et révélez‑le.\n\n<b>Boost</b> : si cette activation est une attaque, cette carte gagne +1 icône de boost ([boost]) pour chaque sbire engagé avec vous."
+        "text": "<b>Une fois révélée</b> : cherchez le sbire le plus proche du dessous de la pile de défausse Rencontre et révélez‑le.\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, cette carte gagne +1 icône de boost ([boost]) pour chaque sbire engagé avec vous."
     }
 ]
