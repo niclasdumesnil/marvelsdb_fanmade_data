@@ -3,7 +3,7 @@
         "code": "44101",
         "name": "Cable",
         "subname": "Nathaniel Summers",
-        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n[star]<b>Interruption</b> : quand Cable attaque, défaussez n'importe quel nombre de cartes de votre main → pour chaque carte ainsi défaussée, Cable gagne +1 ATQ pour cette attaque.",
+        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n[star] <b>Interruption</b> : quand Cable attaque, défaussez n'importe quel nombre de cartes de votre main → pour chaque carte ainsi défaussée, Cable gagne +1 ATQ pour cette attaque.",
         "traits": "X-Force. X-Men."
     },
     {
@@ -159,7 +159,7 @@
         "flavor": "« Je m'ennuyais. Je fais des choses comme ça quand je m'ennuie. »",
         "name": "Elektra",
         "subname": "Elektra Natchios",
-        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n[star]Les attaques d'Elektra gagnent Perçant et À Distance.",
+        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nLes attaques d'Elektra gagnent Perçant et À Distance.",
         "traits": "Hero à Louer. S.H.I.E.L.D."
     },
     {
@@ -174,7 +174,7 @@
         "flavor": "« 4 morts et je parie que mon rythme cardiaque est toujours en dessous de 80. Pas mal pour un échauffement. »",
         "name": "The Punisher",
         "subname": "Frank Castle",
-        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n[star] Les attaques du Punisher gagnent Perçant et À Distance.",
+        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nLes attaques du Punisher gagnent Perçant et À Distance.",
         "traits": "Avenger. Héros à Louer."
     },
     {
