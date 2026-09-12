@@ -1,0 +1,65 @@
+[
+    {
+        "code": "202401a",
+        "flavor": "« L'un d'entre vous sera peut être épargné... Nous verrons selon mon humeur. »",
+        "name": "Angela",
+        "text": "<i>Frénésie</i> — <b>Réponse</b> : après que vous avez vaincu un sbire, redressez Angela. (Limite d'une fois par round.)",
+        "traits": "Asgard. Gardien."
+    },
+    {
+        "code": "202401b",
+        "name": "Aldrif Odinsdottir",
+        "text": "<b>Mise en place</b> : cherchez une carte [[arme]] dans votre deck ou votre pile de défausse, et ajoutez‑la à votre main. Mélangez votre deck.\n\n[star] <i>Heven et Hel</i> — Aldrif Odinsdottir gagne +1 REC pour chaque [[arme]] que vous contrôlez.",
+        "traits": "Asgard."
+    },
+    {
+        "code": "202402",
+        "flavor": "« Pardonne moi mon amour ! Je ne te quitterai plus jamais des yeux. » – Angela",
+        "name": "Sera",
+        "text": "Votre taille de main augmente de +1.",
+        "traits": "Heven."
+    },
+    {
+        "code": "202403",
+        "flavor": "« Je  t'enverrai directement vers Hel ! » – Angela",
+        "name": "La Furie d'Heven",
+        "text": "<b>Action</b> (<i>attaque</i>) : infligez 7 dégâts à un ennemi. Vous pouvez incliner une [[arme]] que vous contrôlez. Si vous le faites, les dégâts ainsi infligés peuvent être répartis parmi les ennemis de votre choix.",
+        "traits": "Attaque."
+    },
+    {
+        "code": "202404",
+        "flavor": "« Je n'en ai pas terminé. » – Angela",
+        "name": "Regard Meurtrier",
+        "text": "<b>Réponse</b> (<i>contre</i>) : après qu'Angela a attaqué et vaincu un ennemi, retirez 2 menaces d'une manigance. Retirez 1 menace supplémentaire de cette manigance pour chaque sbire que vous avez vaincu ce round."
+    },
+    {
+        "code": "202405",
+        "name": "Cible Isolée",
+        "text": "<b>Interruption de héros</b> : quand une carte de traîtrise est révélée depuis le deck Rencontre, annulez ses effets « <b>Une fois révélée</b> ». Cherchez un sbire dans le deck Rencontre et mettez‑le en jeu engagé avec n'importe quel joueur."
+    },
+    {
+        "code": "202406",
+        "name": "Rubans Angéliques",
+        "text": "Angela gagne Robuste.\n<b>Interruption de héros</b> : quand un ennemi s'active, défaussez cette carte → cet ennemi a – X ATQ et – X MNG pour cette activation, où X est la valeur ATQ d'Angela.",
+        "traits": "Arme."
+    },
+    {
+        "code": "202407",
+        "flavor": "« Asgard te juge indigne. » – Angela",
+        "name": "Assassin d'Asgard",
+        "text": "<b>Ressource de héros</b> : inclinez Assassin d'Asgard → générez une ressource [physical]. Si vous avez vaincu un sbire ce round, générez une ressource [wild] à la place.",
+        "traits": "Asgard. Titre."
+    },
+    {
+        "code": "202408",
+        "flavor": "« Plutôt bien protégée pour une robe. » – Angela",
+        "name": "Robe de Siri",
+        "text": "Vous gagnez +4 points de vie et le trait [[AÉRIEN]]."
+    },
+    {
+        "code": "202409",
+        "name": "Xiphos",
+        "text": "Restreint.\nAngela gagne +1 ATQ.\n<b>Réponse</b> : après que Angela a vaincu un sbire, piochez 1 carte. (Limite d'une fois par round.)",
+        "traits": "Asgard. Arme."
+    }
+]
