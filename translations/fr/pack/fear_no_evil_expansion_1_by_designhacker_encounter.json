@@ -1,0 +1,57 @@
+[
+    {
+        "code": "208601a",
+        "flavor": "Vous venez d'empêcher Bullseye de « mener à bien son travail important ».\nIl n'apprécie pas vraiment.",
+        "name": "Fixé sur sa Proie",
+        "text": "<b>Contenu</b> : Bullseye (I) et Bullseye (II).\n<i>(Bullseye (II) et Bullseye (III) à la place en mode expert.)</i>\nLes sets de rencontre Bullseye et Standard.\nDeux sets modulaires <i>(Armurerie Pillée et Mafia des Survêtes)</i>\n\n<b>Mise en place</b> : chaque joueur cherche un allié dans son deck et le met en jeu. Infligez des dégâts à cet allié jusqu'à ce qu'il ait 1 point de vie restant."
+    },
+    {
+        "code": "208601b",
+        "name": "Fixé sur sa Proie",
+        "text": "Traitez chaque pion Accélération en jeu comme une icône [amplify] à la place.\nInterruption forcée\n<b>Interruption forcée</b> : quand une carte de boost est retournée face visible lors d'une activation de Bullseye, si ce n'est pas une carte du set Bullseye, défaussez‑la et donnez‑lui une autre carte de boost à la place. (Limite d'une fois par activation.)\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "208602a",
+        "flavor": "Electro a saturé l'air d'électricité statique. Essayez donc de traîner vos pieds sur la moquette, pour voir…",
+        "name": "Ennemi Énergétique",
+        "text": "<b>Contenu</b> : Electro (I) et Electro (II). <i>(Electro (II) et Electro (III) à la place en mode expert.)</i>\nLes sets Electro et Standard.\nDeux sets modulaires <i>(Sinistre Syndicat et Zzzax)</i>.\n<b>Mise en place</b> : chaque joueur qui n'a pas de carte avec une ressource [energy] imprimée dans sa main cherche une carte avec une ressource [energy] imprimée dans son deck et l'ajoute à sa main."
+    },
+    {
+        "code": "208602b",
+        "name": "Ennemi Énergétique",
+        "text": "<b>Action de héros</b> : dépensez les ressources suivantes : [mental] [physical] → déplacez 1 jeton Charge de Charge Électrique vers une carte que vous contrôlez et redressez‑la.\n<b>Interruption forcée</b> : quand Electro est censée vous attaquer, s'il n'y a aucun jeton Charge sur Charge Électrique, elle manigance avec +1 MNG à la place.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "208603a",
+        "flavor": "Les mercenaires, la Maggia et les forces de l'ordre locales ne sont vraiment pas sur la même longueur d'onde.",
+        "name": "Embrouilles Entre Hommes de Main",
+        "text": "<b>Contenu</b> : Hammerhead (I) et Hammerhead (II).<i> (Hammerhead (II) et Hammerhead (III) à la place en mode expert.)</i>\nLes sets Hammerhead, Police et Standard. Un set modulaire (<i>Armurerie Pillée</i>).\n\n<b>Mise en place</b> : le premier joueur met en jeu le sbire le plus proche du dessus du deck Rencontre engagé avec lui. (<i>Mélangez</i>.)"
+    },
+    {
+        "code": "208603b",
+        "name": "Embrouilles Entre Hommes de Main",
+        "text": "Tant que vous êtes sonné, les sbires [[Police]] engagés avec vous attaquent à la place le personnage [[Criminel]] ou [[Mercenaire]] avec le moins de points de vie restants.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "208604a",
+        "flavor": "L'Homme Pourpre lance vague après vague les civils innocents placés sous son influence. Il faut l'arrêter !",
+        "name": "Violence Violette",
+        "text": "<b>Contenu</b> : L'Homme Pourpre (I) et L'Homme Pourpre (II). <i>(L'Homme Pourpre (II) et L'Homme Pourpre (III) à la place en mode expert.)</i>\nLes sets L'Homme Pourpre et Standard.\nDeux sets modulaires <i>(Rues Malfamées et Mafia des Survêtes)</i>\n\n<b>Mise en place</b> : chaque joueur cherche dans le deck Rencontre un sbire [[Influencé]] et le révèle. (<i>Mélangez</i>.)"
+    },
+    {
+        "code": "208604b",
+        "name": "Violence Violette",
+        "text": "<b>Interruption forcée</b> : lorsque un sbire [[Civil]] est censé être défaussé, mélangez‑le à la place dans le deck Rencontre.\n<b>Action de héros</b> : dépensez une ressource [wild] → sonnez ou désorientez un sbire [[Influencé]].\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "208605a",
+        "flavor": "Pauvre Mary Walker : elle n'a pas une, mais deux identités alternatives capables de provoquer de sérieux problèmes pour elle‑même comme pour les autres.",
+        "name": "Double Problème",
+        "text": "<b>Contenu</b> : Mary Typhoïde (A).\n(Mary Typhoïde (B) à la place en mode expert.)\nLes sets Mary Typhoïde et Standard.\nDeux sets modulaires (<i>Mafia des Survêtes</i> & <i>Sinistre Syndicat</i>).\n\n<b>Mise en place</b> : révélez la manigance annexe <i>Gagner La Confiance</i>.\nRévélez l'environnement <i>Psyché Perturbée</i> et résolvez sa capacité « <b>Mise en place</b> ».\nDonnez au méchant une carte d'état Tenace."
+    },
+    {
+        "code": "208605b",
+        "name": "Double Problème",
+        "text": "Quand le méchant est censé subir des dégâts d'une attaque, réduisez ces dégâts de 1 pour chaque carte du set Mary Typhoïde qui lui est attachée.\n<b>Interruption forcée</b> : quand un jeton est placé <i>Psyché Perturbée</i>, cherchez un attachement non unique du set Mary Typhoïde et attachez‑le au méchant. Remplacez le texte imprimé dans sa boîte de texte par : « Permanent. »\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    }
+]

@@ -3,7 +3,7 @@
         "code": "44101",
         "name": "Cable",
         "subname": "Nathaniel Summers",
-        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n<b>Interruption</b> : quand Cable attaque, défaussez n'importe quel nombre de cartes de votre main → pour chaque carte ainsi défaussée, Cable gagne +1 ATQ pour cette attaque.",
+        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n[star]<b>Interruption</b> : quand Cable attaque, défaussez n'importe quel nombre de cartes de votre main → pour chaque carte ainsi défaussée, Cable gagne +1 ATQ pour cette attaque.",
         "traits": "X-Force. X-Men."
     },
     {
@@ -15,7 +15,7 @@
     },
     {
         "code": "44103",
-        "flavor": "« Appelez-nous à vos risques et périls. »",
+        "flavor": "« Faites appel à nous à vos risques et périls. »",
         "name": "Venom",
         "subname": "Eddie Brock",
         "text": "<b>Réponse forcée</b> : après que Venom est entré en jeu, placez 2 menaces sur la manigance principale.",
@@ -33,7 +33,7 @@
         "code": "44105",
         "flavor": "« Tu ne fais que rendre Hulk plus en COLÈRE. » – HULK",
         "name": "Rayon d'Explosion",
-        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez jusqu'à 5 dégâts à votre héros et choisissez jusqu'à 3 ennemis → infligez X dégâts à chaque ennemi choisi, où X est la quantité de dégâts subis par votre héros par cet effet.",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez jusqu'à 5 dégâts à votre héros et choisissez jusqu'à 3 ennemis → infligez X dégâts à chaque ennemi choisi, X étant égal au nombre de dégâts subis par votre héros de cette manière.",
         "traits": "Attaque."
     },
     {
@@ -69,7 +69,7 @@
     {
         "code": "44111",
         "name": "Je peux faire Ça toute la journée",
-        "text": "1 max par joueur.\n<b>Interruption</b> : quand votre héros est censé être vaincu, placez 1[per_hero] menace sur la manigance principale et fixez votre compteur de points de vie à 1 à la place. Ensuite, retirez cette carte de la partie.",
+        "text": "1 max par joueur.\n<b>Interruption</b> : quand votre héros est censé être vaincu, placez 1[per_hero] menaces sur la manigance principale et fixez votre compteur de points de vie à 1 à la place. Ensuite, retirez cette carte de la partie.",
         "traits": "Condition."
     },
     {
@@ -86,8 +86,8 @@
     },
     {
         "code": "44114",
-        "name": "Contre-Offensive",
-        "text": "1 max par joueur.\n<b>Réponse de héros</b> : après qu'une attaque avec déferlement a vaincu un allié que vous contrôlez et vous a blessé, défaussez Contre-Offensive → infligez X dégâts à un ennemi, où X est la somme des ATQ de cet allié et de votre héros.",
+        "name": "Représailles",
+        "text": "1 max par joueur.\n<b>Réponse de héros</b> : après qu'une attaque avec Déferlement a vaincu un allié que vous contrôlez et vous a infligé des dégâts, défaussez Représailles → infligez X dégâts à un ennemi, X étant égal à la somme des ATQ de cet allié et de votre héros.",
         "traits": "Préparation."
     },
     {
@@ -109,14 +109,14 @@
         "code": "44117",
         "flavor": "« À chaque respiration la douleur s'intensifie. Elle alimente mon pouvoir. » – Penance",
         "name": "Masochisme",
-        "text": "<b>Réponse de héros</b> : après que vous avez subi plus de 3 dégâts, piochez X cartes où X est la quantité de dégâts que vous avez subi au-delà de 3.",
+        "text": "<b>Réponse de héros</b> : après que vous avez subi plus de 3 dégâts, piochez X cartes, X étant égal au nombre de dégâts subis au-delà de 3.",
         "traits": "Tactique."
     },
     {
         "code": "44118",
         "flavor": "« Ressens la douleur, assassin !  Ressens sa brûlure ! Ressens ce que tu as infligé aux autres ! » – Daniel Ketch",
         "name": "Ressentir la Douleur",
-        "text": "Tant que les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie maximum, votre héros gagne riposte 1.",
+        "text": "Tant que les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie maximum, votre héros gagne Riposte 1.",
         "traits": "Condition."
     },
     {
@@ -129,7 +129,7 @@
     {
         "code": "44120",
         "name": "Tenir Bon",
-        "text": "1 max par joueur.\n<b>Action de héros</b> : inclinez Tenir Bon et subissez 2 dégâts → si vous avez moins de la moitié de vos points de vie maximum restants, votre taille de main augmente de +2 jusqu'à la fin de la phase.",
+        "text": "1 max par joueur.\n<b>Action de héros</b> : inclinez Tenir Bon et subissez 2 dégâts → si les points de vie restants de votre identité sont inférieurs à la moitié de ses points de vie maximum, votre taille de main augmente de +2 jusqu'à la fin de la phase.",
         "traits": "Condition."
     },
     {
@@ -148,9 +148,10 @@
     },
     {
         "code": "44123",
+        "flavor": "« Nous sommes opposés en tout… et pourtant, nous ne fonctionnons vraiment qu'ensemble. »",
         "name": "L'Épée",
         "subname": "Tandy Bowen",
-        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nTant que L'Épée est attachée à l'allié La Cape, réduisez de 2 le coût pour jouer L'Épée.",
+        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nSi l'Épée est attachée à l'allié La Cape, réduisez de 2 le coût pour la jouer.",
         "traits": "Avenger. X-Men."
     },
     {
@@ -158,15 +159,15 @@
         "flavor": "« Je m'ennuyais. Je fais des choses comme ça quand je m'ennuie. »",
         "name": "Elektra",
         "subname": "Elektra Natchios",
-        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nLes attaques d'Elektra gagnent Perçant et À Distance.",
+        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n[star]Les attaques d'Elektra gagnent Perçant et À Distance.",
         "traits": "Hero à Louer. S.H.I.E.L.D."
     },
     {
         "code": "44125",
         "flavor": "« Je ne cherche pas le pouvoir. Je cherche seulement la paix. »",
         "name": "Shang-Chi",
-        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n<b>Réponse</b> : après que Shang-Chi a retiré la dernière menace d'une manigance ou vaincu un sbire, redressez-le.",
-        "traits": "Avenger."
+        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n<b>Réponse</b> : après que Shang-Chi a retiré la dernière menace d'une manigance ou a vaincu un sbire, redressez-le.",
+        "traits": "Avenger. Héros à louer."
     },
     {
         "code": "44126",
@@ -185,8 +186,8 @@
     },
     {
         "code": "44128",
-        "name": "A Charge de Revanche",
-        "text": "<b>Action de héros</b> (<i>attaque/contre</i>) : subissez jusqu'à 3 dégâts → infligez X dégât répartis parmi les ennemis de votre choix, puis retirez X menaces réparties parmi les manigances de votre choix, où X est la quantité de dégâts ainsi subi.",
+        "name": "À Charge de Revanche",
+        "text": "<b>Action de héros</b> (<i>attaque/contre</i>) : subissez jusqu'à 3 dégâts → infligez X dégât répartis parmi les ennemis de votre choix, puis retirez X menaces réparties parmi les manigances en jeu de votre choix, X étant la quantité de dégâts que vous avez subis de cette manière.",
         "traits": "Attaque. Contre."
     },
     {
@@ -199,7 +200,7 @@
     {
         "code": "44130",
         "name": "Shot d'Adrénaline",
-        "text": "Utilisation (3 jetons Adrénaline).\n<b>Action</b> : retirez 1 jeton Adrénaline du Shot d'Adrénaline et inclinez-le → choisissez un allié. La prochaine attaque de cet allié inflige 2 dégâts supplémentaires et il subit 1 dégât consécutif supplémentaire.",
+        "text": "Utilisation (2 jetons Adrénaline).\n<b>Action</b> : retirez 1 jeton Adrénaline du Shot d'Adrénaline et inclinez-le → choisissez un allié. La prochaine attaque de cet allié inflige 2 dégâts supplémentaires et il subit 1 dégât consécutif supplémentaire.",
         "traits": "Objet."
     },
     {
@@ -211,14 +212,14 @@
     },
     {
         "code": "44132",
-        "name": "Dernier Rire",
-        "text": "Vous ne pouvez jouer cette carte que si les points de vie restant de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> : subissez 1 dégât et infligez 6 dégâts au méchant puis changez de forme.",
+        "name": "Qui Rira le Dernier",
+        "text": "Vous ne pouvez jouer cette carte que si les points de vie restant de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> <i>(attaque)</i> : subissez 1 dégât et infligez 6 dégâts au méchant puis changez de forme.",
         "traits": "Attaque."
     },
     {
         "code": "44133",
         "name": "Pause Déjeuner",
-        "text": "Jouez cette carte uniquement si votre identité a le trait [[Avenger]].\n<b>Action de héros</b> : soignez 1 dégât de votre identité. Soignez X dégâts supplémentaires de votre identité où X est égal au numéro du stade du méchant.",
+        "text": "Jouez cette carte uniquement si votre identité a le trait [[Avenger]].\n<b>Action de héros</b> : soignez 1 dégât de votre identité. Soignez X dégâts supplémentaires de votre identité, X étant égal au numéro du stade du méchant.",
         "traits": "Tactique."
     },
     {
@@ -233,7 +234,7 @@
         "flavor": "« Qui je suis... est lié à ce que je suis. Je suis un empire. Et cet empire doit tenir debout à n'importe quel prix. »",
         "name": "Gladiator",
         "subname": "Kallark",
-        "text": "Tant que vos points de vie restants sont inférieurs ou égaux à 5, réduisez de 2 les dégâts consécutifs subis par Gladiator.",
+        "text": "Tant que les points de vie restants de votre identité sont inférieurs ou égaux à 5, réduisez de 2 les dégâts consécutifs subis par Gladiator.",
         "traits": "Aérien. Gardien."
     },
     {
@@ -241,7 +242,7 @@
         "flavor": "« Je suis aussi la protectrice de l'univers. »",
         "name": "Quasar",
         "subname": "Avril Kincaid",
-        "text": "<b>Réponse</b> : après que Quasar est entré en jeu, infligez 2 dégâts à chaque ennemi engagé avec vous.",
+        "text": "<b>Réponse</b> : après que Quasar est entrée en jeu, infligez 2 dégâts à chaque ennemi engagé avec vous.",
         "traits": "Aérien. Gardien."
     },
     {
@@ -254,8 +255,8 @@
     },
     {
         "code": "44138",
-        "name": "Détoner",
-        "text": "<b>Action de héros</b> (<i>attaque</i>) : défaussez une amélioration que vous contrôlez avec des jetons dessus, puis infligez X dégâts au méchant et à chaque sbire engagé avec vous, où X est le nombre de jetons ainsi défaussés.",
+        "name": "Détonation",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : défaussez une amélioration que vous contrôlez avec des jetons dessus, puis infligez X dégâts au méchant et à chaque sbire engagé avec vous, X étant égal au nombre de jetons défaussés de cette manière.",
         "traits": "Attaque."
     },
     {
@@ -267,7 +268,7 @@
     },
     {
         "code": "44140",
-        "name": "Coup en Traître",
+        "name": "Coup Sournois",
         "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 2 dégâts à un ennemi. Si cette carte est la première que vous jouez lors de ce round, vous pouvez subir 1 dégât pour la renvoyer dans votre main.",
         "traits": "Attaque."
     },
@@ -340,7 +341,7 @@
     {
         "code": "44151",
         "flavor": "« JE SUIS VENOM ! » – Groot",
-        "name": "Dernier Recours",
+        "name": "Dernier RecoursD",
         "text": "<b>Interruption de héros</b> : quand un personnage [[Gardien]] que vous contrôlez devrait subir n'importe quelle quantité de dégâts, placez 2 menaces sur la manigance principale et défaussez Derniers Recours → prévenez 6 de ces dégâts.",
         "traits": "Préparation."
     },
@@ -870,5 +871,107 @@
         "flavor": "Même les pacifistes ont un point de rupture.",
         "name": "Énergie Enragée",
         "text": "Doublez le nombre de ressources générées par cette carte lorsque les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie de départ."
+    },
+    {
+        "code": "44233",
+        "name": "Orka",
+        "text": "Augmentez le coût pour jouer cette carte de 1 si vous ne contrôlez aucun personnage [[Héros à Louer]].\n[star] Orka a +1 ATQ pour chaque personnage possédant le mot‑clé fragile que vous contrôlez ou avec lequel vous êtes engagé.",
+        "traits": "Atlantide. Héros à Louer."
+    },
+    {
+        "code": "44234",
+        "name": "Tarantula",
+        "subname": "Maria Vasquez",
+        "text": "Fragile. Tarantula gagne 1 icône [amplify] pour pour chaque pion Dégât sur elle.\n\n<b>Réponse forcée</b> : après que Tarantula a contré une manigance annexe ou attaqué un sbire sans le vaincre exactement, elle subit +1 dégât collatéral.",
+        "traits": "Héros à Louer. Artiste Martial."
+    },
+    {
+        "code": "44235",
+        "name": "Paladin",
+        "text": "Vilenie.\n<b>Interruption forcée</b> : quand Paladin attaque un ennemi auquel est attaché au moins une amélioration determination <i>(violette)</i>, donnez‑lui 1 carte de boost supplémentaire pour cette attaque.",
+        "traits": "Héros à Louer."
+    },
+    {
+        "code": "44236",
+        "name": "Exploiter les Obstacles",
+        "text": "[star] Réduction 1 ([[Artiste Martial]]).\n<b>Action</b> (<i>attaque</i>) : infligez 2 dégâts à un ennemi. Infligez 1 dégât supplémentaire à cet ennemi pour chaque carte qui lui est attachée. Si cet ennemi est vaincu exactement par cette attaque, soignez 2 dégâts de votre identité.",
+        "traits": "Attaque."
+    },
+    {
+        "code": "44237",
+        "name": "Action Calculée",
+        "text": "<b>Action</b> (<i>attaque/contre</i>) : infligez X dégâts à un ennemi et retirez Y menace d'une manigance, où le total X + Y est égal à 6. Si une carte est vaincue exactement de cette manière, redressez votre héros. Sinon, subissez 1 dégât.",
+        "traits": "Attaque. Contre."
+    },
+    {
+        "code": "44238",
+        "name": "Analyser les Faiblesses",
+        "text": "Attachez à un sbire.\nLe sbire attaché gagne fragile.\n<b>Interruption</b> : quand vous êtes censé infliger n'importe quelle quantité de dégâts au sbire attaché, choisissez d'augmenter ou de diminuer de 1 le cette quantité de dégâts.",
+        "traits": "Tactique."
+    },
+    {
+        "code": "44239",
+        "flavor": "« Quelque chose est étrange ici. » – Daredevil",
+        "name": "Perplexe",
+        "text": "[star] Si les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie de départ, réduisez de 1 le coût de cette carte.\nAttachez à un allié ou à un sbire non‑[[Élite]].\nTraitez la boîte de texte imprimée du personnage attaché comme étant vide (à l'exception des [[Traits]]).",
+        "traits": "Condition."
+    },
+    {
+        "code": "44240",
+        "name": "Voie de la Miséricorde",
+        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. Max 1 carte [[Ethos]] par joueur.\n<b>Réponse de héros</b> : après que vous avez attaqué un sbire, si ce sbire a exactement 1 point de vie restant, piochez 1 carte. Ensuite, si vous êtes le seul joueur dans cette partie, défaussez ce sbire.",
+        "traits": "Ethos."
+    },
+    {
+        "code": "44241",
+        "name": "Voie de la Repentance",
+        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. Max 1 carte [[Ethos]] par joueur.\n<b>Réponse de héros</b> : après que vous avez attaqué un sbire, si cette attaque a infligé n'importe quelle quantité de dégâts excédentaires, subissez cette quantité de dégâts → pour chaque dégât subi de cette manière, choisissez un joueur pour piocher 1 carte. (Limite d'une fois par joueur et par sbire.)",
+        "traits": "Ethos."
+    },
+    {
+        "code": "44242",
+        "name": "Voie de la Tempérence",
+        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur. Max 1 carte [[Ethos]] par joueur.\n<b>Réponse de héros</b> : après que vous avez attaqué un sbire, si cette attaque a vaincu exactement ce sbire, chaque joueur peut défausser 1 carte de sa main et piocher 1 carte.",
+        "traits": "Ethos."
+    },
+    {
+        "code": "44243",
+        "name": "Détermination Innée",
+        "text": "Départ. <i>(Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.)</i>\nVotre identité gagne – 6 points de vie et la taille de main de votre héros gagne +1.",
+        "traits": "Condition."
+    },
+    {
+        "code": "44244",
+        "name": "Vengeur",
+        "text": "1 max par joueur. Max 3 cartes intercalées sous cette carte. Votre identité gagne +2 points de vie pour chaque allié intercalé.\n<b>Interruption forcée</b> : quand le méchant inflige des dégâts excédentaires à un allié que vous contrôlez et que cet allié est censé être vaincu, intercalez cet allié sous cette carte à la place.",
+        "traits": "Titre."
+    },
+    {
+        "code": "44245",
+        "flavor": "« J'ai une meilleur idée ! »",
+        "name": "Hellcat",
+        "subname": "Patsy Walker",
+        "text": "[star] <b>Interruption</b> : quand Hellcat attaque, défaussez une amélioration que vous contrôlez → Hellcat gagne +X ATQ pour cette attaque, où X est égal au coût imprimé de l'amélioration défaussée par cet effet.",
+        "traits": "Artiste Martial."
+    },
+    {
+        "code": "44246",
+        "name": "Iron Fist",
+        "subname": "Danny Rand",
+        "text": "[star] <b>Interruption</b> : quand Iron Fist attaque un ennemi ayant une carte d'état, cette attaque gagne Perçant et inflige +2 dégâts supplémentaires.\n<b>Réponse de héros</b> : après que Iron Fist a vaincu exactement un ennemi, donnez une carte d'état Tenace à Iron Fist ou à Luke Cage.",
+        "traits": "Héros à Louer. Artiste Martial."
+    },
+    {
+        "code": "44247",
+        "flavor": "« Montre-moi ce que tu vaux. » – Shang-Chi",
+        "name": "Obtenir sa Ceinture Noire",
+        "text": "Victoire 0. Personnel <i>(les personnages autres que l'identité du joueur qui a mis cette carte en jeu ne peuvent pas interagir avec elle.)</i>\n<b>Action</b> : inclinez votre identité → retirez 3 menace de cette carte.\n<b>Une fois déjouée</b> : piochez 3 cartes. Trouvez l'amélioration Ceinture Noire et attachez‑la à votre identité."
+    },
+    {
+        "code": "44248",
+        "flavor": "« Luke, tu dois toquer à la porte. » – Iron Man",
+        "name": "« On se Prépare. »",
+        "text": "Départ. <i>(Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.)</i>\nVotre héros gagne -1 de taille de main et votre identité gagne + 6 points de vie.",
+        "traits": "Condition."
     }
 ]
