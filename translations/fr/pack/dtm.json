@@ -159,7 +159,7 @@
         "flavor": "« Je m'ennuyais. Je fais des choses comme ça quand je m'ennuie. »",
         "name": "Elektra",
         "subname": "Elektra Natchios",
-        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n[star] Les attaques d'Elektra gagnent Perçant et À Distance.",
+        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nLes attaques d'Elektra gagnent Perçant et À Distance.",
         "traits": "Hero à Louer. S.H.I.E.L.D."
     },
     {
@@ -174,7 +174,7 @@
         "flavor": "« 4 morts et je parie que mon rythme cardiaque est toujours en dessous de 80. Pas mal pour un échauffement. »",
         "name": "The Punisher",
         "subname": "Frank Castle",
-        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n[star] Les attaques du Punisher gagnent Perçant et À Distance.",
+        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nLes attaques du Punisher gagnent Perçant et À Distance.",
         "traits": "Avenger. Héros à Louer."
     },
     {
@@ -304,7 +304,7 @@
         "code": "44145",
         "flavor": "« Que diable ? Où est-il passé ? »",
         "name": "Vol",
-        "text": "Jouez cette carte uniquement si votre identité a le trait [[Aérien]].\nb>Action de héros</b> : placez 2 menaces sur la manigance principale → sonnez et désorientez le méchant.",
+        "text": "Jouez cette carte uniquement si votre identité a le trait [[Aérien]].\n<b>Action de héros</b> : placez 2 menaces sur la manigance principale → sonnez et désorientez le méchant.",
         "traits": "Aérien. Tactique."
     },
     {
@@ -452,7 +452,7 @@
     {
         "code": "44168",
         "name": "Fusil Mixte",
-        "text": "Attachez cette carte à un allié. 1 max par allié.\nUtilisations (1 jeton Munition et 1 jeton Charge.)\n<b>Action</b> : inclinez le Fusil Mixte et choisissez une option :\n• Retirez 1 jeton Munition du Fusil Mixte → la prochaine attaque de l'allié attaché gagne Perçant.\n• Retirez 1 jeton Charge du Fusil Mixte → la prochaine attaque de l'allié attaché gagne Déferlement.",
+        "text": "Attachez cette carte à un allié. 1 max par allié. Utilisations (1 jeton Munition et 1 jeton Charge.)\n<b>Action</b> : inclinez le Fusil Mixte et choisissez une option :\n• Retirez 1 jeton Munition du Fusil Mixte → la prochaine attaque de l'allié attaché gagne Perçant.\n• Retirez 1 jeton Charge du Fusil Mixte → la prochaine attaque de l'allié attaché gagne Déferlement.",
         "traits": "Tech. Arme."
     },
     {
@@ -498,7 +498,7 @@
     {
         "code": "44175",
         "name": "Manipulations du Multivers",
-        "text": "Setup.\nMax 1 per deck.\n<b>Interruption forcée</b> : quand la partie commence, choisissez 3 cartes différentes, appartenant à une affinité autre que Détermination de votre collection et mettez-les de côté..\n<b>Action</b> : inclinez cette carte et attribuez-vous une carte de rencontre face cachée → cherchez une de ces cartes dans la zone « mis de côté » et ajoutez-la à votre main."
+        "text": "Setup. Max 1 per deck.\n<b>Interruption forcée</b> : quand la partie commence, choisissez 3 cartes différentes, appartenant à une affinité autre que Détermination de votre collection et mettez-les de côté..\n<b>Action</b> : inclinez cette carte et attribuez-vous une carte de rencontre face cachée → cherchez une de ces cartes dans la zone « mis de côté » et ajoutez-la à votre main."
     },
     {
         "code": "44176",
@@ -567,7 +567,7 @@
     {
         "code": "44186",
         "name": "Ça M'a Coûté un Bras",
-        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur.\n1 max par joueur.\nTant que les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie de départ, votre héros a une taille de main de -1 et +2 ATQ",
+        "text": "Jouez cette carte sous le contrôle de n'importe quel joueur.\n1 max par joueur.\nTant que les points de vie restants de votre héros sont inférieurs à la moitié de ses points de vie de départ, votre héros a une taille de main de -1 et  gagne +2 ATQ",
         "traits": "Condition."
     },
     {
@@ -943,7 +943,7 @@
     {
         "code": "44244",
         "name": "Vengeur",
-        "text": "1 max par joueur. Max 3 cartes intercalées sous cette carte. Votre identité gagne +2 points de vie pour chaque allié intercalé.\n<b>Interruption forcée</b> : quand le méchant inflige des dégâts excédentaires à un allié que vous contrôlez et que cet allié est censé être vaincu, intercalez cet allié sous cette carte à la place.",
+        "text": "1 max par joueur. 3 cartes max. intercalées dessous. Vous gagnez +2 points de vie pour chaque allié intercalé.\n<b>Interruption forcée</b> : quand le méchant inflige des dégâts excédentaires à un allié que vous contrôlez et que cet allié est censé être vaincu, intercalez cet allié sous cette carte à la place.",
         "traits": "Titre."
     },
     {
@@ -971,7 +971,7 @@
         "code": "44248",
         "flavor": "« Luke, tu dois toquer à la porte. » – Iron Man",
         "name": "« On se Prépare. »",
-        "text": "Départ. <i>(Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.)</i>\nVotre héros gagne -1 de taille de main et votre identité gagne + 6 points de vie.",
+        "text": "Départ. <i>(Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.)</i>\nVotre héros a -1 de taille de main et votre identité gagne + 6 points de vie.",
         "traits": "Condition."
     }
 ]

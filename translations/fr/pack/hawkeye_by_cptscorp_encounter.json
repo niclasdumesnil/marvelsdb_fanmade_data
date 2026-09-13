@@ -2,13 +2,13 @@
     {
         "code": "204814",
         "name": "Famille = Problèmes",
-        "text": "<b>Donnez cette carte au joueur de Kate Bishop.</b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• Cherchez votre allié signature Hawkeye et retirez‑le de la partie → retirez cette obligation de la partie.\n• Retirez tous les jetons Flèche de l'Arc de Kate. Vous ne pouvez pas placer de jetons Flèche sur l'Arc de Kate jusqu'à la fin du prochain round. Défaussez cette obligation."
+        "text": "<b><i>Donnez cette carte au joueur de Kate Bishop.</i></b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• Cherchez votre allié signature Hawkeye et retirez‑le de la partie → retirez cette obligation de la partie.\n• Retirez tous les jetons Flèche de l'Arc de Kate. Vous ne pouvez pas placer de jetons Flèche sur l'Arc de Kate jusqu'à la fin du prochain round. Défaussez cette obligation."
     },
     {
         "code": "204815",
         "flavor": "Madame Masque a réussi à mettre les mains sur de nouveaux Simulacres de Vie Modélisée et provoque le chaos avec votre image !",
         "name": "Trouver le SVM Parfait",
-        "text": "Tant que cette manigance est en jeu, vous ne pouvez pas prévenir l'ajout de menace sur une manigance. Madame Masque ne peut pas subir de dégâts.\n[crisis]"
+        "text": "Tant que cette manigance est en jeu, vous ne pouvez pas prévenir l'ajout de menace sur une manigance. Madame Masque ne peut pas subir de dégâts."
     },
     {
         "code": "204816",
