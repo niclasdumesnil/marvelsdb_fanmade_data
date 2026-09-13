@@ -1,0 +1,610 @@
+[
+    {
+        "code": "503501",
+        "flavor": "« Épatez-moi. »",
+        "name": "Le Minotaure",
+        "text": "[star] <b>Interruption forcée</b> : les attaques du Minotaure gagnent Perçant.\n[star] <b>Réponse forcée</b> : après que Le Minotaure a attaqué, placez 1 jeton Investissement sur Roxxon Énergie.",
+        "traits": "Hybride."
+    },
+    {
+        "code": "503502",
+        "flavor": "« Épatez-moi. »",
+        "name": "Le Minotaure",
+        "text": "[star] <b>Interruption forcée</b> : les attaques du Minotaure gagnent Perçant.\n[star] <b>Interruption forcée</b> : quand Le Minotaure attaque, placez 2 jetons Investissement sur Roxxon Énergie. Si <b>l'action Roxxon est haute</b>, Le Minotaure gagne +1 pour cette attaque.",
+        "traits": "Hybride."
+    },
+    {
+        "code": "503503",
+        "name": "Le Minotaure",
+        "text": "[star] <b>Interruption forcée</b> : les attaques du Minotaure gagnent Perçant.\n[star] <b>Interruption forcée</b> : quand Le Minotaure s'active, placez 2 jetons Investissement sur Roxxon Énergie. Si <b>l'action Roxxon est haute</b>, donnez au Minotaure une carte de boost supplémentaire pour cette activation.",
+        "traits": "Hybride."
+    },
+    {
+        "code": "503504a",
+        "flavor": "Dario Agger, alias Le Minotaure, a pris la tête de Roxxon et étend la compagnie à marche forcée.",
+        "name": "Expansion Rapide",
+        "text": "<b>Contenu</b> : Le Minotaure (I) et (II). <i>(Le Minotaure (II) et (III) à la place en mode expert.)</i> Le set de rencontre Roxxon et un set de rencontre modulaire <i>(recommandé : Ingérence de la Direction)</i>.\n<b>Mise en place</b> : mettez de côté chaque manigance annexe Conseil Noir et mettez-en une au hasard en jeu. Mettez en jeu l'environnement Roxxon Énergie. Mélangez le deck Rencontre. Avancez au stade 1B."
+    },
+    {
+        "code": "503504b",
+        "name": "Expansion Rapide",
+        "text": "[star] <b>Réponse forcée</b> : après avoir résolu l'étape un de la phase du Méchant, placez 1[per_hero] jetons Investissement sur Roxxon Énergie."
+    },
+    {
+        "code": "503505a",
+        "flavor": "Roxxon Énergie se révèle être au cœur d'un Conseil Noir qui conspire pour conquérir les Dix Royaumes, et Dario Agger a les droits miniers sur chacun d'eux !",
+        "name": "La Guerre des Royaumes",
+        "text": "<b>Une fois révélée</b> : attribuez 1 carte Rencontre face cachée à chaque joueur. Si l'action Roxxon est haute, attribuez-en 2 à chaque joueur à la place."
+    },
+    {
+        "code": "503505b",
+        "name": "La Guerre des Royaumes",
+        "text": "<b>Une fois révélée</b> : mettez en jeu une manigance annexe Conseil Noir mise de côté, au hasard.\n[star] <b>Réponse forcée</b> : après avoir résolu l'étape un de la phase du Méchant, placez 1[per_hero] jetons Investissement sur Roxxon Énergie.\n<b>Si cette manigance est achevée, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "503506a",
+        "flavor": "Une cabale improbable s'est formée sous la conduite de Malekith l'Accursien. Si vous parvenez à retrouver ses conspirateurs, peut-être pourrez-vous déjouer son plan.",
+        "name": "Conseil Noir",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : retournez cette carte."
+    },
+    {
+        "code": "503506b",
+        "flavor": "« La Guerre des Royaumes ne peut pas être arrêtée. »",
+        "name": "Loki",
+        "text": "Victoire 1. Loki engage le premier joueur.\n<b>Réponse forcée</b> : après que le méchant s'est activé, soignez tous les dégâts de Loki et désorientez votre identité.",
+        "traits": "Asgard. Conseil Noir."
+    },
+    {
+        "code": "503507a",
+        "flavor": "Une cabale improbable s'est formée sous la conduite de Malekith l'Accursien. Si vous parvenez à retrouver ses conspirateurs, peut-être pourrez-vous déjouer son plan.",
+        "name": "Conseil Noir",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : retournez cette carte."
+    },
+    {
+        "code": "503507b",
+        "name": "Ulik",
+        "text": "Victoire 1. Ulik engage le premier joueur.\n<b>Interruption</b> : quand un personnage attaque Ulik, il peut utiliser sa valeur CTR à la place de sa valeur ATQ.",
+        "traits": "Conseil Noir. Troll."
+    },
+    {
+        "code": "503508a",
+        "flavor": "Une cabale improbable s'est formée sous la conduite de Malekith l'Accursien. Si vous parvenez à retrouver ses conspirateurs, peut-être pourrez-vous déjouer son plan.",
+        "name": "Conseil Noir",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : retournez cette carte."
+    },
+    {
+        "code": "503508b",
+        "flavor": "« Inclinez-vous devant la Reine Sindr ! »",
+        "name": "Sindr",
+        "text": "[[CONSEIL NOIR]]. Victoire 1. Sindr engage le premier joueur. Riposte 2. <b>Réponse forcée</b> : après que Sindr vous a engagé, défaussez les 5 cartes du dessus de votre deck."
+    },
+    {
+        "code": "503509a",
+        "flavor": "Une cabale improbable s'est formée sous la conduite de Malekith l'Accursien. Si vous parvenez à retrouver ses conspirateurs, peut-être pourrez-vous déjouer son plan.",
+        "name": "Conseil Noir",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : retournez cette carte."
+    },
+    {
+        "code": "503509b",
+        "flavor": "« Algrim possédait jadis le pouvoir de Kurse, mais plus maintenant. Malekith le lui a pris pour me le donner. »",
+        "name": "Kurse",
+        "text": "Victoire 1. Kurse engage le premier joueur.\n[star] Kurse gagne +1 point de vie pour chaque sbire dans la pile de victoire.",
+        "traits": "Conseil Noir. Elfe Noir."
+    },
+    {
+        "code": "503510a",
+        "flavor": "Une cabale improbable s'est formée sous la conduite de Malekith l'Accursien. Si vous parvenez à retrouver ses conspirateurs, peut-être pourrez-vous déjouer son plan.",
+        "name": "Conseil Noir",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : retournez cette carte."
+    },
+    {
+        "code": "503510b",
+        "name": "La Reine des Anges",
+        "text": "Victoire 1. Garde. La Reine des Anges engage le premier joueur.\nTant que La Reine des Anges est dans la pile de victoire, elle gagne « <b>Réponse forcée</b> : après qu'un joueur a vaincu un sbire [[CONSEIL NOIR]], mettez La Reine des Anges en jeu, engagée avec ce joueur. »",
+        "traits": "Conseil Noir. Heven."
+    },
+    {
+        "code": "503511a",
+        "flavor": "Une cabale improbable s'est formée sous la conduite de Malekith l'Accursien. Si vous parvenez à retrouver ses conspirateurs, peut-être pourrez-vous déjouer son plan.",
+        "name": "Conseil Noir",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : retournez cette carte."
+    },
+    {
+        "code": "503511b",
+        "flavor": "« Je suis la plus grande sorcière de l'histoire d'Asgard. »",
+        "name": "L'Enchanteresse",
+        "text": "Victoire 1. L'Enchanteresse engage le premier joueur.\nLe joueur avec lequel L'Enchanteresse est engagée ne peut pas jouer d'événements <b>ATTAQUE</b>.",
+        "traits": "Asgard. Conseil Noir."
+    },
+    {
+        "code": "503512",
+        "name": "Roxxon Énergie",
+        "text": "Tant qu'il y a 5[per_hero] jetons Investissement ou plus sur Roxxon Énergie, <b>l'action Roxxon est haute.</b>\n<b>Interruption de héros</b> : quand un joueur est censé infliger n'importe quelle quantité de dégâts au Minotaure, il peut retirer autant de jetons Investissement de Roxxon Énergie à la place.",
+        "traits": "Business. Lieu."
+    },
+    {
+        "code": "503513",
+        "name": "Garde Roxxon",
+        "text": "Garde.\n<b>[star]</b> Si l'action Roxxon est haute, le Garde Roxxon gagne +3 points de vie.\n<b>Une fois vaincu</b> : retirez 1 jeton Investissement de Roxxon Énergie.",
+        "traits": "Roxxon."
+    },
+    {
+        "code": "503514",
+        "name": "Tank Roxxon",
+        "text": "Ténacité.\n[star] Si l'action Roxxon est haute, le Tank Roxxon gagne +2 ATQ.",
+        "traits": "Roxxon. Véhicule."
+    },
+    {
+        "code": "503515",
+        "name": "Offensive Médiatique",
+        "text": "<b>Une fois révélée</b> : si l'action Roxxon est haute, placez 2[per_hero] menaces sur cette manigance.\n<b>Une fois déjouée</b> : retirez 2 jetons Investissement de Roxxon Énergie."
+    },
+    {
+        "code": "503516",
+        "name": "Expansion Minière Rapide",
+        "text": "<b>Une fois révélée</b> : si l'action Roxxon est haute, placez 2[per_hero] menaces sur cette manigance.\n<b>Réponse forcée</b> : après qu'un deck de joueur est tombé à court de cartes, placez 3 menaces sur la manigance principale."
+    },
+    {
+        "code": "503517",
+        "name": "Réunion de la Banque Universelle",
+        "text": "<b>Une fois révélée</b> : si l'action Roxxon est haute, placez 2[per_hero] menaces sur cette manigance.\n<b>Une fois déjouée</b> : retirez 2 jetons Investissement de Roxxon Énergie."
+    },
+    {
+        "code": "503518",
+        "name": "Soutien Aérien",
+        "text": "<b>Une fois révélée</b> : subissez 2 dégâts indirects <i>(subissez 4 dégâts indirects à la place si l'action Roxxon est haute)</i>.\n<hr>[star] <b>Boost</b> : infligez 1 dégât à un allié que vous contrôlez."
+    },
+    {
+        "code": "503519",
+        "name": "Impératif Agger",
+        "text": "<b>Une fois révélée (alter ego)</b> : Le Minotaure manigance. Placez 1 jeton Investissement sur Roxxon Énergie.\n<b>Une fois révélée (héros)</b> : Le Minotaure vous attaque. Placez 1 jeton Investissement sur Roxxon Énergie.\n<hr>[star] <b>Boost</b> : placez 1 jeton Investissement sur Roxxon Énergie."
+    },
+    {
+        "code": "503520",
+        "name": "Renforts des Ténèbres",
+        "text": "<b>Une fois révélée</b> : s'il y a moins de 4 sbires [[CONSEIL NOIR]] dans la pile de victoire, mettez en jeu une manigance annexe Conseil Noir mise de côté, au hasard. Si aucune manigance annexe n'est entrée en jeu de cette façon, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : cette attaque gagne Déferlement."
+    },
+    {
+        "code": "503521",
+        "name": "Force en Marche",
+        "text": "Attachez cette carte au méchant.\nUtilisations (2 jetons Stratégie).\n[star] <b>Réponse forcée</b> : après que Le Minotaure a maniganceé, retirez 1 jeton Stratégie de cette carte → donnez au Minotaure 1 carte de boost face cachée.",
+        "traits": "Tactique."
+    },
+    {
+        "code": "503522",
+        "name": "Ambition Féroce",
+        "text": "Attachez cette carte au méchant.\n[star] <b>Réponse forcée</b> : après que Le Minotaure vous a attaqué, placez 1 menace sur chaque manigance annexe. S'il n'y a aucune manigance annexe en jeu, placez 2 jetons Investissement sur Roxxon Énergie à la place. Ensuite, défaussez Ambition Féroce.\n<hr>[star] <b>Boost</b> : révélez cette carte."
+    },
+    {
+        "code": "503523",
+        "name": "Atteinte à la Vie Privée",
+        "text": "NOTIFICATION.\n<b>Une fois révélée</b> : défaussez les X cartes du dessus de votre deck et du deck Rencontre, X étant le nombre de cartes dans votre main. Si au moins un deck s'est vidé de cette façon, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : défaussez les 2 cartes du dessus de chaque deck."
+    },
+    {
+        "code": "503524",
+        "name": "Clause en Petits Caractères",
+        "text": "NOTIFICATION. <b>Une fois révélée</b> : inclinez chaque [[OBJET]], [[TECH]], [[ARME]] ou [[VÉHICULE]] que vous contrôlez. Si aucune carte n'a été inclinée de cette façon, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : inclinez un soutien que vous contrôlez."
+    },
+    {
+        "code": "503525",
+        "name": "Mise en Demeure",
+        "text": "<b>NOTIFICATION.</b>\n<b>Une fois révélée</b> : défaussez un [[OBJET]], [[TECH]], [[ARME]] ou [[VÉHICULE]] que vous contrôlez. Si aucune carte n'a été défaussée de cette façon, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : si cette activation est une manigance, désorientez votre identité."
+    },
+    {
+        "code": "503526",
+        "name": "Revendication de Brevet",
+        "text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : augmentez de 1 le coût en ressources de chaque [[OBJET]], [[TECH]], [[ARME]] ou [[VÉHICULE]] que vous jouez.\n<b>Action d'alter ego</b> : dépensez 2 ressources [mental] → défaussez cette carte.",
+        "traits": "Juridique."
+    },
+    {
+        "code": "503527",
+        "name": "Communiqué de Presse",
+        "text": "Attachez cette carte au méchant.\n<b>Réponse forcée</b> : après que le méchant a maniganceé, défaussez des cartes du deck Rencontre jusqu'à ce qu'une manigance annexe soit défaussée, puis révélez cette manigance annexe. Défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Technique."
+    },
+    {
+        "code": "503528",
+        "flavor": "« Donne-moi une raison de ne pas te tuer. »",
+        "name": "Laufey",
+        "text": "Ténacité.\n[star] <b>Interruption forcée</b> : quand Laufey initie une attaque, s'il lui reste au moins 8[per_hero] points de vie, soit vous sonnez votre héros, soit vous infligez 1 dégât à un allié que vous contrôlez.",
+        "traits": "Géant. Roi."
+    },
+    {
+        "code": "503529",
+        "name": "Laufey",
+        "text": "Ténacité.\n<b>Une fois révélé</b> : infligez 1 dégât à l'allié Thor.\n[star]<b>Interruption forcée</b> : quand Laufey initie une attaque, s'il lui reste au moins 10[per_hero] points de vie, soit vous sonnez votre héros, soit vous infligez 1 dégât à un allié que vous contrôlez.",
+        "traits": "Géant. Roi."
+    },
+    {
+        "code": "503530",
+        "name": "Laufey",
+        "text": "Ténacité.\n<b>Une fois révélé</b> : infligez 1 dégât à l'allié Thor.\n[star] <b>Interruption forcée</b> : quand Laufey initie une attaque, s'il lui reste au moins 12[per_hero] points de vie, soit vous sonnez votre héros, soit vous infligez 2 dégâts à un allié que vous contrôlez.",
+        "traits": "Géant. Roi."
+    },
+    {
+        "code": "503532a",
+        "name": "Voyage vers Jotunheim",
+        "text": "<b>Contenu</b> : Laufey (I) et Laufey (II). <i>(Laufey (II) et Laufey (III) à la place en mode expert.)</i> Les sets de rencontre Laufey et Standard. Un set de rencontre modulaire <i>(recommandé : Territoire Inconnu)</i>.\n<b>Mise en place</b> : constituez le deck Expédition <i>(voir l'encart)</i> et révélez-en la carte du dessus. Mettez en jeu l'allié Thor et l'attachement Roi des Géants de Glace. Mettez en jeu un Archer Géant de Glace avec chaque joueur. Mélangez le deck Rencontre. Avancez au stade 1B."
+    },
+    {
+        "code": "503532b",
+        "name": "Voyage vers Jotunheim",
+        "text": "[star] <b>Réponse forcée</b> : après avoir résolu l'étape un de la phase du Méchant, défaussez chaque environnement [[EXPÉDITION]] en jeu. Puis révélez la carte du dessus du deck Expédition.\n<b>Réponse forcée</b> : après que cette manigance est achevée, infligez 2 dégâts à l'allié Thor. Puis retirez toute la menace de cette manigance."
+    },
+    {
+        "code": "503533",
+        "name": "Roi des Géants de Glace",
+        "text": "Permanent. Attachez cette carte à Laufey. Laufey gagne Robuste.\n<b>Action de héros</b> : dépensez les ressources suivantes : [physical][physical] → jusqu'à la fin du round, considérez la boîte de texte imprimée de cette carte comme étant vide."
+    },
+    {
+        "code": "503534",
+        "flavor": "« Thor est peut-être la clé pour sauver non seulement notre monde, mais les dix royaumes. » – Captain America",
+        "name": "Blizzard",
+        "text": "<b>Réponse forcée</b> : après qu'un allié est entré en jeu, inclinez cet allié.",
+        "traits": "Expédition."
+    },
+    {
+        "code": "503535",
+        "flavor": "« Ça, ce n'est pas une mission. Un truc aussi épique, ça s'appelle une quête. » – Spider-Man",
+        "name": "Passage Glacé",
+        "text": "Chaque personnage ami gagne -1 CTR.",
+        "traits": "Expédition."
+    },
+    {
+        "code": "503536",
+        "flavor": "« Je propose qu'on suive la rivière de sang de Géant de Glace. » – Spider-Man",
+        "name": "Pente Abrupte",
+        "text": "Chaque personnage ami gagne -1 ATQ.",
+        "traits": "Expédition."
+    },
+    {
+        "code": "503537",
+        "flavor": "« J'ai les oreilles trop gelées pour entendre quoi que ce soit. » – Spider-Man",
+        "name": "Froid Sans Fin",
+        "text": "<b>Interruption forcée</b> : en tant que coût supplémentaire pour effectuer une RÉC de base, ce joueur doit défausser 1 carte de sa main.",
+        "traits": "Expédition."
+    },
+    {
+        "code": "503538",
+        "flavor": "« Il faut continuer d'avancer. » – Captain America",
+        "name": "Brouillard Épais",
+        "text": "<b>Interruption forcée</b> : en tant que coût supplémentaire pour effectuer une DÉF de base, ce joueur doit défausser 1 carte de sa main.",
+        "traits": "Expédition."
+    },
+    {
+        "code": "503539",
+        "flavor": "« C'est tout ce que vous avez, les Géants ? » – Thor",
+        "name": "Gel Profond",
+        "text": "La taille de main de chaque joueur gagne -1.",
+        "traits": "Expédition."
+    },
+    {
+        "code": "503540",
+        "flavor": "« J'entends quelqu'un crier. » – Wolverine",
+        "name": "Vents Glacés",
+        "text": "<b>Réponse forcée</b> : après qu'une amélioration est entrée en jeu, inclinez-la.",
+        "traits": "Expédition."
+    },
+    {
+        "code": "503541",
+        "name": "Archer Géant de Glace",
+        "text": "L'Archer Géant de Glace entre en jeu avec 1 jeton Embuscade sur lui. Tant qu'il y a au moins 1 jeton Embuscade sur l'Archer Géant de Glace, il ne peut pas subir de dégâts.\n<b>Réponse forcée</b> : après que l'Archer Géant de Glace a attaqué, retirez-lui 1 jeton Embuscade.\n[star] Les attaques de l'Archer Géant de Glace gagnent Perçant et À Distance.",
+        "traits": "Géant."
+    },
+    {
+        "code": "503542",
+        "name": "Exécuteur Géant de Glace",
+        "text": "Ténacité. Garde.\nRéduisez de 1 la quantité de dégâts que l'Exécuteur Géant de Glace subit des attaques.",
+        "traits": "Géant."
+    },
+    {
+        "code": "503543",
+        "name": "Bête de Glace",
+        "text": "Ténacité. Patrouille. <b>Réponse forcée</b> : après que la Bête de Glace a attaqué et vaincu un personnage que vous contrôlez, subissez 1 dégât indirect.\n<hr>[star] <b>Boost</b> : si vous n'êtes pas engagé avec un sbire, mettez ce sbire en jeu, engagé avec vous.",
+        "traits": "Géant."
+    },
+    {
+        "code": "503544",
+        "name": "Massue de Laufey",
+        "text": "Attachez cette carte à Laufey. Utilisations (1+[per_hero] jetons Écrasement).\n[star] <b>Interruption forcée</b> : quand Laufey attaque, retirez 1 jeton Écrasement de cette carte → cette attaque gagne Déferlement.\n<hr>[star] <b>Boost</b> : cette attaque gagne Déferlement.",
+        "traits": "Arme."
+    },
+    {
+        "code": "503545",
+        "name": "Position Isolée",
+        "text": "Attachez cette carte à votre identité.\nLes alliés que vous contrôlez ne peuvent pas défendre.\n<b>Réponse forcée</b> : après que Laufey a attaqué votre héros, défaussez cette carte.\n<hr>[star] <b>Boost</b> : si cette attaque vainc un allié, attachez cette carte à votre identité."
+    },
+    {
+        "code": "503546",
+        "name": "Étreinte du Géant",
+        "text": "[[CONDITION]].\nAttachez cette carte à un personnage que vous contrôlez.\nLe personnage attaché ne peut pas se redresser, attaquer, contrer ni défendre.\n<b>Action de héros</b> : cherchez un sbire [[GÉANT]] dans le deck Rencontre ou la pile de défausse Rencontre et mettez-le en jeu engagé avec vous → défaussez cette carte.",
+        "traits": "Condition."
+    },
+    {
+        "code": "503547",
+        "flavor": "ATTAQUE.",
+        "name": "Coup de Massue",
+        "text": "<b>Une fois révélée</b> : soit vous infligez 3 dégâts à votre identité, soit vous infligez 2 dégâts à l'allié Thor.\n[star] <b>Boost</b> : soit vous donnez 2 icônes de boost ([boost]) à cette carte, soit vous infligez 1 dégât à l'allié Thor."
+    },
+    {
+        "code": "503548",
+        "name": "Conditions Traîtresses",
+        "text": "Renfort.\n<b>Une fois révélée</b> : révélez la carte du dessus du deck Expédition.\n<hr>[star] <b>Boost</b> : révélez la carte du dessus du deck Expédition."
+    },
+    {
+        "code": "503549",
+        "name": "Canyon du Cycle de Sang",
+        "text": "<b>Une fois révélée</b> : chaque sbire [[GÉANT]] engagé avec vous s'active. Si aucun sbire ne s'est activé de cette façon, cherchez un sbire [[GÉANT]] dans le deck Rencontre ou la pile de défausse Rencontre et mettez-le en jeu engagé avec vous."
+    },
+    {
+        "code": "503550",
+        "name": "Les Géants de Jotunheim",
+        "text": "<b>Une fois révélée</b> : donnez à chaque ennemi [[GÉANT]] une carte d'état Tenace.\n<hr>[star] <b>Boost</b> : donnez à Laufey une carte d'état Tenace et une carte de boost supplémentaire."
+    },
+    {
+        "code": "503551",
+        "name": "Tempête de Géants",
+        "text": "Entrave 2[per_hero].\nLes sbires [[GÉANT]] gagnent Renfort.\n<b>Interruption forcée</b> : quand un sbire [[GÉANT]] est vaincu, mélangez ce sbire dans le deck Rencontre.\n<b>Réponse</b> : après que cette manigance est déjouée, chaque joueur soit pioche une carte, soit soigne 3 dégâts de son identité."
+    },
+    {
+        "code": "503552",
+        "name": "Thor Berserker",
+        "text": "Entrave 2[per_hero].\nL'allié Thor subit +1 dégât consécutif après avoir attaqué ou contré.\n<b>Réponse</b> : après que cette manigance est déjouée, soignez 2 dégâts de l'allié Thor."
+    },
+    {
+        "code": "503553",
+        "name": "C'Était Quoi, Ça ?",
+        "text": "<b>Une fois révélée (alter ego)</b> : passez sous forme de héros.\n<b>Une fois révélée (héros)</b> : inclinez votre identité. Si vous ne pouvez pas, cette carte gagne Renfort."
+    },
+    {
+        "code": "503554",
+        "name": "Tourner en Rond",
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b>Une fois révélée</b> » de la traîtrise la plus haute de la pile de défausse Rencontre qui ne s'appelle pas Tourner en Rond.\n<hr>[star] <b>Boost</b> : après cette activation, mélangez cette carte dans le deck Rencontre."
+    },
+    {
+        "code": "503555",
+        "name": "À Court de Vivres",
+        "text": "Si votre pile de défausse a plus de cartes que votre deck, cette carte gagne Renfort.\n<b>Une fois révélée</b> : choisissez : soit vous défaussez une carte de votre main, soit vous retirez de la partie la carte du dessus de votre deck."
+    },
+    {
+        "code": "503556",
+        "flavor": "Vous auriez dû faire demi-tour.",
+        "name": "Embuscade !",
+        "text": "Entrave 1[per_hero].\nLes joueurs engagés avec des sbires ne peuvent pas retirer de menace de cette manigance.\n<b>Une fois révélée</b> : chaque sbire engagé avec vous s'active."
+    },
+    {
+        "code": "503557a",
+        "flavor": "« Ton sang n'a commencé à couler que depuis peu. »",
+        "name": "Malekith",
+        "text": "[star] <b>Interruption forcée</b> : Malekith gagne +1 ATQ pour chaque attachement [[MAGIE]] en jeu.\nMalekith ne peut pas être vaincu tant qu'il y a des manigances annexes [[TERRITOIRE CONQUIS]] en jeu.",
+        "traits": "Elfe Noir. Roi."
+    },
+    {
+        "code": "503557b",
+        "name": "Malekith",
+        "text": "[star] <b>Interruption forcée</b> : Malekith gagne +1 ATQ pour chaque attachement [[MAGIE]] en jeu.\n<b>Une fois révélé</b> : cherchez un attachement [[MAGIE]] dans le deck Rencontre ou la pile de défausse Rencontre. Révélez cette carte, puis placez 1 jeton Énergie dessus.",
+        "traits": "Elfe Noir. Roi."
+    },
+    {
+        "code": "503558a",
+        "flavor": "« Ton sang n'a commencé à couler que depuis peu. »",
+        "name": "Malekith",
+        "text": "[star] <b>Interruption forcée</b> : Malekith gagne +1 ATQ pour chaque attachement [[MAGIE]] en jeu.\nMalekith ne peut pas être vaincu tant qu'il y a des manigances annexes [[TERRITOIRE CONQUIS]] en jeu.",
+        "traits": "Elfe Noir. Roi."
+    },
+    {
+        "code": "503558b",
+        "name": "Malekith",
+        "text": "[star] <b>Interruption forcée</b> : Malekith gagne +1 ATQ pour chaque attachement [[MAGIE]] en jeu.\n<b>Une fois révélé</b> : cherchez deux attachements [[MAGIE]] dans le deck Rencontre ou la pile de défausse Rencontre. Révélez ces cartes, puis placez 1 jeton Énergie sur chacune.",
+        "traits": "Elfe Noir. Roi."
+    },
+    {
+        "code": "503559a",
+        "flavor": "Malekith a envahi la Terre, alors que la Guerre des Royaumes touche à son terme.",
+        "name": "Invasion de Midgard",
+        "text": "<b>Contenu</b> : Malekith (1A). <i>(Malekith (2A) à la place en mode expert.)</i> Les sets de rencontre Malekith et Standard. Un set de rencontre modulaire <i>(recommandé : Svartalfheim)</i>.\n<b>Mise en place</b> : révélez chaque manigance annexe [[TERRITOIRE CONQUIS]] et mettez-la en jeu. Avancez au stade 1B."
+    },
+    {
+        "code": "503559b",
+        "name": "Invasion de Midgard",
+        "text": "<b>Interruption forcée</b> : quand de la menace est censée être placée sur cette manigance, répartissez-la aussi équitablement que possible entre les manigances annexes [[TERRITOIRE CONQUIS]] à la place.\n<b>Réponse forcée</b> : après avoir résolu l'étape un de la phase du Méchant, placez 1 jeton Invasion sur cette manigance. Puis, s'il y a 3 jetons Invasion dessus, avancez au stade 2A."
+    },
+    {
+        "code": "503560a",
+        "flavor": "La capitale du Nouveau Svartalfheim est le théâtre de l'ultime et furieux assaut contre les armées de Malekith.",
+        "name": "La Bataille de Stonehenge",
+        "text": "<b>Une fois révélée</b> : attribuez X cartes Rencontre face cachée à chaque joueur, X étant le nombre de manigances annexes [[TERRITOIRE CONQUIS]] en jeu."
+    },
+    {
+        "code": "503560b",
+        "name": "La Bataille de Stonehenge",
+        "text": "<b>Une fois révélée</b> : placez 1 jeton Énergie sur chaque attachement [[MAGIE]] en jeu.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "503561",
+        "flavor": "Laufey et les Géants de Glace règnent désormais sur l'Amérique du Nord.",
+        "name": "Nouveau Jotunheim",
+        "text": "Victoire 1.\n<b>Interruption</b> : quand un personnage contre cette manigance annexe, il peut utiliser sa valeur ATQ à la place de sa valeur CTR.\n<b>Une fois déjouée</b> : chaque joueur redresse un personnage qu'il contrôle.",
+        "traits": "Territoire Conquis."
+    },
+    {
+        "code": "503562",
+        "flavor": "La sorcière Enchanteresse revendique le continent sud-américain.",
+        "name": "Les Terres du Crépuscule",
+        "text": "Victoire 1.\n<b>Interruption</b> : quand un personnage contre cette manigance annexe, il peut utiliser sa valeur ATQ à la place de sa valeur CTR.\n<b>Une fois déjouée</b> : désorientez un ennemi.",
+        "traits": "Territoire Conquis."
+    },
+    {
+        "code": "503563",
+        "flavor": "C'est en Afrique que se dresse le trône de Heven depuis l'invasion de Malekith.",
+        "name": "Nouveau Heven",
+        "text": "Victoire 1.\n<b>Interruption</b> : quand un personnage contre cette manigance annexe, il peut utiliser sa valeur ATQ à la place de sa valeur CTR.\n<b>Une fois déjouée</b> : chaque joueur pioche une carte.",
+        "traits": "Territoire Conquis."
+    },
+    {
+        "code": "503564",
+        "flavor": "Les Démons de Feu tiennent désormais les terres de Russie et d'Asie.",
+        "name": "Nouveau Muspelheim",
+        "text": "Victoire 1.\n<b>Interruption</b> : quand un personnage contre cette manigance annexe, il peut utiliser sa valeur ATQ à la place de sa valeur CTR.\n<b>Une fois déjouée</b> : soignez 2 dégâts de chaque identité.",
+        "traits": "Territoire Conquis."
+    },
+    {
+        "code": "503565",
+        "flavor": "Les forces d'Ulik règnent sur l'Océanie.",
+        "name": "Le Royaume des Trolls",
+        "text": "Victoire 1.\n<b>Interruption</b> : quand un personnage contre cette manigance annexe, il peut utiliser sa valeur ATQ à la place de sa valeur CTR.\n<b>Une fois déjouée</b> : sonnez un ennemi.",
+        "traits": "Territoire Conquis."
+    },
+    {
+        "code": "503566",
+        "flavor": "Dario Agger a reçu l'Antarctique tout entier, à exploiter pour ses ressources naturelles.",
+        "name": "Le Royaume de Roxxon Inc.",
+        "text": "Victoire 1.\n<b>Interruption</b> : quand un personnage contre cette manigance annexe, il peut utiliser sa valeur ATQ à la place de sa valeur CTR.\n<b>Une fois déjouée</b> : donnez à chaque identité une carte d'état Tenace.",
+        "traits": "Territoire Conquis."
+    },
+    {
+        "code": "503567",
+        "flavor": "Malekith prend l'Europe et en fait le foyer des Elfes Noirs.",
+        "name": "Nouveau Svartalfheim",
+        "text": "Victoire 1.\n<b>Interruption</b> : quand un personnage contre cette manigance annexe, il peut utiliser sa valeur ATQ à la place de sa valeur CTR.\n<b>Une fois déjouée</b> : choisissez un attachement <b>MAGIE</b> et défaussez-le.",
+        "traits": "Territoire Conquis."
+    },
+    {
+        "code": "503568",
+        "name": "Vol Mystique",
+        "text": "Attachez cette carte au méchant. Utilisations (2 jetons Énergie).\n<b>Réponse forcée</b> : après avoir résolu l'étape un de la phase du Méchant, retirez 1 jeton Énergie de cette carte → placez 1 menace sur la manigance principale.\n<hr>[star] <b>Boost</b> : placez 1 menace sur la manigance principale.",
+        "traits": "Magie."
+    },
+    {
+        "code": "503569",
+        "name": "Barrière Protectrice",
+        "text": "Attachez cette carte au méchant. Utilisations (2 jetons Énergie).\n<b>Interruption forcée</b> : quand Malekith est censé subir 2 dégâts ou plus, retirez 1 jeton Énergie de cette carte → réduisez de 2 la quantité de dégâts infligés.\n<hr>[star] <b>Boost</b> : donnez à Malekith une carte d'état Tenace.",
+        "traits": "Magie."
+    },
+    {
+        "code": "503570",
+        "name": "Métamorphose",
+        "text": "Attachez cette carte au méchant. Utilisations (2 jetons Énergie).\n[star] <b>Interruption forcée</b> : quand Malekith manigance, défaussez les 3 cartes du dessus du deck Rencontre et retirez 1 jeton Énergie de cette carte → Malekith gagne +1 MNG pour chaque sbire défaussé de cette façon.",
+        "traits": "Magie."
+    },
+    {
+        "code": "503571",
+        "flavor": "« On ne fuit pas ce combat, petits insectes de Midgard. »",
+        "name": "Vague d'Énergie",
+        "text": "Attachez cette carte au méchant. Utilisations (2 jetons Énergie).\n[star] <b>Interruption forcée</b> : quand Malekith attaque, retirez 1 jeton Énergie de cette carte → soit vous défaussez un allié de votre main, soit cette attaque gagne Déferlement.",
+        "traits": "Magie."
+    },
+    {
+        "code": "503572",
+        "name": "Endurance Mystique",
+        "text": "Attachez cette carte au méchant. Utilisations (2 jetons Énergie).\n<b>Réponse forcée</b> : après avoir résolu l'étape un de la phase du Méchant, retirez 1 jeton Énergie de cette carte → soignez 2 dégâts de Malekith et retirez-lui une carte d'état Désorienté ou Sonné.",
+        "traits": "Magie."
+    },
+    {
+        "code": "503573",
+        "name": "L'Épée d'Ébène",
+        "text": "Attachez cette carte au méchant.\n[star] <b>Réponse forcée</b> : après que Malekith a attaqué et vaincu un allié, le propriétaire de cet allié soit défausse 2 cartes de sa main, soit retire cet allié de la partie.\n<b>Action de héros</b> : dépensez les ressources suivantes : [physical] [physical] → défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Arme."
+    },
+    {
+        "code": "503574",
+        "flavor": "« Bienvenue dans la Guerre des Royaumes, pauvres fous. »",
+        "name": "Conquérant des Royaumes",
+        "text": "Renfort.\n<b>Une fois révélée</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un attachement [[MAGIE]] soit défaussé. Révélez cette carte.",
+        "traits": "Magie."
+    },
+    {
+        "code": "503575",
+        "name": "Roi de Svartalfheim",
+        "text": "Renfort.\n<b>Une fois révélée</b> : mélangez chaque attachement [[MAGIE]] de la pile de défausse Rencontre dans le deck Rencontre.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Une fois révélée</b> » de cette carte.",
+        "traits": "Titre."
+    },
+    {
+        "code": "503576",
+        "name": "L'Accursien",
+        "text": "<b>Une fois révélée (alter ego)</b> : placez 2 menaces sur la manigance principale. Placez 1 jeton Énergie sur un attachement [[MAGIE]].\n<b>Une fois révélée (héros)</b> : subissez 3 dégâts. Placez 1 jeton Énergie sur un attachement [[MAGIE]]."
+    },
+    {
+        "code": "503577",
+        "name": "Bifrost Noir",
+        "text": "Utilisations (1[per_hero] jetons Téléportation).\n<b>Réponse forcée</b> : après avoir résolu l'étape un de la phase du Méchant, retirez 1 jeton Téléportation de cette carte → défaussez des cartes du deck Rencontre jusqu'à ce qu'un sbire soit défaussé. Mettez ce sbire en jeu, engagé avec le premier joueur.",
+        "traits": "Magie. Portail."
+    },
+    {
+        "code": "503578",
+        "name": "Tank Alligator",
+        "text": "[star] Les attaques du Tank Alligator infligent des dégâts indirects.\n<b>Une fois vaincu</b> : Malekith s'active contre vous.\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, elle inflige des dégâts indirects.",
+        "traits": "Bête. Véhicule."
+    },
+    {
+        "code": "503579",
+        "name": "Chien de Guerre",
+        "text": "Garde.\n[star] <b>Interruption forcée</b> : le Chien de Guerre gagne +1 ATQ et Déferlement si votre identité est inclinée.",
+        "traits": "Bête."
+    },
+    {
+        "code": "503580",
+        "flavor": "Si vous aidez Thor à retrouver toute sa puissance, il pourrait faire basculer la guerre en votre faveur !",
+        "name": "Aider le Digne",
+        "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : choisissez un attachement <b>MAGIE</b> sur le méchant. Défaussez cet attachement."
+    },
+    {
+        "code": "503581",
+        "name": "Assassin Elfe Noir",
+        "text": "Coup Rapide.\n[star] <b>Interruption forcée</b> : les attaques de l'Assassin Elfe Noir gagnent Perçant.\n<b>Réponse forcée</b> : après que l'Assassin Elfe Noir a attaqué et vaincu un personnage ami, donnez au méchant 1 carte de boost face cachée.",
+        "traits": "Elfe Noir."
+    },
+    {
+        "code": "503582",
+        "name": "Bombardier Elfe Noir",
+        "text": "Le Bombardier Elfe Noir ne peut être blessé que par des attaques de base.\n<b>Interruption forcée</b> : à la fin de la phase des joueurs, le joueur engagé défausse une amélioration ou un soutien qu'il contrôle. Si une carte a été défaussée de cette façon, donnez au méchant 1 carte de boost face cachée et défaussez le Bombardier Elfe Noir.",
+        "traits": "Elfe Noir."
+    },
+    {
+        "code": "503583",
+        "name": "Depuis l'Ombre",
+        "text": "<b>Une fois révélée</b> : chaque sbire [[ELFE NOIR]] engagé avec vous s'active. Si aucun sbire [[ELFE NOIR]] n'est engagé avec vous, donnez au méchant 1 carte de boost face cachée.\n<hr>[star] <b>Boost</b> : placez 1 menace sur la manigance principale. Subissez 1 dégât."
+    },
+    {
+        "code": "503584",
+        "flavor": "Les Elfes Noirs œuvrent à précipiter les plans de leur Roi.",
+        "name": "Les Armées de Svartalfheim",
+        "text": "<b>Une fois déjouée</b> : donnez au méchant 1 carte de boost face cachée."
+    },
+    {
+        "code": "503586",
+        "name": "Usines Roxxon",
+        "text": "<b>Mise en place</b>. Permanent. Attachez cette carte à Roxxon Énergie.\nTant que <b>l'action Roxxon est haute</b>, cette carte gagne une icône d'accélération ([acceleration]).",
+        "traits": "Business."
+    },
+    {
+        "code": "503588",
+        "flavor": "Malekith a lâché le Mangog, et il n'aura de cesse de détruire les héros d'Asgard, qui réclament votre aide !",
+        "name": "Déchaînement du Mangog",
+        "text": "Entrave 3[per_hero]. Victoire 1."
+    },
+    {
+        "code": "503589",
+        "name": "La Lame Venimeuse de Malekith",
+        "text": "Attachez cette carte à Malekith.\n<b>Réponse forcée</b> : après que Malekith a attaqué et vaincu un allié, retirez cet allié de la partie. Puis défaussez cette carte.\n<hr>[star] <b>Boost</b> : révélez cette carte.",
+        "traits": "Symbiote. Arme."
+    },
+    {
+        "code": "503590",
+        "flavor": "Péril.",
+        "name": "Le Boucher des Thor",
+        "text": "<b>Une fois révélée</b> : Malekith attaque un héros de votre choix ayant le trait [[ASGARD]]. Si aucune attaque n'a été effectuée de cette façon, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : sonnez votre identité."
+    },
+    {
+        "code": "503591",
+        "flavor": "Malekith a capturé le symbiote Venom et se sert de la magie noire pour le plier à sa volonté.",
+        "name": "Le Pouvoir du Symbiote",
+        "text": "<b>Une fois révélée</b> : trouvez La Lame Venimeuse de Malekith et révélez-la."
+    },
+    {
+        "code": "503592",
+        "flavor": "« Ah, Jotunheim. Vous n'imaginez pas Hel plus misérable, ni plus glacé. » – Loki",
+        "name": "Gelure",
+        "text": "Votre héros ne peut pas utiliser de pouvoirs de base.\n<b>Action d'alter ego</b> : subissez jusqu'à 2 dégâts → défaussez cette carte. Si vous avez subi 2 dégâts, retirez plutôt cette carte de la partie."
+    }
+]

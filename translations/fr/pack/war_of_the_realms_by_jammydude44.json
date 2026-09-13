@@ -1,0 +1,29 @@
+[
+    {
+        "code": "503531",
+        "name": "Thor",
+        "subname": "Odinson",
+        "text": "Le premier joueur contrôle Thor. Thor ne peut pas avoir de cartes Rencontre attachées et ne compte pas dans la limite d'alliés.\n<b>Action de premier joueur</b> : dépensez les ressources suivantes : [energy][energy] → soignez 2 dégâts de Thor.\n<b>Si Thor quitte le jeu, les joueurs perdent la partie.</b>",
+        "traits": "Asgard. Blessé."
+    },
+    {
+        "code": "503585",
+        "flavor": "« On a récolté du renseignement. Et descendu des elfes. »",
+        "name": "Agent Solomon",
+        "text": "[star]<b>Interruption</b> : l'Agent Solomon gagne +2 CTR quand il contre une manigance annexe.",
+        "traits": "Espion. S.H.I.E.L.D."
+    },
+    {
+        "code": "503587",
+        "flavor": "« Chut. Tout doux, Bouton d'Or. » – Spider-Man",
+        "name": "Destrier des Valkyries",
+        "text": "<b>Mise en place</b>. Permanent. Cette carte entre en jeu avec 2 jetons Vol dessus.\n<b>Interruption de héros</b> : quand vous êtes censé subir n'importe quelle quantité de dégâts, inclinez le Destrier des Valkyries et retirez-en 1 jeton Vol → prévenez tous ces dégâts.",
+        "traits": "Asgard."
+    },
+    {
+        "code": "503593",
+        "name": "Le Père de Toute Chose de Fer",
+        "text": "<b>Action de héros</b> : inclinez Le Père de Toute Chose de Fer et infligez-lui jusqu'à 2 dégâts → retirez 1 jeton Énergie d'un attachement [[MAGIE]] pour chaque dégât infligé de cette façon. Retirez 1 menace d'une manigance.",
+        "traits": "Asgard. Roi."
+    }
+]
