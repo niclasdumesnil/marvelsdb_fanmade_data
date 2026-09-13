@@ -3,7 +3,7 @@
         "code": "44101",
         "name": "Cable",
         "subname": "Nathaniel Summers",
-        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n[star] <b>Interruption</b> : quand Cable attaque, défaussez n'importe quel nombre de cartes de votre main → pour chaque carte ainsi défaussée, Cable gagne +1 ATQ pour cette attaque.",
+        "text": "Téméraire (<i>Après que ce personnage est entré en jeu, placez 1 menace sur chaque manigance.</i>)\n[star]<b>Interruption</b> : quand Cable attaque, défaussez n'importe quel nombre de cartes de votre main → pour chaque carte ainsi défaussée, Cable gagne +1 ATQ pour cette attaque.",
         "traits": "X-Force. X-Men."
     },
     {
@@ -159,7 +159,7 @@
         "flavor": "« Je m'ennuyais. Je fais des choses comme ça quand je m'ennuie. »",
         "name": "Elektra",
         "subname": "Elektra Natchios",
-        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nLes attaques d'Elektra gagnent Perçant et À Distance.",
+        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n[star] Les attaques d'Elektra gagnent Perçant et À Distance.",
         "traits": "Hero à Louer. S.H.I.E.L.D."
     },
     {
@@ -174,7 +174,7 @@
         "flavor": "« 4 morts et je parie que mon rythme cardiaque est toujours en dessous de 80. Pas mal pour un échauffement. »",
         "name": "The Punisher",
         "subname": "Frank Castle",
-        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\nLes attaques du Punisher gagnent Perçant et À Distance.",
+        "text": "Fragile (<i>Les attaques contre ce personnage gagnent Déferlement.</i>)\n[star] Les attaques du Punisher gagnent Perçant et À Distance.",
         "traits": "Avenger. Héros à Louer."
     },
     {
@@ -882,7 +882,7 @@
         "code": "44234",
         "name": "Tarantula",
         "subname": "Maria Vasquez",
-        "text": "Fragile. Tarantula gagne 1 icône [amplify] pour pour chaque pion Dégât sur elle.\n\n<b>Réponse forcée</b> : après que Tarantula a contré une manigance annexe ou attaqué un sbire sans le vaincre exactement, elle subit +1 dégât collatéral.",
+        "text": "Fragile. Tarantula gagne 1 icône [amplify] pour pour chaque pion Dégât sur elle.\n<b>Réponse forcée</b> : après que Tarantula a contré une manigance annexe ou attaqué un sbire sans le vaincre exactement, elle subit +1 dégât collatéral.",
         "traits": "Héros à Louer. Artiste Martial."
     },
     {
@@ -937,7 +937,7 @@
     {
         "code": "44243",
         "name": "Détermination Innée",
-        "text": "Départ. <i>(Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.)</i>\nVotre identité gagne – 6 points de vie et la taille de main de votre héros gagne +1.",
+        "text": "Départ. <i>(Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.)</i>\nVotre identité a – 6 points de vie et la taille de main de votre héros gagne +1.",
         "traits": "Condition."
     },
     {
@@ -948,7 +948,7 @@
     },
     {
         "code": "44245",
-        "flavor": "« J'ai une meilleur idée ! »",
+        "flavor": "« J'ai une meilleure idée ! »",
         "name": "Hellcat",
         "subname": "Patsy Walker",
         "text": "[star] <b>Interruption</b> : quand Hellcat attaque, défaussez une amélioration que vous contrôlez → Hellcat gagne +X ATQ pour cette attaque, où X est égal au coût imprimé de l'amélioration défaussée par cet effet.",

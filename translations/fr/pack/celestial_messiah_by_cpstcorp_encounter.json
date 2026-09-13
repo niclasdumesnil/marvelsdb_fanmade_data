@@ -1,0 +1,125 @@
+[
+    {
+        "code": "206401",
+        "flavor": "« C'est le temps de la Floraison. Quand toutes les illusions... s'effacent. »",
+        "name": "Quoi",
+        "text": "[star]<b>Interruption forcée</b> : quand Quoi initie une attaque contre vous, placez 1 jeton Liane sur Lianes Mortelles attachée à votre identité.",
+        "traits": "Cotati. Messie."
+    },
+    {
+        "code": "206402",
+        "flavor": "« Je ne viens pas en paix -- l'épée de ma vengeance va s'abattre sur vous ! »",
+        "name": "Quoi",
+        "text": "<b>Une fois révélée</b> : donnez 1 carte Rencontre à chaque joueur.\n[star] <b>Interruption forcée</b> : quand Quoi initie une activation contre vous, placez 1 jeton Liane sur Lianes Mortelles attachée à votre identité.",
+        "traits": "Cotati. Messie."
+    },
+    {
+        "code": "206403",
+        "flavor": "« Laissons s'écrouler le monde animal -- et les Cotati se dresseront ! Maîtres du Cosmos ! »",
+        "name": "Quoi",
+        "text": "<b>Une fois révélée</b> : mettez Swordsman en jeu, engagé avec le premier joueur.\n<b>Interruption forcée</b> : quand Quoi initie une activation contre vous, placez 1 jeton Liane sur Lianes Mortelles attachée à votre identité.",
+        "traits": "Cotati. Messie."
+    },
+    {
+        "code": "206404a",
+        "name": "Zone Bleue de la Lune",
+        "text": "<b>Contenu</b> : Quoi (I) et Quoi (II).<i> (Quoi (II) et Quoi (III) à la place en mode expert.)</i> Les sets Messie Celeste et Standard. Un set modulaire (Infection Cotati).\n<b>Mise en place</b> : attachez Lianes Mortelles à chaque identité et mettez les autres de côté. Mettez Swordsman de côté, hors jeu."
+    },
+    {
+        "code": "206404b",
+        "flavor": "La Fleur de Mort est arrivée à maturité sur la Lune. Les Cotatis préparent maintenant un invasion du Wakanda pour y planter une Fleur de Mort plus puissante.",
+        "name": "Zone Bleue de la Lune",
+        "text": "<b>Une fois déjouée</b> : cherchez la manigance annexe Empyre Cotati dans le deck Rencontre ou la pile de défausse Rencontre et révélez‑la."
+    },
+    {
+        "code": "206405a",
+        "flavor": "Les Cotatis ont atteint le Wakanda et ont l'intention de s'accaparer leur sol riche en Vibranium pour y planter leur Fleur de Mort la plus puissante à ce jour.",
+        "name": "La Bataille du Wakanda",
+        "text": "<b>Une fois révélée</b> : placez 2 jetons Liane sur chaque attachement Lianes Mortelles."
+    },
+    {
+        "code": "206405b",
+        "flavor": "Une guerre a éclatée pour s'assurer le contrôle du Wakanda. Stoppez Quoi avant que la Fleur de Mort n'éclose ou il aura suffisamment de pouvoir pour régner sur la galaxie.",
+        "name": "La Bataille du Wakanda",
+        "text": "En tant que coût supplémentaire pour utiliser l'« <b>Action</b> » de Lianes Mortelles, dépensez 1 ressource de n'importe quel type.<br>\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+    },
+    {
+        "code": "206406",
+        "flavor": "« Les Cotatis -- Ils ont transformés en arme l'intégralité des végétaux de la planète ! » – Captain Glory",
+        "name": "Lianes Mortelles",
+        "text": "Permanent.\n<b>Interruption forcée</b> : quand la phase des joueurs se termine, subissez 1 dégât indirect pour chaque jeton Liane sur cette carte.\n<b>Action</b> : dépensez 1 ressource de n'importe quel type → retirez tous les jetons Liane de cette carte."
+    },
+    {
+        "code": "206407",
+        "name": "Swordsman",
+        "text": "Riposte 2.\n<b>Une fois révélée</b> : Swordsman s'active contre le joueur avec lequel il est engagé.\n<b>Une fois vaincu</b> : infligez 2[per_hero] dégâts à Quoi. Retirez Swordsman de la partie.",
+        "traits": "Cotati. Élite."
+    },
+    {
+        "code": "206408",
+        "name": "Épée Dorée de Quoi",
+        "text": "Attachez à Quoi. [star] Les attaques de Quoi gagnent Perçant. Si un autre attachement Épée Dorée de Quoi est attaché à Quoi, ses attaques gagnent également Déferlement.\n<b>Réponse de héros</b> : après que Quoi vous a attaqué, dépensez une ressource [physical] et placez 1 jeton Liane sur Lianes Mortelles attachée à votre identité → défaussez cette carte.",
+        "traits": "Arme."
+    },
+    {
+        "code": "206409",
+        "name": "Entraves de Bois",
+        "text": "Attachez cette carte à votre identité.\n<b>Interruption forcée</b> : quand vous êtes censé piocher n'importe quelle quantité de cartes, piochez 1 carte de moins.\n<b>Interruption forcée</b> : quand la phase du méchant commence, défaussez cette carte. Vous êtes sonné.\n<hr>[star] <b>Boost</b> : défaussez une carte de votre main."
+    },
+    {
+        "code": "206410",
+        "name": "Guerrier Cotati",
+        "text": "Coup Rapide.\n<b>Une fois vaincu</b> : infligez 1 dégât à l'identité du joueur qui a vaincu ce sbire.\n<hr>[star] <b>Boost</b> : placez 1 jeton Liane sur Lianes Mortelles attachée à votre identité.",
+        "traits": "Cotati."
+    },
+    {
+        "code": "206411",
+        "name": "Libération Douloureuse",
+        "text": "<b>Une fois révélée</b> : subissez 2 dégâts indirects et retirez chaque jeton Liane de Lianes Mortelles attachée à votre identité. Pour chaque jeton Liane retiré de cette façon, vous subissez 1 dégât supplémentaire.\n<hr>[star] <b>Boost</b> : placez 1 menace sur la manigance principale. Retirez 1 jeton Liane de Lianes Mortelles attachée à votre identité."
+    },
+    {
+        "code": "206412",
+        "flavor": "« Regardez nous grandir... dans toute notre splendeur ! » – Quoi",
+        "name": "Croissance Soudaine",
+        "text": "<b>Une fois révélée</b> : placez 1 jeton Liane sur Lianes Mortelles attachée à votre identité. Ensuite, placez 1 menace sur la manigance principale pour chaque jeton Liane sur Lianes Mortelles attachée à votre identité. Si 2 menaces ou moins ont été placées par cet effet, cette carte gagne Renfort."
+    },
+    {
+        "code": "206413",
+        "flavor": "« J'ai conquis cette planète !. J'ai apporté mon paradis sur votre Terre bestiale. » – Quoi",
+        "name": "Prendre le Contrôle",
+        "text": "<b>Une fois révélée</b> : Quoi s'active contre vous. Il gagne +X ATQ et +X MNG pour cette activation, X étant égal au nombre de jetons Liane sur Lianes Mortelles attachée à votre identité. Ne donnez pas de carte de boost au méchant pour cette activation."
+    },
+    {
+        "code": "206414",
+        "flavor": "Quoi a commencé la Floraison. Il cherche désormais à dominer le cosmos.",
+        "name": "Empyre Cotati",
+        "text": "Chaque ennemi [[COTATI]] gagne +1 ATQ et +1 MNG."
+    },
+    {
+        "code": "206415",
+        "flavor": "Les Cotatis détruisent toute forme de vie animale. Ils ont l'intention de repeindre en vert ce monde et tous les autres.",
+        "name": "Le Domaine Vert",
+        "text": "<b>Une fois révélée</b> : placez 1 menace sur cette carte pour chaque jeton Liane sur chaque attachement Lianes Mortelles."
+    },
+    {
+        "code": "206416",
+        "name": "Portail Organique",
+        "text": "Entrave 2[per_hero].\n<b>Une fois vaincue</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un sbire soit défaussé. Mettez en jeu ce sbire, engagé avec le premier joueur.\n[hazard]<hr>[star] <b>Boost</b> : révélez cette carte."
+    },
+    {
+        "code": "206417",
+        "name": "Possession Corporelle",
+        "text": "L'allié attaché est considéré comme un sbire [[Cotati]] ayant une boîte de texte vide. La MNG du sbire attaché est égale à son CTR imprimé et il ne subit pas de dégâts consécutifs.\n<b>Une fois révélée</b> : attachez à l'allié avec le plus de points de vie restants qui n'a pas déjà un autre exemplaire de Possession Corporelle attaché, puis soignez‑le de tous ses dégâts. Cet allié engage le joueur qui le contrôle. Sinon, cette carte gagne Renfort."
+    },
+    {
+        "code": "206418",
+        "name": "Magicien Cotati",
+        "text": "<b>Une fois révélée</b> : défaussez les 2 cartes du dessus du deck Rencontre. Révélez le premier sbire défaussé de cette façon.\n<hr>[star] <b>Boost</b> : résolvez la capacité « Une fois révélée » de cette carte.",
+        "traits": "Cotati."
+    },
+    {
+        "code": "206419",
+        "name": "She-hulk",
+        "text": "Ténacité.\n[star] Les attaques de She‑Hulk gagnent Déferlement.\n<hr>[star] <b>Boost</b> : si cette activation est une attaque, cette attaque gagne Déferlement."
+    }
+]

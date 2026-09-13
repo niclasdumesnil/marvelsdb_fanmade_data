@@ -1,0 +1,100 @@
+[
+    {
+        "code": "204801a",
+        "flavor": "« Je vise à plaire. »",
+        "name": "Hawkeye",
+        "text": "<i>Maître Archer</i> — <b>Interruption</b> (<i>attaque</i>) : quand un ennemi initie une attaque, retirez jusqu'à 3 jetons Flèche de l'Arc de Kate → infligez 1 dégât à cet ennemi pour chaque jeton Flèche ainsi retiré.",
+        "traits": "Young Avenger."
+    },
+    {
+        "code": "204801b",
+        "name": "Kate Bishop",
+        "text": "<i>Habile</i> — Lors de la construction de votre deck, vous pouvez inclure des cartes [[compétence]] de n'importe quelle affinité.\n<b>Action</b> : cherchez l'Arc de Kate dans votre deck ou votre pile de défausse et mettez‑le en jeu. (Limite d'une fois par round.)",
+        "traits": "Investigateur Privé."
+    },
+    {
+        "code": "204802",
+        "flavor": "« Qu'est ce que je fais Katie ? Je viens à ton secours, bien sûr. »",
+        "name": "Hawkeye",
+        "text": "<b>Interruption</b> : quand Hawkeye est censé être vaincu par des dégâts consécutifs, mélangez‑le dans votre deck à la place et placez 1 jeton Flèche sur l'Arc de Kate.",
+        "traits": "Avenger."
+    },
+    {
+        "code": "204803",
+        "flavor": "« En arrière, sbires. » – Kate Bishop",
+        "name": "Tir d'Évasion",
+        "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand vous êtes censé subir n'importe quelle quantité de dégâts d'une attaque, prévenez 4 de ces dégâts.\nEnsuite, infligez 1 dégât à l'attaquant pour chaque jeton Flèche sur l'Arc de Kate (jusqu'à un maximum de 5).",
+        "traits": "Compétence. Défense."
+    },
+    {
+        "code": "204804",
+        "flavor": "« Ouf, c'est serré. Je vais devoir arrêter de manger ces délicieux mini-donuts. » – Kate Bishop",
+        "name": "Infiltrée",
+        "text": "<b>Interruption</b> : lorsque n'importe quelle quantité de menace est censée être placée sur une manigance, prévenez 2 de cette menace (4 si vous êtes en forme d'alter ego).",
+        "traits": "Compétence."
+    },
+    {
+        "code": "204805",
+        "flavor": "« Les gars, si on égalisait un peu les chances ? » – Kate Bishop",
+        "name": "Décochement Rapide",
+        "text": "<b>Action d'alter ego</b> : passez sous forme de héros et redressez votre héros.\n<b>Action de héros</b> : redressez votre héros et placez 2 jetons Flèche sur l'Arc de Kate.",
+        "traits": "Compétence."
+    },
+    {
+        "code": "204812",
+        "name": "Arc de Kate",
+        "text": "Restreint.\nVos attaques de base gagnent À Distance.\n\n<b>Interruption</b> : quand la phase des joueurs se termine, placez 1 jeton Flèche sur cette carte. (Maximum de 10 jetons Flèche.)",
+        "traits": "Arme."
+    },
+    {
+        "code": "204806",
+        "flavor": "« Parfois Clint a raison, une flèche piégée est vraiment efficace. » – Kate Bishop",
+        "name": "Flèche Lacrymogène",
+        "text": "<b>Interruption de héros</b> : quand un ennemi initie une activation, retirez 1 jeton Flèche de l'Arc de Kate → annulez cette activation.\nVous pouvez dépenser une ressource pour passer sous forme d'alter ego ou redresser votre héros.",
+        "traits": "Flèche."
+    },
+    {
+        "code": "204807",
+        "flavor": "« Nous les archers avons des « points d'attache ». Un lieu dans lequel votre main directrice retourne... Un lieu qui apporte stabilité et constance. » – Kate Bishop",
+        "name": "Points d'Attache",
+        "text": "<b>Ressource</b> : inclinez Points d'Attache → générez une ressource [wild] pour une carte [[compétence]].",
+        "traits": "Individu."
+    },
+    {
+        "code": "204808",
+        "name": "Hawkeye Investigations",
+        "text": "<b>Réponse</b> : après que vous avez prévenu ou réduit n'importe quelle quantité de menace censée être placée sur une manigance, retirez 1 menace d'une manigance.\n<b>Réponse</b> : après que vous avez prévenu ou réduit n'importe quelle quantité de dégâts, retirez 1 menace d'une manigance.",
+        "traits": "Lieu."
+    },
+    {
+        "code": "204809",
+        "flavor": "« Ouaf ! » – Lucky",
+        "name": "Lucky",
+        "text": "<b>Action d'alter ego</b> : inclinez Lucky → soignez 2 dégâts de Kate Bishop et placez 1 jeton Flèche sur l'Arc de Kate.",
+        "traits": "Bon Chien."
+    },
+    {
+        "code": "204810",
+        "name": "Agilité Athlétique",
+        "text": "Vous gagnez Agile 1. <i>(Réduisez de 1 les dégâts subis d'attaques non défendues, jusqu'à un minimum de 1.)</i>\n\n<b>Interruption</b> : quand vous prévenez ou réduisez n'importe quelle quantité de dégâts d'une attaque, infligez 1 dégât à un ennemi.",
+        "traits": "Compétence."
+    },
+    {
+        "code": "204811",
+        "name": "Aviators de Kate",
+        "text": "Utilisations (2 jetons Style).\n<b>Action de héros</b> : retirez 1 jeton Style des Aviators de Kate et inclinez-les → piochez 1 carte.",
+        "traits": "Objet."
+    },
+    {
+        "code": "204813",
+        "name": "Carquois de Kate",
+        "text": "Vous pouvez retirer jusqu'à 5 jetons Flèche avec votre capacité <i>Maître Archer</i> au lieu de 3.\n\n<b>Ressource</b> : inclinez le Carquois de Kate → générez une ressource [wild] et placez 1 jeton Flèche sur l'Arc de Kate.",
+        "traits": "Objet."
+    },
+    {
+        "code": "204819",
+        "name": "Promotion !",
+        "text": "Jouez cette carte uniquement si votre identité a le trait [[young avenger]].\nAttachez cette carte à un personnage ami. Maximum 1 par personnage.\nLe personnage attaché gagne +1 point de vie et le trait [[Avenger]].",
+        "traits": "Titre."
+    }
+]

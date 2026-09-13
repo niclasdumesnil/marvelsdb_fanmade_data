@@ -1,0 +1,31 @@
+[
+    {
+        "code": "204814",
+        "name": "Famille = Problèmes",
+        "text": "<b>Donnez cette carte au joueur de Kate Bishop.</b>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• Cherchez votre allié signature Hawkeye et retirez‑le de la partie → retirez cette obligation de la partie.\n• Retirez tous les jetons Flèche de l'Arc de Kate. Vous ne pouvez pas placer de jetons Flèche sur l'Arc de Kate jusqu'à la fin du prochain round. Défaussez cette obligation."
+    },
+    {
+        "code": "204815",
+        "flavor": "Madame Masque a réussi à mettre les mains sur de nouveaux Simulacres de Vie Modélisée et provoque le chaos avec votre image !",
+        "name": "Trouver le SVM Parfait",
+        "text": "Tant que cette manigance est en jeu, vous ne pouvez pas prévenir l'ajout de menace sur une manigance. Madame Masque ne peut pas subir de dégâts.\n[crisis]"
+    },
+    {
+        "code": "204816",
+        "flavor": "« Il n'y a rien de plus triste qu'un super héros brisé. Et par triste j'entends un régal absolu. »",
+        "name": "Madame Masque",
+        "text": "[star] L'ATQ et la MNG de Madame Masque sont égales à l'ATQ et au CTR de la forme de héros de l'identité avec laquelle elle est engagée.\n<i>(Sbire Némésis de Hawkeye.)</i>",
+        "traits": "Maîtres du Mal."
+    },
+    {
+        "code": "204817",
+        "name": "Sbires de Masque",
+        "text": "Garde.\n<b>Interruption forcée</b> : quand les Sbires de Masque sont censés être vaincu, placez 1 jeton Sbire sur eux et soignez‑les de tous leurs dégâts.\n<b>Interruption forcée</b> : quand les Sbires de Masque ont 2 jetons Sbire ou plus sur eux, défaussez‑les."
+    },
+    {
+        "code": "204818",
+        "flavor": "« Tu n'aimes pas les probabilités ? Change-les ! » – Madame Masque",
+        "name": "Tir Parfait",
+        "text": "<b>Une fois révélée</b> : subissez 1 dégât. Ensuite, subissez 1 dégât indirect pour chaque personnage ami que vous contrôlez.\n<hr>[star] <b>Boost</b> : révélez cette carte."
+    }
+]
