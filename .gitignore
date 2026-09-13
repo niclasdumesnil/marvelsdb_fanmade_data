@@ -24,3 +24,10 @@ __pycache__/
 # Per-environment "not yet promoted" trait translations added via the app UI.
 # The reviewed/canonical dictionary is traits_dict.json (tracked, synced via Git Pull/Push).
 traits_dict_overlay.json
+
+# Sauvegardes d'images de cartes remplacees, ecrites par mc4db_editor
+# (app/api/save-image/route.ts : BACKUP_DIR, ou DATA_DIR/save/images par defaut).
+# Ce sont des copies horodatees du fichier qu'on vient d'ecraser, locales a la
+# machine et regenerees a chaque remplacement : elles n'ont rien a faire dans le
+# depot de DONNEES. Deux d'entre elles y avaient ete commitees par megarde.
+save/images/

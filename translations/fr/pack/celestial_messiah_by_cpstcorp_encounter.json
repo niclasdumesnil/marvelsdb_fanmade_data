@@ -3,7 +3,7 @@
         "code": "206401",
         "flavor": "« C'est le temps de la Floraison. Quand toutes les illusions... s'effacent. »",
         "name": "Quoi",
-        "text": "[star]<b>Interruption forcée</b> : quand Quoi initie une attaque contre vous, placez 1 jeton Liane sur Lianes Mortelles attachée à votre identité.",
+        "text": "[star] <b>Interruption forcée</b> : quand Quoi initie une attaque contre vous, placez 1 jeton Liane sur Lianes Mortelles attachée à votre identité.",
         "traits": "Cotati. Messie."
     },
     {
@@ -41,7 +41,7 @@
         "code": "206405b",
         "flavor": "Une guerre a éclatée pour s'assurer le contrôle du Wakanda. Stoppez Quoi avant que la Fleur de Mort n'éclose ou il aura suffisamment de pouvoir pour régner sur la galaxie.",
         "name": "La Bataille du Wakanda",
-        "text": "En tant que coût supplémentaire pour utiliser l'« <b>Action</b> » de Lianes Mortelles, dépensez 1 ressource de n'importe quel type.<br>\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
+        "text": "En tant que coût supplémentaire pour utiliser l'« <b>Action</b> » de Lianes Mortelles, dépensez 1 ressource de n'importe quel type.\n<b>Si ce stade est achevé, les joueurs perdent la partie.</b>"
     },
     {
         "code": "206406",
@@ -104,7 +104,7 @@
     {
         "code": "206416",
         "name": "Portail Organique",
-        "text": "Entrave 2[per_hero].\n<b>Une fois vaincue</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un sbire soit défaussé. Mettez en jeu ce sbire, engagé avec le premier joueur.\n[hazard]<hr>[star] <b>Boost</b> : révélez cette carte."
+        "text": "Entrave 2[per_hero].\n<b>Une fois vaincue</b> : défaussez des cartes du deck Rencontre jusqu'à ce qu'un sbire soit défaussé. Mettez en jeu ce sbire, engagé avec le premier joueur.\n<hr>[star] <b>Boost</b> : révélez cette carte."
     },
     {
         "code": "206417",
