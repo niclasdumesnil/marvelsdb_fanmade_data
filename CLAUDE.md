@@ -20,6 +20,28 @@ Dépôt principal contenant l'ensemble des données brutes en format JSON pour l
 
 ---
 
+## 🔢 Attribution des `cgdb_id` — quinte 5000
+
+Le code d'une carte vaut **`cgdb_id × 100 + position`**. Un pack qui dépasse 99 positions
+déborde donc sur l'identifiant suivant : Alpha Flight (5045, 104 positions) produit des codes
+en `5046xx`, et tout pack posé sur 5046 aurait partagé ses codes.
+
+**Règle : dans la quinte 5000, on attribue un identifiant sur cinq** — 5050, 5055, 5060, 5065…
+Les quatre intermédiaires sont réservés d'office, sans attendre que le pack ait ses cartes.
+Cinq identifiants donnent 500 positions de marge, ce qu'aucun pack n'a jamais approché.
+
+La règle est appliquée par l'éditeur — `mc4db_editor/app/components/PackManagerView.tsx`,
+constante `PAS_QUINTE_5000` — qui bloque les intermédiaires et ne propose que des multiples
+du pas.
+
+⚠️ **Renuméroter un pack, c'est renuméroter ses cartes.** Le `cgdb_id` seul ne suffit pas :
+il faut réécrire le préfixe de chaque `code` et de chaque `back_link` des fichiers de cartes,
+renommer les images du bundle (nommées par code), et mettre la base à jour. Les packs
+antérieurs à cette règle (5001, 5003, 5007, 5011) ne la respectent pas ; ils ne se
+chevauchent pas pour autant et sont laissés tels quels.
+
+---
+
 ## 🛠️ Validation des Données
 La validation des schémas JSON et de la cohérence des cartes s'effectue via le service `mc-services` :
 ```powershell
