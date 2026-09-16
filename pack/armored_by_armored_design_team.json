@@ -3,7 +3,7 @@
         "attack": 2,
         "attack_cost": 2,
         "attack_star": true,
-        "code": "500501",
+        "code": "505501",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -26,7 +26,7 @@
     {
         "attack": 1,
         "attack_cost": 1,
-        "code": "500502",
+        "code": "505502",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -49,7 +49,7 @@
     {
         "attack": 2,
         "attack_cost": 1,
-        "code": "500503",
+        "code": "505503",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -71,7 +71,7 @@
     {
         "attack": 1,
         "attack_cost": 2,
-        "code": "500504",
+        "code": "505504",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -94,7 +94,7 @@
     {
         "attack": 2,
         "attack_cost": 1,
-        "code": "500505",
+        "code": "505505",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -117,7 +117,7 @@
         "attack": 1,
         "attack_cost": 1,
         "attack_star": true,
-        "code": "500506",
+        "code": "505506",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -141,7 +141,7 @@
     {
         "attack": 1,
         "attack_cost": 1,
-        "code": "500507",
+        "code": "505507",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -164,7 +164,7 @@
     {
         "attack": 1,
         "attack_cost": 1,
-        "code": "500508",
+        "code": "505508",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -187,7 +187,7 @@
     {
         "attack": 1,
         "attack_cost": 1,
-        "code": "500509",
+        "code": "505509",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -210,7 +210,7 @@
     {
         "attack": 2,
         "attack_cost": 2,
-        "code": "500510",
+        "code": "505510",
         "cost": 4,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -230,7 +230,7 @@
         "type_code": "ally"
     },
     {
-        "code": "500511",
+        "code": "505511",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -247,7 +247,7 @@
         "type_code": "event"
     },
     {
-        "code": "500512",
+        "code": "505512",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -264,7 +264,7 @@
         "type_code": "event"
     },
     {
-        "code": "500513",
+        "code": "505513",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -281,7 +281,7 @@
         "type_code": "event"
     },
     {
-        "code": "500514",
+        "code": "505514",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -298,7 +298,7 @@
         "type_code": "event"
     },
     {
-        "code": "500515",
+        "code": "505515",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -315,7 +315,7 @@
         "type_code": "event"
     },
     {
-        "code": "500516",
+        "code": "505516",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -332,7 +332,7 @@
         "type_code": "event"
     },
     {
-        "code": "500517",
+        "code": "505517",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -348,7 +348,7 @@
         "type_code": "event"
     },
     {
-        "code": "500518",
+        "code": "505518",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -364,7 +364,7 @@
         "type_code": "event"
     },
     {
-        "code": "500519",
+        "code": "505519",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -380,7 +380,7 @@
         "type_code": "event"
     },
     {
-        "code": "500520",
+        "code": "505520",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -396,7 +396,7 @@
         "type_code": "event"
     },
     {
-        "code": "500521",
+        "code": "505521",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -411,7 +411,7 @@
         "type_code": "event"
     },
     {
-        "code": "500522",
+        "code": "505522",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -428,7 +428,7 @@
         "type_code": "event"
     },
     {
-        "code": "500523",
+        "code": "505523",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -444,7 +444,7 @@
         "type_code": "event"
     },
     {
-        "code": "500524",
+        "code": "505524",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -460,7 +460,7 @@
         "type_code": "event"
     },
     {
-        "code": "500525",
+        "code": "505525",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -477,7 +477,7 @@
         "type_code": "event"
     },
     {
-        "code": "500526",
+        "code": "505526",
         "cost": 2,
         "cost_per_hero": true,
         "custom_value": "armored",
@@ -495,7 +495,7 @@
         "type_code": "event"
     },
     {
-        "code": "500527",
+        "code": "505527",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -511,7 +511,7 @@
         "type_code": "event"
     },
     {
-        "code": "500528",
+        "code": "505528",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -528,7 +528,7 @@
         "type_code": "event"
     },
     {
-        "code": "500529",
+        "code": "505529",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -545,7 +545,7 @@
         "type_code": "event"
     },
     {
-        "code": "500530",
+        "code": "505530",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -562,7 +562,7 @@
         "type_code": "event"
     },
     {
-        "code": "500531",
+        "code": "505531",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -578,7 +578,7 @@
         "type_code": "event"
     },
     {
-        "code": "500532",
+        "code": "505532",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -595,7 +595,7 @@
         "type_code": "event"
     },
     {
-        "code": "500533",
+        "code": "505533",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -611,7 +611,7 @@
         "type_code": "event"
     },
     {
-        "code": "500534",
+        "code": "505534",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 2,
@@ -629,7 +629,7 @@
     {
         "base_threat": 3,
         "base_threat_fixed": false,
-        "code": "500535",
+        "code": "505535",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -647,7 +647,7 @@
     {
         "base_threat": 3,
         "base_threat_fixed": false,
-        "code": "500536",
+        "code": "505536",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -663,7 +663,7 @@
         "type_code": "player_side_scheme"
     },
     {
-        "code": "500537",
+        "code": "505537",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 2,
@@ -678,7 +678,7 @@
         "type_code": "resource"
     },
     {
-        "code": "500538",
+        "code": "505538",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -693,7 +693,7 @@
         "type_code": "resource"
     },
     {
-        "code": "500539",
+        "code": "505539",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -708,7 +708,7 @@
         "type_code": "resource"
     },
     {
-        "code": "500540",
+        "code": "505540",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 2,
@@ -723,7 +723,7 @@
         "type_code": "resource"
     },
     {
-        "code": "500541",
+        "code": "505541",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -739,7 +739,7 @@
         "type_code": "support"
     },
     {
-        "code": "500542",
+        "code": "505542",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -755,7 +755,7 @@
         "type_code": "support"
     },
     {
-        "code": "500543",
+        "code": "505543",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -772,7 +772,7 @@
         "type_code": "support"
     },
     {
-        "code": "500544",
+        "code": "505544",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -789,7 +789,7 @@
         "type_code": "support"
     },
     {
-        "code": "500545",
+        "code": "505545",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -806,7 +806,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500546",
+        "code": "505546",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -824,7 +824,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500547",
+        "code": "505547",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -840,7 +840,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500548",
+        "code": "505548",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -858,7 +858,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500549",
+        "code": "505549",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -875,7 +875,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500550",
+        "code": "505550",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -892,7 +892,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500551",
+        "code": "505551",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -909,7 +909,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500552",
+        "code": "505552",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -926,7 +926,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500553",
+        "code": "505553",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -944,7 +944,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500554",
+        "code": "505554",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -961,7 +961,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500555",
+        "code": "505555",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -979,7 +979,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500556",
+        "code": "505556",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -996,7 +996,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500557",
+        "code": "505557",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1014,7 +1014,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500558",
+        "code": "505558",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1032,7 +1032,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500559",
+        "code": "505559",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1049,7 +1049,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500560",
+        "code": "505560",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1066,7 +1066,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500561",
+        "code": "505561",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1083,7 +1083,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500562",
+        "code": "505562",
         "cost": -1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1100,7 +1100,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500563",
+        "code": "505563",
         "custom_value": "armored",
         "deck_limit": 3,
         "faction_code": "custom",
@@ -1117,7 +1117,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500564",
+        "code": "505564",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1134,7 +1134,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500565",
+        "code": "505565",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1151,7 +1151,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500566",
+        "code": "505566",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1169,7 +1169,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500567",
+        "code": "505567",
         "cost": 0,
         "custom_value": "armored",
         "deck_limit": 1,
@@ -1186,7 +1186,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500568",
+        "code": "505568",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1202,7 +1202,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500569",
+        "code": "505569",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1219,7 +1219,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500570",
+        "code": "505570",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1236,7 +1236,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500571",
+        "code": "505571",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1253,7 +1253,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500572",
+        "code": "505572",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1270,7 +1270,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500573",
+        "code": "505573",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1288,7 +1288,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500574",
+        "code": "505574",
         "cost": 3,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1305,7 +1305,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500575",
+        "code": "505575",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1322,7 +1322,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500576",
+        "code": "505576",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1339,7 +1339,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500577",
+        "code": "505577",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1357,7 +1357,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500578",
+        "code": "505578",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1374,7 +1374,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500579",
+        "code": "505579",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1391,7 +1391,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500580",
+        "code": "505580",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1408,7 +1408,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500581",
+        "code": "505581",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1425,7 +1425,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500582",
+        "code": "505582",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1441,7 +1441,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500583",
+        "code": "505583",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1458,7 +1458,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500584",
+        "code": "505584",
         "custom_value": "armored",
         "deck_limit": 3,
         "faction_code": "custom",
@@ -1474,7 +1474,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500585",
+        "code": "505585",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1492,7 +1492,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500586",
+        "code": "505586",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1509,7 +1509,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500587",
+        "code": "505587",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1525,7 +1525,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500588",
+        "code": "505588",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1542,7 +1542,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500589",
+        "code": "505589",
         "cost": 2,
         "custom_value": "armored",
         "deck_limit": 3,
@@ -1560,7 +1560,7 @@
         "type_code": "upgrade"
     },
     {
-        "code": "500590",
+        "code": "505590",
         "cost": 1,
         "custom_value": "armored",
         "deck_limit": 3,
