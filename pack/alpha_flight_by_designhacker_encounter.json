@@ -616,6 +616,7 @@
         "position": 99,
         "quantity": 1,
         "set_code": "alpha_flight_by_designhacker",
+        "status": "released",
         "text": "<b><i>Give to the Heather Hudson player.</i></b>\nYou may flip to alter-ego form. Choose:\n• Exhaust Heather Hudson → remove Care for Claire from the game.\n• Choose and discard 1 card from your hand. You cannot change form until your next turn ends. Discard this obligation.",
         "type_code": "obligation"
     },
@@ -636,6 +637,7 @@
         "scheme": 2,
         "set_code": "vindicator_by_designhacker_nemesis",
         "set_position": 1,
+        "status": "released",
         "text": "[[Drone]] minions get +1 SCH and +1 ATK.\n[star] Master of the World gets +1 ATK for each acceleration token in play.\n<b>Forced Interrupt</b>: When Master of the World attacks, resolve his attack against each [[Alpha Flight]] hero.\n<i>(Vindicator's nemesis minion.)</i>",
         "traits": "Aerial. Genius.",
         "type_code": "minion"
@@ -654,6 +656,7 @@
         "quantity": 1,
         "set_code": "vindicator_by_designhacker_nemesis",
         "set_position": 2,
+        "status": "released",
         "text": "Permanent. Each facedown encounter card [[Drone]] minion has base hit points of 1, base SCH of 0, base ATK of 0, and gains the [[Aerial]] trait.\n<b>Forced Response</b>: After your turn ends, if there is 1 [per_hero] or more threat here, resolve the \"Drone Master\" ability.\n<i>Drone Master</i> — <b>Special</b>: Discard the top 2 cards of the encounter deck. Put each treachery discarded this way into play facedown, engaged with you as a [[Drone]] minion.",
         "type_code": "side_scheme"
     },
@@ -674,6 +677,7 @@
         "scheme": 1,
         "set_code": "vindicator_by_designhacker_nemesis",
         "set_position": 3,
+        "status": "released",
         "text": "<b>When Revealed</b>: Resolve the <i>\"Drone Master\"</i> ability.\n<b>When Defeated</b>: Resolve the <i>\"Drone Master\"</i> ability.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Aerial. Drone.",
         "type_code": "minion"
@@ -692,6 +696,7 @@
         "quantity": 1,
         "set_code": "vindicator_by_designhacker_nemesis",
         "set_position": 4,
+        "status": "released",
         "text": "[[Aerial]] characters get +1 ATK and -1 DEF.\n<b>Action</b>: Discard 2 cards from your hand and the top 5 cards of the encounter deck → draw 2 cards. If the combined cost of those cards is 3 or more, discard this card.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Condition.",
         "type_code": "environment"
@@ -710,6 +715,7 @@
         "quantity": 1,
         "set_code": "vindicator_by_designhacker_nemesis",
         "set_position": 5,
+        "status": "released",
         "text": "[[Drone]] minions get +1 hit point and +1 ATK, and gain retaliate 1.\n<b>Hero Response</b>: After you defeat a [[Drone]] minion, spend 2 resources → discard this card.\n<hr>[star] <b>Boost</b>: Place 3 threat on the Drone Master side scheme.",
         "traits": "Condition.",
         "type_code": "environment"

@@ -343,7 +343,7 @@
         "position": 17,
         "quantity": 3,
         "resource_mental": 1,
-        "text": "<b>Hero Action</b> <i>(thwart)</i>: Look at the top card of the encounter deck. If the number of icons in that card's boost area is at least:\n• 0 – remove 1 threat from a scheme.\n• 1 – remove 2 threat from a scheme.\n• 2 – draw 1 card.",
+        "text": "<b>Hero Action</b> <i>(thwart)</i>: Look at the top card of the encounter deck. If the number of icons in that card's boost area is at least:\n• 0 - remove 1 threat from a scheme.\n• 1 - remove 2 threat from a scheme.\n• 2 - draw 1 card.",
         "traits": "Thwart.",
         "type_code": "event"
     },

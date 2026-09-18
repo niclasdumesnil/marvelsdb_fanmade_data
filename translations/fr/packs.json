@@ -408,12 +408,20 @@
 		"name": "Morbius"
 	},
 	{
+		"code": "celestial_messiah_by_cpstcorp",
+		"name": "Messie Céleste"
+	},
+	{
 		"code": "graviton_by_xb",
 		"name": "Graviton"
 	},
 	{
 		"code": "skrull_menace_by_kajislav",
 		"name": "Menace Skrull"
+	},
+	{
+		"code": "sentry_by_transience",
+		"name": "Sentry"
 	},
 	{
 		"code": "dtm",
@@ -428,7 +436,27 @@
 		"name": "Les Héritiers"
 	},
 	{
+		"code": "war_of_the_realms_by_jammydude44",
+		"name": "La Guerre des Royaumes"
+	},
+	{
 		"code": "eternals_by_bluehg",
 		"name": "Éternels"
+	},
+	{
+		"code": "alpha_flight_by_designhacker",
+		"name": "Alpha Flight"
+	},
+	{
+		"code": "okoye_by_bluehg",
+		"name": "Okoye"
+	},
+	{
+		"code": "batman_66_by_rycoran",
+		"name": "Batman 66"
+	},
+	{
+		"code": "white_tiger_by_andyn",
+		"name": "White Tiger"
 	}
 ]

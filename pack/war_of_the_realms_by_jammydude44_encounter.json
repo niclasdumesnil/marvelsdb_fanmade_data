@@ -1908,7 +1908,6 @@
         "code": "503590",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "Peril.",
         "is_unique": false,
         "name": "Butcher Of Thors",
         "octgn_id": "404e9219-abc2-44d7-9201-7c3644035090",
@@ -1917,7 +1916,7 @@
         "quantity": 1,
         "set_code": "realms_campaign_by_jammydude44",
         "set_position": 11,
-        "text": "<b>When Revealed</b>: Malekith attacks a hero of your choice with the [[ASGARD]] trait. If no attack was made this way, this card gains surge.\n<hr>[star] <b>Boost</b>: Stun your identity.",
+        "text": "Peril.\n<b>When Revealed</b>: Malekith attacks a hero of your choice with the [[ASGARD]] trait. If no attack was made this way, this card gains surge.\n<hr>[star] <b>Boost</b>: Stun your identity.",
         "type_code": "treachery"
     },
     {
@@ -1952,6 +1951,7 @@
         "position": 92,
         "quantity": 4,
         "set_code": "realms_campaign_by_jammydude44",
+        "set_position": 13,
         "text": "Your hero cannot use basic powers.\n<b>Alter-Ego <b>Action</b>:</b> Take up to 2 damage â†' discard this card. If you took 2 damage, remove this card from the game instead.",
         "type_code": "obligation"
     }

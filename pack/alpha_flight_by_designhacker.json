@@ -1396,6 +1396,7 @@
         "quantity": 1,
         "recover": 3,
         "set_code": "alpha_flight_by_designhacker",
+        "status": "released",
         "text": "<i>Dedicated</i> — <b>Action</b>: Spend a [MENTAL] resource → search your deck for an identity-specific ally or upgrade and add it to your hand. If Guardian is in play, place 1 charge counter on him and 1 charge counter here.",
         "traits": "Officer.",
         "type_code": "alter_ego"
@@ -1417,6 +1418,7 @@
         "position": 87,
         "quantity": 1,
         "set_code": "alpha_flight_by_designhacker",
+        "status": "released",
         "text": "Vindicator cannot have more than 4 charge counters here.\n<i>Vindicated</i> — <b>Interrupt</b>: When Vindicator would heal any amount of damage, place that many charge counters on her instead.",
         "thwart": 2,
         "traits": "Aerial. Alpha Flight.",
@@ -1440,6 +1442,7 @@
         "resource_wild": 1,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 1,
+        "status": "released",
         "subname": "James Hudson",
         "text": "Guardian gets +1 ATK for each charge counter here. If there are 4 or more charge counters here, discard Guardian.\n<b>Response</b>: After Vindicator uses a basic power, move a charge counter from Vindicator to here.",
         "thwart": 1,
@@ -1462,6 +1465,7 @@
         "resource_mental": 1,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 2,
+        "status": "released",
         "text": "Alliance.\n<b>Hero Action</b>: Remove 1 charge counter from Guardian or Vindicator for each [[Alpha Flight]] character in play → draw 1 card for each charge counter removed this way.",
         "traits": "Tactic.",
         "type_code": "event"
@@ -1483,6 +1487,7 @@
         "resource_physical": 0,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 3,
+        "status": "released",
         "text": "<b>Action</b>: Ready your identity. Then, if you are in hero form, you may place 1 charge counter on [[Guardian]] or [[Vindicator]].",
         "traits": "Condition.",
         "type_code": "event"
@@ -1503,6 +1508,7 @@
         "resource_physical": 1,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 5,
+        "status": "released",
         "text": "<b>Hero Interrupt</b>: When you defend, resolve this card's \"Hero Action\" and heal 2 damage from your identity.\n<b>Hero Action</b> (<i>thwart</i>): Remove 4 threat from a scheme.",
         "traits": "Superpower. Thwart.",
         "type_code": "event"
@@ -1524,6 +1530,7 @@
         "resource_physical": 0,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 7,
+        "status": "released",
         "text": "<b>Hero Interrupt</b> (<i>attack</i>): When you exhaust to use a basic power, deal 4 damage to an enemy. If it is during the villain phase, confuse the villain.",
         "traits": "Attack. Superpower.",
         "type_code": "event"
@@ -1542,6 +1549,7 @@
         "resource_wild": 1,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 9,
+        "status": "released",
         "text": "<b>Hero Response</b>: After you spend this card, heal 2 damage from [[Vindicator]].",
         "traits": "Resource.",
         "type_code": "resource"
@@ -1561,6 +1569,7 @@
         "resource_mental": 1,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 11,
+        "status": "released",
         "text": "<b>Action</b>: Exhaust Department H → look at a total of 2 cards from the top of any deck <i>(they can both be from the same deck)</i>. If you looked at a player deck this way, add 1 of those cards to its owner's hand. If you looked at the encounter deck, place 1 charge counter on a card for each encounter card looked at this way.",
         "traits": "Alpha Flight. Location.",
         "type_code": "support"
@@ -1581,6 +1590,7 @@
         "resource_wild": 0,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 12,
+        "status": "released",
         "text": "<b>Hero Action</b>: Exhaust Concussive Beams and remove up to 2 charge counters from Vindicator → you gain retaliate X until the end of the round, where X is equal to the number of charge counters removed this way.",
         "traits": "Tech. Weapon.",
         "type_code": "upgrade"
@@ -1600,6 +1610,7 @@
         "resource_energy": 1,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 13,
+        "status": "released",
         "text": "You may play cards tucked here as if they were in your hand.\n<b>Hero Action</b>: Exhaust this card and tuck a [[Superpower]] card from your hand under here → choose:\n• Ready and heal 1 damage from a hero.\n• Add a copy of Anti-Gravity Generation from your discard pile to your hand.",
         "type_code": "upgrade"
     },
@@ -1619,6 +1630,7 @@
         "resource_physical": 1,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 14,
+        "status": "released",
         "text": "Attach to [[Guardian]] or [[Vindicator]]. Treat each printed number \"4\" on attached character's card as a \"6\" instead.",
         "traits": "Item. Tech.",
         "type_code": "upgrade"
@@ -1638,6 +1650,7 @@
         "resource_physical": 1,
         "set_code": "alpha_flight_by_designhacker",
         "set_position": 15,
+        "status": "released",
         "text": "<b>Hero Action</b>: Exhaust this card and discard the top card of the encounter deck. Then, remove X charge counters from Vindicator or take X damage, where X is equal to the number of icons ([boost] and [star]) in that card's boost area → Vindicator gets +X THW or +X ATK or +X DEF until the end of the round.",
         "traits": "Armor. Tech.",
         "type_code": "upgrade"

@@ -1322,7 +1322,7 @@
         "code": "alpha_flight_by_designhacker",
         "confidential": "false",
         "creator": "Designhacker",
-        "date_release": "2026-06-28",
+        "date_release": "2026-09-18",
         "name": "Alpha Flight",
         "octgn_id": "3c18eb0a-c6b3-491b-a3ba-3588c9f64749",
         "pack_type_code": "hero_fanmade",
@@ -1330,7 +1330,7 @@
         "size": 134,
         "status": "released",
         "theme": "Marvel",
-        "visibility": "false"
+        "visibility": "true"
     },
     {
         "cgdb_id": 2075,
@@ -1522,6 +1522,40 @@
         "position": 5055,
         "size": 231,
         "status": "beta",
+        "visibility": "false"
+    },
+    {
+        "cgdb_id": 2088,
+        "code": "star_lord_by_illogical",
+        "confidential": "false",
+        "creator": "Illogical",
+        "date_release": "2026-09-18",
+        "date_update": "2026-09-18",
+        "lang": "EN",
+        "name": "Star-lord",
+        "octgn_id": "b16388cd-ca37-4fc1-a7a9-5e69c6a2a09f",
+        "pack_type_code": "hero_fanmade",
+        "position": 2088,
+        "size": 22,
+        "status": "beta",
+        "theme": "Marvel",
+        "visibility": "false"
+    },
+    {
+        "cgdb_id": 2089,
+        "code": "moondragon_by_bluehg",
+        "confidential": "false",
+        "creator": "BlueHG",
+        "date_release": "2026-09-18",
+        "date_update": "2026-09-18",
+        "lang": "EN",
+        "name": "Moondragon",
+        "octgn_id": "f522b8f7-102b-4ed7-bcde-c78d122d4a2c",
+        "pack_type_code": "hero_fanmade",
+        "position": 2089,
+        "size": 23,
+        "status": "released",
+        "theme": "Marvel",
         "visibility": "false"
     }
 ]
