@@ -1312,6 +1312,22 @@
 		"name": "Angela"
 	},
 	{
+		"code": "beast_by_proust",
+		"name": "Le Fauve"
+	},
+	{
+		"code": "beast_by_proust_nemesis",
+		"name": "Némésis du Fauve"
+	},
+	{
+		"code": "beast_by_hainz3y2_nemesis",
+		"name": "Némésis du Fauve"
+	},
+	{
+		"code": "beast_by_hainz3y2",
+		"name": "Le Fauve"
+	},
+	{
 		"code": "Gwenpool_by_ekAugust_nemesis",
 		"name": "Némésis de Gwenpool"
 	},
@@ -1406,5 +1422,21 @@
 	{
 		"code": "kingo_by_bluehg",
 		"name": "Kingo"
+	},
+	{
+		"code": "beast_by_jg",
+		"name": "Le Fauve"
+	},
+	{
+		"code": "beast_by_jg_nemesis",
+		"name": "Némésis du Fauve"
+	},
+	{
+		"code": "white_tiger_by_andyn",
+		"name": "Tigre Blanc"
+	},
+	{
+		"code": "white_tiger_by_andyn_nemesis",
+		"name": "Némésis de Tigre Blanc"
 	}
 ]

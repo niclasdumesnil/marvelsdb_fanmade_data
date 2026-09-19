@@ -2,19 +2,19 @@
     {
         "code": "208201a",
         "name": "Tigre Blanc",
-        "text": "<i>Griffes de Jade</i> — Tigre Blanc gagne +1 ATQ pour chaque carte intercalée sous Amulettes de Pouvoir.\n<b>Réponse forcée</b> : après que Tigre Blanc a effectué une attaque de base, défaussez chaque carte intercalée sous Amulettes de Pouvoir.",
+        "text": "<i>Griffes de Jade</i> — Tigre Blanc gagne +1 ATQ pour chaque carte intercalée sous Amulettes de Pouvoir.\n<b>Réponse forcée</b> : après que Tigre Blanc a effectué une attaque de base, défaussez chaque carte intercalée sous Amulettes de Pouvoir.",
         "traits": "Avenger."
     },
     {
         "code": "208201b",
         "name": "Ava Ayala",
-        "text": "<i>Lien du Tigre</i> — Vous pouvez inclure dans votre deck des événements ayant une icône de ressource [physical] imprimée de n'importe quelle affinité.\n<b>Mise en place</b> : mettez en jeu Amulettes de Pouvoir.",
+        "text": "<i>Lien du Tigre</i> — Vous pouvez inclure dans votre deck des événements ayant une icône de ressource [physical] imprimée de n'importe quelle affinité.\n<b>Mise en place</b> : mettez en jeu Amulettes de Pouvoir.",
         "traits": "Civil."
     },
     {
         "code": "208202",
         "name": "Amulettes de Pouvoir",
-        "text": "Permanent. 3 cartes max. intercalées dessous.\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [physical] imprimée, intercalez-le sous cette carte depuis votre pile de défausse. Puis, soignez 1 dégât de votre identité.",
+        "text": "Permanent.\n3 cartes max. intercalées dessous.\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [physical] imprimée, intercalez-le sous cette carte depuis votre pile de défausse. Puis, soignez 1 dégât de votre identité.",
         "traits": "Artefact. Objet."
     },
     {
@@ -43,7 +43,7 @@
     {
         "code": "208207",
         "name": "Communier avec les Dieux",
-        "text": "<b>Action d'alter ego</b> : inclinez les Communier avec les Dieux → choisissez :\n• ﻿Intercalez sous Amulettes de Pouvoir 1 carte Événement ayant une ressource [physical] imprimée de votre pile de défausse.\n• ﻿﻿Piochez 1 carte."
+        "text": "<b>Action d'alter ego</b> : inclinez Communier avec les Dieux → choisissez :\n• ﻿Intercalez sous Amulettes de Pouvoir 1 carte Événement ayant une ressource [physical] imprimée de votre pile de défausse.\n• ﻿﻿Piochez 1 carte."
     },
     {
         "code": "208208",
@@ -61,7 +61,8 @@
     {
         "code": "208210",
         "name": "Avatar du Tigre",
-        "text": "<b>Réponse</b> : après que vous avez changé de forme, choisissez :\n• ﻿﻿Intercalez sous Amulettes de Pouvoir une carte Événement ou Ressource ayant une ressource [physical] imprimée de votre pile de défausse.\n• ﻿﻿Ajoutez à votre main une carte intercalée sous Amulettes de Pouvoir."
+        "text": "<b>Réponse</b> : après que vous avez changé de forme, choisissez :\n• ﻿﻿Intercalez sous Amulettes de Pouvoir une carte Événement ou Ressource ayant une ressource [physical] imprimée de votre pile de défausse.\n• ﻿﻿Ajoutez à votre main une carte intercalée sous Amulettes de Pouvoir.",
+        "traits": "Titre."
     },
     {
         "code": "208211",

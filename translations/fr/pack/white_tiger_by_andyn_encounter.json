@@ -2,10 +2,11 @@
     {
         "code": "208212",
         "name": "La Colère du Tigre",
-        "text": "Donnez cette carte au joueur de Ava Ayala.\nTigre Blanc ne peut pas attaquer.\n<b>Action d'alter ego</b> : inclinez Ava Ayala ou défaussez 3 cartes intercalées sous Amulettes de Pouvoir → défaussez cette obligation."
+        "text": "<i><b>Donnez cette carte au joueur de Ava Ayala.</b></i>\nTigre Blanc ne peut pas attaquer.\n<b>Action d'alter ego</b> : inclinez Ava Ayala ou défaussez 3 cartes intercalées sous Amulettes de Pouvoir → défaussez cette obligation."
     },
     {
         "code": "208213",
+        "flavor": "« Bientôt, tia Ava. tu ne pourras pas esquiver éternellement. »",
         "name": "Tigre Blanc (Angela Del Toro)",
         "text": "Coup Rapide.\n<b>Réponse forcée</b> : après que Tigre Blanc (Angela Del Toro) a attaqué et vaincu un allié, attribuez une carte Rencontre face cachée au contrôleur de cet allié.",
         "traits": "Possédé."
@@ -20,11 +21,11 @@
         "code": "208215",
         "flavor": "« Tu ne comprends pas, n'est ce pas, p'tite Ava ? »",
         "name": "Tigre Contre Tigre",
-        "text": "<b>Une fois révélée</b> : si Tigre Blanc (Angela Del Toro) est en jeu, il s'active contre vous. Sinon, subissez 2 dégâts indirects."
+        "text": "<b>Une fois révélée</b> : si Tigre Blanc (Angela Del Toro) est en jeu, elle s'active contre vous. Sinon, subissez 2 dégâts indirects."
     },
     {
         "code": "208216",
-        "name": "« Je Serais Là ! »",
-        "text": "<b>Une fois révélée</b> : Tigre Blanc (Angela Del Toro) s'active contre vous. Si Tigre Blanc (Angela Del Toro) n'est pas en jeu, trouvez-le et révélez-le.\n<b>Boost</b> : si Tigre Blanc (Angela Del Toro) est en jeu, il s'active contre vous (après cette activation)."
+        "name": "« Je Serai Là ! »",
+        "text": "<b>Une fois révélée</b> : Tigre Blanc (Angela Del Toro) s'active contre vous. Si Tigre Blanc (Angela Del Toro) n'est pas en jeu, trouvez-la et révélez-la.\n<b>Boost</b> : si Tigre Blanc (Angela Del Toro) est en jeu, elle s'active contre vous (après cette activation)."
     }
 ]

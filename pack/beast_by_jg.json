@@ -176,7 +176,7 @@
         "set_position": 10,
         "status": "released",
         "text": "<b>Hero Interrupt</b>: When you spend this card, take up to 3 damage → this card generates 1 additional [mental] for each damage taken this way.",
-        "type_code": "upgrade"
+        "type_code": "resource"
     },
     {
         "code": "207807",

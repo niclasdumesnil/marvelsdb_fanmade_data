@@ -3,37 +3,37 @@
         "code": "207801a",
         "flavor": "« Un haut fait de mes pieds, et te voilà défaits ! »",
         "name": "Le Fauve",
-        "text": "<i>Super‑Génie</i> — Le Fauve gagne +1 CTR pour chaque carte intercalée sous le Laboratoire du Fauve.\n[star] <b>Réponse forcée</b> : après que Le Fauve a effectué un contre de base, défaussez chaque carte intercalée sous le Laboratoire du Fauve.",
+        "text": "<i>Super‑Génie</i> — Le Fauve gagne +1 CTR pour chaque carte intercalée sous le Laboratoire du Fauve.\n[star] <b>Réponse forcée</b> : après que Le Fauve a effectué un contre de base, défaussez chaque carte intercalée sous le Laboratoire du Fauve.",
         "traits": "Génie."
     },
     {
         "code": "207801b",
         "flavor": "« Yep est un terme technique, je te l'assure. »",
         "name": "Hank Mccoy",
-        "text": "<b>Mise en place</b> : mettez le Laboratoire du Fauve en jeu sur une face visible de votre choix.\n<i>Science !</i> — Vous pouvez inclure dans votre deck des événements ayant une icône de ressource [mental] imprimée de n'importe quelle affinité.",
+        "text": "<b>Mise en place</b> : mettez le Laboratoire du Fauve en jeu sur une face visible de votre choix.\n<i>Science !</i> — Vous pouvez inclure dans votre deck des événements ayant une icône de ressource [mental] imprimée de n'importe quelle affinité.",
         "traits": "Génie. Mutant. Scientifique."
     },
     {
         "code": "207802a",
-        "name": "Laboratoire du Fauve",
-        "text": "Permanent. 3 cartes max. intercalées dessous..\nLe Fauve gagne le trait [[X‑Men]].\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [mental] imprimée, intercalez-le sous cette carte depuis votre pile de défausse. Puis, soignez 1 dégât de votre identité."
+        "name": "Laboratoire du Fauve",
+        "text": "Permanent. 3 cartes max. intercalées dessous.\nLe Fauve gagne le trait [[X‑Men]].\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [mental] imprimée, intercalez-le sous cette carte depuis votre pile de défausse. Puis, soignez 1 dégât de votre identité."
     },
     {
         "code": "207802b",
-        "name": "Laboratoire du Fauve",
-        "text": "Permanent. 3 cartes max. intercalées dessous..\nLe Fauve gagne le trait [[Avenger]].\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [mental] imprimée, intercalez-le sous cette carte depuis votre pile de défausse. Puis, soignez 1 dégât de votre identité."
+        "name": "Laboratoire du Fauve",
+        "text": "Permanent. 3 cartes max. intercalées dessous.\nLe Fauve gagne le trait [[Avenger]].\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [mental] imprimée, intercalez-le sous cette carte depuis votre pile de défausse. Puis, soignez 1 dégât de votre identité."
     },
     {
         "code": "207803",
         "flavor": "« Hélas,  je me rends parfois compte que jouer au super-héros n'est pas la vocation la plus tranquille ! »",
-        "name": "« oh My... »",
+        "name": "« Oh Mon... »",
         "text": "<b>Action</b> (<i>contre</i>) : retirez 1 menace d'une manigance. Retirez 2 menaces supplémentaires de cette manigance pour chaque ressource [mental] que vous avez surpayée pour cette carte (jusqu'à un maximum de [mental][mental]).",
         "traits": "Contre."
     },
     {
         "code": "207804",
         "flavor": "« Mais je croyais qu'impressionner les filles était le principal intérêt de devenir un super héros ! »",
-        "name": "...stars And Garters »",
+        "name": "« ... Étoiles et Jarretelles »",
         "text": "<b>Action</b> (<i>contre</i>) : retirez une quantité de menace d'une manigance égale à votre valeur CTR. Si vous avez surpayé pour cette carte avec une ressource [mental], désorientez un ennemi.",
         "traits": "Contre. Super-pouvoir."
     },
@@ -53,18 +53,18 @@
         "code": "207807",
         "flavor": "« Tais-toi et embrasse moi, espèce de grosse peluche bleue. »",
         "name": "Trish Tilby",
-        "text": "<b>Action d'alter ego</b> : inclinez cette carte → choisissez :\n• Intercalez sous le Laboratoire du Fauve 1 carte événement ayant une ressource [mental] imprimée de votre pile de défausse.\n• Piochez 1 carte.",
+        "text": "<b>Action d'alter ego</b> : inclinez cette carte → choisissez :\n• Intercalez sous le Laboratoire du Fauve 1 carte événement ayant une ressource [mental] imprimée de votre pile de défausse.\n• Piochez 1 carte.",
         "traits": "Civil. Individu."
     },
     {
         "code": "207808",
         "name": "Module de Laboratoire Shi'ar",
-        "text": "<b>Ressource de héros</b> : inclinez le Module de Laboratoire Shi'ar → générez une ressource [mental] pour un événement.\n<b>Ressource de héros</b> : inclinez le Module de Laboratoire Shi'ar et défaussez une carte intercalée sous le Laboratoire du Fauve → générez une ressource [mental].",
+        "text": "<b>Ressource de héros</b> : inclinez le Module de Laboratoire Shi'ar → générez une ressource [mental] pour un événement.\n<b>Ressource de héros</b> : inclinez le Module de Laboratoire Shi'ar et défaussez une carte intercalée sous le Laboratoire du Fauve → générez une ressource [mental].",
         "traits": "Objet. Tech."
     },
     {
         "code": "207809",
-        "flavor": "« Oh, stars and garters... qu'avons nous là ? »",
+        "flavor": "« Oh, étoiles et jarretelles... qu'avons nous là ? »",
         "name": "Analyseur Portatif",
         "text": "<b>Ressource</b> : générez une ressource [mental] pour surpayer une carte. <i>(Limite d'une fois par carte.)</i>",
         "traits": "Objet. Tech."
@@ -72,13 +72,13 @@
     {
         "code": "207810",
         "name": "Mémoire Eidétique",
-        "text": "<b>Réponse</b> : après que vous avez changé de forme, choisissez :\n• ﻿﻿Intercalez sous le Laboratoire du Fauve une carte Événement ou Ressource ayant une ressource [mental] imprimée de votre pile de défausse.\n• ﻿﻿Ajoutez à votre main une carte intercalée sous le Laboratoire du Fauve.",
+        "text": "<b>Réponse</b> : après que vous avez changé de forme, choisissez :\n• ﻿﻿Intercalez sous le Laboratoire du Fauve une carte Événement ou Ressource ayant une ressource [mental] imprimée de votre pile de défausse.\n• ﻿﻿Ajoutez à votre main une carte intercalée sous le Laboratoire du Fauve.",
         "traits": "Super-pouvoir."
     },
     {
         "code": "207811",
         "name": "Mutation Secondaire",
-        "text": "<b>Interruption forcée</b> : quand Le Fauve est censé être vaincu, fixez son compteur de points de vie à 4 et passez-le sous forme d'alter ego à la place. Vous pouvez intercaler sous le Laboratoire du Fauve des événements ayant une ressource [mental] imprimée depuis votre pile de défausse jusqu'à ce qu'il y ait 3 cartes intercalées dessous. Retirez cette amélioration de la partie.",
+        "text": "<b>Interruption forcée</b> : quand Le Fauve est censé être vaincu, fixez son compteur de points de vie à 4 et passez-le sous forme d'alter ego à la place. Vous pouvez intercaler sous le Laboratoire du Fauve des événements ayant une ressource [mental] imprimée depuis votre pile de défausse jusqu'à ce qu'il y ait 3 cartes intercalées dessous. Retirez cette amélioration de la partie.",
         "traits": "Super-pouvoir."
     }
 ]
