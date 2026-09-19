@@ -62,13 +62,13 @@
     {
         "code": "50065",
         "name": "Black Widow",
-        "text": "<b>Une fois révélée</b> : placez 2 [per_hero] menaces sur la manigance principale.\n<b>Interruption forcée</b> : quand un personnage que vous contrôlez attaque Black Widow, retirez 1 menace de la manigance principale → défaussez la carte du dessus du deck Rencontre et résolvez chaque capacité « <b>Préparation</b> » de cette carte.",
+        "text": "<b>Une fois révélée</b> : placez 2 [per_hero] menaces sur la manigance principale.\n<b>Interruption forcée</b> : quand un personnage que vous contrôlez attaque Black Widow, retirez 1 menace de la manigance principale → défaussez la carte du dessus du deck Rencontre et résolvez chaque capacité « <b>Préparation</b> » de cette carte.",
         "traits": "Espion."
     },
     {
         "code": "50066",
         "name": "Black Widow",
-        "text": "<b>Une fois révélée</b> : placez 3 [per_hero] menaces sur la manigance principale.\n<b>Interruption forcée</b> : quand un personnage que vous contrôlez attaque Black Widow, retirez 1 menace de la manigance principale → défaussez la carte du dessus du deck Rencontre et résolvez chaque capacité « <b>Préparation</b> » de cette carte.",
+        "text": "<b>Une fois révélée</b> : placez 3 [per_hero] menaces sur la manigance principale.\n<b>Interruption forcée</b> : quand un personnage que vous contrôlez attaque Black Widow, retirez 1 menace de la manigance principale → défaussez la carte du dessus du deck Rencontre et résolvez chaque capacité « <b>Préparation</b> » de cette carte.",
         "traits": "Espion."
     },
     {
@@ -784,7 +784,7 @@
     {
         "code": "50171",
         "name": "Ennemi Réticent",
-        "text": "Considérez que le héros attaché est un sbire [[Élite]] avec une MNG égale à son CTR imprimé.\nRemplacez sa boîte de texte imprimée par « Vilenie. <b>Une fois vaincu</b> : retirez ce héros et Ennemi Réticent de la partie. »\n<b>Une fois révélée</b> : cherchez dans votre collection un héros dont le titre ne correspond pas au titre d'un personnage en jeu et mettez‑le en jeu engagé avec vous. Attachez‑lui cette carte."
+        "text": "Considérez que le héros attaché est un sbire [[Élite]] avec une MNG égale à son CTR imprimé.\nRemplacez sa boîte de texte imprimée par « Vilenie. <b>Une fois vaincu</b> : retirez ce héros et Ennemi Réticent de la partie. »\n<b>Une fois révélée</b> : cherchez dans votre collection un héros dont le titre ne correspond pas au titre d'un personnage en jeu et mettez‑le en jeu engagé avec vous. Attachez‑lui cette carte."
     },
     {
         "code": "50172",

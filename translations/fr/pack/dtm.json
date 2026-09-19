@@ -213,7 +213,7 @@
     {
         "code": "44132",
         "name": "Qui Rira le Dernier",
-        "text": "Vous ne pouvez jouer cette carte que si les points de vie restant de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> <i>(attaque)</i> : subissez 1 dégât et infligez 6 dégâts au méchant puis changez de forme.",
+        "text": "Vous ne pouvez jouer cette carte que si les points de vie restant de votre héros sont inférieurs à la moitié de ses points de vie de départ.\n<b>Action de héros</b> <i>(attaque)</i> : subissez 1 dégât et infligez 6 dégâts au méchant puis changez de forme.",
         "traits": "Attaque."
     },
     {
@@ -971,7 +971,7 @@
         "code": "44248",
         "flavor": "« Luke, tu dois toquer à la porte. » – Iron Man",
         "name": "« On se Prépare. »",
-        "text": "Départ. <i>(Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.)</i>\nVotre héros a -1 de taille de main et votre identité gagne + 6 points de vie.",
+        "text": "Départ. <i>(Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.)</i>\nVotre héros a -1 de taille de main et votre identité gagne + 6 points de vie.",
         "traits": "Condition."
     }
 ]

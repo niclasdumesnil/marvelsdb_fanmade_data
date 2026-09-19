@@ -4,14 +4,14 @@
         "errata": "Remplacé « déclenché » par « résolu ». (RRG 1.8)",
         "flavor": "« Mon nom est Natasha. Mais vous pouvez m'appeler Black Widow ! »",
         "name": "Black Widow",
-        "text": "« Faiseuse de veuves » — <b>Réponse</b> : après avoir résolu la capacité d'une carte [[Préparation]] que vous contrôlez, infligez 1 dégât à un ennemi.",
+        "text": "« Faiseuse de veuves » — <b>Réponse</b> : après avoir résolu la capacité d'une carte [[Préparation]] que vous contrôlez, infligez 1 dégât à un ennemi.",
         "traits": "Avenger. Espion."
     },
     {
         "code": "08001b",
         "flavor": "« C'est ma mission et je la mènerai à bien. »",
         "name": "Natasha Romanoff",
-        "text": "Préparatifs de mission — <b>Réponse</b> : après avoir joué une carte [[Préparation]], piochez 1 carte. (Limite d'une fois par phase.)",
+        "text": "Préparatifs de mission — <b>Réponse</b> : après avoir joué une carte [[Préparation]], piochez 1 carte. (Limite d'une fois par phase.)",
         "traits": "S.H.I.E.L.D. Espion."
     },
     {
@@ -32,7 +32,7 @@
     {
         "code": "08004",
         "name": "Danse de la Mort",
-        "text": "<b>Action de héros</b>  : effectuez les 3 attaques suivantes dans l'ordre :\n- Infligez 1 dégât à un ennemi.\n- Infligez 2 dégâts à un ennemi.\n- Infligez 3 dégâts à un ennemi.",
+        "text": "<b>Action de héros</b>  : effectuez les 3 attaques suivantes dans l'ordre :\n- Infligez 1 dégât à un ennemi.\n- Infligez 2 dégâts à un ennemi.\n- Infligez 3 dégâts à un ennemi.",
         "traits": "Attaque."
     },
     {
@@ -95,7 +95,7 @@
         "code": "08013",
         "flavor": "« Ils ne sauront jamais ce qui leur est arrivé. » – Black Widow",
         "name": "Frappe furtive",
-        "text": "<b>Action de Héros</b> <i>(attaque)</i>  : infligez 4 dégâts à un ennemi. Si cet ennemi est vaincu par cette attaque, retierez 2 menaces d'une manigance.",
+        "text": "<b>Action de Héros</b> <i>(attaque)</i>  : infligez 4 dégâts à un ennemi. Si cet ennemi est vaincu par cette attaque, retierez 2 menaces d'une manigance.",
         "traits": "Attaque."
     },
     {

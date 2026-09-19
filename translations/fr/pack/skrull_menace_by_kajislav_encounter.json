@@ -2,13 +2,13 @@
     {
         "code": "500731",
         "name": "Interracial Hatred",
-        "text": "Cards with the [[kree]] and [[skrull]] trait you control cannot ready.\n<b>Action d'alter ego</b>  : exhaust Teddy Altman → discard this obligation."
+        "text": "Cards with the [[kree]] and [[skrull]] trait you control cannot ready.\n<b>Action d'alter ego</b>  : exhaust Teddy Altman → discard this obligation."
     },
     {
         "code": "500732",
         "flavor": "« Your empire will shatter, and the last light will dim. » ",
         "name": "Empress R'Klll",
-        "text": "Vilenie.\n[star] Empress R'Klll's attacks gain Perçant.<b>\nWhen Revealed</b>  : empress R'Klll attacks each player in hero form.\n<i>(Hulkling's némésis minion.)</i>",
+        "text": "Vilenie.\n[star] Empress R'Klll's attacks gain Perçant.<b>\nWhen Revealed</b>  : empress R'Klll attacks each player in hero form.\n<i>(Hulkling's némésis minion.)</i>",
         "traits": "Élite. Skrull."
     },
     {
@@ -20,47 +20,47 @@
     {
         "code": "500734",
         "name": "Inhibited",
-        "text": "Attach to your identity.\nYou cannot change form or play cards that share a [[trait]] with your identity.\n<b>Action</b>  : spend [physical][physical] resources → discard this card.",
+        "text": "Attach to your identity.\nYou cannot change form or play cards that share a [[trait]] with your identity.\n<b>Action</b>  : spend [physical][physical] resources → discard this card.",
         "traits": "Condition."
     },
     {
         "code": "500735",
         "name": "Assailed by Their Own",
-        "text": "<b>When Revealed (Alter-Ego)</b>  : exhaust your identity.\n<b>When Revealed (Hero)</b>  : choose a character in play <i>(other than your identity)</i> that shares a [[trait]] with your hero. Take X damage where X is equal to the chosen character's ATK. Otherwise, exhaust your identity."
+        "text": "<b>When Revealed (Alter-Ego)</b>  : exhaust your identity.\n<b>When Revealed (Hero)</b>  : choose a character in play <i>(other than your identity)</i> that shares a [[trait]] with your hero. Take X damage where X is equal to the chosen character's ATK. Otherwise, exhaust your identity."
     },
     {
         "code": "500736",
         "name": "Swapping Roles",
-        "text": "<b>Une fois révélée</b>  : exhaust each card you control that shares a [[trait]] with your identity <i>(including your identity)</i>.\n [star] <b>Boost</b>  : exhaust each card you control that shares a [[trait]] with your identity <i>(except for your identity)</i>."
+        "text": "<b>Une fois révélée</b>  : exhaust each card you control that shares a [[trait]] with your identity <i>(including your identity)</i>.\n [star] <b>Boost</b>  : exhaust each card you control that shares a [[trait]] with your identity <i>(except for your identity)</i>."
     },
     {
         "code": "500765",
         "name": "Untrustworthiness",
-        "text": "<b>Interruption forcée</b>  : when a « <b>Boost</b> » or « <b>When Revealed</b> » ability on a [[treachery]] card would be resolved, cancel that ability. Then, deal yourself 1 facedown encounter card.\n<b>Action d'alter ego</b>  : exhaust Laura Green → discard Untrustworthiness."
+        "text": "<b>Interruption forcée</b>  : when a « <b>Boost</b> » or « <b>When Revealed</b> » ability on a [[treachery]] card would be resolved, cancel that ability. Then, deal yourself 1 facedown encounter card.\n<b>Action d'alter ego</b>  : exhaust Laura Green → discard Untrustworthiness."
     },
     {
         "code": "500766",
         "name": "Paibok",
-        "text": "Ténacité.\n[star] Paibok gets +1 SCH and +1 ATK for each [[treachery]] card attached to him.<b>\nForced Interrupt</b>  : when a [[treachery]] card would be discarded, attach it facedown to Paibok instead.\n<i>(Lyja's némésis minion.)</i>",
+        "text": "Ténacité.\n[star] Paibok gets +1 SCH and +1 ATK for each [[treachery]] card attached to him.<b>\nForced Interrupt</b>  : when a [[treachery]] card would be discarded, attach it facedown to Paibok instead.\n<i>(Lyja's némésis minion.)</i>",
         "traits": "Élite. Skrull."
     },
     {
         "code": "500767",
         "flavor": "In a battle between the Fantastic Four and her former lover Paibok, Lyja still bore feelings for the Torch and again betrayed Paibok to side with the Fantastic Four.",
         "name": "Punish the Defector",
-        "text": "<b>Une fois révélée</b>  : search the encounter deck for a [[treachery]] card and discard it. Shuffle the encounter deck."
+        "text": "<b>Une fois révélée</b>  : search the encounter deck for a [[treachery]] card and discard it. Shuffle the encounter deck."
     },
     {
         "code": "500768",
         "flavor": "« I got real bad news fer ya kid… Yer lovin' wife is a stinkin' Skrull ! ! » – Thing",
         "name": "« It's a Stinkin' Skrull ! »",
-        "text": "<b>Une fois révélée</b>  : search the encounter deck for a [[treachery]] card and discard it. <i>(Shuffle.)</i> If no [[treachery]] card was discarded this way, this card gains surge."
+        "text": "<b>Une fois révélée</b>  : search the encounter deck for a [[treachery]] card and discard it. <i>(Shuffle.)</i> If no [[treachery]] card was discarded this way, this card gains surge."
     },
     {
         "code": "500769",
         "flavor": "« What have you done to my wife ? ! How long have you been masquerading as her ? ! » – Human Torch",
         "name": "Truth Revealed",
-        "text": "<b>Une fois révélée</b>  : search your deck for all identity-specific cards, shuffle your deck and place those cards on the bottom of your deck in any order."
+        "text": "<b>Une fois révélée</b>  : search your deck for all identity-specific cards, shuffle your deck and place those cards on the bottom of your deck in any order."
     },
     {
         "code": "500770",
@@ -149,7 +149,7 @@
     {
         "code": "500782a",
         "name": "L'Avènement de l'Empire",
-        "text": "<b>Contenu</b>  : toutes les phases de Méchant (I) et (II) (phases (II) et (III) en mode expert). Les sets de rencontre Empire Skrull, Société Skrull et Standard. Un set de rencontre modulaire (Armée des Skrulls).\n<b>Mise en place</b> : créez les decks [[planète]] et Méchant (voir insert). Révélez la carte du dessus du deck Méchant. Mettez en jeu l'environnement Empire Skrull (I) en jeu (phase (II) en mode expert)."
+        "text": "<b>Contenu</b>  : toutes les phases de Méchant (I) et (II) (phases (II) et (III) en mode expert). Les sets de rencontre Empire Skrull, Société Skrull et Standard. Un set de rencontre modulaire (Armée des Skrulls).\n<b>Mise en place</b> : créez les decks [[planète]] et Méchant (voir insert). Révélez la carte du dessus du deck Méchant. Mettez en jeu l'environnement Empire Skrull (I) en jeu (phase (II) en mode expert)."
     },
     {
         "code": "500782b",
@@ -196,17 +196,17 @@
     {
         "code": "500786",
         "name": "Empire Skrull",
-        "text": "<i>Incitez à la Rebellion</i> — <b>Action de héros</b> : choisissez : soit vous inclinez votre héros, soit vous dépensez 2 ressources de n'importe quel type → choisissez 1 environnement [[planète]] en jeu. Jusqu'à la fin du round, la carte choisie perd le texte imprimé dans sa boîte de texte. (Limite d'une fois par tour et par joueur.)"
+        "text": "<i>Incitez à la Rebellion</i> — <b>Action de héros</b> : choisissez : soit vous inclinez votre héros, soit vous dépensez 2 ressources de n'importe quel type → choisissez 1 environnement [[planète]] en jeu. Jusqu'à la fin du round, la carte choisie perd le texte imprimé dans sa boîte de texte. (Limite d'une fois par tour et par joueur.)"
     },
     {
         "code": "500787",
         "name": "Empire Skrull",
-        "text": "<b>Une fois révélée</b> : en mode Standard, révélez au hasard une carte méchant (II) du deck Méchant. Mettez de côté chaque carte Coup d'État du deck Rencontre ou de la pile de défausse Rencontre.\n<i>Incitez à la Rebellion</i> — <b>Action de héros</b> : choisissez : soit vous inclinez votre héros, soit vous dépensez 2 ressources de n'importe quel type → choisissez 1 environnement [[planète]] en jeu. Jusqu'à la fin du round, la carte choisie perd le texte imprimé dans sa boîte de texte. (Limite d'une fois par tour et par joueur.)"
+        "text": "<b>Une fois révélée</b> : en mode Standard, révélez au hasard une carte méchant (II) du deck Méchant. Mettez de côté chaque carte Coup d'État du deck Rencontre ou de la pile de défausse Rencontre.\n<i>Incitez à la Rebellion</i> — <b>Action de héros</b> : choisissez : soit vous inclinez votre héros, soit vous dépensez 2 ressources de n'importe quel type → choisissez 1 environnement [[planète]] en jeu. Jusqu'à la fin du round, la carte choisie perd le texte imprimé dans sa boîte de texte. (Limite d'une fois par tour et par joueur.)"
     },
     {
         "code": "500788",
         "name": "Empire Skrull",
-        "text": "<b>Une fois révélée</b> : révélez au hasard une carte méchant (III) du deck Méchant. Mettez de côté chaque carte Coup d'État du deck Rencontre ou de la pile de défausse Rencontre.\n<i>Incitez à la Rebellion</i> — <b>Action de héros</b> : choisissez : soit vous inclinez votre héros, soit vous dépensez 2 ressources de n'importe quel type → choisissez 1 environnement [[planète]] en jeu. Jusqu'à la fin du round, la carte choisie perd le texte imprimé dans sa boîte de texte. (Limite d'une fois par tour et par joueur.)"
+        "text": "<b>Une fois révélée</b> : révélez au hasard une carte méchant (III) du deck Méchant. Mettez de côté chaque carte Coup d'État du deck Rencontre ou de la pile de défausse Rencontre.\n<i>Incitez à la Rebellion</i> — <b>Action de héros</b> : choisissez : soit vous inclinez votre héros, soit vous dépensez 2 ressources de n'importe quel type → choisissez 1 environnement [[planète]] en jeu. Jusqu'à la fin du round, la carte choisie perd le texte imprimé dans sa boîte de texte. (Limite d'une fois par tour et par joueur.)"
     },
     {
         "code": "500789",
@@ -408,7 +408,7 @@
     {
         "code": "500820a",
         "name": "À la Recherche de l'Héritier",
-        "text": "<b>Contenu</b>  : super-Skrull I et Super-Skrull II (Super-Skrull II et Super-Skrull III en mode Expert). Super-Skrull et set de Rencontre Standard. Deux sets de Rencontre modulaires (Armée des Skrulls et Guerre Kree-Skrull).\n<b>Mise en place</b>  : mélangez chaque attachement [[super-pouvoir]] dans le deck [[super-pouvoir]] et placez-le à côté du deck Rencontre."
+        "text": "<b>Contenu</b>  : super-Skrull I et Super-Skrull II (Super-Skrull II et Super-Skrull III en mode Expert). Super-Skrull et set de Rencontre Standard. Deux sets de Rencontre modulaires (Armée des Skrulls et Guerre Kree-Skrull).\n<b>Mise en place</b>  : mélangez chaque attachement [[super-pouvoir]] dans le deck [[super-pouvoir]] et placez-le à côté du deck Rencontre."
     },
     {
         "code": "500820b",
@@ -511,12 +511,12 @@
         "code": "500834",
         "flavor": "« Imbéciles, vous auriez dû partir pendant que vous en aviez l'occasion ! » – Super-Skrull",
         "name": "Pouvoir Décuplé",
-        "text": "<b>Une fois révélée</b> : révélez la carte du dessus du deck [[super-pouvoir]]. Si vous ne pouvez pas, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b>  : cette carte gagne +1 icône de boost (B) pour chaque attachement [[super-pouvoir]] attaché à Super-Skrull."
+        "text": "<b>Une fois révélée</b> : révélez la carte du dessus du deck [[super-pouvoir]]. Si vous ne pouvez pas, cette carte gagne Renfort.\n<hr>\n<hr>[star] <b>Boost</b>  : cette carte gagne +1 icône de boost (B) pour chaque attachement [[super-pouvoir]] attaché à Super-Skrull."
     },
     {
         "code": "500835",
         "name": "Menace Protéiforme",
-        "text": "<b>Une fois révélée</b>  : si Super-Skrull a l'un des attachements [[super-pouvoir]] suivants :\n• Pyrokinésie - Subissez 3 dégâts indirects.\n• Mimétisme rocheux - Donnez à Super-Skrull une carte d'état Tenace.\n• Flexibilité - Défaussez 1 carte de votre main.\n• Invisibilité - Placez 2 menaces sur la manigance principale."
+        "text": "<b>Une fois révélée</b>  : si Super-Skrull a l'un des attachements [[super-pouvoir]] suivants :\n• Pyrokinésie - Subissez 3 dégâts indirects.\n• Mimétisme rocheux - Donnez à Super-Skrull une carte d'état Tenace.\n• Flexibilité - Défaussez 1 carte de votre main.\n• Invisibilité - Placez 2 menaces sur la manigance principale."
     },
     {
         "code": "500836",
@@ -571,7 +571,7 @@
         "code": "500844a",
         "flavor": "« Paibok le Power Skrull. Tous les pouvoirs de certains X-Men. Pas leur sens moral. »",
         "name": "Bio-ingénierie du Power Skrull",
-        "text": "<b>Contenu</b>  : paibok (I) et Paibok (II) (Paibok (II) et Paibok (III) en mode Expert). Les sets de rencontre Paibok et Standard. Un set de rencontre modulaire (Nouveaux Revengers).\n<b>Mise en place</b> : placez 1 jeton Maîtrise sur Paibok."
+        "text": "<b>Contenu</b>  : paibok (I) et Paibok (II) (Paibok (II) et Paibok (III) en mode Expert). Les sets de rencontre Paibok et Standard. Un set de rencontre modulaire (Nouveaux Revengers).\n<b>Mise en place</b> : placez 1 jeton Maîtrise sur Paibok."
     },
     {
         "code": "500844b",
@@ -672,12 +672,12 @@
         "code": "500858",
         "flavor": "« Nous avons conclu une alliance stratégique dans le but précis de détruire nos ennemis communs, les Quatre Fantastiques. » – Paibok",
         "name": "Manipulation du Conseil",
-        "text": "<b>Une fois révélée</b>  : paibok manigance. Si vous êtes sonné ou désorienté, cette carte gagne Renfort."
+        "text": "<b>Une fois révélée</b>  : paibok manigance. Si vous êtes sonné ou désorienté, cette carte gagne Renfort."
     },
     {
         "code": "500859",
         "name": "Devenir Impitoyable",
-        "text": "<b>Une fois révélée (alter ego)</b> : résolvez la capacité « Boost » de chaque attachement en jeu qui appartient au set de rencontre Paibok.\n<b>Une fois révélée (héros)</b>  : paibok vous attaque. Donnez-lui 1 carte de boost supplémentaire si vous êtes sonné ou désorienté."
+        "text": "<b>Une fois révélée (alter ego)</b> : résolvez la capacité « Boost » de chaque attachement en jeu qui appartient au set de rencontre Paibok.\n<b>Une fois révélée (héros)</b>  : paibok vous attaque. Donnez-lui 1 carte de boost supplémentaire si vous êtes sonné ou désorienté."
     },
     {
         "code": "500860",
@@ -784,7 +784,7 @@
     {
         "code": "500873a",
         "name": "Protéger le Panthéon",
-        "text": "<b>Contenu</b>  : kly'bn (I) et Kly'bn (II). (Kly'bn (II) et Kly'bn (III) à la place en mode Expert). Sets de Rencontre Panthéon Skrull, Secte Dard'van et Standard. Un set de rencontre modulaire (Société Skrull).\n<b>Mise en place</b> : mettez de côté l'environnement Panthéon Skrull, hors jeu."
+        "text": "<b>Contenu</b>  : kly'bn (I) et Kly'bn (II). (Kly'bn (II) et Kly'bn (III) à la place en mode Expert). Sets de Rencontre Panthéon Skrull, Secte Dard'van et Standard. Un set de rencontre modulaire (Société Skrull).\n<b>Mise en place</b> : mettez de côté l'environnement Panthéon Skrull, hors jeu."
     },
     {
         "code": "500873b",
@@ -914,7 +914,7 @@
     {
         "code": "500890a",
         "name": "Spider-Woman (Veranke)",
-        "text": "Spider-Woman ne peut pas subir de dégâts.\n[star] <b>Réponse forcée</b> : après que Spider-Woman vous a attaqué, placez 1 jeton Suspicion sur l'environnement « En Qui Avez Vous Confiance ? ».\n<i>Vous êtes un Skrull !</i> — <b>Action de héros</b> : inclinez un héros et dépensez 1[per_hero] ressource de n'importe quel type → retournez Spider-Woman (Les joueurs peuvent payer collectivement les coûts de cette  carte.)",
+        "text": "Spider-Woman ne peut pas subir de dégâts.\n[star] <b>Réponse forcée</b> : après que Spider-Woman vous a attaqué, placez 1 jeton Suspicion sur l'environnement « En Qui Avez Vous Confiance ? ».\n<i>Vous êtes un Skrull !</i> — <b>Action de héros</b> : inclinez un héros et dépensez 1[per_hero] ressource de n'importe quel type → retournez Spider-Woman (Les joueurs peuvent payer collectivement les coûts de cette  carte.)",
         "traits": "Camouflé. Skrull."
     },
     {
@@ -927,7 +927,7 @@
     {
         "code": "500891a",
         "name": "Spider-Woman (Veranke)",
-        "text": "Spider-Woman ne peut pas subir de dégâts.\n[star] <b>Réponse forcée</b> : après que Spider-Woman vous a attaqué, placez 1 jeton Suspicion sur l'environnement « En Qui Avez Vous Confiance ? ».\n<i>Vous êtes un Skrull !</i> — <b>Action de héros</b> : inclinez un héros et dépensez 1[per_hero] ressource de n'importe quel type → retournez Spider-Woman (Les joueurs peuvent payer collectivement les coûts de cette  carte.)",
+        "text": "Spider-Woman ne peut pas subir de dégâts.\n[star] <b>Réponse forcée</b> : après que Spider-Woman vous a attaqué, placez 1 jeton Suspicion sur l'environnement « En Qui Avez Vous Confiance ? ».\n<i>Vous êtes un Skrull !</i> — <b>Action de héros</b> : inclinez un héros et dépensez 1[per_hero] ressource de n'importe quel type → retournez Spider-Woman (Les joueurs peuvent payer collectivement les coûts de cette  carte.)",
         "traits": "Camouflé. Skrull."
     },
     {
@@ -940,7 +940,7 @@
     {
         "code": "500892a",
         "name": "L'Infiltration a Commencé",
-        "text": "<b>Contenu</b>  : spider-Woman (I) et Spider-Woman (II) (Spider-Woman (II) et Spider-Woman (III) en mode Expert). Les sets de rencontre Invasion Secrète et Standard. Un set de rencontre modulaire (L'Armée des Skrulls).\n<b>Mise en place</b> : constituez le deck [[imposteur]] et placez-le à côté du deck Rencontre (voir livret d'instruction). Mettez en jeu l'environnement « En Qui Avez Vous Confiance ? »."
+        "text": "<b>Contenu</b>  : spider-Woman (I) et Spider-Woman (II) (Spider-Woman (II) et Spider-Woman (III) en mode Expert). Les sets de rencontre Invasion Secrète et Standard. Un set de rencontre modulaire (L'Armée des Skrulls).\n<b>Mise en place</b> : constituez le deck [[imposteur]] et placez-le à côté du deck Rencontre (voir livret d'instruction). Mettez en jeu l'environnement « En Qui Avez Vous Confiance ? »."
     },
     {
         "code": "500892b",
@@ -1012,7 +1012,7 @@
     {
         "code": "500903",
         "name": "Camouflage",
-        "text": "<b>Une fois révélée</b> (Reine Veranke) : retournez la Reine Veranke. Retirez 3 jetons Suspicion de « En Qui Avez Vous Confiance ? ».\n<b>Une fois révélée</b> (Spider Woman)  : spider-Woman manigance.\n<hr>\n<hr>[star] <b>Boost</b> : après la fin de cette activation, retournez la Reine Veranke."
+        "text": "<b>Une fois révélée</b> (Reine Veranke) : retournez la Reine Veranke. Retirez 3 jetons Suspicion de « En Qui Avez Vous Confiance ? ».\n<b>Une fois révélée</b> (Spider Woman)  : spider-Woman manigance.\n<hr>\n<hr>[star] <b>Boost</b> : après la fin de cette activation, retournez la Reine Veranke."
     },
     {
         "code": "500904",
@@ -1462,7 +1462,7 @@
         "code": "500953",
         "flavor": "« Damnation. J'oublie toujours à quel point vous êtes fragiles. » – Xavin",
         "name": "Implosion Nova",
-        "text": "<b>Une fois révélée</b>  : infligez 2[per_hero] dégâts indirects parmi les joueurs."
+        "text": "<b>Une fois révélée</b>  : infligez 2[per_hero] dégâts indirects parmi les joueurs."
     },
     {
         "code": "500954",

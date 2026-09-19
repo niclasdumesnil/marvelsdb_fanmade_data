@@ -203,7 +203,7 @@
         "code": "56081",
         "flavor": "« Rends-nous un service, reste à terre ! » – Doc Samson",
         "name": "Puissants Avengers",
-        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b> Une fois révélée</b> » de chaque sbire en jeu. Si aucune capacité « <b>Une fois révélée</b> » n'a été résolue par cet effet, cette carte gagne Renfort."
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b> Une fois révélée</b> » de chaque sbire en jeu. Si aucune capacité « <b>Une fois révélée</b> » n'a été résolue par cet effet, cette carte gagne Renfort."
     },
     {
         "code": "56082",
@@ -604,7 +604,7 @@
     },
     {
         "code": "56089",
-        "flavor": "« Nous sommes tous coupables. Voilà la justice ! » – Penance",
+        "flavor": "« Nous sommes tous coupables. Voilà la justice ! » – Penance",
         "name": "La Justice Comme la Foudre",
         "text": "<b>Une fois révélée</b> : chaque sbire s'active contre le joueur avec qui il est engagé. Sinon, le leader ennemi s'active contre vous. Ne lui donnez pas de carte de boost pour cette activation."
     },
@@ -615,7 +615,7 @@
     },
     {
         "code": "56091",
-        "flavor": "« On leur a tous injecté des implants explosifs s'assurer de leur obéissance. » – Maria Hill",
+        "flavor": "« On leur a tous injecté des implants explosifs s'assurer de leur obéissance. » – Maria Hill",
         "name": "Dangereuses Recrues",
         "text": "Entrave 1[per_hero].\n<b>Interruption forcée</b> : quand un sbire est vaincu, donnez-le à un leader ennemi en tant que carte de boost face cachée."
     },
@@ -647,7 +647,7 @@
     },
     {
         "code": "56108",
-        "flavor": "« Voilà ce qui arrive lorsqu'on ne respecte pas la loi ! » – Officier du S.H.I.E.L.D.",
+        "flavor": "« Voilà ce qui arrive lorsqu'on ne respecte pas la loi ! » – Officier du S.H.I.E.L.D.",
         "name": "Ordre d'Arrestation",
         "text": "Entrave 1[per_hero].\n<b>Une fois déjouée</b> : le joueur vainqueur s'attribue le sbire [[S.H.I.E.L.D.]] le plus proche du dessus de la pile de défausse Rencontre en tant que carte Rencontre face cachée."
     },
@@ -658,7 +658,7 @@
     },
     {
         "code": "56111",
-        "flavor": "« Soyez sur vos gardes, les Avengers du Captain ont été aperçus dans cette zone la dernière fois. » – Officier du S.H.I.E.L.D.",
+        "flavor": "« Soyez sur vos gardes, les Avengers du Captain ont été aperçus dans cette zone la dernière fois. » – Officier du S.H.I.E.L.D.",
         "name": "Patrouille du S.H.I.E.L.D.",
         "text": "Entrave 1[per_hero].\nChaque sbire gagne Garde."
     },
@@ -718,7 +718,7 @@
     },
     {
         "code": "56179",
-        "flavor": "« Pendant toute ma carrière, mon travail était d'avoir un coup d'avance sur le S.H.I.E.L.D. » – Spider-Woman",
+        "flavor": "« Pendant toute ma carrière, mon travail était d'avoir un coup d'avance sur le S.H.I.E.L.D. » – Spider-Woman",
         "name": "Vol Plané Autopropulsé",
         "text": "<b>Interruption forcée</b> : quand Spider-Woman est censée subir des dégâts d'une attaque, réduisez de 1 la quantité de dégâts qu'elle subit pour chaque jeton Compétence sur Finesse."
     },
@@ -780,7 +780,7 @@
     {
         "code": "56153",
         "name": "Combattants de la Liberté",
-        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b>Boost</b> » de chaque sbire en jeu. Si aucune capacité « <b>Boost </b> » n'a été résolue par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Boost </b> » de chaque sbire engagé avec vous."
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b>Boost</b> » de chaque sbire en jeu. Si aucune capacité « <b>Boost </b> » n'a été résolue par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Boost </b> » de chaque sbire engagé avec vous."
     },
     {
         "code": "56154",
@@ -791,7 +791,7 @@
     {
         "code": "56157",
         "name": "Combattants de la Liberté",
-        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b>Boost</b> » de chaque sbire en jeu. Si aucune capacité « <b>Boost </b> » n'a été résolue par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Boost </b> » de chaque sbire engagé avec vous."
+        "text": "<b>Une fois révélée</b> : résolvez la capacité « <b>Boost</b> » de chaque sbire en jeu. Si aucune capacité « <b>Boost </b> » n'a été résolue par cet effet, cette carte gagne Renfort.\n<hr>[star] <b>Boost</b> : résolvez la capacité « <b>Boost </b> » de chaque sbire engagé avec vous."
     },
     {
         "code": "56158",
@@ -894,13 +894,13 @@
     },
     {
         "code": "56125",
-        "flavor": "« J'ai été un agent double pendant des années. Il n'y a pas grand-chose que je ne suis prête à faire pour une juste cause » – Spider-Woman",
+        "flavor": "« J'ai été un agent double pendant des années. Il n'y a pas grand-chose que je ne suis prête à faire pour une juste cause » – Spider-Woman",
         "name": "Juste Cause",
         "text": "<b>Une fois révélée</b> : le leader ennemi manigance. S'il y a plus de 1 joueur dans votre équipe, donnez une carte de boost supplémentaire au leader ennemi pour cette activation."
     },
     {
         "code": "56126",
-        "flavor": "« Cible verrouillée. Attaque engagée. » – Captain Marvel",
+        "flavor": "« Cible verrouillée. Attaque engagée. » – Captain Marvel",
         "name": "Quoi qu'il en Coûte",
         "text": "<b>Une fois révélée (alter ego)</b> : le leader ennemi attaque votre leader.\n<b>Une fois révélée (héros)</b> : le leader ennemi vous attaque."
     },
@@ -944,13 +944,13 @@
     },
     {
         "code": "56203",
-        "flavor": "« J'ai été un agent double pendant des années. Il n'y a pas grand-chose que je ne suis prête à faire pour une juste cause » – Spider-Woman",
+        "flavor": "« J'ai été un agent double pendant des années. Il n'y a pas grand-chose que je ne suis prête à faire pour une juste cause » – Spider-Woman",
         "name": "Juste Cause",
         "text": "<b>Une fois révélée</b> : le leader ennemi manigance. S'il y a plus de 1 joueur dans votre équipe, donnez une carte de boost supplémentaire au leader ennemi pour cette activation."
     },
     {
         "code": "56204",
-        "flavor": "« Cible verrouillée. Attaque engagée. » – Captain Marvel",
+        "flavor": "« Cible verrouillée. Attaque engagée. » – Captain Marvel",
         "name": "Quoi qu'il en Coûte",
         "text": "<b>Une fois révélée (alter ego)</b> : le leader ennemi attaque votre leader.\n<b>Une fois révélée (héros)</b> : le leader ennemi vous attaque."
     },

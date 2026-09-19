@@ -2,7 +2,7 @@
     {
         "code": "60001a",
         "name": "Daredevil",
-        "text": "<i>Sens Superhumain </i> — <b>Action</b> : jouez la carte du dessus du deck [[SENS]] comme si elle était dans votre main (<i>en payant ses coûts</i>).\n<b>Interruption forcée</b> : quand une amélioration [[SENS]] est censée quitter le jeu, placez-la sous le deck [[SENS]] à la place.",
+        "text": "<i>Sens Superhumain </i> — <b>Action</b> : jouez la carte du dessus du deck [[SENS]] comme si elle était dans votre main (<i>en payant ses coûts</i>).\n<b>Interruption forcée</b> : quand une amélioration [[SENS]] est censée quitter le jeu, placez-la sous le deck [[SENS]] à la place.",
         "traits": "Defender. Artiste Martial."
     },
     {
@@ -26,7 +26,7 @@
     {
         "code": "60004",
         "name": "Ouïe Augmentée",
-        "text": "Attachez cette carte à un ennemi.\n<b>Interruption de héros</b> (<i>défense</i>) : quand l'ennemi attaché attaque, défaussez cette amélioration → cet ennemi à -3 ATQ pour cette attaque. <i>(Vous devenez la cible de cette attaque.)</i>",
+        "text": "Attachez cette carte à un ennemi.\n<b>Interruption de héros</b> (<i>défense</i>) : quand l'ennemi attaché attaque, défaussez cette amélioration → cet ennemi à -3 ATQ pour cette attaque. <i>(Vous devenez la cible de cette attaque.)</i>",
         "traits": "Sens. Super-pouvoir."
     },
     {
@@ -201,15 +201,15 @@
     {
         "code": "60037a",
         "name": "Echo",
-        "text": "<i>Regarder et Apprendre </i> — <b>Réponse</b> : après qu'un joueur a joué un événement basique ou d'affinité, intercalez cet événement sous Echo depuis la pile de défausse du joueur. Ensuite, s'il y a plus de 3 cartes intercalées ici, défaussez toutes ces cartes sauf 3.",
+        "text": "<i>Regarder et Apprendre </i> — <b>Réponse</b> : après qu'un joueur a joué un événement basique ou d'affinité, intercalez cet événement sous Echo depuis la pile de défausse du joueur. Ensuite, s'il y a plus de 3 cartes intercalées ici, défaussez toutes ces cartes sauf 3.",
         "traits": "Defender. Artiste Martial."
     },
     {
         "code": "60037b",
-        "errata": "<i>Travail et Perfection </i> — <b>Interruption</b> : quand vous passez sous forme de héros, cherchez un événement basique ou d'affinité et ajoutez-le à votre main. (<i>Mélangez</i>.)\n\nManque dans votre deck dans la traduction initiale",
+        "errata": "<i>Travail et Perfection </i> — <b>Interruption</b> : quand vous passez sous forme de héros, cherchez un événement basique ou d'affinité et ajoutez-le à votre main. (<i>Mélangez</i>.)\n\nManque dans votre deck dans la traduction initiale",
         "flavor": "Maya peut reproduire tout mouvement physique dont elle est spectatrice.",
         "name": "Maya Lopez",
-        "text": "<i>Travail et Perfection </i> — <b>Interruption</b> : quand vous passez sous forme de héros, cherchez un événement basique ou d'affinité dans votre deck et ajoutez-le à votre main. (<i>Mélangez</i>.)",
+        "text": "<i>Travail et Perfection </i> — <b>Interruption</b> : quand vous passez sous forme de héros, cherchez un événement basique ou d'affinité dans votre deck et ajoutez-le à votre main. (<i>Mélangez</i>.)",
         "traits": "Civil."
     },
     {
@@ -230,17 +230,17 @@
     {
         "code": "60040a",
         "name": "Réflexes Photographiques",
-        "text": "[star] Si vous êtes sous forme de héros, vous pouvez défaussez Réflexes Photographiques de votre main pour jouer un événement intercalé sous Echo comme s'il était dans votre main. Réduisez de 2 le coût pour jouer cet événement. Vous ne pouvez pas déclencher la capacité « Regarder et Apprendre » d'Echo pour cet événement."
+        "text": "[star] Si vous êtes sous forme de héros, vous pouvez défaussez Réflexes Photographiques de votre main pour jouer un événement intercalé sous Echo comme s'il était dans votre main. Réduisez de 2 le coût pour jouer cet événement. Vous ne pouvez pas déclencher la capacité « Regarder et Apprendre » d'Echo pour cet événement."
     },
     {
         "code": "60040b",
         "name": "Réflexes Photographiques",
-        "text": "[star] Si vous êtes sous forme de héros, vous pouvez défaussez Réflexes Photographiques de votre main pour jouer un événement intercalé sous Echo comme s'il était dans votre main. Réduisez de 2 le coût pour jouer cet événement. Vous ne pouvez pas déclencher la capacité « Regarder et Apprendre » d'Echo pour cet événement."
+        "text": "[star] Si vous êtes sous forme de héros, vous pouvez défaussez Réflexes Photographiques de votre main pour jouer un événement intercalé sous Echo comme s'il était dans votre main. Réduisez de 2 le coût pour jouer cet événement. Vous ne pouvez pas déclencher la capacité « Regarder et Apprendre » d'Echo pour cet événement."
     },
     {
         "code": "60040c",
         "name": "Réflexes Photographiques",
-        "text": "[star] Si vous êtes sous forme de héros, vous pouvez défaussez Réflexes Photographiques de votre main pour jouer un événement intercalé sous Echo comme s'il était dans votre main. Réduisez de 2 le coût pour jouer cet événement. Vous ne pouvez pas déclencher la capacité « Regarder et Apprendre » d'Echo pour cet événement."
+        "text": "[star] Si vous êtes sous forme de héros, vous pouvez défaussez Réflexes Photographiques de votre main pour jouer un événement intercalé sous Echo comme s'il était dans votre main. Réduisez de 2 le coût pour jouer cet événement. Vous ne pouvez pas déclencher la capacité « Regarder et Apprendre » d'Echo pour cet événement."
     },
     {
         "code": "60041",
@@ -279,7 +279,7 @@
     {
         "code": "60046",
         "name": "Improvisation",
-        "text": "<b>Réponse de héros</b> : après que vous avez joué un événement, s'il a les traits suivants :\n• [[ATTAQUE]] — Soignez 1 dégât d'Echo.\n• [[Défense]] — Retirez 1 menace d'une manigance.\n• [[CONTRE]] — Infligez 1 dégât à un ennemi.",
+        "text": "<b>Réponse de héros</b> : après que vous avez joué un événement, s'il a les traits suivants :\n• [[ATTAQUE]] — Soignez 1 dégât d'Echo.\n• [[Défense]] — Retirez 1 menace d'une manigance.\n• [[CONTRE]] — Infligez 1 dégât à un ennemi.",
         "traits": "Compétence."
     },
     {

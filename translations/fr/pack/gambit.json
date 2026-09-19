@@ -2,13 +2,13 @@
     {
         "code": "37001a",
         "name": "Gambit",
-        "text": "<i>Charger une Carte</i> — <b>Action</b> : placez 1 jeton Charge sur cette carte. (Limite d'une fois par round.)\n<i>Lancer une Carte</i> — <b>Interruption</b> : quand vous jouez un événement [[ATTAQUE]], retirez jusqu'à 3 jetons Charge de Gambit → cet événement inflige +1 dégât pour chaque jeton retiré.",
+        "text": "<i>Charger une Carte</i> — <b>Action</b> : placez 1 jeton Charge sur cette carte. (Limite d'une fois par round.)\n<i>Lancer une Carte</i> — <b>Interruption</b> : quand vous jouez un événement [[ATTAQUE]], retirez jusqu'à 3 jetons Charge de Gambit → cet événement inflige +1 dégât pour chaque jeton retiré.",
         "traits": "Voleur. X-Men."
     },
     {
         "code": "37001b",
         "name": "Remy LeBeau",
-        "text": "<i>Voleur Hors Pair</i> — <b>Action</b> (<i>contre</i>) : inclinez Remy LeBeau et regardez les 2 cartes du dessus du deck Rencontre. Défaussez 1 de ces cartes → retirez d'une manigance un nombre de menaces égal au nombre d'icônes de boost ([boost]) sur la carte défaussée.",
+        "text": "<i>Voleur Hors Pair</i> — <b>Action</b> (<i>contre</i>) : inclinez Remy LeBeau et regardez les 2 cartes du dessus du deck Rencontre. Défaussez 1 de ces cartes → retirez d'une manigance un nombre de menaces égal au nombre d'icônes de boost ([boost]) sur la carte défaussée.",
         "traits": "Mutant. Voleur."
     },
     {

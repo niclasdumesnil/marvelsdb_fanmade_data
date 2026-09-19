@@ -153,7 +153,7 @@
     {
         "code": "61027",
         "name": "Lien Indestructible",
-        "text": "En Équipe (<i>Jessica Jones et Luke Cage</i>). 1 max par deck.\n<b>Action de héros</b> (<i>contre</i>) : retirez 3 menaces d'une manigance. Soignez un total de 3 dégâts parmi Jessica Jones et Luke Cage.",
+        "text": "En Équipe (<i>Jessica Jones et Luke Cage</i>). 1 max par deck.\n<b>Action de héros</b> (<i>contre</i>) : retirez 3 menaces d'une manigance. Soignez un total de 3 dégâts parmi Jessica Jones et Luke Cage.",
         "traits": "Contre."
     },
     {
@@ -219,13 +219,13 @@
         "code": "61001a",
         "flavor": "Ce genre de situations se terminent rarement bien.",
         "name": "Jessica Jones",
-        "text": "[star] <i>Rassembler des Preuves</i> — <b>Réponse</b> : après que vous avez utilisé un pouvoir de base, placez 1 jeton Preuve sur Alias Investigations.",
+        "text": "[star] <i>Rassembler des Preuves</i> — <b>Réponse</b> : après que vous avez utilisé un pouvoir de base, placez 1 jeton Preuve sur Alias Investigations.",
         "traits": "Defender."
     },
     {
         "code": "61001b",
         "name": "Jessica Jones",
-        "text": "<i>Mode Incognito</i> — <b>Action</b> : passez sous forme de héros. Vous ne pouvez pas repasser sous forme d'alter ego à cette phase.\n<b>Mise en place</b> : mettez en jeu le soutien Alias Investigations.",
+        "text": "<i>Mode Incognito</i> — <b>Action</b> : passez sous forme de héros. Vous ne pouvez pas repasser sous forme d'alter ego à cette phase.\n<b>Mise en place</b> : mettez en jeu le soutien Alias Investigations.",
         "traits": "Civil."
     }
 ]

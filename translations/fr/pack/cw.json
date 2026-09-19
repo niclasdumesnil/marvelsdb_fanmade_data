@@ -9,7 +9,7 @@
         "code": "56001b",
         "flavor": "« On n'a pas besoin d'être un Avenger pour protéger les autres. »",
         "name": "Greer Nelson",
-        "text": "<i>Enquête Sous Couverture</i> — <b>Action</b> : cherchez un exemplaire de Traqué dans votre deck ou votre pile de défausse et ajoutez-le à votre main. (Limite d'une fois par round.)",
+        "text": "<i>Enquête Sous Couverture</i> — <b>Action</b> : cherchez un exemplaire de Traqué dans votre deck ou votre pile de défausse et ajoutez-le à votre main. (Limite d'une fois par round.)",
         "traits": "Police."
     },
     {
@@ -107,7 +107,7 @@
     {
         "code": "56029a",
         "name": "Hulkling",
-        "text": "<i>Forme Choisie</i> — <b>Réponse forcée</b> : après qu'une amélioration [[Métamorphose]] est entrée en jeu sous votre contrôle, défaussez chaque autre amélioration [[Métamorphose]] que vous contrôlez et redressez Hulkling.",
+        "text": "<i>Forme Choisie</i> — <b>Réponse forcée</b> : après qu'une amélioration [[Métamorphose]] est entrée en jeu sous votre contrôle, défaussez chaque autre amélioration [[Métamorphose]] que vous contrôlez et redressez Hulkling.",
         "traits": "Avenger. Kree. Skrull."
     },
     {
@@ -242,9 +242,9 @@
     },
     {
         "code": "56212",
-        "flavor": "« À partir de maintenant Spider-Woman rend les coûts ! » – Spider-Woman",
+        "flavor": "« À partir de maintenant Spider-Woman rend les coûts ! » – Spider-Woman",
         "name": "Décharge d'Araignée",
-        "text": "<b>Action</b> :  votre leader Spider-Woman attaque le leader ennemi. Si vous avez dépensé une ressource [mental] pour payer cet évènement, désorientez le leader ennemi."
+        "text": "<b>Action</b> :  votre leader Spider-Woman attaque le leader ennemi. Si vous avez dépensé une ressource [mental] pour payer cet évènement, désorientez le leader ennemi."
     },
     {
         "code": "56213",
@@ -258,13 +258,13 @@
     },
     {
         "code": "56211",
-        "flavor": "« Lorsque quelqu'un s'en prend à l'un des nôtres, il en répond à chacun de nous. » – Spider-Woman",
+        "flavor": "« Lorsque quelqu'un s'en prend à l'un des nôtres, il en répond à chacun de nous. » – Spider-Woman",
         "name": "Agent Double",
         "text": "<b>Action</b> : retirez 2 menaces de la manigance principale. Placez 2 menaces sur la manigance principale de votre leader."
     },
     {
         "code": "56129",
-        "flavor": "« Steve réfléchit encore dans le passée. Ceci est le futur, que cela lui convienne ou pas. » – Iron Man",
+        "flavor": "« Steve réfléchit encore dans le passée. Ceci est le futur, que cela lui convienne ou pas. » – Iron Man",
         "name": "Le Futuriste",
         "text": "<b>Action</b> : votre leader Iron Man manigance. Ne lui donnez pas de carte de boost pour cette activation."
     },
@@ -290,7 +290,7 @@
     },
     {
         "code": "56134",
-        "flavor": "« Vous auriez dû savoir que cela riverait » – Captain Marvel",
+        "flavor": "« Vous auriez dû savoir que cela riverait » – Captain Marvel",
         "name": "Vous Avez Commencé",
         "text": "<b>Action</b> : votre leader Captain Marvel attaque le leader ennemi. Si vous avez dépensé une ressource [energy] pour payer cet évènement, désorientez le leader ennemie."
     },

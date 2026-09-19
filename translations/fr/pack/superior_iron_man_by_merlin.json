@@ -2,7 +2,7 @@
     {
         "code": "70701a",
         "name": "Superior Iron Man",
-        "text": "« <i>Quoi les autres ?</i> » — <b>Ressource</b> : infligez 1 dégât à un personnage ami → générez une ressource [wild]. (Limite d'une fois par phase.)",
+        "text": "« <i>Quoi les autres ?</i> » — <b>Ressource</b> : infligez 1 dégât à un personnage ami → générez une ressource [wild]. (Limite d'une fois par phase.)",
         "traits": "Aérien. Avenger."
     },
     {
@@ -44,7 +44,7 @@
     },
     {
         "code": "70707",
-        "flavor": "« Tony, je crains que cette idée ne soit pas compatible des droits humains. » – Pepper",
+        "flavor": "« Tony, je crains que cette idée ne soit pas compatible des droits humains. » – Pepper",
         "name": "Pepper Potts",
         "text": "<b>Action</b> : inclinez Pepper Pots → Retirez 1 menace d'une manigance en ignorant l'icône de crise ([crisis]).",
         "traits": "Individu."
@@ -58,7 +58,7 @@
     },
     {
         "code": "70709",
-        "flavor": "« Le réseau anti-crime du futur ! » – Tony",
+        "flavor": "« Le réseau anti-crime du futur ! » – Tony",
         "name": "Iron Sight",
         "text": "Utilisation (2[per_hero] jetons Observation).\n<b>Interruption</b> : quand une carte de boost est retournée face visible lors d'une activation, retirez 1 jeton Observation de Iron Sight et inclinez-la → annulez les icônes de boost de cette carte.",
         "traits": "Objet. Tech."
@@ -72,14 +72,14 @@
     },
     {
         "code": "70711",
-        "flavor": "« Il suffit ! » – Tony.",
+        "flavor": "« Il suffit ! » – Tony.",
         "name": "Rayon d'Énergie",
         "text": "<b>Action de héros</b> (<i>attaque/contre</i>) : infligez 3 dégâts à un ennemi. Retirez 2 menaces d'une manigance.",
         "traits": "Attaque. Contre. Super-Pouvoir."
     },
     {
         "code": "70714",
-        "flavor": "« Est ce que vous savez nager... » – Iron Man",
+        "flavor": "« Est ce que vous savez nager... » – Iron Man",
         "name": "Spectacular Save",
         "text": "<b>Interruption de héros</b> (<i>contre/défense</i>) : quand un personnage ami est censé subir n'importe quelle quantité de dégâts, prévenez 3 de ces dégâts. Retirez 1 menace d'une manigance.",
         "traits": "Contre. Défense. Super-Pouvoir."
