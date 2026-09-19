@@ -1,0 +1,31 @@
+[
+    {
+        "code": "207812",
+        "name": "Relâcher le Fauve",
+        "text": "<b><i>Donnez cette carte au joueur de Hank McCoy.</i></b>\nChoisissez :\n● Inclinez votre identité, ajoutez 2 menaces à la manigance principale et passez sous forme d'alter ego → retirez cette carte de la partie.\n● Infligez 2 dégâts à un personnage allié. Défaussez 1 carte de votre main. Défaussez cette obligation.."
+    },
+    {
+        "code": "207813",
+        "flavor": "Combattre le sadique et génial Fauve Noir d'un univers alternatif a repoussé Hank dans ses retranchements, aussi bien mentalement que physiquement.",
+        "name": "Être son Propre Pire Ennemi",
+        "text": "En tant que coût supplémentaire pour attaquer Le Fauve Noir, vous devez défausser 1 carte de votre main."
+    },
+    {
+        "code": "207814",
+        "flavor": "« Je ne sais pas qui vous êtes. Mais je sais que je ne vous aime pas. »",
+        "name": "Le Fauve Noir",
+        "text": "Ténacité.\n<b>Une fois révélée</b> : Le Fauve Noir s'active contre vous.\n<b>Réponse forcée</b> : après que  Le Fauve Noir s'est activé, placez 1 menace sur chaque manigance.",
+        "traits": "Génie. Mutant."
+    },
+    {
+        "code": "207815",
+        "flavor": "« Inciser les chairs, altérer du code génétique, tordre et modifier... c'est suffisant pour vous donner l'eau à la bouche n'est ce pas ? »",
+        "name": "Trouble Interne",
+        "text": "<b>Une fois révélée</b> : si Le Fauve Noir est en jeu, il s'active contre vous. Sinon, placez 2 menaces sur la manigance principale."
+    },
+    {
+        "code": "207816",
+        "name": "Trouble Externe",
+        "text": "<b>Une fois révélée</b> : Le Fauve Noir s'active contre vous. Si Le Fauve Noir n'est pas en jeu, trouvez-le et révélez-le.\n<hr>[star] <b>Boost</b> : si Le Fauve Noir est en jeu, il s'active contre vous (après cette activation)."
+    }
+]
