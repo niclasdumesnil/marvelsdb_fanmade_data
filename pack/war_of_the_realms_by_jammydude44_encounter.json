@@ -28,7 +28,7 @@
         "code": "503502",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Wow me.\"",
+        "flavor": "“Wow me.”",
         "health": 16,
         "health_per_hero": true,
         "is_unique": true,
@@ -41,7 +41,7 @@
         "set_code": "roxxon_by_jammydude44",
         "set_position": 2,
         "stage": "II",
-        "text": "<b>[star] <b>Forced Interrupt</b>:</b> Minotaur's attacks gain piercing.\n<b>[star] <b>Forced Interrupt</b>:</b> When Minotaur attacks, place 2 investment counters on Roxxon Energy. If <b>Roxxon's stock is high</b> Minotaur gets +1 for that attack.",
+        "text": "<b>[star] <b>Forced Interrupt</b>: Minotaur's attacks gain piercing.\n<b>[star] <b>Forced Interrupt</b>: When Minotaur attacks, place 2 investment counters on Roxxon Energy. If <b>Roxxon's stock is high</b> Minotaur gets +1 for that attack.",
         "traits": "Hybrid.",
         "type_code": "villain"
     },
@@ -64,7 +64,7 @@
         "set_code": "roxxon_by_jammydude44",
         "set_position": 3,
         "stage": "III",
-        "text": "<b>[star] <b>Forced Interrupt</b>:</b> Minotaur's attacks gain piercing.\n<b>[star] <b>Forced Interrupt</b>:</b> When Minotaur activates, place 2 investment counters on Roxxon Energy. If <b>Roxxon's stock is high</b>, deal Minotaur an additional boost card for that activation.",
+        "text": "<b>[star] <b>Forced Interrupt</b>: Minotaur's attacks gain piercing.\n<b>[star] <b>Forced Interrupt</b>: When Minotaur activates, place 2 investment counters on Roxxon Energy. If <b>Roxxon's stock is high</b>, deal Minotaur an additional boost card for that activation.",
         "thwart": 2,
         "traits": "Hybrid.",
         "type_code": "villain"
@@ -82,9 +82,9 @@
         "position": 4,
         "quantity": 1,
         "set_code": "roxxon_by_jammydude44",
-        "set_position": 3,
+        "set_position": 4,
         "stage": "1A",
-        "text": "<b>Contents</b>: Minotaur (I) and (II). (Minotaur (II) and (III) instead for expert mode.) Roxxon and one modular encounter set (recommended: Corporate Meddling).\n<b>Setup:</b> Set aside each Dark Council side scheme and put a random one into play. Put the Roxxon Energy environment into play. Shuffle the encounter deck.\nAdvance to 1B.",
+        "text": "<b>Contents</b>: Minotaur (I) and (II). (Minotaur (II) and (III) instead for expert mode.) Roxxon and one modular encounter set (recommended: Corporate Meddling).\n<b>Setup</b>: Set aside each Dark Council side scheme and put a random one into play. Put the Roxxon Energy environment into play. Shuffle the encounter deck.\nAdvance to 1B.",
         "type_code": "main_scheme"
     },
     {
@@ -102,9 +102,9 @@
         "position": 4,
         "quantity": 1,
         "set_code": "roxxon_by_jammydude44",
-        "set_position": 3,
+        "set_position": 4,
         "stage": "1B",
-        "text": "<b>[star] <b>Forced Response</b>:</b> After resolving step one of the villain phase, place 1[per_hero] investment counters on Roxxon Energy.",
+        "text": "<b>[star] <b>Forced Response</b>: After resolving step one of the villain phase, place 1[per_hero] investment counters on Roxxon Energy.",
         "threat": 6,
         "type_code": "main_scheme"
     },
@@ -121,7 +121,7 @@
         "position": 5,
         "quantity": 1,
         "set_code": "roxxon_by_jammydude44",
-        "set_position": 3,
+        "set_position": 5,
         "stage": "2A",
         "text": "<b>When Revealed</b>: Deal each player a facedown encounter card. If Roxxon's stock is high, deal each player 2 facedown encounter cards instead.",
         "type_code": "main_scheme"
@@ -141,9 +141,9 @@
         "position": 5,
         "quantity": 1,
         "set_code": "roxxon_by_jammydude44",
-        "set_position": 4,
+        "set_position": 5,
         "stage": "2B",
-        "text": "<b>When Revealed</b>: Put a random set-aside Dark Council side scheme into play.\n<b>[star] <b>Forced Response</b>:</b> After resolving step one of the villain phase, place 1[per_hero] investment counters on Roxxon Energy.\n<b>If this scheme is completed, the players lose the game.</b>",
+        "text": "<b>When Revealed</b>: Put a random set-aside Dark Council side scheme into play.\n<b>[star] <b>Forced Response</b>: After resolving step one of the villain phase, place 1[per_hero] investment counters on Roxxon Energy.\n<b>If this scheme is completed, the players lose the game.</b>",
         "threat": 10,
         "type_code": "main_scheme"
     },
@@ -166,7 +166,7 @@
         "scheme_hazard": null,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 6,
-        "text": "Hinder 1[per_hero].\n<b>When defeated:</b> Flip this card.",
+        "text": "Hinder 1[per_hero].\n<b>When Defeated</b>: Flip this card.",
         "type_code": "side_scheme"
     },
     {
@@ -175,7 +175,7 @@
         "code": "503506b",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"The War of the Realms can't be stopped.\"",
+        "flavor": "“The War of the Realms can't be stopped.”",
         "health": 5,
         "hidden": true,
         "is_unique": true,
@@ -210,7 +210,7 @@
         "scheme_hazard": null,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 7,
-        "text": "Hinder 1[per_hero].\n<b>When defeated:</b> Flip this card.",
+        "text": "Hinder 1[per_hero].\n<b>When Defeated</b>: Flip this card.",
         "type_code": "side_scheme"
     },
     {
@@ -254,7 +254,7 @@
         "scheme_hazard": null,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 8,
-        "text": "Hinder 1[per_hero].\n<b>When defeated:</b> Flip this card.",
+        "text": "Hinder 1[per_hero].\n<b>When Defeated</b>: Flip this card.",
         "type_code": "side_scheme"
     },
     {
@@ -263,7 +263,7 @@
         "code": "503508b",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Now bow down before Queen Sindr!\"",
+        "flavor": "“Now bow down before Queen Sindr!”",
         "health": 4,
         "hidden": true,
         "is_unique": true,
@@ -298,7 +298,7 @@
         "scheme_hazard": null,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 9,
-        "text": "Hinder 1[per_hero].\n<b>When defeated:</b> Flip this card.",
+        "text": "Hinder 1[per_hero].\n<b>When Defeated</b>: Flip this card.",
         "type_code": "side_scheme"
     },
     {
@@ -308,7 +308,7 @@
         "code": "503509b",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Algrim used to possess the power of Kurse, but no longer. Malekith robbed him of it, and gave it to me.\"",
+        "flavor": "“Algrim used to possess the power of Kurse, but no longer. Malekith robbed him of it, and gave it to me.”",
         "health": 4,
         "hidden": true,
         "is_unique": true,
@@ -344,7 +344,7 @@
         "scheme_hazard": null,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 10,
-        "text": "Hinder 1[per_hero].\n<b>When defeated:</b> Flip this card.",
+        "text": "Hinder 1[per_hero].\n<b>When Defeated</b>: Flip this card.",
         "type_code": "side_scheme"
     },
     {
@@ -388,7 +388,7 @@
         "scheme_hazard": null,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 11,
-        "text": "Hinder 1[per_hero].\n<b>When defeated:</b> Flip this card.",
+        "text": "Hinder 1[per_hero].\n<b>When Defeated</b>: Flip this card.",
         "type_code": "side_scheme"
     },
     {
@@ -397,7 +397,7 @@
         "code": "503511b",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"I am the greatest sorceress in the history of Asgard.\"",
+        "flavor": "“I am the greatest sorceress in the history of Asgard.”",
         "health": 5,
         "hidden": true,
         "is_unique": true,
@@ -488,7 +488,7 @@
         "scheme_hazard": null,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 18,
-        "text": "<b>When revealed:</b> If Roxxon's stock is high, place 2 [per_hero] threat on this scheme.\n<b>When defeated:</b> Remove 2 investment counters from Roxxon Energy.",
+        "text": "<b>When Revealed</b>: If Roxxon's stock is high, place 2 [per_hero] threat on this scheme.\n<b>When Defeated</b>: Remove 2 investment counters from Roxxon Energy.",
         "type_code": "side_scheme"
     },
     {
@@ -506,7 +506,7 @@
         "quantity": 1,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 19,
-        "text": "<b>When revealed:</b> If Roxxon's stock is high, place 2 [per_hero] threat on this scheme.\n<b>Forced Response</b>: After a player deck runs out of cards, place 3 threat on the main scheme.",
+        "text": "<b>When Revealed</b>: If Roxxon's stock is high, place 2 [per_hero] threat on this scheme.\n<b>Forced Response</b>: After a player deck runs out of cards, place 3 threat on the main scheme.",
         "type_code": "side_scheme"
     },
     {
@@ -524,7 +524,7 @@
         "scheme_hazard": 1,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 20,
-        "text": "<b>When Revealed</b>: If Roxxon's stock is high, place 2 [per_hero] threat on this scheme.\n<b>When defeated:</b> Remove 2 investment counters from Roxxon Energy.",
+        "text": "<b>When Revealed</b>: If Roxxon's stock is high, place 2 [per_hero] threat on this scheme.\n<b>When Defeated</b>: Remove 2 investment counters from Roxxon Energy.",
         "type_code": "side_scheme"
     },
     {
@@ -558,7 +558,7 @@
         "quantity": 2,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 23,
-        "text": "<b>When Revealed (Alter-Ego):</b> Minotaur schemes. Place 1 investment counter on Roxxon Energy.\n<b>When Revealed (Hero):</b> Minotaur attacks you. Place 1 investment counter on Roxxon Energy.\n<hr>\n<hr>[star] <b>Boost</b>: Place 1 investment counter on Roxxon Energy.",
+        "text": "<b>When Revealed (Alter-Ego)</b>: Minotaur schemes. Place 1 investment counter on Roxxon Energy.\n<b>When Revealed (Hero)</b>: Minotaur attacks you. Place 1 investment counter on Roxxon Energy.\n<hr>\n<hr>[star] <b>Boost</b>: Place 1 investment counter on Roxxon Energy.",
         "type_code": "treachery"
     },
     {
@@ -609,7 +609,7 @@
         "quantity": 1,
         "set_code": "roxxon_by_jammydude44",
         "set_position": 28,
-        "text": "Attach to the villain.\n<b>[star] <b>Forced Response</b>:</b> After Minotaur attacks you, place 1 threat on each side scheme. If there are no side schemes in play place 2 investment counters on Roxxon Energy instead. Then, discard Ferocious Ambition.\n* Boost: Reveal this card.",
+        "text": "Attach to the villain.\n<b>[star] <b>Forced Response</b>: After Minotaur attacks you, place 1 threat on each side scheme. If there are no side schemes in play place 2 investment counters on Roxxon Energy instead. Then, discard Ferocious Ambition.\n* Boost: Reveal this card.",
         "type_code": "attachment"
     },
     {
@@ -674,7 +674,7 @@
         "quantity": 1,
         "set_code": "corporate_meddling_by_jammydude44",
         "set_position": 4,
-        "text": "Attach to your identity.\n<b>Forced Interrupt</b>: Increase the resource cost of each [[ITEM]], [[TECH]], [[WEAPON]] or [[VEHICLE]] you play by 1.\n<b>Alter-ego <b>Action</b>:</b> Spend 2 mental resources â†' discard this card.",
+        "text": "Attach to your identity.\n<b>Forced Interrupt</b>: Increase the resource cost of each [[ITEM]], [[TECH]], [[WEAPON]] or [[VEHICLE]] you play by 1.\n<b>Alter-ego <b>Action</b>: Spend 2 mental resources â†' discard this card.",
         "traits": "Legal.",
         "type_code": "attachment"
     },
@@ -692,7 +692,7 @@
         "quantity": 1,
         "set_code": "corporate_meddling_by_jammydude44",
         "set_position": 5,
-        "text": "Attach to the villain.\n<b>Forced Response</b>: After the villain schemes, discard cards from the encounter deck until a side scheme is discarded, then reveal that side scheme. Discard this card.\n<hr>[star] <b>Boost</b>:</b> Reveal this card.",
+        "text": "Attach to the villain.\n<b>Forced Response</b>: After the villain schemes, discard cards from the encounter deck until a side scheme is discarded, then reveal that side scheme. Discard this card.\n<hr>[star] <b>Boost</b>: Reveal this card.",
         "traits": "Technique.",
         "type_code": "attachment"
     },
@@ -702,7 +702,7 @@
         "code": "503528",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Tell me why I shouldn't kill you.\"",
+        "flavor": "“Tell me why I shouldn't kill you.”",
         "health": 15,
         "health_per_hero": true,
         "is_unique": true,
@@ -779,7 +779,7 @@
         "set_code": "laufey_by_jammydude44",
         "set_position": 5,
         "stage": "1A",
-        "text": "<b>Contents</b>: Laufey (I) and Laufey (II). (Laufey (II) and Laufey (III) instead for expert mode.) Laufey and Standard encounter sets. One modular encounter set (recommended: Uncharted Territory).\n<b>Setup:</b> Create the Expedition deck (see insert) and reveal the top card of it. Put the Thor ally and King of the Frost Giants attachment into play. Put a Frost Giant Archer into play with each player. Shuffle the encounter deck. Advance to 1B.",
+        "text": "<b>Contents</b>: Laufey (I) and Laufey (II). (Laufey (II) and Laufey (III) instead for expert mode.) Laufey and Standard encounter sets. One modular encounter set (recommended: Uncharted Territory).\n<b>Setup</b>: Create the Expedition deck (see insert) and reveal the top card of it. Put the Thor ally and King of the Frost Giants attachment into play. Put a Frost Giant Archer into play with each player. Shuffle the encounter deck. Advance to 1B.",
         "type_code": "main_scheme"
     },
     {
@@ -824,7 +824,7 @@
         "code": "503534",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Thor may be key to saving not only our world, but all ten realms.\"-- Captain America",
+        "flavor": "“Thor may be key to saving not only our world, but all ten realms.” –Captain America",
         "is_unique": false,
         "name": "Blizzard",
         "octgn_id": "404e9219-abc2-44d7-9201-7c3644035034",
@@ -841,7 +841,7 @@
         "code": "503535",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"That's not a mission. Something that epic should be called a quest.\" - Spider-Man",
+        "flavor": "“That's not a mission. Something that epic should be called a quest.” –Spider-Man",
         "is_unique": false,
         "name": "Icy Passage",
         "octgn_id": "404e9219-abc2-44d7-9201-7c3644035035",
@@ -858,7 +858,7 @@
         "code": "503536",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"I say we just follow the river of Frost Giant blood.\" - Spider-Man",
+        "flavor": "“I say we just follow the river of Frost Giant blood.” –Spider-Man",
         "is_unique": false,
         "name": "Steep Incline",
         "octgn_id": "404e9219-abc2-44d7-9201-7c3644035036",
@@ -875,7 +875,7 @@
         "code": "503537",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"My ears are too cold to hear anything.\" -Spider-Man",
+        "flavor": "“My ears are too cold to hear anything.” –Spider-Man",
         "is_unique": false,
         "name": "Unending Cold",
         "octgn_id": "404e9219-abc2-44d7-9201-7c3644035037",
@@ -892,7 +892,7 @@
         "code": "503538",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"We need to keep moving.\" - Captain America",
+        "flavor": "“We need to keep moving.” –Captain America",
         "is_unique": false,
         "name": "Thick Fog",
         "octgn_id": "404e9219-abc2-44d7-9201-7c3644035038",
@@ -909,7 +909,7 @@
         "code": "503539",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Is that all you've got, Giants?\" - Thor",
+        "flavor": "“Is that all you've got, Giants?” –Thor",
         "is_unique": false,
         "name": "Deep Freeze",
         "octgn_id": "404e9219-abc2-44d7-9201-7c3644035039",
@@ -1017,7 +1017,7 @@
         "quantity": 1,
         "set_code": "laufey_by_jammydude44",
         "set_position": 21,
-        "text": "Attach to Laufey. Uses (1+[per_hero] smash counters).\n<b>[star] <b>Forced Interrupt</b>:</b> When Laufey attacks, remove 1 smash counter from this card â†' that attacks gain overkill.\n<hr>[star] <b>Boost</b>: This attack gains overkill.",
+        "text": "Attach to Laufey. Uses (1+[per_hero] smash counters).\n<b>[star] <b>Forced Interrupt</b>: When Laufey attacks, remove 1 smash counter from this card â†' that attacks gain overkill.\n<hr>[star] <b>Boost</b>: This attack gains overkill.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },
@@ -1068,7 +1068,7 @@
         "quantity": 2,
         "set_code": "laufey_by_jammydude44",
         "set_position": 24,
-        "text": "<b>When Revealed</b>: Either deal 3 damage to your identity or deal 2 damage to the Thor ally.\n<b>[star] Boost:</b> Either give this card 2 boost icons ([boost]) or deal 1 damage to the Thor ally.",
+        "text": "<b>When Revealed</b>: Either deal 3 damage to your identity or deal 2 damage to the Thor ally.\n<b>[star] Boost: </b> Either give this card 2 boost icons ([boost]) or deal 1 damage to the Thor ally.",
         "type_code": "treachery"
     },
     {
@@ -1168,7 +1168,7 @@
         "quantity": 2,
         "set_code": "uncharted_territory_by_jammydude44",
         "set_position": 1,
-        "text": "<b>When Revealed (Alter-ego):</b> Change to hero form.\n<b>When Revealed (Hero):</b> Exhaust your identity. If you cannot, this card gains surge.",
+        "text": "<b>When Revealed (Alter-Ego)</b>: Change to hero form.\n<b>When Revealed (Hero)</b>: Exhaust your identity. If you cannot, this card gains surge.",
         "type_code": "treachery"
     },
     {
@@ -1269,7 +1269,7 @@
         "set_code": "malekith_by_jammydude44",
         "set_position": 1,
         "stage": "A2",
-        "text": "<b>[star] <b>Forced Interrupt</b>:</b> Malekith gets +1 ATK for each [[MAGIC]] attachment in play.\n<b>When Revealed</b>: Search the encounter deck and discard pile for a [[MAGIC]] attachment. Reveal that card, then place 1 energy counter on it.",
+        "text": "<b>[star] <b>Forced Interrupt</b>: Malekith gets +1 ATK for each [[MAGIC]] attachment in play.\n<b>When Revealed</b>: Search the encounter deck and discard pile for a [[MAGIC]] attachment. Reveal that card, then place 1 energy counter on it.",
         "thwart": 2,
         "traits": "Dark Elf. King.",
         "type_code": "villain"
@@ -1281,7 +1281,7 @@
         "code": "503558a",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Your bleeding has scarcely begun.\"",
+        "flavor": "“Your bleeding has scarcely begun.”",
         "health": 16,
         "health_per_hero": true,
         "is_unique": true,
@@ -1318,7 +1318,7 @@
         "set_code": "malekith_by_jammydude44",
         "set_position": 2,
         "stage": "B2",
-        "text": "<b>[star] <b>Forced Interrupt</b>:</b> Malekith gets +1 ATK for each [[MAGIC]] attachment in play.\n<b>When Revealed</b>: Search the encounter deck and discard pile for two [[MAGIC]] attachments. Reveal those cards, then place 1 energy counter on each.",
+        "text": "<b>[star] <b>Forced Interrupt</b>: Malekith gets +1 ATK for each [[MAGIC]] attachment in play.\n<b>When Revealed</b>: Search the encounter deck and discard pile for two [[MAGIC]] attachments. Reveal those cards, then place 1 energy counter on each.",
         "thwart": 3,
         "traits": "Dark Elf. King.",
         "type_code": "villain"
@@ -1338,7 +1338,7 @@
         "set_code": "malekith_by_jammydude44",
         "set_position": 3,
         "stage": "1A",
-        "text": "<b>Contents</b>: Malekith (1A). (Malekith (2A) instead for expert mode.) Malekith and Standard encounter sets. One modular encounter set (recommended: Svartalfheim).\nSetup: Reveal each [[CONQUERED TERRITORY]] side scheme and put it into play. Advance to stage 1B.",
+        "text": "<b>Contents</b>: Malekith (1A). (Malekith (2A) instead for expert mode.) Malekith and Standard encounter sets. One modular encounter set (recommended: Svartalfheim).\n<b>Setup</b>: Reveal each [[CONQUERED TERRITORY]] side scheme and put it into play. Advance to stage 1B.",
         "type_code": "main_scheme"
     },
     {
@@ -1592,7 +1592,7 @@
         "code": "503571",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"There'll be no running from this fight, little bugs of Midgard.\"",
+        "flavor": "“There'll be no running from this fight, little bugs of Midgard.”",
         "is_unique": false,
         "name": "Energy Wave",
         "octgn_id": "404e9219-abc2-44d7-9201-7c3644035071",
@@ -1601,7 +1601,7 @@
         "quantity": 1,
         "set_code": "malekith_by_jammydude44",
         "set_position": 15,
-        "text": "Attach to the villain. Uses (2 energy counters).\n<b>[star] <b>Forced Interrupt</b>:</b> When Malekith attacks, remove 1 energy counter from here â†' either discard an ally from your hand or give this attack overkill.",
+        "text": "Attach to the villain. Uses (2 energy counters).\n<b>[star] <b>Forced Interrupt</b>: When Malekith attacks, remove 1 energy counter from here â†' either discard an ally from your hand or give this attack overkill.",
         "traits": "Magic.",
         "type_code": "attachment"
     },
@@ -1636,7 +1636,7 @@
         "quantity": 1,
         "set_code": "malekith_by_jammydude44",
         "set_position": 17,
-        "text": "Attach to the villain.\n<b>[star] <b>Forced Response</b>:</b> After Malekith attacks and defeats an ally, that ally's owner either discards 2 cards from their hand or removes that ally from the game.\n<b>Hero Action</b>: Spend [physical] [physical] resources → discard this card.\n<hr><b>[star] Boost:</b> Reveal this card.",
+        "text": "Attach to the villain.\n<b>[star] <b>Forced Response</b>: After Malekith attacks and defeats an ally, that ally's owner either discards 2 cards from their hand or removes that ally from the game.\n<b>Hero Action</b>: Spend [physical] [physical] resources → discard this card.\n<hr><b>[star] Boost: </b> Reveal this card.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },
@@ -1645,7 +1645,7 @@
         "code": "503574",
         "duplicate_of_name": "",
         "faction_code": "encounter",
-        "flavor": "\"Welcome to the War of the Realms, you fools.\"",
+        "flavor": "“Welcome to the War of the Realms, you fools.”",
         "is_unique": false,
         "name": "Conqueror Of The Realms",
         "octgn_id": "404e9219-abc2-44d7-9201-7c3644035074",
@@ -1688,7 +1688,7 @@
         "quantity": 2,
         "set_code": "malekith_by_jammydude44",
         "set_position": 21,
-        "text": "<b>When Revealed (Alter-Ego):</b> Place 2 threat on the main scheme. Place 1 energy counter on a [[MAGIC]] attachment.\n<b>When Revealed (Hero):</b> Take 3 damage. Place 1 energy counter on a [[MAGIC]] attachment.",
+        "text": "<b>When Revealed (Alter-Ego)</b>: Place 2 threat on the main scheme. Place 1 energy counter on a [[MAGIC]] attachment.\n<b>When Revealed (Hero)</b>: Take 3 damage. Place 1 energy counter on a [[MAGIC]] attachment.",
         "type_code": "treachery"
     },
     {
@@ -1877,7 +1877,7 @@
         "octgn_id": "404e9219-abc2-44d7-9201-7c3644035088",
         "pack_code": "war_of_the_realms_by_jammydude44",
         "position": 88,
-        "quantity": 1,
+        "quantity": 3,
         "scheme_crisis": 1,
         "set_code": "realms_campaign_by_jammydude44",
         "set_position": 7,
@@ -1952,7 +1952,7 @@
         "quantity": 4,
         "set_code": "realms_campaign_by_jammydude44",
         "set_position": 13,
-        "text": "Your hero cannot use basic powers.\n<b>Alter-Ego <b>Action</b>:</b> Take up to 2 damage â†' discard this card. If you took 2 damage, remove this card from the game instead.",
+        "text": "Your hero cannot use basic powers.\n<b>Alter-Ego <b>Action</b>: Take up to 2 damage â†' discard this card. If you took 2 damage, remove this card from the game instead.",
         "type_code": "obligation"
     }
 ]
