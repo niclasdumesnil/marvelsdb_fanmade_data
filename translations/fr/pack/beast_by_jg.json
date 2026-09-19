@@ -16,12 +16,14 @@
     {
         "code": "207802a",
         "name": "Laboratoire du Fauve",
-        "text": "Permanent. 3 cartes max. intercalées dessous.\nLe Fauve gagne le trait [[X‑Men]].\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [mental] imprimée, intercalez-le sous cette carte depuis votre pile de défausse. Puis, soignez 1 dégât de votre identité."
+        "text": "Permanent. 3 cartes max. intercalées dessous.\nLe Fauve gagne le trait [[X‑Men]].\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [mental] imprimée, intercalez-le sous cette carte depuis votre pile de défausse. Puis, soignez 1 dégât de votre identité.",
+        "traits": "Lieu."
     },
     {
         "code": "207802b",
         "name": "Laboratoire du Fauve",
-        "text": "Permanent. 3 cartes max. intercalées dessous.\nLe Fauve gagne le trait [[Avenger]].\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [mental] imprimée, intercalez-le sous cette carte depuis votre pile de défausse. Puis, soignez 1 dégât de votre identité."
+        "text": "Permanent. 3 cartes max. intercalées dessous.\nLe Fauve gagne le trait [[Avenger]].\n<b>Réponse</b> : après avoir joué un événement ayant une ressource [mental] imprimée, intercalez-le sous cette carte depuis votre pile de défausse. Puis, soignez 1 dégât de votre identité.",
+        "traits": "Lieu."
     },
     {
         "code": "207803",
@@ -33,8 +35,8 @@
     {
         "code": "207804",
         "flavor": "« Mais je croyais qu'impressionner les filles était le principal intérêt de devenir un super héros ! »",
-        "name": "« ... Étoiles et Jarretelles »",
-        "text": "<b>Action</b> (<i>contre</i>) : retirez une quantité de menace d'une manigance égale à votre valeur CTR. Si vous avez surpayé pour cette carte avec une ressource [mental], désorientez un ennemi.",
+        "name": "« ... Ça Alors ! »",
+        "text": "<b>Action</b> (<i>contre</i>) : retirez une quantité de menace d'une manigance égale à votre CTR. Si vous avez surpayé pour cette carte avec une ressource [mental], désorientez un ennemi.",
         "traits": "Contre. Super-pouvoir."
     },
     {
@@ -64,7 +66,7 @@
     },
     {
         "code": "207809",
-        "flavor": "« Oh, étoiles et jarretelles... qu'avons nous là ? »",
+        "flavor": "« Oh, ça alors... qu'avons nous là ? »",
         "name": "Analyseur Portatif",
         "text": "<b>Ressource</b> : générez une ressource [mental] pour surpayer une carte. <i>(Limite d'une fois par carte.)</i>",
         "traits": "Objet. Tech."
