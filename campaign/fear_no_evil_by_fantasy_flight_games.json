@@ -1,0 +1,131 @@
+{
+  "code": "fear_no_evil_by_fantasy_flight_games",
+  "name": "Fear No Evil",
+  "creator": "Fantasy Flight Games",
+  "type": "official",
+  "position": 15,
+  "description": "A wave of crime is washing over New York City and the public blames its heroes for it. Fear No Evil combines five interchangeable main schemes with five interchangeable UNDERLING villains &mdash; Bullseye, Electro, Hammerhead, Purple Man and Typhoid Mary &mdash; before a final showdown against the Kingpin.<br><br>Unlike other Marvel Champions campaigns the order is not fixed: before each game two unresolved scenarios progress on their own, and the players then choose which one to tackle. A scenario that progresses three times Fails and its environment penalises the rest of the campaign; a scenario that is won leaves a benefit in play instead. Once all five main schemes are Completed or Failed, Kingpin awaits.",
+  "epilogue": "<b>The Kingpin falls.</b><br>With Wilson Fisk brought down, the manufactured crime wave collapses with him. The city sees who was really pulling the strings, and Hell's Kitchen exhales &mdash; until the next night falls.",
+  "image": "fear_no_evil.jpg",
+  "visibility": "true",
+  "metadata": {
+    "layout": "fear_no_evil",
+    "trackers": [
+      "Etat des scenarios (Scenario Board)",
+      "Allies et Soutiens retires de la campagne (Allies and Persona Supports Removed from the Campaign)",
+      "Notes de Campagne (Campaign Notes)"
+    ],
+    "counters": [],
+    "checkboxes": [
+      "Confiance etablie ? (Trust Established?)",
+      "Mary vaincue ? (Mary Defeated?)"
+    ]
+  },
+  "scenarios": [
+    {
+      "position": 1,
+      "scenario_uuid": "1c158c8337fd",
+      "narrative": {
+        "title": "Scenario #1 - Protection Racket",
+        "description": "Goons are shaking down a mom-and-pop shop for protection money. Each player defends their own storefront: in this scenario every player has their own main scheme, and effects outside a play area apply to all of them at once.",
+        "introduction": "<b>Encounter deck:</b> Protection Racket, Disasters, Tracksuit Mafia, Standard, and the chosen underling villain's set.<ul><li>Each player chooses a single Protection Racket main scheme (at random in expert mode) and places it in their play area on its 1B side. Set the unused main schemes aside.</li><li><b>Campaign setup:</b> place 1 threat (2 in expert mode) on each main scheme for each check mark beside &laquo;&nbsp;Protection Racket&nbsp;&raquo; in the campaign log.</li></ul><ul><li>Gather the five campaign environments (60205&ndash;60209) and remove each one matching a Completed or Failed scenario. Shuffle the rest and draw two at random (draw the last one if only one remains).</li><li>Progress each scenario matching a drawn environment by marking its first unmarked box. If only one environment was drawn, mark two boxes. Three marks = that scenario has Failed.</li><li>Choose any scenario that is neither Completed nor Failed. Once all five are resolved, the players must take on Kingpin.</li><li>Determine the underling villain: keep the one already recorded for this scenario; otherwise on a first playthrough take the first unused villain in the recommended order (Hammerhead, Bullseye, Electro, then Purple Man or Typhoid Mary), or pick one at random on later playthroughs.</li><li>Remove from every deck each card recorded under &laquo;&nbsp;Allies/Supports removed from the campaign&nbsp;&raquo;, then rebuild each deck up to its minimum size.</li><li><b>Expert Campaign Only:</b> set each player's hit points to the value recorded after the previous scenario, then each player may deal themself one facedown encounter card to heal damage equal to its REC.</li><li>Put each Completed or Failed environment into play on its matching side and resolve its &laquo;&nbsp;Setup&nbsp;&raquo; ability.</li><li>If &laquo;&nbsp;Trust Established?&nbsp;&raquo; is checked and &laquo;&nbsp;Mary Defeated?&nbsp;&raquo; is not, put the Typhoid Mary campaign ally (60210A) into play under any player's control.</li></ul>",
+        "resolution": "<b>Victory:</b><ul><li>If Disturbed Psyche (60112) is in play with at least 2 threat on it, check &laquo;&nbsp;Trust Established?&nbsp;&raquo; in the campaign log.</li><li>If the Typhoid Mary/Bloody Mary ally (60210) is in the victory display, check &laquo;&nbsp;Mary Defeated?&nbsp;&raquo;.</li><li>Record the title of each unique ally and persona support removed from the game.</li><li>Check the &laquo;&nbsp;Completed&nbsp;&raquo; box for this scenario, then go back to Campaign Setup.</li></ul>",
+        "epilogue": "<b>Defeat:</b><ul><li>Go back to Campaign Setup.</li><li><b>Expert Campaign Only:</b> progress &laquo;&nbsp;Protection Racket&nbsp;&raquo; in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "60065",
+          "60076",
+          "60086",
+          "60097",
+          "60110a"
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "scenario_uuid": "deef3a642d0c",
+      "narrative": {
+        "title": "Scenario #2 - The Raft Breakout",
+        "description": "Someone has breached the Raft with a master key and is turning its inmates loose. The villain's boost minions are dealt straight to the players instead of being discarded.",
+        "introduction": "<b>Encounter deck:</b> The Raft Breakout, The Owl, Tombstone, Standard, and the chosen underling villain's set.<ul><li>Attach Master Key to the villain. Each player discards encounter cards until a PRISONER minion is discarded, then reveals it.</li><li><b>Campaign setup:</b> with at least one check mark beside &laquo;&nbsp;The Raft Breakout&nbsp;&raquo;, give each Prisoner minion in play a tough status card; with two check marks, also give each of them a facedown boost card.</li></ul><ul><li>Gather the five campaign environments (60205&ndash;60209) and remove each one matching a Completed or Failed scenario. Shuffle the rest and draw two at random (draw the last one if only one remains).</li><li>Progress each scenario matching a drawn environment by marking its first unmarked box. If only one environment was drawn, mark two boxes. Three marks = that scenario has Failed.</li><li>Choose any scenario that is neither Completed nor Failed. Once all five are resolved, the players must take on Kingpin.</li><li>Determine the underling villain: keep the one already recorded for this scenario; otherwise on a first playthrough take the first unused villain in the recommended order (Hammerhead, Bullseye, Electro, then Purple Man or Typhoid Mary), or pick one at random on later playthroughs.</li><li>Remove from every deck each card recorded under &laquo;&nbsp;Allies/Supports removed from the campaign&nbsp;&raquo;, then rebuild each deck up to its minimum size.</li><li><b>Expert Campaign Only:</b> set each player's hit points to the value recorded after the previous scenario, then each player may deal themself one facedown encounter card to heal damage equal to its REC.</li><li>Put each Completed or Failed environment into play on its matching side and resolve its &laquo;&nbsp;Setup&nbsp;&raquo; ability.</li><li>If &laquo;&nbsp;Trust Established?&nbsp;&raquo; is checked and &laquo;&nbsp;Mary Defeated?&nbsp;&raquo; is not, put the Typhoid Mary campaign ally (60210A) into play under any player's control.</li></ul>",
+        "resolution": "<b>Victory:</b><ul><li>If Disturbed Psyche (60112) is in play with at least 2 threat on it, check &laquo;&nbsp;Trust Established?&nbsp;&raquo; in the campaign log.</li><li>If the Typhoid Mary/Bloody Mary ally (60210) is in the victory display, check &laquo;&nbsp;Mary Defeated?&nbsp;&raquo;.</li><li>Record the title of each unique ally and persona support removed from the game.</li><li>Check the &laquo;&nbsp;Completed&nbsp;&raquo; box for this scenario, then go back to Campaign Setup.</li></ul>",
+        "epilogue": "<b>Defeat:</b><ul><li>Go back to Campaign Setup.</li><li><b>Expert Campaign Only:</b> progress &laquo;&nbsp;The Raft Breakout&nbsp;&raquo; in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "60065",
+          "60076",
+          "60086",
+          "60097",
+          "60110a"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "scenario_uuid": "2946aef4bcf8",
+      "narrative": {
+        "title": "Scenario #3 - Art Museum Heist",
+        "description": "A silent alarm at the art museum. Four Art attachments circulate between the villain and the heroes: left on the villain they accelerate the main scheme, taken by a hero they hand out status cards.",
+        "introduction": "<b>Encounter deck:</b> Art Museum Heist, Cops, The Owl, Standard, and the chosen underling villain's set.<ul><li>Find this set's 4 ART attachments, attach 1 at random to the villain and shuffle the other 3 into the encounter deck.</li><li><b>Campaign setup:</b> place 1 threat (2 in expert mode) on the main scheme for each check mark beside &laquo;&nbsp;Art Museum Heist&nbsp;&raquo; in the campaign log.</li></ul><ul><li>Gather the five campaign environments (60205&ndash;60209) and remove each one matching a Completed or Failed scenario. Shuffle the rest and draw two at random (draw the last one if only one remains).</li><li>Progress each scenario matching a drawn environment by marking its first unmarked box. If only one environment was drawn, mark two boxes. Three marks = that scenario has Failed.</li><li>Choose any scenario that is neither Completed nor Failed. Once all five are resolved, the players must take on Kingpin.</li><li>Determine the underling villain: keep the one already recorded for this scenario; otherwise on a first playthrough take the first unused villain in the recommended order (Hammerhead, Bullseye, Electro, then Purple Man or Typhoid Mary), or pick one at random on later playthroughs.</li><li>Remove from every deck each card recorded under &laquo;&nbsp;Allies/Supports removed from the campaign&nbsp;&raquo;, then rebuild each deck up to its minimum size.</li><li><b>Expert Campaign Only:</b> set each player's hit points to the value recorded after the previous scenario, then each player may deal themself one facedown encounter card to heal damage equal to its REC.</li><li>Put each Completed or Failed environment into play on its matching side and resolve its &laquo;&nbsp;Setup&nbsp;&raquo; ability.</li><li>If &laquo;&nbsp;Trust Established?&nbsp;&raquo; is checked and &laquo;&nbsp;Mary Defeated?&nbsp;&raquo; is not, put the Typhoid Mary campaign ally (60210A) into play under any player's control.</li></ul>",
+        "resolution": "<b>Victory:</b><ul><li>If Disturbed Psyche (60112) is in play with at least 2 threat on it, check &laquo;&nbsp;Trust Established?&nbsp;&raquo; in the campaign log.</li><li>If the Typhoid Mary/Bloody Mary ally (60210) is in the victory display, check &laquo;&nbsp;Mary Defeated?&nbsp;&raquo;.</li><li>Record the title of each unique ally and persona support removed from the game.</li><li>Check the &laquo;&nbsp;Completed&nbsp;&raquo; box for this scenario, then go back to Campaign Setup.</li></ul>",
+        "epilogue": "<b>Defeat:</b><ul><li>Go back to Campaign Setup.</li><li><b>Expert Campaign Only:</b> progress &laquo;&nbsp;Art Museum Heist&nbsp;&raquo; in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "60065",
+          "60076",
+          "60086",
+          "60097",
+          "60110a"
+        ]
+      }
+    },
+    {
+      "position": 4,
+      "scenario_uuid": "c090be73aa2e",
+      "narrative": {
+        "title": "Scenario #4 - The Getaway",
+        "description": "A car chase through Hell's Kitchen. Speed counters pile up on the main scheme while the Out Front / Alongside attachment decides whether your damage hits the villain or strips threat instead.",
+        "introduction": "<b>Encounter deck:</b> The Getaway, Cops, Drive, Standard, and the chosen underling villain's set.<ul><li>Place 1 speed counter on the main scheme (2 in expert mode) and attach Out Front (60129A) to the villain.</li><li><b>Campaign setup:</b> with at least one check mark beside &laquo;&nbsp;The Getaway&nbsp;&raquo;, find and reveal Jackknifed Tanker Truck; with two check marks, place 1 additional threat (2 in expert mode) on it.</li></ul><ul><li>Gather the five campaign environments (60205&ndash;60209) and remove each one matching a Completed or Failed scenario. Shuffle the rest and draw two at random (draw the last one if only one remains).</li><li>Progress each scenario matching a drawn environment by marking its first unmarked box. If only one environment was drawn, mark two boxes. Three marks = that scenario has Failed.</li><li>Choose any scenario that is neither Completed nor Failed. Once all five are resolved, the players must take on Kingpin.</li><li>Determine the underling villain: keep the one already recorded for this scenario; otherwise on a first playthrough take the first unused villain in the recommended order (Hammerhead, Bullseye, Electro, then Purple Man or Typhoid Mary), or pick one at random on later playthroughs.</li><li>Remove from every deck each card recorded under &laquo;&nbsp;Allies/Supports removed from the campaign&nbsp;&raquo;, then rebuild each deck up to its minimum size.</li><li><b>Expert Campaign Only:</b> set each player's hit points to the value recorded after the previous scenario, then each player may deal themself one facedown encounter card to heal damage equal to its REC.</li><li>Put each Completed or Failed environment into play on its matching side and resolve its &laquo;&nbsp;Setup&nbsp;&raquo; ability.</li><li>If &laquo;&nbsp;Trust Established?&nbsp;&raquo; is checked and &laquo;&nbsp;Mary Defeated?&nbsp;&raquo; is not, put the Typhoid Mary campaign ally (60210A) into play under any player's control.</li></ul>",
+        "resolution": "<b>Victory:</b><ul><li>If Disturbed Psyche (60112) is in play with at least 2 threat on it, check &laquo;&nbsp;Trust Established?&nbsp;&raquo; in the campaign log.</li><li>If the Typhoid Mary/Bloody Mary ally (60210) is in the victory display, check &laquo;&nbsp;Mary Defeated?&nbsp;&raquo;.</li><li>Record the title of each unique ally and persona support removed from the game.</li><li>Check the &laquo;&nbsp;Completed&nbsp;&raquo; box for this scenario, then go back to Campaign Setup.</li></ul>",
+        "epilogue": "<b>Defeat:</b><ul><li>Go back to Campaign Setup.</li><li><b>Expert Campaign Only:</b> progress &laquo;&nbsp;The Getaway&nbsp;&raquo; in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "60065",
+          "60076",
+          "60086",
+          "60097",
+          "60110a"
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "scenario_uuid": "f543afffb133",
+      "narrative": {
+        "title": "Scenario #5 - Stop the Presses!",
+        "description": "The Daily Bugle newsroom is under attack. Each player guards a Daily Bugle support: if one of them leaves play, the players lose the game.",
+        "introduction": "<b>Encounter deck:</b> Stop the Presses!, Tombstone, Tracksuit Mafia, Standard, and the chosen underling villain's set.<ul><li>Put the Daily Bugle environment into play. Each player puts a random DAILY BUGLE support from this set into play under their control, then remove the remaining ones from the game.</li><li><b>Campaign setup:</b> remove 1 stamina counter from each Daily Bugle support for each check mark beside &laquo;&nbsp;Stop the Presses!&nbsp;&raquo; in the campaign log.</li></ul><ul><li>Gather the five campaign environments (60205&ndash;60209) and remove each one matching a Completed or Failed scenario. Shuffle the rest and draw two at random (draw the last one if only one remains).</li><li>Progress each scenario matching a drawn environment by marking its first unmarked box. If only one environment was drawn, mark two boxes. Three marks = that scenario has Failed.</li><li>Choose any scenario that is neither Completed nor Failed. Once all five are resolved, the players must take on Kingpin.</li><li>Determine the underling villain: keep the one already recorded for this scenario; otherwise on a first playthrough take the first unused villain in the recommended order (Hammerhead, Bullseye, Electro, then Purple Man or Typhoid Mary), or pick one at random on later playthroughs.</li><li>Remove from every deck each card recorded under &laquo;&nbsp;Allies/Supports removed from the campaign&nbsp;&raquo;, then rebuild each deck up to its minimum size.</li><li><b>Expert Campaign Only:</b> set each player's hit points to the value recorded after the previous scenario, then each player may deal themself one facedown encounter card to heal damage equal to its REC.</li><li>Put each Completed or Failed environment into play on its matching side and resolve its &laquo;&nbsp;Setup&nbsp;&raquo; ability.</li><li>If &laquo;&nbsp;Trust Established?&nbsp;&raquo; is checked and &laquo;&nbsp;Mary Defeated?&nbsp;&raquo; is not, put the Typhoid Mary campaign ally (60210A) into play under any player's control.</li></ul>",
+        "resolution": "<b>Victory:</b><ul><li>If Disturbed Psyche (60112) is in play with at least 2 threat on it, check &laquo;&nbsp;Trust Established?&nbsp;&raquo; in the campaign log.</li><li>If the Typhoid Mary/Bloody Mary ally (60210) is in the victory display, check &laquo;&nbsp;Mary Defeated?&nbsp;&raquo;.</li><li>Record the title of each unique ally and persona support removed from the game.</li><li>Check the &laquo;&nbsp;Completed&nbsp;&raquo; box for this scenario, then go back to Campaign Setup.</li></ul>",
+        "epilogue": "<b>Defeat:</b><ul><li>Go back to Campaign Setup.</li><li><b>Expert Campaign Only:</b> progress &laquo;&nbsp;Stop the Presses!&nbsp;&raquo; in the campaign log.</li></ul>",
+        "illustration_codes": [
+          "60065",
+          "60076",
+          "60086",
+          "60097",
+          "60110a"
+        ]
+      }
+    },
+    {
+      "position": 6,
+      "scenario_uuid": "81fafc59af40",
+      "narrative": {
+        "title": "Scenario #6 - Kingpin",
+        "description": "The crime wave was manufactured, and the public blames the heroes for it. Kingpin stays untouchable behind the scenes until the heroes rebuild enough public support to reach him.",
+        "introduction": "<b>Villain deck:</b> Kingpin (A1) &mdash; replace with Kingpin (B1) in expert mode. <b>Main scheme deck:</b> The King's Gambit, then Endgame. <b>Encounter deck:</b> Kingpin, Tombstone and Tracksuit Mafia. This scenario does <b>not</b> use the Standard set, but still uses the Expert set in expert mode.<ul><li>Each player reveals their set-aside nemesis minion. A nemesis minion sharing a title with a character in play is removed from the game; that player instead finds an UNDERLING minion in the encounter deck and reveals it.</li><li>Kingpin cannot be damaged, stunned or confused on his &laquo;&nbsp;1&nbsp;&raquo; side and schemes instead of attacking. Each defeated minion places a support counter on Public Support, which eventually flips him to his &laquo;&nbsp;2&nbsp;&raquo; side.</li><li><b>Campaign setup:</b> with at least 3 Completed environments in play, give each minion in play a tough status card; with at least 4, find and reveal the James Wesley attachment.</li></ul><ul><li>Gather the five campaign environments (60205&ndash;60209) and remove each one matching a Completed or Failed scenario. Shuffle the rest and draw two at random (draw the last one if only one remains).</li><li>Progress each scenario matching a drawn environment by marking its first unmarked box. If only one environment was drawn, mark two boxes. Three marks = that scenario has Failed.</li><li>Choose any scenario that is neither Completed nor Failed. Once all five are resolved, the players must take on Kingpin.</li><li>Determine the underling villain: keep the one already recorded for this scenario; otherwise on a first playthrough take the first unused villain in the recommended order (Hammerhead, Bullseye, Electro, then Purple Man or Typhoid Mary), or pick one at random on later playthroughs.</li><li>Remove from every deck each card recorded under &laquo;&nbsp;Allies/Supports removed from the campaign&nbsp;&raquo;, then rebuild each deck up to its minimum size.</li><li><b>Expert Campaign Only:</b> set each player's hit points to the value recorded after the previous scenario, then each player may deal themself one facedown encounter card to heal damage equal to its REC.</li><li>Put each Completed or Failed environment into play on its matching side and resolve its &laquo;&nbsp;Setup&nbsp;&raquo; ability.</li><li>If &laquo;&nbsp;Trust Established?&nbsp;&raquo; is checked and &laquo;&nbsp;Mary Defeated?&nbsp;&raquo; is not, put the Typhoid Mary campaign ally (60210A) into play under any player's control.</li></ul>",
+        "resolution": "<b>Victory:</b><ul><li>The players take down Kingpin and win the campaign!</li><li><b>Expert Campaign Only:</b> if at least one environment is on its Completed side, choose one, flip it to its Failed side and replay the scenario. Otherwise the players lose the campaign.</li></ul>",
+        "epilogue": "<b>Defeat:</b><ul><li><b>Standard mode only:</b> replay the scenario.</li></ul>",
+        "illustration_codes": [
+          "60159a",
+          "60159b"
+        ]
+      }
+    }
+  ]
+}
