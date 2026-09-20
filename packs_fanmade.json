@@ -1557,5 +1557,22 @@
         "status": "released",
         "theme": "Marvel",
         "visibility": "false"
+    },
+    {
+        "cgdb_id": 4005,
+        "code": "encounter_pack_expansion_1_by_designhacker",
+        "confidential": "false",
+        "creator": "Designhacker",
+        "date_release": "2026-09-20",
+        "date_update": "2026-09-20",
+        "lang": "EN",
+        "name": "Encounter Pack Expansion #1",
+        "octgn_id": "1ab32ce3-c9a5-49fc-b1c1-68e314c9cec5",
+        "pack_type_code": "fm_theme",
+        "position": 4005,
+        "size": 23,
+        "status": "released",
+        "theme": "Marvel",
+        "visibility": "false"
     }
 ]

@@ -637,7 +637,7 @@
         "pack_code": "jessica_jones_by_ffg",
         "position": 36,
         "quantity": 1,
-        "text": "<b>Starting.</b> (<i>You may add this card to your hand before drawing your starting hand.</i>)\nYour hero gets +1 THW.",
+        "text": "Starting. (<i>You may add this card to your hand before drawing your starting hand.</i>)\nYour hero gets +1 THW.",
         "traits": "Condition.",
         "type_code": "upgrade"
     },
@@ -654,7 +654,7 @@
         "pack_code": "jessica_jones_by_ffg",
         "position": 37,
         "quantity": 1,
-        "text": "<b>Starting.</b> (<i>You may add this card to your hand before drawing your starting hand.</i>)\nEach ally you control gets +1 hit point.",
+        "text": "Starting. (<i>You may add this card to your hand before drawing your starting hand.</i>)\nEach ally you control gets +1 hit point.",
         "traits": "Condition.",
         "type_code": "upgrade"
     },

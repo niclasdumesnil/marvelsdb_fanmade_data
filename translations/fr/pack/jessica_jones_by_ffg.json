@@ -185,14 +185,14 @@
         "code": "61036",
         "flavor": "WHOOOSH !",
         "name": "Perception Innée",
-        "text": "<b>Départ.</b> (<i>Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.</i>)\nVotre héros gagne +1 CTR.",
+        "text": "Départ. (<i>Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.</i>)\nVotre héros gagne +1 CTR.",
         "traits": "Condition."
     },
     {
         "code": "61037",
         "flavor": "PA-PA-POW !",
         "name": "Inspiration Innée",
-        "text": "<b>Départ.</b> (<i>Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.</i>)\nChaque allié que vous contrôlez gagne +1 point de vie.",
+        "text": "Départ. (<i>Vous pouvez ajouter cette carte à votre main avant de piocher votre main de départ.</i>)\nChaque allié que vous contrôlez gagne +1 point de vie.",
         "traits": "Condition."
     },
     {

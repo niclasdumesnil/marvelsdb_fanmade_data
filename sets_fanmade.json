@@ -1966,5 +1966,20 @@
         "card_set_type_code": "nemesis",
         "code": "moondragon_by_bluehg_nemesis",
         "name": "Moondragon Nemesis"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "bob_agent_of_hydra_by_designhacker",
+        "name": "Bob, Agent Of Hydra"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "jeff_the_land_shark_by_designhacker",
+        "name": "Jeff The Land Shark"
+    },
+    {
+        "card_set_type_code": "modular",
+        "code": "climate_change_by_designhacker",
+        "name": "Climate Change"
     }
 ]
