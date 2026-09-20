@@ -9720,5 +9720,89 @@
     "visibility": false,
     "campaign_only": true,
     "scenario_id": 699
+  },
+  {
+    "villain_set_code": "protection_racket_by_ffg",
+    "title": "Protection Racket Recommended",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "disasters_by_ffg",
+      "tracksuit_mafia_by_ffg"
+    ],
+    "difficulty": 0,
+    "text": "One main scheme per player. Chosen Underling villain. Minions with bats. Disasters hit every play area.",
+    "creator": "FFG",
+    "scenario_id": 700,
+    "visibility": true
+  },
+  {
+    "villain_set_code": "the_raft_breakout_by_ffg",
+    "title": "The Raft Breakout Recommended",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "the_owl_by_ffg",
+      "tombstone_by_ffg"
+    ],
+    "difficulty": 0,
+    "text": "Chosen Underling villain. Master Key attachment turns boost minions into extra encounters. Prisoner minions.",
+    "creator": "FFG",
+    "scenario_id": 701,
+    "visibility": true
+  },
+  {
+    "villain_set_code": "art_museum_heist_by_ffg",
+    "title": "Art Museum Heist Recommended",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "cops_by_ffg",
+      "the_owl_by_ffg"
+    ],
+    "difficulty": 0,
+    "text": "Chosen Underling villain. Four Art attachments to steal back from the villain. Status cards.",
+    "creator": "FFG",
+    "scenario_id": 702,
+    "visibility": true
+  },
+  {
+    "villain_set_code": "the_getaway_by_ffg",
+    "title": "The Getaway Recommended",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "cops_by_ffg",
+      "drive_by_ffg"
+    ],
+    "difficulty": 0,
+    "text": "Chosen Underling villain. Speed counters and the Out Front / Alongside attachment: threat removal doubles as damage.",
+    "creator": "FFG",
+    "scenario_id": 703,
+    "visibility": true
+  },
+  {
+    "villain_set_code": "stop_the_presses_by_ffg",
+    "title": "Stop the Presses! Recommended",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "tombstone_by_ffg",
+      "tracksuit_mafia_by_ffg"
+    ],
+    "difficulty": 0,
+    "text": "Chosen Underling villain. Each player protects a Daily Bugle support: losing one loses the game.",
+    "creator": "FFG",
+    "scenario_id": 704,
+    "visibility": true
+  },
+  {
+    "villain_set_code": "kingpin_by_ffg",
+    "title": "Kingpin Recommended",
+    "nbmodular": 2,
+    "modular_set_codes": [
+      "tombstone_by_ffg",
+      "tracksuit_mafia_by_ffg"
+    ],
+    "difficulty": 0,
+    "text": "Final showdown. No Standard set. Untouchable villain until Public Support flips him. Heavy nemesis set interaction.",
+    "creator": "FFG",
+    "scenario_id": 705,
+    "visibility": true
   }
 ]
