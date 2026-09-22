@@ -1,5 +1,5 @@
 {
-  "_comment": "Unified formatting rules for Marvel Champions card text across projects (Nexus, MC4DB Editor, mc-services). Source of truth for card text auto-formatting, live linting, and OCR extraction prompts.",
+  "_comment": "Regles de formatage des textes de cartes Marvel Champions. REFERENCE UNIQUE : ce fichier et `keywords_dict.json` a cote de lui. Ils vivent ici parce que leurs consommateurs lisent deja ce repertoire sur disque — MC4DB Dev le lit a l'execution, l'editeur MC4DB en prend une copie a la compilation (`scripts/synchroniser-formatage.mjs`). Toute autre copie est un doublon a supprimer : c'est d'avoir laisse deux exemplaires diverger que sont nees des lignes anglaises non traduites dans des champs francais.",
   "rules": [
     {
       "id": "ability-name-emdash",
@@ -26,7 +26,7 @@
       "id": "colon-spacing-fr",
       "description": "Non-breaking space before colon and space after colon in French text",
       "pattern": "(?<!https?)(?<!\\d)(?:[ \\t\\u00A0]|&nbsp;)*:[ \\t]*([a-zA-Z0-9\\[À-ÖØ-öø-ÿ])",
-      "replacement": "\u00A0: $1",
+      "replacement": " : $1",
       "severity": "error"
     },
     {
@@ -38,110 +38,414 @@
     },
     {
       "id": "boost-line-format-fr",
-      "description": "Boost line format in French: <hr>[star] <b>Boost</b>\u00A0: ",
+      "description": "Boost line format in French: <hr>[star] <b>Boost</b> : ",
       "pattern": "^(?:\\*\\s*)?(?:\\[star\\]|\\*)*\\s*(?:<b>)?Boost(?:<\\/b>)?\\s*\\u00A0?:\\s*",
-      "replacement": "<hr>[star] <b>Boost</b>\u00A0: ",
+      "replacement": "<hr>[star] <b>Boost</b> : ",
       "severity": "warning"
     }
   ],
   "triggers": {
     "fr": [
-      { "pattern": "une\\s+fois\\s+révélée?\\s*\\(alter\\s*-?\\s*ego\\)", "replacement": "Une fois révélée (alter ego)" },
-      { "pattern": "une\\s+fois\\s+révélée?\\s*\\(héros\\)", "replacement": "Une fois révélée (héros)" },
-      { "pattern": "interruption\\s+forcée\\s*\\(héros\\)", "replacement": "Interruption forcée (héros)" },
-      { "pattern": "action\\s+de\\s+héros", "replacement": "Action de héros" },
-      { "pattern": "action\\s+d'alter\\s*-?\\s*ego", "replacement": "Action d'alter ego" },
-      { "pattern": "action\\s+forcée", "replacement": "Action forcée" },
-      { "pattern": "action\\s+de\\s+premier\\s+joueur", "replacement": "Action de premier joueur" },
-      { "pattern": "action", "replacement": "Action" },
-      { "pattern": "interruption\\s+de\\s+héros", "replacement": "Interruption de héros" },
-      { "pattern": "interruption\\s+d'alter\\s*-?\\s*ego", "replacement": "Interruption d'alter ego" },
-      { "pattern": "interruption\\s+forcée", "replacement": "Interruption forcée" },
-      { "pattern": "interruption\\s+de\\s+premier\\s+joueur", "replacement": "Interruption de premier joueur" },
-      { "pattern": "interruption", "replacement": "Interruption" },
-      { "pattern": "réponse\\s+de\\s+héros|reponse\\s+de\\s+heros", "replacement": "Réponse de héros" },
-      { "pattern": "réponse\\s+d'alter\\s*-?\\s*ego|reponse\\s+d'alter\\s*-?\\s*ego", "replacement": "Réponse d'alter ego" },
-      { "pattern": "réponse\\s+forcée|reponse\\s+forcee", "replacement": "Réponse forcée" },
-      { "pattern": "réponse\\s+de\\s+mission|reponse\\s+de\\s+mission", "replacement": "Réponse de mission" },
-      { "pattern": "réponse|reponse", "replacement": "Réponse" },
-      { "pattern": "ressource\\s+de\\s+héros|ressource\\s+de\\s+heros", "replacement": "Ressource de héros" },
-      { "pattern": "ressource\\s+d'alter\\s*-?\\s*ego", "replacement": "Ressource d'alter ego" },
-      { "pattern": "ressource", "replacement": "Ressource" },
-      { "pattern": "mise\\s+en\\s+place", "replacement": "Mise en place" },
-      { "pattern": "contenu", "replacement": "Contenu" },
-      { "pattern": "une\\s+(?:fois|vois)\\s+r[ée]v[ée]l[ée]e", "replacement": "Une fois révélée" },
-      { "pattern": "une\\s+(?:fois|vois)\\s+r[ée]v[ée]l[ée]", "replacement": "Une fois révélé" },
-      { "pattern": "une\\s+fois\\s+déjouée|une\\s+fois\\s+dejouee", "replacement": "Une fois déjouée" },
-      { "pattern": "une\\s+fois\\s+vaincue", "replacement": "Une fois vaincue" },
-      { "pattern": "une\\s+fois\\s+vaincu", "replacement": "Une fois vaincu" },
-      { "pattern": "une\\s+fois\\s+achevée|une\\s+fois\\s+achevee", "replacement": "Une fois achevée" },
-      { "pattern": "une\\s+fois\\s+achevé|une\\s+fois\\s+acheve", "replacement": "Une fois achevé" },
-      { "pattern": "spécial|special", "replacement": "Spécial" },
-      { "pattern": "boost", "replacement": "Boost" }
+      {
+        "pattern": "une\\s+fois\\s+révélée?\\s*\\(alter\\s*-?\\s*ego\\)",
+        "replacement": "Une fois révélée (alter ego)"
+      },
+      {
+        "pattern": "une\\s+fois\\s+révélée?\\s*\\(héros\\)",
+        "replacement": "Une fois révélée (héros)"
+      },
+      {
+        "pattern": "interruption\\s+forcée\\s*\\(héros\\)",
+        "replacement": "Interruption forcée (héros)"
+      },
+      {
+        "pattern": "action\\s+de\\s+héros",
+        "replacement": "Action de héros"
+      },
+      {
+        "pattern": "action\\s+d'alter\\s*-?\\s*ego",
+        "replacement": "Action d'alter ego"
+      },
+      {
+        "pattern": "action\\s+forcée",
+        "replacement": "Action forcée"
+      },
+      {
+        "pattern": "action\\s+de\\s+premier\\s+joueur",
+        "replacement": "Action de premier joueur"
+      },
+      {
+        "pattern": "action",
+        "replacement": "Action"
+      },
+      {
+        "pattern": "interruption\\s+de\\s+héros",
+        "replacement": "Interruption de héros"
+      },
+      {
+        "pattern": "interruption\\s+d'alter\\s*-?\\s*ego",
+        "replacement": "Interruption d'alter ego"
+      },
+      {
+        "pattern": "interruption\\s+forcée",
+        "replacement": "Interruption forcée"
+      },
+      {
+        "pattern": "interruption\\s+de\\s+premier\\s+joueur",
+        "replacement": "Interruption de premier joueur"
+      },
+      {
+        "pattern": "interruption",
+        "replacement": "Interruption"
+      },
+      {
+        "pattern": "réponse\\s+de\\s+héros|reponse\\s+de\\s+heros",
+        "replacement": "Réponse de héros"
+      },
+      {
+        "pattern": "réponse\\s+d'alter\\s*-?\\s*ego|reponse\\s+d'alter\\s*-?\\s*ego",
+        "replacement": "Réponse d'alter ego"
+      },
+      {
+        "pattern": "réponse\\s+forcée|reponse\\s+forcee",
+        "replacement": "Réponse forcée"
+      },
+      {
+        "pattern": "réponse\\s+de\\s+mission|reponse\\s+de\\s+mission",
+        "replacement": "Réponse de mission"
+      },
+      {
+        "pattern": "réponse|reponse",
+        "replacement": "Réponse"
+      },
+      {
+        "pattern": "ressource\\s+de\\s+héros|ressource\\s+de\\s+heros",
+        "replacement": "Ressource de héros"
+      },
+      {
+        "pattern": "ressource\\s+d'alter\\s*-?\\s*ego",
+        "replacement": "Ressource d'alter ego"
+      },
+      {
+        "pattern": "ressource",
+        "replacement": "Ressource"
+      },
+      {
+        "pattern": "mise\\s+en\\s+place",
+        "replacement": "Mise en place"
+      },
+      {
+        "pattern": "contenu",
+        "replacement": "Contenu"
+      },
+      {
+        "pattern": "une\\s+(?:fois|vois)\\s+r[ée]v[ée]l[ée]e",
+        "replacement": "Une fois révélée"
+      },
+      {
+        "pattern": "une\\s+(?:fois|vois)\\s+r[ée]v[ée]l[ée]",
+        "replacement": "Une fois révélé"
+      },
+      {
+        "pattern": "une\\s+fois\\s+déjouée|une\\s+fois\\s+dejouee",
+        "replacement": "Une fois déjouée"
+      },
+      {
+        "pattern": "une\\s+fois\\s+vaincue",
+        "replacement": "Une fois vaincue"
+      },
+      {
+        "pattern": "une\\s+fois\\s+vaincu",
+        "replacement": "Une fois vaincu"
+      },
+      {
+        "pattern": "une\\s+fois\\s+achevée|une\\s+fois\\s+achevee",
+        "replacement": "Une fois achevée"
+      },
+      {
+        "pattern": "une\\s+fois\\s+achevé|une\\s+fois\\s+acheve",
+        "replacement": "Une fois achevé"
+      },
+      {
+        "pattern": "spécial|special",
+        "replacement": "Spécial"
+      },
+      {
+        "pattern": "boost",
+        "replacement": "Boost"
+      }
     ],
     "en": [
-      { "pattern": "when\\s+revealed\\s*\\(alter\\s*-?\\s*ego\\)", "replacement": "When Revealed (Alter-Ego)" },
-      { "pattern": "when\\s+revealed\\s*\\(hero\\)", "replacement": "When Revealed (Hero)" },
-      { "pattern": "forced\\s+hero\\s+interrupt(?:ion)?", "replacement": "Forced Hero Interrupt" },
-      { "pattern": "hero\\s+action", "replacement": "Hero Action" },
-      { "pattern": "alter\\s*-?\\s*ego\\s+action", "replacement": "Alter-Ego Action" },
-      { "pattern": "forced\\s+action", "replacement": "Forced Action" },
-      { "pattern": "first\\s+player\\s+action", "replacement": "First Player Action" },
-      { "pattern": "action", "replacement": "Action" },
-      { "pattern": "hero\\s+interrupt(?:ion)?", "replacement": "Hero Interrupt" },
-      { "pattern": "alter\\s*-?\\s*ego\\s+interrupt(?:ion)?", "replacement": "Alter-Ego Interrupt" },
-      { "pattern": "forced\\s+interrupt(?:ion)?", "replacement": "Forced Interrupt" },
-      { "pattern": "first\\s+player\\s+interrupt(?:ion)?", "replacement": "First Player Interrupt" },
-      { "pattern": "interrupt(?:ion)?", "replacement": "Interrupt" },
-      { "pattern": "hero\\s+response", "replacement": "Hero Response" },
-      { "pattern": "alter\\s*-?\\s*ego\\s+response", "replacement": "Alter-Ego Response" },
-      { "pattern": "forced\\s+response", "replacement": "Forced Response" },
-      { "pattern": "mission\\s+response", "replacement": "Mission Response" },
-      { "pattern": "response", "replacement": "Response" },
-      { "pattern": "hero\\s+resource", "replacement": "Hero Resource" },
-      { "pattern": "alter\\s*-?\\s*ego\\s+resource", "replacement": "Alter-Ego Resource" },
-      { "pattern": "resource", "replacement": "Resource" },
-      { "pattern": "setup", "replacement": "Setup" },
-      { "pattern": "contents", "replacement": "Contents" },
-      { "pattern": "when\\s+revealed", "replacement": "When Revealed" },
-      { "pattern": "when\\s+defeated", "replacement": "When Defeated" },
-      { "pattern": "when\\s+completed", "replacement": "When Completed" },
-      { "pattern": "special", "replacement": "Special" },
-      { "pattern": "boost", "replacement": "Boost" }
+      {
+        "pattern": "when\\s+revealed\\s*\\(alter\\s*-?\\s*ego\\)",
+        "replacement": "When Revealed (Alter-Ego)",
+        "fr": "Une fois révélée (alter ego)"
+      },
+      {
+        "pattern": "when\\s+revealed\\s*\\(hero\\)",
+        "replacement": "When Revealed (Hero)",
+        "fr": "Une fois révélée (héros)"
+      },
+      {
+        "pattern": "forced\\s+hero\\s+interrupt(?:ion)?",
+        "replacement": "Forced Hero Interrupt",
+        "fr": "Interruption forcée (héros)"
+      },
+      {
+        "pattern": "hero\\s+action",
+        "replacement": "Hero Action",
+        "fr": "Action de héros"
+      },
+      {
+        "pattern": "alter\\s*-?\\s*ego\\s+action",
+        "replacement": "Alter-Ego Action",
+        "fr": "Action d'alter ego"
+      },
+      {
+        "pattern": "forced\\s+action",
+        "replacement": "Forced Action",
+        "fr": "Action forcée"
+      },
+      {
+        "pattern": "first\\s+player\\s+action",
+        "replacement": "First Player Action",
+        "fr": "Action de premier joueur"
+      },
+      {
+        "pattern": "action",
+        "replacement": "Action",
+        "fr": "Action"
+      },
+      {
+        "pattern": "hero\\s+interrupt(?:ion)?",
+        "replacement": "Hero Interrupt",
+        "fr": "Interruption de héros"
+      },
+      {
+        "pattern": "alter\\s*-?\\s*ego\\s+interrupt(?:ion)?",
+        "replacement": "Alter-Ego Interrupt",
+        "fr": "Interruption d'alter ego"
+      },
+      {
+        "pattern": "forced\\s+interrupt(?:ion)?",
+        "replacement": "Forced Interrupt",
+        "fr": "Interruption forcée"
+      },
+      {
+        "pattern": "first\\s+player\\s+interrupt(?:ion)?",
+        "replacement": "First Player Interrupt",
+        "fr": "Interruption de premier joueur"
+      },
+      {
+        "pattern": "interrupt(?:ion)?",
+        "replacement": "Interrupt",
+        "fr": "Interruption"
+      },
+      {
+        "pattern": "hero\\s+response",
+        "replacement": "Hero Response",
+        "fr": "Réponse de héros"
+      },
+      {
+        "pattern": "alter\\s*-?\\s*ego\\s+response",
+        "replacement": "Alter-Ego Response",
+        "fr": "Réponse d'alter ego"
+      },
+      {
+        "pattern": "forced\\s+response",
+        "replacement": "Forced Response",
+        "fr": "Réponse forcée"
+      },
+      {
+        "pattern": "mission\\s+response",
+        "replacement": "Mission Response",
+        "fr": "Réponse de mission"
+      },
+      {
+        "pattern": "response",
+        "replacement": "Response",
+        "fr": "Réponse"
+      },
+      {
+        "pattern": "hero\\s+resource",
+        "replacement": "Hero Resource",
+        "fr": "Ressource de héros"
+      },
+      {
+        "pattern": "alter\\s*-?\\s*ego\\s+resource",
+        "replacement": "Alter-Ego Resource",
+        "fr": "Ressource d'alter ego"
+      },
+      {
+        "pattern": "resource",
+        "replacement": "Resource",
+        "fr": "Ressource"
+      },
+      {
+        "pattern": "setup",
+        "replacement": "Setup",
+        "fr": "Mise en place"
+      },
+      {
+        "pattern": "contents",
+        "replacement": "Contents",
+        "fr": "Contenu"
+      },
+      {
+        "pattern": "when\\s+revealed",
+        "replacement": "When Revealed",
+        "fr": "Une fois révélée"
+      },
+      {
+        "pattern": "when\\s+defeated",
+        "replacement": "When Defeated",
+        "fr": "Une fois vaincu"
+      },
+      {
+        "pattern": "when\\s+completed",
+        "replacement": "When Completed",
+        "fr": "Une fois achevée"
+      },
+      {
+        "pattern": "special",
+        "replacement": "Special",
+        "fr": "Spécial"
+      },
+      {
+        "pattern": "boost",
+        "replacement": "Boost",
+        "fr": "Boost"
+      }
     ]
   },
   "triggerList": [
-    { "name": "Action", "cat": "Action" },
-    { "name": "Action de héros", "cat": "Action" },
-    { "name": "Action d'alter ego", "cat": "Action" },
-    { "name": "Action forcée", "cat": "Action" },
-    { "name": "Action de premier joueur", "cat": "Action" },
-    { "name": "Interruption", "cat": "Interruption" },
-    { "name": "Interruption de héros", "cat": "Interruption" },
-    { "name": "Interruption d'alter ego", "cat": "Interruption" },
-    { "name": "Interruption forcée", "cat": "Interruption" },
-    { "name": "Interruption forcée (héros)", "cat": "Interruption" },
-    { "name": "Interruption de premier joueur", "cat": "Interruption" },
-    { "name": "Réponse", "cat": "Réponse" },
-    { "name": "Réponse de héros", "cat": "Réponse" },
-    { "name": "Réponse d'alter ego", "cat": "Réponse" },
-    { "name": "Réponse forcée", "cat": "Réponse" },
-    { "name": "Réponse de mission", "cat": "Réponse" },
-    { "name": "Ressource", "cat": "Ressource" },
-    { "name": "Ressource de héros", "cat": "Ressource" },
-    { "name": "Ressource d'alter ego", "cat": "Ressource" },
-    { "name": "Mise en place", "cat": "Autre" },
-    { "name": "Une fois révélée", "cat": "Autre" },
-    { "name": "Une fois révélé", "cat": "Autre" },
-    { "name": "Une fois révélée (alter ego)", "cat": "Autre" },
-    { "name": "Une fois révélée (héros)", "cat": "Autre" },
-    { "name": "Une fois révélé (alter ego)", "cat": "Autre" },
-    { "name": "Une fois révélé (héros)", "cat": "Autre" },
-    { "name": "Une fois déjouée", "cat": "Autre" },
-    { "name": "Une fois vaincu", "cat": "Autre" },
-    { "name": "Une fois vaincue", "cat": "Autre" },
-    { "name": "Une fois achevé", "cat": "Autre" },
-    { "name": "Une fois achevée", "cat": "Autre" },
-    { "name": "Spécial", "cat": "Autre" }
+    {
+      "name": "Action",
+      "cat": "Action"
+    },
+    {
+      "name": "Action de héros",
+      "cat": "Action"
+    },
+    {
+      "name": "Action d'alter ego",
+      "cat": "Action"
+    },
+    {
+      "name": "Action forcée",
+      "cat": "Action"
+    },
+    {
+      "name": "Action de premier joueur",
+      "cat": "Action"
+    },
+    {
+      "name": "Interruption",
+      "cat": "Interruption"
+    },
+    {
+      "name": "Interruption de héros",
+      "cat": "Interruption"
+    },
+    {
+      "name": "Interruption d'alter ego",
+      "cat": "Interruption"
+    },
+    {
+      "name": "Interruption forcée",
+      "cat": "Interruption"
+    },
+    {
+      "name": "Interruption forcée (héros)",
+      "cat": "Interruption"
+    },
+    {
+      "name": "Interruption de premier joueur",
+      "cat": "Interruption"
+    },
+    {
+      "name": "Réponse",
+      "cat": "Réponse"
+    },
+    {
+      "name": "Réponse de héros",
+      "cat": "Réponse"
+    },
+    {
+      "name": "Réponse d'alter ego",
+      "cat": "Réponse"
+    },
+    {
+      "name": "Réponse forcée",
+      "cat": "Réponse"
+    },
+    {
+      "name": "Réponse de mission",
+      "cat": "Réponse"
+    },
+    {
+      "name": "Ressource",
+      "cat": "Ressource"
+    },
+    {
+      "name": "Ressource de héros",
+      "cat": "Ressource"
+    },
+    {
+      "name": "Ressource d'alter ego",
+      "cat": "Ressource"
+    },
+    {
+      "name": "Mise en place",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois révélée",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois révélé",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois révélée (alter ego)",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois révélée (héros)",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois révélé (alter ego)",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois révélé (héros)",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois déjouée",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois vaincu",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois vaincue",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois achevé",
+      "cat": "Autre"
+    },
+    {
+      "name": "Une fois achevée",
+      "cat": "Autre"
+    },
+    {
+      "name": "Spécial",
+      "cat": "Autre"
+    }
   ]
 }

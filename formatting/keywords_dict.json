@@ -1,0 +1,30 @@
+{
+  "_comment": "Mots-cles de jeu et leur forme francaise. REFERENCE UNIQUE — voir text_formatting_rules.json a cote.",
+  "alwaysCapitalized": {
+    "guard": "Garde",
+    "overkill": "Déferlement",
+    "patrol": "Patrouille",
+    "piercing": "Perçant",
+    "quickstrike": "Coup rapide",
+    "ranged": "À Distance",
+    "retaliate": "Riposte",
+    "tough": "Tenace",
+    "villainous": "Vilenie"
+  },
+  "lowercaseUnlessStart": {
+    "<b>contents</b>:": "<b>Contenu</b> :",
+    "<b>if this scheme is completed, the players lose the game.</b>": "<b>Si ce stade est achevé, les joueurs perdent la partie.</b>",
+    "<b>setup</b>:": "<b>Mise en place</b> :",
+    "alias. (<i>if you control a card with a matching subtitle, discard it and play this card for free.</i>)": "Alias (<i>Si vous contrôlez une carte avec un sous-titre correspondant, défaussez-la et jouez cette carte gratuitement.</i>)",
+    "confuse": "désorienté",
+    "find": "trouvez",
+    "hinder": "entrave",
+    "max 1 per player.": "1 max par joueur.",
+    "play under any player's control.": "Jouez cette carte sous le contrôle de n'importe quel joueur.",
+    "reckless": "téméraire",
+    "restricted": "restreint",
+    "stun": "sonné",
+    "toughness": "ténacité",
+    "uses": "utilisations"
+  }
+}
