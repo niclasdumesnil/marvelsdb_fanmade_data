@@ -88,7 +88,7 @@
     {
         "code": "504518a",
         "name": "Sasquatch",
-        "text": "<i>Stratégie</i> — <b>Réponse forcée</b> : après le début de la phase des joueurs, choisissez soit [mental], soit [physical] comme type de ressource de votre « Stratégie ».\n[star] Tant que votre type de ressource de « Stratégie » est :\n• [mental] – vous gagnez +1 CTR.\n• [physical] – vous gagnez +1 ATQ.",
+        "text": "<i>Stratégie</i> — <b>Réponse forcée</b> : après le début de la phase des joueurs, choisissez soit [mental], soit [physical] comme type de ressource de votre « Stratégie ».\n[star] Tant que votre type de ressource de « Stratégie » est :\n• [mental] – vous gagnez +1 CTR.\n• [physical] – vous gagnez +1 ATQ.",
         "traits": "Alpha Flight. Gamma."
     },
     {
@@ -100,9 +100,9 @@
     },
     {
         "code": "504520",
+        "flavor": "« Je n'ai pas de temps à perdre ici. » – Sasquatch",
         "name": "Exposition au Nord",
         "text": "<b>Action de héros</b> : choisissez jusqu'à 3 ennemis différents. Placez une carte d'état différente sur chacun d'eux.",
-        "flavor": "« Je n'ai pas de temps à perdre ici. » – Sasquatch",
         "traits": "Gamma. Tactique."
     },
     {
@@ -113,16 +113,16 @@
     },
     {
         "code": "504522",
+        "flavor": "« Squatch écrase les minuscules Canadiens ! » – Sasquatch",
         "name": "Écrasement de Squatch",
         "text": "<b>Interruption de héros</b> : quand vous utilisez un pouvoir de base, vous gagnez +6 à ce pouvoir pour cette utilisation. Si vous avez payé cette carte en n'utilisant que votre type de ressource de « Stratégie », piochez 1 carte.",
-        "flavor": "« Squatch écrase les minuscules Canadiens ! » – Sasquatch",
         "traits": "Super-pouvoir."
     },
     {
         "code": "504523",
+        "flavor": "« Je me sens très bien. Sérieusement. » – Walter Langkowski",
         "name": "Farce Imparable",
         "text": "<b>Action de héros</b> : redressez Sasquatch. Si vous avez payé cette carte en n'utilisant que votre type de ressource de « Stratégie », piochez 1 carte.",
-        "flavor": "« Je me sens très bien. Sérieusement. » – Walter Langkowski",
         "traits": "Gamma. Super-pouvoir."
     },
     {
@@ -132,52 +132,52 @@
     },
     {
         "code": "504525",
+        "flavor": "« Tu as déjà été frappé par une bombe Gamma, Jackie ? C'est tout un voyage. » – Walter Langkowski",
         "name": "Laboratoire de Walter",
         "text": "Walter Langkowski gagne +2 REC.\n<b>Ressource d'alter ego</b> : inclinez le Laboratoire de Walter → générez soit une ressource [mental], soit une ressource [physical].",
-        "flavor": "« Tu as déjà été frappé par une bombe Gamma, Jackie ? C'est tout un voyage. » – Walter Langkowski",
         "traits": "Alpha Flight. Lieu."
     },
     {
         "code": "504526",
+        "flavor": "« Tu as dit \"furieux\" ou \"poilu\" ? » – Puck",
         "name": "Fureur sans Bornes",
         "text": "Forme de héros uniquement. Sasquatch gagne +1 CTR, +1 ATQ et +1 DEF.\n<b>Réponse forcée</b> : après avoir changé de forme, défaussez cette carte.",
-        "flavor": "« Tu as dit \"furieux\" ou \"poilu\" ? » – Puck",
         "traits": "Condition. Gamma."
     },
     {
         "code": "504527",
+        "flavor": "« Fais demi-tour et recule. » – Sasquatch",
         "name": "Sujet Inamovible",
         "text": "Vous gagnez +4 points de vie. Sasquatch gagne Riposte 1.",
-        "flavor": "« Fais demi-tour et recule. » – Sasquatch",
         "traits": "Condition."
     },
     {
         "code": "504534b",
+        "flavor": "« J'ai juré de mener une vie intéressante. Je ne m'en suis pas trop mal sorti. »",
         "name": "Eugene Judd",
         "text": "<i>Longévité Accrue</i> — <b>Réponse</b> : après avoir récupéré, choisissez : soit vous redressez Eugene Judd, soit vous lui donnez une carte d'état Tenace. (Limite d'une fois par round.)",
-        "flavor": "« J'ai juré de mener une vie intéressante. Je ne m'en suis pas trop mal sorti. »",
         "traits": "Aventurier."
     },
     {
         "code": "504534a",
+        "flavor": "« Ne suis-je pas le plus chanceux des petits super-héros ? »",
         "name": "Puck",
         "text": "[star] <i>Rebondissant</i> — <b>Réponse de héros</b> : après que Puck a utilisé un pouvoir de base, redressez-le. Ensuite, il gagne -1 CTR, -1 ATQ et -1 DEF jusqu'à la fin de la phase.",
-        "flavor": "« Ne suis-je pas le plus chanceux des petits super-héros ? »",
         "traits": "Alpha Flight."
     },
     {
         "code": "504535",
+        "flavor": "« Discutons de nos options, Eugene. »",
         "name": "Sasquatch",
         "subname": "Walter Langkowski",
         "text": "<b>Action</b> : inclinez Sasquatch → Puck gagne le trait [[Aérien]] jusqu'à la fin de ce tour. Réduisez de 1 le coût de la prochaine carte [[Tactique]] ou [[Aérien]] que vous jouez ce round.",
-        "flavor": "« Discutons de nos options, Eugene. »",
         "traits": "Alpha Flight. Génie."
     },
     {
         "code": "504536",
+        "flavor": "« Tu perds un peu le fil, hein ? » – Puck",
         "name": "Boing !",
         "text": "<b>Interruption de héros</b> : quand Puck devrait subir 1 dégât ou plus, réduisez cette quantité de X. Si vous ne subissez aucun dégât de cette façon, sonnez ou désorientez un ennemi.",
-        "flavor": "« Tu perds un peu le fil, hein ? » – Puck",
         "traits": "Super-pouvoir. Tactique."
     },
     {
@@ -188,16 +188,16 @@
     },
     {
         "code": "504538",
+        "flavor": "« Je ne crois pas, non. Maintenant, au travail ! » – Puck",
         "name": "Coup d'Œil",
         "text": "<b>Interruption de héros</b> : quand Puck devrait subir jusqu'à 3 dégâts, donnez-lui une carte d'état Tenace à la place.",
-        "flavor": "« Je ne crois pas, non. Maintenant, au travail ! » – Puck",
         "traits": "Super-pouvoir. Tactique."
     },
     {
         "code": "504539",
+        "flavor": "« Petit. Rapide. Coriace. Et en plus, je suis un grand fan de hockey. » – Puck",
         "name": "Ultra Résistant",
         "text": "<b>Action de héros</b> : donnez une carte d'état Tenace à Puck. S'il est déjà tenace, il gagne +1 CTR, +1 ATQ et +1 DEF jusqu'à la fin du round à la place.",
-        "flavor": "« Petit. Rapide. Coriace. Et en plus, je suis un grand fan de hockey. » – Puck",
         "traits": "Super-pouvoir."
     },
     {
@@ -214,9 +214,9 @@
     },
     {
         "code": "504542",
+        "flavor": "L'achondroplasie d'Eugene lui cause des douleurs quotidiennes.",
         "name": "Tenir Bon",
         "text": "<b>Action de héros</b> : inclinez Tenir Bon → subissez 1 dégât. Puck gagne +1 CTR ou +1 ATQ jusqu'à la fin du round. (Limite d'une fois par round.)",
-        "flavor": "L'achondroplasie d'Eugene lui cause des douleurs quotidiennes.",
         "traits": "Condition."
     },
     {
@@ -239,31 +239,31 @@
     },
     {
         "code": "504551",
+        "flavor": "« Il y a une richesse dans la vie dont tu ne soupçonnes pas encore l'existence, Narya. Ne te refuse pas cette plénitude. »",
         "name": "Shaman",
         "subname": "Michael Twoyoungmen",
         "text": "<b>Action de héros</b> : inclinez Shaman et infligez-lui 1 dégât → piochez 1 carte.",
-        "flavor": "« Il y a une richesse dans la vie dont tu ne soupçonnes pas encore l'existence, Narya. Ne te refuse pas cette plénitude. »",
         "traits": "Alpha Flight. Mystique."
     },
     {
         "code": "504552",
+        "flavor": "« Sasquatch n'est pas le seul à posséder la force. » – Snowbird",
         "name": "Assaut Arctique",
         "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 5 dégâts à un ennemi. Résolvez gratuitement la capacité <i>« Grandes Bêtes »</i> de Snowbird. Infligez à un ennemi un nombre de dégâts égal à votre ATQ.",
-        "flavor": "« Sasquatch n'est pas le seul à posséder la force. » – Snowbird",
         "traits": "Attaque."
     },
     {
         "code": "504553",
+        "flavor": "« Vous avez commis une grave erreur. » – Snowbird",
         "name": "Élan Boréal",
         "text": "<b>Action de héros</b> (<i>contre</i>) : retirez 4 menaces d'une manigance. Résolvez gratuitement la capacité <i>« Grandes Bêtes »</i> de Snowbird. Retirez X menaces d'une manigance, X étant égal à votre CTR.",
-        "flavor": "« Vous avez commis une grave erreur. » – Snowbird",
         "traits": "Contre."
     },
     {
         "code": "504554",
+        "flavor": "« Remerciez les dieux qui voudront bien de vous que je ne vous tue pas sur-le-champ. » – Snowbird",
         "name": "Formation Fluide",
         "text": "<b>Action de héros</b> : résolvez gratuitement la capacité <i>« Grandes Bêtes »</i> de Snowbird. Piochez X cartes, X étant égal à votre CTR.",
-        "flavor": "« Remerciez les dieux qui voudront bien de vous que je ne vous tue pas sur-le-champ. » – Snowbird",
         "traits": "Mystique. Tactique."
     },
     {
@@ -274,9 +274,9 @@
     },
     {
         "code": "504556",
+        "flavor": "« C'est une belle façon de partir. » – Puck",
         "name": "Grand Nord Blanc",
         "text": "<b>Ressource de héros</b> : inclinez le Grand Nord Blanc → générez la ressource présente sur la forme de créature face visible. Si la ressource imprimée sur la carte que vous jouez est la même ressource, générez 2 ressources de ce type à la place.",
-        "flavor": "« C'est une belle façon de partir. » – Puck",
         "traits": "Lieu."
     },
     {
@@ -329,14 +329,14 @@
     {
         "code": "504570b",
         "name": "Michael Twoyoungmen",
-        "text": "<b>Mise en place</b> : cherchez le Sac de Médecine de Shaman et ajoutez-le à votre main.\n[star] <i>Homme-Médecine</i> — Les dégâts que vous soignez en utilisant votre récupération de base peuvent être répartis comme vous le souhaitez entre votre identité et 1 personnage supplémentaire.",
+        "text": "<b>Mise en place</b> : cherchez le Sac de Médecine de Shaman et ajoutez-le à votre main.\n[star] <i>Homme-Médecine</i> — Les dégâts que vous soignez en utilisant votre récupération de base peuvent être répartis comme vous le souhaitez entre votre identité et 1 personnage supplémentaire.",
         "traits": "Génie. Mystique."
     },
     {
         "code": "504570a",
+        "flavor": "Une méditation profonde sera requise pour comprendre cela pleinement.",
         "name": "Shaman",
         "text": "<i>Maîtrise Mystique</i> — <b>Action de héros</b> : inclinez Shaman → piochez 1 carte.",
-        "flavor": "Une méditation profonde sera requise pour comprendre cela pleinement.",
         "traits": "Alpha Flight. Mystique."
     },
     {
@@ -348,30 +348,30 @@
     },
     {
         "code": "504572",
+        "flavor": "« La synchronicité est une composante majeure de la magie. » – Shaman",
         "name": "Forme Astrale",
         "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand un ennemi devrait infliger des dégâts à Shaman, désorientez cet ennemi à la place.",
-        "flavor": "« La synchronicité est une composante majeure de la magie. » – Shaman",
         "traits": "Défense. Sort."
     },
     {
         "code": "504573",
+        "flavor": "« Grand Esprit, guide-moi ! » – Shaman",
         "name": "Communier",
         "text": "<b>Action de héros</b> : redressez une carte [[Mystique]].",
-        "flavor": "« Grand Esprit, guide-moi ! » – Shaman",
         "traits": "Sort."
     },
     {
         "code": "504574",
+        "flavor": "« Au fond de ton cœur, tu sais que c'est mal. » – Shaman",
         "name": "Enchevêtrement",
         "text": "<b>Action de héros</b> (<i>attaque</i>) : sonnez un ennemi et infligez-lui 3 dégâts. Si un sbire a été sonné de cette façon, redressez Shaman.",
-        "flavor": "« Au fond de ton cœur, tu sais que c'est mal. » – Shaman",
         "traits": "Attaque. Sort."
     },
     {
         "code": "504575",
+        "flavor": "« L'âme, elle aussi, peut être guérie. » – Shaman",
         "name": "Guérison Mystique",
         "text": "<b>Action de héros</b> : soignez 1 dégât et retirez une carte d'état d'un personnage. Si une carte d'état a été retirée de cette façon, redressez Shaman.",
-        "flavor": "« L'âme, elle aussi, peut être guérie. » – Shaman",
         "traits": "Sort."
     },
     {
@@ -401,7 +401,7 @@
         "code": "504580",
         "name": "Bâton des Esprits",
         "text": "<b>Action de héros</b> : inclinez le Bâton des Esprits → placez un jeton Esprit sur une carte (jusqu'à un maximum de 2 par carte).\n<b>Interruption</b> : quand vous utilisez un pouvoir de base contre une carte avec X jetons Esprit sur elle, vous gagnez +X à ce pouvoir pour cette utilisation.",
-        "traits": "Arme. Mystique."
+        "traits": "Mystique. Arme."
     },
     {
         "code": "504587b",
@@ -430,23 +430,23 @@
     },
     {
         "code": "504590",
+        "flavor": "« Tiens bon, Mac ! J'arrive tout de suite. » – Heather Hudson",
         "name": "Amour Patriotique",
         "text": "<b>Action</b> : redressez votre identité. Ensuite, si vous êtes sous forme de héros, vous pouvez placer 1 jeton Charge sur [[Guardian]] ou [[Vindicator]].",
-        "flavor": "« Tiens bon, Mac ! J'arrive tout de suite. » – Heather Hudson",
         "traits": "Condition."
     },
     {
         "code": "504591",
+        "flavor": "« Tout va bien, je te tiens. » – Vindicator",
         "name": "Servir et Protéger",
         "text": "<b>Interruption de héros</b> : quand vous défendez, résolvez l'« Action de héros » de cette carte et soignez 2 dégâts de votre identité.\n<b>Action de héros</b> (<i>contre</i>) : retirez 4 menaces d'une manigance.",
-        "flavor": "« Tout va bien, je te tiens. » – Vindicator",
         "traits": "Contre. Super-pouvoir."
     },
     {
         "code": "504592",
+        "flavor": "« Surprise, abruti ! » – Vindicator",
         "name": "Décharge Inattendue",
         "text": "<b>Interruption de héros</b> (<i>attaque</i>) : quand vous vous inclinez pour utiliser un pouvoir de base, infligez 4 dégâts à un ennemi. Si c'est durant la phase du méchant, désorientez le méchant.",
-        "flavor": "« Surprise, abruti ! » – Vindicator",
         "traits": "Attaque. Super-pouvoir."
     },
     {
@@ -465,7 +465,7 @@
         "code": "504595",
         "name": "Rayons Concussifs",
         "text": "<b>Action de héros</b> : inclinez les Rayons Concussifs et retirez jusqu'à 2 jetons Charge de Vindicator → vous gagnez Riposte X jusqu'à la fin du round, X étant égal au nombre de jetons Charge retirés de cette façon.",
-        "traits": "Arme. Tech."
+        "traits": "Tech. Arme."
     },
     {
         "code": "504596",
@@ -474,9 +474,9 @@
     },
     {
         "code": "504597",
+        "flavor": "« Heather, cette nouvelle source d'énergie est 50 % plus efficace que l'ancien modèle ! » – Guardian",
         "name": "Cellule d'Énergie Améliorée",
         "text": "Attachez cette carte à [[Guardian]] ou [[Vindicator]].\nTraitez chaque chiffre « 4 » imprimé sur la carte du personnage attaché comme un « 6 » à la place.",
-        "flavor": "« Heather, cette nouvelle source d'énergie est 50 % plus efficace que l'ancien modèle ! » – Guardian",
         "traits": "Objet. Tech."
     },
     {

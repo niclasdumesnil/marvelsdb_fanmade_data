@@ -34,9 +34,9 @@
     },
     {
         "code": "504528",
+        "flavor": "« Le Collectif les a tous anéantis. Seul Walt a survécu. »",
         "name": "Culpabilité du Survivant",
-        "text": "<i>Donnez cette carte au joueur de Walter Langkowski.</i>\nChoisissez :\n• Vous êtes sonné. Défaussez cette obligation.\n• Vous êtes désorienté. Défaussez cette obligation.",
-        "flavor": "« Le Collectif les a tous anéantis. Seul Walt a survécu. »"
+        "text": "<i>Donnez cette carte au joueur de Walter Langkowski.</i>\nChoisissez :\n• Vous êtes sonné. Défaussez cette obligation.\n• Vous êtes désorienté. Défaussez cette obligation."
     },
     {
         "code": "504529",
@@ -137,9 +137,9 @@
     },
     {
         "code": "504581",
+        "flavor": "« Le docteur Twoyoungmen est appelé d'urgence. »",
         "name": "Code Bleu",
-        "text": "<i>Donnez cette carte au joueur de Michael Twoyoungmen.</i>\nVous ne pouvez pas vous redresser.\n<b>Action d'alter ego</b> : défaussez chaque carte [[Sort]] ou ressource imprimée [mental] de votre main. Si 3 cartes ou plus ont été défaussées de cette façon, retirez Code Bleu de la partie.",
-        "flavor": "« Le docteur Twoyoungmen est appelé d'urgence. »"
+        "text": "<i>Donnez cette carte au joueur de Michael Twoyoungmen.</i>\nVous ne pouvez pas vous redresser.\n<b>Action d'alter ego</b> : défaussez chaque carte [[Sort]] ou ressource imprimée [mental] de votre main. Si 3 cartes ou plus ont été défaussées de cette façon, retirez Code Bleu de la partie."
     },
     {
         "code": "504582",
