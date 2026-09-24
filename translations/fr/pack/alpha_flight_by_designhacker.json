@@ -78,5 +78,411 @@
         "name": "Costume de Guardian",
         "text": "Guardian gagne +1 ATQ, +1 CTR et +1 DEF pour chaque 2 jetons Charge sur lui.",
         "traits": "Armure. Tech."
+    },
+    {
+        "code": "504518b",
+        "name": "Walter Langkowski",
+        "text": "<i>Stratégie</i> — <b>Réponse forcée</b> : après le début de la phase des joueurs, choisissez soit [mental], soit [physical] comme type de ressource de votre « Stratégie ».\n<b>Action</b> : défaussez 1 carte de votre main → si votre type de ressource de « Stratégie » est [mental], piochez 1 carte. S'il est [physical], redressez Walter Langkowski. (Limite d'une fois par round.)",
+        "traits": "Génie. Scientifique."
+    },
+    {
+        "code": "504518a",
+        "name": "Sasquatch",
+        "text": "<i>Stratégie</i> — <b>Réponse forcée</b> : après le début de la phase des joueurs, choisissez soit [mental], soit [physical] comme type de ressource de votre « Stratégie ».\n[star] Tant que votre type de ressource de « Stratégie » est :\n• [mental] – vous gagnez +1 CTR.\n• [physical] – vous gagnez +1 ATQ.",
+        "traits": "Alpha Flight. Gamma."
+    },
+    {
+        "code": "504519",
+        "name": "Puck",
+        "subname": "Eugene Judd",
+        "text": "Tant que votre type de ressource de « Stratégie » est :\n• [mental] – Puck ne peut pas subir de dégâts consécutifs.\n• [physical] – Puck ne peut pas subir de dégâts des attaques de sbires.",
+        "traits": "Alpha Flight."
+    },
+    {
+        "code": "504520",
+        "name": "Exposition au Nord",
+        "text": "<b>Action de héros</b> : choisissez jusqu'à 3 ennemis différents. Placez une carte d'état différente sur chacun d'eux.",
+        "flavor": "« Je n'ai pas de temps à perdre ici. » – Sasquatch",
+        "traits": "Gamma. Tactique."
+    },
+    {
+        "code": "504521",
+        "name": "Coup Précipité",
+        "text": "Vous ne pouvez dépenser que votre type de ressource de « Stratégie » pour payer cette carte.\n<b>Action de héros</b> (<i>attaque/contre</i>) : infligez à un ennemi un nombre de dégâts égal à votre ATQ ou retirez d'une manigance un nombre de menaces égal à votre CTR.",
+        "traits": "Attaque. Contre."
+    },
+    {
+        "code": "504522",
+        "name": "Écrasement de Squatch",
+        "text": "<b>Interruption de héros</b> : quand vous utilisez un pouvoir de base, vous gagnez +6 à ce pouvoir pour cette utilisation. Si vous avez payé cette carte en n'utilisant que votre type de ressource de « Stratégie », piochez 1 carte.",
+        "flavor": "« Squatch écrase les minuscules Canadiens ! » – Sasquatch",
+        "traits": "Super-pouvoir."
+    },
+    {
+        "code": "504523",
+        "name": "Farce Imparable",
+        "text": "<b>Action de héros</b> : redressez Sasquatch. Si vous avez payé cette carte en n'utilisant que votre type de ressource de « Stratégie », piochez 1 carte.",
+        "flavor": "« Je me sens très bien. Sérieusement. » – Walter Langkowski",
+        "traits": "Gamma. Super-pouvoir."
+    },
+    {
+        "code": "504524",
+        "name": "Potentiel Illimité",
+        "text": "<b>Interruption de héros</b> : quand vous dépensez cette carte, considérez qu'elle possède à la place 3 ressources imprimées de votre type de ressource de « Stratégie »."
+    },
+    {
+        "code": "504525",
+        "name": "Laboratoire de Walter",
+        "text": "Walter Langkowski gagne +2 REC.\n<b>Ressource d'alter ego</b> : inclinez le Laboratoire de Walter → générez soit une ressource [mental], soit une ressource [physical].",
+        "flavor": "« Tu as déjà été frappé par une bombe Gamma, Jackie ? C'est tout un voyage. » – Walter Langkowski",
+        "traits": "Alpha Flight. Lieu."
+    },
+    {
+        "code": "504526",
+        "name": "Fureur sans Bornes",
+        "text": "Forme de héros uniquement. Sasquatch gagne +1 CTR, +1 ATQ et +1 DEF.\n<b>Réponse forcée</b> : après avoir changé de forme, défaussez cette carte.",
+        "flavor": "« Tu as dit \"furieux\" ou \"poilu\" ? » – Puck",
+        "traits": "Condition. Gamma."
+    },
+    {
+        "code": "504527",
+        "name": "Sujet Inamovible",
+        "text": "Vous gagnez +4 points de vie. Sasquatch gagne Riposte 1.",
+        "flavor": "« Fais demi-tour et recule. » – Sasquatch",
+        "traits": "Condition."
+    },
+    {
+        "code": "504534b",
+        "name": "Eugene Judd",
+        "text": "<i>Longévité Accrue</i> — <b>Réponse</b> : après avoir récupéré, choisissez : soit vous redressez Eugene Judd, soit vous lui donnez une carte d'état Tenace. (Limite d'une fois par round.)",
+        "flavor": "« J'ai juré de mener une vie intéressante. Je ne m'en suis pas trop mal sorti. »",
+        "traits": "Aventurier."
+    },
+    {
+        "code": "504534a",
+        "name": "Puck",
+        "text": "[star] <i>Rebondissant</i> — <b>Réponse de héros</b> : après que Puck a utilisé un pouvoir de base, redressez-le. Ensuite, il gagne -1 CTR, -1 ATQ et -1 DEF jusqu'à la fin de la phase.",
+        "flavor": "« Ne suis-je pas le plus chanceux des petits super-héros ? »",
+        "traits": "Alpha Flight."
+    },
+    {
+        "code": "504535",
+        "name": "Sasquatch",
+        "subname": "Walter Langkowski",
+        "text": "<b>Action</b> : inclinez Sasquatch → Puck gagne le trait [[Aérien]] jusqu'à la fin de ce tour. Réduisez de 1 le coût de la prochaine carte [[Tactique]] ou [[Aérien]] que vous jouez ce round.",
+        "flavor": "« Discutons de nos options, Eugene. »",
+        "traits": "Alpha Flight. Génie."
+    },
+    {
+        "code": "504536",
+        "name": "Boing !",
+        "text": "<b>Interruption de héros</b> : quand Puck devrait subir 1 dégât ou plus, réduisez cette quantité de X. Si vous ne subissez aucun dégât de cette façon, sonnez ou désorientez un ennemi.",
+        "flavor": "« Tu perds un peu le fil, hein ? » – Puck",
+        "traits": "Super-pouvoir. Tactique."
+    },
+    {
+        "code": "504537",
+        "name": "Rebondir",
+        "text": "<b>Action de héros</b> (<i>attaque/contre</i>) : choisissez : soit vous infligez à un ennemi un nombre de dégâts égal à votre ATQ, soit vous retirez d'une manigance un nombre de menaces égal à votre CTR. Si un sbire ou une manigance annexe a été vaincu de cette façon, reprenez cette carte dans votre main. (Limite d'une fois par round par exemplaire.)",
+        "traits": "Attaque. Contre. Tactique."
+    },
+    {
+        "code": "504538",
+        "name": "Coup d'Œil",
+        "text": "<b>Interruption de héros</b> : quand Puck devrait subir jusqu'à 3 dégâts, donnez-lui une carte d'état Tenace à la place.",
+        "flavor": "« Je ne crois pas, non. Maintenant, au travail ! » – Puck",
+        "traits": "Super-pouvoir. Tactique."
+    },
+    {
+        "code": "504539",
+        "name": "Ultra Résistant",
+        "text": "<b>Action de héros</b> : donnez une carte d'état Tenace à Puck. S'il est déjà tenace, il gagne +1 CTR, +1 ATQ et +1 DEF jusqu'à la fin du round à la place.",
+        "flavor": "« Petit. Rapide. Coriace. Et en plus, je suis un grand fan de hockey. » – Puck",
+        "traits": "Super-pouvoir."
+    },
+    {
+        "code": "504540",
+        "name": "Physiologie Compressée",
+        "text": "Puck ignore le mot-clé Perçant.\n<b>Interruption de héros</b> : lorsqu'une carte d'état Tenace est défaussée de Puck, piochez 1 carte.",
+        "traits": "Condition. Super-pouvoir."
+    },
+    {
+        "code": "504541",
+        "name": "Redoubler d'Efforts",
+        "text": "Puck gagne +1 DEF.\n<b>Interruption de héros</b> : lorsqu'une carte d'état Tenace est défaussée de Puck lors de la résolution des effets d'une attaque ennemie, infligez 1 dégât à l'attaquant.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504542",
+        "name": "Tenir Bon",
+        "text": "<b>Action de héros</b> : inclinez Tenir Bon → subissez 1 dégât. Puck gagne +1 CTR ou +1 ATQ jusqu'à la fin du round. (Limite d'une fois par round.)",
+        "flavor": "L'achondroplasie d'Eugene lui cause des douleurs quotidiennes.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504543",
+        "name": "Subreptice",
+        "text": "<b>Action de héros</b> : inclinez Subreptice → le prochain pouvoir de base de Puck ignore les mots-clés Garde et Patrouille ainsi que les icônes de crise ([crisis]).\n<b>Action</b> : défaussez Subreptice → redressez votre identité.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504550b",
+        "name": "Narya",
+        "text": "Les formes de créature entrent en jeu face cachée.\n<i>Demi-déesse</i> — <b>Réponse</b> : après que Narya a été soignée, pour chaque point d'excès de dégâts soigné au-delà de ses points de vie maximaux, soignez 1 dégât d'un personnage ami.",
+        "traits": "Mystique. Officier."
+    },
+    {
+        "code": "504550a",
+        "name": "Snowbird",
+        "text": "Les formes de créature entrent en jeu face cachée.\n<i>Grandes Bêtes</i> — <b>Action</b> : dépensez une ressource de n'importe quel type → retournez chaque forme de créature face visible. Ensuite, choisissez une forme de créature face cachée et retournez-la. Snowbird gagne chaque [[Trait]] sur cette forme de créature.",
+        "traits": "Alpha Flight. Mystique."
+    },
+    {
+        "code": "504551",
+        "name": "Shaman",
+        "subname": "Michael Twoyoungmen",
+        "text": "<b>Action de héros</b> : inclinez Shaman et infligez-lui 1 dégât → piochez 1 carte.",
+        "flavor": "« Il y a une richesse dans la vie dont tu ne soupçonnes pas encore l'existence, Narya. Ne te refuse pas cette plénitude. »",
+        "traits": "Alpha Flight. Mystique."
+    },
+    {
+        "code": "504552",
+        "name": "Assaut Arctique",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : infligez 5 dégâts à un ennemi. Résolvez gratuitement la capacité <i>« Grandes Bêtes »</i> de Snowbird. Infligez à un ennemi un nombre de dégâts égal à votre ATQ.",
+        "flavor": "« Sasquatch n'est pas le seul à posséder la force. » – Snowbird",
+        "traits": "Attaque."
+    },
+    {
+        "code": "504553",
+        "name": "Élan Boréal",
+        "text": "<b>Action de héros</b> (<i>contre</i>) : retirez 4 menaces d'une manigance. Résolvez gratuitement la capacité <i>« Grandes Bêtes »</i> de Snowbird. Retirez X menaces d'une manigance, X étant égal à votre CTR.",
+        "flavor": "« Vous avez commis une grave erreur. » – Snowbird",
+        "traits": "Contre."
+    },
+    {
+        "code": "504554",
+        "name": "Formation Fluide",
+        "text": "<b>Action de héros</b> : résolvez gratuitement la capacité <i>« Grandes Bêtes »</i> de Snowbird. Piochez X cartes, X étant égal à votre CTR.",
+        "flavor": "« Remerciez les dieux qui voudront bien de vous que je ne vous tue pas sur-le-champ. » – Snowbird",
+        "traits": "Mystique. Tactique."
+    },
+    {
+        "code": "504555",
+        "name": "Peau Épaisse",
+        "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand vous devriez subir n'importe quelle quantité de dégâts, résolvez gratuitement la capacité <i>« Grandes Bêtes »</i> de Snowbird. Réduisez la quantité de dégâts subis de X, X étant égal à votre DEF.",
+        "traits": "Défense. Tactique."
+    },
+    {
+        "code": "504556",
+        "name": "Grand Nord Blanc",
+        "text": "<b>Ressource de héros</b> : inclinez le Grand Nord Blanc → générez la ressource présente sur la forme de créature face visible. Si la ressource imprimée sur la carte que vous jouez est la même ressource, générez 2 ressources de ce type à la place.",
+        "flavor": "« C'est une belle façon de partir. » – Puck",
+        "traits": "Lieu."
+    },
+    {
+        "code": "504557",
+        "name": "Ours",
+        "text": "Forme de créature.\nSnowbird gagne -1 CTR, +1 DEF et gagne Riposte 1.\n<b>Réponse</b> : après avoir joué une carte [[Défense]], inclinez Ours → piochez 1 carte.",
+        "traits": "Créature."
+    },
+    {
+        "code": "504558",
+        "name": "Dinosaure",
+        "text": "Forme de créature.\nSnowbird gagne -1 DEF, +1 ATQ et ses attaques gagnent Perçant.\n<b>Action de héros</b> : inclinez Dinosaure → réduisez de 1 le coût de la prochaine carte [[Attaque]] que vous jouez ce round.",
+        "traits": "Créature."
+    },
+    {
+        "code": "504559",
+        "name": "Snowbird",
+        "text": "Mise en place. Forme de créature. Cette carte ne peut pas être défaussée. Entre en jeu face visible.\nNarya gagne +1 à sa taille de main.\n<b>Action de héros</b> : inclinez cette carte → cherchez une amélioration forme de créature dans votre deck et ajoutez-la à votre main.",
+        "traits": "Aérien."
+    },
+    {
+        "code": "504560",
+        "name": "Chouette",
+        "text": "Forme de créature.\nSnowbird gagne +1 CTR, -1 ATQ et ignore Garde et Patrouille.\n<b>Action de héros</b> : inclinez Chouette → réduisez de 1 le coût de la prochaine carte [[Contre]] que vous jouez ce round.",
+        "traits": "Aérien. Oiseau."
+    },
+    {
+        "code": "504561",
+        "name": "Phoque",
+        "text": "Forme de créature.\nSnowbird gagne -1 ATQ, +1 DEF et gagne Agile 1.\n<b>Action de héros</b> : inclinez Phoque → réduisez de 1 le coût de la prochaine carte [[Tactique]] que vous jouez ce round.",
+        "traits": "Créature."
+    },
+    {
+        "code": "504562",
+        "name": "Wendigo",
+        "text": "Forme de créature.\nSnowbird gagne -1 CTR, +1 ATQ et ses attaques gagnent Déferlement.\n<b>Action de héros</b> : inclinez Wendigo → réduisez de 1 le coût de la prochaine carte [[Mystique]] que vous jouez ce round.",
+        "traits": "Créature. Mystique."
+    },
+    {
+        "code": "504563a",
+        "name": "Ne Restez Pas Coincé !",
+        "text": "Permanent. Mise en place.\n<b>Réponse forcée</b> : après la fin de la phase du méchant, placez un jeton Permanence sur votre forme de créature face visible. Ensuite, s'il y a 4 jetons Permanence sur elle, retournez cette carte.\n<b>Interruption forcée</b> : quand vous retournez cette carte ou retournez une forme de créature face cachée, retirez chaque jeton Permanence d'elle."
+    },
+    {
+        "code": "504563b",
+        "name": "Coincé !",
+        "text": "Vous ne pouvez pas résoudre la capacité <i>« Grandes Bêtes »</i> de Snowbird. Votre forme de créature face visible et Coincé ! gagnent Permanent.\n<b>Une fois révélée</b> : cherchez chaque forme de créature non-Permanente et retirez-la de la partie. Considérez chaque chiffre 1 sur la carte de créature face visible comme un chiffre 2 à la place.",
+        "traits": "Malédiction."
+    },
+    {
+        "code": "504570b",
+        "name": "Michael Twoyoungmen",
+        "text": "<b>Mise en place</b> : cherchez le Sac de Médecine de Shaman et ajoutez-le à votre main.\n[star] <i>Homme-Médecine</i> — Les dégâts que vous soignez en utilisant votre récupération de base peuvent être répartis comme vous le souhaitez entre votre identité et 1 personnage supplémentaire.",
+        "traits": "Génie. Mystique."
+    },
+    {
+        "code": "504570a",
+        "name": "Shaman",
+        "text": "<i>Maîtrise Mystique</i> — <b>Action de héros</b> : inclinez Shaman → piochez 1 carte.",
+        "flavor": "Une méditation profonde sera requise pour comprendre cela pleinement.",
+        "traits": "Alpha Flight. Mystique."
+    },
+    {
+        "code": "504571",
+        "name": "Snowbird",
+        "subname": "Narya",
+        "text": "<b>Interruption</b> : quand Snowbird s'incline, placez ou retirez 1 jeton Métamorphose d'ici. Tant que les jetons Métamorphose ici sont au nombre de (X), elle gagne :\n(1) +2 ATQ et ses attaques gagnent Perçant.\n(2) +3 points de vie et gagne Riposte 2.\n(3) +2 CTR et gagne le trait [[Aérien]].",
+        "traits": "Alpha Flight. Mystique."
+    },
+    {
+        "code": "504572",
+        "name": "Forme Astrale",
+        "text": "<b>Interruption de héros</b> (<i>défense</i>) : quand un ennemi devrait infliger des dégâts à Shaman, désorientez cet ennemi à la place.",
+        "flavor": "« La synchronicité est une composante majeure de la magie. » – Shaman",
+        "traits": "Défense. Sort."
+    },
+    {
+        "code": "504573",
+        "name": "Communier",
+        "text": "<b>Action de héros</b> : redressez une carte [[Mystique]].",
+        "flavor": "« Grand Esprit, guide-moi ! » – Shaman",
+        "traits": "Sort."
+    },
+    {
+        "code": "504574",
+        "name": "Enchevêtrement",
+        "text": "<b>Action de héros</b> (<i>attaque</i>) : sonnez un ennemi et infligez-lui 3 dégâts. Si un sbire a été sonné de cette façon, redressez Shaman.",
+        "flavor": "« Au fond de ton cœur, tu sais que c'est mal. » – Shaman",
+        "traits": "Attaque. Sort."
+    },
+    {
+        "code": "504575",
+        "name": "Guérison Mystique",
+        "text": "<b>Action de héros</b> : soignez 1 dégât et retirez une carte d'état d'un personnage. Si une carte d'état a été retirée de cette façon, redressez Shaman.",
+        "flavor": "« L'âme, elle aussi, peut être guérie. » – Shaman",
+        "traits": "Sort."
+    },
+    {
+        "code": "504576",
+        "name": "Poudre Mystique",
+        "text": "<b>Réponse de héros</b> : après avoir dépensé cette carte pour un événement [[Sort]], retirez 1 menace d'une manigance ou redressez Shaman."
+    },
+    {
+        "code": "504577",
+        "name": "Aiglon",
+        "text": "Attachez cette carte à une manigance principale.\nAugmentez de 4 la valeur de menace cible de la manigance attachée.\n<b>Interruption de héros</b> : quand Shaman devrait retirer n'importe quelle quantité de menace de la manigance attachée, retirez 1 menace supplémentaire.",
+        "traits": "Mystique. Oiseau."
+    },
+    {
+        "code": "504578",
+        "name": "Vents Vivifiants",
+        "text": "Shaman gagne le trait [[Aérien]].\n<b>Réponse de héros</b> : après que Shaman a vaincu un sbire ou une manigance annexe, redressez-le. (Limite d'une fois par phase.)",
+        "traits": "Mystique. Sort."
+    },
+    {
+        "code": "504579",
+        "name": "Sac de Médecine de Shaman",
+        "text": "<b>Action de héros</b> : inclinez le Sac de Médecine de Shaman et défaussez une carte [[Sort]] de votre main → choisissez-en deux :\n• Jouez une carte [[Sort]] de votre pile de défausse (<i>en payant son coût</i>).\n• Infligez 1 dégât à un ennemi.\n• Soignez 1 dégât d'un personnage.",
+        "traits": "Mystique. Objet."
+    },
+    {
+        "code": "504580",
+        "name": "Bâton des Esprits",
+        "text": "<b>Action de héros</b> : inclinez le Bâton des Esprits → placez un jeton Esprit sur une carte (jusqu'à un maximum de 2 par carte).\n<b>Interruption</b> : quand vous utilisez un pouvoir de base contre une carte avec X jetons Esprit sur elle, vous gagnez +X à ce pouvoir pour cette utilisation.",
+        "traits": "Arme. Mystique."
+    },
+    {
+        "code": "504587b",
+        "name": "Heather Hudson",
+        "text": "<i>Dévouée</i> — <b>Action</b> : dépensez une ressource [mental] → cherchez un allié ou une amélioration spécifique à votre identité dans votre deck et ajoutez cette carte à votre main. Si Guardian est en jeu, placez 1 jeton Charge sur lui et 1 jeton Charge ici.",
+        "traits": "Officier."
+    },
+    {
+        "code": "504587a",
+        "name": "Vindicator",
+        "text": "Vindicator ne peut pas avoir plus de 4 jetons Charge ici.\n<i>Revancharde</i> — <b>Interruption</b> : quand Vindicator devrait soigner n'importe quelle quantité de dégâts, placez autant de jetons Charge sur elle à la place.",
+        "traits": "Aérien. Alpha Flight."
+    },
+    {
+        "code": "504588",
+        "name": "Guardian",
+        "subname": "James Hudson",
+        "text": "Guardian gagne +1 ATQ pour chaque jeton Charge ici. S'il y a 4 jetons Charge ou plus ici, défaussez Guardian.\n<b>Réponse</b> : après que Vindicator a utilisé un pouvoir de base, déplacez un jeton Charge de Vindicator vers ici.",
+        "traits": "Aérien. Alpha Flight."
+    },
+    {
+        "code": "504589",
+        "name": "Tous Sous Nos Ordres",
+        "text": "Alliance.\n<b>Action de héros</b> : retirez 1 jeton Charge de Guardian ou Vindicator pour chaque personnage [[Alpha Flight]] en jeu → piochez 1 carte pour chaque jeton Charge retiré de cette façon.",
+        "traits": "Tactique."
+    },
+    {
+        "code": "504590",
+        "name": "Amour Patriotique",
+        "text": "<b>Action</b> : redressez votre identité. Ensuite, si vous êtes sous forme de héros, vous pouvez placer 1 jeton Charge sur [[Guardian]] ou [[Vindicator]].",
+        "flavor": "« Tiens bon, Mac ! J'arrive tout de suite. » – Heather Hudson",
+        "traits": "Condition."
+    },
+    {
+        "code": "504591",
+        "name": "Servir et Protéger",
+        "text": "<b>Interruption de héros</b> : quand vous défendez, résolvez l'« Action de héros » de cette carte et soignez 2 dégâts de votre identité.\n<b>Action de héros</b> (<i>contre</i>) : retirez 4 menaces d'une manigance.",
+        "flavor": "« Tout va bien, je te tiens. » – Vindicator",
+        "traits": "Contre. Super-pouvoir."
+    },
+    {
+        "code": "504592",
+        "name": "Décharge Inattendue",
+        "text": "<b>Interruption de héros</b> (<i>attaque</i>) : quand vous vous inclinez pour utiliser un pouvoir de base, infligez 4 dégâts à un ennemi. Si c'est durant la phase du méchant, désorientez le méchant.",
+        "flavor": "« Surprise, abruti ! » – Vindicator",
+        "traits": "Attaque. Super-pouvoir."
+    },
+    {
+        "code": "504593",
+        "name": "Génération Anti-Gravité",
+        "text": "<b>Réponse de héros</b> : après avoir dépensé cette carte, soignez 2 dégâts de [[Vindicator]].",
+        "traits": "Ressource."
+    },
+    {
+        "code": "504594",
+        "name": "Département H",
+        "text": "<b>Action</b> : inclinez le Département H → regardez un total de 2 cartes du dessus de n'importe quel deck (elles peuvent provenir du même deck). Si vous avez regardé un deck de joueur de cette façon, ajoutez 1 de ces cartes à la main de son propriétaire. Si vous avez regardé le deck rencontre, placez 1 jeton Charge sur une carte pour chaque carte rencontre regardée de cette façon.",
+        "traits": "Alpha Flight. Lieu."
+    },
+    {
+        "code": "504595",
+        "name": "Rayons Concussifs",
+        "text": "<b>Action de héros</b> : inclinez les Rayons Concussifs et retirez jusqu'à 2 jetons Charge de Vindicator → vous gagnez Riposte X jusqu'à la fin du round, X étant égal au nombre de jetons Charge retirés de cette façon.",
+        "traits": "Arme. Tech."
+    },
+    {
+        "code": "504596",
+        "name": "Redirection d'Énergie",
+        "text": "Vous pouvez jouer les cartes glissées sous cette carte comme si elles étaient dans votre main.\n<b>Action de héros</b> : inclinez cette carte et glissez une carte [[Super-pouvoir]] de votre main sous celle-ci → choisissez :\n• Redressez un héros et soignez-lui 1 dégât.\n• Ajoutez un exemplaire de Génération Anti-Gravité de votre pile de défausse à votre main."
+    },
+    {
+        "code": "504597",
+        "name": "Cellule d'Énergie Améliorée",
+        "text": "Attachez cette carte à [[Guardian]] ou [[Vindicator]].\nTraitez chaque chiffre « 4 » imprimé sur la carte du personnage attaché comme un « 6 » à la place.",
+        "flavor": "« Heather, cette nouvelle source d'énergie est 50 % plus efficace que l'ancien modèle ! » – Guardian",
+        "traits": "Objet. Tech."
+    },
+    {
+        "code": "504598",
+        "name": "Casque de Vindicator",
+        "text": "<b>Action de héros</b> : inclinez cette carte et défaussez la carte du dessus du deck rencontre. Ensuite, retirez X jetons Charge de Vindicator ou subissez X dégâts, X étant égal au nombre d'icônes ([boost] et [star]) dans la zone de boost de cette carte → Vindicator gagne +X CTR ou +X ATQ ou +X DEF jusqu'à la fin du round.",
+        "traits": "Armure. Tech."
     }
 ]
