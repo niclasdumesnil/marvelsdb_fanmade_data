@@ -53,8 +53,9 @@ python C:/OS-Merlin/projets/mc-services/scripts/validate.py --base-path C:/OS-Me
 
 ## 📜 Gouvernance Git
 - **Fork préservé** avec accès à l'historique et au remote `upstream`.
-- **Brancher AVANT tout développement** — jamais directement sur la branche par défaut.
+- **Exception de branche** : pour ce projet (`marvelsdb_fanmade_data`), il n'est **pas demandé de travailler en branche de feature** ; le travail direct et les commits sur la branche par défaut (`master`) sont pleinement autorisés.
 - **Push / Déploiement** exige la **confirmation explicite** de l'utilisateur.
+
 
 ---
 
