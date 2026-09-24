@@ -31,5 +31,177 @@
         "code": "504517",
         "name": "Multiplication de Drones",
         "text": "Les sbires [[DRONE]] gagnent +1 point de vie et +1 ATQ, et gagnent Riposte 1.\n<b>Réponse de héros</b> : après avoir vaincu un sbire [[DRONE]], dépensez 2 ressources → défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones."
+    },
+    {
+        "code": "504528",
+        "name": "Culpabilité du Survivant",
+        "text": "<i>Donnez cette carte au joueur de Walter Langkowski.</i>\nChoisissez :\n• Vous êtes sonné. Défaussez cette obligation.\n• Vous êtes désorienté. Défaussez cette obligation.",
+        "flavor": "« Le Collectif les a tous anéantis. Seul Walt a survécu. »"
+    },
+    {
+        "code": "504529",
+        "name": "Le Maître du Monde",
+        "text": "Les sbires [[Drone]] gagnent +1 MNG et +1 ATQ.\n[star] Le Maître du Monde gagne +1 ATQ pour chaque jeton d'accélération en jeu.\n<b>Interruption forcée</b> : quand le Maître du Monde attaque, résolvez son attaque contre chaque héros [[Alpha Flight]].\n<i>(Sbire némésis de Sasquatch.)</i>",
+        "traits": "Aérien. Génie."
+    },
+    {
+        "code": "504530",
+        "name": "Maître des Drones",
+        "text": "Permanent. Chaque carte rencontre face cachée sbire [[Drone]] a 1 point de vie de base, 0 MNG de base, 0 ATQ de base et gagne le trait [[Aérien]].\n<b>Réponse forcée</b> : après la fin de votre tour, s'il y a 1[per_hero] menace ou plus ici, résolvez la capacité <i>« Maître des Drones »</i>.\n<i>Maître des Drones</i> — <b>Spécial</b> : défaussez les 2 cartes du dessus du deck rencontre. Mettez en jeu chaque traîtrise défaussée de cette façon face cachée, engagée avec vous en tant que sbire [[Drone]]."
+    },
+    {
+        "code": "504531",
+        "name": "Drone Alpha",
+        "text": "<b>Une fois révélé</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<b>Une fois vaincu</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Aérien. Drone."
+    },
+    {
+        "code": "504532",
+        "name": "Gravité Décroissante",
+        "text": "Les personnages [[Aérien]] gagnent +1 ATQ et -1 DEF.\n<b>Action</b> : défaussez 2 cartes de votre main et les 5 cartes du dessus du deck rencontre → piochez 2 cartes. Si le coût combiné de ces cartes est de 3 ou plus, défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504533",
+        "name": "Prolifération des Drones",
+        "text": "Les sbires [[Drone]] gagnent +1 point de vie, +1 ATQ et gagnent Riposte 1.\n<b>Réponse de héros</b> : après avoir vaincu un sbire [[Drone]], dépensez 2 ressources → défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504544",
+        "name": "Achondroplasie",
+        "text": "<i>Donnez cette carte au joueur d'Eugene Judd.</i>\nVous pouvez passer sous forme d'alter ego. Vous ne pouvez pas redresser votre identité.\n<b>Action d'alter ego</b> : défaussez une carte d'état Tenace de votre identité → retirez Achondroplasie de la partie."
+    },
+    {
+        "code": "504545",
+        "name": "Le Maître du Monde",
+        "text": "Les sbires [[Drone]] gagnent +1 MNG et +1 ATQ.\n[star] Le Maître du Monde gagne +1 ATQ pour chaque jeton d'accélération en jeu.\n<b>Interruption forcée</b> : quand le Maître du Monde attaque, résolvez son attaque contre chaque héros [[Alpha Flight]].\n<i>(Sbire némésis de Puck.)</i>",
+        "traits": "Aérien. Génie."
+    },
+    {
+        "code": "504546",
+        "name": "Maître des Drones",
+        "text": "Permanent. Chaque carte rencontre face cachée sbire [[Drone]] a 1 point de vie de base, 0 MNG de base, 0 ATQ de base et gagne le trait [[Aérien]].\n<b>Réponse forcée</b> : après la fin de votre tour, s'il y a 1[per_hero] menace ou plus ici, résolvez la capacité <i>« Maître des Drones »</i>.\n<i>Maître des Drones</i> — <b>Spécial</b> : défaussez les 2 cartes du dessus du deck rencontre. Mettez en jeu chaque traîtrise défaussée de cette façon face cachée, engagée avec vous en tant que sbire [[Drone]]."
+    },
+    {
+        "code": "504547",
+        "name": "Drone Alpha",
+        "text": "<b>Une fois révélé</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<b>Une fois vaincu</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Aérien. Drone."
+    },
+    {
+        "code": "504548",
+        "name": "Gravité Décroissante",
+        "text": "Les personnages [[Aérien]] gagnent +1 ATQ et -1 DEF.\n<b>Action</b> : défaussez 2 cartes de votre main et les 5 cartes du dessus du deck rencontre → piochez 2 cartes. Si le coût combiné de ces cartes est de 3 ou plus, défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504549",
+        "name": "Prolifération des Drones",
+        "text": "Les sbires [[Drone]] gagnent +1 point de vie, +1 ATQ et gagnent Riposte 1.\n<b>Réponse de héros</b> : après avoir vaincu un sbire [[Drone]], dépensez 2 ressources → défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504564",
+        "name": "Garder son Humanité",
+        "text": "<i>Donnez cette carte au joueur de Narya.</i>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• Inclinez Narya → retirez Garder son Humanité de la partie.\n• Placez 2 jetons Permanence sur votre forme de créature face visible. Défaussez cette obligation."
+    },
+    {
+        "code": "504565",
+        "name": "Le Maître du Monde",
+        "text": "Les sbires [[Drone]] gagnent +1 MNG et +1 ATQ.\n[star] Le Maître du Monde gagne +1 ATQ pour chaque jeton d'accélération en jeu.\n<b>Interruption forcée</b> : quand le Maître du Monde attaque, résolvez son attaque contre chaque héros [[Alpha Flight]].\n<i>(Sbire némésis de Snowbird.)</i>",
+        "traits": "Aérien. Génie."
+    },
+    {
+        "code": "504566",
+        "name": "Maître des Drones",
+        "text": "Permanent. Chaque carte rencontre face cachée sbire [[Drone]] a 1 point de vie de base, 0 MNG de base, 0 ATQ de base et gagne le trait [[Aérien]].\n<b>Réponse forcée</b> : après la fin de votre tour, s'il y a 1[per_hero] menace ou plus ici, résolvez la capacité <i>« Maître des Drones »</i>.\n<i>Maître des Drones</i> — <b>Spécial</b> : défaussez les 2 cartes du dessus du deck rencontre. Mettez en jeu chaque traîtrise défaussée de cette façon face cachée, engagée avec vous en tant que sbire [[Drone]]."
+    },
+    {
+        "code": "504567",
+        "name": "Drone Alpha",
+        "text": "<b>Une fois révélé</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<b>Une fois vaincu</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Aérien. Drone."
+    },
+    {
+        "code": "504568",
+        "name": "Gravité Décroissante",
+        "text": "Les personnages [[Aérien]] gagnent +1 ATQ et -1 DEF.\n<b>Action</b> : défaussez 2 cartes de votre main et les 5 cartes du dessus du deck rencontre → piochez 2 cartes. Si le coût combiné de ces cartes est de 3 ou plus, défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504569",
+        "name": "Prolifération des Drones",
+        "text": "Les sbires [[Drone]] gagnent +1 point de vie, +1 ATQ et gagnent Riposte 1.\n<b>Réponse de héros</b> : après avoir vaincu un sbire [[Drone]], dépensez 2 ressources → défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504581",
+        "name": "Code Bleu",
+        "text": "<i>Donnez cette carte au joueur de Michael Twoyoungmen.</i>\nVous ne pouvez pas vous redresser.\n<b>Action d'alter ego</b> : défaussez chaque carte [[Sort]] ou ressource imprimée [mental] de votre main. Si 3 cartes ou plus ont été défaussées de cette façon, retirez Code Bleu de la partie.",
+        "flavor": "« Le docteur Twoyoungmen est appelé d'urgence. »"
+    },
+    {
+        "code": "504582",
+        "name": "Le Maître du Monde",
+        "text": "Les sbires [[Drone]] gagnent +1 MNG et +1 ATQ.\n[star] Le Maître du Monde gagne +1 ATQ pour chaque jeton d'accélération en jeu.\n<b>Interruption forcée</b> : quand le Maître du Monde attaque, résolvez son attaque contre chaque héros [[Alpha Flight]].\n<i>(Sbire némésis de Shaman.)</i>",
+        "traits": "Aérien. Génie."
+    },
+    {
+        "code": "504583",
+        "name": "Maître des Drones",
+        "text": "Permanent. Chaque carte rencontre face cachée sbire [[Drone]] a 1 point de vie de base, 0 MNG de base, 0 ATQ de base et gagne le trait [[Aérien]].\n<b>Réponse forcée</b> : après la fin de votre tour, s'il y a 1[per_hero] menace ou plus ici, résolvez la capacité <i>« Maître des Drones »</i>.\n<i>Maître des Drones</i> — <b>Spécial</b> : défaussez les 2 cartes du dessus du deck rencontre. Mettez en jeu chaque traîtrise défaussée de cette façon face cachée, engagée avec vous en tant que sbire [[Drone]]."
+    },
+    {
+        "code": "504584",
+        "name": "Drone Alpha",
+        "text": "<b>Une fois révélé</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<b>Une fois vaincu</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Aérien. Drone."
+    },
+    {
+        "code": "504585",
+        "name": "Gravité Décroissante",
+        "text": "Les personnages [[Aérien]] gagnent +1 ATQ et -1 DEF.\n<b>Action</b> : défaussez 2 cartes de votre main et les 5 cartes du dessus du deck rencontre → piochez 2 cartes. Si le coût combiné de ces cartes est de 3 ou plus, défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504586",
+        "name": "Prolifération des Drones",
+        "text": "Les sbires [[Drone]] gagnent +1 point de vie, +1 ATQ et gagnent Riposte 1.\n<b>Réponse de héros</b> : après avoir vaincu un sbire [[Drone]], dépensez 2 ressources → défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504599",
+        "name": "Prendre Soin de Claire",
+        "text": "<i>Donnez cette carte au joueur de Heather Hudson.</i>\nVous pouvez passer sous forme d'alter ego. Choisissez :\n• Inclinez Heather Hudson → retirez Prendre Soin de Claire de la partie.\n• Choisissez et défaussez 1 carte de votre main. Vous ne pouvez pas changer de forme jusqu'à la fin de votre prochain tour. Défaussez cette obligation."
+    },
+    {
+        "code": "504600",
+        "name": "Le Maître du Monde",
+        "text": "Les sbires [[Drone]] gagnent +1 MNG et +1 ATQ.\n[star] Le Maître du Monde gagne +1 ATQ pour chaque jeton d'accélération en jeu.\n<b>Interruption forcée</b> : quand le Maître du Monde attaque, résolvez son attaque contre chaque héros [[Alpha Flight]].\n<i>(Sbire némésis de Vindicator.)</i>",
+        "traits": "Aérien. Génie."
+    },
+    {
+        "code": "504601",
+        "name": "Maître des Drones",
+        "text": "Permanent. Chaque carte rencontre face cachée sbire [[Drone]] a 1 point de vie de base, 0 MNG de base, 0 ATQ de base et gagne le trait [[Aérien]].\n<b>Réponse forcée</b> : après la fin de votre tour, s'il y a 1[per_hero] menace ou plus ici, résolvez la capacité <i>« Maître des Drones »</i>.\n<i>Maître des Drones</i> — <b>Spécial</b> : défaussez les 2 cartes du dessus du deck rencontre. Mettez en jeu chaque traîtrise défaussée de cette façon face cachée, engagée avec vous en tant que sbire [[Drone]]."
+    },
+    {
+        "code": "504602",
+        "name": "Drone Alpha",
+        "text": "<b>Une fois révélé</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<b>Une fois vaincu</b> : résolvez la capacité <i>« Maître des Drones »</i>.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Aérien. Drone."
+    },
+    {
+        "code": "504603",
+        "name": "Gravité Décroissante",
+        "text": "Les personnages [[Aérien]] gagnent +1 ATQ et -1 DEF.\n<b>Action</b> : défaussez 2 cartes de votre main et les 5 cartes du dessus du deck rencontre → piochez 2 cartes. Si le coût combiné de ces cartes est de 3 ou plus, défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
+    },
+    {
+        "code": "504604",
+        "name": "Prolifération des Drones",
+        "text": "Les sbires [[Drone]] gagnent +1 point de vie, +1 ATQ et gagnent Riposte 1.\n<b>Réponse de héros</b> : après avoir vaincu un sbire [[Drone]], dépensez 2 ressources → défaussez cette carte.\n<hr>[star] <b>Boost</b> : placez 3 menaces sur la manigance annexe Maître des Drones.",
+        "traits": "Condition."
     }
 ]
