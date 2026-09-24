@@ -6,9 +6,9 @@ Il a été constitué par un scan systématique des **336 packs** (8 500 cartes)
 
 ---
 
-## 📚 Les 3 Fiches de Référence
+## 📚 Les 4 Fiches de Référence & le Rapport d'Audit
 
-Le référentiel est structuré en **3 fiches modulaires et complémentaires** :
+Le référentiel est structuré en **4 fiches modulaires et un rapport d'audit qualité** :
 
 ### 1. ✍️ [Guide de Formatage & Typographie Bilingue (FR / EN)](guide_formatage_et_typographie.md)
 *Le guide normatif des règles de saisie pour l'éditeur de cartes et les traducteurs.*
@@ -38,10 +38,19 @@ Le référentiel est structuré en **3 fiches modulaires et complémentaires** :
 
 ---
 
-### 4. 🧪 [Rapport d'Audit & Validation Pack par Pack](rapport_validation_packs.md)
+### 4. ⚙️ [Procédure de Traduction Automatique d'un Pack](procedure_traduction_automatique_pack.md)
+*Le protocole complet de traduction industrielle : packs, sets et cartes.*
+- **Coordination multi-fichiers** : rôle et synchronisation des 4 fichiers cibles (`packs.json`, `sets.json`, `[pack].json`, `[pack]_encounter.json`).
+- **Noms de packs & sets** : règles de casse française, canon Panini/Marvel France, formule obligatoire `Némésis de/d' [Héros]`.
+- **Pipeline des 7 étapes** : filtrage, traits, mots-clés, déclencheurs, ponctuation/accords, nettoyage du flavor, validation.
+- **Étude de cas complète** : le pack *Alpha Flight* (12 sets, 111 cartes).
+
+---
+
+### 5. 🧪 [Rapport d'Audit & Validation Pack par Pack](rapport_validation_packs.md)
 *Le compte-rendu d'analyse et de contrôle qualité des 336 packs EN et 189 packs FR.*
 - **Contrôles systématiques** : conformité des déclencheurs, recherche de faux amis sur les 5 214 cartes françaises, respect des règles typographiques (espaces insécables, guillemets, balisage gras).
-- **Indicateurs de qualité** : taux de fidélité terminologique de 99,98 %, absence totale du token interdit `[player]`, liste des 20 packs modèles 100 % conformes et analyse des anomalies historiques.
+- **Indicateurs de qualité** : taux de fidélité terminologique de 100,00 %, absence totale du token interdit `[player]`, liste des 20 packs modèles 100 % conformes et analyse des anomalies historiques.
 
 ---
 
