@@ -147,12 +147,14 @@ S'appuyer sur la **Fiche 2 (Lexique)** pour éviter tout faux ami :
 
 #### Étape 4 : Détection & Balisage des Déclencheurs
 - Mettre en gras uniquement les déclencheurs de la liste blanche :
-  - `<b>Action de héros</b> : `
-  - `<b>Interruption de héros</b> (<i>défense</i>) : `
-  - `<b>Réponse forcée</b> : `
+  - `<b>Action de héros</b> : `, `<b>Action d'alter ego</b> : `, `<b>Action</b> : `
+  - `<b>Interruption de héros</b> (<i>défense</i>) : `, `<b>Interruption forcée</b> : `
+  - `<b>Réponse forcée</b> : `, `<b>Réponse de héros</b> : `, `<b>Réponse</b> : `
+  - `<b>Ressource de héros</b> : `, `<b>Ressource d'alter ego</b> : `, `<b>Ressource</b> : `
 - Mettre en italique le nom thématique de capacité s'il précède un tiret cadratin :
   - `<i>Stratégie</i> — <b>Réponse forcée</b> : `
 - Sortir impérativement le deux-points de la balise fermante `</b> : `.
+
 
 #### Étape 5 : Normalisation Typographique Française (Fiche 1)
 - **Espaces insécables (`\u00A0`)** : devant `:`, `!`, `?`, et de part et d'autre de `—`.

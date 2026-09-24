@@ -11,33 +11,34 @@ Il rassemble l'ensemble des termes mécaniques, mots-clés, déclencheurs, statu
 Les mots-clés confèrent des attributs de règles universels aux cartes qui les portent.
 Le tableau ci-dessous indique leur forme syntaxique, leur traduction officielle, leur effet résumé et le nombre d'occurrences réelles observées dans le corpus analysé :
 
-| Terme EN | Terme FR | Forme syntaxique | Définition & Règle résumée | Occurrences (Packs) |
+| Terme FR | Terme EN | Forme syntaxique | Définition & Règle résumée | Occurrences (Packs) |
 |---|---|---|---|---|
-| **Surge** | **Renfort** | Mot seul | Après qu'un joueur a révélé une carte avec renfort, ce joueur révèle une carte rencontre supplémentaire. | **490** |
-| **Victory X** | **Victoire X** | `Victory X.` *(valeur)* | Lorsqu'une carte avec victoire X est vaincue ou déjouée, elle est ajoutée à la pile de victoire au lieu de la défausse. | **260** |
-| **Permanent** | **Permanent** | Mot seul | Une carte avec permanent ne peut pas quitter le jeu sous l'effet de capacités de cartes. | **249** |
-| **Piercing** | **Perçant** | Mot seul | Une attaque avec perçant défausse toutes les cartes d'état Tenace du personnage ciblé avant d'infliger ses dégâts. | **216** |
-| **Overkill** | **Déferlement** | Mot seul | Les dégâts excédentaires d'une attaque avec déferlement qui élimine un ennemi sont infligés au méchant (ou à l'identité si l'attaquant est un sbire). | **212** |
-| **Toughness** | **Ténacité** | Mot seul | Lorsqu'un personnage avec ténacité entre en jeu, placez une carte d'état Tenace sur lui. | **211** |
-| **Retaliate X** | **Riposte X** | `Retaliate X.` *(valeur)* | Après qu'un personnage avec riposte X a été attaqué et a subi des dégâts, infligez X dégâts à l'attaquant. | **206** |
-| **Uses (X « type »)** | **Utilisations (X « type »)** | `Uses (X type).` *(paramètre)* | Entre en jeu avec X jetons du type indiqué. Après le retrait du dernier jeton (et la résolution de l'effet), défaussez la carte. | **187** |
-| **Hinder X** | **Entrave X** | `Hinder X.` *(valeur)* | Une carte avec entrave X entre en jeu avec X menaces supplémentaires placées sur elle. | **181** |
-| **Guard** | **Garde** | Mot seul | Tant qu'un sbire avec garde est engagé avec un joueur, ce joueur ne peut pas effectuer d'attaques contre le méchant. | **159** |
-| **Ranged** | **À distance** | Mot seul | Une attaque avec à distance ignore le mot-clé Riposte du personnage défenseur. | **116** |
-| **Villainous** | **Vilenie** | Mot seul | Lorsqu'un sbire avec vilenie s'active (attaque ou manigance), attribuez-lui une carte de boost face cachée. | **107** |
-| **Quickstrike** | **Coup rapide** | Mot seul | Dès qu'un ennemi avec coup rapide engage un joueur, il attaque immédiatement ce joueur si celui-ci est sous forme de héros. | **103** |
-| **Steady** | **Solide** | Mot seul | Un personnage avec solide n'est affecté par sonné ou désorienté que s'il possède au moins 2 cartes d'état de ce type. | **95** |
-| **Restricted** | **Restreint** | Mot seul | Un joueur ne peut pas contrôler simultanément plus de 2 cartes portant le mot-clé restreint. | **90** |
-| **Patrol** | **Patrouille** | Mot seul | Tant qu'un sbire avec patrouille est engagé avec un joueur, ce joueur ne peut pas contrer la manigance principale. | **84** |
-| **Stalwart** | **Robuste** | Mot seul | Un personnage avec robuste ne peut ni être sonné, ni être désorienté (immunité totale). | **79** |
-| **Incite X** | **Incitation X** | `Incite X.` *(valeur)* | Lorsqu'une carte avec incitation X est révélée, placez immédiatement X menaces sur la manigance principale. | **68** |
-| **Team-Up** | **En équipe** | `Team-Up (A & B).` | Ne peut être incluse ou jouée que si les deux personnages spécifiés sont en jeu sous forme d'identité ou d'allié. | **47** |
-| **Teamwork (Trait)** | **Collaboration (Trait)** | `Teamwork (Trait).` | Après qu'un sbire avec collaboration entre en jeu, s'il y a un autre sbire avec le même trait en jeu, il s'active immédiatement. | **40** |
-| **Peril** | **Péril** | Mot seul | Tant qu'un joueur résout une carte avec péril, les autres joueurs ne peuvent ni l'aider, ni dépenser de ressources ou jouer de cartes. | **25** |
+| **À distance** | **Ranged** | Mot seul | Une attaque avec à distance ignore le mot-clé Riposte du personnage défenseur. | **116** |
 | **Alliance** | **Alliance** | Mot seul | Lorsqu'un joueur déclare son intention de jouer une carte alliance, n'importe quel autre joueur peut aider à payer son coût. | **24** |
-| **Setup** | **Mise en place** | Mot seul ou déclencheur | Une carte avec le mot-clé mise en place commence la partie en jeu lors de l'étape de configuration du scénario. | **28** |
-| **Temporary** | **Temporaire** | Mot seul | Une carte avec temporaire doit être défaussée du jeu à la fin du round en cours. | **18** |
-| **Amplified** | **Amplifié** | Mot seul | Renforce les effets d'amplification d'icônes ou de boost lors des activations. | **7** |
+| **Amplifié** | **Amplified** | Mot seul | Renforce les effets d'amplification d'icônes ou de boost lors des activations. | **7** |
+| **Collaboration (Trait)** | **Teamwork (Trait)** | `Teamwork (Trait).` | Après qu'un sbire avec collaboration entre en jeu, s'il y a un autre sbire avec le même trait en jeu, il s'active immédiatement. | **40** |
+| **Coup rapide** | **Quickstrike** | Mot seul | Dès qu'un ennemi avec coup rapide engage un joueur, il attaque immédiatement ce joueur si celui-ci est sous forme de héros. | **103** |
+| **Déferlement** | **Overkill** | Mot seul | Les dégâts excédentaires d'une attaque avec déferlement qui élimine un ennemi sont infligés au méchant (ou à l'identité si l'attaquant est un sbire). | **212** |
+| **En équipe** | **Team-Up** | `Team-Up (A & B).` | Ne peut être incluse ou jouée que si les deux personnages spécifiés sont en jeu sous forme d'identité ou d'allié. | **47** |
+| **Entrave X** | **Hinder X** | `Hinder X.` *(valeur)* | Une carte avec entrave X entre en jeu avec X menaces supplémentaires placées sur elle. | **181** |
+| **Garde** | **Guard** | Mot seul | Tant qu'un sbire avec garde est engagé avec un joueur, ce joueur ne peut pas effectuer d'attaques contre le méchant. | **159** |
+| **Incitation X** | **Incite X** | `Incite X.` *(valeur)* | Lorsqu'une carte avec incitation X est révélée, placez immédiatement X menaces sur la manigance principale. | **68** |
+| **Mise en place** | **Setup** | Mot seul ou déclencheur | Une carte avec le mot-clé mise en place commence la partie en jeu lors de l'étape de configuration du scénario. | **28** |
+| **Patrouille** | **Patrol** | Mot seul | Tant qu'un sbire avec patrouille est engagé avec un joueur, ce joueur ne peut pas contrer la manigance principale. | **84** |
+| **Perçant** | **Piercing** | Mot seul | Une attaque avec perçant défausse toutes les cartes d'état Tenace du personnage ciblé avant d'infliger ses dégâts. | **216** |
+| **Péril** | **Peril** | Mot seul | Tant qu'un joueur résout une carte avec péril, les autres joueurs ne peuvent ni l'aider, ni dépenser de ressources ou jouer de cartes. | **25** |
+| **Permanent** | **Permanent** | Mot seul | Une carte avec permanent ne peut pas quitter le jeu sous l'effet de capacités de cartes. | **249** |
+| **Renfort** | **Surge** | Mot seul | Après qu'un joueur a révélé une carte avec renfort, ce joueur révèle une carte rencontre supplémentaire. | **490** |
+| **Restreint** | **Restricted** | Mot seul | Un joueur ne peut pas contrôler simultanément plus de 2 cartes portant le mot-clé restreint. | **90** |
+| **Riposte X** | **Retaliate X** | `Retaliate X.` *(valeur)* | Après qu'un personnage avec riposte X a été attaqué et a subi des dégâts, infligez X dégâts à l'attaquant. | **206** |
+| **Robuste** | **Stalwart** | Mot seul | Un personnage avec robuste ne peut ni être sonné, ni être désorienté (immunité totale). | **79** |
+| **Solide** | **Steady** | Mot seul | Un personnage avec solide n'est affecté par sonné ou désorienté que s'il possède au moins 2 cartes d'état de ce type. | **95** |
+| **Temporaire** | **Temporary** | Mot seul | Une carte avec temporaire doit être défaussée du jeu à la fin du round en cours. | **18** |
+| **Ténacité** | **Toughness** | Mot seul | Lorsqu'un personnage avec ténacité entre en jeu, placez une carte d'état Tenace sur lui. | **211** |
+| **Utilisations (X « type »)** | **Uses (X « type »)** | `Uses (X type).` *(paramètre)* | Entre en jeu avec X jetons du type indiqué. Après le retrait du dernier jeton (et la résolution de l'effet), défaussez la carte. | **187** |
+| **Victoire X** | **Victory X** | `Victory X.` *(valeur)* | Lorsqu'une carte avec victoire X est vaincue ou déjouée, elle est ajoutée à la pile de victoire au lieu de la défausse. | **260** |
+| **Vilenie** | **Villainous** | Mot seul | Lorsqu'un sbire avec vilenie s'active (attaque ou manigance), attribuez-lui une carte de boost face cachée. | **107** |
+
 
 ---
 
@@ -45,24 +46,25 @@ Le tableau ci-dessous indique leur forme syntaxique, leur traduction officielle,
 
 Ces mots-clés ont été créés par les concepteurs de contenu fanmade et sont pleinement intégrés dans le moteur d'indexation de MC4DB (`rules_card_terms.json`) et les règles bilingues :
 
-| Terme EN | Terme FR | Forme syntaxique | Définition mécanique |
+| Terme FR | Terme EN | Forme syntaxique | Définition mécanique |
 |---|---|---|---|
-| **Ablative X** | **Ablatif X** | `Ablative X.` | Entre en jeu avec X jetons armure. Retirez-en 1 après avoir subi des dégâts ; défaussez la carte au retrait du dernier jeton. |
+| **Ablatif X** | **Ablative X** | `Ablative X.` | Entre en jeu avec X jetons armure. Retirez-en 1 après avoir subi des dégâts ; défaussez la carte au retrait du dernier jeton. |
 | **Agile X** | **Agile X** | `Agile X.` | Réduit de X les dégâts subis lors des attaques non défendues du méchant et des sbires portant vilenie. |
-| **Armored X** | **Blindé X** | `Armored X.` | Lorsqu'un personnage avec blindé X subirait des dégâts d'une attaque, prévenez X de ces dégâts. |
-| **Companion** | **Compagnon** | Mot seul | Un allié avec compagnon ne compte pas dans la limite d'alliés du joueur et ne peut pas défendre contre des attaques. |
-| **Critical (X)** | **Critique (X)** | `Critical (X).` | Défaussez les X cartes du dessus du deck rencontre et infligez à la cible autant de dégâts que le total d'icônes de boost défaussées. |
+| **Blindé X** | **Armored X** | `Armored X.` | Lorsqu'un personnage avec blindé X subirait des dégâts d'une attaque, prévenez X de ces dégâts. |
+| **Chasseur** | **Hunter** | Mot seul | Au début de chaque phase, ce sbire s'engage automatiquement avec l'identité ayant le moins de points de vie restants. |
+| **Compagnon** | **Companion** | Mot seul | Un allié avec compagnon ne compte pas dans la limite d'alliés du joueur et ne peut pas défendre contre des attaques. |
+| **Critique (X)** | **Critical (X)** | `Critical (X).` | Défaussez les X cartes du dessus du deck rencontre et infligez à la cible autant de dégâts que le total d'icônes de boost défaussées. |
 | **Drain X** | **Drain X** | `Drain X.` | Lorsque drain X est déclenché par un personnage, infligez X dégâts à la cible, puis soignez X dégâts de ce personnage si la cible a subi des dégâts. |
-| **Fleeting** | **Fugace** | Mot seul | Après la fin de la phase en cours, défaussez immédiatement cette carte du jeu. |
+| **Enquêter** | **Investigate** | Mot seul | Regardez les 3 cartes du dessus du deck rencontre, défaussez-en 1 et replacez les autres sur le dessus du deck dans l'ordre de votre choix. |
 | **Fragile** | **Fragile** | Mot seul | Les attaques ciblant ce personnage gagnent automatiquement le mot-clé Déferlement. |
-| **Hunter** | **Chasseur** | Mot seul | Au début de chaque phase, ce sbire s'engage automatiquement avec l'identité ayant le moins de points de vie restants. |
-| **Investigate** | **Enquêter** | Mot seul | Regardez les 3 cartes du dessus du deck rencontre, défaussez-en 1 et replacez les autres sur le dessus du deck dans l'ordre de votre choix. |
-| **Legion** | **Légion** | Mot seul | 2 alliés avec légion ne comptent ensemble que pour 1 seul allié dans votre limite d'alliés. |
-| **Reckless** | **Téméraire** | Mot seul | Lorsque ce personnage entre en jeu, placez 1 menace sur chaque manigance en jeu. |
-| **Regeneration X** | **Régénération X** | `Regeneration X.` | Lorsque ce personnage s'active, soignez immédiatement X dégâts sur ce personnage. |
-| **Resilient** | **Résistant** | Mot seul | Ne peut pas être vaincu par la résolution de dégâts consécutifs. |
-| **Scavenge** | **Puiser** | Mot seul | Défaussez des cartes du dessus du deck indiqué jusqu'à trouver une carte satisfaisant les critères, puis placez-la dans la zone indiquée. |
+| **Fugace** | **Fleeting** | Mot seul | Après la fin de la phase en cours, défaussez immédiatement cette carte du jeu. |
+| **Légion** | **Legion** | Mot seul | 2 alliés avec légion ne comptent ensemble que pour 1 seul allié dans votre limite d'alliés. |
+| **Puiser** | **Scavenge** | Mot seul | Défaussez des cartes du dessus du deck indiqué jusqu'à trouver une carte satisfaisant les critères, puis placez-la dans la zone indiquée. |
+| **Régénération X** | **Regeneration X** | `Regeneration X.` | Lorsque ce personnage s'active, soignez immédiatement X dégâts sur ce personnage. |
+| **Résistant** | **Resilient** | Mot seul | Ne peut pas être vaincu par la résolution de dégâts consécutifs. |
 | **Suppression** | **Suppression** | Mot seul | Considérez la boîte de texte de la carte attachée comme étant complètement vierge. |
+| **Téméraire** | **Reckless** | Mot seul | Lorsque ce personnage entre en jeu, placez 1 menace sur chaque manigance en jeu. |
+
 
 ---
 
@@ -70,26 +72,33 @@ Ces mots-clés ont été créés par les concepteurs de contenu fanmade et sont 
 
 Les déclencheurs ouvrent une capacité et définissent les conditions et fenêtres temporelles sous lesquelles elle peut être exécutée.
 
-| Déclencheur EN | Déclencheur FR | Catégorie | Description & Fenêtre temporelle | Occurrences (Packs) |
+| Déclencheur FR | Déclencheur EN | Catégorie | Description & Fenêtre temporelle | Occurrences (Packs) |
 |---|---|---|---|---|
-| **When Revealed** | **Une fois révélé(e)** | Rencontre | Se résout dès que la carte est révélée depuis le deck rencontre ou par un effet. | **1 586** |
-| **Hero Action** | **Action de héros** | Action joueur | Action jouable uniquement par un joueur sous forme de Héros durant son tour ou sur demande. | **1 283** |
-| **Forced Response** | **Réponse forcée** | Réponse passive | Réponse **obligatoire** déclenchée immédiatement après la survenue de son déclencheur. | **852** |
-| **Forced Interrupt** | **Interruption forcée** | Interruption | Interruption **obligatoire** résolue juste avant que son événement déclencheur ne se produise. | **717** |
-| **Response** | **Réponse** | Réponse joueur | Réponse **optionnelle** exécutable après la survenue de son événement déclencheur. | **542** |
 | **Action** | **Action** | Action joueur | Action jouable sous n'importe quelle forme d'identité (Héros ou Alter ego). | **534** |
-| **When Defeated** | **Une fois vaincu(e)** | Rencontre | Se résout immédiatement lorsqu'un ennemi ou une manigance est vaincu(e) ou déjoué(e). | **428** |
-| **Hero Response** | **Réponse de héros** | Réponse joueur | Réponse optionnelle exécutable uniquement sous forme de Héros. | **335** |
-| **Hero Interrupt** | **Interruption de héros** | Interruption | Interruption optionnelle exécutable uniquement sous forme de Héros. | **325** |
-| **Interrupt** | **Interruption** | Interruption | Interruption optionnelle exécutable sous n'importe quelle forme d'identité. | **308** |
-| **Alter-Ego Action** | **Action d'alter ego** | Action joueur | Action jouable uniquement lorsque le joueur est sous forme d'Alter ego. | **256** |
-| **Hero Resource** | **Ressource de héros** | Ressource | Capacité de génération de ressource réservée à la forme Héros. | **66** |
-| **Boost** | **Boost** | Boost | Effet supplémentaire résolu lorsqu'une carte portant cette ligne est retournée comme carte de boost. | **49** |
-| **Setup** | **Mise en place** | Configuration | Capacité spéciale exécutée lors de la phase de préparation de la partie. | **28** |
-| **Alter-Ego Response** | **Réponse d'alter ego** | Réponse joueur | Réponse optionnelle réservée à la forme Alter ego. | **20** |
-| **When Completed** | **Une fois achevé(e)** | Rencontre | Se résout lorsqu'une étape de manigance principale atteint son seuil cible de menace. | **19** |
-| **Forced Action** | **Action forcée** | Action passive | Action automatique imposée par une carte d'attachement ou une obligation. | **15** |
-| **First Player Action** | **Action de premier joueur** | Action joueur | Action réservée exclusivement au premier joueur du round. | **12** |
+| **Action d'alter ego** | **Alter-Ego Action** | Action joueur | Action jouable uniquement lorsque le joueur est sous forme d'Alter ego. | **256** |
+| **Action de héros** | **Hero Action** | Action joueur | Action jouable uniquement par un joueur sous forme de Héros durant son tour ou sur demande. | **1 283** |
+| **Action de premier joueur** | **First Player Action** | Action joueur | Action réservée exclusivement au premier joueur du round. | **12** |
+| **Action forcée** | **Forced Action** | Action passive | Action automatique imposée par une carte d'attachement ou une obligation. | **15** |
+| **Boost** | **Boost** | Boost | Effet supplémentaire résolu lorsqu'une carte portant cette ligne est retournée comme carte de boost. | **724** |
+| **Interruption** | **Interrupt** | Interruption | Interruption optionnelle exécutable sous n'importe quelle forme d'identité. | **308** |
+| **Interruption d'alter ego** | **Alter-Ego Interrupt** | Interruption | Interruption optionnelle réservée à la forme Alter ego. | **3** |
+| **Interruption de héros** | **Hero Interrupt** | Interruption | Interruption optionnelle exécutable uniquement sous forme de Héros. | **325** |
+| **Interruption de premier joueur** | **First Player Interrupt** | Interruption | Interruption exécutable exclusivement par le premier joueur. | **1** |
+| **Interruption forcée** | **Forced Interrupt** | Interruption passive | Interruption **obligatoire** résolue juste avant que son événement déclencheur ne se produise. | **717** |
+| **Mise en place** | **Setup** | Configuration | Capacité spéciale exécutée lors de la phase de préparation de la partie. | **185** |
+| **Réponse** | **Response** | Réponse joueur | Réponse **optionnelle** exécutable après la survenue de son événement déclencheur. | **542** |
+| **Réponse d'alter ego** | **Alter-Ego Response** | Réponse joueur | Réponse optionnelle réservée à la forme Alter ego. | **20** |
+| **Réponse de héros** | **Hero Response** | Réponse joueur | Réponse optionnelle exécutable uniquement sous forme de Héros. | **335** |
+| **Réponse de mission** | **Mission Response** | Réponse spéciale | Réponse spécifique liée aux objectifs de scénario de campagne. | **4** |
+| **Réponse forcée** | **Forced Response** | Réponse passive | Réponse **obligatoire** déclenchée immédiatement après la survenue de son déclencheur. | **852** |
+| **Ressource** | **Resource** | Ressource | Capacité de génération de ressource jouable sous n'importe quelle forme d'identité (ou neutre). | **85** |
+| **Ressource d'alter ego** | **Alter-Ego Resource** | Ressource | Capacité de génération de ressource réservée à la forme Alter ego *(ex: Laboratoire de Banner 10008, Walter's Lab 504525)*. | **3** |
+| **Ressource de héros** | **Hero Resource** | Ressource | Capacité de génération de ressource réservée à la forme Héros *(ex: Great White North 504556, Gantelets de War Machine 505589)*. | **66** |
+| **Spécial** | **Special** | Capacité spéciale | Effet particulier déclenché par une carte spécifique ou un résultat spécial. | **58** |
+| **Une fois achevé(e)** | **When Completed** | Rencontre | Se résout lorsqu'une étape de manigance principale atteint son seuil cible de menace. | **19** |
+| **Une fois révélé(e)** | **When Revealed** | Rencontre | Se résout dès que la carte est révélée depuis le deck rencontre ou par un effet. | **1 586** |
+| **Une fois vaincu(e)** | **When Defeated** | Rencontre | Se résout immédiatement lorsqu'un ennemi ou une manigance est vaincu(e) ou déjoué(e). | **428** |
+
 
 ---
 

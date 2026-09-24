@@ -41,9 +41,10 @@ Le balisage HTML à l'intérieur des textes de cartes est restreint et contrôl�
 
 #### Liste blanche des déclencheurs admis dans `<b>` :
 - **Actions** : `Action`, `Action de héros`, `Action d'alter ego`, `Action forcée`, `Action de premier joueur`.
-- **Interruptions** : `Interruption`, `Interruption de héros`, `Interruption d'alter ego`, `Interruption forced`, `Interruption forcée`, `Interruption forcée (héros)`, `Interruption de premier joueur`.
+- **Interruptions** : `Interruption`, `Interruption de héros`, `Interruption d'alter ego`, `Interruption forcée`, `Interruption forcée (héros)`, `Interruption de premier joueur`.
 - **Réponses** : `Réponse`, `Réponse de héros`, `Réponse d'alter ego`, `Réponse forcée`, `Réponse de mission`.
 - **Ressources** : `Ressource`, `Ressource de héros`, `Ressource d'alter ego`.
+
 - **Déclencheurs de rencontre** : `Une fois révélé`, `Une fois révélée`, `Une fois révélé (héros)`, `Une fois révélée (héros)`, `Une fois révélé (alter ego)`, `Une fois révélée (alter ego)`, `Une fois vaincu`, `Une fois vaincue`, `Une fois déjouée`, `Une fois achevé`, `Une fois achevée`.
 - **Spéciaux & Structure** : `Mise en place`, `Contenu`, `Spécial`, `Boost`, `Si ce stade est achevé, les joueurs perdent la partie.`, `Si cette manigance est achevée, les joueurs perdent la partie.`.
 

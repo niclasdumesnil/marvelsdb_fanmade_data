@@ -68,10 +68,13 @@ Cartes d'équipement, de pouvoirs durables ou de tactiques attachées à une ide
   - `Hero Interrupt` : **134** (41 %)
   - `Interrupt` : **97** (31 %)
   - `Response` : **93** (17 %)
-  - `Hero Resource` : **60** (91 % de toutes les Ressources de héros)
+  - `Hero Resource` (Ressource de héros) : **60** (91 % de toutes les Ressources de héros)
   - `Action` : **59** (11 %)
   - `Forced Interrupt` : **49**
+  - `Resource` (Ressource) : **42** (49 % de toutes les Ressources neutres)
   - `Forced Response` : **36**
+  - `Alter-Ego Resource` (Ressource d'alter ego) : **1** *(ex: Organic Webbing 203502)*
+
 - **Mots-clés associés** :
   - `Permanent` : **110** (44 % des Permanents du jeu)
   - `Restricted` (Restreint) : **86** (96 % de tous les Restreints — armes, armures)
@@ -224,8 +227,12 @@ Infrastructures, véhicules, alliés passifs et lieux restant en jeu.
   - `Action` : **86** (16 %)
   - `Response` : **51** (9 %)
   - `Hero Action` : **28** (2 %)
+  - `Resource` (Ressource) : **26** (31 % de toutes les Ressources neutres — *ex: Support Staff, Jemma Simmons*)
   - `Interrupt` : **20** (6 %)
   - `Alter-Ego Response` : **13** (65 %)
+  - `Hero Resource` (Ressource de héros) : **3** *(ex: Great White North 504556, Skuttlebutt 202708)*
+  - `Alter-Ego Resource` (Ressource d'alter ego) : **2** *(ex: Laboratoire de Banner 10008, Walter's Lab 504525)*
+
 - **Mots-clés associés** :
   - `Uses` (Utilisations) : **43** (23 % — compteurs d'énergie, charges, jetons génériques)
   - `Permanent` : **31** (12 %)
@@ -306,7 +313,9 @@ Face super-héroïque de l'identité du joueur.
   - `Interrupt` : **29** (9 %)
   - `Forced Response` : **16**
   - `Forced Interrupt` : **10**
+  - `Resource` (Ressource) : **9** *(ex: Captain Marvel 01010a, Venom 20001a)*
   - `Hero Action` : **5**
+  - `Hero Resource` : **1**
 - **Mots-clés associés** : `Uses` (5), `Guard` (2), `Restricted` (2), `Piercing` (2), `Retaliate` (1), `Villainous` (1), `Victory` (1), `Drain` (1).
 - **Termes mécaniques fréquents** : `Basic power` (14), `Encounter deck` (8), `Player phase` (7), `Side scheme` (7), `Hand size` (3).
 
@@ -321,6 +330,7 @@ Face civile et secrète de l'identité du joueur.
   - `Forced Interrupt` : **13**
   - `Setup` (Mise en place) : **12** (43 % de toutes les Mises en place du jeu)
   - `Interrupt` : **6**
+  - `Resource` (Ressource) : **3**
 - **Mots-clés associés** : `Uses` (1), `Temporary` (1), `Piercing` (1), `Restricted` (1).
 - **Termes mécaniques fréquents** : `Setup triggered ability` (57 — préparation de decks/cartes spécifiques), `Discard pile` (55), `Text box` (12), `Hand size` (3).
 
@@ -328,13 +338,20 @@ Face civile et secrète de l'identité du joueur.
 
 ### 2.15 Ressource (`resource`) — 111 cartes
 Cartes générant de l'énergie, de la force mentale ou physique pour financer les cartes en jeu.
-- **Déclencheurs prédominants** :
+
+> [!NOTE]
+> **Distinction fondamentale (Type de carte vs Déclencheur)** :
+> - Le **type de carte** `resource` (111 cartes) désigne une carte physique du deck joueur portant des icônes imprimées (`[energy]`, `[physical]`, `[mental]`, `[wild]`) et dépensée depuis la main pour payer des coûts de cartes.
+> - Les **déclencheurs de ressource** (`Resource`, `Hero Resource`, `Alter-Ego Resource`) sont des capacités de cartes posées en jeu (améliorations, soutiens, identités) qui génèrent des ressources lors de leur activation ou inclinaison.
+
+- **Déclencheurs prédominants (sur cartes ressources à effets additionnels)** :
   - `Hero Response` : **26** (8 %)
   - `Response` : **16** (3 %)
   - `Hero Interrupt` : **10** (3 %)
   - `Interrupt` : **7** (2 %)
 - **Mots-clés associés** : `Armored` (2), `Victory` (1).
 - **Termes mécaniques fréquents** : `Discard pile` (5), `All-purpose counter` (1), `Acceleration token` (1).
+
 
 ---
 
@@ -359,36 +376,47 @@ Le tableau croisé ci-dessous recense pour chaque grand mot-clé et déclencheur
 
 | Terme / Mot-clé | Total | Types porteurs principaux & pourcentages constatés | Type prédominant |
 |---|---|---|---|
-| **Surge (Renfort)** | 490 | `treachery`: 247 (50%), `attachment`: 101 (21%), `obligation`: 47 (10%), `minion`: 30 (6%), `environment`: 27 (6%), `side_scheme`: 26 (5%) | **Traîtrise / Attachement** |
-| **When Revealed** | 1 586 | `treachery`: 729 (46%), `side_scheme`: 224 (14%), `minion`: 218 (14%), `main_scheme`: 120 (8%), `villain`: 112 (7%), `attachment`: 65 (4%) | **Traîtrise / Manigance / Sbire** |
-| **Hero Action** | 1 283 | `event`: 788 (61%), `upgrade`: 207 (16%), `attachment`: 183 (14%), `environment`: 31 (2%), `support`: 28 (2%), `ally`: 16 (1%) | **Événement / Amélioration** |
-| **Forced Response** | 852 | `minion`: 208 (24%), `villain`: 142 (17%), `attachment`: 125 (15%), `side_scheme`: 87 (10%), `main_scheme`: 71 (8%), `environment`: 53 (6%) | **Sbire / Méchant / Attachement** |
-| **Forced Interrupt** | 717 | `attachment`: 161 (22%), `villain`: 146 (20%), `minion`: 137 (19%), `main_scheme`: 56 (8%), `side_scheme`: 50 (7%), `upgrade`: 49 (7%) | **Attachement / Méchant / Sbire** |
-| **When Defeated** | 428 | `side_scheme`: 212 (50%), `minion`: 120 (28%), `player_side_scheme`: 52 (12%), `villain`: 29 (7%) | **Manigance annexe / Sbire** |
-| **Alter-Ego Action** | 256 | `support`: 117 (46%), `obligation`: 69 (27%), `event`: 28 (11%), `attachment`: 19 (7%), `upgrade`: 10 (4%) | **Soutien / Obligation** |
-| **Victory X** | 260 | `minion`: 58 (22%), `side_scheme`: 56 (22%), `player_side_scheme`: 48 (18%), `attachment`: 18 (7%), `villain`: 17 (7%), `ally`: 15 (6%), `event`: 15 (6%) | **Manigance / Sbire** |
-| **Permanent** | 249 | `upgrade`: 110 (44%), `attachment`: 48 (19%), `support`: 31 (12%), `environment`: 30 (12%), `side_scheme`: 21 (8%) | **Amélioration / Attachement** |
-| **Piercing (Perçant)** | 216 | `minion`: 53 (25%), `attachment`: 44 (20%), `upgrade`: 37 (17%), `event`: 36 (17%), `ally`: 21 (10%), `villain`: 10 (5%) | **Sbire / Attachement / Amélioration** |
-| **Overkill (Déferlement)** | 212 | `event`: 55 (26%), `attachment`: 37 (17%), `minion`: 35 (17%), `upgrade`: 30 (14%), `treachery`: 18 (8%), `ally`: 16 (8%), `villain`: 10 (5%) | **Événement / Attachement / Sbire** |
-| **Toughness (Ténacité)** | 211 | `minion`: 102 (48%), `villain`: 70 (33%), `ally`: 33 (16%), `side_scheme`: 3 (1%) | **Sbire / Méchant / Allié** |
-| **Retaliate X (Riposte)** | 206 | `minion`: 51 (25%), `upgrade`: 44 (21%), `attachment`: 44 (21%), `villain`: 28 (14%), `ally`: 12 (6%), `environment`: 11 (5%) | **Sbire / Amélioration / Attachement** |
-| **Uses (Utilisations)** | 187 | `upgrade`: 58 (31%), `support`: 43 (23%), `ally`: 29 (16%), `attachment`: 23 (12%), `obligation`: 13 (7%), `environment`: 7 (4%) | **Amélioration / Soutien / Allié** |
-| **Hinder X (Entrave)** | 181 | `side_scheme`: 168 (93%), `main_scheme`: 10 (6%), `obligation`: 2 (1%), `player_side_scheme`: 1 (1%) | **Manigance annexe (93 %)** |
-| **Guard (Garde)** | 159 | `minion`: 113 (71%), `side_scheme`: 9 (6%), `main_scheme`: 9 (6%), `attachment`: 6 (4%), `upgrade`: 7 (4%) | **Sbire (71 %)** |
-| **Ranged (À distance)** | 116 | `upgrade`: 29 (25%), `attachment`: 23 (20%), `event`: 18 (16%), `villain`: 13 (11%), `ally`: 10 (9%) | **Amélioration / Attachement / Événement** |
-| **Villainous (Vilenie)** | 107 | `minion`: 90 (84%), `environment`: 4 (4%), `attachment`: 3 (3%), `side_scheme`: 3 (3%), `villain`: 2 (2%) | **Sbire (84 %)** |
-| **Quickstrike (Coup rapide)** | 103 | `minion`: 87 (84%), `side_scheme`: 5 (5%), `attachment`: 1 (1%), `upgrade`: 1 (1%) | **Sbire (84 %)** |
-| **Steady (Solide)** | 95 | `villain`: 27 (28%), `upgrade`: 19 (20%), `minion`: 14 (15%), `attachment`: 10 (11%), `main_scheme`: 5 (5%), `environment`: 4 (4%) | **Méchant / Amélioration / Sbire** |
-| **Restricted (Restreint)** | 90 | `upgrade`: 86 (96%), `hero`: 2 (2%), `ally`: 1 (1%), `alter_ego`: 1 (1%) | **Amélioration (96 %)** |
-| **Patrol (Patrouille)** | 84 | `minion`: 50 (60%), `upgrade`: 12 (14%), `event`: 8 (10%), `main_scheme`: 4 (5%), `side_scheme`: 4 (5%) | **Sbire (60 %)** |
-| **Stalwart (Robuste)** | 79 | `attachment`: 31 (39%), `villain`: 21 (27%), `minion`: 11 (14%), `upgrade`: 8 (10%), `side_scheme`: 3 (4%) | **Attachement / Méchant / Sbire** |
-| **Incite X (Incitation)** | 68 | `treachery`: 27 (40%), `minion`: 22 (32%), `side_scheme`: 6 (9%), `environment`: 6 (9%), `attachment`: 3 (4%), `villain`: 3 (4%) | **Traîtrise / Sbire** |
-| **Team-Up (En équipe)** | 47 | `event`: 44 (94%), `upgrade`: 2 (4%), `player_side_scheme`: 1 (2%) | **Événement (94 %)** |
-| **Teamwork (Collaboration)** | 40 | `minion`: 38 (95%), `side_scheme`: 2 (5%) | **Sbire (95 %)** |
-| **Peril (Péril)** | 25 | `treachery`: 21 (84%), `obligation`: 3 (12%), `attachment`: 1 (4%) | **Traîtrise (84 %)** |
+| **À distance (Ranged)** | 116 | `upgrade`: 29 (25%), `attachment`: 23 (20%), `event`: 18 (16%), `villain`: 13 (11%), `ally`: 10 (9%) | **Amélioration / Attachement / Événement** |
+| **Action** | 534 | `alter_ego`: 103 (19%), `support`: 86 (16%), `event`: 127 (24%), `hero`: 51 (10%), `upgrade`: 59 (11%), `ally`: 46 (9%) | **Événement / Alter ego / Soutien** |
+| **Action d'alter ego (Alter-Ego Action)** | 256 | `support`: 117 (46%), `obligation`: 69 (27%), `event`: 28 (11%), `attachment`: 19 (7%), `upgrade`: 10 (4%) | **Soutien / Obligation** |
+| **Action de héros (Hero Action)** | 1 283 | `event`: 788 (61%), `upgrade`: 207 (16%), `attachment`: 183 (14%), `environment`: 31 (2%), `support`: 28 (2%), `ally`: 16 (1%) | **Événement / Amélioration** |
+| **Action de premier joueur (First Player Action)** | 12 | `main_scheme`: 4 (33%), `side_scheme`: 6 (50%), `environment`: 2 (17%) | **Manigance (83 %)** |
+| **Action forcée (Forced Action)** | 15 | `attachment`: 8 (53%), `obligation`: 7 (47%) | **Attachement / Obligation** |
 | **Alliance** | 24 | `event`: 22 (92%), `support`: 1 (4%), `treachery`: 1 (4%) | **Événement (92 %)** |
-| **When Completed** | 19 | `main_scheme`: 19 (100 %) | **Manigance principale (100 %)** |
-| **Setup (Mise en place)** | 28 | `main_scheme`: 16 (57%), `alter_ego`: 12 (43%) | **Manigance principale / Alter ego** |
+| **Boost** | 724 | `treachery`: 281 (39%), `minion`: 246 (34%), `attachment`: 112 (15%), `side_scheme`: 56 (8%) | **Traîtrise / Sbire (73 %)** |
+| **Collaboration (Teamwork)** | 40 | `minion`: 38 (95%), `side_scheme`: 2 (5%) | **Sbire (95 %)** |
+| **Coup rapide (Quickstrike)** | 103 | `minion`: 87 (84%), `side_scheme`: 5 (5%), `attachment`: 1 (1%), `upgrade`: 1 (1%) | **Sbire (84 %)** |
+| **Déferlement (Overkill)** | 212 | `event`: 55 (26%), `attachment`: 37 (17%), `minion`: 35 (17%), `upgrade`: 30 (14%), `treachery`: 18 (8%), `ally`: 16 (8%), `villain`: 10 (5%) | **Événement / Attachement / Sbire** |
+| **En équipe (Team-Up)** | 47 | `event`: 44 (94%), `upgrade`: 2 (4%), `player_side_scheme`: 1 (2%) | **Événement (94 %)** |
+| **Entrave X (Hinder)** | 181 | `side_scheme`: 168 (93%), `main_scheme`: 10 (6%), `obligation`: 2 (1%), `player_side_scheme`: 1 (1%) | **Manigance annexe (93 %)** |
+| **Garde (Guard)** | 159 | `minion`: 113 (71%), `side_scheme`: 9 (6%), `main_scheme`: 9 (6%), `attachment`: 6 (4%), `upgrade`: 7 (4%) | **Sbire (71 %)** |
+| **Incitation X (Incite)** | 68 | `treachery`: 27 (40%), `minion`: 22 (32%), `side_scheme`: 6 (9%), `environment`: 6 (9%), `attachment`: 3 (4%), `villain`: 3 (4%) | **Traîtrise / Sbire** |
+| **Interruption (Interrupt)** | 308 | `upgrade`: 97 (31%), `ally`: 91 (30%), `hero`: 29 (9%), `support`: 20 (6%), `event`: 15 (5%), `attachment`: 12 (4%) | **Amélioration / Allié (61 %)** |
+| **Interruption de héros (Hero Interrupt)** | 325 | `event`: 160 (49%), `upgrade`: 134 (41%), `support`: 9 (3%), `resource`: 10 (3%) | **Événement / Amélioration (90 %)** |
+| **Interruption forcée (Forced Interrupt)** | 717 | `attachment`: 161 (22%), `villain`: 146 (20%), `minion`: 137 (19%), `main_scheme`: 56 (8%), `side_scheme`: 50 (7%), `upgrade`: 49 (7%) | **Attachement / Méchant / Sbire** |
+| **Mise en place (Setup)** | 185 | `main_scheme`: 98 (53%), `alter_ego`: 42 (23%), `leader`: 15 (8%), `environment`: 11 (6%) | **Manigance principale / Alter ego** |
+| **Patrouille (Patrol)** | 84 | `minion`: 50 (60%), `upgrade`: 12 (14%), `event`: 8 (10%), `main_scheme`: 4 (5%), `side_scheme`: 4 (5%) | **Sbire (60 %)** |
+| **Perçant (Piercing)** | 216 | `minion`: 53 (25%), `attachment`: 44 (20%), `upgrade`: 37 (17%), `event`: 36 (17%), `ally`: 21 (10%), `villain`: 10 (5%) | **Sbire / Attachement / Amélioration** |
+| **Péril (Peril)** | 25 | `treachery`: 21 (84%), `obligation`: 3 (12%), `attachment`: 1 (4%) | **Traîtrise (84 %)** |
+| **Permanent** | 249 | `upgrade`: 110 (44%), `attachment`: 48 (19%), `support`: 31 (12%), `environment`: 30 (12%), `side_scheme`: 21 (8%) | **Amélioration / Attachement** |
+| **Renfort (Surge)** | 490 | `treachery`: 247 (50%), `attachment`: 101 (21%), `obligation`: 47 (10%), `minion`: 30 (6%), `environment`: 27 (6%), `side_scheme`: 26 (5%) | **Traîtrise / Attachement** |
+| **Réponse (Response)** | 542 | `ally`: 239 (44%), `upgrade`: 93 (17%), `hero`: 78 (14%), `support`: 51 (9%), `alter_ego`: 25 (5%) | **Allié / Amélioration / Héros** |
+| **Réponse de héros (Hero Response)** | 335 | `upgrade`: 161 (48%), `event`: 58 (17%), `attachment`: 40 (12%), `ally`: 26 (8%), `resource`: 26 (8%) | **Amélioration / Événement** |
+| **Réponse forcée (Forced Response)** | 852 | `minion`: 208 (24%), `villain`: 142 (17%), `attachment`: 125 (15%), `side_scheme`: 87 (10%), `main_scheme`: 71 (8%), `environment`: 53 (6%) | **Sbire / Méchant / Attachement** |
+| **Ressource (Resource)** | 85 | `upgrade`: 42 (49%), `support`: 26 (31%), `hero`: 9 (11%), `ally`: 4 (5%), `alter_ego`: 3 (4%) | **Amélioration / Soutien (80 %)** |
+| **Ressource d'alter ego (Alter-Ego Resource)** | 3 | `support`: 2 (67%), `upgrade`: 1 (33%) | **Soutien civil (67 %)** |
+| **Ressource de héros (Hero Resource)** | 62 | `upgrade`: 57 (92%), `support`: 3 (5%), `ally`: 1 (1.5%), `hero`: 1 (1.5%) | **Amélioration (92 %)** |
+| **Restreint (Restricted)** | 90 | `upgrade`: 86 (96%), `hero`: 2 (2%), `ally`: 1 (1%), `alter_ego`: 1 (1%) | **Amélioration (96 %)** |
+| **Riposte X (Retaliate)** | 206 | `minion`: 51 (25%), `upgrade`: 44 (21%), `attachment`: 44 (21%), `villain`: 28 (14%), `ally`: 12 (6%), `environment`: 11 (5%) | **Sbire / Amélioration / Attachement** |
+| **Robuste (Stalwart)** | 79 | `attachment`: 31 (39%), `villain`: 21 (27%), `minion`: 11 (14%), `upgrade`: 8 (10%), `side_scheme`: 3 (4%) | **Attachement / Méchant / Sbire** |
+| **Solide (Steady)** | 95 | `villain`: 27 (28%), `upgrade`: 19 (20%), `minion`: 14 (15%), `attachment`: 10 (11%), `main_scheme`: 5 (5%), `environment`: 4 (4%) | **Méchant / Amélioration / Sbire** |
+| **Ténacité (Toughness)** | 211 | `minion`: 102 (48%), `villain`: 70 (33%), `ally`: 33 (16%), `side_scheme`: 3 (1%) | **Sbire / Méchant / Allié** |
+| **Une fois achevé(e) (When Completed)** | 19 | `main_scheme`: 19 (100 %) | **Manigance principale (100 %)** |
+| **Une fois révélé(e) (When Revealed)** | 1 586 | `treachery`: 729 (46%), `side_scheme`: 224 (14%), `minion`: 218 (14%), `main_scheme`: 120 (8%), `villain`: 112 (7%), `attachment`: 65 (4%) | **Traîtrise / Manigance / Sbire** |
+| **Une fois vaincu(e) (When Defeated)** | 428 | `side_scheme`: 212 (50%), `minion`: 120 (28%), `player_side_scheme`: 52 (12%), `villain`: 29 (7%) | **Manigance annexe / Sbire** |
+| **Utilisations (Uses)** | 187 | `upgrade`: 58 (31%), `support`: 43 (23%), `ally`: 29 (16%), `attachment`: 23 (12%), `obligation`: 13 (7%), `environment`: 7 (4%) | **Amélioration / Soutien / Allié** |
+| **Victoire X (Victory)** | 260 | `minion`: 58 (22%), `side_scheme`: 56 (22%), `player_side_scheme`: 48 (18%), `attachment`: 18 (7%), `villain`: 17 (7%), `ally`: 15 (6%), `event`: 15 (6%) | **Manigance / Sbire** |
+| **Vilenie (Villainous)** | 107 | `minion`: 90 (84%), `environment`: 4 (4%), `attachment`: 3 (3%), `side_scheme`: 3 (3%), `villain`: 2 (2%) | **Sbire (84 %)** |
 
 ---
 
@@ -412,3 +440,9 @@ L'analyse du corpus permet de dégager des **règles d'affinité canoniques** qu
 3. **Symétrie des Déclencheurs Identité** :
    - Les cartes `support` hébergent majoritairement des **`Alter-Ego Action`** (46 %) : les soutiens représentent souvent les alliés civils, laboratoires, bureaux et appartements des héros.
    - Les cartes `event` et `upgrade` hébergent massivement les **`Hero Action`**, **`Hero Interrupt`** et **`Hero Response`** (pouvoirs héroïques au combat).
+
+4. **Symétrie et Spécialisation des Déclencheurs de Ressource** :
+   - **`Hero Resource`** : réservé à **92 %** aux cartes `upgrade` (équipements super-héroïques générateurs d'énergie en combat) et quelques `support` tactiques.
+   - **`Alter-Ego Resource`** : réservé aux infrastructures de recherche civile (`support` de laboratoire/bureau comme Bruce Banner ou Walter Langkowski).
+   - **`Resource` (générique)** : partagé entre `upgrade` (49 %) et `support` (31 %), utilisable indifféremment sous les deux formes d'identité.
+
