@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "storm",
+ "sets": {
+  "shadow_king": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#45657b",
+    "background_gradient_haut": "#8a9aa5",
+    "inner_border_cracks_color": "#78969b",
+    "middle_border_color": "#1f272b",
+    "outer_border_accent": "#2e4b5b",
+    "outer_border_color": "#21282b",
+    "shading_color": "#78969b"
+   }
+  },
+  "storm": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#b78f3c",
+    "head_splash_color": "#9c8154",
+    "left_color": "#d9d9db",
+    "left_color_light": "#e9ecf0",
+    "light_boxes": "#cbd0d3",
+    "right_color": "#363b3f",
+    "right_color_light": "#8294ab"
+   }
+  },
+  "storm_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#252d31",
+    "background_gradient_haut": "#20262f",
+    "inner_border_cracks_color": "#df8954",
+    "middle_border_color": "#1f2629",
+    "outer_border_accent": "#332e36",
+    "outer_border_color": "#1f2528",
+    "shading_color": "#df8954"
+   }
+  }
+ }
+}

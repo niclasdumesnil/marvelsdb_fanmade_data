@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "winter",
+ "sets": {
+  "whiteout": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#202728",
+    "background_gradient_haut": "#1c2223",
+    "inner_border_cracks_color": "#eaeef4",
+    "middle_border_color": "#1a211f",
+    "outer_border_accent": "#83888e",
+    "outer_border_color": "#1b2120",
+    "shading_color": "#eaeef4"
+   }
+  },
+  "winter_soldier": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#9f2234",
+    "head_splash_color": "#686d72",
+    "left_color": "#313f4f",
+    "left_color_light": "#c8cbce",
+    "light_boxes": "#b4b6ba",
+    "right_color": "#8a908f",
+    "right_color_light": "#c7cccd"
+   }
+  },
+  "winter_soldier_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#202728",
+    "background_gradient_haut": "#25292d",
+    "inner_border_cracks_color": "#c3b9b4",
+    "middle_border_color": "#1c2220",
+    "outer_border_accent": "#827a81",
+    "outer_border_color": "#1d2322",
+    "shading_color": "#c3b9b4"
+   }
+  }
+ }
+}

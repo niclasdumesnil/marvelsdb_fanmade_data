@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "cap",
+ "sets": {
+  "captain_america": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#efeff3",
+    "head_splash_color": "#862d36",
+    "left_color": "#1b487c",
+    "left_color_light": "#4373a3",
+    "light_boxes": "#b3b6bb",
+    "right_color": "#9e2631",
+    "right_color_light": "#c05756"
+   }
+  },
+  "captain_america_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#6c3665",
+    "background_gradient_haut": "#922068",
+    "inner_border_cracks_color": "#bca85c",
+    "middle_border_color": "#262d2d",
+    "outer_border_accent": "#968f4a",
+    "outer_border_color": "#252c2d",
+    "shading_color": "#bca85c"
+   }
+  }
+ }
+}

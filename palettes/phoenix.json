@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "phoenix",
+ "sets": {
+  "phoenix": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#ebcd04",
+    "head_splash_color": "#c6ac15",
+    "left_color": "#216c53",
+    "left_color_light": "#a3c3b8",
+    "light_boxes": "#bdc0c5",
+    "right_color": "#95ad34",
+    "right_color_light": "#eedc1a"
+   }
+  },
+  "phoenix_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#293138",
+    "background_gradient_haut": "#362f35",
+    "inner_border_cracks_color": "#dbc25e",
+    "middle_border_color": "#273338",
+    "outer_border_accent": "#555640",
+    "outer_border_color": "#29333a",
+    "shading_color": "#dbc25e"
+   }
+  }
+ }
+}

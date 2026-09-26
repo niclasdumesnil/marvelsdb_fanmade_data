@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "gambit",
+ "sets": {
+  "exodus": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#32607a",
+    "background_gradient_haut": "#8295a5",
+    "inner_border_cracks_color": "#dbe7ed",
+    "middle_border_color": "#1f272d",
+    "outer_border_accent": "#8ca4a9",
+    "outer_border_color": "#20272c",
+    "shading_color": "#dbe7ed"
+   }
+  },
+  "gambit": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#362b3a",
+    "head_splash_color": "#882261",
+    "left_color": "#ae1c76",
+    "left_color_light": "#d54a91",
+    "light_boxes": "#aeb1b4",
+    "right_color": "#75323d",
+    "right_color_light": "#a98a8d"
+   }
+  },
+  "gambit_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#27333a",
+    "background_gradient_haut": "#2c4048",
+    "inner_border_cracks_color": "#5c797e",
+    "middle_border_color": "#27302a",
+    "outer_border_accent": "#a39d88",
+    "outer_border_color": "#232c29",
+    "shading_color": "#5c797e"
+   }
+  }
+ }
+}

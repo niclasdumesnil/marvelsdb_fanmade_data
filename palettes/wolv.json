@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "wolv",
+ "sets": {
+  "deathstrike": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#34667a",
+    "background_gradient_haut": "#82969f",
+    "inner_border_cracks_color": "#8ea6a3",
+    "middle_border_color": "#175068",
+    "outer_border_accent": "#28393f",
+    "outer_border_color": "#1d272b",
+    "shading_color": "#8ea6a3"
+   }
+  },
+  "wolverine": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#333a35",
+    "head_splash_color": "#b8960e",
+    "left_color": "#e1ac02",
+    "left_color_light": "#ebe158",
+    "light_boxes": "#b1b3b3",
+    "right_color": "#373c82",
+    "right_color_light": "#b7bbb9"
+   }
+  },
+  "wolverine_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#512d31",
+    "background_gradient_haut": "#7b252d",
+    "inner_border_cracks_color": "#adaca7",
+    "middle_border_color": "#b1aca3",
+    "outer_border_accent": "#d0d3dd",
+    "outer_border_color": "#9b968d",
+    "shading_color": "#adaca7"
+   }
+  }
+ }
+}

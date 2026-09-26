@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "drs",
+ "sets": {
+  "doctor_strange": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#c49e1a",
+    "head_splash_color": "#8f213c",
+    "left_color": "#687075",
+    "left_color_light": "#d0d8e6",
+    "light_boxes": "#a5a6aa",
+    "right_color": "#772234",
+    "right_color_light": "#df8880"
+   }
+  },
+  "doctor_strange_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#264c48",
+    "background_gradient_haut": "#19634d",
+    "inner_border_cracks_color": "#cacd1f",
+    "middle_border_color": "#212926",
+    "outer_border_accent": "#aca824",
+    "outer_border_color": "#202827",
+    "shading_color": "#cacd1f"
+   }
+  }
+ }
+}

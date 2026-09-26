@@ -1,0 +1,150 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "gmw",
+ "sets": {
+  "badoon_headhunter": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2e5e7b",
+    "background_gradient_haut": "#7990a1",
+    "inner_border_cracks_color": "#85a1a6",
+    "middle_border_color": "#254d65",
+    "outer_border_accent": "#2c3e48",
+    "outer_border_color": "#202b2e",
+    "shading_color": "#85a1a6"
+   }
+  },
+  "band_of_badoon": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#35627e",
+    "background_gradient_haut": "#7790a1",
+    "inner_border_cracks_color": "#5a8594",
+    "middle_border_color": "#1e2b30",
+    "outer_border_accent": "#272e2f",
+    "outer_border_color": "#1e2729",
+    "shading_color": "#5a8594"
+   }
+  },
+  "groot": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#68813b",
+    "head_splash_color": "#59744e",
+    "left_color": "#6c482f",
+    "left_color_light": "#ddb438",
+    "light_boxes": "#a9acb3",
+    "right_color": "#413530",
+    "right_color_light": "#c9bda3"
+   }
+  },
+  "groot_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#33375f",
+    "background_gradient_haut": "#56346a",
+    "inner_border_cracks_color": "#dfc26c",
+    "middle_border_color": "#21272a",
+    "outer_border_accent": "#2a2c2f",
+    "outer_border_color": "#202529",
+    "shading_color": "#dfc26c"
+   }
+  },
+  "infiltrate_the_museum": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#ada59d",
+    "background_gradient_haut": "#d9d6d8",
+    "inner_border_cracks_color": "#77727a",
+    "middle_border_color": "#302c2f",
+    "outer_border_accent": "#2f2a30",
+    "outer_border_color": "#232829",
+    "shading_color": "#77727a"
+   }
+  },
+  "kree_militant": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3a637e",
+    "background_gradient_haut": "#7d91a2",
+    "inner_border_cracks_color": "#82a2ab",
+    "middle_border_color": "#1d282a",
+    "outer_border_accent": "#272d32",
+    "outer_border_color": "#1f2829",
+    "shading_color": "#82a2ab"
+   }
+  },
+  "menagerie_medley": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#35617f",
+    "background_gradient_haut": "#7e92a1",
+    "inner_border_cracks_color": "#7b9eab",
+    "middle_border_color": "#20323b",
+    "outer_border_accent": "#293133",
+    "outer_border_color": "#20272a",
+    "shading_color": "#7b9eab"
+   }
+  },
+  "nebula": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#663c60",
+    "background_gradient_haut": "#972a68",
+    "inner_border_cracks_color": "#4a71b0",
+    "middle_border_color": "#214974",
+    "outer_border_accent": "#6987ba",
+    "outer_border_color": "#1e436e",
+    "shading_color": "#4a71b0"
+   }
+  },
+  "rocket": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#c85225",
+    "head_splash_color": "#a8594b",
+    "left_color": "#343433",
+    "left_color_light": "#ada9a3",
+    "light_boxes": "#b3b4b7",
+    "right_color": "#696251",
+    "right_color_light": "#dbc7ba"
+   }
+  },
+  "rocket_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#254778",
+    "background_gradient_haut": "#1a6298",
+    "inner_border_cracks_color": "#7f9bb2",
+    "middle_border_color": "#23282d",
+    "outer_border_accent": "#5e6062",
+    "outer_border_color": "#22262d",
+    "shading_color": "#7f9bb2"
+   }
+  },
+  "space_pirates": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#32627f",
+    "background_gradient_haut": "#7a92a3",
+    "inner_border_cracks_color": "#79a2aa",
+    "middle_border_color": "#214053",
+    "outer_border_accent": "#2b3031",
+    "outer_border_color": "#1e262d",
+    "shading_color": "#79a2aa"
+   }
+  }
+ }
+}

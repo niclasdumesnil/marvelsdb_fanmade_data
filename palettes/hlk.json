@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "hlk",
+ "sets": {
+  "hulk": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#712175",
+    "head_splash_color": "#5c2e6d",
+    "left_color": "#1c7b4d",
+    "left_color_light": "#5ea66e",
+    "light_boxes": "#9b9fa7",
+    "right_color": "#1d7b4d",
+    "right_color_light": "#a3c9ab"
+   }
+  },
+  "hulk_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#5b6755",
+    "background_gradient_haut": "#8e9172",
+    "inner_border_cracks_color": "#a6b285",
+    "middle_border_color": "#1e2727",
+    "outer_border_accent": "#a0a33c",
+    "outer_border_color": "#1f2729",
+    "shading_color": "#a6b285"
+   }
+  }
+ }
+}

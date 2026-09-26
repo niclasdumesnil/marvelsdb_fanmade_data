@@ -1,0 +1,59 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "mojo",
+ "sets": {
+  "fantasy": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3a687d",
+    "background_gradient_haut": "#8196a3",
+    "inner_border_cracks_color": "#71959d",
+    "middle_border_color": "#1c353c",
+    "outer_border_accent": "#2b515e",
+    "outer_border_color": "#1e2b30",
+    "shading_color": "#71959d"
+   }
+  },
+  "horror": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#366679",
+    "background_gradient_haut": "#8197a2",
+    "inner_border_cracks_color": "#729aa5",
+    "middle_border_color": "#20292b",
+    "outer_border_accent": "#1d5b7b",
+    "outer_border_color": "#22292b",
+    "shading_color": "#729aa5"
+   }
+  },
+  "sci-fi": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#39667c",
+    "background_gradient_haut": "#8296a2",
+    "inner_border_cracks_color": "#7b9ea2",
+    "middle_border_color": "#1e3a46",
+    "outer_border_accent": "#2a4550",
+    "outer_border_color": "#1e2a2f",
+    "shading_color": "#7b9ea2"
+   }
+  },
+  "western": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#326579",
+    "background_gradient_haut": "#7e959c",
+    "inner_border_cracks_color": "#7b9b9b",
+    "middle_border_color": "#1e252a",
+    "outer_border_accent": "#29454e",
+    "outer_border_color": "#1f262a",
+    "shading_color": "#7b9b9b"
+   }
+  }
+ }
+}

@@ -1,0 +1,267 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "aos",
+ "sets": {
+  "a.i.m._abduction": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#366281",
+    "background_gradient_haut": "#8294a4",
+    "inner_border_cracks_color": "#6f95a7",
+    "middle_border_color": "#24282b",
+    "outer_border_accent": "#295067",
+    "outer_border_color": "#252a2c",
+    "shading_color": "#6f95a7"
+   }
+  },
+  "a.i.m._science": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#38617c",
+    "background_gradient_haut": "#8495a4",
+    "inner_border_cracks_color": "#7c9ba5",
+    "middle_border_color": "#21272a",
+    "outer_border_accent": "#2f4a5c",
+    "outer_border_color": "#21282a",
+    "shading_color": "#7c9ba5"
+   }
+  },
+  "baron_zemo": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#6d325c",
+    "background_gradient_haut": "#9a1a64",
+    "inner_border_cracks_color": "#be8e35",
+    "middle_border_color": "#1f2326",
+    "outer_border_accent": "#4d3448",
+    "outer_border_color": "#202426",
+    "shading_color": "#be8e35"
+   }
+  },
+  "batroc": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#5f3543",
+    "background_gradient_haut": "#8d4a44",
+    "inner_border_cracks_color": "#b3acab",
+    "middle_border_color": "#212729",
+    "outer_border_accent": "#333031",
+    "outer_border_color": "#22282a",
+    "shading_color": "#b3acab"
+   }
+  },
+  "batrocs_brigade": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3e6984",
+    "background_gradient_haut": "#8699a9",
+    "inner_border_cracks_color": "#aec6ce",
+    "middle_border_color": "#23272a",
+    "outer_border_accent": "#2f698b",
+    "outer_border_color": "#242628",
+    "shading_color": "#aec6ce"
+   }
+  },
+  "black_widow_villain": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#222629",
+    "background_gradient_haut": "#222b25",
+    "inner_border_cracks_color": "#323948",
+    "middle_border_color": "#24282a",
+    "outer_border_accent": "#607945",
+    "outer_border_color": "#252a2c",
+    "shading_color": "#323948"
+   }
+  },
+  "gravitational_pull": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#722f3c",
+    "background_gradient_haut": "#9c1e2e",
+    "inner_border_cracks_color": "#dca620",
+    "middle_border_color": "#212629",
+    "outer_border_accent": "#302f29",
+    "outer_border_color": "#222729",
+    "shading_color": "#dca620"
+   }
+  },
+  "hard_sound": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#24292c",
+    "background_gradient_haut": "#22272d",
+    "inner_border_cracks_color": "#b62750",
+    "middle_border_color": "#212929",
+    "outer_border_accent": "#dcc271",
+    "outer_border_color": "#22272a",
+    "shading_color": "#b62750"
+   }
+  },
+  "m.o.d.o.k.": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#a25a3e",
+    "background_gradient_haut": "#d59515",
+    "inner_border_cracks_color": "#c8236c",
+    "middle_border_color": "#23242c",
+    "outer_border_accent": "#3f335c",
+    "outer_border_color": "#24252c",
+    "shading_color": "#c8236c"
+   }
+  },
+  "maria_hill": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#6a868f",
+    "head_splash_color": "#768487",
+    "left_color": "#a9aaac",
+    "left_color_light": "#9f908d",
+    "light_boxes": "#b2b2b6",
+    "right_color": "#1f2323",
+    "right_color_light": "#4e5359"
+   }
+  },
+  "maria_hill_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#262a31",
+    "background_gradient_haut": "#272b40",
+    "inner_border_cracks_color": "#bbbec6",
+    "middle_border_color": "#1e2529",
+    "outer_border_accent": "#99abbd",
+    "outer_border_color": "#1e2528",
+    "shading_color": "#bbbec6"
+   }
+  },
+  "nick_fury": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#272a4a",
+    "head_splash_color": "#373f4b",
+    "left_color": "#283132",
+    "left_color_light": "#96a4ad",
+    "light_boxes": "#b2b2b4",
+    "right_color": "#1e2523",
+    "right_color_light": "#61676d"
+   }
+  },
+  "nick_fury_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#20282a",
+    "background_gradient_haut": "#2b2a2f",
+    "inner_border_cracks_color": "#868080",
+    "middle_border_color": "#1d2628",
+    "outer_border_accent": "#9c3534",
+    "outer_border_color": "#1e2729",
+    "shading_color": "#868080"
+   }
+  },
+  "pale_little_spider": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#22282b",
+    "background_gradient_haut": "#1c2423",
+    "inner_border_cracks_color": "#2f3541",
+    "middle_border_color": "#1d2528",
+    "outer_border_accent": "#678644",
+    "outer_border_color": "#1e2528",
+    "shading_color": "#2f3541"
+   }
+  },
+  "power_of_the_atom": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3d2d32",
+    "background_gradient_haut": "#6e372b",
+    "inner_border_cracks_color": "#b5aea6",
+    "middle_border_color": "#1b2224",
+    "outer_border_accent": "#4c5966",
+    "outer_border_color": "#1d2325",
+    "shading_color": "#b5aea6"
+   }
+  },
+  "s.h.i.e.l.d.": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3e6981",
+    "background_gradient_haut": "#8799a5",
+    "inner_border_cracks_color": "#7ea3ac",
+    "middle_border_color": "#20272a",
+    "outer_border_accent": "#275f80",
+    "outer_border_color": "#21282b",
+    "shading_color": "#7ea3ac"
+   }
+  },
+  "scientist_supreme": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#356681",
+    "background_gradient_haut": "#8599a6",
+    "inner_border_cracks_color": "#68929f",
+    "middle_border_color": "#202529",
+    "outer_border_accent": "#1a587a",
+    "outer_border_color": "#232629",
+    "shading_color": "#68929f"
+   }
+  },
+  "supersonic": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#262c32",
+    "background_gradient_haut": "#223842",
+    "inner_border_cracks_color": "#cd3e3d",
+    "middle_border_color": "#1c2224",
+    "outer_border_accent": "#433d3f",
+    "outer_border_color": "#1d2224",
+    "shading_color": "#cd3e3d"
+   }
+  },
+  "the_leaper": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#5f353b",
+    "background_gradient_haut": "#8b4b3c",
+    "inner_border_cracks_color": "#b8b0ab",
+    "middle_border_color": "#1c2224",
+    "outer_border_accent": "#4b4643",
+    "outer_border_color": "#1d2326",
+    "shading_color": "#b8b0ab"
+   }
+  },
+  "thunderbolts": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#321c1d",
+    "background_gradient_haut": "#c31f23",
+    "inner_border_cracks_color": "#f2a644",
+    "middle_border_color": "#1a1916",
+    "outer_border_accent": "#613223",
+    "outer_border_color": "#1a1917",
+    "shading_color": "#f2a644"
+   }
+  }
+ }
+}

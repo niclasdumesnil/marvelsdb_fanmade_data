@@ -1,0 +1,98 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "synthezoid",
+ "sets": {
+  "deadly_duo": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#351f21",
+    "background_gradient_haut": "#c61c2a",
+    "inner_border_cracks_color": "#f0a13b",
+    "middle_border_color": "#1d1b19",
+    "outer_border_accent": "#4b2f24",
+    "outer_border_color": "#1d1c19",
+    "shading_color": "#f0a13b"
+   }
+  },
+  "moon_knight_modular": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#252735",
+    "background_gradient_haut": "#303b89",
+    "inner_border_cracks_color": "#e7323a",
+    "middle_border_color": "#101416",
+    "outer_border_accent": "#27243a",
+    "outer_border_color": "#101417",
+    "shading_color": "#e7323a"
+   }
+  },
+  "royal_guard": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#202330",
+    "background_gradient_haut": "#2e3480",
+    "inner_border_cracks_color": "#da6a71",
+    "middle_border_color": "#101418",
+    "outer_border_accent": "#252440",
+    "outer_border_color": "#0f1317",
+    "shading_color": "#da6a71"
+   }
+  },
+  "scarlet_twins": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#292b3f",
+    "background_gradient_haut": "#2a3886",
+    "inner_border_cracks_color": "#de9f9c",
+    "middle_border_color": "#101518",
+    "outer_border_accent": "#292541",
+    "outer_border_color": "#101517",
+    "shading_color": "#de9f9c"
+   }
+  },
+  "shield_ops": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3e2223",
+    "background_gradient_haut": "#c72428",
+    "inner_border_cracks_color": "#f3a33d",
+    "middle_border_color": "#211e1c",
+    "outer_border_accent": "#4e3427",
+    "outer_border_color": "#211e1d",
+    "shading_color": "#f3a33d"
+   }
+  },
+  "vision_leader": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2d334a",
+    "background_gradient_haut": "#303481",
+    "inner_border_cracks_color": "#db4c4c",
+    "middle_border_color": "#1c1f26",
+    "outer_border_accent": "#27252b",
+    "outer_border_color": "#1b1f1f",
+    "shading_color": "#db4c4c"
+   }
+  },
+  "young_avengers": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#262a37",
+    "background_gradient_haut": "#2f3d8a",
+    "inner_border_cracks_color": "#e44741",
+    "middle_border_color": "#111718",
+    "outer_border_accent": "#272640",
+    "outer_border_color": "#12181a",
+    "shading_color": "#e44741"
+   }
+  }
+ }
+}

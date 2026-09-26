@@ -1,0 +1,32 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "mighty_thor_by_rainy",
+ "sets": {
+  "mighty_thor_by_rainy": {
+   "source": "nexus",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#d7b448",
+    "head_splash_color": "#d9b64a",
+    "left_color": "#959595",
+    "left_color_light": "#87868f",
+    "right_color": "#9c2022",
+    "right_color_light": "#9c2022"
+   }
+  },
+  "mighty_thor_by_rainy_nemesis": {
+   "source": "nexus",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#375441",
+    "background_gradient_haut": "#5c762c",
+    "inner_border_cracks_color": "#c7b136",
+    "middle_border_color": "#1b2525",
+    "outer_border_accent": "#e3d705",
+    "outer_border_color": "#1d2526",
+    "shading_color": "#c7b136"
+   }
+  }
+ }
+}

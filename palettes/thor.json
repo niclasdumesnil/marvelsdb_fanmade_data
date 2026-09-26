@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "thor",
+ "sets": {
+  "thor": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#b1a68c",
+    "head_splash_color": "#66616f",
+    "left_color": "#363b50",
+    "left_color_light": "#616880",
+    "light_boxes": "#b7b6bd",
+    "right_color": "#8a242c",
+    "right_color_light": "#d2a193"
+   }
+  },
+  "thor_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#375441",
+    "background_gradient_haut": "#5c762c",
+    "inner_border_cracks_color": "#c7b136",
+    "middle_border_color": "#1b2525",
+    "outer_border_accent": "#e3d705",
+    "outer_border_color": "#1d2526",
+    "shading_color": "#c7b136"
+   }
+  }
+ }
+}

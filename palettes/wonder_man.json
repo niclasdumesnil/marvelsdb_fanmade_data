@@ -1,0 +1,20 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "wonder_man",
+ "sets": {
+  "wonder_man": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#d40828",
+    "head_splash_color": "#6e1755",
+    "left_color": "#054d6f",
+    "left_color_light": "#9dadb5",
+    "light_boxes": "#b0abb0",
+    "right_color": "#13191b",
+    "right_color_light": "#586078"
+   }
+  }
+ }
+}

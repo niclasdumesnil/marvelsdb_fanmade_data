@@ -1,0 +1,32 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "Captain_Britain_by_Hitch",
+ "sets": {
+  "Captain_Britain_by_Hitch": {
+   "source": "nexus",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#f7f7f7",
+    "head_splash_color": "#f7f7f7",
+    "left_color": "#ab3c3d",
+    "left_color_light": "#cf4441",
+    "right_color": "#315d73",
+    "right_color_light": "#2389b4"
+   }
+  },
+  "Captain_Britain_by_Hitch_nemesis": {
+   "source": "nexus",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#631a23",
+    "background_gradient_haut": "#ad333c",
+    "inner_border_cracks_color": "#282d36",
+    "middle_border_color": "#ffffff",
+    "outer_border_accent": "#3773aa",
+    "outer_border_color": "#414c7a",
+    "shading_color": "#d7e5f0"
+   }
+  }
+ }
+}

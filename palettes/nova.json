@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "nova",
+ "sets": {
+  "armadillo": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2a5e7d",
+    "background_gradient_haut": "#8197a6",
+    "inner_border_cracks_color": "#7298a7",
+    "middle_border_color": "#1c3544",
+    "outer_border_accent": "#2d4755",
+    "outer_border_color": "#1d292e",
+    "shading_color": "#7298a7"
+   }
+  },
+  "nova": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#961a2c",
+    "head_splash_color": "#a98f26",
+    "left_color": "#c6a309",
+    "left_color_light": "#e4dc76",
+    "light_boxes": "#afaeae",
+    "right_color": "#232f37",
+    "right_color_light": "#cebbb5"
+   }
+  },
+  "nova_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2b3445",
+    "background_gradient_haut": "#443a51",
+    "inner_border_cracks_color": "#cdab3f",
+    "middle_border_color": "#1f2621",
+    "outer_border_accent": "#957f23",
+    "outer_border_color": "#1f2624",
+    "shading_color": "#cdab3f"
+   }
+  }
+ }
+}

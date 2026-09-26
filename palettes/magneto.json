@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "magneto",
+ "sets": {
+  "hellfire": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#36677c",
+    "background_gradient_haut": "#8898a4",
+    "inner_border_cracks_color": "#5e8a94",
+    "middle_border_color": "#2a3838",
+    "outer_border_accent": "#28607f",
+    "outer_border_color": "#272f2f",
+    "shading_color": "#5e8a94"
+   }
+  },
+  "magneto": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#b14049",
+    "head_splash_color": "#c0bebd",
+    "left_color": "#ebecf5",
+    "left_color_light": "#f1eff3",
+    "light_boxes": "#b9b7ba",
+    "right_color": "#ced4eb",
+    "right_color_light": "#eeebf2"
+   }
+  },
+  "magneto_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#453a5b",
+    "background_gradient_haut": "#652464",
+    "inner_border_cracks_color": "#dfd655",
+    "middle_border_color": "#2a3238",
+    "outer_border_accent": "#323238",
+    "outer_border_color": "#252a2c",
+    "shading_color": "#dfd655"
+   }
+  }
+ }
+}

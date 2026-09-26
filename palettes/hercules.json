@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "hercules",
+ "sets": {
+  "all_versus_all": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#375261",
+    "background_gradient_haut": "#6c7f8d",
+    "inner_border_cracks_color": "#b0c0c8",
+    "middle_border_color": "#04090a",
+    "outer_border_accent": "#3a5e79",
+    "outer_border_color": "#070d0e",
+    "shading_color": "#b0c0c8"
+   }
+  },
+  "hercules": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#165329",
+    "head_splash_color": "#192814",
+    "left_color": "#eda83e",
+    "left_color_light": "#bfbabc",
+    "light_boxes": "#bfbbc0",
+    "right_color": "#785b56",
+    "right_color_light": "#c8c2c0"
+   }
+  },
+  "hercules_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#0e1311",
+    "background_gradient_haut": "#151814",
+    "inner_border_cracks_color": "#2e1e19",
+    "middle_border_color": "#080a0b",
+    "outer_border_accent": "#27323e",
+    "outer_border_color": "#0b0e0d",
+    "shading_color": "#2e1e19"
+   }
+  }
+ }
+}

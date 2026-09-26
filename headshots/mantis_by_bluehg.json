@@ -1,0 +1,15 @@
+{
+ "schema": "mccompo/headshots",
+ "version_schema": 1,
+ "pack": "mantis_by_bluehg",
+ "sets": {
+  "mantis_by_bluehg": {
+   "image": "mantis_by_bluehg/mantis_by_bluehg.png",
+   "zoom": 1.9,
+   "x": 1271.2,
+   "y": 1870.5,
+   "source": "nexus",
+   "modifie_le": "2026-09-26"
+  }
+ }
+}

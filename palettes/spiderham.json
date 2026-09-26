@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "spiderham",
+ "sets": {
+  "inheritors": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3a657c",
+    "background_gradient_haut": "#8697a0",
+    "inner_border_cracks_color": "#84a4ab",
+    "middle_border_color": "#1f292f",
+    "outer_border_accent": "#1b597e",
+    "outer_border_color": "#222b2f",
+    "shading_color": "#84a4ab"
+   }
+  },
+  "spiderham": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#1c252a",
+    "head_splash_color": "#274a74",
+    "left_color": "#194072",
+    "left_color_light": "#0e5fa1",
+    "light_boxes": "#b8b7b9",
+    "right_color": "#aa1d32",
+    "right_color_light": "#ce6269"
+   }
+  },
+  "spiderham_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#34313a",
+    "background_gradient_haut": "#5e2b3f",
+    "inner_border_cracks_color": "#576a4b",
+    "middle_border_color": "#212927",
+    "outer_border_accent": "#a3a966",
+    "outer_border_color": "#212928",
+    "shading_color": "#576a4b"
+   }
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "deadpool",
+ "sets": {
+  "deadpool": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#23282b",
+    "head_splash_color": "#937576",
+    "left_color": "#ac2134",
+    "left_color_light": "#d99394",
+    "light_boxes": "#b4babd",
+    "right_color": "#892737",
+    "right_color_light": "#d93d48"
+   }
+  },
+  "deadpool_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#37627b",
+    "background_gradient_haut": "#6e8b9a",
+    "inner_border_cracks_color": "#57687c",
+    "middle_border_color": "#29353e",
+    "outer_border_accent": "#323943",
+    "outer_border_color": "#242e34",
+    "shading_color": "#57687c"
+   }
+  },
+  "dreadpool": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2e474c",
+    "background_gradient_haut": "#47635c",
+    "inner_border_cracks_color": "#93323b",
+    "middle_border_color": "#594740",
+    "outer_border_accent": "#61493f",
+    "outer_border_color": "#2f3236",
+    "shading_color": "#93323b"
+   }
+  }
+ }
+}

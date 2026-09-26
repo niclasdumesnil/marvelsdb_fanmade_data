@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "valk",
+ "sets": {
+  "valk": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#432d2d",
+    "head_splash_color": "#46434d",
+    "left_color": "#baaea9",
+    "left_color_light": "#ecebf0",
+    "light_boxes": "#b1b4b9",
+    "right_color": "#1d3b71",
+    "right_color_light": "#6085ac"
+   }
+  },
+  "valk_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#1f2c2f",
+    "background_gradient_haut": "#1b3b2f",
+    "inner_border_cracks_color": "#326349",
+    "middle_border_color": "#162122",
+    "outer_border_accent": "#d8b519",
+    "outer_border_color": "#172122",
+    "shading_color": "#326349"
+   }
+  }
+ }
+}

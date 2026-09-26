@@ -1,0 +1,137 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "next_evol",
+ "sets": {
+  "black_tom_cassidy": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3f6983",
+    "background_gradient_haut": "#8a99a4",
+    "inner_border_cracks_color": "#6f929b",
+    "middle_border_color": "#1f252a",
+    "outer_border_accent": "#275e77",
+    "outer_border_color": "#22282c",
+    "shading_color": "#6f929b"
+   }
+  },
+  "cable": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#e0212a",
+    "head_splash_color": "#8b714e",
+    "left_color": "#2a576f",
+    "left_color_light": "#b7c8d9",
+    "light_boxes": "#bdbfc3",
+    "right_color": "#73453a",
+    "right_color_light": "#db758d"
+   }
+  },
+  "cable_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#323d51",
+    "background_gradient_haut": "#42506a",
+    "inner_border_cracks_color": "#d43033",
+    "middle_border_color": "#21272b",
+    "outer_border_accent": "#594642",
+    "outer_border_color": "#22272c",
+    "shading_color": "#d43033"
+   }
+  },
+  "domino": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#5da686",
+    "head_splash_color": "#9b9bb9",
+    "left_color": "#ccd9dc",
+    "left_color_light": "#e9edef",
+    "light_boxes": "#bbbfc5",
+    "right_color": "#2b2d32",
+    "right_color_light": "#805981"
+   }
+  },
+  "domino_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#b47f3a",
+    "background_gradient_haut": "#ddb421",
+    "inner_border_cracks_color": "#8a7b94",
+    "middle_border_color": "#24292e",
+    "outer_border_accent": "#9b3139",
+    "outer_border_color": "#252a31",
+    "shading_color": "#8a7b94"
+   }
+  },
+  "extreme_measures": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#456378",
+    "background_gradient_haut": "#8898a0",
+    "inner_border_cracks_color": "#8eaab1",
+    "middle_border_color": "#20272d",
+    "outer_border_accent": "#28587c",
+    "outer_border_color": "#22282c",
+    "shading_color": "#8eaab1"
+   }
+  },
+  "mister_sinister": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2a3238",
+    "background_gradient_haut": "#2c303d",
+    "inner_border_cracks_color": "#3b4480",
+    "middle_border_color": "#1e272b",
+    "outer_border_accent": "#c42f39",
+    "outer_border_color": "#1f292c",
+    "shading_color": "#3b4480"
+   }
+  },
+  "mutant_insurrection": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#41637a",
+    "background_gradient_haut": "#85949e",
+    "inner_border_cracks_color": "#96b4ba",
+    "middle_border_color": "#1f262a",
+    "outer_border_accent": "#255c7e",
+    "outer_border_color": "#212729",
+    "shading_color": "#96b4ba"
+   }
+  },
+  "mutant_slayers": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#406a84",
+    "background_gradient_haut": "#899ca4",
+    "inner_border_cracks_color": "#76989f",
+    "middle_border_color": "#20272a",
+    "outer_border_accent": "#255b78",
+    "outer_border_color": "#22292c",
+    "shading_color": "#76989f"
+   }
+  },
+  "nasty_boys": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3a6a83",
+    "background_gradient_haut": "#8b9ba5",
+    "inner_border_cracks_color": "#7699a2",
+    "middle_border_color": "#23282b",
+    "outer_border_accent": "#275367",
+    "outer_border_color": "#242a2d",
+    "shading_color": "#7699a2"
+   }
+  }
+ }
+}

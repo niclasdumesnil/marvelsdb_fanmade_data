@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "psylocke",
+ "sets": {
+  "psylocke": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#d71067",
+    "head_splash_color": "#4f455c",
+    "left_color": "#2f3871",
+    "left_color_light": "#7c7ba5",
+    "light_boxes": "#c0c2c3",
+    "right_color": "#25292e",
+    "right_color_light": "#7b4874"
+   }
+  },
+  "psylocke_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#27524b",
+    "background_gradient_haut": "#327246",
+    "inner_border_cracks_color": "#4e633e",
+    "middle_border_color": "#272f2a",
+    "outer_border_accent": "#2f3830",
+    "outer_border_color": "#22282a",
+    "shading_color": "#4e633e"
+   }
+  }
+ }
+}

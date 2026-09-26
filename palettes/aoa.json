@@ -1,0 +1,202 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "aoa",
+ "sets": {
+  "age_of_apocalypse": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#396583",
+    "background_gradient_haut": "#8093a6",
+    "inner_border_cracks_color": "#7e9ca5",
+    "middle_border_color": "#1e262b",
+    "outer_border_accent": "#29424e",
+    "outer_border_color": "#1e262a",
+    "shading_color": "#7e9ca5"
+   }
+  },
+  "aoa_campaign": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#486c82",
+    "background_gradient_haut": "#8598a2",
+    "inner_border_cracks_color": "#90adb1",
+    "middle_border_color": "#203a47",
+    "outer_border_accent": "#236283",
+    "outer_border_color": "#22343c",
+    "shading_color": "#90adb1"
+   }
+  },
+  "bishop": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#81272f",
+    "head_splash_color": "#273965",
+    "left_color": "#c9a225",
+    "left_color_light": "#cdd3d5",
+    "light_boxes": "#cecfd4",
+    "right_color": "#324082",
+    "right_color_light": "#c4ccd1"
+   }
+  },
+  "bishop_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#313f76",
+    "background_gradient_haut": "#3b3780",
+    "inner_border_cracks_color": "#615f77",
+    "middle_border_color": "#202628",
+    "outer_border_accent": "#3d3a66",
+    "outer_border_color": "#22272b",
+    "shading_color": "#615f77"
+   }
+  },
+  "blue_moon": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3a6480",
+    "background_gradient_haut": "#8798a4",
+    "inner_border_cracks_color": "#90a7ab",
+    "middle_border_color": "#1c262c",
+    "outer_border_accent": "#303b40",
+    "outer_border_color": "#1d262b",
+    "shading_color": "#90a7ab"
+   }
+  },
+  "clan_akkaba": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3e627e",
+    "background_gradient_haut": "#8899a5",
+    "inner_border_cracks_color": "#84a0a4",
+    "middle_border_color": "#1c282f",
+    "outer_border_accent": "#334245",
+    "outer_border_color": "#1c2327",
+    "shading_color": "#84a0a4"
+   }
+  },
+  "dark_riders": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#406580",
+    "background_gradient_haut": "#8697a5",
+    "inner_border_cracks_color": "#8ba4ab",
+    "middle_border_color": "#1d272d",
+    "outer_border_accent": "#293842",
+    "outer_border_color": "#1e272b",
+    "shading_color": "#8ba4ab"
+   }
+  },
+  "genosha": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#396581",
+    "background_gradient_haut": "#8898a6",
+    "inner_border_cracks_color": "#87a4a9",
+    "middle_border_color": "#1e2528",
+    "outer_border_accent": "#293e49",
+    "outer_border_color": "#1e2629",
+    "shading_color": "#87a4a9"
+   }
+  },
+  "hounds": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3c667f",
+    "background_gradient_haut": "#8b9ca7",
+    "inner_border_cracks_color": "#92a8ad",
+    "middle_border_color": "#1e252a",
+    "outer_border_accent": "#2b3841",
+    "outer_border_color": "#1e2629",
+    "shading_color": "#92a8ad"
+   }
+  },
+  "infinites": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3e6680",
+    "background_gradient_haut": "#899aa5",
+    "inner_border_cracks_color": "#87a2a7",
+    "middle_border_color": "#192125",
+    "outer_border_accent": "#2f424c",
+    "outer_border_color": "#1a2225",
+    "shading_color": "#87a2a7"
+   }
+  },
+  "magik": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#eff0f5",
+    "head_splash_color": "#d2b461",
+    "left_color": "#e4b40b",
+    "left_color_light": "#dadee4",
+    "light_boxes": "#c2c1c8",
+    "right_color": "#212425",
+    "right_color_light": "#cfdbe8"
+   }
+  },
+  "magik_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#852d44",
+    "background_gradient_haut": "#a71930",
+    "inner_border_cracks_color": "#e2be52",
+    "middle_border_color": "#232928",
+    "outer_border_accent": "#503042",
+    "outer_border_color": "#242929",
+    "shading_color": "#e2be52"
+   }
+  },
+  "overseer": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#316481",
+    "background_gradient_haut": "#869aa5",
+    "inner_border_cracks_color": "#95adb2",
+    "middle_border_color": "#1c252b",
+    "outer_border_accent": "#293135",
+    "outer_border_color": "#1c262b",
+    "shading_color": "#95adb2"
+   }
+  },
+  "savage_land": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#356282",
+    "background_gradient_haut": "#8797a4",
+    "inner_border_cracks_color": "#7297a7",
+    "middle_border_color": "#1f252b",
+    "outer_border_accent": "#2e4f61",
+    "outer_border_color": "#1f262b",
+    "shading_color": "#7297a7"
+   }
+  },
+  "unus": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#197958",
+    "background_gradient_haut": "#4b9248",
+    "inner_border_cracks_color": "#d3d3d7",
+    "middle_border_color": "#202326",
+    "outer_border_accent": "#2a2c2f",
+    "outer_border_color": "#1f2226",
+    "shading_color": "#d3d3d7"
+   }
+  }
+ }
+}

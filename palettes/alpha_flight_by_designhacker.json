@@ -1,0 +1,32 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "alpha_flight_by_designhacker",
+ "sets": {
+  "guardian_by_designhacker": {
+   "source": "nexus",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#fff2f1",
+    "head_splash_color": "#c1262a",
+    "left_color": "#be2828",
+    "left_color_light": "#c1262b",
+    "right_color": "#fedcdb",
+    "right_color_light": "#ef1a23"
+   }
+  },
+  "guardian_by_designhacker_nemesis": {
+   "source": "nexus",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#5b91bf",
+    "background_gradient_haut": "#5b91bf",
+    "inner_border_cracks_color": "#0c2b44",
+    "middle_border_color": "#053444",
+    "outer_border_accent": "#bb304c",
+    "outer_border_color": "#b7314c",
+    "shading_color": "#e5e5e5"
+   }
+  }
+ }
+}

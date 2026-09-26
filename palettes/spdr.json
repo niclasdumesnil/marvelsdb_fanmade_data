@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "spdr",
+ "sets": {
+  "ironspider_sinister": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3d637b",
+    "background_gradient_haut": "#8b98a2",
+    "inner_border_cracks_color": "#97aaa9",
+    "middle_border_color": "#1f292d",
+    "outer_border_accent": "#26373f",
+    "outer_border_color": "#1f282b",
+    "shading_color": "#97aaa9"
+   }
+  },
+  "spdr": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#e3ae0e",
+    "head_splash_color": "#c29e39",
+    "left_color": "#717373",
+    "left_color_light": "#e6e6ea",
+    "light_boxes": "#b5b6bc",
+    "right_color": "#8b1c36",
+    "right_color_light": "#cb1b37"
+   }
+  },
+  "spdr_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#393c52",
+    "background_gradient_haut": "#37526e",
+    "inner_border_cracks_color": "#45424e",
+    "middle_border_color": "#23282e",
+    "outer_border_accent": "#7c3040",
+    "outer_border_color": "#20272d",
+    "shading_color": "#45424e"
+   }
+  }
+ }
+}

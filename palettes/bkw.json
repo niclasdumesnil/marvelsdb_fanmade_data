@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "bkw",
+ "sets": {
+  "black_widow": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#99202a",
+    "head_splash_color": "#87313b",
+    "left_color": "#1f2626",
+    "left_color_light": "#76424b",
+    "light_boxes": "#b1b3b9",
+    "right_color": "#202626",
+    "right_color_light": "#b79b91"
+   }
+  },
+  "black_widow_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#35405b",
+    "background_gradient_haut": "#1e466c",
+    "inner_border_cracks_color": "#d4c7c7",
+    "middle_border_color": "#212628",
+    "outer_border_accent": "#554a34",
+    "outer_border_color": "#232829",
+    "shading_color": "#d4c7c7"
+   }
+  }
+ }
+}

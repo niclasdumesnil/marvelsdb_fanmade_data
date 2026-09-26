@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "bp",
+ "sets": {
+  "black_panther_shuri": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#b38416",
+    "head_splash_color": "#5f2771",
+    "left_color": "#302a48",
+    "left_color_light": "#a08bb0",
+    "light_boxes": "#c4c6c6",
+    "right_color": "#202425",
+    "right_color_light": "#545562"
+   }
+  },
+  "black_panther_shuri_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#a93237",
+    "background_gradient_haut": "#da3021",
+    "inner_border_cracks_color": "#a15c99",
+    "middle_border_color": "#232426",
+    "outer_border_accent": "#69337d",
+    "outer_border_color": "#242526",
+    "shading_color": "#a15c99"
+   }
+  },
+  "extreme_risk": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#9b3b3c",
+    "background_gradient_haut": "#c8541d",
+    "inner_border_cracks_color": "#2e2f3c",
+    "middle_border_color": "#1e2223",
+    "outer_border_accent": "#24272a",
+    "outer_border_color": "#202324",
+    "shading_color": "#2e2f3c"
+   }
+  }
+ }
+}

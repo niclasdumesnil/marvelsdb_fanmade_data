@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "falcon",
+ "sets": {
+  "falcon": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#e5b301",
+    "head_splash_color": "#972e49",
+    "left_color": "#bd132e",
+    "left_color_light": "#d4cccd",
+    "light_boxes": "#b1b3b5",
+    "right_color": "#212526",
+    "right_color_light": "#91959f"
+   }
+  },
+  "falcon_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#243942",
+    "background_gradient_haut": "#224e46",
+    "inner_border_cracks_color": "#77885f",
+    "middle_border_color": "#1d2124",
+    "outer_border_accent": "#37494a",
+    "outer_border_color": "#1f2224",
+    "shading_color": "#77885f"
+   }
+  },
+  "techno": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#872f3f",
+    "background_gradient_haut": "#a6272d",
+    "inner_border_cracks_color": "#b7aea6",
+    "middle_border_color": "#1b1f1e",
+    "outer_border_accent": "#39404b",
+    "outer_border_color": "#1d1f1e",
+    "shading_color": "#b7aea6"
+   }
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "ironheart",
+ "sets": {
+  "ironheart": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#c5990b",
+    "head_splash_color": "#9d8030",
+    "left_color": "#901a4c",
+    "left_color_light": "#cdced8",
+    "light_boxes": "#bbbcc0",
+    "right_color": "#495268",
+    "right_color_light": "#b3c0d1"
+   }
+  },
+  "ironheart_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3f404b",
+    "background_gradient_haut": "#5d5d63",
+    "inner_border_cracks_color": "#95455c",
+    "middle_border_color": "#26292e",
+    "outer_border_accent": "#767375",
+    "outer_border_color": "#26282d",
+    "shading_color": "#95455c"
+   }
+  },
+  "zzzax": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#356182",
+    "background_gradient_haut": "#8395a6",
+    "inner_border_cracks_color": "#95afbb",
+    "middle_border_color": "#185275",
+    "outer_border_accent": "#185881",
+    "outer_border_color": "#1b4d6d",
+    "shading_color": "#95afbb"
+   }
+  }
+ }
+}

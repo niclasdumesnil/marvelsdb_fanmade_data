@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "silk",
+ "sets": {
+  "growing_strong": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#613437",
+    "background_gradient_haut": "#882e31",
+    "inner_border_cracks_color": "#ebad1c",
+    "middle_border_color": "#191e21",
+    "outer_border_accent": "#2f5262",
+    "outer_border_color": "#1b2022",
+    "shading_color": "#ebad1c"
+   }
+  },
+  "silk": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#a4212b",
+    "head_splash_color": "#8e2446",
+    "left_color": "#c7c9cb",
+    "left_color_light": "#cdccd0",
+    "light_boxes": "#c6c6c7",
+    "right_color": "#343839",
+    "right_color_light": "#c2c5c2"
+   }
+  },
+  "silk_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#1e2728",
+    "background_gradient_haut": "#25262a",
+    "inner_border_cracks_color": "#68458a",
+    "middle_border_color": "#192223",
+    "outer_border_accent": "#ad3a3f",
+    "outer_border_color": "#1b2425",
+    "shading_color": "#68458a"
+   }
+  }
+ }
+}

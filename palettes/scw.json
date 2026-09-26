@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "scw",
+ "sets": {
+  "scw": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#cd075c",
+    "head_splash_color": "#aa7678",
+    "left_color": "#a71c2a",
+    "left_color_light": "#d31929",
+    "light_boxes": "#afb4ba",
+    "right_color": "#622b2f",
+    "right_color_light": "#cc576b"
+   }
+  },
+  "scw_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2d3234",
+    "background_gradient_haut": "#192024",
+    "inner_border_cracks_color": "#245f94",
+    "middle_border_color": "#22292b",
+    "outer_border_accent": "#83a6ba",
+    "outer_border_color": "#262c2e",
+    "shading_color": "#245f94"
+   }
+  }
+ }
+}

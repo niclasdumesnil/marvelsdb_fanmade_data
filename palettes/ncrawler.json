@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "ncrawler",
+ "sets": {
+  "crazy_gang": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#366480",
+    "background_gradient_haut": "#81929f",
+    "inner_border_cracks_color": "#598895",
+    "middle_border_color": "#1b282c",
+    "outer_border_accent": "#1a5274",
+    "outer_border_color": "#1f272b",
+    "shading_color": "#598895"
+   }
+  },
+  "nightcrawler": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#efeded",
+    "head_splash_color": "#a82676",
+    "left_color": "#dc0d28",
+    "left_color_light": "#de7279",
+    "light_boxes": "#b8babc",
+    "right_color": "#212526",
+    "right_color_light": "#5c4d58"
+   }
+  },
+  "nightcrawler_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#733243",
+    "background_gradient_haut": "#8f1d2d",
+    "inner_border_cracks_color": "#3d414d",
+    "middle_border_color": "#23282d",
+    "outer_border_accent": "#252a30",
+    "outer_border_color": "#23282c",
+    "shading_color": "#3d414d"
+   }
+  }
+ }
+}

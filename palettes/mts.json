@@ -1,0 +1,202 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "mts",
+ "sets": {
+  "armies_of_titan": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#355c75",
+    "background_gradient_haut": "#788c9c",
+    "inner_border_cracks_color": "#8098a3",
+    "middle_border_color": "#222f36",
+    "outer_border_accent": "#293538",
+    "outer_border_color": "#222d32",
+    "shading_color": "#8098a3"
+   }
+  },
+  "black_order": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#355d77",
+    "background_gradient_haut": "#768b9b",
+    "inner_border_cracks_color": "#6e94a0",
+    "middle_border_color": "#222c34",
+    "outer_border_accent": "#2d363a",
+    "outer_border_color": "#232c33",
+    "shading_color": "#6e94a0"
+   }
+  },
+  "children_of_thanos": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3b607a",
+    "background_gradient_haut": "#788d9e",
+    "inner_border_cracks_color": "#6c8f9b",
+    "middle_border_color": "#242f35",
+    "outer_border_accent": "#284c5e",
+    "outer_border_color": "#232b2e",
+    "shading_color": "#6c8f9b"
+   }
+  },
+  "ebony_maw": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#37435a",
+    "background_gradient_haut": "#535c6f",
+    "inner_border_cracks_color": "#3c404b",
+    "middle_border_color": "#c69b24",
+    "outer_border_accent": "#635c58",
+    "outer_border_color": "#a68f2f",
+    "shading_color": "#3c404b"
+   }
+  },
+  "enchantress": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#345c76",
+    "background_gradient_haut": "#788b9b",
+    "inner_border_cracks_color": "#7796a1",
+    "middle_border_color": "#1d3039",
+    "outer_border_accent": "#283134",
+    "outer_border_color": "#1e292d",
+    "shading_color": "#7796a1"
+   }
+  },
+  "frost_giants": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2f5974",
+    "background_gradient_haut": "#748b9b",
+    "inner_border_cracks_color": "#7397a4",
+    "middle_border_color": "#1d3b4f",
+    "outer_border_accent": "#293036",
+    "outer_border_color": "#1f292f",
+    "shading_color": "#7397a4"
+   }
+  },
+  "hela": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#232b2f",
+    "background_gradient_haut": "#222a2a",
+    "inner_border_cracks_color": "#789e7d",
+    "middle_border_color": "#232d2f",
+    "outer_border_accent": "#2a3436",
+    "outer_border_color": "#20292c",
+    "shading_color": "#789e7d"
+   }
+  },
+  "legions_of_hel": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#325f7a",
+    "background_gradient_haut": "#7e8f9f",
+    "inner_border_cracks_color": "#195b7d",
+    "middle_border_color": "#1e282d",
+    "outer_border_accent": "#7c8187",
+    "outer_border_color": "#1f2b31",
+    "shading_color": "#195b7d"
+   }
+  },
+  "loki": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#324647",
+    "background_gradient_haut": "#4d6534",
+    "inner_border_cracks_color": "#b09921",
+    "middle_border_color": "#6e6a1e",
+    "outer_border_accent": "#bea616",
+    "outer_border_color": "#56531f",
+    "shading_color": "#b09921"
+   }
+  },
+  "spectrum": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#bfa31d",
+    "head_splash_color": "#a29341",
+    "left_color": "#2a2c2e",
+    "left_color_light": "#b1afae",
+    "light_boxes": "#acaeb0",
+    "right_color": "#ebe9ea",
+    "right_color_light": "#d7cf97"
+   }
+  },
+  "spectrum_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#176b54",
+    "background_gradient_haut": "#348d51",
+    "inner_border_cracks_color": "#cebc47",
+    "middle_border_color": "#6c5a2d",
+    "outer_border_accent": "#31312e",
+    "outer_border_color": "#232b2d",
+    "shading_color": "#cebc47"
+   }
+  },
+  "thanos": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3d3d70",
+    "background_gradient_haut": "#273885",
+    "inner_border_cracks_color": "#ce9032",
+    "middle_border_color": "#dfba15",
+    "outer_border_accent": "#c9953a",
+    "outer_border_color": "#b6a92e",
+    "shading_color": "#ce9032"
+   }
+  },
+  "tower_defense": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#232c30",
+    "background_gradient_haut": "#232a2d",
+    "inner_border_cracks_color": "#377b9a",
+    "middle_border_color": "#252f35",
+    "outer_border_accent": "#6e7276",
+    "outer_border_color": "#252e33",
+    "shading_color": "#377b9a"
+   }
+  },
+  "warlock": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#e4a504",
+    "head_splash_color": "#26313a",
+    "left_color": "#1f272c",
+    "left_color_light": "#42496c",
+    "light_boxes": "#aeb1b4",
+    "right_color": "#861d39",
+    "right_color_light": "#da7188"
+   }
+  },
+  "warlock_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#55355d",
+    "background_gradient_haut": "#88557f",
+    "inner_border_cracks_color": "#a99a90",
+    "middle_border_color": "#56242d",
+    "outer_border_accent": "#3f2a31",
+    "outer_border_color": "#1d2425",
+    "shading_color": "#a99a90"
+   }
+  }
+ }
+}

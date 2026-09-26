@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "drax",
+ "sets": {
+  "drax": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#d7122f",
+    "head_splash_color": "#9e1b2f",
+    "left_color": "#394236",
+    "left_color_light": "#c7cabc",
+    "light_boxes": "#b7b9be",
+    "right_color": "#6a773d",
+    "right_color_light": "#cacc77"
+   }
+  },
+  "drax_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2e2b31",
+    "background_gradient_haut": "#58282c",
+    "inner_border_cracks_color": "#4f4138",
+    "middle_border_color": "#1f272b",
+    "outer_border_accent": "#3e3934",
+    "outer_border_color": "#22282d",
+    "shading_color": "#4f4138"
+   }
+  }
+ }
+}

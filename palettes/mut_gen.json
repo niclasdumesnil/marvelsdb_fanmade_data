@@ -1,0 +1,150 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "mut_gen",
+ "sets": {
+  "acolytes": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3a637e",
+    "background_gradient_haut": "#8092a0",
+    "inner_border_cracks_color": "#709498",
+    "middle_border_color": "#1a3647",
+    "outer_border_accent": "#21465a",
+    "outer_border_color": "#1c2c35",
+    "shading_color": "#709498"
+   }
+  },
+  "brotherhood": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3c667a",
+    "background_gradient_haut": "#8395a2",
+    "inner_border_cracks_color": "#6e9098",
+    "middle_border_color": "#184f67",
+    "outer_border_accent": "#205970",
+    "outer_border_color": "#1c4154",
+    "shading_color": "#6e9098"
+   }
+  },
+  "colossus": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#d8af0c",
+    "head_splash_color": "#953041",
+    "left_color": "#b32337",
+    "left_color_light": "#d8393e",
+    "light_boxes": "#b2b8ba",
+    "right_color": "#8e98a5",
+    "right_color_light": "#e7e8ef"
+   }
+  },
+  "colossus_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2d2e30",
+    "background_gradient_haut": "#5e3639",
+    "inner_border_cracks_color": "#9b4347",
+    "middle_border_color": "#212b2b",
+    "outer_border_accent": "#d49b39",
+    "outer_border_color": "#212c2d",
+    "shading_color": "#9b4347"
+   }
+  },
+  "future_past": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#406379",
+    "background_gradient_haut": "#8191a0",
+    "inner_border_cracks_color": "#709396",
+    "middle_border_color": "#194863",
+    "outer_border_accent": "#23475b",
+    "outer_border_color": "#1d3540",
+    "shading_color": "#709396"
+   }
+  },
+  "master_mold": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3b384a",
+    "background_gradient_haut": "#5e3e5b",
+    "inner_border_cracks_color": "#c48a78",
+    "middle_border_color": "#2f3039",
+    "outer_border_accent": "#4e4657",
+    "outer_border_color": "#21272a",
+    "shading_color": "#c48a78"
+   }
+  },
+  "mystique": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3c697c",
+    "background_gradient_haut": "#8598a3",
+    "inner_border_cracks_color": "#6c9197",
+    "middle_border_color": "#1f333a",
+    "outer_border_accent": "#255167",
+    "outer_border_color": "#212f35",
+    "shading_color": "#6c9197"
+   }
+  },
+  "sentinels": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3c6577",
+    "background_gradient_haut": "#8699a2",
+    "inner_border_cracks_color": "#7c9c9b",
+    "middle_border_color": "#1c282c",
+    "outer_border_accent": "#233d4d",
+    "outer_border_color": "#1d272a",
+    "shading_color": "#7c9c9b"
+   }
+  },
+  "shadowcat": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#77442e",
+    "head_splash_color": "#2b6182",
+    "left_color": "#216383",
+    "left_color_light": "#57a7d4",
+    "light_boxes": "#bcbfc4",
+    "right_color": "#e0c709",
+    "right_color_light": "#e1da23"
+   }
+  },
+  "shadowcat_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#85959c",
+    "background_gradient_haut": "#cbd6df",
+    "inner_border_cracks_color": "#8b909a",
+    "middle_border_color": "#242b2f",
+    "outer_border_accent": "#b2b6ba",
+    "outer_border_color": "#222a2f",
+    "shading_color": "#8b909a"
+   }
+  },
+  "zero_tolerance": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3c687e",
+    "background_gradient_haut": "#8597a3",
+    "inner_border_cracks_color": "#7b9ca0",
+    "middle_border_color": "#1d292e",
+    "outer_border_accent": "#274152",
+    "outer_border_color": "#1f292c",
+    "shading_color": "#7b9ca0"
+   }
+  }
+ }
+}

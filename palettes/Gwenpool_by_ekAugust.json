@@ -1,0 +1,32 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "Gwenpool_by_ekAugust",
+ "sets": {
+  "Gwenpool_by_ekAugust": {
+   "source": "nexus",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#ffffff",
+    "head_splash_color": "#f09dc4",
+    "left_color": "#f29cc4",
+    "left_color_light": "#f69bc5",
+    "right_color": "#f05871",
+    "right_color_light": "#f25a73"
+   }
+  },
+  "Gwenpool_by_ekAugust_nemesis": {
+   "source": "nexus",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#6f2f4e",
+    "background_gradient_haut": "#71304f",
+    "inner_border_cracks_color": "#bf4a86",
+    "middle_border_color": "#cb98bc",
+    "outer_border_accent": "#372e35",
+    "outer_border_color": "#382c39",
+    "shading_color": "#ddb7cd"
+   }
+  }
+ }
+}

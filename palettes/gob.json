@@ -1,0 +1,72 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "gob",
+ "sets": {
+  "a_mess_of_things": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#43607a",
+    "background_gradient_haut": "#7b8a9e",
+    "inner_border_cracks_color": "#7d95a4",
+    "middle_border_color": "#202f36",
+    "outer_border_accent": "#283e4e",
+    "outer_border_color": "#232c30",
+    "shading_color": "#7d95a4"
+   }
+  },
+  "mutagen_formula": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#6b3664",
+    "background_gradient_haut": "#8b1c69",
+    "inner_border_cracks_color": "#70a764",
+    "middle_border_color": "#244233",
+    "outer_border_accent": "#2b6849",
+    "outer_border_color": "#273732",
+    "shading_color": "#70a764"
+   }
+  },
+  "power_drain": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#475f78",
+    "background_gradient_haut": "#808a9d",
+    "inner_border_cracks_color": "#77909a",
+    "middle_border_color": "#20313b",
+    "outer_border_accent": "#2c4457",
+    "outer_border_color": "#232d32",
+    "shading_color": "#77909a"
+   }
+  },
+  "risky_business": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#703967",
+    "background_gradient_haut": "#92216b",
+    "inner_border_cracks_color": "#75a967",
+    "middle_border_color": "#26503a",
+    "outer_border_accent": "#2b6a4c",
+    "outer_border_color": "#274337",
+    "shading_color": "#75a967"
+   }
+  },
+  "running_interference": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#4b6277",
+    "background_gradient_haut": "#7b889b",
+    "inner_border_cracks_color": "#738d96",
+    "middle_border_color": "#232c30",
+    "outer_border_accent": "#2f4759",
+    "outer_border_color": "#252d30",
+    "shading_color": "#738d96"
+   }
+  }
+ }
+}

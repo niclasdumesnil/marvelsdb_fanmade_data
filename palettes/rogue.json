@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "rogue",
+ "sets": {
+  "reavers": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#40647a",
+    "background_gradient_haut": "#84939e",
+    "inner_border_cracks_color": "#698f96",
+    "middle_border_color": "#1f272e",
+    "outer_border_accent": "#255774",
+    "outer_border_color": "#22282e",
+    "shading_color": "#698f96"
+   }
+  },
+  "rogue": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#8a2b32",
+    "head_splash_color": "#773844",
+    "left_color": "#d5b013",
+    "left_color_light": "#e4d915",
+    "light_boxes": "#b2b5bf",
+    "right_color": "#1e503a",
+    "right_color_light": "#74a57a"
+   }
+  },
+  "rogue_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#265b80",
+    "background_gradient_haut": "#2778a8",
+    "inner_border_cracks_color": "#d9b53a",
+    "middle_border_color": "#25262e",
+    "outer_border_accent": "#88313c",
+    "outer_border_color": "#212731",
+    "shading_color": "#d9b53a"
+   }
+  }
+ }
+}

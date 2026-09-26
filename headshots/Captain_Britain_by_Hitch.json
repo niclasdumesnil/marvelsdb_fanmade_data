@@ -1,0 +1,15 @@
+{
+ "schema": "mccompo/headshots",
+ "version_schema": 1,
+ "pack": "Captain_Britain_by_Hitch",
+ "sets": {
+  "Captain_Britain_by_Hitch": {
+   "image": "Captain_Britain_by_Hitch/Captain_Britain_by_Hitch.png",
+   "zoom": 0.9,
+   "x": 1262.85,
+   "y": 1893.55,
+   "source": "nexus",
+   "modifie_le": "2026-09-26"
+  }
+ }
+}

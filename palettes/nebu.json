@@ -1,0 +1,33 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "nebu",
+ "sets": {
+  "nebu": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#8aadd1",
+    "head_splash_color": "#862771",
+    "left_color": "#941276",
+    "left_color_light": "#d1277f",
+    "light_boxes": "#b5b7b8",
+    "right_color": "#2b2e59",
+    "right_color_light": "#9693b3"
+   }
+  },
+  "nebu_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2b3534",
+    "background_gradient_haut": "#1e523a",
+    "inner_border_cracks_color": "#f1f0f3",
+    "middle_border_color": "#6f6e68",
+    "outer_border_accent": "#8b8c86",
+    "outer_border_color": "#565652",
+    "shading_color": "#f1f0f3"
+   }
+  }
+ }
+}

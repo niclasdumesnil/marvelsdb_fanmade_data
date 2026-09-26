@@ -1,0 +1,72 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "toafk",
+ "sets": {
+  "anachronauts": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#493461",
+    "background_gradient_haut": "#752d76",
+    "inner_border_cracks_color": "#8baed6",
+    "middle_border_color": "#1e2629",
+    "outer_border_accent": "#226489",
+    "outer_border_color": "#1f2629",
+    "shading_color": "#8baed6"
+   }
+  },
+  "exp_kang": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#4a3561",
+    "background_gradient_haut": "#7d307a",
+    "inner_border_cracks_color": "#90afd7",
+    "middle_border_color": "#1f282d",
+    "outer_border_accent": "#256080",
+    "outer_border_color": "#1f282c",
+    "shading_color": "#90afd7"
+   }
+  },
+  "kang": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#523663",
+    "background_gradient_haut": "#7e357d",
+    "inner_border_cracks_color": "#9dbadc",
+    "middle_border_color": "#20272d",
+    "outer_border_accent": "#30566b",
+    "outer_border_color": "#20282b",
+    "shading_color": "#9dbadc"
+   }
+  },
+  "mot": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#4d315f",
+    "background_gradient_haut": "#762c76",
+    "inner_border_cracks_color": "#8eaed5",
+    "middle_border_color": "#1e282d",
+    "outer_border_accent": "#226387",
+    "outer_border_color": "#202729",
+    "shading_color": "#8eaed5"
+   }
+  },
+  "temporal": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#48325f",
+    "background_gradient_haut": "#722e77",
+    "inner_border_cracks_color": "#8fb0d5",
+    "middle_border_color": "#1b2529",
+    "outer_border_accent": "#255976",
+    "outer_border_color": "#1d2528",
+    "shading_color": "#8fb0d5"
+   }
+  }
+ }
+}

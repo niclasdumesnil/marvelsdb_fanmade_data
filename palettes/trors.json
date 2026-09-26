@@ -1,0 +1,150 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "trors",
+ "sets": {
+  "crossbones": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#262c2d",
+    "background_gradient_haut": "#1f2527",
+    "inner_border_cracks_color": "#ad9d93",
+    "middle_border_color": "#1d2526",
+    "outer_border_accent": "#594d52",
+    "outer_border_color": "#1f2626",
+    "shading_color": "#ad9d93"
+   }
+  },
+  "hawkeye": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#831a74",
+    "head_splash_color": "#253e71",
+    "left_color": "#22316e",
+    "left_color_light": "#9ca4bb",
+    "light_boxes": "#b4b6b6",
+    "right_color": "#252b2f",
+    "right_color_light": "#716d73"
+   }
+  },
+  "hawkeye_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#a2293b",
+    "background_gradient_haut": "#d4132c",
+    "inner_border_cracks_color": "#f3f0f4",
+    "middle_border_color": "#21242a",
+    "outer_border_accent": "#a73537",
+    "outer_border_color": "#21262c",
+    "shading_color": "#f3f0f4"
+   }
+  },
+  "hydra_assault": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3b5f75",
+    "background_gradient_haut": "#80919e",
+    "inner_border_cracks_color": "#6a8e97",
+    "middle_border_color": "#20282e",
+    "outer_border_accent": "#205376",
+    "outer_border_color": "#232a2f",
+    "shading_color": "#6a8e97"
+   }
+  },
+  "hydra_patrol": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#43627b",
+    "background_gradient_haut": "#8493a1",
+    "inner_border_cracks_color": "#6b8c96",
+    "middle_border_color": "#202930",
+    "outer_border_accent": "#245171",
+    "outer_border_color": "#242c32",
+    "shading_color": "#6b8c96"
+   }
+  },
+  "red_skull": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#5c3238",
+    "background_gradient_haut": "#872630",
+    "inner_border_cracks_color": "#5f5b58",
+    "middle_border_color": "#1b2325",
+    "outer_border_accent": "#363a39",
+    "outer_border_color": "#1c2427",
+    "shading_color": "#5f5b58"
+   }
+  },
+  "spider_woman": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#68a42d",
+    "head_splash_color": "#cc898e",
+    "left_color": "#64a12e",
+    "left_color_light": "#a9c25a",
+    "light_boxes": "#bbcdb2",
+    "right_color": "#6fa12d",
+    "right_color_light": "#9bb221"
+   }
+  },
+  "spider_woman_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#252b2c",
+    "background_gradient_haut": "#1e2726",
+    "inner_border_cracks_color": "#2a2b2e",
+    "middle_border_color": "#1a2424",
+    "outer_border_accent": "#458539",
+    "outer_border_color": "#1d2526",
+    "shading_color": "#2a2b2e"
+   }
+  },
+  "taskmaster": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2f2023",
+    "background_gradient_haut": "#c31c29",
+    "inner_border_cracks_color": "#eea040",
+    "middle_border_color": "#141818",
+    "outer_border_accent": "#38251f",
+    "outer_border_color": "#171b1c",
+    "shading_color": "#eea040"
+   }
+  },
+  "weap_master": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#406179",
+    "background_gradient_haut": "#8594a1",
+    "inner_border_cracks_color": "#95b0b8",
+    "middle_border_color": "#3a6d8c",
+    "outer_border_accent": "#658891",
+    "outer_border_color": "#3f6161",
+    "shading_color": "#95b0b8"
+   }
+  },
+  "zola": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#9d3737",
+    "background_gradient_haut": "#cb5d17",
+    "inner_border_cracks_color": "#653480",
+    "middle_border_color": "#2c2b30",
+    "outer_border_accent": "#84528f",
+    "outer_border_color": "#222529",
+    "shading_color": "#653480"
+   }
+  }
+ }
+}

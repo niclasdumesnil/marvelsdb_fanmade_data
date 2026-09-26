@@ -1,0 +1,137 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "hood",
+ "sets": {
+  "beasty_boys": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#476a7e",
+    "background_gradient_haut": "#82919c",
+    "inner_border_cracks_color": "#7e99a2",
+    "middle_border_color": "#213a47",
+    "outer_border_accent": "#2a3034",
+    "outer_border_color": "#232b2e",
+    "shading_color": "#7e99a2"
+   }
+  },
+  "brothers_grimm": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#476479",
+    "background_gradient_haut": "#7f8f9b",
+    "inner_border_cracks_color": "#85999d",
+    "middle_border_color": "#213845",
+    "outer_border_accent": "#282f31",
+    "outer_border_color": "#232a2d",
+    "shading_color": "#85999d"
+   }
+  },
+  "crossfire_crew": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#496579",
+    "background_gradient_haut": "#83919a",
+    "inner_border_cracks_color": "#7b939f",
+    "middle_border_color": "#213441",
+    "outer_border_accent": "#292d30",
+    "outer_border_color": "#232a2d",
+    "shading_color": "#7b939f"
+   }
+  },
+  "expert_ii": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#446373",
+    "background_gradient_haut": "#86949c",
+    "inner_border_cracks_color": "#c1d4db",
+    "middle_border_color": "#2e5c78",
+    "outer_border_accent": "#78989b",
+    "outer_border_color": "#235d7c",
+    "shading_color": "#c1d4db"
+   }
+  },
+  "mister_hyde": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#456579",
+    "background_gradient_haut": "#85949c",
+    "inner_border_cracks_color": "#59818f",
+    "middle_border_color": "#1f282a",
+    "outer_border_accent": "#313638",
+    "outer_border_color": "#20292b",
+    "shading_color": "#59818f"
+   }
+  },
+  "ransacked_armory": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#466378",
+    "background_gradient_haut": "#85929b",
+    "inner_border_cracks_color": "#4c7388",
+    "middle_border_color": "#1f2b31",
+    "outer_border_accent": "#494c4e",
+    "outer_border_color": "#21292c",
+    "shading_color": "#4c7388"
+   }
+  },
+  "sinister_syndicate": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#4b6a7b",
+    "background_gradient_haut": "#809099",
+    "inner_border_cracks_color": "#265d79",
+    "middle_border_color": "#242a2b",
+    "outer_border_accent": "#8b8d90",
+    "outer_border_color": "#242d31",
+    "shading_color": "#265d79"
+   }
+  },
+  "standard_ii": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#47687a",
+    "background_gradient_haut": "#81929c",
+    "inner_border_cracks_color": "#adbfc8",
+    "middle_border_color": "#557b8e",
+    "outer_border_accent": "#6c8f96",
+    "outer_border_color": "#2a5166",
+    "shading_color": "#adbfc8"
+   }
+  },
+  "state_of_emergency": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#486a7a",
+    "background_gradient_haut": "#81929b",
+    "inner_border_cracks_color": "#96afb9",
+    "middle_border_color": "#5a8596",
+    "outer_border_accent": "#618a93",
+    "outer_border_color": "#213d4b",
+    "shading_color": "#96afb9"
+   }
+  },
+  "the_hood": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#272d30",
+    "background_gradient_haut": "#1d2425",
+    "inner_border_cracks_color": "#955e62",
+    "middle_border_color": "#352a2e",
+    "outer_border_accent": "#2e3038",
+    "outer_border_color": "#292d31",
+    "shading_color": "#955e62"
+   }
+  }
+ }
+}

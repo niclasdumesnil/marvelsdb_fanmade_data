@@ -1,0 +1,32 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "mantis_by_bluehg",
+ "sets": {
+  "mantis_by_bluehg": {
+   "source": "nexus",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#f4e93d",
+    "head_splash_color": "#e22132",
+    "left_color": "#71b24a",
+    "left_color_light": "#75a355",
+    "right_color": "#1e2a34",
+    "right_color_light": "#32454e"
+   }
+  },
+  "mantis_by_bluehg_nemesis": {
+   "source": "nexus",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#102611",
+    "background_gradient_haut": "#599062",
+    "inner_border_cracks_color": "#304425",
+    "middle_border_color": "#fcf2a6",
+    "outer_border_accent": "#9d702e",
+    "outer_border_color": "#815b21",
+    "shading_color": "#8e968f"
+   }
+  }
+ }
+}

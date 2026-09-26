@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "jubilee",
+ "sets": {
+  "arcade": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#3a6782",
+    "background_gradient_haut": "#8999a8",
+    "inner_border_cracks_color": "#8da9ae",
+    "middle_border_color": "#192125",
+    "outer_border_accent": "#272f30",
+    "outer_border_color": "#1b2225",
+    "shading_color": "#8da9ae"
+   }
+  },
+  "jubilee": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#cc1980",
+    "head_splash_color": "#b387a6",
+    "left_color": "#2a335c",
+    "left_color_light": "#3d3381",
+    "light_boxes": "#b7b4b4",
+    "right_color": "#ebca05",
+    "right_color_light": "#f2dd57"
+   }
+  },
+  "jubilee_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#6b2e43",
+    "background_gradient_haut": "#91222a",
+    "inner_border_cracks_color": "#85969d",
+    "middle_border_color": "#232d2e",
+    "outer_border_accent": "#2f2f33",
+    "outer_border_color": "#212a2c",
+    "shading_color": "#85969d"
+   }
+  }
+ }
+}

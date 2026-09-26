@@ -1,0 +1,15 @@
+{
+ "schema": "mccompo/headshots",
+ "version_schema": 1,
+ "pack": "alpha_flight_by_designhacker",
+ "sets": {
+  "guardian_by_designhacker": {
+   "image": "alpha_flight_by_designhacker/guardian_by_designhacker.png",
+   "zoom": 1.85,
+   "x": 1290.3,
+   "y": 1887.25,
+   "source": "nexus",
+   "modifie_le": "2026-09-26"
+  }
+ }
+}

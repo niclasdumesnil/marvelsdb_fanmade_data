@@ -1,0 +1,20 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "tt",
+ "sets": {
+  "trickster_magic": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#355870",
+    "background_gradient_haut": "#7a8995",
+    "inner_border_cracks_color": "#53828c",
+    "middle_border_color": "#1b262b",
+    "outer_border_accent": "#205276",
+    "outer_border_color": "#1a2124",
+    "shading_color": "#53828c"
+   }
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "iceman",
+ "sets": {
+  "iceman": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#d6d0d2",
+    "head_splash_color": "#90a8b7",
+    "left_color": "#aac7e2",
+    "left_color_light": "#e1dfe3",
+    "light_boxes": "#b7b6b8",
+    "right_color": "#93bec5",
+    "right_color_light": "#e1e0e4"
+   }
+  },
+  "iceman_nemesis": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#b1323f",
+    "background_gradient_haut": "#df3225",
+    "inner_border_cracks_color": "#e4cb15",
+    "middle_border_color": "#312d2b",
+    "outer_border_accent": "#6b3331",
+    "outer_border_color": "#282c2b",
+    "shading_color": "#e4cb15"
+   }
+  },
+  "sauron": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#506e82",
+    "background_gradient_haut": "#919fa9",
+    "inner_border_cracks_color": "#6f959b",
+    "middle_border_color": "#242b2c",
+    "outer_border_accent": "#3b6880",
+    "outer_border_color": "#262c2c",
+    "shading_color": "#6f959b"
+   }
+  }
+ }
+}

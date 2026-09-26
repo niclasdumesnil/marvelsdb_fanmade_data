@@ -1,0 +1,306 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "cw",
+ "sets": {
+  "atlanteans": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2c3141",
+    "background_gradient_haut": "#2c3882",
+    "inner_border_cracks_color": "#d9343c",
+    "middle_border_color": "#242e42",
+    "outer_border_accent": "#26293e",
+    "outer_border_color": "#1f2429",
+    "shading_color": "#d9343c"
+   }
+  },
+  "cape_killer": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2b292a",
+    "background_gradient_haut": "#b11628",
+    "inner_border_cracks_color": "#d8a34f",
+    "middle_border_color": "#272621",
+    "outer_border_accent": "#252627",
+    "outer_border_color": "#1a2020",
+    "shading_color": "#d8a34f"
+   }
+  },
+  "captain_america_leader": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2d334a",
+    "background_gradient_haut": "#303481",
+    "inner_border_cracks_color": "#db4c4c",
+    "middle_border_color": "#1c1f26",
+    "outer_border_accent": "#27252b",
+    "outer_border_color": "#1b1f1f",
+    "shading_color": "#db4c4c"
+   }
+  },
+  "captain_marvel_leader": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#322829",
+    "background_gradient_haut": "#ae1329",
+    "inner_border_cracks_color": "#e0a843",
+    "middle_border_color": "#3b2f22",
+    "outer_border_accent": "#3b3026",
+    "outer_border_color": "#202320",
+    "shading_color": "#e0a843"
+   }
+  },
+  "cloak_and_dagger_modular": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#293248",
+    "background_gradient_haut": "#293885",
+    "inner_border_cracks_color": "#d6303b",
+    "middle_border_color": "#2a3469",
+    "outer_border_accent": "#282a3c",
+    "outer_border_color": "#232837",
+    "shading_color": "#d6303b"
+   }
+  },
+  "dangerous_recruits": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#282726",
+    "background_gradient_haut": "#ab1926",
+    "inner_border_cracks_color": "#e3a41a",
+    "middle_border_color": "#3e2f22",
+    "outer_border_accent": "#4b3624",
+    "outer_border_color": "#2a2722",
+    "shading_color": "#e3a41a"
+   }
+  },
+  "defenders": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2c3141",
+    "background_gradient_haut": "#313983",
+    "inner_border_cracks_color": "#d7333a",
+    "middle_border_color": "#1f242b",
+    "outer_border_accent": "#2a2b3b",
+    "outer_border_color": "#1e2123",
+    "shading_color": "#d7333a"
+   }
+  },
+  "hells_kitchen": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#292f3f",
+    "background_gradient_haut": "#2d3986",
+    "inner_border_cracks_color": "#d22e3a",
+    "middle_border_color": "#242947",
+    "outer_border_accent": "#292e46",
+    "outer_border_color": "#212435",
+    "shading_color": "#d22e3a"
+   }
+  },
+  "heroes_for_hire": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#36292b",
+    "background_gradient_haut": "#b41424",
+    "inner_border_cracks_color": "#e0a749",
+    "middle_border_color": "#1e201f",
+    "outer_border_accent": "#352e27",
+    "outer_border_color": "#1d201f",
+    "shading_color": "#e0a749"
+   }
+  },
+  "hulkling": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#bb8811",
+    "head_splash_color": "#668630",
+    "left_color": "#448c36",
+    "left_color_light": "#c9c7c9",
+    "light_boxes": "#c6c2c9",
+    "right_color": "#1d2221",
+    "right_color_light": "#a4a4a5"
+   }
+  },
+  "iron_man_leader": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#322829",
+    "background_gradient_haut": "#ae1329",
+    "inner_border_cracks_color": "#e0a843",
+    "middle_border_color": "#3b2f22",
+    "outer_border_accent": "#3b3026",
+    "outer_border_color": "#202320",
+    "shading_color": "#e0a843"
+   }
+  },
+  "maria_hill_modular": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2a2827",
+    "background_gradient_haut": "#af1b27",
+    "inner_border_cracks_color": "#e1a724",
+    "middle_border_color": "#463221",
+    "outer_border_accent": "#3b3127",
+    "outer_border_color": "#292621",
+    "shading_color": "#e1a724"
+   }
+  },
+  "martial_law": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#282729",
+    "background_gradient_haut": "#b61625",
+    "inner_border_cracks_color": "#d3a046",
+    "middle_border_color": "#191d1e",
+    "outer_border_accent": "#222425",
+    "outer_border_color": "#181e1f",
+    "shading_color": "#d3a046"
+   }
+  },
+  "mighty_avengers": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2e2a2a",
+    "background_gradient_haut": "#b11626",
+    "inner_border_cracks_color": "#e5ad34",
+    "middle_border_color": "#1e2121",
+    "outer_border_accent": "#3c3228",
+    "outer_border_color": "#1e2222",
+    "shading_color": "#e5ad34"
+   }
+  },
+  "namor_modular": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2c2e44",
+    "background_gradient_haut": "#2d3483",
+    "inner_border_cracks_color": "#db4c4c",
+    "middle_border_color": "#2a2a4e",
+    "outer_border_accent": "#28242c",
+    "outer_border_color": "#1d1f21",
+    "shading_color": "#db4c4c"
+   }
+  },
+  "new_avengers": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#262f4a",
+    "background_gradient_haut": "#2e3885",
+    "inner_border_cracks_color": "#d84246",
+    "middle_border_color": "#1b202c",
+    "outer_border_accent": "#262734",
+    "outer_border_color": "#181e20",
+    "shading_color": "#d84246"
+   }
+  },
+  "paladin": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#322829",
+    "background_gradient_haut": "#ae1329",
+    "inner_border_cracks_color": "#e0a843",
+    "middle_border_color": "#3b2f22",
+    "outer_border_accent": "#3b3026",
+    "outer_border_color": "#202320",
+    "shading_color": "#e0a843"
+   }
+  },
+  "registration": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#322829",
+    "background_gradient_haut": "#ae1329",
+    "inner_border_cracks_color": "#e0a843",
+    "middle_border_color": "#3b2f22",
+    "outer_border_accent": "#3b3026",
+    "outer_border_color": "#202320",
+    "shading_color": "#e0a843"
+   }
+  },
+  "resistance": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2d334a",
+    "background_gradient_haut": "#303481",
+    "inner_border_cracks_color": "#db4c4c",
+    "middle_border_color": "#1c1f26",
+    "outer_border_accent": "#27252b",
+    "outer_border_color": "#1b1f1f",
+    "shading_color": "#db4c4c"
+   }
+  },
+  "secret_avengers": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2e354d",
+    "background_gradient_haut": "#2e3381",
+    "inner_border_cracks_color": "#dc5c56",
+    "middle_border_color": "#1b1f23",
+    "outer_border_accent": "#26242a",
+    "outer_border_color": "#1b1f20",
+    "shading_color": "#dc5c56"
+   }
+  },
+  "spider_woman_leader": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2d334a",
+    "background_gradient_haut": "#303481",
+    "inner_border_cracks_color": "#db4c4c",
+    "middle_border_color": "#1c1f26",
+    "outer_border_accent": "#27252b",
+    "outer_border_color": "#1b1f1f",
+    "shading_color": "#db4c4c"
+   }
+  },
+  "the_initiative": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2c2727",
+    "background_gradient_haut": "#b01a29",
+    "inner_border_cracks_color": "#e4a61b",
+    "middle_border_color": "#262420",
+    "outer_border_accent": "#493929",
+    "outer_border_color": "#1c201f",
+    "shading_color": "#e4a61b"
+   }
+  },
+  "tigra": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "color_divider": "#1b1d1a",
+    "head_splash_color": "#acaf96",
+    "left_color": "#dc750a",
+    "left_color_light": "#967a53",
+    "light_boxes": "#aba9ae",
+    "right_color": "#ae2d25",
+    "right_color_light": "#a75135"
+   }
+  }
+ }
+}

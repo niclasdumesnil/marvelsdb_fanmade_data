@@ -1,0 +1,72 @@
+{
+ "schema": "mccompo/palettes",
+ "version_schema": 1,
+ "pack": "twc",
+ "sets": {
+  "bulldozer": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#a36733",
+    "background_gradient_haut": "#d6a10f",
+    "inner_border_cracks_color": "#5c5d76",
+    "middle_border_color": "#232a2e",
+    "outer_border_accent": "#6f7285",
+    "outer_border_color": "#21262a",
+    "shading_color": "#5c5d76"
+   }
+  },
+  "piledriver": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#907a7d",
+    "background_gradient_haut": "#c4b9b7",
+    "inner_border_cracks_color": "#a42133",
+    "middle_border_color": "#431f29",
+    "outer_border_accent": "#aa2231",
+    "outer_border_color": "#2d2128",
+    "shading_color": "#a42133"
+   }
+  },
+  "thunderball": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#24604b",
+    "background_gradient_haut": "#2e7e43",
+    "inner_border_cracks_color": "#b88f27",
+    "middle_border_color": "#766219",
+    "outer_border_accent": "#a17e1c",
+    "outer_border_color": "#353621",
+    "shading_color": "#b88f27"
+   }
+  },
+  "wrecker": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#2a4244",
+    "background_gradient_haut": "#1f5b43",
+    "inner_border_cracks_color": "#6a286e",
+    "middle_border_color": "#302538",
+    "outer_border_accent": "#5d3164",
+    "outer_border_color": "#26272e",
+    "shading_color": "#6a286e"
+   }
+  },
+  "wrecking_crew": {
+   "source": "officiel",
+   "modifie_le": "2026-09-26",
+   "roles": {
+    "background_gradient": "#406577",
+    "background_gradient_haut": "#7f949f",
+    "inner_border_cracks_color": "#8aa09f",
+    "middle_border_color": "#21323a",
+    "outer_border_accent": "#2d3435",
+    "outer_border_color": "#242c2e",
+    "shading_color": "#8aa09f"
+   }
+  }
+ }
+}
