@@ -137,6 +137,26 @@
         "type_code": "event"
     },
     {
+        "code": "63010",
+        "cost": 1,
+        "deck_limit": 1,
+        "faction_code": "hero",
+        "flavor": "\"Arise once again as a mighty servant of the Hand!\" -Hand Sorcerer",
+        "illustrator": "Bruno Frenda",
+        "is_unique": true,
+        "name": "Resurrection Altar",
+        "octgn_id": "e67e1207-3c6e-4bd1-8711-925324063010",
+        "pack_code": "elektra_by_ffg",
+        "position": 10,
+        "quantity": 1,
+        "resource_mental": 1,
+        "set_code": "elektra_by_ffg",
+        "set_position": 10,
+        "text": "<b>Interrupt</b>: When you would be defeated, remove this card from the game → set your hit point dial to 9 instead. Find your obligation and reveal it.",
+        "traits": "Hand. Location.",
+        "type_code": "support"
+    },
+    {
         "code": "63012",
         "cost": 2,
         "deck_limit": 1,
