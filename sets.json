@@ -1905,17 +1905,21 @@
     {
         "card_set_type_code": "hero",
         "code": "elektra_by_ffg",
-        "name": "Elektra"
+        "name": "Elektra",
+        "status": "beta"
     },
     {
         "card_set_type_code": "hero_special",
         "code": "ninja_by_ffg",
-        "name": "Ninja"
+        "name": "Ninja",
+        "parent_code": "elektra_by_ffg",
+        "status": "beta"
     },
     {
         "card_set_type_code": "nemesis",
         "code": "elektra_nemesis_by_ffg",
-        "name": "Elektra Nemesis"
+        "name": "Elektra Nemesis",
+        "status": "beta"
     },
     {
         "card_set_type_code": "hero_special",
@@ -2034,7 +2038,8 @@
     {
         "card_set_type_code": "hero",
         "code": "iron_fist",
-        "name": "Iron Fist"
+        "name": "Iron Fist",
+        "status": "beta"
     },
     {
         "card_set_type_code": "nemesis",

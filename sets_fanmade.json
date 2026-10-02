@@ -150,12 +150,14 @@
         "card_set_type_code": "nemesis",
         "code": "iron_fist_by_merlin_nemesis",
         "name": "Iron Fist Nemesis",
-        "parent_code": "iron_fist_by_merlin"
+        "parent_code": "iron_fist_by_merlin",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero",
         "code": "iron_fist_by_merlin",
-        "name": "Iron Fist"
+        "name": "Iron Fist",
+        "status": "released"
     },
     {
         "card_set_type_code": "hero",
