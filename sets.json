@@ -1913,6 +1913,11 @@
         "name": "Ninja"
     },
     {
+        "card_set_type_code": "nemesis",
+        "code": "elektra_nemesis_by_ffg",
+        "name": "Elektra Nemesis"
+    },
+    {
         "card_set_type_code": "hero_special",
         "code": "thor_narrative",
         "name": "Thor Narrative",
@@ -2030,5 +2035,10 @@
         "card_set_type_code": "hero",
         "code": "iron_fist",
         "name": "Iron Fist"
+    },
+    {
+        "card_set_type_code": "nemesis",
+        "code": "iron_fist_nemesis",
+        "name": "Iron Fist Nemesis"
     }
 ]
