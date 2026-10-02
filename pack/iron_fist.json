@@ -303,22 +303,15 @@
         "type_code": "ally"
     },
     {
+        "alt_art": true,
         "code": "64015",
-        "cost": 0,
         "deck_limit": 3,
-        "duplicate_of_name": "",
-        "faction_code": "protection",
+        "duplicate_of": "26018",
         "flavor": "“No.” –Shang-Chi",
-        "is_unique": false,
-        "name": "Defiance",
         "octgn_id": "885ca719-9169-4a7d-8385-326132064015",
         "pack_code": "iron_fist",
         "position": 15,
-        "quantity": 3,
-        "resource_energy": 1,
-        "text": "<b>Hero Interrupt</b> (<i>defense</i>): When a boost card on an enemy attacking you would be turned faceup, discard it instead.",
-        "traits": "Defense.",
-        "type_code": "event"
+        "quantity": 3
     },
     {
         "code": "64016",
@@ -339,21 +332,14 @@
         "type_code": "event"
     },
     {
+        "alt_art": true,
         "code": "64017",
-        "cost": 1,
         "deck_limit": 1,
-        "duplicate_of_name": "",
-        "faction_code": "protection",
-        "is_unique": true,
-        "name": "The Night Nurse",
+        "duplicate_of": "09019",
         "octgn_id": "885ca719-9169-4a7d-8385-326132064017",
         "pack_code": "iron_fist",
         "position": 17,
-        "quantity": 1,
-        "resource_mental": 1,
-        "text": "Uses (3 medical counters).\n<b>Action</b>: Exhaust The Night Nurse and remove 1 medical counter from her → heal 1 damage from a hero and discard 1 status card from it.",
-        "traits": "Persona.",
-        "type_code": "support"
+        "quantity": 1
     },
     {
         "code": "64018",
@@ -375,6 +361,7 @@
     {
         "code": "64019",
         "cost": 2,
+        "cost_star": true,
         "deck_limit": 3,
         "duplicate_of_name": "",
         "faction_code": "protection",
@@ -457,6 +444,7 @@
     {
         "code": "64023",
         "cost": 1,
+        "cost_star": true,
         "deck_limit": 3,
         "duplicate_of_name": "",
         "faction_code": "basic",
@@ -502,6 +490,7 @@
     {
         "code": "64030",
         "cost": 2,
+        "cost_star": true,
         "deck_limit": 3,
         "duplicate_of_name": "",
         "faction_code": "aggression",
@@ -537,6 +526,7 @@
     {
         "code": "64032",
         "cost": 2,
+        "cost_star": true,
         "deck_limit": 3,
         "duplicate_of_name": "",
         "faction_code": "leadership",
@@ -550,5 +540,19 @@
         "text": "[star] Discount 2 ([[Martial Artist]]).\n\nMax 1 per player.\n\nEach [[Martial Artist]] ally you control takes -2 consequential damage ([cost]) after they exactly defeat an enemy or side scheme.",
         "traits": "Title.",
         "type_code": "upgrade"
+    },
+    {
+        "code": "64033",
+        "deck_limit": 3,
+        "duplicate_of_name": "",
+        "faction_code": "basic",
+        "is_unique": false,
+        "name": "The Defenders",
+        "octgn_id": "885ca719-9169-4a7d-8385-326132064033",
+        "pack_code": "iron_fist",
+        "position": 33,
+        "quantity": 3,
+        "text": "This card generates a [physical] resource for each [[Defender]] character you control (to a maximum of 4) and can be spent for another player whose identity has the [[Defender]] trait.",
+        "type_code": "resource"
     }
 ]
